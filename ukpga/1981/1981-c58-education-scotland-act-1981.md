@@ -1,0 +1,1452 @@
+---
+title: "Education (Scotland) Act 1981"
+identifier: "ukpga/1981/58"
+citation: "1981 c. 58"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "S"
+date: 1981-10-30
+last_amended: 2012-04-02
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1981/58"
+source_modified: 2024-04-02
+retrieved: 2026-10-11
+---
+
+# Education (Scotland) Act 1981
+
+**1981 c. 58**
+
+An Act to amend the law relating to education in Scotland; to amend the Teaching Council (Scotland) Act 1965; and to transfer to the respective University Courts the power of appointing the Principals of the Universities of
+
+St.
+
+Andrews, Glasgow and Aberdeen.
+
+[30th October 1981]
+
+## Placing in schools
+
+### 1 Duty of education authority to comply with parents’ requests as to schools.
+
+(1) After section 28 of the [^M1]Education (Scotland) Act 1980 (in this Act referred to as “the principal Act”) there shall be inserted the following sections—
+
+> **28A Duty to comply with parents’ requests as to schools.**
+>
+> (1) Where the parent of a child makes a written request to an education authority to place his child in the school specified in the request, being a school under their management, it shall be the duty of the authority, subject to subsections (2) and (3) below, to place the child accordingly.
+>
+> Such a request so made is referred to in this Act as a “placing request” and the school specified in it is referred to in this Act as the “specified school”.
+>
+> (2) Where a placing request relates to two or more schools under the management of the education authority to whom it was made, the duty imposed by subsection (1) above shall apply in relation to the first mentioned such school, which shall be treated for the purposes of this Act as the specified school.
+>
+> (3) The duty imposed by subsection (1) above does not apply—
+>
+> (a) if placing the child in the specified school would—
+>
+> (i) make it necessary for the authority to take an additional teacher into employment;
+>
+> (ii) give rise to significant expenditure on extending or otherwise altering the accommodation at or facilities provided in connection with the school;
+>
+> (iii) be seriously detrimental to the continuity of the child’s education; or
+>
+> (iv) be likely to be seriously detrimental to order and discipline in the school or the educational well-being of the pupils there;
+>
+> (b) if the education normally provided at the specified school is not suited to the age, ability or aptitude of the child;
+>
+> (c) if the education authority have already required the child to discontinue his attendance at the specified school;
+>
+> (d) if, where the specified school is a special school, the child does not have special educational needs requiring the education or special facilities normally provided at that school; or
+>
+> (e) if the specified school is a single sex school (within the meaning given to that expression by section 26 of the Sex Discrimination Act 1975) and the child is not of the sex admitted or taken (under that section) to be admitted to the school,
+>
+> but an education authority may place a child in the specified school notwithstanding paragraphs (a) to (e) above.
+>
+> (4) An education authority shall inform a parent in writing of their decision on his placing request and, where they decide to refuse it, shall give him written reasons for their decision and inform him of his right to refer it under section 28C of this Act to an appeal committee.
+>
+> (5) The Secretary of State may, by regulations, make provision for deeming an education authority to have refused a placing request in the event of their not having informed the parent in writing of their decision on it in accordance with subsection (4) above within such period or before such date as may be prescribed in the regulations and different periods or dates may be so prescribed for different purposes.
+>
+> **28B Information as to placing in schools and other matters.**
+>
+> (1) Every education authority shall—
+>
+> (a) publish or otherwise make available information as to—
+>
+> (i) their arrangements for the placing of children in schools under their management;
+>
+> (ii) such matters as may be prescribed by regulations;
+>
+> (iii) such other matters as the authority consider necessary or expedient for the purposes of their functions under this Act;
+>
+> (b) where a child falls, in accordance with those arrangements, to be placed in a school under their management—
+>
+> (i) in a case where the authority propose to place the child in a particular school, inform his parent of the school; and
+>
+> (ii) in every case, subject to subsection (4) below, inform the parent of the general effect of section 28A (1) and (2) of this Act and of his right to make a placing request;
+>
+> (c) in making arrangements for the performance of their functions under this Act, formulate guidelines to be followed by them as respects placing in schools generally or, if they think it necessary, in any particular school in the event of there being more placing requests made in respect of certain schools or, as the case may be, that school or in respect of any stage or stages of school education provided there than there are places available;
+>
+> (d) on a request to that effect made to them at any time by a parent of a child, supply the parent with any prescribed or determined information about any school under their management.
+>
+> In paragraph (d) above, “prescribed or determined information” means information prescribed or determined under subsection (3)(c) below.
+>
+> (2) An education authority shall, in performing the duties imposed on them by subsection (1) above, comply with any regulations made under subsection (3) below.
+>
+> (3) The Secretary of State may by regulations prescribe or make provision for the determining of—
+>
+> (a) the procedure in accordance with which education authorities are to perform the duties imposed on them by subsection (1) above and when they are to do so;
+>
+> (b) how education authorities are to go about publishing or otherwise making available information under subsection (1) above or informing parents under that subsection;
+>
+> (c) the kind of information which is to be so published or which is to comprise the information so made available or supplied to parents.
+>
+> (4) The duty imposed by subsection (1)(b)(ii) above arises only when the existence of the child and the fact that he falls to be placed in a school under their management are known to the education authority.
+>
+> **28C Reference to appeal committee of refusal of placing request.**
+>
+> (1) Subject to subsections (2) and (3) below, a parent who has made a placing request may refer a decision of the education authority refusing his request to an appeal committee set up under section 28D of this Act.
+>
+> (2) Subsection (1) above does not apply to a decision of an education authority in respect of the placing of a child in a nursery school or nursery class.
+>
+> (3) Where a reference under this section has been made in respect of a child, no further such reference in respect of the child shall be competent during the period of 12 months beginning with the day on which the immediately preceding such reference was lodged.
+>
+> (4) A reference under this section shall be lodged with the appeal committee within 28 days of the receipt by the parent of the decision of the education authority (which, if posted, shall, unless the contrary is proved, be presumed to have been received on the day after the date on which it was posted except that a decision posted on a Friday or Saturday shall, unless the contrary is proved, be presumed to have been received on the Monday next following), but the committee shall, on good cause being shown, have power to hear such a reference notwithstanding that it was not lodged within that time.
+>
+> **28D Appeal committees.**
+>
+> (1) Every education authority shall—
+>
+> (a) set up and maintain such number of appeal committees; and
+>
+> (b) make such other arrangements
+>
+> as are necessary to enable references to be made under sections 28C, 28E(6), 28F(7), 28H and 63 of this Act and heard by the committees.
+>
+> (2) An appeal committee set up under subsection (1) above shall be constituted in accordance with Schedule Al to this Act.
+>
+> (3) The Secretary of State may by regulations make provision for procedure in relation to references under section 28C of this Act and regulations made under this subsection may include provision—
+>
+> (a) requiring the education authority to make information relevant to their decision available to the committee and to the parent referring that decision to the committee;
+>
+> (b) deeming, for the purposes of this Act, an appeal committee to have confirmed the decision of an education authority on a placing request in the event of the committee’s not having complied with section 28E(3) of this Act within such period or before such date as may be prescribed in the regulations and different periods or dates may be so prescribed for different purposes;
+>
+> (c) ancillary to or consequential upon provision made under paragraphs (a) and (b) above.
+>
+> **28E Appeal committees: supplementary provisions.**
+>
+> (1) An appeal committee may, on a reference under section 28C of this Act, confirm the education authority’s decision if they are satisfied—
+>
+> (a) that one or more of the grounds of refusal specified in section 28A(3) of this Act exists or exist; and
+>
+> (b) that, in all the circumstances, it is appropriate to do so
+>
+> but otherwise shall refuse to confirm the authority’s decision and shall, where they so refuse, require the education authority to place the child to whom the reference relates in the specified school.
+>
+> (2) Where, in considering a reference under section 28C of this Act of a decision to refuse a placing request where the specified school is a special school, an appeal committee refuse to confirm the decision, they shall have power, if the education authority have decided not to record the child to whom the reference relates, to require the education authority to reconsider their decision not to record him.
+>
+> (3) An appeal committee shall notify their decision under this section and the reasons for it in writing to the parent who made the reference and to the education authority and, where they confirm the authority’s decision, they shall inform the parent of his right of appeal to the sheriff under section 28F of this Act.
+>
+> (4) Where, on a reference under section 28C of this Act, an appeal committee refuse to confirm an education authority’s decision, the authority shall give effect to the placing request to which the reference relates.
+>
+> (5) Where a decision of an appeal committee under this section is inconsistent with any decision of the education authority refusing a placing request to place another child at the same time and at the same stage of education and in the same school as that at and in which the child to whom the appeal committee’s decision relates is to be placed, the education authority shall review their decision so to refuse and shall inform the parent of the other child in writing of their decision upon that review and the reasons for it.
+>
+> (6) The decision of an education authority upon a review under subsection (5) above not to reverse their decision to refuse the placing request in respect of the other child may be referred to an appeal committee by the parent of the other child as if the decision upon the review were a decision refusing his placing request and the provisions of this Act relating to references of decisions upon placing requests and appeals therefrom (including those relating to appeal committees) shall apply accordingly.
+>
+> (7) In paragraph 36 of Schedule 1 to the Tribunals and Inquiries Act 1971 (tribunals under direct supervision of the Scottish Committee of the Council on Tribunals) after “36” there shall be inserted “(a)” and at the end there shall be inserted—
+>
+> (b) “appeal committees set up under section 28D of the Education (Scotland) Act 1980 (c. 44).”.
+>
+> (8) In section 23 of the Local Government (Scotland) Act 1975 (authorities subject to investigation by Local Commissioner), at the end of subsection (2), there shall be inserted the following paragraph—
+>
+> (f) “any appeal committee set up under section 28D of the Education (Scotland) Act 1980.”.
+>
+> **28F Appeal to sheriff from appeal committee.**
+>
+> (1) A parent who has made a reference under section 28C of this Act may appeal to the sheriff having jurisdiction where the specified school is situated against the decision of an appeal committee on that reference.
+>
+> (2) The education authority may, but the appeal committee shall not, be a party to an appeal under this section.
+>
+> (3) An appeal under this section—
+>
+> (a) shall be made by way of summary application;
+>
+> (b) shall be lodged with the sheriff clerk within 28 days from the date of receipt of the decision of the appeal committee (which, if posted, shall, unless the contrary is proved, be presumed to have been received on the day after the date on which it was posted, except that a decision posted on a Friday or Saturday shall, unless the contrary is proved, be presumed to have been received on the Monday next following); and
+>
+> (c) shall be heard in chambers.
+>
+> (4) On good cause being shown, the sheriff may hear an appeal under this section notwithstanding that it was not lodged within the time mentioned in subsection (3) above.
+>
+> (5) The sheriff may on an appeal under this section confirm the education authority’s decision if he is satisfied—
+>
+> (a) that one or more of the grounds of refusal specified in section 28A(3) of this Act exists or exist; and
+>
+> (b) that, in all the circumstances, it is appropriate to do so
+>
+> but shall otherwise refuse to confirm their decision and shall, where he so refuses, require the authority to give effect to the placing request to which the appeal relates.
+>
+> (6) Where the judgment of the sheriff on an appeal under this section is inconsistent with any decision of the education authority (whether confirmed by the appeal committee or not) refusing a placing request to place another child at the same time and at the same stage of education and in the same school as that at and in which the child to whom the judgment relates is to be placed, the education authority shall review their decision so to refuse and shall inform the parent of the other child of their decision upon that review and the reasons for it.
+>
+> (7) The decision of an education authority upon a review under subsection (6) above not to reverse their decision to refuse the placing request in respect of the other child may be referred to an appeal committee by the parent of the other child as if the decision upon the review were a decision refusing his placing request and the provisions of this Act relating to references of decisions upon placing requests and appeals therefrom (including those relating to appeal committees) shall apply accordingly.
+>
+> (8) The sheriff may make such order as to the expenses of an appeal under this section as he thinks proper.
+>
+> (9) The judgment of the sheriff on an appeal under this section shall be final.
+>
+> **28G Applications of sections 28A to 28F and Schedule A1 to young persons.**
+>
+> —Sections 28A to 28F of this Act and Schedule Al to this Act shall apply in relation to a young person who is a pupil and in that application references in those sections to the parent of a child as well as references to the child himself shall be construed as references to the young person.
+>
+> **28H Reference to appeal committee, and appeal therefrom of decision to exclude pupil.**
+>
+> (1) Where an education authority decide to exclude a pupil from a school under their management which he attends, the parent of the pupil or, where the pupil is a young person, the pupil may refer the decision to an appeal committee set up under section 28D of this Act.
+>
+> (2) An appeal committee may, on a reference under this section, confirm or annul the decision of the education authority excluding the pupil and, in confirming a decision of the authority to exclude a pupil until certain conditions stipulated by them are complied with, the committee may modify the conditions.
+>
+> (3) The decision of an appeal committee on a reference under this section and the reasons for it shall be notified by the committee in writing to the parent or, as the case may be, the pupil making the reference and to the education authority.
+>
+> (4) A decision of an appeal committee on a reference under this section annulling a decision of an education authority or modifying the conditions subject to which an education authority have excluded a pupil from a school shall be complied with by the authority.
+>
+> (5) The Secretary of State may by regulations make provision for procedure in relation to references under this section and regulations made under this subsection may include provision—
+>
+> (a) requiring the education authority to make information relevant to their decision available to the appeal committee and to the parent or, as the case may be, pupil referring that decision to the committee;
+>
+> (b) deeming, for the purposes of this Act, an appeal committee to have confirmed the education authority’s decision to exclude a pupil from a school under their management which he attends in the event of the appeal committee’s not having complied with subsection (3) above within such period as may be prescribed in the regulations and different periods may be so prescribed for different purposes.
+>
+> (6) The decision of an appeal committee confirming an education authority’s decision to exclude a pupil or modifying conditions under subsection (2) above may he appealed against by the parent of the pupil or, where the pupil is a young person, the pupil to the sheriff having jurisdiction where the school from which the pupil has been excluded is situated, and subsections (2), (3), (4), (8) and (9) of section 28F of this Act shall apply to an appeal under this subsection.
+>
+> (7) The sheriff may, on an appeal under subsection (6) above, confirm or annul the decision of the education authority excluding the pupil and, in confirming a decision excluding the pupil until certain conditions stipulated by them are complied with, he may modify the conditions.
+
+.
+
+(2) Before Schedule 1 to the principal Act there shall be inserted the Schedule set out in Schedule 1 to this Act which shall form Schedule Al to that Act.
+
+(3) In section 28 of the principal Act, subsection (2) (selection of courses of secondary education) shall cease to have effect.
+
+(4) In section 135(1) of the principal Act (interpretation) there shall be inserted at the appropriate respective places in alphabetical order the following definitions—
+
+> - “placing request” has the meaning assigned to it by section 28A(1) of this Act;
+
+and
+
+> “specified school” has the meaning assigned to it by section 28A(1) and (2) of this Act;
+
+.
+
+### 2 Provisions supplementary to section 1.
+
+(1) In section 42 of the principal Act (reasonable excuses for non-attendance at school)—
+
+(a) in subsection (1), after the word “shall” there shall be inserted the words “,subject to subsection (1A) below,”; and
+
+(b) after subsection (1) there shall be inserted the following subsection—
+
+> (1A) Subsection (1) above shall not apply in a case where—
+>
+> (a) the education authority have, in accordance with their arrangements as published or otherwise made available under section 28B(1)(a) of this Act, proposed to place the child in a particular school or in one of a number of schools named by them and, where the particular or named school is more than walking distance from the pupil’s home measured by the nearest available route, they have offered to make for him suitable arrangements of the kind referred to in section 50 or 51 of this Act under which he would not require to walk more than walking distance, so measured, in the course of any journey between his home and the school; but
+>
+> (b) in consequence of a placing request, the child has been placed by them in a school other than a school referred to in paragraph (a) above,
+>
+> and in such a case, for the purposes of sections 35, 36,37, 41 and 44 of this Act, there shall be deemed to be a reasonable excuse if—
+>
+> (i) the child has been prevented by sickness from attending school or receiving education as the case may be; or
+>
+> (ii) there are other circumstances which in the opinion of the education authority or the court afford a reasonable excuse.
+
+.
+
+(2) In section 50 of the principal Act (education of pupils in exceptional circumstances)—
+
+(a) in subsection (1), after the word “authority”, where secondly occurring, there shall be inserted the words “, in a case where subsection (3) applies, may and, in any other case, subject to subsection (4) below,”; and
+
+(b) after subsections (2) there shall be inserted the following subsections—
+
+> (3) This subsection applies where—
+>
+> (a) the education authority have, in accordance with their arrangements as published or otherwise made available under section 28B(1)(a) of this Act, proposed to place the pupil in a particular school or in one of a number of schools named by them and have, in connection with that proposal, made or offered to make for the pupil suitable arrangements of the kind referred to in subsection (2) above; but
+>
+> (b) in consequence of a placing request, the pupil has been placed by them in a school other than a school referred to in paragraph (a) above.
+>
+> (4) The duty imposed by subsection (1)(a) or (b) above does not apply where the pupil belongs (in accordance with section 23(3) of this Act) to the area of some other education authority or of a local education authority in England and Wales.
+
+.
+
+(3) In section 51 of the principal Act (provision for transport of pupils and other facilities)—
+
+(a) in subsection (1), after the word “authority”, where it first occurs, there shall be inserted the words “, in a case to which subsection (2A) below applies, may and, in any other case, subject to subsection (2B) below”; and
+
+(b) after subsection (2) there shall be inserted the following subsections—
+
+> (2A) This subsection applies where—
+>
+> (a) the education authority have, in accordance with their arrangements as published or otherwise made available under section 28B(1)(a) of this Act, proposed to place the pupil in a particular school of in one of a number of schools named by them and, where the particular or named school is more than walking distance from the pupil’s home measured by the nearest available route, they have offered to make for him suitable arrangements of the kind referred to in subsection (1) above under which he would not require to walk more than walking distance, so measured, in the course of any journey between his home and the school; but
+>
+> (b) in consequence of a placing request, the pupil has been placed by them in a school other than a school referred to in paragraph (a) above.
+>
+> In this subsection “walking distance” has the same meaning as in section 42 of this Act.
+>
+> (2B) The duty imposed by subsection (1) above does not apply where the pupil belongs (in accordance with section 23(3) of this Act) to the area of some other education authority or of a local education authority in England and Wales.
+
+.
+
+## Special educational needs
+
+### 3 Special educational needs.
+
+[^F1]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The enactments in Part I of Schedule 2 to this Act shall have effect subject to the amendments specified there.
+
+### 4 Children and young persons with certain special educational needs.
+
+[^F2]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The enactments specified in Part II of Schedule 2 to this Act shall have effect subject to the amendments specified there.
+
+[^F3]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Assisted places scheme
+
+### 5 Assisted places at grant-aided and independent schools.
+
+(1) After section 75 of the principal Act there shall be inserted the following sections—
+
+> **75A Assisted places at grant-aided and independent schools.**
+>
+> (1) For the purpose of enabling pupils who might otherwise not be able to do so to attend and receive education at grant-aided and independent schools, the Secretary of State shall establish and operate a scheme whereby—
+>
+> (a) participating Schools remit fees that would otherwise be chargeable in respect of pupils admitted to assisted places under the scheme; and
+>
+> (b) the Secretary Of State reimburses the schools for the fees that are remitted.
+>
+> (2) In this section references to a participating school are references to any grant-aided or independent school providing secondary education which the Secretary of State determines to be a participating school for the purposes of the scheme; and in deciding whether to make such a determination in respect of any school the Secretary of State shall have regard to the desirability of securing an equitable distribution of assisted places throughout Scotland and between boys and girls.
+>
+> (3) A determination under subsection (2) above—
+>
+> (a) shall state the maximum annual amount allocated by the Secretary of State to the school under the scheme including the maximum annual amount so allocated for the purposes of section 75B of this Act; and
+>
+> (b) may contain such conditions as the Secretary of State thinks fit in addition to those prescribed under subsection (9) below.
+>
+> (4) The Secretary of State may alter the maximum annual amount referred to in subsection (3)(a) above by written notification to the school to which it is allocated.
+>
+> (5) A participating school shall comply with any conditions contained in a determination under subsection (2) above and with any condition or obligation prescribed under subsection (9) below.
+>
+> (6) Schedule 1A to this Act shall have effect with respect to the revocation of determinations.
+>
+> (7) The fees in relation to which the scheme is to have effect shall be—
+>
+> (a) tuition and other fees the payment of which is a condition of attendance at a participating school but excluding—
+>
+> (i) boarding fees; and
+>
+> (ii) such other charges, if any, as may be prescribed by regulations; and
+>
+> (b) entrance fees for public examinations paid by a participating school in respect of candidates from the school.
+>
+> (8) If the Secretary of State is of the opinion that any fee which falls to be remitted in whole or in part under a scheme established and operated under this section is excessive, he may substitute for such fee such other amount as he considers appropriate.
+>
+> (9) The Secretary of State shall by regulations prescribe—
+>
+> (a) the requirements as to age, residence or other matters which are to be the conditions of eligibility for an assisted place;
+>
+> (b) the information which participating schools, on a written request from the parent of a pupil who is eligible for an assisted place, shall supply to that parent;
+>
+> (c) the conditions subject to which, the extent to which, and the arrangements in accordance with which, fees are to be remitted by participating schools;
+>
+> (d) the time and manner in which participating schools are to claim and receive reimbursements from the Secretary of State;
+>
+> (e) conditions to be complied with by participating schools with respect to the admission of pupils to assisted places, the fees to be charged, the keeping and auditing of accounts and the furnishing of information to the Secretary of State; and
+>
+> (f) such other matters as appear to him to be requisite for the purposes of the scheme.
+>
+> (10) Regulations under subsection (9) above may authorise the Secretary of State to make provision for any purpose specified in the regulations.
+>
+> (11) Before making regulations under subsection (9) above the Secretary of State shall consult such bodies as appear to him to be appropriate and to be representative of participating schools.
+>
+> (12) Regulations made under subsection (9)(c) above shall be reviewed by the Secretary of State in consultation with such bodies as appear to him to be appropriate and to be representative of participating schools—
+>
+> (a) not later than two years after the, date on which the first such regulations are made; and
+>
+> (b) thereafter at intervals not exceeding two years.
+>
+> (13) Except where the context otherwise requires, references in this section and section 75B of this Act to a school include references to the proprietors and managers of the school; and references in this section to an independent school are references to an independent school which is—
+>
+> (a) a registered school; and
+>
+> (b) conducted only for charitable purposes within the meaning of section 122(1) of this Act.
+>
+> **75B Incidental expenses of and provision for pupils holding assisted places.**
+>
+> (1) The Secretary of State may by regulations require or enable or make provision for requiring or enabling any school participating in the scheme referred to in section 75A of this Act to make grants in respect of such expenses, including such travelling expenses, and to remit such charges, as may be specified in the regulations and to make such provision of meals or other refreshment or of facilities for the consumption of meals or other refreshment and such provision of clothing as the school making the provision considers appropriate, being expenses, charges or provision in respect of matters incidental to or arising out of the attendance at the school of pupils holding assisted places under the scheme.
+>
+> (2) Regulations made under this section may require or enable or make provision for requiring or enabling any school providing meals or other refreshment under subsection (1) above to make such charges as it thirks fit for any such meal or other refreshment except where it is provided by virtue of subsection (4) below.
+>
+> (3) Regulations under this section shall provide that, within the maximum amount stated under section 75A(3) of this Act, any amounts granted or remitted by a school and expenditure incurred by them by or under the regulations shall be reimbursed to the school by the Secretary of State.
+>
+> (4) The Secretary of State shall exercise his power to make regulations under this section so as to ensure that, in relation to any pupil whose parents are in receipt of supplementary benefit or family income supplement, such provision is made for that pupil in the middle of the day as appears to the school to be requisite.
+>
+> (5) Regulations under this section may in particular prescribe—
+>
+> (a) the conditions subject to which, the extent to which, and the arrangements in accordance with which, grants and remissions are to be made and meals, other refreshment, facilities for the consumption thereof and clothing are to be provided;
+>
+> (b) whether a charge is to be remitted in whole or in such part as may be prescribed in the regulations;
+>
+> (c) the time and manner in which schools are to claim and receive reimbursement from the Secretary of State.
+>
+> (6) Regulations under this section may authorise the Secretary of State to make provision for any purpose specified in the regulations.
+
+.
+
+(2) In section 135(1) of the principal Act in the definition of “grant-aided school”—
+
+(a) after the word “than” there shall be inserted “(a)”; and
+
+(b) after the word “Regulations,” there shall be inserted the words “and (b) sums paid under a scheme under section 75A of this Act, or by virtue of section 75B of this Act,”.
+
+(3) After Schedule 1 to the principal Act there shall be inserted the Schedule set out in Schedule 4 to this Act which shall form Schedule 1A to that Act.
+
+## Miscellaneous
+
+### 6 Consultation on, and consent for, changes in certain educational matters.
+
+After Section 22 of the principal Act there shall be inserted the following sections—
+
+> **Consultation on, and consent for, changes in certain educational matters**
+>
+> **22A Consultation on certain changes in educational matters.**
+>
+> (1) Where an education authority make a proposal of a prescribed kind, they shall, in such manner as may be prescribed, publish it or otherwise make it available and consult such persons as may be prescribed and shall not reach a decision on it without having regard to any representations made to them on it by those persons.
+>
+> (2) In this section “prescribed” means prescribed for the purposes of this section by the Secretary of State by regulations and in so prescribing kinds of proposals the Secretary of State shall include proposals to discontinue or change the site of any school under the management of an education authority.
+>
+> **22B Consent for certain changes in educational matters.**
+>
+> (1) An education authority shall submit to the Secretary of State for his consent any proposal of theirs of a prescribed kind and shall not implement such a proposal without his consent.
+>
+> (2) In this section “prescribed” means prescribed for the purposes of this section by the Secretary of State by regulations and the Secretary of State may prescribe different kinds of proposals in relation to different education authorities.
+>
+> **22C Consent for certain changes affecting denominational schools.**
+>
+> (1) An education authority shall submit to the Secretary of State for his consent any proposal of theirs to which this section applies and shall not implement such a proposal without his consent.
+>
+> (2) A proposal to which this section applies is one which—
+>
+> (a) relates to a school transferred to an education authority under section 16(1) or provided by them under section 17(2) of this Act; and
+>
+> (b) will, if implemented, have the effect that all or some of the pupils who attend the school will no longer receive school education in a school of the kind referred to in paragraph (a) above or that all or some of the children who would, but for the implementation of the proposal, have been likely to attend it will not be likely to receive such education in a school of that kind.
+>
+> (3) The Secretary of State shall not grant consent under this section unless he is satisfied that adequate arrangements have been made for the religious instruction of pupils and children who would, as a result of implementation of the proposal, no longer receive or be likely to receive school education in a school of the kind referred to in paragraph (a) of subsection (2) above.
+>
+> (4) In granting consent under this section the Secretary of State may impose such conditions as he thinks fit with regard to the religious instruction of the pupils and children referred to in paragraph (b) of subsection (2) above and to related matters and conditions imposed by the Secretary of State under this section may be revoked or amended by him at any time.
+>
+> (5) Any question which may arise—
+>
+> (a) whether a proposal is one to which this section applies;
+>
+> (b) as to the implementation of a proposal to which the Secretary of State has consented under this section;
+>
+> (c) as to the fulfilment or observation of any conditions upon his consent imposed under subsection (4) above
+>
+> shall be determined by the Secretary of State and the education authority shall perform their duties under this Act in accordance with any such determination.
+>
+> (6) In this section, the reference to section 16(1) or 17(2) of this Act shall include a reference to the corresponding provision of the Act of 1918, the Act of 1946 and the Act of 1962.
+>
+> **22D Further provisions relating to denominational schools.**
+>
+> (1) An education authority shall submit to the Secretary of State for his consent any proposal of theirs to which this section applies and shall not implement such a proposal without his consent.
+>
+> (2) A proposal to which this section applies is one—
+>
+> (a) which relates to a school transferred to the education authority under section 16(1) or provided by them under section 17(2) of this Act;
+>
+> (b) to—
+>
+> (i) discontinue the school or a part of it;
+>
+> (ii) amalgamate the school or a part of it with another school;
+>
+> (iii) change the site of the school;
+>
+> (iv) change the arrangements for admission to the school; or
+>
+> (v) disapply to the school the conditions prescribed in subsections (1) to (4) of section 21 of this Act or in the said subsections so far as applicable and having effect by virtue of subsection (5) of that section; and
+>
+> (c) in relation to which the Secretary of State, having consulted the education authority, is satisfied, upon written representations made, in the case of any church or denominational body in whose interest the school is conducted other than the Roman Catholic Church, by a person authorised for that purpose by that church or denominational body and, in the case of the Roman Catholic Church, by the Scottish Hierarchy of that Church, that—
+>
+> (i) if implemented, it will have the result specified in subsection (3) below; and
+>
+> (ii) the education authority and the church, denominational body or Hierarchy, as the case may be, have, after discussion, failed to reach agreement that it should be implemented.
+>
+> (3) The result referred to in subsection (2)(c)(i) above is a significant deterioration in the position, as regards either of the matters specified in subsection (4) below, of schools of the kind referred to in subsection (2)(a) above compared with that of other schools managed by the education authority.
+>
+> (4) The matters referred to in subsection (3) above are the distribution and provision of school education (including the provision of accommodation).
+>
+> (5) The Secretary of State shall not grant consent under this section in relation to a school unless he is satisfied that adequate arrangements have been made for the religious instruction of the children who will no longer receive or be likely to receive school education in a school of the kind referred to in subsection (2)(a) above.
+>
+> (6) In granting consent under this section in relation to a school the Secretary of State may impose such conditions as he thinks fit with regard to the religious instruction of the children who will no longer receive or be likely to receive school education in a school of the kind referred to in subsection (2)(a) above and to related matters and, in doing so, he shall have regard to the duties imposed by section 21 of this Act on education authorities in relation to schools of that kind, and conditions imposed by the Secretary of State under this section may be revoked or amended by him at any time.
+>
+> (7) Any question which may arise—
+>
+> (a) whether a proposal is one to which this section applies;
+>
+> (b) as to the implementation of a proposal to which the Secretary of State has consented under this section;
+>
+> (c) as to the fulfilment or observation of any conditions upon his consent imposed under subsection (6) above
+>
+> shall be determined by the Secretary of State and the education authority shall perform their duties under this Act in accordance with any such determination.
+>
+> (8) In this section the reference to section 16(1) or 17(2) of this Act shall include a reference to the corresponding provision of the Act of 1918, the Act of 1946 and the Act of 1962.
+
+.
+
+### 7 Removal of certain controls in connection with denominational schools.
+
+(1) For subsection (2) of section 17 of the principal Act (power of education authority to provide new denominational school when Secretary of State is satisfied that one is required) there shall be substituted the following subsection—
+
+> (2) In any case where an education authority are satisfied, whether upon representations made to them by any church or denominational body acting on behalf of the parents of children belonging to such church or body or otherwise, that a new school is required for the accommodation of children whose parents are resident within the area of the authority, regard being had to the religious belief of such parents, it shall be lawful for the education authority to provide a new school.
+
+.
+
+(2) In section 22 of that Act—
+
+(a) in subsection (4) (power to discontinue denominational school or to make it a non-denominational school)—
+
+(i) the words from “the authority” to “signifies” shall cease to have effect; and
+
+(ii) after the word “shall” there shall be inserted the words “subject to sections 22A, 22B, 22C and 22D of this Act”; and
+
+(b) in proviso (ii) to that subsection—
+
+(i) for the words “Secretary of State”, where first occurring, there shall be substituted the word “authority”;
+
+(ii) the words from “if”, where secondly occurring, to “signifies” shall be omitted; and
+
+(iii) after the word “shall” there shall be substituted the words “subject to sections 22A, 22B, 22C and 22D of this Act”.
+
+### 8 Restriction and abolition of educational schemes.
+
+(1) In section 7 of the principal Act (provision of educational facilities to be in accordance with schemes) subsections (1) to (3) and (8) shall cease to apply in relation to school education and, accordingly—
+
+(a) in that section—
+
+(i) after subsection (1)(b), there shall be inserted the following paragraph—
+
+> (bb) school education;
+
+;
+
+(ii) subsection (1)(c) shall cease to have effect;
+
+(iii) in subsection (2), for the words “their powers and duties under the foregoing provisions of this Act” there shall be substituted the words “those of their functions which fall under subsection (1) above to be performed in accordance with schemes”;
+
+(iv) in subsection (4), for the words “any scheme for” there shall be substituted the words “their functions under the foregoing provisions of this Act in relation to”;
+
+(v) in subsection (6), for the words “In the preparation of any scheme for” there shall be substituted the words “In the performance of their functions under the foregoing provisions of this Act in relation to”;
+
+(vi) in subsection (8), the words “school or” shall cease to have effect; and
+
+(b) in section 17 of that Act—
+
+(i) in subsection (1), after the word “authority” there shall be inserted the words “, in the performance of their functions under sectins 1 to 6 of this Act,”; the words from “in accordance” to “the area” shall cease to have effect; and for the words from “carry” to the end there shall be substituted the words “perform their said functions”;
+
+(ii) in subsection (3), for the words from “carry” to the end there shall be substituted the words “enable them to perform their functions under sections 1 to 6 of this Act.”.
+
+(2) Section 29 of the principal Act (transfer schemes) shall cease to have effect.
+
+(3) Notwithstanding subsections (1) and (2) above, any provision of any scheme made under section 7 of the principal Act in relation to school education or under section 29 of that Act and approved by the Secretary of State under section 69 of that Act shall, to the extent that it relates to a matter in respect of which arrangements may be made by the authority in the exercise of their functions under that Act, continue to have effect as if it had been made as part of those arrangements.
+
+### 9 Registration of independent schools: former grant-aided schools.
+
+In section 98 of the principal Act (registration of independent schools)—
+
+(a) in subsection (1)—
+
+(i) the word “and” at the end of paragraph (a) shall be omitted;
+
+(ii) at the end of paragraph (b) there shall be inserted—
+
+> and
+>
+> (c) where a school has ceased to be a grant-aided school, such of the particulars prescribed by regulations made under this section as the Secretary of State may direct:
+
+;
+
+(iii) the word “and”at the end of proviso (i) shall be omitted;
+
+(iv) at the beginning of proviso (ii) there shall be inserted the words “Subject to subsection (1A) below,”; and
+
+(b) after subsection (1) there shall be inserted the following subsection—
+
+> (1A) Proviso (ii) to subsection (1) above shall not apply to the registration of any school referred to in paragraph (c) of that subsection unless the Registrar gives notice in writing to the proprietor of the school that the said proviso applies to that registration.
+
+.
+
+### 10 Registration of independent schools: offences.
+
+After subsection (2) of section 98 of the principal Act (offences relating to registration of independent schools) there shall be inserted the following subsection—
+
+> (2A) A person shall not be guilty of an offence under subsection (2)(a) above by reason of conducting a school at any time within the period of one month from the date on which it was first conducted (whether by that person or another) if an application for the registration of that school has been duly made within that period.
+
+.
+
+### 11 Constitution of Independent Schools Tribunals.
+
+In Schedule 2 to the principal Act (constitution of independent schools tribunals)—
+
+(a) paragraphs 1 and 3 shall cease to have effect;
+
+(b) in paragraph 2 for the words “the educational panel” there shall be substituted the words “an Independent Schools Tribunal by the Secretary of State under paragraph 4 below”; and
+
+(c) in paragraph 4 the words “from the educational panel” and the words from “of whom” to the end of the paragraph shall cease to have effect.
+
+### 12 Education in social work establishments.
+
+After section 14 of the principal Act there shall be inserted the following section—
+
+> **14A Education in social work establishments.**
+>
+> (1) An education authority may, in accordance with this section, provide for their area school education in any establishment provided by a local authority under section 59(1) or (2) of the Social Work (Scotland) Act 1968 which is provided wholly or mainly for children under school age (other than any establishment whose provision is secured by them under paragraph (c) of the said section 59(2)).
+>
+> (2) The provision of school education referred to in subsection (1) above shall consist of the making available by the education authority, in accordance with arrangements made by them in that behalf with the local authority providing the establishment, of the services of any teacher who is employed by them.
+>
+> (3) Arrangements under subsection (2) above may make provision for—
+>
+> (a) the supply of equipment for use in connection with the provision of school education made available under the arrangements;
+>
+> (b) any supplementary or incidental matters connected with the arrangements.
+>
+> (4) A teacher whose services are made available by an education authority in pursuance of arrangements under subsection (2) above shall, during the period in which his services are made available, be deemed to be in a post in a primary department of a school under the management of the education authority.
+
+.
+
+### 13 Provision relating to Examination Board.
+
+(1) Section 129 of the principal Act (establishment of Board to conduct examinations, etc) shall be amended in accordance with this section.
+
+(2) In subsection (2) of the said section 129, for the words “to give to the Board” there shall be substituted the words “,after consultation with the Board, to give to them”.
+
+(3) In subsection (3) of the said section 129—
+
+(a) after the word “authorities” there shall be inserted the words “institutions of further education,”;
+
+(b) the words “governing bodies of”, in both places where they occur, shall be omitted;
+
+(c) after the words “directors of education” there shall be inserted the words “, educational advisers,”;
+
+(d) the word “and”, where secondly occurring, shall be omitted; and
+
+(e) there shall be inserted at the end the words “and grant-aided and independent schools.”.
+
+(4) In subsection (4) of the said section 129—
+
+(a) after paragraph (b) there shall be inserted the following paragraph—
+
+> (bb) make provision with respect to the determination by the Board of charges in respect of presentations for examinations conducted by them, being presentations by education authorities, the managers of educational establishments not under the management of education authorities or such other presenting authorities as may be recognised by the Board for the purpose of presentation of candidates for examination, the payment by those authorities, managers and others to the Board of such charges and the application towards meeting the Board’s expenses of sums received by them in respect of such charges;
+
+;
+
+(b) in paragraph (c) there shall be inserted at the end the words “, for requiring the Board to ensure that adequate financial provision is made by them for such purposes as may be specified in a direction made by the Secretary of State after consultation with the Board, for requiring the submission by the Board of estimates of their income and expenditure to such body as the Secretary of State may determine (and notify to the Board) as appearing to him to be representative of local authority interests and for enabling that body to approve these estimates and for requiring the Board to obtain the prior approval of the Secretary of State to the incurring of expenditure by them in respect of the acquisition of land”; and
+
+(c) paragraph (e) shall be omitted.
+
+(5) After subsection (4) of the said section 129 there shall be inserted the following subsections—
+
+> (4A) The Board may appoint such officers, servants and agents as the Board may determine and they shall be appointed at such remuneration and on such other terms and conditions as the Board may, with the prior approval of such body as may have been determined by the Secretary of State for the purposes of subsection (4)(c) above, determine.
+>
+> (4B) The Board may pay such pensions, allowances or gratuities as they may determine to or in respect of any of their officers and servants, make such payments as they may determine towards the provision of pensions, allowances or gratuities to or in respect of any of their officers and servants or provide and maintain such schemes as they may determine (whether eontributory or not) for the payment of pensions, allowances or gratuities to or in respect of any of their officers and servants.
+>
+> A determination for the purposes of this subsection is ineffective unless made with the approval of the Secretary of State.
+>
+> (4C) The reference in subsection (4B) above to pensions, allowances or gratuities to or in respect of the Board’s officers and servants includes a reference to pensions, allowances or gratuities by way of compensation to or in respect of any of the Board’s officers and servants who suffer loss of office or employment.
+
+(6) Subsection (5) of the said section 129 shall cease to have effect.
+
+(7) Subsection (6) of the said section 129 shall, until its repeal under subsection (8) below, have effect and shall be deemed always to have had effect as if at the end there were inserted the words “and he may make these grants subject to such conditions as he thinks fit and may, with the consent of the Board, vary any condition of a grant made by him under this section or, if he thinks fit, revoke it.”.
+
+(8) Subsection (6) of the said section 129 shall cease to have effect.
+
+### [^F4]14 Remuneration of teaching staff.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15 Educational endowments.
+
+Schedule 6 to this Act (which contains amendments of the principal Act relating to educational endowments) shall have effect.
+
+### 16 Inspection of religious instruction.
+
+Subsection (2) of section 66 of the principal Act (exclusion of religious instruction from inspection under section 66(1)) shall cease to have effect.
+
+### [^F5]17 Extension of power to make conditions as to qualifications for admission to teacher training courses and for recommendations for registration.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18 Transfer to University Courts of certain Universities of power to appoint Principals.
+
+(1) The power of appointing the Principal of each of the Universities of St. Andrews, Glasgow and Aberdeen shall be transferred from Her Majesty to the respective University Courts of those Universities.
+
+(2) In Part III of Schedule 2 to the Universities (Scotland) Act 1966 (powers of University Court exercisable in accordance with procedure prescribed by those Courts) there shall be inserted, after paragraph 3, the following paragraph—
+
+> **3A**
+>
+> The power of appointing the principals of the Universities of St. Andrews, Glasgow and Aberdeen.
+
+.
+
+(3) Nothing in this section affects any appointment made before this section has come into force.
+
+### 19 Expenses.
+
+There shall be defrayed out of moneys provided by Parliament—
+
+(a) any expenses incurred by the Secretary of State under this Act; and
+
+(b) any increase attributable to this Act in the sums payable out of such moneys under any other Act.
+
+### 20 Meaning of “principal Act”.
+
+In this Act, “the principal Act” means the [^M2]Education (Scotland) Act 1980.
+
+### 21 Amendment of enactments, transitional provisions and repeals.
+
+(1) The enactments specified in Schedule 7 to this Act shall have effect subject to the amendments there specified being minor amendments and amendments consequential upon the provisions of this Act.
+
+(2) The transitional provisions set out in Schedule 8 to this Act shall have effect.
+
+(3) The enactments specified in Schedule 9 to this Act are hereby repealed to the extent specified in the third column of that Schedule.
+
+### 22 Short title, commencement and extent.
+
+(1) This Act may be cited as the Education (Scotland) Act 1981.
+
+(2) This Act shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint and different days may be so appointed for different provisions and for different purposes.
+
+(3) An order under subsection (2) above may contain such transitional provision as appears to the Secretary of State to be necessary or expedient in connection with the provisions thereby brought into force.
+
+(4) This Act applies to Scotland only.
+
+## SCHEDULE 1 — (to be Inserted in the Principal Act as Schedule A1)
+
+*Section 1.*
+
+Appeal Committees
+
+**1** An appeal committee set up under section 28D(1) of this Act shall be constituted in accordance with this Schedule.
+
+**2** An appeal committee shall consist of 3, 5 or 7 members nominated by the authority from among persons appointed by the authority under this Schedule; and sufficient persons may be appointed to enable 2 or more appeal committees to sit at the same time.
+
+**3** The persons appointed shall comprise—
+
+(a) members of the authority or of the education committee of the authority; and
+
+(b) persons who are not members of the authority or of the education committee of the authority but are—
+
+(i) parents of children of school age;
+
+(ii) persons who in the opinion of the authority have experience in education; or
+
+(iii) persons who in the opinion of the authority are acquainted with the educational conditions in the area of the authority;
+
+but shall not include any person employed by the authority as director of education or as an educational adviser or, in the offices of such director or such an adviser, as an assistant (in any capacity) to such director or, as the case may be, such an adviser.
+
+**4** The members of an appeal committee who are members of the authority or of the education committee of the authority shall not outnumber the other members of the appeal committee by more than one.
+
+**5** A person who is a member of the education committee of the authority shall not be chairman of an appeal committee.
+
+**6** A person shall not be a member of an appeal committee for the consideration of a reference of a decision if he was among those who made the decision or took part in or was present at discussions as to whether the decision should be made.
+
+**7** A person who is—
+
+(a) a teacher at a relevant school (within the meaning of paragraph 8 below);
+
+(b) a pupil at such a school;
+
+(c) a parent of a pupil at such a school; or
+
+(d) a member of a school council having functions in relation to such a school
+
+shall not be a member of an appeal committee for consideration of a reference involving a question whether a child is to be placed in the specified school or excluded from the relevant school.
+
+**8** For the purposes of paragraph 7 above, “relevant school” means in relation to a reference to the appeal committee—
+
+(a) the school which the child to whom the placing request relates attends;
+
+(b) the specified school;
+
+(c) the school which the education authority propose that the child to whom the placing request relates should attend;
+
+(d) a school from which pupils are normally transferred to the school referred to in sub-paragraph (b) or (c) above; or
+
+(e) the school from which the pupil has been excluded.
+
+**9** An appeal committee constituted in accordance with this Schedule shall be included in the bodies to which sections 45(4) and 46 of the Local Government (Scotland) Act 1973 (allowances) apply.
+
+## SCHEDULE 2 — Amendments of the Education (Scotland) Act 1980
+
+*Sections 3 and 4.*
+
+**1** The principal Act shall be amended in accordance with the following provisions of this Schedule.
+
+### Part I — Special educational needs
+
+**2** In section 4 (duty of education authorities to provide child guidance service)—
+
+(a) for paragraph (a) there shall be substituted the following—
+
+> (a) the study of children with special educational needs;
+
+;
+
+(b) in paragraph (b) the words “and training” shall be omitted; and
+
+(c) in paragraph (c) the word “the” shall be omitted and for the words “of special education for” there shall be substituted the words “for the special educational needs of”.
+
+**3** Sections 5 (special education for children with certain disabilities) and 59 (classification and educational arrangements for pupils requiring special education) shall cease to have effect.
+
+**4** In section 135 (interpretation)—
+
+(a) in subsection (1)—
+
+(i) the definition of “special education” shall be omitted;
+
+[^F6]ii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(iii) for the definition of “special school” there shall be substituted the following—
+
+> “special school” means a school making provision wholly or mainly for recorded children, and includes special classes forming part of primary schools or secondary schools and child guidance clinics;
+
+and
+
+(b) in subsection (2)—
+
+(i) in paragraph (a), after the word “kind” there shall be inserted “(i)”;
+
+(ii) after paragraph (a) there shall be inserted the following—
+
+“ ; and (ii) which is, in the case of a pupil with special educational needs, within the provision made for the purpose of meeting his special educational needs until he is transferred to the stage of secondary education; ”;
+
+(iii) in paragraph (b), after the word “kind” there shall be inserted “(i)”; and
+
+(iv) after paragraph (b) there shall be inserted the following—
+
+> ; and (ii) which is, in the case of a pupil with special educational needs, within the provision made for the purpose of meeting his special educational needs until he ceases to be of school age or to receive school education, whichever is the later.
+
+.
+
+### Part II — Recording of children and young persons
+
+**5** In section 38 (attendance orders) for paragraph (b) of subsection (2) there shall be substituted the following—
+
+> (b) a special school shall not be named unless the child is a recorded child.
+
+.
+
+**[^F7]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F7]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F7]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9** In paragraph 3 of Schedule 3 for the words “special education” there shall be substituted the words “provision for recorded children”.
+
+**10** In paragraph 4 of Schedule 3 for the words from “paragraph (i)” to the end of the paragraph there shall be substituted the words “subsection (2) of that section) to record the child.”.
+
+## [^F8]SCHEDULE 3 ( — (to be Inserted in the Principal Act as Schedule A2)
+
+*Section 4.*
+
+[^F8]Application of Certain Provisions of this Act to Recorded Children and Young Persons
+
+**[^F8]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F8]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F8]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F8]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F8]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F8]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — ( be Inserted in the Princiapal Act as Schedule 1A)
+
+*Section 5.*
+
+Revocation of Determinations for the Purposes of the Assisted Places Scheme
+
+**1** The proprietors or managers of a participating school may request the Secretary of State to revoke the determination by giving him three years written notice or such shorter notice as he may in any particular case accept.
+
+**2** On the expiry of the period of notice referred to in paragraph 1 above the Secretary of State shall revoke the determination.
+
+**3** Subject to paragraph 4 below, the Secretary of State may revoke a determination in respect of a school by giving three years written notice to the proprietors or managers of the school.
+
+**4** (1) If the Secretary of State—
+
+(a) is not satisfied that appropriate educational standards are being maintained at a participating school; or
+
+(b) is satisfied that any condition applying to the school by virtue of a determination or regulations made under section 75A or 75B of this Act has been contravened, or that any obligation applying to the school by virtue of such regulations has not been complied with,
+
+he may at any time revoke the determination by written notice to the proprietors or managers of the school.
+
+(2) A notice of revocation of a determination given under this paragraph may provide that it shall be treated as of no effect if the proprietors or managers of the school satisfy the Secretary of State within such time as may be specified in the notice that they have complied with any condition specified therein.
+
+**5** A notice of revocation of a determination given under paragraph 3 or 4 above shall contain a statement of the reasons for which it is given.
+
+**6** Revocation of a determination shall not affect the operation of—
+
+(a) the determination;
+
+(b) the scheme in relation to which the determination was made; or
+
+(c) any regulations made under section 75A or 75B of this Act,
+
+in relation to any pupil holding an assisted place at the school on the date of the revocation.
+
+## [^F9]SCHEDULE 5 — (to be Inserted in the Principal Act as Schedule 1B)
+
+*Section 14.*
+
+[^F9] Remuneration of Teaching Staff: The Committee
+
+### [^F9] Procedure
+
+**[^F9]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F9]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F9] General powers
+
+**[^F9]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F9]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F9] Recovery of expenditure
+
+**[^F9]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F9]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 6 — Educational Endowments
+
+*Section 15.*
+
+**1** The principal Act shall be amended in accordance with the following provisions of this Schedule.
+
+**2** In section 77 (regulations with respect to certain institutions providing further education)—
+
+(a) in subsection (1)—
+
+(i) after paragraph (b) there shall be inserted the following paragraph—
+
+> (c) without prejudice to any power contained in Part VI of this Act, revoke, amend or re-enact any provision of any endowment relating to any grant-aided college;
+
+; and
+
+(ii) after sub-paragraph (vi) there shall be inserted the following sub-paragraph—
+
+> (vii) provide for any of the purposes specified in paragraphs (a) to (e) of section 105(1) of this Act.
+
+.
+
+**3** In section 104 (register of educational endowments)—
+
+(a) in subsection (1), for the words from the beginning to “Registrar”, where secondly occurring, there shall be substituted the words “It shall be the duty of the Secretary of State”; and
+
+(b) in subsection (2)—
+
+(i) the words from “within” to “operation,” shall be omitted;
+
+(ii) for the word “Registrar” there shall be substituted the words “Secretary of State”; and
+
+(iii) at the end there shall be inserted the words “in such manner as may be so prescribed”.
+
+**4** In section 105 (schemes for reorganisation of educational endowments)—
+
+(a) in subsection (1) for the words “the Secretary of State shall have power to” there shall be substituted the words “an education authority, whether upon an application made to them or not, may, if they think fit.”;
+
+(b) in subsection (1)(b) for the words “Secretary of State thinks” there shall be substituted the words “education authority think ”;
+
+(c) for the words “Secretary of State”, where subsequently occurring, there shall be substituted the words “education authority ”;
+
+(d) at the end of subsection (1) there shall be inserted the following—
+
+> Provided that in considering whether to exercise, in relation to any endowment, the power conferred upon them by this subsection an education authority may have regard to whether the exercise of the power would prejudice the proper discharge by them of their functions under this Act apart from this section or their functions as local authority under any enactment.
+
+;
+
+(e) in subsection (4), after paragraph (d) there shall be inserted the following—
+
+> , or
+>
+> (e) to an endowment which relates in whole or in part to an educational establishment not managed by the education authority who would, but for this paragraph, be empowered under this section to exercise in relation to that endowment the functions conferred by this section, or
+>
+> (f) to an educational endowment having no limitation either as to the area in which any educational establishment to which it relates is situated or as to the area in which any of its beneficiaries are required under its governing instrument to reside or with which they are so required to have some other connection.
+
+;
+
+(f) for the proviso to subsection (4) there shall be substituted the following—
+
+> Provided that this subsection shall not apply to an endowment which falls within paragraph (e) above solely by reason of the inclusion among its purposes of the award of prizes, bursaries or similar benefits to persons who attend or have attended educational establishments or other institutions not managed by an education authority.
+
+;
+
+(g) after subsection (4) there shall be inserted the following subsections—
+
+> (4A) The Court of Session shall have power, on the petition of—
+>
+> (a) the governing body of any endowment to which subsection (4) above applies or, in the case of the Carnegie Trust, the Trustees;
+>
+> (b) in relation to an endowment to which paragraph (e) of that subsection applies and which relates only in part to an educational establishment not managed by the education authority referred to in that paragraph , the education authority, in respect of the part of the endowment in relation to which they would, but for the said paragraph (e), be empowered under this section to exercise the functions conferred by this section,
+>
+> to give effect to draft schemes for the future government and management of the endowment or, as the case may be, the Trust, which schemes may provide for any of the purposes set out in paragraphs (a) to (e) of subsection (1) above and, in exercising the power conferred on it under this subsection, the Court shall have special regard to the matters specified in paragraphs (a) to (d) of subsection (2) above.
+>
+> (4B) Where a petition under subsection (4A) above relates to an endowment to which paragraph (e) of subsection (4) above applies and which relates only in part to an educational establishment not managed by the education authority referred to in that paragraph the Court of Session shall, before making an order under the said subsection (4A)—
+>
+> (a) where the petition was presented by any body referred to in paragraph (a) of the said subsection (4A), cause the petition to be served on the education authority;
+>
+> (b) where the petition was presented by an education authority under paragraph (b) of the said subsection (4A), cause the petition to be served on the governing body of the endowment to which the petition relates.
+>
+> (4C) The governing body of an endowment in relation to which an education authority are empowered under this section to exercise the functions conferred by this section may, if the authority refuse to exercise their power under subsection (1) above in relation to the endowment on the ground that such exercise would prejudice the proper discharge by them of their functions under this Act apart from this section or their functions as local authority under any enactment, present a petition to the Court of Session, and subsections (4A), (4B) and (4D) of this section shall apply to such a petition.
+>
+> (4D) Nothing in the Trustee Investments Act 1961 shall affect the power of the Court under subsection (4A) above to confer wider powers of investment than those conferred by that Act or affect the extent to which the power of the Court under that subsection is to be exercised.
+
+;
+
+(h) subsection (5) shall be omitted; and
+
+(i) after subsection (6) there shall be inserted the following subsection—
+
+> (7) In this section, “education authority” means, in relation to an educational endowment, the education authority for the area in which any educational establishment to which the endowment relates is situated or, where the endowment relates to no particular such establishment, the education authority for the area in which the beneficiaries of the endowment are required under its governing instrument to reside or with which they are so required to have some other connection.
+
+.
+
+**5** In section 106 (sale of land belonging to educational endowments)—
+
+(a) in subsection (1)—
+
+(i) for the words “Secretary of State”, where first occurring, there shall be substituted the words “Court of Session”; and
+
+(ii) for the words “he may by order direct” there shall be substituted the words “the Court may order ”; and
+
+(b) in the proviso to subsection (1)—
+
+(i) for the words “direction shall be given” there shall be substituted the words “order shall be made”; and
+
+(ii) for the words “Secretary of State” there shall be substituted the word “Court”.
+
+**6** In section 107 (educational endowments applicable in part to non-educational purposes)—
+
+(a) in subsection (1), for the words “within the meaning of this Part of this Act” there shall be substituted the words “to which the powers conferred by section 105 of this Act extend”;
+
+(b) in subsection (2)—
+
+(i) for the words “Secretary of State” there shall be substituted the words “education authority having power to exercise, in relation to that endowment, the functions conferred by section 105 of this Act”; and
+
+(ii) for paragraphs (ii) to (iv) there shall be substituted the following paragraph—
+
+> (ii) the purposes of such part of the endowment have become obsolete or useless.
+
+;
+
+(c) in subsection (3)—
+
+(i) for the words “Secretary of State”, where first occurring, there shall be substituted the words “education authority ”; and
+
+(ii) for the words “such number of years as the Secretary of State shall determine” there shall be substituted the words “the five most recent years for which accounts are available”; and
+
+(d) in subsections (5), (6) and (7), for the words “Secretary of State”, wherever occurring, there shall be substituted the words “education authority”.
+
+**7** In section 108 (reorganisation of non-educational endowments)—
+
+(a) in subsection (1)—
+
+(i) for the words “dealt with by the Secretary of State” there shall be substituted the word “reorganised”; and
+
+(ii) for the words from “intimate” to the end there shall be substituted the words “present a petition to the Court of Session to give effect to a draft scheme for the future government and management of the endowment and thereafter such endowment may be dealt with in all respects as if it were included amongst those specified in section 105(4) of this Act.”; and
+
+(b) subsection (2) shall be renumbered section 108A (Court’s power to give effect to reorganisation scheme on petition of Lord Advocate) and in that section—
+
+(i) for the words “subsection (1) above” there shall be substituted the words “section 108 of this Act ”;
+
+(ii) for the words “framed” and “frame” there shall be substituted respectively the words “made” and “make”; and
+
+(iii) the words from “which is not ” to “Act ” shall be omitted.
+
+**8** In section 109 (provisions regarding interests of individuals), in subsection (1) for the words “the Secretary of State” there shall be substituted the words “made under this Part of this Act, the education authority or, as the case may be, the Court”.
+
+**9** In section 110 (provisions as to beneficiaries of endowments and teachers)—
+
+(a) for the words “Secretary of State”, wherever occurring, there shall be substituted the words “education authority ”;
+
+(b) in subsection (1)—
+
+(i) for the words “framing a” there shall be substituted the words “preparing a draft ”;
+
+(ii) in paragraph (a) after the word “to” there shall be inserted the words “educational need”; and
+
+(iii) in paragraph (b), for the words “where he considers it expedient to do so” there shall be substituted the words “unless in any particular case they consider it inexpedient to do so,”;
+
+(c) for the words from the beginning of subsection (2) to “the scheme” where occurring in the proviso to that subsection there shall be substituted the words “Every scheme for an educational endowment ”;
+
+(d) subsection (3) shall be omitted; and
+
+(e) in subsection (4), after the word “scheme” there shall be inserted the words—
+
+> (a) given effect to by the Court of Session; or
+>
+> (b) prepared by an education authority with respect to a school other than one which has been transferred to them under section 16 or provided under section 17(2) of this Act,
+
+.
+
+**10** In section 111 (accounts and audit of educational endowments)—
+
+(a) in subsection (1), the words “in such manner as the Secretary of State may prescribe”, in subsection (2), the words from “in such form” to the end, in subsection (3), the words from “with the approval” to “Privy Council” and subsections (4) and (5) shall be omitted; and
+
+(b) in subsection (6), for the words from the beginning to “applies” there shall be substituted the words “The governing body of each endowment to which this section applies shall make the audited accounts of that endowment”.
+
+**11** In section 112 (procedure in preparation of reorganisation schemes)—
+
+(a) in subsection (1)—
+
+(i) for the words “the Secretary of State”, where first occurring, there shall be substituted the words “an education authority”;
+
+(ii) for paragraph (b) and the word “and” immediately preceding it there shall be substituted the following paragraphs—
+
+> (b) give notice of the draft scheme in accordance with subsection (1A) below and cause it to be published in such other manner, if any, as they think fit; and
+>
+> (c) permit public inspection of the draft scheme at such places and during such times as may be specified in the notice given by them under paragraph (b) above;
+
+;
+
+(iii) for the words from “from” to “scheme” there shall be substituted the words “the first notice of the draft scheme given by the authority under paragraph (b) above”; and
+
+(iv) for the words “Secretary of State”, where secondly occurring, there shall be substituted the words “education authority ”;
+
+(b) after subsection (1) there shall be inserted the following subsections—
+
+> (1A) The notice to be given under subsection (1)(b) above—
+>
+> (a) shall be by way of advertisement in a newspaper circulating in the area in which each educational establishment to which the endowment relates is situated or, where the endowment relates to no particular educational establishment, the area in which the beneficiaries of the endowment are required under its governing instrument to reside or with which they are so required to have some other connection;
+>
+> (b) shall state that written objections to and proposed amendments of the scheme may be made in the manner specified in subsection (1) above; and
+>
+> (c) shall state the places and times at which the draft scheme may be examined under subsection (1)(c) above.
+>
+> (1B) The requirement under subsection (1A) above to give notice of the draft scheme by way of newspaper advertisement shall not apply in relation to an educational endowment of less annual value than £500 if, by giving notice in another manner, the education authority incur less expense.
+
+;
+
+(c) in subsection (2)—
+
+(i) for the words from “him” to “statutory instrument” there shall be substituted the words “them, the education authority may, by resolution of the authority authorising their proper officer to sign the scheme on their behalf,”;
+
+(ii) for the word “published” there shall be substituted the words “of which notice has been given”; and
+
+(iii) at the end there shall be inserted the words “and on doing so shall notify the date of commencement of the scheme to the governing body of the endowment.”;
+
+(d) in subsection (3)—
+
+(i) for the words “him, the Secretary of State” there shall be substituted the words “them, the education authority ”;
+
+(ii) after the word “amendments” there shall be inserted the words “, shall if any of them were sent by any of the persons mentioned in subsection (7) below, hold a public local inquiry into such of them as are not withdrawn”;
+
+(iii) for the words “he thinks”, where twice occurring, there shall be substituted the words “they think ”; and
+
+(iv) for the words “frame a” there shall be substituted the words “, by resolution of the authority authorising their proper officer to sign the scheme on their behalf, make the”;
+
+(e) after subsection (3) there shall be inserted the following subsections—
+
+> (3A) Schedule 10 to the Local Government (Scotland) Act 1973 shall not apply to the making of a scheme by an education authority under subsection (2) or (3) above.
+>
+> (3B) The person appointed by the education authority to hold a public local inquiry under subsection (3) above shall not be a member or officer of the authority or a member or employee of the governing body of the endowment to which the scheme relates.
+>
+> (3C) Without prejudice to their duty to hold a public local inquiry in the circumstances mentioned in subsection (3) above, an education authority may, if they consider it appropriate, hold a public local inquiry into any matter to which they may properly address themselves in the exercise of their functions under this Part of this Act.
+
+;
+
+(f) in subsection (4)—
+
+(i) for the words “the Secretary of State frames” there shall be substituted the words “an education authority make”.
+
+(ii) for the word “he”, where first occurring, there shall be substituted the word “they ”;
+
+(iii) for the word “his”, where twice occurring, there shall be substituted the word “their ”;
+
+(iv) for paragraphs (c) and (d) there shall be substituted the following paragraph—
+
+> (c) cause notice of the scheme to be given in accordance with subsection (1A)(a) and (c) above, containing a statement that, unless not later than the expiry of the period of one month from the first such notice a petition or appeal is presented to the Court of Session in accordance with the following provisions of this section, the scheme will come into operation on such date as the notice may specify, being not less than one month after the date of the first such notice.
+
+;
+
+(g) for subsection (5) there shall be substituted the following subsections—
+
+> (5) If no petition or appeal is presented to the Court of Session in accordance with the following provisions of this section, the scheme shall come into operation on the date specified in the notice under subsection (4)(c) above.
+>
+> (5A) If a petition or appeal is presented to the Court of Session in accordance with the following provisions of this section and is refused by the Court, the Court shall make such order as it thinks fit as respects the commencement of the scheme.
+
+;
+
+(h) subsection (6) shall be omitted;
+
+(i) for subsection (7), there shall be substituted the following subsection—
+
+> (7) If within the period of one month from the date of the notice given under subsection (4) above a petition or appeal is presented to the Court of Session by any of the persons mentioned below, the scheme referred to in that notice shall thereby be suspended and the Court may amend the scheme and make it as so amended or may make a new scheme and for those purposes the Court—
+>
+> (a) shall have the like powers as are conferred by this Part of this Act on an education authority regarding schemes for the future government and management of educational endowments, and
+>
+> (b) may make such orders as it thinks fit as respects notification and commencement of the amended or new scheme.
+>
+> The persons referred to above are—
+>
+> (i) the governing body of the endowment to which the scheme relates,
+>
+> (ii) the council of any district directly affected by the scheme,
+>
+> (iii) any education authority directly affected by the scheme,
+>
+> (iv) any ratepayers (not being less than twenty) of any district or place directly affected by the scheme,
+>
+> (v) any person having a vested interest in the said endowment or any part of it.
+
+;
+
+(j) in subsection (8)—
+
+(i) for the words from “Secretary of State” to “he thinks”, where secondly occurring, there shall be substituted the words “education authority shall rescind their decision to make the scheme but may, if they think fit, make an amended scheme in such form as they think ”; and
+
+(ii) for the word “framed”, where twice occurring, there shall be substituted the word “made”; and
+
+(k) in subsection (9)—
+
+(i) for the words “the Secretary of State causes” there shall be substituted the words “an education authority cause”;
+
+(ii) for the word “published” there shall be substituted the word “publicised”; and
+
+(iii) for the words “he” and “his” there shall be substituted respectively the words “they ” and “their ”.
+
+**12** Section 113 (procedure in preparation of certain re-organisation schemes) shall be omitted.
+
+**13** In section 114 (effect of schemes)—
+
+(a) in subsection (1)—
+
+(i) for the word “approved” there shall be substituted the words “given effect to”;
+
+(ii) the words from “come” to “shall”, where secondly occurring, shall be omitted; and
+
+(iii) for the words “said date” there shall be substituted the words “date of commencement of the scheme”:
+
+(b) in subsection (2)—
+
+(i) for the words from the beginning to “approving” there shall be substituted the words “An instrument containing or giving effect to”;
+
+(ii) after the word “shall”, where first occurring, there shall be inserted the words “, from the date of commencement of the scheme,”; and
+
+(iii) after the word “not” there shall be inserted the words “, from the said date,”; and
+
+(c) after subsection (2) there shall be inserted the following subsection—
+
+> (3) Each of the powers to make schemes conferred by this Part of this Act implies power exercisable in the same manner and subject to the same conditions or limitations to revoke, amend or re-enact any scheme made under that power.
+
+.
+
+**14** Sections 115 (schemes for small endowments) and 116 (amending schemes) shall be omitted.
+
+**15** In section 117 (costs of publishing scheme etc.)—
+
+(a) for the word “publishing” there shall be substituted the word “publicising”; and
+
+(b) the proviso shall be omitted.
+
+**16** For section 118 (reports by governing bodies) there shall be substituted the following section—
+
+> **Information by governing bodies.**
+>
+> **118** Every governing body of an endowment to which section 105 of this Act extends shall give such information to the education authority having power under that section to prepare a scheme for the future government and management of the endowment as the authority may from time to time require.
+
+.
+
+**17** After section 118 there shall be inserted the following section—
+
+> **Income plans under schemes.**
+>
+> **118A** (1) Any provision of a scheme referred to in subsection (2) below which (however expressed) empowers or requires the governing body of the endowment to which the scheme relates—
+>
+> (a) to prepare and submit for the approval of the Secretary of State a plan, a revised plan or an amendment of a plan for the exercise by the governing body of their functions in relation to the application of the income of the endowment; or
+>
+> (b) to give effect to such a plan or amendment as approved by the Secretary of State,
+>
+> shall be of no effect.
+>
+> (2) This section applies to any scheme made or approved under the Acts of 1928 to 1935, Part VI of the Act of 1946, Part VI of the Act of 1962, or this Part of this Act.
+
+.
+
+**18** In section 120 (default by governing body)—
+
+(a) at the beginning there shall be inserted “(1)”;
+
+(b) after the word “endowment” there shall be inserted the words “to which section 105 of this Act does not extend”;
+
+(c) after the words “Part of this Act” there shall be inserted the words “prior to the commencement of section 15 of the Education (Scotland) Act 1981”; and
+
+(d) at the end there shall be inserted the following subsection—
+
+> (2) In relation to any educational endowment to which section 105 of this Act extends, subsection (1) above shall apply—
+>
+> (a) with the omission of the words “to which section 105 of this Act does not extend” and the words “prior to the commencement of section 15 of the Education (Scotland) Act 1981”; and
+>
+> (b) with the substitution for the words “Secretary of State after such inquiry as he” of the words “education authority having power under section 105 of this Act to prepare a draft scheme for the future government and management of the endowment, after such inquiry as they”.
+
+**19** In section 121 (judgment of Court of Session final)—
+
+(a) in paragraph (a), after the word “Court” there shall be inserted “other than one giving effect under section 105(4) of this Act to a draft scheme for the future government and management of an endowment or the Carnegie Trust”; and
+
+(b) the words “(including the expenses of the Secretary of State)” in paragraph (b) and the proviso to that paragraph shall be omitted.
+
+**20** In section 122 (interpretation) for the words “Secretary of State” in subsection (2) there shall be substituted the words “Court of Session”.
+
+## SCHEDULE 7 — Minor and Consequential Amendments
+
+*Section 21.*
+
+### The Teaching Council (Scotland) Act 1965
+
+**[^F10]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F11]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Education (Scotland) Act 1980
+
+**3** In section 16(2) of the principal Act (conveyance of transferred denominational school)—
+
+(a) after the word “effected” there shall be inserted the word “(a)”,
+
+(b) after the word “sasines” there shall be inserted the words—
+
+> ; or
+>
+> (b) where—
+>
+> (i) the interest in the land to be transferred is registrable under the Land Registration (Scotland) Act 1979; or
+>
+> (ii) the transference itself is so registrable,
+>
+> by registration under that Act
+
+; and
+
+(c) at the end there shall be inserted the words “or, as the case may be, registration”.
+
+**4** In section 22(1) of that Act (discontinuance and moves of educational establishments) the words from “and to” to “thereto” and the words “with the sanction of the Secretary of State” shall cease to have effect.
+
+**5** In section 23(1) of that Act (power to provide education for pupils belonging to areas of other authorities) there shall be inserted at the end the words “or of a local education authority in England and Wales”.
+
+**6** In section 23(3) of that Act (areas to which classes of pupils are deemed to belong) after the words “this section” there shall be inserted the words “and sections 1(5)(c) and (d), 28A(1) (as it has effect under Schedule A2 to this Act), 50, 51 and 60 to 65F of this Act.”.
+
+**7** After section 23(6) of that Act, there shall be inserted the following subsection—
+
+> (6A) Nothing in this section affects the duty under section 28A of this Act or that section as it has effect under Schedule A2 to this Act of an education authority to place a child in accordance with a placing request or authorises them to decline to make for the pupil to whom the placing request relates such provision of school education as is mentioned in subsection (1) above.
+
+.
+
+## SCHEDULE 8 — Transitional Provisions
+
+*Section 21.*
+
+**1** Any reference in any enactment or other instrument passed or made before the commencement of section 4 of this Act to special education shall be construed as a reference to provision for special educational needs made in special schools.
+
+**2** During any period—
+
+(a) after the date of the coming into force of the provision of section 1(1) of this Act inserting into the principal Act the provision which becomes paragraph (d) of section 28A(3) of that Act; but
+
+(b) before the date when section 4 of this Act comes into force,
+
+there shall be substituted for the said paragraph (d) the following paragraph—
+
+> (d) if the specified school is a special school and the child has not been ascertained as requiring special education;
+
+.
+
+**3** During any period—
+
+(a) after the date of the coming into force of the provision of section 1(1) of this Act inserting into the principal Act the provisions which become sections 28C and 28E of that Act; but
+
+(b) before the date when section 4 of this Act comes into force,
+
+the said sections 28C and 28E shall not apply in respect of a decision of an education authority refusing a placing request made in respect of a child who has been ascertained as requiring special education.
+
+**4** During the period of three years beginning with the date when section 4 of this Act comes into force—
+
+(a) a child who has before that date been ascertained under the principal Act as originally enacted as requiring special education or to whom a decision referred to in paragraph 4 of Schedule 3 to that Act (transitional provisions) relates shall be deemed for the purposes of the provisions of that Act substituted by this Act to be a recorded child until the education authority shall have, in compliance with sub-paragraph (b) below, reached a decision on whether or not to record him;
+
+(b) notwithstanding that a child is deemed under sub-paragraph (a) above to be a recorded child, the education authority shall perform their duties under sections 60 to 62 of the principal Act as substituted by section 4 of this Act in relation to him as if he were not a recorded child;
+
+(c) sections 63 and 64 of the principal Act and section 61 of that Act as applied by section 63 thereof, all as originally enacted, shall have effect subject to such modifications as the Secretary of State may prescribe by regulations made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament;
+
+(d) sections 28C, 28E and 28F of the principal Act and sections 63 to 65 of the principal Act as substituted by this Act shall not apply in relation to a child who is deemed under sub-paragraph (a) above to be recorded.
+
+**5** Any consultation made or other thing done by an education authority for the purposes of their functions under Part I of the principal Act before the making of regulations under section 22A(2) of the principal Act which would if made or done after the making of those regulations be consultation for the purposes of section 22A(1) of the principal Act or part of the process of such consultation shall be deemed to be such consultation or, as the case may be, a part of the process of such consultation.
+
+**6** Any—
+
+(a) appointment made under paragraph (e) of subsection (4) of section 129 of the principal Act;
+
+(b) other thing done under that paragraph
+
+which could be made or done under a provision of that section as amended by this Act shall, notwithstanding the repeal of that paragraph by this Act, be as valid as if made or done under that provision.
+
+**7** Any expression used in this Schedule and in the principal Act shall in this Schedule have the same meaning as it has in that Act.
+
+## SCHEDULE 9 — Repeals
+
+*Section 21.*
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1980 c. 44 | The Education (Scotland) Act 1980. | In section 4, in paragraph (b), the words “and training”, and in paragraph (c) the word “the”. |
+|  |  | Section 5. |
+|  |  | Section 7(1)(c). |
+|  |  | In section 7(8), the words “school or”. |
+|  |  | In section 17(1), the words from “in accordance” to “the area”. |
+|  |  | In section 22, in subsection the words from “and to” to “thereto” and the words “with the sanction of the Secretary of State” and, in subsection (4), the words from “the authority” to “signifies”, and in proviso (ii) the words from “if”, where secondly occurring, to “signifies”. |
+|  |  | In section 23, in subsection (2), the words from “or the managers of” to “that authority”, the words “or the managers, as the case may be,” and “or by the authority and the managers concerned, as the case may be” and the proviso to that subsection. |
+|  |  | Section 28(2). |
+|  |  | Section 29. |
+|  |  | Section 59. |
+|  |  | Section 66(2). |
+|  |  | In section 98(1), the word “and” at the end of paragraph (a) and at the end of proviso (i). |
+|  |  | In section 104(2), the words from “within” to “operation,” |
+|  |  | Section 105(5). |
+|  |  | In section 108(2), the words from “which is not ” to “Act ”. |
+|  |  | Section 110(3). |
+|  |  | In section 111, in subsection (1) the words “in such manner as the Secretary of State may prescribe”; in subsection (2) the words from “in such form” to the end; in subsection (3) the words from “with the approval” to “Privy Council”; and subsections (4) and (5). |
+|  |  | Section 112(6). |
+|  |  | Section 113. |
+|  |  | In section 114(1), the words from “come” to “shall”, where secondly occurring. |
+|  |  | Sections 115 and 116. |
+|  |  | In section 117, the proviso. |
+|  |  | In section 121(b) the words “(including the expenses of the Secretary of State)” and the proviso to that paragraph. |
+|  |  | In section 129, in subsection (3), the words “governing bodies”, in both places where they occur and the word “and” where secondly occurring; in subsection (4), paragraph (e); and subsections (5) and (6). |
+|  |  | Section 132(1). |
+|  |  | In section 135(1), the definition of “special education”. |
+|  |  | In Schedule 2, paragraphs 1 and 3 and in paragraph 4 the words “from the educational panel” and the words from “of whom” to the end of the paragraph. |
+
+---
+
+[^M1]: 1980 c. 44.
+[^F1]: S. 3(1) repealed (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), Sch. 3 para. 4(a); S.S.I. 2005/564, art. 2
+[^F2]: S. 4(1) repealed (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), Sch. 3 para. 4(b); S.S.I. 2005/564, art. 2
+[^F3]: S. 4(3) repealed (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), Sch. 3 para. 4(b); S.S.I. 2005/564, art. 2
+[^F4]: S. 14 repealed (31.12.2004) by Standards in Scotland’s Schools etc. Act 2000 (asp 6), Sch. 3; S.S.I. 2004/528, art. 2(b)
+[^F5]: S. 17 repealed (2.4.2012) by The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215), art. 2, Sch. 7
+[^M2]: 1980 c. 44.
+[^F6]: Sch. 2 para. 4(a)(ii) repealed (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), Sch. 3 para. 4(c)(i); S.S.I. 2005/564, art. 2
+[^F7]: Sch. 2 paras. 6-8 repealed (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), Sch. 3 para. 4(c)(ii); S.S.I. 2005/564, art. 2
+[^F8]: Sch. 3 repealed (14.11.2005) by Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), s. 35(1), Sch. 3 para. 4(d); S.S.I. 2005/564, art. 2
+[^F9]: Sch. 5 repealed (31.12.2004) by Standards in Scotland’s Schools etc. Act 2000 (asp 6), Sch. 3; S.S.I. 2004/528, art. 2(b)
+[^F10]: Sch. 7 para. 1 repealed (2.4.2012) by The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215), art. 2, Sch. 7
+[^F11]: Sch. 7 para. 2 repealed (2.4.2012) by The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215), art. 2, Sch. 7

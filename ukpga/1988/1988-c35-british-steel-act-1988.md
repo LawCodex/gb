@@ -1,0 +1,551 @@
+---
+title: "British Steel Act 1988"
+identifier: "ukpga/1988/35"
+citation: "1988 c. 35"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1988-07-29
+last_amended: 2015-05-26
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1988/35"
+source_modified: 2016-01-17
+retrieved: 2026-10-11
+---
+
+# British Steel Act 1988
+
+**1988 c. 35**
+
+An Act to provide for the vesting of the property, rights and liabilities of the British Steel Corporation in a company nominated by the Secretary of State and for the subsequent dissolution of the Corporation; and for connected purposes.
+
+[29th July 1988]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Vesting of property etc. of British Steel Corporation in a successor company
+
+### 1 Vesting of property etc. of British Steel Corporation in a successor company.
+
+(1) On such day as the Secretary of State may by order appoint all the property, rights and liabilities to which the British Steel Corporation was entitled or subject immediately before that day shall (subject to section 2(3)) become by virtue of this section property, rights and liabilities of a company nominated for the purposes of this section by the Secretary of State; and references in this Act to the appointed day or to the successor company are references to the day so appointed or to the company so nominated respectively.
+
+[^F1]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) References in this Act to property, rights and liabilities of the Corporation are references to all such property, rights and liabilities, whether or not capable of being transferred or assigned by the Corporation.
+
+(4) It is hereby declared for the avoidance of doubt that—
+
+(a) any reference in this Act to property of the Corporation is a reference to property of the Corporation whether situated in the United Kingdom or elsewhere; and
+
+(b) any reference in this Act to rights or liabilities of the Corporation is a reference to rights to which the Corporation is entitled, or (as the case may be) liabilities to which the Corporation is subject, whether under the law of the United Kingdom or of any part of the United Kingdom or under the law of any country or territory outside the United Kingdom.
+
+[^F2]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Schedule 1 shall have effect for the purpose of supplementing the provisions of this section.
+
+### [^F3]2 Reduction and subsequent extinguishment of Corporation’s public dividend capital.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Provisions relating to Government holdings in the successor company
+
+### 3 Initial Government holding in the successor company.
+
+[^F4]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F4]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F4]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F4]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The Secretary of State may not exercise any power conferred on him by this section, or dispose of any securities issued or of any rights to securities initially allotted to him in pursuance of this section, without the consent of the Treasury.
+
+(6) Any dividends or other sums received by the Treasury or the Secretary of State in right of, or on the disposal of, any securities or rights acquired by virtue of this section shall be paid into the Consolidated Fund.
+
+### 4 Government investment in securities of the successor company.
+
+(1) [^F5]... The Treasury or, with the consent of the Treasury, the Secretary of State may at any time acquire—
+
+(a) securities of the successor company; or
+
+(b) rights to subscribe for any such securities.
+
+(2) The Secretary of State may not dispose of any securities or rights acquired by him by virtue of this section without the consent of the Treasury.
+
+(3) Any expenses incurred by the Treasury or the Secretary of State in consequence of the provisions of this section shall be paid out of money provided by Parliament.
+
+(4) Any dividends or other sums received by the Treasury or the Secretary of State in right of, or on the disposal of, any securities or rights acquired by virtue of this section shall be paid into the Consolidated Fund.
+
+### 5 Exercise of functions through nominees.
+
+(1) The Treasury or, with the consent of the Treasury, the Secretary of State may, for the purposes of section 3 or 4, appoint any person to act as the nominee, or one of the nominees, of the Treasury or the Secretary of State; and—
+
+(a) securities of the successor company may be issued or allotted in pursuance of section 3 to any nominee of the Treasury or the Secretary of State appointed for the purposes of that section and may be issued to any person entitled to be issued with the securities following their initial allotment to any such nominee, and
+
+(b) any such nominee appointed for the purposes of section 4 may acquire securities or rights under that section,
+
+in accordance with directions given from time to time by the Treasury or, with the consent of the Treasury, by the Secretary of State.
+
+(2) Any person holding any securities or rights as a nominee of the Treasury or the Secretary of State by virtue of subsection (1) shall hold and deal with them (or any of them) on such terms and in such manner as the Treasury or, with the consent of the Treasury, the Secretary of State may direct.
+
+### [^F6]6 Target investment limit for Government shareholding.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Financial provisions relating to the successor company
+
+### 7 Financial structure of the successor company.
+
+(1) If the aggregate nominal value of the securities of the successor company issued in pursuance of section 3 is for the time being less than the amount of the Corporation’s public dividend capital extinguished by virtue of section 2(3), a sum equal to the amount of the difference shall be carried by the successor company to a reserve (“the statutory reserve”).
+
+(2) The statutory reserve may only be applied by the successor company in paying up unissued shares of the company to be allotted to its members as fully paid bonus shares, except to the extent that the Secretary of State directs, with the consent of the Treasury—
+
+(a) that it may be applied in writing off unrealised losses of the company arising from the revaluation of any of its fixed assets, or
+
+(b) that it may be applied as if it were profits available for distribution within the meaning of [[^F7]section 830 of the Companies Act 2006] (distributions to be made out of profits);
+
+and the application of any amount in pursuance of paragraph (a) above shall be treated for the purposes of [[^F8]Part 23 of that Act (distributions)] as a reduction or reorganisation of capital duly made by the successor company.
+
+(3) No direction shall be given by the Secretary of State under subsection (2) above at a time when the successor company has ceased to be wholly owned by the Crown.
+
+(4) Notwithstanding subsection (2) above, no part of the statutory reserve shall count as an undistributable reserve of the successor company for the purposes of [[^F9]section 831(4)(d) of the Companies Act 2006] (restriction on distribution of assets); but, for the purpose of determining under [[^F10]section 831] whether the successor company may make a distribution at any time, any amount for the time being standing to the credit of the statutory reserve (excluding any amount which is authorised to be, but has not yet been, applied as mentioned in subsection (2)(b) above) shall be treated for the purposes of [[^F11]section 831(4)(c)] as if it were unrealised profits of the company.
+
+(5) For the purposes of any statutory accounts of the successor company—
+
+(a) all the property, rights and liabilities to which the Corporation was entitled or subject immediately before the end of the Corporation’s last financial year ending before the appointed day shall be taken to have been vested in the successor company by virtue of section 1 above, and to have been so vested immediately after the end of that year; and
+
+(b) the value or amount (as at the time of vesting) of any asset or liability of the Corporation taken to have been vested in the successor company by virtue of paragraph (a) shall be taken to be the value or (as the case may be) the amount assigned to that asset or liability for the purposes of the corresponding statement of accounts prepared by the Corporation in respect of the financial year referred to in paragraph (a).
+
+(6) For the purposes of any statutory accounts of the successor company the amount to be included in respect of any item shall be determined as if anything done by the Corporation (whether by way of acquiring, revaluing or disposing of any asset or incurring, revaluing or discharging any liability, or by carrying any amount to any provision or reserve, or otherwise) had been done by the successor company.
+
+Accordingly (but without prejudice to the generality of the preceding provision)—
+
+(a) the amount to be included from time to time in any reserves of the successor company as representing its accumulated realised profits shall be determined as if any profits realised and retained by the Corporation had been realised and retained by the company; and
+
+(b) the amount to be included in any such accounts as representing the accumulated realised losses of the successor company shall be determined as if any losses realised by the Corporation had been realised by the company.
+
+(7) For the purposes of [[^F12]Part 23 of the Companies Act 2006] any reduction in the Corporation’s public dividend capital under section 2(1) above shall be treated as if it had been a reduction or reorganisation of capital duly made by the successor company in which there was written off an amount of accumulated realised losses of the successor company equal to the amount of the reduction under section 2(1).
+
+(8) References in this section to the statutory accounts of the successor company are references to any accounts prepared by the successor company for the purposes of any provision of [[^F13]the Companies Act 2006] (including group accounts).
+
+### 8 Loans by Secretary of State to successor company.
+
+(1) As from the appointed day the Secretary of State may, with the consent of the Treasury, make loans to the successor company; but no loan shall be made by him under this section at a time when that company has ceased to be wholly owned by the Crown.
+
+(2) The Treasury may issue to the Secretary of State out of the National Loans Fund any sums necessary to enable him to make loans under this section.
+
+(3) Any loan made by the Secretary of State under this section shall be repaid to him at such times and by such methods, and interest thereon shall be paid to him at such rates and at such times, as he may, with the consent of the Treasury, from time to time direct.
+
+(4) Any sums received by the Secretary of State under subsection (3) shall be paid into the National Loans Fund.
+
+(5) The Secretary of State shall in respect of each financial year prepare, in such form and manner as the Treasury may direct, an account of—
+
+(a) sums issued to him under subsection (2),
+
+(b) sums received by him under subsection (3), and
+
+(c) the disposal by him of sums so issued or received,
+
+and shall send the account to the Comptroller and Auditor General not later than the end of November in the following financial year; and the Comptroller and Auditor General shall examine, certify and report on the account and lay copies of it, together with his report, before each House of Parliament.
+
+### 9 Temporary restrictions on successor company’s borrowings etc.
+
+(1) If the articles of association of the successor company confer on the Secretary of State powers exercisable with the consent of the Treasury for, or in connection with, restricting the sums of money which may during any period be borrowed or raised by the successor company and its subsidiaries, taken as a whole, those powers shall be exercisable in the national interest notwithstanding any rule of law and the provisions of any enactment.
+
+(2) For the purposes of this section any alteration of the articles of association of the successor company which—
+
+(a) has the effect of conferring or extending any such power as is mentioned in subsection (1), and
+
+(b) is made at a time when that company has ceased to be wholly owned by the Crown,
+
+shall be disregarded.
+
+## Dissolution of the Corporation
+
+### 10 Dissolution of the Corporation.
+
+(1) The Corporation shall continue in existence after the appointed day until it is dissolved in accordance with subsection (2); and the period of its continued existence after the appointed day is referred to in this Act as “the transitional period”.
+
+(2) Once the Secretary of State is satisfied that nothing further remains to be done by the Corporation under Schedule 3 to this Act, he may, after consulting the Corporation and the successor company, by order dissolve the Corporation on a day specified in the order.
+
+## Supplementary provisions
+
+### 11 Corporation tax.
+
+(1) Subject to subsection (2), the successor company shall be treated for all purposes of corporation tax as if it were the same person as the Corporation.
+
+(2) The successor company shall not by virtue of subsection (1) be regarded as a body falling within section [[^F14]170(12) of the [^M1]Taxation of Chargeable Gains Act 1992] (bodies established for carrying on industries or undertakings under national ownership or control).
+
+(3) Section 400(1) of the [^M2]Income and Corporation Taxes Act 1988 (write-off of government investment : restriction of tax losses) shall not have effect in relation to any reduction in the Corporation’s public dividend capital under section 2(1) above or its extinguishment by virtue of section 2(3) above; but instead the Secretary of State may, with the consent of the Treasury, direct that such amount as is specified in the direction shall be set off against the successor company’s tax losses as at the end of the accounting period ending last before the date of the direction.
+
+(4) No direction shall be given by the Secretary of State under subsection (3) above at a time when the successor company has ceased to be wholly owned by the Crown.
+
+(5) For the purposes of subsection (3) above the successor company’s tax losses as at the end of the accounting period there mentioned are those referred to in paragraphs (a) to (e) of subsection (2) of the said section 400; and subsections (3) to (5) of that section shall have effect in relation to any set-off under subsection (3) above as if—
+
+(a) any reference to subsection (1) of that section were a reference to subsection (3) above; and
+
+(b) the reference in subsection (4) of that section to the write-off date were a reference to the date of the direction under subsection (3) above.
+
+(6) Subsection (6) of the said section 400 shall apply in relation to any such reduction or extinguishment of the Corporation’s public dividend capital as is mentioned in subsection (3) above as if the reference to the body in question were a reference to the Corporation.
+
+[[^F15](7) For the purposes of Part VI of the [^M3]Income and Corporation Taxes Act 1988 (company distributions) and [[^F16] Part 5 of the Corporation Tax Act 2009 ] (loan relationships), any debentures issued in pursuance of section 3 above shall be treated as having been issued for new consideration equal to the principal sum payable under the debenture.]
+
+(8) The vesting in the successor company by virtue of section 1 above of liability for a loan made to the Corporation shall not affect any direction given by the Treasury in respect of the loan under section 416 of the [^M4]Income and Corporation Taxes Act 1970 (borrowing in foreign currency).
+
+(9) In this section “accounting period” has the same meaning as in the [^M5]Income and Corporation Taxes Act 1988.
+
+### [^F17]12 Application of Trustee Investments Act 1961 in relation to investment in the successor company.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13 Orders.
+
+(1) Any power of the Secretary of State to make an order under this Act shall be exercisable by statutory instrument.
+
+(2) Any statutory instrument containing an order made by the Secretary of State under section [^F18]... 16(2) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 14 Administrative expenses.
+
+Any administrative expenses incurred by the Secretary of State in consequence of the provisions of this Act shall be paid out of money provided by Parliament.
+
+### 15 Interpretation.
+
+(1) In this Act—
+
+- “the 1982 Act” means the [^M6]Iron and Steel Act 1982;
+- “the appointed day” means the day appointed under section 1(1);
+- “the Corporation” means the British Steel Corporation;
+- “debenture” includes debenture stock;
+- “enactment” includes an enactment comprised in subordinate legislation;
+- “financial year”, in relation to the Corporation, means the period prescribed by or under section 23 of the 1982 Act;
+- “public dividend capital”, in relation to the Corporation, shall be construed in accordance with section 2(2);
+- “securities”, in relation to a company, includes shares, debentures, bonds and other securities of the company, whether or not constituting a charge on the assets of the company;
+- “shares” includes stock;
+- “subordinate legislation” has the same meaning as in the [^M7]Interpretation Act 1978;
+- “subsidiary” [[^F19]has the meaning given by [[^F20]section 1159 of the Companies Act 2006]];
+- “ the successor company ” means the company nominated for the purposes of section 1;
+- “ the transitional period ” has the meaning given by section 10(1).
+
+(2) A company shall be regarded for the purposes of this Act as wholly owned by the Crown at any time when each of the issued shares of the company is held by, or by a nominee of, the Treasury or the Secretary of State.
+
+### 16 Consequential amendments, repeals and transitional provisions.
+
+(1) In the following provisions of the [^M8]Mineral Workings Act 1985, namely—
+
+(a) section 4(2) and (6) (arrangements affecting agricultural land), and
+
+(b) section 5(1) and (2) (finance for forestry),
+
+any reference to the Corporation shall be construed, as from the appointed day, as a reference to the successor company.
+
+(2) The Secretary of State may by order make—
+
+(a) such consequential modifications of any provision contained in any Act (whether public general or local) passed, or subordinate legislation made, before the appointed day as appear to him to be necessary or expedient in connection with any reference in that Act or subordinate legislation to the Corporation;
+
+(b) such transitional or saving provision as appears to him to be necessary or expedient in connection with the coming into force of any provision of this Act;
+
+and any provision of an order made under this subsection after the appointed day may be made so as to have effect as from that or any later day.
+
+(3) The enactments mentioned in Schedule 2 to this Act (which include certain spent enactments) are hereby repealed to the extent specified in the third column of that Schedule.
+
+(4) The transitional provisions and savings contained in Schedule 3 to this Act shall have effect.
+
+### 17 Short title, commencement and extent.
+
+(1) This Act may be cited as the British Steel Act 1988.
+
+(2) Sections 2 and 15(1) and this section shall come into force on the day on which this Act is passed.
+
+(3) The remaining provisions of this Act (except those specified in subsection (4)) shall come into force on the appointed day.
+
+(4) Part II of Schedule 2, and section 16(3) so far as relating thereto, shall come into force on the dissolution of the Corporation.
+
+(5) With the exception of the provisions mentioned in subsection (6), this Act does not extend to Northern Ireland.
+
+(6) Those provisions are—
+
+(a) section 1 and Schedule 1;
+
+(b) sections 13 and 15;
+
+(c) section 16(2);
+
+(d) section 16(3) and Schedule 2 so far as they repeal any enactment extending to Northern Ireland;
+
+(e) section 16(4) and Schedule 3; and
+
+(f) this section.
+
+## SCHEDULE 1 — Provisions supplementary to s.1
+
+*Section 1(6).*
+
+### Provisions as to vesting of property etc. of Corporation
+
+**1** Any agreement made, transaction effected or other thing done by, to or in relation to the Corporation which is in force or effective immediately before the appointed day shall have effect as from that day as if made, effected or done by, to or in relation to the successor company, in all respects as if the successor company were the same person, in law, as the Corporation; and accordingly references to the Corporation —
+
+(a) in any agreement (whether or not in writing) and in any deed, bond or instrument,
+
+(b) in any process or other document issued, prepared or employed for the purpose of any proceeding before any court or other tribunal or authority, and
+
+(c) in any other document whatever (other than an enactment) relating to or affecting any property, right or liability of the Corporation which vests by virtue of section 1 in the successor company,
+
+shall be taken as from the appointed day as referring to the successor company.
+
+**2** Where immediately before the appointed day there is in force an agreement which —
+
+(a) confers or imposes on the Corporation any rights or liabilities which vest in the successor company by virtue of section 1, and
+
+(b) refers (in whatever terms and whether expressly or by implication) to a member or officer of the Corporation,
+
+the agreement shall have effect, in relation to anything falling to be done on or after that day, as if for that reference there were substituted a reference to such person as that company may appoint or, in default of appointment, to the officer of that company who corresponds as nearly as may be to the member or officer of the Corporation in question.
+
+**3** (1) It is hereby declared for the avoidance of doubt that—
+
+(a) the effect of section 1 in relation to any contract of employment with the Corporation in force immediately before the appointed day is merely to modify the contract (as from that day) by substituting the successor company as the employer (and not to terminate the contract or vary it in any other way); and
+
+(b) that section is effective to vest the rights and liabilities of the Corporation under any agreement or arrangement for the payment of pensions, allowances or gratuities in the successor company along with all other rights and liabilities of the Corporation.
+
+(2) Accordingly, for the purposes of any such agreement or arrangement as it has effect as from the appointed day—
+
+(a) any period of employment with the Corporation or with a subsidiary of the Corporation, and
+
+(b) any period of employment which would, immediately before that day, have been treated as such employment for the purposes of any such agreement or arrangement,
+
+shall count as employment with the successor company or (as the case may be) with a subsidiary of that company.
+
+### Disqualification of certain directors of successor company
+
+**[^F21]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Repeals
+
+*Section 16(3).*
+
+### Part I — Repeals coming into force on appointed day
+
+|  |  |  |
+|---|---|---|
+| 1971 c. 62. | Tribunals and Inquiries Act 1971. | In Schedule 1, the entry relating to Iron and Steel. |
+| 1980 c. 65. | Local Government, Planning and Land Act 1980. | In section 170(2), the words “, the British Steel Corporation”. |
+|  |  | In Schedule 16, paragraph 13. |
+| 1982 c. 25. | Iron and Steel Act 1982. | In section 1(1), the words from “which shall” onwards. |
+|  |  | Sections 2 to 32. |
+|  |  | In section 33, subsection (1)(c), and in subsection (2) the words from “(c)” to “(1)(c) above”. |
+|  |  | In section 34(1), “32 or”. |
+|  |  | Sections 35 to 38. |
+|  |  | In Schedule 1, paragraphs 7 and 8. |
+|  |  | Schedules 2 to 7. |
+| 1983 c. 29. | Miscellaneous Financial Provisions Act 1983. | In Schedule 2, the entry relating to the 1982 Act. |
+| 1985 c. 12. | Mineral Workings Act 1985. | Section 2. |
+|  |  | Section 3(4) and (5). |
+
+### Part II — Repeals coming into force on dissolution of Corporation (prospective)
+
+|  |  |  |
+|---|---|---|
+| 1975 c. 24. | House of Commons Disqualification Act 1975. | In Part II of Schedule 1, the entry relating to the Corporation. |
+| 1982 c. 25. | Iron and Steel Act 1982. | Section 1. |
+|  |  | Schedule 1. |
+| 1983 c. 44. | National Audit Act 1983. | In Part I of Schedule 4, the entry relating to the Corporation. |
+
+## SCHEDULE 3 — Transitional Provisions and Savings
+
+*Section 16(4).*
+
+### Constitution of the Corporation
+
+**1** During the transitional period section 1(3) of the 1982 Act (constitution of the Corporation) shall have effect as if for “not less than seven” there were substituted “ not less than three ” and paragraph 6(1)(b) of Schedule 1 to that Act (quorum of the Corporation) shall have effect as if for “not less than three” there were substituted “ not less than two ”.
+
+### Vesting of the Corporation’s foreign property etc. in the successor company
+
+**2** (1) It shall be the duty of the Corporation and of the successor company to take, as and when during the transitional period the successor company considers appropriate, all such steps as may be requisite to secure that the vesting in the successor company by virtue of section 1 of this Act or this paragraph of any foreign property, right or liability is effective under the relevant foreign law.
+
+(2) Until the vesting in the successor company by virtue of section 1 of this Act or this paragraph of any foreign property, right or liability is effective under the relevant foreign law, it shall be the duty of the Corporation during the transitional period to hold that property or right for the benefit of, or to discharge that liability on behalf of, the successor company.
+
+(3) Nothing in sub-paragraphs (1) and (2) shall be taken as prejudicing the effect under the law of the United Kingdom, or of any part of the United Kingdom, of the vesting in the successor company by virtue of section 1 of this Act or this paragraph of any foreign property, right or liability.
+
+(4) The Corporation shall have all such powers as may be requisite for the performance of its duties under this paragraph, but—
+
+(a) it shall be the duty of the successor company during the transitional period to act on behalf of the Corporation (so far as possible) in performing the duties imposed on the Corporation by this paragraph; and
+
+(b) any foreign property, rights and liabilities acquired or incurred by the Corporation during that period shall immediately become property, rights and liabilities of the successor company.
+
+(5) References in this paragraph to any foreign property, right or liability are references to any property, right or liability as respects which any issue arising in any proceedings would have been determined (in accordance with the rules of private international law) by reference to the law of a country or territory outside the United Kingdom.
+
+(6) Any expenses incurred by the Corporation under this paragraph shall be met by the successor company.
+
+### Application of enactments to certain continuing liabilities
+
+**3** Where any loan made to the Corporation under section 17 of the 1982 Act (loans by Secretary of State) is in existence immediately before the appointed day, any terms which are then applicable to the loan shall continue to apply to it after it becomes a liability of the successor company by virtue of section 1 of this Act, and section 17(4) shall continue to have effect as respects sums received by virtue of this paragraph.
+
+**4** (1) Where, as respects any financial year of the Corporation ending before the appointed day, the Corporation has either—
+
+(a) failed to discharge before that day the obligation imposed by section 18(5) of the 1982 Act, or
+
+(b) failed to make before that day a proposal under section 18(5)(a) acceptable to the Secretary of State and the Treasury,
+
+and no direction as respects that year has been given before that day by the Secretary of State under section 18(5), then (subject to sub-paragraph (2) below) section 18(5) and (6) of that Act shall continue to apply in relation to that financial year, but as if—
+
+(i) references to the Corporation were references to the successor company,
+
+(ii) the reference in section 18(5) to each of the Corporation’s financial years were a reference to that financial year, and
+
+(iii) in section 18(5)(a) the words from “beginning with” to “of this Act” were omitted.
+
+(2) No direction shall be given by the Secretary of State under section 18(5) of the 1982 Act (as continued in force by virtue of sub-paragraph (1) above) at a time when the successor company has ceased to be wholly owned by the Crown.
+
+(3) Where, as respects any financial year of the Corporation ending before the appointed day—
+
+(a) the Corporation has before that day made a proposal under section 18(5)(a) of the 1982 Act acceptable to the Secretary of State and the Treasury, or
+
+(b) a direction has been given before that day by the Secretary of State under section 18(5),
+
+but (in either case) no dividend has become payable under section 18(6) of that Act, section 18(6) shall continue to apply in relation to that proposal or direction (as the case may be), but as if—
+
+(i) the first reference to the Corporation were a reference to the successor company, and
+
+(ii) the second such reference included a reference to that company.
+
+(4) Any sums received by the Secretary of State from the successor company—
+
+(a) by virtue of sub-paragraph (1) or (3) above, or
+
+(b) in the discharge of any liability to pay a dividend under section 18(6) which accrued before the appointed day (and accordingly has become a liability of that company by virtue of section 1 of this Act),
+
+shall be paid into the Consolidated Fund.
+
+### Treasury guarantees
+
+**5** Subsections (2) to (5) of section 21 of the 1982 Act (Treasury guarantees) shall continue to apply in relation to any guarantee given by the Treasury under that section with respect to a liability of the Corporation which becomes a liability of the successor company by virtue of section 1 of this Act, but as if the reference to the Corporation in section 21(4) were a reference to the successor company.
+
+### Final reports and accounts of the Corporation
+
+**6** (1) Notwithstanding the repeal of section 6(2) to (7) of, and Schedule 2 to, the 1982 Act (reports to the Secretary of State)—
+
+(a) it shall continue to be the duty of the Corporation to make a report to the Secretary of State in accordance with those provisions in respect of each financial year of the Corporation ending before the appointed day; and
+
+(b) the Secretary of State shall lay a copy of any such report before each House of Parliament.
+
+(2) Notwithstanding the repeal of section 24 of the 1982 Act (accounts of the Corporation and audit)—
+
+(a) it shall continue to be the duty of the Corporation to prepare such statements of accounts as are mentioned in subsection (1)(a) to (c) of that section in respect of each financial year of the Corporation ending before the appointed day; and
+
+(b) that section shall continue to apply during the transitional period in relation to those accounts and in relation also to the auditing of accounts kept in accordance with subsection (1) of that section in respect of each such financial year.
+
+(3) Any expenses incurred by the Corporation under this paragraph shall be met by the successor company.
+
+### Accounts of the Secretary of State
+
+**7** Notwithstanding the repeal of section 20 of the 1982 Act (accounts of the Secretary of State), that section shall continue to apply in relation to—
+
+(a) any financial year down to and including that in which the appointed day falls; and
+
+(b) any subsequent financial year in which the Secretary of State receives any sum by virtue of paragraph 3 above or any sum falling within paragraph 4(4) above.
+
+### Pensions and compensation payments
+
+**8** (1) The repeal by this Act of Schedule 3 to the 1982 Act (pension rights of employees) shall not affect—
+
+(a) the continuation in force of any pension scheme subsisting immediately before the appointed day in accordance with any regulations which then had effect as if made under that Schedule, or
+
+(b) any person’s rights or liabilities then subsisting in relation to any pension scheme by virtue of any such regulations.
+
+(2) In sub-paragraph (1) above “pension scheme” means a pension scheme within the meaning of Schedule 3 to the 1982 Act.
+
+**9** (1) Any provisions of the [^M9]Iron and Steel (Pensions) (Dependants) Regulations 1969 having effect immediately before the appointed day as if made under Schedule 3 to the 1982 Act shall continue in force (subject to the following provisions of this paragraph) notwithstanding the repeal by this Act of that Schedule.
+
+(2) Any reference to the Corporation in those provisions shall have effect, as respects anything falling to be done or occurring on or after the appointed day, as if it were a reference to the successor company.
+
+(3) Those provisions may be amended or revoked in like manner as if Schedule 3 to the 1982 Act had not been repealed (but the reference to the Corporation in paragraph 4(2) of that Schedule shall be construed as a reference to the successor company).
+
+**[^F22]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Savings in connection with transfers to the Corporation
+
+**11** The repeals made by this Act shall not affect—
+
+(a) any document or other thing which has effect immediately before the appointed day subject to any modifications prescribed by the [^M10]Steel Companies (Vesting) Order 1970, or
+
+(b) anything not falling within sub-paragraph (a) above (other than an enactment) which then has effect or is continuing subject to, or to modifications in consequence of, the substitution of the Corporation for any other person or body;
+
+but, as from the appointed day, anything falling within sub-paragraph (a) or (b) above shall be further subject to such of the provisions of paragraphs 1 to 3 of Schedule 1 to this Act as are applicable.
+
+### Payment of dividend by successor company before laying or delivery of accounts
+
+**12** (1) Where it is proposed to declare a distribution during the accounting reference period of the successor company which includes the appointed day, or before any accounts are laid or delivered to the registrar of companies in respect of that period, sections 270 to 276 of the [^M11]Companies Act 1985 (relevant accounts) shall have effect as if—
+
+(a) such accounts as are mentioned in sub-paragraph (2) were accounts relevant under section 270, and
+
+(b) references in section 273 to initial accounts included references to any such accounts,
+
+and, if any direction has been given under section 7(2)(b) of this Act which is relevant to the making of that distribution, shall accordingly have effect subject to that direction.
+
+(2) The accounts referred to in sub-paragraph (1)(a) and (b) are such accounts as, on the assumptions stated in sub-paragraph (3), would have been prepared under section 227 of the [^M12]Companies Act 1985 in respect of the relevant year.
+
+(3) Those assumptions are—
+
+(a) that the relevant year had been a financial year of the successor company;
+
+(b) that the vesting effected by section 1 of this Act had been a vesting of all the property, rights and liabilities to which the Corporation was entitled or subject immediately before the beginning of the relevant year and had been effected immediately after the beginning of that year;
+
+(c) that the value of any asset and the amount of any liability of the Corporation vested in the successor company by virtue of that section had been the value or (as the case may be) the amount assigned to that asset or liability for the purposes of the statement of accounts prepared by the Corporation in respect of its financial year immediately preceding the relevant year;
+
+(d) that any reduction in the Corporation’s public dividend capital under section 2(1) of this Act had been effected during the relevant year, and had constituted such a reduction or reorganisation of capital as is mentioned in section 7(7) of this Act;
+
+(e) that any securities of the successor company issued or allotted before the declaration of the distribution had been issued or allotted before the end of the relevant year; and
+
+(f) such other assumptions (if any) as may appear to the directors of the successor company to be necessary or expedient for the purposes of this paragraph.
+
+(4) For the purposes of such accounts as are mentioned in sub-paragraph (2) the amount to be included in respect of any item shall be determined as if anything done by the Corporation (whether by way of acquiring, revaluing or disposing of any asset or incurring, revaluing or discharging any liability, or by carrying any amount to any provision or reserve, or otherwise) had been done by the successor company.
+
+Accordingly (but without prejudice to the generality of the preceding provision)—
+
+(a) the amount to be included in any reserves of the successor company as representing its accumulated realised profits shall be determined as if any profits realised and retained by the Corporation had been realised and retained by the company; and
+
+(b) the amount to be included in any such accounts as representing the accumulated realised losses of the successor company shall be determined as if any losses realised by the Corporation had been realised by the company.
+
+(5) Any such accounts shall not be regarded as statutory accounts for the purposes of section 7 of this Act.
+
+(6) In this paragraph “the relevant year” means the last financial year of the Corporation ending before the appointed day.
+
+---
+
+[^F1]: S. 1(2) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 16 Group 1
+[^F2]: S. 1(5) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 16 Group 1
+[^F3]: S. 2 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 16 Group 1
+[^F4]: S. 3(1)-(4) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 16 Group 1
+[^F5]: Words in s. 4(1) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(3)(r), Sch. 23 para. 11(2)(a)
+[^F6]: S. 6 omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(3)(r), Sch. 23 para. 11(1)
+[^F7]: Words in s. 7(2)(b) substituted (6.4.2008) by The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948), art. 2(2), Sch. 1 para. 153(2)(a) (with arts. 6, 11, 12)
+[^F8]: Words in s. 7(2) substituted (6.4.2008) by The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948), art. 2(2), Sch. 1 para. 153(2)(b) (with arts. 6, 11, 12)
+[^F9]: Words in s. 7(4) substituted (6.4.2008) by The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948), art. 2(2), Sch. 1 para. 153(3)(a) (with arts. 6, 11, 12)
+[^F10]: Words in s. 7(4) substituted (6.4.2008) by The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948), art. 2(2), Sch. 1 para. 153(3)(c) (with arts. 6, 11, 12)
+[^F11]: Words in s. 7(4) substituted (6.4.2008) by The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948), art. 2(2), Sch. 1 para. 153(3)(b) (with arts. 6, 11, 12)
+[^F12]: Words in s. 7(7) substituted (6.4.2008) by The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948), art. 2(2), Sch. 1 para. 153(4) (with arts. 6, 11, 12)
+[^F13]: Words in s. 7(8) substituted (6.4.2008) by The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948), art. 2(2), Sch. 1 para. 153(5) (with arts. 6, 11, 12)
+[^F14]: Words in s. 11(2) substituted (6.3.1992 with effect as mentioned in s. 289(1)(2) of the substituting Act) by Taxation of Chargeable Gains Act 1992 (c. 12), ss. 289, 290, Sch. 10 para. 15 (with ss. 60, 101(1), 201(3)).
+[^M1]: 1992 c. 12
+[^M2]: 1988 c. 1.
+[^F15]: S. 11(7) substituted (29.4.1996) by 1996 c. 8, s. 104, Sch. 14 para.55 (with savings etc. in Pt. IV Ch. II (ss. 80-105))
+[^M3]: 1988 c. 1.
+[^F16]: Words in s. 11(7) substituted (1.4.2009) by Corporation Tax Act 2009 (c. 4), s. 1329(1), Sch. 1 para. 329 (with Sch. 2 Pt. 1, 2)
+[^M4]: 1970 c. 10.
+[^M5]: 1988 c. 1.
+[^F17]: S. 12 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 16 Group 1
+[^F18]: Words in s. 13(2) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(3)(r), Sch. 23 para. 11(2)(b)
+[^M6]: 1982 c. 25 .
+[^M7]: 1978 c. 30 .
+[^F19]: Words substituted by Companies Act 1989 (c. 40, SIF 27) , s. 144(4) , Sch. 18 para. 47
+[^F20]: Words in s. 15(1) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941) , art. 1(2) , Sch. 1 para. 95 (with art. 10 )
+[^M8]: 1985 c. 12.
+[^F21]: Sch. 1 para. 4 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 16 Group 1
+[^M9]: S.I. 1969/1052.
+[^F22]: Sch. 3 para. 10 omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(3)(r), Sch. 23 para. 12
+[^M10]: S.I. 1970/430.
+[^M11]: 1985 c. 6.
+[^M12]: 1985 c. 6.

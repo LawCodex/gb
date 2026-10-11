@@ -1,0 +1,127 @@
+---
+title: "Petroleum Revenue Tax Act 1980"
+identifier: "ukpga/1980/1"
+citation: "1980 c. 1"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1980-01-31
+last_amended: 2009-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1980/1"
+source_modified: 2015-08-18
+retrieved: 2026-10-11
+---
+
+# Petroleum Revenue Tax Act 1980
+
+**1980 c. 1**
+
+An Act to make new provision in respect of petroleum revenue tax so as to require payments on account of tax to be made in advance of the making of an assessment, to bring forward the date from which interest is payable on unpaid and overpaid tax and to provide for altering the rate at which such interest is payable.
+
+[31st January 1980][^X1]
+
+## 1 Payments on account of tax.
+
+(1) Every participator in an oil field shall, at the time when he delivers to the Board the return for a chargeable period required by paragraph 2 of Schedule 2 to the [^M1]Oil Taxation Act 1975—
+
+(a) deliver to the Board a statement showing whether any, and if so what, amount of tax is payable by him in accordance with the Schedule to this Act for that period in respect of the field; and
+
+(b) pay to the Board a sum equal to the amount of tax, if any, shown in the statement [[^F1]less an amount equal to his APRT credit for that chargeable period in respect of that oil field].
+
+(2) The statement under subsection (1)(a) above shall be in such form as the Board may prescribe.
+
+(3) The sum paid under subsection (1)(b) above shall constitute a payment on account of the tax charged in any assessment made on the participator in respect of the assessable profit accruing to him for the chargeable period from the oil field; and if the payment on account exceeds the tax so charged [[^F1]less the amount of the APRT credit deducted in accordance with subsection 1(b) above from the tax shown in the statement] the excess shall be repaid to the participator.
+
+[[^F2](3A) In subsections (1) and (3) above “APRT credit” has the meaning given by section 139(4) of the Finance Act 1982.
+
+(3B) Paragraphs 3 [^F3]... of Schedule 2 of the principal Act (penalties for failure to make returns under paragraph 2 of that Schedule) shall apply in relation to statements required to be made under subsection (1)( *a* ) above as they apply in relation to returns required to be made under paragraph 2 of that Schedule. ]
+
+(4) In paragraph 13 of Schedule 2 to the said Act of 1975 (time for payment of tax charged in an assessment) after the words “the tax charged in an assessment made on a participator for any chargeable period” there shall be inserted the words “ so far as not paid on account ”.
+
+(5) Where a participator gives notice of appeal under paragraph 14 of the said Schedule 2 against an assessment charging tax in respect of which he has made a payment on account, the amount, if any, to be repaid under subsection (3) above shall be calculated as if the tax charged in the assessment were limited to the tax which he would not be entitled to withhold under sub-paragraph (3) of that paragraph.
+
+(6) Certificates of tax deposit issued by the Treasury under section 12 of the [^M2]National Loans Act 1968 on terms published on or before 14th May 1979 may be used for making payments on account under this section; and for that purpose those terms shall have effect with the necessary modifications and as if the tax in or towards the payment of which a certificate is used were due two months after the end of the chargeable period to which it relates.
+
+## 2 Interest on tax and on repayments.
+
+(1) In paragraph 15(1) of Schedule 2 to the Oil Taxation Act 1975 and paragraph 8(4) of Schedule 5 to that Act (interest on unpaid tax to run from four months after the end of the chargeable period) for the words “four months” there shall be substituted the words “ two months ”.
+
+(2) In paragraph 16 of the said Schedule 2 (interest on repayments of tax charged by an assessment to run from four months after the end of the chargeable period) after the words “tax charged by an assessment to tax” there shall be inserted the words “ or paid on account of tax so charged ” and for the words from “from four months” onwards there shall be substituted the words
+
+> from—
+>
+> (a) two months after the end of the chargeable period for which the assessment was made; or
+>
+> (b) the date on which it was paid,
+>
+> whichever is the later, until repayment.
+
+.
+
+(3) Any alteration made under section 89(2) of the [^M3]Taxes Management Act 1970 in the rate of interest mentioned in the said paragraph 15(1) shall apply also to the rate of interest mentioned in the said paragraphs 8(4) and 16.
+
+## 3 Short title, construction and commencement.
+
+(1) This Act may be cited as the Petroleum Revenue Tax Act 1980.
+
+(2) This Act shall be construed as one with Part I of the [^M4]Oil Taxation Act 1975.
+
+(3) Section 1 above has effect in relation to chargeable periods ending on or after 31st December 1979, section 2(1) and (2) above have effect in relation to tax charged for any such period and section 2(3) above has effect from 1st January 1980.
+
+## SCHEDULE — Computation of Payment on Account
+
+**1** For the purposes of section 1(1)(a) of this Act the tax payable by a participator for any chargeable period in respect of an oil field shall be determined as provided in the following provisions of this Schedule; and references in those provisions to any section or Schedule is a reference to that section or Schedule in the [^M5]Oil Taxation Act 1975.
+
+**2** (1) There shall first be determined whether a computation made in accordance with section 2 as modified by the following provisions of this paragraph would result in an assessable profit, an allowable loss or neither an assessable profit or allowable loss and, if it would result in an assessable profit or allowable loss, the amount of that profit or loss.
+
+(2) The market value, price and amounts referred to in section 2(5), (6)(b)(ii) and (7)(b) and (c) shall be taken from the particulars included in the return in pursuance of paragraph 2(2) and (3) of Schedule 2.
+
+[[^F4](2A) The amount of any tariff or disposal receipts, within the meaning of the Oil Taxation Act 1983, shall be taken from the particulars included in the return referred to in sub-paragraph (2), and any amount by which any of those tariff receipts are to be treated as reduced under section 9 of that Act shall be determined accordingly.]
+
+(3) The amount referred to in section 2(8)(b) shall be treated as nil and section 2(9)(a), (10) and (11) shall be omitted.
+
+(4) Any expenditure in respect of which a claim has been made under Schedule 5, 6 or 7 and in respect of which the Board have not notified their decision under that Schedule may be treated for the purposes of section 2(9)(b), (c) [[^F5],d, [[^F6](f) or (g)]]
+
+(a) as having been allowed; and
+
+(b) in the case of expenditure claimed as qualifying for supplement under section 2(9)(b)(ii) or (c)(ii), as having been allowed as so qualifying.
+
+(5) The participator’s share of any expenditure which by virtue of sub-paragraph (4) above is treated as having been allowed on a claim under Schedule 5 shall be the share proposed in the claim in pursuance of paragraph 2(4)(b) of that Schedule.
+
+(6) Any loss in respect of which a claim has been made under Schedule 8 and in respect of which the Board have not notified their decision under that Schedule may be treated for the purposes of section 2(9)(e) as having been allowed.
+
+(7) No expenditure or loss shall be taken into account under sub-paragraph (4), (5) or (6) above in relation to more than one chargeable period or more than one oil field.
+
+**3** The amount of any assessable profit resulting from the computation under paragraph 2 above may be reduced by any allowable loss in accordance with section 7(1) and shall be reduced in accordance with section 8 by reference to the participator’s share, if any, of the oil allowance for the chargeable period.
+
+**4** (1) The tax payable shall be arrived at by—
+
+(a) calculating the tax on the amount of assessable profit resulting from the computation under paragraph 2 above as reduced under paragraph 3 above; and
+
+(b) applying the limit imposed by section 9.
+
+(2) In applying section 9 under this paragraph [^F7]—
+
+(a) the assessable profit or allowable loss referred to in subsection (2)(a)(i) of that section shall be computed as provided in paragraph 2 above; and
+
+(b) the expenditure to be excluded under subsection (2)(a)(ii) and (3) of that section from the expenditure taken into account in computing the assessable profit or allowable loss for that period shall not include any expenditure treated under paragraph 2(4)(b) above as having been allowed as qualifying for supplement.
+
+---
+
+[^X1]: General amendments to Tax Acts, Income Tax Acts, and/or Corporation Tax Acts made by legislation after 1.2.1991 are noted against Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1) but not against each Act
+[^M1]: 1975 c. 22.
+[^F1]: Words inserted by Finance Act 1982 (c. 39), s. 139(1)(6), Sch. 19 para. 21 for chargeable periods ending after 31 December 1982. With respect to chargeable periods ending on or before 30 June 1983 see Finance Act 1980 (c. 48), s. 105. In relation to chargeable periods ending after 30 June 1983 see Finance Act 1982 (c. 39), Sch. 19 paras 2 to 4 — instalments of APRT and petroleum revenue tax.
+[^F2]: S. 1(3A)(3B) inserted by Finance Act 1982 (c. 39), s. 139(1)(6), Sch. 19 para. 21 for chargeable periods ending after 31 December 1982. With respect to chargeable periods ending on or before 30 June 1983 see Finance Act 1980 (c. 48), s. 105. In relation to chargeable periods ending after 30 June 1983 see Finance Act 1982 (c. 39), Sch. 19 paras 2 to 4 — instalments of APRT and petroleum revenue tax.
+[^F3]: Words in s. 1(3B) omitted (1.4.2009) by virtue of Finance Act 2008 (c. 9), s. 122(2), Sch. 40 para. 21(b); S.I. 2009/571, art. 2
+[^M2]: 1968 c. 13.
+[^M3]: 1970 c. 9.
+[^M4]: 1975 c. 22.
+[^M5]: 1975 c. 22.
+[^F4]: Sch. para. 2(2A) inserted by Oil Taxation Act 1983 (c. 56), s. 10(6)
+[^F5]: Words substituted by Finance Act 1983 (c. 28), s. 37(2), Sch. 8 Part II para. 7.
+[^F6]: Words substituted by Finance Act 1987 (c. 16), s. 64(2), Sch. 13 Part II para. 6.
+[^F7]: Words repealed by Finance Act 1981 (c. 35), s. 139, Sch. 19 Part X.

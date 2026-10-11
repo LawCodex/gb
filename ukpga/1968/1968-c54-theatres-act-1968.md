@@ -1,0 +1,510 @@
+---
+title: "Theatres Act 1968"
+identifier: "ukpga/1968/54"
+citation: "1968 c.54"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S"
+date: 1968-07-26
+last_amended: 2021-01-27
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1968/54"
+source_modified: 2024-05-17
+retrieved: 2026-10-11
+---
+
+# Theatres Act 1968
+
+**1968 c.54**
+
+An Act to abolish censorship of the theatre and to amend the law in respect of theatres and theatrical performances.
+
+[26th July 1968]
+
+## Abolition of censorship of the theatre
+
+### 1 Abolition of censorship of the theatre.
+
+(1) The [^M1]Theatres Act 1843 is hereby repealed; and none of the powers which were exercisable thereunder by the Lord Chamberlain of Her Majesty’s Household shall be exercisable by or on behalf of Her Majesty by virtue of Her royal prerogative.
+
+(2) [^F1][^F2]In granting, renewing or transferring any licence under this Act for the use of any premises for the public performance of plays or in varying any of the terms, conditions or restrictions on or subject to which any such licence is held, the licensing authority shall not have power to impose any term, condition or restriction as to the nature of the plays which may be performed under the licence or as to the manner of performing plays thereunder:
+
+[^F1][^F2]Provided that nothing in this subsection shall prevent a licensing authority from imposing any term, condition or restriction which they consider necessary in the interests of physical safety or health or any condition regulating or prohibiting the giving of an exhibition, demonstration or performance of hypnotism within the meaning of the [^M2][^F1][^F2]Hypnotism Act 1952.
+
+## Provisions with respect to performances of plays
+
+### 2 Prohibition of presentation of obscene performances of plays.
+
+(1) For the purposes of this section a performance of a play shall be deemed to be obscene if, taken as a whole, its effect was such as to tend to deprave and corrupt persons who were likely, having regard to all relevant circumstances, to attend it.
+
+(2) Subject to sections 3 and 7 of this Act, if an obscene performance of a play is given, whether in public or private, any person who (whether for gain or not) presented or directed that performance shall be liable—
+
+(a) on summary conviction, to a fine not exceeding £400 or to imprisonment for a term not exceeding six months;
+
+(b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding three years, or both.
+
+(3) A prosecution on indictment for an offence under this section shall not be commenced more than two years after the commission of the offence.
+
+(4) No person shall be proceeded against in respect of a performance of a play or anything said or done in the course of such a performance—
+
+(a) for an offence at common law where it is of the essence of the offence that the performance or, as the case may be, what was said or done was obscene, indecent, offensive, disgusting or injurious to morality; or
+
+(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F3]
+
+(c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F4]
+
+and no person shall be proceeded against for an offence at common law of conspiring to corrupt public morals, or to do any act contrary to public morals or decency, in respect of an agreement to present or give a performance of a play, or to cause anything to be said or done in the course of such a performance.
+
+### 3 Defence of public good.
+
+(1) A person shall not be convicted of an offence under section 2 of this Act if it is proved that the giving of the performance in question was justified as being for the public good on the ground that it was in the interests of drama, opera, ballet or any other art, or of literature or learning.
+
+(2) It is hereby declared that the opinion of experts as to the artistic, literary or other merits of a performance of a play may be admitted in any proceedings for an offence under section 2 of this Act either to establish or negative the said ground.
+
+### 4 Amendment of law of defamation.
+
+(1) For the purposes of the law of libel and slander [^F5]... the publication of words in the course of a performance of a play shall, subject to section 7 of this Act, be treated as publication in permanent form.
+
+(2) The foregoing subsection shall apply for the purposes of section 3 (slander of title, etc.) of the [^M3]Defamation Act 1952 as it applies for the purposes of the law of libel and slander.
+
+(3) In this section “words” includes pictures, visual images, gestures and other methods of signifying meaning.
+
+(4) This section shall not apply to Scotland.
+
+### 5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F6]
+
+### 6 Provocation of breach of peace by means of public performance of a play.
+
+(1) Subject to section 7 of this Act, if there is given a public performance of a play involving the use of threatening, abusive or insulting words or behaviour, any person who (whether for gain or not) presented or directed that performance shall be guilty of an offence under this section if—
+
+(a) he did so with intent to provoke a breach of the peace; or
+
+(b) the performance, taken as a whole, was likely to occasion a breach of the peace.
+
+(2) A person guilty of an offence under this section shall be liable—
+
+[[^F7]on summary conviction to a fine not exceeding [[^F8]level 5 on the standard scale]or to imprisonment for a term not exceeding six months or to both.]
+
+### 7 Exceptions for performances given in certain circumstances.
+
+(1) Nothing in sections 2 to 4 of this Act shall apply in relation to a performance of a play given on a domestic occasion in a private dwelling.
+
+(2) Nothing in sections 2 to 6 of this Act shall apply in relation to a performance of a play given solely or primarily for one or more of the following purposes, that is to say—
+
+(a) rehearsal; or
+
+(b) to enable—
+
+(i) a record or cinematograph film to be made from or by means of the performance; or
+
+(ii) the performance to be broadcast; or
+
+[[^F9](iii) the performance to be included in a programme service (within the meaning of the Broadcasting Act 1990) other than a sound or television broadcasting service;]
+
+but in any proceedings for an offence under section 2, 5 or 6 of this Act alleged to have been committed in respect of a performance of a play [^F10]..., if it is proved that the performance was attended by persons other than persons directly connected with the giving of the performance or the doing in relation thereto of any of the things mentioned in paragraph (b) above, the performance shall be taken not to have been given solely or primarily for one or more of the said purposes unless the contrary is shown.
+
+(3) In this section—
+
+- “broadcast” means broadcast by wireless telegraphy (within the meaning of [[^F11]the Wireless Telegraphy Act 2006]), whether by way of sound broadcasting or television;
+- “cinematograph film” means any print, negative, tape or other article on which a performance of a play or any part of such a performance is recorded for the purposes of visual reproduction;
+- “record” means any record or similar contrivance for reproducing sound, including the sound-track of a cinematograph film;
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F12]
+
+### 8 Restriction on institution of proceedings.
+
+Proceedings for an offence under section 2, 5 or 6 of this Act [^F13]... shall not be instituted in England and Wales except by or with the consent of the Attorney-General.
+
+### 9 Script as evidence of what was performed.
+
+(1) Where a performance of a play was based on a script, then, in any proceedings for an offence under section 2, 5 or 6 of this Act alleged to have been committed in respect of that performance—
+
+(a) an actual script on which that performance was based shall be admissible as evidence of what was performed and of the manner in which the performance or any part of it was given; and
+
+(b) if such a script is given in evidence on behalf of any party to the proceedings then, except in so far as the contrary is shown, whether by evidence given on behalf of the same or any other party, the performance shall be taken to have been given in accordance with that script.
+
+(2) In this Act “script”, in relation to a performance of a play, means the text of the play (whether expressed in words or in musical or other notation) together with any stage or other directions for its performance, whether contained in a single document or not.
+
+### 10 Power to make copies of scripts.
+
+(1) If a police officer of or above the rank of superintendent has reasonable grounds for suspecting—
+
+(a) that an offence under section 2, 5 or 6 of this Act has been committed by any person in respect of a performance of a play; or
+
+(b) that a performance of a play is to be given and that an offence under the said section 2, 5 or 6 is likely to be committed by any person in respect of that performance,
+
+he may make an order in writing under this section relating to that person and that performance.
+
+(2) Every order made under this section shall be signed by the police officer by whom it is made, shall name the person to whom it relates, and shall describe the performance to which it relates in a manner sufficient to enable that performance to be identified.
+
+(3) Where an order under this section has been made, any police officer, on production if so required of the order—
+
+(a) may require the person named in the order to produce, if such a thing exists, an actual script on which the performance was or, as the case may be, will be based; and
+
+(b) if such a script is produced to him, may require the person so named to afford him an opportunity of causing a copy thereof to be made.
+
+(4) Any person who without reasonable excuse fails to comply with a requirement under subsection (3) above shall be liable on summary conviction to a fine not exceeding [[^F14]level 3 on the standard scale].
+
+(5) Where, in the case of a performance of a play based on a script, a copy of an actual script on which that performance was based has been made by or on behalf of a police officer by virtue of an order under this section relating to that performance, section 9(1) of this Act shall apply in relation to that copy as it applies in relation to an actual script on which the performance was based.
+
+### 11 Delivery of scripts of new plays to British Museum.
+
+(1) Where after the coming into force of this section there is given in Great Britain a public performance of a new play, being a performance based on a script, a copy of the actual script on which that performance was based shall be delivered to the Trustees of the British Museum free of charge within the period of one month beginning with the date of the performance; and the Trustees shall give a written receipt for every script delivered to them pursuant to this section.
+
+(2) If the requirements of subsection (1) above are not complied with in the case of any performance to which that subsection applies, any person who presented that performance shall be liable on summary conviction to a fine not exceeding [[^F15]level 1 on the standard scale].
+
+(3) In this section “public performance of a new play” means a public performance of a play of which no previous public performance has ever been given in Great Britain, but does not include a public performance of a play which—
+
+(a) is based on a script substantially the same as that on which a previous performance of a play given there was based; or
+
+(b) is based substantially on a text of the play which has been published in the United Kingdom.
+
+(4) For the purposes of this section a performance of a play given solely or primarily for one or more of the purposes mentioned in section 7(2)(a) and (b) of this Act shall be disregarded.
+
+## Licensing of premises for public performance of plays
+
+### 12 Licensing of premises for public performance of plays.
+
+[^F16][^F17]1 [^F16][^F17]Subject to the following provisions of this Act, no premises, whether or not licensed for the sale of intoxicating or exciseable liquor, shall be used for the public performance of any play except under and in accordance with the terms of a licence granted under this Act by the licensing authority.
+
+[^F16][^F17]2 [^F16][^F17]A licence shall not be required for any premises under any enactment other than this Act by reason only of the public performance at those premises of a play.
+
+[^F16][^F17]3 [^F16][^F17]For the purposes of subsection (2) above any music played at any premises by way of introduction to, in any interval between parts of, or by way of conclusion of a performance of a play or in the interval between two such performances shall be treated as forming part of the performance or performances, as the case may be, if the total time taken by music so played on any day amounts to less than one quarter of the time taken by the performance or performances of the play or plays given at the premises on that day.
+
+[^F16][^F17][[^F18]3A [^F16][^F17]Where Part 3 of the [^F16][^F17]Fire (Scotland) Act 2005 (asp 5)[^F16][^F17] applies in relation to premises, no term which relates to any matter in relation to which requirements or prohibitions are or could be imposed by virtue of that Part shall be included in a licence granted under this Act in respect of those premises.]
+
+[^F16][^F17]4 [^F16][^F17]Schedule 1 to this Act shall have effect with respect to licences under this Act.
+
+### 13 Enforcement of s. 12.
+
+[^F16][^F17]1 [^F16][^F17]If a public performance of a play is given at any premises in respect of which a licence under this Act is not in force—
+
+[^F16][^F17]a [^F16][^F17]any person concerned in the organisation or management of that performance; and
+
+[^F16][^F17]b [^F16][^F17]any other person who, knowing or having reasonable cause to suspect that such a performance would be given at those premises without such a licence being in force in respect thereof—
+
+[^F16][^F17]i [^F16][^F17]allowed the premises to be used for the giving of that performance; or
+
+[^F16][^F17]ii [^F16][^F17]let the premises, or otherwise made the premises available, to any person by whom the premises were used for the giving of that performance,
+
+[^F16][^F17]shall be guilty of an offence.
+
+[^F16][^F17]2 [^F16][^F17]If, while a licence under this Act is in force in respect of any premises, any of the terms, conditions or restrictions on or subject to which the licence is held is contravened or not complied with—
+
+[^F16][^F17]a [^F16][^F17]the holder of the licence; and
+
+[^F16][^F17]b [^F16][^F17]any other person who, knowing or having reasonable cause to suspect that the premises would be used otherwise than in accordance with those terms, conditions and restrictions—
+
+[^F16][^F17]i [^F16][^F17]allowed the premises to be so used; or
+
+[^F16][^F17]ii [^F16][^F17]let the premises, or otherwise made the premises available, to any person by whom the premises were so used,
+
+[^F16][^F17]shall be guilty of an offence:
+
+[^F16][^F17]Provided that, where the holder of the licence is charged with an offence under this subsection, it shall be a defence to prove that the contravention took place without his consent or connivance and that he exercised all due diligence to prevent it.
+
+[^F16][^F17]3 [^F16][^F17]A person guilty of an offence under subsection (1) or (2) above shall be liable on summary conviction to a fine not exceeding [^F16][^F17][[^F19]level 4 on the standard scale][^F16][^F17]or to imprisonment for a term not exceeding three months, or both.
+
+[^F16][^F17]4 [^F16][^F17]A licensing authority in England and Wales may institute proceedings for an offence under subsection (1) or (2) above committed in their area.
+
+[^F16][^F17]5 [^F16][^F17]If the holder of a licence under this Act is convicted of an offence under subsection (2) above, then, subject to section 14 of this Act, the licensing authority may revoke the licence:
+
+[^F16][^F17]Provided that a licence shall not be revoked under this subsection by virtue of the holder’s conviction as aforesaid unless either—
+
+[^F16][^F17]a [^F16][^F17]the time for bringing an appeal against the conviction has expired without such an appeal having been brought; or
+
+[^F16][^F17]b [^F16][^F17]such an appeal has been brought and abandoned or finally determined otherwise than by the quashing of the conviction.
+
+[^F16][^F17]6 [^F16][^F17]In relation to Scotland, subsection (5) above shall have effect as if the following were substituted for paragraph (a), that is to say—
+
+> [^F16][^F17]a [^F16][^F17]a period of fourteen days from the date of the conviction has expired without an appeal against it having been brought; or
+
+[^F16][^F17]and in paragraph (b), after “abandoned” there were inserted the words “or deemed to be abandoned”.
+
+### 14 Appeals in respect of licences.
+
+[^F16][^F17]1 [^F16][^F17]Any of the following persons, that is to say—
+
+[^F16][^F17]a [^F16][^F17]an applicant for the grant, renewal or transfer of a licence under this Act in respect of any premises whose application is refused;
+
+[^F16][^F17]b [^F16][^F17]an applicant for the variation of the terms, conditions or restrictions on or subject to which any such licence is held whose application is refused; or
+
+[^F16][^F17]c [^F16][^F17]a holder of any such licence whose licence is revoked by the licensing authority under section 13(5) of this Act or who is aggrieved by any term, condition or restriction on or subject to which the licence is held,
+
+[^F16][^F17]may at any time before the expiration of the period of twenty-one days beginning with the relevant date appeal to a magistrates’ court acting for the petty sessions area within which, or in Scotland to the sheriff within whose jurisdiction, the premises are situated; and the court or sheriff may make such order as it or he thinks fit and, subject to subsection (2) below, that order shall be binding on the licensing authority.
+
+[^F16][^F17] In this subsection “ [^F16][^F17]the relevant date[^F16][^F17] ” means the date on which the person in question is notified of the refusal of his application, the revocation of his licence or the imposition of the term, condition or restriction by which he is aggrieved, as the case may be.
+
+[^F16][^F17]2 [^F16][^F17]Any person aggrieved by the order of a magistrates’ court on an appeal under the foregoing subsection may appeal therefrom to [^F16][^F17][[^F20]the Crown Court][^F16][^F17].
+
+[^F16][^F17]3 [^F16][^F17]Where a licence under this Act is revoked under section 13(5) of this Act or an application for the renewal of such a licence is refused, the licence shall be deemed to remain in force—
+
+[^F16][^F17]a [^F16][^F17]during any period within which an appeal under this section may be brought and, if such an appeal is brought within the period for doing so, until the determination or abandonment of the appeal; and
+
+[^F16][^F17]b [^F16][^F17]where an appeal under this section relating to such a refusal as aforesaid is successful and no further such appeal lies, until the licence is renewed by the licensing authority.
+
+[^F16][^F17] 4 [^F16][^F17]In the case of an appeal in relation to an application of which, in accordance with paragraph 2(1) of Schedule 1 to this Act, notice was required to be given to a chief officer of police, notice of the appeal shall be given to that chief officer as well as to any other person to whom it is required to be given apart from this subsection.
+
+## Miscellaneous and general
+
+### 15 Powers of entry and inspection.
+
+(1) If a justice of the peace is satisfied by information on oath that there are reasonable grounds for suspecting, as regards any premises specified in the information—
+
+(a) that a performance of a play is to be given at those premises, and that an offence under section 2, 5 or 6 of this Act is likely to be committed in respect of that performance; [^F21]or
+
+(b) [^F22][^F23]that an offence under section 13(1) of this Act is being or will be committed in respect of those premises,
+
+the justice may issue a warrant under his hand empowering any police officer [^F24][^F25]or, in a case falling within paragraph (b) above, any police officer or authorised officer of the licensing authority at any time within [[^F26]fourteen days][[^F26]one month]from the date of the warrant to enter the premises and—
+
+(i) in a case falling within paragraph (a) above, to attend any performance of a play which may be given there;
+
+(ii) [^F27]in a case falling within paragraph (b) above, to inspect the premises.
+
+In the application of this subsection to Scotland, the references to a justice of the peace shall be construed as including references to the sheriff . . . [^F28]
+
+(2) [^F29][^F30]Any authorised officer of the licensing authority may, on production if so required of his authority, at all reasonable times enter any premises in respect of which a licence under this Act is in force at which he has reason to believe that a performance of a play is being or is about to be given and inspect them with a view to seeing whether the terms, conditions or restrictions on or subject to which the licence is held are complied with.
+
+(3) [^F29][^F30]The power conferred by subsection (2) above on an authorised officer of the licensing authority shall be exercisable also by a police officer who shall not, if wearing uniform, be required to produce any authority.
+
+(4) [^F31][^F30]In relation to premises situated in the area of a [^F31][^F30][^F32]fire[^F31][^F30][^F32][[^F32]relevant][^F31][^F30] authority that is not the same body as the licensing authority, subsection (2) above shall have effect as if the references to an authorised officer of the licensing authority included references to an authorised [^F31][^F30][^F33]officer[^F31][^F30][^F33][[^F33]employee][^F31][^F30] of that [^F31][^F30][^F32]fire[^F31][^F30][^F32][[^F32]relevant][^F31][^F30] authority.
+
+(5) [^F34][^F30]Any person who wilfully obstructs an authorised officer of a licensing authority acting in the execution of a warrant under subsection (1) above or an authorised officer of a licensing authority [^F34][^F30][^F35]or [^F34][^F30][^F35][^F36]fire[^F34][^F30][^F35][^F36][[^F36]authorised employee of a relevant][^F34][^F30][^F35] authority [^F34][^F30]acting in the exercise of his powers under subsection (2) above shall be liable on summary conviction to a fine not exceeding [^F34][^F30][[^F37]level 1 on the standard scale][^F34][^F30].
+
+[^F38]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F39](7) [^F40] In this section, “relevant authority” has the meaning given by section 6 of the [^F40]Fire (Scotland) Act 2005 (asp 5)[^F40] . ]
+
+### 16 Offences by bodies corporate.
+
+Where any offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+### [^F41]17 Existing letters patent.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18 Interpretation.
+
+(1) In this Act—
+
+- [^F42]“[^F42]licensing authority[^F42]” means—
+
+[^F43]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F43]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F43]bb . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) [^F42]in relation to Scotland, [^F42][[^F44]a council constituted under section 2 of the Local Government [^F42]etc.[^F42] (Scotland) Act 1994][^F42];
+
+- “play” means—
+
+(a) any dramatic piece, whether involving improvisation or not, which is given wholly or in part by one or more persons actually present and performing and in which the whole or a major proportion of what is done by the person or persons performing, whether by way of speech, singing or action, involves the playing of a role; and
+
+(b) any ballet given wholly or in part by one or more persons actually present and performing, whether or not it falls within paragraph (a) of this definition;
+
+- [^F45]“[^F45]police officer[^F45]” means a member, or in Scotland a constable, of a police force;[^F45][[^F45]police officer[^F45] means a constable of the Police Service of Scotland;]
+- “premises” includes any place;
+- “public performance” includes any performance in a public place within the meaning of the [^M4]Public Order Act 1936 [^F46]any performance which is not open for the public but which is promoted for private gain and any performance which the public or any section thereof are permitted to attend, whether on payment or otherwise;
+- “script” has the meaning assigned by section 9(2) of this Act.
+
+(2) For the purposes of this Act—
+
+(a) a person shall not be treated as presenting a performance of a play by reason only of his taking part therein as a performer;
+
+(b) a person taking part as a performer in a performance of a play directed by another person shall be treated as a person who directed the performance if without reasonable excuse he performs otherwise than in accordance with that person’s direction; and
+
+(c) a person shall be taken to have directed a performance of a play given under his direction notwithstanding that he was not present during the performance;
+
+and a person shall not be treated as aiding or abetting the commission of an offence under section 2, 5 or 6 of this Act in respect of a performance of a play by reason only of his taking part in that performance as a performer.
+
+### 18A [^F47] Meaning of promotion for private gain.
+
+(1) For the purposes of this Act a performance is promoted for private gain if, and only if—
+
+(a) any proceeds from the performance, that is to say, any sum paid for admission to the performance; or
+
+(b) any other sums (whenever paid) which, having regard to all the circumstances, can reasonably be regarded as paid wholly or partly for admission to the performance; or
+
+(c) where the performance is advertised (whether to the public or otherwise), any sums not falling within paragraph (b) above which are paid for facilities or services provided for persons admitted to the performance;are applied wholly or partly for purposes of private gain.
+
+(2) If in proceedings for an offence under section 13 (1) above any question arises whether a performance was promoted for private gain and it is proved—
+
+(a) that any sums were paid for admission to the performance or to the premises at which it was given and that the performance was advertised to the public; or
+
+(b) that any sums were paid for facilities or services provided for persons admitted to the performance and that the performance was advertised (whether to the public or otherwise); or
+
+(c) that the amount of any payment falling to be made in connection with the promotion of the performance was determined wholly or partly by reference to the proceeds of the performance or any facilities or services provided for persons admitted to it;the performance shall be deemed to have been promoted for private gain unless the contrary is shown.
+
+(3) Where a performance is promoted by a society which is established and conducted wholly for purposes other than purposes of any commercial undertaking and sums falling within subsection (1) above are applied for any purpose calculated to benefit the society as a whole, the performance shall not be held to be promoted for private gain by reason only that the application of those sums for that purpose results in benefit to any person as an individual.
+
+(4) In subsection (3) above “society” includes any club, institution, organisation or association of persons, by whatever name called.
+
+### 19 †Consequential amendments, repeals and transitional provisions.
+
+(1) The enactments mentioned in Schedule 2 to this Act shall have effect subject to the amendments specified in column 2 of that Schedule, being amendments consequential on the foregoing provisions of this Act.
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F48]
+
+(3) The Secretary of State may by order made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament repeal or amend any provision in any local Act, including an Act confirming a provisional order, or in any instrument in the nature of a local enactment under any Act, where it appears to him that that provision is inconsistent with, or has become unnecessary or requires modification in consequence of, any provision of this Act or corresponds to any provision repealed by this Act.
+
+(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F48]
+
+### 20 Short title, commencement, extent and application to Isles of Scilly.
+
+(1) This Act may be cited as the Theatres Act 1968.
+
+(2) The provisions of this Act mentioned in subsection (3) below shall come into force on the passing of this Act, and the other provisions of this Act shall come into force on the expiration of a period of two months beginning with the date on which this Act is passed; but a licence granted under this Act during that period, and any requirements imposed under section 17(2) during that period, shall not come into force before the expiration of that period.
+
+(3) The provisions of this Act referred to in subsection (2) above are the following—
+
+(a) sections 1(2), 12(4), 14, 17(2), 18(1) and this section;
+
+(b) section 17(3) so far as it relates to section 14 or to paragraph 7 of Schedule 1;
+
+(c) Schedule 1.
+
+(4) This Act does not extend to Northern Ireland.
+
+(5) In relation to the Isles of Scilly this Act shall have effect as if they were a county and as if for any reference to the council of a county there were substituted a reference to the Council of the Isles of Scilly.
+
+## SCHEDULE 1 — Provisions with respect to Licences
+
+*Section 12.*
+
+### [^F49][^F50] Grant, renewal and transfer of licences
+
+**[^F49][^F50]1** [^F49][^F50]1 [^F49][^F50]The licensing authority may grant to any applicant and from time to time renew a licence under this Act for the use of any premises specified therein for the public performance of plays on such terms and conditions and subject to such restrictions as, subject to [^F49][^F50][^F51]section 1(2)[^F49][^F50][^F51][[^F51]sections 1(2) and 12(3A)][^F49][^F50] of this Act, may be so specified.
+
+[^F49][^F50]2 [^F49][^F50]Subject to sub-paragraph (3) below, paragraph 4 of this Schedule and section 14(3) of this Act, a licence granted under this Act shall, unless previously cancelled under paragraph 5 of this Schedule or revoked under section 13(5) of this Act, remain in force for one year or for such shorter period specified in the licence as the licensing authority may think fit.
+
+[^F49][^F50]3 [^F49][^F50]The licensing authority may grant a licence under this Act in respect of such one or more particular occasions only as may be specified in the licence.
+
+[^F49][^F50]4 [^F49][^F50]Where a licence has been granted under this Act to any person, then, subject to section 1(2) of this Act, the licensing authority may, if they think fit, transfer that licence to any other person on the application of that person or the holder of the licence.
+
+### [^F49] Notice in respect of applications for grant, renewal or transfer of licences
+
+**[^F49]2** [^F49]1 [^F49]An applicant for the grant or transfer of a licence under this Act in respect of any premises shall give to the licensing authority and to the chief officer of police in whose area the premises are situated not less than twenty-one days’ notice of his intention to make the application and furnish such particulars and give such other notices as the licensing authority may by regulations prescribe.
+
+[^F49]2 [^F49]An applicant for the renewal of a licence under this Act in respect of any premises shall give to the licensing authority not less than twenty-eight days’ notice of his intention to make the application.
+
+[^F49]3 [^F49]In relation to such a licence under this Act as is authorised by paragraph 1(3) of this Schedule—
+
+[^F49]a [^F49]sub-pararaphs (1) and (2) above shall have effect as if for the reference to twenty-one or, as the case may be, twenty-eight days’ notice there were substituted a reference to fourteen days’ notice; and
+
+[^F49]b [^F49]sub-paragraph (1) above shall have effect as if the requirement as to notice to the chief officer of police were omitted.
+
+### [^F49] Fees
+
+**[^F49]3** [^F49]1 [^F49]The person making an application for the grant, renewal or transfer of a licence under this Act shall on doing so pay to the licensing authority such [^F49][[^F52]reasonable fee as the authority may determine][^F49], except that no fee shall be payable under this paragraph on an application for the grant or transfer of a licence under this Act in respect of one or more particular occasions if the licensing authority are satisfied as regards that occasion or each of those occasions that the play or plays to be performed are of an educational or other like character or are to be performed for a charitable or other like purpose.
+
+[^F49]2 [^F49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F53]
+
+### [^F49] Transmission of licence on death of holder
+
+**[^F49]4** [^F49]In the event of the death of the holder of a licence under this Act in respect of any premises, that licence shall be deemed to have been granted to his personal representatives in respect of those premises and shall, unless previously transferred to some other person or cancelled or revoked, remain in force until the end of the period of three months beginning with the death and shall then expire, so however that the licensing authority may from time to time, on the application of those representatives, extend or further extend the said period of three months if the authority are satisfied that the extension is necessary for the purpose of winding up the deceased’s estate and that no other circumstances make it undesirable.
+
+### [^F49] Cancellation of licences
+
+**[^F49]5** [^F49]The licensing authority upon receiving from the holder of a licence under this Act which is for the time being in force a written request in that behalf accompanied by the licence may cancel the licence.
+
+### [^F49] Provisional grant of licences
+
+**[^F49]6** [^F49]1 [^F49]Where an application is made to the licensing authority for the grant of a licence under this Act in respect of premises which are to be, or are in the course of being, constructed, extended or altered and the authority are satisfied that the premises would, if completed in accordance with plans deposited in accordance with the requirements of the authority, be such that the authority would grant the licence, the authority may grant the licence subject to a condition that it shall be of no effect until confirmed by the authority.
+
+[^F49]2 [^F49]The licensing authority shall confirm any licence granted by virtue of the foregoing sub-paragraph if and when they are satisfied that the premises have been completed in accordance with the plans aforesaid, or in accordance with those plans as modified with the approval of the authority, and that the licence is held by a fit and proper person.
+
+### [^F49] Variation of terms of licence
+
+**[^F49]7** [^F54][^F49] (1)The holder of a licence under this Act in respect of any premises may at any time apply to the licensing authority for such variations of the terms, conditions or restrictions on or subject to which the licence is held as may be specified in the application; and, subject to section 14 of this Act, on any such application the licensing authority may (subject to section 1(2) of this Act) make such variations (whether specified in the application or not) in any of those terms, conditions or restrictions as they think appropriate, or may refuse the application.
+
+[^F55][^F49] 2 [^F49]The person making an application for such a variation of licence shall, on making the application, pay to the licensing authority such reasonable fee as the licensing authority may determine.
+
+## SCHEDULE 2 — [^F56] Consequential Amendments
+
+*Section 19.*
+
+|  |  |
+|---|---|
+| Enactment | Amendment |
+| [^F56] . . . | [^F56] . . . |
+| [^F56] . . . | [^F56] . . . |
+| . . . [^F57] | . . . [^F57] |
+| . . . [^F58] | . . . [^F58] |
+| . . . [^F59] | . . . [^F59] |
+| The Hypnotism Act 1952 (15 & 16 Geo. 6. & 1 Eliz. 2. c. 46.). | In section 2, after subsection (1) the following shall be inserted as subsection (1A):—<br>> (1A) The foregoing subsection shall not apply to an exhibition, demonstration or performance of hypnotism that takes place in the course of a performance of a play (within the meaning of the Theatres Act 1968) given either at premises in respect of which a licence under that Act is in force or under the authority of any such letters patent as are mentioned in section 17(1) of that Act. |
+| [^F60] . . . | [^F60] . . . |
+| [^F60] .... | [^F60] . . . |
+
+## SCHEDULE 3 — . . . [^F61]
+
+---
+
+[^M1]: 1843 c. 68.
+[^F1]: S. 1(2) repealed (S.) (27.1.2021) by Air Weapons and Licensing (Scotland) Act 2015 (asp 10), ss. 74(2), 88(2); S.S.I. 2019/99, art. 2(2) (with art. 3)
+[^F2]: S. 1(2) ceases to have effect (E.W.) (24.11.2005) by virtue of Licensing Act 2003 (c. 17), s. 201(2), Sch. 6 para. 44(a) (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^M2]: 1952 c. 46.
+[^F3]: S. 2(4)(*b*) repealed by Indecent Displays (Control) Act 1981 (c. 42, SIF 39:5), s. 5(2), Sch.
+[^F4]: S. 2(4)(*c*) repealed by Civic Government (Scotland) Act 1982 (c. 45, SIF 81:2), s. 137(2), Sch. 4
+[^F5]: Words in s. 4(1) repealed (12.1.2010) by Coroners and Justice Act 2009 (c. 25), s. 182(2)(e)(vii), Sch. 23 Pt. 2 (with s. 180)
+[^M3]: 1952 c. 66.
+[^F6]: S. 5 repealed by Public Order Act 1986 (c. 64, SIF 39:2), s. 40(3), Sch. 3
+[^F7]: Words substituted for paras. (a) (b) by (E.W.) Criminal Law Act 1977 (c. 45), Sch. 1 item 19 and (S.) Criminal Procedure Act 1975 (c. 21), Sch. 7A item 15 and amendment continued (S.) (1.4.1996) by 1995 c. 40, ss. 3, 7(2), Sch. 1 para. 1, Sch. 2 Pt. I
+[^F8]: Words substituted by virtue of (E.W.) Criminal Justice Act 1982 (c. 48, SIF 39:1), s. 46 and (S.) Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1), s. 289G and amendment continued (S.) (1.4.1996) by 1995 c. 40, ss. 3, 7(2), Sch. 1 para. 1, Sch. 2 Pt. I
+[^F9]: S. 7(2)(*b*)(iii) substituted by Broadcasting Act 1990 (c. 42, SIF:96), s. 203(1), sch. 20, para. 13
+[^F10]: Words in s. 7(2) repealed (12.1.2010) by Coroners and Justice Act 2009 (c. 25), s. 182(2)(e)(vii), Sch. 23 Pt. 2 (with s. 180)
+[^F11]: Words in s. 7(3) substituted (8.2.2007) by Wireless Telegraphy Act 2006 (c. 36), s. 126(2), Sch. 7 para. 3
+[^F12]: Words repealed by Cable and Broadcasting Act 1984 (c. 46, SIF 96), s. 57(1)(2), Sch. 5 para. 21(2), Sch. 6
+[^F13]: Words in s. 8 repealed (12.1.2010) by Coroners and Justice Act 2009 (c. 25), s. 182(2)(e)(vii), Sch. 23 Pt. 2 (with s. 180)
+[^F14]: Words substituted by virtue of (E.W.) Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 38, 46 and (S.) Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1), ss. 289F, 289G
+[^F15]: Words substituted by virtue of (E.W.) Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 38, 46 and (S.) Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1), ss. 289F, 289G
+[^F16]: Ss. 12-14 repealed (S.) (27.1.2021) by Air Weapons and Licensing (Scotland) Act 2015 (asp 10), ss. 74(3), 88(2); S.S.I. 2019/99, art. 2(2) (with art. 3)
+[^F17]: Ss. 12-14 cease to have effect (E.W.) (24.11.2005) by virtue of Licensing Act 2003 (c. 17), s. 201(2), Sch. 6 para. 44(b) (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F18]: S. 12(3A) inserted (S.) (1.10.2006) by Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475), art. 1, Sch. 1 para. 4(2)
+[^F19]: Words substituted by virtue of (E.W.) Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 38, 46 and (S.) Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1), ss. 289F, 289G
+[^F20]: Words substituted by Courts Act 1971 (c. 23), s. 56, Sch. 9 Pt. I
+[^F21]: Word in s. 15(1) repealed (S.) (27.1.2021) by Air Weapons and Licensing (Scotland) Act 2015 (asp 10), ss. 74(4)(a)(i), 88(2); S.S.I. 2019/99, art. 2(2) (with art. 3)
+[^F22]: S. 15(1)(b) repealed (S.) (27.1.2021) by Air Weapons and Licensing (Scotland) Act 2015 (asp 10), ss. 74(4)(a)(ii), 88(2); S.S.I. 2019/99, art. 2(2) (with art. 3)
+[^F23]: S. 15(1)(b) and preceding word cease to have effect (E.W.) (24.11.2005) by virtue of Licensing Act 2003 (c. 17), s. 201(2), Sch. 6 para. 45(a)(i) (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F24]: Words in s. 15(1) cease to have effect (E.W.) (24.11.2005) by Licensing Act 2003 (c. 17), s. 201(2), Sch. 6 para. 45(a)(ii) (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F25]: Words in s. 15(1) repealed (S.) (27.1.2021) by Air Weapons and Licensing (Scotland) Act 2015 (asp 10), ss. 74(4)(a)(iii), 88(2); S.S.I. 2019/99, art. 2(2) (with art. 3)
+[^F26]: Words “one month” substituted (E.W.) for words “forteen days” by Police and Criminal Evidence Act 1984 (c. 60, SIF 95), s. 119(1), Sch. 6 para. 18
+[^F27]: S. 15(1)(ii) repealed (S.) (27.1.2021) by Air Weapons and Licensing (Scotland) Act 2015 (asp 10), ss. 74(4)(a)(iv), 88(2); S.S.I. 2019/99, art. 2(2) (with art. 3)
+[^F28]: Words repealed by Local Government (Scotland) Act 1973 (c. 65), Sch. 29
+[^F29]: S. 15(2)(3) repealed (S.) (27.1.2021) by Air Weapons and Licensing (Scotland) Act 2015 (asp 10), ss. 74(4)(b), 88(2); S.S.I. 2019/99, art. 2(2) (with art. 3)
+[^F30]: S. 15(2)-(5) ceases to have effect (E.W.) (24.11.2005) by virtue of Licensing Act 2003 (c. 17), s. 201(2), Sch. 6 para. 45(b) (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F31]: S. 15(4) repealed (S.) (1.10.2006) by Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475), art. 1, Sch. 2
+[^F32]: Word in s. 15(4) substituted (S.) (2.8.2005) by The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383), art. 1, Sch. 1 para. 1(a)(i)
+[^F33]: Word in s. 15(4) substituted (S.) (2.8.2005) by The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383), art. 1, Sch. 1 para. 1(a)(ii)
+[^F34]: S. 15(5) repealed (S.) (27.1.2021) by Air Weapons and Licensing (Scotland) Act 2015 (asp 10), ss. 74(4)(b), 88(2); S.S.I. 2019/99, art. 2(2) (with art. 3)
+[^F35]: Words in s. 15(5) repealed (S.) (1.10.2006) by Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475), art. 1, Sch. 2
+[^F36]: Words in s. 15(5) substituted (S.) (2.8.2005) by The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383), art. 1, Sch. 1 para. 1(b)
+[^F37]: Words substituted by virtue of (E.W.) Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 38, 46 and (S.) Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1) ss. 289F, 289G
+[^F38]: S. 15(6) repealed (24.11.2005) by Licensing Act 2003 (c. 17), s. 201(2), Sch. 6 para. 45(c), Sch. 7 (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2) (with art. 4) and S. 15(6) repealed (S.) (27.1.2021) by Air Weapons and Licensing (Scotland) Act 2015 (asp 10), ss. 74(4)(b), 88(2); S.S.I. 2019/99, art. 2(2) (with art. 3)
+[^F39]: S. 15(7) added (S.) (2.8.2005) by The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383), art. 1, Sch. 1 para. 1(c)
+[^F40]: S. 15(7) repealed (S.) (1.10.2006) by Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475), art. 1, Sch. 2
+[^F41]: S. 17 repealed (24.11.2005) by Licensing Act 2003 (c. 17), s. 201(2), Sch. 6 para. 46, Sch. 7 (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2) (with art. 4)
+[^F42]: Words in s. 18(1) repealed (S.) (27.1.2021) by Air Weapons and Licensing (Scotland) Act 2015 (asp 10), ss. 74(5), 88(2); S.S.I. 2019/99, art. 2(2) (with art. 3)
+[^F43]: Words in s. 18(1) repealed (24.11.2005) by Licensing Act 2003 (c. 17), s. 201(2), Sch. 6 para. 47, Sch. 7 (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2) (with art. 4)
+[^F44]: Words in s. 18(1)(c) substituted (S.) (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 77; S.I. 1996/323, art. 4(c)
+[^F45]: Words in s. 18(1) substituted (S.) (1.4.2013) by The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119), art. 1, Sch. 1 para. 5
+[^M4]: 1936 c. 6. (1 Edw. 8 & Geo. 6).
+[^F46]: Words in s. 18(1) added (with application in respective London boroughs as from the day appointed in relation to the borough as mentioned in ss. 3(1), 21(1)) by London Local Authorities Act 1991 (c. xiii), s. 18(1)(2).
+[^F47]: S. 18A added (with application in respective London boroughs as from the day appointed in relation to the borough as mentioned in ss. 3(1), 21(1)) by London Local Authorities Act 1991 (c. xiii), s. 18(1)(3).
+[^F48]: S. 19 (2)(4)-(6), Sch. 3 repealed by Statute Law (Repeals) Act 1977 (c. 18), Sch. 1 Pt. XIX
+[^F49]: Sch. 1 repealed (S.) (27.1.2021) by Air Weapons and Licensing (Scotland) Act 2015 (asp 10), ss. 74(6), 88(2); S.S.I. 2019/99, art. 2(2) (with art. 3)
+[^F50]: Sch. 1 ceases to have effect (E.W.) (24.11.2005) by virtue of Licensing Act 2003 (c. 17), s. 201(2), Sch. 6 para. 44(c) (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F51]: Words in Sch. 1 para. 1(1) substituted (S.) (1.10.2006) by Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475), art. 1, Sch. 1 para. 4(3)
+[^F52]: Words substituted by Local Government, Planning and Land Act 1980 (c. 65, SIF 81:1), s. 1(6), Sch. 6 para. 11
+[^F53]: Sub-paragraphs (2) and (3) repealed by Local Government, Planning and Land Act 1980 (c. 65, SIF 81:1), s. 194, Sch. 34 Pt. VI
+[^F54]: In Sch. 1 para. 7: "(1)" inserted (with application in respective London boroughs as from the day appointed in relation to the borough as mentioned in ss. 3(1), 21(1)) by London Local Authorities Act 1991 (c. xiii), s. 21(1)(5)(a).
+[^F55]: Sch. 1 para. 7(2) inserted (with application in respective London boroughs as from the day appointed in relation to the borough as mentioned in ss. 3(1), 21(1)) by London Local Authorities Act 1991 (c. xiii), s. 21(1)(5)(b).
+[^F56]: Entries in Sch. 2 relating to the Burgh Police (Scotland) Act 1892 and the Burgh Police (Scotland) Act 1903 repealed (5.11.1993) by 1993, c. 50, s. 1(1), Sch. 1, Pt. X GroupII
+[^F57]: Entry relating to the Theatrical Employers Registration Act 1925 repealed by Local Government (Miscellaneous Provisions) Act 1982 (c. 30, SIF 81:1), s. 47, Sch. 7 Pt. IV
+[^F58]: Entry repealed by Statute Law (Repeals) Act 1977 (c. 18), Sch. 1 Pt. XIX
+[^F59]: Entry relating to Customs and Excise Act 1952 (c. 44), s. 162(4) repealed by Alcoholic Liquor Duties Act 1979 (c. 4, SIF 40:1), s. 92(2), Sch. 4 Pt. I
+[^F60]: Sch. 2 entries repealed (24.11.2005) by Licensing Act 2003 (c. 17), s. 201(2), Sch. 7 (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2) (with art. 4)
+[^F61]: S. 19 (2)(4)-(6), Sch. 3 repealed by Statute Law (Repeals) Act 1977 (c. 18), Sch. 1 Pt. XIX

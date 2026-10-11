@@ -1,0 +1,1451 @@
+---
+title: "Air Force Act 1955"
+identifier: "ukpga/Eliz2/3-4/19"
+citation: "1955 c. 19"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1955-05-06
+last_amended: 2009-10-31
+version: revised
+status: repealed
+source: "https://www.legislation.gov.uk/ukpga/Eliz2/3-4/19"
+source_modified: 2024-05-18
+retrieved: 2026-10-11
+---
+
+# Air Force Act 1955
+
+**1955 c. 19**
+
+[^F1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F1]Part I — Enlistment and Terms of Service
+
+### [^F1] Enlistment
+
+#### [^F1]1 Recruiting officers.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]2 Enlistment.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Enlistment for general or corps service
+
+#### [^F1]3 Enlistment for general service.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Extension of service
+
+#### [^F1]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]9 Postponement in certain cases of discharge or transfer to the reserve.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]10 Continuation of air-force service in imminent national danger.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Discharge and transfer to reserve
+
+#### [^F1]11 Discharge.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]12 Transfer to the reserve.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]13 Postponement of discharge or transfer pending proceedings for offences.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]14 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]15 Right of warrant officer to discharge on reduction to ranks.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]16 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Miscellaneous and supplementary provisions
+
+#### [^F1]17 Forfeiture of service for desertion and restoration of forfeited service.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]18 Validity of attestation and enlistment.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]19 False answers in attestation paper.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]20 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]21 Service of aliens in regular air force.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]22 Regulations as to enlistment.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]23 Interpretation of Part I.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F1] Part II — Discipline and Trial and Punishment of Air-Force Offences
+
+### [^F1] Misconduct in action and other offences arising out of air-force service
+
+#### [^F1]24 Misconduct in action.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]25 Assisting the enemy.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]26 Obstructing operations, giving false air signals, etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]27 Prize offences by commanding officers.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]28 Other prize offences.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]29 Offences by or in relation to sentries, persons on watch etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]29A Failure to attend for duty, neglect of duty etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]30 Looting.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Mutiny and insubordination
+
+#### [^F1]31 Mutiny.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]32 Failure to suppress mutiny.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]33 Insubordinate behaviour.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]34 Disobedience to lawful commands.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]34A Failure to provide a sample for drug testing.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]34B Failure to provide sample after serious incident
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]35 Obstruction of provost officers.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]36 Disobedience to standing orders.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Desertion, absence without leave, etc.
+
+#### [^F1]37 Desertion.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]38 Absence without leave.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]39 Failure to report or apprehend deserters or absentees.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]40 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Malingering and drunkenness
+
+#### [^F1]42 Malingering.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]43 Drunkenness.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Disorderly conduct
+
+#### [^F1]43A Fighting, threatening words etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Offences relating to property
+
+#### [^F1]44 Damage to, and loss of, public or service property etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]44A Damage to, and loss of, Her Majesty’s aircraft or aircraft material.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]44B Interference etc. with equipment, messages or signals.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]45 Misapplication and waste of public or service property.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]46 Offences relating to issues and decorations.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Offences relating to billeting and requisitioning of vehicles
+
+#### [^F1]47 Billeting offences.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]48 Offences in relation to requisitioning of vehicles.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Flying etc. offences
+
+#### [^F1]48A Loss or hazarding of ship.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]49 Dangerous flying, etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]50 Inaccurate certification.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]51 Low flying.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]52 Annoyance by flying.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Offences relating to, and by, persons in custody
+
+#### [^F1]53 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]54 Permitting escape, and unlawful release of prisoners.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]55 Resistance to arrest.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]56 Escape from confinement.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Offences in relation to courts-martial and civil authorities
+
+#### [^F1]57 Offences in relation to courts-martial.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]58 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]59 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Miscellaneous offences
+
+#### [^F1]60 Unauthorised disclosure of information.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]61 Making of false statements on enlistment.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]62 Making of false documents.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]63 Offences against civilian population.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]63A Offences against morale.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]64 Scandalous conduct by officers.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]65 Ill-treatment of officers or men of inferior rank.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]66 Disgraceful conduct.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]67 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]68 Attempts to commit air-force offences.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]68A Aiding and abetting etc., and inciting.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]69 Conduct to prejudice of air-force discipline.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Civil offences
+
+#### [^F1]70 Civil offences.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Punishments available to courts-martial
+
+#### [^F1]71 Scale of punishments, and supplementary provisions.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]71A Juveniles
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]71AA Young service offenders: custodial orders.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]71AB Reasons to be given where custodial sentence awarded to young offender.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]71B Power to impose imprisonment for default in payment of fines.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]Arrest
+
+#### [^F1]74 Power to arrest offenders.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]74A Power of arrest in anticipation of commission of offence
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Custody
+
+#### [^F1]75 Limitations on custody without charge.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]75A Authorisation of custody without charge.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]75B Review of custody by commanding officer.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]75C Extension of custody without charge.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]75D Custody without charge: other cases.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]75E Custody without charge: supplementary.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]75F Custody after charge.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]75G Review of custody after charge.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]75H Custody during court-martial proceedings.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]75J Release from custody after charge or during proceedings.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]75K Arrest during proceedings.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]75L Judicial officers.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]75M Custody rules.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Investigation of, and summary dealing with, charges
+
+#### [^F1]76 Investigation of charges by commanding officer
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]76A Powers of higher authority.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]76AA Right to elect for court-martial trial.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]76B Summary dealings.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]76C Punishments available on summary dealings.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]77 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]77A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]78 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]79 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]80 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]81 Confession of desertion by warrant officer, non-commissioned officer or airman.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]82 Officers who are to act as commanding officers and appropriate superior authorities.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]83 Regulations as to summary dealings etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] The summary appeal court
+
+#### [^F1]83ZA The summary appeal court.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]83ZB Judge advocates.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]83ZC Officers qualified for membership of summary appeal court.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]83ZD Constitution of summary appeal court for appeals.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]83ZE Right of appeal.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]83ZF Hearing of appeals.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]83ZG Powers of summary appeal court.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]83ZH Making of, and appeals from, decisions of court.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]83ZJ Rules of summary appeal court.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]83ZK Administration of oaths to members of summary appeal court.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]83ZL Privileges of witnesses and others.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]The prosecuting authority
+
+#### [^F1]83A The prosecuting authority.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]83B Functions of the prosecuting authority.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]83BB Referral of case to commanding officer.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]83BC Power of prosecuting authority to advise police forces
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]83C Prosecuting officers.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Courts-martial: general provisions
+
+#### [^F1]84 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]84A Court administration officers.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]84B Judge advocates.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]84C Convening of general and district courts-martial.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]84D Constitution of general and district courts-martial
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]85 Powers of different descriptions of court-martial.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]85A Powers of court-martial where accused elected court-martial trial.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]86 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]87 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]88 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]89 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]90 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]91 Place for sitting of courts-martial and adjournment to other places.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]Preliminary hearings as to plea
+
+#### [^F1]91A Preliminary hearings as to plea
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Courts-martial: provisions relating to trial
+
+#### [^F1]92 Challenges by accused.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]93 Administration of oaths.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]94 Courts-martial to sit in open court.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]95 Dissolution of courts-martial.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]96 Decisions of courts-martial.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]97 Finding and sentence.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]98 Power to convict of offence other than that charged.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]99 Rules of evidence.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]99A Proof at courts-martial by written statement.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]100 Privilege of witnesses and others at courts-martial.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]101 Offences by civilians in relation to courts-martial.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]101A Powers to compel attendance of witnesses
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]102 Affirmations.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]Offences: procedure
+
+#### [^F1]103 Rules.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Field General Courts-Martial
+
+#### [^F1]103A Field general courts-martial.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]103B Constitution of field general courts-martial.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]103C Field General Court-Martial Rules.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]104 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]105 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]106 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Confirmation, Revision and Review of Proceedings of Courts-Martial
+
+#### [^F1]107 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]108 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]109 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]110 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]111 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Review of proceedings of courts-martial
+
+#### [^F1]112 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]113 Review of findings and sentences of courts-martial.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]113AA Powers of the reviewing authority.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]113A Power of reviewing authority to authorise retrial.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]113B Scope of section 113C
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]113C Review of sentences by Courts-Martial Appeal Court
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]114 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Review of summary findings and awards
+
+#### [^F1]115 Review of summary findings and awards
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Findings of unfitness to stand trial and insanity
+
+#### [^F1]115A Fitness to stand trial
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]115B Finding that the accused did the act or made the omission charged
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]116 Findings of insanity
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]116A Powers to deal with person unfit to stand trial or not guilty by reason of insanity
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]116B Orders under the Mental Health Act
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]116C Supervision orders
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]116D Provisions supplementary to sections 115A to 116C
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Saving for functions of Judge Advocate General
+
+#### [^F1]117 Saving for functions of Judge Advocate General.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Commencement, suspension and duration of sentences
+
+#### [^F1]118 Commencement of sentences.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]118ZA Commencement of sentence of detention awarded by commanding officer.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]118A Consecutive terms of imprisonment and detention.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]119 Duration of sentences of imprisonment and detention.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]119A Limitation of total period of sentences of detention.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]120 Suspension of sentences.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]120ZA Activation of suspended sentence: appeals
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]120A Postponement of sentences.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Execution of sentences of death, imprisonment and detention
+
+#### [^F1]121 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]122 Imprisonment and detention rules.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]123 Supplementary provisions relating to regulations and rules under ss. 121 & 122.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]124 Restrictions on serving of sentences of detention in prisons.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]125 Special provisions as to civil prisons in the United Kingdom.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]126 Special provisions as to carrying out or serving of sentences outside the United Kingdom otherwise than in air-force establishments.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]127 Country in which sentence of imprisonment or detention to be served.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]128 Application of enactments relating to coroners.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]129 Duties of governors of prisons and others to receive prisoners.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]130 Application to military establishments and custody.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Trial of persons ceasing to be subject to air-force law and time limits for trials
+
+#### [^F1]131 Trial and punishment of offences under this Act notwithstanding offender ceasing to be subject to this Act.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]132 Limitation of time for trial of offences under this Act.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Relations between air-force law and civil courts and finality of trials
+
+#### [^F1]133 Jurisdiction of civil courts.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]133A Financial penalty enforcement orders.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]134 Persons not to be tried under this Act for offences already disposed of.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Inquiries
+
+#### 135 Boards of inquiry.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 136 Inquiries into absence.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 137 Unit inquiries.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Miscellaneous provisions
+
+#### [^F1]138 Restitution or compensation for theft, etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]139 Appointment of judge advocates.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]140 Promulgation.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]141 Custody of proceedings of courts-martial and right of accused to a copy thereof.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]141A Right of penalised parent or guardian to copy of record of court-martial proceedings.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]142 Indemnity for prison officers, etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Interpretation
+
+#### [^F1]143 Interpretation of Part II.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F1]Part III — Forfeitures and Deductions and Enforcement of Maintenance Liabilities
+
+### [^F1]144 Forfeitures and deductions: general provisions.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]145 Forfeiture of pay for absence from duty.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]146 Deduction for payment of civil penalties.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]147 Compensation for loss occasioned by wrongful act or negligence.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]148 Deductions for barrack damage.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]149 Remission of forfeitures and deductions.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]150 Enforcement of maintenance and affiliation orders by deduction from pay.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]150A Enforcement of maintenance assessment by deductions from pay.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]150AA Enforcement of maintenance assessment by deductions from pay.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]151 Deductions from pay for maintenance of wife or child.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]151A Deductions from pay in respect of judgment debts etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]152 Limit of deductions under ss. 150 and 151 and effect on forfeiture.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]153 Service of process in maintenance proceedings.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F1]Part IV — Billeting and Requisitioning of Vehicles
+
+### [^F1] Billeting
+
+#### [^F1]154 Billeting requisitions.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]155 Premises in which billets may be provided.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]156 Provision of billets.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]157 Billeting schemes.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]158 Accommodation to be provided and payment therefor.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]159 Appeals against billeting.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]160 Compensation for damage.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]161 Refusal to receive persons billeted, etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]162 Application to civilians employed with air force.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]163 Local authority.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]164 Suspension of laws against billeting.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Requisitioning of vehicles
+
+#### [^F1]165 Requisitioning orders.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]166 Provision of vehicles.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]167 Period for which vehicles to be furnished.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]168 Payment for vehicles furnished.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]169 Avoidance of hardship in requisitioning of vehicles.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]170 Record and inspection of mechanically propelled vehicles.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]171 Enforcement of provisions as to requisitioning.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]172 Application to aircraft and stores.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]173 Liability of Crown for damage by vehicles being delivered for requisitioning.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] General
+
+#### [^F1]174 Bringing into operation of ss. 154 and 165.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]175 Regulations and orders.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]176 Interpretation of Part IV.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F1]Part V — General Provisions
+
+### [^F1] Powers of command
+
+#### [^F1]177 Powers of command.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]178 Powers of command of members of co-operating naval or military forces.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Attachment to naval or military forces
+
+#### [^F1]179 Attachment of members of air forces to naval or military forces.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Redress of complaints
+
+#### 180 Redress of complaints.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]181 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Exemptions for members of regular air force
+
+#### [^F1]182 Officers on active list not to be sheriffs.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]183 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]184 Exemptions from tolls, etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]185 Exemption from taking in execution of property used for air-force purposes.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Provisions relating to deserters and absentees without leave
+
+#### [^F1]186 Arrest of deserters and absentees without leave.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]187 Proceedings before a civil court where persons suspected of illegal absence.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]188 Deserters and absentees without leave surrendering to police.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]189 Certificates of arrest or surrender of deserters and absentees.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]190 Duties of governors of prisons and others to receive deserters and absentees.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Further powers of arrest of civil authorities
+
+#### [^F1]190A Arrest under warrants of commanding officers.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]190B Arrest of persons unlawfully at large.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Offences relating to air-force matters punishable by civil courts
+
+#### [^F1]191 Punishment for pretending to be a deserter.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]192 Punishment for procuring and assisting desertion.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]193 Punishment for obstructing members of regular air force in execution of duty.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]194 Punishment for aiding malingering.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]195 Unlawful purchase, etc., of air-force stores.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]196 Illegal dealings in documents relating to pay, pensions, mobilisation, etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]197 Unauthorised use of and dealing in decorations, etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Provisions as to evidence
+
+#### [^F1]198 General provisions as to evidence.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]198A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]198C Provision as to age.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]199 Proof of outcome of civil trial.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]200 Evidence of proceedings of courts martial.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]200A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Miscellaneous provisions
+
+#### [^F1]201 Restrictions on reduction in rank of warrant officers and non-commissioned officers.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]202 Temporary reception in civil custody of persons under escort.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]203 Avoidance of assignment of or charge on air-force pay, pensions, etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]204 Power of certain officers to take affidavits and declarations.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]204A Exclusion of enactments requiring fiat of Attorney General etc. in connection with proceedings.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F1]Part VI — Application of Act and Supplemental Provisions
+
+### [^F1] Persons subject to air-force law
+
+#### [^F1]205 Persons subject to air-force law: general provisions.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]206 Persons subject to air-force law: Commonwealth forces.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]207 Persons subject to air-force law: Colonial forces.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]208 Persons subject to air-force law: attached members of naval and military forces.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]208A Application of Act to passengers in H.M. ships and aircraft.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]209 Application of Act to civilians.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Application of Act to particular forces
+
+#### [^F1]210 Application of Act to reserve and auxiliary forces.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]211 Modification of certain provisions in relation to women.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Application to different countries
+
+#### [^F1]212 Application to Scotland.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]213 Application to Northern Ireland.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]214 Application to Channel Islands and Isle of Man.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]215 Application to certain overseas territories.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]216 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]217 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Supplemental provisions
+
+#### [^F1]218 Jurisdiction of courts.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]219 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]220 Provisions as to summary fines in Colonies.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]221 Execution of orders, instruments, etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]222 Provisions as to active service.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]223 General provisions as to interpretation.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F1]224 Short title, commencement and duration.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F1]FIRST SCHEDULE — Procedure for Attestation
+
+*Sections 2, 18, 23.*
+
+**[^F1]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F1] SECOND SCHEDULE
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F1]THIRD SCHEDULE — Alternative offences of which accused may be convicted by court-martial
+
+*Section 98.*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F1]FOURTH SCHEDULE — Supplementary Provisions as to Payment for Requisitioned Vehicles
+
+*Sections 168, 172.*
+
+**[^F1]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F1]FIFTH SCHEDULE — Civilians outside the United Kingdom subject to Part II when not on Active Service
+
+*Sections 204, 209.*
+
+**[^F1]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F1] SCHEDULE 5A — Powers of Court on Trial of Civilian
+
+### [^F1] General
+
+**[^F1]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]Deferment of award of sentence
+
+**[^F1]2A** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Absolute and conditional discharge
+
+**[^F1]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Community supervision orders
+
+**[^F1]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Absolute and conditional discharge and community supervision orders—supplementary
+
+**[^F1]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Reception orders and committal into care—general
+
+**[^F1]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Committal into care—England and Wales
+
+**[^F1]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Committal into care—transfer to Scotland
+
+**[^F1]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Committal into care—transfer to Northern Ireland
+
+**[^F1]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Custodial orders
+
+**[^F1]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Compensation orders
+
+**[^F1]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Imposition of fines on and making of compensation orders against parents and guardians
+
+**[^F1]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Orders requiring parents or guardians to enter into recognisance
+
+**[^F1]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Scale of punishments and orders
+
+**[^F1]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Indemnity for persons carrying out orders under Schedule
+
+**[^F1]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1] Regulations
+
+**[^F1]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F1]SIXTH SCHEDULE — Application of Act to attached Members of Naval and Military Forces
+
+**[^F1]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]3A** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]3B** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+---
+
+[^F1]: Act repealed (1.1.2008 for the repeal of s. 180 only, 1.10.2008 for the repeal of ss. 135-137, 28.3.2009 for further specified purposes and 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 17; S.I. 2007/2913, art. 3 (with art. 4(1)(2)); S.I. 2008/1650, art. 2(e) (with art. 3); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)); S.I. 2009/1167, art. 4; and ss. 9, 133A continued (with modifications) (31.10.2009) by The Armed Forces (Discharge and Transfer to the Reserve Forces) (No. 2) Regulations 2009 (S.I. 2009/1091), regs. 1, 11, 13 (with Sch.) and The Armed Forces (Financial Penalty Enforcement Orders) Regulations 2009 (S.I. 2009/1212), regs. 1, 5(2)

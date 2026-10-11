@@ -1,0 +1,787 @@
+---
+title: "Finance Act 1983"
+identifier: "ukpga/1983/28"
+citation: "1983 c. 28"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1983-05-13
+last_amended: 2026-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1983/28"
+source_modified: 2026-05-12
+retrieved: 2026-10-11
+---
+
+# Finance Act 1983
+
+**1983 c. 28**
+
+An Act to grant certain duties, to alter other duties, and to amend the law relating to the National Debt and the Public Revenue, and to make further provision in connection with Finance.
+
+[13th May 1983]
+
+[^X1]Most Gracious Sovereign, We, Your Majesty’s most dutiful and loyal subjects, the Commons of the United Kingdom in Parliament assembled, towards raising the necessary supplies to defray Your Majesty’s public expenses, and making an addition to the public revenue, have freely and voluntarily resolved to give and grant unto Your Majesty the several duties hereinafter mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## PART I — Customs and Excise
+
+### 1 Duties on spirits, beer, wine, madewine and cider.
+
+(1) In section 5 of the [^M1]Alcoholic Liquor Duties Act 1979 (excise duty on spirits) for “£14·47” there shall be substituted “ £15·19 ”.
+
+(2) In section 36 of that Act (excise duty on beer) for “£20·40” and “£0·68” there shall be substituted “ £21·60 ” and “ £0·72 ” respectively.
+
+[^F1]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F2]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In section 62(1) of that Act (excise duty on cider) for “£8·16” there shall be substituted “ £9·69 ”.
+
+(6) This section shall be deemed to have come into force on 16th March 1983.
+
+### 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F3]
+
+### [^F4]3 Hydrocarbon oil.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4 Vehicles excise duty.
+
+[^F5]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F5]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F5]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F6]
+
+[^F5]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F7]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F7]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F5]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5 Bingo duty and gaming machine licence duty.
+
+[^F8]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In Schedule 4 to the Act of 1981, in paragraph 1, for subparagraph (3) (meaning of private gain in relation to exemption from gaming machine licence duty for charitable entertainments etc.) there shall be substituted the following—
+
+> (3) In construing subparagraph (2)(a) above, proceeds of an entertainment promoted on behalf of a society falling within this subparagraph which are applied for any purpose calculated to benefit the society as a whole shall not be held to be applied for purposes of private gain by reason only that their application for that purpose results in benefit to any person as an individual.
+>
+> (4) A society falls within subparagraph (3) above if it is established and conducted either—
+>
+> (a) wholly for purposes other than purposes of any commercial undertaking, or
+>
+> (b) wholly or mainly for the purpose of participation in or support of athletic sports or athletic games;
+>
+> and in this paragraph “society” includes any club, institution, organisation or association of persons, by whatever name called, and any separate branch or section of such a club, institution, organisation or association.
+
+### 6 Deferred payment of excise duty on goods.
+
+The following section shall be inserted in Part X of the [^M2]Customs and Excise Management Act 1979 (duties and drawbacks: general provisions), after section 127—
+
+> **Deferred payment of excise duty on goods**
+>
+> **127A Deferred payment of excise duty on goods.**
+>
+> (1) The Commissioners may by regulations make provision for the payment of any excise duty on goods of a prescribed kind to be deferred, in prescribed cases, subject to such conditions or requirements as may be imposed—
+>
+> (a) by the regulations; or
+>
+> (b) where the regulations so provide, by the Commissioners.
+>
+> (2) Any duty payment of which is deferred under the regulations shall be treated, for prescribed purposes, as if it had been paid.
+>
+> (3) Where—
+>
+> (a) any excise duty to which an application for deferment of duty made under the regulations relates is payable on goods on their removal from an excise warehouse; and
+>
+> (b) the Commissioners are not satisfied—
+>
+> (i) that the conditions imposed under section 92(1) above in relation to the warehouse have been complied with by the occupier of the warehouse; or
+>
+> (ii) that the warehousing regulations made by virtue of section 93(2)(g) above have been complied with by the occupier or by the proprietor of the goods;
+>
+> the Commissioners may, notwithstanding any provision of the regulations, refuse the application or refuse it in so far as it relates to those goods.
+>
+> Nothing in this subsection shall be taken to prejudice the power of the Commissioners to prescribe the cases in which excise duty may be deferred.
+>
+> (4) Regulations under this section may make different provision for goods of different descriptions or for goods of the same description in different circumstances.
+>
+> (5) In this section “prescribed” means prescribed by regulations made under this section.
+
+### 7 Imports to and exports from Northern Ireland.
+
+(1) In section 26 of the [^M3]Customs and Excise Management Act 1979 (power to regulate movement of goods into and out of Northern Ireland by land),—
+
+(a) in paragraph (a) of subsection (1) after the words “approved routes”) there shall be inserted the words “ or at such places on the boundary ”; and
+
+(b) at the end of subsection (1) there shall be added the words “ and any such regulations may make different provision in relation to different classes or descriptions of goods and, in particular, in relation to different classes or descriptions of vehicles ”.
+
+> (1A) In such cases and subject to compliance with such conditions as appear to the Commissioners to be appropriate, the Commissioners may dispense with any requirement of a regulation made under subsection (1) above
+
+(3) In subsection (2) of that section (penalties) after the words “subsection (1) above” there shall be inserted the words “ or any condition of a dispensation given under subsection (1A) above ”.
+
+(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F9]
+
+(5) In section 51(1) of that Act (control of importation: special provisions as to proof where goods are within the prescribed area in Northern Ireland) the words “within the prescribed area” shall be omitted.
+
+### 8 Export from Northern Ireland of goods chargeable with agricultural levies.
+
+At the end of Part V of the [^M4]Customs and Excise Management Act 1979 (control of exportation), after section 68A, there shall be inserted the following section—
+
+> **68B Special provisions as to proof in Northern Ireland.**
+>
+> (1) If goods of any class or description chargeable with agricultural levies on their exportation from the United Kingdom are found in the possession or control of any person within the prescribed area in Northern Ireland, any officer or any person having by law in Northern Ireland the powers of an officer may require that person to furnish proof either—
+>
+> (a) that the goods are not intended for such exportation; or
+>
+> (b) that the goods are intended for such exportation and any entry required to be made or security required to be given in connection with that exportation has been or will be made or given.
+>
+> (2) If proof of any matter is required to be furnished in relation to any goods under subsection (1) above but is not so furnished, the goods shall be liable to forfeiture.
+
+### 9 Miscellaneous customs and excise repeals.
+
+(1) Subsection (5) of section 30 of the [^M5]Licensing Act 1964 (duty of clerk to licensing justices to supply to Collector of Customs and Excise a list of new licences granted and licences not renewed) and section 22 of the [^M6]Licensing (Scotland) Act 1976 (which makes corresponding provision for Scotland) shall cease to have effect.
+
+(2) Paragraph 1 of Schedule 7 to the [^M7]Finance Act 1969 (definition of “whisky” or “whiskey” for customs and excise purposes) and section 92(7) of the [^M8]Alcoholic Liquor Duties Act 1979 (saving in relation to spirits distilled before 1st August 1969) shall cease to have effect on the appointed day.
+
+(3) In subsection (2) above, “the appointed day” means such day as the Treasury may by order made by statutory instrument appoint; but the Treasury may not so appoint a day unless they are satisfied that on that day there will be in force as part of the law of each part of the United Kingdom a definition given by or under any enactment of the expressions “whisky” and “whiskey”.
+
+## PART II — Income Tax, Corporation Tax and Capital Gains Tax
+
+### Chapter I
+
+#### 10–28 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F10]
+
+### 29 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F11]
+
+### Chapter II
+
+#### 30–33 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F12]
+
+### Chapter III — Capital Gains
+
+#### [^F13]34 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART III — Oil Taxation
+
+### 35 Phasing out of APRT.
+
+(1) In section 139 of the [^M9]Finance Act 1982 (liability for APRT etc.) in subsection (1) (the periods for which the liability arises)—
+
+(a) in paragraph (a) after the words “after 31st December 1982” there shall be inserted the words “ and before 1st January 1987 ”; and
+
+(b) in paragraph (b) for the words “nine immediately succeeding chargeable periods” there shall be substituted the words “ immediately succeeding chargeable periods (if any) which ends before 1st January 1987 and ”.
+
+(2) In subsection (2) of that section (the rate of APRT) for the words “at the rate of 20 per cent.” there shall be substituted the following paragraphs:—
+
+> (a) for the chargeable period ending on 30th June 1983, at the rate of 20 per cent.;
+>
+> (b) for subsequent chargeable periods ending on or before 31st December 1984, at the rate of 15 per cent.;
+>
+> (c) for chargeable periods ending in 1985, at the rate of 10 per cent.; and
+>
+> (d) for chargeable periods ending in 1986, at the rate of 5 per cent.
+
+(3) In consequence of subsections (1) and (2) above—
+
+(a) in each of subsections (3)(a) and (4)(a) of section 139 of the Finance Act 1982, for the words “the APRT which is paid” there shall be substituted the words “ any APRT which is payable and paid ”;
+
+(b) in subsection (4) of that section for the words “the APRT paid”, in each place where they occur, there shall be substituted the words “ any APRT paid ”; and
+
+(c) Schedule 19 to that Act shall have effect subject to the modifications set out in Schedule 7 to this Act.
+
+### 36 Increased oil allowance for certain new fields.
+
+(1) For all the relevant new fields, as defined in subsection (2) below, section 8 of the principal Act (the oil allowance) shall have effect subject to the following modifications:—
+
+(a) in subsection (2) (the amount of the allowance for each chargeable period) for “250,000 metric tonnes” there shall be substituted “ 500,000 metric tonnes ”; and
+
+(b) in subsection (6) (the total allowance for a field) for “5 million metric tonnes” there shall be substituted “ 10 million metric tonnes ”.
+
+(2) Subject to subsection (3) below, in this section “relevant new field” means an oil field—
+
+(a) no part of which lies in a landward area, within the meaning of the [^M10]Petroleum (Production) Regulations 1982 or in an area to the East of the United Kingdom and between latitudes 52°and 55°North; and
+
+(b) for no part of which consent for development has been granted to the licensee by the Secretary of State before 1st April 1982; and
+
+(c) for no part of which a programme of development had been served on the licensee or approved by the Secretary of State before that date.
+
+(3) In determining, in accordance with subsection (2) above, whether an oil field (in this subsection referred to as “the new field”) is a relevant new field, no account shall be taken of a consent for development granted before 1st April 1982 or a programme of development served on the licensee or approved by the Secretary of State before that date if—
+
+(a) in whole or in part that consent or programme related to another oil field for which a determination under Schedule 1 to the principal Act was made before the determination under that Schedule for the new field; and
+
+(b) on or after 1st April 1982, a consent for development is or was granted or a programme of development is or was served on the licensee or approved by the [[^F14]OGA] and that consent or programme relates, in whole or in part, to the new field.
+
+(4) In subsections (2) and (3) above “development” means—
+
+(a) the erection or carrying out of permanent works for the purpose of getting oil from the field or for the purpose of conveying oil won from the field to a place on land; or
+
+(b) winning oil from the field otherwise than in the course of searching for oil or drilling wells;
+
+and consent for development does not include consent which is limited to the purpose of testing the characteristics of an oil-bearing area and does not relate to the erection or carrying out of permanent works.
+
+(5) In subsection (4) above “permanent works” means any structures or other works whatsoever which are intended by the licensee to be permanent and are neither designed to be moved from place to place without major dismantling nor intended by the licensee to be used only for searching for oil.
+
+### 37 Reliefs for exploration and appraisal expenditure etc.
+
+(1) The section set out in Part I of Schedule 8 to this Act shall be inserted in the principal Act after section 5 for the purpose of setting up a new allowance by virtue of which a participator in an oil field may obtain relief for certain expenditure which is incurred otherwise than in connection with that field.
+
+(2) For the purpose of giving effect to, and in consequence of, the new allowance, the enactments specified in Part II of Schedule 8 to this Act shall have effect subject to the amendments there specified.
+
+(3) Part III of Schedule 8 to this Act shall have effect with respect to sums received after 15th March 1983 and falling to be set off against expenditure which would otherwise be allowable under section 5 of the principal Act or under the new section set out in Part I of that Schedule.
+
+(4) In paragraph 1 of Schedule 7 to the principal Act (claims for certain allowances)—
+
+(a) in sub-paragraph (1) the words from “but may not” to the end of the sub-paragraph (which impose a time limit on claims) shall be, and shall be deemed always to have been, omitted; and
+
+(b) in sub-paragraph (2) the words “within the time allowed for making the original claim” shall be, and shall be deemed always to have been, omitted;
+
+and, accordingly, any claim which, immediately before the passing of this Act, could not have been made by virtue of the time bar may be made thereafter.
+
+### [^F15]38 Terms of payment to be implied in determining market value.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 39 Exclusion of oil appropriated for production purposes in other fields.
+
+(1) In section 12(1) of the principal Act (interpretation of Part I) in the definition of “relevantly appropriated” (which, among other matters, excludes oil appropriated for production purposes) after the word “purposes” there shall be added the words “ in relation to that or any other oil field ”.
+
+(2) This section has effect, and shall be deemed to have had effect, for chargeable periods ending after 31st December 1977.
+
+### 40 Variation of decisions on claims for allowable expenditure.
+
+(1) At the end of Schedule 5 to the principal Act (allowance of expenditure under section 3 or 4 of that Act) there shall be inserted the following paragraph—
+
+> **9**
+>
+> (1) If, within the period of three years commencing with the date on which notice of a decision of the Board under paragraph 3 above was given to the responsible person for an oil field, it appears to the Board that the relevant amount was incorrectly stated in the notice, the Board may before the expiry of that period serve on the responsible person a notice stating what appears to the Board to be the correct amount (referred to below as “the notice of variation”).
+>
+> (2) In this paragraph “the relevant amount”, in relation to a notice of a decision on a claim under paragraph 3 above, means any one or more of the following—
+>
+> (a) the amount of expenditure allowed on the claim;
+>
+> (b) the amount of that expenditure allowed as qualifying for supplement under section 2(9)(b)(ii) of this Act;
+>
+> (c) where different percentages were stated in that notice to apply to different parts of that expenditure for the purpose of calculating the supplement, each of those parts of that expenditure.
+>
+> (3) The responsible person may, by notice in writing given to the Board not more than thirty days after the notice of variation was served on him, appeal to the Special Commissioners against the notice of the variation.
+>
+> (4) A notice of appeal under sub-paragraph (3) shall state the grounds on which the appeal is brought.
+>
+> (5) An appeal under this paragraph may at any time be abandoned by notice in writing given to the Board by the responsible person.
+>
+> (6) A notice of variation may be withdrawn at any time before it becomes effective.
+>
+> (7) In any case where—
+>
+> (a) the responsible person gives notice of appeal against a notice of variation, and
+>
+> (b) before the appeal is determined by the Special Commissioners, the Board and the responsible person agree as to what the relevant amount ought to be,
+>
+> the notice of variation shall have effect subject to such modifications as may be necessary to give effect to that agreement; and thereupon the appeal shall be treated as having been abandoned.
+>
+> (8) On an appeal against a notice of variation the Special Commissioners may vary the notice, quash the notice or dismiss the appeal; and the notice may be varied whether or not the variation is to the advantage of all or any of the participators in the oil field in question.
+>
+> (9) Where a notice of variation relating to a decision on a claim becomes effective, the relevant amount shall be taken for the purposes of this Part of this Act as having been reduced or increased, as the case may require, on the date on which notice of the decision was given, by such amount as may be necessary to give effect to that notice, and the Board may make such computations under section 2 of this Act and such assessments or determinations or such amendments of assessments or determinations as may be necessary in consequence of that reduction or increase.
+>
+> (10) A notice of variation becomes effective for the purposes of this paragraph either—
+>
+> (a) on the expiry of the period during which notice of appeal against the notice of variation may be given to the Special Commissioners under sub-paragraph (3) above without such notice of appeal being given; or
+>
+> (b) where such notice of appeal is given, when the notice of variation can no longer be varied or quashed by the Special Commissioners or by the order of any court.
+>
+> (11) This paragraph has effect in relation to notices of decisions of the Board under paragraph 3 above given after 15th March 1983.
+
+(2) In Schedule 6 to the principal Act (allowance of expenditure on claim by participator) at the end of the first column of the Table set out in paragraph 2 (application of provisions of Schedule 5) there shall be added “ 9 ”.
+
+### 41 Transfers of interests in oil fields.
+
+(1) In sub-paragraph (1) of paragraph 7 of Schedule 17 to the [^M11]Finance Act 1980 (transfers of unused losses from old participator to new in cases of transfers of interests in fields) for the words “in any chargeable period before the transfer period” there shall be substituted the words “ in the transfer period or any earlier chargeable period ”.
+
+(2) In sub-paragraph (2) of that paragraph at the end there shall be added the words “ and, for the purposes of effecting such relief, subsection (1) of section 7 shall have effect as if the word “succeeding” were omitted ”.
+
+(3) This section has effect in relation to transfer periods (within the meaning of paragraph 1 of Schedule 17 to the [^M12]Finance Act 1980) ending after 31st December 1982.
+
+## PART IV — Miscellaneous and Supplementary
+
+### 42 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F16]
+
+### Miscellaneous
+
+#### 43 National savings: supplements.
+
+(1) Where any sum has been borrowed by the Treasury on terms set out—
+
+(a) in the prospectus for Save As You Earn Savings Contracts (Third Issue); or
+
+(b) in the prospectus for IndexLinked National Savings Certificates Retirement Issue;
+
+that prospectus shall (whether the sum was borrowed before or after the passing of this Act) be taken to have included a provision empowering the Treasury to supplement, from time to time, the due amount and requiring any such supplement to be paid on such terms as may be notified by the Treasury in the London, Edinburgh and Belfast Gazettes.
+
+(2) “The due amount” means—
+
+(a) in the case of the prospectus mentioned in subsection (1)(a) above, the amount due under paragraph 7, 8, 9 or 10; and
+
+(b) in the case of the other prospectus, the amount due under paragraph 4.
+
+#### 44 Rates of interest for government lending.
+
+(1) Section 5 of the [^M13]National Loans Act 1968 (which, as set out in section 153 of the [^M14]Finance Act 1982, provides for the determination of rates of interest for government lending) shall be amended in accordance with this section.
+
+(2) In subsection (5) (withdrawal of determination or approval of rate of interest which no longer fulfils the requirements of the section)—
+
+(a) for the words from “approved for” to “not yet made” there shall be substituted the words “ approved for a class of loans ”; and
+
+(b) for the words from “withdrawn” to the end of the subsection there shall be substituted the words “ withdrawn at the earliest convenient time, and, subject to subsection (5A) below, from that or such later time as may be convenient another rate determined or approved in accordance with subsection (3) or, as the case may be, subsection (4) above shall come into force for further loans of that class ”.
+
+(3) After subsection (5) there shall be inserted the following subsections:—
+
+> (5A) If, in the case of a loan of any class,—
+>
+> (a) an undertaking was given to the person to whom the loan was to be made that the rate of interest which would apply to that loan would be that which, at a time specified in or determined in accordance with the undertaking, was or would be in force for loans of that class, and
+>
+> (b) before the loan was in fact made, the determination or approval of that rate of interest was withdrawn by virtue of subsection (5) above or otherwise ceased to be effective,
+>
+> the rate of interest which applies to that loan shall be that which was in force for loans of that class at the time specified in, or as the case may be determined in accordance with, the undertaking.
+>
+> (5B) In subsection (5A) above “undertaking” means an undertaking given by the person by whom the loan in question was to be made and, where that person is not the Treasury, given by that person with the consent of the Treasury.
+
+#### 45 Suspension of certain payments into National Loans Fund in respect of new towns.
+
+(1) Subject to subsection (4) below, the Treasury may, on the recommendation of the Secretary of State, by order specify any new town development loan as a loan the repayment of which to the Secretary of State (and subsequently into the National Loans Fund) is to be suspended by virtue of this section.
+
+(2) Where a loan is specified by an order under subsection (1) above—
+
+(a) the terms of the loan shall have effect as if any payment by way of repayment of or interest on the loan which (apart from this section) would fall due at any time within the unexpired period for repayment of the loan fell due instead at the corresponding time within the period of the same duration beginning with 1st October 1986; and
+
+(b) no interest shall accrue in respect of the loan during the period beginning with the coming into force of the order and ending with 30th September 1986.
+
+(3) In this section, “new town development loan” means any sum—
+
+(a) falling within section 60(a) of the [^M15]New Towns Act 1981 (sums advanced by Secretary of State to development corporations in England and Wales for the purpose of enabling them to meet expenditure properly chargeable to capital account or to make good to revenue account sums applied in meeting liabilities so chargeable); [^F17]. . .
+
+(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+and “the unexpired period for repayment of the loan”, in relation to any loan specified by an order under subsection (1) above, means the period beginning with the coming into force of the order and ending with the date which (apart from this section) would be the last date on which any payment by way of repayment of or interest on the loan would fall due under the terms of the loan.
+
+(4) The aggregate amount of new town development loans specified by order under subsection (1) above shall not exceed £1,250 million.
+
+(5) The power to make an order under subsection (1) above shall be exercisable by statutory instrument.
+
+#### 46 Historic Buildings and Monuments Commission for England.
+
+(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F18]
+
+(3) For the purposes of the enactments set out below, the commission shall be treated as [[^F19]a charitable company]:—
+
+(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F18]
+
+(c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F20] section 129 of the [^M16]Finance Act 1982 (reliefs from stamp duty).
+
+(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F21]
+
+(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F22]
+
+#### 47 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F23]
+
+#### 48 Short title, interpretation, construction and repeals.
+
+(1) This Act may be cited as the Finance Act 1983.
+
+(2) In this Act “the Taxes Act” means the [^M17]Income and Corporation Taxes Act 1970.
+
+(3) Part II of this Act, so far as it relates to income tax, shall be construed as one with the Income Tax Acts, so far as it relates to corporation tax, shall be construed as one with the Corporation Tax Acts and, so far as it relates to capital gains tax, shall be construed as one with the [^M18]Capital Gains Tax Act 1979.
+
+(4) Part III of this Act shall be construed as one with Part I of the [^M19]Oil Taxation Act 1975 and references in Part III to the principal Act are references to that Act.
+
+(5) The enactments specified in Schedule 10 to this Act are hereby repealed to the extent specified in the third column of that Schedule, but subject to any provision at the end of any Part of that Schedule.
+
+## [^F24]SCHEDULE 1
+
+### [^F24] Wine: Rates of Duty
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F25]
+
+## SCHEDULE 3 — Vehicles Excise Duty
+
+*Section 4.*
+
+### Part I — Provisions Substituted in Part II of Schedules 1 to 5 to the [^M20]Vehicles (Excise)Act 1971 and the [^M21]Vehicles (Excise) Act (Northern Ireland) 1972
+
+**[^F26]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F27]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F28]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F29]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F30]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F31]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F32]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part II — Amendment of Part I of Schedule 4 to The [^M22]Vehicles (Excise) Act 1971 and The [^M23]Vehicles (Excise) Act (Northern Ireland) 1972
+
+#### Amendments made in both Acts
+
+**[^F33]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Amendments made only in the Act of 1971
+
+**[^F34]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F35]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F36]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Amendments made only in the Act of 1972
+
+**[^F37]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULES 4, 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F38]
+
+## [^F39]SCHEDULE 6
+
+### Interpretation
+
+**[^F40]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Election for pooling
+
+**[^F41]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Effect of election
+
+**[^F42]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The 1982 identification rules
+
+**[^F43]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The indexation allowance
+
+**[^F44]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F45]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F46]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F47]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Transfers on a no gain / no loss basis
+
+**[^F48]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Consideration for options
+
+**[^F49]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Supplementary
+
+**[^F50]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 7 — APRT: [^M24]Modifications of Finance Act, 1982, Schedule 19
+
+*Section 35.*
+
+**1** In paragraph 1(3) (returns for periods after liability for APRT has ceased) the word “nine” shall be omitted.
+
+**2** In paragraph 2(2) (instalment payments where liability for APRT expires) for the words from “the chargeable period” to “for that field” there shall be substituted the words “ any chargeable period ending on or after 31st December 1984. ”
+
+**3** (1) In paragraph 14 (repayment of APRT) in sub-paragraph (1) for the words from “for the last” to “section 139(1)(b)” there shall be substituted the words “ for the ninth chargeable period following the first chargeable period referred to in section 139(1)(a) ”.
+
+(2) In sub-paragraph (2) of that paragraph for the words from “the last” to “this Act” there shall be substituted the words “ the ninth chargeable period referred to in sub-paragraph (1) above ” and for the words “subsection (4) of that section” there shall be substituted the words “ section 139(4) of this Act ”.
+
+(3) In sub-paragraph (3) of that paragraph for the words “the last chargeable period” and in sub-paragraph (4)(a) of that paragraph for the words “the chargeable period” there shall be substituted the words “ the ninth chargeable period ”.
+
+**4** In paragraph 17 (abandoned fields) in sub-paragraph (1)(c) for the words from “last” to “section 139(1)(b)” there shall be substituted the words “ ninth chargeable period following the first chargeable period referred to in section 139(1)(a) ”.
+
+## SCHEDULE 8 — Reliefs for Exploration and Appraisal Expenditure etc
+
+*Section 37.*
+
+### Part I — Section to be Inserted after Section 5 of the Principal Act
+
+> **Allowance of exploration and appraisal expenditure.**
+>
+> **5A** (1) The exploration and appraisal expenditure which, subject to the provisions of this section and Schedule 7 to this Act, is allowable in the case of a person who is a participator in an oil field is any expenditure (whether or not of a capital nature) which—
+>
+> (a) is incurred after 15th March 1983 by that person or, if that person is a company, by that company or a company associated with it in respect of the expenditure; and
+>
+> (b) is so incurred wholly and exclusively for one or more of the purposes specified in subsection (2) below; and
+>
+> (c) at the time it is so incurred, does not relate to a field for which a development decision has previously been made.
+>
+> (2) The purposes referred to in subsection (1) above are—
+>
+> (a) the purpose of searching for oil in the United Kingdom, the territorial sea thereof or a designated area;
+>
+> (b) the purpose of ascertaining the extent or characteristics of any oil-bearing area in the United Kingdom, the territorial sea thereof or a designated area;
+>
+> (c) the purpose of ascertaining what are the reserves of oil of any such oil-bearing area; and
+>
+> (d) subject to subsection (3) below, the purpose of making to the Secretary of State any payment under or for the purpose of obtaining a licence (not being a payment by way of royalty or other periodic payment).
+>
+> (3) Expenditure incurred for the purpose mentioned in subsection (2)(d) above is not allowable under this section unless, at the time the allowance is claimed,—
+>
+> (a) the licence to which the expenditure related has expired or has been determined or revoked; or
+>
+> (b) part of the licensed area has been surrendered;
+>
+> and where paragraph (b) above applies only that proportion of the expenditure which corresponds to the proportion of the licensed area which has been surrendered is expenditure falling within subsection (1) above.
+>
+> (4) Subject to subsection (5) below, subsections (2) and (4) to (8) of section 5 of this Act apply for the purposes of this section as they apply for the purposes of that section.
+>
+> (5) In the application for the purposes of this section of the provisions of section 5 of this Act referred to in subsection (4) above,—
+>
+> (a) any reference in subsection (2) of section 5 to the purpose mentioned in subsection (1)(b) of that section shall be construed as a reference to any of the purposes specified in subsection (2) of this section;
+>
+> (b) the reference in subsection (2)(a) of section 5 to subsection (1) of that section shall be construed as a reference to subsection (1) of this section; and
+>
+> (c) the reference in subsection (6) of section 5 to a sum received does not include a reference—
+>
+> (i) to a sum received from the disposal of oil won in the course of operations carried out for any of the purposes in paragraphs (a) to (c) of subsection (2) of this section; or
+>
+> (ii) to a sum received for the assignment of any of the rights conferred by a licence or of any interest in a licensed area.
+>
+> (6) Expenditure is not allowable under this section in connection with an oil field if, or to the extent that, it has been allowed under Schedule 5, Schedule 6 or Schedule 7 to this Act in connection with any oil field.
+>
+> (7) For the purposes of subsection (1)(c) above, a development decision is made when—
+>
+> (a) consent for development is granted to a licensee by the Secretary of State in respect of the whole or part of an oil field; or
+>
+> (b) a programme of development is served on a licensee or approved by the Secretary of State for the whole or part of an oil field;
+>
+> and subsections (4) and (5) of section 36 of the Finance Act 1983 (meaning of development etc.) apply in relation to this subsection as they apply in relation to subsections (2) and (3) of that section.
+>
+> (8) If, at the time when it is incurred, expenditure relates to an area—
+>
+> (a) which is not then an oil field, but
+>
+> (b) in respect of which notice of a proposed determination has previously been given under paragraph 2(a) of Schedule 1 to this Act,
+>
+> that area shall be treated for the purposes of this section as having become an oil field at the time the notice was given unless, when the actual determination is made, the area is not included in an oil field.
+
+### Part II — Amendments Relating to the New Allowance
+
+#### The principal Act
+
+**1** In section 2(9) of the principal Act (amounts to be taken into account in respect of expenditure) at the end of paragraph (e) there shall be added
+
+> and
+>
+> (f) any exploration and appraisal expenditure allowable in the case of the participator under section 5A of this Act which, on a claim made by him under Schedule 7 to this Act, has been allowed under that Schedule before the Board have made an assessment to tax or a determination on or in relation to him for the period in respect of the field, so far as that expenditure has not been taken into account in any previous assessment to tax or determination.
+
+**2** At the end of subsection (3) of section 3 of the principal Act (expenditure not allowable under that section if already allowed under other provisions) there shall be added the words “ but where expenditure allowable under section 5A of this Act has been allowed on a claim under Schedule 7 to this Act, nothing in this subsection shall prevent a claim being made for an allowance under this section in respect of the same expenditure unless the person making the claim is the participator who made the claim under that Schedule ”.
+
+**3** In section 5 of the principal Act (allowance of abortive exploration expenditure) in subsection (1) after the words “1st January 1960” there shall be inserted the words “ and before 16th March 1983 ”.
+
+**4** In section 9 of the principal Act (limit on amount of tax payable) in subsection (2)(a)(ii) for the words “and (e)” there shall be substituted the words “ (e) and (f) ”.
+
+**5** In paragraph 2 of Schedule 2 to the principal Act (returns by participators) at the end of sub-paragraph (2) there shall be inserted the following sub-paragraph:—
+
+> (2A) Every participator in an oil field shall, in the first return under this paragraph which he makes for that field, state whether any and, if any, how much exploration and appraisal expenditure to which section 5A of this Act applies and which relates to, or to a licence for, any part of the field has been claimed under Schedule 7 to this Act—
+>
+> (a) by him, or
+>
+> (b) by a company associated with him in respect of that expenditure, or
+>
+> (c) if he or such a company is the new participator, within the meaning of Schedule 17 to the Finance Act 1980, by the old participator, within the meaning of that Schedule, or by a company associated with him in respect of that expenditure,
+>
+> and subsection (7) of section 5 of this Act applies for the purposes of this sub-paragraph as it applies for the purposes of that section.
+
+**6** (1) In Schedule 7 to the principal Act (claims for allowance of abortive exploration expenditure) in paragraph 1(1), for the words from “of any” to “of this Act” there shall be substituted:—
+
+> (a) of any abortive exploration expenditure allowable under section 5 of this Act, or
+>
+> (b) of any exploration and appraisal expenditure allowable under section 5A of this Act
+
+.
+
+(2) In paragraph 1(3) of that Schedule, after the words “section 5” there shall be added the words “ or, as the case may be, section 5A. ”
+
+#### The Petroleum Revenue Tax Act 1980
+
+**7** In the Schedule to the [^M25]Petroleum Revenue Tax Act 1980 (computation of payment on account) in paragraph 2(4) for the words “or (d)” there shall be substituted the words “ (d) or (f) ”.
+
+#### The Finance Act 1980
+
+**8** In Schedule 17 to the Finance Act 1980 (transfers of interests in oil fields) after paragraph 16 (abortive exploration expenditure) there shall be inserted—
+
+> **Exploration and appraisal expenditure**
+>
+> **16A** In relation to exploration and appraisal expenditure to which section 5A applies, paragraph 16 above has effect as if any reference therein to section 5 were a reference to section 5A.
+
+**9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F51]
+
+### Part III — Receipts to be Set Against Allowable Expenditure
+
+**10** In this Part of this Schedule—
+
+- “allowable expenditure” means expenditure which, in accordance with section 5 or section 5A of the principal Act, is allowable on a claim made by a participator under Schedule 7 to that Act; and
+- “qualifying receipt” means a sum the amount of which falls, by virtue of subsection (6) of section 5 of the principal Act, to be applied by way of reduction in the amount of expenditure which would otherwise be allowable expenditure.
+
+**11** (1) A return made by a participator for a chargeable period under paragraph 2 of Schedule 2 to the principal Act shall give details of any qualifying receipt (whether received by him or by a person connected with him) of which details have not been given in a return made by him for an earlier chargeable period.
+
+(2) [[^F52]Section 1122 of the Corporation Tax Act 2010] (connected persons) applies for the purposes of this paragraph.
+
+**12** (1) This paragraph applies where—
+
+(a) a claim for allowable expenditure has been made by a participator under Schedule 7 to the principal Act; and
+
+(b) as a result of the receipt (whether before or after the making of the claim) of a qualifying receipt, the amount allowed by way of allowable expenditure on the claim exceeds what it should have been.
+
+(2) In determining, in a case where this paragraph applies, the assessable profit or allowable loss accruing to the participator in the chargeable period in which the qualifying receipt is received, the amount of the excess referred to in sub-paragraph (1)(b) above shall be taken into account under section 2 of the principal Act as an amount which is to be included among the positive amounts referred to in subsection (3)(a) of that section.
+
+(3) In the application of section 9 of the principal Act (limit on amount of tax payable) to a chargeable period in respect of which sub-paragraph (2) above applies, the amount of the excess referred to in sub-paragraph (1)(b) above shall be deducted from the amount which would otherwise be the total ascertained under subsection (2)(a)(ii) of that section and, if the amount of that excess is greater than the amount which would otherwise be that total, that total shall be a negative amount equal to the difference.
+
+## SCHEDULE 9
+
+**1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F53]
+
+**2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F54]
+
+**3–7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F55]
+
+## SCHEDULE 10 — Repeals
+
+*Section 48.*
+
+### Part I — Miscellaneous Customs and Excise
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1964 c. 26. | The Licensing Act 1964. | Section 30(5). |
+| 1967 c. 54. | The Finance Act 1967. | In Schedule 7, paragraph 4. |
+| 1969 c. 32. | The Finance Act 1969. | Section 1(5). |
+|  |  | Schedule 7. |
+| 1976 c. 66. | The Licensing (Scotland) Act 1976. | Section 22. |
+| 1977 c. 45. | The Criminal Law Act 1977. | In Schedule 12, in the entry relating to the Licensing Act 1964, paragraph 1. |
+| 1979 c. 2. | The Customs and Excise Management Act 1979. | In section 51(1), the words “within the prescribed area”. |
+| 1979 c. 4. | The Alcoholic Liquor Duties Act 1979. | Section 92(7). |
+| 1980 c. 48. | The Finance Act 1980. | Section 9. |
+| 1982 c. 39. | The Finance Act 1982. | In Schedule 5, in part B, paragraph 16(3). |
+
+The repeals in the Finance Act 1969, the Alcoholic Liquor Duties Act 1979 and the Finance Act 1980 have effect on the appointed day within the meaning of section 9(2) of this Act.
+
+### Part II — Income Tax, Corporation Tax and Capital Gains Tax
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1970 c. 10. | The Income and Corporation Taxes Act 1970. | In section 226(3)(c) the words “(but not before he attains the age of fifty)”. |
+| 1980 c. 48. | The Finance Act 1980. | In Schedule 12, paragraph 7(2)(aa). |
+| 1981 c. 35. | The Finance Act 1981. | Section 53(7). |
+|  |  | In section 59, in subsection (4) the words “and (7)” and in subsection (6), paragraph (b). |
+|  |  | In section 62(6)(a) the words “53(7),”. |
+|  |  | In section 63(2) the words “53(7),”. |
+| 1982 c. 39. | The Finance Act 1982. | In section 77, in subsection (2), the words from “and at the end” onwards. |
+
+**1** The repeal in section 226(3)(c) of the Income and Corporation Taxes Act 1970 shall be deemed to have come into force on 6th April 1983.
+
+**2** The repeals in sections 53, 59, 62 and 63 of the Finance Act 1981 have effect in relation to events occurring on or after 6th April 1983.
+
+### Part III — Oil Taxation
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1975 c. 22. | The Oil Taxation Act 1975. | In Schedule 7, in paragraph 1, in sub-paragraph (1) the words from “but may not” to the end, and, in sub-paragraph (2) the words “within the time allowed for making the original claim”. |
+| 1982 c. 39. | The Finance Act 1982. | In Schedule 19, in paragraph 1(3) the word “nine”. |
+
+---
+
+[^X1]: General amendments to Tax Acts, Income Tax Acts, and/or Corporation Tax Acts made by legislation after 1.2.1991 are noted against Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1) but not against each Act
+[^M1]: 1979 c. 4.
+[^F1]: S. 1(3) repealed (21.7.2008) by Statute Law (Repeals) Act 2008 (c. 12), Sch. 1 Pt. 8
+[^F2]: S. 1(4) repealed by Finance Act 1984 (c. 43, SIF 40:1), s. 128(6), Sch. 23 Pt. I
+[^F3]: S. 2 repealed by Finance Act 1984 (c. 43, SIF 40:1), s. 128(6), Sch. 23 Pt. IV
+[^F4]: S. 3 repealed (21.7.2008) by Statute Law (Repeals) Act 2008 (c. 12), Sch. 1 Pt. 8
+[^F5]: S. 4(1)-(3)(5)(8) repealed (1.9.1994) by 1994 c. 22, ss. 65, 66(1), Sch. 5 Pt. I (with s. 57(4))
+[^F6]: S. 4(4) repealed by Finance Act 1988 (c. 39, SIF 107:2), s. 148, Sch. 14 Pt. II
+[^F7]: S. 4(6)(7) repealed (1.10.1991) by Finance Act 1991 (c. 31, SIF 107:2), ss. 10, 123, Sch. 19 Pt. IV; S.I. 1991/2021, art. 2.
+[^F8]: S. 5(1) omitted (1.4.2026) by virtue of Finance Act 2026 (c. 11), s. 88(3), Sch. 13 para. 3 (with Sch. 13 para. 21)
+[^M2]: 1979 c. 2.
+[^M3]: 1979 c. 2.
+[^F9]: S. 7(4) repealed by Finance Act 1987 (c. 16, SIF 40:1), s. 72, Sch. 16 Pt. III
+[^M4]: 1979 c. 2.
+[^M5]: 1964 c. 26.
+[^M6]: 1976 c. 66.
+[^M7]: 1969 c. 32.
+[^M8]: 1979 c. 4.
+[^F10]: Ss. 10–28 repealed by Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1), s. 844 and Sch. 31
+[^F11]: S. 29 repealed by Finance Act 1985 (c. 54), s. 98(6), Sch. 27 Part V for 1986–87 et seq.
+[^F12]: Ss. 30–33 repealed by Capital Allowances Act 1990 (c. 1, SIF 63:1), s. 164(4), Sch. 2
+[^F13]: S. 34 repealed (6.3.1992 with effect as mentioned in s. 289(1)(2) of the repealing Act) by Taxation of Chargeable Gains Act 1992 (c. 12), ss. 289, 290, Sch.12 (with s. 201(3), Sch. 11 paras. 20, 22, 26(2), 27)
+[^M9]: 1982 c. 39.
+[^M10]: S.I. 1982/1000.
+[^F14]: Word in s. 36(3)(b) substituted (1.10.2016) by The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898), regs. 1(2), 7
+[^F15]: S. 38 repealed (with effect in accordance with Sch. 26 Pt. 5(1) Note 2 of the amending Act) by Finance Act 2006 (c. 25), Sch. 26 Pt. 5(1)
+[^M11]: 1980 c. 48.
+[^M12]: 1980 c. 48.
+[^F16]: S. 42 repealed by Finance Act 1984 (c. 43), s. 128(6), Sch. 23 Pt. XI
+[^M13]: 1968 c. 13.
+[^M14]: 1982 c. 39.
+[^M15]: 1981 c. 64.
+[^F17]: S. 45(3) and the preceding word “or” repealed (1.10.1998) by 1998 c. 38, s. 152, Sch. 18 Pt. IV (with ss. 137(1), 139(2), 143(2)); S.I. 1998/2244, art. 4
+[^F18]: S. 46(1)(2)(3)(*a*)(*b*) repealed by Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1), s. 844, Sch. 31
+[^F19]: Words in s. 46(3) substituted (1.4.2012) by Finance Act 2010 (c. 13), Sch. 6 paras. 9, 34(2); S.I. 2012/736, art. 4
+[^F20]: Words repealed by Finance Act 1985 (c. 54), s. 98(6) and Sch. 27 Part IX(2)
+[^M16]: 1982 c. 39.
+[^F21]: S. 46(4) repealed by Finance Act 1985 (c. 54), s. 98(6) and Sch. 27 Part X in relation to disposals on or after 19 March 1985
+[^F22]: S. 46(5) repealed by Capital Transfer Tax Act 1984 (c. 51), s. 277 and Sch. 9—with effect from 1 January 1985. See now Sch. 3 of that Act—Inheritance Tax Acts
+[^F23]: S. 47 repealed by Capital Transfer Tax Act 1984 (c. 51), ss. 274, 277, Schs. 7, 9
+[^M17]: 1970 c. 10.
+[^M18]: 1979 c. 14.
+[^M19]: 1975 c. 22.
+[^F24]: Sch. 1 repealed (21.7.2008) by Statute Law (Repeals) Act 2008 (c. 12), Sch. 1 Pt. 8
+[^F25]: Sch. 2 repealed by Finance Act 1984 (c. 43, SIF 40:1), s. 128(6), Sch. 23 Pt. I
+[^M20]: 1971 c. 10.
+[^M21]: 1972 c. 10 (N.I.).
+[^F26]: Sch. 3 Pt. I paras. 1-6 repealed (1.9.1994) by 1994 c. 22, ss. 65, 66(1), Sch. 5 Pt. I (with s. 57(4))
+[^F27]: Sch. 3 Pt. I paras. 1-6 repealed (1.9.1994) by 1994 c. 22, ss. 65, 66(1), Sch. 5 Pt. I (with s. 57(4))
+[^F28]: Sch. 3 Pt. I paras 1-6 repealed (1.9.1994) by 1994 c. 22, ss. 65, 66(1), Sch. 5 Pt. I (with s. 57(4))
+[^F29]: Sch. 3 Pt. I paras. 1-6 repealed (1.9.1994) by 1994 c. 22, ss. 65, 66(1), Sch. 5 Pt. I (with s. 57(4))
+[^F30]: Sch. 3 Pt. I paras 1-6 repealed (1.9.1994) by 1994 c. 22, ss. 65, 66(1), Sch. 5 Pt. I (with s. 57(4))
+[^F31]: Sch. 3 Pt. I paras 1-6 repealed (1.9.1994) by 1994 c. 22, ss. 65, 66(1), Sch. 5 Pt. I (with s. 57(4))
+[^F32]: Sch. 3 para. 7 repealed (1.10.1991) by Finance Act 1991 (c. 31, SIF 107:2), ss. 10, 123, Sch. 19 Pt.IV; S.I. 1991/2021, art.2.
+[^M22]: 1971 c. 10.
+[^M23]: 1972 c. 10 (N.I.).
+[^F33]: Sch. 3 Pt. II para. 8 repealed (1.9.1994) by 1994 c. 22, ss. 65, 66(1), Sch. 5 Pt. I (with s. 57(4))
+[^F34]: Sch. 3 Pt. II para. 9 repealed (3.5.1994) by 1994 c. 9, s. 258, Sch. 26 Pt. I(3) (with Sch. 3)
+[^F35]: Sch. 3 Pt. II para. 8 repealed (1.9.1994) by 1994 c. 22, ss. 65, 66(1), Sch. 5 Pt. I (with s. 57(4))
+[^F36]: Sch. 3 Pt. II para. 11 repealed (1.9.1994) by 1994 c. 22, ss. 65, 66(1), Sch. 5 Pt. I (with s. 57(4))
+[^F37]: Sch. 3 para. 12 repealed (1.10.1991) by Finance Act 1991 (c. 31, SIF 107:2), ss. 10, 123, Sch. 19 Pt.IV; S.I. 1991/2021, art.2.
+[^F38]: Schs. 4, 5 repealed by Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1), s. 844, Sch. 31
+[^F39]: Sch. 6 repealed (6.3.1992 with effect as mentioned in s. 289(1)(2) of the repealing Act) by Taxation of Chargeable Gains Act 1992 (c. 12), ss. 289, 290, Sch.12 (with s. 201(3), Sch. 11 paras. 20, 22, 26(2), 27)
+[^F40]: Sch. 6 repealed (6.3.1992 with effect as mentioned in s. 289(1)(2) of the repealing Act) by Taxation of Chargeable Gains Act 1992 (c. 12), ss. 289, 290, Sch.12 (with s. 201(3), Sch. 11 paras. 20, 22, 26(2), 27)
+[^F41]: Sch. 6 repealed (6.3.1992 with effect as mentioned in s. 289(1)(2) of the repealing Act) by Taxation of Chargeable Gains Act 1992 (c. 12), ss. 289, 290, Sch.12 (with s. 201(3), Sch. 11 paras. 20, 22, 26(2), 27)
+[^F42]: Sch. 6 repealed (6.3.1992 with effect as mentioned in s. 289(1)(2) of the repealing Act) by Taxation of Chargeable Gains Act 1992 (c. 12), ss. 289, 290, Sch.12 (with s. 201(3), Sch. 11 paras. 20, 22, 26(2), 27)
+[^F43]: Sch. 6 repealed (6.3.1992 with effect as mentioned in s. 289(1)(2) of the repealing Act) by Taxation of Chargeable Gains Act 1992 (c. 12), ss. 289, 290, Sch.12 (with s. 201(3), Sch. 11 paras. 20, 22, 26(2), 27)
+[^F44]: Sch. 6 repealed (6.3.1992 with effect as mentioned in s. 289(1)(2) of the repealing Act) by Taxation of Chargeable Gains Act 1992 (c. 12), ss. 289, 290, Sch.12 (with s. 201(3), Sch. 11 paras. 20, 22, 26(2), 27)
+[^F45]: Sch. 6 repealed (6.3.1992 with effect as mentioned in s. 289(1)(2) of the repealing Act) by Taxation of Chargeable Gains Act 1992 (c. 12), ss. 289, 290, Sch.12 (with s. 201(3), Sch. 11 paras. 20, 22, 26(2), 27)
+[^F46]: Sch. 6 repealed (6.3.1992 with effect as mentioned in s. 289(1)(2) of the repealing Act) by Taxation of Chargeable Gains Act 1992 (c. 12), ss. 289, 290, Sch.12 (with s. 201(3), Sch. 11 paras. 20, 22, 26(2), 27)
+[^F47]: Sch. 6 repealed (6.3.1992 with effect as mentioned in s. 289(1)(2) of the repealing Act) by Taxation of Chargeable Gains Act 1992 (c. 12), ss. 289, 290, Sch.12 (with s. 201(3), Sch. 11 paras. 20, 22, 26(2), 27)
+[^F48]: Sch. 6 repealed (6.3.1992 with effect as mentioned in s. 289(1)(2) of the repealing Act) by Taxation of Chargeable Gains Act 1992 (c. 12), ss. 289, 290, Sch.12 (with s. 201(3), Sch. 11 paras. 20, 22, 26(2), 27)
+[^F49]: Sch. 6 repealed (6.3.1992 with effect as mentioned in s. 289(1)(2) of the repealing Act) by Taxation of Chargeable Gains Act 1992 (c. 12), ss. 289, 290, Sch.12 (with s. 201(3), Sch. 11 paras. 20, 22, 26(2), 27)
+[^F50]: Sch. 6 repealed (6.3.1992 with effect as mentioned in s. 289(1)(2) of the repealing Act) by Taxation of Chargeable Gains Act 1992 (c. 12), ss. 289, 290, Sch.12 (with s. 201(3), Sch. 11 paras. 20, 22, 26(2), 27)
+[^M24]: 1982 c. 39.
+[^M25]: 1980 c. 1.
+[^F51]: Sch. 8 Pt. II para. 9 repealed by Finance Act 1987 (c. 16), s. 72(7), Sch. 16 Part X
+[^F52]: Words in Sch. 8 para. 11(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 1 para. 179 (with Sch. 2)
+[^F53]: Sch. 9 para. 1 repealed by Car Tax Act 1983 (c. 53), s. 10(4), Sch. 3 so far as relating to car tax and by Value Added Tax Act 1983 (c. 55), s. 50(2), Sch. 11 so far as relating to value added tax
+[^F54]: Sch. 9 para. 2 repealed by Value Added Tax Act 1983 (c. 55), s. 50(2), Sch. 11
+[^F55]: Sch. 9 paras. 3–7 repealed by Capital Transfer Tax Act 1984 (c. 51), ss. 274, 277, Schs. 7, 9

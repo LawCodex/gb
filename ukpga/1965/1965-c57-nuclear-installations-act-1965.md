@@ -1,0 +1,3104 @@
+---
+title: "Nuclear Installations Act 1965"
+identifier: "ukpga/1965/57"
+citation: "1965 c.57"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1965-08-05
+last_amended: 2026-01-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1965/57"
+source_modified: 2026-01-06
+retrieved: 2026-10-11
+---
+
+# Nuclear Installations Act 1965
+
+**1965 c.57**
+
+An Act to consolidate the Nuclear Installations Acts 1959 and 1965.
+
+[5th August 1965]
+
+## Control of certain nuclear installations and operations
+
+### 1 [[^F1]Restriction of certain nuclear installations to licensed sites
+
+(1) No person may use a site for the purpose of installing or operating—
+
+(a) any nuclear reactor (other than a nuclear reactor comprised in a means of transport, whether by land, water or air), or
+
+(b) any other installation of a prescribed kind,
+
+unless a licence to do so has been granted in respect of the site by the appropriate national authority and is in force.
+
+(2) Such a licence is referred to in this Act as a “nuclear site licence”.
+
+[[^F2](2A) Subsection (1) does not apply to a fusion energy facility.
+
+(2B) In subsection (2A), “fusion energy facility” means a site that is—
+
+(a) used for the purpose of installing or operating any plant designed or adapted for the production of electrical energy or heat by fusion, and
+
+(b) not also used for the purpose of installing or operating a nuclear reactor.]
+
+(3) The only kinds of installation that may be prescribed under subsection (1)(b) are installations (other than nuclear reactors) designed or adapted for—
+
+(a) producing or using atomic energy,
+
+(b) any process which—
+
+(i) is preparatory or ancillary to producing or using atomic energy, and
+
+(ii) involves, or is capable of causing, the emission of ionising radiations, or
+
+(c) storing, processing or disposing of—
+
+(i) nuclear fuel, or
+
+(ii) bulk quantities of other radioactive matter which has been produced or irradiated in the course of the production or use of nuclear fuel.
+
+(4) Regulations under subsection (1)(b) may make provision for exempting an installation from subsection (1).
+
+(5) Regulations made by virtue of subsection (4)—
+
+(a) may provide for any exemption to be conditional;
+
+(b) may not result in an installation being exempt from subsection (1) unless the Secretary of State is satisfied that it is not a relevant installation (or, in the case of a conditional exemption, would not be a relevant installation if the prescribed conditions were satisfied).
+
+(6) Before exercising any function under subsection (1)(b), (4) or (5) in or as regards Scotland, the Secretary of State must consult the Scottish Ministers.
+
+(7) Any person who contravenes subsection (1) is guilty of an offence.
+
+[[^F3](7A) A person convicted of an offence under subsection (7) in England and Wales is liable—
+
+(a) on conviction on indictment to imprisonment for a term not exceeding 2 years, or a fine, or both;
+
+(b) on summary conviction to imprisonment for a term not exceeding the general limit in a magistrates’ court or a fine, or both.]
+
+(8) A person convicted of an offence under subsection (7) in [^F4]... Scotland is liable—
+
+(a) on conviction on indictment to imprisonment for a term not exceeding 2 years, or a fine, or both;
+
+(b) on summary conviction to imprisonment for a term not exceeding 12 months, [^F5]... or a fine not exceeding £20,000 [^F6]..., or both.
+
+(9) A person convicted of an offence under subsection (7) in Northern Ireland is liable—
+
+(a) on conviction on indictment to imprisonment for a term not exceeding 5 years, or a fine, or both;
+
+(b) on summary conviction to imprisonment for a term not exceeding 3 months, or a fine not exceeding the prescribed sum, or both.
+
+(10) In relation to an offence committed before [[^F7]2 May 2022], the reference to [[^F8]the general limit in a magistrates’ court] in subsection [[^F9](7A)(b)], as it has effect in England and Wales, is to be read as a reference to 6 months.
+
+(11) Subsection (1) is subject to section 47 of the Energy Act 2008 (prohibition in England and Wales and Northern Ireland on use of site in absence of approved funded decommissioning programme).]
+
+[[^F10](12) In this section, “site” includes a site situated wholly or partly in or under the territorial sea adjacent to the United Kingdom.]
+
+### 2 Prohibition of certain operations except under permit.
+
+(1) Notwithstanding that a nuclear site licence is for the time being in force or is not for the time being required in respect thereof, no person other than the Authority shall use any site—
+
+(a) for any treatment of irradiated matter which involves the extraction therefrom of plutonium or uranium; or
+
+(b) for any treatment of uranium such as to increase the proportion of the isotope 235 contained therein,
+
+except under, and in accordance with the terms of, a permit in writing . . . [^F11] granted by the Authority or a government department [[^F12]and for the time being in force]; and any fissile material produced under such a permit shall be disposed of only in such manner as may be approved by the authority by whom the permit was granted.
+
+[[^F13](1A) A permit granted under this section, unless it is granted by the Minister, shall not authorise the use of a site as mentioned in paragraph (a) or paragraph (b) of the foregoing subsection otherwise than for purposes of research and development.
+
+(1B) Where a permit granted under this section by the Minister to a body corporate authorises such a use of a site for purposes other than, or not limited to, research and development, the Minister may by order direct that the provisions set out in Schedule 1 to this Act shall have effect in relation to that body corporate.
+
+(1C) Any power conferred by this section to make an order shall include power to vary or revoke the order by a subsequent order; and any such power shall be exercisable by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(1D) Any permit granted under this section by the Authority or by the Minister or any other government department may at any time be revoked by the Authority or by the Minister or that department, as the case may be, or may be surrendered by the person to whom it was granted.]
+
+(2) Any person who contravenes [[^F14]subsection (1) of this section] shall be guilty of an offence and be liable—
+
+(a) on summary conviction, to a fine not exceeding one hundred pounds, or to imprisonment for a term not exceeding three months, or to both;
+
+(b) on conviction on indictment, to a fine not exceeding five hundred pounds, or to imprisonment for a term not exceeding five years or to both.
+
+## Nuclear site licences
+
+### 3 [[^F15]Grant and variation of nuclear site licences
+
+(1) A nuclear site licence—
+
+(a) may be granted only to a body corporate;
+
+(b) is not transferable.
+
+(2) The appropriate national authority must consult the appropriate environment authority before granting a nuclear site licence.
+
+(3) Two or more installations in the vicinity of one another may, if the appropriate national authority consider appropriate, be treated for the purposes of the grant of a nuclear site licence as being on the same site.
+
+(4) Subject to subsection (8), where an application is made for a nuclear site licence, the appropriate national authority may direct the applicant to serve a notice on any public authority specified in the direction.
+
+(5) For this purpose “ public authority ” includes—
+
+(a) in relation to a site in England or Wales, a water undertaker;
+
+(b) in relation to a site in Scotland, Scottish Water;
+
+(c) in relation to a site in Northern Ireland, a water undertaker (within the meaning of the Water and Sewerage Services) (Northern Ireland) Order 2006 ( S.I. 2006/3336 ( . 21)).
+
+(6) Such a notice must—
+
+(a) state that the application has been made,
+
+(b) give such particulars about the proposed use of the site under the licence as may be specified in the direction, and
+
+(c) state that the body on whom it is served may make representations about the application to the appropriate national authority within three months of the date of service.
+
+(7) Where a direction has been given under subsection (4), the appropriate national authority may not grant the licence unless it is satisfied that—
+
+(a) three months have passed since the service of the last of the notices required by the direction, and
+
+(b) the authority has considered any representations made in accordance with any of those notices.
+
+(8) Subsection (4) does not apply in relation to an application in respect of a site for a generating station where—
+
+(a) a consent under section 36 of the Electricity Act 1989 is required for the operation of the station (or would be required but for an order under the Planning Act 2008 granting development consent for the site [[^F16]or an order under the Infrastructure (Wales) Act 2024 granting infrastructure consent for the site]), or
+
+(b) a consent under Article 39 of the Electricity (Northern Ireland) Order 1992 is required for the operation of the station.
+
+(9) A nuclear site licence may include provision about when section 19(1) is to start to apply in relation to the licensed site.
+
+(10) But, if the licence relates to a site in England, Wales or Scotland, such a provision may be included only with the consent of the Secretary of State.
+
+(11) Where a nuclear site licence includes such a provision, section 19(1) does not apply in relation to the site until—
+
+(a) the time determined in accordance with the provision, or
+
+(b) if earlier, the time when the site is first used for the operation of a nuclear installation after the grant of the licence.
+
+(12) The appropriate national authority may from time to time vary a nuclear site licence by excluding from it any part of the licensed site—
+
+(a) which the licensee no longer needs for any use requiring such a licence, and
+
+(b) with respect to which the appropriate national authority is satisfied that there is no danger from ionising radiations from anything on that part of the site.
+
+(13) The appropriate national authority must consult the appropriate environment authority before varying a nuclear site licence if the variation relates to or affects the creation, accumulation or disposal of radioactive waste.
+
+(14) In subsection (13), “radioactive waste”—
+
+(a) in relation to a site in England or Wales, has the same meaning as in [[^F17]the Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)] ;
+
+(b) in relation to a site in [^F18]...Northern Ireland, has the same meaning as in the Radioactive Substances Act 1993.]
+
+[[^F19](c) in relation to a site in Scotland, has the same meaning as in paragraph 5 of schedule 8 of the Environmental Authorisations (Scotland) Regulations 2018.]
+
+### 4 [[^F20]Attachment of conditions to licences
+
+(1) The appropriate national authority—
+
+(a) must, when it grants a nuclear site licence, attach to it such conditions as the authority considers necessary or desirable in the interests of safety, and
+
+(b) may attach such conditions to it at any other time.
+
+(2) For the purposes of subsection (1), “ safety ” in relation to a nuclear site includes—
+
+(a) safety in normal circumstances, and
+
+(b) safety in the event of any accident or other emergency on the site.
+
+(3) Conditions that may be attached to a licence by virtue of subsection (1) may in particular include provision—
+
+(a) for securing that an efficient system is maintained for detecting and recording the presence and intensity of any ionising radiations from time to time emitted from anything on the site or from anything discharged on or from the site;
+
+(b) with respect to the design, siting, construction, installation, operation, modification and maintenance of any plant or other installation on, or to be installed on, the site;
+
+(c) with respect to preparations for dealing with, and measures to be taken on the happening of, any accident or other emergency on the site;
+
+(d) without prejudice to sections 13 and 16 of the Radioactive Substances Act 1993 or to [[^F21]the Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)], [[^F22]or to the Environmental Authorisations (Scotland) Regulations 2018] with respect to the discharge of any substance on or from the site.
+
+(4) The appropriate national authority may at any time attach to a nuclear site licence such conditions as the appropriate national authority may consider appropriate with respect to the handling, treatment and disposal of nuclear matter.
+
+(5) The appropriate national authority may at any time vary or revoke any condition for the time being attached to a nuclear site licence by virtue of this section.
+
+(6) The appropriate national authority must consult the appropriate environment authority before—
+
+(a) attaching any condition to a nuclear site licence, or
+
+(b) varying or revoking any condition attached to a nuclear site licence,
+
+if the condition relates to or affects the creation, accumulation or disposal of radioactive waste.
+
+(7) In subsection (6) “radioactive waste”—
+
+(a) in relation to a site in England or Wales, has the same meaning as in [[^F23]the Environmental Permitting (England and Wales) Regulations 2016];
+
+(b) in relation to a site in [^F24]... Northern Ireland, has the same meaning as in the Radioactive Substances Act 1993;
+
+[[^F25](c) in relation to a site in Scotland, has the same meaning as in paragraph 5 of schedule 8 of the Environmental Authorisations (Scotland) Regulations 2018.]
+
+(8) Any power under this section to attach, vary or revoke a condition is exercisable in writing.
+
+(9) The appropriate national authority must consider any representation which is—
+
+(a) made to it by an organisation representing persons who have duties on a site in respect of which a nuclear site licence is in force, and
+
+(b) relates to the exercise by the authority of any of its powers under this section in relation to the site.
+
+(10) Where a condition attached to a nuclear site licence by virtue of this section is contravened, each of the following is guilty of an offence—
+
+(a) the licensee, and
+
+(b) any person having duties upon the site in question who committed the contravention.
+
+[[^F26](10A) person convicted of an offence under subsection (7) in England and Wales is liable—
+
+(a) on conviction on indictment to imprisonment for a term not exceeding 2 years, or a fine, or both;
+
+(b) on summary conviction to imprisonment for a term not exceeding the general limit in a magistrates’ court or a fine, or both.]
+
+(11) A person convicted of an offence under subsection (10) in [^F27]... Scotland is liable—
+
+(a) on conviction on indictment to imprisonment for a term not exceeding 2 years, or a fine, or both;
+
+(b) on summary conviction to imprisonment for a term not exceeding 12 months, [^F28]... or a fine not exceeding £20,000 [^F29]..., or both.
+
+(12) A person convicted of an offence under subsection (10) in Northern Ireland is liable—
+
+(a) on conviction on indictment to imprisonment for a term not exceeding 5 years, or a fine, or both;
+
+(b) on summary conviction to imprisonment for a term not exceeding 3 months, or a fine not exceeding the prescribed sum, or both.
+
+(13) In relation to an offence committed before [[^F30]2 May 2022] the reference to [[^F31]the general limit in a magistrates’ court] in subsection [[^F32](10A)(b)], as it has effect in England and Wales, is to be read as a reference to 6 months.]
+
+### 5 [[^F33]Revocation and surrender of licences
+
+(1) A nuclear site licence may at any time be—
+
+(a) revoked by the appropriate national authority, or
+
+(b) surrendered by the licensee.
+
+(2) The appropriate national authority must consult the appropriate environment authority before revoking a nuclear site licence.
+
+(3) Subsections (4) to (6) apply where a nuclear site licence has been revoked or surrendered.
+
+(4) If the appropriate national authority requires it to do so, the licensee must deliver up or account for the licence to such person as the appropriate national authority may direct.
+
+(5) During the remainder of the period of the licensee's responsibility the appropriate national authority may give the licensee such directions as the authority may consider appropriate for preventing, or giving warning of, any risk of—
+
+(a) injury to any person, or
+
+(b) damage to any property,
+
+by ionising radiations from anything remaining on the site.
+
+(6) A nuclear safety inspector may direct the licensee to ensure that, during the remainder of the period of responsibility, notices indicating the limits of the site are kept posted on the site in the positions specified in the direction.
+
+(7) For this purpose, “ nuclear safety inspector ” means an inspector appointed—
+
+(a) by the ONR under Schedule 8 to the Energy Act 2013, in the case of a site in England, Wales or Scotland, or
+
+(b) under section 24, in the case of a site in Northern Ireland.
+
+(8) A licensee who contravenes any direction for the time being in force under subsection (5) or (6) is guilty of an offence.
+
+(9) A person who without reasonable cause pulls down, injures or defaces any notice posted under subsection (6) is guilty of an offence.
+
+[[^F34](9A) A person convicted of an offence under subsection (8) in England and Wales is liable—
+
+(a) on conviction on indictment to imprisonment for a term not exceeding 2 years, or a fine, or both;
+
+(b) on summary conviction to imprisonment for a term not exceeding the general limit in a magistrates’ court or a fine, or both.]
+
+(10) A person convicted of an offence under subsection (8) in [^F35]... Scotland is liable—
+
+(a) on conviction on indictment to imprisonment for a term not exceeding 2 years, or a fine, or both;
+
+(b) on summary conviction to imprisonment for a term not exceeding 12 months, [^F36]... or a fine not exceeding £20,000 [^F37]..., or both.
+
+(11) A person convicted of an offence under subsection (8) in Northern Ireland is liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding 12 months, or a fine, or both;
+
+(b) on summary conviction, to imprisonment for a term not exceeding 3 months, or a fine not exceeding the prescribed sum, or both.
+
+(12) A person convicted of an offence under subsection (9) is liable on summary conviction—
+
+(a) in England and Wales or Scotland, to a fine not exceeding level 2 on the standard scale;
+
+(b) in Northern Ireland, to a fine not exceeding level 1 on the standard scale.
+
+(13) In relation to an offence committed before [[^F38]2 May 2022], the reference to [[^F39]the general limit in a magistrates’ court] in subsection [[^F40](9A)(b)], as it has effect in England and Wales, is to be read as a reference to 6 months.
+
+(14) In this Act, “ period of responsibility ” in relation to the licensee under a nuclear site licence means, as respects the site in question or any part of it, the period—
+
+(a) beginning with the grant of the licence, and
+
+(b) ending with whichever of the dates in subsection (15) is the earliest,
+
+except that it does not include any period during which section 19(1) does not apply in relation to the site.
+
+(15) Those dates are—
+
+(a) the date when the appropriate national authority gives notice in writing to the licensee that in the authority's opinion there has ceased to be any danger from ionising radiations from anything on the site or, as the case may be, on the part of it in question;
+
+(b) the date when a new nuclear site licence in respect of a site comprising the site in question or, as the case may be, that part of it, is granted (whether to the same licensee or to some other person);
+
+(c) the date when the following conditions have both become satisfied—
+
+(i) the site in question or, as the case may be, that part of it is used or occupied by or on behalf of the Crown, and
+
+(ii) a nuclear site licence has ceased to be required in respect of that site or part.]
+
+### 6 [[^F41]Maintenance of list of licensed sites [[^F42]and relevant disposal sites]
+
+(1) The appropriate authority must maintain a list [[^F43]showing—
+
+(a) every site in respect of which a nuclear site licence has been granted, and
+
+(b) every site which is or was a relevant disposal site.]
+
+(2) The list—
+
+(a) need not show any site or part of a site [[^F44]falling within subsection (1)(a)] in the case of which—
+
+(i) no nuclear site licence is for the time being in force; and
+
+(ii) 30 years have passed since the end of the last licensee's period of responsibility;
+
+[[^F45](aa) need not show any site or part of a site falling within subsection (1)(b) in the case of which—
+
+(i) no appropriate permit is for the time being in force; and
+
+(ii) 30 years have passed since the date on which the appropriate environment authority gave notice to an operator of the site that in the opinion of that authority there has ceased to be any danger from ionising radiations from anything on the site or, as the case may be, part of it;]
+
+(b) must include a map or maps showing the position and limits of each site shown in the list.
+
+(3) The authority must arrange for the list, or a copy of it, to be available for inspection by the public.
+
+(4) In this section “ appropriate authority ” means—
+
+(a) in relation to England and Wales and Northern Ireland, the Secretary of State;
+
+(b) in relation to Scotland, the Scottish Ministers.]
+
+## Duty of licensee, etc., in respect of nuclear occurrences
+
+### 7 Duty of licensee of licensed site.
+
+[[^F46](1) Subject to subsection (4), where a nuclear site licence has been granted in respect of a site, the licensee has the duties set out in subsections (1A), (1C) and (1E).
+
+(1A) It is the duty of the licensee to secure that no occurrence involving nuclear matter falling within subsection (1B) causes—
+
+(a) injury to any person,
+
+(b) damage to any property of any person other than the licensee, or
+
+(c) significant impairment of the environment,
+
+being injury, damage or impairment that arises out of or results from the radioactive properties, or a combination of those and any toxic, explosive or other hazardous properties, of that nuclear matter.
+
+(1B) The occurrences referred to in subsection (1A) are—
+
+(a) any occurrence on the licensed site involving nuclear matter during the period of the licensee’s responsibility;
+
+(b) any occurrence elsewhere than on the licensed site involving nuclear matter that is not excepted matter and which, at the time of the occurrence, satisfies the requirement mentioned in section 7A(1).
+
+(1C) It is the duty of the licensee to secure that no occurrence involving the emission of ionising radiations falling within subsection (1D) causes—
+
+(a) injury to any person,
+
+(b) damage to any property of any person other than the licensee, or
+
+(c) significant impairment of the environment,
+
+being injury, damage or impairment that arises out of or results from the radioactive properties, or a combination of those and any toxic, explosive or other hazardous properties, of the source of the emissions.
+
+(1D) The occurrences referred to in subsection (1C) are—
+
+(a) an emission of ionising radiations during the period of the licensee’s responsibility from anything caused or suffered by the licensee to be on the site which is not nuclear matter;
+
+(b) a discharge on or from the site of waste, being waste (of any form) that emits ionising radiations but is not nuclear matter, during the period of the licensee’s responsibility.
+
+(1E) It is the duty of the licensee to secure that no event happens that creates a grave and imminent threat of a breach of the duty under subsection (1A) or (1C).]
+
+[^F47]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F48](3) In determining the liability of the licensee of a licensed site by virtue of subsection (1A) or (1C) in respect of an occurrence, any such property as is mentioned in subsection (3B) which is on that site at the time of the occurrence is to be deemed to be the property of the licensee, notwithstanding that it is the property of some other person.
+
+(3A) In determining the liability of the licensee of a licensed site by virtue of subsection (1E) in respect of an event, any such property as is mentioned in subsection (3B) which is on that site at the time of the event is to be deemed to be the property of the licensee, notwithstanding that it is the property of some other person.
+
+(3B) The property referred to in subsections (3) and (3A) is—
+
+(a) a nuclear installation;
+
+(b) property other than a nuclear installation which is on the licensed site for the purpose of being used in connection with the operation, or the cessation of the operation, by the licensee of a nuclear installation which is or has been on that site;
+
+(c) property other than a nuclear installation which is on the licensed site for the purpose of the construction of a nuclear installation on that site;
+
+(d) an installation for the disposal of nuclear matter.]
+
+[[^F49](4) Section 8 of this Act shall apply in relation to sites occupied by the Authority.]
+
+### 7A [[^F50]Occurrences not on a licensed site
+
+(1) The requirement referred to in section 7(1B)(b) is that the nuclear matter satisfies the condition in any of subsections (2) to (8) in relation to the licensee of the licensed site as licensee of that site.
+
+(2) The condition in this subsection is that the nuclear matter—
+
+(a) is in the course of carriage to the licensed site with the agreement of the licensee from a place in a country or territory that is not a relevant territory, and
+
+(b) is not on another relevant site in the United Kingdom.
+
+For these purposes the carriage of the matter is to be treated as starting once the matter has been loaded on to the means of transport intended to be used for its carriage from that country or territory.
+
+(3) The condition in this subsection is that the nuclear matter—
+
+(a) is in the course of carriage from the licensed site to a place in a country or territory that is not a relevant territory, and
+
+(b) is not on another relevant site in the United Kingdom.
+
+For these purposes the carriage of the matter is to be treated as coming to an end once the matter has been unloaded from the means of transport used for its carriage to that country or territory.
+
+(4) The condition in this subsection is that the licensee has taken charge of the nuclear matter from a person authorised to operate a nuclear reactor comprised in a means of transport and the matter—
+
+(a) is in the course of carriage to the licensed site, and
+
+(b) is not on another relevant site in the United Kingdom.
+
+(5) The condition in this subsection is that the nuclear matter—
+
+(a) is in the course of carriage from the licensed site to a person authorised to operate a nuclear reactor comprised in a means of transport and in which the matter is intended to be used, and
+
+(b) is not on another relevant site in the United Kingdom.
+
+For these purposes the carriage of the matter is to be treated as coming to an end once that operator takes charge of the matter.
+
+(6) The condition in this subsection is that—
+
+(a) the nuclear matter was in the course of such carriage as is described in subsection (2), (3), (4) or (5),
+
+(b) that course of carriage was not completed, and
+
+(c) since ceasing to be in the course of such carriage, the nuclear matter has not been in such circumstances as are mentioned in subsection (9), (10) or (11).
+
+(7) The condition in this subsection is that—
+
+(a) the nuclear matter is in the course of carriage on behalf of the licensee as a licensee of the licensed site, otherwise than as described in any of subsections (2)(a), (3)(a), (4)(a) and (5)(a), and the licensee has a direct economic interest in the matter, or
+
+(b) the nuclear matter was in the course of such carriage while being matter in which the licensee had a direct economic interest and, since ceasing to be in the course of such carriage or since ceasing to be matter in which the licensee had a direct economic interest, has not been in such circumstances as are mentioned in subsection (9), (10) or (11).
+
+(8) The condition in this subsection is that the nuclear matter was on the licensed site and, since ceasing to be on that site, has not been in such circumstances as are mentioned in subsection (9), (10) or (11).
+
+(9) The circumstances in this subsection are that the nuclear matter is on a relevant site other than the licensed site.
+
+(10) The circumstances in this subsection are that the nuclear matter—
+
+(a) is in the course of carriage to a relevant site other than the licensed site with the agreement of the operator of that site from a place in a country or territory that is not a relevant territory,
+
+(b) is in the course of carriage from a relevant site other than the licensed site to a place in a country or territory that is not a relevant territory,
+
+(c) is in the course of carriage on behalf of a person authorised to operate a nuclear reactor which is comprised in a means of transport and in which the nuclear matter is intended to be used or was used or was intended to be used, or
+
+(d) is in the course of relevant carriage on behalf of a person other than the licensee of the licensed site, and otherwise than as described in paragraph (a), (b) or (c), and is matter in which that person has a direct economic interest.
+
+(11) The circumstances in this subsection are that the nuclear matter—
+
+(a) is within the territorial limits of a country or territory that is not a relevant territory, and
+
+(b) is not in the course of such carriage as is described in any of subsections (2)(a), (3)(a), (4)(a) and (5)(a) or in the course of relevant carriage from one relevant site to another.
+
+(12) Where the licensee of a licensed site operates the site on behalf of another person—
+
+(a) carriage of nuclear matter that is undertaken or arranged by the licensee as licensee of the licensed site on behalf of that other person is to be treated as carriage on behalf of the licensee (and accordingly is to be treated as relevant carriage on behalf of the licensee for the purposes of this Act), and
+
+(b) a requirement in this section that a person have a direct economic interest in nuclear matter that is in the course of carriage is to be treated as satisfied by the licensee when acting on behalf of another person as regards the carriage of nuclear matter if—
+
+(i) that other person is the person on whose behalf the licensee is operating the licensed site, and
+
+(ii) that other person has a direct economic interest in the nuclear matter.
+
+(13) For the purposes of this section, a person who receives a financial or other benefit for or in connection with undertaking, or arranging for, the carriage of nuclear matter does not, for that reason only, have a direct economic interest in the matter.]
+
+### 7B [[^F51]Duties in respect of relevant disposal sites
+
+(1) Sections 7 and 7A apply in relation to the operator of a relevant disposal site as they apply in relation to the licensee of a licensed site, but with the following modifications—
+
+(a) a reference in those sections to a case in which a nuclear site licence has been granted is to be read as a reference to a case in which an appropriate permit has been granted;
+
+(b) a reference in those sections to a site in respect of which a nuclear site licence has been granted is to be read as a reference to a relevant disposal site;
+
+(c) a reference in those sections to the licensee of a licensed site is to be read as a reference to the operator of a relevant disposal site;
+
+(d) a reference in those sections to a nuclear installation is to be read as a reference to an installation for the disposal of nuclear matter;
+
+(e) paragraph (d) of section 7(3B) is to be disregarded;
+
+(f) the reference in section 7(1B)(a) to the period of responsibility of a licensee under a nuclear site licence is to be read, when applied in relation to the operator of a relevant disposal site, as a reference to the period during which the operator is responsible for the relevant disposal site.
+
+(2) For the purposes of subsection (1)(f) an operator of a relevant disposal site is responsible for the relevant disposal site or any part of it during the period that—
+
+(a) begins—
+
+(i) when article 4 of the Nuclear Installations (Liability for Damage) Order 2016 comes fully into force, or
+
+(ii) if later, when the person becomes the operator of the site or, as the case may be, part of it, and
+
+(b) ends with whichever of the dates in subsection (3) is the earliest.
+
+[[^F52](2B) The operator of a site that would be a relevant disposal site but for subsection (7A) is to be treated for the purposes of subsection (2)(a)(ii) as becoming the operator of the site on the date when the site ceases to be an excluded disposal site.]
+
+(3) The dates referred to in subsection (2)(b) are—
+
+(a) the date when the appropriate environment authority gives notice in writing to the operator of the site that in the opinion of that authority there has ceased to be any danger from ionising radiations from anything on the site or, as the case may be, part of it;
+
+(b) the date when another person becomes the operator of the site or, as the case may be, part of it;
+
+(c) the date when the following conditions have both become satisfied—
+
+(i) the site or, as the case may be, part of it ceases to be used by the operator, and
+
+(ii) the site or, as the case may be, that part of it is used or occupied by or on behalf of the Crown;
+
+(d) the date when a nuclear site licence is granted in respect of the site or, as the case may be, part of it;
+
+[[^F53](e) the date when the Secretary of State gives notice under section 7C(1)(b) that the site is an excluded disposal site.]
+
+[[^F54](3A) Where a site to which subsection (2B) applies was a relevant disposal site before it became an excluded disposal site, subsection (2) has effect in respect of—
+
+(a) the period beginning by virtue of subsection (2)(a), and
+
+(b) any further period beginning by virtue of subsection (2B).]
+
+(4) Subject to subsections (5), (6) [[^F55], (7) and (7A)], a site is a relevant disposal site for the purposes of this section if—
+
+(a) it is used for the operation of an installation for the disposal of nuclear matter, and
+
+(b) that use is a use for which the authority of an appropriate permit is required.
+
+(5) A site is not a relevant disposal site if it is—
+
+(a) a site or part of a site in respect of which a nuclear site licence has been granted,
+
+(b) premises treated because of section 8 as a site for which a nuclear site licence has been granted or part of such premises, or
+
+(c) a site or part of a site used or occupied by or on behalf of the Crown.
+
+(6) A site is not a relevant disposal site if—
+
+(a) any person using the site ceased, before article 4 of the Nuclear Installations (Liability for Damage) Order 2016 came fully into force, to accept on the site any nuclear matter for the purposes of disposal on the site, and
+
+(b) no person using the site has, after article 4 came fully into force, accepted on the site any nuclear matter for the purposes of disposal on the site.
+
+(7) A site is not a relevant disposal site if the nuclear matter disposed of in the installation or installations on the site consists only of nuclear matter that is excepted matter.
+
+[[^F56](7A) A site is not a relevant disposal site if it is an excluded disposal site.]
+
+(8) If a site ceases to be a relevant disposal site, no liability may arise by virtue of this section after the time it ceases to be a relevant disposal site, except in relation to an occurrence or event that began to happen before that time.
+
+(9) In this section—
+
+- “appropriate permit” means—
+
+  - in relation to a site in England or Wales, a permit under regulations made under section 2 of the Pollution Prevention and Control Act 1999 authorising a person to use the site for the disposal of radioactive waste;
+  - (aa) [[^F57]in relation to a site in Scotland, a permit under regulations made under section 18 of the Regulatory Reform (Scotland) Act 2014 (2014 asp 3) authorising a person to use the site for the disposal of radioactive waste;]
+  - in relation to a site in [^F58]... Northern Ireland, an authorisation under section 13 of the Radioactive Substances Act 1993 authorising a person to use the site for the disposal of radioactive waste;
+
+- “operator”, in relation to a relevant disposal site, means the person who uses the site to operate the installation by virtue of which the site is a relevant disposal site.]
+
+### 7C [[^F59]Excluded disposal sites
+
+(1) A site that is used or intended to be used for the operation of an installation for the disposal of nuclear matter is an excluded disposal site if—
+
+(a) the Secretary of State is satisfied, on an application by the operator of the site, that the site meets—
+
+(i) the permit condition,
+
+(ii) the site history condition, and
+
+(iii) such other conditions as may be prescribed, and
+
+(b) the Secretary of State gives the operator notice in writing to that effect.
+
+(2) In this section, “disqualifying matter” means nuclear matter that exceeds the radioactivity concentration limits set out in paragraph 3(a) of the Appendix to the 2016 Decision.
+
+(3) The permit condition is that—
+
+(a) an appropriate permit is in force in respect of the site, and
+
+(b) that permit includes a condition preventing the site from receiving disqualifying matter.
+
+(4) The site history condition is that—
+
+(a) disqualifying matter has not at any time been accepted for disposal at the site, or
+
+(b) any disqualifying matter previously accepted for disposal at the site has been removed from the site.
+
+(5) An application under subsection (1)(a) must be accompanied by such documents as may be prescribed.
+
+(6) Regulations made under subsection (5) may—
+
+(a) specify requirements relating to the preparation, approval or review of a prescribed document;
+
+(b) require an operator to provide a copy of a prescribed document to a person other than the Secretary of State;
+
+(c) make different provision for different purposes.
+
+(7) A site ceases to be an excluded disposal site if the site no longer meets the permit condition or any condition prescribed under subsection (1)(a)(iii).
+
+(8) Where the appropriate permit in force in respect of an excluded disposal site is transferred to a new operator, the site ceases to be an excluded disposal site at the end of the period of one month beginning with the date on which the permit is transferred unless, before the end of that period—
+
+(a) the new operator notifies the Secretary of State of the transfer, and
+
+(b) the Secretary of State gives the new operator notice in writing that the Secretary of State consents to the site continuing to be an excluded disposal site.
+
+(9) The Secretary of State must notify the Scottish Ministers of any notification given under subsection (1)(b) in relation to a site in Scotland.
+
+(10) In this section—
+
+- “2016 Decision” means the Decision and Recommendation Concerning the Application of the Paris Convention on Third Party Liability in the Field of Nuclear Energy to Nuclear Installations for the Disposal of Certain Types of Low-level Radioactive Waste published on 16 January 2017 by the Steering Committee for Nuclear Energy of the Nuclear Energy Agency of the Organisation for Economic Co-operation and Development;
+- “appropriate permit” has the meaning given in section 7B(9).
+
+### 7D Excluded disposal sites: acceptance of disqualifying matter
+
+(1) This section applies where disqualifying matter is accepted at an excluded disposal site; and for the purposes of this section the acceptance of such matter is referred to as “the breach”.
+
+(2) The operator of the site must notify the Secretary of State of the breach before the end of the notification period.
+
+(3) “The notification period” means the period of 21 days beginning with the day on which the operator becomes aware of the breach.
+
+(4) The site ceases to be an excluded disposal site at the end of the notification period unless the operator complies with the duty under subsection (2).
+
+(5) An operator who has complied with the duty under subsection (2) must remove the disqualifying waste from the site before the end of the removal period.
+
+(6) “The removal period” means—
+
+(a) the period of 90 days beginning with the day on which the operator notifies the Secretary of State of the breach, or
+
+(b) such longer period as the Secretary of State may specify before the end of the period mentioned in paragraph (a) if satisfied that the operator is taking all reasonable steps to remove the disqualifying matter from the site.
+
+(7) The site ceases to be an excluded disposal site at the end of the removal period unless before the end of that period—
+
+(a) the Secretary of State is satisfied that the disqualifying waste has been removed from the site, and
+
+(b) the Secretary of State gives the operator notice in writing to that effect.
+
+(8) In this section, “disqualifying matter” has the meaning given by section 7C.]
+
+### 8 Duty of Authority.
+
+[[^F60]Sections 7 and 7A] of this Act shall apply in relation to the Authority—
+
+(a) as if any premises which are or have been occupied by the Authority were a site in respect of which a nuclear site licence has been granted to the Authority; and
+
+(b) as if in relation to any such premises any reference to the period of the licensee’s responsibility were a reference to any period during which the Authority is in occupation of those premises [[^F61]; and [[^F62]sections 7 and 7A] shall so apply whether or not a nuclear site licence has been granted in respect of the premises in question.]
+
+### 9 Duty of Crown in respect of certain sites.
+
+[[^F63](1) If a government department uses any site for any purpose which, if section 1 of this Act applied to the Crown, would require the authority of a nuclear site licence in respect of that site, [[^F64]sections 7 and 7A] of this Act shall apply in like manner as if—
+
+(a) the Crown were the licensee under a nuclear site licence in respect of that site; and
+
+(b) any reference to the period of the licensee’s responsibility were a reference to any period during which the department occupies the site.]
+
+[[^F65](2) If a government department uses a site for a purpose which, if section 7B applied to the Crown, would cause the site to be a relevant disposal site, sections 7 and 7A are to apply in respect of that site as they apply in relation to the licensee of a licensed site, but with the following modifications—
+
+(a) a reference to a case in which a nuclear site licence has been granted is to be read as a reference to a case in which a site is used by a government department for a purpose which, if section 7B applied to the Crown, would cause the site to be a relevant disposal site (a “disposal purpose”);
+
+(b) a reference in those sections to a site in respect of which a nuclear site licence has been granted is to be read as a reference to a site used by a government department for a disposal purpose;
+
+(c) a reference in those sections to the licensee of a licensed site is to be read as a reference to the government department that is using a site for a disposal purpose;
+
+(d) paragraph (d) of section 7(3B) is to be disregarded;
+
+(e) the reference in section 7(1B)(a) to the period of responsibility of a licensee under a nuclear site licence is to be read, when applied in relation to a government department using a site for a disposal purpose, as a reference to the period during which the department is responsible for the site.
+
+(3) For the purposes of subsection (2)(e) a government department is responsible for a site used by it for a disposal purpose, or for any part of a site so used by it, during the period that—
+
+(a) begins—
+
+(i) when article 4 of the Nuclear Installations (Liability for Damage) Order 2016 comes fully into force, or
+
+(ii) if later, when the department starts to use the site or, as the case may be, part of it for a disposal purpose, and
+
+(b) ends with whichever of the dates in subsection (4) is the earliest.
+
+(4) The dates referred to in subsection (3)(b) are—
+
+(a) the date when the department ceases to occupy the site or, as the case may be, part of it, and
+
+(b) the date when, if section 1 applied to the Crown, the use of the site or, as the case may be, part of it would require the authority of a nuclear site licence.
+
+(5) In determining for the purposes of subsection (2) whether a use of a site would, if section 7B applied to the Crown, cause the site to be a relevant disposal site—
+
+(a) section 7B(5)(a) is to be read as if it referred to a site or part of a site which is or was used for a purpose which, if section 1 applied to the Crown, would require the authority of a nuclear site licence in respect of that site,
+
+(b) section 7B(5)(c) is to be disregarded,
+
+(c) any limitation on the application to the Crown of a requirement to have an appropriate permit is to be disregarded, and
+
+(d) the Crown is to be taken to have complied with any requirement which would, if complied with, exempt a person from being required to have an appropriate permit in relation to the site.]
+
+### [[^F66]10 Duty of certain foreign operators.
+
+(1) It is the duty of a relevant foreign operator to secure that no occurrence involving nuclear matter which is not excepted matter and satisfying the conditions in subsections (2) and (4) causes—
+
+(a) injury to any person,
+
+(b) damage to any property of any person other than that operator, or
+
+(c) significant impairment of the environment,
+
+being injury, damage or impairment that arises out of or results from the radioactive properties, or a combination of those and any toxic, explosive or other hazardous properties, of that nuclear matter.
+
+(1A) It is the duty of a relevant foreign operator to secure that no event happens that creates a grave and imminent threat of a breach of the duty under subsection (1).]
+
+[[^F67](2) The condition in this subsection is that the occurrence is—
+
+(a) an occurrence taking place wholly or partly within United Kingdom limits; or
+
+(b) an occurrence taking place outside those limits which also involves nuclear matter in respect of which a duty is imposed on any person by section 7, 7B, 8 or 9.
+
+(3) For the purposes of subsection (2), an occurrence takes place within United Kingdom limits if it takes place—
+
+(a) within the territorial limits of the United Kingdom, or
+
+(b) within the limits of the United Kingdom’s relevant maritime zone,
+
+and the limits of that zone are to be treated as applying to sea, sea bed, subsoil and airspace.
+
+(4) The condition in this subsection is that the nuclear matter involved in the occurrence would, if the relevant foreign operator were the licensee of a licensed site and that operator’s relevant site were a licensed site, satisfy the requirement in section 7A(1) in relation to the relevant foreign operator at the time of the occurrence.]
+
+### 11 Duty of persons causing nuclear matter to be carried.
+
+Where any nuclear matter, not being excepted matter, is in the course of carriage within the territorial limits of the United Kingdom on behalf of any person (hereafter in this section referred to as “the responsible party”) and—
+
+(a) the carriage is not relevant carriage; and
+
+(b) the nuclear matter is not for the time being on any relevant site,
+
+it shall be the duty of the responsible party to secure that no occurrence involving that nuclear matter causes injury to any person or damage to any property of any person other than the responsible party, being injury or damage incurred within the said territorial limits and arising out of or resulting from the radioactive properties, or a combination of those and any toxic, explosive or other hazardous properties, of that nuclear matter.
+
+## [[^F68]Cost of measures of reinstatement
+
+### 11A Cost of measures of reinstatement
+
+(1) Where as a result of a breach of a duty imposed by section 7, 7B, 8, 9 or 10 there is significant impairment of the environment, a qualifying public authority may make a claim under this Act for compensation in respect of the reasonable cost of relevant measures of reinstatement relating to that impairment.
+
+(2) Subsection (1) is subject to subsection (3) and sections 11B and 11D.
+
+(3) Compensation is not payable by virtue of a claim under subsection (1) in respect of the cost of measures of reinstatement that benefit or would benefit property if the property is such that damage to it would not constitute damage in breach of a duty imposed by—
+
+(a) section 7 (see section 7(1A)(b), (1C)(b), (3) and (3A)),
+
+(b) section 7B (see section 7(1A)(b), (1C)(b), (3) and (3A) as applied by section 7B),
+
+(c) section 8 (see section 7(1A)(b), (1C)(b), (3) and (3A) as applied by section 8),
+
+(d) section 9 (see section 7(1A)(b), (1C)(b), (3) and (3A) as applied by section 9), or
+
+(e) section 10 (see section 10(1)(b)),
+
+as the case may be.
+
+(4) A public authority is a qualifying public authority, in relation to a particular significant impairment of the environment, if it may in the exercise of its functions—
+
+(a) take, or arrange for the taking of, measures of reinstatement relating to that impairment of the environment, or
+
+(b) pay (otherwise than under this Act) costs incurred by another public authority in taking, or arranging for the taking of, measures of reinstatement relating to that impairment.
+
+(5) A measure of reinstatement relating to a significant impairment of the environment is a relevant measure of reinstatement relating to that impairment if, or to the extent that, it is a measure reasonably taken for the purpose of—
+
+(a) reinstating or restoring what has been destroyed or damaged in the environment, or
+
+(b) establishing the equivalent of what has been destroyed or damaged in the environment.
+
+(6) A measure of reinstatement is reasonably taken for the purposes of this section if taking that measure is appropriate and proportionate in the circumstances.
+
+(7) A reference in this section to the environment is a reference to the environment within the territorial limits of the United Kingdom, in or above the exclusive economic zone of the United Kingdom or on the continental shelf of the United Kingdom.
+
+(8) In this section and sections 11B, 11D and 11E—
+
+- “holder of a public office” means—
+
+  - a person holding an office under the Crown,
+  - a person holding an office created or continued in existence by a public general Act or by legislation passed by the Scottish Parliament, the National Assembly for Wales or the Northern Ireland Assembly, or
+  - a person holding an office the remuneration in respect of which is paid out of money provided by Parliament, the Scottish Parliament, the National Assembly for Wales or the Northern Ireland Assembly;
+
+- “local authority” means—
+
+  - in relation to England, a county council, a district council, a parish council, a London borough council, the Common Council of the City of London or the Council of the Isles of Scilly,
+  - in relation to Scotland, a council constituted under section 2(1) of the Local Government etc. (Scotland) Act 1994,
+  - in relation to Wales, a county council, a county borough council or a community council, or
+  - in relation to Northern Ireland, a district council;
+
+- “public authority” means a holder of a public office or a public body in the United Kingdom;
+
+- “public body” includes a government department (including the Welsh Assembly Government, any part of the Scottish Administration and a Northern Ireland department) and a local authority.
+
+### 11B Approval of measures of reinstatement
+
+(1) Compensation under this Act is payable by virtue of a claim under section 11A(1) only if the claim relates to measures of reinstatement approved by—
+
+(a) the Secretary of State under this section, or
+
+(b) if a decision under this section is appealed under section 11D, the court that determines the appeal under section 11D.
+
+(2) A qualifying public authority may apply to the Secretary of State for approval under this section before or after the measures of reinstatement are taken.
+
+(3) The public authority must publish a notice of its application.
+
+(4) The notice must be published in a manner that appears to the authority to be appropriate for bringing it to the attention of—
+
+(a) the person whose breach, or alleged breach, of a duty imposed by section 7, 7B, 8, 9 or 10 caused, or is alleged to have caused, the impairment of the environment;
+
+(b) in relation to any property that is or would be affected by the measures of reinstatement, any person who appears to the authority to have such interest in or right over that property as would entitle that person to claim for damage to property.
+
+(5) A notice of an application for approval must specify the measures of reinstatement for which approval is sought.
+
+(6) The Secretary of State may approve a measure of reinstatement under this section only if satisfied that—
+
+(a) there is significant impairment of the environment;
+
+(b) the measure is, in relation to that impairment, a relevant measure of reinstatement within the meaning of section 11A;
+
+(c) the amount claimed in respect of the cost of the measure is reasonable;
+
+(d) the public authority applying for approval in relation to a measure of reinstatement is a qualifying public authority within the meaning of section 11A as regards that measure.
+
+(7) The Secretary of State may refuse to approve measures of reinstatement on the ground that the applicant, or the public authority whose costs the applicant has paid or proposes to pay, is or was not the appropriate public authority to take the measures or to arrange for them to be taken.
+
+(8) The Secretary of State may approve some but not others of the measures to which the application relates.
+
+(9) A decision by the Secretary of State under this section is not to be taken as determining—
+
+(a) whether or not there was a breach of a duty under section 7, 7B, 8, 9 or 10, or
+
+(b) whether or not the impairment of the environment arises out of or results from a breach of such a duty.
+
+(10) The Secretary of State must publish a notice of a decision made under this section.
+
+(11) For each of the measures of reinstatement to which the application relates, the notice of decision must—
+
+(a) if approval is refused, state whether or not approval is refused on the ground mentioned in subsection (7), and
+
+(b) except in a case where approval is refused on that ground, specify the reasons why the Secretary of State is or is not satisfied as to the matters in subsection (6).
+
+(12) If the Secretary of State makes a claim for compensation under section 11A(1), the Secretary of State must appoint an independent person to carry out the functions of the Secretary of State under this section and sections 11C and 11D as regards approving measures of reinstatement.
+
+(13) Approval by the appointed person is to be treated as approval by the Secretary of State for the purposes of subsection (1).
+
+### 11C Representations
+
+(1) Persons who satisfy the requirements of subsection (2) may make representations to the Secretary of State as regards the measures of reinstatement for which approval is sought by an application under section 11B.
+
+(2) A person satisfies the requirements of this subsection if the person is—
+
+(a) the person whose breach, or alleged breach, of a duty imposed by section 7, 7B, 8, 9 or 10 caused, or is alleged to have caused, the impairment of the environment;
+
+(b) in relation to any property that is or would be affected by the measures of reinstatement, a person who has such interest in or right over that property as would entitle that person to claim for damage to property.
+
+(3) The Secretary of State may invite other persons to make representations as regards the measures of reinstatement.
+
+(4) The Secretary of State must publish a notice of the arrangements for making representations under this section in respect of an application under section 11B.
+
+### 11D Appeals against decisions
+
+(1) The following persons may appeal to the appropriate court against a decision of the Secretary of State on an application under section 11B—
+
+(a) where approval of a measure of reinstatement is refused, the public authority that applied for approval of the measure;
+
+(b) where approval of a measure of reinstatement is granted, the person whose breach, or alleged breach, of a duty imposed by section 7, 7B, 8, 9 or 10 caused, or is alleged to have caused, the impairment of the environment.
+
+(2) A decision of the Secretary of State to refuse approval on the ground mentioned in section 11B(7) may not be appealed under this section.
+
+(3) Subject to subsection (2), the court may on an appeal under this section determine whether or not to approve the measures of reinstatement to which the appeal relates.
+
+(4) Section 11B(6) applies in relation to a determination of the court as it applies in relation to a decision of the Secretary of State under section 11B.
+
+(5) The appropriate court is the court that has, or but for section 16(3E) would have had, jurisdiction in accordance with section 16C to determine a claim by virtue of section 7, 7B, 8, 9 or 10 for compensation under this Act in respect of the cost of the measures of reinstatement in question.
+
+(6) A decision of a person appointed under section 11B(12) may be appealed in the same way as a decision of the Secretary of State.
+
+### 11E Measures of reinstatement in the United Kingdom: claims under relevant foreign law
+
+(1) This section applies if approval on the part of the United Kingdom is required by any relevant foreign law in connection with a claim under that law corresponding to such claim as may be made under paragraph 1 of Schedule 1A.
+
+(2) Sections 11B to 11D are to apply in relation to such a claim under the relevant foreign law as they apply in relation to a claim under section 11A(1).
+
+(3) Where sections 11B to 11D apply by virtue of subsection (2)—
+
+(a) references to a public authority are to be treated as including references to a person who is entitled, in the particular case, to take or arrange for the taking of such measures as give rise to a claim under the relevant foreign law for compensation,
+
+(b) references to a breach of a duty under section 7, 7B, 8, 9 or 10 are to be treated as references to the corresponding occasion of compensation under the relevant foreign law,
+
+(c) section 11B(6) is to be treated as requiring the Secretary of State to approve a measure of reinstatement only if satisfied that—
+
+(i) the measure is such that the costs of taking the measure may be claimed under the relevant foreign law made for purposes corresponding to section 11A, if liability is established under the relevant foreign law, and
+
+(ii) the person applying for approval is entitled to take or arrange for the taking of the measure,
+
+(d) references to the appropriate court are to be treated as references to the High Court of Justice, and
+
+(e) section 11B(7) is not to have effect if the person applying for approval is not a public authority.
+
+### 11F Measures of reinstatement outside the United Kingdom: claims under this Act
+
+Schedule 1A (approval of measures of reinstatement in places outside the United Kingdom) has effect.]
+
+## [[^F69]Loss of income derived from the environment
+
+### 11G Loss of income derived from the environment
+
+(1) Where as a result of a breach of a duty imposed by section 7, 7B, 8, 9 or 10 there is significant impairment of the environment, a claim may be made under this Act for compensation in respect of a person’s loss of profits if the circumstances of that loss satisfy the requirements in subsection (2).
+
+(2) The requirements are that—
+
+(a) the profits are from income that the person generates, or but for the impairment would generate, by means of an activity which entails directly exploiting the resources in a part of the environment,
+
+(b) the activity is an activity that the person may lawfully carry on, or but for the impairment would be able lawfully to carry on, in that part of the environment,
+
+(c) the person had started to carry on, and had not ceased to carry on, the activity in that part of the environment before the occurrence began to happen,
+
+(d) some or all of that part of the environment is significantly impaired as a result of the breach of duty, and
+
+(e) as a direct consequence of that significant impairment, the person is not able to carry on the activity in question in so much of that part of the environment as is significantly impaired or profits less from carrying on the activity there.
+
+(3) Compensation is not payable to a person by virtue of a claim under subsection (1) if the activity in question is an activity carried on by the person as an employee.
+
+(4) Compensation is not payable to a person by virtue of a claim under subsection (1) if the loss of profits is—
+
+(a) a loss for which that person may claim compensation under this Act by way of compensation for damage to property, or
+
+(b) a loss for which that person could make such a claim but for the property being such that damage to it would not constitute damage in breach of a duty imposed by—
+
+(i) section 7 (see section 7(1A)(b), (1C)(b), (3) and (3A)),
+
+(ii) section 7B (see section 7(1A)(b), (1C)(b), (3) and (3A) as applied by section 7B),
+
+(iii) section 8 (see section 7(1A)(b), (1C)(b), (3) and (3A) as applied by section 8),
+
+(iv) section 9 (see section 7(1A)(b), (1C)(b), (3) and (3A) as applied by section 9), or
+
+(v) section 10 (see section 10(1)(b)),
+
+as the case may be.
+
+(5) Compensation under this Act is not payable by virtue of a claim under subsection (1) if the part of the environment in question is the relevant site by reference to which the claim under subsection (1) is established or a part of it.]
+
+## [[^F70]Cost of preventive measures
+
+### 11H Cost of preventive measures
+
+(1) Where there is a breach of a duty imposed by section 7, 7B, 8, 9 or 10, a claim may be made for compensation under this Act in respect of the reasonable cost of preventive measures reasonably taken after the breach of duty.
+
+(2) Subject to subsections (3) and (4), where there is a breach of a duty imposed by section 7, 7B, 8, 9 or 10, a claim may be made for compensation under this Act in respect of injury to a person or damage to property caused by—
+
+(a) preventive measures reasonably taken after the breach of duty by a person other than the person whose breach of duty it is, or
+
+(b) preventive measures taken after the breach of duty by the person whose breach of duty it is.
+
+(3) The compensation that may be claimed under subsection (2)(a) does not include compensation in respect of so much of any injury or damage as is caused by an act or omission done maliciously or negligently.
+
+(4) The compensation that may be claimed under subsection (2) does not include compensation in respect of damage to property where the property is such that damage to it would not constitute damage in breach of a duty imposed by—
+
+(a) section 7 (see section 7(1A)(b), (1C)(b), (3) and (3A)),
+
+(b) section 7B (see section 7(1A)(b), (1C)(b), (3) and (3A) as applied by section 7B),
+
+(c) section 8 (see section 7(1A)(b), (1C)(b), (3) and (3A) as applied by section 8),
+
+(d) section 9 (see section 7(1A)(b), (1C)(b), (3) and (3A) as applied by section 9), or
+
+(e) section 10 (see section 10(1)(b)),
+
+as the case may be.
+
+(5) The payment of compensation in respect of injury to a person or damage to property otherwise than under this Act by or on behalf of a person who takes preventive measures does not prevent the making of a claim under subsection (2) (subject to the exceptions in subsections (3) and (4)) if and to the extent that that payment does not make full compensation in respect of the injury or damage in question.
+
+(6) A reference in subsection (1) or (2) to a preventive measure reasonably taken after a breach of duty includes a reference to such part of a preventive measure as is so taken.
+
+(7) A preventive measure is a measure taken in order to minimise or prevent—
+
+(a) injury to a person or damage to property constituting a breach of a duty imposed by section 7, 7B, 8, 9 or 10, or
+
+(b) significant impairment of the environment occasioning costs or losses in respect of which a claim under section 11A(1) or 11G(1) or paragraph 1 of Schedule 1A may be made.
+
+(8) A preventive measure is reasonably taken for the purposes of this section if taking that measure is appropriate and proportionate in the circumstances.
+
+(9) Where the breach of a duty under section 7(1E), 7B, 8, 9 or 10(1A) consists of an event that creates a grave and imminent threat of a breach of another duty under section 7, 7B, 8, 9 or 10, no preventive measure may be considered appropriate and proportionate unless it is possible for there to be at least one person, not being a person involved in the event, whose likely exposure if the threatened breach of duty were to happen would be in excess of one of the following—
+
+(a) an effective dose of 5 mSv in the period of one year beginning with the day on which the threatened breach of duty happens or begins to happen;
+
+(b) an equivalent dose for the lens of the eye of 15 mSv in that period;
+
+(c) an equivalent dose for the skin of 50 mSv in that period over 1 cm <sup>2</sup> area of skin, regardless of the area exposed.
+
+(10) In quantifying a person’s likely exposure for the purposes of subsection (9), the effect of preventive measures taken to protect the person’s health within 24 hours of the time when the event first creates the grave and imminent threat is to be disregarded.
+
+(11) In subsection (9)—
+
+(a) an effective dose is the sum of the effective dose to the whole body from external radiation and the committed effective dose from internal radiation;
+
+(b) an equivalent dose for a particular human tissue or organ includes the committed equivalent dose to that tissue or organ from internal radiation;
+
+(c) “external radiation”, in relation to a person, means ionising radiation coming from outside the body of that person;
+
+(d) “internal radiation”, in relation to a person, means ionising radiation coming from inside the body of that person.
+
+(12) Subsection (9) does not apply in the case of—
+
+(a) preventive measures taken as regards a person involved in the event;
+
+(b) preventive measures relating to the food supply.
+
+(13) For the purposes of subsections (9) and (12), a person is involved in such an event if—
+
+(a) where the event relates to a threatened breach of duty on a licensed site, the person is on the licensed site at any time when the event is happening,
+
+(b) where the event relates to a threatened breach of duty involving nuclear matter in the course of carriage, the person is concerned with that carriage of nuclear matter at any time when the event is happening,
+
+(c) where the event relates to a threatened breach of duty on a licensed site, the person is, after the event happens, on the licensed site for the purpose of taking preventive measures or taking part in an emergency response to the event, or
+
+(d) where the event relates to a threatened breach of duty involving nuclear matter in the course of carriage, the person is at the place where the event is happening or has happened for the purpose of taking preventive measures or taking part in an emergency response to the event.]
+
+## Right to compensation in respect of breach of duty
+
+### 12 Right to compensation [^F71]....
+
+[[^F72](1) Where any injury or damage has been caused in breach of a duty imposed by section 7, 7B, 8, 9 or 10, compensation is payable in accordance with section 16 wherever the injury or damage was incurred.
+
+(1A) Where any significant impairment of the environment has been caused in breach of a duty imposed by section 7, 7B, 8, 9 or 10, such compensation as may be claimed by virtue of section 11A(1) or 11G(1) or paragraph 1 of Schedule 1A is payable in accordance with section 16 wherever the impairment arises.
+
+(1B) Where preventive measures are taken after a breach of a duty imposed by section 7, 7B, 8, 9 or 10, such compensation as may be claimed by virtue of section 11H(1) is payable in accordance with section 16 wherever the preventive measures are taken.
+
+(1C) Where any injury to a person or damage to property is caused by preventive measures taken after a breach of a duty imposed by section 7, 7B, 8, 9 or 10, such compensation as may be claimed by virtue of section 11H(2) is payable in accordance with section 16 wherever the injury or damage was incurred.
+
+(1D) Subsections (1) to (1C) are subject to—
+
+(a) section 13(1), (1C), (3), (4) and (4A),
+
+(b) section 15, and
+
+(c) section 17(1).
+
+(1E) No liability other than that imposed by subsections (1) to (1C) may be incurred by any person in respect of—
+
+(a) injury, damage or significant impairment of the environment caused or threatened in breach of a duty imposed by section 7, 7B, 8, 9 or 10,
+
+(b) preventive measures taken after a breach of a duty imposed by section 7, 7B, 8, 9 or 10, or
+
+(c) injury or damage caused by preventive measures taken after a breach of a duty imposed by section 7, 7B, 8, 9 or 10.
+
+(1F) Subsection (1E) is subject to—
+
+(a) subsections (1G), (3) and (4), and
+
+(b) section 21(2).
+
+(1G) Subsection (1E) does not affect such liability as may be incurred in relation to—
+
+(a) a preventive measure or part of a preventive measure in respect of which a claim for compensation under section 11H(1) may not be made, or
+
+(b) such injury or damage as is excluded from a claim for compensation under this Act by section 11H(3).]
+
+[[^F73](2) Subject to subsection (3), any injury, damage or significant impairment of the environment which, though not caused in breach of a duty imposed by section 7, 7B, 8, 9 or 10, is not reasonably separable from injury, damage or significant impairment so caused, is to be deemed for the purposes of subsections (1) to (1C) to have been so caused.]
+
+(3) Where [[^F74]any injury, damage or significant impairment of the environment] is caused partly in breach of such a duty as aforesaid and partly by an emission of ionising radiations which does not constitute such a breach, subsection (2) of this section shall not affect any liability of any person in respect of that emission apart from this Act, but a claimant shall not be entitled to recover compensation in respect of the [[^F75]same injury, damage or significant impairment of the environment] both under this Act and otherwise than under this Act.
+
+[[^F76](3A) Subject to subsection (4), where damage to any property has been caused which was not caused in breach of a duty imposed by section 7, 7B, 8, 9 or 10 but which would have been caused in breach of such a duty if in section 7(1A)(b) and (1C)(b) the words “other than the licensee” or in section 10(1)(b) the words “other than that operator” had not been enacted, no liability which, apart from this subsection, would have been incurred by any person in respect of that damage is to be so incurred except—
+
+(a) in pursuance of an agreement to incur liability in respect of such damage entered into in writing before the occurrence of the damage, or
+
+(b) where the damage was caused by an act or omission of that person done with intent to cause injury or damage.]
+
+[[^F77](3B) Subject to subsection (4), where compensation for damage to any property would have been payable by virtue of a claim under section 11H(2) if section 11H(4) had not been enacted, no liability which, apart from this subsection, would have been incurred by any person in respect of that damage is to be so incurred except—
+
+(a) in pursuance of an agreement to incur liability in respect of such damage entered into in writing before the occurrence of the damage, or
+
+(b) where the damage was caused by an act or omission done maliciously or negligently by the person whose breach of a duty imposed by section 7, 7B, 8, 9 or 10 is the reason for the claim.]
+
+(4) Subject to section 13(5) of this Act, nothing in [[^F78]subsection (1E), (3A) or (3B)] shall affect—
+
+(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F79]
+
+(b) the operation of the [^M1]Carriage by Air Act 1932, the [^M2]Carriage by Air Act 1961 or the [^M3]Carriage by Air (Supplementary Provisions) Act 1962 in relation to any international carriage to which a convention referred to in the Act in question applies; or
+
+(c) the operation of any Act which may be passed to give effect to the Convention on the Contract for the International Carriage of Goods by Road signed at Geneva on 19th May 1956.
+
+### 13 Exclusion, extension or reduction of compensation in certain cases.
+
+[[^F80](1) Compensation is not payable under this Act in the case of a breach of a duty imposed by section 7, 7B, 8, 9 or 10 if—
+
+(a) the breach of duty consisted of an occurrence falling within section 7(1B)(b) or 10(1) which took place wholly within the limits relating to a single relevant territory other than the United Kingdom;
+
+(b) the breach of duty consisted of an event creating a grave and imminent threat of such breach of duty as is mentioned in paragraph (a) and the event took place wholly within the limits relating to a single relevant territory other than the United Kingdom;
+
+(c) the injury, damage or significant impairment of the environment caused by the breach of duty was incurred within the territorial limits of a country or territory that is not a qualifying territory; or
+
+(d) in relation to compensation that would but for this paragraph be claimed under section 11H(1) or (2), the preventive measures in question were or would be taken in a place within the territorial limits of a country or territory that is not a qualifying territory.
+
+(1A) For the purposes of subsection (1), the limits relating to a relevant territory are—
+
+(a) its territorial limits; and
+
+(b) where the relevant territory has a relevant maritime zone, the limits of its relevant maritime zone (which are to be treated as applying to sea, sea bed, subsoil and airspace).
+
+(1B) Subsection (1) is subject to subsections (2) and (5).
+
+(1C) Compensation is not payable under this Act in the case of a breach of a duty imposed by section 10 if—
+
+(a) the injury, damage or significant impairment of the environment caused by the breach of duty was incurred in, under or above the sea outside the territorial limits of any country or territory; or
+
+(b) in relation to compensation that would but for this paragraph be claimed under section 11H(1) or (2), the preventive measures in question were or would be taken in, under or above the sea outside the territorial limits of any country or territory.
+
+(1D) Subsection (1C) does not apply if the injury, damage or significant impairment of the environment in question was incurred or the preventive measures in question were or would be taken—
+
+(a) in or above the sea within the exclusive economic zone of any qualifying territory, or
+
+(b) on the continental shelf of any qualifying territory.
+
+(1E) Subsection (1C) is also subject to subsections (2A) and (5).]
+
+(2) In the case of a breach of a duty imposed by section 7[[^F81], 7B], 8 or 9 of this Act, [[^F82]subsection (1)(c) and (d)] of this section shall not apply to injury or damage incurred by, or by persons or property on, a ship or aircraft registered in the United Kingdom.
+
+[[^F83](2A) In the case of a breach of duty imposed by section 10, subsection (1C)(b) does not apply to injury or damage incurred by, or by persons or property on, a ship or aircraft registered in a qualifying territory.]
+
+(3) Compensation shall not be payable under this Act [[^F84]in the case of] a breach of a duty imposed by section 10 of this Act in respect of such carriage [[^F85]as satisfies the condition in section 10(4) by reference to the condition in section 7A(2)] unless the agreement so referred to was expressed in writing.
+
+[[^F86](4) A duty imposed by section 7(1A) or (1C), 7B, 8, 9, 10(1) or 11 as regards occurrences—
+
+(a) does not impose on the person subject to that duty any liability with respect to injury, damage or impairment of the environment caused by an occurrence which constitutes a breach of that duty if the occurrence, or the fact that the occurrence causes the injury, damage or impairment of the environment, is attributable to hostile action in the course of any armed conflict, including any armed conflict within the United Kingdom; but
+
+(b) does impose such a liability where the occurrence, or the fact that the occurrence causes the injury, damage or significant impairment of the environment, is attributable to a natural disaster, notwithstanding that the disaster is of such an exceptional character that it could not reasonably have been foreseen.
+
+(4A) A duty imposed by section 7(1E), 7B, 8, 9 or 10(1A) as regards events creating a grave and imminent threat of a breach of another duty imposed by section 7, 7B, 8, 9 or 10—
+
+(a) does not impose any liability on the person subject to that duty if the event is attributable to hostile action in the course of any armed conflict, including any armed conflict within the United Kingdom; but
+
+(b) does impose such a liability where the event is attributable to a natural disaster, notwithstanding that the disaster is of such an exceptional character that it could not reasonably have been foreseen.]
+
+[[^F87](5) Where, in the case of an occurrence or event which constitutes a breach of a duty under section 7, 7B, 8, 9 or 10, a person (“A”) other than the person subject to that duty makes a payment to another person (“B”) in respect of material harm connected to the breach of duty or the cost of preventive measures taken after the breach of duty and—
+
+(a) the payment is made in pursuance of any of the international conventions referred to in the Acts mentioned in section 12(4), or
+
+(b) the payment is made in accordance with the law of a country or territory that is not a relevant territory,
+
+A may make such claim under this Act (if any) as would have been available to A if the material harm in question had affected A or A’s property or A had incurred the cost of taking the preventive measures.
+
+(5ZA) A reference in subsection (5) to material harm connected to a breach of a duty under section 7, 7B, 8, 9 or 10 is a reference to—
+
+(a) injury, damage to property or significant impairment of the environment caused by the occurrence which constitutes the breach of duty, or
+
+(b) injury or damage to property caused by a preventive measure taken after the occurrence or event which constitutes the breach of duty.
+
+(5ZB) A claim for compensation under this Act made by A by virtue of subsection (5) is not to be treated as a special relevant claim unless it would have been such a claim if made by B.]
+
+[[^F88](5A) The amount that a person may claim by virtue of subsection (5) of this section shall not exceed the amount of the payment made by him and, in the case of a claim made by virtue of [[^F89]subsection (5)(b), is subject to the limit on liability under section 16(1), (1ZA), [^F90]... (1ZB) or (2) that is applicable to the person subject to the duty.]]
+
+[[^F91](6) The amount of compensation payable to or in respect of any person under this Act by virtue of a breach of a duty imposed by section 7, 7B, 8, 9 or 10 may be reduced in accordance with subsection (7).
+
+(7) The amount may be reduced if, and to the extent that, the injury, damage or significant impairment of the environment in respect of which the compensation is, or would but for this subsection be, payable to or in respect of the person is attributable to—
+
+(a) an act or omission of that person done with the intention of causing harm to any person or property or to any part of the environment, or
+
+(b) an act or omission of that person done with reckless disregard for the consequences of the act or omission.]
+
+### 13A [[^F92]Damage to property and measures of reinstatement
+
+(1) Subsection (2) applies if—
+
+(a) a person claims compensation under this Act in respect of damage to property,
+
+(b) the property is affected by relevant measures of reinstatement (as defined by section 11A) that have been taken by, or under arrangements made by, a qualifying public authority (as defined in section 11A), and
+
+(c) the damage to property and the significant impairment of the environment were caused by the same occurrence.
+
+(2) The court that is determining the person’s claim in respect of damage to property must take into account, as affecting the amount of the person’s loss, any benefit or loss that—
+
+(a) arises from or in connection with the measures of reinstatement, and
+
+(b) is gained or suffered by the person.
+
+(3) Subsection (4) applies if—
+
+(a) a person claims compensation under this Act in respect of damage to property,
+
+(b) the property is affected, or likely to be affected by, relevant measures of reinstatement—
+
+(i) that have been started by, or under arrangements made by, a qualifying public authority but have not been completed, or
+
+(ii) that are proposed to be taken by, or under arrangements made by, a qualifying public authority, and
+
+(c) the damage to property and the significant impairment of the environment were caused by the same occurrence.
+
+(4) The court in determining the person’s claim in respect of damage to property may, if it considers it just to do so, take into account, as affecting the amount of the person’s loss, any benefit or loss that is likely to—
+
+(a) arise from or in connection with the measures of reinstatement as proposed to be carried out and be gained by the person, and
+
+(b) be gained or suffered (as the case may be) by the person.
+
+(5) Where the court determines a person’s claim in the manner described in subsection (2) or (4), the person may not claim to be further compensated under this Act in respect of measures of reinstatement affecting the property that are taken because of the same occurrence.
+
+(6) Subsection (7) applies if—
+
+(a) a qualifying public authority claims compensation under this Act by virtue of section 11A(1) in relation to significant impairment of a part of the environment (“the section 11A(1) claim”),
+
+(b) some or all of the significant impairment also constitutes damage to property, and
+
+(c) the amount of compensation payable in respect of the section 11A(1) claim falls to be determined after—
+
+(i) a court has determined, in proceedings for compensation under this Act for damage to a person’s property, that compensation is payable in accordance with section 16 for the damage to the property, or
+
+(ii) the persons who are, or would be, parties to such proceedings have agreed for the purposes of such proceedings that compensation is payable in accordance with section 16 for the damage to the property.
+
+(7) The court in determining the section 11A(1) claim may, if it considers it just to do so, reduce the amount of compensation otherwise payable in accordance with section 16 so that compensation claimed by virtue of section 11A(1) is not payable by reference to matters for which compensation for damage to property is already payable.
+
+(8) Subsections (1) to (7) apply in relation to—
+
+(a) relevant measures of reinstatement (as defined by paragraph 1 of Schedule 1A),
+
+(b) persons who satisfy the condition in paragraph 2 of Schedule 1A, and
+
+(c) claims made by virtue of paragraph 1 of Schedule 1A,
+
+as they apply in relation to relevant measures of reinstatement (as defined by section 11A), qualifying public authorities and claims made by virtue of section 11A(1).]
+
+### 14 Protection for ships and aircraft.
+
+(1) [[^F93]A claim under this Act falling within subsection (1A) is not to] give rise to any lien or other right in respect of any ship or aircraft; and the following provisions of the [^M4]Administration of Justice Act 1956 (which relate to the bringing of actions in rem against ships or aircraft in England and Wales, Scotland and Northern Ireland respectively), that is to say—
+
+(a) section 3(3) and (4);
+
+(b) section 47; and
+
+(c) paragraph 3(3) and (4) of Part I of Schedule 1,
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F94], shall not apply to that claim.
+
+[[^F95](1A) The claims are—
+
+(a) a claim in respect of an occurrence falling within section 7(1B)(b), 10(1) or 11 which constitutes a breach of a person’s duty under section 7, 7B, 8, 9, 10 or 11;
+
+(b) a claim in respect of an event that constitutes a breach of a duty under section 7(1E), 7B, 8, 9 or 10(1A) where the threatened breach of duty would consist of an occurrence falling within section 7(1B)(b) or 10(1).]
+
+(2) Subsection (1) of this section shall have effect in relation to any claim notwithstanding that by reason of section 16 of this Act no payment for the time being falls to be made in satisfaction of the claim.
+
+## Bringing and satisfaction of claims
+
+### 15 Time for bringing claims under ss. 7 to 11.
+
+[[^F96](1) A claim by virtue of section 7, 7B, 8, 9, 10 or 11 of this Act may be made at any time before, but is not to be entertained if made at any time after, the expiration of 10 years from the relevant date.
+
+(1A) Subsection (1) is subject to subsections (3), (4) and (6).]
+
+[^F97]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F98](3) A claim in respect of injury caused by a breach of a duty under section 7, 7B, 8, 9, 10 or 11 may be made at any time before, but is not to be entertained if made at any time after, the expiration of 30 years from the relevant date.
+
+(4) A claim in respect of injury where—
+
+(a) that injury is caused by ionising radiations, and
+
+(b) exposure to those ionising radiations is the result of preventive measures having been taken after a breach of a duty under section 7, 7B, 8, 9 or 10,
+
+may be made at any time before, but is not to be entertained if made at any time after, the expiration of 30 years from the relevant date.
+
+(5) Subsections (3) and (4) are subject to subsection (6).
+
+(6) A claim made after the expiration of the period that applies to it because of subsection (1), (3) or (4) may be entertained if—
+
+(a) the European Nuclear Energy Tribunal has determined that a court in the United Kingdom has jurisdiction in respect of that claim or description of claim, and
+
+(b) the claim is brought—
+
+(i) within the period specified by the Tribunal, or
+
+(ii) if the Tribunal does not specify a period, within the period of 28 days beginning with the day after the day on which the Tribunal made its determination.
+
+(7) This section has effect notwithstanding provision in any other enactment about the period of time for the bringing of proceedings.
+
+(8) A reference in this section to the relevant date is—
+
+(a) in the case of a claim in respect of an occurrence which constitutes a breach of a person’s duty under section 7(1A) or (1C), 7B, 8, 9, 10(1) or 11, a reference to—
+
+(i) the date of the occurrence,
+
+(ii) where the occurrence is a continuing one, the date of the last thing to happen in the course of that occurrence,
+
+(iii) where the occurrence is one of a succession of occurrences, all of which are attributable to a particular happening on a particular relevant site or to the carrying out from time to time on a relevant site of a particular operation, the date of the last thing to happen in the course of that succession of occurrences, or
+
+(iv) where the occurrence is one of a succession of occurrences, all of which are attributable to a particular happening and take place during one course of carriage, the date of the last thing to happen in the course of that succession of occurrences;
+
+(b) in the case of a claim in respect of an event which constitutes a breach of a person’s duty under section 7(1E), 7B, 8, 9 or 10(1A) because it created a grave and imminent threat of a breach of another duty imposed by section 7, 7B, 8, 9 or 10, a reference to—
+
+(i) the date of the event,
+
+(ii) where the event is a continuing one, the date of the last thing to happen in the course of that event,
+
+(iii) where the event is one of a succession of events, all of which are attributable to a particular happening on a particular relevant site, the date of the last thing to happen in the course of that succession of events, or
+
+(iv) where the event is one of a succession of occurrences, all of which are attributable to a particular happening and take place during one course of carriage, the date of the last thing to happen in the course of that succession of events.]
+
+### 16 Satisfaction of claims by virtue of ss. 7 to 10.
+
+[[^F99](1) The liability of a person to pay compensation under this Act by virtue of a duty imposed on that person by section 7, 7B, 8 or 9 does not require that person to make in respect of any one occurrence or event constituting a breach of that duty payments by way of compensation exceeding in the aggregate, apart from payments in respect of interest or costs—
+
+(a) the equivalent in sterling of 70 million euros, where the person is the licensee of a licensed site that is prescribed for the purposes of this paragraph and the breach of duty is a breach of duty by that person as licensee of that licensed site that consists of—
+
+(i) an occurrence or event on the licensed site, or
+
+(ii) an occurrence or event elsewhere than on the licensed site involving nuclear matter other than excepted matter, where the nuclear matter in question satisfies the condition in section 7A(8) in relation to the licensee, without also satisfying any of the conditions in section 7A(2) to (7);
+
+(b) the equivalent in sterling of 70 million euros, where the person is the operator of a relevant disposal site that is a site prescribed for the purposes of this paragraph and the breach of duty is a breach of duty by that person as the operator of that relevant disposal site that consists of—
+
+(i) an occurrence or event on the relevant disposal site, or
+
+(ii) an occurrence or event elsewhere than on the relevant disposal site involving nuclear matter other than excepted matter, where the nuclear matter in question satisfies the condition in section 7A(8) (as applied by section 7B) in relation to the operator, without also satisfying any of the conditions in section 7A(2) to (7) (as applied by section 7B);
+
+(c) the equivalent in sterling of 160 million euros, where the person is the licensee of a licensed site that is prescribed for the purposes of this paragraph and the breach of duty is a breach of duty by the person as licensee of that licensed site that consists of—
+
+(i) an occurrence or event on the licensed site, or
+
+(ii) an occurrence or event elsewhere than on the licensed site involving nuclear matter other than excepted matter, where the nuclear matter in question satisfies the condition in section 7A(8) in relation to the licensee, without also satisfying any of the conditions in section 7A(2) to (7);
+
+(d) the equivalent in sterling of 80 million euros, in the case of an occurrence or event involving nuclear matter which is not excepted matter and which is either in the course of such carriage as is described in section 7A(2)(a), (3)(a), (4)(a), (5)(a) or (7)(a) or in such case as is described in section 7A(6)(c) or (7)(b), where—
+
+(i) the nuclear matter in question meets such conditions as are prescribed for the purposes of this paragraph or such conditions specific to the means of carriage used as are prescribed for the purposes of this paragraph, and
+
+(ii) that occurrence or event constitutes a breach of duty by a licensee as licensee of a licensed site;
+
+(e) the equivalent in sterling of 80 million euros, in the case of an occurrence or event involving nuclear matter which is not excepted matter and which is either in the course of such carriage as is described in section 7A(2)(a), (3)(a), (4)(a), (5)(a) or (7)(a) (as applied by section 7B) or in such case as is described in section 7A(6)(c) or (7)(b) (as applied by section 7B), where—
+
+(i) the nuclear matter in question meets such conditions as are prescribed for the purposes of this paragraph or such conditions specific to the means of carriage used as are prescribed for the purposes of this paragraph, and
+
+(ii) that occurrence or event constitutes a breach of duty by the operator of a relevant disposal site in that capacity;
+
+(f) subject to section 16B, the equivalent in sterling of 1,200 million euros, in any other case.
+
+(1ZA) Notwithstanding subsection (1), if the amount payable by a person in respect of claims for compensation under this Act in respect of any one occurrence or event constituting a breach of a duty imposed on that person by section 7, 7B, 8 or 9 [^F100]... reaches, in the aggregate and apart from interest or costs, the equivalent in sterling of 700 million euros, that person is not required to satisfy further claims for compensation except to the extent that they are special relevant claims.
+
+[^F101]1ZAA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(1ZB) Notwithstanding subsection (1), if—
+
+(a) the amount payable by a person in respect of claims for compensation under this Act in respect of any one occurrence or event constituting a breach of a duty imposed on that person by section 7, 7B, 8 or 9 reaches, in the aggregate and apart from interest or costs, the amount in sterling that is—
+
+(i) the limit on liability established by the law of a relevant reciprocating territory made for purposes corresponding to those of subsection (1ZA), or
+
+(ii) the equivalent in sterling of an amount denominated in another currency or unit of account that is the limit on liability established by the law of a relevant reciprocating territory made for such purposes, and
+
+(b) that amount in sterling is less than the amount that would apply if the applicable limit were the limit in subsection (1ZA),
+
+that person is not required to satisfy further claims for compensation to the extent that they are referable to that relevant reciprocating territory.]
+
+[[^F102](1A) The Secretary of State may with the approval of the Treasury by order increase or further increase [[^F103]any amount specified in subsection (1), (1ZA) [[^F104], (3B), (3BA), (3BB) or (3BC)]] ; but an order under this subsection shall not affect liability in respect of [[^F105]an occurrence or event happening before (or beginning to happen before)] the order comes into force.]
+
+(2) A relevant foreign operator shall not be required by virtue of section 10 of this Act to make any payment by way of compensation in respect of an occurrence [[^F106]or event]—
+
+(a) if he would not have been required to make that payment if the occurrence [[^F106]or event] had taken place in his home territory and the claim had been made by virtue of the relevant foreign law made for purposes corresponding to those of section 7, [[^F107]7B,] 8 or 9 of this Act; or
+
+(b) to the extent that the amount required for the satisfaction of the claim is not required to be available by the relevant foreign law made for purposes corresponding to those of section 19(1) of this Act and has not been made available under section 18 of this Act or by means of a relevant foreign contribution.
+
+[[^F108](3) A claim by virtue of a duty imposed on a person by section 7, 7B, 8, 9 or 10—
+
+(a) to the extent to which, by virtue of subsection (1) [[^F109], (1ZA), [^F110]... (1ZB)] or (2), though duly established, it is not or would not be payable by that person, or
+
+(b) which is a claim the full satisfaction of which out of funds otherwise required to be, or to be made, available for the purpose is prevented by section 21(1),
+
+may be the subject of proceedings for compensation under this Act brought against the appropriate authority.
+
+(3A) Payments of compensation under this Act made by the appropriate authority in such proceedings may not exceed in the aggregate, apart from payments in respect of interest or costs, the amount of the sums made available for the purpose under section 18.
+
+(3B) If the amount payable in respect of claims for compensation under this Act in respect of any one occurrence or event constituting a breach of a duty imposed on a person by section 7, 7B, 8, 9 or 10 [^F111]... reaches, in the aggregate and apart from interest or costs, the equivalent in sterling of 700 million euros, the appropriate authority is not required to satisfy further [^F112]... claims for compensation except to the extent that they are special relevant claims [[^F113]or CSC claims (or both)].
+
+[[^F114](3BA) To the extent that further [^F115]... claims for compensation are special relevant claims, the appropriate authority may be required to satisfy them up to the equivalent in sterling of 1,500 million euros (in the aggregate and apart from interest or costs).
+
+(3BB) To the extent that further [^F116]... claims for compensation are CSC claims, the appropriate authority may be required to satisfy them up to the equivalent in sterling of the aggregate of 700 million euros and the value of the CSC international pooled funds (in the aggregate and apart from interest or costs).
+
+(3BC) To the extent that further [^F117]... claims for compensation are both special relevant claims and CSC claims, the appropriate authority may be required to satisfy them up to the equivalent in sterling of the aggregate of 1,500 million euros and the value of the CSC international pooled funds (in the aggregate and apart from interest or costs).
+
+[^F118]3BD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3BE) If the CSC international pooled funds are (or will be) reduced by virtue of claims to which subsection (3) applies by 50%, the appropriate authority is not required to satisfy further claims for compensation if that would give rise to a further reduction of those funds except to the extent that those further claims are non-UK CSC claims.]
+
+(3C) If the amount payable in respect of claims for compensation under this Act in respect of any one occurrence or event constituting a breach of a duty imposed on a person by section 7, 7B, 8, 9 or 10 reaches, in the aggregate and apart from interest or costs, the amount in sterling that is—
+
+(a) the limit on liability established by the law of a relevant reciprocating territory made for purposes corresponding to those of subsection (3B) [[^F119]or, in a case where the relevant reciprocating territory is also a CSC territory (as defined by section 16AA), (3BB)], or
+
+(b) the equivalent in sterling of an amount denominated in another currency or unit of account that is the limit on liability established by the law of a relevant reciprocating territory made for such purposes,
+
+the appropriate authority is not required to satisfy further claims for compensation to the extent that they are referable to that relevant reciprocating territory.
+
+(3D) Subsection (3E) has effect in relation to—
+
+(a) a claim falling within subsection (3) to the extent that, leaving aside payments in respect of interest or costs, it is not or would not be satisfied out of sums made available for the purpose under section 18 or by means of a relevant foreign contribution;
+
+(b) a claim that is not satisfied, or so much of a claim as is not satisfied, because of—
+
+(i) subsection (1ZA) [^F120]... or (1ZB),
+
+(ii) a relevant foreign law made for purposes corresponding to those of subsection (1ZA) [^F121]... or (1ZB) which is given effect by subsection (2), or
+
+(iii) subsection (3B) [[^F122], (3BA), (3BB), (3BC) [^F123]..., (3BE)] or (3C).
+
+(3E) If the claim is established to the satisfaction of the appropriate authority, it is to be satisfied by the appropriate authority—
+
+(a) to such extent as Parliament may determine, and
+
+(b) out of funds provided by such means as Parliament may determine.
+
+(3F) Provision made by Parliament under subsection (3E) may make different provision for different sorts of claim.]
+
+(4) Where in pursuance of [[^F124]subsection (3E)] a claim has been made to the appropriate authority, any question affecting the establishment of the claim or as to the amount of any compensation in satisfaction of the claim may, if the authority thinks fit, be referred for decision to [[^F125]the court that would have had jurisdiction in accordance with section 16C to determine the claim but for this section]; and the claimant may appeal to that court from any decision of the authority on any such question which is not so referred; and on any such reference or appeal—
+
+(a) the authority shall be entitled to appear and be heard; and
+
+(b) notwithstanding anything in any Act, the decision of the court shall be final.
+
+[^F126]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F127](6) Before exercising any function under subsection (1) or (1A) in or as regards Scotland, the Secretary of State must consult the Scottish Ministers.
+
+(7) A reference in this section to the equivalent in sterling of an amount denominated in another currency or unit of account is a reference to the amount of sterling that is the equivalent of that amount in that currency or those units on the day (or the first day) of the occurrence or event in question.]
+
+[[^F128](8) In this section “appropriate authority” means—
+
+(a) in the case of a claim by virtue of section 9 where the government department concerned is a part of the Scottish Administration, the Scottish Ministers;
+
+(b) in any other case, the Secretary of State.]
+
+### 16A [[^F129]Section 16: supplementary
+
+(1) This section applies for the purposes of section 16.
+
+(2) A claim for compensation under this Act in the case of a breach of a duty imposed by section 7, 7B, 8, 9 or 10 is referable to a relevant reciprocating territory if—
+
+(a) the injury or damage for which compensation is claimed is such injury or damage as is mentioned in subsection (3),
+
+(b) the significant impairment of the environment by reference to which compensation is claimed by virtue of section 11A(1) or 11G(1) or paragraph 1 of Schedule 1A is such significant impairment of the environment as is mentioned in subsection (3), or
+
+(c) the preventive measures by reference to which compensation is claimed by virtue of section 11H(1) or (2) are preventive measures relating to such injury, damage or significant impairment of the environment as is mentioned in subsection (3).
+
+(3) The injury, damage and significant impairment of the environment referred to in subsection (2) are—
+
+(a) injury, damage or significant impairment of the environment that is incurred within the territorial limits of that relevant reciprocating territory;
+
+(b) injury, damage or significant impairment of the environment that is incurred in or above the exclusive economic zone or on the continental shelf of that relevant reciprocating territory;
+
+(c) injury or damage that is incurred in or above the sea outside the territorial limits of any country or territory by, or by persons or property on, a ship or aircraft registered in that relevant reciprocating territory.
+
+(4) A claim for compensation under this Act in the case of a breach of a duty imposed by section 7, 7B, 8, 9 or 10 is a special relevant claim if—
+
+(a) the injury or damage for which compensation is claimed is such injury or damage as is mentioned in subsection (5),
+
+(b) the significant impairment of the environment by reference to which compensation is claimed by virtue of section 11A(1) or 11G(1) or paragraph 1 of Schedule 1A is such significant impairment of the environment as is mentioned in subsection (5), or
+
+(c) the preventive measures by reference to which compensation is claimed by virtue of section 11H(1) or (2) are preventive measures relating to such injury, damage or significant impairment of the environment as is mentioned in subsection (5).
+
+(5) The injury, damage and significant impairment of the environment referred to in subsection (4) are—
+
+(a) injury, damage or significant impairment of the environment that is incurred within the territorial limits of the United Kingdom or a special relevant territory;
+
+(b) injury, damage or significant impairment of the environment that is incurred in or above the exclusive economic zone or on the continental shelf of the United Kingdom or a special relevant territory in connection with the exploitation or exploration of the natural resources of that exclusive economic zone or continental shelf;
+
+(c) injury or damage that is incurred in or above the sea outside the territorial limits of any country or territory by, or by persons or property on, a ship or aircraft registered in the United Kingdom or a special relevant territory;
+
+(d) injury or damage that is incurred in or above the sea outside the territorial limits of any country or territory by a national of the United Kingdom or a special relevant territory;
+
+(e) injury or damage that is incurred outside the territorial limits of any country or territory by, or by persons or property on, an artificial island, installation or structure that is subject to the jurisdiction of the United Kingdom or a special relevant territory.
+
+(6) A relevant territory other than the United Kingdom is a special relevant territory if—
+
+(a) in the case of a relevant territory that is a country, the law of the country satisfies the conditions in subsection (7), or
+
+(b) in the case of a relevant territory that is an overseas territory of a country—
+
+(i) the law of the country makes (or the laws of the country and overseas territory make) such provision with respect to the overseas territory as is described in subsection (7) with respect to the country, and
+
+(ii) the relevant international agreement in pursuance of which that provision is made applies for the time being to the overseas territory.
+
+(7) The conditions referred to in subsection (6)(a) are—
+
+(a) that the law of the country makes provision, in pursuance of a relevant international agreement, for sums additional to those mentioned in section 18(1)(a) to be made available out of public funds;
+
+(b) that the law of the country makes provision, in pursuance of that relevant international agreement, for the maximum aggregate amount of compensation in respect of an occurrence or event to be equal to or more than that specified in [[^F130]section 16(3BA)].
+
+(8) A reference in this section to a national of the United Kingdom—
+
+(a) includes a reference to—
+
+(i) a public authority,
+
+(ii) a body incorporated under the law of any part of the United Kingdom,
+
+(iii) an unincorporated body established under the law of any part of the United Kingdom, and
+
+(iv) a trust the validity of which is governed by the law of a part of the United Kingdom;
+
+(b) as regards individuals, is a reference to—
+
+(i) a British citizen, a British overseas territory citizen, a British National (Overseas) or a British Overseas citizen;
+
+(ii) a British subject under the British Nationality Act 1981; or
+
+(iii) a British protected person within the meaning of that Act.
+
+(9) In this section—
+
+- “national”, in relation to a special relevant territory, includes—
+
+  - that special relevant territory and any part of it,
+  - a public or private body established in the special relevant territory or part of it, whether a body corporate or not,
+  - a partnership established in the special relevant territory or part of it, and
+  - a trust the validity of which is governed by the law of the special relevant territory;
+
+- “public authority” has the same meaning as in section 11A.]
+
+### 16AA [[^F131]Section 16: CSC-related definitions
+
+(1) This section applies for the purposes of section 16.
+
+(2) A claim for compensation under this Act in the case of a breach of a duty imposed by section 7, 7B, 8, 9 or 10 is a CSC claim if—
+
+(a) the injury or damage for which compensation is claimed is such injury or damage as is mentioned in subsection (3),
+
+(b) the significant impairment of the environment by reference to which compensation is claimed by virtue of section 11A(1) or 11G(1) or paragraph 1 of Schedule 1A is such significant impairment of the environment as is mentioned in subsection (3), or
+
+(c) the preventive measures by reference to which compensation is claimed by virtue of section 11H(1) or (2) are preventive measures relating to such injury, damage or significant impairment of the environment as is mentioned in subsection (3).
+
+(3) The injury, damage and significant impairment of the environment referred to in subsection (2) are—
+
+(a) injury, damage or significant impairment of the environment that is incurred within the territorial limits of the United Kingdom or another CSC territory;
+
+(b) injury, damage or significant impairment of the environment that is incurred in or above the exclusive economic zone or on the continental shelf of the United Kingdom or another CSC territory in connection with the exploitation or exploration of the natural resources of that exclusive economic zone or continental shelf;
+
+(c) injury or damage that is incurred in or above the sea outside the territorial limits of any country or territory by, or by persons or property on, a ship or aircraft registered in the United Kingdom or another CSC territory;
+
+(d) injury or damage that is incurred in or above the sea outside the territorial limits of any country or territory by a national of the United Kingdom or another CSC territory;
+
+(e) injury or damage that is incurred outside the territorial limits of any country or territory by, or by persons or property on, an artificial island, installation or structure that is subject to the jurisdiction of the United Kingdom or another CSC territory.
+
+[^F132]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F132]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F132]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) A CSC claim is a non-UK CSC claim if—
+
+(a) the injury or damage for which compensation is claimed is such injury or damage as is mentioned in subsection (8),
+
+(b) the significant impairment of the environment by reference to which compensation is claimed by virtue of section 11A(1) or 11G(1) or paragraph 1 of Schedule 1A is such significant impairment of the environment as is mentioned in subsection (8), or
+
+(c) the preventive measures by reference to which compensation is claimed by virtue of section 11H(1) or (2) are preventive measures relating to such injury, damage or significant impairment of the environment as is mentioned in subsection (8).
+
+(8) The injury, damage and significant impairment of the environment referred to in subsection (7) are—
+
+(a) injury, damage or significant impairment of the environment that is incurred within the territorial limits of a CSC territory other than the United Kingdom;
+
+(b) injury, damage or significant impairment of the environment that is incurred in or above the exclusive economic zone or on the continental shelf of a CSC territory other than the United Kingdom in connection with the exploitation or exploration of the natural resources of that exclusive economic zone or continental shelf;
+
+(c) injury or damage that is incurred in or above the sea outside the territorial limits of any country or territory by, or by persons or property on, a ship or aircraft registered in the United Kingdom or another CSC territory;
+
+(d) injury or damage that is incurred in or above the sea outside the territorial limits of any country or territory by a national of the United Kingdom or another CSC territory;
+
+(e) injury or damage that is incurred outside the territorial limits of any country or territory by, or by persons or property on, an artificial island, installation or structure that is subject to the jurisdiction of the United Kingdom or another CSC territory.
+
+(9) In this section—
+
+- “CSC territory” means—
+
+  - a country that is a party to the CSC, or
+  - an overseas territory of such a country, if the CSC applies to the overseas territory,
+
+- “national”, in relation to a CSC territory, includes—
+
+  - that CSC territory and any part of it,
+  - a public or private body established in the CSC territory or part of it, whether a body corporate or not,
+  - a partnership established in the CSC territory or part of it, and
+  - a trust the validity of which is governed by the law of the CSC territory, and
+
+- “the CSC” means the Convention on Supplementary Compensation for Nuclear Damage (as amended or supplemented from time to time).
+
+(10) A reference in this section to a national of the United Kingdom is to be construed in accordance with section 16A(8).]
+
+### 16B [[^F133]Section 16: phasing of increases in liability
+
+(1) The reference in section 16(1)(f) to 1,200 million euros has effect in relation to liability in respect of any occurrence or event constituting a breach of a duty under section 7, 7B, 8 or 9 that happens in (or begins to happen in) a year mentioned below as if there were substituted a reference to the amount specified below for that year—
+
+(a) for the first year, 700 million euros;
+
+(b) for the second year, 800 million euros;
+
+(c) for the third year, 900 million euros;
+
+(d) for the fourth year, 1,000 million euros;
+
+(e) for the fifth year, 1,100 million euros.
+
+(2) For the purposes of this section—
+
+(a) the first year is the period of a year beginning with the appropriate day;
+
+(b) the second, third, fourth and fifth years are the periods of a year beginning with the first, second, third and fourth anniversaries, respectively, of the appropriate day.
+
+(3) “The appropriate day” means the day on which article 19 of the Nuclear Installations (Liability for Damage) Order 2016 comes fully into force.]
+
+### 16C [[^F134]Jurisdiction of courts in the United Kingdom
+
+(1) This section has effect, subject to section 17(1), for determining which of the High Court of Justice, the Court of Session and the High Court of Justice in Northern Ireland has jurisdiction in the case of—
+
+(a) a claim by virtue of a duty imposed on a person by section 7, 7B, 8, 9 or 10, or
+
+(b) an application for the determination of a question relating to such a claim.
+
+(2) The High Court of Justice has jurisdiction if the claim relates to an occurrence or event constituting a breach of duty that takes place wholly within the part of the United Kingdom that consists of England and Wales.
+
+(3) The Court of Session has jurisdiction if the claim relates to an occurrence or event constituting a breach of duty that takes place wholly within Scotland.
+
+(4) The High Court of Justice in Northern Ireland has jurisdiction if the claim relates to an occurrence or event constituting a breach of duty that takes place wholly within Northern Ireland.
+
+(5) For the purposes of subsections (2) to (4) as they apply to an occurrence falling within section 7(1B)(b) or 10(1) or to an event creating a threat of a breach of duty consisting of such an occurrence—
+
+(a) an occurrence or event that continues while the matter involved is carried from one part of the United Kingdom to another, is to be treated as taking place in the part where it began;
+
+(b) an occurrence that is one of a succession of occurrences or an event that is one of a succession of events, all of which are attributable to a particular happening and take place during one course of carriage, is to be treated as taking place in whichever part of the United Kingdom is the part where the first occurrence in that succession of occurrences, or the first event in that succession of events, happened;
+
+(c) an occurrence or event that takes place within more than one part of the United Kingdom at the same time, and to which neither paragraph (a) nor paragraph (b) applies, is to be treated as taking place in whichever part of the United Kingdom is the part within which the matter involved was last wholly located before the occurrence or event took place.
+
+(6) If none of subsections (2) to (4) applies in the case of a claim or application, the court that has jurisdiction is—
+
+(a) if the claim relates to a person’s breach of duty as the licensee of a licensed site in the part of the United Kingdom consisting of England and Wales, the operator of a relevant disposal site in that part of the United Kingdom, or the occupier of any other relevant site in that part of the United Kingdom, the High Court of Justice;
+
+(b) if the claim relates to a person’s breach of duty as the licensee of a licensed site in Scotland, the operator of a relevant disposal site in Scotland, or the occupier of any other relevant site in Scotland, the Court of Session;
+
+(c) if the claim relates to a person’s breach of duty as the licensee of a licensed site in Northern Ireland, the operator of a relevant disposal site in Northern Ireland, or the occupier of any other relevant site in Northern Ireland, the High Court of Justice in Northern Ireland.
+
+(7) If, in consequence of a single occurrence or event that constitutes two or more breaches of the duties imposed by sections 7, 7B, 8, 9 and 10, more than one court would have jurisdiction under subsection (6), the court that is to have jurisdiction is the High Court of Justice.
+
+(8) The High Court of Justice has jurisdiction in the case of a claim or application which falls under a relevant international agreement to be determined by a court in the United Kingdom but to which none of subsections (2) to (6) applies.
+
+(9) In this section—
+
+(a) a reference to a part of the United Kingdom is a reference to—
+
+(i) England and Wales,
+
+(ii) Scotland, or
+
+(iii) Northern Ireland;
+
+(b) a reference to England and Wales includes a reference to—
+
+(i) areas within the territorial limits of the United Kingdom, other than Scotland or Northern Ireland or areas adjacent to Scotland or Northern Ireland, and
+
+(ii) the relevant maritime zone of the United Kingdom, other than the relevant maritime zone adjacent to Scotland or Northern Ireland, and the sea bed and subsoil within, and the airspace above, that part of that zone;
+
+(c) a reference to Scotland includes a reference to—
+
+(i) areas within the territorial limits of the United Kingdom that are adjacent to Scotland, and
+
+(ii) the relevant maritime zone of the United Kingdom adjacent to Scotland and the sea bed and subsoil within, and the airspace above, that part of that zone;
+
+(d) a reference to Northern Ireland includes a reference to—
+
+(i) areas within the territorial limits of the United Kingdom that are adjacent to Northern Ireland, and
+
+(ii) the relevant maritime zone of the United Kingdom adjacent to Northern Ireland and the sea bed and subsoil within, and the airspace above, that part of that zone.
+
+(10) For the purposes of this section—
+
+(a) an area is adjacent to Scotland if it lies within the boundaries determined under section 126(2) of the Scotland Act 1998;
+
+(b) an area is adjacent to Northern Ireland if it lies within the boundaries determined under section 98(8) of the Northern Ireland Act 1998.]
+
+### 17 Jurisdiction, shared liability and foreign judgments.
+
+(1) No court in the United Kingdom [^F135]... shall have jurisdiction to determine any claim or question under this Act certified by [[^F136]the appropriate authority] to be a claim or question which, under any relevant international agreement, falls to be determined by a court of some other relevant territory [^F137]...; and any proceedings to enforce such a claim which are commenced in any court in the United Kingdom [^F138]... shall be set aside.
+
+[^F139]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Where by virtue of any one or more of the following, that is to say, sections 7, [[^F140]7B,] 8, 9 and 10 of this Act and any relevant foreign law made for purposes corresponding to those of any of those sections, liability in respect of [[^F141]the same injury, damage or significant impairment of the environment or the same grave and imminent threat of injury, damage or impairment], is incurred by two or more persons, then, for the purposes of any proceedings in the United Kingdom [[^F142]relating to that matter] including proceedings for the enforcement of a judgment registered under the [^M5]Foreign Judgments (Reciprocal Enforcement) Act 1933—
+
+(a) both or all of those persons shall be treated as jointly and severally liable in respect of [[^F143]that matter]; and
+
+(b) until claims against each of those persons in respect of the [[^F144]occurrence or event by virtue of which the person in question is liable for that matter have been satisfied to the extent mentioned in subsection (3A), no sums in excess of those required for the purposes of subsection (3A)(a)] shall be required to be made available under section 18 of this Act for the purpose of paying compensation in respect of [[^F145]that matter].
+
+[[^F146](3A) The claims mentioned in subsection (3)(b) are to be satisfied—
+
+(a) in the case of a licensee, the operator of a relevant disposal site, the Authority or the Crown, up to an aggregate amount that is equal to the amount applicable under section 16(1) to the person in question in the circumstances in question;
+
+(b) in the case of a relevant foreign operator, up to such aggregate amount as may be provided for by the relevant foreign law made for purposes corresponding to section 19(1).
+
+(3B) A person is not required under subsection (3A) to satisfy a claim for compensation to the extent that it is excluded by—
+
+(a) section 16(1ZA) [^F147]... or (1ZB), or
+
+(b) the relevant foreign law made for purposes corresponding to section 16(1ZA) [^F148]... or (1ZB) (as the case may be).]
+
+(4) Part I of the said Act of 1933 shall apply to any judgment given in a court [[^F149]of a relevant territory other than the United Kingdom] which is certified by [[^F150]the appropriate authority] to be a relevant foreign judgment for the purposes of this Act, whether or not it would otherwise have so applied, and shall have effect in relation to any judgment so certified as if in section 4 of that Act subsections (1)(a)(ii), (2) and (3) were omitted.
+
+(5) [[^F151]Subject to subsection (5A) of this section] it shall be sufficient defence to proceedings in the United Kingdom against any person for the recovery of a sum alleged to be payable under a judgment given in a country [[^F152]or territory] outside the United Kingdom for that person to show that—
+
+(a) the sum in question was awarded in respect of [[^F153]injury, damage or impairment of the environment or a grave and imminent threat of injury, damage or impairment of the environment] of a description which is the subject of a relevant international agreement; and
+
+(b) the country [[^F154]or territory] in question is not a relevant territory; and
+
+(c) the sum in question was not awarded in pursuance of any of the international conventions referred to in the Acts mentioned in section 12(4) of this Act.
+
+[[^F155](5A) Subsection (5) of this section shall not have effect where the judgment in question is enforceable in the United Kingdom in pursuance of an international agreement.]
+
+(6) Where, in the case of any claim by virtue of section 10 of this Act, the relevant foreign operator is the government of a relevant territory, then, for the purposes of any proceedings brought in a court in the United Kingdom to enforce that claim, that government shall be deemed to have submitted to the jurisdiction of that court, and accordingly rules of court may provide for the manner in which any such action is to be commenced and carried on; but nothing in this subsection shall authorise the issue of execution, or in Scotland the execution of diligence, against the property of that government.
+
+[[^F156](7) In this section “appropriate authority” means—
+
+(a) in relation to England and Wales and Northern Ireland, the Secretary of State;
+
+(b) in relation to Scotland, the Scottish Ministers.]
+
+### 17A [[^F157]Notice to the Secretary of State of proceedings
+
+(1) If a person brings proceedings in any part of the United Kingdom in relation to which the condition in subsection (3) is satisfied, the person must notify the Secretary of State of the proceedings when they are brought.
+
+(2) If a person makes a claim in proceedings brought in any part of the United Kingdom as a result of which the condition in subsection (3) is satisfied in relation to the proceedings, the person must notify the Secretary of State of the proceedings when that claim is made.
+
+(3) The condition is that—
+
+(a) a breach of a duty imposed on a person by section 7, 7B, 8, 9 or 10 is alleged in the proceedings,
+
+(b) the effect of any of sections 7 to 21 and Schedule 1A is in issue in the proceedings, or
+
+(c) a matter relating to a relevant international agreement is in issue in the proceedings.
+
+(4) When a person notifies the Secretary of State of proceedings under subsection (1), the person must at the same time send the Secretary of State—
+
+(a) a copy of the document that initiates the proceedings, and
+
+(b) if the claim being made by the person is not set out in the document that initiates the proceedings, a copy of the document that sets out the claim for the purposes of the proceedings.
+
+(5) When a person notifies the Secretary of State of proceedings under subsection (2), the person must at the same time send the Secretary of State a copy of the document that sets out the claim in question for the purposes of the proceedings.
+
+(6) A person is to be treated as notifying the Secretary of State of proceedings if the person seeks to make the Secretary of State a party to the proceedings.]
+
+### 17B [[^F158]Right of the Secretary of State to intervene
+
+(1) If it appears to the Secretary of State that the condition in subsection (2) is satisfied as regards proceedings brought in any part of the United Kingdom, the Secretary of State is entitled, on giving notice to the court, to be joined as a party to those proceedings.
+
+(2) The condition is that—
+
+(a) a breach of a duty imposed on a person by section 7, 7B, 8, 9 or 10 is alleged in the proceedings,
+
+(b) the effect of any of sections 7 to 21 and Schedule 1A is in issue in the proceedings, or
+
+(c) a matter relating to a relevant international agreement is in issue in the proceedings.
+
+(3) The Secretary of State may give notice under subsection (1) at any time during the proceedings.]
+
+### 17C [[^F159]Right of a foreign government to intervene
+
+(1) If the conditions in subsection (2) are satisfied as regards proceedings brought in any part of the United Kingdom, the government of a country that is a special relevant territory is entitled, on giving notice to the court, to be joined as a party to those proceedings.
+
+(2) The conditions are that—
+
+(a) a breach of a duty imposed on a relevant foreign operator by section 10 is alleged in the proceedings, and
+
+(b) the site by reference to which the condition in section 10(4) is alleged to be satisfied is a relevant site of the relevant foreign operator within the territorial limits of the special relevant territory or any overseas territory of that territory that is itself a special relevant territory.
+
+(3) Notice under subsection (1) may be given at any time during the proceedings.]
+
+### 17D [[^F160]Proceedings conducted by foreign governments
+
+(1) This section applies to proceedings on—
+
+(a) a claim by virtue of a duty imposed on a person by section 7, 7B, 8, 9 or 10, or
+
+(b) a claim for compensation under section 16(3).
+
+(2) If the condition in subsection (3) is satisfied in relation to a claim which falls to be determined by a court in the United Kingdom, the government of a foreign country may—
+
+(a) bring and conduct proceedings on the claim as the claimant’s representative, or
+
+(b) if the proceedings have been initiated, undertake the subsequent conduct of the proceedings as the claimant’s representative.
+
+(3) The condition is that—
+
+(a) in the case of a claim relating to property that is an asset of a trust, the law governing the validity of that trust when proceedings on the claim are initiated is the law of the foreign country, or
+
+(b) in any other case, the person whose alleged injury, loss or reason for expenditure is the basis of the claim (and who may be other than the claimant) is a qualifying person as regards the foreign country when proceedings on the claim are initiated.
+
+(4) A government of a foreign country may not represent the claimant in proceedings by virtue of subsection (2) unless the claimant consents.
+
+(5) For the purposes of this section a person is a qualifying person as regards a foreign country when proceedings are initiated if the person is at that time or, where the person is an individual and dies before proceedings are initiated, was at the time of death—
+
+(a) a national of that country, or
+
+(b) a person who is domiciled or resident in that country.
+
+(6) In this section, “claimant”, in relation to proceedings on a claim falling within subsection (1)(a) or (b), means the person making the claim as a party to the proceedings.]
+
+### 17E [[^F161]Powers of Secretary of State in relation to foreign claims
+
+(1) If the condition in subsection (2) is satisfied in relation to a claim falling within subsection (3), the Secretary of State may bring and conduct proceedings on the claim as the claimant’s representative.
+
+(2) The condition in this subsection is that—
+
+(a) in the case of a claim relating to property that is an asset of a trust, the law governing the validity of that trust when proceedings on the claim are initiated is the law of a part of the United Kingdom, or
+
+(b) in any other case, if the person whose alleged injury, loss or reason for expenditure is the basis of the claim (and who may be other than the claimant) is a qualifying person as regards the United Kingdom when the proceedings are initiated.
+
+(3) A claim falls within this subsection if—
+
+(a) it is a claim in respect of an occurrence that gives rise to liability under any relevant foreign law made for purposes corresponding to section 7, 7B, 8, 9 or 10, and
+
+(b) it is a claim which, under a relevant international agreement, falls to be determined by a court of a relevant territory other than the United Kingdom or an overseas territory of the United Kingdom.
+
+(4) The Secretary of State may not represent the claimant in proceedings by virtue of subsection (1) unless the claimant consents.
+
+(5) Where the Secretary of State brings or conducts proceedings by virtue of subsection (1), the Secretary of State may take such steps as are necessary or appropriate in connection with bringing or conducting those proceedings.
+
+(6) For the purposes of this section a person is a qualifying person as regards the United Kingdom when proceedings are initiated if the person is at that time or, where the person is an individual and dies before proceedings are initiated, was at the time of death—
+
+(a) a United Kingdom national, or
+
+(b) a person who is domiciled or resident in the United Kingdom.
+
+(7) In this section—
+
+- “claimant”, in relation to proceedings on a claim falling within subsection (3), means the person making the claim as a party to the proceedings;
+
+- “United Kingdom national” means—
+
+  - a British citizen, a British overseas territories citizen, a British National (Overseas) or a British Overseas citizen;
+  - a British subject under the British Nationality Act 1981;
+  - a British protected person within the meaning of that Act;
+  - a Scottish partnership;
+  - a body incorporated under the law of any part of the United Kingdom.]
+
+## Cover for compensation
+
+### 18 General cover for compensation by virtue of ss. 7 to 10.
+
+(1) In the case of any occurrence [[^F162]or event] in respect of which one or more persons incur liability by virtue of section 7, [[^F163]7B,] 8, 9 or 10 of this Act or by virtue of any relevant foreign law made for purposes corresponding to those of any of those sections, but [[^F164]subject to subsections (1C) to (4B)] and to sections 17(3)(b) and 21(1) of this Act, there shall be made available out of moneys provided by Parliament such sums as, when aggregated—
+
+(a) with any funds required by, or by any relevant foreign law made for purposes corresponding to those of, section 19(1) of this Act to be available for the purpose of satisfying claims [[^F165]of that category] in respect of that occurrence [[^F162]or event] against any licensee or relevant foreign operator; and
+
+(b) in the case of a claim by virtue of any such foreign law, with any relevant foreign contributions towards the satisfaction of claims in respect of that occurrence [[^F162]or event], [[^F166]; and
+
+(c) in the case of an occurrence [[^F162]or event] in respect of which the Authority incurs liability, with any amounts payable under a contract of insurance or other arrangements for satisfying claims in respect of that occurrence [[^F162]or event] against the Authority,]
+
+may be necessary to ensure that all claims in respect of that occurrence [[^F162]or event] [[^F167]made within the limitation period applicable to the claim] and duly established, excluding, but without prejudice to, any claim in respect of interest or costs, are satisfied up to [[^F168]the aggregate amount specified in subsection (1A) of this section]
+
+[[^F169](1ZA) For the purposes of subsection (1), the limitation period applicable to a claim is—
+
+(a) subject to paragraphs (b) to (d), the period of 10 years beginning with the relevant date;
+
+(b) subject to paragraphs (c) and (d), in the case of a claim in respect of such injury as is described in section 15(3) or (4), the period of 30 years beginning with the relevant date;
+
+(c) in the case of a claim that may be entertained in accordance with section 15(6), a period beginning with the relevant date and ending in accordance with section 15(6)(b);
+
+(d) in the case of a claim by virtue of such a relevant foreign law as is mentioned in subsection (1) that may be entertained in accordance with provisions of that law made for purposes corresponding to section 15(6), the period applying to that claim by virtue of such provisions of that law.
+
+(1ZB) In subsection (1ZA) references to the relevant date are to be construed in accordance with section 15(8).]
+
+[[^F170](1A) The aggregate amount referred to in subsection (1) of this section is the equivalent in sterling of [[^F171]the aggregate of 1,500 million euros and the value of the CSC international pooled funds] on—
+
+(a) the day (or first day) of the occurrence [[^F172]or event] in question, or
+
+(b) if the Secretary of State certifies that another day has been fixed in relation to the occurrence [[^F173]or event] in accordance with an international agreement, that other day.
+
+(1B) The Secretary of State may with the approval of the Treasury by order increase or further increase the sum expressed in [[^F174]euros] in subsection (1A) of this section; but an order under this subsection shall not have effect in respect of [[^F175]an occurrence or event happening before (or beginning to happen before)] the order comes into force.]
+
+[[^F176](1C) The reference in subsection (1)(a) to the funds required by section 19(1) to be available for the purpose of satisfying claims of a particular category is to be treated, in the case of claims in respect of an occurrence or event to which section 16(1)(f) applies, as a reference to such funds as are required by section 19(1) to be so available at the time when the occurrence or event in question happens or begins to happen.]
+
+[[^F177](1D) Subsection (1) does not apply to a claim that need not be satisfied, or to so much of a claim as need not be satisfied, because of—
+
+(a) section 16(1ZA) [^F178]... or (1ZB),
+
+(b) a relevant foreign law made for purposes corresponding to those of section 16(1ZA) [^F179]... or (1ZB) which is given effect by section 16(2), or
+
+(c) section 16(3B) [[^F180], (3BA), (3BB) [^F181]..., (3BE)] or (3C).
+
+(1E) Subsection (1) does not apply to a claim that need not be satisfied, or to so much of a claim as need not be satisfied, because of any relevant foreign law made for purposes corresponding to those of the provisions mentioned in subsection (1D).]
+
+(2) Subsection (1) of this section shall not apply to any claim by virtue of such a relevant foreign law as is mentioned in that subsection [[^F182]if—
+
+(a) the injury, damage or significant impairment of the environment is incurred within the territorial limits of a country or territory that is not a qualifying territory,
+
+(b) the injury, damage or significant impairment of the environment is incurred in, under or above the sea but not—
+
+(i) within the territorial limits of any country or territory,
+
+(ii) in or above the sea within the exclusive economic zone of any qualifying territory, or
+
+(iii) on the continental shelf of any qualifying territory,
+
+(c) in relation to compensation that would but for this subsection be claimed under such provision of the relevant foreign law as is made for purposes corresponding to section 11H, the measures in question were or would be taken in a place by reference to which compensation is excluded by paragraph (a) or (b).
+
+(2A) The exceptions that have effect by virtue of—
+
+(a) paragraph (b) of subsection (2), or
+
+(b) paragraph (c) of subsection (2) so far as it relates to paragraph (b),
+
+do not apply to injury or damage incurred by, or by persons or property on, a ship or aircraft registered in a qualifying territory.]
+
+(3) Where any claim such as is mentioned in subsection (1) of this section is satisfied wholly or partly out of moneys provided by Parliament under that subsection, there shall also be made available out of moneys so provided such sums as are necessary to ensure the satisfaction of any claim in respect of interest or costs in connection with the first-mentioned claim.
+
+[[^F183](4) In relation to liability by virtue of any relevant foreign law, there shall be left out of account for the purposes of subsection (1) of this section any claim which, though made within [[^F184]the limitation period mentioned in paragraph (a) or (as the case may be) paragraph (b) of subsection (1ZA)], was made after the expiration of any period of limitation imposed by that law and permitted by a relevant international agreement.
+
+[[^F185](4ZA) But a claim is not to be left out of account for the purposes of subsection (1) if it may be entertained as described in subsection (1ZA)(d) and is made within the limitation period applicable to that claim.]
+
+[^F186]4A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4B) Where a relevant foreign law does not [[^F187]provide in pursuance of a relevant international agreement for sums additional to those mentioned in subsection (1)(a) to be made available out of public funds], then in relation to liability by virtue of that law in respect of any occurrence [[^F188]or event]—
+
+(a) subsection (1) of this section shall not have effect unless the person (or one of the persons) liable is a licensee, [[^F189]an operator of a relevant disposal site,] the Authority or the Crown; and
+
+(b) if a licensee, [[^F190]an operator of a relevant disposal site,] the Authority or the Crown is liable, subsection (1) shall have effect as if for the reference to the amount specified in subsection (1A) there [[^F191]were substituted a reference to the amount specified in section 16(1ZA) [^F192]... or, if more than one such person were liable, to that amount multiplied by the number of those persons.]]
+
+(5) Any sums received by the Minister by way of a relevant foreign contribution towards the satisfaction of any claim by virtue of section 7, 8, 9 or 10 of this Act shall be paid into the Exchequer.
+
+[[^F193](5A) Before exercising the function under subsection (1B) in or as regards Scotland, the Secretary of State must consult the Scottish Ministers.]
+
+[^F194]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19 [[^F195]Cover] for licensee’s [[^F196]or operator’s] liability.
+
+(1) Subject to [[^F197]section 3(11)] of this Act and to [[^F198]subsections (2E) and] (3) of this section, where a nuclear site licence has been granted in respect of any site, the licensee shall make such provision (either by insurance or by some other means) as [[^F199]the appropriate authority] may with the consent of the Treasury approve for sufficient funds to be available at all times to ensure that any claims which have been or may be duly established against the licensee as licensee of that site by virtue of section 7 of this Act or any relevant foreign law made for purposes corresponding to those of section 10 of this Act (excluding, but without prejudice to, any claim in respect of interest or costs) are satisfied up to [[^F200]the required amount] [[^F201]appropriate to the category or categories into which any such claims would fall] in respect of each severally of the following periods, that is to say—
+
+(a) the current cover period, if any;
+
+(b) any cover period which ended less than [[^F202]30 years] before the time in question;
+
+(c) any earlier cover period in respect of which a claim remains to be disposed of, being [[^F203]a claim made within the limitation period applicable to the claim (as defined for the purposes of section 18(1));]
+
+and for the purposes of this section the cover period in respect of which any claim is to be treated as being made shall be that in which the beginning of [[^F204]that limitation period] fell.
+
+[[^F205](1A) In this section—
+
+(a) “the required amount”, in relation to the provision to be made by a licensee in respect of a cover period for claims of a particular category, means an aggregate amount equal to the amount applying under paragraph (a), (c), (d) or (as the case may be) (f) of section 16(1) to the licensee, as licensee of the licensed site in question, in respect of an occurrence or event within that cover period;
+
+(b) the category of a claim depends on which of paragraphs (a), (c), (d) and (f) of section 16(1) applies to the occurrence or event in respect of which the claim is made.
+
+(1B) Where the amount applying under section 16(1)(f) increases because one of the periods in section 16B comes to an end during a cover period, the aggregate amount that is the required amount as regards that cover period and claims in respect of such occurrences or events as fall within section 16(1)(f) increases accordingly.]
+
+(2) In this Act, the expression “cover period” means [[^F206], subject to the following provisions of this section, the period of the licensee’s responsibility,] and for the purposes of this definition the period of the licensee’s responsibility shall be deemed to include any time after the expiration of that period during which it remains possible for the licensee to incur any liability by virtue of [[^F207]section 7(1B)(b)], or by virtue of any relevant foreign law made for purposes corresponding to those of section 10 of this Act.
+
+[[^F208](2A) When the amount applicable to a licensee, as licensee of a licensed site, under paragraph (a), (c), (d) or (f) of section 16(1) changes as a result of—
+
+(a) the coming into force of regulations made under section 16(1)(a), (c) or (d),
+
+(b) an alteration relating to the site which brings it within, or takes it outside, the description prescribed by regulations made under section 16(1)(a) or (c), or
+
+(c) the coming into force of an order made under section 16(1A),
+
+the current cover period relating to that person as licensee of that site is to end and a new cover period is to begin.]
+
+[[^F209](2B) The current cover period continues to run (and no new cover period begins) on the grant of a new nuclear site licence to the same licensee in respect of a site consisting of or including the site in respect of which his existing nuclear site licence is in force.]
+
+[[^F210](2C) The current cover period continues to run (and no new cover period begins) in a case where—
+
+(a) the licensee of a licensed site, not having been involved earlier in that cover period in such carriage of nuclear matter as would make the amount referred to in section 16(1)(d) applicable to the licensee, becomes involved in such carriage of nuclear matter as makes the amount referred to in section 16(1)(d) applicable to the licensee, or
+
+(b) the licensee of a licensed site, not having been involved earlier in that cover period in such carriage of nuclear matter as would make the amount referred to in section 16(1)(f) applicable to the licensee, becomes involved in such carriage of nuclear matter as makes the amount referred to in section 16(1)(f) applicable to the licensee.
+
+(2D) The current cover period continues to run (and no new cover period begins) if the amount applicable under section 16(1)(f) to the licensee of a licensed site is increased because one of the periods in section 16B comes to an end.]
+
+[[^F211](2E) If—
+
+(a) two or more amounts referred to in section 16(1) are applicable to a licensee, as licensee of a licensed site, in any cover period, and
+
+(b) the licensee, as licensee of that site, has made such provision as subsection (1) requires with respect to the greater or greatest of the corresponding required amounts,
+
+the licensee is to be treated as having made such provision as subsection (1) requires with respect to the other, or each of the other, required amounts.]
+
+(3) Where in the case of any licensed site the provision required by subsection (1) of this section is to be made otherwise than by insurance and, apart from this subsection, provision would also fall to be so made by the same person in respect of two or more other sites, the requirements of that subsection shall be deemed to be satisfied in respect of each of those sites if funds are available to meet such claims as are mentioned in that subsection in respect of all the sites collectively, and those funds would for the time being be sufficient to satisfy the requirements of that subsection in respect of those two of the sites in respect of which those requirements are highest:
+
+Provided that [[^F212]the appropriate authority] may in any particular case at any time direct either that this subsection shall not apply or that the funds available as aforesaid shall be of such amount higher than that provided for by the foregoing provisions of this subsection, but lower than that necessary to satisfy the requirements of the said subsection (1) in respect of all the sites severally, as may be required by the direction.
+
+(4) Where, by reason of the gravity of any occurrence [[^F213]or event] which has resulted or may result in claims such as are mentioned in subsection (1) of this section against a licensee as licensee of a particular licensed site, or having regard to any previous occurrences [[^F214]or events] which have resulted or may result in such claims against the licensee, [[^F215]the appropriate authority] thinks it proper so to do, [[^F216]the appropriate authority] shall by notice in writing to the licensee direct that a new cover period for the purposes of the said subsection (1) shall begin in respect of that site on such date not earlier than two months after the date of the service of the notice as may be specified therein.
+
+(5) If at any time while subsection (1) of this section applies in relation to any licensed site the provisions of that subsection are not complied with in respect of that site, the licensee shall be guilty of an offence and be liable—
+
+(a) on summary conviction to a fine not exceeding one hundred pounds, or to imprisonment for a term not exceeding three months, or to both;
+
+(b) on conviction on indictment, to a fine not exceeding five hundred pounds, or to imprisonment for a term not exceeding two years, or to both.
+
+[[^F217](6) Subsections (1) to (5) apply to operators of relevant disposal sites as they apply to licensees of licensed sites, but with the following modifications—
+
+(a) a reference to a licensed site is to be read as a reference to a relevant disposal site, except in subsection (3);
+
+(b) the reference in subsection (1) to claims established against a licensee as licensee of that site by virtue of section 7 is to be read as a reference to claims established against an operator of a relevant disposal site as operator of that site by virtue of section 7B;
+
+(c) a reference to the period of a licensee’s responsibility is to be read as a reference to the period indicated by section 7B(1)(f);
+
+(d) the time deemed by virtue of subsection (2) to be included in the period of a licensee’s responsibility is to be read as the time, after the expiration of the period indicated by section 7B(1)(f), during which the operator might incur liability—
+
+(i) by virtue of section 7B, so far as relating to section 7(1B)(b), or
+
+(ii) by virtue of any relevant foreign law made for purposes corresponding to those of section 10;
+
+(e) a reference to section 16(1)(a) is to be read as a reference to section 16(1)(b);
+
+(f) a reference to section 16(1)(c) is to be disregarded;
+
+(g) a reference to section 16(1)(d) is to be read as a reference to section 16(1)(e);
+
+(h) subsection (2B) is to be read as if for the words from “on the grant” to the end there were substituted “if an appropriate permit relating to a relevant disposal site is replaced by another appropriate permit relating to the same site (or that site and a further area), and the permit is given to the same person”;
+
+(i) a reference in subsection (3) to a licensed site is to be read as including a reference to a relevant disposal site.]
+
+[[^F218](7) In this section “appropriate authority” means—
+
+(a) in relation to England and Wales and Northern Ireland, the Secretary of State;
+
+(b) in relation to Scotland, the Scottish Ministers.]
+
+### 20 Furnishing of information relating to licensee’s [[^F219]or operator’s] cover.
+
+(1) In the case of each licensed site, the licensee shall give notice in writing to [[^F220]the appropriate authority] forthwith [[^F221]upon its appearing to the licensee that claims such as are mentioned in section 19(1) made in respect of any cover period falling within the period of the licensee’s responsibility have reached a notice level.
+
+(1A) For the purposes of subsection (1), claims made in respect of a cover period reach a notice level if the aggregate amount of claims of a particular category so made reaches three-fifths of the required amount appropriate to that category of claim.
+
+(1B) In subsection (1A) references to a category of claim and the required amount are to be construed in accordance with section 19.
+
+(1C) Where] the licensee has given such a notice, no payment by way of settlement of any claim in respect of the cover period in question by agreement between the licensee and the claimant shall be made except after consultation with [[^F222]the appropriate authority] and in accordance with the terms of any direction which [[^F222]the appropriate authority] may give to the licensee in writing with respect to any particular claim.
+
+(2) If in the case of any licensed site any cover period falling within the period of the licensee’s responsibility has ended, the licensee shall not later than 31st January in each year send to [[^F223]the appropriate authority] in writing a statement showing the date when that cover period ended and the following particulars of any claims in respect of that cover period as at the beginning and end respectively of the last preceding calendar year, that is to say—
+
+(a) the aggregate number of claims received;
+
+(b) the aggregate number of claims established; and
+
+(c) the aggregate number and aggregate amount of claims satisfied.
+
+(3) [[^F224]The appropriate authority] shall as soon as may be lay before each House of Parliament a copy of any notice received by [[^F225]the appropriate authority] under subsection (1) of this section and a report (in such form as, having regard to section 16 of this Act, [[^F226]the appropriate authority] may consider appropriate) with respect to any statements received by [[^F225]the appropriate authority] under subsection (2) of this section.
+
+(4) Any person by whom any funds such as are mentioned in section 19(1) of this Act for the time being fall to be provided shall give to [[^F227]the appropriate authority] not less than two months notice in writing before ceasing to keep those funds available and, notwithstanding any such notice, so far as those funds relate to nuclear matter for the time being in the course of carriage, shall not so cease while that carriage continues.
+
+[[^F228](5) Subsections (1) to (4) apply in relation to the operator of a relevant disposal site with the following modifications—
+
+(a) as if a reference to the licensee of a site with a nuclear site licence were a reference to the operator of a relevant disposal site;
+
+(b) as if a reference to a licensed site were a reference to a relevant disposal site;
+
+(c) as if a reference to the period of a licensee’s responsibility were a reference to the period indicated by section 7B(1)(f).]
+
+[[^F229](5A) Subsection (4) does not apply where the operator of a relevant disposal site makes an application to the Secretary of State under section 7C(1)(a) (application for site to be excluded disposal site).]
+
+[[^F230](6) In this section “appropriate authority” means—
+
+(a) in relation to England and Wales and Northern Ireland, the Secretary of State;
+
+(b) in relation to Scotland, the Scottish Ministers.]
+
+### 20A [[^F231]Power to make arrangements with respect to licensee’s or operator’s cover
+
+(1) The Secretary of State may make arrangements with any person for the purpose of enabling—
+
+(a) the licensee of a licensed site, or
+
+(b) the operator of a relevant disposal site,
+
+to make the provision required by section 19(1).
+
+(2) The arrangements that may be made under subsection (1) include—
+
+(a) the provision of insurance or reinsurance;
+
+(b) the provision of an indemnity or guarantee.
+
+(3) The power under subsection (1) does not include a power to make grants.
+
+(4) Arrangements made by the Secretary of State under subsection (1) are to be on such terms as the Secretary of State considers appropriate.
+
+(5) The Secretary of State is not to make arrangements under subsection (1) except with the consent of the Treasury.
+
+(6) Sums received by the Secretary of State under arrangements made under subsection (1) are to be paid into the Consolidated Fund.
+
+(7) Sums required by the Secretary of State for fulfilling obligations arising under arrangements made under subsection (1) are to be paid out of money provided by Parliament.
+
+(8) If any sum required by the Secretary of State for fulfilling obligations under arrangements made under subsection (1) is not paid out of money provided by Parliament, it is to be charged on and paid out of the Consolidated Fund.
+
+(9) Where money is paid in reliance on subsection (8), the Secretary of State must as soon as is reasonably practicable lay a report before Parliament specifying the amount paid and the arrangements under which the amount fell to be paid.]
+
+### 20B [[^F232]Statement on arrangements
+
+(1) As soon as reasonably practicable after making arrangements under section 20A(1), the Secretary of State is to lay before Parliament a statement about the arrangements.
+
+(2) A statement under subsection (1) is to set out—
+
+(a) the licensee or operator for whose benefit the arrangements are made;
+
+(b) the nature of the arrangements;
+
+(c) the amount that may be required to discharge the Secretary of State’s obligations under the arrangements.
+
+(3) While the arrangements continue, the Secretary of State is to make a further statement about the arrangements as soon as reasonably practicable after the end of each report period.
+
+(4) A statement under subsection (3) is to set out—
+
+(a) any changes in the arrangements;
+
+(b) the amount that may be required to discharge the Secretary of State’s obligations under the arrangements.
+
+(5) “Report period”, in relation to arrangements made under section 20A(1), means—
+
+(a) the period of two years beginning with the day on which the statement under subsection (1) was laid before Parliament, and
+
+(b) each successive period of two years.]
+
+### 21 Supplementary provisions with respect to cover for compensation in respect of carriage.
+
+(1) Where, in the case of an occurrence [[^F233]or event] involving nuclear matter in the course of carriage, a claim in respect of damage to the means of transport being used for that carriage is duly established—
+
+(a) against any person by virtue of section 7, [[^F234]7B,] 8, 9 or 10 of this Act; or
+
+(b) against a licensee, [[^F235]an operator of a relevant disposal site,] the Authority or the Crown by virtue of any relevant foreign law made for purposes corresponding to those of the said section 10,
+
+then, without prejudice to any right of the claimant to the satisfaction of that claim, no payment towards its satisfaction shall be made out of funds which are required to be available for the purpose by, or by any relevant foreign law made for purposes corresponding to those of, section 19(1) of this Act, or which have been made available for the purpose under section 18 of this Act or by means of a relevant foreign contribution, such as to prevent the satisfaction out of those funds up to an aggregate amount [[^F236]which is the equivalent in sterling (on the day, or first day, of that occurrence [[^F237]or event]) of [[^F238]80 million euros]] [[^F239] of all claims falling within subsection (1ZA).
+
+(1ZA) The claims are those which have been or may be duly established against the same person in respect of—
+
+(a) injury, damage or significant impairment of the environment caused by the occurrence mentioned in subsection (1), other than damage to the means of transport in question, or
+
+(b) a grave and imminent threat of injury, damage or significant impairment of the environment caused by the event mentioned in subsection (1), other than a grave and imminent threat of damage to the means of transport in question.]
+
+[[^F240] 1A The Secretary of State may with the approval of the Treasury by order increase or further increase the sum expressed in [[^F241]euros] in subsection (1) of this section; but an order under this subsection shall not have effect in respect of [[^F242]any occurrence or event happening before (or beginning to happen before)] the order comes into force.]
+
+(2) Where, in the case of an occurrence [[^F243]or event] involving nuclear matter in the course of carriage, a claim in respect of damage to the means of transport being used for that carriage is duly established against a relevant foreign operator by virtue of section 10 of this Act, but by virtue of section 16(2)(a) thereof that operator is not required to make a payment in satisfaction of the claim, [[^F244]section 12(1E)] shall not apply to any liability of that operator with respect to the damage in question apart from this Act.
+
+(3) Where any nuclear matter is to be [[^F245]carried in circumstances such that, while the matter is in the course of carriage, a particular licensee, a particular operator of a relevant disposal site, the Authority, a particular government department or a particular relevant foreign operator], as the case may be (in this and the next following subsection referred to as “the responsible party”) may incur liability by virtue of section 7, [[^F246]7B,] 8, 9 or 10 of this Act or by virtue of any relevant foregin law made for purposes corresponding to those of the said section 10, the responsible party shall, before the carriage is begun, cause to be delivered to the person who is to carry that matter a document issued by or on behalf of the appropriate person mentioned in the next following subsection (in this subsection referred to as “ the guarantor”) which shall contain such particulars as may be prescribed of the responsible party, of that nuclear matter and carriage, and of the funds available in pursuance of, or of the relevant foreign law made for purposes corresponding to those of, section 18 or 19(1) of this Act to satisfy any claim by virtue of that liability, and the guarantor shall be debarred from disputing in any court any of the particulars stated in that document; and if in any case there is a wilful failure to comply with this subsection, the responsible party (except where that party is the Crown), and also, if the carrier knew or ought to have known the matter carried to be such matter for carriage in such circumstances as aforesaid, the carrier, shall be guilty of an offence and liable on summary conviction to a fine not exceeding [[^F247]level 3 on the standard scale].
+
+(4) The person by whom or on whose behalf the document referred to in the last foregoing subsection is to be issued shall be—
+
+(a) where the responsible party is a licensee [[^F248]or an operator of a relevant disposal site], the person by whom there fall to be provided the funds required by section 19(1) of this Act to be available to satisfy any claim in respect of the carriage in question;
+
+(b) where the responsible party is the Authority, [[^F249]the Secretary of State];
+
+(c) where the responsible party is the Crown, the Minister in charge of the government department concerned [[^F250]or in relation to any part of the Scottish Administration the Scottish Ministers];
+
+(d) where the responsible party is a relevant foreign operator, the person by whom there fall to be provided the funds required by the relevant foreign law made for purposes corresponding to those of section 18 or 19(1) of this Act to be made available to satisfy any claim in respect of the carriage in question.
+
+[[^F251](4A) Subsection (3) of this section shall not apply where the carriage in question is wholly within the territorial limits of the United Kingdom.]
+
+[[^F252](4B) Before exercising the function under subsection (1A) or the function under subsection (3) of prescribing particulars in or as regards Scotland, the Secretary of State must consult the Scottish Ministers.]
+
+(5) The requirements of Part VI of the [^M6]Road Traffic Act 1960 (which relates to compulsory insurance or security against third-party risks of users of motor vehicles) shall not apply in relation to any injury to any person [[^F253], or damage to the property of any person,] for which any person is liable by virtue of section 7, [[^F254]7B,] 8, 9 or 10 of this Act.
+
+## Miscellaneous and general
+
+### 22 [[^F255]Reporting of and inquiries into dangerous occurrences
+
+(1) The provisions of this section apply where any prescribed occurrence happens—
+
+(a) on a licensed site, or
+
+(b) in the course of the carriage of nuclear matter on behalf of any person where a duty with respect to that carriage is imposed on that person by section 7, 10 or 11 of this Act.
+
+(2) The licensee or other person mentioned in subsection (1) must ensure that the occurrence is reported without delay in the prescribed manner—
+
+(a) to the appropriate national authority, and
+
+(b) to such other persons, if any, as may be prescribed in relation to occurrences of that kind.
+
+(3) A person who is required by virtue of subsection (2) to report an occurrence and who fails to do so is guilty of an offence.
+
+[[^F256](3A) person convicted of an offence under subsection (3) in England and Wales is liable—
+
+(a) on conviction on indictment to imprisonment for a term not exceeding 2 years, or a fine, or both;
+
+(b) on summary conviction to imprisonment for a term not exceeding the general limit in a magistrates’ court, or a fine, or both.]
+
+(4) A person convicted of an offence under subsection (3) in [^F257]... or Scotland is liable—
+
+(a) on conviction on indictment to imprisonment for a term not exceeding 2 years, or a fine, or both;
+
+(b) on summary conviction to imprisonment for a term not exceeding 12 months, [^F258]... or a fine not exceeding £20,000 [^F259]..., or both.
+
+(5) A person convicted of an offence under subsection (3) in Northern Ireland is liable on summary conviction to imprisonment for a term not exceeding 3 months, or a fine not exceeding level 3 on the standard scale, or both.
+
+(6) In relation to an offence committed before [[^F260]2 May 2022], the reference to [[^F261]the general limit in a magistrates’ court] in subsection [[^F262](3A)(b)], as it has effect in England and Wales, is to be read as a reference to 6 months.
+
+(7) Before exercising any function under subsection (1) or (2) in or as regards Scotland, the Secretary of State must consult the Scottish Ministers.
+
+(8) Subsections (9) to (11) have effect only in relation to a prescribed occurrence which happens in Northern Ireland.
+
+(9) The Secretary of State—
+
+(a) may direct an inspector to make a special report with respect to the occurrence, and
+
+(b) may cause any such report, or so much of it as it is not in the Secretary of State's opinion inconsistent with the interests of national security to disclose, to be made public at such time and in such manner as the Secretary of State considers appropriate.
+
+(10) The Secretary of State may direct an inquiry to be held into the occurrence and its causes, circumstances and effects.
+
+(11) Any such inquiry must be held—
+
+(a) in accordance with the provisions of Schedule 2 to this Act, and
+
+(b) in public, except where or to the extent that it appears to the Secretary of State expedient in the interests of national security to direct otherwise.]
+
+### 23 Registration in connection with certain occurrences [[^F263]and events].
+
+(1) Without prejudice to any right of any person to claim against any person by virtue of any of sections 7 to 11 of this Act, the appropriate authority may, on the happening of any occurrence [[^F264]or event] in respect of which liability may be incurred by virtue of any of those sections, by order make provision for enabling such particulars of any person shown to have been within such area during such period (being the period during which the occurrence [[^F264]or event] took place) as may be specified in the order to be registered by or on behalf of that person in such manner as may be so specified, and any such registration in respect of any person shall be sufficient evidence of his presence within that area during that period unless the contrary is proved; and any such order shall be made by statutory instrument and be laid before Parliament after being made.
+
+(2) In the foregoing subsection, the expression “the appropriate authority” means, in relation to any occurrence [[^F265]or event], the authority hereinafter specified in relation to the person against whom any claim in respect of that occurrence [[^F265]or event] falls to be made, that is to say—
+
+(a) where that person is the Authority, [[^F266]the Secretary of State];
+
+(b) where that person is the Crown, the Minister in charge of the government department concerned [[^F267]or where any part of the Scottish Administration is concerned the Minister];
+
+[[^F268](c) where that person is not the Authority or the Crown—
+
+(i) the Secretary of State, in relation to England and Wales and Northern Ireland;
+
+(ii) the Scottish Ministers, in relation to Scotland.]
+
+### [[^F269] 24
+
+(1) The Secretary of State may appoint as inspectors for the purpose of assisting him in the execution of the provisions of this Act, other than [[^F270]sections 1, 3 to 6, 22 and 24A of this Act], such number of persons appearing to him to be qualified for the purpose as he may from time to time consider necessary or expedient, and may make to or in respect of any person so appointed such payments by way of remuneration, allowances or other payments as the Secretary of State may with the approval of the Minister for the Civil Service determine.
+
+(2) Any such inspector may for that purpose exercise such of the powers set out in section 20(2) of the [^M7] Health and Safety at Work etc. Act 1974 as are specified in his instrument of appointment and the provisions of sections 28 (restrictions on disclosure of information), 33 (offences) and 39 (prosecutions by inspectors) of that Act shall apply in the case of inspectors so appointed as they apply in the case of inspectors appointed under section 19 of that Act.
+
+(3) In such cases and to such extent as it may appear to the Secretary of State, with the agreement of the Treasury, to be appropriate so to do, the Secretary of State shall require a licensee to repay to the Secretary of State such part as may appear to the Secretary of State to be attributable to the nuclear installations in respect of which nuclear site licences have been granted to that licensee of—
+
+(a) [[^F271]any sums paid by the Secretary of State under subsection (1) of this section;]
+
+(b) any expenses, . . . [^F272] , being—
+
+(i) expenses incurred by the Secretary of State; or
+
+(ii) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F272]
+
+(iii) expenses incurred by any government department; or
+
+(iv) such sums as the Treasury may determine in respect of the use of any premises belonging to the Crown,
+
+which the Secretary of State may, with the consent of the Treasury, determine to be incurred in connection with the, [[^F273]exercise by the Secretary of State of his powers under the said subsection (1)],
+
+and the licensee shall comply with such requirement; and any sums so repaid to the Secretary of State shall be paid into the Consolidated Fund, . . . [^F274] [[^F275] and except that in so far as sums so repaid relate to expenses incurred by the Scottish Administration they shall be paid to the Scottish Ministers. ]
+
+(4) Any liability of a licensee in respect of sums payable by him under subsection (3) of this section on account of pensions shall, if the Secretary of State so determines, be satisfied by way of contributions calculated, at such rate as may be determined by the Minister for the Civil Service, by reference to remuneration.]
+
+### 24A [[^F276] Recovery of expenses by [^F277] Health and Safety Executive [[^F277] ONR ]
+
+[[^F278](1) This section applies to any expenses incurred by the [^F279]Health and Safety Commission ("the Commission") which, in either case, the Executive may[[^F279]ONR which the ONR may] determine to be incurred wholly or partly in connection with—
+
+(a) the carrying into effect of [^F280]such of the provisions of this Act as are mentioned in Schedule 1 to the Health and Safety at Work etc. Act 1974[[^F280]sections 1, 3 to 6 and 22, and this section of this Act]; or
+
+(b) the carrying out of research into nuclear safety. ]
+
+(2) Without prejudice to the generality of subsection (1) of this section, the reference in that subsection to expenses incurred by the [^F281]Executive[[^F281]ONR] includes any sums paid by it by way of remuneration, allowances or other payments to inspectors appointed under [^F282]the Health and Safety at Work etc. Act 1974[[^F282]Schedule 8 to the Energy Act 2013].
+
+(3) In such cases and to such extent as it may appear to the [^F283]Executive[[^F283]ONR] appropriate to do so, the [^F283]Executive[[^F283]ONR] shall require a person who has applied for a nuclear site licence to repay to it so much of any expenses to which this section applies as may appear to it to be attributable to dealing with the application.
+
+(4) In such cases and to such extent as it may appear to the [^F283]Executive[[^F283]ONR] to be appropriate to do so, the [^F283]Executive[[^F283]ONR] shall require a person to whom a nuclear site licence has been granted to repay to it—
+
+(a) so much of any expenses to which this section applies as may appear to it to be attributable to any nuclear installation in respect of which the licence has been granted; and
+
+(b) so much of any expenses to which this section applies which are not otherwise recoverable under this section as it thinks fit.
+
+(5) A person shall comply with any requirement made of him under this section.
+
+(6) Any liability of a person in respect of sums payable by him under this section on account of pensions shall, if the [^F284]Executive[[^F284]ONR] so determines, be satisfied by way of contributions calculated, at such rate as may be determined by the Treasury, by reference to remuneration.
+
+(7) Where the [^F284]Executive[[^F284]ONR] anticipates that a person who has applied for or has been granted a nuclear site licence will become subject to a liability under this section, it may require him to make to it a payment or payments on account of the liability.
+
+(8) Where a person has made a payment under subsection (7) of this section on account of an anticipated liability, then—
+
+(a) if he does not become subject to the liability, the [^F284]Executive[[^F284]ONR] shall be liable to repay the payment to him; and
+
+(b) if the amount of the liability to which he becomes subject is less than the amount paid under that subsection, the [^F284]Executive[[^F284]ONR] shall be liable to repay the difference to him.]
+
+### 25 Offences—general.
+
+(1) Where a body corporate is guilty of an offence under [[^F285]any of the provisions] [[^F285]section 2(2) or 19(5)] of this Act and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly; and where the body corporate was guilty of the offence in the capacity of licensee under a nuclear site licence [[^F286]or an operator of a relevant disposal site], he shall be so liable as if he, as well as the body corporate, were the licensee [[^F287]or the operator].
+
+In this subsection, the expression “director”, in relation to a body corporate established by or under any enactment for the purpose of carrying on under national ownership any industry or part of an industry or undertaking, being a body corporate whose affairs are managed by its members, means a member of that body corporate.
+
+(2) Where a body corporate is convicted on indictment of an offence under any of the following provisions of this Act, that is to say, sections [[^F288]1(3)], 2(2), [[^F288]4(6)], [[^F288]5(4)] and 19(5), so much of the provision in question as limits the amount of the fine which may be imposed shall not apply, and the body corporate shall be liable to a fine of such amount as the court thinks just.
+
+(3) Proceedings in respect of any offence under [[^F289]section 2(2) or 19(5) of] this Act shall not be instituted in England or Wales except by the Minister or by or with the consent of the Director of Public Prosecutions.
+
+### 25A [[^F290] Orders.
+
+The power to make orders under section 16(1A), 18(1B) or 21(1A) of this Act shall be exercisable by statutory instrument; but no such order shall be made unless a draft of it has been laid before and approved by resolution of the House of Commons.]
+
+### 25B [[^F291]Amounts in euros
+
+The equivalent in sterling on a particular day of a sum expressed in euros is determined by converting the sum in euros into its equivalent in sterling using the London closing exchange rate for the euro and sterling for that day.]
+
+### [^F292]25C Special drawing rights
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 26 Interpretation.
+
+(1) In this Act, except where the context otherwise requires, the following expressions have the following meanings respectively, that is to say—
+
+- “the Act of 1959” means the Nuclear Installations (Licensing and Insurance) Act 1959;
+
+- [[^F293]“the appropriate environment authority ” means—
+
+  - (a) in the case of a site in England, the Environment Agency;
+  - (b) in the case of a site in Scotland, the Scottish Environment Protection Agency;
+  - (c) in the case of a site in Northern Ireland, the Department of Environment in Northern Ireland;
+  - (d) in the case of a site in Wales, the Natural Resources Body for Wales.
+
+- “the appropriate national authority ” means—
+
+  - (a) in relation to England and Wales and Scotland [[^F294](including the territorial sea adjacent to them)], the ONR;
+  - (b) in relation to Northern Ireland [[^F295](including the territorial sea adjacent to it)], the Secretary of State; ]
+
+- [[^F296]“appropriate permit” has the meaning given by section 7B;]
+
+- “atomic energy” has the meaning assigned by the [^M8]Atomic Energy Act 1946;
+
+- “the Authority” means the United Kingdom Atomic Energy Authority;
+
+- [[^F296]“continental shelf”, in relation to a country or territory, means—
+
+  - (a) in the case of the United Kingdom, areas designated under section 1(7) of the Continental Shelf Act 1964;
+  - (b) in the case of a country or territory outside the United Kingdom, an area outside its territorial sea within which rights are exercisable in relation to the sea bed and subsoil and their natural resources by that country or territory;]
+
+- “contravention”, in relation to any enactment or to any condition imposed or direction given thereunder, includes a failure to comply with that enactment, condition or direction, and cognate expressions shall be construed accordingly;
+
+- “costs” in the application of this Act to Scotland, means expenses;
+
+- “cover period” has the meaning assigned by section 19(2) of this Act;
+
+- [[^F297]“CSC claim” has the meaning given by section 16AA;
+
+- “CSC international pooled funds” means the funds referred to by Article III.1(b) of the Convention on Supplementary Compensation for Nuclear Damage;
+
+- [^F298]...]
+
+- [[^F296]“event”, in sections 11H, 16(1), (1ZA), [^F299]... (1ZB), (1A), (3B) [^F300]... and (3C), 16B, 16C, 17(3) and 18 and subsection (2B) of this section, means—
+
+  - (a) in the case of an event that continues for any time, the whole of that event;
+  - (b) in the case of an event which is one of a succession of events all attributable to a particular happening on a particular relevant site, all those events collectively;
+  - (c) in the case of an event which is one of a succession of events, all of which are attributable to a particular happening and take place during one course of carriage, all those events collectively;]
+
+- “excepted matter” means nuclear matter consisting only of one or more of the following, that is to say—
+
+  - (a) isotopes prepared for use for industrial, commercial, agricultural, medical [[^F301]scientific or educational] purposes;
+  - (b) natural uranium;
+  - (c) any uranium of which isotope 235 forms not more than 0.72 per cent.;
+  - (d) nuclear matter of such other description, if any, in such circumstances as may be prescribed (or, for the purposes of the application of this Act to a relevant foreign operator, as may be excluded from the operation of the relevant international agreement by the relevant foreign law);
+
+- [[^F302]“excluded disposal site” has the meaning given by section 7C;]
+
+- [[^F296]“exclusive economic zone”, in relation to a country or territory, means the exclusive economic zone established in respect of the country or territory in accordance with international law, subject to subsection (1E);]
+
+- “home territory”, in relation to a relevant foreign operator, means the relevant territory in which, for the purposes of a relevant international agreement, he is the operator of a relevant installation;
+
+- “injury” means personal injury and includes loss of life;
+
+- [^F303]...
+
+- “licensed site” means a site in respect of which a nuclear site licence has been granted, whether or not that licence remains in force;
+
+- “licensee” means a person to whom a nuclear site licence has been granted, whether or not that licence remains in force;
+
+- “the Minister” means—
+
+  - (a) in the application of this Act to England and Wales, the Minister of Power;
+  - (b) in the application of this Act to Scotland, the Secretary of State;
+
+- [[^F304]“non-UK CSC claim” has the meaning given by section 16AA;]
+
+- “nuclear installation” means a nuclear reactor or an installation such as is mentioned in section 1(1)(b) of this Act;
+
+- “nuclear matter” means, subject to any exceptions which may be prescribed—
+
+  - (a) any fissile material in the form of uranium metal, alloy or chemical compound (including natural uranium), or of plutonium metal, alloy or chemical compound, and any other fissile material which may be prescribed; and
+  - (b) any radioactive material produced in, or made radioactive by exposure to the radiation incidental to, the process of producing or utilising any such fissile material as aforesaid;
+
+- “nuclear reactor” means any plant (including any machinery, equipment or appliance, whether affixed to land or not) designed or adapted for the production of atomic energy by a fission process in which a controlled chain reaction can be maintained without an additional source of neutrons;
+
+- “nuclear site licence” has the meaning assigned by [[^F305]section 1(2)] of this Act;
+
+- “occurrence” in sections [[^F306]11G(2)(c), 16(1), (1ZA), [^F307]... (1ZB), (1A), (3B) [^F308]... and (3C), 16B and 16C] 17(3) and 18 of this Act [[^F309]and subsection (2B) of this section]—
+
+  - (a) in the case of a continuing occurrence, means the whole of that occurrence; [^F310]...
+  - (b) in the case of an occurrence which is one of a succession of occurrences all attributable to a particular happening on a particular relevant site or to the carrying out from time to time on a particular relevant site of a particular operation, means all those occurrences collectively; [[^F311]and
+  - (c) in the case of an occurrence which is one of a succession of occurrences, all of which are attributable to a particular happening and take place during one course of carriage, means all those occurrences collectively;]
+
+- [[^F312]“ONR” means the Office for Nuclear Regulation;]
+
+- [[^F296]“operator”, in relation to a relevant disposal site, has the meaning given by section 7B;]
+
+- [[^F296]“overseas territory”, in relation to a country, means a territory, not part of the metropolitan territories of the country, for whose international relations the country is responsible;]
+
+- [[^F313]“the Paris Convention” means the Convention on Third Party Liability in the Field of Nuclear Energy of 29 July 1960, as amended by the Additional Protocol of 28 January 1964, by the Protocol of 16 November 1982 and by the Protocol of 12 February 2004;]
+
+- “period of responsibility”, in relation to a licensee, has the meaning assigned by [[^F314]section 5(14)]of this Act;
+
+- “prescribed” means prescribed by regulations made by [[^F315]the Secretary of State], which shall be made by statutory instrument and be subject to annulment in pursuance of a resolution of either House of Parliament;
+
+- [[^F296]“preventive measure” has the meaning given by section 11H;]
+
+- “relevant carriage”, in relation to nuclear matter, means carriage on behalf of—
+
+  - (a) a licensee as the licensee of a particular licensed site; or
+  - (aa) [[^F316]an operator of a relevant disposal site; or]
+  - (b) the Authority; or
+  - (c) a government department for the purposes of such use of a site by that department as is mentioned in section 9 of this Act; or
+  - (d) a relevant foreign operator; or
+  - (e) a person authorised to operate a nuclear reactor which is comprised in a means of transport and in which the nuclear matter in question is intended to be used [[^F317]or was used or was intended to be used];
+
+- [[^F296]“relevant disposal site” has the meaning given by section 7B;]
+
+- “relevant foreign contribution”, in relation to any claim, means any sums falling by virtue of any relevant international agreement to be paid by the government of any relevant territory other than the United Kingdom towards the satisfaction of that claim;
+
+- “relevant foreign judgment” means a judgment of a court of a relevant territory other than the United Kingdom which, under a relevant international agreement, is to be enforceable anywhere within the relevant territories;
+
+- “relevant foreign law” means the law of a relevant territory other than the United Kingdom or any part thereof regulating in accordance with a relevant international agreement matters falling to be so regulated and, in relation to a particular relevant foreign operator, means the law such as aforesaid of his home territory;
+
+- “relevant foreign operator” means a person who, for the purposes of a relevant international agreement, is the operator of a relevant installation in a relevant territory other than the United Kingdom;
+
+- “relevant installation” means an installation to which a relevant international agreement applies;
+
+- “relevant international agreement” means an international agreement with respect to third-party liability in the field of nuclear energy to which the United Kingdom or Her Majesty’s Government therein are party, other than an agreement relating to liability in respect of nuclear reactors comprised in means of transport;
+
+- [[^F296]“relevant maritime zone”, in relation to a country or territory, means—
+
+  - (a) the zone that has been established in respect of the country or territory as its exclusive economic zone and that has been identified in accordance with a relevant international agreement for the purposes of establishing jurisdiction under such an agreement, or
+  - (b) in the case of a country or territory in respect of which no exclusive economic zone is established, a zone that has been established in accordance with international law, being a zone adjacent to the territorial sea of that country or territory and extending no more than 200 nautical miles from the baselines from which that territorial sea is measured, and that has been identified in accordance with a relevant international agreement for the purposes of establishing jurisdiction under such an agreement;]
+
+- “relevant site” means any of the following, that is to say—
+
+  - (a) a licensed site at any time during the period of the licensee’s responsibility;
+  - (aa) [[^F318]a relevant disposal site at any time during the period that, in the case of any particular operator of the site, is indicated by section 7B(1)(f);]
+  - (b) any premises at any time when they are occupied by the Authority;
+  - (c) any site at any time when it is occupied by a government department, if that site is being or has been used by that department as mentioned in [[^F319]section 9(1) or (2)] of this Act;
+  - (d) any site in a relevant territory other than the United Kingdom at any time when that site is being used for the operation of a relevant installation by a relevant foreign operator;
+
+- “relevant territory” [[^F320] means—
+
+  - a country that is a party to a relevant international agreement, or
+  - an overseas territory of such a country, if the relevant international agreement in question applies to the overseas territory;]
+
+- [[^F296]“significant impairment of the environment” does not include damage to the environment which is not significant enough to be eligible for compensation under this Act as damage to property, whether or not the part affected is property in respect of which such compensation can be sought;]
+
+- [[^F296]“special relevant claim” has the meaning given by section 16A;]
+
+- [[^F296]“special relevant territory” has the meaning given by section 16A;]
+
+- “territorial limits” includes territorial [[^F321]sea].
+
+- [[^F296]“trust” has the meaning given by Article 2 of the Convention on the Law Applicable to Trusts and on Their Recognition, concluded at The Hague on 1 July 1985.]
+
+[[^F322](1A) A reference in this Act to a relevant reciprocating territory is a reference to—
+
+(a) a country that is not a party to [[^F323]the Paris Convention] but whose law—
+
+(i) with a view to reciprocating benefits conferred as regards it by parties to that [[^F324]Convention], confers benefits as regards the parties to that [[^F324]Convention] on a basis corresponding to the basis required of a party to that [[^F325]Convention], disregarding for these purposes that [[^F326]Convention’s] limits on the amount of liability, and
+
+(ii) in that respect is based on principles identical to those of that [[^F327]Convention], or
+
+(b) an overseas territory of a country falling within paragraph (a), if the law of the country or the territory provides for, or they together provide for, the benefits in question to be reciprocated on a basis that includes that territory.
+
+(1B) A reference in this Act to a qualifying territory is a reference to—
+
+(a) a relevant territory,
+
+(b) a country in the case of which there is no nuclear installation—
+
+(i) within its territorial limits or its exclusive economic zone or on its continental shelf, or
+
+(ii) within the territorial limits or the exclusive economic zone of, or on the continental shelf of, any overseas territory of the country,
+
+(c) an overseas territory of a country falling within paragraph (b),
+
+(d) an overseas territory of a country that is a party to a relevant international agreement where the territory—
+
+(i) is not a territory to which that agreement applies, and
+
+(ii) has no nuclear installation within its territorial limits or its exclusive economic zone or on its continental shelf, or
+
+(e) a relevant reciprocating territory.
+
+(1C) In sections 13(5), 16(1ZB) and (3C), 16A(6)(b) and (9) and 17D(3), subsection (1A) of this section and paragraphs 2 and 3 of Schedule 1A, a reference to the law of a country or territory includes a reference to the law of part of it.
+
+(1D) In the case of an overseas territory of a country (including an overseas territory of the United Kingdom), a reference in this Act to the law of the territory is to be treated as including a reference to law that has effect with respect to the territory.]
+
+[[^F328](1E) A reference in this Act to the exclusive economic zone of a country or territory, except in the definitions of “exclusive economic zone” and “relevant maritime zone” in subsection (1), includes a reference to any zone established in accordance with international law which—
+
+(a) is adjacent to the territorial sea of that country or territory, and
+
+(b) extends no more than 200 nautical miles from the baselines from which that territorial sea is measured, and
+
+in which the country or territory exercises some of the rights that are exercisable under Part V of the United Nations Convention on the Law of the Sea (Cmnd 8941).]
+
+(2) References in this Act to the carriage of nuclear matter shall be construed as including references to any storage incidental to the carriage of that matter before its delivery at its final destination.
+
+[[^F329](2A) If nuclear matter is in a place at a particular time as a consequence of an occurrence falling within section 7(1B) (including section 7(1B) as applied by section 7B, 8 or 9), 10(1) or 11, neither the presence of the matter in that place at that time nor any effect that the matter produces at that time is to be treated as a separate occurrence falling within any of those provisions.]
+
+[[^F330](2B) In relation to an occurrence or event in respect of which one or more persons incur liability—
+
+(a) by virtue of section 7, 7B, 8, 9 or 10, or
+
+(b) by virtue of any relevant foreign law made for purposes corresponding to those of any of those sections,
+
+a country or overseas territory of a country is not to be treated as a relevant territory, special relevant territory, relevant reciprocating territory or qualifying territory, unless it is such a country or territory at the time of the occurrence or event.]
+
+(3) Any question arising under this Act as to whether [[^F331]at any given time]—
+
+(a) any person is a relevant foreign operator; [^F332]...
+
+(b) any law is the relevant foreign law with respect to any matter; [^F333]...
+
+[[^F334](c) any country or territory is a relevant territory;
+
+(d) a relevant territory satisfies the conditions in section 16A(7);
+
+(e) an overseas territory of a country is a territory to which a particular relevant international agreement applies;
+
+(f) a country or territory is a relevant reciprocating territory;
+
+(g) a place is within an exclusive economic zone or relevant maritime zone or on the continental shelf of a country or territory; or
+
+(h) a country or territory has a nuclear installation within its territorial limits or its exclusive economic zone or on its continental shelf,]
+
+shall be referred to and determined by the Minister.
+
+(4) Save where the context otherwise requires, any reference in this Act to any enactment shall be construed as a reference to that enactment as amended, extended or applied by or under any other enactment.
+
+### 27 Northern Ireland.
+
+[[^F335](1) In the application of this Act to Northern Ireland—
+
+(a) a reference to the Minister shall be construed as a reference to the Secretary of State;
+
+[^F336] b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F336] c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+[^F337] 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F337] 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In the application to Northern Ireland of section 21(5) of this Act, the reference to Part VI of the [^M9] Road Traffic Act 1960 shall be construed as a reference to Part II of the [^M10] Motor Vehicles and Road Traffic Act (Northern Ireland) 1930 as amended or re-enacted (with or without modification) by any subsequent enactment of the Parliament of Northern Ireland for the time being in force.
+
+(5) Proceedings in respect of any offence under this Act shall not be instituted in Northern Ireland except—
+
+[[^F338](a) by the Minister; or
+
+(b) by or with the consent of the Director of Public Prosecutions for Northern Ireland.]
+
+[^F339] 6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F340]
+
+### 28 Channel Islands. Isle of Man, etc.
+
+(1) Her Majesty may by Order in Council direct that any of the provisions of this Act specified in the Order shall extend, with such exceptions, adaptations and modifications as may be so specified, to any of the Channel Islands, to the Isle of Man or to any other territory outside the United Kingdom for the international relations of which Her Majesty’s Government in the United Kingdom are responsible.
+
+(2) Any Order in Council made by virtue of this section may be varied or revoked by any subsequent Order in Council so made.
+
+### 29 Repeals and savings.
+
+(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F341]
+
+(2) Anything done under or by virtue of any enactment repealed by this Act shall be deemed for the purposes of this Act to have been done under or by virtue of the corresponding provision of this Act, and anything begun under any of the enactments so repealed may be continued under the corresponding provision of this Act.
+
+(3) So much of any enactment or document as refers expressly or by implication to any enactment repealed by this Act shall, if and so far as the context permits, be construed as a reference to this Act or the corresponding enactment therein.
+
+(4) Nothing in this section shall be construed as affecting the general application of section 38 of the [^M11]Interpretation Act 1889 with respect to the effect of repeals.
+
+### 30 Short title and commencement.
+
+(1) This Act may be cited as the Nuclear Installations Act 1965.
+
+(2) This Act shall come into force on such day as Her Majesty may by Order in Council appoint; and a later day may be appointed for the purposes of section 17(5) than that appointed for the purposes of the other provisions of this Act.
+
+## [[^F342]SCHEDULE 1 — Security Provisions Applicable by Order under S.2]
+
+**1** In this Schedule “the specified body corporate”, in relation to an order made under section 2 of this Act, means the body corporate specified in that order, as being a body to whom the Minister has granted a permit as mentioned in subsection (1B) of that section, and “site to which a permit applies” means a site in respect of which a permit so granted to the specified body corporate is for the time being in force.
+
+**2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F343]
+
+**3** (1) Every site to which a permit applies shall, for the purposes of section 3(c) of the [^M12]Official Secrets Act 1911 (which provides that places belonging to or used for the purposes of Her Majesty may be declared by order of the Secretary of State to be prohibited places for the purposes of that Act), be deemed to be a place belonging to or used for the purposes of Her Majesty.
+
+(2) No person other than—
+
+(a) a constable acting in the execution of his duty as such, or
+
+(b) an officer of customs and excise or inland revenue, acting in the execution of his duty as such, [[^F344]or
+
+(bb) a person designated as an inspector of the International Atomic Energy Agency under article 85 of the Agreement made on 6th September 1976 for the application of Safeguards in the United Kingdom in connection with the Treaty on the Non-Proliferation of Nuclear Weapons (Cmnd. 6730)] [[^F345] or under Article 11 of the Additional Protocol (within the meaning of the Nuclear Safeguards Act 2000)]or
+
+(c) an inspector appointed under section 24 of this Act, or
+
+[[^F346](cc) an inspector appointed under [[^F347]Schedule 8 to the Energy Act 2013] and specially authorised in that behalf by or on behalf of a Minister of the Crown, or ]
+
+(d) an officer of any government department specially authorised in that behalf by or on behalf of a Minister of the Crown [[^F348]or a member of the staff of the Scottish Administration specially authorised in that behalf by or on behalf of the Scottish Ministers],
+
+shall, except with the consent of the specified body corporate and in accordance with any conditions imposed by them, be entitled to exercise any right of entry (whether arising by virtue of any statutory provision or otherwise) upon any site which is for the time being declared to be a prohibited place by virtue of an order made under the said section 3(c) as extended by the preceding subparagraph:
+
+Provided that any person aggrieved by a refusal of the specified body corporate to consent to, or by conditions imposed by that body on, the exercise of any such right of entry may apply to the Minister who may, if he thinks fit, himself authorise the exercise of the right subject to such conditions, if any, as he may think fit to impose.
+
+**4** [^F349]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F350]
+
+[^F351]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5** (1) The specified body corporate shall comply with any directions which the Minister may give to them for the purpose of safeguarding information in the interests of national security; and a direction under this sub-paragraph may in particular require the specified body corporate to terminate the employment of any person specified in the direction who is an officer of, or employed by, that body or may require that body not to appoint a person so specified to be an officer of, or to any employment under, that body.
+
+(2) The specified body corporate shall also comply with any directions given to them by the Minister with respect to the safe-keeping of material of any description specified in the directions, whether in the interests of national security or of safety.
+
+(3) The Minister may with the approval of the Treasury make grants out of moneys provided by Parliament for reimbursing to the specified body corporate, in whole or in part, any expenses incurred by that body in complying with any directions given under sub-paragraph (1) of this paragraph and any directions given under sub-paragraph (2) of this paragraph with respect to the safe-keeping of material in the interests of national security.
+
+**6** (1) Except with the consent of the Minister the specified body corporate shall not terminate on security grounds the employment of any person employed by them.
+
+(2) In this paragraph “security grounds” means grounds which are grounds for dismissal from the civil service of Her Majesty, in accordance with any arrangements for the time being in force relating to dismissals from that service for reasons of national security.
+
+**7** In the application of this Schedule to Northern Ireland—
+
+(a) in paragraph 3(2)(d) the reference to a government department shall be construed as including a reference to a department of the Government of Northern Ireland; and
+
+[^F352]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [[^F353] SCHEDULE   1A — Measures of reinstatement outside the United Kingdom
+
+### Measures of reinstatement
+
+**1** (1) Where as a result of a breach of a duty imposed by section 7, 7B, 8, 9 or 10 there is significant impairment of the environment within the territorial limits, in or above the exclusive economic zone, or on the continental shelf of a qualifying territory other than the United Kingdom, a person may make a claim under this Act for compensation in respect of the reasonable cost of measures of reinstatement relating to that impairment, to the extent that they are relevant measures of reinstatement.
+
+(2) Sub-paragraph (1) is subject to paragraphs 2 and 3.
+
+(3) A relevant measure of reinstatement, in relation to significant impairment of the environment, is a measure reasonably taken for the purpose of—
+
+(a) reinstating or restoring what has been destroyed or damaged as part of that impairment, or
+
+(b) establishing the equivalent of what has been destroyed or damaged as part of that impairment.
+
+(4) A measure of reinstatement is reasonably taken for the purposes of this paragraph if taking that measure is appropriate and proportionate in the circumstances.
+
+### Persons able to take measures
+
+**2** No compensation under this Act is payable by virtue of a claim under paragraph 1 unless the person taking the relevant measures of reinstatement is entitled to take the measures in question under the law of the qualifying territory.
+
+### Approval of measures of reinstatement
+
+**3** Compensation under this Act is payable by virtue of a claim under paragraph 1 only if the claim relates to measures of reinstatement approved by a person who is competent to do so under any law of the qualifying territory made for purposes corresponding to section 11B (a “competent authority”).]
+
+## [^F354][[^F355]SCHEDULE 2] — [[^F356] Inquiries under section 22(10) relating to occurrences in Northern Ireland ]
+
+*Section 22(5).*
+
+**1** An inquiry in pursuance of a direction under [[^F357]section 22(10) ] of this Act with respect to any occurrence shall be held by a competent person appointed by [[^F358]the Secretary of State ], and that person may conduct the inquiry either alone or with the assistance of an assessor or assessors so appointed.
+
+**2** The Minister may pay to the person appointed to hold the inquiry and to any assessor appointed to assist him such remuneration and allowances as [[^F359]the Secretary of State] may, with the approval of the Treasury, determine.
+
+**3** The person appointed to hold the inquiry (hereafter in this Schedule referred to as “the court”) shall hold the inquiry in such manner and under such conditions as the court thinks most effectual for ascertaining the causes, circumstances and effects of the occurrence and for enabling the court to make the report hereafter in this Schedule mentioned.
+
+**4** The court shall, for the purposes of the inquiry, have power—
+
+(a) to enter and inspect any place or building the entry or inspection whereof appears to the court requisite for the said purposes;
+
+(b) by summons signed by the court to require any person to attend, at such time and place as is specified in the summons, to give evidence or produce any documents in his custody or under his control which the court considers it necessary for the purposes of the inquiry to examine;
+
+(c) to require a person appearing at the inquiry to furnish to any other person appearing thereat, on payment of such fee, if any, as the court thinks fit, a copy of any document offered, or proposed to be offered, in evidence by the first-mentioned person;
+
+(d) to take evidence on oath, and for that purpose to administer oaths, or, instead of administering an oath, to require the person examined to make and subscribe a declaration of the truth of the matter respecting which he is examined;
+
+(e) to adjourn the inquiry from time to time; and
+
+(f) subject to the foregoing sub-paragraphs, to regulate the procedure of the court.
+
+**5** A person attending as a witness before the court shall be entitled to be paid by [[^F360]the Secretary of State] such expenses as would be allowed to a witness attending on subpoena before a court of record, and any dispute as to the amount to be so allowed shall be referred by the court to a master of the Supreme Court who, on request signed by the court, shall ascertain and certify the proper amount of the expenses.
+
+**6** The court shall make a report to [[^F361]the Secretary of State] stating the causes, circumstances and effects of the occurrence, adding any observations which the court thinks it right to make, and [[^F361]the Secretary of State] shall cause copies of the report, or so much thereof as it is not in his opinion inconsistent with the interests of national security to disclose, to be laid before Parliament.
+
+**7** If any person—
+
+(a) without reasonable excuse (proof whereof shall lie on him), and after having the expenses (if any) to which he is entitled tendered to him, fails to comply with any summons or requisition of the court; or
+
+(b) does any other thing which would, if the court had been a court of law having power to commit for contempt, have been contempt of that court,
+
+the court may, by instrument signed by the court, certify the offence of that person to the High Court [[^F362]and the High Court] may thereupon inquire into the alleged offence and after hearing any witnesses who may be produced against or on behalf of the person charged with the offence, and after hearing any statement that may be offered in defence, punish or take steps for the punishment of that person in like manner as if he had been guilty of contempt of the High Court [^F363]....
+
+**[^F364]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+---
+
+[^F1]: S. 1 substituted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 17; S.I. 2014/251, art. 4
+[^F2]: S. 1(2A)(2B) inserted (10.9.2024) by Energy Act 2023 (c. 52), ss. 156(2), 334(1); S.I. 2024/890, reg. 2(a)
+[^F3]: S. 1(7A) inserted (E.W.) (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 3(2)(a)
+[^F4]: Words in s. 1(8) omitted (E.W.) (7.2.2023 at 12.00 p.m.) by virtue of The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 3(2)(b)
+[^F5]: Words in s. 1(8)(b) omitted (E.W.) (7.2.2023 at 12.00 p.m.) by virtue of The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 3(2)(c)
+[^F6]: Words in s. 1(8)(b) omitted (E.W.) (7.2.2023 at 12.00 p.m.) by virtue of The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 3(2)(c)
+[^F7]: Words in s. 1(10) substituted (28.4.2022) by The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1), Sch. Pt. 1
+[^F8]: Words in s. 1(10) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1 table
+[^F9]: Word in s. 1(10) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 3(2)(d)
+[^F10]: S. 1(12) inserted (10.9.2024) by Energy Act 2023 (c. 52), ss. 302(2), 334(1); S.I. 2024/890, reg. 2(d)
+[^F11]: Words repealed by Atomic Energy Authority Act 1971 (c. 11), s. 17(1)
+[^F12]: Words inserted by Atomic Energy Authority Act 1971 (c. 11), s. 17(1)
+[^F13]: S. 2(1A)–(1D) added by Atomic Energy Authority Act 1971 (c. 11), s. 17(1)
+[^F14]: Words substituted by Atomic Energy Authority Act 1971 (c. 11), s. 17(2)
+[^F15]: S. 3 substituted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 18; S.I. 2014/251, art. 4
+[^F16]: Words in s. 3(8)(a) inserted (16.12.2025) by The Infrastructure (Wales) Act 2024 (Consequential Amendments) Order 2025 (S.I. 2025/1330), arts. 1(3), 2
+[^F17]: Words in s. 3(14)(a) substituted (E.W.) (1.1.2017) by The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154), reg. 1(1), Sch. 29 para. 2(2) (with regs. 1(3), 77-79, Sch. 4)
+[^F18]: Words in s. 3(14)(b) omitted (S.) (1.9.2018) by virtue of The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219), reg. 1, sch. 6 para. 1(2)(a) (with reg. 78, sch. 5 para. 2)
+[^F19]: S. 3(14)(c) inserted (S.) (1.9.2018) by The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219), reg. 1, sch. 6 para. 1(2)(b) (with reg. 78, sch. 5 para. 2)
+[^F20]: S. 4 substituted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 19; S.I. 2014/251, art. 4
+[^F21]: Words in s. 4(3)(d) substituted (E.W.) (1.1.2017) by The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154), reg. 1(1), Sch. 29 para. 2(3)(a) (with regs. 1(3), 77-79, Sch. 4)
+[^F22]: Words in s. 4(3)(d) inserted (S.) (1.9.2018) by The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219), reg. 1, sch. 6 para. 1(3) (with reg. 78, sch. 5 para. 2)
+[^F23]: Words in s. 4(7)(a) substituted (E.W.) (1.1.2017) by The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154), reg. 1(1), Sch. 29 para. 2(3)(b) (with regs. 1(3), 77-79, Sch. 4)
+[^F24]: Words in s. 4(7)(b) omitted (S.) (1.9.2018) by virtue of The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219), reg. 1, sch. 6 para. 1(4)(a) (with reg. 78, sch. 5 para. 2)
+[^F25]: S. 4(7)(c) inserted (S.) (1.9.2018) by The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219), reg. 1, sch. 6 para. 1(4)(b) (with reg. 78, sch. 5 para. 2)
+[^F26]: S. 4(10A) inserted (E.W.) (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 3(3)(a)
+[^F27]: Words in s. 4(11) omitted (E.W.) (7.2.2023 at 12.00 p.m.) by virtue of The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 3(3)(b)
+[^F28]: Words in s. 4(11)(b) omitted (E.W.) (7.2.2023 at 12.00 p.m.) by virtue of The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 3(3)(c)
+[^F29]: Words in s. 4(11)(b) omitted (E.W.) (7.2.2023 at 12.00 p.m.) by virtue of The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 3(3)(c)
+[^F30]: Words in s. 4(13) substituted (28.4.2022) by The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1), Sch. Pt. 1
+[^F31]: Words in s. 4(13) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1 table
+[^F32]: Word in s. 4(13) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 3(3)(d)
+[^F33]: S. 5 substituted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 20; S.I. 2014/251, art. 4
+[^F34]: S. 5(9A) inserted (E.W.) (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 3(4)(a)
+[^F35]: Words in s. 5(10) omitted (E.W.) (7.2.2023 at 12.00 p.m.) by virtue of The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 3(4)(b)
+[^F36]: Words in s. 5(10)(b) omitted (E.W.) (7.2.2023 at 12.00 p.m.) by virtue of The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 3(4)(c)
+[^F37]: Words in s. 5(10)(b) omitted (E.W.) (7.2.2023 at 12.00 p.m.) by virtue of The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 3(4)(c)
+[^F38]: Words in s. 5(13) substituted (28.4.2022) by The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1), Sch. Pt. 1
+[^F39]: Words in s. 5(13) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1 table
+[^F40]: Word in s. 5(13) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 3(4)(d)
+[^F41]: S. 6 substituted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 21; S.I. 2014/251, art. 4
+[^F42]: Words in s. 6 heading inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 4(1)(d) (with art. 40)
+[^F43]: Words in s. 6(1) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 4(1)(a) (with art. 40)
+[^F44]: Words in s. 6(2)(a) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 4(1)(b) (with art. 40)
+[^F45]: S. 6(2)(aa) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 4(1)(c) (with art. 40)
+[^F46]: S. 7(1)-(1E) substituted for s. 7(1) (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 3(2) (with art. 40)
+[^F47]: S. 7(2) omitted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by virtue of The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 3(3) (with art. 40)
+[^F48]: S. 7(3)-(3B) substituted for s. 7(3) (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 3(4) (with art. 40)
+[^F49]: S. 7(4) inserted by S.I. 1990/1918, reg. 2, Sch. para. 2(b)
+[^F50]: S. 7A inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 3(5) (with art. 40)
+[^F51]: S. 7B inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 4(2) (with art. 40)
+[^F52]: S. 7B(2B) inserted (2.12.2025) by Energy Act 2023 (c. 52), ss. 304(2)(a), 334(1); S.I. 2025/1173, reg. 2
+[^F53]: S. 7B(3)(e) inserted (2.12.2025) by Energy Act 2023 (c. 52), ss. 304(2)(b), 334(1); S.I. 2025/1173, reg. 2
+[^F54]: S. 7B(3A) inserted (2.12.2025) by Energy Act 2023 (c. 52), ss. 304(2)(c), 334(1); S.I. 2025/1173, reg. 2
+[^F55]: Words in s. 7B(4) substituted (2.12.2025) by Energy Act 2023 (c. 52), ss. 304(2)(d), 334(1); S.I. 2025/1173, reg. 2
+[^F56]: S. 7B(7A) inserted (2.12.2025) by Energy Act 2023 (c. 52), ss. 304(2)(e), 334(1); S.I. 2025/1173, reg. 2
+[^F57]: Words in s. 7B(9) inserted (2.12.2025) by Energy Act 2023 (c. 52), ss. 304(2)(f)(i), 334(1); S.I. 2025/1173, reg. 2
+[^F58]: Words in s. 7B(9) omitted (2.12.2025) by virtue of Energy Act 2023 (c. 52), ss. 304(2)(f)(ii), 334(1); S.I. 2025/1173, reg. 2
+[^F59]: Ss. 7C, 7D inserted (11.1.2024 for specified purposes, 2.12.2025 in so far as not already in force) by Energy Act 2023 (c. 52), ss. 304(3), 334(1); S.I. 2024/32, reg. 2(e); S.I. 2025/1173, reg. 2
+[^F60]: Words in s. 8 substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 5(a) (with art. 40)
+[^F61]: Words inserted by S.I. 1990/1918, reg. 2, Sch. para. 3
+[^F62]: Words in s. 8 substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 5(b) (with art. 40)
+[^F63]: S. 9(1): s. 9 renumbered as s. 9(1) (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 6(2) (with art. 40)
+[^F64]: Words in s. 9(1) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 6(3) (with art. 40)
+[^F65]: S. 9(2)-(5) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 6(4) (with art. 40)
+[^F66]: S. 10(1)(1A) substituted for s. 10(1) (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562) , arts. 1(2) , 7(2) (with art. 40 )
+[^F67]: S. 10(2)-(4) substituted for s. 10(2) (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562) , arts. 1(2) , 7(3) (with art. 40 )
+[^F68]: Ss. 11A-11F and cross-heading inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 8(1) (with art. 40)
+[^F69]: S. 11G and cross-heading inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 9 (with art. 40)
+[^F70]: S. 11H and cross-heading inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 10 (with art. 40)
+[^F71]: Words in s. 12 heading omitted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by virtue of The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 11(8) (with art. 40)
+[^F72]: S. 12(1)-(1G) substituted for s. 12(1) (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 11(2) (with art. 40)
+[^F73]: S. 12(2) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 11(3) (with art. 40)
+[^F74]: Words in s. 12(3) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 11(4)(a) (with art. 40)
+[^F75]: Words in s. 12(3) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 11(4)(b) (with art. 40)
+[^F76]: S. 12(3A) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 11(5) (with art. 40)
+[^F77]: S. 12(3B) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 11(6) (with art. 40)
+[^F78]: Words in s. 12(4) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 11(7) (with art. 40)
+[^F79]: S. 12(4)(*a*) repealed by Carriage of Goods by Sea Act 1971 (c. 19), s. 6(3)(*b*)(5)
+[^M1]: 1932 c. 36.
+[^M2]: 1961 c. 27.
+[^M3]: 1962 c. 43.
+[^F80]: S. 13(1)-(1E) substituted for s. 13(1) (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 12(2) (with art. 40)
+[^F81]: Word in s. 13(2) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 12(3)(a) (with art. 40)
+[^F82]: Words in s. 13(2) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 12(3)(b) (with art. 40)
+[^F83]: S. 13(2A) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 12(4) (with art. 40)
+[^F84]: Words in s. 13(3) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 12(5)(a) (with art. 40)
+[^F85]: Words in s. 13(3) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 12(5)(b) (with art. 40)
+[^F86]: S. 13(4)(4A) substituted for s. 13(4) (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 12(6) (with art. 40)
+[^F87]: S. 13(5)-(5ZB) substituted for s. 13(5) (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 13(2) (with art. 40)
+[^F88]: S. 13(5A) inserted by Energy Act 1983 (c. 25, SIF 44:1), s. 27(3)
+[^F89]: Words in s. 13(5A) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 13(3) (with art. 40)
+[^F90]: Word in s. 13(5A) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(2)
+[^F91]: S. 13(6)(7) substituted for s. 13(6) (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 14 (with art. 40)
+[^F92]: S. 13A inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 15 (with art. 40)
+[^F93]: Words in s. 14(1) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 16(2) (with art. 40)
+[^M4]: 1956 c. 46.
+[^F94]: Words repealed by Merchant Shipping Act 1979 (c. 39, SIF 111), ss. 50(4), Sch. 7 Pt. 1
+[^F95]: S. 14(1A) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 16(3) (with art. 40)
+[^F96]: S. 15(1)(1A) substituted for s. 15(1) (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 17(2) (with art. 40)
+[^F97]: S. 15(2) omitted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by virtue of The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 18(1) (with art. 40)
+[^F98]: S. 15(3)-(8) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 17(3) (with art. 40)
+[^F99]: S. 16(1)-(1ZB) substituted for s. 16(1) (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(5), 19(2) (with art. 40)
+[^F100]: Words in s. 16(1ZA) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(3)(a)
+[^F101]: S. 16(1ZAA) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(3)(b)
+[^F102]: S. 16(1A) inserted by Energy Act 1983 (c. 25, SIF 44:1), s. 27(2)
+[^F103]: Words in s. 16(1A) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(5), 19(3)(a) (with art. 40)
+[^F104]: Words in s. 16(1A) substituted (1.1.2026) by The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(3)(c)
+[^F105]: Words in s. 16(1A) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(5), 19(3)(b) (with art. 40)
+[^F106]: Words in s. 16(2) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(5), 19(4)(a) (with art. 40)
+[^F107]: Word in s. 16(2)(a) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(5), 19(4)(b) (with art. 40)
+[^F108]: S. 16(3)-(3F) substituted for s. 16(3) (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 20(2) (with art. 40)
+[^F109]: Words in s. 16(3)(a) inserted (coming into force in accordance with s. 334(4) of the amending Act) by Energy Act 2023 (c. 52), Sch. 22 para. 2(5)
+[^F110]: Word in s. 16(3)(a) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(3)(d)
+[^F111]: Words in s. 16(3B) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(3)(e)(i)
+[^F112]: Word in s. 16(3B) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(3)(e)(ii)
+[^F113]: Words in s. 16(3B) inserted (coming into force in accordance with s. 334(4) of the amending Act) by Energy Act 2023 (c. 52), Sch. 22 para. 2(6)(c)
+[^F114]: S. 16(3BA)-(3BE) inserted (coming into force in accordance with s. 334(4) of the amending Act) by Energy Act 2023 (c. 52), Sch. 22 para. 2(7)
+[^F115]: Word in s. 16(3BA) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(3)(f)
+[^F116]: Word in s. 16(3BB) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(3)(f)
+[^F117]: Word in s. 16(3BC) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(3)(f)
+[^F118]: S. 16(3BD) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(3)(g)
+[^F119]: Words in s. 16(3C)(a) inserted (coming into force in accordance with s. 334(4) of the amending Act) by Energy Act 2023 (c. 52), Sch. 22 para. 2(8)
+[^F120]: Word in s. 16(3D)(b)(i) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(3)(h)(i)
+[^F121]: Word in s. 16(3D)(b)(ii) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(3)(h)(i)
+[^F122]: Words in s. 16(3D)(b)(iii) inserted (coming into force in accordance with s. 334(4) of the amending Act) by Energy Act 2023 (c. 52), Sch. 22 para. 2(9)(b)
+[^F123]: Word in s. 16(3D)(b)(iii) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(3)(h)(ii)
+[^F124]: Words in s. 16(4) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 20(3)(a) (with art. 40)
+[^F125]: Words in s. 16(4) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 20(3)(b) (with art. 40)
+[^F126]: S. 16(5) omitted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by virtue of The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 20(4) (with art. 40)
+[^F127]: S. 16(6)(7) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(5), 19(5) (with art. 40)
+[^F128]: S. 16(8) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 20(5) (with art. 40)
+[^F129]: S. 16A inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 21 (with art. 40)
+[^F130]: Words in s. 16A(7)(b) substituted (coming into force in accordance with s. 334(4) of the amending Act) by Energy Act 2023 (c. 52), Sch. 22 para. 3
+[^F131]: S. 16AA inserted (coming into force in accordance with s. 334(4) of the amending Act) by Energy Act 2023 (c. 52), Sch. 22 para. 4
+[^F132]: S. 16AA(4)-(6) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(4)
+[^F133]: S. 16B inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 22 (with art. 40)
+[^F134]: S. 16C inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 23 (with art. 40)
+[^F135]: Words in s. 17(1) omitted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by virtue of The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 24(2)(a) (with art. 40)
+[^F136]: Words in s. 17(1) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 24(2)(b) (with art. 40)
+[^F137]: Words in s. 17(1) omitted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by virtue of The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 24(2)(c) (with art. 40)
+[^F138]: Words in s. 17(1) omitted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by virtue of The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 24(2)(d) (with art. 40)
+[^F139]: S. 17(2) omitted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by virtue of The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 24(3) (with art. 40)
+[^F140]: Word in s. 17(3) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 25(2)(a) (with art. 40)
+[^F141]: Words in s. 17(3) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 25(2)(b) (with art. 40)
+[^F142]: Words in s. 17(3) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 25(2)(c) (with art. 40)
+[^M5]: 1933 c. 13.
+[^F143]: Words in s. 17(3)(a) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 25(2)(d) (with art. 40)
+[^F144]: Words in s. 17(3)(b) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 25(2)(e) (with art. 40)
+[^F145]: Words in s. 17(3)(b) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by arts. 1(2)The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), , 25(2)(f) (with art. 40)
+[^F146]: S. 17(3A)(3B) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 25(3) (with art. 40)
+[^F147]: Word in s. 17(3B)(a) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(5)
+[^F148]: Word in s. 17(3B)(b) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(5)
+[^F149]: Words in s. 17(4) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 25(4)(a) (with art. 40)
+[^F150]: Words in s. 17(4) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 25(4)(b) (with art. 40)
+[^F151]: Words in s 17(5) inserted by Energy Act 1983 (c. 25, SIF 44:1), ss. 31, 37(3)
+[^F152]: Words in s. 17(5) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 25(5)(a) (with art. 40)
+[^F153]: Words in s. 17(5)(a) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 25(5)(b) (with art. 40)
+[^F154]: Words in s. 17(5)(b) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 25(5)(c) (with art. 40)
+[^F155]: S. 17(5A) inserted by Energy Act 1983 (c. 25, SIF 44:1), s. 31
+[^F156]: S. 17(7) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 24(4) (with art. 40)
+[^F157]: S. 17A inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 26 (with art. 40)
+[^F158]: S. 17B inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 27(1) (with art. 40)
+[^F159]: S. 17C inserted (4.5.2016 coming into force in accordance with art. 1(2)-(5)) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 27(2) (with art. 40)
+[^F160]: S. 17D inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 28 (with art. 40)
+[^F161]: S. 17E inserted (4.5.2016 coming into force in accordance with art. 1(2)-(5)) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 29 (with art. 40)
+[^F162]: Words in s. 18(1) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 30(2)(a) (with art. 40)
+[^F163]: Word in s. 18(1) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 30(2)(b) (with art. 40)
+[^F164]: Words in s. 18(1) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 30(2)(c) (with art. 40)
+[^F165]: Words in s. 18(1)(a) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 30(2)(d) (with art. 40)
+[^F166]: S. 18(1)(c) and preceding word inserted by Atomic Energy Act 1989 (c. 7, SIF 8), s. 3
+[^F167]: Words in s. 18(1) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 30(2)(e) (with art. 40)
+[^F168]: Words substituted by Energy Act 1983 (c. 25, SIF 44:1), s. 28(1)(*b*)
+[^F169]: S. 18(1ZA)(1ZB) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 30(3) (with art. 40)
+[^F170]: S. 18(1A)(1B) inserted by Energy Act 1983 (c. 25, SIF 44:1), s. 28(2)
+[^F171]: Words in s. 18(1A) substituted (coming into force in accordance with s. 334(4) of the amending Act) by Energy Act 2023 (c. 52), Sch. 22 para. 6(2)
+[^F172]: Words in s. 18(1A)(a) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 30(4)(b) (with art. 40)
+[^F173]: Words in s. 18(1A)(b) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 30(4)(c) (with art. 40)
+[^F174]: Word in s. 18(1B) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 30(5)(a) (with art. 40)
+[^F175]: Words in s. 18(1B) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 30(5)(b) (with art. 40)
+[^F176]: S. 18(1C) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 30(6) (with art. 40)
+[^F177]: S. 18(1D)(1E) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 30(7) (with art. 40)
+[^F178]: Word in s. 18(1D)(a) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(6)(a)(i)
+[^F179]: Word in s. 18(1D)(b) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(6)(a)(i)
+[^F180]: Words in s. 18(1D)(c) inserted (coming into force in accordance with s. 334(4) of the amending Act) by Energy Act 2023 (c. 52), Sch. 22 para. 6(3)(b)
+[^F181]: Word in s. 18(1D)(c) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(6)(a)(ii)
+[^F182]: S. 18(2)(a)-(c)(2A) and word substituted for words (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 31(2) (with art. 40)
+[^F183]: S. 18(4)(4A)(4B) substituted for s. 18(4) by Energy Act 1983 (c. 25, SIF 44:1), s. 28(3)
+[^F184]: Words in s. 18(4) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 31(3) (with art. 40)
+[^F185]: S. 18(4ZA) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 31(4) (with art. 40)
+[^F186]: S. 18(4A) omitted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by virtue of The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 31(5) (with art. 40)
+[^F187]: Words in s. 18(4B) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 31(6)(a) (with art. 40)
+[^F188]: Words in s. 18(4B) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 31(6)(b) (with art. 40)
+[^F189]: Words in s. 18(4B)(a) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 31(6)(c) (with art. 40)
+[^F190]: Words in s. 18(4B)(b) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 31(6)(c) (with art. 40)
+[^F191]: Words in s. 18(4B)(b) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 31(6)(d) (with art. 40)
+[^F192]: Words in s. 18(4B)(b) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(6)(b)
+[^F193]: S. 18(5A) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 30(8) (with art. 40)
+[^F194]: S. 18(6) omitted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by virtue of The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 30(9) (with art. 40)
+[^F195]: Word in s. 19 heading substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 32(12)(a) (with art. 40)
+[^F196]: Words in s. 19 heading inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 32(12)(b) (with art. 40)
+[^F197]: Words in s. 19(1) substituted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 22; S.I. 2014/251, art. 4
+[^F198]: Words in s. 19(1) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 32(2)(a) (with art. 40)
+[^F199]: Words in s. 19(1) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 32(2)(b) (with art. 40)
+[^F200]: Words substituted by Energy Act 1983 (c. 25, SIF 44:1), s. 27(4)
+[^F201]: Words in s. 19(1) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 32(2)(c) (with art. 40)
+[^F202]: Words in s. 19(1)(b) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 32(2)(d) (with art. 40)
+[^F203]: Words in s. 19(1)(c) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 32(2)(e) (with art. 40)
+[^F204]: Words in s. 19(1) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 32(2)(f) (with art. 40)
+[^F205]: S. 19(1A)(1B) substituted for s. 19(1A) (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 32(3) (with art. 40)
+[^F206]: Words substituted (*retrospectively*) by virtue of Atomic Energy Act 1989 (c. 7, SIF 8), s. 4(1)(a), (2)
+[^F207]: Words in s. 19(2) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 32(4) (with art. 40)
+[^F208]: S. 19(2A) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 32(5) (with art. 40)
+[^F209]: S. 19(2B) inserted (*retrospectively*) by Atomic Energy Act 1989 (c. 7, SIF 8), s. 4(1)(b), (2)
+[^F210]: S. 19(2C)(2D) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 32(6) (with art. 40)
+[^F211]: S. 19(2E) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 32(7) (with art. 40)
+[^F212]: Words in s. 19(3) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 32(8) (with art. 40)
+[^F213]: Words in s. 19(4) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 32(9)(a) (with art. 40)
+[^F214]: Words in s. 19(4) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 32(9)(b) (with art. 40)
+[^F215]: Words in s. 19(4) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 32(9)(c) (with art. 40)
+[^F216]: Words in s. 19(4) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 32(9)(d) (with art. 40)
+[^F217]: S. 19(6) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 32(10) (with art. 40)
+[^F218]: S. 19(7) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 32(11) (with art. 40)
+[^F219]: Words in s. 20 heading inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 33(8) (with art. 40)
+[^F220]: Words in s. 20(1) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 33(2)(a) (with art. 40)
+[^F221]: S. 20(1A)-(1C) and words substituted for words in s. 20(1) (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 33(2)(b) (with art. 40)
+[^F222]: Words in s. 20(1) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 33(2)(c) (with art. 40)
+[^F223]: Words in s. 20(2) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 33(3) (with art. 40)
+[^F224]: Words in s. 20(3) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 33(4)(a) (with art. 40)
+[^F225]: Words in s. 20(3) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 33(4)(b) (with art. 40)
+[^F226]: Words in s. 20(3) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 33(4)(c) (with art. 40)
+[^F227]: Words in s. 20(4) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 33(5) (with art. 40)
+[^F228]: S. 20(5) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 33(6) (with art. 40)
+[^F229]: S. 20(5A) inserted (2.12.2025) by Energy Act 2023 (c. 52), ss. 304(4), 334(1); S.I. 2025/1173, reg. 2
+[^F230]: S. 20(6) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 33(7) (with art. 40)
+[^F231]: S. 20A inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(4), 34(1) (with arts. 34(3), 40)
+[^F232]: S. 20B inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(4), 34(2) (with art. 40)
+[^F233]: Words in s. 21(1) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(5), 35(2)(a) (with art. 40)
+[^F234]: Word in s. 21(1)(a) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(5), 35(2)(b) (with art. 40)
+[^F235]: Words in s. 21(1)(b) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(5), 35(2)(c) (with art. 40)
+[^F236]: Words substituted by Energy Act 1983 (c. 25, SIF 44:1), s. 29(1)(4)
+[^F237]: Words in s. 21(1) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(5), 35(2)(d) (with art. 40)
+[^F238]: Words in s. 21(1) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(5), 35(2)(e) (with art. 40)
+[^F239]: S. 21(1ZA) and words substituted for words (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(5), 35(2)(f) (with art. 40)
+[^F240]: S. 21(1A) inserted by Energy Act 1983 (c. 25, SIF 44:1), s. 29(2)(4)
+[^F241]: Word in s. 21(1A) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(5), 35(3)(a) (with art. 40)
+[^F242]: Words in s. 21(1A) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(5), 35(3)(b) (with art. 40)
+[^F243]: Words in s. 21(2) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(5), 35(4)(a) (with art. 40)
+[^F244]: Words in s. 21(2) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(5), 35(4)(b) (with art. 40)
+[^F245]: Words in s. 21(3)(a) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(5), 35(5)(a) (with art. 40)
+[^F246]: Word in s. 21(3)(a) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(5), 35(5)(b) (with art. 40)
+[^F247]: Words substituted by virtue of (E. W.) Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 38, 46 and (S.) Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1), ss. 289F, 289G and (N.I.) by S.I. 1984/703 (N.I. 3), arts. 5(2), 9
+[^F248]: Words in s. 21(4)(a) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(5), 35(6)(a) (with art. 40)
+[^F249]: Words in s. 21(4)(b) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(5), 35(6)(b) (with art. 40)
+[^F250]: Words in s. 21(4)(c) inserted (1.7.1999) by S.I. 1999/1820, arts. 1(2), 4, Sch. 2 Pt I para. 38(3) (with art. 5); S.I. 1998/3178, art. 3
+[^F251]: S. 21(4A) inserted by Energy Act 1983 (c. 25, SIF 44:1), s. 29(3)(4)
+[^F252]: S. 21(4B) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(5), 35(7) (with art. 40)
+[^M6]: 1960 c. 16.
+[^F253]: Words inserted by S.I. 1987/2171, reg. 5 and by S.R. (N.I.) 1989/84, reg. 5
+[^F254]: Word in s. 21(5) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(5), 35(8) (with art. 40)
+[^F255]: S. 22 substituted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 23; S.I. 2014/251, art. 4
+[^F256]: S. 22(3A) inserted (E.W.) (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 3(5)(a)
+[^F257]: Words in s. 22(4) omitted (E.W.) (7.2.2023 at 12.00 p.m.) by virtue of The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 3(5)(b)
+[^F258]: Words in s. 22(4)(b) omitted (E.W.) (7.2.2023 at 12.00 p.m.) by virtue of The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 3(5)(c)
+[^F259]: Words in s. 22(4)(b) omitted (E.W.) (7.2.2023 at 12.00 p.m.) by virtue of The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 3(5)(c)
+[^F260]: Words in s. 22(6) substituted (28.4.2022) by The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1), Sch. Pt. 1
+[^F261]: Words in s. 22(6) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1 table
+[^F262]: Word in s. 22(6) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 3(5)(d)
+[^F263]: Words in s. 23 heading inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 36(4) (with art. 40)
+[^F264]: Words in s. 23(1) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 36(2) (with art. 40)
+[^F265]: Words in s. 23(2) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 36(3)(a) (with art. 40)
+[^F266]: Words in s. 23(2)(a) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 36(3)(b) (with art. 40)
+[^F267]: Words in s. 23(2)(b) inserted (1.7.1999) by S.I. 1999/1756, arts. 1(1), 2, Sch. para. 2
+[^F268]: S. 23(2)(c) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 36(3)(c) (with art. 40)
+[^F269]: S. 24 beginning "The Secretary of State" is substituted for S.24 beginning "The Minister may appoint" (E.W.)(S.) by S.I. 1974/2056
+[^F270]: Words in s. 24 substituted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 24; S.I. 2014/251, art. 4
+[^M7]: 1974 c. 37.
+[^F271]: S. 24(3) (*a*) (as applicable E. W. S.) substituted by Atomic Energy Act 1989 (c.7, SIF 8), s. 6(1)(a)
+[^F272]: S. 24(3)(*b*) (as applicable E.W.S.) the words “whenever incurred” and subparagraph (ii) repealed by Atomic Energy Act 1989 (c. 7, SIF 8), s. 6(1)(b)
+[^F273]: S. 24(3)(*b*) (as applicable E.W.S.) “exercise by the Secretary of State of his powers under the said subsection (1)” substituted for “enforcement or execution of this Act” by Atomic Energy Act 1989 (c. 7, SIF 8), s. 6(1)(b)
+[^F274]: S. 24(3) (as applicable E. W. S.)the words from “except” to the end repealed by Atomic Energy Act 1989 (c. 7, SIF 8), s. 6(1)(c)
+[^F275]: Words in s. 24(3) inserted (1.7.1999) by S.I. 1999/1820, arts. 1(2), 4, Sch. 2 Pt. I para. 38(4) (with art. 5); S.I. 1998/3178, art. 3
+[^F276]: S. 24A inserted by Atomic Energy Act 1989 (c. 7, SIF 8), s. 2(1)–(3)
+[^F277]: Words in s. 24A heading substituted (E.W.S.) (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 25(5); S.I. 2014/251, art. 4
+[^F278]: S. 24(1) substituted (1.4.2008) by Legislative Reform (Health and Safety Executive) Order 2008 S.I. 960, Sch. 3
+[^F279]: Words in s. 24A(1) substituted (E.W.S.) (1.4.2014) by virtue of Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 25(2)(a); S.I. 2014/251, art. 4
+[^F280]: Words in s. 24A(1)(a) substituted (E.W.S.) (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 25(2)(b); S.I. 2014/251, art. 4
+[^F281]: Word in s. 24A(2) substituted (E.W.S.) (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 25(3)(a); S.I. 2014/251, art. 4
+[^F282]: Words in s. 24A(2) substituted (E.W.S.) (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 25(3)(b); S.I. 2014/251, art. 4
+[^F283]: Word in s. 24A(3)(4) substituted (E.W.S.) (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 25(4); S.I. 2014/251, art. 4; S.I. 2014/251, art. 4
+[^F284]: Word in ss. 24A(6)-(8) substituted (E.W.S.) (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 25(4); S.I. 2014/251, art. 4
+[^F285]: Words “section” to “19(5)” substituted for words “any” to “provisions” (E.W.)(S.) by S.I. 1974/2056
+[^F286]: Words in s. 25(1) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 32(13)(a) (with art. 40)
+[^F287]: Words in s. 25(1) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 32(13)(b) (with art. 40)
+[^F288]: Words repealed (E.W.)(S.) by S.I. 1974/2056
+[^F289]: Words inserted by S.I. 1974/2056
+[^F290]: Ss. 25A, 25B inserted by Energy Act 1983 (c. 25, SIF 44:1), s. 30
+[^F291]: S. 25B substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 37 (with art. 40)
+[^F292]: S. 25C omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(7)
+[^F293]: Definitions of "the appropriate environment authority" and "the appropriate national authority" in s. 26(1) substituted for definition of “the appropriate Agency” (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 26(2); S.I. 2014/251, art. 4
+[^F294]: Words in s. 26(1) inserted (10.9.2024) by Energy Act 2023 (c. 52), ss. 302(3)(a), 334(1); S.I. 2024/890, reg. 2(d)
+[^F295]: Words in s. 26(1) inserted (10.9.2024) by Energy Act 2023 (c. 52), ss. 302(3)(b), 334(1); S.I. 2024/890, reg. 2(d)
+[^F296]: Definitions in s. 26(1) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 38(3) (with art. 40)
+[^M8]: 1946 c. 80.
+[^F297]: Words in s. 26(1) inserted (coming into force in accordance with s. 334(4) of the amending Act) by Energy Act 2023 (c. 52), Sch. 22 para. 8(2)(a)
+[^F298]: Words in s. 26(1) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(8)(a)
+[^F299]: Words in s. 26(1) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(8)(b)
+[^F300]: Words in s. 26(1) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(8)(b)
+[^F301]: Words substituted by Energy Act 1983 (c. 25, SIF 44:1), s. 32
+[^F302]: Words in s. 26(1) inserted (2.12.2025) by Energy Act 2023 (c. 52), ss. 304(5), 334(1); S.I. 2025/1173, reg. 2
+[^F303]: S. 26(1): Definition of "inspector" omitted (1.4.2014) by virtue of Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 26(3); S.I. 2014/251, art. 4
+[^F304]: Words in s. 26(1) inserted (coming into force in accordance with s. 334(4) of the amending Act) by Energy Act 2023 (c. 52), Sch. 22 para. 8(2)(c)
+[^F305]: S. 26(1): Words in definition of “nuclear site licence" substituted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 26(4); S.I. 2014/251, art. 4
+[^F306]: Words in s. 26(1) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 38(2)(a)(i) (with art. 40)
+[^F307]: Words in s. 26(1) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(8)(b)
+[^F308]: Words in s. 26(1) omitted (1.1.2026) by virtue of The Nuclear Installations (Compensation for Nuclear Damage) (Amendment) Regulations 2025 (S.I. 2025/915), regs. 1(2), 2(8)(b)
+[^F309]: Words in s. 26(1) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 38(2)(a)(ii) (with art. 40)
+[^F310]: Word in s. 26(1) omitted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by virtue of The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 38(2)(a)(iii) (with art. 40)
+[^F311]: Words in s. 26(1) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 38(2)(a)(iv) (with art. 40)
+[^F312]: S. 26(1): Definition of "ONR" inserted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 26(5); S.I. 2014/251, art. 4
+[^F313]: Words in s. 26(1) inserted (coming into force in accordance with s. 334(4) of the amending Act) by Energy Act 2023 (c. 52), Sch. 22 para. 8(2)(e)
+[^F314]: S. 26(1): Words in definition of “period of responsibility” substituted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 26(6); S.I. 2014/251, art. 4
+[^F315]: Words in s. 26(1) substituted (15.11.1999) by S.I. 1999/2786, art. 3(1)
+[^F316]: Words in s. 26(1) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 38(2)(b)(i) (with art. 40)
+[^F317]: Words in s. 26(1) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 38(2)(b)(ii) (with art. 40)
+[^F318]: Words in s. 26(1) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 38(2)(c)(i) (with art. 40)
+[^F319]: Words in s. 26(1) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 38(2)(c)(ii) (with art. 40)
+[^F320]: Words in s. 26(1) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 38(2)(d) (with art. 40)
+[^F321]: Word in s. 26(1) substituted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 38(2)(e) (with art. 40)
+[^F322]: S. 26(1A)-(1D) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 38(4) (with art. 40)
+[^F323]: Words in s. 26(1A)(a) substituted (coming into force in accordance with s. 334(4) of the amending Act) by Energy Act 2023 (c. 52), Sch. 22 para. 8(3)(a)
+[^F324]: Word in s. 26(1A)(a)(i) substituted (coming into force in accordance with s. 334(4) of the amending Act) by Energy Act 2023 (c. 52), Sch. 22 para. 8(3)(b)(i)
+[^F325]: Word in s. 26(1A)(a)(i) substituted (coming into force in accordance with s. 334(4) of the amending Act) by Energy Act 2023 (c. 52), Sch. 22 para. 8(3)(b)(ii)
+[^F326]: Word in s. 26(1A)(a)(i) substituted (coming into force in accordance with s. 334(4) of the amending Act) by Energy Act 2023 (c. 52), Sch. 22 para. 8(3)(b)(iii)
+[^F327]: Word in s. 26(1A)(a)(ii) substituted (coming into force in accordance with s. 334(4) of the amending Act) by Energy Act 2023 (c. 52), Sch. 22 para. 8(3)(c)
+[^F328]: S. 26(1E) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 38(5) (with art. 40)
+[^F329]: S. 26(2A) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 38(6) (with art. 40)
+[^F330]: S. 26(2B) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 38(7) (with art. 40)
+[^F331]: Words in s. 26(3) inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 38(8)(a) (with art. 40)
+[^F332]: Word in s. 26(3)(a) omitted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by virtue of The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 38(8)(b) (with art. 40)
+[^F333]: Word in s. 26(3)(b) omitted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by virtue of The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 38(8)(c) (with art. 40)
+[^F334]: S. 26(3)(c)-(h) substituted for s. 26(3)(c) (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), arts. 1(2), 38(8)(d) (with art. 40)
+[^F335]: S. 27(1) substituted (5.10.2004) by Energy Act 2004 (c. 20) , ss. 78(3) , 198(2) ; S.I. 2004/2575 , art. 2(1) , Sch. 1
+[^F336]: S. 27(1)(b)(c) omitted (1.4.2014) by virtue of Energy Act 2013 (c. 32) , s. 156(1) , Sch. 12 para. 27 ; S.I. 2014/251 , art. 4 ; S.I. 2014/251 , art. 4
+[^F337]: S. 27(2)(3) repealed (5.10.2004) by Energy Act 2004 (c. 20) , ss. 78(4) , 198(2) , Sch. 23 Pt. 1 ; S.I. 2004/2575 , art. 2(1) , Sch. 1 ; S.I. 2004/2575 , art. 2(1) , Sch. 1
+[^M9]: 1960 c. 16 .
+[^M10]: 1930 c. 24 (N.I.)
+[^F338]: S. 27(5)(a)(b) substituted for s. 27(5)(a)-(c) (5.10.2004) by Energy Act 2004 (c. 20) , ss. 78(5) , 198(2) ; S.I. 2004/2575 , art. 2(1) , Sch. 1
+[^F339]: S. 27(6) repealed (5.10.2004) by Energy Act 2004 (c. 20) , ss. 78(6) , 198(2) , Sch. 23 Pt. 1 ; S.I. 2004/2575 , art. 2(1) , Sch. 1
+[^F340]: S. 27(7) repealed by Northern Ireland Constitution Act 1973 (c. 36) , s. 41(1) , Sch. 6 Pt. I
+[^F341]: S. 29(1) repealed by Statute Law (Repeals) Act 1974 (c. 22), Sch. Pt. XI
+[^M11]: 1889 c. 63.
+[^F342]: Sch. 1 inserted by Atomic Energy Authority Act 1971 (c. 11), s. 17(6), Sch.
+[^F343]: Sch. 1 para. 2 repealed by Official Secrets Act 1989 (c. 6, SIF 39:2), s. 16(4), Sch. 2
+[^M12]: 1911 c. 28.
+[^F344]: “or” and para. (*bb*) added at the end of para. (*b*) by Nuclear Safeguards and Electricity (Finance) Act 1978 (c. 25, SIF 8), s. 2(3)(*a*)
+[^F345]: Words in Sch. 1 para. 3(2)(bb) inserted (1.5.2004) by Nuclear Safeguards Act 2000 (c. 5), ss. 11(2), 12(2) (with s. 12(3)); S.I. 2004/1242, arts. 2, 3
+[^F346]: Para. 3(2)(*cc*) added (E.W.)(S.) by S.I. 1974/2056
+[^F347]: Words in Sch. 1 para. 3(2)(cc) substituted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 28; S.I. 2014/251, art. 4
+[^F348]: Words in Sch. 1 para. 3(2)(d) inserted (1.7.1999) by S.I. 1999/1820, arts. 1(2), 4, Sch. 2 Pt. I para. 38(5) (with art. 5); S.I. 1998/3178, art. 3
+[^F349]: Sch. 1 para. 4(1) repealed (1.4.2005) by Energy Act 2004 (c. 20), s. 198(2), Sch. 23 Pt. 1; S.I. 2005/877, art. 2(1), Sch. 1
+[^F350]: Sch. 1 para. 4(2) repealed by Ministry of Defence Police Act 1987 (c. 4, SIF 95), s. 7(4)(*b*)
+[^F351]: Sch. 1 para. 4(3) repealed (1.4.2005) by Energy Act 2004 (c. 20), s. 198(2), Sch. 23 Pt. 1; S.I. 2005/877, art. 2(1), Sch. 1
+[^F352]: Sch. 1 para. 7(b) repealed (1.4.2005) by Energy Act 2004 (c. 20), s. 198(2), Sch. 23 Pt. 1; S.I. 2005/877, art. 2(1), Sch. 1
+[^F353]: Sch. 1A inserted (coming into force in accordance with art. 1(2)-(5) of the amending S.I.) by The Nuclear Installations (Liability for Damage) Order 2016 (S.I. 2016/562), art. 1(2), Sch. 1 (with art. 40)
+[^F354]: Sch. 2 saved by virtue of Health and Safety at Work etc. Act 1974 (c. 37, SIF 43:3), s. 53, Sch. 1 and Highland Regional Council (Harbours) Order Confirmation Act 1991 (c. xii), s. 61(1)(f)
+[^F355]: Schedule as originally enacted re-numbered Sch. 2 by Atomic Energy Authority Act 1971 (c. 11), s.17(6)
+[^F356]: Sch. 2 heading substituted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 29(6); S.I. 2014/251, art. 4
+[^F357]: Words in Sch. 2 para. 1 substituted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 29(2); S.I. 2014/251, art. 4
+[^F358]: Words in Sch. 2 para. 1 substituted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 29(3); S.I. 2014/251, art. 4
+[^F359]: Words in Sch. 2 para. 2 substituted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 29(3); S.I. 2014/251, art. 4
+[^F360]: Words in Sch. 2 para. 5 substituted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 29(3); S.I. 2014/251, art. 4
+[^F361]: Words in Sch. 2 para. 6 substituted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 29(3); S.I. 2014/251, art. 4
+[^F362]: Words in Sch. 2 para. 7 substituted (1.4.2014) by Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 29(4)(a); S.I. 2014/251, art. 4
+[^F363]: Words in Sch. 2 para. 7 omitted (1.4.2014) by virtue of Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 29(4)(b); S.I. 2014/251, art. 4
+[^F364]: Sch. 2 para. 8 omitted (1.4.2014) by virtue of Energy Act 2013 (c. 32), s. 156(1), Sch. 12 para. 29(5); S.I. 2014/251, art. 4

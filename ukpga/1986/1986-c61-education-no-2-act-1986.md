@@ -1,0 +1,2547 @@
+---
+title: "Education (No. 2) Act 1986"
+identifier: "ukpga/1986/61"
+citation: "1986 c. 61"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1986-11-07
+last_amended: 2026-07-31
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1986/61"
+source_modified: 2026-08-12
+retrieved: 2026-10-11
+---
+
+# Education (No. 2) Act 1986
+
+**1986 c. 61**
+
+An Act to amend the law relating to education.
+
+[7th November 1986]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## [^F1]Part I
+
+### 1 Instruments of government and articles of government.
+
+(1) For every county, voluntary and maintained special school there shall be—
+
+(a) an instrument providing for the constitution of a governing body of the school (to be known as the instrument of government); and
+
+(b) an instrument in accordance with which the school is to be conducted (to be known as the articles of government).
+
+(2) The instrument of government and articles of government shall be made by order of the local education authority.
+
+(3) The instrument of government shall contain such provisions as are required either by Part II of this Act (which is concerned, among other things, with the size and composition of governing bodies and the procedures for electing members and filling vacancies) or by any other enactment.
+
+(4) The articles of government shall contain such provisions as are required either by Part III of this Act (which is concerned, among other things, with the manner in which schools are to be conducted and the allocation of functions between the local education authority, the governing body and the head teacher) or by any other enactment.
+
+(5) The instrument of government and articles of government shall—
+
+(a) contain no provision which is inconsistent with any provision made by or under this Act or any other enactment; and
+
+(b) comply with any trust deed relating to the school.
+
+(6) This section is subject to the following provisions of this Act—
+
+(a) section 9 (which provides for two or more schools to be grouped under a single governing body in certain circumstances); and
+
+(b) section 12 (which provides for certain existing, or proposed, schools to have temporary governing bodies pending the constitution of governing bodies under instruments of government).
+
+### 2 Procedure in relation to making etc. of instruments and articles.
+
+(1) Before making any order under section 1 of this Act, a local education authority shall consult the governing body and the head teacher of the school concerned.
+
+(2) Before making any such order in respect of a voluntary school, a local education authority shall—
+
+(a) secure the agreement of the governing body to the terms of the proposed order;
+
+(b) if it embodies or varies an instrument of government, secure the agreement of the foundation governors to any provisions which are of particular concern to those governors; and
+
+(c) have regard to the way in which the school has been conducted.
+
+(3) Where the governing body of any county, voluntary or maintained special school make a proposal to the local education authority for the alteration of the provision made by the instrument of government, or articles of government, for the school, it shall be the duty of the authority to consider their proposal.
+
+(4) Where—
+
+(a) the foundation governors of a voluntary school make a proposal to the local education authority for the alteration of the provision made by the instrument of government for the school; and
+
+(b) the proposal relates solely to one or more matters which are of particular concern to those governors;
+
+it shall be the duty of the authority to consider their proposal.
+
+(5) Where a local education authority—
+
+(a) propose to make an order under section 1 but cannot secure any agreement required by subsection (2) above; or
+
+(b) refuse, in the case of a voluntary school, to make such an order in response to a proposal of a kind mentioned in subsection (3) or (4) above;
+
+the authority or (as the case may be) the governing body or foundation governors may refer the matter to the Secretary of State.
+
+(6) On any reference to him under subsection (5) above, the Secretary of State shall give such direction as he thinks fit having regard, in particular, to the status of the school as a controlled, aided or (as the case may be) special agreement school.
+
+(7) Where it appears to the Secretary of State—
+
+(a) that an order, or proposed order, under section 1 is in any respect inconsistent with the provisions of any trust deed relating to the school; and
+
+(b) that it is expedient in the interests of the school that the provisions of the trust deed should be modified for the purpose of removing the inconsistency;
+
+he may by order make such modifications in the trust deed as appear to him to be just and expedient for that purpose.
+
+## [^F2]Part II
+
+### Governing bodies
+
+#### 3 Governing bodies for county, controlled and maintained special schools.
+
+(1) This section applies in relation to any county, controlled or maintained special school.
+
+(2) The instrument of government for such a school which has less than 100 registered pupils shall, subject to section 7 of this Act, provide for the governing body to consist of the following (and no others)—
+
+(a) two parent governors;
+
+(b) two governors appointed by the local education authority;
+
+(c) one teacher governor;
+
+(d) the head teacher, unless he chooses not to be a governor; and
+
+(e) either—
+
+(i) two foundation governors and one co-opted governor, in the case of a controlled school; or
+
+(ii) three co-opted governors, in any other case.
+
+(3) The instrument of government for such a school which has more than 99, but less than 300, registered pupils shall, subject to section 7, provide for the governing body to consist of the following (and no others)—
+
+(a) three parent governors;
+
+(b) three governors appointed by the local education authority;
+
+(c) one teacher governor;
+
+(d) the head teacher, unless he chooses not to be a governor; and
+
+(e) either—
+
+(i) three foundation governors and one co-opted governor, in the case of a controlled school; or
+
+(ii) four co-opted governors, in any other case.
+
+(4) The instrument of government for such a school which has more than 299, but less than 600, registered pupils shall, subject to section 7, provide for the governing body to consist of the following (and no others)—
+
+(a) four parent governors;
+
+(b) four governors appointed by the local education authority;
+
+(c) two teacher governors;
+
+(d) the head teacher, unless he chooses not to be a governor; and
+
+(e) either—
+
+(i) four foundation governors and one co-opted governor, in the case of a controlled school; or
+
+(ii) five co-opted governors, in any other case.
+
+(5) The instrument of government for such a school which has more than 599 registered pupils shall, subject to section 7, provide for the governing body to consist of the following (and no others)—
+
+(a) five parent governors;
+
+(b) five governors appointed by the local education authority;
+
+(c) two teacher governors;
+
+(d) the head teacher, unless he chooses not to be a governor; and
+
+(e) either—
+
+(i) four foundation governors and two co-opted governors, in the case of a controlled school; or
+
+(ii) six co-opted governors, in any other case.
+
+(6) Where the instrument of government so provides, a school to which subsection (5) above would otherwise apply shall be treated for the purposes of this section as one to which subsection (4) above applies.
+
+(7) Where the head teacher is a governor he shall be treated for all purposes as being an ex officio governor.
+
+#### 4 Governing bodies for aided and special agreement schools.
+
+(1) This section applies in relation to any aided or special agreement school.
+
+(2) The instrument of government for such a school shall provide for the governing body to include—
+
+(a) at least one governor appointed by the local education authority;
+
+(b) in the case of a school which is a primary school serving an area in which there is a minor authority, at least one governor appointed by the authority;
+
+(c) foundation governors;
+
+(d) at least one parent governor;
+
+(e) in the case of a school which has less than 300 registered pupils, at least one teacher governor;
+
+(f) in the case of a school which has 300 or more registered pupils, at least two teacher governors; and
+
+(g) the head teacher, unless he chooses not to be a governor.
+
+(3) The instrument of government for such a school shall provide—
+
+(a) for such number of foundation governors as will lead to their outnumbering the other governors—
+
+(i) by two, if the governing body of the school will consist of eighteen or fewer governors; and
+
+(ii) by three, if it will consist of more than eighteen governors; and
+
+(b) for at least one of the foundation governors to be (at the time of his appointment) a parent of a registered pupil at the school.
+
+(4) Where the head teacher of such a school has chosen not to be a governor, he shall nevertheless be counted as one for the purposes of calculating the required number of foundation governors.
+
+(5) Subject to subsection (3) above, nothing in this section shall be taken to prevent the instrument of government for such a school from providing for the governing body to include governors in addition to those required by virtue of this section.
+
+(6) Where the head teacher is a governor he shall be treated for all purposes as being an ex officio governor.
+
+#### 4A [^F3]Sponsor governors for aided secondary schools.
+
+(1) The instrument of government for any aided secondary school shall, if a direction under this section so requires—
+
+(a) name as a sponsor of the school a person specified in the direction, and
+
+(b) provide for the governing body of the school to include such number of governors appointed by the sponsor, not exceeding four, as is so specified.
+
+(2) A direction under this section in respect of a school, other than a direction under subsection (4) or (5) below—
+
+(a) may only be given at the request, or with the consent, of the governing body, and
+
+(b) may make provision (including the modification of any provision made by or under this Act) as to the time by which a new instrument of government is to be made and the consent and consultation which is to be required before it is made.
+
+(3) A direction under this section varying or revoking a previous direction—
+
+(a) may only be made after consulting the governing body, and
+
+(b) may make provision (including the modification of any provision made by or under this Act) as to the time by which a new instrument of government is to be made and the consent and consultation which is to be required before it is made.
+
+(4) Where proposals approved under section 13 of the Education Act 1980 (establishment and alteration of voluntary schools)—
+
+(a) provide for a secondary school to be maintained by the local education authority as a voluntary school,
+
+(b) name a person as a sponsor of the school, and
+
+(c) provide for the governing body of the school to include a specified number of governors, not exceeding four, appointed by the sponsor,
+
+the Secretary of State shall, if he makes an order under section 15 of the Education Act 1944 (classification of schools) directing that the school be an aided school, give a direction under this section for the purpose of implementing the proposals.
+
+(5) Where an order under section 54 of this Act directs that a secondary school be an aided school and the proposals published by the governing body under that section—
+
+(a) name a person as a sponsor of the school, and
+
+(b) provide for the governing body of the school to include a specified number of governors, not exceeding four, appointed by the sponsor,
+
+the Secretary of State shall give a direction under this section for the purpose of implementing the proposals.
+
+(6) Where the instrument of government for any aided secondary school names two or more persons as sponsors of the school—
+
+(a) the number of governors appointed under the instrument by virtue of this section may not exceed four, and
+
+(b) the instrument may not provide for any of those governors to be appointed by two or more sponsors acting jointly.
+
+(7) Where in pursuance of this section the instrument of government for a school names a person as a sponsor of the school, section 4(3)(a) of this Act shall have effect as if it required the instrument to provide for such number of foundation governors as will lead to their outnumbering the other governors by two.
+
+(8) In this section “direction” means a direction contained in an order made by the Secretary of State; but section 63(1) of this Act shall not apply to the power of the Secretary of State to make orders under this section.
+
+### Governors
+
+#### 5 Appointment of parent governors by governing body.
+
+(1) The instrument of government for any county or controlled school, or for any maintained special school which is not established in a hospital, may provide that if at the time when the instrument is made, or at any later time when there is a vacancy for a parent governor—
+
+(a) at least fifty per cent. of the registered pupils at the school are boarders; and
+
+(b) it would, in the opinion of the local education authority, be impracticable for there to be an election of parent governors;
+
+the parent governors, or (as the case may be) the parent governor required to fill that vacancy, shall be appointed by the other members of the governing body.
+
+(2) The instrument of government for every county, controlled and maintained special school at which parent governors are to be, or may be, elected shall provide for the required number of parent governors to be made up by parent governors appointed by the other members of the governing body if—
+
+(a) one or more vacancies for parent governors are required to be filled by election; and
+
+(b) the number of parents standing for election as parent governors is less than the number of vacancies.
+
+(3) Where, in the opinion of the local education authority, it is likely to be impracticable for there to be elections of parent governors at any maintained special school which is established in a hospital, the instrument of government for that school may provide for the parent governors to be appointed by the other members of the governing body.
+
+(4) The instrument of government for any school to which this section applies shall provide for it to be the duty of governors—
+
+(a) in appointing any parent governor under any provision made by virtue of this section—
+
+(i) to appoint a person who is the parent of a registered pupil at the school, where it is reasonably practicable to do so; and
+
+(ii) where it is not, to appoint a person who is the parent of one or more children of compulsory school age;
+
+(b) not to appoint any person as a parent governor, under any such provision, if that person is—
+
+(i) an elected member of the local education authority;
+
+(ii) an employee of the authority or of the governing body of any aided school maintained by the authority [^F4]. . .
+
+[^F4]iii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6 Connection with local business community.
+
+The instrument of government for any county, controlled or maintained special school shall provide for it to be the duty of the governors concerned, in co-opting any person to be a member of the governing body (otherwise than as a foundation governor)—
+
+(a) to have regard—
+
+(i) to the extent to which they and the other governors are members of the local business community; and
+
+(ii) to any representations made to the governing body as to the desirability of increasing the connection between the governing body and that community; and
+
+(b) where it appears to them that no governor of the school is a member of the local business community, or that it is desirable to increase the number of governors who are, to co-opt a person who appears to them to be a member of that community.
+
+#### 7 Appointment of representative governors in place of co-opted governors.
+
+(1) The instrument of government for every primary school which is a county or controlled school serving an area in which there is a minor authority shall provide for one governor to be appointed by that authority.
+
+(2) The instrument of government for every maintained special school which is established in a hospital shall provide
+
+[[^F5](a) in the case of a hospital vested in the Secretary of State, for one governor to be appointed by the [[^F6]Health Authority]; and
+
+(b) in the case of a hospital vested in a National Health Service trust, for one governor to be appointed by that trust.]
+
+(3) The instrument of government for every maintained special school (other than one established in a hospital) shall, if the school has less than 100 registered pupils, provide for one governor to be appointed—
+
+(a) by a voluntary organisation designated by the local education authority, in relation to the school, as the appropriate voluntary organisation concerned with matters in respect of which the school is specially organised; or
+
+(b) jointly by two or more voluntary organisations so designated;
+
+and shall, if it has more than 99 registered pupils, provide for two governors to be so appointed.
+
+(4) Where, by virtue of subsection (3) above, an instrument of government is required to provide for the appointment of two governors, it may make different provision in relation to the appointment of one governor to that made in relation to the appointment of the other.
+
+(5) Where a local education authority are satisfied, in relation to any special school, that there is no voluntary organisation which it would be appropriate to designate for the purposes of subsection (3) above, that subsection shall not apply to its instrument of government.
+
+(6) Where the instrument of government for any school is required by this section to provide for the appointment of any governor, the instrument—
+
+(a) shall name the person or persons by whom the governor is to be appointed;
+
+(b) shall not provide for a co-opted governor if the school is a controlled school with less than 600 registered pupils or is treated as such a school for the purposes of section 3 of this Act by virtue of subsection (6) of that section; and
+
+(c) in any other case, shall provide for one or (as the case may be) two fewer co-opted governors than would otherwise be provided for.
+
+(7) In subsection (6) above, references to co-opted governors are to governors required to be co-opted by virtue of section 3 of this Act and do not include references to co-opted foundation governors.
+
+#### 8 Governors’ proceedings and tenure of office.
+
+(1) The proceedings of the governing body of any county, voluntary or maintained special school shall not be invalidated by—
+
+(a) any vacancy among their number; or
+
+(b) any defect in the election or appointment of any governor.
+
+(2) The instrument of government for every county, controlled and maintained special school shall provide for each governor, other than one who is an ex officio governor, to hold office for a term of four years [[^F7]or in the case of governors appointed by a person named in the instrument as a sponsor of the school, for such term (not being less than five nor more than seven years) as may be specified in the instrument.]
+
+(3) Subsection (2) above shall not be taken to prevent a governor from being elected or appointed for a further term, or from being disqualified, by virtue of regulations made under subsection (6) below, for continuing to hold office.
+
+(4) Any governor of a county, voluntary or maintained special school may at any time resign his office.
+
+(5) Any foundation governor of a voluntary school, or governor of a county, voluntary or maintained special school appointed otherwise than by being co-opted, may be removed from office by the person or persons who appointed him.
+
+For the purposes of this subsection, a governor appointed in accordance with any provision made by virtue of section 5 of this Act shall be treated as having been co-opted.
+
+(6) The Secretary of State may by regulations make provision as to the meetings and proceedings of the governing bodies of county, voluntary and maintained special schools (including provision modifying that made by subsection (1) above) and the circumstances in which persons are to be disqualified for holding office as governors of such schools.
+
+(7) The regulations may, in particular, provide—
+
+(a) for the election by the governors of any such school of one of their number to be chairman, and one to be vice-chairman, of the school’s governing body for such period as may be prescribed;
+
+[[^F8](aa) for the establishment of committees by the governing bodies of such schools (whether or not including persons who are not members of the governing body concerned) and for the constitution, meetings and proceedings of such committees;
+
+(ab) for the delegation of functions of the governing body of any such school in prescribed circumstances to committees established by that body, to any member of that body or to the head teacher;]
+
+(b) for the chairman of the governing body of any such school, or such other member of that body as may be prescribed, to have power in prescribed circumstances to discharge any of the functions of that body as a matter of urgency; and
+
+(c) as to the quorum required for the purposes of making appointments in accordance with any provision made by virtue of section 5 of this Act or when business is transacted by governors of a particular category.
+
+(8) The minutes of the proceedings of the governing body of any county, voluntary or maintained special school shall be open to inspection by the local education authority.
+
+(9) The instrument of government for every county, voluntary and maintained special school may make provision with respect to the matters mentioned in subsections (6) and (7) above.
+
+(10) Any provision made by the instrument of government for any such school which relates to a matter dealt with by regulations under subsection (6) above (including any provision made by virtue of subsection (2) above) shall have effect subject to the regulations.
+
+(11) No decision of a kind mentioned in subsection (12) below which is taken at a meeting of the governing body of any aided or special agreement school shall have effect unless it is confirmed at a second meeting of the governing body held not less than twenty-eight days after the first.
+
+(12) The decisions are—
+
+(a) any decision that would result in the submission of proposals under section 13 of the 1980 Act (establishment and alteration of voluntary schools);
+
+(b) any decision to serve a notice under section 14(1) of the 1944 Act (discontinuance of school);
+
+(c) any decision that would result in an application under section 15(4) of the 1944 Act (revocation of order whereby school is an aided or special agreement school);
+
+(d) any decision to request the making of an order under subsection (2) of section 16 of the 1944 Act (discontinuance of school for which another school is substituted) or as to the submissions to be made to the Secretary of State in any consultations under subsection (3) of that section;
+
+(e) any decision to make an agreement under Schedule 2 to the 1944 Act (agreement for transfer of interest in school to local education authority).
+
+### Grouping of schools
+
+#### 9 Grouping of schools under single governing body.
+
+(1) Subject to the requirements as to consent imposed by section 10 of this Act, a local education authority may resolve that any two or more schools maintained by them shall be grouped for the purposes of this Part of this Act.
+
+[[^F9](1A) A local education authority may not make such a resolution if the instrument of government of any of the schools names a person as a sponsor of the school unless all the schools are secondary schools]
+
+(2) Where any schools are so grouped, they shall (subject to the following provisions of this section)—
+
+(a) be treated for the purposes of this Part as a single school; and
+
+(b) have a single governing body constituted under a single instrument of government.
+
+(3) For the purposes of this Part of this Act, a group shall be treated—
+
+(a) as an aided school, if it contains at least one such school;
+
+(b) as a special agreement school, if it contains at least one such school and paragraph (a) above does not apply;
+
+(c) as a controlled school, if it contains at least one such school and neither paragraph (a) nor paragraph (b) above applies;
+
+(d) as a maintained special school, if it consists only of such schools; and
+
+(e) as a county school, if none of the preceding paragraphs apply.
+
+(4) Where any proposal or alteration of a kind mentioned in subsection (5) below relates to any school which is grouped with one or more other schools under this section, it shall be the duty of the local education authority—
+
+(a) to review the grouping of those schools and to consider whether or not it should be brought to an end; and
+
+(b) where the Secretary of State’s consent to the grouping, or continued grouping, was at any time required by section 10 of this Act and the authority consider that the grouping should be continued—
+
+(i) to report to him on the results of their review; and
+
+(ii) to provide him with such information as he may reasonably require with a view to enabling him to consider whether or not the grouping should be brought to an end.
+
+(5) The proposals and alterations referred to in subsection (4) above are—
+
+(a) any proposal under—
+
+(i) section 16 of the 1944 Act (transfer of schools to new sites and substitution of new for old schools);
+
+(ii) sections 12 to 15 of the 1980 Act (establishment, discontinuance and alteration of schools); [^F10]. . .
+
+(iii) section 54 of this Act; [[^F11]or
+
+[^F11]iv section 183 of the Education Act 1993 (establishment, etc. of maintained special schools)]
+
+(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) any alteration in the status of an aided or special agreement school effected by an order of the Secretary of State under section 15(4) of the 1944 Act (revocation of order by virtue of which school is an aided or special agreement school).
+
+(6) The Secretary of State may by order bring to an end any grouping under this section in respect of which his consent was at any time required by section 10 of this Act.
+
+(7) Any grouping under this section may also be brought to an end—
+
+(a) if the group does not include any voluntary school, by resolution of the local education authority; and
+
+(b) if it does include any such school [[^F12]but the instrument of government does not name any person as a sponsor of the school]—
+
+(i) by resolution of the authority made with the agreement of the school’s governing body; or
+
+(ii) by one year’s notice given either by the authority to the governing body or by the governing body to the authority.
+
+(8) Any order under section 1 of this Act embodying an instrument of government for two or more schools which are grouped under this section shall be deemed to have been revoked—
+
+(a) in the case of a group which was established for a specified period, at the end of that period; or
+
+(b) on the bringing to an end of the group in accordance with subsection (6) or (7) above.
+
+(9) Schedule 1 to this Act shall have effect for the purpose of making further provision in relation to schools grouped under this section.
+
+#### 10 Requirements as to consent to grouping.
+
+(1) Before resolving to group any schools under section 9 of this Act, a local education authority shall obtain the consent of the Secretary of State to the proposed grouping unless—
+
+(a) the group will consist only of two primary schools both of which serve substantially the same area;
+
+(b) neither of the schools is a special school; and
+
+(c) where they are in Wales, there is no significant difference between them in their use of the Welsh language.
+
+(2) The Secretary of State’s consent may be given subject to such conditions as he sees fit to impose with respect to the duration of the grouping to which his consent is given.
+
+(3) Where two primary schools have been grouped under section 9 in circumstances in which the Secretary of State’s consent was not required under subsection (1) above, his consent to their continuing to be so grouped shall be required if a change of circumstances occurs such that a proposal to group those schools under section 9 made after that change would require his consent under that subsection.
+
+(4) Where the Secretary of State’s consent is required to the grouping or continued grouping of any schools under section 9, sections 3 to 7 of this Act shall apply in relation to the group subject to such modifications (if any) as he may direct.
+
+(5) No local education authority may pass a resolution under section 9 applying to any voluntary school without first obtaining the consent of its governing body.
+
+(6) No local education authority may pass a resolution under section 9 applying to any county or maintained special school without first consulting its governing body.
+
+(7) Any dispute as to whether, for the purposes of this section—
+
+(a) two primary schools are to be regarded as serving substantially the same area; or
+
+(b) there is any significant difference between two primary schools in their use of the Welsh language;
+
+shall be determined by the Secretary of State.
+
+### Reviews
+
+#### 11 Review of constitution of governing bodies of county, controlled and maintained special schools.
+
+(1) The constitution of the governing body of every county, controlled and maintained special school shall be reviewed in accordance with the provisions of this section on, or as soon as is reasonably practicable after, the occurrence of any event which is a relevant event in relation to the school.
+
+(2) In this section “relevant event”, in relation to any school, means any of the following—
+
+(a) the implementation of any proposal under—
+
+(i) section 16(1) of the 1944 Act (transfer of schools to new sites);
+
+(ii) section 12(1)(d) of the 1980 Act (alteration of county schools); [^F13]. . .
+
+(iii) section 13(1)(b) of the 1980 Act (alteration of voluntary schools); [[^F14]or
+
+(iv) section 183 of the Education Act 1993 (establishment, etc. of maintained special schools)]
+
+which provides for an increase in the number of registered pupils at the school;
+
+[^F15]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) where no relevant event of a kind mentioned in paragraph (a) [^F16]. . . above has occurred in relation to the school before the fourth anniversary of the date on which the current instrument of government for the school was made, that anniversary;
+
+(d) where any relevant event has previously occurred in relation to the school, the fourth anniversary of the latest such event.
+
+(3) Any review which is required by virtue of the occurrence of a relevant event of a kind mentioned in paragraph (a)(i), (ii) or [[^F17](iv)] of subsection (2) above shall be carried out by the local education authority and any other review which is required by this section shall be carried out by the governing body.
+
+(4) Whenever the local education authority or governing body of a school are required to carry out a review under this section they shall consider whether—
+
+(a) the governing body are properly constituted;
+
+(b) the provision made by the instrument of government for the school is in any respect different from that which a new instrument of government would be required to make.
+
+(5) Where the governing body of a school have carried out a review under this section and have established that the provision made by the instrument of government for the school is in one or more respects different from that which a new instrument of government for the school would be required to make, they shall report the fact to the local education authority.
+
+(6) Where a relevant event of a kind mentioned in paragraph (a)(i), (ii) or [[^F17](iv)] of subsection (2) above has occurred in relation to any school, the local education authority shall determine the date on which, for the purposes of this section, that event is to be taken to have occurred, and shall notify the governing body accordingly.
+
+[^F18]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Temporary governing bodies
+
+#### 12 Temporary governing bodies for new schools.
+
+(1) Where—
+
+(a) the Secretary of State has approved, under section 12 or 13 of the 1980 Act [[^F19]or section 184 of the Education Act 1993], any proposal of a kind mentioned in subsection (2) below; or
+
+(b) a local education authority making any such proposal have determined, under section 12(7) of that Act, that it should be implemented;
+
+the local education authority shall make an arrangement for the constitution of a temporary governing body for the school (or proposed school) pending the constitution of its governing body under an instrument of government.
+
+(2) The proposals referred to in subsection (1) above are—
+
+(a) any proposal made by a local education authority—
+
+(i) to establish a new county school [[^F20]or a new school which is specially organised to make special educational provision for pupils with special educational needs]; or
+
+(ii) to maintain as a county school any school which is neither a county school nor a voluntary school; and
+
+(b) any proposal that a relevant school should be maintained by a local education authority as a voluntary school.
+
+[^F21]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Where a proposal of a kind mentioned in subsection (2) above has been duly published [[^F22]or, as the case may be, notice of the proposal has been duly served], the local education authority may make an arrangement for the constitution of a temporary governing body in anticipation of the approval of the proposal by the Secretary of State or (as the case may be) of the determination by the authority that it should be implemented.
+
+(5) Where any proposal that a relevant school should be maintained by a local education authority as a controlled school has been duly published, the authority shall consult the promoters—
+
+(a) as to whether the power given to the authority by subsection (4) above should be exercised; and
+
+(b) if the authority propose to exercise it, as to the date on which it should be exercised.
+
+(6) Where any proposal that a relevant school should be maintained by a local education authority as an aided school has been duly published, the authority and the promoters shall consider—
+
+(a) whether the power given to the authority by subsection (4) above should be exercised; and
+
+(b) where they agree that it should, on what date the authority should exercise it.
+
+(7) Where, in a case falling within subsection (6) above, the authority and the promoters fail to agree on the question mentioned in paragraph (a) or on that mentioned in paragraph (b), either of them may refer the matter to the Secretary of State.
+
+(8) On any reference under subsection (7) above, the Secretary of State shall give such direction as he thinks fit.
+
+(9) In this section “relevant school”, in relation to any proposal, means a school which—
+
+(a) was established by those making the proposal, or by persons whom they represent, and which is not a voluntary school; or
+
+(b) is proposed to be so established.
+
+(10) Schedule 2 to this Act shall have effect for the purpose of supplementing this section.
+
+### Miscellaneous and supplemental
+
+#### 13 Effect of change of circumstances on instrument of government.
+
+(1) Any instrument of government to which this Act applies shall (subject to subsection (2) below and paragraph 3(2) of Schedule 2 to this Act) make such provision as is appropriate having regard to all the circumstances of the school as at the date on which the instrument is made.
+
+(2) Where a proposal of a kind mentioned in section 11(2)(a) [^F23]. . .of this Act has been implemented in relation to any school, the number of registered pupils at the school shall, for the purposes of subsection (1) above and until the number of registered pupils at the school reaches the maximum number of pupils provided for by the proposal, be deemed to be that maximum number.
+
+(3) Where subsection (2) applies in relation to any school, the local education authority or (in the case of a proposal under section 13(1)(b) of the 1980 Act) the governing body may determine that it shall cease to apply (but without prejudice to its operation in relation to the implementation of any further proposal).
+
+(4) Where the effect of any subsequent change in the circumstances of a school is that the provision made by the instrument of government for the school differs in any respect from the provision which a new instrument of government would be required to make, it shall be the duty of the local education authority (subject to subsection (7) below):—
+
+(a) to vary the instrument of government in such manner as is required to remove any such difference; or
+
+(b) to make a new instrument of government.
+
+(5) Any instrument of government to which this Act applies may make provision which would be appropriate in the event of such a change in the circumstances of the school as is anticipated by that provision (including in particular a change in the number of registered pupils at the school).
+
+(6) No provision made by any such instrument in anticipation of a change in the number of registered pupils at the school shall have effect before it is established, by a review under section 11 of this Act, that a new instrument of government for the school in question would be required to make that provision.
+
+(7) For the purposes of subsection (4) above, any change in the number of registered pupils at a school occurring after the instrument of government for the school is made, or (as the case may be) varied, may be disregarded until a review under section 11 of this Act establishes that the provision made by the instrument differs in any respect from the provision which a new instrument of government for the school would be required to make.
+
+(8) Where subsection (2) above has applied in relation to any school but the local education authority or (as the case may be) governing body have subsequently determined that it should cease to apply, subsections (4) and (7) above shall have effect as if a change in the number of registered pupils at the school had occurred at the time when that determination was made.
+
+(9) Subsections (6) and (7) above do not apply to aided or special agreement schools.
+
+#### 14 Adjustment in number of governors.
+
+(1) Where—
+
+(a) any county, controlled or maintained special school has more governors of a particular category than are provided for by the instrument of government for the school; and
+
+(b) the excess is not eliminated by the required number of governors of that category resigning;
+
+such number of governors of that category as is required to eliminate the excess shall cease to hold office.
+
+(2) The governors who are to cease to hold office shall be selected on the basis of seniority, the longest serving governor being the first to be selected, and so on.
+
+(3) Where it is necessary for the purpose of subsection (2) above to select one or more governors from a group of equal seniority, it shall be done by drawing lots.
+
+(4) Subsections (2) and (3) above do not apply in relation to foundation governors.
+
+(5) The instrument of government for every controlled school shall make provision for the procedure to be adopted whenever subsection (1) above requires any foundation governor to cease to hold office.
+
+#### 15 Miscellaneous.
+
+(1) Where a school to which section 3 or 4 of this Act applies has more than one head teacher (whether or not as a result of two or more schools being grouped under section 9 of this Act), each of them shall be a governor unless he chooses not to be.
+
+(2) It shall be for the local education authority, in the case of a county, controlled or maintained special school, and for the governing body, in the case of an aided or special agreement school—
+
+(a) to determine, for the purposes of an election of parent governors or teacher governors to the governing body, any question whether a person is—
+
+(i) a parent of a registered pupil at the school; or
+
+(ii) a teacher at the school; and
+
+(b) to make all necessary arrangements for, and to determine all other matters relating to, any such election.
+
+(3) The power conferred by subsection (2)(b) above includes power to make provision as to qualifying dates but does not include power to impose any requirement as to the minimum number of votes required to be cast for a candidate to be elected.
+
+(4) Any such election which is contested must be held by secret ballot.
+
+(5) The arrangements made under subsection (2)(b) above shall, in the case of any election of a parent governor, provide for every person who is entitled to vote in the election to have an opportunity to do so by post or, if he so prefers, by having his ballot paper returned to the school by a registered pupil at the school.
+
+(6) Where a vacancy for a parent governor of any county, voluntary or maintained special school is required to be filled by election, it shall be the duty of the appropriate authority to take such steps as are reasonably practicable to secure that every person who is known to them to be a parent of a registered pupil at the school is—
+
+(a) informed of the vacancy and that it is required to be filled by election;
+
+(b) informed that he is entitled to stand as a candidate, and vote, at the election; and
+
+(c) given an opportunity to do so.
+
+(7) The instrument of government for every voluntary school shall name the person or persons (if any) who are entitled to appoint any foundation governor.
+
+(8) The instrument of government for any voluntary school may provide for any foundation governorship to be held ex officio by the holder of an office named in the instrument.
+
+(9) The qualification of any person for election or appointment as a governor, of a particular category, of any county, voluntary or maintained special school, shall not have the effect of disqualifying him for election or appointment as a governor, of any other category, of that school.
+
+(10) No person shall at any time hold more than one governorship of the same county, voluntary or maintained special school.
+
+(11) Where the instrument of government for any county, voluntary or maintained special school provides for one or more governors to be appointed by persons acting jointly, any such appointment shall be made, in the event of failure on the part of those persons to make an agreed appointment—
+
+(a) by the Secretary of State; or
+
+(b) in accordance with any direction given by him.
+
+(12) No instrument of government for any county, voluntary or maintained special school which provides for one or more persons to be co-opted, by governors, as members of the governing body of the school shall make any provision (otherwise than by virtue of section 6 of this Act) which has the effect of restricting those governors in their choice of person to co-opt.
+
+(13) In subsection (12) above, references to co-opted governors are to governors required to be co-opted by virtue of section 3 of this Act and do not include references to co-opted foundation governors.
+
+(14) No person shall be qualified for membership of the governing body of any county, voluntary or maintained special school unless he is aged eighteen or over, at the date of his election or appointment.
+
+(15) In subsection (6) above, “appropriate authority” means—
+
+(a) the local education authority, in the case of a county, controlled or maintained special school; and
+
+(b) the governing body, in the case of an aided or special agreement school.
+
+## [^F24]Part III
+
+### General
+
+#### 16 General responsibility for conduct of certain schools.
+
+(1) The articles of government for every county, voluntary and maintained special school shall provide for the conduct of the school to be under the direction of the governing body, but subject to any provision of the articles conferring specific functions on any person other than the governing body, and to the provision made (otherwise than in the articles) by or under this Act or any other enactment.
+
+(2) The Secretary of State may by regulations make provision as to the circumstances in which, in any case where—
+
+(a) any provision of, or made under, this Act requires the governing body of a school to be consulted before a particular step is taken by the local education authority or the head teacher; and
+
+(b) the authority or head teacher require to take that step as a matter of urgency but are unable to contact the chairman or vice-chairman of the governing body;
+
+the authority or (as the case may be) the head teacher may proceed without consulting the governing body.
+
+(3) Where a county, voluntary or maintained special school is organised in two or more separate departments, each with a head teacher, any provision made by or under this Act which confers functions on, or in relation to, the head teacher of the school shall, except where the articles of government provide otherwise, have effect as if each department were a separate school.
+
+#### 16A Provision of further education.
+
+(1) The governing body of any county, voluntary or maintained special school shall be responsible for determining whether or not to provide—
+
+(a) part-time education suitable to the requirements of persons of any age over compulsory school age; or
+
+(b) full-time education suitable to the requirements of persons who have attained the age of nineteen years,
+
+but the governing body of a maintained special school shall not determine to provide, or to cease to provide, such education without the consent of the local education authority.
+
+(2) It shall be the duty of the governing body of any such school which provides such education to secure that such education is not provided at any time in a room where pupils are at that time being taught except in such circumstances as may be prescribed.
+
+### School curriculum
+
+#### 17 Duty of local education authority to state policy.
+
+(1) It shall be the duty of every local education authority—
+
+(a) to determine, and keep under review, their policy in relation to the secular curriculum for the county, voluntary and special schools maintained by them;
+
+(b) to make, and keep up to date, a written statement of that policy; . . . [^F25]
+
+(c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F25]
+
+(2) In discharging their duty under subsection (1) above, an authority shall consider, in particular—
+
+(a) the range of the secular curriculum; and
+
+(b) the balance between its different components.
+
+(3) In carrying out their functions under this Act or any other enactment, a local education authority shall have regard to their policy in relation to the secular curriculum for their schools, as expressed in their statement.
+
+(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F26]
+
+#### 18 County, controlled and maintained special schools.
+
+(1) The articles of government for every county, controlled and maintained special school shall provide for it to be the duty of the governing body to consider—
+
+(a) the policy of the local education authority as to the secular curriculum for the authority’s schools, as expressed in the statement made by the authority under section 17 of this Act;
+
+(b) what, in their opinion, should be the aims of the secular curriculum for the school; and
+
+(c) how (if at all) the authority’s policy with regard to matters other than sex education should in their opinion be modified in relation to the school;
+
+and to make, and keep up to date, a written statement of their conclusions.
+
+(2) The articles of government for every such school shall provide for it to be the duty of the governing body—
+
+(a) to consider separately (while having regard to the local education authority’s statement under section 17 of this Act) the question whether sex education should form part of the secular curriculum for the school; and
+
+(b) to make, and keep up to date, a separate written statement—
+
+(i) of their policy with regard to the content and organisation of the relevant part of the curriculum; or
+
+(ii) where they conclude that sex education should not form part of the secular curriculum, of that conclusion.
+
+(3) The articles of government for every such school shall provide for it to be the duty of the governing body—
+
+(a) when considering the matters mentioned in subsections (1) and (2) above, to do so in consultation with the head teacher and to have regard—
+
+(i) to any representations which are made to them, with regard to any of those matters, by any persons connected with the community served by the school; and
+
+(ii) to any such representations which are made to them by the chief officer of police and which are connected with his responsibilities;
+
+(b) to consult the authority before making or varying any statement under subsection (1) above; . . . [^F27]
+
+(c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F27]
+
+(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F28]
+
+(5) The articles of government for every such school shall provide for the determination and organisation of the secular curriculum for the school to be the responsibility of the head teacher and for it to be his duty to secure that that curriculum is followed within the school.
+
+(6) The articles of government for every such school shall provide for it to be the duty of the head teacher, in discharging his duties in relation to the secular curriculum for the school—
+
+(a) to consider the statement of the local education authority under section 17 of this Act and those of the governing body under this section;
+
+(b) to have regard—
+
+(i) to any representations which are made to him, with regard to the determination or organisation of the secular curriculum, by any persons connected with the community served by the school; and
+
+(ii) to any such representations which are made to him by the chief officer of police and which are connected with that officer’s responsibilities; and
+
+(c) to ensure that that curriculum—
+
+(i) so far as it relates to sex education, is compatible with the governing body’s policy (as expressed in their statement under subsection (2) above) except where that policy is incompatible with any part of the syllabus for a course which forms part of that curriculum and leads to a public examination;
+
+(ii) so far as it relates to other matters, is compatible with the authority’s policy (as expressed in their statement) . . . [^F29] as modified by the governing body’s statement under subsection (1) above; and
+
+(iii) is compatible with the enactments relating to education (including, in particular, those relating to children with special educational needs).
+
+(7) The articles of government for every such school shall provide for the governing body to have power to review their conclusions about the matters mentioned in subsections (1) and (2) above whenever they think fit, and for it to be their duty to do so immediately following—
+
+(a) the implementation of any proposal under—
+
+(i) section 16 of the 1944 Act (transfer of schools to new sites);
+
+(ii) section 12 or 13 of the 1980 Act (establishment, alteration and discontinuance of schools); or
+
+(iii) section 15 of the 1980 Act (reduction of school places);
+
+which materially affects the school; or
+
+[[^F30](b) the implementation of any proposal under section 183 of the Education Act 1993 (establishment, alteration and discontinuance of maintained special schools)]
+
+(8) The article of government for every such school shall provide for it to be the duty of the governing body, where—
+
+(a) they have completed such a review; and
+
+(b) they consider it appropriate to make a fresh written statement of their conclusions;
+
+to do so . . . [^F31].
+
+#### 19 Aided and special agreement schools.
+
+(1) The articles of government for every aided and special agreement school shall provide—
+
+(a) for the content of the secular curriculum for the school to be under the control of the governing body;
+
+(b) for the governing body to have regard to the policy of the local education authority as to the curriculum for the authority’s schools, as expressed in the statement made by the authority under section 17 of this Act; and
+
+(c) for the head teacher to be allocated by the governing body such functions as will, subject to the resources available, enable him to determine and organise the curriculum and secure that it is followed within the school.
+
+(2) The articles of government for every such school shall provide for it to be the duty of the governing body, when considering the content of the secular curriculum for the school, to have regard—
+
+(a) to any representations which are made to them, with regard to that curriculum, by any persons connected with the community served by the school; and
+
+(b) to any such representations which—
+
+(i) are made to them by the chief officer of police; and
+
+(ii) are connected with his responsibilities.
+
+(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F32]
+
+#### 20 [^F33]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### School terms etc. [^F34]
+
+#### 21 Terms, holidays and sessions.
+
+(1) The articles of government for every county, controlled and maintained special school shall provide for it to be the duty of the local education authority to determine the dates at which the school terms and holidays are to begin and end.
+
+[^F35]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F35]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The articles of government for every aided and special agreement school shall provide for it to be the duty of the governing body to determine—
+
+(a) the dates and times at which the school terms and holidays are to begin and end; and
+
+(b) the times at which the school session or, if there is more than one, each school session is to begin and end on any day.
+
+(5) The articles of government for every county, voluntary and maintained special school shall provide for the governing body to have power to require pupils in attendance at the school to attend at any place outside the school premises for the purpose of receiving any instruction or training included in the secular curriculum for the school.
+
+### Discipline
+
+#### 22 Discipline: general duties.
+
+The articles of government for every county, voluntary and maintained special school shall provide—
+
+(a) for it to be the duty of the head teacher to determine measures (which may include the making of rules and provision for enforcing them) to be taken with a view to—
+
+(i) promoting, among pupils, self-discipline and proper regard for authority;
+
+(ii) encouraging good behaviour [[^F36]and respect for others] on the part of pupils;
+
+(iii) securing that the standard of behaviour of pupils is acceptable; and
+
+(iv) otherwise regulating the conduct of pupils;
+
+(b) for it to be the duty of the head teacher, in determining any such measures—
+
+(i) to act in accordance with any written statement of general principles provided for him by the governing body; and
+
+(ii) to have regard to any guidance that they may offer in relation to particular matters;
+
+(c) for it to be the duty of the head teacher to make any such measures generally known within the school;
+
+(d) for the standard of behaviour which is to be regarded as acceptable at the school to be determined by the head teacher, so far as it is not determined by the governing body;
+
+(e) for it to be the duty of the governing body and the head teacher to consult the local education authority, before determining any such measures, on any matter arising from the proposed measures which can reasonably be expected—
+
+(i) to lead to increased expenditure by the authority; or
+
+(ii) to affect the responsibilities of the authority as an employer;
+
+(f) for the power to exclude a pupil from the school (whether by suspension, expulsion or otherwise) to be exercisable only by the head teacher.
+
+#### 23 Exclusion of pupils: duty to inform parents etc.
+
+The articles of government for every county, voluntary and maintained special school shall provide—
+
+(a) for it to be the duty of the head teacher—
+
+(i) where he excludes from the school a pupil who is under eighteen, to take (without delay) reasonable steps to inform a parent of the pupil of the period of the exclusion and the reasons for it;
+
+(ii) where he decides that any exclusion of such a pupil from the school which was originally for a fixed [^F37]. . . period should be made permanent, to take (without delay) reasonable steps to inform a parent of the pupil of his decision and of the reasons for it; and
+
+(iii) where he excludes any pupil from the school to take (without delay) reasonable steps to inform the pupil, if he is aged eighteen or over, or a parent of his, if he is under eighteen, that the pupil or (as the case may be) parent may make representations about the exclusion to the governing body and the local education authority;
+
+(b) for it to be the duty of the head teacher, where he excludes a pupil from the school—
+
+(i) for more than five school days (in the aggregate) in any one term; or
+
+(ii) in circumstances in which the pupil would, as a result of his exclusion from the school, lose an opportunity to take any public examination;
+
+to inform the local education authority and the governing body (without delay) of the period of the exclusion and of the reasons for it and where he decides that any exclusion of a pupil from the school which was originally for a fixed [^F37]. . . period should be made permanent, to inform them (without delay) of his decision and of the reasons for it.
+
+#### 24 Reinstatement of excluded pupils: county, controlled and maintained special schools.
+
+The articles of government for every county, controlled and maintained special school shall provide—
+
+(a) for it to be the duty of the local education authority, where they have been informed of the permanent exclusion of a pupil from the school—
+
+(i) to consider, [[^F38](after giving the governing body an opportunity to express their views and after considering any views expressed within the prescribed period by the governing body)]whether he should be reinstated immediately, reinstated by a particular date or not reinstated;
+
+(ii) where they consider that he should be reinstated, to give the appropriate direction to the head teacher; and
+
+(iii) where they consider that he should not be reinstated, to inform the pupil (if he is aged eighteen or over) or a parent of his (if he is under eighteen) of their decision;
+
+(b) for it to be the duty of the head teacher, where he has excluded a pupil from the school—
+
+(i) for more than five school days (in the aggregate) in any one term; or
+
+(ii) in circumstances in which the pupil would, as a result of his exclusion from the school, lose an opportunity to take any public examination;
+
+to comply with any direction for the reinstatement of the pupil given by the governing body or the local education authority, in the case of an exclusion for a fixed period, or by the governing body, in the case of [[^F39]permanent exclusion];
+
+[^F40]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(d) for it to be the duty of the local education authority where—
+
+(i) they have been informed of the exclusion of a pupil from the school for a fixed period; and
+
+(ii) they propose to give a direction for his reinstatement;
+
+to consult the governing body before doing so;
+
+[^F40]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(f) for it to be the duty of the head teacher to comply with any direction given in exercise of the duty imposed on the local education authority by virtue of paragraph (a) [^F41]. . .
+
+(g) for it to be the duty of the head teacher, where conflicting directions for the reinstatement of a pupil are given by the governing body and the local education authority, to comply with that direction which will lead to the earlier reinstatement of the pupil; and
+
+(h) for it to be the duty of the governing body and the local education authority to inform each other and—
+
+(i) the pupil concerned, if he is aged eighteen or over; or
+
+(ii) a parent of his, if he is under eighteen;
+
+of any direction, of a kind mentioned in this section, which is given by them.
+
+#### 25 Reinstatement of excluded pupils: aided and special agreement schools.
+
+The articles of government for every aided and special agreement school shall provide—
+
+(a) for it to be the duty of the governing body, where they have been informed of the permanent exclusion of a pupil from the school—
+
+(i) to consider whether he should be reinstated immediately, reinstated by a particular date or not reinstated;
+
+(ii) where they consider that he should be reinstated, to give the appropriate direction to the head teacher; and
+
+(iii) where they consider that he should not be reinstated, to inform (without delay) the local education authority and either the pupil, if he is aged eighteen or over, or a parent of his, if he is under eighteen, of their decision;
+
+(b) for it to be the duty of the head teacher where he has excluded a pupil from the school—
+
+(i) for more than five school days (in the aggregate) in any one term; or
+
+(ii) in circumstances in which the pupil would, as a result of his exclusion from the school, lose an opportunity to take any public examination;
+
+to comply with any direction for the reinstatement of the pupil given by the governing body or, in the case of an exclusion for a fixed period, by the governing body or the local education authority;
+
+(c) for it to be the duty of the local education authority to [[^F42]give the governing body an opportunity to express their views and to consider any views expressed within the prescribed period by the governing body] before giving any direction by virtue of paragraph (b) above;
+
+[^F43]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F43]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F43]f . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(g) for it to be the duty of the head teacher, where conflicting directions for the reinstatement of a pupil are given by the governing body and the local education authority, to comply with that direction which will lead to the earlier reinstatement of the pupil; and
+
+(h) for it to be the duty of the governing body and the local education authority to inform each other and—
+
+(i) the pupil concerned, if he is aged eighteen or over; or
+
+(ii) a parent of his, if he is under eighteen;
+
+of any direction, of a kind mentioned in this section, which is given by them.
+
+#### 26 Appeals.
+
+(1) Every local education authority shall make arrangements for enabling—
+
+(a) a registered pupil at a county, controlled or maintained special school who is aged eighteen or over, or a parent of his, in the case of a pupil at such a school who is under eighteen, to appeal against any decision not to reinstate the pupil following his permanent exclusion from the school; and
+
+(b) any governing body of such a school, the head teacher of which has been directed by the authority to reinstate any registered pupil at the school who has been permanently excluded, to appeal against the direction.
+
+(2) The governing body of every aided or special agreement school shall make arrangements for enabling a registered pupil at the school who is aged eighteen or over, or a parent of a pupil at such a school who is under eighteen to appeal against any decision not to reinstate the pupil following his permanent exclusion from the school.
+
+(3) Joint arrangements may be made under subsection (2) above by the governing bodies of two or more aided or special agreement schools maintained by the same local education authority.
+
+(4) Any appeal by virtue of this section shall be to an appeal committee constituted in accordance with Part I of Schedule 2 to the 1980 Act; and Schedule 3 to this Act shall have effect, in place of Part II of Schedule 2 to the 1980 Act, in relation to any such appeal.
+
+(5) The decision of an appeal committee on any such appeal shall be binding on the persons concerned; and where the committee determines that the pupil in question should be reinstated it shall direct that he be reinstated immediately or direct that he be reinstated by such date as is specified in the direction.
+
+#### 27 Exclusion: additional provision for appeals.
+
+Where the articles of government for any county, voluntary or maintained special school provide—
+
+(a) for the parents of any pupil who is excluded from the school in circumstances in which no right of appeal is given by section 26 of this Act to have the right to appeal against his exclusion to a person specified by the articles; and
+
+(b) for the procedure to be followed on such an appeal; any decision on such an appeal that the pupil should be reinstated, or that he should be reinstated earlier than would otherwise be the case, shall be binding on the head teacher.
+
+#### 28 Local education authority’s reserve power.
+
+(1) Every local education authority shall have power, in the circumstances mentioned in subsection (3) below, to take such steps in relation to any county, controlled or special school maintained by them as they consider are required to prevent the breakdown, or continuing breakdown, of discipline at the school.
+
+(2) The governing body and the head teacher of every aided and special agreement school shall, in the circumstances mentioned in subsection (3) below, consider any representations made to them by the local education authority.
+
+(3) The circumstances are that—
+
+(a) in the opinion of the authority—
+
+(i) the behaviour of registered pupils at the school; or
+
+(ii) any action taken by such pupils or their parents;
+
+is such that the education of any such pupils is, or is likely in the immediate future to become, severely prejudiced; and
+
+(b) the governing body have been informed in writing of the authority’s opinion.
+
+(4) Steps taken by an authority under subsection (1) above may include the giving of any direction to the governing body or head teacher.
+
+### Finance
+
+#### 29 [^F44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Reports and meetings
+
+#### 30 Governors’ annual report to parents.
+
+(1) The articles of government for every county, voluntary and maintained special school shall provide for it to be the duty of the governing body to prepare, once in every school year, a report (“the governors’ report”) containing—
+
+(a) a summary of the steps taken by the governing body in the discharge of their functions during the period since their last report; and
+
+(b) such other information as the articles may require.
+
+(2) The articles of government for every such school shall, in particular, require the governors’ report—
+
+(a) to be as brief as is reasonably consistent with the requirements as to its contents;
+
+(b) where there is an obligation on the governing body (by virtue of section 31 of this Act) to hold an annual parents’ meeting—
+
+(i) to give details of the date, time and place for the next such meeting and its agenda;
+
+(ii) to indicate that the purpose of that meeting will be to discuss both the governors’ report and the discharge by the governing body, the head teacher and the local education authority of their functions in relation to the school; and
+
+(iii) to report on the consideration which has been given to any resolutions passed at the previous such meeting;
+
+(c) to give the name of each governor and indicate whether he is a parent, teacher or foundation governor or was co-opted or otherwise appointed as a governor or is an ex officio governor;
+
+(d) to say, in the case of an appointed governor, by whom he was appointed;
+
+(e) to give, in relation to each governor who is not an ex officio governor, the date on which his term of office comes to an end;
+
+(f) to name, and give the address of, the chairman of the governing body and their clerk;
+
+(g) to give such information as is available to the governing body about arrangements for the next election of parent governors;
+
+(h) to contain a financial statement—
+
+[[^F45](i) reproducing or summarising any financial statement of which a copy has been furnished to the governing body by the authority under section 42 or 50 of the Education Reform Act 1988 since the last governors’ report was prepared;
+
+(ii) indicating, in general terms, how any sum made available to the governing body by the authority in respect of the school’s budget share within the meaning of Chapter III of Part I of that Act or under section 49 of that Act in the period covered by the report was used;]. . .
+
+(iii) giving details of the application of any gifts made to the school in that period; [[^F46]and]
+
+[[^F47](iv) stating the total amount of any travelling and subsistence allowances paid to members of the governing body in that period;]
+
+[[^F48](i) to give such information about public examinations and other assessments of pupils’ achievements, pupils’ absences from the school, the continuing education of pupils leaving the school and the employment or training taken up by such pupils as is required to be published by virtue of section 8(5) of the 1980 Act;]
+
+(j) to describe what steps have been taken by the governing body to develop or strengthen the school’s links with the community (including links with the police); and
+
+(k) to draw attention to the information made available by the governing body in accordance with the regulations made under section 20 of this Act.
+
+(3) The articles of government for every such school shall—
+
+(a) enable the governing body to produce their report in such language or languages (in addition to English) as they consider appropriate; and
+
+(b) require them to produce it in such language or languages (in addition to English and any other language in which the governing body propose to produce it) as the local education authority may direct.
+
+(4) The articles of government for every such school shall provide for it to be the duty of the governing body of any such school to take such steps as are reasonably practicable to secure that—
+
+(a) the parents of all registered pupils at the school and all persons employed at the school are given (free of charge) a copy of the governors’ report;
+
+(b) copies of the report are available for inspection (at all reasonable times and free of charge) at the school; and
+
+(c) where there is an obligation on the governing body (by virtue of section 31 of this Act) to hold an annual parents’ meeting, copies of the report to be considered at that meeting are given to parents not less than two weeks before that meeting.
+
+[[^F49](5) The Secretary of State may by order make such amendments of subsection (2) above as he considers expedient.]
+
+#### 31 Annual parents’ meetings.
+
+(1) Subject to subsections (7) and (8) below, the articles of government for every county, voluntary and maintained special school shall provide for it to be the duty of the governing body to hold a meeting once in every school year (“the annual parents’ meeting”) which is open to—
+
+(a) all parents of registered pupils at the school;
+
+(b) the head teacher; and
+
+(c) such other persons as the governing body may invite.
+
+(2) The purpose of the meeting shall be to provide an opportunity for discussion of—
+
+(a) the governors’ report; and
+
+(b) the discharge by the governing body, the head teacher and the local education authority of their functions in relation to the school.
+
+(3) No person who is not a parent of a registered pupil at the school may vote on any question put to the meeting.
+
+(4) The articles of government for every such school shall provide—
+
+(a) for the proceedings at any annual parents’ meeting to be under the control of the governing body;
+
+(b) for any annual parents’ meeting, at which the required number of parents of registered pupils at the school are present, to be entitled to pass (by a simple majority) resolutions on any matters which may properly be discussed at the meeting;
+
+(c) for it to be the duty of the governing body—
+
+(i) to consider any resolution which is duly passed at such a meeting and which they consider is a matter for them;
+
+(ii) to send to the head teacher a copy of any such resolution which they consider is a matter for him; and
+
+(iii) to send to the local education authority a copy of any such resolution which they consider is a matter for the authority; and
+
+(d) for it to be the duty of the head teacher, and of the local education authority, to consider any such resolution a copy of which has been sent to him, or them, by the governing body and to provide the governing body with a brief comment on it (in writing) for inclusion in their next governors’ report.
+
+(5) The articles of government for every county, controlled and maintained special school shall provide for any question whether any person is to be treated as the parent of a registered pupil at the school, for the purposes of any provision of the articles relating to the annual parents’ meeting, to be determined by the local education authority.
+
+(6) The articles of government for every aided or special agreement school shall provide for any such question to be determined by the governing body.
+
+(7) The articles of government for every special school established in a hospital shall provide that where the governing body are of the opinion that it would be impracticable to hold an annual parents’ meeting in a particular school year they may refrain from holding such a meeting in that year.
+
+(8) The articles of government for every county, voluntary and maintained special school (other than a special school established in a hospital), the proportion of registered pupils at which who are boarders is, or is likely to be, at least fifty per cent., shall provide that where—
+
+(a) the governing body are of the opinion that it would be impracticable to hold an annual parents’ meeting in a particular school year; and
+
+(b) at least fifty per cent. of the registered pupils at the school are boarders at the time when the governing body form that opinion;
+
+they may refrain from holding such a meeting in that year.
+
+(9) In subsection (4)(b) above “the required number”, in relation to any school, means any number equal to at least twenty per cent. of the number of registered pupils at the school.
+
+#### 32 Reports by governing body and head teacher.
+
+(1) The articles of government for every county, voluntary and maintained special school shall provide—
+
+(a) for the governing body to furnish to the local education authority such reports in connection with the discharge of their functions as the authority may require (either on a regular basis or from time to time); and
+
+(b) for the head teacher to furnish to the governing body or (as the case may be) local education authority such reports in connection with the discharge of his functions as the governing body or authority may so require.
+
+(2) The articles of government for every aided school shall provide—
+
+(a) for the local education authority to notify the governing body of any requirement of a kind mentioned in subsection (1)(b) above which is imposed by them on the head teacher; and
+
+(b) for the head teacher to furnish the governing body with a copy of any report which he makes in complying with the requirement.
+
+### Admissions
+
+#### 33 Admissions.
+
+(1) Where the governing body of any county or voluntary school are responsible for determining the arrangements for admitting pupils to the school, they shall—
+
+(a) at least once in every school year, consult the local education authority as to whether those arrangements are satisfactory; and
+
+(b) consult the authority before determining, or varying, any of them.
+
+(2) Where the local education authority are responsible for determining the arrangements for admitting pupils to any such school they shall—
+
+(a) at least once in every school year, consult the governing body as to whether those arrangements are satisfactory; and
+
+(b) consult the governing body before determining, or varying, any of them.
+
+### Appointment and dismissal of staff
+
+#### 34 Determination of staff complement for schools.
+
+(1) Every county, controlled, special agreement and maintained special school shall have a complement of teaching and non-teaching posts determined by the local education authority.
+
+(2) The complement for any such school shall include—
+
+(a) all full-time teaching posts; and
+
+(b) all part-time teaching posts which are to be filled by persons whose only employment with the authority will be at the school.
+
+(3) The complement for any such school shall not include any staff employed by the authority solely in connection with either or both of the following—
+
+(a) the provision of meals;
+
+(b) the supervision of pupils at midday.
+
+#### 35 Appointment and dismissal of staff: introductory.
+
+(1) The appointment and dismissal of staff (including teachers) at every county, controlled, special agreement and maintained special school shall be under the control of the local education authority, but—
+
+(a) the appointment of a head teacher shall be subject to the provision made by the articles of government for the school in accordance with section 37 of this Act;
+
+(b) the appointment of a deputy head teacher shall be subject to the provision made by the articles in accordance with section 39 of this Act;
+
+(c) the appointment and dismissal of the clerk to the governing body shall be subject to section 40 of this Act and to any provision made by the articles in accordance with that section;
+
+(d) the appointment of any other staff (including any teacher), to a post which is part of the school’s complement, shall be subject to the provision made by the articles in accordance with section 38 of this Act;
+
+(e) the dismissal of staff shall be subject to the provision made by the articles in accordance with section 41 of this Act;
+
+(f) the appointment and dismissal of staff at any school for which there is a temporary governing body shall be subject to the provisions of Schedule 2 to this Act; and
+
+(g) this section is subject to the provisions of sections 27 and 28 of the 1944 Act (which relate to religious education).
+
+(2) The articles of government for every such school shall provide for it to be the duty of the local education authority to consult the governing body and the head teacher before appointing any person to work solely at the school otherwise than—
+
+(a) in a teaching post;
+
+(b) in a non-teaching post which is part of the complement of the school; or
+
+(c) solely in connection with either or both of the following—
+
+(i) the provision of meals;
+
+(ii) the supervision of pupils at midday.
+
+#### 36 The selection panel.
+
+(1) The articles of government for every county, controlled, special agreement and maintained special school shall provide—
+
+(a) for the constitution of a selection panel whenever such a panel is required, by virtue of section 37 or 39 of this Act, in relation to the appointment of a head teacher or deputy head teacher;
+
+(b) for the selection panel to consist of a specified number of persons appointed to it by the local education authority and a specified number of governors appointed to it by the governing body, the number so specified being—
+
+(i) in each case, not less than three; and
+
+(ii) in relation to appointments made by the governing body, not less than the number specified in relation to appointments made by the authority; and
+
+(c) for the governing body and the authority to have power to replace, at any time, any member of the selection panel whom they have appointed.
+
+(2) The Secretary of State may by regulations make provision as to the meetings and proceedings of selection panels.
+
+#### 37 Appointment of head teacher.
+
+(1) The articles of government for every county, controlled, special agreement and maintained special school shall provide—
+
+(a) for it to be the duty of the local education authority not to appoint a person to be the head teacher of the school unless his appointment has been recommended by a selection panel constituted in accordance with the articles;
+
+(b) for it to be the duty of the authority, in the event of the post of head teacher being vacant, to appoint an acting head teacher after consulting the governing body;
+
+(c) for it to be the duty of the authority, before appointing a head teacher, to advertise the vacancy in such publications circulating throughout England and Wales as they consider appropriate;
+
+(d) for it to be the duty of the selection panel constituted in relation to the appointment of a head teacher to interview such applicants for the post as they think fit;
+
+(e) in the event of a failure of the panel to agree on the applicants whom they wish to interview—
+
+(i) for those members of the panel appointed by the governing body to have the right to nominate not more than two applicants to be interviewed by the panel; and
+
+(ii) for the other members of the panel to have the right to nominate not more than two other applicants to be so interviewed;
+
+(f) for it to be the duty of the panel, where they consider that it is appropriate to do so, to recommend to the authority for appointment as head teacher one of the applicants interviewed by them;
+
+(g) for it to be the duty of the panel, where they are unable to agree on a person to recommend to the authority—
+
+(i) to repeat (with a view to reaching agreement) such of the steps which they are required to take by virtue of paragraphs (d) to (f) above as they think fit;
+
+(ii) where they have repeated any of those steps and remain unable to agree, or have decided that it is not appropriate to repeat any of them, to require the authority to re-advertise the vacancy; and
+
+(iii) where the vacancy is re-advertised, to repeat all of those steps;
+
+(h) for it to be the duty of the panel, where the authority decline to appoint a person recommended by them—
+
+(i) where there are applicants for the post whom they have not interviewed, to interview such of those applicants (if any) as they think fit;
+
+(ii) to recommend another of the applicants interviewed by them, if they think fit;
+
+(iii) to ask the authority to re-advertise the vacancy, if they consider that it should be re-advertised; and
+
+(iv) where the vacancy is re-advertised, to repeat the steps which they are required to take by virtue of paragraphs (d) to (f);
+
+(i) for it to be the duty of the authority to re-advertise the post of head teacher where they are required to do so by the panel; and for the authority to have power to do so, where—
+
+(i) the post has been duly advertised;
+
+(ii) the selection panel have failed to make either a recommendation which is acceptable to the authority or a request that the post be re-advertised; and
+
+(iii) the authority are of the opinion that the panel have had sufficient time in which to carry out their functions; and
+
+(j) for the chief education officer of the authority, or a member of his department nominated by him, to have the right to attend all proceedings of the panel (including interviews) for the purpose of giving advice to members of the panel.
+
+(2) In this section “head teacher” does not include an acting head teacher.
+
+#### 38 Appointment of certain other staff.
+
+(1) The articles of government for every county, controlled, special agreement and maintained special school shall provide for it to be the duty of the local education authority, where there is a vacancy in any post which is part of the complement of the school—
+
+(a) to decide whether, in the case of a post which is not a new one, it should be retained;
+
+(b) to advertise the vacancy, and fill it in accordance with the procedure laid down by virtue of subsection (3) below, unless they have the intention mentioned in paragraph (c) below; and
+
+(c) to fill the vacancy in accordance with the procedure laid down by virtue of subsection (4) below, if they intend to appoint a person who, at the time when they form that intention, is an employee of theirs or has been appointed to take up employment with them at a future date.
+
+(2) This section does not apply in relation to the appointment of a head teacher or deputy head teacher or to any temporary appointment made pending—
+
+(a) the return to work of the holder of the post in question; or
+
+(b) the taking of any steps required by the articles of government in relation to the vacancy in question.
+
+(3) The articles of government for every such school shall provide—
+
+(a) for it to be the duty of the authority, where they decide to advertise the vacancy, to do so in a manner likely in their opinion to bring it to the notice of persons (including employees of theirs) who are qualified to fill the post;
+
+(b) for it to be the duty of the governing body, where the vacancy is advertised—
+
+(i) to interview such applicants for the post as they think fit; and
+
+(ii) where they consider that it is appropriate to do so, to recommend to the authority for appointment to the post one of the applicants interviewed by them;
+
+(c) for it to be the duty of the governing body, where they are unable to agree on a person to recommend to the authority—
+
+(i) to repeat the steps which they are required to take by virtue of paragraph (b) above, if they consider that to do so might lead to their reaching agreement;
+
+(ii) where they have repeated those steps and remain unable to agree, or have decided that it is not appropriate to repeat them, to ask the authority to re-advertise the vacancy; and
+
+(iii) where the vacancy is re-advertised, to repeat those steps;
+
+(d) for it to be the duty of the governing body, where the authority decline to appoint a person recommended by them—
+
+(i) where there are applicants for the post whom they have not interviewed, to interview such of those applicants (if any) as they think fit;
+
+(ii) to recommend another of the applicants interviewed by them, if they think fit;
+
+(iii) to ask the authority to re-advertise the vacancy, if they consider that it should be re-advertised; and
+
+(iv) where the vacancy is re-advertised, to repeat the steps which they are required to take by virtue of paragraph (b) above;
+
+(e) for it to be the duty of the authority, where they are asked by the governing body to re-advertise the vacancy, to do so unless they decide—
+
+(i) that the post is to be removed from the complement of the school; or
+
+(ii) to appoint a person who, at the time when that decision is made, is an employee of theirs or has been appointed to take up employment with them at a future date; and
+
+(f) for—
+
+(i) the head teacher, where he would not otherwise be entitled to be present; and
+
+(ii) such person (if any) as the authority appoint to represent them,
+
+to be entitled to be present, for the purpose of giving advice, whenever governors meet to discuss the appointment or an applicant is interviewed.
+
+(4) The articles of government for every such school shall provide—
+
+(a) in the event of the vacancy not being advertised, for the governing body to be entitled to determine a specification for the post in consultation with the head teacher;
+
+(b) where the governing body have determined such a specification, for it to be their duty to send a copy of it to the authority;
+
+(c) for it to be the duty of the authority—
+
+(i) to have regard to the specification, and consult the governing body and the head teacher, when considering whom to appoint to the post; [^F50]. . .
+
+[^F50]ii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) No local education authority shall appoint a person to a post which they have advertised in accordance with requirements imposed by virtue of subsection (3) above unless—
+
+(a) his appointment has been recommended in accordance with those requirements; or
+
+(b) the authority decide to appoint a person who, at the time when that decision is made, is an employee of theirs or has been appointed to take up employment with them at a future date.
+
+(6) The articles of government for every such school shall provide—
+
+(a) for the governing body to have power to delegate any of the functions which are theirs by virtue of this section, in relation to the filling of a particular vacancy or a vacancy of a kind specified by them, to—
+
+(i) one or more governors;
+
+(ii) the head teacher; or
+
+(iii) one or more governors and the head teacher acting together; and
+
+(b) for the provision made in the articles by virtue of subsection (3)(e) or [^F51]. . . to apply in such a case with the substitution of references to the person or persons to whom the functions are delegated for references to the governing body.
+
+#### 39 Appointment of deputy head teacher.
+
+(1) The articles of government for every county, controlled, special agreement and maintained special school shall, in relation to the appointment of a deputy head teacher for the school, make—
+
+(a) the same provision, modified in accordance with subsections (2) and (3) below, as that made by the articles (in accordance with section 37 of this Act) in relation to the appointment of a head teacher for the school; or
+
+(b) the same provision as that made by the articles (in accordance with section 38 of this Act) in relation to the appointment of other teachers at the school.
+
+(2) Articles of government which, in accordance with subsection (1) above, provide for the appointment of a deputy head teacher for the school to be on the recommendation of a selection panel shall provide for the head teacher, where he is not a member of the panel—
+
+(a) to be entitled to be present, for the purpose of giving advice, at any proceedings of the panel (including interviews); and
+
+(b) whether or not he attends any such proceedings, to be consulted by the panel before it makes any recommendation to the local education authority.
+
+(3) No provision shall be required in the articles of government similar to that mentioned in section 37(1)(b) of this Act.
+
+(4) In subsection (1) above “head teacher” does not include an acting head teacher.
+
+#### 40 Appointment and dismissal of clerk to governing body.
+
+(1) The articles of government for every county and maintained special school shall provide for the clerk to the governing body to be appointed by the local education authority in accordance with arrangements to be determined by them in consultation with the governing body.
+
+(2) The clerk to the governing body of any controlled or special agreement school shall be appointed—
+
+(a) where the articles of government make provision in relation to his appointment, in accordance with that provision;
+
+(b) in every other case, by the authority in accordance with arrangements determined by them in consultation with the governing body.
+
+(3) Arrangements determined in respect of any school under subsections (1) or (2)(b) above may be varied by the authority in consultation with the governing body.
+
+(4) The articles of government for every county and maintained special school shall provide for it to be the duty of the authority not to dismiss the clerk except in accordance with arrangements determined by them in consultation with the governing body.
+
+(5) The articles of government for every county, controlled, special agreement and maintained special school shall provide for the governing body to have power, where the clerk fails to attend any meeting of theirs, to appoint one of their number to act as clerk for the purposes of that meeting, but without prejudice to his position as a governor.
+
+(6) The clerk to the governing body of any controlled or special agreement schools may not be dismissed except—
+
+(a) where the articles of government make provision in relation to his dismissal, in accordance with that provision; or
+
+(b) in any other case, in accordance with arrangements determined by the local education authority in consultation with the governing body.
+
+(7) The articles of government for every county, controlled, special agreement and maintained special school shall provide for it to be the duty of the local education authority to consider any representations made to them by the governing body as to the dismissal of their clerk.
+
+#### 41 Dismissal, etc. of staff.
+
+(1) The articles of government for every county, controlled, special agreement and maintained special school shall provide—
+
+(a) for it to be the duty of the local education authority to consult the governing body and the head teacher (except where he is the person concerned) before—
+
+(i) dismissing (otherwise than under section 27(5) or 28(4) of the 1944 Act, which allow foundation governors to require the authority to dismiss a reserved teacher) any person to whom subsection (3) below applies;
+
+(ii) otherwise requiring any such person to cease to work at the school; or
+
+(iii) permitting any such person to retire in circumstances in which he would be entitled to compensation for premature retirement;
+
+(b) for it to be the duty of the local education authority, where a teacher at the school is required to complete an initial period of probation, to consult the governing body and the head teacher before—
+
+(i) extending his period of probation; or
+
+(ii) deciding whether he has completed it successfully;
+
+(c) for it to be the duty of the local education authority, where the governing body recommend to them that a person should cease to work at the school, to consider their recommendation;
+
+(d) for both the governing body and the head teacher to have power to suspend any person employed to work at the school where, in the opinion of the governing body or (as the case may be) the head teacher, his exclusion from the school is required; and
+
+(e) for it to be the duty of the governing body, or head teacher, when exercising that power—
+
+(i) to inform the local education authority and the head teacher or (as the case may be) governing body forthwith; and
+
+(ii) to end the suspension if directed to do so by the authority.
+
+(2) In this section “suspend” means suspend without loss of emoluments.
+
+(3) This subsection applies to any person who is employed—
+
+(a) in a post which is part of the complement of the school in question; or
+
+(b) to work solely at the school in any other post, otherwise than solely in connection with either or both of the following—
+
+(i) the provision of meals;
+
+(ii) the supervision of pupils at midday.
+
+### School premises
+
+#### 42 [^F52]Control of use of premises outside school hours.
+
+(1) The articles of government for every county and maintained special school shall provide—
+
+(a) for the use of the school premises outside school hours to be under the control of the governing body except to the extent provided by any transfer of control agreement into which they may enter by virtue of paragraph (c) below;
+
+(b) for the governing body in exercising control of the use of the school premises outside school hours—
+
+(i) to comply with any directions given to them by the local education authority by virtue of this sub-paragraph; and
+
+(ii) to have regard to the desirability of the premises being made available for community use;
+
+(c) for the governing body to have power to enter into a transfer of control agreement if their purpose, or one of their purposes, in doing so is to promote community use of the school premises outside school hours; and
+
+(d) for the governing body so far as reasonably practicable to secure, where they enter into a transfer of control agreement, that the controlling body exercises control in accordance with any directions given to the governing body by virtue of paragraph (b)(i) above.
+
+(2) A transfer of control agreement shall be taken to include the following terms, namely—
+
+(a) that the governing body shall notify the controlling body of any directions given to the governing body by virtue of subsection (1)(b)(i) above;
+
+(b) that the controlling body, in exercising control of the use of any premises subject to the agreement—
+
+(i) shall do so in accordance with any directions from time to time notified to that body in pursuance of paragraph (a) above; and
+
+(ii) shall have regard to the desirability of the premises being made available for community use outside school hours; and
+
+(c) that, if reasonable notice is given in writing by the governing body to the controlling body that such of the premises subject to the agreement as may be specified in the notice are reasonably required for use by or in connection with the school at such times as may be so specified, then—
+
+(i) the use of the specified premises at those times shall be under the control of the governing body, and
+
+(ii) accordingly, those premises may be used at those times by or in connection with the school for such purposes as may be specified in the notice,
+
+notwithstanding that their use at those times would, apart from this paragraph, be under the control of the controlling body.
+
+(3) Where a transfer of control agreement makes express provision for the use of any school premises which are subject to the agreement to be occasionally under the control of the governing body, instead of the controlling body, in such circumstances, at such times or for such purposes as may be provided by or under the agreement, paragraph (c) of subsection (2) above shall not have effect in relation to that agreement if, at the time of entering into it, the governing body were of the opinion that the express provision would be more favourable to the interests of the school than the term that would otherwise be included by virtue of that paragraph.
+
+(4) In this section—
+
+- “community use” means the use of school premises (when not required by or in connection with the school) by members of the local community;
+- “the controlling body” means the body or person (other than the governing body) which has control of the use of the whole or any part of the school premises under the transfer of control agreement in question;
+- “school hours” means any time during a school session or during a break between sessions on the same day, and “outside school hours” shall be construed accordingly;
+- “school session”, in relation to any school, means a school session beginning and ending at such times as may from time to time be determined for that school in accordance with [[^F53]Article 3 of the Deregulation (Length of the School Day) Order 1996]; and
+- “transfer of control agreement” means an agreement which, subject to subsection (2) above, provides for the use of so much of the school premises as may be specified in the agreement to be under the control, at such times outside school hours as may be so specified, of such body or person as may be so specified.
+
+## Part IV — Miscellaneous
+
+### 43 Freedom of speech in universities, polytechnics and colleges.
+
+(1) Every individual and body of persons concerned in the government of any establishment to which this section applies shall take such steps as are reasonably practicable to ensure that freedom of speech within the law is secured for members, students and employees of the establishment and for visiting speakers.
+
+(2) The duty imposed by subsection (1) above includes (in particular) the duty to ensure, so far as is reasonably practicable, that the use of any premises of the establishment is not denied to any individual or body of persons on any ground connected with—
+
+(a) the beliefs or views of that individual or of any member of that body; or
+
+(b) the policy or objectives of that body.
+
+(3) The governing body of every such establishment shall, with a view to facilitating the discharge of the duty imposed by subsection (1) above in relation to that establishment, issue and keep up to date a code of practice setting out—
+
+(a) the procedures to be followed by members, students and employees of the establishment in connection with the organisation—
+
+(i) of meetings which are to be held on premises of the establishment and which fall within any class of meeting specified in the code; and
+
+(ii) of other activities which are to take place on those premises and which fall within any class of activity so specified; and
+
+(b) the conduct required of such persons in connection with any such meeting or activity;
+
+and dealing with such other matters as the governing body consider appropriate.
+
+(4) Every individual and body of persons concerned in the government of any such establishment shall take such steps as are reasonably practicable (including where appropriate the initiation of disciplinary measures) to secure that the requirements of the code of practice for that establishment, issued under subsection (3) above, are complied with.
+
+[[^F54](4A) The establishments in England to which this section applies are—
+
+[^F55]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) any establishment of higher or further education which is maintained by a local authority;
+
+(c) any institution within the further education sector.]
+
+(5) The establishments [[^F56] in Wales] to which this section applies are—
+
+(a) any university;
+
+[[^F57](aa) a tertiary education provider registered under section 25 of the Tertiary Education and Research (Wales) Act 2022 to provide higher education, other than an institution within paragraph (a) or (ba) or a school;]
+
+[[^F58](b) any establishment of higher or further education which is maintained by a [[^F59]local authority];]
+
+[[^F60](ba) any institution within the further education sector]
+
+[^F61]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) In this section—
+
+- “governing body” [[^F62]—
+
+  - (a) [^F63]...
+  - (b) [[^F64]in relation to an institution in Wales within the higher education sector or the further education sector has the meaning given by section 90(1) of the Further and Higher Education Act 1992 (c. 13), but subject to any provision made by virtue of section 90(2) of that Act;]]
+
+- [^F65]...
+
+- “university” includes a university college and any college, or institution in the nature of a college, in a university.
+
+[[^F66](6A) For the purposes of this section—
+
+(a) an establishment is taken to be in England if its activities are carried on, or principally carried on, in England;
+
+(b) an establishment is taken to be in Wales if its activities are carried on, or principally carried on, in Wales.]
+
+(7) Where any establishment—
+
+(a) falls within subsection [[^F67](4A)(b) or] (5)(b) above; or
+
+[^F68]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+the [[^F59]local authority] [[^F69]. . .] shall, for the purposes of this section, be taken to be concerned in its government.
+
+(8) Where a students’ union occupies premises which are not premises of the establishment in connection with which the union is constituted, any reference in this section to the premises of the establishment shall be taken to include a reference to the premises occupied by the students’ union.
+
+### [^F70]44 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F71]45 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F72]46 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F73]46A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F74]47 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 48 Abolition of corporal punishment: Scotland.
+
+After section 48 of the [^M1]Education Act (Scotland) 1980, there shall be inserted the following new section—
+
+> **Corporal Punishment**
+>
+> **48A Abolition of corporal punishment of pupils.**
+>
+> (1) Where, in any proceedings, it is shown that corporal punishment has been given to a pupil by or on the authority of a member of the staff, giving the punishment cannot be justified on the ground that it was done in pursuance of a right exercisable by the member of the staff by virtue of his position as such.
+>
+> (2) Subject to subsection (3) below, references in this section to giving corporal punishment are references to doing anything for the purposes of punishing the pupil concerned (whether or not there are also other reasons for doing it) which, apart from any justification, would constitute physical assault upon the person.
+>
+> (3) A person is not to be taken for the purposes of this section as giving corporal punishment by virtue of anything done for reasons which include averting an immediate danger of personal injury to, or an immediate danger to the property of, any person (including the pupil concerned).
+>
+> (4) A person does not commit an offence by reason of any conduct relating to a pupil which would, apart from this section, be justified on the ground that it was done in pursuance of a right exercisable by a member of the staff by virtue of his position as such.
+>
+> (5) In this section “pupil” means a person—
+>
+> (a) for whom education is provided—
+>
+> (i) at a public school,
+>
+> (ii) at a grant-aided school, or
+>
+> (iii) at an independent school, maintained or assisted by a Minister of the Crown, which is a school prescribed by regulations made under this section or falls within a category of schools so prescribed.
+>
+> (b) for whom school education is provided by an education authority otherwise than at a school, or
+>
+> (c) to whom subsection (6) below applies and for whom education is provided at an independent school which does not fall within paragraph (a)(iii) above.
+>
+> (6) This subsection applies to a person if—
+>
+> (a) he holds an assisted place under a scheme operated by the Secretary of State under section 75A of this Act.
+>
+> (b) any of the fees or expenses payable in respect of his attendance at school are paid by the Secretary of State under section 73(f) of this Act.
+>
+> (c) any of the fees payable in respect of his attendance at school are paid by an education authority under section 24(1)(c), 49(2)(b), 50(1) or 64(3) of this Act, or
+>
+> (d) he falls within a category, prescribed by regulations made under this section, of persons appearing to the Secretary of State to be persons in respect of whom any fees are paid out of public funds.
+>
+> (7) In this section “member of the staff” means—
+>
+> (a) in relation to a person who is a pupil by reason of the provision of education for him at any school, any teacher who works at the school and any other person who has lawful control or charge of the pupil and works there, and
+>
+> (b) in relation to a person who is a pupil by reason of the provision of school education for him by an education authority at a place other than a school, any teacher employed by the authority who works at that place and any other person employed by the authority who has lawful control or charge of the pupil and works there.
+>
+> (8) The Secretary of State may, by order made by statutory instrument, prescribe—
+>
+> (a) schools or categories of school for the purposes of subsection (5)(a)(iii) above; and
+>
+> (b) categories of persons for the purposes of subsection (6)(d) above.
+>
+> (9) A person shall not be debarred from receiving education (whether by refusing him admission to, or excluding him from, a school or otherwise) by reason of the fact that this section applies in relation to him, or if he were admitted might so apply.
+>
+> (10) The power conferred on the Secretary of State by paragraph 4 of Schedule 1A to this Act to revoke a determination under section 75A of this Act if he is not satisfied that appropriate educational standards are being maintained includes power to do so if he is not satisfied that subsection (9) above is being complied with.
+
+### 49 Appraisal of performance of teachers.
+
+[^F75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F76]50 Grants for teacher training, etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F77]51 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F78]52 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F79]53 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F80]54 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F81]55 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F82]56 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F83]57 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F84]58 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F85]59 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F86]60 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F87]61 Minimum age for governors of establishments of further education.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F88]62 Access to papers etc. of governing bodies.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part V — Supplemental
+
+### 63 Orders and regulations.
+
+(1) Any power of the Secretary of State to make orders or regulations under this Act [^F89]. . . shall be exercised by statutory instrument.
+
+(2) Any such statutory instrument (other than one made under section [^F90]. . . 66, shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+[^F91]2A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Regulations and orders under this Act may make different provision for different cases or different circumstances and may contain such incidental, supplemental or transitional provisions as the Secretary of State thinks fit.
+
+[^F92]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 64 Expenses.
+
+There shall be defrayed out of money provided by Parliament—
+
+(a) any expenses incurred by the Secretary of State under this Act; and
+
+(b) any increase attributable to this Act in the sums payable out of such money under any other Act.
+
+### 65 Interpretation.
+
+(1) In this Act—
+
+- [^F93]. . .
+- [^F93]. . .
+- [^F93]. . .
+- [^F94]. . .
+- [^F93]. . .
+- [^F93]. . .
+- [[^F95]“establishment of higher or further education” means an institution which provides higher education or further education (or both);]
+- [^F93]. . .
+- [^F93]. . .
+- [^F93]. . .
+- [^F93]. . .
+- [^F93]. . .
+- [^F93]. . .
+- [^F93]. . .
+
+(2) Except where otherwise provided, in this Act “governing body” and “governor” do not include a temporary governing body or any member of such a body.
+
+### 66 Commencement.
+
+(1) Sections [^F96]. . . 63 to 65, this section and section 67(1) [^F96]. . . and (7) of this Act shall come into force on the passing of this Act.
+
+(2) Section 49 [^F97]. . . of this Act shall come into force at the end of the period of two months beginning with the day on which this Act is passed.
+
+(3) The other provisions shall come into force on such date as the Secretary of State may by order appoint.
+
+(4) Different dates may be appointed for different provisions or different purposes including, in particular, for the purpose of bringing particular provisions into force only in relation to particular schools or categories of school.
+
+(5) Any order under this section may make such transitional provision as appears to the Secretary of State to be necessary or expedient in connection with the provisions brought into force by the order.
+
+(6) Any such order may include such adaptations of the provisions which it brings into force, or of any other provisions of this Act then in force, as appear to him to be necessary or expedient for the purpose or in consequence of the operation of any provision of this Act (including, in particular, the provisions which the order brings into force) before the coming into force of any other provision.
+
+### 67 Short title etc.
+
+(1) This Act may be cited as the Education (No. 2) Act 1986.
+
+[^F98]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) This Act shall be construed as one with [[^F99]the Education Act 1996.]
+
+(4) Schedule 4 to this Act (which makes consequential amendments) shall have effect.
+
+[^F98]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F98]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) [[^F100]In this Act section 48 and this section extend to Scotland,] but otherwise this Act extends only to England and Wales.
+
+## [^F101]Schedule 1
+
+### General
+
+**1** (1) In this Schedule—
+
+- “group” means two or more schools grouped under section 9 of this Act; and
+- “grouped school” means a school which forms part of a group.
+
+(2) Any reference in any enactment to the governing body or governors of a school shall be construed, in relation to any grouped school, as a reference to the governing body or governors of the group.
+
+### Procedure in relation to making etc. of instrument of government
+
+**2** (1) Before making an order under section 1 of this Act embodying the first instrument of government for any group; the local education authority shall consult the governing body and head teacher of each school within the group and, where the group contains one or more voluntary schools, shall—
+
+(a) secure the agreement of the governing body of each such school to the terms of the proposed order;
+
+(b) secure the agreement of the foundation governors of each such school to any provisions which will be of particular concern to the foundation governors of the group; and
+
+(c) have regard to the way in which those schools have been conducted.
+
+(2) Where such an order has been made, subsections (1) to (6) of section 2 of this Act shall apply in relation to any subsequent order embodying or varying the instrument of government for the group, or any proposal for the making of such an order—
+
+(a) as if, in the case of a group which contains one or more voluntary schools, it were a single voluntary school; and
+
+(b) as if, in any other case, it were a single county school.
+
+(3) For the purposes of subsection (5) of section 2, any agreement required by sub-paragraph (1) above shall be deemed to have been required by subsection (2) of that section.
+
+### Election of parent and teacher governors
+
+**3** The instrument of government for any group—
+
+(a) may provide for the local education authority to have power to determine, in relation to every election of parent or teacher governors, the school or schools within the group the parents of registered pupils at which, or (as the case may be) the teachers at which, are to be entitled to stand and vote at the election; and
+
+(b) shall, where it does so, provide for it to be the duty of the authority to ensure that the position after any such election will be that there is no school within the group which will not have had an opportunity to have so participated in the election of at least one of the parent or (as the case may be) teacher governors of the group.
+
+### Governors’ annual report to parents
+
+**4** (1) In discharging their duty to prepare governors’ reports; the governing body for a group shall prepare separate reports in relation to each of the schools within the group unless they decide to hold a joint annual parents’ meeting, under paragraph 5 below.
+
+(2) Where the governing body for a group prepare a single report covering all schools within the group, it shall be their duty to secure that any matters which they propose to report on and which are likely to be mainly of interest to the parents of registered pupils at a particular school within the group are treated separately in the report.
+
+### Annual parents’ meeting
+
+**5** (1) In discharging their duty to hold an annual parents’ meeting for any grouped school the governing body for the group may, if they think fit, hold a joint meeting for all of the schools within the group.
+
+(2) Where—
+
+(a) a joint meeting is held; and
+
+(b) the governing body have prepared separate governors’ reports in relation to each of the schools within the group;
+
+the governing body shall, when discharging the duty imposed on them by virtue of section 30(4) of this Act, attach to the report prepared in relation to any one school in the group copies of the reports prepared for each of the other schools within the group.
+
+(3) Where at any joint meeting the question is put on any proposed resolution which concerns one or more, but not all, of the schools within the group—
+
+(a) only parents of registered pupils at the school or schools which the proposed resolution concerns may vote on the question; and
+
+(b) the registered pupils at the other schools shall be disregarded for the purposes of section 31(4)(b) of this Act as it applies in relation to the proposed resolution.
+
+(4) Where at any joint meeting there is any disagreement as to which schools within the group a proposed resolution concerns, the matter shall be decided by the chairman of the governing body.
+
+## [^F102]SCHEDULE 2
+
+### Part I — General
+
+**1** In this Schedule—
+
+- “arrangement” means (except in paragraph 2(2)(b) or 19) an arrangement made under section 12 of this Act for the constitution of a temporary governing body for a new school;
+- “new school” means any school, or proposed school, which is required to have a temporary governing body or in respect of which the local education authority have power to make an arrangement under section 12(4);
+- “relevant proposal” means the proposal (of a kind mentioned in section 12) by reference to which the school in question is a new school; and
+- “temporary governor” means any member of a temporary governing body.
+
+#### Constitution of temporary governing body
+
+**2** (1) Subject to the provisions of this Schedule, every temporary governing body shall be constituted—
+
+(a) in accordance with the provisions of sections 3 and 7 of this Act, in the case of a school whose governing body will be required to be constituted in accordance with those provisions; and
+
+(b) in accordance with the provisions of [[^F103]sections 4 and 4A] of this Act, in the case of a school whose governing body will be required to be constituted in accordance with those provisions.
+
+(2) For the purpose of the application of section 3, 4 [[^F104]4A] or 7 of this Act in relation to the constitution of its temporary governing body, a new school shall be treated as having as registered pupils the maximum number of pupils referred to—
+
+(a) in the relevant proposal; or
+
+[^F105]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In co-opting any person (otherwise than as a temporary foundation or teacher governor) to be a member of a temporary governing body of a new school which will be a county, controlled or maintained special school, the temporary governors concerned shall—
+
+(a) have regard—
+
+(i) to the extent to which they and the other temporary governors are members of the local business community; and
+
+(ii) to any representations made to the temporary governing body as to the desirability of increasing the connection between the temporary governing body and that community; and
+
+(b) where it appears to them that no temporary governor of the new school is a member of the local business community, or that it is desirable to increase the number of temporary governors who are, co-opt a person who appears to them to be a member of that community.
+
+(4) The first meeting of any temporary governing body shall be called—
+
+(a) by their clerk; or
+
+(b) where he fails to call it within such period as the local education authority consider reasonable, by the authority.
+
+### Part II — School Government
+
+#### Transition from temporary governing body to governing body
+
+**3** (1) The requirement for there to be an instrument of government for a school to which section 1 of this Act applies shall take effect in relation to a new school from the date on which the relevant proposal is implemented.
+
+(2) When that requirement takes effect, paragraph 2(2) above shall apply in relation to the governing body of the school as it applied in relation to its temporary governing body and shall continue to apply, for the purposes of determining (at any time after the governing body is first constituted) what provision would be required to be made by a new instrument of government for the school, until such time as—
+
+(a) the number of registered pupils at the school reaches the maximum referred to in paragraph 2(2); or
+
+(b) the local education authority exercise the power conferred on them by virtue of sub-paragraph (3) below.
+
+(3) The instrument of government for every school to which paragraph 2(2) above applies at the time when it is made shall provide for the local education authority to have power to direct that that paragraph shall cease to apply in relation to the school.
+
+(4) The local education authority shall secure that the governing body of any new school is constituted—
+
+(a) as soon as is reasonably practicable after the requirement for there to be an instrument of government for the school takes effect; and
+
+(b) in any event not later than the last day of the term in which pupils first attend the new school or (as the case may be) first attend the school after it becomes a maintained school.
+
+(5) Where the requirement for there to be an instrument of government for a new school has taken effect, the temporary governing body of the school shall, until such time as the governing body is constituted—
+
+(a) continue in existence (notwithstanding that the arrangement under which they were constituted has come to an end by virtue of paragraph 5 below); and
+
+(b) be treated as if they were the governing body.
+
+(6) Where a new school is grouped under section 9 of this Act, with effect from the time when an instrument of government is required for the school, any consent given by, or consultation with, the temporary governing body shall be treated for the purposes of section 10(5) and (6) of this Act as having been given by, or (as the case may be) held with, the governing body.
+
+(7) Where any question arises as to the date which is to be taken to be the implementation date of any such proposal for the purposes of this paragraph, it shall be determined by the Secretary of State.
+
+**4** (1) Before making any order under section 1 of this Act in respect of a new school, the local education authority shall consult the temporary governing body and head teacher.
+
+(2) Before making any such order in respect of a new school which will be a voluntary school, the authority shall—
+
+(a) secure the agreement of the temporary governing body to the terms of the proposed order; and
+
+(b) if it embodies or varies an instrument of government, secure the agreement of the temporary foundation governors to any provisions which are of particular concern to those governors.
+
+(3) Where a local education authority propose to make any such order in respect of a new school but cannot secure any agreement required by this paragraph, they or (as the case may be) the temporary governing body or temporary foundation governors may refer the matter to the Secretary of State.
+
+(4) On any reference to him under this paragraph the Secretary of State shall give such direction as he thinks fit.
+
+#### Duration of arrangement for temporary governing body
+
+**5** (1) Every arrangement shall (if it has not been brought to an end under sub-paragraph (2) below) come to an end when the requirement for there to be an instrument of government for the new school first has effect.
+
+(2) Where an arrangement has been made by virtue of section [[^F106]12(4)] of this Act and
+
+(a) the proposal in question is withdrawn;
+
+(b) the Secretary of State has decided not to approve that proposal [^F107]. . .
+
+(c) the local education authority have, under section 12(7) of the 1980 Act, determined not to implement that proposal;
+
+the occurrence of that event shall bring the arrangement to an end.
+
+#### Composition of temporary governing body
+
+**6** (1) No local education authority shall make an arrangement in respect of a new school which will be a controlled school without the agreement of the promoters as to the provision which will be made in relation to the temporary foundation governors; and in the event of any disagreement between the authority and the promoters in respect of that provision, either of them may refer the matter to the Secretary of State.
+
+(2) No local education authority shall make an arrangement in respect of a new school which will be an aided school without the agreement of the promoters as to the composition of the temporary governing body; and in the event of any disagreement between the authority and the promoters as to the composition of that body, either of them may refer the matter to the Secretary of State.
+
+(3) On any reference under this paragraph, the Secretary of State shall give such direction as he thinks fit.
+
+#### Appointment of temporary parent and teacher governors
+
+**7** (1) The temporary parent governors for a new school shall, subject to sub-paragraph (2) below, be appointed—
+
+(a) where the school will be a county, controlled or maintained special school, by the local education authority; and
+
+(b) where it will be an aided school, by the promoters.
+
+(2) Where—
+
+(a) two or more schools have been, or are to be, discontinued (“the discontinued schools”); and
+
+(b) the registered pupils at those schools, or a substantial number of those pupils, are expected to transfer to a new school;
+
+the local education authority may (subject to sub-paragraph (3) below) provide for any of the governing bodies of the discontinued schools to appoint some or all of the temporary parent or teacher governors of the new school.
+
+(3) No provision may be made under sub-paragraph (2) above for the appointment of temporary parent or teacher governors of a new school which will be an aided school without the agreement of the promoters; and in the event of any disagreement between the authority and the promoters as to whether any such provision should be made, either of them may refer the matter to the Secretary of State.
+
+(4) On any reference under sub-paragraph (3) above, the Secretary of State shall give such direction as he thinks fit.
+
+(5) Before making any provision under sub-paragraph (2) above for the appointment of temporary parent or teacher governors of a new school which will be a controlled school, the local education authority shall consult the promoters.
+
+(6) No person shall be appointed under sub-paragraph (1) or (2) above as a temporary parent governor of a new school unless—
+
+(a) he is the parent of a child who is likely to become a registered pupil at the school; or
+
+(b) where it is not reasonably practicable to appoint such a person, he is the parent of a child of compulsory school age.
+
+(7) No person shall be appointed under sub-paragraph (1) as a temporary parent governor of a new school if he is—
+
+(a) an elected member of the authority;
+
+(b) an employee of the authority or of the governing body of any aided school maintained by the authority; [^F108]. . .
+
+[^F108]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+#### Temporary teacher governors
+
+**8** (1) Subject to paragraph 7(2) above, the temporary teacher governors of a new school shall be co-opted by a resolution passed at a meeting of those temporary governors who have not themselves been co-opted.
+
+(2) No person shall be appointed as a temporary teacher governor of a new school unless he is employed as a teacher in a school maintained by a local education authority.
+
+#### Duty to appoint suitably experienced members
+
+**9** (1) Any person [[^F109]other than a person who is to be named in the instrument of government as a sponsor of the school] appointing a person as a temporary governor of a new school shall have regard to the desirability of that person being suitably experienced.
+
+(2) For the purposes of this paragraph, a person is suitably experienced if he has served as a governor or temporary governor of a school and, in particular (in a case where registered pupils at another school which has been, or is to be, discontinued are expected to transfer to the new school), if he has served as a governor or temporary governor of that other school.
+
+#### Proceedings etc.
+
+**10** (1) The proceedings of a temporary governing body shall not be invalidated by—
+
+(a) any vacancy among their number; or
+
+(b) any defect in the appointment of any temporary governor.
+
+(2) Any member of a temporary governing body may at any time resign his office, or be removed from office, in the same way as a member of a governing body constituted under an instrument of government.
+
+(3) The minutes of the proceedings of any temporary governing body shall be open to inspection by the local education authority.
+
+(4) The Secretary of State may by regulations make similar provision in relation to temporary governing bodies and their members as may be made in relation to governing bodies and their members under section 8 of this Act.
+
+#### Miscellaneous
+
+**11** (1) The qualification of any person for appointment as a temporary governor, of a particular category, of any new school shall not have the effect of disqualifying him for appointment as a temporary governor, of any other category, of that school.
+
+(2) No person shall at any time hold more than one temporary governorship of the same school.
+
+(3) Where any temporary governor is to be appointed by persons acting jointly, the appointment shall be made, in the event of failure on the part of those persons to make an agreed appointment—
+
+(a) by the Secretary of State; or
+
+(b) in accordance with any direction given by him.
+
+(4) Subject to paragraph 2(3) above, where temporary governors are required to co-opt one or more persons to be temporary governors, the arrangement under which the temporary governing body are constituted shall not make any provision which has the effect of restricting those governors in their choice of person to co-opt.
+
+(5) Sub-paragraph (4) above does not apply in relation to foundation governors.
+
+(6) No person shall be qualified for membership of any temporary governing body unless he is aged eighteen or over at the date of his appointment.
+
+### Part III — Organisation and Functions
+
+#### General
+
+**12** (1) The requirement for there to be articles of government for certain schools, which is imposed by section 1 of this Act, shall not apply in relation to a new school until such time as it is required to have an instrument of government (in accordance with section 1 as read with paragraph 3 of this Schedule).
+
+(2) The determination of those matters relating to the conduct of any new school which require to be determined before a governing body is constituted for the school under an instrument of government shall be under the direction of the temporary governing body, but subject to any provision made by or under this Act (including, in particular, this Schedule) or any other enactment.
+
+(3) The Secretary of State may by regulations make similar provision in relation to consultation with temporary governing bodies as he has power to make in relation to consultation with governing bodies under section 16(2) of this Act.
+
+#### Reports and information to be provided by temporary governing body
+
+**13** (1) Every temporary governing body shall furnish to the local education authority such reports in connection with the discharge of their functions as the authority may require (either on a regular basis or from time to time).
+
+(2) Every temporary governing body shall make such reports and returns, and give such information, to the Secretary of State as he may require for the purpose of the exercise of his functions in relation to education.
+
+(3) Every temporary governing body shall prepare—
+
+(a) immediately before the arrangement under which they are constituted comes to an end; and
+
+(b) for the purpose of assisting the governing body who will succeed them;
+
+a brief report of the action which they have taken in the discharge of their functions; and shall recommend (with reasons) persons who belong to the community served by the new school and who are, in the opinion of the temporary governing body, suitable for appointment as co-opted members of the governing body.
+
+(4) Before making any recommendations under sub-paragraph (3) above, a temporary governing body shall consult representatives of the local business community.
+
+(5) All minutes and papers of any temporary governing body, including the report prepared under sub-paragraph (3) above, shall be made available to their successors.
+
+#### Head teacher’s reports
+
+**14** (1) The head teacher of any new school for which a temporary governing body have been constituted shall furnish that body, or (as the case may be) the local education authority, with such reports in connection with the discharge of his functions as that body or authority may require (either on a regular basis or from time to time).
+
+(2) Where, under sub-paragraph (1) above, any requirement is imposed by a local education authority on the head teacher of a new school which will be an aided school, the authority shall notify the temporary governing body of that requirement; and the head teacher of any such school shall furnish that body with a copy of any report which he makes in complying with any such requirement.
+
+#### Preparation of curriculum
+
+**15** (1) The head teacher of any new school for which a temporary governing body have been constituted shall, in preparing to discharge his functions in relation to the curriculum for the school, consult that body and the local education authority.
+
+(2) Any authority who have been consulted under this paragraph shall inform the head teacher of the resources which are likely to be made available to the school; and the head teacher shall have regard to any information so given to him.
+
+#### School terms etc. [^F110]
+
+**16** (1) Pending the coming into force of the articles of government for a new school which will be a county or controlled school—
+
+(a) the dates at which the school terms and holidays are to begin and end shall be determined by the local education authority; and
+
+(b) the times at which the school session or, if there is more than one, each school session is to begin and end on any day shall be determined by the temporary governing body after consultation with the authority.
+
+(2) Pending the coming into force of the articles of government for a new school which will be an aided school—
+
+(a) the dates and times at which the school terms and holidays are to begin and end; and
+
+(b) the times at which the school session or, if there is more than one, each school session is to begin and end on any day;
+
+shall be determined by the temporary governing body.
+
+#### Discipline
+
+**17** Pending the coming into force of the articles of government for a new school which will be a county, voluntary or maintained special school, the head teacher and the temporary governing body shall be under the same duties as will be required to be imposed on him and the governing body by virtue of section 22(a) to (e) of this Act.
+
+#### Finance
+
+**18** Where a temporary governing body have been constituted for any new school, the local education authority shall consult that body and the head teacher on their proposed expenditure on books, equipment and stationery for the school.
+
+#### Admission of pupils
+
+**19** (1) The initial arrangements for the admission of pupils to a new school shall be made—
+
+(a) where the school will be a county or controlled school, by the local education authority; and
+
+(b) where it will be an aided school, by the temporary governing body or, where that body have not been constituted and the promoters consider that it is expedient for the arrangements to be determined without delay, by the promoters.
+
+(2) Any person making any initial arrangements under this paragraph shall have regard to the arrangements in force for the admission of pupils to comparable schools in the area of the local education authority.
+
+(3) Before making any such initial arrangements for a new school which will be a county school, the authority shall consult the temporary governing body unless—
+
+(a) that body have not been constituted; and
+
+(b) the authority consider that it is expedient for the initial arrangements to be determined without delay.
+
+(4) Before making any such initial arrangements for a new school which will be a controlled school, the authority shall consult—
+
+(a) the temporary governing body; or
+
+(b) where that body have not been constituted, the promoters.
+
+(5) Before making any such initial arrangements for a new school which will be an aided school, the temporary governing body or (as the case may be) the promoters shall consult the authority.
+
+(6) Sections 6 to 8 of the 1980 Act (admission to schools) shall have effect, in relation to any new school, as if the references to governors included references to the person responsible for the admission of pupils under the initial arrangements for that school.
+
+#### Appointment of staff etc. at new aided schools
+
+**20** (1) For the purposes of the appointment and dismissal of staff at any new school which will be an aided school, the local education authority and the temporary governing body shall (subject to sub-paragraph (2) below) have the same powers, and be under the same duties, as would the authority and the governing body for an aided school whose articles of government provided for—
+
+(a) staff employed solely in connection with the provision of school meals to be appointed by the authority; and
+
+(b) other staff employed at the school to be appointed by the governing body.
+
+(2) The first appointment of a clerk to the temporary governing body of any such school shall be made by the promoters.
+
+(3) Where the arrangement for the constitution of a temporary governing body of any such school comes to an end, the person who was the clerk to that body shall act as clerk to the governing body who succeed them, pending the appointment of their clerk.
+
+(4) The authority shall, with a view to enabling staff to be appointed in good time, notify the temporary governing body of every such school of the steps (if any) which they intend to take in respect of the school under sections 22(4) and 24(2) of the 1944 Act (powers of authority in relation to certain staff).
+
+(5) Paragraphs 21 to 25 and 26 (1) and (2) below shall not apply in relation to any such school.
+
+#### Determination of staff complement
+
+**21** (1) Where a temporary governing body have been constituted for a new school, the complement of teaching and non-teaching posts for the school shall be determined by the local education authority.
+
+(2) Section 34(2) and (3) of this Act shall apply in relation to any complement determined under this paragraph.
+
+#### The selection panel
+
+**22** (1) Whenever a selection panel is required by virtue of paragraph 23 or 25 below, it shall be constituted in accordance with this paragraph.
+
+(2) A selection panel shall consist of such number of persons appointed to it by the local education authority, and such number of temporary governors appointed to it by the temporary governing body, as the authority shall determine.
+
+(3) The number so determined shall—
+
+(a) in each case, be not less than three; and
+
+(b) in relation to appointments made by the temporary governing body, be not less than the number determined in relation to appointments made by the authority.
+
+(4) The temporary governing body and the authority shall have power to replace, at any time, any member of a selection panel whom they have appointed.
+
+(5) The Secretary of State may by regulations make provision, for the purposes of this paragraph, as to the meetings and proceedings of selection panels.
+
+#### Appointment of head teacher and acting head teacher
+
+**23** (1) Subject to sub-paragraphs (2) and (3) below, the same provision shall apply in relation to the appointment of a head teacher for a new school for which a temporary governing body have been constituted as is required to be made in relation to the appointment of a head teacher by the articles of government of a school to which section 37 of this Act applies.
+
+(2) Where—
+
+(a) two or more schools are to be discontinued (“the discontinued schools”); and
+
+(b) the registered pupils at those schools, or a substantial number of those pupils, are expected to transfer to a new school;
+
+the local education authority may, in consultation with the temporary governing body, appoint one of the head teachers of the discontinued schools as the first head teacher for the new school, instead of following the procedure mentioned in sub-paragraph (1) above.
+
+(3) In the event of the post of head teacher for the new school being vacant, the authority may, if they think fit, appoint an acting head teacher after consulting the temporary governing body.
+
+#### Appointment of certain other staff
+
+**24** (1) Subject to sub-paragraph (3) below, the same provision shall apply in relation to the appointment of any person to a post which is part of the complement of a new school for which a temporary governing body have been constituted as is required to be made in relation to the appointment of any person to such a post by the articles of government of a school to which section 38 of this Act applies.
+
+(2) The local education authority shall consult the temporary governing body and the head teacher before appointing any person to work solely at the school otherwise than—
+
+(a) in a teaching post;
+
+(b) in a non-teaching post which is part of the complement of the school; or
+
+(c) solely in connection with either or both of the following—
+
+(i) the provision of meals;
+
+(ii) the supervision of pupils at midday.
+
+(3) This paragraph does not apply in relation to the appointment of a head teacher or deputy head teacher or to any temporary appointment pending—
+
+(a) the return to work of the holder of the post in question; or
+
+(b) the taking of any steps required by this Schedule in relation to the vacancy in question.
+
+#### Appointment of deputy head teacher
+
+**25** Where a temporary governing body have been constituted for a new school, the provision which is to apply in relation to the appointment of a deputy head teacher of the school shall be—
+
+(a) the same as that which may be made in the articles of government of a school to which section 39 of this Act applies by virtue of subsection (1)(a) of that section; or
+
+(b) where the local education authority so decide, the same as that which may be made in the articles of government of such a school by virtue of subsection (1)(b) of section 39.
+
+#### Appointment of clerk to temporary governing body
+
+**26** (1) Where a temporary governing body have been constituted for a new school, the clerk to the temporary governing body shall be appointed by the local education authority.
+
+(2) Where the arrangement for the constitution of a temporary governing body of any new school comes to an end, the person who was the clerk to that body shall act as clerk to the governing body who succeed them, pending the appointment of a clerk under section 40 of this Act.
+
+(3) Where the clerk to a temporary governing body fails to attend any meeting of theirs, they may appoint one of their number to act as clerk for the purposes of that meeting, but without prejudice to his position as a temporary governor.
+
+### Part IV — Miscellaneous
+
+#### Travelling and subsistence allowances etc.
+
+**27** Section 58 of this Act shall apply in relation to the members of temporary governing bodies as it applies in relation to the members of governing bodies of county, voluntary and maintained special schools.
+
+#### Expenses of temporary governing bodies, etc.
+
+**28** Where a temporary governing body are constituted for a new school, the local education authority shall be under the same duty to defray the expenses incurred in relation to the temporary governing body, and the staff appointed in accordance with the provisions of this Schedule, as they would be if the relevant proposal had been implemented and the temporary governing body were the governing body of the school.
+
+#### Powers of Secretary of State
+
+**29** For the purposes of the following provisions of the 1944 Act—
+
+(a) section 67(1) (determination of disputes);
+
+(b) section 68 (prevention of unreasonable exercise of functions); and
+
+(c) section 99(1) and (2) (default);
+
+a temporary governing body shall be treated as if they were the governing body of the school in question.
+
+#### Provision of information for temporary governing bodies
+
+**30** (1) Every local education authority shall secure that the temporary governing body of each of the new schools which will be maintained by them are, on being constituted, provided (free of charge) with such explanatory and other information as the authority consider is required to enable that body to discharge their functions effectively.
+
+(2) Where a new school will be a county, controlled or maintained special school, the authority shall, in discharging their duty under sub-paragraph (1) above, inform the temporary governing body, in particular—
+
+(a) of the number of members of any selection panel required by virtue of paragraph 23 or 25 above who are to be appointed by the authority and the number who are to be appointed by the temporary governing body;
+
+(b) where the authority intend to exercise the power conferred on them by paragraph 23(2) above, of their intention to do so;
+
+(c) of the provision which is to apply in relation to the appointment of the deputy head teacher of the school;
+
+(d) of the complement of staff for the school; and
+
+(e) of the authority’s proposals with regard to the appointment of staff for the school and the timing of appointments.
+
+(3) Where a new school will be an aided school, the authority shall, in discharging their duty under sub-paragraph (1) above, inform the temporary governing body, in particular, of their proposals with regard to the appointment of staff for the school and the timing of appointments.
+
+## [^F111]SCHEDULE 3
+
+### General
+
+**[^F112]1** The articles of government for every county, controlled and maintained special school shall provide for it to be the duty of the local education authority, when (following the consideration which they are required to give to the case by virtue of section 24(a) of this Act) they inform a pupil, or a parent of his, of their decision that he should not be reinstated, to give to the pupil or (as the case may be) parent notice in writing—
+
+(a) of his right to appeal against the decision,
+
+(b) of the last date on which an appeal may be made calculated in accordance with paragraph 3A(1) below,
+
+(c) of the right of the pupil or (as the case may be) parent to give notice under paragraph 3A(2) below stating that he does not intend to appeal, and
+
+(d) that no appeal may be made after notice under paragraph 3A(2) below is given.
+
+**[^F113]2** The articles of government for every aided and special agreement school shall provide for it to be the duty of the governing body, when (following the consideration which they are required to give to the case by virtue of section 25(a) of this Act) they inform a pupil, or a parent of his, of their decision that he should not be reinstated, to give to the pupil or (as the case may be) parent notice in writing—
+
+(a) of his right to appeal against the decision,
+
+(b) of the last date on which an appeal may be made calculated in accordance with paragraph 3A(1) below,
+
+(c) of the right of the pupil or (as the case may be) parent to give notice under paragraph 3A(2) below stating that he does not intend to appeal, and
+
+(d) that no appeal may be made after notice under paragraph 3A(2) below is given.
+
+**3** (1) Where, in accordance with any provision of the articles of government of any school made by virtue of section 24(a) of this Act, the local education authority give a direction to the head teacher of the school for the reinstatement of any pupil who has been excluded, the direction shall not have effect for a period [[^F114]ending with the fifth school day ending after] the governing body are informed of the direction by the authority unless, within that period, the governing body inform the authority that they do not intend to appeal against the direction.
+
+(2) Where, before the end of that period, the governing body lodge an appeal against the direction in accordance with the relevant arrangements—
+
+(a) the local education authority shall [[^F115]before the end of the fourth school day after the day on which the appeal is lodged,] inform the pupil (if he is aged eighteen or over) or his parent (if he is under eighteen) of his right to make representations to the appeal committee; and
+
+(b) the direction shall not have effect unless it is confirmed by the appeal committee or the appeal is withdrawn.
+
+(3) No appeal against such a direction may be made by the governing body after the direction has taken effect.
+
+**[^F116]3A** (1) No appeal under section 26(1)(a) or (2) of this Act against a decision not to reinstate a pupil may be made after the fifteenth school day after the day on which the pupil (if he is aged eighteen or over) or a parent of his (if he is under eighteen) is given notice in writing in accordance with paragraph 1 or 2 above.
+
+(2) Any notice in writing given to the body responsible for making any arrangements under section 26 of this Act by a pupil (if he is aged eighteen or over) or a parent of his (if he is under eighteen) stating that he does not intend to appeal against a decision not to reinstate the pupil shall be final.
+
+(3) The time limit for appealing under section 26 of this Act shall be treated as having expired on the day on which notice is given under sub-paragraph (2), if earlier than the day after which no appeal may be made referred to in sub-paragraph (1).
+
+**4** Part I of Schedule 2 of the 1980 Act (constitution of appeal committees) shall have effect in relation to appeals with the necessary modifications.
+
+**5** The Secretary of State may by order amend this Schedule.
+
+### Procedure
+
+**6** An appeal shall be by notice in writing setting out the grounds on which it is made.
+
+**[^F117]6A** The appeal committee shall meet to consider an appeal—
+
+(a) within the period ending with the fifteenth school day after the day on which the appeal is lodged, or
+
+(b) if the body responsible for making any arrangements under section 26 of this Act has determined a shorter period, within that period.
+
+**7** On an appeal by a pupil or parent, the appeal committee—
+
+(a) shall afford the appellant an opportunity of appearing and making oral representations;
+
+(b) may allow him to be accompanied by a friend or to be represented; and
+
+(c) shall allow—
+
+(i) the local eduction authority and the governing body to make written representations to the committee; [[^F118]and]
+
+(ii) an officer of the authority nominated by the authority, and a governor nominated by the governing body, to appear and make oral representations.
+
+**8** On an appeal by a governing body, the appeal committee—
+
+(a) shall afford a governor nominated by the governing body an opportunity of appearing and making oral representations;
+
+(b) shall afford the governing body an opportunity to be represented;
+
+(c) shall allow the pupil, if he is aged eighteen or over, or a parent of his, if he is under eighteen, to make written representations to the committee [[^F119]and] to appear and make oral representations; and
+
+(d) shall allow the local education authority to make written representations [[^F119]and] an officer of the authority nominated by them to appear and make oral representations.
+
+**9** [[^F120](1)]The body responsible for making any arrangements under section 26 of this Act shall, in setting any time limits in connection with appeals, have regard to the desirability of securing that appeals are disposed of without delay.
+
+[[^F121](2) The body responsible for making any arrangements under section 26 of this Act may when requested to do so by a pupil (if he is aged eighteen or over) or a parent of his (if he is under eighteen) who has appealed under section 26(1)(a) or (2) of this Act, in exceptional circumstances extend any period in which an appeal committee may hear an appeal and for communicating its decision.]
+
+**10** In considering any appeal, the appeal committee shall take into account (amongst other things) any representations made to it by any of the persons whom it is required to afford an opportunity to make representations.
+
+**11** In the event of a disagreement between the members of an appeal committee the appeal under consideration shall be decided by a simple majority of the votes cast and in the case of an equality of votes the chairman of the committee shall have a second or casting vote.
+
+**12** [[^F122]Within—
+
+(a) the period ending with the seventeenth school day after the day on which the appeal is lodged, or
+
+(b) if the body responsible for making any arrangements under section 26 of this Act has determined a shorter period, that period,]
+
+the decision of an appeal committee and the grounds on which it is made shall be communicated by the committee in writing to the pupil (if he is aged eighteen or over) or a parent of his (if he is under eighteen) and to the local education authority and governing body.
+
+**13** All appeals shall be heard in private except when otherwise directed by the authority or governing body by whom the arrangements are made but, without prejudice to any of the provisions of this Schedule—
+
+(a) a member of the local education authority may attend any hearing of an appeal by an appeal committee, as an observer; and
+
+(b) any member of the Council on Tribunals may attend any meeting of any appeal committee at which an appeal is considered, as an observer.
+
+**14** Two or more appeals may be combined and dealt with in the same proceedings if the appeal committee consider that it is expedient to do so because the issues raised by the appeals are the same or connected.
+
+**15** Subject to the preceding provisions of this Schedule, all matters relating to the procedure on appeals, including the time within which they are to be brought, shall be determined by the authority or governing body by whom the arrangements are made; and neither section 106 of the [^M2]Local Government Act 1972 nor paragraph 44 of Schedule 12 to that Act (procedure of committees of local authorities) shall apply to an appeal committee constituted in accordance with Part I of Schedule 2 to the Act of 1980.
+
+**16** In this Schedule references to appeals are to appeals under section 26 of this Act.
+
+**[^F123]17** (1) Where in accordance with paragraph 1 or 2 above notice in writing is required to be given to a person, that notice may be given either by delivering the notice to the person’s last known address or by properly addressing, pre-paying and sending by first class post a letter containing the notice to the person’s last known address.
+
+(2) For the purposes of calculating a period referred to in paragraph 3A(1) above, notice shall be taken to have been given—
+
+(a) where first class post is used, on the second school day after the date of posting, unless the contrary is shown, and
+
+(b) where the notice is delivered, on the date of delivery, unless the contrary is shown.
+
+## SCHEDULE 4 — Consequential Amendments
+
+*Section 67 (4).*
+
+### The Education Act 1944 (c.31)
+
+**[^F124]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F125]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Education Act 1962 (c.12)
+
+**3** In section 4(5) of the Education Act 1962 (meaning of “training” in relation to grants for training of teachers) for “section 2 and 3” there shall be substituted “section 2”.
+
+**4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F126]
+
+### The Local Government Act 1974 (c.7)
+
+**[^F127]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F128]
+
+**7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F129]
+
+## [^F130]SCHEDULE 5
+
+### Instruments of government for certain existing schools
+
+**1** (1) Section 1 of this Act shall not require the making of an instrument of government for any aided or special agreement school in respect of which there is in force, at the time when that section comes into force, and continues in force, an instrument under which its governing body is constituted; but this paragraph shall cease to apply to any such school if it is grouped with another school under section 9 of this Act.
+
+(2) Any such instrument shall, after the commencement of section 1, be treated for the purposes of this Act as having been made by order under that section.
+
+### Grouping
+
+**2** Where a local education authority propose to group two or more schools which are subject to an arrangement under section 3 of the 1980 Act (the “section 3 schools”), the references in subsections (5) and (6) of section 10 of this Act to the governing body of each of the schools concerned shall be construed as references to the persons deemed to be governors of the section 3 schools by section 3(7) of the 1980 Act.
+
+### Recommendations by outgoing governing bodies
+
+**3** (1) The governing body for any county, controlled or maintained special school which is constituted under an instrument of government or arrangement in force immediately before section 1 of this Act comes into force shall recommend (with reasons) to any governing body who will succeed them persons who belong to the community served by the school and who are, in their opinion, suitable for appointment as co-opted members of their successor.
+
+(2) Before making any recommendations under sub-paragraph (1) above, a governing body shall consult representatives of the local business community.
+
+## [^F131]SCHEDULE 6
+
+### Part I — Enactments Repealed
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 7 & 8 Geo. 6. c. 31. | The Education Act 1944. | Section 4. |
+|  |  | Section 5. |
+|  |  | Sections 17 to 21. |
+|  |  | Section 23. |
+|  |  | Section 24(1). |
+|  |  | In section 27(3), from “but before” to end. |
+|  |  | In section 67(2), the words from “or whether” to “another”. |
+| 1962 c. 12. | The Education Act 1962. | In section 3, paragraph (a) and from “in the case of” to “this section”. |
+|  |  | In section 4(3), “(a) or”. |
+| 1963 c. 33. | The London Government Act 1963. | In section 31, subsections (7)(a) and (8). |
+| 1966 c. 42. | The Local Government Act 1966. | In Schedule 5, paragraph 6. |
+| 1968 c. 37. | The Education (No. 2) Act 1968. | Section 2. |
+|  |  | In section 3(2), the words “or subsection (4) of section 2”. |
+| 1980 c. 20. | The Education Act 1980. | Section 2. |
+|  |  | Section 3. |
+|  |  | Section 4. |
+|  |  | Sections 31 and 32. |
+|  |  | In section 35(1), the words from “(other” to “(b))”. |
+|  |  | Schedule 6. |
+| 1980 c. 44. | The Education (Scotland) Act 1980. | Section 23(5) to (7). |
+| 1980 c. 65. | The Local Government, Planning and Land Act 1980. | Section 68(5). |
+
+### Part II — Instruments Revoked
+
+|  |  |  |
+|---|---|---|
+| Number | Name of instrument | Extent of revocation |
+| S.I. 1970/1 536. | The Transfer of Functions (Wales) Order 1970. | Article 4. |
+
+---
+
+[^F1]: Ss. 1-42 (Pts. I-III) repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt. I, Sch.39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F2]: Ss. 1-42 (Pts. I-III) repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch.38 Pt. I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F3]: S. 4A inserted (1.1.1994) by 1993 c. 35, s. 271(1); S.I. 1993/3106, art. 4, Sch.1
+[^F4]: S. 5(4)(b)(iii) and word preceding it repealed (1.4.1994) by 1993 c. 35, s. 307(1)(3), Sch. 19 para. 89, Sch. 21 Pt.II; S.I. 1994/507, art. 4, Sch. 2Appendix
+[^F5]: S. 7(2)(a)(b) substituted for words by National Health Service and Community Care Act 1990 (c. 19, SIF 113:2), s. 66(1), Sch. 9 para. 31
+[^F6]: Words in s. 7(2)(a) substituted (28.6.1995 for certain purposes as mentioned in s. 8(1) and otherwise 1.4.1996) by 1995 c. 17, ss. 2(1)(3), 8(1), Sch. 1 Pt. III para.112 (with Sch. 2 para. 6)
+[^F7]: Words in s. 8(2) added (1.1.1994) by 1993 c. 35, s. 271(2); S.I. 1993/3106, art. 4, Sch. 1
+[^F8]: S. 8(7)(aa)(ab) inserted by Education Reform Act 1988 (c. 40, SIF 41:1), ss. 116, 118(1)(4), 231(7), 235(6)
+[^F9]: S. 9(1A) inserted (1.1.1994) by 1993 c. 35, s. 271(3)(a); S.I. 1993/3106, art. 4, Sch. 1
+[^F10]: Word in s. 9(5)(a)(ii) repealed (1.4.1994) by 1993 c. 35, ss. 303(4), 307(1)(3), Sch. 19 para. 90(a), Sch. 21 Pt. I; S.I. 1994/507, art. 4, Sch. 2Appendix
+[^F11]: S. 9(5)(a)(iv) and preceding word inserted (1.4.1994) by 1993 c. 35, s. 307(1), Sch. 19 para.90(a); S.I. 1994/507, art. 4, Sch. 2
+[^F12]: Words in s. 9(7)(b) inserted (1.1.1994) by 1993 c. 35, s. 271(3)(b); S.I. 1993/3106, art. 4, Sch. 1
+[^F13]: Word in s. 11(2)(a)(ii) repealed (1.4.1994) by 1993 c. 35, ss. 303(4), 307(1)(3), Sch. 19 para. 91(a), Sch. 21 Pt.I; S.I. 1994/507, art. 4, Sch. 2Appendix
+[^F14]: S. 11(2)(a)(iv) and preceding word inserted (1.4.1994) by 1993 c. 35, s. 307(1), Sch. 19, para. 91(a); S.I. 1994/507, art. 4, Sch.2
+[^F15]: S. 11(2)(b) repealed (1.4.1994) by 1993 c. 35, ss. 303(4), 307(1)(3), Sch. 19 para. 91(b), Sch. 21 Pt.I; S.I. 1994/507, art. 4, Sch. 2Appendix
+[^F16]: Words in s. 11(2)(c) repealed (1.4.1994) by 1993 c. 35, ss. 303(4), 307(1)(3), Sch. 19 para. 91(c), Sch. 21 Pt. I; S.I. 1994/507, art. 4, Sch. 2Appendix
+[^F17]: Word in s. 11(3)(6) substituted (1.4.1994) by 1993 c. 35, s. 307(1), Sch. 19 para. 91(d); S.I. 1994/507, art. 4, Sch.2
+[^F18]: S. 11(7) repealed (1.4.1994) by 1993 c. 35, ss. 303(4), 307(1)(3), Sch. 19 para. 91(e), Sch. 21 Pt.I; S.I. 1994/507, art. 4, Sch. 2Appendix
+[^F19]: Words in s. 12(1)(a) inserted (1.4.1994) by 1993 c. 35, s. 307(1), Sch. 19 para. 92(a); S.I. 1994/507, art. 4, Sch.2
+[^F20]: Words in s. 12(2)(a)(i) inserted (1.4.1994) by 1993 c. 35, s. 307(1), Sch. 19 para. 92(b); S.I. 1994/507, art. 4, Sch.2
+[^F21]: S. 12(3) repealed (1.4.1994) by 1993 c. 35, ss. 303(4), 307(1)(3), Sch. 19 para. 92(c), Sch. 21 Pt.I; S.I. 1994/507, art. 4, Sch. 2Appendix
+[^F22]: Words in s. 12(4) inserted (1.4.1994) by 1993 c. 35, ss. 307(1), Sch. 19 para. 92(d); S.I. 1994.507, art. 4, Sch.2
+[^F23]: Words in s. 13(2) repealed (1.4.1994) by 1993 c. 35, ss. 303(4), 307(1)(3), Sch. 19 para. 93, Sch. 21 Pt. I; S.I. 1994/507, art. 4, Sch. 2Appendix
+[^F24]: Ss. 1-42 (Pts. I-III) repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F25]: Word “and” and s. 17(1)(c) repealed by Education Reform Act 1988 (c. 40, SIF 41:1), ss. 231(7), 235(6), 237(2), Sch. 13 Pt. II
+[^F26]: Ss. 17(4), 18(4), 19(3), 20 repealed by Education Reform Act 1988 (c. 40, SIF 41:1), ss. 231(7), 235(6), 237(2), Sch. 13 Pt. II
+[^F27]: Word “and” and s. 18(3)(c) repealed by Education Reform Act 1988 (c. 40, SIF 41:1), ss. 231(7), 235(6), 237(2), Sch. 13 Pt. II
+[^F28]: Ss. 17(4), 18(4), 19(3), 20 repealed by Education Reform Act 1988 (c. 40, SIF 41:1), ss. 231(7), 235(6), 237(2), Sch. 13 Pt. II
+[^F29]: Words repealed by Education Reform Act 1988 (c. 40, SIF 41:1), ss. 231(7), 235(6), 237(1)(2), Sch. 12 para. 99, Sch. 13 Pt. II
+[^F30]: S. 18(7)(b) substituted (1.4.1994) by 1993 c. 35, s. 307(1), Sch. 19 para.94; S.I. 1994/507, art. 4, Sch.2
+[^F31]: Words repealed by Education Reform Act 1988 (c. 40, SIF 41:1), ss. 231(7), 235(6), 237(2), Sch. 13 Pt. II
+[^F32]: Ss. 17(4), 18(4), 19(3), 20 repealed by Education Reform Act 1988 (c. 40, SIF 41:1), ss. 231(7), 235(6), 237(2), Sch. 13 Pt. II
+[^F33]: Ss. 17(4), 18(4), 19(3), 20 repealed by Education Reform Act 1988 (c. 40, SIF 41:1), ss. 231(7), 235(6), 237(2), Sch. 13 Pt. II
+[^F34]: S. 21 substituted by Education Reform Act 1988 (c. 40, SIF 41:1), ss. 115, 118(1)(4), 231(7), 235(6)
+[^F35]: S. 21(2)(3) repealed (5.4.1996) by S.I. 1996/951, art. 2(1) (subject to saving in art. 2(2))
+[^F36]: Words in s. 22(a)(ii) inserted (1.9.1994) by 1993 c. 35, s. 307(1), Sch. 19 para.95; S.I. 1994/2038, art. 3, Sch. 2
+[^F37]: Words in s. 23(a)(ii)(b) repealed (1.9.1994) by 1993 c. 35, s. 307(1)(3), Sch. 19 para. 96, Sch. 21 Pt.II; S.I. 1994/2038, art. 3, Sch. 2Appendix
+[^F38]: Words in s. 24(a)(i) substituted (1.8.1994 for certain purposes and otherwise 1.9.1994) by 1993 c. 35, s. 307(1), Sch. 19 para. 97(a); S.I. 1994/2038, arts. 2, 3, Sch. 1, Sch.2
+[^F39]: Words in s. 24(b) substituted (1.9.1994) by 1993 c. 35, s. 307(1), Sch. 19 para. 97(b); S.I. 1994/2038, art. 3, Sch.2
+[^F40]: S. 24(c)(e) repealed (1.9.1994) by 1993 c. 35, s. 307(1)(3), Sch. 19 para. 97(c), Sch. 21 Pt.II; S.I. 1994/2038, art. 3, Sch. 2Appendix
+[^F41]: Words in s. 24(f) repealed (1.9.1994) by 1993 c. 35, ss. 303(4), 307(1)(3), Sch. 19 para. 97(d), Sch. 21 Pt.II; S.I. 1994/2038, art. 3, Sch. 2Appendix
+[^F42]: Words in s. 25(c) substituted (1.8.1994 for certain purposes and otherwise 1.9.1994) by 1993 c. 35, s. 307(1), Sch. 19 para. 98(a); S.I. 1994/2038, arts. 2, 3, Schs. 1,2
+[^F43]: S. 25(d)(e)(f) repealed (1.9.1994) by 1993 c. 35, s. 307(1)(3), Sch. 19 para. 98(b), Sch. 21 Pt.II; S.I. 1994/2038, art. 3, Sch. 2Appendix
+[^F44]: S. 29 repealed by Education Reform Act 1988 (c. 40, SIF 41:1), ss. 51(8), 231(7), 235(6), 237(2), Sch. 4 para. 1(2), Sch. 13 Pt. II
+[^F45]: S. 30(2)(*h*)(i)(ii) substituted by Education Reform Act 1988 (c. 40, SIF 41:1), ss. 51(9), 231(7), 235(6), Sch. 4 para. 1(2)
+[^F46]: Word at the end of s. 30(2)(h)(iii) inserted (1.4.1994) by S.I. 1994/692, art. 2(b)
+[^F47]: S. 30(2)(h)(iv) inserted (1.4.1994) by S.I. 1994/692, art. 2(c)
+[^F48]: S. 30(2)(i) substituted (16.11.1994) by S.I. 1994/2732, art.2
+[^F49]: S. 30(5) added (16.5.1992) by Education (Schools) Act 1992 (c. 38), s. 21(7), Sch. 4 para. 5; S.I. 1992/1157, art. 2, Sch.
+[^F50]: S. 38(4)(c)(ii) and the word preceeding it repealed (1.4.1994) by 1993 c. 35, s. 307(1)(3), Sch. 19 para. 100(a), Sch. 21 Pt. II; S.I. 1994/507, art. 4, Sch. 2Appendix
+[^F51]: Words in s. 38(6)(b) repealed (1.4.1994) by 1993 c. 35, s. 307(1)(3), Sch. 19 para. 100(b), Sch. 21 Pt.II; S.I. 1994/507, art. 4, Sch. 2Appendix
+[^F52]: S. 42 substituted (1.1.1994) by 1993 c. 35, ss. 238, 239, Sch. 13 paras. 5, 6(6), 7(4); S.I. 1993/3106, art. 4, Sch. 1
+[^F53]: Words in s. 42(4) substituted (5.4.1996) by S.I. 1996/951, art.5
+[^F54]: S. 43(4A) inserted (1.8.2019) by Higher Education and Research Act 2017 (c. 29), s. 124(5), Sch. 11 para. 5(2); S.I. 2018/1226, reg. 4(p)
+[^F55]: S. 43(4A)(a) omitted (1.8.2025) by virtue of Higher Education (Freedom of Speech) Act 2023 (c. 16), s. 13(3), Sch. para. 18(a); S.I. 2025/528, reg. 2(h)
+[^F56]: Words in s. 43(5) inserted (1.8.2019) by Higher Education and Research Act 2017 (c. 29), s. 124(5), Sch. 11 para. 5(3); S.I. 2018/1226, reg. 4(p)
+[^F57]: S. 43(5)(aa) substituted (31.7.2026) by Tertiary Education and Research (Wales) Act 2022 (asc 1), s. 148(2), Sch. 4 para. 3(2)(a) (with s. 19); W.S.I. 2026/62, art. 16(e)
+[^F58]: S. 43(5)(b) substituted by Education Reform Act 1988 (c. 40, SIF 41:1), ss. 231(7), 235(6), 237(1), Sch. 12 para. 100(3)
+[^F59]: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158), Sch. 2 para. 3
+[^F60]: S. 43(5)(ba) inserted (1.4.1993) by Further and Higher Education Act 1992 (c. 13), s. 93, Sch. 8 Pt. I para. 22(a)(ii); S.I. 1992/831, art. 2, Sch.3
+[^F61]: S. 43(5)(c) repealed (1.4.1993) by Further and Higher Education Act 1992 (c. 13), s. 93, Sch. 8 Pt. I para. 22(a)(iii), Sch. 9; S.I. 1992/831, art. 2, Sch. 3Appendix
+[^F62]: Words in s. 43(6) substituted (1.8.2019) by Higher Education and Research Act 2017 (c. 29), s. 124(5), Sch. 11 para. 5(4); S.I. 2018/1226, reg. 4(p)
+[^F63]: Words in s. 43(6) omitted (1.8.2025) by virtue of Higher Education (Freedom of Speech) Act 2023 (c. 16), s. 13(3), Sch. para. 18(b)(i); S.I. 2025/528, reg. 2(h)
+[^F64]: Words in s. 43(6) substituted (1.8.2024) by Tertiary Education and Research (Wales) Act 2022 (asc 1), s. 148(2), Sch. 4 para. 3(2)(b) (with s. 19); S.I. 2024/806, art. 2(k)(ii) (with art. 28)
+[^F65]: Words in s. 43(6) omitted (1.8.2025) by virtue of Higher Education (Freedom of Speech) Act 2023 (c. 16), s. 13(3), Sch. para. 18(b)(ii); S.I. 2025/528, reg. 2(h)
+[^F66]: S. 43(6A) inserted (1.8.2019) by Higher Education and Research Act 2017 (c. 29), s. 124(5), Sch. 11 para. 5(6); S.I. 2018/1226, reg. 4(p)
+[^F67]: Words in s. 43(7)(a) inserted (1.8.2019) by Higher Education and Research Act 2017 (c. 29), s. 124(5), Sch. 11 para. 5(7); S.I. 2018/1226, reg. 4(p)
+[^F68]: S. 43(7)(b) repealed (1.4.1993) by Further and Higher Education Act 1992 (c. 13), s. 93, Sch. 8 Pt. I, para. 22(b), Sch. 9; S.I. 1992/831, art. 2, Sch. 3Appendix
+[^F69]: Words in s. 43(7) repealed (1.4.1993) by Further and Higher Education Act 1992 (c. 13), s. 93, Sch. 8 Pt. I para. 22(b), Sch.9; S.I. 1992/831, art. 2, Sch. 3Appendix
+[^F70]: Ss. 44-47 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F71]: Ss. 44-47 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F72]: Ss. 44-47 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F73]: Ss. 44-47 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F74]: Ss. 44-47 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^M1]: 1980 c. 44.
+[^F75]: S. 49 repealed (1.10.2002 for E., 19.12.2002 for W.) by Education Act 2002 (c. 32), ss. 131(8), 215(2), 216(4) {Sch. 22 Pt. 3} (with ss. 210(8), 214(4)); S.I. 2002/2439, art. 3 (with transitional provisions and savings in art. 4, Sch.); S.I. 2002/3185, art. 4, Sch. Pt. 1
+[^F76]: S. 50 omitted (1.9.2005) by virtue of Education Act 2005 (c. 18), s. 125(3)(a), Sch. 14 para. 10, Sch. 19 Pt. 3
+[^F77]: Ss. 51-60 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F78]: Ss. 51-60 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F79]: Ss. 51-60 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F80]: Ss. 51-60 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F81]: Ss. 51-60 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F82]: Ss. 51-60 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F83]: Ss. 51-60 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F84]: Ss. 51-60 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F85]: Ss. 51-60 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F86]: Ss. 51-60 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F87]: S. 61 omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(3)(h), Sch. 15 para. 2(2)
+[^F88]: S. 62 omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(3)(h), Sch. 15 para. 2(3)
+[^F89]: Words in s. 63(1) repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F90]: Words in s. 63(2) repealed (1.11.1996) by virtue of 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F91]: S. 63(2A) repealed (1.11.1996) by virtue of 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F92]: S. 63(4) repealed (1.4.1995) by 1993 c. 35, ss. 307(1)(3), 308(3), Sch. 19 para. 107(b), Sch. 21 Pt. II; S.I. 1994/1558, art. 3, Sch. Appendix
+[^F93]: S. 65(1): all the definitions except that of "establishment of higher or further education" repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F94]: Definition in s. 65(1) repealed (1.4.1994) by 1993 c. 35, s. 303(4), 307(1)(3), Sch. 19 para. 108, Sch. 21 Pt. I; S.I. 1994/507, art. 4, Sch. 2
+[^F95]: Definition inserted by Education Reform Act 1988 (c. 40, SIF 41:1), ss. 231(1), 235(6), 237(1), Sch. 12 para. 105
+[^F96]: Words in s. 66(1) repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F97]: Words in s. 66(2) repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F98]: S. 67(2)(5) and (6) repealed (1.11.1996) by 1996 c. 56, ss. 582(1)(2), 583(2), Sch. 37 Pt. I para. 66(2), Sch. 38 Pt.I (with ss. 1(4), 561, 562, Sch. 39)
+[^F99]: Words in s. 67(3) substituted (1.11.1996) by 1996 c. 56, ss. 582(1), 583(2), Sch. 37 Pt. I para. 66(3) (with ss. 1(4), 561, 562, Sch. 39)
+[^F100]: Words in s. 67(7) substituted (1.11.1996) by 1996 c. 56, ss. 582(1), 583(2), Sch. 37 Pt. I para. 66(4) (with ss. 1(4), 561, 562, Sch. 39)
+[^F101]: Schs. 1-3 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39 (with ss. 1(4), 561, 562, Sch. 39)
+[^F102]: Schs. 1-3 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39(with ss. 1(4), 561, 562, Sch. 39)
+[^F103]: Words in Sch. 2 para. 2(1)(b) substituted (1.1.1994) by 1993 c. 35, s. 307(1), Sch. 19 para. 109(a); S.I. 1993/3106, art. 4, Sch. 1
+[^F104]: Word in Sch. 2 para. 2(2) inserted (1.1.1994) by 1993 c. 35, s. 307(1), Sch. 19 para. 109(b)(i); S.I. 1993/3106, art. 4, Sch. 1
+[^F105]: Sch. 2 para. 2(2)(b) repealed (1.4.1994) by 1993 c. 35, s. 303(4), 307(1)(3), Sch. 19 para. 109(b)(ii), Sch. 21 Pt. I; S.I. 1994/507, art. 4, Sch.2
+[^F106]: Words in Sch. 2 para. 5(2) substituted (1.4.1994) by 1993 c. 35, ss. 307(1), 308(3), Sch. 19 para. 109(c); S.I. 1994/507, art. 4, Sch.2
+[^F107]: Words in Sch. 2 para. 5(2)(b) repealed (1.4.1994) by 1993 c. 35, ss. 303(4), 307(1)(3), Sch. 19 para. 109(c), Sch. 21 Pt.I; S.I. 1994/507, art. 4, Sch.2 Appendix
+[^F108]: Sch. 2 para. 7(7)(c) and the word preceding it repealed (1.4.1994) by 1993 c. 35, s. 307(1)(3), Sch. 19 para. 109(d), Sch. 21 Pt.II; S.I. 1994/507, art. 4, Sch.2 Appendix
+[^F109]: Words in Sch. 2 para. 9(1) inserted (1.1.1994) by 1993 c. 35, s. 307(1), Sch. 19 para. 109(e); S.I. 1993/3106, art. 4, Sch. 1
+[^F110]: Sch. 2 Pt. III para. 16 substituted by Education Reform Act 1988 (c. 40, SIF 41:1), ss. 231(7), 235(6), 237(1), Sch. 12 para. 106
+[^F111]: Schs. 1-3 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39(with ss. 1(4), 561, 562, Sch. 39)
+[^F112]: Sch. 3 para. 1 substituted (1.9.1994) by S.I. 1994/2092, art.3 (with art. 11)
+[^F113]: Sch. 3 para. 2 substituted (1.9.1994) by S.I. 1994/2092, art.4 (with art. 11)
+[^F114]: Words in Sch. 3 para. 3(1) substituted (1.9.1994) by S.I. 1994/2092, art. 5(a) (with art. 11)
+[^F115]: Words in Sch. 3 para. 2(a) inserted (1.9.1994) by S.I. 1994/2092, art. 5(b) (with art. 11)
+[^F116]: Sch. 3 para. 3A inserted (1.9.1994) by S.I. 1994/2092, art. 6 (with art. 11)
+[^F117]: Sch. 3 para. 6A inserted (1.9.1994) by S.I. 1994/2092, art.7 (with art. 11)
+[^F118]: Word in Sch. 3 para. 7(c) substituted (10.12.1993) by S.I. 1993/2827, art.2
+[^F119]: Words in Sch. 3 para. 8(c)(d) substituted (10.12.1993) by S.I. 1993/2709, art. 2
+[^F120]: Sch. 3 para. 9 renumbered (1.9.1994) as Sch. 3 para. 9(1) by S.I. 1994/2092, art. 8(1) (with art. 11)
+[^F121]: Sch. 3 para. 9(2) inserted (1.9.1994) by S.I. 1994/2092, art. 8(2) (with art. 11)
+[^F122]: Words in Sch. 3 para. 12 inserted (1.9.1994) by S.I. 1994/2092, art.9 (with art. 11)
+[^M2]: 1972 c. 70.
+[^F123]: Sch. 3 para. 17 inserted (1.9.1994) by S.I. 1994/2092, art.10 (with art. 11)
+[^F124]: Sch. 4 paras. 1, 2 and 5 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39(with ss. 1(4), 561, 562, Sch. 39)
+[^F125]: Sch. 4 paras. 1, 2 and 5 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt. I, Sch. 39(with ss. 1(4), 561, 562, Sch. 39)
+[^F126]: Sch. 4 para. 4 repealed by Education Reform Act 1988 (c. 40, SIF 41), ss. 231(7), 235(6), 237(2), Sch. 13 Pt. II
+[^F127]: Sch. 4 paras. 1, 2 and 5 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt. I, Sch. 39(with ss. 1(4), 561, 562, Sch. 39)
+[^F128]: Sch. 4 para. 6 repealed by Employment Act 1989 (c. 38, SIF 43:1), s. 29(4), Sch. 7 Part II
+[^F129]: Sch. 4 para. 7 repealed by Statute Law (Repeals) Act 1989 (c. 43), s. 1(1), Sch. 1 Part XI
+[^F130]: Sch. 5 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt. I, Sch. 39(with ss. 1(4), 561, 562, Sch. 39)
+[^F131]: Sch. 6 repealed (1.11.1996) by 1996 c. 56, ss. 582(2)(3), 583(2), Sch. 38 Pt.I, Sch. 39(with ss. 1(4), 561, 562, Sch. 39)

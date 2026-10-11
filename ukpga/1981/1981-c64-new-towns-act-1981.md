@@ -1,0 +1,3417 @@
+---
+title: "New Towns Act 1981"
+identifier: "ukpga/1981/64"
+citation: "1981 c. 64"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1981-10-30
+last_amended: 2026-06-17
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1981/64"
+source_modified: 2026-06-19
+retrieved: 2026-10-11
+---
+
+# New Towns Act 1981
+
+**1981 c. 64**
+
+An Act to consolidate certain enactments relating to new towns and connected matters, being (except for section 43 of the New Towns Act 1965 and sections 126 and 127 of the Local Government, Planning and Land Act 1980 and certain related provisions) enactments which apply only to England and Wales.
+
+[30th October 1981]
+
+## Part I — New Towns and Their Development Corporations
+
+### New towns
+
+#### 1 Designation of areas.
+
+(1) If the Secretary of State is satisfied, after consultation with any local authorities who appear to him to be concerned, that it is expedient in the national interest that any area of land should be developed as a new town by a corporation established under this Act, he may make an order designating that area as the site of the proposed new town.
+
+[^F1]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F2](3) An order under this section—
+
+(a) may include in the area designated as the site of the proposed new town any existing town or other centre of population;
+
+(b) may, in relation to a proposed new town in England—
+
+(i) designate separate parcels of land as the area for the site of the proposed new town;
+
+(ii) designate an area of land which is adjacent to an existing town or other centre of population so that the area is developed as an urban extension rather than as a wholly new town;
+
+and references in this Act to a new town or proposed new town are to be construed accordingly.]
+
+[[^F3](3A) Before making an order under this section designating an area of land in England as the site of a proposed new town, the Secretary of State must consult the following persons (as well as the local authorities mentioned in subsection (1))—
+
+(a) persons who appear to the Secretary of State to represent those living within, or in the vicinity of, the site;
+
+(b) persons who appear to the Secretary of State to represent businesses with any premises within, or in the vicinity of, the site;
+
+(c) any other person whom the Secretary of State considers it appropriate to consult.]
+
+(4) Schedule 1 to this Act has effect with respect to the procedure to be followed in connection with the making of orders under this section [[^F4]designating areas of land in Wales] and with respect to the validity and date of operation of such orders.
+
+(5) An order under this section shall, when operative, be a local land charge . . . [^F5]
+
+#### 1A [[^F6]Local authority to oversee development of new town
+
+(1) This section applies where the Secretary of State is considering designating an area of land in England as the site of a proposed new town in an order under section 1.
+
+(2) The Secretary of State may, in an order under section 1, appoint one or more local authorities to oversee the development of the area as a new town.
+
+(3) But a local authority may only be appointed if the area of land mentioned in subsection (1) is wholly or partly within the area of the local authority.
+
+(4) The Secretary of State may by regulations make provision about how a local authority is to oversee the development of an area as a new town.
+
+(5) Regulations under subsection (4) may, for example—
+
+(a) provide that a local authority is to exercise specified functions under this Act which would otherwise be exercisable by the Secretary of State, the appropriate Minister or the Treasury;
+
+(b) provide that a local authority is to exercise such functions subject to specified conditions or limitations;
+
+(c) provide that specified functions under this Act may be exercised only with the consent of a local authority;
+
+(d) make provision about the membership of a corporation established under section 3, including the proportion of the members of the corporation who may be members of or employed by a local authority;
+
+(e) modify provisions of this Act;
+
+(f) make different provision for different purposes;
+
+(g) make incidental, supplementary or consequential provision.
+
+(6) In subsection (5)(a) the reference to “functions” does not include a power to make regulations or other instruments of a legislative character.
+
+(7) Where two or more local authorities are appointed in an order containing provision by virtue of subsection (2), the Secretary of State may in that order provide—
+
+(a) that a specified function is to be exercised by a specified local authority, or
+
+(b) that a specified function is to be exercised by two or more specified local authorities jointly.
+
+(8) In this section—
+
+- “local authority” means—
+
+  - a district council,
+  - a county council, or
+  - a London borough council;
+
+- “specified” means specified in—
+
+  - an order containing provision by virtue of subsection (2), or
+  - regulations under subsection (4).]
+
+#### 2 Reduction of designated areas.
+
+(1) The Secretary of State may make an order excluding any land specified in the order from the area of a new town if, after consulting—
+
+(a) the development corporation for the town, and
+
+(b) any county council and district council [[^F7]or, in the case of land in Wales, any county council or county borough council] in whose area the land is situated,
+
+he is satisfied that it is expedient to make the order.
+
+(2) Subject to subsections (3) and (4) below, on the coming into force of an order under subsection (1) above—
+
+(a) the land specified in the order shall cease to be contained in the area of the new town; and
+
+(b) the order made under section 1 above designating the area shall cease to operate as regards that land.
+
+(3) The Secretary of State may in an order under this section make such provision by way of savings and transitional provisions (including provisions amending provisions made by or under an enactment) as he thinks fit, and subsection (2) above applies subject to any such savings and transitional provisions.
+
+(4) Schedule 2 to this Act applies with respect to the effect of an order made under this section.
+
+[^F8]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Development corporations
+
+#### 3 Establishment of development corporations for new towns.
+
+(1) The Secretary of State shall by order establish a corporation, in this Act called a development corporation, for the purposes of the development of each new town the site of which is designated under section 1 above [^F9]. . .
+
+[[^F10](1A) A single development corporation may be established for the purposes of the development of more than one new town in England if the Secretary of State considers that having a single development corporation would facilitate efficient development.]
+
+(2) A development corporation shall be a body corporate by such name as may be prescribed by the order, and shall consist of—
+
+(a) a chairman;
+
+(b) a deputy chairman; and
+
+[[^F11](c) at least one other member.]
+
+[[^F12](2ZA) In the case of a development corporation established by an order under this section made by the Welsh Ministers—
+
+(a) the number of members other than the chairman and deputy chairman must be prescribed by the order, and
+
+(b) the prescribed number is not to exceed 11.
+
+(2ZB) In the case of a locally-led development corporation, the number of members other than the chairman and deputy chairman must be prescribed by the order.]
+
+[[^F13](2A) Before making an order under this section in relation to a site in England, the Secretary of State must consult the following persons—
+
+(a) persons who appear to the Secretary of State to represent those living within, or in the vicinity of, the site;
+
+(b) persons who appear to the Secretary of State to represent businesses with any premises within, or in the vicinity of, the site;
+
+(c) every county or district council for an area which falls wholly or partly within the site;
+
+(d) any other person whom the Secretary of State considers it appropriate to consult.]
+
+(3) Schedule 3 to this Act has effect with respect to the constitution and proceedings of a development corporation.
+
+(4) Nothing in this Act (except the express provision relating to stamp duty in section 72(1) below) shall be construed as exempting a development corporation from liability for any tax, duty, rate, levy or other charge whatsoever, whether general or local.
+
+#### 4 Objects and general powers of development corporations.
+
+(1) The objects of a development corporation established for the purposes of a new town shall be to secure the laying out and development of the new town in accordance with proposals approved in that behalf under this Act.
+
+[[^F14](1A) In pursuing those objects a development corporation that is established for the purposes of a new town in England must aim to contribute to[[^F15]—
+
+(a) the achievement of sustainable development, and
+
+(b) the mitigation of, and adaptation to, climate change.]
+
+(1B) For the purposes of subsection (1A) a development corporation must (in particular) have regard to the desirability of good design.]
+
+[[^F16](1C) To secure such laying out and development every development corporation established for the purposes of a new town in England has the power (subject to section 5)—
+
+(a) to acquire, hold, manage and dispose of land and other property,
+
+(b) to carry out building and other operations,
+
+(c) to carry on any business or undertaking in or for the purposes of the new town,
+
+and generally to do anything necessary or expedient for the purposes or incidental purposes of the new town. (See also section 4A (powers in relation to infrastructure).)]
+
+(2) To secure such laying out and development every development corporation [[^F17]established for the purposes of a new town in Wales] shall have power (subject to section 5 below)—
+
+(a) to acquire, hold, manage and dispose of land and other property,
+
+(b) to carry out building and other operations,
+
+(c) to provide water, electricity, gas, sewerage and other services,
+
+(d) to carry on any business or undertaking in or for the purposes of the new town,
+
+and generally to do anything necessary or expedient for the purposes or incidental purposes of the new town.
+
+(3) In relation to [[^F18]subsections (1C) and (2)] above—
+
+(a) the power of acquiring land conferred by [[^F19]those subsections] on a development corporation includes power to acquire any land within the area of the new town, whether or not it is proposed to develop that particular land; and
+
+(b) the power of disposing of land conferred by [[^F20]those subsections] on a development corporation includes, in relation to any land within the area of the new town, power to dispose of that land, whether or not the development of that particular land has been proposed or approved under section 7(1) below.
+
+(4) A development corporation (without prejudice to the generality of the powers conferred on development corporations by this Act)—
+
+(a) may, with the Secretary of State’s consent, contribute such sums as he may, with the Treasury’s concurrence, determine towards expenditure incurred or to be incurred by any local authority or statutory undertakers in the performance, in relation to the new town, of any of their statutory functions, including expenditure so incurred in the acquisition of land; and
+
+(b) may, with the like consent, contribute such sums as the Secretary of State, with the like concurrence, may determine by way of assistance towards the provision of amenities for the new town.
+
+(5) A transaction between a person and a development corporation shall not be invalidated by reason of any failure by the corporation to observe—
+
+(a) the objects in subsection (1) above, or
+
+(b) the requirement in subsection [[^F21](1C) or] (2) above that the corporation shall exercise the powers conferred by that subsection for the purpose there mentioned,
+
+but (it being declared for the avoidance of doubt) nothing in this section shall be construed as authorising the disregard by a development corporation of any enactment or rule of law.
+
+#### 4A [[^F22]Powers in relation to infrastructure: England
+
+(1) A development corporation established for the purposes of a new town in England may, to secure the laying out and development referred to in section 4(1), provide or facilitate the provision of infrastructure.
+
+(2) In this section “provide” includes provide by way of acquisition, construction, conversion, improvement or repair (and “provision” is to be read in the same way).
+
+(3) In this section “infrastructure” means—
+
+(a) water, electricity, gas, telecommunications, sewerage or other services, including heat networks,
+
+(b) roads or other transport facilities,
+
+(c) retail or other business facilities,
+
+(d) health, educational, employment or training facilities,
+
+(e) social, religious or recreational facilities,
+
+(f) cremation or burial facilities, and
+
+(g) community facilities not falling within paragraphs (a) to (f).
+
+(4) Section 4(5) applies in relation to subsection (1) as it applies in relation to section 4(2).]
+
+#### 5 Restrictions on powers of development corporations.
+
+(1) A development corporation does not have power to borrow money except in accordance with sections 58 to 60 below.
+
+(2) The Secretary of State may give directions to any development corporation—
+
+(a) for restricting the exercise by them of any of their powers under this Act, or
+
+(b) for requiring them to exercise those powers in any manner specified in the directions.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F23]
+
+(3) Before giving any directions to a development corporation under subsection (2) above, the Secretary of State shall—
+
+(a) consult with the chairman of the corporation, or,
+
+(b) if the chairman is not available, consult with the deputy chairman,
+
+unless he is satisfied that, on account of urgency, such consultation is impracticable.
+
+(4) A transaction between—
+
+(a) a person, and
+
+(b) a development corporation acting in purported exercise of their powers under this Act,
+
+shall not be void by reason only that it was carried out in contravention of a direction given by the Secretary of State under subsection (2) above, and such person shall not be concerned to see or enquire whether a direction under that subsection has been given or complied with.
+
+(5) Nothing in this Act shall be construed as authorising a development corporation to carry on—
+
+(a) any undertaking for the supply of water, electricity or gas [[^F24]or for the provision of sewerage services] [[^F25]or heat networks], or
+
+(b) [[^F26]in the case of a development corporation established for the purposes of a new town in Wales,] any railway, light railway, tramway or trolley vehicle undertaking,
+
+except under the authority of an enactment not contained in this Act specifically authorising them to do so or, in the case of a trolley vehicle undertaking [[^F27]in Wales], under the authority of such an enactment or of an order under section 32 below.
+
+#### 6 Allocation or transfer of new town functions.
+
+(1) If, in the case of the area of any new town—
+
+(a) it appears to the Secretary of State that there are exceptional circumstances which render it expedient that the functions of a development corporation under this Act should be performed by the development corporation established for the purposes of any other new town instead of by a separate corporation established for the purpose, then
+
+(b) instead of establishing such a corporation, he may by order direct that those functions shall be performed by the development corporation established for that other new town.
+
+(2) If it appears to the Secretary of State that there are exceptional circumstances which render it expedient that the functions of a development corporation established for the purposes of a new town should be transferred—
+
+(a) to the development corporation established for the purposes of any other new town, or
+
+(b) to a new development corporation to be established for the purposes of the first-mentioned new town,
+
+he may by order provide for the dissolution of the first-mentioned corporation and for the transfer of its functions, property, rights and liabilities—
+
+(i) to the development corporation established for the purposes of that other new town, or, as the case may be,
+
+(ii) to a new corporation established for the purposes of the first-mentioned new town by the order.
+
+(3) An order under this section—
+
+(a) providing for the exercise of functions in relation to a new town by the development corporation established for the purposes of another new town, or
+
+(b) providing for the transfer of such functions to such a corporation,
+
+may modify the name and constitution of that corporation in such manner as appears to the Secretary of State to be expedient; and for the purposes of this Act that corporation shall be treated as having been established for the purposes of each of those new towns.
+
+This subsection is without prejudice to the other provisions of this Act with respect to the variation of orders.
+
+(4) Before making an order under this section—
+
+(a) providing for the transfer of functions from or to a development corporation, or
+
+(b) providing for the exercise of any functions by such a corporation,
+
+the Secretary of State shall consult with that corporation.
+
+### Planning control in new towns
+
+#### 7 Planning control [[^F28]: proposals given effect by development order].
+
+(1) In relation to a new town—
+
+(a) the development corporation shall from time to time submit to the Secretary of State, in accordance with any directions given by him in that behalf, their proposals for the development of land within the area of the new town; and
+
+(b) the Secretary of State, after consultation with the district planning authority within whose area the land is situated, and with any other local authority who appear to him to be concerned, may approve any such proposals either with or without modification.
+
+(2) A special development order made by the Secretary of State under [[^F29]section 59 of the Town and Country Planning Act 1990] with respect to the area of a new town—
+
+(a) may grant permission for any development of land in accordance with proposals approved under subsection (1) above; and
+
+(b) such permission shall be subject to such conditions, if any (including conditions requiring details of any proposed development to be submitted to the district planning authority) as may be specified in the order.
+
+This subsection is without prejudice to the generality of the powers conferred by [[^F29]sections 59 to 61 of that Act of 1990].
+
+(3) In this section the references to a district planning authority shall[[^F30], in relation to proposals for development of land [[^F31]in Wales or] in a metropolitan county, be construed as references to the local planning authority; and] in relation to proposals for any development which is a county matter as defined in [[^F32]paragraph 1 of Schedule 1 to the Town and Country Planning Act 1990] [[^F33]and which is of land in a non-metropolitan county], be construed as references to the county planning authority.
+
+#### 7A [[^F34]Development corporation as planning authority in England
+
+(1) This section applies in relation to a development corporation established for the purposes of a new town in England.
+
+(2) The Secretary of State may provide by order for the corporation to be the local planning authority for the specified area—
+
+(a) for such purposes of Part 3 of the Town and Country Planning Act 1990, and in relation to such kinds of development, as are specified, or
+
+(b) for such purposes of Part 2 or 3 of the Planning and Compulsory Purchase Act 2004 as are specified.
+
+(3) An order under subsection (2) may provide—
+
+(a) that any enactment relating to local planning authorities is not to apply to the corporation, or
+
+(b) that any such enactment which applies to the corporation is to apply to it subject to such modifications as are specified.
+
+(4) The Secretary of State may provide by order—
+
+(a) for the corporation to have, in the specified area, the functions conferred by such of the enactments mentioned in Part 1 of Schedule 29 to the Local Government, Planning and Land Act 1980 as are specified;
+
+(b) for such of the enactments mentioned in Part 2 of that Schedule as are specified in the order to have effect, in relation to the corporation and to land in the specified area, subject to the modifications set out in that Part;
+
+(c) for such of the provisions of that Part 2 as apply for the purposes of the order to be read, for those purposes, as if—
+
+(i) any reference to an urban development corporation were a reference to a development corporation established under section 3 of this Act, and
+
+(ii) any reference to regenerating an area were a reference to developing a new town.
+
+(5) An order under subsection (4) may provide—
+
+(a) that any enactment relating to local planning authorities applies to the corporation for the purposes of any enactment specified in Schedule 29 to the Local Government, Planning and Land Act 1980 which relates to land in the specified area by virtue of the order;
+
+(b) that any enactment so applied to the corporation applies to it subject to modifications specified in the order.
+
+(6) The Secretary of State may, if the corporation is not a locally-led development corporation, provide by order for the corporation to be the minerals and waste planning authority for the specified area for the purposes of Part 2 of the Planning and Compulsory Purchase Act 2004.
+
+(7) The Secretary of State may provide by order that the corporation is to have, in the specified area, the functions conferred on the relevant planning authority by Schedule 8 to the Electricity Act 1989 so far as it applies to applications for consent under section 37 of that Act.
+
+(8) The area specified under any of the preceding subsections must be the whole, or part, of the area of the new town.
+
+(9) An order under this section may include supplementary or transitional provision or savings.
+
+(10) In this section “specified” means specified in an order under this section.
+
+#### 7B Arrangements for discharge of, or assistance with, planning functions in England
+
+(1) Subsection (2) applies in relation to any function that a development corporation has by virtue of an order under section 7A(2)(a).
+
+(2) The corporation may make arrangements for the discharge of the function by the council (if any) which would have the function but for the order.
+
+(3) Where arrangements are in force under subsection (2) for the discharge of a function by a council—
+
+(a) the council may arrange for the discharge of the function by a committee, sub-committee or officer of the council, and
+
+(b) section 101(2) of the Local Government Act 1972 (delegation by committees and sub-committees) applies in relation to the function as it applies in relation to functions of the council.
+
+(4) Arrangements under subsection (2) for the discharge of a function do not prevent the development corporation from exercising the function.
+
+(5) Subsection (6) applies in relation to any function that a development corporation has by virtue of an order under section 7A(2)(b) or (6).
+
+(6) The corporation may seek assistance in connection with the discharge of the function from the council (if any) which would have the function but for the order; and that council may give such assistance.
+
+(7) In this section, “council” means a county council, district council or London borough council.]
+
+#### 8 Features of special architectural or historic interest.
+
+It is the Secretary of State’s duty to give to a development corporation such directions—
+
+(a) with respect to the disposal of land acquired by them under this Act, and
+
+(b) with respect to the development by them of such land,
+
+as appear to him to be necessary or expedient for securing, so far as practicable, the preservation of any features of special architectural or historic interest, and in particular of buildings included in any list ( compiled or approved, or having effect as if compiled or approved, under [[^F35]section 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990] (which relates to the compilation or approval by the Secretary of State of lists of buildings of such interest) [[^F36]or under section 76 of the Historic Environment (Wales) Act 2023 (which makes similar provision for Wales)].
+
+#### 9 Frontages and abutments.
+
+(1) In the case of land—
+
+(a) which forms a frontage to a road, or
+
+(b) which abuts on or is adjacent to a road,
+
+a local highway authority or the Secretary of State may enter into an agreement with any owner of the land imposing on the land, so far as that owner’s interest in the land enables him to bind it, restrictions for controlling the development of the land.
+
+(2) Any restrictions imposed by an agreement under subsection (1) above may be enforced by the local highway authority or the Secretary of State, as the case may be, against the owner referred to in that subsection and any person deriving title under him in the like manner and to the like extent—
+
+(a) as if that authority or the Secretary of State were possessed of, or interested in, adjacent land; and
+
+(b) as if that agreement had been entered into for the benefit of such land.
+
+### [[^F37]Transport functions relating to new towns in England
+
+#### 9A Exercise of transport functions
+
+(1) A relevant transport authority must—
+
+(a) have regard to any plans published or shared with the authority by an English new town development corporation that may be relevant to the exercise of the authority’s functions, and
+
+(b) co-operate with an English new town development corporation in the development and implementation of the corporation’s plans.
+
+(2) If the Secretary of State considers that a relevant transport authority has failed to comply with the duty in subsection (1), the Secretary of State may direct the authority to exercise its functions in such a way as to comply with that duty.
+
+(3) If a relevant transport authority fails to comply with a direction under subsection (2), the Secretary of State may by regulations provide for any function of the transport authority that has an effect on the area of the new town for which the development corporation was established to be exercisable by the development corporation.
+
+(4) Regulations under subsection (3) may make provision for the function to be exercisable by the development corporation either generally or subject to such conditions or limitations as may be specified in the regulations.
+
+(5) Regulations under subsection (3) may make provision for the function to be exercisable by the development corporation—
+
+(a) instead of by the relevant transport authority,
+
+(b) concurrently with the relevant transport authority, or
+
+(c) jointly with the relevant transport authority.
+
+(6) Regulations under subsection (3) may—
+
+(a) make different provision for different purposes;
+
+(b) include consequential, supplementary, incidental, transitional or saving provision.
+
+(7) The Secretary of State may, in connection with regulations under subsection (3), make one or more schemes for the transfer of property, rights and liabilities between the corporation and the relevant transport authority to which the regulations relate (see also section 9B (transfer schemes: general provisions)).
+
+(8) In this section—
+
+- “English new town development corporation” means a new town development corporation established for the purposes of a new town in England;
+
+- “relevant transport authority” means any of the following for an area in England—
+
+  - a local transport authority within the meaning of Part 2 of the Transport Act 2000 (see section 108(4) of that Act),
+  - a local highway authority within the meaning of the Highways Act 1980 (see section 329 of that Act), or
+  - a local traffic authority within the meaning of the Road Traffic Regulation Act 1984 (see section 121A(5) of that Act).
+
+### Transfer schemes: general
+
+#### 9B Transfer schemes under sections 1 and 9A: general provisions
+
+(1) In this section “transfer scheme” means a scheme under section 1(3ZD) or 9A(7).
+
+(2) The things that may be transferred under a transfer scheme include—
+
+(a) property, rights and liabilities that could not otherwise be transferred, and
+
+(b) property acquired, and rights and liabilities arising, after the making of the scheme.
+
+(3) A transfer scheme may—
+
+(a) create rights, or impose liabilities, in relation to property or rights transferred;
+
+(b) make provision about the continuing effect of things done by, on behalf of or in relation to the transferor in respect of anything transferred;
+
+(c) make provision about the continuation of things (including legal proceedings) in the process of being done by, on behalf of or in relation to the transferor in respect of anything transferred;
+
+(d) make provision for references to the transferor in an instrument or other document in respect of anything transferred to be treated as references to the new regulator;
+
+(e) make provision for the shared ownership or use of property;
+
+(f) make provision which is the same as or similar to the TUPE regulations;
+
+(g) make other consequential, supplementary, incidental or transitional provision.
+
+(4) A transfer scheme may provide—
+
+(a) for modifications by agreement;
+
+(b) for modifications to have effect from the date when the original scheme came into effect.
+
+(5) In subsection (3)(f), “the TUPE regulations” means the Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246).
+
+(6) For the purposes of this section—
+
+(a) references to rights and liabilities include rights and liabilities relating to a contract of employment;
+
+(b) references to the transfer of property include the grant of a lease.]
+
+### Acquisition of land by development corporations and highway authorities
+
+#### 10 Acquisition of land by development corporations.
+
+(1) A development corporation may, with the Secretary of State’s consent, acquire by agreement, or may, by means of an order made by the corporation and submitted to and confirmed by the Secretary of State in accordance with Part I of Schedule 4 to this Act, be authorised to acquire compulsorily—
+
+(a) any land within the area of the new town, whether or not it is proposed to develop that particular land;
+
+(b) any land adjacent to that area which they require for purposes connected with the development of the new town;
+
+(c) any land, whether adjacent to that area or not, which they require for the provision of services for the purposes of the new town.
+
+(2) A compulsory purchase order under this section shall, in so far as it relates to land—
+
+(a) which is the property of a local authority, or which is held inalienably by the National Trust, or
+
+(b) which forms part of a common, open space or fuel or field garden allotment,
+
+be subject to the special provisions of Part IV of Schedule 4.
+
+(3) Where a development corporation have been authorised under subsection (1) above to acquire compulsorily land forming part of a common, open space or fuel or field garden allotment, they may be authorised under that subsection to acquire compulsorily, or may, with the Secretary of State’s consent, acquire by agreement, land for giving in exchange for the land acquired.
+
+(4) Part V of Schedule 4 has effect with respect to the validity and date of operation of compulsory purchase orders under this section.
+
+(5) In relation to operational land of statutory undertakers this section has effect subject to section 13 below.
+
+#### 11 Acquisition of land for highways.
+
+(1) Where the Secretary of State is satisfied that the construction or improvement of a road is needed—
+
+(a) outside the area of a new town, for the purpose of securing the development of land in that area in accordance with proposals approved by him under section 7 above, or
+
+(b) for the purpose of providing proper means of access to such an area,
+
+a local highway authority may be authorised by means of an order made by the authority and submitted to and confirmed by the Secretary of State in accordance with Parts I and II of Schedule 4 to this Act, to acquire compulsorily any land as to which he is satisfied that its acquisition by the authority is requisite—
+
+(i) for the construction or improvement of the road, or
+
+(ii) for carrying out the improvement, or controlling the development, of frontages to the road or of lands abutting on or adjacent to the road.
+
+(2) If the Secretary of State—
+
+(a) is satisfied that the construction or improvement of a road is needed to supersede a part of [[^F38]a road for which he is the highway authority], and
+
+(b) it appears to him that such supersession is expedient for any such purpose as is mentioned in subsection (1)(a) or (b) above,
+
+he may be authorised, by means of an order made by him in accordance with Part III of Schedule 4, to acquire compulsorily any land as to which he is satisfied that its acquisition by him in requisite as mentioned in subsection (1)(i) or (ii).
+
+(3) A compulsory purchase order under this section shall, in so far as it relates to land—
+
+(a) which is the property of a local authority or which is held inalienably by the National Trust, or
+
+(b) which forms part of a common, open space or fuel or field garden allotment,
+
+be subject to the special provisions of Part IV of Schedule 4.
+
+(4) Where an acquiring authority have been authorised under subsection (1) or subsection (2) above to acquire compulsorily land forming part of a common, open space or fuel or field garden allotment, that authority may be authorised under the same subsection to acquire compulsorily land for giving in exchange for the land acquired.
+
+(5) Part V of Schedule 4 has effect with respect to the validity and date of operation of compulsory purchase orders under this section.
+
+(6) A local highway authority may, with the Secretary of State’s consent, acquire by agreement any land which they could be authorised under subsection (1) to acquire compulsorily.
+
+(7) In relation to operational land of statutory undertakers the foregoing provisions of this section have effect subject to section 13 below.
+
+#### 12 Local land charges under ss. 10 and 11.
+
+A compulsory purchase order under section 10 or section 11 above shall, when operative, be a local land charge.
+
+#### 13 Acquisition of statutory undertakers’ operational land.
+
+(1) In the case of operational land of statutory undertakers—
+
+(a) an order—
+
+(i) under section 10(1) above authorising the compulsory acquisition of that land by a development corporation, or
+
+(ii) under section 11(1) above authorising its compulsory acquisition by a local highway authority,
+
+instead of being made and confirmed as provided in section 10(1) or section 11(1), as the case may be, may be made by the Secretary of State and the appropriate Minister in accordance with Part I of Schedule 5 to this Act, on the application of that development corporation or local highway authority,
+
+(b) an order under section 11(2) authorising the compulsory acquisition of that land by the Secretary of State, instead of being made as provided in section 11(2), may be made by the Secretary of State and the appropriate Minister in accordance with Part II of Schedule 5,
+
+and in relation to a compulsory purchase order made as provided in paragraph (a) or paragraph (b) above Parts IV and V of Schedule 4 to this Act shall apply accordingly, subject in the case of Part V to the modifications set out in Part III of Schedule 5.
+
+(2) If—
+
+(a) any objection to an application for a compulsory purchase order to be made in accordance with subsection (1)(a) above, or to a proposal to make such an order in accordance with subsection (1)(b) above, is duly made by any statutory undertakers, and
+
+(b) any of the land to which the application or the proposal relates is operational land of those undertakers,
+
+then, unless that objection is withdrawn, any order made on the application or proposal shall be subject to special parliamentary procedure.
+
+(3) Where a compulsory purchase order under section 10 or section 11, not being an order made as provided in subsection (1)(a) or subsection (1)(b), is submitted, or is proposed to be made, in accordance with Schedule 4, and with respect to any land (being the whole or part of the land to which the order relates) statutory undertakers make to the appropriate Minister, in the prescribed manner and within the time within which objections to the order may be made—
+
+(a) a representation that the first-mentioned land is operational land, and
+
+(b) a request for that land to be excluded from the order,
+
+and it is determined that that land is operational land, then, subject to the following provisions of this section—
+
+(i) if that land constitutes the whole of the land to which the order relates, the order shall not be confirmed or not be made, as the case may be; and
+
+(ii) if that land forms part only of the land to which the order relates, the order shall be modified so as to exclude that land.
+
+(4) Where it is proposed to make an order under section 1 above, any statutory undertakers may, with respect to any land within the area to be designated by the order as the site of the proposed new town, make to the appropriate Minister, in the prescribed form and within the time allowed for making objections to the order, a representation that that land is operational land.
+
+(5) Where a representation is made under subsection (4) above with respect to any land, the Secretary of State and the appropriate Minister may make an order, which shall be subject to special parliamentary procedure, declaring that it is expedient that that land should be subject to compulsory acquisition.
+
+(6) Where, in the case of a compulsory purchase order under section 10, any land to which the order relates is within the area of a new town and is land in relation to which, apart from this subsection, subsection (3) above would apply, then subsection (3) shall not apply in relation to that land—
+
+(a) if no representation was made under subsection (4) with respect thereto; or
+
+(b) if an order under subsection (5) above has come into force with respect thereto.
+
+#### 14 Application of Compulsory Purchase Act 1965 and modification of Land Compensation Act 1961.
+
+(1) Part I of the [^M1]Compulsory Purchase Act 1965 applies in relation to the acquisition of land under this Act subject to any necessary adaptations and to Part I of Schedule 6 to this Act.
+
+(2) The [^M2]Land Compensation Act 1961, in its application for the purposes of this Act, has effect subject to any necessary adaptations and to Part II of Schedule 6.
+
+(3) A compulsory purchase order may provide for the incorporation with this Act of section 77 of the [^M3]Railway Clauses Consolidation Act 1845 (which relates to the exception of minerals from purchases) and sections 78 to 85 of that Act (which relate to restrictions on the working of minerals) as originally enacted and not as amended for certain purposes by section 15 of the [^M4]Mines (Working Facilities and Support) Act 1923, or of that section 77 only.
+
+(4) The provision referred to in subsection (3) above—
+
+(a) may be made as to all or any of the land to which the compulsory purchase order relates, and
+
+(b) may include such modification of references in those sections to the railway or works, or to the company, as may be specified in the order,
+
+and for the purposes of any such incorporation of those sections, this Act and the compulsory purchase order shall be deemed to be the special Act.
+
+#### 15 Compensation for acquisition of statutory undertakers’ operational land.
+
+(1) Where statutory undertakers are entitled to compensation in respect of a compulsory acquisition under this Act of operational land, Schedule 7 to this Act shall have effect as regards the assessment of the amount of that compensation.
+
+(2) In this section “compensation in respect of a compulsory acquisition” includes—
+
+(a) compensation payable in connection with the acquisition for damage sustained by reason of the severing of the land acquired from other land held therewith or otherwise injuriously affecting such other land; and
+
+(b) compensation payable for disturbance or any other matter not directly based on the value of the land.
+
+#### 16 Extinguishment of rights over land compulsorily acquired.
+
+(1) Subject to the provisions of this section, upon the completion by the acquiring authority of a compulsory acquisition of land under this Act, all private rights of way and rights of laying down, erecting, continuing or maintaining any apparatus on, under or over the land shall be extinguished, and any such apparatus shall vest in the acquiring authority.
+
+(2) Subsection (1) above shall not apply to any right vested in, or apparatus belonging to, statutory undertakers for the purpose of the carrying on of their undertaking [[^F39]or to any right conferred by or [[^F40]in accordance with the electronic communications code] on the operator of [[^F41]an electronic communications code network] or to any [[^F42]electronic communications apparatus] kept installed for the purposes of any [[^F43]such network].]
+
+(3) In respect of any right or apparatus not falling within subsection (2) above, subsection (1) shall have effect subject—
+
+(a) to any direction given by the acquiring authority before the completion of the acquisition that subsection (1) shall not apply to any right or apparatus specified in the direction; and
+
+(b) to any agreement which may be made (whether before or after the completion of the acquisition) between the acquiring authority and the person in or to whom the right or apparatus in question is vested or belongs.
+
+(4) Any person who suffers loss by the extinguishment of a right or the vesting of any apparatus under this section shall be entitled to compensation from the acquiring authority.
+
+(5) Any compensation payable under this section shall be determined in accordance with the [^M5]Land Compensation Act 1961.
+
+### Disposal of land by development corporation
+
+#### 17 Conditions as to disposal.
+
+(1) In relation to any land acquired by a development corporation, and—
+
+(a) subject to this section and to any direction given by the Secretary of State under this Act, and
+
+(b) whether or not, in the case of land within the area of the new town, the development of that particular land has been proposed or approved under section 7(1) above,
+
+the development corporation may dispose of that land—
+
+(i) to such persons,
+
+(ii) in such manner,
+
+(iii) subject to such covenants or conditions,
+
+as they consider expedient for securing the development of the new town in accordance with proposals approved by the Secretary of State under that section 7(1), or for purposes connected with the development of the new town.
+
+(2) A development corporation has no power, except with the Secretary of State’s consent (given generally or specially)—
+
+(a) to transfer the freehold of any land, or
+
+(b) to grant a lease of any land for a term of more than 99 years [[^F44]or
+
+(c) to dispose of any land by way of gift].
+
+(3) Where a development corporation purports to dispose of land by virtue of this section, then—
+
+(a) in favour of any person claiming under the corporation, the disposal so purporting to be made shall not be invalid by reason that any consent which is required under subsection (2) above has not been given; and
+
+(b) a person dealing with the corporation or a person claiming under the corporation shall not be concerned to see or enquire whether any such consent has been given.
+
+[[^F45](4) A development corporation has no power to dispose of land by way of mortgage or charge.]
+
+#### 18 Disposal to pre-acquisition occupiers.
+
+(1) In relation to land acquired by a development corporation under this Act, if persons who were living or carrying on business or other activities on land so acquired—
+
+(a) desire to obtain accommodation on land belonging to the corporation, and
+
+(b) are willing to comply with any requirements of the corporation as to its development and use,
+
+the corporation’s powers with respect to the disposal of that land shall be exercised as provided in subsection (2) below.
+
+(2) The corporation’s powers referred to in subsection (1) above shall be so exercised as to secure, so far as practicable, that those persons have an opportunity to obtain such accommodation suitable to their reasonable requirements, on terms settled with due regard to the price at which such land has been acquired from them.
+
+(3) In the case of a person who was carrying on a business of selling [[^F46]alcohol (within the meaning of section 191 of the Licensing Act 2003)] by retail on land acquired by a development corporation under this Act, the corporation is not under any duty to afford him an opportunity of obtaining alternative accommodation for such a business.
+
+### Powers exercisable in relation to land acquired by development corporation or highway authority
+
+#### [^F47]19 Power to override easements and other rights.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 20 Consecrated land and burial grounds.
+
+(1) Any consecrated land, whether including a building or not, which has been acquired for the purposes of this Act by a development corporation or local highway authority, or which has been acquired under this Act by the Secretary of State, may, subject to this section—
+
+(a) in the case of land acquired by such a corporation or authority, be used by them, or by any other person, in any manner in accordance with planning permission, and
+
+(b) in the case of land acquired by the Secretary of State, be used in any manner by him or on his behalf for any purpose for which he acquired the land,
+
+notwithstanding any obligation or restriction imposed under ecclesiastical law or otherwise in respect of consecrated land.
+
+This subsection does not apply to land which consists or forms part of a burial ground.
+
+(2) Any use of consecrated land authorised by subsection (1) above—
+
+(a) shall be subject to compliance with the prescribed requirements with respect to the removal and reinterment of any human remains and the disposal of monuments and fixtures and furnishings, and
+
+(b) shall be subject to such provisions as may be prescribed for prohibiting or restricting the use of the land, either absolutely or until the prescribed consent has been obtained, so long as any church or other building used or formerly used for religious worship, or any part of it, remains on the land,
+
+and the use of any land, not being consecrated land, acquired as mentioned in subsection (1), which at the time of acquisition included a church or other building used or formerly used for religious worship, or its site, shall be subject to compliance with the requirements mentioned in paragraph (a) above.
+
+(3) Any regulations made for the purposes of subsection (2) above—
+
+(a) shall contain such provisions as appear to the Secretary of State to be requisite for securing that any use of land which is subject to compliance with the regulations shall, as nearly as may be, be subject to the like control as is imposed by law in the case of a similar use authorised by an enactment not contained in this Act or by a Measure, or as it would be proper to impose on a disposal of the land in question otherwise than in pursuance of an enactment or Measure;
+
+(b) shall contain requirements relating to the disposal of any such land as is mentioned in subsection (2) such as appear to the Secretary of State requisite for securing that the provisions of that subsection shall be complied with in relation to the use of the land; and
+
+(c) may contain such incidental and consequential provisions (including provision as to the closing of registers) as appear to the Secretary of State to be expedient for the purposes of the regulations.
+
+(4) Any land consisting of a burial ground or part of a burial ground, which has been acquired as mentioned in subsection (1) may—
+
+(a) in the case of land acquired by a development corporation or local highway authority, be used by them in any manner in accordance with planning permission, and
+
+(b) in the case of land acquired by the Secretary of State, be used in any manner by him or on his behalf for any purpose for which he acquired the land,
+
+notwithstanding anything in any enactment relating to burial grounds or any obligation or restriction imposed under ecclesiastical law or otherwise in respect of burial grounds.
+
+(5) Subsection (4) above does not have effect in respect of any land which has been used for the burial of the dead until the prescribed requirements with respect to the removal and reinterment of human remains, and the disposal of monuments, in and upon the land have been complied with.
+
+(6) Provision shall be made by any regulations for the purposes of subsections (2) and (5) above—
+
+(a) for requiring the persons in whom the land is vested to publish notice of their intention to carry out the removal and reinterment of any human remains or the disposal of any monuments;
+
+(b) for enabling the personal representatives or relatives of any deceased person themselves to undertake the removal and reinterment of the remains of the deceased, and the disposal of any monument commemorating the deceased, and for requiring the persons in whom the land is vested to defray the expenses of such removal, reinterment and disposal, not exceeding such amount as may be prescribed;
+
+(c) for requiring compliance with such reasonable conditions (if any) as may be imposed, in the case of consecrated land, by the bishop of the diocese, with respect to the manner of removal, and the place and manner of reinterment of any human remains, and the disposal of any monuments, and with any directions given in any case by the Secretary of State with respect to the removal and reinterment of any human remains.
+
+(7) Subject to any such regulations, no faculty shall be required—
+
+(a) for the removal and reinterment in accordance with the regulations of any human remains, or
+
+(b) for the removal or disposal of any monuments,
+
+and section 25 of the [^M6]Burial Act 1857 (which prohibits the removal of human remains without the Secretary of State’s licence except in certain cases) does not apply to a removal carried out in accordance with the regulations.
+
+(8) Any power conferred by this section to use land in the manner so provided shall be construed as a power so to use the land, whether it involves the erection, construction or carrying out of any building or work, or the maintenance of any building or work, or not.
+
+(9) Nothing in this section shall be construed as authorising any act or omission on the part of any person which is actionable at the suit of any person on any grounds other than contravention of any such obligation, restriction or enactment as is mentioned in subsection (1) or subsection (4).
+
+[[^F48](10) Nothing in this section shall be construed as authorising any act or omission on the part of a development corporation or local highway authority, or of any body corporate, in contravention of any limitation imposed by law on their capacity by virtue of the constitution of the corporation, authority or body.]
+
+(11) In this section—
+
+- “burial ground” includes any churchyard, cemetery or other ground, whether consecrated or not, which has at any time been set apart for the purposes of interment; and
+- “monument” includes a tombstone or other memorial.
+
+#### 21 Open spaces.
+
+(1) Any land being, or forming part of, a common, open space or fuel or field garden allotment, which has been acquired for the purposes of this Act by a development corporation or local highway authority, or which has been acquired under this Act by the Secretary of State, may—
+
+(a) in the case of land acquired by such a corporation or authority, be used by them, or by any other person, in any manner in accordance with planning permission, and
+
+(b) in the case of land acquired by the Secretary of State, be used in any manner by him or on his behalf for any purpose for which he acquired the land,
+
+notwithstanding anything in any enactment relating to land of that kind, or in any enactment by which the land is specially regulated.
+
+(2) Nothing in this section shall be construed as authorising any act or omission on the part of any person which is actionable at the suit of any person on any grounds other than contravention of any such enactment as is mentioned in subsection (1) above.
+
+[[^F49](3) Nothing in this section shall be construed as authorising any act or omission on the part of a development corporation or local highway authority, or of any body corporate, in contravention of any limitation imposed by law on their capacity by virtue of the constitution of the corporation, authority or body.]
+
+#### 22 Possession of houses.
+
+If the Secretary of State certifies that possession of a house—
+
+(a) which has been acquired for the purposes of this Act by a development corporation or local highway authority, and
+
+(b) which is for the time being held by that corporation or authority for the purposes for which it was acquired,
+
+is immediately required for those purposes, nothing in the [^M7]Rent (Agriculture) Act 1976 or the [^M8]Rent Act 1977 [[^F50]or Part I of the Housing Act 1988] shall prevent that corporation or authority from obtaining possession of the house.
+
+#### 23 Extinguishment of public rights of way.
+
+(1) Where any land—
+
+(a) has been acquired for the purposes of this Act by a development corporation or local highway authority and is for the time being held by that corporation or authority for those purposes, or
+
+(b) has been acquired under this Act by the Secretary of State and is for the time being held for the purposes for which he acquired it,
+
+the Secretary of State may by order extinguish any public right of way over the land.
+
+(2) Where the Secretary of State proposes to make an order under this section, he shall publish in such manner as appears to him to be requisite a notice—
+
+(a) stating the effect of the order, and
+
+(b) specifying the time (not being less than 28 days from the publication of the notice) within which and the manner in which, objections to the proposal may be made,
+
+and shall serve a like notice—
+
+(i) on the district planning authority [[^F51]or, in the case of land in Wales, the local planning authority] in whose area the land is situated; and
+
+(ii) [[^F52]if different] on the relevant highway authority.
+
+In this subsection “the relevant highway authority” means any authority who are a highway authority in relation to the right of way proposed to be extinguished by the order, other than an authority who have applied for the order to be made.
+
+(3) Where an objection to a proposal to make an order under this section is duly made and is not withdrawn, Schedule 8 to this Act shall have effect in relation to the proposal.
+
+(4) For the purposes of this section an objection to such a proposal shall not be treated as duly made unless—
+
+(a) it is made within the time and in the manner specified in the notice required by this section; and
+
+(b) a statement in writing of the grounds of the objection is comprised in or submitted with the objection.
+
+(5) Where—
+
+(a) it is proposed to make an order under this section extinguishing a public right of way over a road on land acquired for the purposes of this Act by a development corporation, and
+
+(b) compensation in respect of restrictions imposed under section 1 or section 2 of the [^M9]Restriction of Ribbon Development Act 1935 in respect of that road has been paid by the highway authority (or, in the case of a trunk road, by the authority who, when the compensation was paid, were the authority for the purposes of section 4 of the [^M10]Trunk Roads Act 1936),
+
+the order may provide for the payment by the development corporation to that authority, in respect of the compensation so paid, of such sums as the Secretary of State, with the Treasury’s consent, may determine.
+
+(6) Where the Secretary of State is satisfied that the construction or improvement of a road is or will be needed in consequence of the extinguishment under this section of a public right of way, section 11 above shall apply as it applies where the Secretary of State is satisfied that the construction or improvement of a road is needed as mentioned in subsection (1) of that section.
+
+[^F53]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [[^F54]24
+
+(1) Where an order under section 23 of this Act extinguishing a public right of way is made on the application of a development corporation or local highway authority, and at the time of the publication of the notice required by subsection (2) of that section any [[^F55]electronic communications apparatus] was kept installed for the purposes of [[^F56]an electronic communications code network] under, in, over, along or across the land over which the right of way subsisted—
+
+(a) the power of the operator of [[^F57]the network] to remove the apparatus shall, notwithstanding the making of the order, be exercisable at any time not later than the end of the period of three months from the date on which the right of way is extinguished and shall be exercisable in respect of the whole or any part of the apparatus after the end of that period if before the end of that period the operator of [[^F57]the network] has given notice to the corporation or authority of his intention to remove the apparatus or that part of it, as the case may be;
+
+(b) the operator of [[^F57]the network] may by notice given in that behalf to the corporation or authority not later than the end of that period of three months abandon the [[^F55]electronic communications apparatus] or any part of it;
+
+(c) subject to paragraph ( *b* ) above, the operator of [[^F57]the network] shall be deemed at the end of that period to have abandoned any part of the apparatus which he has then neither removed nor given notice of his intention to remove;
+
+(d) the operator of [[^F57]the network] shall be entitled to recover from the corporation or authority the expenses of providing, in substitution for the apparatus and any other [[^F55]electronic communications apparatus] connected with it which is rendered useless in consequence of the removal or abandonment of the first-mentioned apparatus, any [[^F55]electronic communications apparatus] in such other place as the operator may require;
+
+(e) where under the preceding provisions of this subsection the operator of [[^F57]the network] has abandoned the whole or any part of any [[^F55]electronic communications apparatus], that apparatus or that part of it shall vest in the corporation or authority and shall be deemed, with its abandonment, to cease to be kept installed for the purposes of [[^F56]an electronic communications code network].
+
+(2) Where the Secretary of State makes an order under section 23 above in circumstances in which subsection (1) above applies in relation to the operator of [[^F56]an electronic communications code network], the Secretary of State shall send a copy of the order to the operator.]
+
+#### 25 Special power to create trunk roads.
+
+The Secretary of State may direct that any road constructed by him on land transferred to or acquired by him under this Act shall, on such date as may be specified in the direction, become a trunk road within the meaning of the [^M11]Highways Act 1980; and the provisions of that Act relating to trunk roads shall apply to the road accordingly.
+
+### Statutory undertakers, and provision of trolley vehicle services
+
+#### 26 Extinguishment of rights of way and removal of apparatus.
+
+(1) This section applies to land—
+
+(a) which has been acquired for the purposes of this Act by a development corporation or local highway authority and is for the time being held by that corporation or authority for those purposes, or
+
+(b) which has been acquired under this Act by the Secretary of State and is for the time being held for the purposes for which he acquired it.
+
+(2) Where, in the case of any land to which this section applies—
+
+(a) there subsists over that land a right vested in or belonging to statutory undertakers for the purpose of the carrying on of their undertaking, being a right of way or a right of laying down, erecting, continuing or maintaining apparatus on, under or over the land, or
+
+(b) there is on, under or over the land apparatus vested in or belonging to statutory undertakers for the purpose of the carrying on of their undertaking,
+
+the acquiring authority may serve on the statutory undertakers a notice stating that, at the end of such period as may be specified in the notice, the right will be extinguished, or requiring that, before the end of such period as may be so specified, the apparatus shall be removed.
+
+(3) The statutory undertakers on whom a notice is served under subsection (2) above may, before the end of the period of 28 days from the service of the notice, serve a counter-notice on the acquiring authority stating that they object to all or any of the provisions of the notice, and specifying the grounds of their objection.
+
+(4) If no counter-notice is served under subsection (3) above—
+
+(a) any right to which the notice relates shall be extinguished at the end of the period specified in that behalf in the notice; and
+
+(b) if, at the end of the period so specified in relation to any apparatus, any requirement of the notice as to the removal of the apparatus has not been complied with, the acquiring authority may remove the apparatus and dispose of it in any way the authority may think fit.
+
+(5) If a counter-notice is served under subsection (3) on a development corporation or local highway authority, the corporation or authority—
+
+(a) may either withdraw the notice (without prejudice to the service of a further notice), or
+
+(b) may apply to the Secretary of State and the appropriate Minister for an order under this section embodying the provisions of the notice, with or without modification,
+
+and if such an application is made the Secretary of State and the appropriate Minister may make an order under this section accordingly.
+
+(6) If a counter-notice is served under subsection (3) on the Secretary of State, he may withdraw the notice (without prejudice to the service of a further notice) or he and the appropriate Minister may make an order under this section embodying the provisions of the notice, with or without modification.
+
+(7) Where, by virtue of this section—
+
+(a) any right vested in or belonging to statutory undertakers is ’ extinguished, or
+
+(b) any requirement is imposed on statutory undertakers,
+
+those undertakers shall be entitled to compensation from the acquiring authority at whose instance the right was extinguished or the requirement imposed; and Schedule 7 to this Act has effect as regards the assessment of the amount of that compensation.
+
+[[^F58](8) Except in a case in which section 24 above has effect—
+
+(a) the reference in paragraph ( *a* ) of subsection (2) above to a right vested in or belonging to statutory undertakers for the purpose of the carrying on of their undertaking shall include a reference to a right conferred by or [[^F59]in accordance with the electronic communications code] on the operator of [[^F60]an electronic communications code network]; and
+
+(b) the reference in paragraph ( *b* ) of that subsection to apparatus vested in or belonging to statutory undertakers for the purpose of the carrying on of their undertaking shall include a reference to [[^F61]electronic communications apparatus] kept installed for the purposes of any [[^F62]such network];
+
+and for the purposes of this subsection, in this section (except in the said paragraphs ( *a* ) and ( *b* ) ) and in Schedule 7 to this Act and section 27 below, references to statutory undertakers shall have effect as references to the operator of any [[^F62]such network], references, in relation to such an operator, to the carrying on of his undertaking shall have effect as references to [[^F63]the provision of the electronic communications code network] in question and references to the appropriate Minister shall have effect as references to the Secretary of State for Trade and Industry.]
+
+#### 27 Orders under s. 26.
+
+(1) Where the Secretary of State and the appropriate Minister propose to make an order under section 26(6) above, they shall prepare a draft of the order.
+
+(2) Before making an order under section 26(5) or (6), the Ministers proposing to make the order—
+
+(a) shall afford to the statutory undertakers on whom notice was served under subsection (2) of that section an opportunity of objecting to the application for, or proposal to make, the order, and
+
+(b) if any objection is made, shall consider the objection and afford to those statutory undertakers (and, in a case falling within subsection (5) of that section, to the development corporation or local highway authority on whom the counter-notice was served) an opportunity of appearing before, and being heard by, a person appointed by the Secretary of State and the appropriate Minister for the purpose,
+
+and may then, if they think fit, make the order in accordance with the application or in accordance with the draft order, as the case may be, either with or without modification.
+
+(3) Where an objection to an order under section 26 is duly made and is not withdrawn before the making of the order, the order shall be subject to special parliamentary procedure.
+
+(4) Subject to subsection (3) above, where an order is made under section 26—
+
+(a) any right to which the order relates shall be extinguished at the end of the period specified in that behalf in the order, and
+
+(b) if, at the end of the period so specified in relation to any apparatus, any requirement of the order as to the removal of the apparatus has not been complied with, the acquiring authority may remove the apparatus and dispose of it in any way the authority may think fit.
+
+#### 28 Extension or modification of functions.
+
+(1) The powers conferred by this section shall be exercisable where, on a representation made by statutory undertakers, it appears to the Secretary of State and the appropriate Minister to be expedient that the powers and duties of those undertakers should be extended or modified, in order—
+
+(a) to secure the provision of services which would not otherwise be provided, or satisfactorily provided, for the purposes of a new town under this Act; or
+
+(b) to facilitate an adjustment of the carrying on of the undertaking necessitated by any of the acts and events mentioned in subsection (2) below.
+
+(2) Those acts and events are—
+
+(a) the acquisition under this Act of any land in which an interest was held, or which was used, for the purpose of the carrying on of the undertaking of the statutory undertakers in question;
+
+(b) the extinguishment of a right or the imposition of any requirement by virtue of section 26 above.
+
+(3) The powers conferred by this section shall also be exercisable where, on a representation made by a development corporation, it appears to the Secretary of State and the appropriate Minister to be expedient that the powers and duties of statutory undertakers should be extended or modified in order—
+
+(a) to secure the provision of new services, or
+
+(b) to secure the extension of existing services,
+
+for the purposes of a new town under this Act.
+
+(4) Where the powers conferred by this section are exercisable, the Secretary of State and the appropriate Minister may, if they think fit, by order provide for such extension or modification of the powers and duties of the statutory undertakers as appears to them to be requisite in order—
+
+(a) to secure the provision of the services in question, as mentioned in subsection (1)(a) or (3) above, or
+
+(b) to secure the adjustment in question, as mentioned in subsection (1)(b),
+
+as the case may be.
+
+(5) Without prejudice to the generality of subsection (4) above, an order under this section may provide—
+
+(a) for empowering the statutory undertakers to acquire (whether compulsorily or by agreement) any land specified in the order, and to erect or construct any buildings or works so specified;
+
+(b) for applying, in relation to the acquisition of any such land or the construction of any such works, enactments relating to the acquisition of land and the construction of works;
+
+(c) where it has been represented that the making of the order is expedient for the purposes mentioned in subsection (1)(a) or (3), for giving effect to such financial arrangements between the development corporation and the statutory undertakers—
+
+(i) as they may agree; or
+
+(ii) in default of agreement, as may be determined to be equitable in such manner and by such tribunal as may be specified in the order;
+
+(d) for such incidental and supplemental matters as appear to the Secretary of State and the appropriate Minister to be expedient for the purposes of the order.
+
+#### 29 Procedure for orders under s. 28.
+
+(1) As soon as may be after making such a representation as is mentioned in section 28(1) or (3) above—
+
+(a) the statutory undertakers, in a case falling within subsection (1), or
+
+(b) the development corporation, in a case falling within subsection (3),
+
+shall publish, in such form and manner as may be directed by the Secretary of State and the appropriate Minister, a notice—
+
+(i) giving such particulars as may be so directed of the matters to which the representation relates, and
+
+(ii) specifying the time within which, and the manner in which, objections to the making of an order on the representation may be made,
+
+and shall also, if it is so directed by the Secretary of State and the appropriate Minister, serve a like notice on such persons, or persons of such classes, as may be so directed.
+
+(2) Orders under section 28 shall be subject to special parliamentary procedure.
+
+#### 30 Relief from obligations rendered impracticable.
+
+(1) Where—
+
+(a) on a representation made by statutory undertakers, the appropriate Minister is satisfied that the fulfilment of any obligation incurred by those undertakers in connection with the carrying on of their undertaking has been rendered impracticable by an act or event to which this subsection applies, then,
+
+(b) the appropriate Minister may, if he thinks fit, by order direct that the statutory undertakers shall be relieved of the fulfilment of that obligation, either absolutely or to such extent as may be specified in the order.
+
+(2) Subsection (1) above applies to the following acts and events—
+
+(a) the compulsory acquisition under this Act of any land in which an interest was held, or which was used, for the purpose of the carrying on of the undertaking of the statutory undertakers;
+
+(b) the extinguishment of a right or the imposition of any requirement by virtue of section 26 above.
+
+(3) As soon as may be after making a representation to the appropriate Minister under subsection (1), the statutory undertakers shall, as may be directed by the appropriate Minister, either—
+
+(a) publish (in such form and manner as may be so directed) a notice giving such particulars as may be so directed of the matters to which the representation relates, and specifying the time within which, and the manner in which, objections to the making of an order on the representation may be made; or
+
+(b) serve such a notice on such persons, or persons of such classes, as may be so directed; or
+
+(c) both publish and serve such notices.
+
+(4) If any objection to the making of an order under this section is duly made and is not withdrawn before the order is made, the order shall be subject to special parliamentary procedure.
+
+(5) As soon as may be after an order has been made under this section the appropriate Minister shall publish in such form and manner as he thinks fit a notice stating that the order has been made.
+
+(6) The provisions of Part V of Schedule 4 to this Act as to the validity and date of operation of compulsory purchase orders have effect in relation to an order under this section with—
+
+(a) the substitution for references to a compulsory purchase order of references to an order under this section; and
+
+(b) the substitution for references to publication in accordance with that Schedule of references to publication in accordance with subsection (5) above.
+
+#### 31 Objections to orders under ss. 28 and 30.
+
+(1) For the purposes of sections 28 and 30 above an objection to the making of an order under those sections shall not be treated as duly made unless—
+
+(a) the objection is made within the time and in the manner specified in the notice required by the section under which the order is proposed to be made; and
+
+(b) a statement in writing of the grounds of the objection is comprised in or submitted with the objection.
+
+(2) Where an objection to the making of such an order is duly made in accordance with subsection (1) above and is not withdrawn, Schedule 8 to this Act has effect in relation to the objection.
+
+#### 32 Trolley vehicle services by development corporation.
+
+(1) A development corporation may by means of an order made by the Secretary of State be authorised to operate trolley vehicle services for the purposes of the corporation’s new town.
+
+(2) An order under this section may impose such conditions as appear to the Secretary of State to be required in the interests of the public safety, and may contain such incidental and consequential provisions as appear to him to be necessary or expedient for the purposes of the order, including provisions—
+
+(a) authorising the construction and maintenance in highways of any works or equipment required in connection with the services;
+
+(b) providing for the making and enforcement of regulations and byelaws with respect to the construction and operation of any vehicles or equipment used for the purposes of the services, and with respect to the conduct of passengers on, and of the drivers and conductors of, any such vehicles.
+
+(3) An order under this section shall be subject to special parliamentary procedure.
+
+### Public health
+
+#### 33 New town may be united district for Public Health Acts.
+
+Where—
+
+(a) an order is made under section 1 above designating an area as the site of a new town, and
+
+(b) the Secretary of State is satisfied that, in consequence of the making of that order, it is expedient that that area, or any larger area which comprises that area, should be constituted a united district for any purpose for which a united district may be constituted under section 6 of the [^M12]Public Health Act 1936,
+
+he may make an order under that section 6 constituting the area as to which he is so satisfied a united district, notwithstanding that no application in that behalf is made to him by the local authorities for the [[^F64]areas] concerned or any of them.
+
+#### 34 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F65]
+
+## Part II — [[^F66]Transfers from and dissolution of development corporations etc.]
+
+### [[^F67]Functions of Welsh Ministers in relation to certain transferred property]
+
+#### [^F68]35 Establishment of Commission.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 36 [[^F69]Functions of Welsh Ministers]
+
+[[^F70][[^F71] 1 The Welsh Ministers may—
+
+(a) take over and, with a view to its eventual disposal, hold, manage and turn to account—
+
+(i) the property of the Commission for the New Towns transferred to them under a scheme made under section 51(1) of the Housing and Regeneration Act 2008;
+
+(ii) the property of development corporations transferred to them under this Act; and
+
+(iii) the property of urban development corporations transferred to them by order under section 165A of the Local Government, Planning and Land Act 1980; and
+
+(b) as soon as they consider it expedient to do so, dispose of property so transferred or any other property arising out of such property.
+
+(1A) In exercising their functions under subsection (1), the Welsh Ministers must have regard to the considerations specified in subsection (2).]
+
+(2) Those considerations, in relation to any new town [[^F72]or urban development area], are—
+
+(a) the convenience and welfare of persons residing, working or carrying on business there, and
+
+(b) until disposal, the maintenance and enhancement of the value of the land held and the return obtained from it.]
+
+[^F73]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F74]3A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) A transaction between a person and the [[^F75]Welsh Ministers] shall not be invalidated by reason of any non-compliance by the [[^F75]Welsh Ministers] with [[^F76]the obligation to have regard to the considerations specified in subsection (2) above] [^F77]...
+
+[[^F78](4A) In this section “urban development area” means land which is or was, or is or was part of, an urban development area (within the meaning of Part XVI of the Local Government, Planning and Land Act 1980) and—
+
+(a) any reference to property transferred to the [[^F79]Welsh Ministers by order under section 165A] of that Act includes a reference to rights and liabilities so transferred; and
+
+(b) in relation to liabilities so transferred, any reference to disposal includes a reference to extinguishment.]
+
+(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F80]
+
+#### [^F81]37 Restrictions on functions of Commission.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F82]38 Local authorities and work for Commission.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Transfer of property and undertakings of development corporations, and their dissolution
+
+#### 39 Power of development corporation to transfer undertakings.
+
+(1) Subject to the provisions of this section, a development corporation may, by an agreement made with any local authority or any statutory undertakers and approved by the [[^F83]appropriate national authority] with the concurrence of the Treasury—
+
+(a) transfer to that local authority any part of the undertaking of the corporation, or
+
+(b) transfer to those statutory undertakers any part of the undertaking of the corporation which consists of a statutory undertaking,
+
+upon such terms as may be prescribed by the agreement.
+
+The foregoing provision is without prejudice to the powers of development corporations under this Act to dispose of any of their property, including any trade or business carried on by them.
+
+(2) Before approving an agreement under this section the [[^F84]appropriate national authority] shall consult with the council of every county and of every district in which the whole or any part of the area of the new town is situated, except, in the case of an agreement made with such a council, the council with whom it is made.
+
+[[^F85](2A) Subsection (2) above shall have effect [[^F86]in the case of a development corporation established by the Welsh Ministers] as if for “and of every district” there were substituted or county borough.]
+
+(3) Before approving an agreement under this section for the transfer of a statutory undertaking, the [[^F87]appropriate national authority] shall publish in the London Gazette, and in one or more newspapers circulating in the area in which the new town is situated, a notice stating that the agreement has been submitted for approval, and describing the general effect of the agreement.
+
+(4) [[^F88]In a case in which the appropriate national authority is the [[^F89]appropriate national authority],] if within 28 days from the publication of the notice in the London Gazette in accordance with subsection (3) above any objection to the agreement is made by any statutory undertakers—
+
+(a) who are carrying on, or are authorised to carry on, a statutory undertaking of a character similar to the statutory undertaking proposed to be transferred by the agreement, and
+
+(b) who do so within the area in which the new town is situated or any adjacent area,
+
+subsection (1) above shall apply in relation to the agreement as if for the reference to the Secretary of State there were substituted a reference to the Secretary of State and the appropriate Minister.
+
+(5) If the [[^F90]appropriate national authority] is satisfied that it is expedient, having regard to any agreement made or proposed to be made under this section, that the liability of the development corporation in respect of advances made to them under the following provisions of this Act should be reduced, [[^F90]the authority] may, [[^F91]with the Treasury’s consent, by order], reduce that liability to such extent as may be specified in the order.
+
+[[^F92](5A) No order shall be made under subsection (5) above—
+
+(a) by the Secretary of State unless a draft of the order has been laid before, and approved by a resolution of, the House of Commons;
+
+(b) by the Welsh Ministers unless a draft of the order has been laid before, and approved by a resolution of, the National Assembly for Wales.]
+
+(6) The payment of any sums payable by a local authority for the purposes of an agreement under this section shall be a purpose for which that authority may borrow money.
+
+[[^F93](7) This section shall have effect as if references to statutory undertakers included references to the operator of [[^F94]an electronic communications code network] and as if for this purpose—
+
+(a) references to a statutory undertaking were references to [[^F95]the provision of such a network]; and
+
+(b) references to the appropriate Minister were references to the Secretary of State for Trade and Industry.]
+
+#### 40 [^F96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 41 Transfer of property [^F97]... and dissolution of corporation.
+
+(1) Where, after consultation with the council of every county and of every district in which the whole or any part of the area of a new town is situated, the [[^F98]appropriate national authority] is satisfied that the purposes for which the development corporation is established under this Act have been substantially achieved, [[^F99]the authority] shall by order direct—
+
+(a) that on such date as may be specified in the order the property of the corporation (other than property excepted under the following provisions of this Act) shall vest in the [[^F100]relevant transferee], and the corporation shall cease to act except for the purpose of taking such steps (if any) as may be authorised or required by the order to dispose of any property so excepted, to prepare its final accounts and report, or otherwise to wind up its affairs; and
+
+(b) that on that date or such later date as may be fixed by or under the order, the corporation shall be dissolved.
+
+[[^F101](1A) Subsection (1) above shall have effect [[^F102]in the case of a development corporation established by the Welsh Ministers] as if for “and of every district” there were substituted “or county borough”.]
+
+(2) With respect to the transfer to the [[^F103]relevant transferee] by an order under this section of the property of a development corporation and with respect to matters arising out of the transfer or out of the dissolution of the corporation—
+
+(a) Schedule 10 to this Act has effect; and
+
+(b) the [[^F104]appropriate national authority] may by order under this section make such further incidental or supplementary provisions as appear to [[^F105]the authority] to be necessary or expedient in relation to any such matter.
+
+(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F106]
+
+(4) Where by virtue of an order under section 6 above a development corporation discharges functions in relation to more than one new town, the [[^F107]appropriate national authority] may make an order under subsection (1) above in relation—
+
+(a) to that corporation, and
+
+(b) to any of those towns without the other or others,
+
+as if the corporation were not concerned with the other or others, but without providing for the dissolution of the corporation.
+
+(5) In the case of any such order, Schedule 10 shall apply subject to such modifications as may be provided by the order for the purpose in particular of determining what part of the corporation’s property, rights, liabilities and obligations is to be transferred to the [[^F108]relevant transferee].
+
+#### 41A [[^F109]Part 2: interpretation
+
+In this Part—
+
+- “the appropriate national authority”—
+
+  - (a) in relation to a development corporation established by order made by the Secretary of State, means the Secretary of State; and
+  - (b) in relation to a development corporation established by order made by the Welsh Ministers, means the Welsh Ministers;
+
+- “the relevant transferee”—
+
+  - (a) in relation to an order made under section 41 by the Secretary of State, means the Homes and Communities Agency; and
+  - (b) in relation to an order made under section 41 by the Welsh Ministers, means the Welsh Ministers.]
+
+## Part III — . . . [^F110]
+
+## Part IV — Finance
+
+### General financial provisions
+
+#### 58 Advances and grants to development corporations [^F111]....
+
+(1) For the purpose of enabling a development corporation—
+
+(a) to meet expenditure properly chargeable to capital account (including the provision of working capital), or
+
+(b) to make good to revenue account sums applied in meeting liabilities so chargeable,
+
+the Secretary of State may (subject to section 60 below) make to the corporation advances repayable over such periods [[^F112], carrying interest at such rates and on such other terms] as may be approved by the Treasury.
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F113]
+
+(3) It shall be a condition of the making of advances to a development corporation under subsection (1) above that the proposals for development submitted to the Secretary of State under section 7 above shall be approved by the Secretary of State with the Treasury’s concurrence as being likely to secure for the corporation a return which is reasonable, having regard to all the circumstances, when compared with the cost of carrying out those proposals.
+
+(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F113]
+
+[^F114]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F115]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 58A [[^F116] Grants to development corporations [^F117]....
+
+(1) For the purpose of enabling a development corporation—
+
+(a) to meet expenditure properly chargeable to capital account and incurred or to be incurred in providing, or in making contributions towards the cost to others of providing, any of the facilities specified in subsection (2) below, or
+
+(b) to make good to revenue account sums applied in meeting liabilities so chargeable and arising out of the provision of any of those facilities,
+
+the Secretary of State may, out of money provided by Parliament, make grants to the corporation of such amount as may be approved by the Treasury.
+
+(2) The facilities referred to in subsection (1) above are the following—
+
+(a) roads, paths, bridges and car parks;
+
+(b) public open spaces, recreation grounds, playgrounds and landscaping;
+
+(c) meeting halls and assembly rooms;
+
+(d) any other facilities similar to those specified in paragraph ( *a* ), ( *b* ) or ( *c* ) above.
+
+(3) For the purpose of enabling a development corporation to meet expenditure properly chargeable to revenue account the Secretary of State may, out of money provided by Parliament, make grants to the corporation of such amount as may be approved by the Treasury.
+
+[^F118]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F119]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ]
+
+#### 59 Other borrowing powers of development corporations [^F120]....
+
+(1) A development corporation [^F121]... may borrow temporarily, by way of overdraft or otherwise, either—
+
+(a) in sterling from the Secretary of State, or
+
+(b) with the Secretary of State’s consent and the Treasury’s approval, or in accordance with any general authority given by the Secretary of State with the Treasury’s approval, in any currency from any other person.
+
+such sums as the development corporation [[^F122]may require for meeting its obligations or performing its functions].
+
+(2) With the consent of the Secretary of State and the Treasury’s approval, a development corporation [^F123]... may borrow, otherwise than by way of temporary loan—
+
+(a) in any currency from the Commission of [[^F124]the European Union] or from the European Investment Bank, or
+
+(b) in any currency other than sterling from any person, other than the Secretary of State and the bodies mentioned in the preceding paragraph,
+
+such sums as [[^F125]it may require for enabling it] to meet expenditure properly chargeable to capital account (including the provision of working capital), or to make good to revenue account sums applied in meeting liabilities so chargeable.
+
+#### 60 Limit on borrowing by development corporations [^F126]...
+
+[[^F127](1) The aggregate of the amounts outstanding in respect of the principal of the following sums [[^F128](save as excepted by subsection (1A))]—]
+
+(a) the sums advanced to development corporations before the commencement of this Act under section 12(1) of the [^M13]New Towns Act 1946 in its application to England and Wales or under section 42(1) of the [^M14]New Towns Act 1965, and, after the commencement of this Act, under section 58(1) above, (which corresponds to those subsections),
+
+(b) the sums advanced to development corporations before the commencement of the [^M15]New Towns (Scotland) Act 1968 under that section 12(1) in its application to Scotland (to which section 37(1) of that Act of 1968 corresponds) and, after the commencement of that Act of 1968, under that section 37(1); [[^F129]and]
+
+[^F130]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(d) the sums borrowed [[^F131]by development corporations] before the commencement of this Act under section 42A of that Act of 1965 and, after the commencement of this Act, under section 59 above (which corresponds to that section), or under section 37A of that Act of 1968,
+
+[[^F127]shall not at any time exceed the limit imposed by or under subsection [[^F132](2) and (3)] below.]
+
+[[^F133](1A) No sum which—
+
+(a) is advanced to, or borrowed by, a development corporation established for the purposes of a new town in England, and
+
+(b) is advanced or borrowed on or after the date on which section 179 of the Levelling-up and Regeneration Act 2023 comes into force,
+
+is to count for the purposes of subsection (1)(a) or (d).]
+
+[[^F134](2) The said limit, except during the period specified in subsection (4) below, is £4,600 million or such greater sum not exceeding £5,250 million as the Secretary of State may by order specify.
+
+(3) No order shall be made under subsection (2) above unless a draft of the order has been laid before, and approved by resolution of, the House of Commons.
+
+[^F135]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ]
+
+#### 61 Provisions supplemental to s. 58.
+
+(1) The Treasury may issue to the Secretary of State out of the National Loans Fund such sums as are necessary to enable him to make advances [[^F136]to a development corporation under section 58(1) above]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F137]
+
+(2) Any sums received by the Secretary of State by way of repayment of or interest on advances under section 58(1)[^F138]... shall be paid into the National Loans Fund.
+
+(3) The Secretary of State shall lay before each House of Parliament a statement of any sums payable to him by way of repayment of or interest on any such advances and not duly received by him.
+
+#### 62 Treasury guarantees.
+
+(1) The Treasury may guarantee in such manner and on such conditions as they may think fit [[^F139]the repayment of the principal of, the payment of interest on and the discharge of any other financial obligation in connection with] any sums which a development corporation [[^F140]borrows] under this Act from a person other than the Secretary of State.
+
+(2) Immediately after a guarantee is given under this section, the Treasury shall lay a statement of the guarantee before each House of Parliament.
+
+(3) Where any sum is issued for fulfilling a guarantee so given, the Treasury shall, as soon as possible after the end of each financial year—
+
+(a) beginning with that in which the sum is issued, and
+
+(b) ending with that in which all liability in respect of the principal of the sum, and in respect of interest on it, is finally discharged,
+
+lay before each House of Parliament a statement relating to that sum.
+
+(4) Any sums required by the Treasury for fulfilling a guarantee under this section shall be charged on and issued out of the Consolidated Fund.
+
+(5) If any sums are issued in fulfilment of a guarantee given under this section in respect of money borrowed by a development corporation[[^F141], the corporation] shall make to the Treasury, at such times and in such manner as the Treasury may from time to time direct—
+
+(a) payments, of such amounts as the Treasury may so direct, in or towards repayment of the sums so issued; and
+
+(b) payments of interest on what is outstanding for the time being in respect of amounts so issued at such rate as the Treasury may so direct.
+
+(6) Any sums received under subsection (5) above by the Treasury shall be paid into the Consolidated Fund.
+
+### [[^F142] Financial reconstruction
+
+#### 62A Power to extinguish loan obligations of development corporations.
+
+(1) The Secretary of State may, with the Treasury’s consent, by order extinguish to such extent as may be specified in the order any liabilities of a development corporation in respect of advances made by him to the corporation under section 58(1) or the corresponding provisions of the 1946 Act or the 1965 Act.
+
+(2) The aggregate amount of liabilities extinguished by order under this section shall not exceed £1,750 million.
+
+(3) Where liabilities are extinguished under this section the assets of the National Loans Fund shall be reduced by amounts corresponding to the liabilities so extinguished.
+
+(4) No order shall be made under this section after 30th September 1986.
+
+(5) No order shall be made under this section unless a draft of the order has been laid before, and approved by a resolution of, the House of Commons.
+
+(6) In this section—
+
+(a) “the 1946 Act” means the [^M16]New Towns Act 1946 and the provision of it corresponding to section 58(1) is section 12(1); and
+
+(b) “the 1965 Act” means the [^M17]New Towns Act 1965 and the provision of it corresponding to section 58(1) is section 42(1).
+
+#### [^F143]62B Power to suspend loan obligations of development corporations and Commission.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ]
+
+### Payments to Secretary of State
+
+#### 63 Secretary of State’s general power.
+
+(1) The Secretary of State may direct a development corporation [^F144]... to pay to him, on the date specified in the direction, such sum as is so specified, and any sum so received by him shall, subject to section 66(2) below, be paid into the Consolidated Fund.
+
+(2) Before giving a direction under this section the Secretary of State shall consult the corporation [^F145]....
+
+(3) The debt shall carry interest at the rate for the time being in force under section 32 of the [^M18]Land Compensation Act 1961 [^F146]... from the date specified in the direction until payment.
+
+[^F147]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 64 Disposal of land to comply with direction under s. 63.
+
+(1) Where, in order to comply with a direction under section 63 above, the corporation . . . [^F148] considers it desirable to dispose of any land, it may do so by virtue of this section.
+
+(2) The power of disposal by virtue of this section may be exercised notwithstanding [[^F149]section 17(1) above and any implied restriction in Part I of this Act on the circumstances in which property of a development corporation may be disposed of, but otherwise must be exercised in accordance with the said Part I except that, before giving the corporation directions under section 5(2), the Secretary of State shall consult the corporation (unless he is satisfied that, on account of urgency, such consultation is impracticable].
+
+(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F150]
+
+#### 65 Disposal of surplus funds.
+
+(1) This section applies where it appears to the Secretary of State, after consultation with the Treasury [[^F151]and any development corporation, that the corporation has a surplus whether on capital or on revenue account after making allowance by way of transfer to reserve or otherwise for its future requirements].
+
+(2) [[^F152]That corporation] shall, if the Secretary of State after such consultation so directs, pay to the Secretary of State such sum not exceeding the amount of that surplus as may be specified in the direction, and any sum so received by him shall be paid into the Consolidated Fund, subject to section 66(2) below.
+
+#### 66 Payments under ss. 63 and 65 treated as repayments.
+
+(1) The whole or part of any payment made to the Secretary of State under section 63 or section 65 above shall, if the Secretary of State with the Treasury’s approval so determines, be treated—
+
+[[^F153](a) as made by way of repayment of such part of the principal of advances under section 58(1) above, and]
+
+(b) as made in respect of the repayments due at such times, as may be so determined.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F154]
+
+(2) Any sum treated under subsection (1) as a repayment of a loan shall be paid by the Secretary of State into the National Loans Fund.
+
+## Part V — General and Supplemental
+
+### Accounts and audit
+
+#### 67 Accounts of [^F155]... development corporations.
+
+(1) [^F156]... every development corporation—
+
+(a) shall keep proper accounts and other records in relation to those accounts, and
+
+[[^F157](b) shall [^F158]... prepare in respect of each financial year annual accounts in such form as the Secretary of State may with the Treasury’s approval direct, [^F159]... ]
+
+[^F159]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F160]1A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The financial year [^F161]... of every development corporation shall begin with 1st April [[^F162]but, if the Secretary of State, with the approval of the Treasury, so directs in a case where a development corporation [^F163]... is to be dissolved, the final financial year of the corporation [^F163]... shall be such period as is specified in the direction, and references in this Act to a financial year in relation to a development corporation [^F163]... shall be construed accordingly.]
+
+(3) Without prejudice to the generality of subsection (1) above, the Secretary of State may, with the Treasury’s approval, give directions to [^F164]... a development corporation as to—
+
+(a) the kind or number of accounts which [[^F165]it is] to keep.
+
+(b) the amounts which are or are not to be credited or debited to any account,
+
+(c) the manner of rectifying any account,
+
+(d) provision for working balances,
+
+and any such direction may be a general direction or a direction for a particular case.
+
+#### 68 Audit.
+
+(1) The accounts [^F166]... of every development corporation shall be audited by an auditor to be appointed annually by the Secretary of State in relation to the [^F167]... corporation.
+
+[[^F168](2) A person shall not be so appointed auditor unless he is eligible for appointment as a [[^F169]statutory auditor under Part 42 of the Companies Act 2006].]
+
+[^F170]2A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) As soon as the annual [[^F171]accounts of] a development corporation for any financial year have been audited, the [[^F171]corporation] shall send to the Secretary of State a copy of the accounts prepared by [[^F172]it] for that year in accordance with this section, together with a copy of any report made by the auditor on those accounts.
+
+#### 69 Secretary of State’s accounts.
+
+(1) The Secretary of State shall prepare in respect of each financial year, in such form and manner and at such times as the Treasury may direct—
+
+[^F173]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) an account of the sums issued to him and advanced to a development corporation under this Act and of sums received by him from the development corporation and paid into the National Loans Fund in respect of the principal of and interest on sums so advanced.
+
+[^F174]...
+
+(2) On or before 30th November in each year, the Secretary of State shall transmit to the Comptroller and Auditor General—
+
+[^F175]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) the account prepared by him under subsection (1)(b) in respect of the last foregoing financial year,
+
+and the Comptroller and Auditor General shall examine and certify every account so prepared by the Secretary of State and lay before each House of Parliament copies of each such account together with his report on it.
+
+### Reports and information
+
+#### 70 Reports.
+
+As soon as possible after the end of each financial year—
+
+[^F176]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) every development corporation shall make to the Secretary of State a report dealing generally with the operations of the corporation during that year, and shall include in the report a copy of their audited accounts for that year,
+
+and the Secretary of State shall lay a copy of every such report [^F177][[^F178]... of a development corporation] before each House of Parliament.
+
+#### 71 Information.
+
+(1) Without prejudice to the requirements imposed by section 70 above, [[^F179]every development corporation shall] provide the Secretary of State with such information relating to [[^F180]its] undertaking as the Secretary of State may from time to time require.
+
+(2) For that purpose [^F181]... every development corporation—
+
+(a) shall permit any person authorised by the Secretary of State in that behalf to inspect and copy the accounts, books, documents or papers of the [[^F182]corporation], and
+
+(b) shall afford such explanation of those accounts, books, documents or papers as that person or the Secretary of State may reasonably require.
+
+### Miscellaneous
+
+#### 72 Application and exclusion of certain enactments.
+
+(1) Any property—
+
+(a) vested in any person by virtue of an order under section 40 or section 41 above transferring that property from a development corporation [^F183]..., [[^F184]or
+
+(b) of a new town corporation vested in a district council by a transfer scheme under Part III of this Act,]
+
+shall not be treated as so vested by way of sale for the purpose of section 12 of the [^M19]Finance Act 1895 (stamp duty on certain statutory transfers by way of sale).
+
+(2) For the purposes of [[^F185]section 9 of the [^M20]Acquisition of Land Act 1981] (which relates to the acquisition of inalienable land) this Act shall be deemed to have been passed before the commencement of that Act.
+
+#### 73 Rights of entry.
+
+(1) Where an authority, being either a development corporation or a local highway authority or the Secretary of State, are—
+
+(a) authorised to acquire any land compulsorily under this Act, [^F186]...
+
+[^F186]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+any person, being an officer of the Valuation Office or a person authorised in writing by such authority, may at any reasonable time enter upon the land for the purpose of surveying it or estimating its value.
+
+(2) Any person, being an officer of the Valuation Office or a person authorised in writing by the Secretary of State, may at any reasonable time enter upon any land for the purpose of surveying it or estimating its value in connection with any proposals relating to the land submitted or to be submitted under section 7(1) above.
+
+(3) A person authorised under the foregoing provisions of this section to enter upon any land shall, if so required, produce evidence of his authority before entering, and shall not demand admission as of right to any land which is occupied unless 24 hours’ notice of the intended entry has been given to the occupier.
+
+(4) Any person who obstructs a person acting in the exercise of his powers under this section shall be liable on summary conviction to a fine not exceeding [[^F187]level 2 on the standard scale].
+
+#### 74 Local inquiries.
+
+(1) The Secretary of State or any other Minister may, for the purposes of the exercise of any of his functions under this Act, and subject to the following provisions of this section, cause to be held—
+
+(a) such local inquiries as are directed by this Act, and
+
+(b) such other local inquiries as he may think fit.
+
+(2) The following subsections of section 250 of the [^M21]Local Government Act 1972 apply to inquiries held in pursuance of this Act as they apply to inquiries held under that section—
+
+(a) subsections (2), (3) and (5) of that section (which relate to the giving of evidence at, and the costs of parties to, local inquiries), and
+
+(b) except as regards an inquiry held for the purposes of the exercise of the Secretary of State’s functions under any of the provisions of this Act specified in subsection (3) below, subsection (4) of that section (which relates to recovery of the costs of holding local inquiries).
+
+(3) The provisions of this Act referred to in subsection (2) above are— [[^F188][[^F189]sections 40 and 41] and Schedule 10]
+
+(4) This section is without prejudice to any other enactment authorising the holding of local inquiries.
+
+#### 75 Service of notices.
+
+(1) Subject to the provisions of this section, any notice or other document required or authorised to be served or given under this Act may be served or given either—
+
+(a) by delivering it to the person on whom it is to be served or to whom it is to be given; or
+
+(b) by leaving it at the usual or last known place of abode of that person, or, in a case where an address for service has been given by that person, at that address; or
+
+(c) by sending it in a prepaid registered letter, or by the recorded delivery service, addressed to that person at his usual or last known place of abode, or, in a case where an address for service has been given by that person, at that address; or
+
+(d) in the case of an incorporated company or body, by delivering it to the secretary or clerk of the company or body at their registered or principal office, or sending it in a prepaid registered letter, or by the recorded delivery service, addressed to the secretary or clerk of the company or body at that office.
+
+(2) Where the notice or document is required or authorisd to be served on or given to any person as having an interest in premises, and the name of that person cannot be ascertained after reasonable inquiry, or where the notice or document is required or authorised to be served on any person as an occupier of premises, the notice or document shall be taken to be duly served if—
+
+(a) being addressed to him by the description of “the owner”, or “the occupier”, as the case may be, of the premises (describing them), it is delivered, left or sent in the manner specified in subsection (1)(a), (b) or (c) above; or
+
+(b) being addressed to him either by name or in accordance with paragraph (a) above, and marked in such manner as may be prescribed for securing that it shall be plainly indentifiable as a communication of importance—
+
+(i) it is sent to the premises in a prepaid registered letter or by the recorded delivery service and is not returned to the authority sending it; or
+
+(ii) it is delivered to some person on those premises; or
+
+(iii) it is affixed conspicuously to some object on those premises.
+
+(3) Subsection (4) below applies where—
+
+(a) the notice or other document is required to be served on or given to all persons having interests in, or being occupiers of, premises comprised in any land; and
+
+(b) it appears to the authority required to serve or give the notice or other document that any part of that land is unoccupied.
+
+(4) In such a case the notice or document shall be taken to be duly served on all persons having interests in, and on any occupiers of, premises comprised in that part of the land (other than an owner who in accordance with the relevant provisions of this Act has given to that authority an address for the service of the notice on him) if—
+
+(a) being addressed to “the owners and any occupiers” of that part of the land (describing it), and
+
+(b) marked as mentioned in subsection (2) above,
+
+it is affixed conspicuously to some object on the land.
+
+#### 76 Ecclesiastical property.
+
+(1) [[^F190]Where any ecclesiastical property is vested in the incumbent of a benefice which is vacant], it shall be treated for the purposes of a compulsory acquisition of the property under this Act as being vested in the [[^F191]Diocesan Board of Finance for the diocese in which the land is situated], and any notice to treat shall be served, or deemed to have been served, accordingly.
+
+(2) Where under this Act any notice, other than a notice to treat, is required to be served on an owner of land, and the land is ecclesiastical property, a like notice shall be served on the [[^F191]Diocesan Board of Finance for the diocese in which the land is situated].
+
+#### 77 Regulations and orders.
+
+(1) The Secretary of State may make regulations for the purpose of prescribing anything which is authorised or required to be prescribed under this Act.
+
+(2) Regulations under this Act shall be made by statutory instrument, which [[^F192], subject to subsection (2A),] shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+[[^F193](2A) A statutory instrument containing regulations under section 1A(4) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.]
+
+(3) The power to make orders under sections 1, 2, [[^F194]39] 40 to 42 [[^F195]and 60][[^F195]60, 62A and 62B] above [^F196]... is exercisable by statutory instrument, . . . [^F197]
+
+[[^F198](3ZA) The power of the Secretary of State to make orders under section 3 is also exercisable by statutory instrument.]
+
+[[^F199](3A) Any provision of this Act conferring a power to make orders (whether exercisable by statutory instrument or otherwise), except section 40, implies a power exercisable in the same manner and subject to the same conditions or limitations, to revoke or amend any instrument made under the power.]
+
+[[^F200](3B) A statutory instrument containing an order made by the Secretary of State under section 1, 2 or 3 may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+(3C) If a draft of an instrument containing an order of the Secretary of State under section 1, 2 or 3 would, but for this subsection, be treated for the purposes of the standing orders of either House of Parliament as a hybrid instrument, it is to proceed in that House as if it were not a hybrid instrument.]
+
+[[^F201](3E) A statutory instrument, other than one to which subsection (3B) applies, containing an order under section 7A is subject to annulment in pursuance of a resolution of either House of Parliament.]
+
+(4) [[^F202]A statutory instrument that is made by the Welsh Ministers (by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006) under any of the following provisions of this Act is subject to annulment in pursuance of a resolution of the National Assembly for Wales—]
+
+[[^F203](a) an order under section 1 where]—
+
+(i) the order is one designating an area as the site of a proposed new town, or one designating an additional area of not less than 500 acres which would extend the area of a new town by not less than 10 per cent., and
+
+(ii) an objection to the order was duly made by [^F204]... [[^F205]the local planning authority] and had not been withdrawn at the time the order was made; or
+
+(b) [[^F206]an order] under section 2 [[^F207]42 or 62B(1)].
+
+(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F208]
+
+#### 78 Meaning etc. of “appropriate Minister”.
+
+(1) In this Act “the appropriate Minister” means—
+
+(a) in relation to statutory undertakers carrying on any railway, light railway, tramway, road transport, dock, harbour or pier undertaking, the Secretary of State for Transport;
+
+(b) in relation to statutory undertakers carrying on an undertaking for the supply of . . . [^F209] hydraulic power, the [[^F210]Secretary of State for Trade and Industry];
+
+(c) in relation to . . . [^F211] the Civil Aviation Authority or statutory undertakers carrying on any lighthouse undertaking, the Secretary of State for Trade;
+
+(d) in relation to [[^F212]a universal postal service provider] . . . [^F213], the Secretary of State for Industry;
+
+(e) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F214]
+
+(f) in relation to any other statutory undertakers, the Secretary of State for the Environment.
+
+(2) References in this Act to the Secretary of State and the appropriate Minister have effect—
+
+(a) as references to the Secretary of State and the appropriate Minister, if the appropriate Minister is not the one concerned as the Secretary of State; and
+
+(b) as references to the one concerned as the Secretary of State alone, if he is also the appropriate Minister.
+
+(3) If any question arises—
+
+(a) in relation to anything required or authorised to be done under this Act as to which Minister is or was the appropriate Minister in relation to any statutory undertakers, that question shall be determined by the Treasury;
+
+(b) in relation to the authorisation under this Act of a compulsory acquisition of land, whether land of statutory undertakers is operational land, that question shall be determined by the Secretary of State and the appropriate Minister.
+
+#### 79 Meaning of “statutory undertakers” and “operational land”.
+
+(1) In this Act, except in so far as the context otherwise requires, “statutory undertakers” means—
+
+(a) persons authorised by any enactment to carry on—
+
+(i) any railway, light railway, tramway, road transport, water transport, canal or inland navigation undertaking, or
+
+(ii) any dock, harbour, pier or lighthouse undertaking, or
+
+(iii) any undertaking for the supply of [^F215]. . ., . . . [^F216][[^F217]or hydraulic power], or
+
+(b) the Civil Aviation Authority . . . [[^F218], or]
+
+[[^F219](ba) a person who holds a licence under Chapter I of Part I of the Transport Act 2000 (air traffic services),]or
+
+(c) [[^F220]a universal postal service provider in connection with the provision of a universal postal service] . . . [^F221],
+
+and “statutory undertaking” shall be construed accordingly.
+
+[[^F222](1A) For the purposes of this Act—
+
+(a) a person who holds a licence under Chapter I of Part I of the Transport Act 2000 shall not be considered to be a statutory undertaker unless the person is carrying out activities authorised by the licence;
+
+(b) the person’s undertaking shall not be considered to be a statutory undertaking except to the extent that it is the person’s undertaking as licence holder.]
+
+[[^F223](1B) The undertaking of a universal postal service provider so far as relating to the provision of a universal postal service shall be taken to be his statutory undertaking for the purposes of this Act; and references in this Act to his undertaking shall be construed accordingly.]
+
+(2) In this Act, subject to subsection (3) below, and except in so far as the context otherwise requires, “operational land”, in relation to statutory undertakers, means—
+
+(a) land which is used for the purpose of the carrying on of their undertaking, and
+
+(b) land in which an interest is held for that purpose,
+
+not being land which, in respect of its nature and situation, is comparable rather with land in general than with land which is used, or in which interests are held, for the purpose of the carrying on of statutory undertakings.
+
+(3) In this Act “operational land”—
+
+(a) in relation to [[^F224]a universal postal service provider], has the meaning given by paragraph 93(4) of Schedule 4 to the [^M22]Post Office Act 1969;
+
+(b) in relation to the Civil Aviation Authority, has the meaning given by [[^F225]paragraph 5 of Schedule 2 to the Civil Aviation Act 1982];
+
+[[^F219](ba) in relation to a person who holds a licence under Chapter I of Part I of the Transport Act 2000, means any land which is used by the licence holder (or by a company associated with it) for the purpose of carrying out activities authorised by the licence or land in which the licence holder (or a company associated with it) holds an interest for that purpose.]
+
+(c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F226]
+
+[[^F222](4) If for the purposes of this Act a question arises whether land is operational land in relation to a person who holds a licence under Chapter I of Part I of the Transport Act 2000 the question must be decided by the Secretary of State.]
+
+#### 80 General interpretation provisions.
+
+(1) In this Act, except in so far as the context otherwise requires—
+
+- “acquiring authority”, in relation to the acquisition under or for the purposes of this Act of any land (whether compulsorily or by agreement) or to a proposal so to acquire any land, means the development corporation, local highway authority or Minister of the Crown by whom the land is, or is proposed to be, acquired;
+
+- [^F227]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- “common” includes any land subject to be enclosed under the Inclosure Acts 1845 to 1882, and any town or village green;
+
+- “compulsory purchase order” means an order under section 10(1) or section 11(1) or (2) above;
+
+- “development” includes re-development and “develop” shall be construed accordingly;
+
+- “development corporation” has the meaning given by section 3 above;
+
+- [[^F228]“dispose”, in relation to property, includes the granting of any interest in or right over it; ]
+
+- “ecclesiastical property” means land belonging to an ecclesiastical benefice [[^F229]of the Church of England], or being or forming part of a church subject to the jurisdiction of a bishop of any diocese [[^F229]of the Church of England] or the site of such a church, or being or forming part of a burial ground subject to such jurisdiction;
+
+- “enactment”, except in Schedule 10 to this Act, includes an enactment in any local or private Act of Parliament, and an order, byelaw or scheme made under an Act of Parliament;
+
+- [[^F228]“financial year”, in relation to a development corporation [^F230]..., shall be construed in accordance with section 67(2) above; ]
+
+- “fuel or field garden allotment” means any allotment set out as a fuel allotment, or a field garden allotment, under an Inclosure Act;
+
+- [[^F231]“heat networks” has the meaning given by section 216 of the Energy Act 2023;]
+
+- “held inalienably”, in relation to land belonging to the National Trust, means that the land is inalienable under section 21 of the [^M23]National Trust Act 1907 or section 8 of the [^M24]National Trust Act 1939;
+
+- “land” includes messuages, tenements, and hereditaments, houses, and buildings of any tenure;
+
+- “local authority” means
+
+  - [[^F232][[^F233]a billing authority or a precepting authority, as defined in section 69 of the Local Government Finance Act 1992;]
+  - (aa) [[^F234]a fire and rescue authority in Wales constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies;]
+  - a levying body within the meaning of section 74 of [[^F235]the Local Government Finance Act 1988], and
+  - a body as regards which section 75 of that Act applies]
+
+  and any joint board or joint committee if all the constituent authorities are such local authorities as are mentioned above;
+
+- “local highway authority” means a highway authority other than the Secretary of State;
+- “National Trust” means the National Trust for Places of Historic Interest or Natural Beauty incorporated by the National Trust Act 1907;
+- “open space” means any land laid out as a public garden, or used for purposes of public recreation, or land being a disused burial ground;
+- “owner”, in relation to any building or land, means a person, other than a mortgagee not in possession, who is for the time being entitled to dispose of the fee simple of the building or land, whether in possession or reversion, or who holds or is entitled to the rents and profits of the building or land under a lease or agreement of which the unexpired term exceeds 3 years;
+- “planning permission” means permission under Part III of [[^F236]the Town and Country Planning Act 1990];
+- “prescribed” (except in relation to matters expressly required or authorised by this Act to be prescribed in some other way) means prescribed by regulations under this Act;
+- “trolley vehicle” means a mechanically propelled vehicle adapted for use on roads without rails and moved by power transmitted to it from some external source;
+- [[^F237]“universal postal service provider” means a universal service provider within the meaning of [[^F238]Part 3 of the Postal Services Act 2011]; and references to the provision of a universal postal service shall be construed in accordance with [[^F239]that Part];]
+- “Valuation Office” means the Valuation Office of the Inland Revenue Department.
+
+(2) Any reference in this Act to the area of a new town is a reference to the area designated as the site of that new town by the relevant order under section 1 above.
+
+(3) Words in this Act importing a reference to service of a notice to treat shall be construed as including a reference to the constructive service of such a notice which, by virtue of any enactment, is to be deemed to be served.
+
+(4) Nothing in this Act shall be taken as prejudicing the provisions of—
+
+[^F240]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) Part X of the [^M25] Local Government, Planning and Land Act 1980 (land held by public bodies).
+
+#### 81 Saving and transitional provisions, consequential amendments and repeals.
+
+Subject to the saving and transitional provisions given effect to in Schedule 11 to this Act—
+
+(a) the enactments specified in Schedule 12 to this Act have effect subject to the amendments (being amendments consequent on this Act) specified in that Schedule; and
+
+(b) the enactments specified in Schedule 13 to this Act (which include enactments which were spent before the passing of this Act) are repealed to the extent specified in the third column of that Schedule.
+
+#### 82 Short title, extent and commencement.
+
+(1) This Act may be cited as the New Towns Act 1981.
+
+(2) The provisions of this Act mentioned below (and no others) extend to Scotland—
+
+(a) section 60, and in relation to that section, subsections (3) and [[^F241](3A)] of section 77;
+
+(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F242]
+
+(c) paragraphs [[^F243]1 and 2] of Schedule 11;
+
+(d) Schedule 12 so far as it amends provisions which apply to Scotland; and
+
+(e) Schedule 13 so far as it repeals section 1(2) of the [^M26]New Towns Act 1975, section 14(4) of the [^M27]New Towns (Amendment) Act 1976, the [^M28]New Towns Act 1980, and sections 126 and 127 and (so far as it relates to Scotland) section 133 of the [^M29]Local Government, Planning and Land Act 1980.
+
+The provisions mentioned in paragraph (a) shall be taken to have extended to Scotland since section 43 of the [^M30]New Towns Act 1965 as substituted by section 1(2) of the New Towns Act 1975 came into effect, without prejudice to sections 16 and 17 of the [^M31]Interpretation Act 1978 (which relate to the effect of repeals).
+
+(3) Except for [^F244]... Schedule 13 so far as it repeals section 14(4) of the New Towns (Amendment) Act 1976, nothing in this Act extends to Northern Ireland.
+
+(4) This Act shall come into force on the expiry of the period of one month beginning on the date of its passing.
+
+## SCHEDULE 1 — Procedure for Designating Area
+
+*Section 1.*
+
+### [[^F245]Application of Schedule: Wales only
+
+**A1** This Schedule applies only in relation to an order under section 1 designating an area of land in Wales as the site of a proposed new town.]
+
+### Making of orders under section 1
+
+**1** (1) Where the Secretary of State proposes to make an order under section 1 above he shall prepare a draft of the order, describing the area to be designated as the site of the proposed new town by reference to a map, either with or without descriptive matter, together with such statement as he considers necessary for indicating the size and general character of the proposed new town.
+
+(2) In the case of any discrepancy between the map and any such descriptive matter, the descriptive matter shall prevail except in so far as may be otherwise provided by the draft order.
+
+**2** (1) Before making the order the Secretary of State shall publish a notice—
+
+(a) in the London Gazette;
+
+(b) in one or more newspapers circulating in the locality in which the proposed new town will be situated; and
+
+(c) in such other newspapers, if any, as he considers appropriate in the circumstances.
+
+(2) That notice shall—
+
+(a) describe the area to be designated as the site of the proposed new town;
+
+(b) state that the draft of an order under section 1 above has been prepared by the Secretary of State in relation to that area and is about to be considered by him;
+
+(c) name a place within that area where a copy of the draft order (including any map or descriptive matter annexed to it) and of the statement required by paragraph 1 above may be seen at any reasonable hour;
+
+(d) specify the time (not being less than 28 days from the publication of the notice in the Gazette) within which, and the manner in which, objections to the proposed order may be made.
+
+(3) The Secretary of State shall, not later than the date on which the notice is published in the Gazette, serve a like notice on the council of every county and of every district [[^F246]or, in the case of land in Wales, every county or county borough]in which the land, or any part of the land, to which the order relates is situated, and on any other local authority who appear to him to be concerned with the order.
+
+**3** If any objection is duly made to the proposed order and is not withdrawn, the Secretary of State shall, before making the order, cause a public local inquiry to be held with respect to the objection, and shall consider the report of the person by whom the inquiry was held.
+
+**4** Subject to paragraph 3 above, the Secretary of State may make the order either in terms of the draft or subject to such modifications as he thinks fit, but, except with the consent of all persons interested, he shall not make the order subject to a modification which includes in the area designated as the site of the proposed new town any land not so designated in the draft order.
+
+**5** (1) As soon as may be after an order has been made as provided by this Schedule, the Secretary of State shall publish as provided in paragraph 2(1) above a notice stating that the order has been made and naming a place (within the area designated by the order as the site of the proposed new town) where a copy of the order may be seen at any reasonable hour.
+
+(2) The Secretary of State shall serve a like notice—
+
+(a) on any local authority on whom notice of the proposed order was served under paragraph 2; and
+
+(b) on any other person who has duly made an objection to the proposed order and, at or after the time of making that objection, has sent to the Secretary of State a request in writing to serve him with the notice required by this paragraph, giving an address for service.
+
+### Validity and date of operation of orders under section 1
+
+**6** (1) If any person aggrieved by an order under section 1 above desires to question the validity of that order, or of any provision contained in it, on the ground—
+
+(a) that it is not within the powers of this Act, or
+
+(b) that any requirement of this Act has not been complied with in relation to the order,
+
+he may, within 6 weeks from the date on which notice of the making of the order is first published in accordance with the relevant provisions of this Schedule apply to the High Court.
+
+(2) On any such application the Court—
+
+(a) may by interim order suspend the operation of the order or any of its provisions, either generally or in so far as it affects any of the applicant’s property, until the final determination of the proceedings; and
+
+(b) if satisfied that the order or any of its provisions—
+
+(i) is not within the powers of this Act, or
+
+(ii) that the applicant’s interests have been substantially prejudiced by any requirement of this Act not having been complied with,
+
+may quash the order or any of its provisions, either generally or in so far as it affects any of the applicant’s property.
+
+**7** Subject to paragraph 6 above, an order under section 1 above shall not, either before or after it has been made, be questioned in any legal proceedings whatsoever, and shall become operative on the date on which notice is first published as mentioned in that praragraph.
+
+## SCHEDULE 2 — Effect of Order for Reduction of Designated Area
+
+*Section 2.*
+
+### Disposal of land
+
+**1** (1) Subject to sub-paragraphs (2) to (4) below, the development corporation shall dispose of any land which it has acquired—
+
+(a) which falls within the excluded land; and
+
+(b) which the corporation does not require for purposes connected with the development of the new town or for the provision of services for the purposes of the new town.
+
+(2) The duty mentioned in sub-paragraph (1) above shall not be performed so as to dispose of land by way of . . . [^F247], mortgage or charge.
+
+(3) A corporation shall not without the Secretary of State’s consent (given generally or specially) perform the duty so as—
+
+(a) to transfer the freehold of land; or
+
+(b) to grant a lease of land for a term of more than 99 years [[^F248]or
+
+(c) to dispose of any land by way of gift.]
+
+(4) A corporation shall comply with such directions as the Secretary of State may give—
+
+(a) for preventing the duty from being performed; or
+
+(b) for restricting the duty; or
+
+(c) for requiring it to be performed in a manner specified in the directions.
+
+(5) Before giving a direction under sub-paragraph (4) above, the Secretary of State shall consult the corporation, unless he is satisfied that because of urgency consultation is impracticable.
+
+(6) Where a corporation purports to dispose of land by virtue of this paragraph, then—
+
+(a) in favour of a person claiming under the corporation, the disposal so purporting to be made shall not be invalid by reason that any consent of the Secretary of State required under this paragraph has not been given or that any direction of his given under this paragraph has not been complied with; and
+
+(b) a person dealing with the corporation, or a person claiming under the corporation, shall not be concerned to see or enquire whether any such consent has been given or whether any such direction has been given or complied with.
+
+(7) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F249]
+
+### Licensing
+
+**[^F250]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### “Excluded land”
+
+**3** Land ceasing to be contained in the area of a new town by virtue of section 2 above is in this Schedule called “excluded land”.
+
+## SCHEDULE 3 — Constitution and Proceedings of Development Corporations
+
+*Section 3.*
+
+### Appointment of members and tenure of office
+
+**1** (1) The members of a development corporation (in this Schedule referred to as “the corporation”) shall be appointed by the Secretary of State after consultation with such local authorities as appear to him to be concerned with the development of the new town, and in appointing members of the corporation he shall have regard to the desirability of securing the services of one or more persons resident in or having special knowledge of the locality in which the new town will be situated.
+
+(2) The Secretary of State shall appoint two of the members to be respectively chairman and deputy chairman of the corporation.
+
+**2** Subject to the following provisions of this Schedule, a member of the corporation, and the chairman and deputy chairman of the corporation, shall hold and vacate office as such in accordance with the terms of the instrument by which they are respectively appointed.
+
+**3** If the chairman or deputy chairman of the corporation ceases to be a member of the corporation, he shall also cease to be chairman or deputy chairman, as the case may be.
+
+**4** Any member of the corporation may, by notice in writing addressed to the Secretary of State, resign his membership; and the chairman or deputy chairman may, by the like notice, resign his office as such.
+
+**5** If the Secretary of State is satisfied that a member of the corporation—
+
+(a) has become bankrupt or made an arrangement with his creditors [[^F251]or has had a debt relief order (under Part 7A of the Insolvency Act 1986) made in respect of him], or
+
+(b) is incapacitated by physical or mental illness, or
+
+(c) has been absent from meetings of the corporation for a period longer than 3 consecutive months without the permission of the corporation, or
+
+(d) is otherwise unable or unfit to discharge the functions of a member, or is unsuitable to continue as a member,
+
+the Secretary of State may remove him from his office as a member of the corporation.
+
+**6** A member of the corporation who ceases to be a member or ceases to be chairman or deputy chairman shall be eligible for reappointment.
+
+### Remuneration
+
+**7** The corporation shall pay to their members, in respect of their office as such, such remuneration and such reasonable allowances in respect of expenses properly incurred in the performance of their duties as may be determined by the Secretary of State with the consent of the Minister for the Civil Service, and shall pay to the chairman and deputy chairman, in respect of their office as such, such additional remuneration as may be so determined.
+
+### Pension benefits for chairmen
+
+**8** In the case of any such person, who is or has been the chairman of the corporation, as the Secretary of State may with the consent of the Mininster for the Civil Service determine, the Secretary of State may direct the corporation—
+
+(a) to pay to or in respect of that person on his retirement or death such pension, allowance or gratuity as may be so determined; or
+
+(b) to make payments towards the provision of such a pension, allowance or gratuity.
+
+### Meetings and proceedings
+
+**9** The quorum of the corporation and the arrangements relating to their meetings shall, subject to any directions given by the Secretary of State, be such as the corporation may determine.
+
+**10** The validity of any proceeding of the corporation shall not be affected by any vacancy among their members or by any defect in the appointment of any of their members.
+
+### [[^F252]Delegation of planning functions
+
+**10A** (1) This paragraph applies in relation to any function conferred on the corporation by virtue of an order under section 7A (planning functions of corporations in England).
+
+(2) The corporation may appoint committees and such committees may appoint sub-committees.
+
+(3) Anything which is authorised or required to be done by the corporation—
+
+(a) may be done by any member of the corporation or of its staff who is authorised for the purpose either generally or specifically;
+
+(b) may be done by a committee or sub-committee which is so authorised.
+
+(4) The corporation may—
+
+(a) determine the quorum of a committee or sub-committee;
+
+(b) make such arrangements as it thinks appropriate relating to the meetings and procedure of a committee or sub-committee.
+
+(5) Anything done for the purposes of sub-paragraph (4) is subject to directions given by the Secretary of State.
+
+(6) The validity of anything done by a committee or sub-committee is not affected by—
+
+(a) any vacancy among its members;
+
+(b) any defect in the appointment of any of its members.
+
+**10B** (1) This paragraph has effect in relation to the membership of committees and sub-committees appointed under paragraph 10A.
+
+(2) A committee may consist of—
+
+(a) such members of the corporation as it appoints;
+
+(b) such other persons as the corporation (with the consent of the Secretary of State) appoints.
+
+(3) A sub-committee of a committee may consist of—
+
+(a) such members of the committee as it appoints;
+
+(b) such persons who are members of another committee of the corporation (whether or not they are members of the corporation) as the committee appoints;
+
+(c) such other persons as the corporation (with the consent of the Secretary of State) appoints.
+
+(4) The membership of a committee or sub-committee—
+
+(a) must always include at least one person who is a member of the corporation;
+
+(b) must not include any person who is a member of the staff of the corporation.]
+
+### Instruments, etc.
+
+**11** The fixing of the seal of the corporation shall be authenticated by the signature of the chairman or of some other member authorised either generally or specially by the corporation to act for that purpose.
+
+**12** Any contract or instrument which, if made or executed by a person not being a body corporate, would not be required to be under seal may be made or executed on behalf of the corporation by any person generally or specially authorised by them to act for that purpose.
+
+**13** Any document purporting to be a document duly executed under the seal of the corporation shall be received in evidence and shall, unless the contrary is proved, be deemed to be so executed.
+
+## SCHEDULE 4 — Procedure for Authorising Compulsory Acquisitions
+
+*Sections 10, 11, 13.*
+
+### Part I
+
+#### Acquisitions by development corporations and local highway authorities
+
+**1** (1) A compulsory purchase order made under this Act by a development corporation or local highway authority—
+
+(a) shall designate the land to which it relates by reference to a map annexed to it, either with or without descriptive matter, and
+
+(b) subject to that, shall be in such form as may be prescribed.
+
+(2) In the case of any discrepancy between the map and any such descriptive matter, the descriptive matter shall prevail except in so far as may be otherwise provided by the order.
+
+**2** (1) After submitting the order to the Secretary of State, the acquiring authority—
+
+(a) shall publish a notice in the prescribed form describing the land, stating that an order authorising the compulsory acquisition of that land has been submitted to the Secretary of State, naming a place where a copy of the order and of the map and any annexed descriptive matter may be seen at any reasonable hour, and specifying the time (not being less than 28 days from the first local advertisement) within which, and the manner in which, objections to the order may be made, and
+
+(b) if the Secretary of State so directs in the case of the order in question, shall serve on every owner of any of the land to which the order relates a notice to the like effect as the notice required to be published under head (a) above,
+
+except that head (b) above shall not apply if the order relates only to land within the area of a new town.
+
+(2) The notice required to be published by sub-paragraph (1)(a) above shall be published—
+
+(a) in the case of such an order as is described in the exception to sub-paragraph (1) above, and in any other case where service on owners is not effected under head (b) of that sub-paragraph, by publishing that notice—
+
+(i) in the London Gazette, and
+
+(ii) in each of two successive weeks, in one or more newspapers circulating in the locality in which the land to which the order relates is situated, and
+
+(iii) by affixing a copy, addressed to “the owners and any occupiers” of the land (describing it), to some conspicuous object or objects on the land;
+
+(b) where service on owners is effected under that head (b), by publishing it in one or more newspapers circulating in the locality in which the land to which the order relates is situated.
+
+(3) Publication and, if applicable, service in accordance with the foregoing provisions of this paragraph shall be effected—
+
+(a) in the case of an order relating only to land within the area of a new town, as soon as may be after the order has been submitted;
+
+(b) in any other case, as soon as may be after the order has been submitted and any direction of the Secretary of State as to service on owners under sub-paragraph (1)(b) above has been given or he has notified the acquiring authority that he does not propose to give such a direction.
+
+(4) In this paragraph “the first local advertisement”, in relation to a notice, means the first publication of the notice in a newspaper circulating in the locality where the land to which the notice relates is situated, and includes, in relation to a notice so published once only, the publication of that notice.
+
+**3** Subject to the provisions of paragraph 4 below in any case in which those provisions have effect, the Secretary of State may confirm the order with or without modification, but shall not, unless all persons interested consent, so modify it as to extend it to any land which was not designated by the order as submitted.
+
+**4** (1) If any objection is duly made to the order and is not withdrawn, the following provisions of this paragraph shall have effect.
+
+For the purposes of this Schedule an objection shall not be treated as duly made unless—
+
+(a) it is made within the time and in the manner specified in the notice required by paragraph 2 above, and
+
+(b) a statement in writing of the grounds of the objection is comprised in or submitted with the objection.
+
+(2) Unless the Secretary of State decides apart from the objection not to confirm the order, or decides to make a modification which is agreed to by the objector as meeting the objection, the Secretary of State shall, before making a final decision, consider the grounds of the objection as set out in the statement, and may, if he thinks fit, require the objector to submit within a specified period a further statement in writing as to any of the matters to which the objection relates.
+
+(3) In so far as the Secretary of State, after considering the grounds of the objection as set out in the original statement and any such further statement, is satisfied—
+
+(a) that the objection relates to a matter which can be dealt with in the assessment of compensation, or
+
+(b) in the case of an order relating to land within the area of a new town, that the objection is made on the ground that the acquisition is unnecessary or inexpedient,
+
+he may treat the objection as irrelevant for the purpose of making a final decision.
+
+(4) If—
+
+(a) the Secretary of State, after considering the grounds of the objection as set out in the original statement and any such further statement is satisfied that for the purpose of making a final decision he is sufficiently informed as to the matters to which the objection relates, or
+
+(b) where a further statement has been required, it is not submitted within the specified period,
+
+the Secretary of State may make a final decision without further investigation as to those matters.
+
+(5) Subject to sub-paragraphs (3) and (4) above, the Secretary of State—
+
+(a) shall, before making a final decision, afford to the objector an opportunity of appearing before and being heard by a person appointed for the purpose by the Secretary of State; and
+
+(b) shall, if the person making the objection avails himself of that opportuntiy, afford an opportunity of appearing and being heard on the same occasion to the acquiring authority and to any other persons to whom it appears to the Secretary of State to be expedient to afford it.
+
+(6) Notwithstanding anything in the foregoing provisions of this paragraph, if it appears to the Secretary of State that the matters to which the objection relates are such as to require investigation by public local inquiry before he makes a final decision—
+
+(a) he shall cause such an inquiry to be held; and
+
+(b) where he determines to cause such an inquiry to be held, any of the requirements of those provisions to which effect has not been given at the time when he so determines shall be dispensed with.
+
+(7) In this paragraph any reference to making a final decision, in relation to an order, is a reference to deciding—
+
+(a) whether to confirm the order, or
+
+(b) what modification, if any, ought to be made.
+
+**[[^F253]4A** (1) The confirming authority may appoint a person (“an inspector”) to act instead of it in relation to the confirmation of a compulsory purchase order under this Schedule.
+
+(2) An inspector may be appointed to act in relation to—
+
+(a) a specific compulsory purchase order, or
+
+(b) a description of compulsory purchase orders.
+
+(3) An inspector has the same functions as the confirming authority under paragraphs 2(1)(b), 3, 4, 5A, 7 and 8.
+
+(4) Where an inspector is appointed in relation to a compulsory purchase order, the confirming authority must inform—
+
+(a) every person who has made a relevant objection that has not been withdrawn, and
+
+(b) the acquiring authority.
+
+(5) Where an inspector decides whether or not to confirm the whole or part of a compulsory purchase order, the inspector’s decision is to be treated as that of the confirming authority.
+
+(6) The confirming authority may at any time—
+
+(a) revoke its appointment of an inspector, and
+
+(b) appoint another inspector.
+
+(7) If the confirming authority revokes its appointment of an inspector while the inspector is acting in relation to a compulsory purchase order and does not replace the inspector, the confirming authority must give the reasons for doing so—
+
+(a) to the inspector whose appointment has been revoked, and
+
+(b) to all those informed under sub-paragraph (4).
+
+(8) Where in any enactment there is a provision that applies in relation to a confirming authority acting in relation to the confirmation of a compulsory purchase order under this Schedule, that provision is to be read as applying equally in relation to an inspector so far as the context permits.
+
+(9) In this paragraph—
+
+- “confirming authority” means—
+
+  - in a case where the compulsory purchase order relates to land in England, the Secretary of State, and
+  - in a case where the compulsory purchase order relates to land in Wales, the Welsh Ministers (see article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672) and paragraph 30 of Schedule 11 to the Government of Wales Act 2006);
+
+- “relevant objection” means an objection that is treated as duly made for the purposes of this Schedule (see paragraph 4(1)).]
+
+**5** As soon as may be after the order has been confirmed the acquiring authority shall publish in one or more newspapers circulating in the locality in which the land designated by the order is situated a notice in the prescribed form—
+
+(a) describing the land,
+
+(b) stating that the order has been confirmed, [^F254]...
+
+(c) naming a place where a copy of the order and of the map and any annexed descriptive matter may be seen at any reasonable hour,
+
+[[^F255](d) containing a prescribed statement about the effect of Parts 2 and 3 of the Compulsory Purchase (Vesting Declarations) Act 1981, and
+
+(e) inviting any person who would be entitled to claim compensation if a declaration were executed under section 4 of that Act to give the acquiring authority information about the person’s name, address and interest in land, using a prescribed form,]
+
+and shall serve a like notice [[^F256]on any person who, if Part 2 of the Acquisition of Land Act 1981 applied to the acquisition, would be entitled to a notice under section 12 of that Act (notice to owners, lessees and occupiers).]
+
+**[[^F257]5A** (1) A development corporation submitting an order to the Secretary of State under this Part of this Schedule may include in the order a direction that compensation is to be assessed in accordance with section 14A of the Land Compensation Act 1961 (cases where prospect of planning permission to be ignored); and if it does so the following provisions of this paragraph apply.
+
+(2) The corporation must submit a statement of commitments together with the order.
+
+(3) A “statement of commitments” is a statement of the corporation’s intentions as to what will be done with the project land should the acquisition proceed, so far as the corporation relies on those intentions in contending that the direction is justified in the public interest.
+
+(4) Those intentions must include the provision of a certain number of units of affordable housing.
+
+(5) The notice under paragraph 2(1) must—
+
+(a) state the effect of the direction, and
+
+(b) name a place where a copy of the statement of commitments may be seen at any reasonable hour.
+
+(6) The Secretary of State may permit the corporation to amend the statement of commitments before the decision whether to confirm the order is made.
+
+(7) But the Secretary of State may do so—
+
+(a) only if satisfied that the amendment would not be unfair to any person who duly made or could duly have made an objection for the purposes of paragraph 4, and
+
+(b) only if the statement of commitments as amended will still comply with sub-paragraph (4).
+
+(8) If the Secretary of State decides to confirm the order under paragraph 3, the Secretary of State—
+
+(a) may confirm the order with the direction included if satisfied that the direction is justified in the public interest;
+
+(b) otherwise, must modify the order so as to remove the direction.
+
+(9) If the order is confirmed with the direction included, the notice under paragraph 5 must—
+
+(a) state the effect of the direction,
+
+(b) explain how the statement of commitments may be viewed, and
+
+(c) explain that additional compensation may become payable if the statement of commitments is not fulfilled.
+
+(10) In this paragraph—
+
+- “the project land” means—
+
+  - the land proposed to be acquired further to the compulsory purchase order, and
+  - any other land that the corporation intends to be used in connection with that land;
+
+- “unit of affordable housing” means a building or part of a building that is constructed or adapted for use as a separate dwelling and—
+
+  - in the case of a building in England, is to be used as—
+  
+    - social housing within the meaning of Part 2 of the Housing and Regeneration Act 2008, or
+    - housing of any other description that is set out in regulations made by the Secretary of State, or
+  
+  - in the case of a building in Wales, is to be used as housing of a description that is set out in regulations made by the Welsh Ministers.]
+
+**6** Where—
+
+(a) proceedings are necessary for the purposes of paragraphs 1, 2 and 4 above in relation to an order authorising a compulsory acquisition of land, and
+
+(b) that land is in an area proposed to be designated as the site of a new town by an order a draft of which has been published in accordance with Schedule 1 to this Act,
+
+the Secretary of State may by regulations provide for enabling the proceedings referred to in head (a) to be taken, so far as may be practicable, contemporaneously with the proceedings on the order referred to in head (b).
+
+### Part II
+
+#### Special provisions applying to acquisitions by local highway authorities
+
+**7** (1) Subject to this paragraph, where a compulsory purchase order under section 11(1) above is submitted to the Secretary of State the notice required to be published under paragraph 2 above shall be published not only as mentioned in that paragraph but also by being exhibited at such places in the locality to which the order relates as appear to the acquiring authority to be suitable for bringing it to the attention of all persons concerned.
+
+(2) Sub-paragraph (1) above shall not apply in any case where the Secretary of State is satisfied that the land to which the compulsory purchase order relates is required for the purpose of a project—
+
+(a) which was adequately set out in a statement prepared for the purposes of an order under section 1 above which has been made; or
+
+(b) which has been the subject of an inquiry for the purposes of section 10, or, so far as it relates to trunk roads, section 14 of the [^M32]Highways Act 1980 or of any of the following enactments no longer in force, that is to say, section 7 or 9 of the [^M33]Highways Act 1959 (to which, respectively, the said section 10 and, so far as it relates to trunk roads, the said section 14 correspond) and the enactments to which the said sections 7 and 9 corresponded (namely, section 1(3) of the [^M34]Trunk Roads Act 1936, sections 1 and 4 of the [^M35]Trunk Roads Act 1946 and section 14(1) of the [^M36]Special Roads Act 1949).
+
+**8** Where there is submitted to the Secretary of State a compulsory purchase order under section 11(1) above authorising the acquisition of any land forming a frontage to, or abutting on or adjacent to, a road, and the Secretary of State is satisfied as respects the whole or any part of the land—
+
+(a) that the acquisition would be requisite only for the purpose of controlling development, and
+
+(b) that every owner has entered, or is willing to enter, into such an agreement with the local highway authority or the Secretary of State as is provided for by section 9(1) above or is bound by such an agreement, and that the agreement or proposed agreement is satisfactory for that purpose,
+
+the order shall not be confirmed so as to authorise the acquisition of any part of the land as to which the Secretary of State is satisfied as mentioned above.
+
+### Part III
+
+#### Acquisitions by the Secretary of State
+
+**9** (1) A compulsory purchase order made under section 11(2) above by the Secretary of State—
+
+(a) shall designate the land to which it relates by reference to an annexed map either with or without descriptive matter, and
+
+(b) subject to that, shall be in such form as the Secretary of State may determine.
+
+(2) In the case of any discrepancy between the map and any such descriptive matter, the descriptive matter shall prevail except in so far as may be otherwise provided by the order.
+
+**10** Where the Secretary of State proposes to make such an order, he shall prepare a draft, and then as soon as may be shall—
+
+(a) publish in the manner mentioned in paragraph 2 above, and
+
+(b) in any case in which he thinks it requisite to do so, serve on every owner of any of the land to which the order as prepared in draft relates,
+
+a notice, in such form as he may determine, similar, with requisite adaptations, to the notice mentioned in paragraph 2(1).
+
+**11** Paragraphs 3, 4, 5, 7 and 8 above shall have effect in relation to such an order—
+
+(a) with the substitution, for references to the Secretary of State and to the acquiring authority, of references to the Secretary of State;
+
+(b) with the substitution, for references to an order as submitted and to the confirmation of an order, of references respectively to an order as prepared in draft and to the making of an order;
+
+(c) with the ommission, in paragraph 4(5), of the reference to the acquiring authority;
+
+(d) with the substitution, for the references to a compulsory purchase order under section 11(1) above and to the notice required by paragraph 2 above, of references respectively to a compulsory purchase order under section 11(2) and to the notice required by paragraph 10 above; and
+
+(e) with the substitution, in paragraph 8, of the words “the Secretary of State proposes to make” for the words “there is submitted to the Secretary of State”.
+
+### Part IV
+
+#### Special provisions as to certain descriptions of land
+
+**12** In so far as a compulsory purchase order authorises the acquisition of land—
+
+(a) which is the property of a local authority, or
+
+(b) which is land belonging to the National Trust, and which is held by the Trust inalienably,
+
+the order shall be subject to special parliamentary procedure in any case where an objection [[^F258]to the acquisition of the land] has been duly made by the local authority or the National Trust, as the case may be, and has not been withdrawn.
+
+**13** (1) In so far as a compulsory purchase order authorises the acquisition of any land forming part of any common, open space or fuel or field garden allotment, the order shall be subject to special parliamentary procedure unless the Secretary of State . . . [^F259], is satisfied—
+
+(a) that there has been or will be given in exchange for such land other land, not being less in area, and being equally advantageous to the persons (if any) entitled to rights of common or other rights, and to the public, and that the land given in exchange has been or will be vested in the persons in whom the land acquired was vested, and subject to the like rights, trusts and incidents as attached to the land acquired, or
+
+(b) that the land is required for the widening of an existing highway and that the giving in exchange of other land is unnecessary, whether in the interests of the persons, if any, entitled to rights of common or other rights or in the interests of the public,
+
+and certifies accordingly.
+
+(2) Where it is proposed to give a certificate under this paragraph, the Secretary of State . . . [^F260] shall give public notice of his intention so to do, and—
+
+(a) after affording opportunity to all persons interested to make representations and objections in relation thereto, and
+
+(b) after causing a public local inquiry to be held in any case where it appears to him to be expedient so to do, having regard to any representations or objections made,
+
+the Secretary of State . . . [^F260] may, after considering any representations and objections made and, if any inquiry has been held, the report of the person who made the inquiry, give the certificate.
+
+(3) A compulsory purchase order may provide for vesting land given in exchange as mentioned in sub-paragraph (1) above in the persons, and subject to the rights, trusts and incidents, therein mentioned, and for discharging the land acquired from all rights, trusts and incidents to which it was previously subject.
+
+(4) As soon as may be after the giving of a certificate under this paragraph the acquiring authority shall publish in the London Gazette and, in each of two successive weeks, in one or more newspapers circulating in the locality in which the land designated by the order is situated, a notice in the prescribed form stating that the certificate has been given.
+
+### Part V
+
+#### Validity and date of operation of compulsory purchase orders and certificates
+
+**14** (1) If any person aggrieved by a compulsory purchase order, or by a certificate under paragraph 13 above, desires to question the validity thereof, or of any provision contained therein, on the ground—
+
+(a) that it is not within the powers of this Act, or
+
+(b) that any requirement of this Act or any regulation made under this Act has not been complied with in relation to the order or certificate,
+
+he may, within 6 weeks from the date on which notice of the confirmation or making of the order or of the giving of the certificate is first published in accordance with this Schedule, apply to the High Court.
+
+(2) On any such application the Court—
+
+(a) may by interim order suspend the operation of the order or any of its provisions, or of the certificate, either generally or in so far as it affects the applicant’s property, until the final determination of the proceedings; and
+
+(b) if satisfied that the order or any of its provisions, or the certificate, is not within the powers of this Act or that the applicant’s interests have been substantially prejudiced by any requirement of this Act or of any regulation made under it not having been complied with, may quash the order or any of its provisions, or the certificate, either generally or in so far as it affects any of the applicant’s property.
+
+**15** Subject to paragraph 14 above, a compulsory purchase order or a certificate under paragraph 13 above—
+
+(a) shall not, either before or after it has been made or confirmed or given, be questioned in any legal proceedings whatsoever; and
+
+(b) shall become operative on the date on which notice is first published as mentioned in that paragraph 14.
+
+**16** This Part of this Schedule—
+
+(a) shall not apply to an order which is confirmed by Act of Parliament under section [[^F261]4 or] 6 of the [^M37]Statutory Orders (Special Procedure) Act 1945, but, (except for that)—
+
+(b) shall have effect in relation to a compulsory purchase order to which that Act applies—
+
+(i) as if in paragraph 14(1) above for the reference to the date on which notice of the confirmation or making of the order is first published in accordance with this Schedule there were substituted a reference to the date on which the order becomes operative under that Act of 1945, and
+
+(ii) as if paragraph 15(b) above were omitted.
+
+## SCHEDULE 5 — Procedure for Authorising Compulsory Acquisition of Statutory Undertakers’ Operational Land
+
+### Part I
+
+#### Acquisitions by development corporations and local highway authorities
+
+**1** An application by a development corporation or local highway authority for the purposes of section 13(1)(a) above shall be in such form as may be prescribed, and shall describe by reference to a map the land to which the application relates.
+
+**2** As soon as may be after submitting the application to the Secretary of State and the appropriate Minister the acquiring authority shall serve on every owner, lessee and occupier of any land to which the application relates a notice in the prescribed form—
+
+(a) describing the land;
+
+(b) stating that an application under section 13(1)(a) above has been submitted in relation to the land and is about to be considered by the Secretary of State and the appropriate Minister;
+
+(c) naming a place where a copy of the application and of the map referred to in it may be seen at all reasonable hours; and
+
+(d) specifying the time (not being less than 28 days from the service of the notice) within which, and the manner in which, objections to the application may be made.
+
+**3** (1) If—
+
+(a) no objection is duly made by any of the persons on whom notices are required to be served, or
+
+(b) if all objections so made are withdrawn,
+
+the Secretary of State and the appropriate Minister may, if they think fit, make a compulsory purchase order in accordance with the application, with or without modification, but shall not, unless all persons interested consent, make the order with any modification which would extend it to any land to which the application did not relate.
+
+(2) If any objection is duly made by any of the persons on whom notices are required to be served and is not withdrawn, the Secretary of State and the appropriate Minister—
+
+(a) shall, before making an order on the application, consider the objection, and
+
+(b) shall, if either the person by whom the objection was made or the acquiring authority so desire, afford that person and the acquiring authority an opportunity of appearing before and being heard by a person appointed by the Secretary of State and the appropriate Minister for the purpose,
+
+and they may then, if they think fit, make an order on the application.
+
+(3) An objection shall not be deemed for the purposes of section 13 above or this Schedule to be duly made unless—
+
+(a) it is made within the time and in the manner specified in the notice in that behalf; and
+
+(b) a statement in writing of the grounds of the objection is comprised in or submitted with the objection.
+
+**4** A compulsory purchase order made on such an application shall be in such form as the Secretary of State and the appropriate Minister may determine, and shall describe by reference to a map the land to which the order relates.
+
+**[[^F262]5** As soon as may be after a compulsory purchase order has been made on such an application the acquiring authority shall serve on any person who, if Part 2 of the Acquisition of Land Act 1981 applied to the acquisition, would be entitled to a notice under section 12 of that Act (notice to owners, lessees and occupiers), a notice in the prescribed form—
+
+(a) stating that the order has been made,
+
+(b) naming a place where where a copy of the order and of the map referred to therein may be seen at any reasonable hour,
+
+(c) containing a prescribed statement about the effect of Parts 2 and 3 of the Compulsory Purchase (Vesting Declarations) Act 1981, and
+
+(d) inviting any person who would be entitled to claim compensation if a declaration were executed under section 4 of that Act to give the acquiring authority information about the person’s name, address and interest in land, using a prescribed form.]
+
+**[[^F263]5A** (1) A development corporation making an application under this Part of this Schedule may include in the application a request for a direction that compensation is to be assessed in accordance with section 14A of the Land Compensation Act 1961 (cases where prospect of planning permission to be ignored); and if it does so the following provisions of this paragraph apply.
+
+(2) The corporation must submit a statement of commitments together with the application.
+
+(3) A “statement of commitments” is a statement of the corporation’s intentions as to what will be done with the project land should the acquisition proceed, so far as the corporation relies on those intentions in contending that the direction would be justified in the public interest.
+
+(4) Those intentions must include the provision of a certain number of units of affordable housing.
+
+(5) The notice under paragraph 2 must—
+
+(a) state that the request has been made and what the effect of the direction would be, and
+
+(b) name a place where a copy of the statement of commitments may be seen at all reasonable hours.
+
+(6) The Secretary of State and the appropriate Minister may permit the corporation to amend the statement of commitments before the decision whether to make an order on the application is made.
+
+(7) But they may do so—
+
+(a) only if satisfied that the amendment would not be unfair to any person who duly made or could duly have made an objection for the purposes of paragraph 3, and
+
+(b) only if the statement of commitments as amended will still comply with sub-paragraph (4).
+
+(8) If the Secretary of State and the appropriate Minister decide to make an order on the application under paragraph 3, they may include the direction in the order only if satisfied that the direction is justified in the public interest.
+
+(9) If an order is made with the direction included, the notice under paragraph 5 must—
+
+(a) state the effect of the direction,
+
+(b) explain how the statement of commitments may be viewed, and
+
+(c) explain that additional compensation may become payable if the statement of commitments is not fulfilled.
+
+(10) In this paragraph—
+
+- “the project land” means—
+
+  - the land proposed to be acquired further to the compulsory purchase order, and
+  - any other land that the corporation intends to be used in connection with that land;
+
+- “unit of affordable housing” means a building or part of a building that is constructed or adapted for use as a separate dwelling and—
+
+  - in the case of a building in England, is to be used as—
+  
+    - social housing within the meaning of Part 2 of the Housing and Regeneration Act 2008, or
+    - housing of any other description that is set out in regulations made by the Secretary of State, or
+  
+  - in the case of a building in Wales, is to be used as housing of a description that is set out in regulations made by the Welsh Ministers.]
+
+### Part II
+
+#### Acquisitions by Secretary of State
+
+**6** A compulsory purchase order made by the Secretary of State and the appropriate Minister in pursuance of section 13(1)(b) above—
+
+(a) shall be in such form as they may determine; and
+
+(b) shall describe by reference to a map the land to which the order relates.
+
+**7** Where the Secretary of State and the appropriate Minister propose to make such an order they shall prepare a draft of it, and then shall as soon as may be serve on every owner, lessee and occupier of any land to which the draft relates a notice in such form as they may determine—
+
+(a) describing the land;
+
+(b) stating that the making of the order is proposed;
+
+(c) naming a place where a copy of the draft and of the map referred to in the draft may be seen at any reasonable hour; and
+
+(d) specifying the time (not being less than 28 days from the service of the notice) within which, and the manner in which, objections to the proposal may be made.
+
+**8** Paragraphs 3 and 5 above have effect in relation to such an order—
+
+(a) with the substitution, for references to an application and to the making of a compulsory purchase order upon it, of references to such an order as prepared in draft and to the making of such an order, and
+
+(b) with the omission of the references in paragraph 3(2) to the acquiring authority.
+
+### Part III
+
+#### Modification of Schedule 4 Part V in relation to compulsory purchase orders made in pursuance of s. 13
+
+**9** Part V of Schedule 4 to this Act has effect in relation to a compulsory purchase order made in pursuance of section 13(1) above with the substitution, for the references to the date on which notice of the confirmation or making of the order is first published in accordance with that Schedule, of references to the date on which the service of notices required by paragraph 5 above is completed.
+
+## SCHEDULE 6 — Modifications of Enactments for Purposes of this Act
+
+### Part I
+
+#### Compulsory Purchase Act 1965
+
+**1** (1) Part I of the [^M38]Compulsory Purchase Act 1965 as applied by this Act shall have effect as if section 27 (acquiring authority to make good deficiencies in rates) and section 32 (commencement) were omitted.
+
+(2) In construing that Act as applied by this Act—
+
+(a) this Act or, in relation to a compulsory acquisition, this Act and the compulsory purchase order, shall be deemed to be the special Act;
+
+(b) “the acquiring authority” has the meaning given by this Act;
+
+(c) “subject to compulsory purchase” in relation to a compulsory acquisition means land the compulsory purchase of which is authorised by the compulsory purchase order, and in relation to the acquisition of land by agreement means land which may be purchased by agreement under this Act;
+
+(d) references to the execution of the works shall be construed as including references to any erection, construction or carrying out of buildings or works authorised by this Act;
+
+(e) in relation to any erection, construction or carrying out of any building or works so authorised, references in section 10 of that Act of 1965 (compensation for injurious affection) to the promoters of the undertaking shall be construed as references to the person by whom the buildings or works in question are erected, constructed or carried out; [^F264]...
+
+(f) references to the execution of the works shall be construed as including also references to any erection, construction or carrying out of buildings or works on behalf of the Secretary of State on land acquired by him under section 11 above, where the buildings or works are erected, constructed or carried out for the purposes for which the land was acquired[[^F265];
+
+(g) in Schedule 2A to that Act references to section 11 or 11A of that Act are to be read respectively as references to paragraph 4 or 4A of this Schedule.]
+
+**2** Nothing—
+
+(a) in Part I of the [^M39]Compulsory Purchase Act 1965 as applied by this Act in relation to the acquisition of land by agreement, or
+
+(b) in this Act as so applying,
+
+shall enable a local authority to sell for the purpose of this Act without the consent of any Minister any land which they could not have sold without that consent apart from this paragraph.
+
+**3** The acquiring authority shall, without prejudice to any power in that behalf exercisable by them apart from this paragraph, be entitled, notwithstanding anything in section 5 of that Act of 1965 or in any other provision of that Act, to acquire one or some of two or more interests subsisting in the land without acquiring the other interest or interests subsisting in it.
+
+**4** (1) If the acquiring authority have, in respect of any of the land, served notice to treat on every owner of that land [[^F266]so far as known to the acquiring authority after making diligent inquiry in accordance with section 5(1) of the Compulsory Purchase Act 1965], they may at any time afterwards serve a notice—
+
+(a) on every occupier of any of that land, and
+
+(b) on every person (other than such an occupier) who, having been served with a notice to treat in respect of that land, has requested the acquiring authority in writing to serve him with any notice under this sub-paragraph and has given them an address for its service,
+
+describing the land to which the notice relates and stating their intention to enter on and take possession of it at the expiry of such period [^F267]... as may be specified in the notice.
+
+(2) The acquiring authority may enter on and take possession of the land to which such notice or notices relate—
+
+(a) at the expiry of the period specified in the notice, or
+
+(b) where two or more such notices are required, and the periods specified in the several notices do not expire at the same time, at the expiry of the last of those periods, or
+
+(c) at any time after those expiries,
+
+without previous consent or compliance with section 11 of the [^M40]Compulsory Purchase Act 1965 but subject to payment of the like compensation for the land of which possession is taken, and interest on the compensation agreed or awarded, as they would have been required to pay if those provisions had been complied with.
+
+[[^F268](2A) The period specified in a notice under sub-paragraph (1) must not end earlier than the end of the period of 3 months beginning with the day on which the notice is served unless—
+
+(a) it is a notice to which paragraph 4A(4) applies, or
+
+(b) it is a notice to which paragraph 13 of Schedule 2A to the Compulsory Purchase Act 1965 (as modified by paragraph 1(2)(g) above) applies.
+
+(2B) A notice under sub-paragraph (1) must explain the effect of paragraph 4B (counter-notice requiring possession to be taken on specified date) and give an address at which the acquiring authority may be served with a counter-notice.
+
+(2C) An acquiring authority may extend the period specified in a notice under sub-paragraph (1) by agreement with each person on whom it was served.
+
+(2D) A reference in this Schedule to the period specified in a notice under sub-paragraph (1) is to the period as extended by any agreement under sub-paragraph (2C).]
+
+(3) The provisions of this paragraph have effect instead of section 11(1) of the Compulsory Purchase Act 1965.
+
+**[[^F269]4A** (1) This paragraph applies where—
+
+(a) an acquiring authority have given a notice under paragraph 4(1) but have not yet entered on and taken possession of the land, and
+
+(b) the authority become aware of an owner (“the newly identified owner”) to whom they ought to have given a notice to treat under section 5(1) of the Compulsory Purchase Act 1965 but have not.
+
+(2) Any notice already served under paragraph 4(1) remains valid, but the authority may not enter on and take possession of the land unless they serve on the newly identified owner—
+
+(a) a notice to treat under section 5(1) of the Compulsory Purchase Act 1965, and
+
+(b) a notice under paragraph 4(1).
+
+(3) Sub-paragraph (4) applies for the purpose of determining the period to be specified in the notice under paragraph 4(1) served on the newly identified owner if—
+
+(a) the owner is an occupier of the land and the authority were not aware of the owner because they were given misleading information when carrying out inquiries under section 5(1) of the Compulsory Purchase Act 1965, or
+
+(b) the owner is not an occupier of the land.
+
+(4) The period must be a period that ends—
+
+(a) no earlier than the end of the period of 14 days beginning with the day on which the notice of entry is served, and
+
+(b) no earlier than the end of the period specified in any previous notice under paragraph 4(1) given by the acquiring authority in respect of the land.
+
+(5) This paragraph applies instead of section 11A of the Compulsory Purchase Act 1965.
+
+**4B** (1) Where the acquiring authority serves a notice under paragraph 4(1) on an occupier with an interest in land, the occupier may serve a counter-notice requiring the acquiring authority to take possession of the land by no later than a date specified in the counter-notice.
+
+(2) If the occupier gives up possession of the land on or before the specified date, the acquiring authority is to be treated as having taken possession on that date (unless the acquiring authority has in fact taken possession before that date).
+
+(3) The date specified in the counter-notice—
+
+(a) must not be before the end of the period specified in the notice under paragraph 4(1), and
+
+(b) must be at least 28 days after the day on which the counter-notice is served.
+
+(4) A counter-notice under sub-paragraph (1) has no effect if the notice to treat relating to the land is withdrawn or ceases to have effect before the date specified in the counter-notice.
+
+(5) A counter-notice under sub-paragraph (1) has no effect if it would require an acquiring authority to take possession of land at a time when either paragraph 4A of this Schedule or paragraph 6 of Schedule 2A to the Compulsory Purchase Act 1965 prohibit the authority from entering on and taking possession of the land.
+
+(6) If sub-paragraph (5) applies, the authority must notify the occupier who served the counter-notice—
+
+(a) that the counter-notice has no effect, and
+
+(b) if the authority serve a notice under paragraph 4(1) of this Schedule as mentioned in paragraph 4A(2)(b) of this Schedule, of the date after which the authority could enter on and take possession of the land.
+
+(7) If a counter-notice served under sub-paragraph (1) has no effect because of sub-paragraph (5), the occupier who served it may serve a further counter-notice.
+
+(8) Where a notice under paragraph 4(1) is served on more than one occupier with the same interest in the land, a reference in this section to the occupier with an interest in land is to all of them acting together.
+
+(9) This paragraph applies instead of section 11B of the Compulsory Purchase Act 1965.]
+
+**5** Section 30(3) of the Compulsory Purchase Act 1965 (service of notices in accordance with the [^M41]Acquisition of Land Act 1946) does not apply but notice required to be served by the acquiring authority may, notwithstanding anything in subsection (1) of that section, be served and addressed in the manner specified in section 75 above in relation to notices required to be served under this Act.
+
+### Part II
+
+#### [^M42]Land Compensation Act 1961
+
+**6** The [[^F270]Upper Tribunal] shall not take into account any interest in land, or any enhancement of the value of any interest in land by reason of any building erected, work done or improvement or alteration made, whether on the land acquired or on any other land with which the claimant is, or was at the time of the erection, doing or making of the building, works, improvement or alteration, directly or indirectly concerned, if that Tribunal is satisfied—
+
+(a) that the creation of the interest,
+
+(b) the erection of the building,
+
+(c) the doing of the work,
+
+(d) the making of the improvement, or
+
+(e) the alteration,
+
+as the case may be, was not reasonably necessary and was undertaken with a view to obtaining compensation or increased compensation.
+
+## SCHEDULE 7 — Assessment of Compensation to Statutory Undertakers
+
+### Measure of compensation
+
+**1** (1) Where statutory undertakers are entitled to compensation as mentioned in section 15 or section 26(7) above, the amount of the compensation shall (subject to paragraph 2 below) be an amount calculated in accordance with the following provisions of this paragraph.
+
+(2) That amount subject to sub-paragraph (3) below, shall be the aggregate of the following amounts, that is—
+
+(a) the amount of any expenditure reasonably incurred in acquiring land, providing apparatus, erecting buildings or doing work for the purpose of any adjustment of the carrying on of the undertaking rendered necessary by the proceeding giving rise to compensation;
+
+(b) whichever of the following is applicable, namely—
+
+(i) where such an adjustment is made—
+
+A the estimated amount of any decrease in net receipts from the carrying on of the undertaking pending the adjustment, in so far as the decrease is directly attributable to the proceeding giving rise to compensation, together with
+
+B such amount as appears reasonable compensation for any estimated decrease in net receipts from the carrying on of the undertaking in the period after the adjustment has been completed, in so far as the decrease is directly attributable to the adjustment, or
+
+(ii) where no such adjustment is made, such amount as appears reasonable compensation for any estimated decrease in net receipts from the carrying on of the undertaking which is directly attributable to the proceeding giving rise to compensation;
+
+(c) where the compensation is under section 26(7), and is in respect of the imposition of a requirement to remove apparatus, the amount of any expenditure reasonably incurred by the statutory undertakers in complying with the requirement, reduced by the value after removal of the apparatus removed.
+
+(3) Where any such adjustment as is mentioned in sub-paragraph (2)(a) above is made, the aggregate amount mentioned in that sub-paragraph shall be reduced by such amount (if any) as appears to the [[^F271]Upper Tribunal] to be appropriate to offset—
+
+(a) the estimated value of any property (whether moveable or immoveable) belonging to the statutory undertakers and used for the carrying on of their undertaking which, in consequence of the adjustment, ceases to be so used, in so far as the value of the property has not been taken into account under sub-paragraph (2)(c) above, and
+
+(b) the estimated amount of any increase in net receipts from the carrying on of the undertaking in the period after the adjustment has been completed, in so far as that amount has not been taken into account under sub-paragraph (2)(b) above and is directly attributable to the adjustment,
+
+and by any further amount which appears to the [[^F271]Upper Tribunal] to be appropriate, having regard to any increase in the capital value of immoveable property belonging to the statutory undertakers which is directly attributable to the adjustment, allowance being made for any reduction made under paragraph (b) above.
+
+(4) References in this paragraph to a decrease in net receipts shall be construed as references to the amount by which a balance of receipts over expenditure is decreased, or a balance of expenditure over receipts is increased, or, where a balance of receipts over expenditure is converted into a balance of expenditure over receipts, as references to the aggregate of the two balances; and references to an increase in net receipts shall be construed accordingly.
+
+(5) In this paragraph “proceeding giving rise to compensation” means the particular action (that is, the acquisition, the extinguishment of a right or the imposition of a requirement) in respect of which compensation falls to be assessed, as distinct from any development or project in connection with which that action may have been taken.
+
+### Exclusion of paragraph 1 at option of statutory undertakers
+
+**2** (1) Where statutory undertakers are entitled to compensation in respect of a compulsory acquisition, the statutory undertakers may by notice in writing under this paragraph elect that the compensation shall be ascertained in accordance with the enactments (other than rule (5) of the rules set out in section 5 of the [^M43]Land Compensation Act 1961) which would be applicable apart from paragraph 1 above; and if the undertakers so elect the compensation shall be ascertained accordingly.
+
+(2) An election under this paragraph may be made either in respect of the whole of the land comprised in the compulsory acquisition in question or in respect of part of that land.
+
+(3) Any notice under this section shall be given to the acquiring authority before the end of the period of 2 months from the date of service of notice to treat in respect of the interest of the statutory undertakers.
+
+### Procedure for assessing compensation where paragraph 1 applies
+
+**3** (1) Where the amount of any such compensation as is mentioned in paragraph 1(1) above falls to be ascertained in accordance with the provisions of that paragraph 1, the compensation shall, in default of agreement, be assessed by the [[^F272]Upper Tribunal], if apart from this paragraph it would not fall to be so assessed.
+
+(2) For the purposes of any proceedings arising before the [[^F273]Upper Tribunal] in respect of compensation falling to be ascertained as mentioned in sub-paragraph (1) above, [[^F274]section] 4 of the Land Compensation Act 1961 [[^F275]applies as it applies] to proceedings on a question referred to the Tribunal under section 1 of that Act, but with the substitution in [[^F276]that section], for references to the acquiring authority, of references to the person from whom the compensation is claimed.
+
+## SCHEDULE 8 — Procedure for Dealing with Objections to Orders Under sections 23, 28 and 30
+
+*Sections 23 and 31.*
+
+**1** In this Schedule, “the relevant Minister” means—
+
+(a) in relation to an order under section 23 above, the Secretary of State,
+
+(b) in relation to an order under section 28 above, the Secretary of State and the appropriate Minister,
+
+(c) in relation to an order under section 30 above, the appropriate Minister,
+
+and any reference to making a final decision, in relation to an order, is a reference to deciding whether to make the order or what modification, if any, ought to be made.
+
+**2** Unless the relevant Minister decides apart from the objection not to make the order, or decides to make a modification which is agreed to by the objector as meeting the objection, the relevant Minister—
+
+(a) shall, before making a final decision, consider the grounds of the objection as set out in the statement comprised in or submitted with the objection, and
+
+(b) may. if he thinks fit, require the objector to submit within a specified period a further statement in writing as to any of the matters to which the objection relates.
+
+**3** In so far as the relevant Minister, after considering the grounds of the objection as set out in the original statement and in any such further statement, is satisfied that the objection relates to a matter which can be dealt with in the assessment of compensation, the relevant Minister may treat the objection as irrelevant for the purpose of making a final decision.
+
+**4** If—
+
+(a) after considering the grounds of the objection as set out in the original statement and in any such further statement, the relevant Minister is satisfied that, for the purpose of making a final decision, he is sufficiently informed as to the matters to which the objection relates, or
+
+(b) where a further statement has been required, it is not submitted within the specified period,
+
+the relevant Minister may make a final decision without further investigation as to those matters.
+
+**5** Subject to paragraphs 3 and 4 above, the relevant Minister—
+
+(a) shall, before making a final decision, afford to the objector an opportunity of appearing before, and being heard by, a person appointed for the purpose by the relevant Minister; and
+
+(b) shall, if the objector avails himself of that opportunity, afford an opportunity of appearing and being heard on the same occasion—
+
+(i) to the statutory undertakers, development corporation or other person, if any, on whose representation the order is proposed to be made; and
+
+(ii) to any other persons to whom it appears to the relevant Minister to be expedient to afford such an opportunity.
+
+**6** (1) Notwithstanding anything in the foregoing provisions of this Schedule, if it appears to the relevant Minister that the matters to which the objection relates are such as to require investigation by public local inquiry before he makes a final decision, he shall cause such an inquiry to be held.
+
+(2) Where the relevant Minister determines to cause such an inquiry to be held, any of the requirements of those provisions to which effect has not been given at the time of that determination shall be dispensed with.
+
+## [^F277]SCHEDULE 9 — Additional Provisions as to the Commission
+
+*Section 35.*
+
+### [^F277] Appointment, resignation and removal of members
+
+**[^F277]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F277] Remuneration, pensions, et ceteralaetc., of members
+
+**[^F277]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F277] Committees
+
+**[^F277]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F277] Remuneration and expenses of members of committees
+
+**[^F277]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F277] Quorum, procedure and validity of proceedings of Commission and committees
+
+**[^F277]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F277] Sealing and execution of documents
+
+**[^F277]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F277] Power to dissolve Commission
+
+**[^F277]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F277]Delegation of powers
+
+**[^F277]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 10 — [^F278] Additional Provisions as to Transfer ... of Property of Development Corporation
+
+*Section 41.*
+
+**1** (1) Subject to the following provisions of this Schedule, where an order under this Act provides that on a specified date the property of a development corporation (so far as not excepted by the order) shall vest in the [[^F279]relevant transferee], then on that date (referred to below as the transfer date) there shall by virtue of the order and without further assurance be transferred to the [[^F279]relevant transferee] all property, rights, liabilities and obligations which immediately before the transfer date were property, rights, liabilities or obligations of the corporation.
+
+(2) Subject as aforesaid, every agreement to which the development corporation was a party immediately before the transfer date, whether in writing or not and whether or not of such a nature that rights, liabilities and obligations thereunder could be assigned by the corporation, shall, unless its terms or subject matter make it impossible that it should have effect as modified in the manner provided by this sub-paragraph, have effect as from the transfer date as if—
+
+(a) the [[^F279]relevant transferee] had been a party to the agreement;
+
+(b) reference (however worded and whether express or implied) to the corporation there were substituted, as respects anything falling to be done on or after the transfer date, a reference to the [[^F279]relevant transferee];
+
+(c) for any reference (however worded and whether express or implied) to any member or officer of the corporation there were substituted, as respects anything falling to be done on or after the transfer date, a reference to such person as the [[^F279]relevant transferee] may appoint, or, in default of appointment[[^F280]—
+
+(i) in a case where the relevant transferee is the Homes and Communities Agency, to the member or member of staff of the Agency who corresponds as nearly as may be to the member or officer in question of the corporation; and
+
+(ii) in a case where the relevant transferee is the Welsh Ministers, to the member of staff of the Welsh Ministers who corresponds as mentioned in sub-paragraph (i) above.]
+
+(3) Other documents, not being enactments, which refer, whether specifically or generally, to the corporation shall be construed in accordance with sub-paragraph (2) above so far as applicable.
+
+(4) Without prejudice to the generality of the foregoing sub-paragraphs, where, by the operation of any of them, any right, liability or obligation vests in the [[^F279]relevant transferee], the [[^F279]relevant transferee] and all other persons shall, as from the transfer date, have the same rights, powers and remedies (and, in particular, the same rights as to the taking or resisting of legal proceedings or the making or resisting of applications to any authority) for asserting, perfecting or enforcing that right, liability or obligation as they would have had if it had at all times been a right, liability or obligation of the [[^F279]relevant transferee].
+
+(5) Any legal proceedings or application to any authority pending on the transfer date by or against the development corporation (and not relating to property, rights, liabilities or obligations excepted by the order from the transfer to the [[^F279]relevant transferee]) may be continued on and after that date or against the [[^F279]relevant transferee].
+
+**2** (1) Any such order as aforesaid may, if the [[^F281]appropriate national authority] sees fit, except from the transfer to the [[^F282]relevant transferee]—
+
+(a) any books, papers, or documents of the corporation,
+
+(b) any property (including in particular any trade or business) which the corporation have agreed to transfer to some person other than the [[^F282]relevant transferee], together with the corporation’s rights, liabilities and obligations under that agreement, and any other rights, liabilities or obligations which it is necessary for the corporation to retain in order to give effect to that agreement,
+
+(c) such other property as the [[^F281]appropriate national authority] thinks expedient for the purpose of enabling the corporation to discharge any functions remaining to it,
+
+and may provide for the disposal of any property so excepted and of any property received by the corporation after the transfer date under any such agreement or otherwise.
+
+(2) Any expenses of the corporation on or after the transfer date, so far as not defrayed out of any such property as is mentioned in sub-paragraph (1) above, shall be defrayed by the [[^F282]relevant transferee].
+
+**3** (1) Subject to the following provisions of this Schedule, on the transfer date this Act and any other enactment relating to areas designated under section 1 above as the site of a new town shall cease to apply to the town as an area so designated, except for the purpose of any functions remaining to the development corporation by virtue of paragraph 2 above; and nothing in paragraph 1 above shall be construed as conferring on the [[^F283]relevant transferee] any rights, liabilities or obligations of a development corporation under any enactment.
+
+(2) Sub-paragraph (1) above shall not affect the operation of paragraph 1 above or of any other enactment in relation to things done by or to a development corporation before the transfer date or in relation to matters arising out of things so done; but no order shall be made under any enactment on or after the transfer date by virtue of this sub-paragraph.
+
+(3) Without prejudice to the generality of sub-paragraph (2) above—
+
+(a) any permission for development in the new town granted by an order made, or having effect as if made, under [[^F284]section 59 of the Town and Country Planning Act 1990] and in force on the transfer date shall continue in force as if references in the order to the development corporation included the [[^F285]relevant transferee];
+
+(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F286]
+
+(c) [[^F287]where, in the case of a development corporation established by the Secretary of State, the] corporation were making contributions under section 4(4)(a) above to expenditure of a local authority or statutory undertakers, or had obtained the Secretary of State’s consent to making such contributions, the [[^F288]Homes and Communities Agency] shall have power to make or continue to make those contributions, whether or not the development corporation had undertaken any obligation to do so;
+
+(d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F289]
+
+(4) Section 11 above and, so far as they have effect for the purposes of that section 11, the other provisions of this Act shall, notwithstanding anything in sub-paragraph (1) above, continue to have effect in relation to the town for such period (if any) as may be specified in the order under section 41 above relating to the town; and that order may provide that any other enactment applying in relation to the town immediately before the transfer date shall continue to apply, subject or not to any modifications specified in the order.
+
+(5) Where an enactment ceases to apply in relation to the town by virtue of this Schedule, section 16(1) of the [^M44]Interpretation Act 1978 (which relates to the effect of repeals), shall have effect as it has effect on the repeal of one Act by another.
+
+**[^F290]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5** [^F291]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F292](2) Sub-paragraph (3) applies if, in the case of a development corporation established by the Secretary of State, the liabilities of the corporation for—
+
+(a) the repayment of advances under section 58(1) above; or
+
+(b) the payment of interest on such advances;
+
+are transferred to the Homes and Communities Agency.
+
+(3) The following provisions apply to those advances—
+
+(a) section 61(2); and
+
+(b) section 66(1) but as if the reference to any payment under section 63 or 65 above were a reference to any sum received by the Secretary of State under section 25(2) of the Housing and Regeneration Act 2008.]
+
+**6** In this Schedule “enactment” means any Act of Parliament and any order, rules, regulations or similar instrument having effect by virtue of an Act of Parliament, and includes enactments passed or made on or after the date of the passing of this Act, except in so far as any such enactment provides to the contrary.
+
+## SCHEDULE 11 — Saving and Transitional Provisions
+
+*Section 81.*
+
+### General
+
+**1** Where any period of time specified in or under an enactment repealed by this Act is current at the commencement of this Act, this Act has effect as if the corresponding provision had been in force when the period begun to run.
+
+**2** (1) Any provision of this Act relating to anything done or required or authorised to be done under or by reference to that provision or any other provision of this Act shall (subject to paragraphs 3 to 5 below) have effect as if any reference to that provision or that other provision, as the case may be, included a reference to the corresponding provision of the enactments repealed by this Act.
+
+(2) Where the repealed provision was itself a re-enactment of an earlier provision the reference shall extend in the same way to that earlier provision and so on.
+
+### Advances [^F293]... to development corporations under previous enactments
+
+**[^F294]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4** For the purposes of section 60 above—
+
+(a) any advance to a development corporation made before the commencement of the [^M45]New Towns Act 1965 under section 12(1) of the [^M46]New Towns Act 1946, or
+
+(b) any such advance made before the commencement of this Act under section 42(1) of that Act of 1965,
+
+shall continue to be regarded as having been made under that section 12(1). or that section 42(1), as the case may be, and not under section 58(1) above (which corresponds to those provisions).
+
+**[^F295]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Saving as to certain provisions relating to housing
+
+**6** Notwithstanding the repeal by this Act of subsections (2) and (5) of section 4 of the [^M47]New Towns Act 1959 those subsections have such effect as they had immediately before the commencement of this Act; and the power conferred by virtue of sections 152(3) and 153(4) of the [^M48]Housing Act 1980 to bring into operation Schedule 26 to that Act (repeals) has effect as if that Schedule included a reference to this paragraph.
+
+### [^M49]Land Compensation Act 1961
+
+**7** Notwithstanding the repeal by this Act of the [^M50]New Towns Act 1966, the amendments made by section 2 of and Part I of the Schedule to that Act to the Land Compensation Act 1961 continue to have effect as provided by that section 2.
+
+### [^M51]National Loans Act 1968
+
+**8** Section 24(2) of and Part I of Schedule 6 to the National Loans Act 1968 continue to have such effect in relation to sections 44(2) and (4). 45(2) and 46(5) of the [^M52]New Towns Act 1965 as they had immediately before the commencement of this Act.
+
+**9–10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F296]
+
+### [^M53]Land Compensation Act 1973
+
+**11** Nothing in this Act affects the operation of the savings made in sections 72(6) and 86 of and Schedule 3 to the Land Compensation Act 1973 in relation to the repeal of section 11 of and paragraph 7 of Schedule 6 to the New Towns Act 1965.
+
+### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F297]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Schedule 25 to the [^M54]Local Government, Planning and Land Act 1980
+
+**13** (1) Nothing in—
+
+(a) paragraphs (a) and (b) of section 4(5) above,
+
+(b) section 17(3) above,
+
+(c) section 37(6) above,
+
+affects a transaction or purported disposal made before the coming into force of Part I of Schedule 25 to the Local Government, Planning and Land Act 1980.
+
+(2) In relation to any transaction or purported disposal made before the coming into force of Part I of that Schedule, for the words in sections 5(4) and 37(5) above “and such a person shall not be concerned to see or enquire whether a direction under that subsection has been given or complied with” substitute “unless that person had actual notice of that direction”.
+
+(3) The repeal by this Act of paragraph 5(2) of that Schedule does not affect the validity by virtue of that sub-paragraph of any consent given before the commencement of this Act.
+
+## SCHEDULE 12 — Consequential Amendments
+
+*Section 81.*
+
+### Licensing Act 1964 c. 26
+
+**[^F298]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### National Loans Act 1968 c. 13
+
+**2** In Schedule 1 to the National Loans Act 1968, in the entry headed “New Towns Act 1965”, for that heading substitute “ New Towns Act 1981 ” and—
+
+(a) for the reference to section “42(1)(4)(5)” substitute “ 58(1)(5)(6) ” ;
+
+(b) omit the references to sections 44(1) and (3), 45 and 46(5).
+
+### New Towns (Scotland) Act 1968 c. 16
+
+**3** In the New Towns (Scotland) Act 1968—
+
+(b) in section 37(1), and
+
+(b) in section 37A(1) and (2),
+
+for “section 43 of the New Towns Act 1965” substitute “ section 60 of the New Towns Act 1981 ”.
+
+### Agriculture (Miscellaneous Provisions) Act 1968 c. 34
+
+**4** In section 13(2) of the Agriculture (Miscellaneous Provisions) Act 1968, for “section 7 of the New Towns Act 1965” substitute “ section 10 of the New Towns Act 1981 ”.
+
+### Post Office Act 1969 c. 48
+
+**5** In paragraph 93(1)(xxv) and (4)(e) of Part II of Schedule 4 to the Post Office Act 1969, for “New Towns Act 1965” substitute “ New Towns Act 1981 ”.
+
+**6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F299]
+
+**7–8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F300]
+
+### Land Compensation Act 1973 c. 26
+
+**9** In section 51 of the Land Compensation Act 1973—
+
+(a) in subsection (1), for “New Towns Act 1965” substitute “ New Towns Act 1981 ”.
+
+(b) in subsections (3) and (6), for “Act of 1965” substitute “ Act of 1981 ”.
+
+**10** In section 57(2) of the Land Compensation Act 1973, for “New Towns Act 1965” substitute “ New Towns Act 1981 ”.
+
+**11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F301]
+
+### Water Act 1973 c. 37
+
+**[[^F302]12** In section 15(10) of the Water Act 1973 for “New Towns Act 1965” substitute “ New Towns Act 1981 ”.]
+
+**13–14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F303]
+
+### House of Commons Disqualification Act 1975 c. 24
+
+**15** In Part II of Schedule 1 to the House of Commons Disqualification Act 1975, in the entry relating to a Development Corporation, for “New Towns Act 1965” substitute “ New Towns Act 1981 ”.
+
+**16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F304]
+
+### Community Land Act 1975 c. 77
+
+**17** In section 1(2) of the Community Land Act 1975 for “New Towns Act 1965” substitute “ New Towns Act 1981 ”.
+
+**18** In section 6(1) of the Community Land Act 1975 (in the definition of “new town authority”), for “section 2 of the New Towns Act 1965” substitute “ section 3 of the New Towns Act 1981 ”.
+
+**19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F305]
+
+### Development of Rural Wales Act 1976 c. 75
+
+**[^F306]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F307]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F308]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Rent (Agriculture) Act 1976 c. 80
+
+**23** In section 5(3)(e) of the Rent (Agriculture) Act 1976, for “New Towns Act 1965” substitute “ New Towns Act 1981 ”.
+
+### Rent Act 1977 c. 42
+
+**24** In section 14(e) of the Rent Act 1977, for “New Towns Act 1965” substitute “ New Towns Act 1981 ”.
+
+**25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F309]
+
+### National Health Service Act 1977 c. 49
+
+**[^F310]26** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Housing Act 1980 c. 51
+
+**27** In the Housing Act 1980—
+
+(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F311]
+
+(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F311]
+
+(c) in section 140(2)(b), and
+
+(d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F311]
+
+### Local Government, Planning and Land Act 1980 c. 65
+
+**28** In the Local Government, Planning and Land Act 1980—
+
+(a) in section 4(4)(a),
+
+(b) in section 20(1)(ii),
+
+(c) in section 99(4),
+
+(d) in paragraph 7 of Schedule 16, and
+
+(e) in paragraph 1(7) of Schedule 32,
+
+for “New Towns Act 1965” substitute “ New Towns Act 1981 ”.
+
+**29** In section 133 of the Local Government, Planning and Land Act 1980—
+
+(a) in subsection (1)—
+
+[^F312]i . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(ii) omit the words “ “development corporation” has (in the application of this Part to Scotland) the same meaning as in the 1968 Act ;” and “ “the 1965 Act” means the New Towns Act 1965 ;” ;
+
+(b) in subsection (2) omit the words “the 1965 Act” ;
+
+(c) omit subsection (3) ; and
+
+(d) in subsection (4) after the word “extend” insert “ to Scotland (apart from this section) or ”.
+
+### British Telecommunications Act 1981 c. 38
+
+**30** In Part II of Schedule 3 to the British Telecommunications Act 1981—
+
+(a) in paragraph 10(1)(q), and
+
+(b) in paragraph 12(1)(b),
+
+for “New Towns Act 1965” substitute “ New Towns Act 1981 ”.
+
+## SCHEDULE 13 — Repeals
+
+*Section 81.*
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 7 & 8 Eliz. 2. c. 62. | New Towns Act 1959. | The whole Act. |
+| 1965 c. 59. | New Towns Act 1965. | The whole Act. |
+| 1966 c. 44. | New Towns Act 1966. | The whole Act. |
+| 1968 c. 13. | National Loans Act 1968. | In Schedule 1, the entry so far as it relates to sections 44(1) and (3) and sections 45 and 46(5) of the New Towns Act 1965. |
+| 1969 c. 48. | Post Office Act 1969. | In Schedule 4, paragraph 78. |
+| 1971 c. 78. | Town and Country Planning Act 1971. | In Part II of Schedule 23, the entry relating to the New Towns Act 1965. |
+| 1972 c. 11. | Superannuation Act 1972. | In Schedule 6, paragraph 53. |
+| 1972 c. 47. | Housing Finance Act 1972. | Section 14. |
+| 1972 c. 70. | Local Government Act 1972. | In Part II of Schedule 16, paragraph 56. |
+|  |  | In Part II of Schedule 29, paragraph 29. |
+| 1973 c. 26. | Land Compensation Act 1973. | Section 72(6). |
+| 1973 c. 37. | Water Act 1973. | In Schedule 8, paragraphs 88 and 89. |
+| 1974 c. 8. | Statutory Corporations (Financial Provisions) Act 1974. | In Schedule 3, Part I. |
+| 1975 c. 42. | New Towns Act 1975. | The whole Act. |
+| 1975 c. 76. | Local Land Charges Act 1975. | In Schedule 1, the entry relating to the New Towns Act 1965. |
+| 1976 c. 68. | New Towns (Amendment) Act 1976. | The whole Act. |
+| 1976 c. 75. | Development of Rural Wales Act 1976. | In Schedule 7, paragraphs 4 and 17. |
+| 1976 c. 80. | Rent (Agriculture) Act 1976. | In Schedule 8, paragraph 12. |
+| 1977 c. 23. | New Towns Act 1977. | The whole Act. |
+| 1977 c. 42. | Rent Act 1977. | In Schedule 23, paragraph 39. |
+| 1978 c. 44. | Employment Protection (Consolidation) Act 1978. | In Schedule 16, paragraph 24. |
+| 1980 c. 36. | New Towns Act 1980. | The whole Act. |
+| 1980 c. 65. | Local Government, Planning and Land Act 1980. | Sections 126 to 130. |
+|  |  | In section 133(1) the words— |
+|  |  | “ development corporation has (in the application of this Part to Scotland) the same meaning as in the 1968 Act ” and |
+|  |  | “ the 1965 Act means the New Towns Act 1965 ”. |
+|  |  | In section 133(2) the words “the 1965 Act”. |
+|  |  | Section 133(3). |
+|  |  | In Schedule 25, Part I. |
+| 1980 c. 66. | Highways Act 1980. | In Schedule 24, paragraph 15. |
+| 1981 c. 38. | British Telecommunications Act 1981. | In Part II of Schedule 3, paragraph 3, paragraphs 11(2)(b) and 43. |
+
+---
+
+[^F1]: S. 1(2) repealed (1.10.1998) by 1998 c. 38, s. 152, Sch. 18 Pt. IV (with ss. 137(1), 139(2), 141(1), 143(2)); S.I. 1998/2244, art. 4
+[^F2]: S. 1(3) substituted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 100(2), 118(4) (with s. 116); S.I. 2025/1370, reg. 4(1)(d)
+[^F3]: S. 1(3A) inserted (13.7.2016) by Housing and Planning Act 2016 (c. 22), ss. 169(2)(a), 216(3); S.I. 2016/733, reg. 3(g)
+[^F4]: Words in s. 1(4) inserted (13.7.2016) by Housing and Planning Act 2016 (c. 22), ss. 169(2)(b), 216(3); S.I. 2016/733, reg. 3(g)
+[^F5]: Words repealed by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(2), Sch. 4
+[^F6]: S. 1A inserted (19.7.2017) by Neighbourhood Planning Act 2017 (c. 20), ss. 16(2), 46(1); S.I. 2017/767, reg. 2(f)
+[^F7]: Words in s. 2(1)(b) inserted (1.4.1996) by 1994 c. 19, s. 66(6), Sch. 16 para. 63(1)(with ss. 54(5)(7), 55(5), 66(7), Sch. 17 paras. 22(1), 23(2)); S.I. 1996/396, art. 4, Sch. 2
+[^F8]: S. 2(5) repealed (1.10.1998) by 1998 c. 38, s. 152, Sch. 18 Pt. IV (with ss. 137(1), 139(2), 141(1), 143(2)); S.I. 1998/2244, art. 4
+[^F9]: Words in s. 3(1) repealed (1.10.1998) by 1998 c. 38, s. 152, Sch. 18 Pt. IV (with ss. 137(1), 139(2), 141(1), 143(2)); S.I. 1998/2244, art. 4
+[^F10]: S. 3(1A) inserted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 100(3), 118(4) (with s. 116); S.I. 2025/1370, reg. 4(1)(d)
+[^F11]: S. 3(2)(c) substituted (14.4.2026) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 178(2)(a), 255(7) (with ss. 178(3), 247); S.I. 2026/168, reg. 2(e)
+[^F12]: S. 3(2ZA)(2ZB) inserted (14.4.2026) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 178(2)(b), 255(7) (with ss. 178(3), 247); S.I. 2026/168, reg. 2(e)
+[^F13]: S. 3(2A) inserted (13.7.2016) by Housing and Planning Act 2016 (c. 22), ss. 169(3), 216(3); S.I. 2016/733, reg. 3(g)
+[^F14]: S. 4(1A)(1B) inserted (13.7.2016) by Housing and Planning Act 2016 (c. 22), ss. 170, 216(3); S.I. 2016/733, reg. 3(g)
+[^F15]: Words in s. 4(1A) substituted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 102(1), 118(4) (with s. 116); S.I. 2025/1370, reg. 4(1)(f)
+[^F16]: S. 4(1C) inserted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 103(2)(a), 118(4) (with s. 116); S.I. 2025/1370, reg. 4(1)(g)
+[^F17]: Words in s. 4(2) inserted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 103(2)(b), 118(4) (with s. 116); S.I. 2025/1370, reg. 4(1)(g)
+[^F18]: Words in s. 4(3) substituted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 103(2)(c)(i), 118(4) (with s. 116); S.I. 2025/1370, reg. 4(1)(g)
+[^F19]: Words in s. 4(3)(a) substituted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 103(2)(c)(ii), 118(4) (with s. 116); S.I. 2025/1370, reg. 4(1)(g)
+[^F20]: Words in s. 4(3)(b) substituted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 103(2)(c)(iii), 118(4) (with s. 116); S.I. 2025/1370, reg. 4(1)(g)
+[^F21]: Words in s. 4(5)(b) inserted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 103(2)(d), 118(4) (with s. 116); S.I. 2025/1370, reg. 4(1)(g)
+[^F22]: S. 4A inserted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 103(3), 118(4) (with s. 116); S.I. 2025/1370, reg. 4(1)(g)
+[^F23]: Words repealed by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(2), Sch. 4
+[^F24]: Words inserted by Water Act 1989 (c. 15, SIF 130), s. 190(1), Sch. 25 para. 64(1) (with ss. 58(7) ), 101(1), 141(6), 160(1)(2)(4), 163, 189(4)–(10), 190, 193(1), Sch. 26 paras. 3(1)(2), 17, 40(4), 57(6), 58)
+[^F25]: Words in s. 5(5)(a) inserted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 103(4)(a), 118(4) (with s. 116); S.I. 2025/1370, reg. 4(1)(g)
+[^F26]: Words in s. 5(5)(b) inserted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 103(4)(b), 118(4) (with s. 116); S.I. 2025/1370, reg. 4(1)(g)
+[^F27]: Words in s. 5(5) inserted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 103(4)(c), 118(4) (with s. 116); S.I. 2025/1370, reg. 4(1)(g)
+[^F28]: Words in s. 7 heading inserted (14.4.2026) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(7), Sch. 17 para. 1(2) (with s. 247); S.I. 2026/168, reg. 2(g)
+[^F29]: Words substituted by Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123: 1, 2), s. 4, Sch. 2 para. 51(1)(a)
+[^F30]: Words inserted by Local Government Act 1985 (c. 51, SIF 81:1), s. 16, Sch. 8 para. 9(1)(*a*)
+[^F31]: Words in s. 7(3) inserted (1.4.1996) by 1994 c. 19, s. 66(6), Sch. 16 para. 63(2) (with ss. 54(5)(7), 55(5), Sch. 17 paras. 22(1), 23(2)); S.I. 1996/396, art. 4, Sch. 2
+[^F32]: Words substituted by Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2), s. 4, Sch. 2 para. 51(1)(b)
+[^F33]: Words inserted by Local Government Act 1985 (c. 51, SIF 81:1), s. 16, Sch. 8 para. 9(1)(*b*)
+[^F34]: Ss. 7A, 7B inserted (14.4.2026) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 175(2), 255(7) (with s. 247); S.I. 2026/168, reg. 2(b)
+[^F35]: Words substituted by Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2), s. 4, Sch. 2 para. 51(2)
+[^F36]: Words in s. 8 inserted (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 56 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)
+[^F37]: Ss. 9A, 9B and cross-headings inserted (17.6.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 104(1), 118(4) (with s. 116); S.I. 2026/641, reg. 2(b)
+[^F38]: Words in s. 11(2)(a) substituted (01. 11. 1991) by New Roads and Street Works Act 1991 (c. 22, SIF 59, 108), s. 168(1), Sch. 8 Pt. IV para. 112; S.I. 1991/2288, art. 3,Sch.
+[^M1]: 1965 c. 56.
+[^M2]: 1961 c. 33.
+[^M3]: 1845 c. 20.
+[^M4]: 1923 c. 20.
+[^F39]: Words inserted by Telecommunications Act 1984 (c. 12, SIF 96), Sch. 4 para. 79(2), Sch. 5 para. 45
+[^F40]: Words in s. 16(2) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by Communications Act 2003 (c. 21), s. 411(2), Sch. 17 para. 57(1)(a)(2)(a) (with Sch. 18); S.I. 2003/1900, arts. 1(2), 2(1), Sch. 1 (with art. 3) (as amended by S.I. 2003/3142, art. 1(3)); S.I. 2003/3142, art. 3(2) (with art. 11)
+[^F41]: Words in s. 16(2) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by Communications Act 2003 (c. 21), s. 411(2), Sch. 17 para. 57(1)(a)(2)(b) (with Sch. 18); S.I. 2003/1900, arts. 1(2), 2(1), Sch. 1 (with art. 3) (as amended by S.I. 2003/3142, art. 1(3)); S.I. 2003/3142, art. 3(2) (with art. 11)
+[^F42]: Words in s. 16(2) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by Communications Act 2003 (c. 21), s. 411(2), Sch. 17 para. 57(1)(a)(2)(c) (with Sch. 18); S.I. 2003/1900, arts. 1(2), 2(1), Sch. 1 (with art. 3) (as amended by S.I. 2003/3142, art. 1(3)); S.I. 2003/3142, art. 3(2) (with art. 11)
+[^F43]: Words in s. 16(2) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by Communications Act 2003 (c. 21), s. 411(2), Sch. 17 para. 57(1)(a)(2)(f) (with Sch. 18); S.I. 2003/1900, arts. 1(2), 2(1), Sch. 1 (with art. 3) (as amended by S.I. 2003/3142, art. 1(3)); S.I. 2003/3142, art. 3(2) (with art. 11)
+[^M5]: 1961 c. 33.
+[^F44]: Word “or” and s. 17(2)(c) added by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(1), Sch. 3 para. 2(*a*)
+[^F45]: S. 17(4) substituted by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(1), Sch. 3 para 2(*b*)
+[^F46]: Words in s. 18(3) substituted (24.11.2005) by Licensing Act 2003 (c. 17), s. 201(2), Sch. 6 para. 81 (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F47]: S. 19 omitted (13.7.2016) by virtue of Housing and Planning Act 2016 (c. 22), s. 216(3), Sch. 19 para. 4; S.I. 2016/733, reg. 3(m)
+[^M6]: 1857 c. 81.
+[^F48]: S. 20(10) substituted (13.7.2016) by Housing and Planning Act 2016 (c. 22), s. 216(3), Sch. 19 para. 5; S.I. 2016/733, reg. 3(m)
+[^F49]: S. 21(3) substituted (13.7.2016) by Housing and Planning Act 2016 (c. 22), s. 216(3), Sch. 19 para. 6; S.I. 2016/733, reg. 3(m)
+[^M7]: 1976 c. 80.
+[^M8]: 1977 c. 42.
+[^F50]: Words inserted by Housing Act 1988 (c. 50, SIF 61), s. 140(1), Sch. 17 para. 31
+[^F51]: Words in s. 23(2)(i) inserted (1.4.1996) by 1994 c. 19, s. 66(6), Sch. 16 para. 63(3) (with ss. 54(5)(7), 55(5), Sch. 17 paras. 22(1), 23(2)); S.I. 1996/396, art. 4, Sch. 2
+[^F52]: Words in s. 23(2)(ii) inserted (1.4.1996) by 1994 c. 19, s. 66(6), Sch. 16 para. 63(3) (with ss. 54(5)(7), 55(5), Sch. 17 paras. 22(1), 23(2)); S.I. 1996/396, art. 4, Sch. 2
+[^M9]: 1935 c. 47.
+[^M10]: 1936 c. 5. (1 Edw. 8 & 1 Geo. 6.).
+[^F53]: S. 23(7) repealed by Telecommunications Act 1984 (c. 12, SIF 96), Sch. 7 Pt. I
+[^F54]: S. 24 substituted by Telecommunications Act 1984 (c. 12, SIF 96), Sch. 4 para. 79(4)(5), Sch. 5 para. 45
+[^F55]: Words in s. 24 substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by Communications Act 2003 (c. 21), s. 411(2), Sch. 17 para. 57(1)(c)(2)(c) (with Sch. 18); S.I. 2003/1900, arts. 1(2), 2(1), Sch. 1 (with art. 3) (as amended by S.I. 2003/3142, art. 1(3)); S.I. 2003/3142, art. 3(2) (with art. 11)
+[^F56]: Words in s. 24 substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by Communications Act 2003 (c. 21), s. 411(2), Sch. 17 para. 57(1)(c)(2)(b) (with Sch. 18); S.I. 2003/1900, arts. 1(2), 2(1), Sch. 1 (with art. 3) (as amended by S.I. 2003/3142, art. 1(3)); S.I. 2003/3142, art. 3(2) (with art. 11)
+[^F57]: Words in s. 24 substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by Communications Act 2003 (c. 21), s. 411(2), Sch. 17 para. 57(1)(c)(2)(f) (with Sch. 18); S.I. 2003/1900, arts. 1(2), 2(1), Sch. 1 (with art. 3) (as amended by S.I. 2003/3142, art. 1(3)); S.I. 2003/3142, art. 3(2) (with art. 11)
+[^M11]: 1980 c. 66.
+[^F58]: S. 26(8) substituted by Telecommunications Act 1984 (c. 12, SIF 96), Sch. 4 para. 79(6), Sch. 5 para. 45
+[^F59]: Words in s. 26(8) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by Communications Act 2003 (c. 21), s. 411(2), Sch. 17 para. 57(1)(d)(2)(a) (with Sch. 18); S.I. 2003/1900, arts. 1(2), 2(1), Sch. 1 (with art. 3) (as amended by S.I. 2003/3142, art. 1(3)); S.I. 2003/3142, art. 3(2) (with art. 11)
+[^F60]: Words in s. 26(8) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by Communications Act 2003 (c. 21), s. 411(2), Sch. 17 para. 57(1)(d)(2)(b) (with Sch. 18); S.I. 2003/1900, arts. 1(2), 2(1), Sch. 1 (with art. 3) (as amended by S.I. 2003/3142, art. 1(3)); S.I. 2003/3142, art. 3(2) (with art. 11)
+[^F61]: Words in s. 26(8) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by Communications Act 2003 (c. 21), s. 411(2), Sch. 17 para. 57(1)(d)(2)(c) (with Sch. 18); S.I. 2003/1900, arts. 1(2), 2(1), Sch. 1 (with art. 3) (as amended by S.I. 2003/3142, art. 1(3)); S.I. 2003/3142, art. 3(2) (with art. 11)
+[^F62]: Words in s. 26(8) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by Communications Act 2003 (c. 21), s. 411(2), Sch. 17 para. 57(1)(d)(2)(f) (with Sch. 18); S.I. 2003/1900, arts. 1(2), 2(1), Sch. 1 (with art. 3) (as amended by S.I. 2003/3142, art. 1(3)); S.I. 2003/3142, art. 3(2) (with art. 11)
+[^F63]: Words in s. 26(8) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by Communications Act 2003 (c. 21), s. 411(2), Sch. 17 para. 57(1)(d)(2)(d) (with Sch. 18); S.I. 2003/1900, arts. 1(2), 2(1), Sch. 1 (with art. 3) (as amended by S.I. 2003/3142, art. 1(3)); S.I. 2003/3142, art. 3(2) (with art. 11)
+[^M12]: 1936 c. 49.
+[^F64]: Word in s. 33 substituted (1.4.1996) by 1994 c. 19, s. 66(6), Sch. 16 para. 63(4) (with ss. 54(5)(7), 55(5), Sch. 17 paras. 22(1), 23(2); S.I. 1996/396, art. 4, Sch. 2
+[^F65]: S. 34 repealed by Water Act 1989 (c. 15, SIF 130), s. 190(3), Sch. 27 Pt. I (with ss. 58(7), 101(1), 141(6), 160(1)(2)(4), 163, 189(4)–(10), 190, 193(1), Sch. 26 paras. 3(1)(2), 17, 40(4), 41(1), 57(6), 58)
+[^F66]: Heading to Pt. II substituted (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 2; S.I. 2009/803, art. 3(1)
+[^F67]: S. 35 cross-heading substituted (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 3; S.I. 2009/803, art. 3(1)
+[^F68]: S. 35 repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 4, Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F69]: S. 36 heading substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 5(2); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F70]: S. 36(1)(2) substituted by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 1(2)
+[^F71]: S. 36(1)(1A) substituted for s. 36(1) (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 5(3); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F72]: Words in s. 36(2) inserted (1.4.1998) by S.I. 1998/85, art. 3(2)
+[^F73]: S. 36(3) repealed (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 5(4), 16; S.I. 2008/3068, art. 2(1)(v)(2)5, Sch. (with arts. 6-13)
+[^F74]: S. 36(3A) repealed (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 5(4), 16; S.I. 2008/3068, art. 2(1)(v)(2)5, Sch. (with arts. 6-13)
+[^F75]: Words in s. 36(4) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 5(5)(a); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F76]: Words substituted by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(1), Sch. 3 para. 4
+[^F77]: Words in s. 36(4) repealed (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 5(5)(b), 16; S.I. 2008/3068, art. 2(1)(v)(2)5, Sch. (with arts. 6-13)
+[^F78]: S. 36(4A) inserted (1.4.1998) by S.I. 1998/85, art. 3(6)
+[^F79]: Words in s. 36(4A)(a) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 5(6); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F80]: S. 36(5) repealed by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(2), Sch. 4
+[^F81]: S. 37 repealed (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 6, Sch. 16; S.I. 2008/3068, arts. 2(1)(v)(2), 5, Sch. (with arts. 6-13)
+[^F82]: S. 38 repealed (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 6, Sch. 16 16; S.I. 2008/3068, arts. 2(1)(v)(2), 5, Sch. (with arts. 6-13)
+[^F83]: Words in s. 39(1) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 7(2); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F84]: Words in s. 39(2) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 7(3); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F85]: S. 39(2A) inserted (1.4.1996) by 1994 c. 19, s. 66(6), Sch. 16 para. 63(6) (with ss. 54(5)(7), 55(5), Sch. 17 paras. 22(1), 23(2)); S.I. 1996/396, art. 4, Sch. 2
+[^F86]: Words in s. 39(2A) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 7(4); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F87]: Words in s. 39(3) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 7(5); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F88]: Words in s. 39(4) inserted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 7(6); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F89]: Words in s. 39(4) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 7(6); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F90]: Words in s. 39(5) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 7(7); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F91]: Words substituted by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(1), Sch. 3 para. 6(*a*)
+[^F92]: S. 39(5A) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 7(8); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F93]: S. 39(7) inserted by Telecommunications Act 1984 (c. 12, SIF 96), Sch. 4 para. 79(7), Sch. 5 para. 45
+[^F94]: Words in s. 39(7) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by Communications Act 2003 (c. 21), s. 411(2), Sch. 17 para. 57(1)(e)(2)(b) (with Sch. 18); S.I. 2003/1900, arts. 1(2), 2(1), Sch. 1 (with art. 3) (as amended by S.I. 2003/3142, art. 1(3)); S.I. 2003/3142, art. 3(2) (with art. 11)
+[^F95]: Words in s. 39(7) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by Communications Act 2003 (c. 21), s. 411(2), Sch. 17 para. 57(1)(e)(2)(e) (with Sch. 18); S.I. 2003/1900, arts. 1(2), 2(1), Sch. 1 (with art. 3) (as amended by S.I. 2003/3142, art. 1(3)); S.I. 2003/3142, art. 3(2) (with art. 11)
+[^F96]: S. 40 repealed by Water Act 1989 (c. 15, SIF 130), s. 190(3), Sch. 27 Pt. I (with ss. 58(7), 101(1), 141(6), 160(1)(2)(4), 163, 189(4)–(10), 190, 193(1), Sch. 26 paras. 3(1)(2), 17, 40(4), 41(1), 57(6), 58)
+[^F97]: Words in s. 41 heading repealed (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 8(2), 16; S.I. 2008/3068, art. 2(1)(v)(2)5, Sch. (with arts. 6-13)
+[^F98]: Words in s. 41(1) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 8(3)(a); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F99]: Words in s. 41(1) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 8(3)(b); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F100]: Words in s. 41(1)(a) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 8(3)(c); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F101]: S. 41(1A) inserted (1.4.1996) by 1994 c. 19, s. 66(6), Sch. 16 para. 63(7) (with ss. 54(5)(7), 55(5), Sch. 17, paras. 22(1), 23(2)); S.I. 1996/396, art. 4, Sch. 2
+[^F102]: Words in s. 41(1A) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 8(4); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F103]: Words in s. 41(2) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 8(5)(a); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F104]: Words in s. 41(2)(b) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 8(5)(b)(i); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F105]: Words in s. 41(2)(b) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 8(5)(b)(ii); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F106]: S. 41(3) repealed by Water Act 1989 (c. 15, SIF 130), s. 190(3), Sch. 27 Pt. I (with ss. 58(7), 101(1), 141(6), 160(1)(2)(4), 163, 189(4)–(10), 190, 193(1), Sch. 26 paras. 3(1)(2), 17, 40(4), 41(1), 57(6), 58)
+[^F107]: Words in s. 41(4) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 8(6); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F108]: Words in s. 41(5) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 8(7); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F109]: S. 41A inserted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 9; S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F110]: Pt. III repealed by Local Government and Housing Act 1989 (c. 42, SIF 61, 81:1), s. 172(6) (with s. 172(7)) and by s. 194(4), Sch. 12 Pt. II and subject to amendments by 1996 c. 18, ss. 240, 242, 243, Sch. 1 para. 15, Sch. 3 Pt. I (with ss. 191-195, 202)
+[^F111]: Words in s. 58 heading repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 10(2), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F112]: Words substituted by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(1), Sch. 3 para. 8
+[^F113]: S. 58(2)(4) repealed by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(2), Sch. 4
+[^F114]: S. 58(5) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 10(3), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F115]: S. 58(6) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 10(3), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F116]: S. 58A inserted by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 6
+[^F117]: Words in s. 58A heading repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 11(2), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F118]: S. 58A(4) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 11(3), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F119]: S. 58A(5) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 11(3), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F120]: Words in s. 59 heading repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 12(2), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F121]: Words in s. 59(1) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 12(3)(a), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F122]: Words in s. 59(1) substituted (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 12(3)(b); S.I. 2009/803, art. 3(1)
+[^F123]: Words in s. 59(2) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 12(4)(a), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F124]: Words in Act substituted (22.4.2011) by The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043), arts. 3, 4 (with art. 3(2)(3)4(2)6(4)6(5))
+[^F125]: Words in s. 59(2) substituted (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 12(4)(b); S.I. 2009/803, art. 3(1)
+[^F126]: Words in s. 60 heading repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 13(2), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F127]: Words inserted by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 7(2)
+[^F128]: Words in s. 60(1) inserted (14.4.2026) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 179(2)(a), 255(7) (with s. 247); S.I. 2026/168, reg. 2(f)
+[^M13]: 1946 c. 68.
+[^M14]: 1965 c. 59.
+[^M15]: 1968 c. 16.
+[^F129]: Word in s. 60(1)(b) inserted (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 13(3)(a); S.I. 2009/803, art. 3(1)
+[^F130]: S. 60(1)(c) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 13(3)(b), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F131]: Words in s. 60(1)(d) substituted (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 13(3)(c); S.I. 2009/803, art. 3(1)
+[^F132]: Words in s. 60(1) substituted (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 13(3)(d); S.I. 2009/803, art. 3(1)
+[^F133]: S. 60(1A) inserted (14.4.2026) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 179(2)(b), 255(7) (with s. 247); S.I. 2026/168, reg. 2(f)
+[^F134]: S. 60(2)–(4) inserted by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 7(3)
+[^F135]: S. 60(4) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 13(4), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F136]: Words in s. 61(1) substituted (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 14(2); S.I. 2009/803, art. 3(1)
+[^F137]: Words repealed by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(1)(2), Sch. 3 para. 8(*b*), Sch. 4
+[^F138]: Words in s. 61(2) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 14(3), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F139]: Words substituted for paragraphs (*a*) and (*b*) by Miscellaneous Financial Provisions Act 1983 (c. 29, SIF 99:1), s. 4(5)
+[^F140]: Word in s. 62(1) substituted (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 15(2); S.I. 2009/803, art. 3(1)
+[^F141]: Words in s. 62(5) substituted (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 15(3); S.I. 2009/803, art. 3(1)
+[^F142]: Ss. 62A, 62B and cross-heading inserted by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 8(1)
+[^M16]: 1946 c. 68.
+[^M17]: 1965 c. 59.
+[^F143]: S. 62B repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 16, Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F144]: Words in s. 63(1) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 17(2), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F145]: Words in s. 63(2) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 17(3), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^M18]: 1961 c. 33.
+[^F146]: Words in s. 63(3) repealed by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(2), Sch. 4
+[^F147]: S. 63(4) repealed by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(2), Sch. 4
+[^F148]: Words repealed by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(1)(2), Sch. 3 para. 10(*a*), Sch. 4
+[^F149]: Words substituted by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(1), Sch. 3 para. 10(*b*)
+[^F150]: S. 64(3)–(8) repealed by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(1)(2), Sch. 3 para. 10(*c*), Sch. 4
+[^F151]: Words in s. 65(1) substituted (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 18(2); S.I. 2009/803, art. 3(1)
+[^F152]: Words in s. 65(2) substituted (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 18(3); S.I. 2009/803, art. 3(1)
+[^F153]: S. 66(1)(a) substituted (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 19; S.I. 2009/803, art. 3(1)
+[^F154]: Words repealed by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(2), Sch. 4
+[^F155]: Words in s. 67 heading repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 20(2), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F156]: Words in s. 67(1) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 20(3)(a), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F157]: S. 67(1)(*b*) substituted by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 9(*a*)
+[^F158]: Word in s. 67(1)(b) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 20(3)(b), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F159]: Words in s. 67(1) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 20(3)(c), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F160]: S. 67(1A) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 20(4), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F161]: Words in s. 67(2) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 20(5)(a), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F162]: Words substituted by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 9(*b*)
+[^F163]: Words in s. 67(2) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 20(5)(b), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F164]: Words in s. 67(3) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 20(6)(a), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F165]: Words in s. 67(3)(a) substituted (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 20(6)(b); S.I. 2009/803, art. 3(1)
+[^F166]: Words in s. 68(1) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 21(2)(a), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F167]: Words in s. 68(1) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 21(2)(b), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F168]: S. 68(2) substituted (1.10.1991) by S.I. 1991/1997, reg. 2, Sch. para. 41 (with reg. 4).
+[^F169]: Words in s. 68(2) substituted (6.4.2008) by The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948), art. 2(2), Sch. 1 para. 1(x) (with arts. 6, 11, 12)
+[^F170]: S. 68(2A) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 21(3), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F171]: Words in s. 68(3) substituted (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 21(4); S.I. 2009/803, art. 3(1)
+[^F172]: Word in s. 68(3) substituted (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 21(4); S.I. 2009/803, art. 3(1)
+[^F173]: S. 69(1)(a) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 22(2)(a), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F174]: Words in s. 69(1) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 22(2)(b), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F175]: S. 69(2)(a) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 22(3), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F176]: S. 70(a) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 23(2), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F177]: Words in s. 70 repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 23(3), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F178]: Words in s. 70 inserted (23.5.2003) by Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2003 (S.I. 2003/1326), arts. 1, 11(4)(b)
+[^F179]: Words in s. 71(1) substituted (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 24(2)(a); S.I. 2009/803, art. 3(1)
+[^F180]: Word in s. 71(1) substituted (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 24(2)(b); S.I. 2009/803, art. 3(1)
+[^F181]: Words in s. 71(2) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 24(3)(a), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F182]: Word in s. 71(2)(a) substituted (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 24(3)(b); S.I. 2009/803, art. 3(1)
+[^F183]: Words in s. 72(1)(a) repealed (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 25, 16; S.I. 2008/3068, art. 2(1)(v)(2)5, Sch. (with arts. 6-13)
+[^F184]: S. 72(1)(*b*) and the word “or” immediately preceding it repealed (*prosp.*) by Local Government and Housing Act 1989 (c. 42, SIF 81:1), ss. 194(4), 195(2), Sch. 12 Pt. II
+[^M19]: 1895 c. 16.
+[^F185]: Words substituted (30.1.1982) by Acquisition of Land Act 1981 (c. 67), Sch. 4 para. 33
+[^M20]: 1981 c. 67.
+[^F186]: S. 73(1)(b) and preceding word omitted (13.7.2016) by virtue of Housing and Planning Act 2016 (c. 22), s. 216(3), Sch. 14 para. 13; S.I. 2016/733, reg. 3(h) (with reg. 6)
+[^F187]: Words substituted by virtue of Criminal Justice Act 1982 (c. 48, SIF 39:1), s. 46
+[^M21]: 1972 c. 70.
+[^F188]: Words substituted for paragraphs (*a*) to (*c*) by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(1), Sch. 3 para. 11
+[^F189]: Words in s. 74(3) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 26; S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F190]: Words in s. 76(1) substituted (1.10.2006) by Church of England (Miscellaneous Provisions) Measure 2006 (No. 1), s. 16(2), Sch. 5 para. 23(1)(b); 2006 No. 2, Instrument made by Archbishops
+[^F191]: Words in s. 76 substituted (1.10.2006) by Church of England (Miscellaneous Provisions) Measure 2006 (No. 1), s. 16(2), Sch. 5 para. 23(1)(a); 2006 No. 2, Instrument made by Archbishops
+[^F192]: Words in s. 77(2) inserted (19.7.2017) by Neighbourhood Planning Act 2017 (c. 20), ss. 16(3)(a), 46(1); S.I. 2017/767, reg. 2(f)
+[^F193]: S. 77(2A) inserted (19.7.2017) by Neighbourhood Planning Act 2017 (c. 20), ss. 16(3)(b), 46(1); S.I. 2017/767, reg. 2(f)
+[^F194]: Words inserted by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(1), Sch. 3 para. 12(1)(*a*)
+[^F195]: “60, 62A and 62B” substituted (E.W.) for “and 60” by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 8(2)
+[^F196]: Words in s. 77(3) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 27, Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F197]: Words repealed by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(1)(2), Sch. 3 para. 12(*c*), Sch. 4
+[^F198]: S. 77(3ZA) inserted (13.7.2016) by Housing and Planning Act 2016 (c. 22), ss. 169(4)(a), 216(3); S.I. 2016/733, reg. 3(g)
+[^F199]: S. 77(3A) inserted by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(1), Sch. 3 para. 12(2)
+[^F200]: S. 77(3B)(3C) inserted (13.7.2016) by Housing and Planning Act 2016 (c. 22), ss. 169(4)(b), 216(3); S.I. 2016/733, reg. 3(g)
+[^F201]: S. 77(3E) inserted (14.4.2026) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(7), Sch. 17 para. 1(3) (with s. 247); S.I. 2026/168, reg. 2(g)
+[^F202]: Words in s. 77(4) substituted (13.7.2016) by Housing and Planning Act 2016 (c. 22), ss. 169(4)(c), 216(3); S.I. 2016/733, reg. 3(g)
+[^F203]: Words substituted by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(1), Sch. 3 para. 12(3)(*b*)
+[^F204]: Words in s. 77(4)(a)(ii) omitted (13.7.2016) by virtue of Housing and Planning Act 2016 (c. 22), ss. 169(4)(d), 216(3); S.I. 2016/733, reg. 3(g)
+[^F205]: Words in s. 77(4)(a)(ii) inserted (1.4.1996) by 1994 c. 19, s. 66(6), Sch. 16 para. 63(8) (with ss. 54(5)(7), 55(5), Sch. 17 paras. 22(1), 23(2)); S.I. 1996/396, art. 4, Sch. 2
+[^F206]: Words substituted by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(1), Sch. 3 para. 12(3)(*c*)
+[^F207]: Words substituted by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 8(2)(*b*)
+[^F208]: S. 77(5) repealed by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(2), Sch. 4
+[^F209]: Words repealed by virtue of Gas Act 1986 (c. 44, SIF 44:2), s. 67(4), Sch. 9 Pt. I and by Electricity Act 1989 (c. 29, SIF 44:1), s. 112(4), Sch. 18 (with s. 112(3), Sch. 17 para. 35(1) )
+[^F210]: Words in s. 78(1) substituted (5.7.1992) by S.I. 1992/1314, art. 3(3), Sch. 1, para. 1(c)
+[^F211]: Words repealed by Airports Act 1986 (c. 31, SIF 9), s. 83(5), Sch. 6 Pt. I
+[^F212]: Words in s. 78(1)(d) substituted (26.3.2001) by S.I. 2001/1149, art. 3(1), Sch. 1 para. 51 (subject to art. 1(3))
+[^F213]: Words repealed by Telecommunications Act 1984 (c. 12, SIF 96), Sch. 7 Pt. I
+[^F214]: S. 78(1)(*e*) repealed by Water Act 1989 (c. 15, SIF 130), s. 190(3), Sch. 27 Pt. I (with ss. 58(7), 101(1), 141(6), 160(1)(2)(4), 163, 189(4)–(10), 190, 193(1), Sch. 26 paras. 3(1)(2), 17, 40(4), 41(1), 57(6), 58)
+[^F215]: Word repealed by Electricity Act 1989 (c. 29, SIF 44:1), s. 112(4), Sch. 18 (with s. 112(3), Sch. 17 para. 35(1))
+[^F216]: Word repealed by Gas Act 1986 (c. 44, SIF 44:2), s. 67(4), Sch. 9 Pt. I
+[^F217]: Words substituted by Water Act 1989 (c. 15, SIF 130), s. 190(1), Sch. 25 para. 64(2) (with ss. 58(7), 101(1), 141(6), 160(1)(2)(4), 163, 189(4)–(10), 190, 193(1), Sch. 26 paras. 3(1)(2), 17, 40(4), 57(6), 58)
+[^F218]: Word in s. 79(1) inserted (1.4.2001) by 2000 c. 38, s. 37, Sch. 5 para. 5(2) (with s. 106); S.I. 2001/869, art. 2
+[^F219]: S. 79(1)(ba)(3)(ba) inserted (1.4.2001) by 2000 c. 38, s. 37, Sch. 5 para. 5(2)(4) (with s. 106); S.I. 2001/869, art. 2
+[^F220]: Words in s. 79(1)(c) substituted (26.3.2001) by S.I. 2001/1149, art. 3(1), Sch. 1 para. 52(2) (subject to art. 1(3))
+[^F221]: Words repealed by Telecommunications Act 1984 (c. 12, SIF 96), Sch. 4 para. 3(1)(*k*), Sch. 7 Pt. I
+[^F222]: S. 79(1A)(4) inserted (1.4.2001) by 2000 c. 38, s. 37, Sch. 5 para. 5(3)(5) (with s. 106); S.I. 2001/869, art. 2
+[^F223]: S. 79(1B) inserted (26.3.2001) by S.I. 2001/1149, art. 3(1), Sch. 1 para. 52(3) (subject to art. 1(3))
+[^F224]: Words in s. 79(3)(a) substituted (26.3.2001) by S.I. 2001/1149, art. 3(1), Sch. 1 para. 52(4) (subject to art. 1(3))
+[^M22]: 1969 c. 48.
+[^F225]: Words substituted by Civil Aviation Act 1982 (c. 16, SIF 9), Sch. 15 para. 26
+[^F226]: S. 79(3)(*c*) repealed by Telecommunications Act 1984 (c. 12, SIF 96), Sch. 7 Pt. I
+[^F227]: Definition of 'the Commission' in s. 80(1) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 28(a), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F228]: Definition inserted by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4), s. 14(1), Sch. 3 para. 13
+[^F229]: Words in s. 80(1) inserted (1.10.2006) by Church of England (Miscellaneous Provisions) Measure 2006 (No. 1), s. 16(2), Sch. 5 para. 23(2); 2006 No. 2, Instrument made by Archbishops
+[^F230]: Words in s. 80(1) repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 28(b), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F231]: Words in s. 80(1) inserted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 103(5), 118(4) (with s. 116); S.I. 2025/1370, reg. 4(1)(g)
+[^M23]: 1907 c. cxxxvi.
+[^M24]: 1939 c. lxxxvi.
+[^F232]: Words substituted by S.I. 1990/776, art. 8, Sch. 3 para. 22
+[^F233]: In the definition of "local authority" in s. 80(1), paras. (a)(aa) substituted (2.11.1992) for para. (a) by Local Government Finance Act 1992 (c. 14), s. 117(1), Sch. 13, para. 51 (with s. 118(1)(2)(4)); S.I. 1992/2454, art. 2
+[^F234]: Words in s. 80(1) substituted (1.10.2004 except in relation to W., 10.11.2004 for W.) by Fire and Rescue Services Act 2004 (c. 21), s. 61, Sch. 1 para. 52(1)(2); S.I. 2004/2304, art. 2; S.I. 2004/2917, art. 2
+[^F235]: Words in s. 80(1) substituted (1.10.2004 except in relation to W., 10.11.2004 for W.) by Fire and Rescue Services Act 2004 (c. 21), s. 61, Sch. 1 para. 52(1)(3); S.I. 2004/2304, art. 2; S.I. 2004/2917, art. 2
+[^F236]: Words substituted by Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123: 1, 2), s. 4, Sch. 2 para. 51(3)
+[^F237]: S. 80(1): definition of “universal postal service provider” inserted (26.3.2001) by S.I. 2001/1149, art. 3(1), Sch. 1 para. 53 (subject to art. 1(3))
+[^F238]: Words in s. 80(1) substituted (1.10.2011) by Postal Services Act 2011 (c. 5), s. 93(2)(3), Sch. 12 para. 113(a); S.I. 2011/2329, art. 3
+[^F239]: Words in s. 80(1) substituted (1.10.2011) by Postal Services Act 2011 (c. 5), s. 93(2)(3), Sch. 12 para. 113(b); S.I. 2011/2329, art. 3
+[^F240]: S. 80(4)(*a*) repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt. I
+[^M25]: 1980 c. 65.
+[^F241]: “(3A)” substituted by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123: 3, 4), s. 14(1), Sch. 3 para. 14
+[^F242]: S. 82(2)(*b*) repealed by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123: 3, 4), s. 14(2), Sch. 4
+[^F243]: Words in s. 82(2)(c) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 29(a); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^M26]: 1975 c. 42.
+[^M27]: 1976 c. 68.
+[^M28]: 1980 c. 36.
+[^M29]: 1980 c. 65.
+[^M30]: 1965 c. 59.
+[^M31]: 1978 c. 30.
+[^F244]: Words in s. 82(3) repealed (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 29(b), Sch. 16; S.I. 2008/3068, art. 2(1)(v)(2)5, Sch. (with arts. 6-13)
+[^F245]: Sch. 1 para A1 and cross-heading inserted (13.7.2016) by Housing and Planning Act 2016 (c. 22), ss. 169(5), 216(3); S.I. 2016/733, reg. 3(g)
+[^F246]: Words in Sch. 1 para. 2(3) inserted (1.4.1996) by 1994 c. 19, s. 66(6), Sch. 16 para. 63(9) (with ss. 54(5)(7), 55(5), Sch. 17 paras. 22(1), 23(2)); S.I. 1996/396, art. 4, Sch. 2
+[^F247]: Word repealed by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123: 3, 4), s. 14(1)(2), Sch. 3 para. 15(*a*), Sch. 4
+[^F248]: The word “or” and Sch. 2 para. 1(3)(*c*) added by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123: 3, 4), s. 14(1), Sch. 3 para. 15(*b*)
+[^F249]: Sch. 2 para. 1(7) repealed by New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123: 3, 4), s. 14(2), Sch. 4
+[^F250]: Sch. 2 para. 2 repealed (24.11.2005) by Licensing Act 2003 (c. 17), s. 201(2), Sch. 7 (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2) (with art. 4)
+[^F251]: Words in Sch. 3 para. 5(a) inserted (1.10.2012) by The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404), art. 1, Sch. 2 para. 16 (with art. 5)
+[^F252]: Sch. 3 paras. 10A, 10B and cross-heading inserted (14.4.2026) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 175(3), 255(7) (with s. 247); S.I. 2026/168, reg. 2(b)
+[^F253]: Sch. 4 para. 4A inserted (18.2.2026) by Planning and Infrastructure Act 2025 (c. 34), ss. 114(1), 118(5)(h) (with s. 116)
+[^F254]: Word in Sch. 4 para. 5 omitted (2.2.2017) by virtue of The Housing and Planning Act 2016 (Compulsory Purchase) (Corresponding Amendments) Regulations 2017 (S.I. 2017/16), reg. 1(2), Sch. para. 4(2)(a) (with Sch. para. 4(4))
+[^F255]: Sch. 4 para. 5(d)(e) inserted (2.2.2017) by The Housing and Planning Act 2016 (Compulsory Purchase) (Corresponding Amendments) Regulations 2017 (S.I. 2017/16), reg. 1(2), Sch. para. 4(2)(b) (with Sch. para. 4(4))
+[^F256]: Words in Sch. 4 para. 5 substituted (2.2.2017) by The Housing and Planning Act 2016 (Compulsory Purchase) (Corresponding Amendments) Regulations 2017 (S.I. 2017/16), reg. 1(2), Sch. para. 4(2)(c) (with Sch. para. 4(4))
+[^F257]: Sch. 4 para. 5A inserted (31.3.2024 for W. for specified purposes, 30.4.2024 for E.) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 190(3)(a), 255(7) (with s. 247); S.I. 2024/92, reg. 4 (with reg. 6(6)); S.I. 2024/389, reg. 2(l)
+[^M32]: 1980 c. 66.
+[^M33]: 1959 c. 25.
+[^M34]: 1936 c. 5. (1 Edw. 8 & Geo. 6.).
+[^M35]: 1946 c. 30.
+[^M36]: 1949 c. 32.
+[^F258]: Words in Sch. 4 para. 12 substituted (25.6.2013) by Growth and Infrastructure Act 2013 (c. 27), ss. 25(8), 35(1); S.I. 2013/1488, art. 3(e) (with art. 8(3))
+[^F259]: Words repealed by S.I. 1985/442, art. 5(*a*)
+[^F260]: Words repealed by S.I. 1985/442, art. 5(*b*)
+[^F261]: Words in Sch. 4 para. 16(a) inserted (25.6.2013) by Growth and Infrastructure Act 2013 (c. 27), ss. 25(9), 35(1); S.I. 2013/1488, art. 3(e) (with art. 8(3))
+[^M37]: 1945 c. 18.
+[^F262]: Sch. 5 para. 5 substituted (2.2.2017) by The Housing and Planning Act 2016 (Compulsory Purchase) (Corresponding Amendments) Regulations 2017 (S.I. 2017/16), reg. 1(2), Sch. para. 4(3) (with Sch. para. 4(4))
+[^F263]: Sch. 5 para. 5A inserted (31.3.2024 for W. for specified purposes, 30.4.2024 for E.) by Levelling-up and Regeneration Act 2023 (c. 55), ss. 190(3)(b), 255(7) (with s. 247); S.I. 2024/92, reg. 4 (with reg. 6(6)); S.I. 2024/389, reg. 2(l)
+[^M38]: 1965 c. 56.
+[^F264]: Word in Sch. 6 para. 1(2)(e) omitted (3.2.2017) by virtue of Housing and Planning Act 2016 (c. 22), s. 216(3), Sch. 17 para. 8(a); S.I. 2017/75, reg. 3(g) (with reg. 5)
+[^F265]: Sch. 6 para. 1(2)(g) inserted (3.2.2017) by Housing and Planning Act 2016 (c. 22), s. 216(3), Sch. 17 para. 8(b); S.I. 2017/75, reg. 3(g) (with reg. 5)
+[^M39]: 1965 c. 56.
+[^F266]: Words in Sch. 6 para. 4(1) inserted (3.2.2017) by Housing and Planning Act 2016 (c. 22), ss. 189(2)(a)(i), 216(3); S.I. 2017/75, reg. 3(e) (with reg. 5)
+[^F267]: Words in Sch. 6 para. 4(1) omitted (3.2.2017) by virtue of Housing and Planning Act 2016 (c. 22), ss. 189(2)(a)(ii), 216(3); S.I. 2017/75, reg. 3(e) (with reg. 5)
+[^M40]: 1965 c. 56.
+[^F268]: Sch. 6 para. 4(2A)-(2D) inserted (3.2.2017) by Housing and Planning Act 2016 (c. 22), ss. 189(2)(b), 216(3); S.I. 2017/75, reg. 3(e) (with reg. 5)
+[^F269]: Sch. 6 paras. 4A, 4B inserted (3.2.2017) by Housing and Planning Act 2016 (c. 22), ss. 189(3), 216(3); S.I. 2017/75, reg. 3(e) (with reg. 5)
+[^M41]: 1946 c. 49.
+[^M42]: 1961 c. 33.
+[^F270]: Words in Sch. 6 para. 6 substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 143 (with Sch. 5)
+[^F271]: Words in Sch. 7 para. 1(3) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 144(a) (with Sch. 5)
+[^M43]: 1961 c. 33.
+[^F272]: Words in Sch. 7 para. 3(1) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 144(a) (with Sch. 5)
+[^F273]: Words in Sch. 7 para. 3(2) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 144(a) (with Sch. 5)
+[^F274]: Word in Sch. 7 para. 3(2) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 144(b)(i) (with Sch. 5)
+[^F275]: Words in Sch. 7 para. 3(2) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 144(b)(ii) (with Sch. 5)
+[^F276]: Words in Sch. 7 para. 3(2) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 144(b)(iii) (with Sch. 5)
+[^F277]: Sch. 9 repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 30, Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F278]: Words in Sch. 10 heading repealed (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 31(2), Sch. 16; S.I. 2008/3068, art. 2(1)(v)(2)5, Sch. (with arts. 6-13)
+[^F279]: Words in Sch. 10 para. 1 substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 31(3)(a); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F280]: Words in Sch. 10 para. 1(2)(c) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 31(3)(b); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F281]: Words in Sch. 10 para. 2 substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 31(4)(a); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F282]: Words in Sch. 10 para. 2 substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 31(4)(b); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F283]: Words in Sch. 10 para. 3(1) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 31(5)(a); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F284]: Words substituted by Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123: 1, 2), s. 4, Sch. 2 para. 51(4)
+[^F285]: Words in Sch. 10 para. 3(3)(a) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 31(5)(b); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F286]: Sch. 10 para. 3(3)(*b*) repealed by Water Act 1989 (c. 15, SIF 130), s. 190(3), Sch. 27 Pt. I (with ss. 58(7), 101(1), 141(6), 160(1)(2)(4), 163, 189(4)–(10), 190, 193(1), Sch. 26 paras. 3(1)(2), 17, 40(4), 41(1), 57(6), 58)
+[^F287]: Words in Sch. 10 para. 3(3)(c) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 31(5)(c)(i); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F288]: Words in Sch. 10 para. 3(3)(c) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 31(5)(c)(ii); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F289]: Sch. 10 para. 3(3)(*d*) repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt. I
+[^M44]: 1978 c. 30.
+[^F290]: Sch. 10 para. 4 repealed (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 31(6), Sch. 16; S.I. 2008/3068, art. 2(1)(v)(2)5, Sch. (with arts. 6-13)
+[^F291]: Sch. 10 para. 5(1) repealed (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 31(7)(a), Sch. 16; S.I. 2008/3068, art. 2(1)(v)(2)5, Sch. (with arts. 6-13)
+[^F292]: Sch. 10 para. 5(2)(3) substituted for Sch. 10 para. 5(2) (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 31(7)(b); S.I. 2008/3068, art. 2(1)(v)(2) (with arts. 6-13)
+[^F293]: Words in Sch. 11 para. 3 cross-heading repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 32(2), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^F294]: Sch. 11 para. 3 repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 32(3), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^M45]: 1965 c. 59.
+[^M46]: 1946 c. 68.
+[^F295]: Sch. 11 para. 5 repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 32(3), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^M47]: 1959 c. 62.
+[^M48]: 1980 c. 51.
+[^M49]: 1961 c. 33.
+[^M50]: 1966 c. 44.
+[^M51]: 1968 c. 13.
+[^M52]: 1965 c. 59.
+[^F296]: Sch. 11 paras. 9, 10 repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt. I
+[^M53]: 1973 c. 26.
+[^F297]: Sch. 11 para. 12 and cross-heading repealed (1.4.2009) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 5 para. 32(4), Sch. 16; S.I. 2009/803, arts. 3(1), 10
+[^M54]: 1980 c. 65.
+[^F298]: Sch. 12 para. 1 repealed (24.11.2005) by Licensing Act 2003 (c. 17), s. 201(2), Sch. 7 (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2) (with art. 4)
+[^F299]: Sch. 12 para. 6 repealed by Civil Aviation Act 1982 (c. 16, SIF 9), Sch. 16
+[^F300]: Sch. 12 paras. 7, 8 repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt. I
+[^F301]: Sch. 12 para. 11 repealed by Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123: 1, 2), s. 3, Sch. 1 Pt. I
+[^F302]: Sch. 12 para. 12 repealed (E.W.) by Water Act 1983 (c. 23, SIF 130), Sch. 5 Pt. I
+[^F303]: Sch. 12 paras. 13, 14 repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt. I
+[^F304]: Sch. 12 para. 16 repealed by Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1), s. 844(4), Sch. 31
+[^F305]: Sch. 12 para. 19 repealed by Airports Act 1986 (c. 31, SIF 9), s. 83(5), Sch. 6 Pt. I
+[^F306]: Sch. 12 para. 20 repealed (1.10.1998) by 1998 c. 38, s. 152, Sch. 18 Pt. IV (with ss. 137(1), 139(2), 141(1), 143(2)); S.I. 1998/2244, art. 4
+[^F307]: Sch. 12 para. 21 repealed (1.10.1998) by 1998 c. 38, s. 152, Sch. 18 Pt. IV (with ss. 137(1), 139(2), 141(1), 143(2)); S.I. 1998/2244, art. 4
+[^F308]: Sch. 12 para. 22 repealed (1.10.1998) by 1998 c. 38, s. 152, Sch. 18 Pt. IV (with ss. 137(1), 139(2), 141(1), 143(2)); S.I. 1998/2244, art. 4
+[^F309]: Sch. 12 paras. 25, 27(*a*)(*b*)(*d*) repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt. I
+[^F310]: Sch. 12 para. 26 repealed (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), s. 8(2), Sch. 4 (with Sch. 2 Pt. 1 Sch. 3 Pt. 1)
+[^F311]: Sch. 12 paras. 25, 27(*a*)(*b*)(*d*) repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 3, Sch. 1 Pt. I
+[^F312]: Sch. 12 para. 29(a)(i) repealed (24.11.2005) by Licensing Act 2003 (c. 17), s. 201(2), Sch. 7 (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2) (with art. 4)

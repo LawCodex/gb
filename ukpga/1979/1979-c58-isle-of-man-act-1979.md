@@ -1,0 +1,437 @@
+---
+title: "Isle of Man Act 1979"
+identifier: "ukpga/1979/58"
+citation: "1979 c.58"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1979-12-20
+last_amended: 2026-03-18
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1979/58"
+source_modified: 2026-04-22
+retrieved: 2026-10-11
+---
+
+# Isle of Man Act 1979
+
+**1979 c.58**
+
+An Act to make such amendments of the law relating to customs and excise, value added tax, car tax and the importation and exportation of goods as are required for giving effect to an Agreement between the government of the United Kingdom and the government of the Isle of Man signed on 15th October 1979; to make other amendments as respects the Isle of Man in the law relating to those matters; to provide for the transfer of functions vested in the Lieutenant Governor of the Isle of Man or, as respects that Island, in the Commissioners of Customs and Excise; and for purposes connected with those matters.
+
+[20th December 1979]
+
+## 1 Common duties.
+
+(1) Subject to subsection (2) below, in this Act “common duties” means—
+
+(a) customs duties chargeable on goods imported into the United Kingdom or the Isle of Man;
+
+(b) excise duties chargeable on goods [^F1]. . .imported into or produced in the United Kingdom or the Isle of Man;
+
+(c) pool betting duty chargeable under the law of the United Kingdom or the Isle of Man;
+
+[[^F2](ca) lottery duty chargeable under the law of the United Kingdom or the Isle of Man;]
+
+(d) value added tax chargeable under the law of the United Kingdom or the Isle of Man except tax chargeable in accordance with [[^F3]23 of the Value Added Tax Act 1994] (gaming machines);
+
+(e) [^F4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F5](f) soft drinks industry levy chargeable under the law of the United Kingdom or the Isle of Man.]
+
+[[^F6](g) plastic packaging tax chargeable under the law of the United Kingdom or the Isle of Man.]
+
+(2) The Treasury may by order amend subsection (1) above by adding or deleting any duty or tax which is under the care and management of the Commissioners of Customs and Excise (in this Act referred to as “the Commissioners”) or any corresponding duty or tax chargeable under the law of the Isle of Man; and any such order may apply to a duty or tax generally or in such cases or subject to such restrictions as may be specified in the order.
+
+(3) The power to make orders under subsection (2) above shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of the House of Commons.
+
+## 2 Isle of Man share of common duties.
+
+(1) Of the moneys standing to the credit of the General Account of the Commissioners an amount ascertained for each financial year in accordance with subsection (2) below shall be paid by the Commissioners, at such times and in such manner as they may determine, to the Treasurer of the Isle of Man.
+
+(2) There shall be calculated in such manner as the Treasury may direct—
+
+(a) the amount of common duties, whether collected in the United Kingdom or the Isle of Man, which is attributable to goods consumed or used in the Island, to services supplied in the Island or (as respects pool betting duty) to bets placed by persons in the Island;
+
+(b) the cost incurred by the Commissioners in collecting the amount so attributable together with the amount of any drawback or repayment referable to that amount;
+
+and the amount arrived at by deducting from the amount calculated under paragraph (a) above the amount calculated under paragraph (b) above shall be known as the net Isle of Man share of common duties; and the amount mentioned in subsection (1) above shall be the excess of the net Isle of Man share of common duties over the common duties collected in the Island.
+
+(3) For the purposes of this section the amount of common duties collected in the Isle of Man and the United Kingdom, or in the Isle of Man, shall be calculated by reference to the amount so collected in respect of such duties after giving effect to any addition or deduction provided for under section 1 of the [^M1]Excise Duties (Surcharges or Rebates) Act 1979 or any Isle of Man equivalent.
+
+(4) The Commissioners shall for each financial year prepare, in such form and manner as the Treasury may direct, an account showing the payments made by them under this section and shall send it, not later than the end of November in the following financial year, to the Comptroller and Auditor General, who shall examine and certify the account.
+
+(5) The Comptroller and Auditor General shall send every account examined and certified by him under this section and his report thereon to the Treasury and a copy of every such account and report to the Treasurer of the Isle of Man; and the Treasury shall lay copies of the account and report before Parliament.
+
+## 3 Recovery of common duties chargeable in Isle of Man.
+
+(1) Any liability to pay an amount on account of a common duty chargeable under the law of the Isle of Man shall, to the extent to which it has not been discharged or enforced there, be enforceable in the United Kingdom as if it were a liability to pay an amount on account of the corresponding common duty chargeable under the law of the United Kingdom.
+
+(2) Any amount recoverable by the Commissioners from any person under subsection (1) above may be set off against any amount recoverable by him from the Commissioners on account of a common duty chargeable under the law of the United Kingdom.
+
+## 4 Enforcement of Isle of Man judgments for common duties.
+
+(1) Subject to subsection (2) below, the provisions of sections 2 to 5 of the [^M2]Foreign Judgments (Reciprocal Enforcement) Act 1933 shall have effect in relation to any judgment or order given or made by the High Court of Justice of the Isle of Man under which an amount is payable on account of—
+
+(a) a common duty chargeable under the law of the Island; or
+
+(b) a fine or penalty imposed in connection with such a duty,
+
+as if the judgment or order were a judgment to which Part I of that Act applied.
+
+(2) Subsection (1) above does not apply to a judgment or order given or made on appeal from a lower court but, except when given or made in criminal proceedings, applies notwithstanding that it is subject to appeal or that an appeal against it is pending.
+
+(3) In their application by virtue of subsection (1) above the provisions there mentioned shall have effect—
+
+(a) with the omission of so much of section 2(1) as imposes a time-limit for applications for registration;
+
+(b) with the omission of section 4(1)(a)(v) and (vi); and
+
+(c) as if the Commissioners were the judgment creditor and any criminal proceedings in which the judgment or order was given or made were an action.
+
+(4) The reference in subsection (1) above to sections 2 to 5 of the said Act of 1933 includes a reference to so much of sections 11 to 13 of that Act as is relevant to those sections and the definition of “appeal” in section 11 shall apply for the purposes of subsection (2) above.
+
+(5) The reference in subsection (1) above to the High Court of Justice of the Isle of Man includes a reference to the Court of General Gaol Delivery.
+
+## 5 Offences relating to common duties etc.
+
+(1) Any summons or other process requiring a person in the Isle of Man to appear before a court [^F7]...—
+
+(a) to answer a charge that he has committed an offence relating to a common duty chargeable under the law of the United Kingdom or to the importation or exportation of anything into or from the United Kingdom; or
+
+(b) to give evidence or to produce any document or thing in proceedings for any such offence,
+
+may [[^F8], if the court is in England and Wales, be served in accordance with Criminal Procedure Rules or, if the court is in Scotland or Northern Ireland,] be served by being sent to him by registered post or the recorded delivery service.
+
+(2) In relation to proceedings for any such offence as is mentioned in subsection (1) above—
+
+(a) section 77 of the [^M3]Magistrates’ Courts Act 1952 (summons to witness and warrant for his arrest) shall have effect as if the reference in subsection (1) of that section to a person in England and Wales included a reference to a person in the Isle of Man;
+
+(b) in Scotland a warrant for the citation of accused persons and witnesses shall include a warrant to cite accused persons and witnesses in the Isle of Man.
+
+(3) In relation to proceedings for any such offence as is mentioned in subsection (1) above—
+
+(a) sections 2 and 9 of the [^M4]Criminal Justice Act 1967 (admission of written statements) shall apply also to written statements made in the Isle of Man but with the omission of subsections (2)(b) and (3A) of section 2 and subsections (2)(b) and (3A) of section 9;
+
+(b) section 1 of the [^M5]Criminal Justice (Miscellaneous Provisions) Act (Northern Ireland) 1968 and section 3 of the [^M6]Criminal Procedure (Committal for Trial) Act (Northern Ireland) 1968 (which contain corresponding provisions) shall apply also to written statements made in the Isle of Man but with the omission of subsection (2)(b) of section 1 and subsection (2)(c) of section 3.
+
+(4) Subject to subsection (5) below, a warrant issued in the Isle of Man for the arrest of—
+
+(a) a person charged with an offence relating to a common duty chargeable under the law of the Isle of Man or to the importation or exportation of anything into or from the Island; or
+
+(b) a person required to give evidence or to produce any document or thing in proceedings for any such offence,
+
+may be executed in England and Wales by any constable acting within his police area, in Scotland by any officer of law as defined in [[^F9]section 307(1) of the Criminal Procedure (Scotland) Act 1995] and in Northern Ireland by any member of the Royal Ulster Constabulary or the Royal Ulster Constabulary Reserve.
+
+(5) A warrant, other than one for the arrest of a person charged with an offence punishable with at least two years’ imprisonment, shall not be executed under subsection (4) above unless it has been endorsed for execution under that subsection by a justice of the peace in England, Wales, Scotland or Northern Ireland, as the case may be; and any warrant which purports to have been issued as mentioned in that subsection may be so endorsed without further proof.
+
+(6) A warrant for the arrest of a person charged with an offence may be executed by a constable under subsection (4) above notwithstanding that it is not in his possession at the time; but the warrant shall, on demand of that person, be shown to him as soon as practicable.
+
+(7) Subsections (1) and (4) above are without prejudice to any other enactment enabling any process to be served or executed otherwise than as provided in those subsections.
+
+(8) References in this section to a warrant for the arrest of any person include references to any process for that purpose available under the law of the Isle of Man; and references to an offence relating to a common duty or to importation or exportation include references to any offence which relates to any of those matters whether or not it is an offence under a provision dealing specifically with that matter.
+
+## 6 Value added tax.
+
+(1) For the purpose of giving effect to any Agreement between the government of the United Kingdom and the government of the Isle of Man whereby both countries are to be treated as a single area for the purposes of value added tax charged under the Value Added Tax Act [[^F10]1994] and value added tax charged under the corresponding Act of Tynwald, Her Majesty may by Order in Council make provision for securing that tax is charged under the Act of [[^F10]1994] as if all or any of the references in it to the United Kingdom included both the United Kingdom and the Isle of Man but so that tax is not charged under both Acts in respect of the same transaction.
+
+(2) An Order in Council under this section may make provision—
+
+(a) for determining, or enabling the Commissioners to determine, under which Act a person is to be registered and for transferring a person registered under one Act to the register kept under the other;
+
+(b) for treating a person who is a taxable person for the purposes of the Act of Tynwald as a taxable person for all or any of the purposes of [[^F11]the Act of [[^F10]1994]];
+
+(c) for extending any reference in [[^F11]the Act of [[^F10]1994]] to tax under that Act so as to include tax under the Act of Tynwald;
+
+(d) for treating any requirement imposed by or under either Act as a requirement imposed by or under the other;
+
+(e) for treating any permission, direction, notice, determination or other thing given, made or done under the Act of Tynwald by the Isle of Man authority corresponding to the Commissioners as given, made or done by the Commissioners under [[^F11]the Act of [[^F10]1994]];
+
+(f) for enabling the Commissioners to determine for the purposes of [[^F11]section [[^F12]43]] of [[^F11]the Act of [[^F10]1994]] (groups of companies) which member of a group is to be the representative member in cases where supplies are made both in the United Kingdom and the Isle of Man;
+
+(g) for modifying or excluding, as respects goods removed from the Isle of Man to the United Kingdom or from the United Kingdom to the Isle of Man, any provision relating to importation or exportation contained in [[^F11]the Act of [[^F10]1994]] or in the customs and excise Acts as applied by that Act;
+
+(h) for any supplementary, incidental or transitional matter.
+
+(3) An Order in Council under this section may make such modifications of any provision contained in or having effect under any Act of Parliament relating to value added tax as appears to Her Majesty to be necessary or expedient for the purposes of the Order.
+
+(4) While an Order in Council under this section is in force and without prejudice to the powers conferred by the foregoing provisions—
+
+(a) [[^F13]section [[^F14]30(10)]] of [[^F13]The Act of [[^F10]1994]] (forfeiture of zero-rated goods) shall have effect as if the reference to goods zero-rated under the regulations there mentioned included a reference to goods zero-rated under any corresponding regulations made under the Act of Tynwald;
+
+(b) [[^F13]paragraph 10(3) of [[^F15]Schedule 11]to] of [[^F13]The Act of [[^F10]1994]] (search of premises where offence is suspected) shall have effect as if the references to an offence in connection with the tax included references to an offence in connection with the tax charged under the Act of Tynwald;
+
+(c) [[^F13]section [[^F16]72(8)]] of [[^F13]The Act of [[^F10]1994]] (course of conduct involving offences) shall have effect as if the reference to offences under the provisions there mentioned included a reference to offences under the corresponding provisions of the Act of Tynwald.
+
+(5) Provision may be made by or under an Act of Tynwald for purposes corresponding to those of this section and of any Order in Council made under it.
+
+## 7 Car tax.
+
+[^F17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8 Removal of goods from Isle of Man to United Kingdom.
+
+(1) Except as provided in subsection (2) below, goods removed to the United Kingdom from the Isle of Man shall be deemed for the purposes of the customs and excise Acts not to be imported into the United Kingdom.
+
+(2) Subsection (1) above does not apply to—
+
+[[^F18](za) goods removed to Northern Ireland from the Isle of Man;]
+
+(a) goods imported into or produced in the Isle of Man which are of a class or description chargeable with customs or excise duty under the law of the United Kingdom and which have not borne a corresponding duty under the law of the Isle of Man;
+
+(b) goods which were imported into the Isle of Man in contravention of any prohibition or restriction and which are of a class or description the importation of which into the United Kingdom is for the time being subject to a corresponding prohibition or restriction; [^F19]...[[^F20]or]
+
+[[^F21](c) any explosives the importation of which into the United Kingdom is prohibited by regulation 29 of the Explosives Regulations 2014.]
+
+[[^F22](3) The goods referred to in subsection (2)(a) above do not include goods which have been wholly or partly relieved from duty under, or which are not subject to duty by virtue of, any Isle of Man equivalent to—
+
+(a) provision made under section 19 of the Taxation (Cross-border Trade) Act 2018 relating to any relief conferred on persons entering the United Kingdom or under section 13 of the Customs and Excise Duties (General Reliefs) Act 1979, or
+
+(b) the temporary admission procedure under Part 1 of the Taxation (Cross-border Trade) Act 2018.
+
+(3A) Where there are conditions which apply in connection with the goods being relieved from duty or not being subject to duty, the customs and excise Acts shall apply to the goods as if they were imported into the United Kingdom when they were imported into the Isle of Man and as if corresponding conditions apply to the goods under, or by virtue of, those Acts.]
+
+(4) For the purposes of subsection (2)(a) above goods of any class or description shall be treated as having borne a corresponding duty under the law of the Isle of Man if they have borne duty under that law at a rate not less than that at which duty was then chargeable under the law of the United Kingdom in respect of goods of that class or description; and where goods have borne duty under the law of the Isle of Man at a lower rate, the duty charged on their importation into the United Kingdom shall be reduced by an amount equal to the duty borne under that law.
+
+## 9 Removal of goods from United Kingdom to Isle of Man.
+
+(1) Except as provided in [^F23]... [[^F24]section 21(2) of the Forgery and Couterfeiting Act 1981], goods removed to the Isle of Man from the United Kingdom shall be deemed for the purposes of the customs and excise Acts not to be exported from the United Kingdom.
+
+[[^F25](1A) Subsection (1) does not apply to goods removed from Northern Ireland to the Isle of Man.]
+
+[^F26]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F26]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Where goods imported into or produced in the United Kingdom have not borne customs or excise duty and would be chargeable with customs or excise duty if imported into the Isle of Man, the goods shall not be removed from the United Kingdom to the Isle of Man until—
+
+(a) they have been cleared for that purpose by the proper officer; and
+
+(b) security has been given to the satisfaction of the Commissioners for the due delivery of the goods at some port, airport or place of security in the Isle of Man approved for customs and excise purposes under the law of the Island;
+
+but paragraph (b) above shall not apply if the goods are reported on arrival in the United Kingdom for removal to the Isle of Man in the same ship or aircraft and in continuance of the same voyage or flight.
+
+(5) The goods referred to in subsection (4) above do not include passengers’ baggage or goods that have been relieved or exempted from duty under any of the provisions of sections 7 to 11 or 13 of the [^M7]Customs and Excise Duties (General Reliefs) Act 1979 [[^F27]or section 19 of the Taxation (Cross-border Trade) Act 2018].
+
+(6) Any goods removed from the United Kingdom contrary to subsection (4) above shall be liable to forfeiture and any person concerned in the removal of the goods shall be liable on summary conviction to a penalty of [[^F28]level 3 on the standard scale].
+
+## 10 Exchange of information.
+
+No obligation as to secrecy or other restriction on the disclosure of information imposed by statute or otherwise shall prevent the Commissioners or any officer of the Commissioners from disclosing information to the Isle of Man customs and excise service for the purpose of facilitating the proper administration of common duties and the enforcement of prohibitions or restrictions on importation or exportation into or from the Isle of Man or the United Kingdom.
+
+## 11 Transfer of functions to Isle of Man authorities.
+
+(1) Her Majesty may by Order in Council make such modifications in any provision contained in or having effect under any Act of Parliament extending to the Isle of Man as appear to Her Majesty to be appropriate for the purpose of transferring to any authority or person constituted by or having functions under the law of the Island—
+
+(a) any functions under that provision of the Lieutenant Governor of the Isle of Man (whether referred to by that title or otherwise) or of a deputy governor of the Island;
+
+(b) any functions under that provision, so far as exercisable in relation to the Island, of the Commissioners or an officer of the Commissioners.
+
+(2) Any statutory instrument made by virtue of this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## 12 Proof of Acts of Tynwald etc.
+
+(1) Without prejudice to the [^M8]Evidence (Colonial Statutes) Act 1907, any Act of Tynwald or other instrument forming part of the law of the Isle of Man may, in any proceedings in the United Kingdom relating to a common duty or to importation or exportation into or from the United Kingdom or the Isle of Man, be proved by producing a copy of the Act or instrument authenticated by a certificate purporting to be signed by or on behalf of the Attorney General for the Island.
+
+(2) Any provision contained in or having effect under an Act of Tynwald which—
+
+(a) prescribes the mode or burden of proof with respect to any matter in proceedings relating to a common duty chargeable under the law of the Isle of Man; and
+
+(b) corresponds to a provision of United Kingdom law for similar purposes,
+
+shall apply to any proceedings in the United Kingdom relating to that duty.
+
+(3) For the purposes of any proceedings in the United Kingdom relating to a common duty an order may be made under the [^M9]Bankers’ Books Evidence Act 1879 in respect of books and persons in the Isle of Man.
+
+## [^X1]13 Amendments of customs and excise Acts etc.
+
+The enactments mentioned in Schedule 1 to this Act shall have effect with the amendments there specified, being amendments which—
+
+(a) extend certain references to the United Kingdom in the customs and excise Acts so as to include the Isle of Man ; or
+
+(b) are otherwise consequential on the provisions of this Act.
+
+## 14 Short title, interpretation, repeals, commencement and extent.
+
+(1) This Act may be cited as the Isle of Man Act 1979.
+
+(2) In this Act—
+
+- “the Commissioners” means the Commissioners of Customs and Excise;
+- “common duties” has the meaning given in section 1 above and “common duty” shall be construed accordingly;
+- “customs duty” incudes any levy or other charge which is treated as a customs duty by section 6 of the [^M10]European Communities Act 1972.
+
+(3) Any other expression used in this Act which is also used in the [^M11]Customs and Excise Management Act 1979 has the same meaning as in that Act.
+
+(4) Without prejudice to section 2(3) above,—
+
+(a) any addition to an excise duty by virtue of section 1 of the [^M12]Excise Duties (Surcharges or Rebates) Act 1979 or any Isle of Man equivalent; and
+
+(b) any sum recoverable as a debt due to the Crown under [[^F29]paragraph 5(3) of Schedule 11 to the Value Added Tax Act 1994] (sums shown in invoices as value added tax) or any Isle of Man equivalent,
+
+shall be treated for the purposes of this Act as an amount of excise duty or value added tax chargeable under the law of the United Kingdom or, as the case may be, the Isle of Man.
+
+[^X2]5 The enactments mentioned in Schedule 2 to this Act (which include spent provisions) are hereby repealed to the extent specified in the third column of that Schedule.
+
+(6) Subject to subsection (7) below, this Act shall come into force on 1st April 1980.
+
+(7) Sections 6, 7, 10 and 11 above shall come into force on the passing of this Act but no Order in Council shall be made under section 6, 7 or 11, and no provision shall by virtue of section 6(5) or 7(5) be made by or under an Act of Tynwald, so as to come into force before 1st April 1980.
+
+(8) Except for sections 6, 7, 11 and this section, this Act does not extend to the Isle of Man as part of the law of the Island.
+
+## [^X3] SCHEDULE 1
+
+### Amendment of Customs and Excise Acts etc.
+
+#### The Finance Act 1972
+
+**[^F30]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Customs and Excise Management Act 1979
+
+**2** In section 1(1) of the [^M13]Customs and Excise Management Act 1979, at the end of the definition of “Community transit goods” there shall be inserted the words “ and for the purposes of paragraph (a)(i) above the Isle of Man shall be treated as if it were part of the United Kingdom ”
+
+**3** In section 17(3) of that Act for the words from “subject, however” onwards there shall be substituted the words “ subject, however, to section 2 of the Isle of Man Act 1979 (payments of Isle of Man share of common duties). ”
+
+**4** In section 21 of that Act after subsection (7) there shall be inserted —
+
+> (8) References in this section to a place or area outside the United Kingdom do not include references to a place or area in the Isle of Man and in subsection (3)(b) above the reference to a place in the United Kingdom includes a reference to a place in the Isle of Man.
+
+**5** In section 34(1) of that Act after the words “outside the United Kingdom” there shall be inserted the words “ and the Isle of Man ”.
+
+**6** In section 35 of that Act after subsection (8) there shall be inserted —
+
+> (9) References in this section to a place, area or destination outside the United Kingdom do not include references to a place, area or destination in the Isle of Man and in subsection (3)(b)(i) above the reference to a destination in the United Kingdom includes a reference to a destination in the Isle of Man.
+
+**7** In section 36(1) of that Act after the words “the United Kingdom” there shall be inserted the words “ and the Isle of Man ”.
+
+**8** In section 43(5) of that Act for the words “after exportation therefrom” there shall be substituted the words “ after exportation from the United Kingdom or the Isle of Man ”.
+
+**[^F31]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12** In section 63 of that Act after subsection (6) there shall be inserted —
+
+> (7) References in this section to a destination or place outside the United Kingdom do not include references to a destination or place in the Isle of Man and in subsections (2) and (4) above references to a place in the United Kingdom and to discharge in the United Kingdom include references to a place in the Isle of Man and to discharge in the Island.
+
+**13** In section 64(1) of that Act after the words “the United Kingdom” there shall be inserted the words “ and the Isle of Man ”.
+
+**14** In section 66(1)(a) and (d) of that Act after the words “the United Kingdom” there shall be inserted the words “ and the Isle of Man ”.
+
+**15** In section 69(1) and (3) of that Act after the words “between places in the United Kingdom” there shall be inserted the words “ or between a place in the United Kingdom and a place in the Isle of Man ”.
+
+**16** In section 70 of that Act after subsection (4) there shall be inserted —
+
+> (5) References in this section to a place or destination outside the United Kingdom do not include references to a place or destination in the Isle of Man and in subsection (2) above the reference to some other place in the United Kingdom includes a reference to a place in the Isle of Man.
+
+**17** In section 74 of that Act after subsection (4) there shall be inserted —
+
+> (5) References in this section to a place outside the United Kingdom do not include references to a place in the Isle of Man.
+
+**18** In section 78 of that Act after subsection (1) there shall be inserted —
+
+> (1A) Subsection (1) above does not apply to a person entering the United Kingdom from the Isle of Man as respects anything obtained by him in the Island unless it is chargeable there with duty or value added tax and he has obtained it without payment of the duty or tax.
+
+**19** In section 83(1)(a) of that Act after the words “between ports in the United Kingdom” there shall be inserted the words “ or between a port in the United Kingdom and a port in the Isle of Man ”.
+
+**20** In section 90 of that Act after the word “port” there shall be inserted the words “ in the United Kingdom or the Isle of Man ”, after the words “the United Kingdom” there shall be inserted the words “ or the Isle of Man ” and after the word “found” there shall be inserted the words “ in the United Kingdom ”.
+
+**21** In section 92(1)(c) and (d) of that Act after the words “the United Kingdom” there shall be inserted the words “ or the Isle of Man ”.
+
+**22** In section 159(1)(c) of that Act after the words “the United Kingdom” there shall be inserted the words “ or the Isle of Man ”.
+
+**23** In paragraph 2(c) of Schedule 3 to that Act after the words “the United Kingdom” there shall be inserted the words “ or the Isle of Man ”.
+
+**24** In paragraph 4(1) of Schedule 3 to that Act after the words “outside the United Kingdom” there shall be inserted the words “ and the Isle of Man ”.
+
+#### The Customs and Excise Duties (General Reliefs) Act 1979
+
+**25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F32]
+
+**26** In section 8(b) of that Act after the words “the United Kingdom” there shall be inserted the words “ or the Isle of Man ”.
+
+**27** In section 10(1) of that Act after the words “manufactured or produced in the United Kingdom” there shall be inserted the words “ or the Isle of Man ”.
+
+**28** In section 11(1) of that Act after the words “manufactured or produced outside the United Kingdom” there shall be inserted the words “ and the Isle of Man ”.
+
+#### The Alcoholic Liquor Duties Act 1979
+
+**[^F33]29** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F34]30** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**31** In section 57 of that Act after the words “whether imported into or produced in the United Kingdom” there shall be inserted the words “ or removed to the United Kingdom from the Isle of Man ”.
+
+**32** In section 58(1) of that Act after the words “whether imported into or produced in the United Kingdom” there shall be inserted the words “ or removed to the United Kingdom from the Isle of Man ”.
+
+**33** In section 59(1) of that Act after the words “imported made-wine” there shall be inserted the words “ nor wine or made-wine removed to the United Kingdom from the Isle of Man ”.
+
+#### The Matches and Mechanical Lighters Duties Act 1979
+
+**[^F35]34** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F36]35** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^X4]SCHEDULE 2 — Repeals
+
+*Section 14(5).*
+
+![image](http://www.legislation.gov.uk/ukpga/1979/58/images/ukpga_19790058_en_001)
+
+---
+
+[^F1]: Words in s. 1(1)(b) omitted (1.1.1995) by virtue of 1994/3041, art. 2(2)
+[^F2]: S. 1(1)(ca) inserted (1.12.1999) by S.I. 1999/2925, art. 2(2)
+[^F3]: Words in s. 1(1)(d) substituted (1.9.1994) by 1994 c. 23, s. 100(1), Sch. 13 para. 23, Sch. 14 para. 7(1)
+[^F4]: S. 1(1)(e) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), s. 1(1), {Sch. 1 Pt. 9 Group 5}
+[^F5]: S. 1(1)(f) inserted (1.4.2019) by Finance Act 2019 (c. 1), s. 68(1)(6)
+[^F6]: S. 1(1)(g) inserted (10.12.2021 for specified purposes, 1.4.2022 in so far as not already in force and with effect in accordance with s. 85(1)(b) of the amending Act) by Finance Act 2021 (c. 26), s. 85(1)(a), Sch. 15 para. 10; S.I. 2021/1409, regs. 3, 4
+[^M1]: 1979 c. 8.
+[^M2]: 1933 c. 13.
+[^F7]: Words in s. 5(1) omitted (28.6.2022) by virtue of Judicial Review and Courts Act 2022 (c. 35), s. 51(3), Sch. 1 para. 5(a)
+[^F8]: Words in s. 5(1) inserted (28.6.2022) by Judicial Review and Courts Act 2022 (c. 35), s. 51(3), Sch. 1 para. 5(b)
+[^M3]: 1952 c. 55.
+[^M4]: 1967 c. 80.
+[^M5]: 1968 c. 28 (N.I.)
+[^M6]: 1968 c. 32 (N.I.)
+[^F9]: Words in s. 5(4) substituted (1.4.1996) by 1995 c. 40, ss. 5, 7(2), Sch. 4 para. 25
+[^F10]: Words in s. 6 substituted (1.9.1994) by 1994 c. 23, ss. 100(1), 101(1), Sch. 14 para. 7(2)(a)
+[^F11]: Words substituted by Value Added Tax Act 1983 (c. 55, SIF 40:2), Sch. 9 para. 3(*b*)(ii), Sch. 10 para. 18
+[^F12]: Word in s. 6(1)(f) substituted (1.9.1994) by 1994 c. 23, ss. 100(1), 101(1), Sch. 14 para. 7(2)(b)
+[^F13]: Words substituted by Value Added Tax Act 1983 (c. 55, SIF 40:2), Sch. 9 para. 3(*b*)(iii), Sch. 10 para. 18
+[^F14]: Words in s. 6(4)(a) substituted (1.9.1994) by 1994 c. 23, ss. 100(1), 101(1), Sch. 14 para. 7(2)(c)
+[^F15]: Words in s. 6(4)(b) substituted (1.9.1994) by 1994 c. 23, ss. 100(1), 101(1), Sch. 14 para. 7(2)(d)
+[^F16]: Words in s. 6(4)(c) substituted (1.9.1994) by 1994 c. 23, ss. 100(1), 101(1), Sch. 14 para. 7(2)(e)
+[^F17]: S. 7 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), s. 1(1), {Sch. 1 Pt. 9 Group 5}
+[^F18]: S. 8(2)(za) inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by Taxation (Post-transition Period) Act 2020 (c. 26), s. 11(1)(e), Sch. 1 para. 12(2) (with Sch. 2 para. 7(7)-(9)); S.I. 2020/1642, reg. 9
+[^F19]: Word in s. 8(2)(b) repealed (26.4.2005 with application as mentioned in reg. 3 of the repealing S.I.) by The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082), regs. 1(1), 28(1)(2), Sch. 5 para. 17(2), Sch. 6 Pt. 1
+[^F20]: Word in s. 8(2)(b) inserted (1.10.2014) by The Explosives Regulations 2014 (S.I. 2014/1638), reg. 1(1), Sch. 13 para. 5(a)
+[^F21]: S. 8(2)(c) substituted for s. 8(2)(c)(d) (1.10.2014) by The Explosives Regulations 2014 (S.I. 2014/1638), reg. 1(1), Sch. 13 para. 5(b)
+[^F22]: S. 8(3)(3A) substituted for s. 8(3) (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by Taxation (Cross-border Trade) Act 2018 (c. 22), s. 57(1)(a), Sch. 7 para. 140 (with savings and transitional provisions in S.I. 2020/1449, reg. 3 and 2020 c. 26, Sch. 2 para. 7(7)-(9)); S.I. 2020/1642, reg. 4(a)
+[^F23]: Words in s. 9(1) repealed (29.4.1996) by 1996 c. 8, s. 205, Sch. 14 Pt. III
+[^F24]: Words inserted by Forgery and Counterfeiting Act 1981 (c. 45, SIF 39:7), s. 21(3)
+[^F25]: S. 9(1A) inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by Taxation (Post-transition Period) Act 2020 (c. 26), s. 11(1)(e), Sch. 1 para. 12(3) (with Sch. 2 para. 7(7)-(9)); S.I. 2020/1642, reg. 9
+[^F26]: S. 9(2)(3) repealed (29.4.1996) by 1996 c. 8, s. 24(e), 205, Sch. 41 Pt. III
+[^M7]: 1979 c. 3.
+[^F27]: Words in s. 9(5) substituted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by Taxation (Cross-border Trade) Act 2018 (c. 22), s. 57(1)(a), Sch. 7 para. 141 (with savings and transitional provisions in S.I. 2020/1449, reg. 3 and 2020 c. 26, Sch. 2 para. 7(7)-(9)); S.I. 2020/1642, reg. 4(a)
+[^F28]: Words substituted: (E.W.) by virtue of Criminal Justice Act 1982 (c. 48, SIF 39:1), s. 46; (S.) by virtue of Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1), s. 289G; and (N.I.) by virtue of S.I. 1984/703 (N.I. 3), art. 6
+[^M8]: 1907 c. 16.
+[^M9]: 1879 c. 11.
+[^X1]: The text of ss. 13, 14(5), Sch. 1 paras 2-8, 12-24, 26-35, Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+[^M10]: 1972 c. 68.
+[^M11]: 1979 c. 2.
+[^M12]: 1979 c. 8.
+[^F29]: Words in s. 14(4)(b) substituted (1.9.1994) by 1994 c. 23, ss. 100(1), 101(1), Sch. 14 para. 7(3)
+[^X2]: The text of ss. 13, 14(5), Sch. 1 paras 2-8, 12-24, 26-35, Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+[^X3]: The text of ss. 13, 14(5), Sch. 1 paras 2-8, 12-24, 26-35, Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+[^F30]: Sch. 1 para. 1 repealed by Value Added Tax Act 1983 (c. 55, SIF 40:2), Sch. 11
+[^M13]: 1979 c.2.
+[^F31]: Sch. 1 paras. 9–11 repealed by Finance Act 1981 (c. 35), Sch. 19 Pt. II
+[^F32]: Sch. 1 para. 25 repealed by Finance Act 1984 (c. 43, SIF 40:1), Sch. 23 Pt. IV
+[^F33]: Sch. 1 para. 29 repealed (17.7.2012) by Finance Act 2012 (c. 14), s. 187(2)(a)
+[^F34]: Sch. 1 para. 30 repealed (1.9.1993) by 1993 c. 34, ss. 4(4)(7), 213, Sch. 23 Pt. I
+[^F35]: Sch. 1 para. 34 repealed (1.1.1993) by Finance (No. 2) Act 1992 (c. 48), s. 82, Sch. 18 Pt.II.
+[^F36]: Sch. para. 35 repealed (1.1.1993) by Finance (No. 2) Act 1992 (c. 48), s. 82, Sch. 18 Pt.II.
+[^X4]: The text of ss. 13, 14(5), Sch. 1 paras 2-8, 12-24, 26-35, Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.

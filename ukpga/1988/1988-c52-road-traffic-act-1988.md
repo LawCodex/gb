@@ -1,0 +1,10428 @@
+---
+title: "Road Traffic Act 1988"
+identifier: "ukpga/1988/52"
+citation: "1988 c. 52"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1988-11-15
+last_amended: 2026-10-05
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1988/52"
+source_modified: 2026-10-09
+retrieved: 2026-10-11
+---
+
+# Road Traffic Act 1988
+
+**1988 c. 52**
+
+An Act to consolidate certain enactments relating to road traffic with amendments to give effect to recommendations of the Law Commission and the Scottish Law Commission.
+
+[15th November 1988]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — Principal Road Safety Provisions
+
+### Driving offences
+
+#### [[^F1]1 Causing death by dangerous driving.
+
+A person who causes the death of another person by driving a mechanically propelled vehicle dangerously on a road or other public place is guilty of an offence.]
+
+#### 1A [[^F2]Causing serious injury by dangerous driving
+
+(1) A person who causes serious injury to another person by driving a mechanically propelled vehicle dangerously on a road or other public place is guilty of an offence.
+
+(2) In this section “serious injury” means—
+
+(a) in England and Wales, physical harm which amounts to grievous bodily harm for the purposes of the Offences against the Person Act 1861, and
+
+(b) in Scotland, severe physical injury.]
+
+#### [[^F3]2 Dangerous driving.
+
+A person who drives a mechanically propelled vehicle dangerously on a road or other public place is guilty of an offence.]
+
+#### [[^F4]2A Meaning of dangerous driving.
+
+(1) For the purposes of sections 1 [[^F5], 1A] and 2 above a person is to be regarded as driving dangerously if (and, subject to subsection (2) below, only if)—
+
+(a) the way he drives falls far below what would be expected of a competent and careful driver, and
+
+(b) it would be obvious to a competent and careful driver that driving in that way would be dangerous.
+
+[[^F6]But this subsection does not apply where subsection (1B) applies.]
+
+[[^F7](1A) Subsection (1B) applies where a designated person—
+
+(a) is driving for police purposes (subject to subsections (1E) and (1F)), and
+
+(b) has undertaken prescribed training.
+
+(1B) For the purposes of sections 1, 1A and 2 above, the designated person is to be regarded as driving dangerously if (and, subject to subsection (2) below, only if)—
+
+(a) the way the person drives falls far below what would be expected of a competent and careful constable who has undertaken the same prescribed training, and
+
+(b) it would be obvious to such a competent and careful constable that driving in that way would be dangerous.
+
+(1C) In subsections (1A) and (1B) “designated person” means—
+
+(a) a constable,
+
+(b) a member of staff appointed by the chief officer of police of a police force in England and Wales,
+
+(c) a member of staff appointed by a local policing body and employed to assist a police force in England and Wales,
+
+(d) a member of staff appointed by the Scottish Police Authority under section 26(1) of the Police and Fire Reform (Scotland) Act 2012 (asp 8),
+
+(e) an employee of the British Transport Police Authority appointed under section 27 of the Railways and Transport Safety Act 2003,
+
+(f) a person employed or engaged by—
+
+(i) a chief officer of police,
+
+(ii) the British Transport Police Authority,
+
+(iii) the Civil Nuclear Police Authority,
+
+(iv) the chief constable for the Ministry of Defence Police, or
+
+(v) the Scottish Police Authority,
+
+to train a person within any of paragraphs (a) to (e) to drive for police purposes,
+
+(g) a person employed or engaged by a person within paragraph (f)(i) to (v) to train another person to carry out training of the kind mentioned in that paragraph,
+
+(h) a National Crime Agency officer, or
+
+(i) a person engaged by the National Crime Agency—
+
+(i) to train a National Crime Agency officer to drive for law enforcement purposes, or
+
+(ii) to train another person to carry out training of the kind mentioned in sub-paragraph (i).
+
+(1D) In subsection (1C)(a) “constable” does not include a port constable within the meaning of section 7 of the Marine Navigation Act 2013 or a person appointed to act as a constable under provision made by virtue of section 16 of the Harbours Act 1964.
+
+(1E) In the case of a National Crime Agency officer, the reference in subsection (1A)(a) to driving for police purposes is to be read as a reference to driving for law enforcement purposes.
+
+(1F) In the case of a person within paragraph (i) of subsection (1C), the reference in subsection (1A)(a) to driving for police purposes is to be read as a reference to driving for the purpose of the training mentioned in that paragraph.]
+
+(2) A person is also to be regarded as driving dangerously for the purposes of sections 1 [[^F5], 1A] and 2 above if it would be obvious to a competent and careful driver that driving the vehicle in its current state would be dangerous.
+
+(3) In subsections (1) [[^F8], (1B)] and (2) above “dangerous” refers to danger either of injury to any person or of serious damage to property; and in determining for the purposes of those subsections what would be expected of, or obvious to, a competent and careful driver [[^F9]or constable (as the case may be)] in a particular case, regard shall be had not only to the circumstances of which he could be expected to be aware but also to any circumstances shown to have been within the knowledge of the accused.
+
+(4) In determining for the purposes of subsection (2) above the state of a vehicle, regard may be had to anything attached to or carried on or in it and to the manner in which it is attached or carried.]
+
+#### 2B [[^F10]Causing death by careless, or inconsiderate, driving
+
+A person who causes the death of another person by driving a mechanically propelled vehicle on a road or other public place without due care and attention, or without reasonable consideration for other persons using the road or place, is guilty of an offence.]
+
+#### 2C [[^F11]Causing serious injury by careless, or inconsiderate, driving
+
+(1) A person who causes serious injury to another person by driving a mechanically propelled vehicle on a road or other public place without due care and attention, or without reasonable consideration for other persons using the road or place, is guilty of an offence.
+
+(2) In this section “serious injury” means—
+
+(a) in England and Wales, physical harm which amounts to grievous bodily harm for the purposes of the Offences against the Person Act 1861, and
+
+(b) in Scotland, severe physical injury.]
+
+#### [[^F12]3 Careless, and inconsiderate, driving.
+
+If a person drives a mechanically propelled vehicle on a road or other public place without due care and attention, or without reasonable consideration for other persons using the road or place, he is guilty of an offence.]
+
+#### 3ZA [[^F13]Meaning of careless, or inconsiderate, driving
+
+(1) This section has effect for the purposes of sections 2B [[^F14], 2C] and 3 above and section 3A below.
+
+(2) A person is to be regarded as driving without due care and attention if (and only if) the way he drives falls below what would be expected of a competent and careful driver. [[^F15]But this subsection does not apply where subsection (2B) applies.]
+
+[[^F16](2A) Subsection (2B) applies where a designated person—
+
+(a) is driving for police purposes (subject to subsections (2E) and (2F)), and
+
+(b) has undertaken prescribed training.
+
+(2B) The designated person is to be regarded as driving without due care and attention if (and only if) the way the person drives falls below what would be expected of a competent and careful constable who has undertaken the same prescribed training.
+
+(2C) In subsections (2A) and (2B) “designated person” means—
+
+(a) a constable,
+
+(b) a member of staff appointed by the chief officer of police of a police force in England and Wales,
+
+(c) a member of staff appointed by a local policing body and employed to assist a police force in England and Wales,
+
+(d) a member of staff appointed by the Scottish Police Authority under section 26(1) of the Police and Fire Reform (Scotland) Act 2012 (asp 8),
+
+(e) an employee of the British Transport Police Authority appointed under section 27 of the Railways and Transport Safety Act 2003,
+
+(f) a person employed or engaged by—
+
+(i) a chief officer of police,
+
+(ii) the British Transport Police Authority,
+
+(iii) the Civil Nuclear Police Authority,
+
+(iv) the chief constable for the Ministry of Defence Police, or
+
+(v) the Scottish Police Authority,
+
+to train a person within any of paragraphs (a) to (e) to drive for police purposes,
+
+(g) a person employed or engaged by a person within paragraph (f)(i) to (v) to train another person to carry out training of the kind mentioned in that paragraph,
+
+(h) a National Crime Agency officer, or
+
+(i) a person engaged by the National Crime Agency—
+
+(i) to train a National Crime Agency officer to drive for law enforcement purposes, or
+
+(ii) to train another person to carry out training of the kind mentioned in sub-paragraph (i).
+
+(2D) In subsection (2C)(a) “constable” does not include a port constable within the meaning of section 7 of the Marine Navigation Act 2013 or a person appointed to act as a constable under provision made by virtue of section 16 of the Harbours Act 1964.
+
+(2E) In the case of a National Crime Agency officer, the reference in subsection (2A)(a) to driving for police purposes is to be read as a reference to driving for law enforcement purposes.
+
+(2F) In the case of a person within paragraph (i) of subsection (2C), the reference in subsection (2A)(a) to driving for police purposes is to be read as a reference to driving for the purpose of the training mentioned in that paragraph.]
+
+(3) In determining for the purposes of subsection (2) [[^F17]or (2B)] above what would be expected of a careful and competent driver [[^F18]or constable (as the case may be)] in a particular case, regard shall be had not only to the circumstances of which he could be expected to be aware but also to any circumstances shown to have been within the knowledge of the accused.
+
+(4) A person is to be regarded as driving without reasonable consideration for other persons only if those persons are inconvenienced by his driving.]
+
+#### 3ZB [[^F19]Causing death by driving: unlicensed[^F20]... or uninsured drivers
+
+A person is guilty of an offence under this section if he causes the death of another person by driving a motor vehicle on a road and, at the time when he is driving, the circumstances are such that he is committing an offence under—
+
+(a) section 87(1) of this Act (driving otherwise than in accordance with a licence),
+
+(b) [^F21]... or
+
+(c) section 143 of this Act (using motor vehicle while uninsured [^F22]...).]
+
+#### 3ZC [[^F23]Causing death by driving: disqualified drivers
+
+A person is guilty of an offence under this section if he or she—
+
+(a) causes the death of another person by driving a motor vehicle on a road, and
+
+(b) at that time, is committing an offence under section 103(1)(b) of this Act (driving while disqualified).
+
+#### 3ZD Causing serious injury by driving: disqualified drivers
+
+(1) A person is guilty of an offence under this section if he or she—
+
+(a) causes serious injury to another person by driving a motor vehicle on a road, and
+
+(b) at that time, is committing an offence under section 103(1)(b) of this Act (driving while disqualified).
+
+(2) In this section “serious injury” means—
+
+(a) in England and Wales, physical harm which amounts to grievous bodily harm for the purposes of the Offences against the Person Act 1861, and
+
+(b) in Scotland, severe physical injury.]
+
+#### [[^F24]3A Causing death by careless driving when under influence of drink or drugs.
+
+(1) If a person causes the death of another person by driving a mechanically propelled vehicle on a road or other public place without due care and attention, or without reasonable consideration for other persons using the road or place, and—
+
+(a) he is, at the time when he is driving, unfit to drive through drink or drugs, or
+
+(b) he has consumed so much alcohol that the proportion of it in his breath, blood or urine at that time exceeds the prescribed limit, or
+
+[[^F25](ba) he has in his body a specified controlled drug and the proportion of it in his blood or urine at that time exceeds the specified limit for that drug, or]
+
+(c) he is, within 18 hours after that time, required to provide a specimen in pursuance of section 7 of this Act, but without reasonable excuse fails to provide it,[[^F26] or
+
+(d) he is required by a constable to give his permission for a laboratory test of a specimen of blood taken from him under section 7A of this Act, but without reasonable excuse fails to do so,]
+
+he is guilty of an offence.
+
+(2) For the purposes of this section a person shall be taken to be unfit to drive at any time when his ability to drive properly is impaired.
+
+(3) Subsection (1)(b)[[^F27], (ba)][[^F28], (c) and (d)] above shall not apply in relation to a person driving a mechanically propelled vehicle other than a motor vehicle.]
+
+### Motor vehicles: drink and drugs
+
+#### 4 Driving, or being in charge, when under influence of drink or drugs.
+
+(1) A person who, when driving or attempting to drive a [[^F29]mechanically propelled vehicle] on a road or other public place, is unfit to drive through drink or drugs is guilty of an offence.
+
+(2) Without prejudice to subsection (1) above, a person who, when in charge of a [[^F29]mechanically propelled vehicle] which is on a road or other public place, is unfit to drive through drink or drugs is guilty of an offence.
+
+(3) For the purposes of subsection (2) above, a person shall be deemed not to have been in charge of a [[^F29]mechanically propelled vehicle] if he proves that at the material time the circumstances were such that there was no likelihood of his driving it so long as he remained unfit to drive through drink or drugs.
+
+(4) The court may, in determining whether there was such a likelihood as is mentioned in subsection (3) above, disregard any injury to him and any damage to the vehicle.
+
+(5) For the purposes of this section, a person shall be taken to be unfit to drive if his ability to drive properly is for the time being impaired.
+
+(6) [^F30]A constable may arrest a person without warrant if he has reasonable cause to suspect that that person is or has been committing an offence under this section.
+
+(7) [^F30]For the purpose of arresting a person under the power conferred by subsection (6) above, a constable may enter (if need be by force) any place where that person is or where the constable, with reasonable cause, suspects him to be.
+
+(8) [^F30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 5 Driving or being in charge of a motor vehicle with alcohol concentration above prescribed limit.
+
+(1) If a person—
+
+(a) drives or attempts to drive a motor vehicle on a road or other public place, or
+
+(b) is in charge of a motor vehicle on a road or other public place,
+
+after consuming so much alcohol that the proportion of it in his breath, blood or urine exceeds the prescribed limit he is guilty of an offence.
+
+(2) It is a defence for a person charged with an offence under subsection (1)(b) above to prove that at the time he is alleged to have committed the offence the circumstances were such that there was no likelihood of his driving the vehicle whilst the proportion of alcohol in his breath, blood or urine remained likely to exceed the prescribed limit.
+
+(3) The court may, in determining whether there was such a likelihood as is mentioned in subsection (2) above, disregard any injury to him and any damage to the vehicle.
+
+#### 5A [[^F31]Driving or being in charge of a motor vehicle with concentration of specified controlled drug above specified limit
+
+(1) This section applies where a person (“D”)—
+
+(a) drives or attempts to drive a motor vehicle on a road or other public place, or
+
+(b) is in charge of a motor vehicle on a road or other public place,
+
+and there is in D's body a specified controlled drug.
+
+(2) D is guilty of an offence if the proportion of the drug in D's blood or urine exceeds the specified limit for that drug.
+
+(3) It is a defence for a person (“D”) charged with an offence under this section to show that—
+
+(a) the specified controlled drug had been prescribed or supplied to D for medical or dental purposes,
+
+(b) D took the drug in accordance with any directions given by the person by whom the drug was prescribed or supplied, and with any accompanying instructions (so far as consistent with any such directions) given by the manufacturer or distributor of the drug, and
+
+(c) D's possession of the drug immediately before taking it was not unlawful under section 5(1) of the Misuse of Drugs Act 1971 (restriction of possession of controlled drugs) because of an exemption in regulations made under section 7 of that Act (authorisation of activities otherwise unlawful under foregoing provisions).
+
+(4) The defence in subsection (3) is not available if D's actions were—
+
+(a) contrary to any advice, given by the person by whom the drug was prescribed or supplied, about the amount of time that should elapse between taking the drug and driving a motor vehicle, or
+
+(b) contrary to any accompanying instructions about that matter (so far as consistent with any such advice) given by the manufacturer or distributor of the drug.
+
+(5) If evidence is adduced that is sufficient to raise an issue with respect to the defence in subsection (3), the court must assume that the defence is satisfied unless the prosecution proves beyond reasonable doubt that it is not.
+
+(6) It is a defence for a person (“D”) charged with an offence by virtue of subsection (1)(b) to prove that at the time D is alleged to have committed the offence the circumstances were such that there was no likelihood of D driving the vehicle whilst the proportion of the specified controlled drug in D's blood or urine remained likely to exceed the specified limit for that drug.
+
+(7) The court may, in determining whether there was such a likelihood, disregard any injury to D and any damage to the vehicle.
+
+(8) In this section, and in sections 3A, 6C(1), 6D and 10, “specified” means specified in regulations made—
+
+(a) by the Secretary of State, in relation to driving or attempting to drive, or being in charge of a vehicle, in England and Wales;
+
+(b) by the Scottish Ministers, in relation to driving or attempting to drive, or being in charge of a vehicle, in Scotland.
+
+(9) A limit specified under subsection (2) may be zero.]
+
+#### [[^F32]6 Power to administer preliminary tests
+
+(1) If any of subsections (2) to (5) applies a constable may require a person to co-operate with any one or more preliminary tests administered to the person by that constable or another constable.
+
+(2) This subsection applies if a constable reasonably suspects that the person—
+
+(a) is driving, is attempting to drive or is in charge of a motor vehicle on a road or other public place, and
+
+(b) has alcohol or a drug in his body or is under the influence of a drug.
+
+(3) This subsection applies if a constable reasonably suspects that the person—
+
+(a) has been driving, attempting to drive or in charge of a motor vehicle on a road or other public place while having alcohol or a drug in his body or while unfit to drive because of a drug, and
+
+(b) still has alcohol or a drug in his body or is still under the influence of a drug.
+
+(4) This subsection applies if a constable reasonably suspects that the person—
+
+(a) is or has been driving, attempting to drive or in charge of a motor vehicle on a road or other public place, and
+
+(b) has committed a traffic offence while the vehicle was in motion.
+
+(5) This subsection applies if—
+
+(a) an accident occurs owing to the presence of a motor vehicle on a road or other public place, and
+
+(b) a constable reasonably believes that the person was driving, attempting to drive or in charge of the vehicle at the time of the accident.
+
+(6) A person commits an offence if without reasonable excuse he fails to co-operate with a preliminary test in pursuance of a requirement imposed under this section.
+
+(7) A constable may administer a preliminary test by virtue of any of subsections (2) to (4) only if he is in uniform.
+
+(8) In this section—
+
+(a) a reference to a preliminary test is to any of the tests described in sections 6A to 6C, and
+
+(b) “traffic offence” means an offence under—
+
+(i) a provision of Part II of the Public Passenger Vehicles Act 1981 (c. 14),
+
+(ii) a provision of the Road Traffic Regulation Act 1984 (c. 27),
+
+(iii) a provision of the Road Traffic Offenders Act 1988 (c. 53) other than a provision of Part III, or
+
+(iv) a provision of this Act other than a provision of Part V.]
+
+#### 6A [[^F33]Preliminary breath test
+
+(1) A preliminary breath test is a procedure whereby the person to whom the test is administered provides a specimen of breath to be used for the purpose of obtaining, by means of a device of a type approved by the Secretary of State, an indication whether the proportion of alcohol in the person’s breath or blood is likely to exceed the prescribed limit.
+
+(2) A preliminary breath test administered in reliance on section 6(2) to (4) may be administered only at or near the place where the requirement to co-operate with the test is imposed.
+
+(3) A preliminary breath test administered in reliance on section 6(5) may be administered—
+
+(a) at or near the place where the requirement to co-operate with the test is imposed, or
+
+(b) if the constable who imposes the requirement thinks it expedient, at a police station specified by him.
+
+#### 6B Preliminary impairment test
+
+(1) A preliminary impairment test is a procedure whereby the constable administering the test—
+
+(a) observes the person to whom the test is administered in his performance of tasks specified by the constable, and
+
+(b) makes such other observations of the person’s physical state as the constable thinks expedient.
+
+(2) The Secretary of State shall issue (and may from time to time revise) a code of practice about—
+
+(a) the kind of task that may be specified for the purpose of a preliminary impairment test,
+
+(b) the kind of observation of physical state that may be made in the course of a preliminary impairment test,
+
+(c) the manner in which a preliminary impairment test should be administered, and
+
+(d) the inferences that may be drawn from observations made in the course of a preliminary impairment test.
+
+(3) In issuing or revising the code of practice the Secretary of State shall aim to ensure that a preliminary impairment test is designed to indicate—
+
+(a) whether a person is unfit to drive, and
+
+(b) if he is, whether or not his unfitness is likely to be due to drink or drugs.
+
+(4) A preliminary impairment test may be administered—
+
+(a) at or near the place where the requirement to co-operate with the test is imposed, or
+
+(b) if the constable who imposes the requirement thinks it expedient, at a police station specified by him.
+
+(5) A constable administering a preliminary impairment test shall have regard to the code of practice under this section.
+
+(6) A constable may administer a preliminary impairment test only if he is approved for that purpose by the chief officer of the police force to which he belongs.
+
+(7) A code of practice under this section may include provision about—
+
+(a) the giving of approval under subsection (6), and
+
+(b) in particular, the kind of training that a constable should have undergone, or the kind of qualification that a constable should possess, before being approved under that subsection.
+
+#### 6C Preliminary drug test
+
+(1) A preliminary drug test is a procedure by which a specimen of sweat or saliva is—
+
+(a) obtained, and
+
+(b) used for the purpose of obtaining, by means of a device of a type approved by the Secretary of State, an indication whether the person to whom the test is administered has a drug [[^F34]in his body and if so—
+
+(i) whether it is a specified controlled drug;
+
+(ii) if it is, whether the proportion of it in the person's blood or urine is likely to exceed the specified limit for that drug.]
+
+(2) A preliminary drug test may be administered—
+
+(a) at or near the place where the requirement to co-operate with the test is imposed, or
+
+(b) if the constable who imposes the requirement thinks it expedient, at a police station specified by him.
+
+[[^F35](3) Up to three preliminary drug tests may be administered.]
+
+#### 6D Arrest
+
+(1) A constable may arrest a person without warrant if as a result of a preliminary breath test [[^F36]or preliminary drug test the constable reasonably suspects that—
+
+(a) the proportion of alcohol in the person's breath or blood exceeds the prescribed limit, or
+
+(b) the person has a specified controlled drug in his body and the proportion of it in the person's blood or urine exceeds the specified limit for that drug.]
+
+[[^F37](1A) The fact that specimens of breath have been provided under section 7 of this Act by the person concerned does not prevent subsection (1) above having effect if the constable who imposed on him the requirement to provide the specimens has reasonable cause to believe that the device used to analyse the specimens has not produced a reliable indication of the proportion of alcohol in the breath of the person.]
+
+(2) A constable may arrest a person without warrant if—
+
+(a) the person fails to co-operate with a preliminary test in pursuance of a requirement imposed under section 6, and
+
+(b) the constable reasonably suspects that the person has alcohol or a drug in his body or is under the influence of a drug.
+
+[[^F38](2A) A person arrested under this section may, instead of being taken to a police station, be detained at or near the place where the preliminary test was, or would have been, administered, with a view to imposing on him there a requirement under section 7 of this Act.]
+
+[[^F39](2A) Instead of, or before, arresting a person under this section, a constable may detain the person at or near the place where the preliminary test was, or would have been, administered with a view to imposing on the person there a requirement under section 7.]
+
+(3) A person may not be arrested under this section while at a hospital as a patient.
+
+#### 6E Power of entry
+
+(1) A constable may enter any place (using reasonable force if necessary) for the purpose of—
+
+(a) imposing a requirement by virtue of section 6(5) following an accident in a case where the constable reasonably suspects that the accident involved injury of any person, or
+
+(b) arresting a person under section 6D following an accident in a case where the constable reasonably suspects that the accident involved injury of any person.
+
+(2) This section—
+
+(a) does not extend to Scotland, and
+
+(b) is without prejudice to any rule of law or enactment about the right of a constable in Scotland to enter any place.]
+
+#### 7 Provision of specimens for analysis.
+
+(1) In the course of an investigation into whether a person has committed an offence under [[^F40]section 3A, 4] or 5 of this Act a constable may, subject to the following provisions of this section and section 9 of this Act, require him—
+
+(a) to provide two specimens of breath for analysis by means of a device of a type approved by the Secretary of State, or
+
+(b) to provide a specimen of blood or urine for a laboratory test.
+
+[[^F41](1A) In the course of an investigation into whether a person has committed an offence under section 5A of this Act a constable may, subject to subsections (3) to (7) of this section and section 9 of this Act, require the person to provide a specimen of blood or urine for a laboratory test.]
+
+(2) A constable may make a requirement under this section to provide specimens of breath only if—
+
+(a) the requirement is made at a police station or a hospital,
+
+(b) the requirement is imposed in circumstances where section 6(5) of this Act applies, or
+
+(c) the constable is in uniform.
+
+[^F42]2A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F42]2B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2C) Where a constable has imposed a requirement on the person concerned to co-operate with a relevant breath test at any place, he is entitled to remain at or near that place in order to impose on him there a requirement under this section.
+
+[[^F43](2CA) For the purposes of subsection (2C) “a relevant breath test” is a procedure involving the provision by the person concerned of a specimen of breath to be used for the purpose of obtaining an indication whether the proportion of alcohol in his breath or blood is likely to exceed the prescribed limit.]
+
+(2D) If a requirement under subsection (1)(a) above has been made at a place other than at a police station, such a requirement may subsequently be made at a police station if (but only if)—
+
+(a) a device or a reliable device of the type mentioned in subsection (1)(a) above was not available at that place or it was for any other reason not practicable to use such a device there, or
+
+(b) the constable who made the previous requirement has reasonable cause to believe that the device used there has not produced a reliable indication of the proportion of alcohol in the breath of the person concerned.
+
+(3) A requirement under this section to provide a specimen of blood or urine can only be made at a police station or at a hospital; and it cannot be made at a police station unless—
+
+(a) the constable making the requirement has reasonable cause to believe that for medical reasons a specimen of breath cannot be provided or should not be required, or
+
+(b) [[^F44]specimens of breath have not been provided elsewhere and] at the time the requirement is made a device or a reliable device of the type mentioned in subsection (1)(a) above is not available at the police station or it is then for any other reason not practicable to use such a device there, or
+
+[^F45][bb a device of the type mentioned in subsection (1)(a) above has been used [[^F46](at the police station or elsewhere)] but the constable who required the specimens of breath has reasonable cause to believe that the device has not produced a reliable indication of the proportion of alcohol in the breath of the person concerned, or]
+
+[[^F47](bc) as a result of the administration of a preliminary drug test, the constable making the requirement has reasonable cause to believe that the person required to provide a specimen of blood or urine has a drug in his body, or]
+
+(c) the suspected offence is one under section 3A[[^F48], 4 or 5A] of this Act and the constable making the requirement has been advised by a medical practitioner [[^F49]or a registered health care professional] that the condition of the person required to provide the specimen might be due to some drug;
+
+but may then be made notwithstanding that the person required to provide the specimen has already provided or been required to provide two specimens of breath.
+
+(4) If the provision of a specimen other than a specimen of breath may be required in pursuance of this section the question whether it is to be a specimen of blood or a specimen of urine [[^F50]and, in the case of a specimen of blood, the question who is to be asked to take it shall be decided (subject to subsection (4A)) by the constable making the requirement].
+
+[[^F51](4A) Where a constable decides for the purposes of subsection (4) to require the provision of a specimen of blood, there shall be no requirement to provide such a specimen if—
+
+(a) the medical practitioner who is asked to take the specimen is of the opinion that, for medical reasons, it cannot or should not be taken; or
+
+(b) the registered health care professional who is asked to take it is of that opinion and there is no contrary opinion from a medical practitioner;
+
+and, where by virtue of this subsection there can be no requirement to provide a specimen of blood, the constable may require a specimen of urine instead.]
+
+(5) A specimen of urine shall be provided within one hour of the requirement for its provision being made and after the provision of a previous specimen of urine.
+
+[[^F52](5A) A constable may arrest a person without warrant if—
+
+(a) the person fails to provide a specimen of breath when required to do so in pursuance of this section, and
+
+(b) the constable reasonably suspects that the person has alcohol in his body.]
+
+(6) A person who, without reasonable excuse, fails to provide a specimen when required to do so in pursuance of this section is guilty of an offence.
+
+(7) A constable must, on requiring any person to provide a specimen in pursuance of this section, warn him that a failure to provide it may render him liable to prosecution.
+
+#### [[^F53]7A Specimens of blood taken from persons incapable of consenting
+
+(1) A constable may make a request to [[^F54]a medical or health care practitioner] for him to take a specimen of blood from a person (“the person concerned”) irrespective of whether that person consents if—
+
+(a) that person is a person from whom the constable would (in the absence of any incapacity of that person and of any objection under section 9) be entitled under section 7 to require the provision of a specimen of blood for a laboratory test;
+
+(b) it appears to that constable that that person has been involved in an accident that constitutes or is comprised in the matter that is under investigation or the circumstances of that matter;
+
+(c) it appears to that constable that that person is or may be incapable (whether or not he has purported to do so) of giving a valid consent to the taking of a specimen of blood; and
+
+(d) it appears to that constable that that person’s incapacity is attributable to medical reasons.
+
+(2) A request under this section—
+
+(a) shall not be made to [[^F55]a medical or health care practitioner] who for the time being has any responsibility (apart from the request) for the clinical care of the person concerned; and
+
+(b) shall not be made to [[^F56]a practitioner other than a police medical or health care practitioner] unless—
+
+(i) it is not reasonably practicable for the request [[^F57]to be made to a police medical or health care practitioner]; or
+
+(ii) it is not reasonably practicable for such a [^F58]... practitioner (assuming him to be willing to do so) to take the specimen.
+
+(3) It shall be lawful for [[^F59]a medical or health care practitioner] to whom a request is made under this section, if he thinks fit—
+
+(a) to take a specimen of blood from the person concerned irrespective of whether that person consents; and
+
+(b) to provide the sample to a constable.
+
+(4) If a specimen is taken in pursuance of a request under this section, the specimen shall not be subjected to a laboratory test unless the person from whom it was taken—
+
+(a) has been informed that it was taken; and
+
+(b) has been required by a constable to give his permission for a laboratory test of the specimen; and
+
+(c) has given his permission.
+
+(5) A constable must, on requiring a person to give his permission for the purposes of this section for a laboratory test of a specimen, warn that person that a failure to give the permission may render him liable to prosecution.
+
+(6) A person who, without reasonable excuse, fails to give his permission for a laboratory test of a specimen of blood taken from him under this section is guilty of an offence.
+
+[[^F60](7) In this section—
+
+- “medical or health care practitioner” means a medical practitioner or a registered health care professional;
+- “police medical or health care practitioner” means a medical practitioner, or a registered health care professional, who is engaged under any agreement to provide medical or health care services for purposes connected with the activities of a police force.]]
+
+#### 8 [[^F61]Breath specimen showing higher alcohol level to be disregarded.]
+
+(1) [^F62]... of any two specimens of breath provided by any person in pursuance of section 7 of this Act that with the lower proportion of alcohol in the breath shall be used and the other shall be disregarded.
+
+[^F63]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F64]2A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F65]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F66]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 9 Protection for hospital patients.
+
+(1) While a person is at a hospital as a patient he shall not be required [[^F67]to co-operate with a preliminary test] or to provide a specimen [[^F68]under section 7 of this Act] unless the medical practitioner in immediate charge of his case has been notified of the proposal to make the requirement; and—
+
+(a) if the requirement is then made, [[^F69]it shall be for co-operation with a test administered, or for the provision of a specimen, at the hospital], but
+
+(b) if the medical practitioner objects on the ground specified in subsection (2) below, the requirement shall not be made.
+
+[[^F70](1A) While a person is at a hospital as a patient, no specimen of blood shall be taken from him under section 7A of this Act and he shall not be required to give his permission for a laboratory test of a specimen taken under that section unless the medical practitioner in immediate charge of his case—
+
+(a) has been notified of the proposal to take the specimen or to make the requirement; and
+
+(b) has not objected on the ground specified in subsection (2).
+
+[^F70]2 The ground on which the medical practitioner may object is—
+
+(a) in a case falling within subsection (1), that the requirement or the provision of the specimen or (if one is required) the warning required by section 7(7) of this Act would be prejudicial to the proper care and treatment of the patient; and
+
+(b) in a case falling within subsection (1A), that the taking of the specimen, the requirement or the warning required by section 7A(5) of this Act would be so prejudicial.]
+
+#### 10 Detention of persons affected by alcohol or a drug.
+
+(1) Subject to subsections (2) and (3) below, a person required [[^F71]under section 7 or 7A] to provide a specimen of breath, blood or urine may afterwards be detained at a police station [[^F72](or, if the specimen was provided otherwise than at a police station, arrested and taken to and detained at a police station) if a constable has reasonable grounds for believing] that, were that person then driving or attempting to drive a [[^F73]mechanically propelled vehicle] on a road, he would [[^F74]commit] an offence under section 4[[^F75], 5 or 5A] of this Act.
+
+(2) [[^F76]Subsection (1) above does not apply to the person if it ought reasonably to appear to the] constable that there is no likelihood of his driving or attempting to drive a [[^F73]mechanically propelled vehicle] [[^F77]whilst—
+
+(a) the person's ability to drive properly is impaired,
+
+(b) the proportion of alcohol in the person's breath, blood or urine exceeds the prescribed limit, or
+
+(c) the proportion of a specified controlled drug in the person's blood or urine exceeds the specified limit for that drug.]
+
+[[^F78](2A) A person who is at a hospital as a patient shall not be arrested and taken from there to a police station in pursuance of this section if it would be prejudicial to his proper care and treatment as a patient.]
+
+(3) A constable must consult a medical practitioner on any question arising under this section whether a person’s ability to drive properly is or might be impaired through drugs and must act on the medical practitioner’s advice.
+
+#### 11 Interpretation of sections 4 to 10.
+
+(1) The following provisions apply for the interpretation of sections [[^F79]3A] to 10 of this Act.
+
+(2) In those sections—
+
+- [^F80]. . .
+
+- [[^F81]“controlled drug” has the meaning given by section 2 of the Misuse of Drugs Act 1971,]
+
+- “drug” includes any intoxicant other than alcohol,
+
+- “fail” includes refuse,
+
+- “hospital” means an institution which provides medical or surgical treatment for in-patients or out-patients,
+
+- “the prescribed limit” means, as the case may require—
+
+  - (a) 35 microgrammes of alcohol in 100 millilitres of breath,
+  - (b) 80 milligrammes of alcohol in 100 millilitres of blood, or
+  - (c) 107 milligrammes of alcohol in 100 millilitres of urine,
+
+  or such other proportion as may be prescribed by regulations [^F82]....
+
+- [[^F83]“registered health care professional” means a person (other than a medical practitioner) who is—
+
+  - (a) a registered nurse; or
+  - (b) a registered member of a health care profession which is designated for the purposes of this paragraph by an order made by the Secretary of State.]
+
+- [[^F84]“specified”, in relation to a controlled drug, has the meaning given by section 5A(8)]
+
+[[^F85](2ZA) Regulations under subsection (2) may be made—
+
+(a) by the Secretary of State, in relation to driving or attempting to drive, or being in charge of a vehicle, in England and Wales;
+
+(b) by the Scottish Ministers, in relation to driving or attempting to drive, or being in charge of a vehicle, in Scotland.]
+
+[[^F86](2A) A health care profession is any profession mentioned in section 60(2) of the Health Act 1999 (c. 8) other than the profession of practising medicine and the profession of nursing.
+
+(2B) An order under subsection (2) shall be made by statutory instrument; and any such statutory instrument shall be subject to annulment in pursuance of a resolution of either House of Parliament.]
+
+(3) [[^F87]A person does not co-operate with a preliminary test or provide a specimen of breath for analysis unless his co-operation or the specimen]—
+
+(a) is sufficient to enable the test or the analysis to be carried out, and
+
+(b) is provided in such a way as to enable the objective of the test or analysis to be satisfactorily achieved.
+
+[[^F88](4) A person provides a specimen of blood if and only if—
+
+(a) he consents to the taking of such a specimen from him; and
+
+(b) the specimen is taken from him [^F89]... either by a medical practitioner or by a registered health care professional.]
+
+### [[^F90]Motor racing on public ways]
+
+#### 12 Motor racing on public ways.
+
+(1) A person who promotes or takes part in a race or trial of speed between motor vehicles on a public way is guilty of an offence.
+
+[[^F91](1A) Subsection (1) is subject to—
+
+(a) in relation to England and Wales, sections 12A to 12F (which make provision to allow the holding of races or trials of speed between motor vehicles on public ways in England and Wales);
+
+(b) in relation to Scotland, sections 12G to 12I (which make provision to allow the holding of races or trials of speed between motor vehicles on public ways in Scotland).]
+
+(2) In this section “public way” means, in England and Wales, a [[^F92]highway] and, in Scotland, a public road.
+
+#### 12A [[^F93]Motor race orders: England and Wales: overview
+
+(1) Sections 12A to 12F allow highway authorities to make orders relating to the holding of a race or trial of speed between motor vehicles on a highway in England and Wales (“motor race orders”).
+
+(2) A motor race order is made on the application of the person promoting the event, with the permission of a motor sport governing body (see sections 12B to 12D).
+
+(3) The effect of a motor race order is set out in section 12E.
+
+#### 12B Permission to apply for motor race order
+
+(1) A person who wishes to promote a race or trial of speed between motor vehicles on a highway in England and Wales may apply for a permit to a motor sport governing body authorised by regulations made by the appropriate national authority to issue permits in respect of a race or trial of speed of that kind.
+
+(2) Before issuing a permit, the motor sport governing body must consult—
+
+(a) the highway authority for each area in which the event is to take place or which is otherwise likely to be significantly affected by the event,
+
+(b) the local authority for each such area,
+
+(c) the police authority for each such area,
+
+(d) in the case of an event that is to take place in Greater London, the Greater London Authority,
+
+(e) each person who has given the motor sport governing body written notice within the previous 12 months that the person wishes to be consulted about applications under this section, and
+
+(f) such other persons as the motor sport governing body thinks appropriate.
+
+(3) The motor sport governing body must issue the permit if satisfied that—
+
+(a) the applicant intends to promote the proposed event,
+
+(b) the applicant has the necessary financial and other resources to make appropriate arrangements for the event,
+
+(c) the applicant has arranged or will arrange appropriate insurance cover in connection with the event, in accordance with guidance issued by the motor sport governing body, and
+
+(d) the application includes all necessary details of the safety and other arrangements proposed for the event.
+
+(4) A permit must specify—
+
+(a) any route to be followed in the course of the event;
+
+(b) arrangements for the approval by the motor sport governing body of drivers participating in the event;
+
+(c) arrangements for the approval by the motor sport governing body of vehicles to be used in the course of the event;
+
+(d) arrangements made or to be made for insurance in connection with the event.
+
+(5) A permit may set out conditions that the motor sport governing body thinks should be included in any motor race order made in relation to the event.
+
+(6) The appropriate national authority must by regulations list motor sport governing bodies that are authorised to issue permits for the purposes of this section.
+
+(7) The regulations may specify the kinds of races or trials of speed between motor vehicles on a highway in respect of which each listed governing body may issue permits.
+
+(8) The regulations may provide that a listed motor sport governing body ceases to be authorised to issue permits if the rules of the governing body—
+
+(a) include provision of a kind specified in the regulations;
+
+(b) do not include provision of a kind so specified.
+
+(9) In this section—
+
+- “the appropriate national authority” means—
+
+  - (a) in relation to England, the Secretary of State;
+  - (b) in relation to Wales, the Welsh Ministers;
+
+- “local authority” means —
+
+  - (a) a county or district council in England;
+  - (b) a parish council in England;
+  - (c) a London borough council;
+  - (d) the Common Council of the City of London in its capacity as a local authority;
+  - (e) the Council of the Isles of Scilly;
+  - (f) a county or county borough council in Wales.
+
+#### 12C Application for motor race order
+
+(1) A motor race order may only be made on an application under this section.
+
+(2) An application may be made only by a person who—
+
+(a) wishes to promote a race or trial of speed between motor vehicles on a highway in England and Wales, and
+
+(b) has a permit issued in accordance with section 12B in relation to the event.
+
+(3) The application must be made to the highway authority for the area in which the event is to take place (and, where the event is to take place in the area of more than one highway authority, separate applications must be made under this section to each authority).
+
+(4) The application must be made not less than 6 months before the event.
+
+(5) The application must be accompanied by—
+
+(a) the permit issued in accordance with section 12B;
+
+(b) details of any orders under section 16A of the Road Traffic Regulation Act 1984 (prohibition or restriction on roads in connection with certain events), and of any other orders, regulations or other legislative instruments, that will be needed in connection with the event;
+
+(c) a risk assessment in such form as the highway authority may specify;
+
+(d) such fee as the highway authority may specify.
+
+#### 12D Determination of applications for motor race orders
+
+(1) Before determining whether to make a motor race order, a highway authority must consider—
+
+(a) the likely impact of the event on the local community,
+
+(b) the potential local economic and other benefits (in respect of tourism or otherwise), and
+
+(c) any other local considerations that the authority thinks relevant.
+
+(2) The highway authority may make the motor race order if satisfied that—
+
+(a) adequate arrangements have been made to allow the views of the local community to be taken into account,
+
+(b) the person proposing to promote the event has shown that the event is commercially viable, and
+
+(c) effective arrangements have been made to involve local residents, the police and other emergency services in the planning and implementation of the event.
+
+(3) A motor race order must—
+
+(a) specify the event to which it relates, including the date or (in the case of an event that is to take place on more than one day) the dates on which it is to take place,
+
+(b) include a map of the area to be used for the event (showing, in particular, the roads which participants will use, and areas which will be available for occupation by spectators), and
+
+(c) include any other information specified by the appropriate national authority by regulations.
+
+(4) A motor race order may include conditions which must be satisfied before, during or after the event.
+
+(5) A motor race order may, in particular, include conditions designed to ensure that the arrangements mentioned in subsection (2)(c) continue throughout the planning and implementation of the event.
+
+(6) In this section, “the appropriate national authority” means—
+
+(a) in relation to England, the Secretary of State;
+
+(b) in relation to Wales, the Welsh Ministers.
+
+#### 12E Effect of motor race order
+
+(1) A motor race order made under section 12D has the effect described in this section.
+
+(2) Section 12(1) does not apply to the promoter of the event if that person—
+
+(a) promotes the event in accordance with any conditions imposed on the promoter by the motor race order, and
+
+(b) takes reasonable steps to ensure that any other conditions specified in the motor race order are met.
+
+(3) The provisions listed in the Table do not apply in relation to a participant or an official or (as the case may be) in relation to a vehicle used by a participant or an official provided that—
+
+(a) the participant has been approved by the motor sport governing body that issued a permit in respect of the event or (as the case may be) the official has been authorised by the promoter,
+
+(b) the participant or official complies with any conditions specified in the motor race order that apply to participants or (as the case may be) officials, and
+
+(c) the participant or official also complies with any conditions imposed on him or her by the promoter.
+
+|  |  |
+|---|---|
+| *Provision* | *Topic* |
+| **Road Traffic Regulation Act 1984** |  |
+| Section 18(3) | Contravention of order relating to one-way traffic on trunk roads |
+| Section 20(5) | Contravention of order relating to use on roads of vehicles of certain classes |
+| Section 81(1), an order under section 84(1), section 86(1), an order under section 88(1) and section 89(1) | Speed limits |
+| Regulations under section 99 | Removal of vehicles illegally parked etc |
+| Section 104(1) | Immobilisation of vehicles illegally parked |
+| **Road Traffic Act 1988** |  |
+| Section 1 | Causing death by dangerous driving |
+| Section 1A | Causing serious injury by dangerous driving |
+| Section 2 | Dangerous driving |
+| Section 2B | Causing death by careless, or inconsiderate, driving |
+| [[^F94]Section 2C | Causing serious injury by careless, or inconsiderate, driving ] |
+| Section 3 | Careless, and inconsiderate, driving |
+| Section 3ZB | Causing death by driving: unlicensed [^F95] ... or uninsured drivers |
+| [[^F96]Section 3ZC | Causing death by driving: disqualified drivers |
+| Section 3ZD | Causing serious injury by driving: disqualified drivers ] |
+| Section 12(1) | Motor racing on public ways |
+| Section 21(1) | Prohibition of driving or parking on cycle tracks |
+| Section 22 | Leaving vehicles in dangerous positions |
+| Section 22A | Causing danger to road-users |
+| Section 36(1) | Drivers to comply with traffic signs |
+| The Highway Code, as it has effect under section 38 |  |
+| Section 40A | Using vehicle in dangerous condition etc |
+| Regulations under section 41 | Regulation of construction, weight, equipment and use of vehicles |
+| Section 41A | Breach of requirement as to brakes, steering-gear or tyres |
+| Section 41C | Breach of requirement as to speed assessment equipment detection devices |
+| Section 42 | Breach of other construction and use requirements |
+| Section 47(1) | Obligatory test certificates |
+| Section 87(1) | Drivers of motor vehicles to have driving licences |
+| Section 103(1)(b) | Driving while disqualified |
+| Section 143(1) and (2) | Users of motor vehicles to be insured [^F97] ... |
+| Sections 164 and 165 | Powers of constables to require production of driving licence, obtain information etc |
+| Section 165A | Power to seize vehicles driven without licence or insurance |
+| Section 170 | Duty of driver to stop, report accident and give information or documents |
+| **Vehicle Excise and Registration Act 1994** |  |
+| Section 1(1)(b) | Circumstances in which vehicle excise duty is chargeable on unregistered mechanically propelled vehicles |
+| Section 29(1) | Offence of using or keeping an unlicensed vehicle |
+
+(4) The appropriate national authority may by regulations amend this section so as to—
+
+(a) add or omit an entry in the Table in subsection (3);
+
+(b) provide that subsection (3) applies in relation to a provision for the time being included in the Table only for purposes specified in the regulations;
+
+(c) provide that subsection (3) applies in relation to a provision for the time being included in the Table only if a condition specified in the regulations is included in the motor race order.
+
+(5) However, regulations under subsection (4) may not add any provision of sections 3A to 11 of this Act (motor vehicles: drink and drugs) to the Table in subsection (3).
+
+(6) The promoter of an event in respect of which a motor race order has been made is liable in damages if personal injury or damage to property is caused by anything done—
+
+(a) by or on behalf of the promoter in connection with the event, or
+
+(b) by or on behalf of a participant or an official,
+
+unless it is proved that the promoter took reasonable steps to prevent the injury or damage occurring.
+
+(7) For the purposes of the Law Reform (Contributory Negligence) Act 1945, the Fatal Accidents Act 1976 and the Limitation Act 1980 any injury or damage for which a person is liable under subsection (6) is to be treated as due to the fault of that person.
+
+(8) In this section—
+
+- “the appropriate national authority” means—
+
+  - (a) in relation to England, the Secretary of State;
+  - (b) in relation to Wales, the Welsh Ministers;
+
+- “official” means a person who facilitates the holding of a race or trial of speed.
+
+#### 12F Regulations by appropriate national authority: procedure
+
+(1) A power to make regulations conferred on the Secretary of State or the Welsh Ministers by section 12B(6), 12D(3)(c) or 12E(4) is exercisable by statutory instrument.
+
+(2) A statutory instrument containing regulations made by the Secretary of State under section 12E(4) (whether alone or with other provision) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(3) A statutory instrument containing regulations made by the Secretary of State under section 12B(6) or 12D(3)(c) (other than regulations to which subsection (2) applies) is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) A statutory instrument containing regulations made by the Welsh Ministers under section 12E(4) (whether alone or with other provision) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
+
+(5) A statutory instrument containing regulations made by the Welsh Ministers under section 12B(6) or 12D(3)(c) (other than regulations to which subsection (4) applies) is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+
+#### 12G Authorisation of races and trials of speed in Scotland
+
+(1) The Scottish Ministers may by regulations authorise, or make provision for authorising, the holding of races or trials of speed on public roads in Scotland.
+
+(2) Regulations under this section may in particular—
+
+(a) specify the persons by whom authorisations may be given;
+
+(b) limit the circumstances in which, and the places in respect of which, authorisations may be given;
+
+(c) provide for authorisations to be subject to conditions imposed by or under the regulations;
+
+(d) provide for authorisations to cease to have effect in circumstances specified in the regulations;
+
+(e) provide for the procedure to be followed, the particulars to be given, and the amount (or the persons who are to determine the amount) of any fees to be paid, in connection with applications for authorisations.
+
+(3) Regulations under this section may make different provision for different cases.
+
+#### 12H Races and trials of speed in Scotland: further provision
+
+(1) Section 12(1) does not apply to the promoter of an event that has been authorised by or under regulations under section 12G if that person—
+
+(a) promotes the event in accordance with any conditions imposed on the promoter by or under the regulations, and
+
+(b) takes reasonable steps to ensure that any other conditions imposed by or under the regulations are met.
+
+(2) Section 12(1) does not apply to a participant in an event that has been authorised by or under regulations under section 12G, provided that the participant complies with any conditions imposed on participants by or under the regulations.
+
+(3) Sections 1, 1A, 2, 2B [[^F98], 2C] and 3 do not apply to a participant in an event that has been authorised by or under regulations under section 12G or to any other person of a description specified in regulations made by the Scottish Ministers, provided that the participant or other person complies with any conditions imposed on participants or on persons of that description by or under regulations under section 12G.
+
+(4) The Scottish Ministers may by regulations make provision for specified provisions of legislation of a kind mentioned in subsection (5)—
+
+(a) not to apply in relation to participants in events authorised by or under regulations under section 12G or (as appropriate) in relation to vehicles used by such persons;
+
+(b) to apply in relation to such persons or vehicles subject to modifications specified in the regulations;
+
+(c) not to apply in relation to persons of a description specified in regulations under this subsection or (as appropriate) in relation to vehicles used by such persons;
+
+(d) to apply in relation to such persons or vehicles subject to modifications specified in the regulations.
+
+(5) The kinds of legislation are—
+
+(a) legislation restricting the speed of vehicles or otherwise regulating the use of vehicles on a public road;
+
+(b) legislation regulating the construction, maintenance or lighting of vehicles;
+
+(c) legislation requiring a policy of insurance [^F99]... to be in force in relation to the use of any vehicle;
+
+(d) legislation relating to the duty chargeable on, or the licensing and registration of, vehicles;
+
+(e) legislation requiring the driver of a vehicle to hold a licence to drive it;
+
+(f) legislation relating to the enforcement of any legislation mentioned in paragraphs (a) to (e).
+
+(6) However, regulations under subsection (4) may not disapply, or otherwise alter the application of, sections 3A to 11 of this Act (motor vehicles: drink and drugs).
+
+(7) The Scottish Ministers may by regulations amend section 16A of the Road Traffic Regulation Act 1984 so as to enable orders under that section that are made for the purposes of an event authorised by or under regulations under section 12G to suspend statutory provisions in addition to those specified in section 16A(11).
+
+(8) The promoter of an event that has been authorised by or under regulations under section 12G is liable in damages if personal injury or damage to property is caused by anything done—
+
+(a) by or on behalf of the promoter in connection with the event,
+
+(b) by or on behalf of a participant, or
+
+(c) by or on behalf of a person of a description specified in regulations made by the Scottish Ministers,
+
+unless it is proved that the promoter took reasonable steps to prevent the injury or damage occurring.
+
+(9) For the purposes of the Law Reform (Contributory Negligence) Act 1945, any injury or damage for which a person is liable under subsection (8) is to be treated as due to the fault of that person.
+
+(10) In this section, “legislation” means—
+
+(a) an Act or subordinate legislation (within the meaning of the Interpretation Act 1978);
+
+(b) an Act of the Scottish Parliament or an instrument made under an Act of the Scottish Parliament.
+
+#### 12I Regulations under section 12G or 12H: procedure
+
+(1) Before making regulations under section 12H(3), (4), (7) or (8), the Scottish Ministers must consult such persons as they consider appropriate.
+
+(2) Regulations under section 12G are subject to the negative procedure.
+
+(3) Regulations under section 12H(3), (4), (7) or (8) are subject to the affirmative procedure.]
+
+### [[^F100]Other motor events]
+
+#### 13 Regulation of motoring events on public ways.
+
+(1) A person who promotes or takes part in a competition or trial (other than a race or trial of speed) involving the use of motor vehicles on a public way is guilty of an offence unless the competition or trial—
+
+(a) is authorised, and
+
+(b) is conducted in accordance with any conditions imposed,
+
+by or under regulations under this section.
+
+(2) The Secretary of State may by regulations authorise, or provide for authorising, the holding of competitions or trials (other than races or trials of speed) involving the use of motor vehicles on public ways either—
+
+(a) generally, or
+
+(b) as regards any area, or as regards any class or description of competition or trial or any particular competition or trial,
+
+subject to such conditions, including conditions requiring the payment of fees, as may be imposed by or under the regulations.
+
+(3) Regulations under this section may—
+
+(a) prescribe the procedure to be followed, and the particulars to be given, in connection with applications for authorisation under the regulations, and
+
+(b) make different provision for different classes or descriptions of competition or trial.
+
+(4) In this section “public way” means, in England and Wales, a [[^F101]highway] and, in Scotland, a public road.
+
+#### [[^F102]13A Disapplication of sections 1 to 3 for authorised motoring events.
+
+(1) A person shall not be guilty of an offence under sections 1, [[^F103]1A,] 2[[^F104], 2B [[^F105], 2C]] or 3 of this Act by virtue of driving a vehicle in a public place other than a road if he shows that he was driving in accordance with an authorisation for a motoring event given under regulations made by the Secretary of State.
+
+(2) Regulations under this section may in particular—
+
+(a) prescribe the persons by whom, and limit the circumstances in which and the places in respect of which, authorisations may be given under the regulations;
+
+(b) specify conditions which must be included among those incorporated in authorisations;
+
+(c) provide for authorisations to cease to have effect in prescribed circumstances;
+
+(d) provide for the procedure to be followed, the particulars to be given, and the amount (or the persons who are to determine the amount) of any fees to be paid, in connection with applications for authorisations;
+
+(e) make different provisions for different cases.]
+
+### Protective measures: seat belts, helmets, etc.
+
+#### 14 Seat belts: adults.
+
+(1) The Secretary of State may make regulations requiring, subject to such exceptions as may be prescribed, persons who are driving or riding in motor vehicles on a road to wear seat belts of such description as may be prescribed.
+
+(2) Regulations under this section—
+
+(a) may make different provision in relation to different classes of vehicles, different descriptions of persons and different circumstances,
+
+[^F106]aa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) shall include exceptions for—
+
+[[^F107](i) the driver of or a passenger in a motor vehicle constructed or adapted for carrying goods, while on a journey which does not exceed the prescribed distance and which is undertaken for the purpose of delivering or collecting any thing,]
+
+(ii) the drivers of vehicles while performing a manoeuvre which includes reversing,
+
+(iii) any person holding a valid certificate signed by a medical practitioner to the effect that it is inadvisable on medical grounds for him to wear a seat belt,
+
+[[^F108](bb) [[^F109]may] include an exception for any person holding a certificate to the like effect as that mentioned in paragraph (b)(iii) above which was issued in a member State [^F110]... and which, under the law of that State, is valid for purposes corresponding to those of this section,]
+
+(c) may make any prescribed exceptions subject to such conditions as may be prescribed, and
+
+(d) may prescribe cases in which a fee of a prescribed amount may be charged on an application for any certificate required as a condition of any prescribed exception.
+
+(3) A person who drives or rides in a motor vehicle in contravention of regulations under this section is guilty of an offence; but, notwithstanding any enactment or rule of law, no person other than the person actually committing the contravention is guilty of an offence by reason of the contravention.
+
+(4) If the holder of any such certificate as is referred to in subsection (2)(b) [[^F111]or (bb)]above is informed by a constable that he may be prosecuted for an offence under subsection (3) above, he is not in proceedings for that offence entitled to rely on the exception afforded to him by the certificate unless—
+
+(a) it is produced to the constable at the time he is so informed, or
+
+(b) it is produced—
+
+(i) within seven days after the date on which he is so informed, or
+
+(ii) as soon as is reasonably practicable,
+
+at such police station as he may have specified to the constable, or
+
+(c) where it is not produced at such police station, it is not reasonably practicable for it to be produced there before the day on which the proceedings are commenced.
+
+(5) For the purposes of subsection (4) above, the laying of the information or, in Scotland, the service of the complaint on the accused shall be treated as the commencement of the proceedings.
+
+(6) Regulations under this section requiring the wearing of seat belts by persons riding in motor vehicles shall not apply to children under the age of fourteen years.
+
+[^F112]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 15 Restriction on carrying children not wearing seat belts in motor vehicles.
+
+(1) Except as provided by regulations, where a child under the age of fourteen years is in the front of a motor vehicle, a person must not without reasonable excuse drive the vehicle on a road unless the child is wearing a seat belt in conformity with regulations.
+
+[[^F113](1A) Where—
+
+(a) a child is in the front of a motor vehicle other than a bus,
+
+(b) the child is in a rear-facing child restraining device, and
+
+(c) the passenger seat where the child is placed is protected by a front air bag,
+
+a person must not without reasonable excuse drive the vehicle on a road unless the air bag is deactivated.]
+
+(2) It is an offence for a person to drive a motor vehicle in contravention of subsection (1) [[^F114]or (1A)] above.
+
+[[^F115](3) Except as provided by regulations, where—
+
+(a) a child under the age of three years is in the rear of a motor vehicle, or
+
+(b) a child of or over that age but under the age of fourteen years is in the rear of a motor vehicle and any seat belt is fitted in the rear of that vehicle,
+
+a person must not without reasonable excuse drive the vehicle on a road unless the child is wearing a seat belt in conformity with regulations.]
+
+[[^F116](3A) Except as provided by regulations, where—
+
+(a) a child who is under the age of 12 years and less than 150 centimetres in height is in the rear of a passenger car,
+
+(b) no seat belt is fitted in the rear of the passenger car, and
+
+(c) a seat in the front of the passenger car is provided with a seat belt but is not occupied by any person,
+
+a person must not without reasonable excuse drive the passenger car on a road.]
+
+(4) It is an offence for a person to drive a motor vehicle in contravention of subsection (3) [[^F117] or (3A)] above.
+
+(5) Provision may be made by regulations—
+
+(a) excepting from the prohibition in subsection (1) [[^F118], (3) or (3A)] above children of any prescribed description, vehicles of a prescribed class or the driving of vehicles in such circumstances as may be prescribed,
+
+(b) defining in relation to any class of vehicle what part of the vehicle is to be regarded as the front of the vehicle for the purposes of subsection (1) [[^F119]or (3A)] above or as the rear of the vehicle for the purposes of subsection (3) [[^F119]or (3A)] above,
+
+(c) prescribing for the purposes of subsection (1) or (3) above the descriptions of seat belt to be worn by children of any prescribed description and the manner in which such seat belt is to be fixed and used.
+
+[^F120]5A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F121](6) Regulations made for the purposes of subsection (3) or (3A) above—
+
+(a) shall include an exemption for any child holding a valid certificate signed by a medical practitioner to the effect that it is inadvisable on medical grounds for him to wear a seat belt, and
+
+(b) [[^F122]may] include an exemption for any child holding a certificate to the like effect which was issued in any member State [^F123]... and which, under the law of that State, is valid for purposes corresponding to those of this section,
+
+[^F124]....]
+
+(7) If the driver of a motor vehicle is informed by a constable that he may be prosecuted for an offence under subsection (4) above, he is not in proceedings for that offence entitled to rely on an exception afforded to a child by a certificate referred to in subsection (6) above unless—
+
+(a) it is produced to the constable at the time he is so informed, or
+
+(b) it is produced—
+
+(i) within seven days after the date on which he is so informed, or
+
+(ii) as soon as is reasonably practicable,
+
+at such police station as he may have specified to the constable, or
+
+(c) where it is not produced at such police station, it is not reasonably practicable for it to be produced there before the day on which the proceedings are commenced.
+
+(8) For the purposes of subsection (7) above, the laying of the information or, in Scotland, the service of the complaint on the accused shall be treated as the commencement of the proceedings.
+
+(9) In this section—
+
+- [[^F125]“bus” means a motor vehicle that—
+
+  - (a) has at least four wheels,
+  - (b) is constructed or adapted for the carriage of passengers,
+  - (c) has more than eight seats in addition to the driver's seat, and
+  - (d) has a maximum design speed exceeding 25 kilometres per hour;]
+
+- [[^F126]“maximum laden weight” has the meaning given by Part IV of Schedule 6 to the [^M1]Road Traffic Regulation Act 1984;
+
+- “passenger car” means a motor vehicle which—
+
+  - (a) is constructed or adapted for use for the carriage of passengers and is not a goods vehicle,
+  - (b) has no more than eight seats in addition to the driver’s seat,
+  - (c) has four or more wheels,
+  - (d) has a maximum design speed exceeding 25 kilometres per hour, and
+  - (e) has a maximum laden weight not exceeding 3.5 tonnes,]
+
+- “regulations” means regulations made by the Secretary of State under this section, [^F127]. . .
+
+- “seat belt” includes any description of restraining device for a child and any reference to wearing a seat belt is to be construed accordingly.
+
+- [^F128]...
+
+[[^F129](9A) The reference in subsection (1) above to the air bag being deactivated includes a reference to the case where the air bag is designed or adapted in such a way that it cannot inflate enough to pose a risk of injury to a child travelling in a rear-facing child restraining device in the seat in question.]
+
+[^F130]10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [[^F131]15A Safety equipment for children in motor vehicles.
+
+(1) The Secretary of State may make regulations prescribing (by reference to shape, construction or any other quality) types of equipment of any description to which this section applies that are recommended as conducive to the safety in the event of accident of prescribed classes of children in prescribed classes of motor vehicles.
+
+(2) Regulations under this section may make provision for securing that when equipment of a type prescribed by the regulations is sold or offered for sale as equipment which is so conducive—
+
+(a) appropriate information is provided in relation to it in such manner as may be prescribed, and
+
+(b) inappropriate information is not provided in relation to it.
+
+(3) Except in such circumstances as may be prescribed, if a person sells, or offers for sale, equipment of any description for which a type is prescribed under this section as equipment which is so conducive and that equipment—
+
+(a) is not of a type so prescribed, or
+
+(b) is sold or offered for sale in contravention of regulations under this section,
+
+he is, subject to subsection (5) below, guilty of an offence.
+
+(4) Except in such circumstances as may be prescribed, if a person sells, or offers for sale, equipment of any description for which a type is prescribed under this section as equipment conducive to the safety in the event of accident—
+
+(a) of children not of a class prescribed in relation to equipment of that type, or
+
+(b) of children in motor vehicles not of a class prescribed in relation to equipment of that type,
+
+he is, subject to subsection (5) below, guilty of an offence.
+
+(5) A person shall not be convicted of an offence under this section in respect of the sale or offer for sale of equipment if he proves that it was sold or, as the case may be, offered for sale for export from Great Britain.
+
+(6) The provisions of Schedule 1 to this Act shall have effect in relation to contraventions of this section.
+
+(7) Regulations under this section may make different provision in relation to different circumstances.
+
+(8) This section applies to equipment of any description for use in a motor vehicle consisting of—
+
+(a) a restraining device for a child or for a carry-cot, or
+
+(b) equipment designed for use by a child in conjunction with any description of restraining device.
+
+(9) References in this section to selling or offering for sale include respectively references to letting on hire and offering to let on hire.]
+
+#### 15B [[^F132]Requirement to notify bus passengers to wear seat belts
+
+(1) Subject to subsection (6) below, the operator of a bus in which any of the passenger seats are equipped with seat belts shall take all reasonable steps to ensure that every passenger is notified that he is required to wear a seat belt at all times when—
+
+(a) he is in a seat equipped with a seat belt, and
+
+(b) the bus is in motion.
+
+(2) For the purposes of subsection (1) above, a passenger may be notified only by one or more of the following means—
+
+(a) an official announcement, or an audio-visual presentation, made when the passenger joins the bus or within a reasonable time of his doing so;
+
+(b) a sign prominently displayed at each passenger seat equipped with a seat belt.
+
+In paragraph (a) above, “official announcement” means an announcement by the driver of the bus, by a conductor or courier or by a person who is a group leader in relation to any group of persons who are passengers on the bus.
+
+(3) For the purposes of subsection (2)(b) above, a sign that takes the form of a pictorial symbol must be in the form shown in Schedule 2A, depicting a white figure on a blue background.
+
+(4) An operator who fails to comply with subsection (1) above is guilty of an offence.
+
+(5) Where an offence under subsection (4) above which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in such a capacity, he as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+
+(6) Subsection (1) above does not apply in relation to a bus—
+
+(a) which is being used to provide a local service (within the meaning of the Transport Act 1985 [^F133]) in a built-up area, or
+
+(b) which is constructed or adapted for the carriage of standing passengers and on which the operator permits standing.
+
+For the purposes of paragraph (a) above, a local service is provided in a built-up area if the entire route used by that service consists of restricted roads.
+
+(7) In this section—
+
+- “bus” has the same meaning as in section 15;
+
+- “operator”, in relation to a bus, means—
+
+  - (a) the owner of the bus, or
+  - (b) if the bus is in the possession of any other person under an agreement for hire, hire-purchase, conditional sale, loan or otherwise, that person;
+
+- “passenger seat”, in relation to a bus, means any seat other than the driver's seat;
+
+- “restricted road” means a road that is restricted for the purposes of section 81 of the Road Traffic Regulation Act 1984 [^F134] (ignoring any direction under section 82(2)(b) of that Act) or would be so restricted but for a direction under section 82(2)(a) or an order under section 84(1) of that Act.]
+
+#### 16 Wearing of protective headgear.
+
+(1) The Secretary of State may make regulations requiring, subject to such exceptions as may be specified in the regulations, persons driving or riding (otherwise than in side-cars) on motor cycles of any class specified in the regulations to wear protective headgear of such description as may be so specified.
+
+(2) A requirement imposed by regulations under this section shall not apply to any follower of the Sikh religion while he is wearing a turban.
+
+(3) Regulations under this section may make different provision in relation to different circumstances.
+
+(4) A person who drives or rides on a motor cycle in contravention of regulations under this section is guilty of an offence; but notwithstanding any enactment or rule of law no person other than the person actually committing the contravention is guilty of an offence by reason of the contravention unless the person actually committing the contravention is a child under the age of sixteen years.
+
+#### 17 Protective helmets for motor cyclists.
+
+(1) The Secretary of State may make regulations prescribing (by reference to shape, construction or any other quality) types of helmet recommended as affording protection to persons on or in motor cycles, or motor cycles of different classes, from injury in the event of accident.
+
+(2) If a person sells, or offers for sale, a helmet as a helmet for affording such protection and the helmet is neither—
+
+(a) of a type prescribed under this section, nor
+
+(b) of a type authorised under regulations made under this section and sold or offered for sale subject to any conditions specified in the authorisation
+
+subject to subsection (3) below, he is guilty of an offence.
+
+(3) A person shall not be convicted of an offence under this section in respect of the sale or offer for sale of a helmet if he proves that it was sold or, as the case may be, offered for sale for export from Great Britain.
+
+(4) The provisions of Schedule 1 to this Act shall have effect in relation to contraventions of this section.
+
+(5) In this section and that Schedule “helmet” includes any head-dress, and references in this section to selling or offering for sale include respectively references to letting on hire and offering to let on hire.
+
+#### 18 Authorisation of head-worn appliances for use on motor cycles.
+
+(1) The Secretary of State may make regulations prescribing (by reference to shape, construction or any other quality) types of appliance of any description to which this section applies as authorised for use by persons driving or riding (otherwise than in sidecars) on motor cycles of any class specified in the regulations.
+
+(2) Regulations under this section—
+
+(a) may impose restrictions or requirements with respect to the circumstances in which appliances of any type prescribed by the regulations may be used, and
+
+(b) may make different provision in relation to different circumstances.
+
+(3) If a person driving or riding on a motor cycle on a road uses an appliance of any description for which a type is prescribed under this section and that appliance—
+
+(a) is not of a type so prescribed, or
+
+(b) is otherwise used in contravention of regulations under this section,
+
+he is guilty of an offence.
+
+(4) If a person sells, or offers for sale, an appliance of any such description as authorised for use by persons on or in motor cycles, or motor cycles of any class, and that appliance is not of a type prescribed under this section as authorised for such use, he is, subject to subsection (5) below, guilty of an offence.
+
+(5) A person shall not be convicted of an offence under this section in respect of the sale or offer for sale of an appliance if he proves that it was sold or, as the case may be, offered for sale for export from Great Britain.
+
+(6) The provisions of Schedule 1 to this Act shall have effect in relation to contraventions of subsection (4) above.
+
+(7) This section applies to appliances of any description designed or adapted for use—
+
+(a) with any headgear, or
+
+(b) by being attached to or placed upon the head,
+
+(as, for example, eye protectors or earphones).
+
+(8) References in this section to selling or offering for sale include respectively references to letting on hire and offering to let on hire.
+
+### Stopping on verges, etc., or in dangerous positions, etc.
+
+#### 19 Prohibition of parking of HGVs on verges, central reservations and footways.
+
+(1) Subject to subsection (2) below, a person who parks a heavy commercial vehicle (as defined in section 20 of this Act) wholly or partly—
+
+(a) on the verge of a road, or
+
+(b) on any land situated between two carriageways and which is not a footway, or
+
+(c) on a footway,
+
+is guilty of an offence.
+
+(2) A person shall not be convicted of an offence under this section in respect of a vehicle if he proves to the satisfaction of the court—
+
+(a) that it was parked in accordance with permission given by a constable in uniform, or
+
+(b) that it was parked in contravention of this section for the purpose of saving life or extinguishing fire or meeting any other like emergency, or
+
+(c) that it was parked in contravention of this section but the conditions specified in subsection (3) below were satisfied.
+
+(3) The conditions mentioned in subsection (2)(c) above are—
+
+(a) that the vehicle was parked on the verge of a road or on a footway for the purpose of loading or unloading, and
+
+(b) that the loading or unloading of the vehicle could not have been satisfactorily performed if it had not been parked on the footway or verge, and
+
+(c) that the vehicle was not left unattended at any time while it was so parked.
+
+(4) In this section “carriageway” and “footway”, in relation to England and Wales, have the same meanings as in the [^M2]Highways Act 1980.
+
+#### [^F135]19A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 20 Definition of “heavy commercial vehicle” for the purposes of section 19.
+
+(1) In section 19 of this Act, “heavy commercial vehicle” means any goods vehicle which has an operating weight exceeding 7.5 tonnes.
+
+(2) The operating weight of a goods vehicle for the purposes of this section is—
+
+(a) in the case of a motor vehicle not drawing a trailer or in the case of a trailer, its maximum laden weight,
+
+(b) in the case of an articulated vehicle, its maximum laden weight (if it has one) and otherwise the aggregate maximum laden weight of all the individual vehicles forming part of that articulated vehicle, and
+
+(c) in the case of a motor vehicle (other than an articulated vehicle) drawing one or more trailers, the aggregate maximum laden weight of the motor vehicle and the trailer or trailers attached to it.
+
+(3) In this section “articulated vehicle” means a motor vehicle with a trailer so attached to it as to be partially superimposed upon it; and references to the maximum laden weight of a vehicle are references to the total laden weight which must not be exceeded in the case of that vehicle if it is to be used in Great Britain without contravening any regulations for the time being in force under section 41 of this Act.
+
+(4) In this section, and in the definition of “goods vehicle” in section 192 of this Act as it applies for the purposes of this section, “trailer” means any vehicle other than a motor vehicle.
+
+(5) The [[^F136]national authority] may by regulations amend subsections (1) and (2) above (whether as originally enacted or as previously amended under this subsection)—
+
+(a) by substituting weights of a different description for any of the weights there mentioned, or
+
+(b) in the case of subsection (1) above, by substituting a weight of a different description or amount, or a weight different both in description and amount, for the weight there mentioned.
+
+(6) Different regulations may be made under subsection (5) above as respects different classes of vehicles or as respects the same class of vehicles in different circumstances and as respects different times of the day or night and as respects different localities.
+
+(7) Regulations under subsection (5) above shall not so amend subsection (1) above that there is any case in which a goods vehicle whose operating weight (ascertained in accordance with subsection (2) above as originally enacted) does not exceed 7.5 tonnes is a heavy commercial vehicle for any of the purposes of section 19 of this Act.
+
+[[^F137](8) In subsection (5) “national authority”—
+
+(a) in relation to a function so far as exercisable within devolved competence, within the meaning of the Scotland Act 1998, means the Scottish Ministers;
+
+(b) otherwise, means the Secretary of State.
+
+(9) Before making any regulations under subsection (5) in relation to vehicles used on roads in Scotland, the Secretary of State must consult the Scottish Ministers.]
+
+#### 21 Prohibition of driving or parking on cycle tracks.
+
+(1) Subject to the provisions of this section, any person who, without lawful authority, drives or parks a [[^F138]mechanically propelled] vehicle wholly or partly on a cycle track is guilty of an offence.
+
+(2) A person shall not be convicted of an offence under subsection (1) above with respect to a vehicle if he proves to the satisfaction of the court—
+
+(a) that the vehicle was driven or (as the case may be) parked in contravention of that subsection for the purpose of saving life, or extinguishing fire or meeting any other like emergency, or
+
+(b) that the vehicle was owned or operated by a highway authority or by a person discharging functions on behalf of a highway authority and was driven or (as the case may be) parked in contravention of that subsection in connection with the carrying out by or on behalf of that authority of any of the following, that is, the cleansing, maintenance or improvement of, or the maintenance or alteration of any structure or other work situated in, the cycle track or its verges [[^F139], or the preventing or removing of obstructions to the cycle track or the preventing or abating in any other way of nuisances or other interferences with the cycle track,], or
+
+(c) that the vehicle was owned or operated by statutory undertakers and was driven or (as the case may be) parked in contravention of that subsection in connection with the carrying out by those undertakers of any works in relation to any apparatus belonging to or used by them for the purpose of their undertaking.
+
+(3) In this section—
+
+(a) “cycle track” and other expressions used in this section and in the [^M3]Highways Act 1980 have the same meaning as in that Act,
+
+[[^F140](aa) in subsection (1) “mechanically propelled vehicle” does not include a vehicle falling within paragraph (a), (b) or (c) of section 189(1) of this Act,]
+
+(b) in subsection (2)(c) above “statutory undertakers” means any body who are statutory undertakers within the meaning of the Highways Act 1980, any sewerage authority within the meaning of that Act or the operator of [[^F141]an electronic communications code network], and in relation to any such sewerage authority “apparatus” includes sewers or sewerage disposal works.
+
+(4) This section does not extend to Scotland.
+
+#### 22 Leaving vehicles in dangerous positions.
+
+If a person in charge of a vehicle causes or permits the vehicle or a trailer drawn by it to remain at rest on a road in such a position or in such condition or in such circumstances as to [[^F142]involve a danger of injury] to other persons using the road, he is guilty of an offence.
+
+#### 22A [[^F143] Causing danger to road-users.
+
+(1) A person is guilty of an offence if he intentionally and without lawful authority or reasonable cause—
+
+(a) causes anything to be on or over a road, or
+
+(b) interferes with a motor vehicle, trailer or cycle, or
+
+(c) interferes (directly or indirectly) with traffic equipment,
+
+in such circumstances that it would be obvious to a reasonable person that to do so would be dangerous.
+
+(2) In subsection (1) above “dangerous” refers to danger either of injury to any person while on or near a road, or of serious damage to property on or near a road; and in determining for the purposes of that subsection what would be obvious to a reasonable person in a particular case, regard shall be had not only to the circumstances of which he could be expected to be aware but also to any circumstances shown to have been within the knowledge of the accused.
+
+(3) In subsection (1) above “traffic equipment” means—
+
+(a) anything lawfully placed on or near a road by a highway authority;
+
+(b) a traffic sign lawfully placed on or near a road by a person other than a highway authority;
+
+(c) any fence, barrier or light lawfully placed on or near a road—
+
+(i) in pursuance of section 174 of the Highways Act 1980, [^F144]. . . or section 65 of the New Roads and Street Works Act 1991 (which provide for guarding, lighting and signing in streets where works are undertaken), or
+
+(ii) by a constable or a person acting under the instructions (whether general or specific) of a chief officer of police.
+
+(4) For the purposes of subsection (3) above anything placed on or near a road shall unless the contrary is proved be deemed to have been lawfully placed there.
+
+(5) In this section “road” does not include a footpath or bridleway.
+
+(6) This section does not extend to Scotland.]
+
+### Other restrictions in interests of safety
+
+#### 23 Restriction of carriage of persons on motor cycles.
+
+(1) Not more than one person in addition to the driver may be carried on a [[^F145]motor bicycle].
+
+(2) No person in addition to the driver may be carried on a [[^F145]motor bicycle] otherwise than sitting astride the motor cycle and on a proper seat securely fixed to the motor cycle behind the driver’s seat.
+
+(3) If a person is carried on a motor cycle in contravention of this section, the driver of the motor cycle is guilty of an offence.
+
+#### 24 Restriction of carriage of persons on bicycles.
+
+(1) Not more than one person may be carried on a road on a bicycle not propelled by mechanical power unless it is constructed or adapted for the carriage of more than one person.
+
+(2) In this section—
+
+(a) references to a person carried on a bicycle include references to a person riding the bicycle, and
+
+(b) “road” includes bridleway.
+
+(3) If a person is carried on a bicycle in contravention of subsection (1) above, each of the persons carried is guilty of an offence.
+
+#### 25 Tampering with motor vehicles.
+
+[[^F146](1)] If, while a motor vehicle is on a road or on a parking place provided by a local authority, a person—
+
+(a) gets on to the vehicle, or
+
+(b) tampers with the brake or other part of its mechanism,
+
+without lawful authority or reasonable cause he is guilty of an offence.
+
+[[^F147](2) For the purposes of subsection (1), the “mechanism” of a vehicle includes—
+
+(a) any equipment in or on the vehicle designed to allow the motion of the vehicle to be controlled other than by an individual in the vehicle, or to facilitate its being so controlled, and
+
+(b) any software installed in, or other electronic information stored in, any such equipment.]
+
+#### 26 Holding or getting on to vehicle in order to be towed or carried.
+
+(1) If, for the purpose of being carried, a person without lawful authority or reasonable cause takes or retains hold of, or gets on to, a motor vehicle or trailer while in motion on a road he is guilty of an offence.
+
+(2) If, for the purpose of being drawn, a person takes or retains hold of a motor vehicle or trailer while in motion on a road he is guilty of an offence.
+
+#### 27 Control of dogs on roads.
+
+(1) A person who causes or permits a dog to be on a designated road without the dog being held on a lead is guilty of an offence.
+
+(2) In this section “designated road” means a length of road specified by an order in that behalf of the local authority in whose area the length of road is situated.
+
+(3) The powers which under subsection (2) above are exercisable by a local authority in England and Wales are, in the case of a road part of the width of which is in the area of one local authority and part in the area of another, exercisable by either authority with the consent of the other.
+
+(4) An order under this section may provide that subsection (1) above shall apply subject to such limitations or exceptions as may be specified in the order, and (without prejudice to the generality of this subsection) subsection (1) above does not apply to dogs proved—
+
+(a) to be kept for driving or tending sheep or cattle in the course of a trade or business, or
+
+(b) to have been at the material time in use under proper control for sporting purposes.
+
+(5) An order under this section shall not be made except after consultation with the chief officer of police.
+
+(6) The Secretary of State may make regulations—
+
+(a) prescribing the procedure to be followed in connection with the making of orders under this section, and
+
+(b) requiring the authority making such an order to publish in such manner as may be prescribed by the regulations notice of the making and effect of the order.
+
+(7) In this section “local authority” means—
+
+(a) in relation to England and Wales, the council of a county, metropolitan district or London borough or the Common Council of the City of London, and
+
+(b) in relation to Scotland, a [[^F148]council constituted under section 2 of the Local Government etc. (Scotland) Act 1994].
+
+(8) The power conferred by this section to make an order includes power, exercisable in like manner and subject to the like conditions, to vary or revoke it.
+
+### Cycling offences and cycle racing
+
+#### [[^F149]28 Dangerous cycling.
+
+(1) A person who rides a cycle on a road dangerously is guilty of an offence.
+
+(2) For the purposes of subsection (1) above a person is to be regarded as riding dangerously if (and only if)—
+
+(a) the way he rides falls far below what would be expected of a competent and careful cyclist, and
+
+(b) it would be obvious to a competent and careful cyclist that riding in that way would be dangerous.
+
+(3) In subsection (2) above “dangerous” refers to danger either of injury to any person or of serious damage to property; and in determining for the purposes of that subsection what would be obvious to a competent and careful cyclist in a particular case, regard shall be had not only to the circumstances of which he could be expected to be aware but also to any circumstances shown to have been within the knowledge of the accused.]
+
+#### 29 Careless, and inconsiderate, cycling.
+
+If a person rides a cycle on a road without due care and attention, or without reasonable consideration for other persons using the road, he is guilty of an offence.
+
+[^F150]...
+
+#### 30 Cycling when under influence of drink or drugs.
+
+(1) A person who, when riding a cycle on a road or other public place, is unfit to ride through drink or drugs (that is to say, is under the influence of drink or a drug to such an extent as to be incapable of having proper control of the cycle) is guilty of an offence.
+
+(2) In Scotland a constable may arrest without warrant a person committing an offence under this section.
+
+[^F151]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 31 Regulation of cycle racing on public ways.
+
+(1) A person who promotes or takes part in a race or trial of speed on a public way between cycles is guilty of an offence, unless the race or trial—
+
+(a) is authorised, and
+
+(b) is conducted in accordance with any conditions imposed,
+
+by or under regulations under this section.
+
+(2) The Secretary of State may by regulations authorise, or provide for authorising, for the purposes of subsection (1) above, the holding on a public way other than a bridleway—
+
+(a) of races or trials of speed of any class or description, or
+
+(b) of a particular race or trial of speed,
+
+in such cases as may be prescribed and subject to such conditions as may be imposed by or under the regulations.
+
+(3) Regulations under this section may—
+
+(a) prescribe the procedure to be followed, and the particulars to be given, in connection with applications for authorisation under the regulations, and
+
+(b) make different provision for different classes or descriptions of race or trial.
+
+(4) Without prejudice to any other powers exercisable in that behalf, the chief officer of police may give directions with respect to the movement of, or the route to be followed by, vehicular traffic during any period, being directions which it is necessary or expedient to give in relation to that period to prevent or mitigate—
+
+(a) congestion or obstruction of traffic, or
+
+(b) danger to or from traffic,
+
+in consequence of the holding of a race or trial of speed authorised by or under regulations under this section.
+
+(5) Directions under subsection (4) above may include a direction that any road or part of a road specified in the direction shall be closed during the period to vehicles or to vehicles of a class so specified.
+
+[[^F152](6) In this section “public way” means, in England and Wales, a highway, and in Scotland, a public road but does not include a footpath.]
+
+#### 32 Electrically assisted pedal cycles.
+
+(1) An electrically assisted pedal cycle of a class specified in regulations made for the purposes of section 189 of this Act and section 140 of the [^M4]Road Traffic Regulation Act 1984 shall not be driven on a road by a person under the age of fourteen.
+
+(2) A person who—
+
+(a) drives such a pedal cycle, or
+
+(b) knowing or suspecting that another person is under the age of fourteen, causes or permits him to drive such a pedal cycle,
+
+in contravention of subsection (1) above is guilty of an offence.
+
+### Use of motor vehicles away from roads
+
+#### 33 Control of use of footpaths [[^F153], bridleways and restricted byways] for motor vehicle trials.
+
+(1) A person must not promote or take part in a trial of any description between motor vehicles on a footpath [[^F154], bridleway or restricted byway] unless the holding of the trial has been authorised under this section by the local authority.
+
+(2) A local authority shall not give an authorisation under this section unless satisfied that consent in writing to the use of any length of footpath [[^F154], bridleway or restricted byway] for the purposes of the trial has been given by the owner and by the occupier of the land over which that length of footpath [[^F154], bridleway or restricted byway] runs, and any such authorisation may be given subject to compliance with such conditions as the authority think fit.
+
+(3) A person who—
+
+(a) contravenes subsection (1) above, or
+
+(b) fails to comply with any conditions subject to which an authorisation under this section has been granted,
+
+is guilty of an offence.
+
+(4) The holding of a trial authorised under this section is not affected by any statutory provision prohibiting or restricting the use of footpaths [[^F155], bridleways or restricted byways] or a specified footpath [[^F154], bridleway or restricted byway] ; but this section does not prejudice any right or remedy of a person as having any interest in land.
+
+(5) In this section “local authority”—
+
+(a) in relation to England and Wales, means the council of a county, metropolitan district or London borough, and
+
+(b) in relation to Scotland, means a [[^F156]council constituted under section 2 of the Local Government etc. (Scotland) Act 1994].
+
+[[^F157](6) In this section “restricted byway” means a way over which the public have restricted byway rights within the meaning of Part 2 of the Countryside and Rights of Way Act 2000, with or without a right to drive animals of any description along the way, but no other rights of way.]
+
+#### [[^F158]34 Prohibition of driving mechanically propelled vehicles elsewhere than on roads.
+
+(1) Subject to the provisions of this section, if without lawful authority a person drives a mechanically propelled vehicle—
+
+(a) on to or upon any common land, moorland or land of any other description, not being land forming part of a road, or
+
+(b) on any road being a footpath, bridleway or restricted byway,
+
+he is guilty of an offence.
+
+(2) For the purposes of subsection (1)(b) above, a way shown in a definitive map and statement as a footpath, bridleway or restricted byway is, without prejudice to section 56(1) of the [^M5]Wildlife and Countryside Act 1981, to be taken to be a way of the kind shown, unless [^F159]. . . the contrary is proved.
+
+[[^F160](2A) It is not an offence under this section for a person with an interest in land, or a visitor to any land, to drive a mechanically propelled vehicle on a road if, immediately before the commencement of section 47(2) of the Countryside and Rights of Way Act 2000, the road was—
+
+(a) shown in a definitive map and statement as a road used as a public path, and
+
+(b) in use for obtaining access to the land by the driving of mechanically propelled vehicles by a person with an interest in the land or by visitors to the land.]
+
+(3) It is not an offence under this section to drive a mechanically propelled vehicle on any land within fifteen yards of a road, being a road on which a motor vehicle may lawfully be driven, for the purpose only of parking the vehicle on that land.
+
+(4) A person shall not be convicted of an offence under this section with respect to a vehicle if he proves to the satisfaction of the court that it was driven in contravention of this section for the purpose of saving life or extinguishing fire or meeting any other like emergency.
+
+(5) It is hereby declared that nothing in this section prejudices the operation of—
+
+(a) section 193 of the [^M6]Law of Property Act 1925 (rights of the public over commons and waste lands), or
+
+(b) any byelaws applying to any land,
+
+or affects the law of trespass to land or any right or remedy to which a person may by law be entitled in respect of any such trespass or in particular confers a right to park a vehicle on any land.
+
+(6) Subsection (2) above [[^F161]does] not extend to Scotland.
+
+(7) In this section—
+
+- “definitive map and statement” has the same meaning as in Part III of the [^M7]Wildlife and Countryside Act 1981;
+- [[^F162]“interest”, in relation to land, includes any estate in land and any right over land (whether exercisable by virtue of the ownership of an estate or interest in the land or by virtue of a licence or agreement) and, in particular, includes rights of common and sporting rights;]
+- “mechanically propelled vehicle” does not include a vehicle falling within paragraph (a), (b) or (c) of section 189(1) of this Act; and
+- “restricted byway” means a way over which the public have restricted byway rights within the meaning of Part II of the Countryside and Rights of Way Act 2000, with or without a right to drive animals of any description along the way, but no other rights of way.
+
+[[^F163](8) A person—
+
+(a) entering any land in exercise of rights conferred by virtue of section 2(1) of the Countryside and Rights of Way Act 2000, or
+
+(b) entering any land which is treated by section 15(1) of that Act as being accessible to the public apart from that Act,
+
+is not for the purposes of subsection (2A) a visitor to the land.]]
+
+### Directions to traffic and to pedestrians and traffic signs
+
+#### 35 Drivers to comply with traffic directions.
+
+(1) Where a constable [[^F164]or traffic officer] is for the time being engaged in the regulation of traffic in a road, a person driving or propelling a vehicle who neglects or refuses—
+
+(a) to stop the vehicle, or
+
+(b) to make it proceed in, or keep to, a particular line of traffic,
+
+when directed to do so by the constable in the execution of his duty [[^F165]or the traffic officer (as the case may be)] is guilty of an offence.
+
+(2) Where—
+
+(a) a traffic survey of any description is being carried out on or in the vicinity of a road, and
+
+(b) a constable [[^F166]or traffic officer] gives to a person driving or propelling a vehicle a direction—
+
+(i) to stop the vehicle,
+
+(ii) to make it proceed in, or keep to, a particular line of traffic, or
+
+(iii) to proceed to a particular point on or near the road on which the vehicle is being driven or propelled,
+
+being a direction given for the purposes of the survey (but not a direction requiring any person to provide any information for the purposes of a traffic survey),
+
+the person is guilty of an offence if he neglects or refuses to comply with the direction.
+
+(3) The power to give such a direction as is referred to in subsection (2) above for the purposes of a traffic survey shall be so exercised as not to cause any unreasonable delay to a person who indicates that he is unwilling to provide any information for the purposes of the survey.
+
+#### 36 Drivers to comply with traffic signs.
+
+(1) Where a traffic sign, being a sign—
+
+(a) of the prescribed size, colour and type, or
+
+(b) of another character authorised by the [[^F167]relevant authority] under the provisions in that behalf of the [^M8]Road Traffic Regulation Act 1984,
+
+has been lawfully placed on or near a road, a person driving or propelling a vehicle who fails to comply with the indication given by the sign is guilty of an offence.
+
+(2) A traffic sign shall not be treated for the purposes of this section as having been lawfully placed unless either—
+
+(a) the indication given by the sign is an indication of a statutory prohibition, restriction or requirement, or
+
+(b) it is expressly provided by or under any provision of the Traffic Acts that this section shall apply to the sign or to signs of a type of which the sign is one;
+
+and, where the indication mentioned in paragraph (a) of this subsection is of the general nature only of the prohibition, restriction or requirement to which the sign relates, a person shall not be convicted of failure to comply with the indication unless he has failed to comply with the prohibition, restriction or requirement to which the sign relates.
+
+(3) For the purposes of this section a traffic sign placed on or near a road shall be deemed—
+
+(a) to be of the prescribed size, colour and type, or of another character authorised by the [[^F168]relevant authority] under the provisions in that behalf of the Road Traffic Regulation Act 1984, and
+
+(b) (subject to subsection (2) above) to have been lawfully so placed,
+
+unless the contrary is proved.
+
+(4) Where a traffic survey of any description is being carried out on or in the vicinity of a road, this section applies to a traffic sign by which a direction is given—
+
+(a) to stop a vehicle,
+
+(b) to make it proceed in, or keep to, a particular line of traffic, or
+
+(c) to proceed to a particular point on or near the road on which the vehicle is being driven or propelled,
+
+being a direction given for the purposes of the survey (but not a direction requiring any person to provide any information for the purposes of the survey).
+
+(5) Regulations made by the [[^F169]national authority] may specify any traffic sign for the purposes of column 5 of the entry in Schedule 2 to the [^M9]Road Traffic Offenders Act 1988 relating to offences under this section (offences committed by failing to comply with certain signs involve discretionary disqualification).
+
+[[^F170](6) Before making regulations under subsection (5) the Secretary of State must consult with [[^F171]the Welsh Ministers and] the Scottish Ministers.
+
+(7) Before [[^F172]the Welsh Ministers or the Scottish Ministers make regulations under subsection (5) they ] must consult with the Secretary of State.
+
+(8) In this section [[^F173]“relevant authority”] has the meaning given by [[^F174]section 64(6A)] of the Road Traffic Regulation Act 1984.]
+
+#### 37 Directions to pedestrians.
+
+Where a constable in uniform [[^F175]or traffic officer] is for the time being engaged in the regulation of vehicular traffic in a road, a person on foot who proceeds across or along the carriageway in contravention of a direction to stop given by the constable in the execution of his duty [[^F176]or the traffic officer (as the case may be)], either to persons on foot or to persons on foot and other traffic, is guilty of an offence.
+
+### Promotion of road safety
+
+#### 38 The Highway Code.
+
+(1) The Highway Code shall continue to have effect, subject however to revision in accordance with the following provisions of this section.
+
+(2) Subject to the following provisions of this section, the Secretary of State may from time to time revise the Highway Code by revoking, varying, amending or adding to the provisions of the Code in such manner as he thinks fit.
+
+(3) Where the Secretary of State proposes to revise the Highway Code by making any alterations in the provisions of the Code (other than alterations merely consequential on the passing, amendment or repeal of any statutory provision) he must lay the proposed alterations before both Houses of Parliament and must not make the proposed revision until after the end of a period of forty days beginning with the day on which the alterations were so laid.
+
+(4) If within the period mentioned in subsection (3) above either House resolves that the proposed alterations be not made, the Secretary of State must not make the proposed revision (but without prejudice to the laying before Parliament of further proposals for alteration in accordance with that subsection).
+
+(5) Before revising the Highway Code by making any alterations in its provisions which are required by subsection (3) above to be laid before Parliament, the Secretary of State must consult with such representative organisations as he thinks fit.
+
+(6) The Secretary of State must cause the Highway Code to be printed and may cause copies of it to be sold to the public at such price as he may determine.
+
+(7) A failure on the part of a person to observe a provision of the Highway Code shall not of itself render that person liable to criminal proceedings of any kind but any such failure may in any proceedings (whether civil or criminal, and including proceedings for an offence under the Traffic Acts, the [^M10]Public Passenger Vehicles Act 1981 or sections 18 to 23 of the [^M11]Transport Act 1985) be relied upon by any party to the proceedings as tending to establish or negative any liability which is in question in those proceedings.
+
+(8) In this section “the Highway Code” means the code comprising directions for the guidance of persons using roads issued under section 45 of the [^M12]Road Traffic Act 1930, as from time to time revised under this section or under any previous enactment.
+
+(9) For the purposes of subsection (3) above—
+
+(a) “statutory provision” means a provision contained in an Act or in subordinate legislation within the meaning of the [^M13]Interpretation Act 1978 (and the reference to the passing or repeal of any such provision accordingly includes the making or revocation of any such provision),
+
+(b) where the proposed alterations are laid before each House of Parliament on different days, the later day shall be taken to be the day on which they were laid before both Houses, and
+
+(c) in reckoning any period of forty days, no account shall be taken of any time during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days.
+
+#### 39 Powers of Secretary of State and local authorities as to giving road safety information and training.
+
+(1) The Secretary of State may, with the approval of the Treasury, provide for promoting road safety by disseminating information or advice relating to the use of roads.
+
+[[^F177](2) Each relevant authority—
+
+(a) if it is a local authority, must prepare and carry out a programme of measures designed to promote road safety, or
+
+(b) if it is Transport for London, may prepare and carry out such a programme,
+
+and may contribute towards the cost of measures for promoting road safety taken by other authorities or bodies.]
+
+(3) [[^F178]Each relevant authority—]—
+
+(a) must carry out studies into accidents arising out of the use of vehicles
+
+[[^F179](i) if it is a local authority,] on roads or parts of roads, other than [[^F180]GLA roads or][[^F181]roads for which the Secretary of state is highway authority (in Scotland, roads authority)] within their area [[^F182]or
+
+(ii) if it is Transport for London, on GLA roads or parts of GLA roads,]
+
+(b) must, in the light of those studies, take such measures as appear to the authority to be appropriate to prevent such accidents, including the dissemination of information and advice relating to the use of roads, the giving of practical training to road users or any class or description of road users, the construction, improvement, maintenance or repair of [[^F183]roads for the maintenance of which they are responsible] and other measures taken in the exercise of their powers for controlling, protecting or assisting the movement of traffic on roads, and
+
+(c) in constructing new roads, must take such measures as appear to the authority to be appropriate to reduce the possibilities of such accidents when the roads come into use.
+
+[(3A) The duties imposed by subsection (3) above are without prejudice to the generality of subsection (2) above and—
+
+(a) in the case of a local authority, are to be discharged in pursuance of their duty under subsection (2)(a) above; and
+
+(b) in the case of Transport for London, are to be discharged by exercising their powers under subsection (2)(b) above.]
+
+(4) In this section
+
+- [[^F184]“GLA road” has the same meaning as in the [^M14]Highways Act 1980 (see sections 329(1) and 14D(1) of that Act);]
+
+- “local authority” means—
+
+  - (a) in relation to England and Wales, the council of a county, metropolitan district or London borough or the Common Council of the City of London,
+  - (b) in relation to Scotland, a [[^F185]council constituted under section 2 of the Local Government etc. (Scotland) Act 1994].
+
+- [[^F186]“relevant authority” means a local authority or Transport for London;].
+
+#### [[^F187]40 Road safety grants
+
+(1) A national transport authority may make payments to any local authority or any other authority or body for meeting the whole or part of the capital or running costs of any measures for promoting road safety.
+
+(2) A “national transport authority” means—
+
+(a) the Secretary of State acting with the approval of the Treasury, or
+
+(b) the National Assembly for Wales.]
+
+## Part II — Construction and Use of Vehicles and Equipment
+
+### [[^F188]Using vehicle in dangerous condition
+
+#### [^F189]40A Using vehicle in dangerous condition etc.
+
+A person is guilty of an offence if he uses, or causes or permits another to use, a motor vehicle or trailer on a road when—
+
+(a) the condition of the motor vehicle or trailer, or of its accessories or equipment, or
+
+(b) the purpose for which it is used, or
+
+(c) the number of passengers carried by it, or the manner in which they are carried, or
+
+(d) the weight, position or distribution of its load, or the manner in which it is secured,
+
+is such that the use of the motor vehicle or trailer involves a danger of injury to any person.]
+
+### General regulation of construction, use etc.
+
+#### 41 Regulation of construction, weight, equipment and use of vehicles.
+
+(1) The [[^F190]national authority] may make regulations generally as to the use of motor vehicles and trailers on roads, their construction and equipment and the conditions under which they may be so used.
+
+Subsections (2) to (4) below do not affect the generality of this subsection.
+
+(2) In particular, the regulations may make provision with respect to any of the following matters—
+
+(a) the width, height and length of motor vehicles and trailers and the load carried by them, the diameter of wheels, and the width, nature and condition of tyres, of motor vehicles and trailers,
+
+(b) the emission or consumption of smoke, fumes or vapour and the emission of sparks, ashes and grit,
+
+(c) noise,
+
+(d) the maximum weight unladen of heavy locomotives and heavy motor cars, and the maximum weight laden of motor vehicles and trailers, and the maximum weight to be transmitted to the road or any specified area of the road by a motor vehicle or trailer of any class or by any part or parts of such a vehicle or trailer in contact with the road, and the conditions under which the weights may be required to be tested,
+
+(e) the particulars to be marked on motor vehicles and trailers [[^F191](by means of the fixing of plates or otherwise) and the circumstances in which they are to be marked,],
+
+(f) the towing of or drawing of vehicles by motor vehicles,
+
+(g) the number and nature of brakes, and for securing that brakes, silencers and steering gear are efficient and kept in proper working order,
+
+(h) lighting equipment and reflectors,
+
+(j) the testing and inspection, by persons authorised by or under the regulations, of the brakes, silencers, steering gear, tyres, lighting equipment and reflectors of motor vehicles and trailers on any premises where they are (if the owner of the premises consents),
+
+[^F192][jj speed limiters,]
+
+(k) the appliances to be fitted for—
+
+(i) signalling the approach of a motor vehicle, or
+
+(ii) enabling the driver of a motor vehicle to become aware of the approach of another vehicle from the rear, or
+
+(iii) intimating any intended change of speed or direction of a motor vehicle,
+
+and the use of any such appliance, and for securing that any such appliance is efficient and kept in proper working order,
+
+(l) for prohibiting the use of appliances fitted to motor vehicles for signalling their approach, being appliances for signalling by sound, at any times, or on or in any roads or localities, specified in the regulations.
+
+[[^F193](2A) In subsection (1) “national authority”—
+
+(a) in relation to a function so far as exercisable within devolved competence, within the meaning of the Scotland Act 1998, means the Scottish Ministers;
+
+(b) otherwise, means the Secretary of State.
+
+(2B) Before making any regulations under this section in relation to the parking of vehicles on roads in Scotland, the Secretary of State must consult the Scottish Ministers.]
+
+(3) The Secretary of State may, as respects goods vehicles, make regulations under this section—
+
+(a) prescribing other descriptions of weight which are not to be exceeded in the case of such vehicles,
+
+[^F194]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F194]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(d) providing that weights of any description or other particulars which are to be marked on particular goods vehicles may be determined in accordance with regulations under section 49 of this Act.
+
+(4) Regulations under this section with respect to lighting equipment and reflectors—
+
+(a) may require that lamps be kept lit at such times and in such circumstances as may be specified in the regulations, and
+
+(b) may extend, in like manner as to motor vehicles and trailers, to vehicles of any description used on roads, whether or not they are mechanically propelled.
+
+[^F195][4A Regulations under this section with respect to speed limiters may include provision—
+
+(a) as to the checking and sealing of speed limiters by persons authorised in accordance with the regulations and the making of charges by them,
+
+(b) imposing or providing for the imposition of conditions to be complied with by authorised persons,
+
+(c) as to the withdrawal of authorisations.]
+
+(5) Different regulations may be made under this section as respects different classes of vehicles or as respects the same class of vehicles in different circumstances and as respects different times of the day or night and as respects roads in different localities.
+
+(6) In framing regulations under this section prescribing a weight of any description which is not to be exceeded in the case of goods vehicles of a class for which a certificate of conformity or Minister’s approval certificate may be issued under section 57 or 58 of this Act the Secretary of State must have regard to the design weight of the like description determined by virtue of section 54 of this Act for vehicles of that class and must secure that the first-mentioned weight does not exceed the design weight.
+
+(7) In this Part of this Act—
+
+- “construction and use requirements” means requirements, whether applicable generally or at specified times or in specified circumstances, imposed under this section,
+- “plated particulars” means such particulars as are required to be marked on a goods vehicle in pursuance of regulations under this section by means of a plate,
+- “plated weights” means such weights as are required to be so marked.
+
+#### [[^F196]41A Breach of requirement as to brakes, steering-gear or tyres.
+
+A person who—
+
+(a) contravenes or fails to comply with a construction and use requirement as to brakes, steering-gear or tyres, or
+
+(b) uses on a road a motor vehicle or trailer which does not comply with such a requirement, or causes or permits a motor vehicle or trailer to be so used,
+
+is guilty of an offence.]
+
+#### [[^F197]41B Breach of requirement as to weight: goods and passenger vehicles.
+
+(1) A person who—
+
+(a) contravenes or fails to comply with a construction and use requirement as to any description of weight applicable to—
+
+(i) a goods vehicle, or
+
+(ii) a motor vehicle or trailer adapted to carry more than eight passengers, or
+
+(b) uses on a road a vehicle which does not comply with such a requirement, or causes or permits a vehicle to be so used,
+
+is guilty of an offence.
+
+(2) In any proceedings for an offence under this section in which there is alleged a contravention of or failure to comply with a construction and use requirement as to any description of weight applicable to a goods vehicle, it shall be a defence to prove either—
+
+(a) that at the time when the vehicle was being used on the road—
+
+(i) it was proceeding to a weighbridge which was the nearest available one to the place where the loading of the vehicle was completed for the purpose of being weighed, or
+
+(ii) it was proceeding from a weighbridge after being weighed to the nearest point at which it was reasonably practicable to reduce the weight to the relevant limit, without causing an obstruction on any road, or
+
+(b) in a case where the limit of that weight was not exceeded by more than 5 per cent.—
+
+(i) that that limit was not exceeded at the time when the loading of the vehicle was originally completed, and
+
+(ii) that since that time no person has made any addition to the load.]
+
+#### 41C [[^F198]Breach of requirement as to speed assessment equipment detection devices (prospective)
+
+A person who—
+
+(a) contravenes or fails to comply with a construction or use requirement as to speed assessment equipment detection devices, or
+
+(b) uses on a road a motor vehicle or trailer which does not comply with such a requirement, or causes or permits a motor vehicle or trailer to be so used,
+
+is guilty of an offence.]
+
+#### 41D [[^F199]Breach of requirements as to control of vehicle, mobile telephones etc.
+
+A person who contravenes or fails to comply with a construction and use requirement—
+
+(a) as to not driving a motor vehicle in a position which does not give proper control or a full view of the road and traffic ahead, or not causing or permitting the driving of a motor vehicle by another person in such a position, or
+
+(b) as to not driving or supervising the driving of a motor vehicle while using a hand-held mobile telephone or other hand-held interactive communication device, or not causing or permitting the driving of a motor vehicle by another person using such a telephone or other device,
+
+is guilty of an offence.]
+
+#### [[^F200]42 Breach of other construction and use requirements.
+
+A person who—
+
+(a) contravenes or fails to comply with any construction or use requirement other than one within section 41A(a) or 41B(1)(a) [[^F201]or 41D] of this Act, or
+
+(b) uses on a road a motor vehicle or trailer which does not comply with such a requirement, or causes or permits a motor vehicle or trailer to be so used,
+
+is guilty of an offence.]
+
+#### 43 Temporary exemption from application of regulations under section 41.
+
+(1) Subject to subsections (2) to (4) below, where any regulations under section 41 of this Act contain provisions varying the requirements as regards the construction or weight of any class of vehicles, provision shall be made by the regulations for exempting from those provisions for such period, not being less than five years, as may be specified in the regulations any vehicle of that class registered under [[^F202]the Vehicle Excise and Registration Act 1994] before the expiration of one year from the making of the regulations.
+
+(2) No such provision contained in regulations under section 41 as imposes or varies requirements with respect to the braking systems with which motor vehicles must be equipped shall be taken, for the purposes of subsection (1) above or of any other provision of the regulations, to be one relating to the construction of vehicles.
+
+(3) Where regulations under section 41 contain provisions varying the requirements as regards the construction or weight of any class of vehicle, and the Secretary of State is satisfied—
+
+(a) that it is requisite that those provisions shall apply at a date specified in the regulations to vehicles registered before the expiration of one year from the making of the regulations, or to such of them as are specified in the regulations, and
+
+(b) that no undue hardship or inconvenience will be caused by their application then to those vehicles,
+
+then, if the regulations state that the Secretary of State is so satisfied, subsection (1) above shall not apply in relation to those provisions.
+
+(4) Subsection (1) above shall not apply in relation to—
+
+(a) regulations made with respect to any description of weight of goods vehicles, other than their maximum unladen weight, or
+
+(b) regulations made by virtue of section 41(3) of this Act.
+
+#### 44 Authorisation of use on roads of special vehicles not complying with regulations under section 41.
+
+(1) The Secretary of State may by order authorise, subject to such restrictions and conditions as may be specified by or under the order, the use on roads—
+
+(a) of special motor vehicles or trailers, or special types of motor vehicles or trailers, which are constructed either for special purposes or for tests or trials,
+
+(b) of vehicles or trailers, or types of vehicles or trailers, constructed for use outside the United Kingdom,
+
+(c) of new or improved types of motor vehicles or trailers, whether wheeled or wheelless, or of motor vehicles or trailers equipped with new or improved equipment or types of equipment, and
+
+(d) of vehicles or trailers carrying loads of exceptional dimensions,
+
+[[^F203]and sections 40A to 42 of this Act shall not apply in relation to] the use of such vehicles, trailers, or types in accordance with the order.
+
+(2) The Secretary of State may by order make provision for securing that, subject to such restrictions and conditions as may be specified by or under the order, regulations under section 41 of this Act shall have effect in their application to such vehicles, trailers and types of vehicles and trailers as are mentioned in subsection (1) above subject to such modifications or exceptions as may be specified in the order.
+
+(3) The powers conferred by this section on the Secretary of State to make orders shall be exercisable by statutory instrument except in the case of orders applying only to specified vehicles or to vehicles of specified persons, but in that excepted case (as in others) the order may be varied or revoked by subsequent order of the Secretary of State.
+
+[[^F204](4) The function of the Secretary of State under subsection (1) in the case of orders applying only to—
+
+(a) specified vehicles, or
+
+(b) vehicles of specified persons,
+
+may be delegated to a strategic highways company.
+
+(5) A delegation under subsection (4) may specify—
+
+(a) the extent to which the function is delegated;
+
+(b) any conditions to which the delegation is subject.]
+
+### Tests of vehicles other than goods vehicles to which section 49 applies
+
+#### 45 Tests of satisfactory condition of vehicles.
+
+(1) This section applies to motor vehicles other than goods vehicles which are required by regulations under section 49 of this Act to be submitted for a vehicle test under that section and has effect for the purpose of ascertaining whether the [[^F205] following requirements are complied with, namely—
+
+(a) the prescribed statutory requirements relating to the construction and condition of motor vehicles or their accessories or equipment, and
+
+(b) the requirement that the condition of motor vehicles should not be such that their use on a road would involve a danger of injury to any person.]
+
+(2) The Secretary of State may by regulations make provision—
+
+(a) for the examination of vehicles submitted for examination under this section, and
+
+(b) for the issue, where it is found on such an examination that the requirements mentioned in subsection (1) above are complied with, of a certificate (in this Act referred to as a “test certificate") that at the date of the examination the requirements were complied with in relation to the vehicle.
+
+(3) Examinations for the purposes of this section shall be carried out by—
+
+(a) persons, not being officers of the Secretary of State, authorised for those purposes by the Secretary of State (in this section and section 46 of this Act referred to as “authorised examiners”),
+
+[[^F206](za) individuals who are nominated by, and act under the supervision of, authorised examiners and are approved by the Secretary of State (in this section and section 46 of this Act referred to as “nominated testers”),]
+
+[^F207][b examiners appointed under section 66A of this Act]
+
+[[^F208](c) inspectors who are—
+
+(i) appointed by any council designated by the Secretary of State for the purposes of this section and section 46 of this Act, being the council of a county, district or London borough or the Common Council of the City of London or a council constituted under section 2 of the [^M15]Local Government etc. (Scotland) Act 1994, and
+
+(ii) approved by the Secretary of State.]
+
+(4) Where a test certificate is refused, [[^F209]the person carrying out the examination] must issue a notification of the refusal stating the grounds of the refusal, and a person aggrieved by the refusal or the grounds of the refusal may appeal to the Secretary of State.
+
+(5) On any such appeal the Secretary of State must cause a further examination to be made and either issue a test certificate or issue a notification of the refusal stating the grounds of the refusal.
+
+(6) For the purposes of their functions under this section the Secretary of State or a council designated for the purposes of this section may provide and maintain—
+
+(a) stations where examinations under this section may be carried out, and
+
+(b) apparatus for carrying out such examinations.
+
+[[^F210](6A) The Secretary of State may provide, or make arrangements for the provision of, courses of instruction in connection with the carrying out of examinations under this section; and may charge prescribed fees in respect of attendance on such courses.
+
+(6B) The Secretary of State shall maintain, or cause to be maintained, records containing such particulars as he thinks fit of—
+
+(a) vehicles submitted for examination under this section, and
+
+(b) the carrying out of and the results of the examinations.]
+
+(7) The Secretary of State may make regulations under this section for the purpose of giving effect to this section and for prescribing anything authorised by this section and section 46 of this Act to be prescribed.
+
+(8) In its application to vehicles in which recording equipment is required by Article 3 of the [[^F211]EU Tachographs Regulation] to be installed and used, this section shall have effect as if any reference to prescribed statutory requirements relating to the construction and condition of motor vehicles or their accessories or equipment included a reference to the prescribed requirements of so much of that Regulation as relates to the installation of recording equipment and the seals to be fixed to such equipment.
+
+#### [[^F212]46 Regulations under section 45.
+
+(1) Regulations under section 45 of this Act may, in particular, make provision as to—
+
+(a) the authorisation of examiners, the nomination and approval of nominated testers, the appointment and approval of inspectors and the designation of councils in accordance with subsection (3) of that section,
+
+(b) the imposition of conditions to be complied with by the persons referred to in paragraph (a) above,
+
+(c) the circumstances in which a person ceases to be an authorised examiner, a nominated tester or an inspector or in which a council ceases to be designated,
+
+(d) the manner in which, conditions under which and apparatus with which examinations are carried out, the maintenance of that apparatus in an efficient state, and the inspection of premises at which and apparatus with which examinations are being, or are to be, carried out,
+
+(e) the supervision of examinations and of the premises at which examinations are carried out,
+
+(f) the manner in which applications may be made for the examination of vehicles under section 45 of this Act, the manner in which and time within which appeals may be brought under subsection (4) of that section, the information to be supplied and documents to be produced on such an application, examination or appeal, the fees to be paid on such an application or appeal, and the repayment of the whole or part of the fee paid on such an appeal where it appears to the Secretary of State that there were substantial grounds for contesting the whole or part of the decision appealed against,
+
+(g) the form of, and particulars to be contained in, test certificates and notifications of the refusal of test certificates and the conditions which must be satisfied before such certificates and notifications may be issued,
+
+(h) the issue of duplicates or copies of test certificates and the fees to be paid on applications for such duplicates or copies,
+
+(i) the correction of errors in test certificates,
+
+(j) the charges to be paid by authorised examiners or designated councils to the Secretary of State in connection with—
+
+(i) the issue of test certificates or notifications of the refusal of test certificates,
+
+(ii) the issue of duplicates or copies of test certificates, and
+
+(iii) the correction of errors in test certificates,
+
+[[^F213](ja) the charges to be paid to the Secretary of State by persons occupying premises designated under section 8(3)(b) of the Public Passenger Vehicles Act 1981 as stations where inspections of public service vehicles may be carried out where the charges are in connection with—
+
+(i) the provision by the Secretary of State of vehicle examiners to examine public service vehicles on the premises,
+
+(ii) the issue of test certificates or notifications of the refusal of test certificates in respect of examinations of public service vehicles carried out on the premises,
+
+(iii) the issue of duplicates or copies of test certificates issued in respect of such examinations, and
+
+(iv) the correction of errors in test certificates so issued,]
+
+(k) the keeping by authorised examiners and designated councils of registers of test certificates in the prescribed form and containing the prescribed particulars, and the inspection of such registers by such persons and in such circumstances as may be prescribed, [^F214]...
+
+[[^F215](ka) the keeping by persons mentioned in paragraph (ja) of registers of test certificates in the prescribed form and containing the prescribed particulars, and the inspection of such registers by such persons and in such circumstances as may be prescribed,]
+
+(l) the keeping of records by authorised examiners and designated councils and the providing by them of returns and information to the Secretary of State[[^F216], and
+
+(m) the keeping of records by persons mentioned in paragraph (ja) and the providing by them of returns and information to the Secretary of State.]
+
+(2) The conditions which may be imposed by virtue of subsection (1)(b) above include conditions—
+
+(a) relating to the successful completion of courses of instruction provided under section 45(6A) of this Act, and
+
+(b) requiring the payment of prescribed fees to the Secretary of State in respect of applications for, or the continuation of, the Secretary of State’s authorisation, approval or designation.
+
+(3) The provision which may be made by virtue of subsection (1)(e) above includes provision—
+
+(a) requiring supervision to be provided by individuals who are nominated by authorised examiners or designated councils, in respect of particular premises, and are approved by the Secretary of State (in this subsection referred to as “nominated supervisors”),
+
+(b) as to the imposition of conditions (including conditions described in subsection (2) above) to be complied with by any nominated supervisor, and
+
+(c) as to the circumstances in which a person ceases to be a nominated supervisor.
+
+(4) The provision which may be made by virtue of subsection (1)(j) [[^F217]or (ja)] above includes provision requiring—
+
+(a) the making to the Secretary of State at prescribed times of payments, of such amounts as may be determined by him in accordance with the regulations, on account of charges that may become payable, and
+
+(b) where forms for test certificates and notifications of the refusal of test certificates are supplied by the Secretary of State, the payment to him of charges for the supply of such forms;
+
+and for the repayment, in prescribed circumstances, of such payments received by the Secretary of State.
+
+(5) Regulations under section 45 of this Act may provide for the Secretary of State to make available for use by prescribed persons any particulars contained in the records maintained under section 45(6B) of this Act on payment, in prescribed cases, of a fee of such amount as appears to the Secretary of State to be reasonable in the circumstances of the case.
+
+(6) Regulations under section 45 of this Act may also provide for the sale of particulars contained in, or information derived from, those records—
+
+(a) to such persons as the Secretary of State thinks fit, and
+
+(b) for such price and on such other terms, and subject to such restrictions, as he thinks fit;
+
+if those particulars do not (or that information does not) identify the premises at which any examination was carried out or any person concerned with the carrying out of the examination.
+
+(7) Regulations under that section may—
+
+(a) make different provision in relation to different cases or classes of cases, and
+
+(b) contain such incidental, supplemental or transitional provisions or savings as the Secretary of State thinks fit.]
+
+#### [[^F218]46A Use of records of vehicle examinations, etc.
+
+(1) This section applies to—
+
+(a) the records maintained by the Secretary of State (or caused by him to be maintained) under section 45(6B) of this Act, and
+
+(b) the records maintained by the Secretary of State in connection with any functions exercisable by him under or by virtue of the [^M16]Vehicle Excise and Registration Act 1994.
+
+(2) The Secretary of State may use the information contained in records falling within either paragraph of subsection (1) above—
+
+(a) to check the accuracy of the records falling within the other paragraph of that subsection, and
+
+(b) where appropriate, to amend or supplement information contained in those records.
+
+(3) The Secretary of State may also use the information contained in records falling within paragraph (b) of that subsection for the purpose of promoting compliance with section 47 of this Act.
+
+(4) This section does not limit any powers of the Secretary of State apart from this section.]
+
+#### [[^F219]46B Evidence from records of vehicle examinations.
+
+(1) A statement to which this section applies is admissible in any proceedings as evidence (or, in Scotland, sufficient evidence) of any fact stated in it with respect to—
+
+(a) the issue of a test certificate in respect of a vehicle, and
+
+(b) the date of issue of such a certificate,
+
+to the same extent as oral evidence of that fact is admissible in the proceedings.
+
+(2) This section applies to a statement contained in a document purporting to be—
+
+(a) a part of the records maintained under section 45(6B) of this Act,
+
+(b) a copy of a document forming part of those records, or
+
+(c) a note of any information contained in those records,
+
+and to be authenticated by a person authorised to do so by the Secretary of State.
+
+(3) In this section as it has effect in England and Wales—
+
+- “document” means anything in which information of any description is recorded;
+- “copy”, in relation to a document, means anything onto which information recorded in the document has been copied, by whatever means and whether directly or indirectly; and
+- “statement” means any representation of fact, however made.
+
+(4) In this section as it has effect in Scotland, “document” and “statement” have the same meanings as in section 17(3) of the [^M17]Law Reform (Miscellaneous Provisions) (Scotland) Act 1968, and the reference to a copy of a document shall be construed in accordance with section 17(4) of that Act.
+
+(5) Nothing in subsection (4) above limits to civil proceedings the reference to proceedings in subsection (1) above.]
+
+#### 47 Obligatory test certificates.
+
+(1) A person who uses on a road at any time, or causes or permits to be so used, a motor vehicle to which this section applies, and as respects which no test certificate has been issued within the appropriate period before that time, is guilty of an offence.
+
+In this section and section 48 of this Act, the “appropriate period” means a period of twelve months or such shorter period as may be prescribed.
+
+(2) Subject to subsections (3) and (5) below, the motor vehicles to which this section applies at any time are—
+
+(a) those first registered [[^F220]under the Vehicle Excise and Registration Act 1994 or any corresponding earlier legislation], not less than three years before that time, and
+
+(b) those which, having a date of manufacture not less than three years before that time, have been used on roads (whether in Great Britain or elsewhere) before being [[^F221]so registered],
+
+being, in either case, motor vehicles other than goods vehicles which are required by regulations under section 49 of this Act to be submitted for a goods vehicle test.
+
+(3) As respects a vehicle being—
+
+(a) a motor vehicle used for the carriage of passengers and with more than eight seats, excluding the driver’s seat, or
+
+(b) a taxi (as defined in section 64 (3) of the [^M18]Transport Act 1980), being a vehicle licensed to ply for hire, or
+
+(c) an ambulance, that is to say, a motor vehicle which is constructed or adapted, and primarily used, for the carriage of persons to a place where they will receive, or from a place where they have received, medical or dental treatment, and which, by reason of design, marking or equipment is readily identifiable as a vehicle so constructed or adapted,
+
+subsection (2)(a) above shall have effect as if for the period there mentioned there were substituted a period of one year.
+
+[^F222][4 For the purposes of subsection (2)(b) above there shall be disregarded—
+
+(a) the use of a vehicle before it is sold or supplied by retail, and
+
+(b) the use of a vehicle to which a motor dealer has assigned a mark under [[^F223]section 24 of the Vehicle Excise and Registration Act 1994]] before it is registered by the Secretary of State under [[^F224]section 21(2)] of that Act.
+
+(5) This section does not apply to vehicles of such classes as may be prescribed.
+
+(6) The Secretary of State may by regulations exempt from subsection (1) above the use of vehicles for such purposes as may be prescribed.
+
+(7) The Secretary of State may by regulations exempt from subsection (1) above the use of vehicles in any such area as may be prescribed.
+
+(8) For the purposes of this section the date of manufacture of a vehicle shall be taken to be the last day of the year during which its final assembly is completed, except where after that day modifications are made to the vehicle before it is sold or supplied by retail, and in that excepted case shall be taken to be the last day of the year during which the modifications are completed.
+
+(9) The Secretary of State may by order made by statutory instrument direct that subsection (2) above shall have effect with the substitution, for three years (in both places), of such other period (not being more than ten years) as may be specified in the order.
+
+An order under this subsection shall not have effect unless approved by resolution of each House of Parliament.
+
+#### 48 Supplementary provisions about test certificates.
+
+(1) For the purpose of spreading the work of issuing certificates in contemplation of a change in—
+
+(a) the length of the appropriate period, or
+
+(b) the length of the period specified in section 47(2)(a) and (b) of this Act,
+
+(and whether for the purposes of that section or section 66 of this Act), the order or, as the case may be, regulations changing the length of that period may be made so as to come into operation on different days as respects vehicles first registered under any of the enactments mentioned in section 47(2) of this Act at different times.
+
+[[^F225](1A) A test certificate issued in respect of a vehicle within the period of one month ending immediately before the date on which section 47 of this Act first applies to the vehicle shall be treated for the purposes of that section as if issued at the end of that period.]
+
+(2) Where—
+
+(a) within the appropriate period after a test certificate is issued or treated for the purposes of section 47 of this Act as issued, but
+
+(b) not earlier than one month before the end of that period,
+
+a further test certificate is issued as respects the same vehicle, the further certificate shall be treated for the purposes of that section as if issued at the end of the appropriate period.
+
+(3) Where the particulars contained in a test certificate in accordance with regulations made under section 45 of this Act include a date of expiry falling later, but not more than one month later, than the end of the appropriate period after the date on which it is issued—
+
+(a) the certificate shall be deemed to have been issued in respect of the same vehicle as an earlier test certificate, and
+
+(b) the date on which it was issued shall be deemed to have been a date falling within the last month of the appropriate period after the date on which that earlier certificate was issued or treated for the purposes of section 47 of this Act as issued;
+
+and any date of expiry contained in a test certificate shall be deemed to have been entered in accordance with regulations under section 45 of this Act unless the contrary is proved.
+
+[[^F226](4) The Secretary of State may by regulations make provision for and in connection with—
+
+(a) the issue of a certificate of temporary exemption in respect of a public service vehicle adapted to carry more than eight passengers, exempting that vehicle from the provisions of section 47(1) of this Act for such period as may be specified in the certificate;
+
+(b) the revocation of such a certificate.
+
+(4A) The power under subsection (4) includes power to—
+
+(a) make provision for a certificate of temporary exemption to be issued subject to conditions;
+
+(b) make different provision for different circumstances or cases;
+
+(c) confer functions on a person (including functions involving the exercise of a discretion).]
+
+(5) In relation to any public service vehicle so adapted—
+
+(a) subsections [[^F227](1A),] (2) and (3) above shall have effect as if for “one month” (in [[^F228]each place]) there were substituted “two months”, and
+
+(b) subsection (3) above shall have effect as if for “last month” there were substituted “last two months”.
+
+[^F229]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Tests of certain classes of goods vehicles
+
+#### 49 Tests of satisfactory condition of goods vehicles and determination of plated weights, etc.
+
+(1) The Secretary of State may by regulations make provision for the examination of goods vehicles of any prescribed class—
+
+(a) for the purpose of selecting or otherwise determining plated weights or other plated particulars for goods vehicles of that class, or
+
+(b) for the purpose of ascertaining whether any prescribed construction and use requirements (whether relating to plated particulars or not) are complied with in the case of goods vehicles of that class, [[^F230]or
+
+(c) for the purpose of ascertaining whether the condition of the vehicle is such that its use on a road would involve a danger of injury to any person,
+
+or for any of those purposes.]
+
+(2) In particular the regulations may make provision—
+
+(a) for the determination, according to criteria or by methods prescribed by or determined under the regulations, of the plated particulars for a goods vehicle (including its plated weights), on an examination of the vehicle for the purpose, and for the issue on such an examination, except as provided by regulations made by virtue of paragraph (c) of this subsection, of a certificate (in this Act referred to as a “plating certificate") specifying those particulars,
+
+(b) for the issue, for a goods vehicle which has been found on examination for the purpose to comply with the prescribed construction and use requirements [[^F231]and the requirement that the condition of the vehicle is not such that its use on a road would involve a danger of injury to any person], of a certificate (in this Act referred to as a “goods vehicle test certificate") stating that the vehicle has been found so to comply, and
+
+(c) for the refusal of a goods vehicle test certificate for a goods vehicle which is so found not to comply with those requirements and for requiring a written notification to be given—
+
+(i) of any such refusal, and
+
+(ii) of the grounds of the refusal,
+
+and for the refusal of a plating certificate where a goods vehicle test certificate is refused.
+
+(3) References in subsections (1) and (2) above to construction and use requirements shall be construed—
+
+(a) in relation to an examination of a vehicle solely for the purpose of ascertaining whether it complies with any such requirements, as references to such of those requirements as are applicable to the vehicle at the time of the test, and
+
+(b) in relation to an examination of a vehicle both for that purpose and for the purpose of determining its plated particulars, as references to such of those requirements as will be applicable to the vehicle if a plating certificate is issued for it.
+
+(4) In this Part of this Act—
+
+- “examination for plating” means an examination under regulations under this section for the purpose of determining plated particulars for a goods vehicle, and
+- “goods vehicle test” means an examination under regulations under this section for the purpose of ascertaining whether any prescribed construction and use requirements [[^F232], or the requirement that the condition of the vehicle is not such that its use on a road would involve a danger of injury to any person,] are complied with in the case of a goods vehicle.
+
+(5) In its application to vehicles in which recording equipment is required by Article 3 of the [[^F233]EU Tachographs Regulation] to be installed and used, this section shall have effect as if any reference to prescribed construction and use requirements included a reference to prescribed requirements of so much of that Regulation as relates to the installation of recording equipment and the seals to be fixed to such equipment.
+
+#### 49A [[^F234]Use of records of goods vehicle examinations, etc. (prospective)
+
+(1) This section applies to—
+
+(a) the records maintained by the Secretary of State (or caused by him to be maintained) under section 49(3A) of this Act, and
+
+(b) the records maintained by the Secretary of State in connection with any functions exercisable by him under or by virtue of the Vehicle Excise and Registration Act 1994.
+
+(2) The Secretary of State may use the information contained in records falling within either paragraph of subsection (1) above—
+
+(a) to check the accuracy of the records falling within the other paragraph of that subsection, and
+
+(b) where appropriate, to amend or supplement information contained in those records.
+
+(3) The Secretary of State may also use the information contained in records falling within paragraph (b) of that subsection for the purpose of promoting compliance with section 53 of this Act.
+
+(4) This section does not limit any powers of the Secretary of State apart from this section.]
+
+#### 50 Appeals against determinations.
+
+(1) Any person aggrieved by a determination made on an examination under regulations under section 49 of this Act by the person in charge of the examination may appeal to [[^F235]the Secretary of State].
+
+[^F236]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F236]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) On the appeal the Secretary of State must cause the vehicle to be re-examined by an officer appointed by him for the purpose and must make such determination on the basis of the re-examination as he thinks fit.
+
+(5) Regulations under section 49 of this Act may make the like provision in relation to a determination on an appeal under this section as they make in relation to a determination on an examination under the regulations.
+
+#### 51 Particular aspects of regulations under section 49.
+
+(1) Without prejudice to the generality of subsection (1) of section 49 of this Act, regulations under that section may—
+
+(a) require or authorise goods vehicles to which the regulations apply to be submitted for examination under the regulations and, in particular—
+
+(i) require any such vehicle to be submitted for a goods vehicle test at periodic intervals, and
+
+(ii) require or authorise any such vehicle to be submitted for re-examination on the making of any prescribed alteration to it or its equipment and, for the purpose of determining whether any such re-examination is necessary, require any such alteration to be notified to the Secretary of State, and
+
+(iii) require any such vehicle to be submitted for examination or re-examination for any purpose of plating or certification,
+
+(b) authorise any examination under the regulations to be carried out by or under the direction of a [^F237]. . . vehicle examiner,
+
+(c) prescribe the conditions subject to which vehicles will be accepted for such examination and, without prejudice to that—
+
+(i) authorise any person by whom an examination of the vehicle under the regulations or section 50 of this Act is carried out to drive the vehicle, whether on a road or elsewhere, and
+
+(ii) require that a driver of a vehicle examined under those regulations or that section is, except so far as permitted to be absent by the person carrying out the examination, present throughout the whole of the examination and drives the vehicle when directed to do so, and operates the controls in accordance with any directions given to him, by that person,
+
+(d) require the plating certificate for any vehicle to which the regulations apply to specify any alteration to the vehicle or its equipment which is required by the regulations to be notified to the Secretary of State,
+
+(e) authorise the amendment of a plating certificate or the issue of a different plating certificate on the re-examination of any vehicle,
+
+(f) provide for the period of validity of goods vehicle test certificates,
+
+(g) specify the manner in which, and the time before or within which, applications may be made for the examination of vehicles under the regulations or appeals may be brought under section 50 of this Act and the information to be supplied and documents to be produced on any such application, examination or appeal,
+
+(h) make provision as to the fees to be paid on any such application or appeal and as to the repayment of the whole or part of any fee paid on such an appeal where it appears to the Secretary of State that there were substantial grounds for contesting the whole or part of the determination appealed from,
+
+(j) make provision as to the form of, and particulars to be contained in, plating certificates and goods vehicle test certificates and notifications of the refusal of the latter certificates,
+
+(k) provide for the issue of replacements for plates marked with plated particulars, plating certificates and goods vehicle test certificates which have been lost or defaced and for the payment of a fee for their issue,
+
+[[^F238](ka) make provision as to the charges to be paid to the Secretary of State by persons occupying premises designated under section 52(2)(b) as stations where examinations of goods vehicles may be carried out where the charges are in connection with—
+
+(i) the provision by the Secretary of State of vehicle examiners to examine goods vehicles on the premises,
+
+(ii) the issue of test certificates or notifications of the refusal of test certificates in respect of examinations of goods vehicles carried out on the premises,
+
+(iii) the issue of duplicates or copies of test certificates issued in respect of such examinations, and
+
+(iv) the correction of errors in test certificates so issued,]
+
+[[^F239](kb) make provision as to the keeping by persons mentioned in paragraph (ka) of registers of test certificates in the prescribed form and containing the prescribed particulars, and the inspection of such registers by such persons and in such circumstances as may be prescribed,
+
+(kc) make provision as to the keeping of records by persons mentioned in paragraph (ka) and the providing by them of returns and information to the Secretary of State,]
+
+(l) exempt prescribed classes of vehicles from all or any of the provisions of the regulations either generally or in prescribed circumstances,
+
+(m) make different provision for different cases.
+
+[[^F240](1A) The provision which may be made by virtue of subsection (1)(ka) above includes provision requiring—
+
+(a) the making to the Secretary of State at prescribed times of payments, of such amounts as may be determined by him in accordance with regulations, on account of charges that may become payable, and
+
+(b) where forms for test certificates and notifications of the refusal of test certificates are supplied by the Secretary of State, the payment to him of charges for the supply of such forms,
+
+and for the repayment, in prescribed circumstances, of such payments received by the Secretary of State.]
+
+(2) Regulations under section 49 of this Act may provide that a person who contravenes or fails to comply with a requirement of regulations imposed by virtue of subsection (1)(c)(ii) above is guilty of an offence.
+
+(3) In this section any reference to the driving of a vehicle is, in relation to a trailer, a reference to the driving of the vehicle by which the trailer is drawn.
+
+#### 52 Supplementary provisions about tests, etc., of goods vehicles.
+
+(1) Without prejudice to any regulations made under section 49 of this Act by virtue of section 51(1)(c) of this Act, the Secretary of State may give directions with respect to the manner in which examinations under regulations under section 49 or under section 50 of this Act are to be carried out.
+
+(2) The Secretary of State may[[^F241]—
+
+(a) provide and maintain stations where examinations of goods vehicles under regulations under section 49 or under section 50 of this Act may be carried out,
+
+(b) designate premises as stations where such examinations may be carried out, and
+
+(c) provide and maintain apparatus for the carrying out of such examinations.]
+
+#### 53 Obligatory goods vehicle test certificates.
+
+(1) If any person at any time on or after the relevant date—
+
+(a) uses on a road a [^F242]... vehicle of a class required by [[^F243]relevant regulations] to have been submitted for examination for plating, or
+
+(b) causes or permits to be used on a road a [^F242]... vehicle of such a class,
+
+and at that time there is no plating certificate in force for the vehicle, he is guilty of an offence.
+
+In this subsection “relevant date”, in relation to any [^F242]... vehicle, means the date by which it is required by the regulations to be submitted for examination for plating.
+
+(2) If any person at any time on or after the relevant date—
+
+(a) uses on a road a [[^F244]vehicle of] a class required by [[^F245]relevant regulations] to have been submitted for a goods vehicle test, or
+
+(b) causes or permits to be used on a road a [[^F246]vehicle of] such a class,
+
+and at that time there is no goods vehicle test certificate in force for the vehicle, he is guilty of an offence.
+
+In this subsection “relevant date”, in relation to [[^F247]any vehicle], means the date by which it is required by the regulations to be submitted for its first goods vehicle test.
+
+(3) Any person who—
+
+(a) uses a [^F248]... vehicle on a road, or
+
+(b) causes or permits a [^F248]... vehicle to be so used,
+
+when an alteration has been made to the vehicle or its equipment which is required by [[^F249]relevant regulations] to be, but has not been, notified to the Secretary of State [[^F250]or the prescribed testing authority] is guilty of an offence.
+
+(4) In any proceedings for an offence under subsection (3) above, it shall be a defence to prove that the alteration was not specified in the relevant plating certificate in accordance with [[^F251]relevant regulations].
+
+(5) The Secretary of State may by regulations—
+
+(a) exempt from all or any of the preceding provisions of this section the use of goods vehicles for such purposes or in such an area as may be prescribed, and
+
+[[^F252](b) make provision for and in connection with—
+
+(i) the issue in respect of a vehicle of a certificate of temporary exemption exempting that vehicle from the provisions of subsection (1) or (2) above for such period as may be specified in the certificate;
+
+(ii) the revocation of such a certificate.]
+
+[[^F253](5A) The power under subsection (5)(b) includes power to—
+
+(a) make provision for a certificate of temporary exemption to be issued subject to conditions;
+
+(b) make different provision for different circumstances or cases;
+
+(c) confer functions on a person (including functions involving the exercise of a discretion).]
+
+[[^F254](6) In this section “relevant regulations” means regulations made—
+
+(a) under section 49 of this Act, or
+
+(b) for the purposes of implementing Directive 2014/45/EU of the European Parliament and of the Council of 3 April 2014 on periodic roadworthiness tests for motor vehicles and their trailers.]
+
+### Approval of design, construction, equipment and marking of vehicles
+
+#### 54 Type approval requirements.
+
+(1) Without prejudice to section 41 of this Act, the Secretary of State may by regulations prescribe requirements (in this Part of this Act referred to as “type approval requirements”)—
+
+(a) with respect to the design, construction, equipment and marking of vehicles of any class, being requirements which are applicable before, whether or not they are applicable after, vehicles of that class are used on a road,
+
+(b) with respect to the design, construction, equipment and marking of vehicle parts of any class, being requirements which are applicable before, whether or not they are applicable after, vehicle parts of that class are fitted to a vehicle used on a road.
+
+(2) Regulations under this section may provide for the determination, according to criteria or by methods prescribed by or determined under the regulations, of weights of any description which in the opinion of the Secretary of State should not be exceeded in the case of vehicles of any class.
+
+(3) In this Part of this Act references to design weights shall be construed as references to weights determined by virtue of subsection (2) above.
+
+(4) Subject to subsection (5) below, the following provisions of this Act to the end of section 60 apply in relation to parts of vehicles as they apply in relation to vehicles and, accordingly, any reference in those provisions to a vehicle, other than a reference to a goods vehicle, is to be read as including a reference to a vehicle part.
+
+(5) Any provision which relates solely to goods vehicles or design weights does not apply in relation to parts of vehicles, but particular exclusions in those provisions do not affect the generality of this exclusion.
+
+(6) In this Part of this Act, “the relevant aspects of design, construction, equipment and marking”, in relation to any vehicle, means those aspects of design, construction, equipment and marking which are subject to the type approval requirements or which were used as criteria in determining design weights for that vehicle.
+
+#### 55 Type approval certificates.
+
+(1) Where the Secretary of State is satisfied on application made to him by the manufacturer of a vehicle of a class to which regulations under section 54 of this Act apply and after examination of the vehicle—
+
+(a) that the vehicle complies with the relevant type approval requirements, and
+
+(b) that adequate arrangements have been made to secure that other vehicles purporting to conform with that vehicle in the relevant aspects of design, construction, equipment and marking will so conform in all respects or with such variations as may be permitted,
+
+he may approve that vehicle as a type vehicle.
+
+[^F255]1A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F255]1B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F255]1C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F256](1D) Where the Secretary of State is satisfied on an application made to the Secretary of State by the manufacturer of a vehicle of a class to which relevant regulations apply—
+
+(a) that the manufacturer holds in respect of that vehicle a valid relevant European approval, and
+
+(b) that adequate arrangements have been made to secure that other vehicles purporting to conform with that vehicle in the relevant aspects of design, construction, equipment and marking will so conform in all respects or with such variations as may be permitted,
+
+the Secretary of State may approve that vehicle as a type vehicle.
+
+(1E) The Secretary of State may exercise the power under paragraph (1D) in relation to a vehicle—
+
+(a) in the case of a vehicle other than a trailer to which the road vehicles type approval Regulation applies, only where the application is received on or before 31 January 2024;
+
+(b) in the case of a trailer, or any vehicle part to which the road vehicles type approval Regulation applies, only where the application is received on or before 31 January 2025;
+
+(c) in the case of a vehicle or vehicle part to which the motorcycle type approval Regulation or the tractor type approval Regulation applies, only where the application is received on or before 31 December 2027.
+
+(1F) The Secretary of State may approve an application under subsection (1D) where the application was made before subsection (1D) comes into force.
+
+(1G) For the purposes of subsection (1D)—
+
+- “relevant European approval” means—
+
+  - an EC type-approval certificate, as defined in Article 3(34) of the road vehicles type approval Directive (as it had effect immediately before its repeal),
+  - an EU type-approval certificate, as referred to in Article 28 of the road vehicles type approval Regulation,
+  - an EU type-approval certificate, as defined in Article 3(32) of the tractor type-approval Regulation, or
+  - an EU type-approval certificate, as defined in Article 3(5) of the motorcycle type approval Regulation,
+
+  whether issued before IP completion day or, in accordance with that legislation as it has effect in EU law, on or after IP completion day;
+
+- “relevant regulations” means—
+
+  - regulations made under section 54 of this Act, or
+  - regulations made under section 2(2) of, or paragraph 1A of Schedule 2 to, the European Communities Act 1972 in relation to the regulation of the type, description, construction or equipment of vehicles, or of parts of vehicles, or in relation to any vehicle type-approval scheme.]
+
+(2) Where the Secretary of State approves a vehicle as a type vehicle he must issue a certificate (in this Part of this Act referred to as a “type approval certificate”) stating that the vehicle complies with the relevant type approval requirements [[^F257]or (as the case may be) the relevant European type approval requirements,] and specifying—
+
+(a) the permitted variations from the type vehicle, and
+
+(b) the design weights for vehicles so conforming in all respects and for vehicles so conforming with any such variations.
+
+[[^F258](2A) If a type approval certificate is issued for a vehicle following approval under subsection (1D), the certificate is valid for a period of two years beginning with the date on which it is issued (unless it is cancelled or suspended under section 56).]
+
+(3) In the following provisions of this section and in sections 56 to 59 of this Act “conform” means conform in all respects or with any permitted variation.
+
+[[^F259](4) Subject to subsection (6) below, a type approval certificate may be issued for a type vehicle where the Secretary of State is satisfied that—
+
+(a) one or more, but not all, of the relevant type approval requirements, or
+
+(b) one or more, but not all, of the relevant European type approval requirements,
+
+are complied with in the case of that vehicle.]
+
+(5) A further type approval certificate may be issued by virtue of subsection (4) above on the application of any person—
+
+(a) who manufactures any part of the vehicle, or
+
+(b) by whom the vehicle is finally assembled;
+
+and references in the following provisions of this section and in sections 56 to 59 of this Act to a manufacturer shall be construed accordingly.
+
+(6) The first type approval certificate issued for a type vehicle by virtue of subsection (4) above must specify the design weights for conforming vehicles, and accordingly—
+
+(a) so much of subsection (2) above or section 57 (1) to (3) of this Act as requires the Secretary of State or a manufacturer to specify in any certificate under this or that section the design weights or plated weights for a vehicle or as requires the Secretary of State or a manufacturer to mark or secure the marking of the plated weights on a vehicle does not apply to a subsequent type approval certificate issued by virtue of subsection (4) above or to the certificates of conformity issued in consequence of such a type approval certificate, and
+
+(b) so much of section 58 (2) of this Act as requires the Secretary of State to specify in any certificate issued by him the design weights and plated weights for a vehicle or to secure that the plated weights are marked on a vehicle does not apply to a Minister’s approval certificate issued by virtue of subsection (4) above.
+
+(7) Subsection (6) above does not apply in relation to vehicle parts.
+
+(8) Where the Secretary of State determines on an application under this section not to issue a type approval certificate in respect of a vehicle, he must give to the applicant a written notification of the determination, stating the grounds on which it is based.
+
+[[^F260](9) In this section, “European type-approval requirements” means requirements prescribed in—
+
+(a) regulations made under section 2(2) of, or paragraph 1A of Schedule 2 to, the European Communities Act 1972 in relation to the regulation of the type, description, construction or equipment of vehicles, or of parts of vehicles, or in relation to any vehicle type approval scheme,
+
+(b) the road vehicles type approval Regulation,
+
+(c) the tractor type approval Regulation, or
+
+(d) the motorcycle type approval Regulation.]
+
+#### 56 Conditions of, and cancellation or suspension of, type approval certificates.
+
+(1) A type approval certificate may be issued subject to conditions with respect to—
+
+(a) the inspection by officers of the Secretary of State of vehicles purporting to conform with the type vehicle in the relevant aspects of design, construction, equipment and marking and of parts of such vehicles and their equipment, and the entry of premises where they are manufactured, and
+
+(b) the notification by the manufacturer of differences of design, construction, equipment or marking (other than permitted variations) between any such vehicles and the type vehicle which might affect the type approval requirements or the criteria for determining the design weights of those vehicles.
+
+(2) If—
+
+(a) it appears to the Secretary of State that there has been a breach of a condition subject to which a type approval certificate has been granted, or
+
+(b) the Secretary of State ceases to be satisfied as to any other matter relevant to a type approval certificate,
+
+he may cancel or suspend the certificate, but the cancellation or suspension shall not affect the validity of any certificate of conformity previously issued in consequence of the type approval certificate.
+
+(3) Where the Secretary of State cancels or suspends a certificate in pursuance of this section, he shall give a written notification of that fact to the holder of the certificate stating the grounds for the cancellation or suspension.
+
+#### 57 Certificates of conformity.
+
+(1) The manufacturer of a type vehicle in respect of which a type approval certificate is in force may issue, in respect of each vehicle manufactured by him which conforms with the type vehicle in such of the relevant aspects of design, construction, equipment and marking as are mentioned in the type approval certificate, a certificate [^F261]...—
+
+(a) stating that it does so conform, and
+
+(b) specifying the design weights for the vehicle,
+
+and must in the case of goods vehicles of such classes as may be prescribed specify in the certificate one or more of the plated weights for the vehicle.
+
+[^F262]1ZA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F262]1ZB . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F263](1ZC) If a manufacturer has a type approval certificate issued by the Secretary of State following approval under section 55(1A) or 55(1D), a relevant European certificate of conformity issued by the manufacturer in respect of each vehicle that conforms to the type vehicle in question is to be treated as a certificate issued under subsection (1).
+
+(1ZD) In subsection (1ZC) “relevant European certificate of conformity” means—
+
+(a) a certificate of conformity issued before IP completion day by a manufacturer under any provision of the law of a member State other than the United Kingdom giving effect to Article 18 of the road vehicles type approval Directive,
+
+(b) a certificate of conformity issued before IP completion day under Article 36 of the road vehicles type approval Regulation,
+
+(c) a certificate of conformity issued before IP completion day under Article 33 of the tractor type approval Regulation, or
+
+(d) a certificate of conformity issued before IP completion day under Article 38 of the motorcycle type approval Regulation, or
+
+(e) a certificate of conformity issued on or after IP completion day under that law, Article 36, Article 33 or Article 38 as it has effect at that time.]
+
+[[^F264](1A) In this Part of this Act, “certificate of conformity” means a certificate issued under subsection (1) above, except—
+
+(a) in the expression “EU certificate of conformity”;
+
+(b) in the definition of that expression in section 85 of this Act;
+
+(c) in the expression “relevant European certificate of conformity”; and
+
+(d) in the definition of that expression in subsection (1ZD).]
+
+(2) Where a manufacturer issues a certificate of conformity for a goods vehicle, the Secretary of State must—
+
+(a) on an application made by any person containing such information as he may require with respect to the proposed circumstances of operation of the goods vehicle, and
+
+(b) on production of that certificate,
+
+specify in the certificate any plated weights for the goods vehicle not so specified by the manufacturer.
+
+(3) Where a manufacturer issues a certificate of conformity for a goods vehicle then—
+
+(a) if he is required by subsection (1) above to specify any plated weights for the goods vehicle in the certificate, he must mark those weights on the goods vehicle by means of a plate fixed to it, and
+
+(b) in any other case the Secretary of State must on an application for the purpose secure that those weights are so marked.
+
+(4) Any certificate of conformity issued in consequence of any type approval certificate issued by virtue of section 55(4) of this Act shall relate only to the requirement or requirements to which that type approval certificate relates.
+
+(5) Subsections (2) and (3) above do not apply in relation to vehicle parts.
+
+#### 58 Minister’s approval certificates.
+
+(1) Where the Secretary of State is satisfied, on application made to him by any person in respect of a vehicle of a class to which regulations under section 54 of this Act apply and after examination of the vehicle, that—
+
+(a) the vehicle complies with the relevant type approval requirements [[^F265]or (as the case may be) the relevant European type approval requirements], and
+
+(b) in the case of a goods vehicle, the Secretary of State has sufficient information to enable the plated weights to be ascertained for the vehicle,
+
+he may issue a certificate (in this Part of this Act referred to as a “Minister’s approval certificate”).
+
+(2) The certificate must state that the vehicle complies with those requirements and specify—
+
+(a) its design weights, and
+
+(b) in the case of a goods vehicle, its plated weights,
+
+and, where the Secretary of State issues such a certificate in respect of a goods vehicle, he must secure that the plated weights are marked on the vehicle by means of a plate fixed to it.
+
+[[^F266](3) Where by virtue of section 57(4) of this Act a certificate of conformity issued in respect of a vehicle relates to—
+
+(a) one or more, but not all, of the relevant type approval requirements, or
+
+(b) one or more, but not all, of the relevant European type approval requirements,
+
+the Secretary of State may issue in respect of that vehicle a Minister's approval certificate relating to one or more of the other relevant type approval requirements or (as the case may be) one or more of the other relevant European type approval requirements.]
+
+(4) Where—
+
+(a) a Minister’s approval certificate is given as respects a vehicle, and
+
+(b) the Secretary of State is satisfied—
+
+(i) on the application of the manufacturer of the vehicle or, in the case of an imported vehicle, the importer of the vehicle, and
+
+(ii) after the consideration of such evidence as he thinks necessary,
+
+that another vehicle manufactured by that manufacturer or, as the case may be, imported by that importer conforms with the first mentioned vehicle as respects the relevant aspects of design, construction, equipment and marking,
+
+the Secretary of State may issue a Minister’s approval certificate in respect of that other vehicle without examining it.
+
+(5) Where the Secretary of State issues such a certificate by virtue of subsection (4) above, he must specify the plated weights which are to be marked on the other vehicle.
+
+(6) Subsection (4) above shall apply in relation to vehicles brought into Great Britain from Northern Ireland as it applies in relation to imported vehicles, and references in that subsection to the importer shall be construed accordingly.
+
+(7) Where the Secretary of State determines on an application under this section not to issue a Minister’s approval certificate in respect of a vehicle, he must give to the applicant a written notification of the determination, stating the grounds on which it is based.
+
+[[^F267](8) In this section, “European type approval requirements” has the same meaning as in section 55.]
+
+#### 59 Supplementary provisions as to certificates of conformity and Minister’s approval certificates.
+
+(1) The Secretary of State may by regulations require that prescribed alterations—
+
+(a) in any of the relevant aspects of design, construction, equipment or marking, or
+
+(b) in any such aspect which affects the plated weight,
+
+made to any vehicle for which a certificate of conformity or a Minister’s approval certificate is issued shall, subject to any exemption granted under subsection (2) below, be notified to the Secretary of State.
+
+(2) The Secretary of State may by notice in writing given to the manufacturer of vehicles or to the owner of a vehicle for which a Minister’s approval certificate is issued—
+
+(a) direct that any specified alteration in any of the aspects mentioned in subsection (1) above to a vehicle to which the direction relates shall be notified to the Secretary of State,
+
+(b) exempt a vehicle to which the notice relates from all or any of the requirements of regulations under subsection (1) above, subject to compliance with any conditions specified in the notice.
+
+(3) Without prejudice to the provisions of section 61 of this Act, the Secretary of State may by regulations require that a certificate of conformity or Minister’s approval certificate issued for any vehicle shall specify—
+
+(a) the regulations, if any, applicable to the vehicle under subsection (1) above at the time of the issue of the certificate,
+
+(b) any additional alteration to that vehicle required by any direction under subsection (2) above to be notified to the Secretary of State, and
+
+(c) any exemption applicable to that vehicle under that subsection.
+
+(4) A certificate of conformity or a Minister’s approval certificate specifying any plated weights shall be treated for the purposes of the provisions of this Part of this Act and any regulations made under them relating to plating certificates (except section 50 (1) and (2) of this Act) as a plating certificate.
+
+This subsection does not apply in relation to vehicle parts.
+
+#### 60 Appeals.
+
+(1) A person aggrieved by the determination made on behalf of the Secretary of State with respect to a type approval certificate, a certificate of conformity or a Minister’s approval certificate under sections 54 to 59 of this Act, including any determination with respect to design weights or plated weights, may within the prescribed time and in the prescribed manner appeal to the Secretary of State.
+
+(2) On the appeal the Secretary of State—
+
+(a) shall have the like powers and duties as he has on an original application for a type approval or a Minister’s approval certificate or in respect of the plated weights to be included in a certificate of conformity,
+
+(b) may hold an inquiry in connection with it, and
+
+(c) may appoint an assessor for the purpose of assisting him with the appeal or any such inquiry.
+
+#### 61 Regulations for the purposes of sections 54 to 60.
+
+(1) The Secretary of State may make regulations for the purposes of sections 54 to 60 of this Act.
+
+(2) Without prejudice to the generality of subsection (1) above, such regulations—
+
+(a) may provide for the examination of any vehicle in respect of which a certificate of conformity or a Minister’s approval certificate is in force in the event of an alteration being made to the vehicle which is notifiable by virtue of section 59(1) or (2) of this Act and, in particular, may empower a [^F268]. . . vehicle examiner to require the vehicle to be examined at a testing station provided under section 52, 62 or 72 of this Act,
+
+(b) may authorise the cancellation, suspension or amendment of a certificate of conformity or a Minister’s approval certificate on an examination of any vehicle in pursuance of regulations made by virtue of paragraph (a) above,
+
+(c) shall give a right of appeal to any person aggrieved by a determination on any such examination and for that purpose may apply section 50(1) to (4) of this Act,
+
+(d) may containthe like provisions with respect to any such examination and any appeal brought by virtue of paragraph (c) above as may be contained in regulations made by virtue of paragraphs (b), (c), (g) and (h) of section 51(1) of this Act in relation to the examinations and appeals there mentioned;
+
+(e) may require the payment of fees or other charges in connection with the provision by the Secretary of State of services or facilities or the issue by him of certificates and other documents,
+
+(f) may provide—
+
+(i) for the authorisation of persons to carry out examinations, in connection with the issue of type approval certificates, of vehicles or vehicle parts of such classes as may be specified in the regulations,
+
+(ii) for the imposition of conditions to be complied with by persons so authorised, and
+
+(iii) for the withdrawal of authorisations,
+
+(g) may make provision as to the form of, and particulars to be contained in, certificates of conformity and provide for the supply by the Secretary of State of forms for such certificates,
+
+(h) may provide for the issue of replacements for plates fixed to vehicles under sections 54 to 58 of this Act, certificates of conformity and Minister’s approval certificates which have been lost or defaced and provide for the payment of a fee for their issue,
+
+(j) may require persons empowered by sections 54 to 58 of this Act to issue certificates of conformity to keep records—
+
+(i) of certificates of conformity issued by them, and
+
+(ii) of the vehicles or vehicle parts in respect of which such certificates are issued,
+
+and may authorise the inspection of such records by such persons and in such circumstances as may be prescribed, and
+
+(k) may make different provisions for different cases.
+
+(3) Without prejudice to any regulations made by virtue of section 51(1)(c) of this Act, as applied by this section, the Secretary of State may give directions with respect to the manner in which examinations to which such regulations apply are to be carried out.
+
+(4) Where regulations under this section impose the like requirement as may be imposed by regulations made by virtue of section 51(1)(c)(ii) of this Act, the regulations may provide that a person who contravenes or fails to comply with a requirement so imposed is guilty of an offence.
+
+[^F269]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 62 Other supplementary provisions.
+
+(1) The Secretary of State may provide and maintain stations where examinations of vehicles under sections 54 to 61 of this Act or regulations under those sections may be carried out and may provide and maintain the apparatus for carrying out such examinations.
+
+(2) Where an agreement entered into between Her Majesty’s Government and the Government of a country outside Great Britain provides for the recognition in Great Britain of arrangements under the law of that country with respect to the approval of the design, construction, equipment or marking of vehicles of any description manufactured in that country, the Secretary of State may make regulations—
+
+(a) applying, with such adaptations and modifications as he thinks fit, all or any of the provisions of sections 54 to 60 of this Act and of regulations under section 61 of this Act, so far as relating to type approval certificates and certificates of conformity, to vehicles of that description manufactured in that country,
+
+(b) providing that a certificate issued under any such provision as so applied shall be treated for the purposes of any other provisions of this Part of this Act prescribed by the regulations as a type approval certificate or as a certificate of conformity,
+
+(c) providing for the cancellation or suspension (subject to any savings prescribed by the regulations) of any such certificate in the event of the agreement ceasing to be in force or being modified.
+
+(3) Except in the case of vehicles of such class as may be prescribed, in sections 57, 58 and 61 of this Act “goods vehicle” includes a vehicle which is a chassis for, or will otherwise form part of, a vehicle which when completed will be a goods vehicle.
+
+#### 63 Obligatory type approval certificates, certificates of conformity and Minister’s approval certificates.
+
+(1) If—
+
+(a) any person at any time on or after the day appointed by regulations made by the Secretary of State in relation to vehicles or vehicle parts of a prescribed class, being vehicles or vehicle parts to which type approval requirements prescribed by those regulations apply—
+
+(i) uses on a road, or
+
+(ii) causes or permits to be so used,
+
+a vehicle of that class or a vehicle to which is fitted a vehicle part of that class, and
+
+(b) it does not appear from one or more certificates then in force under sections 54 to 58 of this Act that the vehicle or vehicle part complies with those requirements,
+
+he is guilty of an offence.
+
+Different days may be appointed under this subsection in relation to different classes of vehicles or vehicle parts.
+
+[[^F270](1A) For the purposes of subsection (1) above a vehicle shall be taken to comply with all relevant type approval requirements if an [[^F271]EU certificate of conformity] has effect with respect to the vehicle.]
+
+(2) If a plating certificate—
+
+(a) has been issued for a goods vehicle to which section 53(1) of this Act or subsection (1) above applies, but
+
+(b) does not specify a maximum laden weight for the vehicle together with any trailer which may be drawn by it,
+
+any person who on or after the relevant date within the meaning of section 53(1) of this Act or, as the case may be, the day appointed under subsection (1) above uses the vehicle on a road for drawing a trailer, or causes or permits it to be so used, is guilty of an offence.
+
+(3) Any person who—
+
+(a) uses a vehicle on a road, or
+
+(b) causes or permits a vehicle to be so used,
+
+when an alteration has been made to the vehicle or its equipment which is required by regulations or directions under section 59 of this Act to be, but has not been, notified to the Secretary of State is guilty of an offence.
+
+(4) In any proceedings for an offence under subsection (3) above, it shall be a defence to prove that the regulations were not or, as the case may be, the alteration was not, specified in the relevant certificate of conformity or Minister’s approval certificate in accordance with regulations under section 59(3) of this Act.
+
+[[^F272](5) The Secretary of State may make provision for securing that, subject to such restrictions and conditions as may be specified by or under the instrument by which the provision is made—
+
+(a) the use of vehicles is exempted from all or any of the preceding provisions of this section for purposes specified in the instrument or in such an area as is so specified,
+
+(b) goods vehicles are exempted from the provisions of subsection (2) above, and
+
+(c) there are issued in respect of vehicles or vehicle parts, in such circumstances as may be specified in the instrument, certificates of temporary exemption exempting the vehicles or vehicle parts from the provisions of subsection (1) above for such period as may be provided in the certificate.
+
+[^F272]6 Subject to subsection (7) below, the power conferred by subsection (5) above is exercisable by regulations.
+
+[^F272]7 That power is exercisable by order in relation to—
+
+(a) specified vehicles, or
+
+(b) vehicles of specified persons;
+
+and an order under this subsection may be varied or revoked by a subsequent order of the Secretary of State.]
+
+#### 63A [[^F273] Alteration of plated weights for goods vehicles without examination.
+
+(1) The Secretary of State may by regulations make provision—
+
+(a) for the determination, in such circumstances as may be prescribed, of the plated weights (or any of the plated weights) for goods vehicles of any prescribed class otherwise than on an examination under regulations made under section 49 or 61 of this Act; and
+
+(b) for the amendment of any approval certificate in force in respect of a vehicle of any such class so as to specify the weights determined for that vehicle under the regulations in place of any weights superseded by those weights or the cancellation of any such certificate and the issue in place of it of a different certificate specifying the weights so determined in place of any weights so superseded.
+
+(2) Any person aggrieved by a determination of plated weights for a goods vehicle under regulations made under this section may appeal to the Secretary of State and on the appeal the Secretary of State shall cause the vehicle to be examined by an officer of the Secretary of State appointed by him for the purpose and shall make such determination on the basis of the examination as he thinks fit.
+
+(3) Without prejudice to the generality of subsection (1) above, regulations under this section—
+
+(a) may provide for the determination of any plated weights for a goods vehicle under the regulations to be made by the Secretary of State or by the prescribed testing authority;
+
+(b) may contain the like provisions with respect to any appeal brought by virtue of subsection (2) above and any examination on any such appeal as may be contained in any regulations made by virtue of paragraphs (c), (g) and (h) of section 51(1) of this Act in relation to an appeal under section 50(1) and any examination on any such appeal;
+
+(c) may specify the manner in which, and the time before or within which, applications may be made for the determination of plated weights of vehicles under the regulations, and the information to be supplied and documents to be produced on any such application;
+
+(d) may make provision as to the fees to be paid on any such application;
+
+(e) may provide for the issue of replacements for any plates fixed to a vehicle specifying weights superseded by weights specified in an approval certificate amended under the regulations or in any certificate issued under the regulations in place of an approval certificate, and for the payment of a fee for their issue; and
+
+(f) may make different provision for different cases.
+
+(4) In this section “approval certificate” means a plating certificate and any certificate of conformity or Minister’s approval certificate specifying any plated weights.
+
+(5) Any certificate issued in respect of a goods vehicle under regulations made under this section in replacement of an approval certificate of any description mentioned in subsection (4) above—
+
+(a) shall be in the form appropriate for an approval certificate of that description;
+
+(b) shall be identical in content with the certificate it replaces, save for any alterations in the plated weights authorised by the regulations; and
+
+(c) shall be treated for the purposes of this Part of this Act (including this section) and any regulations made under any provision of this Part of this Act as if it were the same certificate as the certificate it replaces;
+
+and any plate so issued in replacement of a plate fixed to the vehicle under section 57 or 58 of this Act shall, when fixed to the vehicle, be treated as so fixed under that section.]
+
+#### 64 Using goods vehicle with unauthorised weights as well as authorised weights marked on it.
+
+(1) If there is fixed to a goods vehicle a plate containing plated weights of any description—
+
+(a) determined for that vehicle by virtue of sections 49 to 52 of this Act, or
+
+(b) specified in a certificate for that vehicle under section 57(1) or (2) or 58(2) or (5) of this Act,
+
+the vehicle shall not, while it is used on a road, be marked with any other weights, except other plated weights, other weights required or authorised to be marked on the vehicle by regulations under section 41 of this Act or weights so authorised for the purposes of this section by regulations made by the Secretary of State and marked in the prescribed manner.
+
+(2) In the event of a contravention of or failure to comply with this section the owner of the vehicle is guilty of an offence.
+
+#### [^F274]64A Failure to hold EC certificate of conformity for unregistered motor cycle or tractor
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 65 Vehicles and parts not to be sold without required certificate of conformity or Minister’s approval certificate.
+
+(1) If—
+
+(a) any person at any time on or after the day appointed by regulations under section 63(1) of this Act supplies a vehicle or vehicle part of a class to which those regulations apply, and
+
+(b) it does not appear from one or more certificates in force at that time under sections 54 to 58 of this Act that the vehicle or vehicle part complies with all the relevant type approval requirements prescribed by those regulations,
+
+he is guilty of an offence.
+
+[[^F275](1A) For the purposes of subsection (1) above a vehicle shall be taken to comply with all relevant type approval requirements if an [[^F276]EU certificate of conformity] has effect with respect to the vehicle.]
+
+(2) In this section references to supply include—
+
+(a) sell,
+
+(b) offer to sell or supply, and
+
+(c) expose for sale.
+
+(3) A person shall not be convicted of an offence under this section in respect of the supply of a vehicle or vehicle part if he proves—
+
+(a) that it was supplied for export from Great Britain,
+
+(b) that he had reasonable cause to believe that it would not be used on a road in Great Britain or, in the case of a vehicle part, that it would not be fitted to a vehicle used on a road in Great Britain or would not be so used or fitted until it had been certified under sections 54 to 58 of this Act, or
+
+(c) that he had reasonable cause to believe that it would only be used for purposes or in any area prescribed by the Secretary of State under section 63(5) of this Act or, in the case of a goods vehicle, under section 53(5) of this Act.
+
+(4) Nothing in subsection (1) above shall affect the validity of a contract or any rights arising under or in relation to a contract.
+
+#### [^F277]65A Motor cycles not to be sold without EC certificate of conformity
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Conditions for grant of excise licence
+
+#### 66 Regulations prohibiting the grant of excise licences for certain vehicles except on compliance with certain conditions.
+
+(1) The Secretary of State may by regulations provide that where—
+
+(a) application is made for a licence under [[^F278]the Vehicle Excise and Registration Act 1994] for a vehicle to which section 47 of this Act applies, and
+
+(b) in the case of an application relating to a vehicle to which that section applies by virtue of subsection (2)(b) of that section, it appears from the application that the vehicle has been used on roads (whether in Great Britain or elsewhere) before the date of the application,
+
+the licence shall not be granted unless one of the following conditions is satisfied.
+
+(2) Those conditions are that—
+
+(a) there is produced such evidence as may be prescribed of the granting of an effective test certificate or (if it is so prescribed) there is produced such a certificate or the Secretary of State is provided with a copy of it, or
+
+[[^F279](aa) the records maintained under section 45(6B) of this Act provide evidence of the granting of an effective test certificate, or]
+
+(b) there is made such a declaration as may be prescribed that the vehicle is not intended to be used during the period for which the licence is to be in force except for a purpose prescribed under subsection (6), or in an area prescribed under subsection (7), of section 47, or
+
+(c) in the case of an application relating to a vehicle to which section 47 applies by virtue of subsection (2)(b) of that section, the owner of the vehicle declares in writing the year in which the vehicle was manufactured, and the specified period from the date of manufacture has not expired.
+
+(3) The Secretary of State may by regulations provide that where application is made for a licence under the [^M19]Vehicles (Excise) Act 1971 for a goods vehicle to which section 53(2) of this Act applies or for a vehicle of any class to which section 63(1) of this Act applies, the licence shall not be granted unless the requirements of subsection (4), subsection (5) or subsection (6) below are satisfied.
+
+(4) The requirements of this subsection are that—
+
+(a) on any application, after the relevant date within the meaning of section 53(2), for a licence for a vehicle to which section 53(2) applies, there is produced evidence that an effective goods vehicle test certificate is in force for the vehicle,
+
+(b) on the first application, after the day appointed by regulations made by virtue of section 63(1), for a licence for a vehicle of any class to which those regulations apply, there is produced evidence that there is or are one or more certificates in force for the vehicle under sections 54 to 58 of this Act from which it appears that the vehicle complies with all the relevant type approval requirements prescribed by those regulations.
+
+[[^F280](4A) In relation to any application referred to in subsection (3) above the requirement set out in subsection (4)(b) above shall be taken to be satisfied if there is produced evidence that an [[^F281]EU certificate of conformity] has effect with respect to the vehicle.]
+
+(5) The requirements of this subsection are that there is made such a declaration as may be prescribed that the vehicle is not intended to be used during the period for which the licence is to be in force except for a purpose or in an area prescribed under paragraph (a) of section 53(5) or 63(5) of this Act.
+
+(6) The requirements of this subsection are that there is produced in respect of the vehicle a certificate of temporary exemption issued by virtue of paragraph (b) of section 53(5) or paragraph (c) of section 63(5) which exempts that vehicle from the provisions of section 53(2) or 63(1) of this Act, as the case may be, for a period which includes the date on which the licence is to come into force.
+
+(7) Regulations under subsection (3) above may be made so as to apply to such classes only of vehicles as may be specified in the regulations.
+
+(8) For the purposes of this section the date of manufacture of a vehicle shall be taken to be the last day of the year during which its final assembly is completed, except where after that day modifications are made to the vehicle before it is sold or supplied by retail, and in that excepted case shall be taken to be the last day of the year during which the modifications are completed.
+
+(9) In this section—
+
+- “appropriate period” has the same meaning as in section 47 of this Act,
+- “effective goods vehicle test certificate” means, in relation to an application for a licence for a vehicle, a goods vehicle test certificate relating to the vehicle which will be in force on the date on which the licence is to come into force,
+- “effective test certificate” means, in relation to an application for a licence for a vehicle, a test certificate relating to the vehicle and issued within the appropriate period before the date on which the licence is to come into force,
+- “specified period” means the period for the time being specified in section 47(2)(a) and (b) of this Act.
+
+### [^F282] [ Vehicle examiners
+
+#### [^F283] 66A Appointment of examiners.
+
+(1) The Secretary of State shall appoint such examiners as he considers necessary for the purpose of carrying out the functions conferred on them by this Part of this Act, [[^F284]the Goods Vehicles (Licensing of Operators) Act 1995,]] the Public Passenger Vehicles Act 1981, the Transport Act 1968 and any other enactment.
+
+(2) An examiner appointed under this section shall act under the general directions of the Secretary of State.
+
+(3) In this Part of this Act “vehicle examiner” means an examiner appointed under this section.
+
+### [[^F285]Stopping officers
+
+#### 66B Appointment of stopping officers
+
+(1) The Secretary of State shall appoint such officers as the Secretary of State considers necessary for the purpose of exercising the powers conferred on them by—
+
+(a) this Part of this Act;
+
+(b) the Goods Vehicles (Licensing of Operators) Act 1995;
+
+(c) the Public Passenger Vehicles Act 1981;
+
+(d) the Transport Act 1968;
+
+(e) any other enactment.
+
+(2) An officer appointed under this section shall act under the general directions of the Secretary of State.
+
+(3) The Secretary of State must not appoint a person under this section unless the Secretary of State is satisfied that—
+
+(a) the person is a suitable person to exercise the powers of a stopping officer;
+
+(b) the person is capable of effectively exercising those powers; and
+
+(c) the person has received adequate training for the exercise of those powers.
+
+(4) A power exercisable by virtue of an appointment under this section is exercisable only by a person wearing such uniform as may be determined or approved for the purposes of this section by the Secretary of State.
+
+(5) In this Part “stopping officer” means an officer appointed under this section.
+
+#### 66C Stopping officers: offences
+
+(1) A person commits an offence if the person, with intent to deceive, impersonates a stopping officer or makes any statement or does any act calculated falsely to suggest that the person is a stopping officer.
+
+(2) A person commits an offence if the person resists or wilfully obstructs a stopping officer who is exercising the powers of a stopping officer.]
+
+### Testing vehicles on roads
+
+#### 67 Testing of condition of vehicles on roads.
+
+(1) An authorised examiner may test a motor vehicle on a road for the purpose of—
+
+[^F286] [ a ascertaining whether the following requirements, namely—
+
+(i) the construction and use requirements, and
+
+(ii) the requirement that the condition of the vehicle is not such that its use on a road would involve a danger of injury to any person,
+
+are complied with as respects the vehicle;]
+
+(b) bringing to the notice of the driver any failure to comply with those requirements.
+
+[^F287] [ 2 For the purpose of testing a vehicle under this section the examiner—
+
+(a) may require the driver to comply with his reasonable instructions, and
+
+(b) may drive the vehicle.]
+
+(3) [[^F288]Subject to subsection (3A)]A vehicle shall not be required to stop for a test except by a constable in uniform.
+
+(3A) A stopping officer may direct the driver of a vehicle to stop the vehicle for the purposes of a test if the vehicle appears to the officer to be one to which subsection (3B) could apply.
+
+[[^F289](3B) This subsection applies to—
+
+(a) vehicles—
+
+(i) in categories M2 and M3,
+
+(ii) in categories O3 and O4,
+
+as defined in [[^F290]Article 4 of the road vehicles type approval Regulation],
+
+(b) vehicles in categories N2 and N3, as defined in article 2(1) of Directive 2014/45/EU of the European Parliament and of the Council of 3 April 2014 on periodic roadworthiness tests for motor vehicles and their trailers, and
+
+(c) vehicles in category T, as defined in Article 4(1) of the tractor type approval Regulation.]
+
+(4) The following persons may act as authorised examiners for the purposes of this section [[^F291]and section 67A of this Act]—
+
+[^F292]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) a person appointed as an examiner under section [[^F293]66A] of this Act,
+
+(c) a person appointed to examine and inspect public carriages for the purposes of the [^M20]Metropolitan Public Carriage Act 1869,
+
+(d) a person appointed to act for the purposes of this section by the Secretary of State,
+
+(e) a constable authorised so to act by or [[^F294]on behalf of a] chief officer of police,[^F295]...
+
+[[^F296](ea) a person appointed by a chief officer of police in England or Wales (other than the Commissioner of Police for the City of London) to act, under the directions of that chief officer, for the purposes of this section, and]
+
+(f) a person appointed by the police authority [^F297]... [[^F298]in Scotland, or by the Common Council of the City of London,] to act, under the directions of the chief officer of police, for the purposes of this section.
+
+(5) A person mentioned in subsection (4)(a) to (d) [[^F299], (ea)] and (f) must produce his authority to act for the purposes of this section if required to do so.
+
+(6) On the examiner proceeding to test a vehicle under this section, the driver may, unless the test is required under subsection (7) or (8) below to be carried out forthwith, elect that the test shall be deferred to a time, and carried out at a place, fixed in accordance with Schedule 2 to this Act, and the provisions of that Schedule shall apply accordingly.
+
+(7) Where it appears to [[^F300]—
+
+(a) a constable, or
+
+(a) in the case of a vehicle to which subsection (3B) applies, a stopping officer,]
+
+that, by reason of an accident having occurred owing to the presence of the vehicle on a road, it is requisite that a test should be carried out forthwith, [[^F301]the constable or stopping officer] may require it to be so carried out and, if [[^F301]the constable or stopping officer] is not to carry it out himself, may require that the vehicle shall not be taken away until the test has been carried out.
+
+(8) Where in the opinion of [[^F302]—
+
+(a) a constable, or
+
+(b) in the case of a vehicle to which subsection (3B) applies, a stopping officer,]
+
+the vehicle is apparently so defective that it ought not to be allowed to proceed without a test being carried out, [[^F303]the constable or stopping officer] may require the test to be carried out forthwith.
+
+(9) If a person obstructs an authorised examiner acting under this section, or fails to comply with a requirement of this section or Schedule 2 to this Act, he is guilty of an offence.
+
+[^F304]9A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) In this section and in Schedule 2 to this Act—
+
+(a) “test” includes “inspect” or “inspection”, as the case may require, and
+
+(b) references to a vehicle include references to a trailer drawn by it.
+
+#### 67A Remedying defects discovered on roadside test.
+
+[^F305]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 67B Tests to check whether defects have been remedied.
+
+[^F306]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F307]Inspection of public passenger vehicles and goods vehicles]
+
+#### [[^F308]68 Inspection of public passenger vehicles and goods vehicles.
+
+(1) A vehicle examiner—
+
+(a) may at any time, on production if so required of his authority, inspect any vehicle to which this section applies and for that purpose detain the vehicle during such time as is required for the inspection, and
+
+(b) may at any time which is reasonable having regard to the circumstances of the case enter any premises on which he has reason to believe that such a vehicle is kept.
+
+(2) The power conferred by subsection (1) above to inspect a vehicle includes power to test it and to drive it for the purpose of testing it.
+
+(3) A person who intentionally obstructs an examiner in the exercise of his powers under subsection (1) above is guilty of an offence.
+
+(4) A vehicle examiner or a constable in uniform may at any time require any person in charge of a vehicle to which this section applies and which is stationary on a road to proceed with the vehicle for the purpose of having it inspected under this section to any place where an inspection can be suitably carried out (not being more than five miles from the place where the requirement is made).
+
+(5) A person in charge of a vehicle who refuses or neglects to comply with a requirement made under subsection (4) above is guilty of an offence.
+
+(6) This section applies to—
+
+(a) goods vehicles,
+
+(b) public service vehicles, and
+
+(c) motor vehicles which are not public service vehicles but are adapted to carry more than eight passengers;
+
+but subsection (1)(b) above shall not apply in relation to vehicles within paragraph (c) above or in relation to vehicles used to carry passengers for hire or reward only under permits granted under section 19 or 22 of the Transport Act 1985 (use of vehicles by educational and other bodies or in providing community bus services).]
+
+### [[^F309] Prohibition of unfit vehicles]
+
+#### [[^F310]69 Power to prohibit driving of unfit vehicles.
+
+(1) If on any inspection of a vehicle under section 41, 45, 49, 61, 67, 68 or 77 of this Act it appears to a vehicle examiner [[^F311]or authorised inspector] that owing to any defects in the vehicle it is, or is likely to become, unfit for service, he may prohibit the driving of the vehicle on a road—
+
+(a) absolutely, or
+
+(b) for one or more specified purposes, or
+
+(c) except for one or more specified purposes.
+
+(2) If on any inspection of a vehicle under any of the enactments mentioned in subsection (1) above it appears to an authorised constable that owing to any defects in the vehicle driving it (or driving it for any particular purpose or purposes or for any except one or more particular purposes) would involve a danger of injury to any person, he may prohibit the driving of the vehicle on a road—
+
+(a) absolutely, or
+
+(b) for one or more specified purposes, or
+
+(c) except for one or more specified purposes.
+
+(3) A prohibition under this section shall come into force as soon as the notice under subsection (6) below has been given if—
+
+(a) it is imposed by an authorised constable, or
+
+(b) in the opinion of the vehicle examiner [[^F311]or authorised inspector] imposing it the defects in the vehicle in question are such that driving it, or driving it for any purpose within the prohibition, would involve a danger of injury to any person.
+
+(4) Except where subsection (3) applies, a prohibition under this section shall (unless previously removed under section 72 of this Act) come into force at such time not later than ten days from the date of the inspection as seems appropriate to the vehicle examiner [[^F311]or authorised inspector] imposing the prohibition, having regard to all the circumstances.
+
+(5) A prohibition under this section shall continue in force until it is removed under section 72 of this Act.
+
+(6) A person imposing a prohibition under this section shall forthwith give notice in writing of the prohibition to the person in charge of the vehicle at the time of the inspection—
+
+(a) specifying the defects which occasioned the prohibition;
+
+(b) stating whether the prohibition is on all driving of the vehicle or driving it for one or more specified purposes or driving it except for one or more specified purposes (and, where applicable, specifying the purpose or purposes in question); and
+
+(c) stating whether the prohibition is to come into force immediately or at the end of a specified period.
+
+(7) Where a notice has been given under subsection (6) above, any vehicle examiner [[^F311]or authorised inspector] or authorised constable may grant an exemption in writing for the use of the vehicle in such manner, subject to such conditions and for such purpose as may be specified in the exemption.
+
+(8) Where such a notice has been given, any vehicle examiner [[^F311]or authorised inspector]or authorised constable may by endorsement on the notice vary its terms and, in particular, alter the time at which the prohibition is to come into force or suspend it if it has come into force.
+
+(9) In this section “authorised constable” means a constable authorised to act for the purposes of this section by or on behalf of a chief officer of police.]
+
+#### [[^F312]69A Prohibitions conditional on inspection etc.
+
+(1) Where it appears to the person imposing a prohibition under section 69 of this Act that the vehicle is adapted to carry more than eight passengers, or is a public service vehicle not so adapted, the prohibition may be imposed with a direction making it irremovable unless and until the vehicle has been inspected at an official PSV testing station within the meaning of the Public Passenger Vehicles Act 1981.
+
+(2) Where it appears to that person that the vehicle is of a class to which regulations under section 49 of this Act apply, the prohibition may be imposed with a direction making it irremovable unless and until the vehicle has been inspected at an official testing station.
+
+(3) Where it appears to that person that the vehicle is one to which section 47 of this Act applies, or would apply if the vehicle had been registered under [[^F313]the Vehicle Excise and Registration Act 1994]] more than three years earlier, the prohibition may be imposed with a direction making it irremovable unless and until the vehicle has been inspected, and a test certificate issued, under section 45 of this Act.
+
+(4) In any other case, the prohibition may be imposed with a direction making it irremovable unless and until the vehicle has been inspected in accordance with regulations under section 72 of this Act by a vehicle examiner or authorised constable (within the meaning of section 69 of this Act).
+
+#### 70 Power to prohibit driving of overloaded goods vehicles.
+
+(1) Subsections (2) and (3) below apply where a goods vehicle [[^F314], or a motor vehicle adapted to carry more than eight passengers,] has been weighed in pursuance of a requirement imposed under section 78 of this Act and it appears to—
+
+(a) [[^F315]a vehicle examiner],
+
+(b) a person authorised with the consent of the Secretary of State to act for the purposes of this subsection by—
+
+(i) a highway authority other than the Secretary of State, or
+
+(ii) a local roads authority in Scotland, or
+
+(c) a constable authorised to act for those purposes by or on behalf of a chief officer of police,
+
+that the limit imposed by construction and use requirements with respect to any description of weight which is applicable to that vehicle has been exceeded or would be exceeded if it were used on a road [[^F316]or that by reason of excessive overall weight or excessive axle weight on any axle driving the vehicle would involve a danger of injury to any person].
+
+(2) The person to whom it so appears may, whether or not a notice is given under section [[^F317]69(6)] of this Act, give notice in writing to the person in charge of the vehicle prohibiting the driving of the vehicle on a road until—
+
+(a) that weight is reduced to that limit [[^F318]or, as the case may be, so that it is no longer excessive], and
+
+(b) official notification has been given to whoever is for the time being in charge of the vehicle that it is permitted to proceed.
+
+(3) The person to whom it so appears may also by direction in writing require the person in charge of the vehicle to remove it (and, if it is a motor vehicle drawing a trailer, also to remove the trailer) to such place and subject to such conditions as are specified in the direction; and the prohibition shall not apply to the removal of the vehicle or trailer in accordance with that direction.
+
+(4) Official notification for the purposes of subsection (2) above—
+
+(a) must be in writing and be given by [[^F319]a vehicle examiner], a person authorised as mentioned in subsection (1) above or a constable authorised as so mentioned, and
+
+(b) may be withheld until the vehicle has been weighed or reweighed in order to satisfy the person giving the notification that the weight has been sufficiently reduced.
+
+(5) Nothing in this section shall be construed as limiting the power of the Secretary of State to make regulations under section 71(2) of this Act.
+
+#### [[^F320]71 Unfit and overloaded vehicles: offences.
+
+(1) A person who—
+
+(a) drives a vehicle in contravention of a prohibition under section 69 or 70 of this Act, or
+
+(b) causes or permits a vehicle to be driven in contravention of such a prohibition, or
+
+(c) fails to comply within a reasonable time with a direction under section 70(3) of this Act,
+
+is guilty of an offence.
+
+(2) The Secretary of State may by regulations provide for exceptions from subsection (1) above.]
+
+#### [[^F321]72 Removal of prohibitions.
+
+(1) Subject to the following provisions of this section, a prohibition under section 69 or 70 of this Act may be removed by any vehicle examiner or authorised constable if he is satisfied that the vehicle is fit for service.
+
+(2) If the prohibition has been imposed with a direction under section 69A(1) or (2) of this Act, the prohibition shall not be removed unless and until the vehicle has been inspected in accordance with the direction.
+
+(3) If the prohibition has been imposed with a direction under section 69A(3) of this Act, subsection (1) above shall not apply; but the prohibition shall be removed, by such person as may be prescribed, if (and only if) any prescribed requirements relating to the inspection of the vehicle and the issue and production of a test certificate have been complied with.
+
+(4) If the prohibition has been imposed with a direction under section 69A(4) of this Act, the prohibition shall not be removed unless and until any prescribed requirements relating to the inspection of the vehicle have been complied with.
+
+(5) A person aggrieved by the refusal of a vehicle examiner or authorised constable to remove a prohibition may, within the prescribed time and in the prescribed manner, appeal to the Secretary of State.
+
+(6) The Secretary of State may make such order on the appeal as he thinks fit.
+
+(7) Where a vehicle examiner or authorised constable removes a prohibition, he must forthwith give notice of the removal to the owner of the vehicle.
+
+(8) The Secretary of State may require the payment of fees, in accordance with prescribed scales and rates, for the inspection of a vehicle with a view to the removal of a prohibition; and—
+
+(a) payment of fees may be required to be made in advance, and
+
+(b) the Secretary of State must ensure that all the scales and rates prescribed for the purposes of this subsection are reasonably comparable with—
+
+(i) in the case of goods vehicles, the fees charged by virtue of section 51(1)(h) in respect of periodic examination, and
+
+(ii) in the case of other vehicles, the fees charged by virtue of section 46(c).
+
+(9) The Secretary of State may make regulations for prescribing anything which may be prescribed under this section and for regulating the procedure, and fees payable, on appeals to him under subsection (5) above.
+
+(10) In this section “authorised constable” means a constable authorised to act for the purposes of this section by or on behalf of a chief officer of police.]
+
+#### [^F322]72A Official testing stations.
+
+The Secretary of State may provide and maintain stations (in this Part of this Act referred to as “official testing stations”) where inspections of goods vehicles for the purposes of section 72 may be carried out and may provide and maintain the apparatus for carrying out such inspections.
+
+#### 73 Provisions supplementary to sections 69 to 72.
+
+[[^F323](1) Where it appears to a person giving a notice under section 69(6) or 70(2) of this Act that the vehicle concerned is [[^F324], by virtue of section 5 of the Goods Vehicles (Licensing of Operators) Act 1995, authorised to be used under an operator’s licence,]], he must as soon as practicable take steps to bring the contents of the notice to the attention of—
+
+[[^F325](a) a traffic commissioner, and]
+
+(b) the holder of the licence if he is not in charge of the vehicle at the time when the notice is given.
+
+[^F326][1ZA Where in a case within subsection (1) above it appears to the person giving the notice that the vehicle is authorised to be used under two or more operators’ licences—
+
+[^F327]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) if those licences are held by different persons and none of those persons is in charge of the vehicle at the time when the notice is given, his duty under paragraph (b) of that subsection may be discharged by taking steps to bring the contents of the notice to the attention of any one of those persons, and
+
+(c) if those licences are held by different persons and any of those persons is in charge of the vehicle at the time when the notice is given, no steps need be taken under that subsection to bring the contents of the notice to the attention of the others.]
+
+(1A) Where it appears to a person giving a notice under section 69(6) or 70(2) of this Act that the vehicle concerned is used under a PSV operator’s licence, he must as soon as practicable take steps to bring the contents of the notice to the attention of—
+
+[[^F328](a) a traffic commissioner, and]
+
+(b) the holder of the licence if he is not in charge of the vehicle at the time when the notice is given.
+
+(1B) In a case not within subsection (1) or subsection (1A) above, a person giving a notice under section 69(6) or 70(2) of this Act must as soon as practicable take steps to bring the contents of the notice to the attention of the owner of the vehicle if he is not in charge of it at the time when the notice is given.
+
+(1C) A person giving a notice to the owner of a vehicle under section 72(7) of this Act must as soon as practicable take steps to bring the contents of the notice to the attention of any other person—
+
+(a) who was the person to whom the previous notice under section 69(6) or 70(2) was given and was then the owner of the vehicle, or
+
+(b) to whose attention the contents of the previous notice [[^F329]were required to be brought] under this section.
+
+[^F330]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Any reference in sections 69 to 72 of this Act to the driving of a vehicle is, in relation to a trailer, a reference to the driving of the vehicle by which the trailer is drawn.
+
+(4) In this section [[^F331]“operator’s licence” has the same meaning as in the Goods Vehicles (Licensing of Operators) Act 1995][[^F332]; and “PSV operator’s licence” has the same meaning as in the Public Passenger Vehicles Act 1981].
+
+[[^F333](5) Schedule 4 to the Road Safety Act 2006 makes provision about the immobilisation of vehicles the driving of which has been prohibited under section 69 or 70 of this Act and about their removal and disposal.]
+
+### Miscellaneous provisions about vehicles and vehicle parts
+
+#### 74 Operator’s duty to inspect, and keep records of inspections of, goods vehicles.
+
+(1) The Secretary of State may make regulations requiring the operator for the time being of a goods vehicle to which the regulations apply to secure—
+
+(a) the carrying out by a suitably qualified person (including the operator if so qualified) of an inspection of the vehicle for the purpose of ascertaining whether [[^F334]the following requirements are complied with, namely—
+
+(i)] the construction and use requirements with respect to any prescribed matters, being requirements applicable to the vehicle, [[^F335]and
+
+(ii) the requirement that the condition of the vehicle is not such that its use on a road would involve a danger of injury to any person]
+
+and
+
+(b) the making and authentication of records of such matters relating to any such inspection as may be prescribed, including records of the action taken to remedy any defects discovered on the inspection,
+
+and providing for the preservation of such records for a prescribed period not exceeding fifteen months and their custody and production during that period.
+
+(2) Regulations under this section may—
+
+(a) apply to all goods vehicles or to goods vehicles of such classes as may be prescribed,
+
+(b) require the inspection of goods vehicles under the regulations to be carried out at such times, or before the happening of such events, as may be prescribed, and
+
+(c) make different provision for different cases.
+
+(3) Any person who contravenes or fails to comply with any provision of regulations under this section is guilty of an offence.
+
+(4) In this section “the operator”, in relation to a goods vehicle, means the person to whom it belongs or the hirer of it under a hire purchase agreement; but, if he has let it on hire (otherwise than by way of hire-purchase) or lent it to any other person, it means a person of a class prescribed by regulations under this section in relation to any particular class of goods vehicles or, subject to any such regulations, that other person.
+
+#### 75 Vehicles not to be sold in unroadworthy condition or altered so as to be unroadworthy.
+
+(1) Subject to the provisions of this section no person shall supply a motor vehicle or trailer in an unroadworthy condition.
+
+(2) In this section references to supply include—
+
+(a) sell,
+
+(b) offer to sell or supply, and
+
+(c) expose for sale.
+
+(3) For the purposes of subsection (1) above a motor vehicle or trailer is in an unroadworthy condition if—
+
+(a) it is in such a condition that the use of it on a road in that condition would be unlawful by virtue of any provision made by regulations under section 41 of this Act as respects—
+
+(i) brakes, steering gear or tyres, or
+
+(ii) the construction, weight or equipment of vehicles,. . .
+
+[^F336]iii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F337](b) it is in such a condition that its use on a road would involve a danger of injury to any person]
+
+(4) Subject to the provisions of this section no person shall alter a motor vehicle or trailer so as to render its condition such that the use of it on a road in that condition
+
+[[^F338](a)] would be unlawful by virtue of any provision made as respects the construction, weight or equipment of vehicles by regulations under section 41 [[^F339]or
+
+(b) would involve a danger of injury to any person.]
+
+(5) A person who supplies or alters a motor vehicle or trailer in contravention of this section, or causes or permits it to be so supplied or altered, is guilty of an offence.
+
+(6) A person shall not be convicted of an offence under this section in respect of the supply or alteration of a motor vehicle or trailer if he proves—
+
+(a) that it was supplied or altered, as the case may be, for export from Great Britain, or
+
+(b) that he had reasonable cause to believe that the vehicle or trailer would not be used on a road in Great Britain, or would not be so used until it had been put into a condition in which it might lawfully be so used, [^F340]. . .
+
+[^F341]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F342](6A) Paragraph (b) of subsection (6) above shall not apply in relation to a person who, in the course of a trade or business—
+
+(a) exposes a vehicle or trailer for sale, unless he also proves that he took all reasonable steps to ensure that any prospective purchaser would be aware that its use in its current condition on a road in Great Britain would be unlawful, or
+
+(b) offers to sell a vehicle or trailer, unless he also proves that he took all reasonable steps to ensure that the person to whom the offer was made was aware of that fact.]
+
+(7) Nothing in the preceding provisions of this section shall affect the validity of a contract or any rights arising under a contract.
+
+[^F343]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 76 Fitting and supply of defective or unsuitable vehicle parts.
+
+(1) If any person—
+
+(a) fits a vehicle part to a vehicle, or
+
+(b) causes or permits a vehicle part to be fitted to a vehicle,
+
+in such circumstances that the use of the vehicle on a road would, by reason of that part being fitted to the vehicle [[^F344]involve a danger of injury to any person or], constitute a contravention of or failure to comply with any of the construction and use requirements, he is guilty of an offence.
+
+(2) A person shall not be convicted of an offence under subsection (1) above if he proves—
+
+(a) that the vehicle to which the part was fitted was to be exported from Great Britain, or
+
+(b) that he had reasonable cause to believe that that vehicle—
+
+(i) would not be used on a road in Great Britain, or
+
+(ii) that it would not be so used until it had been put into a condition in which its use [[^F345]on a road] would not constitute a contravention of or a failure to comply with any of the construction and use requirements [[^F345]and would not involve a danger of injury to any person.].
+
+(3) If a person—
+
+(a) supplies a vehicle part or causes or permits a vehicle part to be supplied, and
+
+(b) has reasonable cause to believe that the part is to be fitted to a motor vehicle, or to a vehicle of a particular class, or to a particular vehicle,
+
+he is guilty of an offence if that part could not be fitted to a motor vehicle or, as the case may require, to a vehicle of that class or of a class to which the particular vehicle belongs, except in such circumstances that the use of the vehicle on a road would, by reason of that part being fitted to the vehicle, constitute a contravention of or failure to comply with any of the construction and use requirements [[^F346]or involve a danger of injury to any person].
+
+(4) In this section references to supply include—
+
+(a) sell, and
+
+(b) offer to sell or supply.
+
+(5) A person shall not be convicted of an offence under subsection (3) above in respect of the supply of a vehicle part if he proves—
+
+(a) that the part was supplied for export from Great Britain, or
+
+(b) that he had reasonable cause to believe that—
+
+(i) it would not be fitted to a vehicle used on a road in Great Britain, or
+
+(ii) it would not be so fitted until it had been put into such a condition that it could be fitted otherwise than in such circumstances that the use of the vehicle on a road would, by reason of that part being fitted to the vehicle, constitute a contravention of or failure to comply with any of the construction and use requirements [[^F346]or involve a danger of injury to any person].
+
+(6) An authorised examiner may at any reasonable hour enter premises where, in the course of a business, vehicle parts are fitted to vehicles or are supplied and test and inspect any vehicle or vehicle part found on those premises for the purpose of ascertaining whether—
+
+(a) a vehicle part has been fitted to the vehicle in such circumstances that the use of the vehicle on a road would, by reason of that part being fitted to the vehicle, constitute a contravention of or failure to comply with any of the construction and use requirements [[^F346]or involve a danger of injury to any person], or
+
+(b) the vehicle part could not be supplied for fitting to a vehicle used on roads in Great Britain without the commission of an offence under subsection (3) above.
+
+(7) For the purpose of testing a motor vehicle and any trailer drawn by it the authorised examiner may drive it and for the purpose of testing a trailer may draw it with a motor vehicle.
+
+(8) Any person who obstructs an authorised examiner acting under subsection (6) or (7) above is guilty of an offence.
+
+(9) In subsections (6) to (8) above “authorised examiner” means a person who may act as an authorised examiner for the purposes of section 67 of this Act; and any such person, other than a constable in uniform, shall produce his authority to act for the purpose of subsections (6) and (7) above if required to do so.
+
+(10) Nothing in this section shall affect the validity of a contract or of any rights arising under a contract.
+
+[[^F347](11) In this section—
+
+(a) references to a vehicle part include software (except in subsection (5)(a)), and
+
+(b) references to fitting a vehicle part to a vehicle include installing software in, or otherwise making software interact with, a vehicle.]
+
+#### 77 Testing condition of used vehicles at sale rooms, etc.
+
+(1) An authorised examiner may at any reasonable hour enter premises where used motor vehicles or trailers are supplied in the course of a business and test and inspect any used motor vehicle or trailer found on the premises for the purpose of ascertaining whether it is in an unroadworthy condition for the purposes of section 75(1) of this Act.
+
+(2) In this section (except paragraph (d) below) references to supply include—
+
+(a) sell,
+
+(b) offer for sale or supply,
+
+(c) expose for sale, and
+
+(d) otherwise keep for sale or supply.
+
+(3) An authorised examiner may at any reasonable hour enter premises where vehicles or vehicle parts of a class prescribed for the purposes of section 63 of this Act are supplied in the course of a business and test and inspect any such vehicle or vehicle part for the purpose of ascertaining whether the vehicle or vehicle part complies with the type approval requirements applicable to a vehicle or vehicle part of that class.
+
+(4) For the purpose of testing a motor vehicle and any trailer drawn by it the authorised examiner may drive it and for the purpose of testing a trailer may draw it with a motor vehicle.
+
+(5) A person who obstructs an authorised examiner acting under this section is guilty of an offence.
+
+(6) In this section “authorised examiner” means a person who may act as an authorised examiner for the purposes of section 67 of this Act; and any such person, other than a constable in uniform, shall produce his authority to act for the purposes of that section if required to do so.
+
+(7) A motor vehicle or trailer shall be treated for the purposes of this section as used if, but only if, it has previously been sold or supplied by retail.
+
+#### 78 Weighing of motor vehicles.
+
+(1) Subject to any regulations made by the Secretary of State, an authorised person may, on production of his authority, require the person in charge of a motor vehicle—
+
+(a) to allow the vehicle or any trailer drawn by it to be weighed, either laden or unladen, and the weight transmitted to the road by any parts of the vehicle or trailer in contact with the road to be tested, and
+
+(b) for that purpose, to proceed to a weighbridge or other machine for weighing vehicles.
+
+(2) For the purpose of enabling a vehicle or a trailer drawn by it to be weighed or a weight to be tested in accordance with regulations under subsection (1) above, an authorised person may require the person in charge of the vehicle to drive the vehicle or to do any other thing in relation to the vehicle or its load or the trailer or its load which is reasonably required to be done for that purpose.
+
+(3) If a person in charge of a motor vehicle—
+
+(a) refuses or neglects to comply with any requirement under subsection (1) or (2) above, or
+
+(b) obstructs an authorised person in the exercise of his functions under this section,
+
+he is guilty of an offence.
+
+(4) An authorised person may not require the person in charge of the motor vehicle to unload the vehicle or trailer, or to cause or allow it to be unloaded, for the purpose of its being weighed unladen.
+
+(5) Regulations under subsection (1) above may make provision with respect to—
+
+(a) the manner in which a vehicle or trailer is to be weighed or a weight is to be tested as mentioned in subsection (1) above, and
+
+(b) the limits within which, unless the contrary is proved, any weight determined by a weighbridge or other machine for weighing vehicles is to be presumed to be accurate for the purposes of any provision made by or under this Act or by or under any other enactment relating to motor vehicles or trailers,
+
+and the regulations may make different provision in relation to vehicles of different classes, in relation to different types of weighbridges and other machines and in relation to different circumstances.
+
+(6) If—
+
+(a) at the time when the requirement is made the vehicle is more than five miles from the weighbridge or other machine, and
+
+(b) the weight is found to be within the limits authorised by law,
+
+the highway authority (in Scotland, roads authority) on whose behalf the requirement is made must pay, in respect of loss occasioned, such amount as in default of agreement may be determined by a single arbitrator (in Scotland, arbiter) agreed upon by the parties or, in default of agreement, appointed by the Secretary of State.
+
+(7) The Secretary of State may by order designate areas in Great Britain where subsection (6) above is to have effect, in such cases as may be specified by the order, with the substitution for five miles of a greater distance so specified.
+
+An order under this subsection shall be made by statutory instrument subject to annulment by a resolution of either House of Parliament.
+
+(8) In this section—
+
+(a) “road” includes any land which forms part of a harbour or which is adjacent to a harbour and is occupied wholly or partly for the purposes of harbour operations,
+
+(b) “authorised person” means a person authorised by a highway authority (in Scotland, a roads authority) or a constable authorised on behalf of such an authority by a [[^F348]local policing body or a] police authority or a chief officer of police,
+
+and in this subsection “harbour” and “harbour operations” have the meanings given to them by section 57(1) of the [^M21]Harbours Act 1964.
+
+#### 79 Further provisions relating to weighing of motor vehicles.
+
+[[^F349](A1) A stopping officer may direct the driver of a vehicle to stop the vehicle for the purpose of it being weighed under section 78 if the vehicle appears to the officer to be one to which subsection (A2) could apply.]
+
+[[^F349](A2) This subsection applies to—
+
+(a) motor vehicles in categories M<sub>2</sub> and M<sub>3</sub> and their trailers in category O;
+
+(b) motor vehicles in categories N<sub>2</sub> and N<sub>3</sub> and their trailers in categories O<sub>3</sub> and O<sub>4</sub>,
+
+as defined in [[^F350]Article 4 of the road vehicles type approval Regulation].]
+
+(1) Where a motor vehicle or trailer is weighed under section 78 of this Act, a certificate of weight must be given to the person in charge of the vehicle, and the certificate so given shall exempt the motor vehicle and the trailer, if any, from being weighed so long as it is during the continuance of the same journey carrying the same load.
+
+(2) On production of his authority—
+
+[^F351]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) an examiner appointed under section [[^F352]66A] of this Act, or
+
+(c) any of the Secretary of State’s officers authorised by him in that behalf,
+
+may at any time exercise with respect to the weighing of [[^F352]goods vehicles, public service vehicles, and vehicles which are not public service vehicles but are adapted to carry more than eight passengers,] all such powers with respect to the weighing of motor vehicles and trailers as are exercisable under section 78 of this Act by a constable authorised as mentioned in subsection (8) of that section.
+
+(3) The provisions of section 78 of this Act shall apply accordingly in relation to [[^F353]such vehicles]—
+
+(a) as if references to a constable so authorised included references to such [[^F354]an] examiner or officer of the Secretary of State, and
+
+(b) as if the reference in subsection (6) to the authority on whose behalf the requirement is made were a reference to the Secretary of State, and
+
+(c) as if the reference in that subsection to the Secretary of State were a reference, in relation to England and Wales, to the Lord Chief Justice of England and, in relation to Scotland, to the Lord President of the Court of Session.
+
+(4) A certificate in the prescribed form which—
+
+(a) purports to be signed by an authorised person (within the meaning of section 78 of this Act) or by a person exercising powers by virtue of subsection (2) above, and
+
+(b) states, in relation to a vehicle identified in the certificate, any weight determined in relation to that vehicle on the occasion of its being brought to a weighbridge or other machine in pursuance of a requirement under section 78(1) of this Act,
+
+shall be evidence (in Scotland, sufficient evidence) of the matter so stated.
+
+(5) If, for the purposes of or in connection with the determination of any weight in relation to a vehicle which is brought to a weighbridge or other machine as mentioned in section 78(1) of this Act, an authorised person (within the meaning of that section) or a person exercising powers by virtue of subsection (2) above—
+
+(a) drives a vehicle or does any other thing in relation to a vehicle or its load or a trailer or its load, or
+
+(b) requires the driver of a vehicle to drive it in a particular manner or to a particular place or to do any other thing in relation to a vehicle or its load or a trailer or its load,
+
+neither he nor any person complying with such a requirement shall be liable for any damage to or loss in respect of the vehicle or its load or the trailer or its load unless it is shown that he acted without reasonable care.
+
+[^F355]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 80 Approval marks.
+
+(1) Where any international agreement to which the United Kingdom is a party or [[^F356]an] [[^F356]EU] obligation provides—
+
+(a) for markings to be applied—
+
+(i) to motor vehicle parts of any description to indicate conformity with a type approved by any country, or
+
+(ii) to a motor vehicle to indicate that the vehicle is fitted with motor vehicle parts of any description and either that the parts conform with a type approved by any country or that the vehicle is such that as so fitted it conforms with a type so approved, and
+
+(b) for motor vehicle parts or, as the case may be, motor vehicles, bearing those markings to be recognised as complying with the requirements imposed by the law of another country,
+
+the Secretary of State may by regulations designate the markings as approval marks [^F357]. . .
+
+(2) Any person who, without being authorised by the competent authority to apply any approval mark, applies that mark or a mark so nearly resembling it as to be calculated to deceive is guilty of an offence under the Trade Descriptions Act 1968 [^F358]. . .
+
+(3) The conditions subject to which approval of any type may be given on behalf of the United Kingdom or the use of approval marks indicating conformity with a type approved by the United Kingdom may be authorised may include such conditions as to testing or inspection and the payment of fees as the Secretary of State may impose.
+
+(4) In this section—
+
+- “motor vehicle” means a mechanically propelled vehicle or a vehicle designed or adapted for towing by a mechanically propelled vehicle,
+
+- “motor vehicle part” means any article made or adapted for use as part of a mechanically propelled vehicle or a vehicle drawn by a mechanically propelled vehicle, or for use as part of the equipment of any such vehicle, and shall be treated as including any equipment for the protection of drivers or passengers in or on a motor vehicle notwithstanding that it does not form part of, or of the equipment of, that vehicle, and
+
+- “the competent authority” means—
+
+  - (a) as respects any approval marks indicating conformity with a type approved by the United Kingdom, the Secretary of State, and
+  - (b) as respects any approval marks indicating conformity with a type approved by any other country, the authority having power under the law of that country to authorise the use of that mark.
+
+### Pedal cycles and horse-drawn vehicles
+
+#### 81 Regulation of brakes, bells etc., on pedal cycles.
+
+(1) The Secretary of State may make regulations as to the use on roads of cycles, their construction and equipment and the conditions under which they may be so used.
+
+(2) In particular, but without prejudice to the generality of subsection (1) above, the regulations may make provision as to—
+
+(a) the number, nature and efficiency of brakes and their maintenance in proper working order,
+
+(b) the appliances to be fitted for signalling approach and their maintenance in proper working order, and
+
+(c) the testing and inspection, by persons authorised under the regulations, of any equipment prescribed under this section and of lighting equipment and reflectors.
+
+(3) Regulations under this section may provide for repealing byelaws dealing with the same subject-matter as the regulations, and for suspending while the regulations remain in force any power of making such byelaws.
+
+(4) Regulations under this section may be made so as to apply either generally or in such circumstances only as may be specified in the regulations.
+
+(5) Regulations under this section as to the use on roads of cycles may prohibit the sale or supply, or the offer of a sale or supply, of a cycle for delivery in such a condition that the use of it on a road in that condition would be a contravention of the regulations, but no provision made by virtue of this subsection shall affect the validity of any contract or any rights arising under a contract.
+
+(6) If a person sells or supplies or offers to sell or supply a cycle in contravention of any prohibition imposed by regulations made by virtue of subsection (5) above, he is guilty of an offence, unless he proves—
+
+(a) that it was sold, supplied or offered for export from Great Britain, or
+
+(b) that he had reasonable cause to believe that it would not be used on a road in Great Britain, or would not be so used until it had been put into a condition in which it might lawfully be so used.
+
+#### 82 Regulation of brakes on horse-drawn vehicles.
+
+(1) The Secretary of State may make regulations for regulating the number, nature and use of brakes, including skid pans and locking-chains, in the case of vehicles drawn by horses or other animals, or any class of such vehicles, when used on roads.
+
+(2) Regulations under this section may be made for securing that such brakes are efficient and kept in proper working order, and for empowering persons authorised by or under the regulations to test and inspect any such brakes, whether on a road or elsewhere.
+
+[^F359]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Regulations under this section may be made so as to apply either generally or in such circumstances only as may be specified in the regulations.
+
+### Miscellaneous
+
+#### 83 Offences to do with reflectors and tail lamps.
+
+A person who sells, or offers or exposes for sale, any appliance adapted for use as a reflector or tail lamp to be carried on a vehicle in accordance with the provisions of this Act or of any regulations made under it, not being an appliance which complies with the construction and use requirements applicable to a class of vehicles for which the appliance is adapted, is guilty of an offence.
+
+#### 84 Appointment of officials and destination of fees.
+
+(1) Subject to the consent of the Treasury as to number, the Secretary of State may appoint such officers and servants as he considers necessary for the operation of the provisions of sections 68 to 73 of this Act.
+
+(2) There shall be paid to [[^F360]examiners appointed under section 66A] of this Act such remuneration or salaries and such allowances (if any) as the Secretary of State may, with the consent of the Treasury, determine.
+
+(3) In every year there shall be paid out of monies provided by Parliament such sums as the Secretary of State may, with the consent of the Treasury, direct in respect of the remuneration, salaries and allowances under subsection (2) above and the other expenses of examiners.
+
+(4) Any sum received by the Secretary of State in pursuance of sections 45, 46, 49 to 51, 54 to 62,72(9) and 80 of this Act shall be paid into the Consolidated Fund.
+
+#### 85 Interpretation of Part II.
+
+In this Part of this Act—
+
+- [^F361]...
+- [^F362]...
+- [[^F363]“EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993;]
+- “EEA State” means a state which is a contracting Party to the EEA Agreement;
+- [[^F364]“EU certificate of conformity” means a certificate of conformity issued by a manufacturer under Article 38 of the motorcycle type approval Regulation, or under Article 38 of that Regulation as it has effect in EU law;]
+- [[^F365]“the EU Tachographs Regulation” means Regulation (EU) No. 165/2914 of the European Parliament and of the Council on tachographs in road transport as read with the Community Drivers’ Hours and Recording Equipment Regulations 2007;]
+- [^F366]...
+- [^F367]...
+- [^F367]...
+- [[^F368]“the motorcycle type approval Regulation” means Regulation (EU) No 168/2013 of the European Parliament and of the Council of 15th January 2013 on the approval and market surveillance of two- or three-wheel vehicles and quadricycles as it may be amended from time to time,]
+- “official testing station” means a testing station maintained by the Secretary of State under section [[^F369]72A] of this Act,
+- “prescribed” means prescribed by regulations made by the Secretary of State,
+- [[^F370]“public service vehicle” has the same meaning as in the Public Passenger Vehicles Act 1981,]
+- [[^F371]“the road vehicles type approval Directive” means Directive 2007/46/EC of the European Parliament and of the Council of 5th September 2007 establishing a framework for the approval of motor vehicles and their trailers and of systems, components and separate technical units intended for such vehicles,]
+- [[^F372]“the road vehicles type approval Regulation” means Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles,]
+- “sold or supplied by retail” means sold or supplied otherwise than to a person acquiring solely for the purpose of resale or of re-supply for a valuable consideration,
+- “tail lamp” means, in relation to a vehicle, any lamp carried attached to the vehicle for the purpose of showing a red light to the rear in accordance with regulations under section 41 of this Act,
+- [[^F373]“the tractor type approval Regulation” means Regulation (EU) No 167/2013 of the European Parliament and of the Council of 5th February 2013 on the approval and market surveillance of agricultural and forestry vehicles as it may be amended from time to time,]
+- “traffic area” has the same meaning as in the Public Passenger Vehicles Act 1981 [^M22], and
+- “vehicle part” means any article which is a motor vehicle part, within the meaning of section 80 of this Act, and any other article which is made or adapted for use as part of, or as part of the equipment of, a vehicle which is intended or adapted to be used on roads but which is not a motor vehicle within the meaning of that section.
+
+#### 86 Index to Part II.
+
+The expressions listed in the left-hand column below are respectively defined or (as the case may be) fall to be construed in accordance with the provisions of this Part of this Act listed in the right-hand column in relation to those expressions.
+
+|  |  |
+|---|---|
+| Certificate of conformity | [[^F374]Section 57(1A)] |
+| [^F375] . . . | [^F375] . . . |
+| Construction and use requirements | Section 41(7) |
+| Design weights | Section 54(3) |
+| [[^F376]EU certificate of conformity] | [[^F377] Section 85] |
+| [[^F378]EU Tachographs Regulation | section 85] |
+| Examination for plating | Section 49(4) |
+| Goods vehicle examiner | Section 68(2) |
+| Goods vehicle test | Section 49(4) |
+| Goods vehicle test certificate | Section 49(2)(b) |
+| [^F379] . . . | [^F379] . . . |
+| [^F380] . . . | [^F380] . . . |
+| [^F380] . . . | [^F380] . . . |
+| Minister’s approval certificate | Section 58(1) |
+| [[^F381]Motorcycle type approval Regulation] | [[^F377] Section 85] |
+| Official testing station | Section 85 |
+| Plating certificate | Section 49(2)(a) |
+| Plated particulars | Section 41(7) |
+| Plated weights | Section 41(7) |
+| Prescribed | Section 85 |
+| [[^F382]Public service vehicle] | [[^F382]Section 85] |
+| Relevant aspects of design, construction, equipment and marking | Section 54(6) |
+| [[^F383]Road vehicles type approval Directive | Section 85] |
+| [[^F384]Road vehicles type approval Regulation | Section 85] |
+| Sold or supplied by retail | Section 85 |
+| [[^F385]Stopping officer | Section 66B] |
+| Tail lamp | Section 85 |
+| Test certificate | Section 45(2) |
+| [[^F386]Tractor type approval Regulation] | Section 85 |
+| Traffic area | Section 85 |
+| Type approval certificate | Section 55(2) |
+| Type approval requirements | Section 54(1) |
+| [[^F382]Vehicle examiner] | [[^F382]Section 66A] |
+| Vehicle part | Section 85 |
+
+## Part III — Licensing of drivers of vehicles
+
+### Requirement to hold licence
+
+#### 87 Drivers of motor vehicles to have driving licences.
+
+(1) It is an offence for a person to drive on a road a motor vehicle of any class [[^F387]otherwise than in accordance with] a licence authorising him to drive a motor vehicle of that class.
+
+(2) It is an offence for a person to cause or permit another person to drive on a road a motor vehicle of any class [[^F388]otherwise than in accordance with a licence authorising that other person] to drive a motor vehicle of that class.
+
+[^F389]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 88 Exceptions.
+
+(1) Notwithstanding section 87 of this Act, a person may drive or cause or permit another person to drive a vehicle of any class [[^F390]at any time] if—
+
+[[^F391](a) the driver has held—
+
+(i) a licence under this Part of this Act to drive vehicles of that or a corresponding class, or
+
+[[^F392](ia) a Community licence to drive vehicles of that or a corresponding class, or]
+
+(ii) a Northern Ireland licence to drive vehicles of that or a corresponding class, or
+
+(iii) a British external licence or British Forces licence to drive vehicles of that or a corresponding class, or
+
+(iv) an exchangeable licence to drive vehicles of that or a corresponding class, and
+
+(b) either—
+
+(i) a qualifying application by the driver for the grant of a licence to drive vehicles of that class for a period which includes that time has been received by the Secretary of State, or
+
+[[^F393](ii) a licence to drive vehicles of that class granted to him has been revoked or surrendered in pursuance of section 99(2A), (3) or (4) of this Act otherwise than by reason of a current disqualification or of its having been granted in error and he has complied with any requirements imposed on him under section 99(7B) of this Act, and]]
+
+(c) any conditions which by virtue of section 97(3) or 98(2) of this Act apply to the driving under the authority of the licence of vehicles of that class are complied with.
+
+[[^F394](1A) An application for the grant of a licence to drive vehicles of any class is a qualifying application for the purposes of subsection (1)(b)(i) above if—
+
+(a) the requirements of paragraphs (a), (b) so far as it relates to initial evidence and (c) of section 97(1) of this Act have been satisfied;
+
+(b) the applicant—
+
+(i) is not subject to a current disqualification which is relevant to the licence he applies for, and
+
+(ii) is not prevented from obtaining it by section 89 of this Act [[^F395]or [[^F396]section 4 of or paragraph 6 or 9] of Schedule 1 to the Road Traffic (New Drivers) Act 1995]; and
+
+(c) the declaration made in pursuance of section 92(1) of this Act indicates that he is not suffering from a relevant disability.]
+
+[[^F394](1B) A disqualification is relevant to a licence for which a person makes an application if—
+
+(a) in the case of an application made by virtue of any provision of subsection (1)(a) above, the disqualification subsists under or by virtue of any provision of the Road Traffic Acts [[^F397]or Chapter 1 of Part 3 of the Crime (International Co-operation) Act 2003] and relates to vehicles of the class to which his application relates;
+
+[[^F398](aa) in the case of an application made by virtue of subsection (1)(a)(ia) above, the disqualification subsists under or by virtue of any provision of the law of an EEA State [^F399]... and relates to vehicles of the class, or of a class corresponding to the class, to which his application relates;]
+
+(b) in the case of an application made by virtue of subsection (1)(a)(ii) above, the disqualification subsists under or by virtue of any provision of the law of Northern Ireland and relates to vehicles of the class, or of a class corresponding to the class, to which his application relates;
+
+(c) in the case of an application made by virtue of subsection (1)(a)(iii) above, the disqualification subsists under or by virtue of any provision of the relevant external law or, as the case may be, is a disqualification for holding or obtaining a British Forces licence and relates to vehicles of the class, or of a class corresponding to the class, to which his application relates; and
+
+(d) in the case of an application made by virtue of subsection (1)(a)(iv) above, the disqualification subsists under or by virtue of any provision of the law of the [^F400]. . . country or territory under which the licence which he held was granted and relates to vehicles of the class, or of a class corresponding to the class, to which his application relates;
+
+but a disqualification which does not prevent the person disqualified from obtaining a provisional licence or, as the case may be, a licence corresponding to a provisional licence is relevant to a full licence but not to a provisional licence.]
+
+(2) The benefit of subsection (1) above does not extend—
+
+(a) beyond the date when a licence is granted in pursuance of the application mentioned in subsection (1)(b) above or (as the case may be) in pursuance of section 99(7) [[^F401]or (7A)] of this Act in consequence of the revocation or surrender so mentioned, or
+
+(b) in a case where a licence is not in fact so granted, beyond the expiration of the period of one year or such shorter period as may be prescribed, beginning on the date of the application or (as the case may be) the revocation or surrender mentioned in subsection (1)(b) above [[^F402], or]
+
+[[^F402](c) in a case where a licence is refused under section 92(3) of this Act, beyond the day on which the applicant receives notice of the refusal.]
+
+[[^F403](2A) Subsection (1) above does not apply by virtue of an application mentioned in paragraph (b) of that subsection having been received by the Secretary of State if—
+
+(a) the application was made as a result of, or in anticipation of, the expiry of a disqualification relevant to the licence applied for,
+
+(b) either the nature of the disqualification or its imposition within a particular period after an earlier disqualification amounted to circumstances prescribed under subsection (4) of section 94 of this Act (disqualification: high risk offenders), and
+
+(c) the Secretary of State has notified the applicant that, because of that, he will be subject to a requirement under paragraph (a) or (b) of subsection (5) of that section.]
+
+(3) The Secretary of State may by regulations provide that subsection (1) above shall also apply (where the requirements of that subsection are otherwise met) in the case of a person who has not previously held a licence to drive vehicles of the relevant class.
+
+(4) Regulations made by virtue of subsection (3) above shall, if not previously revoked, expire at the end of the period of one year beginning with the day on which they came into operation.
+
+(5) Regulations may provide that a person who becomes resident in Great Britain shall, during the prescribed period after he becomes so resident, be treated for the purposes of section 87 of this Act as the holder of a licence authorising him to drive motor vehicles of the prescribed classes if—
+
+(a) he satisfies the prescribed conditions, and
+
+(b) he is the holder of a permit of the prescribed description authorising him to drive vehicles under the law of a country outside the United Kingdom.
+
+(6) Regulations made by virtue of subsection (5) above may provide for the application of any enactment relating to licences [^F404]... or licence holders, with or without modifications, in relation to any such permit and its holder respectively.
+
+(7) Notwithstanding section 87 of this Act—
+
+(a) a person who is not the holder of a licence may act as steersman of a motor vehicle, being a vehicle on which a speed limit of five miles per hour or less is imposed by or under section 86 of the [^M23]Road Traffic Regulation Act 1984, under the orders of another person engaged in the driving of the vehicle who
+
+[[^F405](i) is licensed in that behalf in accordance with the requirements of this Part and Part IV of this Act, or
+
+(ii) is authorised by virtue of section 99A(1) of this Act to drive in Great Britain such a motor vehicle, and]
+
+(b) a person may cause or permit another person who is not the holder of a licence so to act.
+
+[[^F406](8) In this Part of this Act—
+
+- “British external licence” means a licence granted in the Isle of Man or any of the Channel Islands under the relevant external law;
+- “British Forces licence” means a licence granted in the Federal Republic of Germany by the British authorities to members of the British Forces or of the civilian components of those Forces of their dependants; and
+- “relevant external law” means the law for the time being in force in the Isle of Man or any of the Channel Islands which corresponds to this Part of this Act.]
+
+### Tests
+
+#### 89 Tests of competence to drive.
+
+(1) A licence authorising the driving of motor vehicles of any class shall not be granted to any person unless he [^F407][[^F408]... satisfies the Secretary of State]—
+
+[[^F409](a) that at some time during the period of two years ending with the date the application is made but not earlier than the appointed day he has passed—
+
+(i) the test of competence to drive prescribed by virtue of subsection (3) below, or
+
+(ii) a Northern Ireland test of competence to drive which corresponds to such a test, or
+
+(iii) a test of competence which under subsection (6) below is a sufficient test;
+
+[^F410]. . . or
+
+(b) that at some time not earlier than the appointed day he has held—
+
+(i) a full licence authorising the driving of vehicles of that class, or
+
+(ii) a full Northern Ireland licence authorising the driving of vehicles of that or a corresponding class;
+
+or that, if it is available to him, he satisfies the alternative requirement of section 89A of this Act; or
+
+(c) that at some time during the period of two years ending with the date the application is made he has passed a test of competence to drive vehicles of that or a corresponding class [^F411]. . . for the purpose of obtaining a British Forces licence; or
+
+(d) that at some time not earlier than the appointed day he has held a full British external licence or a full British Forces licence to drive vehicles of that or a corresponding class [^F410]. . . ; or
+
+(e) that at some time during the period of two years ending with the date the application is made he has passed a test of competence to drive vehicles of that or a corresponding class conducted under the law [^F412]. . . of Gibraltar [^F413]. . .; or
+
+[[^F414](ea) that either at the time of the application for the licence he holds a Community licence authorising the driving of vehicles of that or a corresponding class or at some time he has held such a Community licence; or]]
+
+[[^F415](f) that, at the time of the application for the licence, he holds an exchangeable licence authorising the driving of vehicles of that or a corresponding class.]
+
+This subsection is subject to the provisions of this Part of this Act as to provisional licences and to the provisions of any regulations made by virtue of section 105(2)(f) of this Act.
+
+[^F416]1A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F417](2) For the purposes of subsection (1) above—
+
+[[^F418](a) a licence which has been revoked under section 99(3) of this Act or under any corresponding provision of—
+
+(i) the law of Northern Ireland,
+
+(ii) the relevant external law, or
+
+(iii) the law of an EEA State [^F419]...,
+
+as a licence granted in error shall be disregarded for the purposes of paragraph (b), (d) or (ea) (as the case may be) of that subsection;]]
+
+[^F420]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) a British external licence to drive any class of goods vehicle or any class of passenger-carrying vehicle is to be disregarded for the purposes of paragraph (d) of that subsection unless the Secretary of State, by order made by statutory instrument, designates the relevant external law under which it is granted as one which makes satisfactory provision for the granting of such licences.
+
+[[^F421](2A) Except as provided under subsection (5A) below, no person submitting himself for a test of competence to drive a motor bicycle shall be permitted to take the test unless he furnishes the prescribed certificate of completion by him of an approved training course for motor cyclists either with his application for an appointment for a test or to the person who is to conduct the test.]
+
+(3) Regulations may make provision with respect to—
+
+(a) the nature of tests of competence to drive for the purposes of this section [[^F422]and section 36 of the Road Traffic Offenders Act 1988 (disqualification) [[^F423]and the administrative arrangements for submitting for such tests],]
+
+(b) the qualifications, selection and appointment of persons by whom they may be conducted [[^F424], conditions which must be satisfied during the currency of an appointment, the charging of reasonable fees in respect of applications for appointment or appointments or in connection with any examination or assessment which may be required before appointment or during the currency of any appointment] and the revocation of any appointment,
+
+[[^F425](ba) the duty of a person submitting himself for a test to produce, and in prescribed circumstances surrender, any licence previously granted to him,]
+
+(c) evidence of the results of such tests,
+
+and generally with respect to such tests.
+
+(4) [[^F426]Regulations under subsection (3)(a) above may in particular] provide—
+
+(a) for requiring a person submitting himself for a test to provide [[^F427]a safe and suitable vehicle] for the purposes of the test [[^F428]and for requiring that, if the vehicle is a vehicle of a prescribed description, it has been certified in the prescribed manner after a prescribed inspection as satisfying such requirements as may be prescribed,]
+
+[[^F429](aa) for requiring a person submitting himself for a test to have been [[^F430]normally and lawfully resident in Great Britain or the United Kingdom (within the meaning of section 97A)] for such period ending on the date of his appointment for the test as may be prescribed,]
+
+[[^F431](b) for the charging (whether on the making of an appointment for a test or otherwise) of reasonable fees for or in connection with the test and any inspection of a vehicle required by regulations under paragraph (a) above in relation to the test,]
+
+(c) for ensuring that a person submitting himself for a test and failing to pass that test shall not be eligible to submit himself for another test by the same or any other person before the expiration of a period specified in the regulations, except under an order made by a court or sheriff under the power conferred by section 90 of this Act,
+
+and different regulations may be made with respect to tests of competence to drive different classes of vehicles.
+
+(5) If regulations make provision for a test of competence to drive to consist of separate parts, they may make for each part—
+
+(a) any provision that could be made for a test not consisting of separate parts, [^F432]. . .
+
+(b) [^F432]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F433](5ZA) Regulations under subsection (3)(b) above may in particular provide—
+
+(a) for the supply by the Secretary of State to persons by whom tests of competence to drive, or parts of such tests, may be conducted of forms for certificates evidencing the results of such tests or parts of such tests, and
+
+(b) for the charging of reasonable fees in respect of the exercise of any function conferred or imposed on the Secretary of State by the regulations.]
+
+[[^F434](5A) Regulations may prescribe cases in which persons are exempt from the requirement imposed by subsection (2A) above; and the regulations may—
+
+(a) limit the exemption to persons in prescribed circumstances;
+
+(b) limit the exemption to a prescribed period;
+
+(c) attach conditions to the exemption; and
+
+(d) regulate applications for, and the issue and form of, certificates evidencing a person’s exemption from that requirement.]
+
+(6) For the purposes of subsection [[^F435](1)(a)(iii) above [^F410]. . . ], a test of competence shall be sufficient for the granting of a licence authorising the driving of—
+
+(a) vehicles of any class, if at the time the test was passed it authorised the granting of a licence to drive vehicles of that class,
+
+(b) vehicles of [[^F436]all] classes which are designated by regulations as a group for the purposes of subsection (1)(a) above, if at the time the test was passed it authorised the granting of a licence to drive vehicles of any class included in the group [[^F437], and]
+
+[[^F437](c) vehicles of all classes included in another such group, if a person passing the test is treated by virtue of regulations made for the purposes of this paragraph as competent also to drive vehicles of a class included in that other group.]
+
+(7) If vehicles of any classes are designated by regulations as a group for the purposes of subsection (1)(b) above, a licence authorising the driving of vehicles of a class included in the group shall be deemed for the purposes of subsection [[^F438](1)(b)(i) above or section 89A(4)(a) below to authorise the driving of—
+
+(a) vehicles of all classes included in the group [[^F439](except where regulations otherwise provide)], and
+
+(b) vehicles of all classes included in another such group, if a person holding the licence is treated by virtue of regulations as competent also to drive vehicles of a class included in that other group].
+
+The reference in this subsection to a licence does not include a licence which has been revoked in pursuance of section 99(3) of this Act.
+
+(8) For the purposes of this section and section 88(1) of this Act, an exchangeable licence issued in respect of a [^F440]. . ., country or territory shall not be treated as authorising a person to drive a vehicle of any [[^F441]class] if—
+
+(a) the licence is not for the time being valid for that purpose, or
+
+(b) it was issued in respect of that [[^F441]class] for a purpose corresponding to that mentioned in section 97(2) of this Act.
+
+[[^F442](9) A test of competence falling within paragraphs (a)(ii), (c) or (e) of subsection (1) above shall be sufficient for the granting of a licence authorising the driving of—
+
+(a) vehicles of all classes designated by regulations as a group for the purposes of subsection (1)(a) above, if [[^F443](except where regulations otherwise provide)] at the time the test was passed it authorised the granting of a licence to drive vehicles of any class included in the group, or of any class corresponding to a class included in the group, and
+
+(b) vehicles of all classes included in another such group, if a person passing a test of competence authorising the granting of a licence to drive vehicles of a class included in the group mentioned in paragraph (a) above is treated by virtue of regulations as competent also to drive vehicles of a class included in that other group.
+
+(10) A full Northern Ireland licence, a full British external licence, a full British Forces licence [[^F444], a Community licence] or an exchangeable licence shall be treated for the purposes of paragraphs (b)(ii), (d) [[^F445], (ea)] or (f) (as the case may be) of subsection (1) above as authorising the driving of—
+
+(a) [[^F446](except where regulations otherwise provide)] vehicles of all classes designated by regulations as a group for the purposes of subsection (1)(b) above, if the licence authorises the driving of vehicles of any class included in the group, or any class corresponding to a class included in the group, and
+
+(b) vehicles of all classes included in another such group, if by virtue of regulations a person holding a licence authorising him to drive vehicles of any class included in the group mentioned in paragraph (a) above is treated as competent also to drive vehicles of a class included in that other group.
+
+(11) [^F447]. . . In this section and section 89A “the appointed day” means the day appointed for the coming into force of section 1 of the Road Traffic (Driver Licensing and Information Systems) Act 1989.]
+
+#### [[^F448]89A The alternative requirements to those in section 89.
+
+(1) The alternative requirements referred to in section 89(1) of this Act are the following.
+
+(2) [^F449]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) [^F449]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The requirement which is alternative to that specified in section 89(1)(b) on an application by a person for a licence authorising the driving of motor vehicles of any class other than any class of goods vehicle or passenger-carrying vehicle prescribed for the purposes of subsection (5) below is that at some time before the appointed day but not earlier than 1st January 1976 he has held—
+
+(a) a full licence authorising the driving of vehicles of a class corresponding to the class of motor vehicle to which his application relates, or
+
+(b) a full Northern Ireland licence authorising the driving of vehicles of a class corresponding to the class of motor vehicle to which his application relates.
+
+(5) The requirement which is alternative to that specified in section 89(1)(b) on an application by a person for a licence authorising the driving of any class of goods vehicle or passenger-carrying vehicle prescribed for the purposes of this subsection is that at some time before the appointed day but not earlier than the beginning of the period of five years ending with the appointed day he has held—
+
+(a) a full heavy goods vehicle or a public service vehicle driver’s licence authorising the driving of vehicles of a class corresponding to the class of vehicle to which his application relates, or
+
+(b) a full Northern Ireland licence to drive heavy goods vehicles of a class corresponding to the class of vehicle to which his application relates or a Northern Ireland licence to drive public service vehicles of a class corresponding to the class of vehicle to which his application relates.
+
+(6) [^F449]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In this section “heavy goods vehicle” and “public service vehicle” have the same meaning as they had for the purposes of Part IV of this Act or section 22 of the Public Passenger Vehicles Act [^M24]1981 before their repeal by section 1 of the Road Traffic (Driver Licensing and Information Systems) Act 1989.]
+
+#### 90 Review of conduct of test.
+
+(1) On the application of a person who has submitted himself for a test of competence to drive—
+
+(a) a magistrates’ court [^F450]. . . , or
+
+(b) in Scotland, the sheriff within whose jurisdiction he resides,
+
+may determine whether the test was properly conducted in accordance with regulations.
+
+(2) The court or, as the case may be, sheriff may, if it appears that the test was not so conducted—
+
+(a) order that the applicant shall be eligible to submit himself for another test before the expiration of the period specified for the purposes of section 89(4)(c) of this Act, and
+
+(b) order that any fee payable by the applicant in respect of the test shall not be paid or, if it has been paid, shall be repaid.
+
+(3) If regulations make provision for a test of competence to drive to consist of separate parts, this section applies in relation to each part as well as in relation to the whole of the test.
+
+#### 91 Repayment of test fees.
+
+[[^F451]The whole or any part of a fee] paid in pursuance of regulations made by virtue of section 89(4) of this Act on application for an appointment for a test may be repaid in the following cases and not otherwise—
+
+(a) if no such appointment is made, or an appointment made is subsequently cancelled by or on behalf of the Secretary of State,
+
+(b) if the person for whom the appointment is made gives such notice cancelling the appointment as may be prescribed for the purposes of this paragraph by regulations,
+
+(c) if the person for whom the appointment is made keeps the appointment, but the test does not take place, or is not completed, for reasons attributable neither to him nor to any vehicle provided by him for the purposes of the test, or
+
+(d) if an order for the repayment of the fee is made by the court or, as the case may be, sheriff under section 90 of this Act pursuant to a finding that the test was not properly conducted in accordance with the regulations.
+
+### Physical fitness
+
+#### 92 Requirements as to physical fitness of drivers.
+
+(1) An application for the grant of a licence must include a declaration by the applicant, in such form as the Secretary of State may require, stating whether he is suffering or has at any time (or, if a period is prescribed for the purposes of this subsection, has during that period) suffered from any relevant disability or any prospective disability.
+
+(2) In this Part of this Act—
+
+- “disability” includes disease [[^F452]and the persistent misuse of drugs or alcohol, whether or not such misuse amounts to dependency],
+
+- “relevant disability” in relation to any person means—
+
+  - (a) any prescribed disability, and
+  - (b) any other disability likely to cause the driving of a vehicle by him in pursuance of a licence to be a source of danger to the public, and
+
+- “prospective disability” in relation to any person means any other disability which—
+
+  - (a) at the time of the application for the grant of a licence or, as the case may be, the material time for the purposes of the provision in which the expression is used, is not of such a kind that it is a relevant disability, but
+  - (b) by virtue of the intermittent or progressive nature of the disability or otherwise, may become a relevant disability in course of time.
+
+(3) If it appears from the applicant’s declaration, or if on inquiry the Secretary of State is satisfied from other information, that the applicant is suffering from a relevant disability, the Secretary of State must, subject to the following provisions of this section, refuse to grant the licence.
+
+(4) The Secretary of State must not by virtue of subsection (3) above refuse to grant a licence—
+
+(a) on account of any relevant disability which is prescribed for the purposes of this paragraph, if the applicant has at any time passed a relevant test and it does not appear to the Secretary of State that the disability has arisen or become more acute since that time or was, for whatever reason, not disclosed to the Secretary of State at that time,
+
+(b) on account of any relevant disability which is prescribed for the purposes of this paragraph, if the applicant satisfies such conditions as may be prescribed with a view to authorising the grant of a licence to a person in whose case the disability is appropriately controlled,
+
+(c) on account of any relevant disability which is prescribed for the purposes of this paragraph, if the application is for a provisional licence.
+
+(5) Where as a result of a test of competence to drive [[^F453]or of information obtained under the relevant powers] the Secretary of State is satisfied that the person who took the test [[^F453]or in relation to whom the information was obtained] is suffering from a disability such that there is likely to be a danger to the public—
+
+(a) if he drives any vehicle, [^F454]. . .
+
+(b) if he drives a vehicle other than a vehicle of a particular [[^F455]class],
+
+[[^F456]or
+
+[^F456]c if he drives a vehicle except in accordance with particular conditions,]
+
+the Secretary of State must serve notice in writing to that effect on that person and must include in the notice a description of the disability.
+
+(6) Where a notice is served in pursuance of subsection (5)(a) above, then—
+
+(a) if the disability is not prescribed under subsection (2) above, it shall be deemed to be so prescribed in relation to the person [[^F457]on whom the notice is served], and
+
+(b) if the disability is prescribed for the purposes of subsection (4)(c) above it shall be deemed not to be so prescribed in relation to him.
+
+[[^F458](7) Where a notice is served in pursuance of subsection (5)(b) above, the Secretary of State may—
+
+(a) if the person on whom the notice is served is an applicant for a licence, grant him a licence limited to vehicles of the particular class specified in the notice, or
+
+(b) if he held a licence which is revoked by the Secretary of State and he complies with subsection (7ZB) below, grant him a licence limited to vehicles of that class,
+
+and, if the Secretary of State so directs in the notice, his entitlement to drive other classes of vehicle by virtue of section 98(2) of this Act shall be limited as specified in the notice.
+
+[^F458]7ZA Where a notice is served in pursuance of subsection (5)(c) above, the Secretary of State may—
+
+(a) if the person on whom the notice is served is an applicant for a licence, grant him a licence authorising him to drive vehicles subject to the particular conditions specified in the notice, or
+
+(b) if he held a licence which is revoked by the Secretary of State and he complies with subsection (7ZB) below, grant him a licence authorising him to drive vehicles subject to those conditions,
+
+and, if the Secretary of State so directs in the notice, any entitlement which the person has to drive vehicles by virtue of section 98(2) of this Act shall be subject to conditions as specified in the notice.
+
+[^F458]7ZB A person complies with this subsection if—
+
+(a) he surrenders the existing licence [^F459]..., and
+
+(b) where the Secretary of State so requires, he provides evidence of his name, address, sex and date and place of birth and a photograph which is a current likeness of him.
+
+[^F458]7A If he considers it appropriate to do so, the Secretary of State may, after serving a notice under any of the paragraphs of subsection (5) above, serve a further notice under that paragraph or a notice under another of those paragraphs; and on his serving the later notice the notice previously served shall cease to have effect and any licence previously granted in accordance with it shall be revoked by the later notice.]
+
+[^F460][7B In subsection (5) above the references to a test of competence to drive and to information obtained under the relevant power are references respectively to a test of competence prescribed for the purposes of section 89 or so much of such a test as is required to be taken in pursuance of section 94(5)(c) of this Act and to information obtained in pursuance of section 94(5)(a) or (b) of this Act.
+
+(7C) A person whose licence is revoked by virtue of subsection (7A) above must deliver the licence [^F459]... to the Secretary of State forthwith after the revocation and a person who, without reasonable excuse, fails to do so is guilty of an offence.]
+
+[^F461][7D In subsection (7B) above the references to section 94 of this Act include references to that section as applied by section 99D [[^F462]or 109C] of this Act.]
+
+(8) In this section “relevant test”, in relation to an application for a licence, means any such test of competence as is mentioned in section 89 of this Act or a test as to fitness or ability in pursuance of section 100 of the [^M25]Road Traffic Act 1960 as originally enacted, being a test authorising the grant of a licence in respect of vehicles of the classes to which the application relates.
+
+(9) Without prejudice to subsection (8) above, for the purposes of subsection (4)(a) above—
+
+[[^F463](a) an applicant shall be treated as having passed a relevant test if, and on the day on which, he passed a test of competence to drive which—
+
+(i) under a provision of the law of Northern Ireland or a relevant external law corresponding to subsections (3) and (4) or (6) of section 89 of this Act, either is prescribed in relation to vehicles of classes corresponding to the classes to which the application relates or is sufficient under that law for the granting of a licence authorising the driving of vehicles of those classes, or
+
+(ii) is sufficient for the granting of a British Forces licence authorising the driving of vehicles of those classes, and]
+
+(b) in the case of an applicant who is treated as having passed a relevant test by virtue of paragraph (a) above, disclosure of a disability to [[^F464]his licensing authority] shall be treated as disclosure to the Secretary of State.
+
+[^F465]. . .
+
+[^F466][10 A person who holds a licence authorising him to drive a motor vehicle of any class and who drives a motor vehicle of that class on a road is guilty of an offence if the declaration included in accordance with subsection (1) above in the application on which the licence was granted was one which he knew to be false.]
+
+#### 93 Revocation of licence because of disability or prospective disability.
+
+(1) If the Secretary of State is at any time satisfied on inquiry—
+
+(a) that a licence holder is suffering from a relevant disability, and
+
+(b) that the Secretary of State would be required by virtue of section 92(3) [^F467]. . . of this Act to refuse an application for the licence made by him at that time,
+
+the Secretary of State may serve notice in writing on the licence holder revoking the licence with effect from such date as may be specified in the notice, not being earlier than the date of service of the notice.
+
+(2) If the Secretary of State is at any time satisfied on inquiry that a licence holder is suffering from a prospective disability, the Secretary of State may—
+
+(a) serve notice in writing on the licence holder revoking the licence with effect from such date as may be specified in the notice, not being earlier than the date of service of the notice, and
+
+(b) on receipt of the licence so revoked [^F468]... and of an application made for the purposes of this subsection, grant to the licence holder, free of charge, a new licence for a period determined by the Secretary of State under section 99(1)(b) of this Act.
+
+[[^F469](2A) The Secretary of State may require a person to provide—
+
+(a) evidence of his name, address, sex and date and place of birth, and
+
+(b) a photograph which is a current likeness of him,
+
+before granting a licence to him on an application made for the purposes of subsection (2) above [[^F470]or subsection (6) below].]
+
+(3) A person whose licence is revoked under subsection (1) or (2) above must deliver up the licence [^F468]... to the Secretary of State forthwith after the revocation [[^F471]and a person who, without reasonable excuse, fails to do so is guilty of an offence.]
+
+[^F472]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F473](5) Where the Secretary of State—
+
+(a) is at any time sent by the licensing authority in Northern Ireland a licence under a provision of Northern Ireland law corresponding to section 109B of this Act, and
+
+(b) by virtue of the reasons given by that authority for sending the licence is at that time satisfied as mentioned in subsection (1)(a) and (b) above or that the licence holder is suffering from a prospective disability,
+
+the Secretary of State may serve notice in writing on the licence holder revoking the licence with effect from such date as may be specified in the notice, not being earlier than the date of service of the notice.
+
+(6) Where the reasons given by the licensing authority in Northern Ireland for sending the licence relate to a prospective disability of the holder, the Secretary of State may, on an application made for the purposes of this subsection, grant to the holder, free of charge, a new licence for a period determined by the Secretary of State under section 99(1)(b) of this Act.]
+
+#### 94 Provision of information, etc. relating to disabilities.
+
+(1) If at any time during the period for which his licence remains in force, a licence holder becomes aware—
+
+(a) that he is suffering from a relevant or prospective disability which he has not previously disclosed to the Secretary of State, or
+
+(b) that a relevant or prospective disability from which he has at any time suffered (and which has been previously so disclosed) has become more acute since the licence was granted,
+
+the licence holder must forthwith notify the Secretary of State in writing of the nature and extent of his disability.
+
+(2) The licence holder is not required to notify the Secretary of State under subsection (1) above if—
+
+(a) the disability is one from which he has not previously suffered, and
+
+(b) he has reasonable grounds for believing that the duration of the disability will not extend beyond the period of three months beginning with the date on which he first becomes aware that he suffers from it.
+
+(3) A person who fails without reasonable excuse to notify the Secretary of State as required by subsection (1) above is guilty of an offence.
+
+[^F474][3A A person who holds a licence authorising him to drive a motor vehicle of any class and who drives a motor vehicle of that class on a road is guilty of an offence if at any earlier time while the licence was in force he was required by subsection (1) above to notify the Secretary of State but has failed without reasonable excuse to do so.]
+
+(4) If [[^F475]the prescribed circumstances obtain in relation to a person who is an applicant for, or the holder of, a licence of if] the Secretary of State has reasonable grounds for believing that a person who is an applicant for, or the holder of, a licence may be suffering from a relevant or prospective disability, subsection (5) below applies for the purpose of enabling the Secretary of State to satisfy himself whether or not [[^F476]that person may be suffering from that or any other relevant or prospective disability].
+
+(5) The Secretary of State may by notice in writing served on the applicant or holder—
+
+(a) require him to provide the Secretary of State, within such reasonable time as may be specified in the notice, with such an authorisation as is mentioned in subsection (6) below, or
+
+(b) require him, as soon as practicable, to arrange to submit himself for examination—
+
+(i) by such registered medical practitioner or practitioners as may be nominated by the Secretary of State, or
+
+(ii) with respect to a disability of a prescribed description, by such officer of the Secretary of State as may be so nominated,
+
+for the purpose of determining whether or not he suffers or has at any time suffered from a relevant or prospective disability, or
+
+(c) except where the application is for, or the licence held is, a provisional licence, require him to submit himself for [[^F477]such a test of competence to drive as the Secretary of State directs in the notice.]
+
+(6) The authorisation referred to in subsection (5)(a) above—
+
+(a) shall be in such form and contain such particulars as may be specified in the notice by which it is required to be provided, and
+
+(b) shall authorise any [[^F478]registered healthcare professional identified in those particulars] to release to the Secretary of State any information which he may have, or which may be available to him, with respect to the question whether, and if so to what extent, the applicant or licence holder concerned may be suffering, or may at any time have suffered, from a relevant or prospective disability.
+
+[[^F479](6A) Where a registered healthcare professional (A) identified in the particulars of an authorisation provided under subsection (5)(a) considers that another registered healthcare professional (P) has information with respect to the question set out in subsection (6)(b), A may give a copy of that authorisation to P.
+
+(6B) Where a registered healthcare professional has received a copy of an authorisation in accordance with subsection (6A), that registered healthcare professional is authorised to release to the Secretary of State any information which they may have with respect to the question set out in subsection (6)(b).]
+
+(7) If he considers it appropriate to do so in the case of any applicant or licence holder, the Secretary of State—
+
+(a) may include in a single notice under subsection (5) above requirements under more than one paragraph of that subsection, and
+
+(b) may at any time after the service of a notice under that subsection serve a further notice or notices under that subsection.
+
+(8) If any person on whom a notice is served under subsection (5) above—
+
+(a) fails without reasonable excuse to comply with a requirement contained in the notice, or
+
+(b) fails any test of competence which he is required to take as mentioned in paragraph (c) of that subsection,
+
+the Secretary of State may exercise his powers under sections 92 and 93 of this Act as if he were satisfied that the applicant or licence holder concerned is suffering from a relevant disability which is not prescribed for the purposes of any paragraph of section 92(4) of this Act or, if the Secretary of State so determines, as if he were satisfied that the applicant or licence holder concerned is suffering from a prospective disability.
+
+(9) [[^F480]Except where the requirement is made in the circumstances prescribed for the purposes of subsection (5) above, it shall be for the Secretary of State (and not for any other person) to] defray any fees or other reasonable expenses of a [[^F481]registered healthcare professional] in connection with—
+
+(a) the provision of information in pursuance of an authorisation required to be provided under subsection (5)(a) above, [^F482]...
+
+(b) any examination which a person is required to undergo as mentioned in subsection (5)(b) above [[^F483], or
+
+(c) the provision of information authorised by subsection (6B)].
+
+[[^F484](10) In this section, “registered healthcare professional” means a person on the register of one or more of the following bodies—
+
+(a) the General Chiropractic Council;
+
+(b) the General Medical Council;
+
+(c) the General Optical Council;
+
+(d) the General Osteopathic Council;
+
+(e) the Nursing and Midwifery Council;
+
+(f) the Health and Care Professions Council.]
+
+#### [[^F485]94A Driving after refusal or revocation of licence.
+
+(1) A person who drives a motor vehicle of any class on a road otherwise than in accordance with a licence authorising him to drive a motor vehicle of that class is guilty of an offence if—
+
+[^F486]a at any earlier time the Secretary of State—
+
+(i) has in accordance with section 92(3) of this Act refused to grant such a licence,
+
+(ii) has under [[^F487]section 93] of this Act revoked such a licence, or
+
+(iii) has served notice on that person in pursuance of section 99C(1) or (2) [[^F488]or 109B] of this Act requiring him to deliver to the Secretary of State a Community licence [[^F489]or Northern Ireland licence] authorising him to drive a motor vehicle of that or a corresponding class, and
+
+[^F486]b since that earlier time he has not been granted—
+
+(i) a licence under this Part of this Act, or
+
+(ii) a Community licence [[^F490]or Northern Ireland licence],
+
+authorising him to drive a motor vehicle of that or a corresponding class.]
+
+(2) Section 88 of this Act shall apply in relation to subsection (1) above as it applies in relation to section 87.
+
+#### 95 Notification of refusal of insurance on grounds of health.
+
+(1) If an authorised insurer refuses to issue to any person such a policy of insurance as complies with the requirements of Part VI of this Act on the ground that the state of health of that person is not satisfactory, or on grounds which include that ground, the insurer shall as soon as practicable notify the Secretary of State of that refusal and of the full name, address, sex and date of birth of that person as disclosed by him to the insurer.
+
+[[^F491](2) “Authorised insurer” means an insurer who is a member of the Motor Insurers Bureau (a company limited by guarantee and incorporated under the Companies Act 1929 on 14th June 1946).
+
+(3) “Insurer” means—
+
+(a) a person who has permission under [[^F492]Part 4A] of the Financial Services and Markets Act 2000 to effect or carry out relevant contracts of insurance, [^F493]...
+
+[^F493]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) A contract is a relevant contract of insurance if the risk insured against relates to—
+
+(a) the insured sustaining accidental injury or death as a result of travelling as a passenger;
+
+(b) land vehicles;
+
+(c) goods in transit; or
+
+(d) motor vehicle liability.
+
+(5) This section must be read with—
+
+(a) section 22 of the Financial Services and Markets Act 2000;
+
+(b) any order for the time being in force under that section; and
+
+(c) Schedule 2 to that Act.]
+
+#### 96 Driving with uncorrected defective eyesight.
+
+(1) If a person drives a motor vehicle on a road while his eyesight is such (whether through a defect which cannot be or one which is not for the time being sufficiently corrected) that he cannot comply with any requirement as to eyesight prescribed under this Part of this Act for the purposes of tests of competence to drive, he is guilty of an offence.
+
+(2) A constable having reason to suspect that a person driving a motor vehicle may be guilty of an offence under subsection (1) above may require him to submit to a test for the purpose of ascertaining whether, using no other means of correction than he used at the time of driving, he can comply with the requirement concerned.
+
+(3) If that person refuses to submit to the test he is guilty of an offence.
+
+### Granting of licences, their form and duration
+
+#### 97 Grant of licences.
+
+(1) Subject to [[^F494]the following provisions of this section] and section 92 of this Act [[^F495]and, in the case of licences to drive large goods vehicles or passenger-carrying vehicles, to Part IV of this Act], the Secretary of State must [^F496]. . . grant a licence to a person who [[^F497]meets the relevant residence requirement (see section 97A) and] —
+
+(a) makes an application for it in such manner and containing such particulars as the Secretary of State may specify [[^F498]and pays the fee (if any) which is prescribed],
+
+(b) provides the Secretary of State with such evidence or further evidence in support of the application as the Secretary of State may require,
+
+[[^F499](c) surrenders to the Secretary of State—
+
+(i) any previous licence granted to him after 1st January 1976 [^F500]...,
+
+[[^F501](ia) any Northern Ireland licence held by him together with its Northern Ireland counterpart [[^F502](if any)],]
+
+(ii) any Community licence [^F503]..., and
+
+(iii) any British external licence or British Forces licence or exchangeable licence held by him,
+
+or provides the Secretary of State with an explanation for not surrendering them which the Secretary of State considers adequate,]
+
+(d) is not , [^F504]...
+
+[[^F505](i) in accordance with section 88(1B) of this Act, subject to a current disqualification which is relevant to the licence he applies for] [[^F506]or
+
+(ii) subject to a current disqualification under the law of an EEA State [^F507]... which relates to vehicles of the class, or of a class corresponding to the class, to which the application relates and was imposed while the person was the holder of a licence granted under the law of that State; and]
+
+[[^F508](e) is not prevented from obtaining [[^F509]the licence] by the provisions of section 89 of this Act [[^F510]or [[^F511]section 4 of or paragraph 6 or 9] of Schedule 1 to the Road Traffic (New Drivers) Act 1995].]
+
+[[^F512](1A) Where any licence to be granted to an applicant would be in the form of a photocard, the Secretary of State may under subsection (1)(a) and (b) above in particular require him to provide a photograph which is a current likeness of him.]
+
+[[^F513](1AA) Where a licence under this Part of this Act is granted to a person who surrenders under sub-paragraph (ia) of subsection (1)(c) above his Northern Ireland licence together with the [[^F514]counterpart (if any)] to the Secretary of State—
+
+(a) that person ceases to be authorised by virtue of section 109(1) of this Act to drive in Great Britain a motor vehicle of any class, and
+
+(b) the Secretary of State must send the Northern Ireland licence and its Northern Ireland counterpart [[^F515](if any)] to the licensing authority in Northern Ireland together with particulars of the class of motor vehicles to which the licence granted under this Part of this Act relates.]
+
+(2) If the application for the licence states that it is made for the purpose of enabling the applicant to drive a motor vehicle with a view to passing a test of competence to drive, any licence granted in pursuance of the application shall be a provisional licence for that purpose, and nothing in section 89 of this Act shall apply to such a licence.
+
+(3) A provisional licence—
+
+(a) shall be granted subject to prescribed conditions,
+
+(b) shall, in any cases prescribed for the purposes of this paragraph, be restricted so as to authorise only the driving of vehicles of the classes so prescribed,
+
+(c) may, in the case of a person appearing to the Secretary of State to be suffering from a relevant disability or a prospective disability, be restricted so as to authorise only the driving of vehicles of a particular construction or design specified in the licence, [^F516]. . .
+
+[^F517]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F518](e) except as provided under subsection (3B) below, shall not authorise a person, before he has passed a test of competence to drive, to drive on a road a motor bicycle [[^F519]or moped] except where he has successfully completed an approved training course for motor cyclists or is undergoing training on such a course and is driving the motor [[^F520]bicycle][[^F519]or moped] on the road as part of the training.]
+
+[[^F521](3A) Regulations may make provision as respects the training in the driving of motor bicycles [[^F522]and mopeds] of persons wishing to obtain licences authorising the driving of such motor [[^F523]bicycles][[^F522]and mopeds] by means of courses of training provided in accordance with the regulations; and the regulations may in particular make provision with respect to—
+
+(a) the nature of the courses of training;
+
+(b) the approval by the Secretary of State of the persons providing the courses and the withdrawal of his approval;
+
+(c) the maximum amount of any charges payable by persons undergoing the training;
+
+(d) certificates evidencing the successful completion by persons of a course of training and the supply by the Secretary of State of the forms which are to be used for such certificates; and
+
+(e) the making, in connection with the supply of forms of certificates, of reasonable charges for the discharge of the functions of the Secretary of State under the regulations;
+
+and different provision may be made for training in different classes of motor [[^F523]bicycles][[^F522]and mopeds].
+
+(3B) Regulations may prescribe cases in which persons holding a provisional licence are exempt from the restriction imposed by subsection (3)(e) above on their driving under the licence; and the regulations may—
+
+(a) limit the exemption to persons in prescribed circumstances;
+
+(b) limit the exemption to a prescribed period or in respect of driving in a prescribed area;
+
+(c) attach conditions to the exemption; and
+
+(d) regulate applications for, and the issue and form of, certificates evidencing the holder’s exemption from the restriction.]
+
+(4) Regulations may authorise or require the Secretary of State to refuse a provisional licence authorising the driving of a motor [[^F524]bicycle][[^F525]or moped] of a prescribed class if the applicant has held such a provisional licence and the licence applied for would come into force within the prescribed period—
+
+(a) beginning at the end of the period for which the previous licence authorised (or would, if not surrendered or revoked, have authorised) the driving of such a motor [[^F524]bicycle][[^F525]or moped], or
+
+(b) beginning at such other time as may be prescribed.
+
+[^F526]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F526]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F527]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 97A [[^F528]Residence requirement
+
+(1) For the purposes of an application under section 97, a person meets the relevant residence requirement if, on the date the application is made—
+
+(a) in the case of an application that is made by virtue of section 89(1)(ea) (application by holder of Community licence), the applicant is lawfully resident in the United Kingdom and—
+
+(i) is also normally resident in the United Kingdom, or
+
+(ii) has been attending a course of study in the United Kingdom during the period of six months ending on that date;
+
+(b) in the case of an application that is made by virtue of section 89(1)(f) (application by holder of exchangeable licence), the applicant is normally and lawfully resident in Great Britain but has not been so resident for more than the prescribed period;
+
+(c) in the case of an application that is made by virtue of section 97(2) (application for provisional licence), the applicant is lawfully resident in Great Britain and the Secretary of State is satisfied that the applicant will remain so for not less than 185 days; and
+
+[[^F529](d) in any other case, the applicant is lawfully resident in the United Kingdom and—
+
+(i) is also normally resident in Great Britain, or
+
+(ii) has been attending a course of study in Great Britain during the period of 6 months ending on that date.]
+
+(2) For the purposes of subsection (1) a person is not lawfully resident in Great Britain or the United Kingdom if the person requires leave to enter or remain in the United Kingdom but does not have it.]
+
+#### 98 Form of licence.
+
+[[^F530](1) A licence shall be in the form of a photocard of a description specified by the Secretary of State or such other form as he may specify and—
+
+(a) the licence shall state whether, apart from subsection (2) below, it authorises its holder to drive motor vehicles of all classes or of certain classes only and, in the latter case, specify those classes,
+
+(b) the licence shall specify (in such manner as the Secretary of State may determine) the restrictions on the driving of vehicles of any class in pursuance of the licence to which its holder is subject by virtue of section 101 of this Act and any conditions on the driving of vehicles of any class in pursuance of the licence to which its holder is subject by virtue of section 92(7ZA) of this Act, and
+
+(c) in the case of a provisional licence, the licence [^F531]... shall specify (in such manner as the Secretary of State may determine) the conditions subject to which it is granted.
+
+[^F530]1A The Secretary of State may specify different descriptions of photocards, and different forms of licences not in the form of a photocard, for different cases and may determine the form of licence to be granted in any case.]
+
+(2) Subject to subsections (3) [[^F532], (4) and (4A)] below, a [[^F533]person who holds a licence which] authorises its holder to drive motor vehicles of certain classes only (not being—
+
+[[^F534](a) a provisional licence, or
+
+(b) any other prescribed description of licence)]
+
+[[^F535]may]drive motor vehicles of all other classes subject to the same conditions as if he were authorised by a provisional licence to drive motor vehicles of those other classes.
+
+(3) [[^F536]Subsection (2) above does not] authorise a person to drive—
+
+(a) a vehicle of a class for the driving of which he could not, by reason of the provisions of section 101 of this Act, lawfully hold a licence, or
+
+[^F537]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F538](c) unless he has passed a test of competence to drive, a motor bicycle [[^F539]or moped] on a road in circumstances in which, by virtue of section 97(3)(e) of this Act, a provisional licence would not authorise him to drive it before he had passed that test.]
+
+(4) In such cases [[^F540]or as respects such classes of vehicles]as the Secretary of State may prescribe, the provisions of subsections (2) and (3) above shall not apply or shall apply subject to such limitations as he may prescribe.
+
+[[^F541](4A) [[^F542]Subsection (2) above does not]authorise a person on whom a notice under section 92(5)(b) of this Act has been served to drive motor vehicles otherwise than in accordance with the limits specified in the notice.]
+
+[^F543]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 98A [[^F544]Compulsory surrender of old-form licences (prospective)
+
+(1) The Secretary of State may by order require the holders of licences of a specified description, or any specified description of the holders of such licences, to surrender the licences [^F545]and their counterparts to the Secretary of State.
+
+(2) An order under this section may specify as the description of licences to be surrendered—
+
+(a) licences which are not in the form of a photocard, or
+
+(b) licences in the form of a photocard of a description no longer specified by the Secretary of State as a form in which licences are granted.
+
+(3) An order under this section must specify the date by which the licences to which it relates [^F546](and their counterparts) are to be surrendered; and may specify different dates in relation to different descriptions of licence holders.
+
+(4) An order under this section must include provision for the grant of a new licence to every holder of a licence surrendered [^F547](with its counterpart) in pursuance of the order who—
+
+(a) pays such fee (if any) as is specified by the order, [^F548]...
+
+(b) provides the Secretary of State with such evidence or further evidence as the Secretary of State may require (which may include a photograph which is a current likeness of him).[[^F549] and
+
+(c) provides such evidence or further evidence as the Secretary of State may require for the purpose of satisfying the Secretary of State that the holder is not suffering from a relevant or prospective disability.]
+
+(5) A replacement licence granted pursuant to provision made by virtue of subsection (4) above expires on the date on which the surrendered licence would have expired had it not been surrendered (but subject to subsection (6) below).
+
+(6) Where the period for which the surrendered licence was granted was based on an error with respect to the licence holder's date of birth such that (if the error had not been made) that licence would have been expressed to expire on a different date, the replacement licence expires on that different date.
+
+(7) A person who, without reasonable excuse, fails to comply with any requirement to surrender a licence [^F550]and its counterpart imposed by an order under this section is guilty of an offence.
+
+(8) An order under this section may—
+
+(a) make different provision for different cases, and
+
+(b) contain such incidental and supplementary provisions as the Secretary of State considers appropriate.
+
+(9) The power to make an order under this section is exercisable by statutory instrument.
+
+(10) Before making an order under this section the Secretary of State must consult with such representative organisations as he thinks fit.
+
+(11) A statutory instrument containing an order under this section is subject to annulment in pursuance of a resolution of either House of Parliament.]
+
+#### 99 Duration of licences.
+
+(1) [[^F551]In so far as a licence authorises its holder to drive motor vehicles of classes other than any prescribed class of goods vehicle or any prescribed class of passenger-carrying vehicle, it] shall, unless previously revoked or surrendered, remain in force, subject to subsection (2) below—
+
+(a) except in a case falling within paragraph (b) or (c) of this subsection, for the period ending on the seventieth anniversary of the applicant’s date of birth or for a period of three years, whichever is the longer,
+
+(b) except in a case falling within paragraph (c) of this subsection, if the Secretary of State so determines in the case of a licence to be granted to a person appearing to him to be suffering from a relevant or prospective disability, for such period [[^F552]as the Secretary of State may determine which shall be a period—
+
+(i) of not more than ten years and not less than one year, ending on or before the seventieth anniversary of the applicant's date of birth, or
+
+(ii) where, at the time the licence is granted, there are less than three years until that seventieth anniversary or where the licence is granted on or after that anniversary, of not more than three years and not less than one year], and
+
+(c) in the case of a licence granted in exchange for a subsisting licence and in pursuance of an application requesting a licence for the period authorised by this paragraph, for a period equal to the remainder of that for which the subsisting licence was granted,
+
+and any such period shall begin with the date on which the licence in question is expressed to come into force.
+
+[[^F553](1A) In so far as a licence authorises its holder to drive any prescribed class of goods vehicle or passenger-carrying vehicle, it shall, unless previously revoked, suspended or surrendered, remain in force—
+
+(a) except in a case falling within paragraph (c) or (d) of this subsection—
+
+(i) for the period ending on the forty-fifth anniversary of the applicant’s date of birth or for a period of five years, whichever is the longer, or
+
+(ii) where the applicant’s age at the date on which the licence is to come into force will exceed forty-five but not sixty-five years, for the period ending on the sixty-sixth anniversary of the applicant’s date of birth or for a period of five years, whichever is the shorter,
+
+(b) except in a case falling within paragraph (d) of this subsection, where the applicant’s age at that date will exceed sixty-five years, for a period of one year,
+
+(c) except in a case falling within paragraph (b) or (d) of this subsection, if the Secretary of State so determines in the case of a licence to be granted to a person appearing to him to be suffering from a relevant or prospective disability, for such period of not more than three years and not less than one year as the Secretary of State may determine, and
+
+(d) in the case of a licence granted in exchange for a subsisting licence and in pursuance of an application requesting a licence for the period authorised by this paragraph, for a period equal to the remainder of that for which the subsisting licence was granted,
+
+and any such period shall begin with the date on which the licence in question is expressed to come into force.]
+
+(2) To the extent that a provisional licence authorises the driving of a motor [[^F554]bicycle][[^F555]or moped]of a prescribed class it shall, unless previously surrendered or revoked, remain in force—
+
+(a) for such period as may be prescribed, or
+
+(b) if the licence is granted to the holder of a previous licence which was surrendered, revoked or treated as being revoked—
+
+(i) for the remainder of the period for which the previous licence would have authorised the driving of such a motor [[^F554]bicycle][[^F555]or moped], or
+
+(ii) in such circumstances as may be prescribed, for a period equal to that remainder at the time of surrender or revocation.
+
+[[^F556](2A) Where in accordance with the preceding provisions of this section, a licence in the form of a photocard remains in force after the last day of the administrative validity period, the holder of the licence must nevertheless surrender the licence [^F557]... to the Secretary of State not later than that day.
+
+(2B) Subject to subsections (2C) to (2H), the administrative validity period of a licence in the form of a photocard is—
+
+(a) where the licence authorises its holder to drive any class of goods vehicle or passenger-carrying vehicle prescribed for the purposes of subsection (1A) otherwise than for a purpose mentioned in section 97(2) or by virtue of section 98(2), the period of 5 years beginning with the date shown on the licence as the date of issue; and
+
+(b) in any other case, the period of 10 years beginning with the date shown on the licence as the date of issue.
+
+(2C) In the case of a licence issued before 19th January 2013, the administrative validity period is the period of 10 years beginning with—
+
+(a) the date shown on the licence as the date of issue, or
+
+(b) if the licence was granted by way of renewal or replacement of a licence bearing the same photograph, the date shown on the earliest licence bearing that photograph as the date of issue of that licence.
+
+(2D) Where under subsection (3) or (4) a person is required to surrender a licence and the Secretary of State grants a new licence under subsection (7), the administrative validity period of the new licence is—
+
+(a) a period equal to the unexpired part of the administrative validity period of the old licence; or
+
+(b) if that person so elects in such manner as the Secretary of State may require and pays any fee prescribed, a new administrative validity period calculated in accordance with subsection (2B).
+
+(2E) Subject to subsection (2F), where under section 97 the Secretary of State grants a licence (the “new licence”) to a person who has previously held a licence, the administrative validity period of the new licence is—
+
+(a) a period equal to the unexpired part (if any) of the administrative validity period of the person’s last licence (the “old licence”), or
+
+(b) if the person so elects in such manner as the Secretary of State may require and pays any fee prescribed, a new administrative validity period calculated in accordance with subsection (2B).
+
+(2F) Subsection (2E) does not apply if—
+
+(a) the old licence was revoked by notice under section 93(1) or (2) (revocation because of disability or prospective disability);
+
+(b) the old licence did not authorise the holder to drive any class of goods vehicle or passenger-carrying vehicle prescribed for the purposes of subsection (1A) otherwise than for a purpose mentioned in section 97(2) or by virtue of section 98(2), and the new licence does; or
+
+(c) the old licence was granted only for a purpose mentioned in section 97(2) and the new licence is a full licence.
+
+(2G) Subsections (2C)(b), (2D)(a) and (2E)(a) are subject to any adjustment the Secretary of State makes in a new licence to correct an error that appears to the Secretary of State to have been made in particulars specified in an earlier licence.
+
+(2H) Where the administrative validity period of a licence under any of subsections (2B) to (2E) would otherwise be longer than the period for which the licence remains in force under subsection (1) or (1A) (the “entitlement period”), the administrative validity period ends with the last day of the entitlement period.]
+
+(3) Where it appears to the Secretary of State—
+
+[[^F558](a) that a licence granted by him to any person was granted in error or with an error or omission in the particulars specified in the licence, or
+
+[^F559]aa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ]
+
+(b) that the particulars specified in a licence granted by him to any person [^F560]... do not comply with any requirement imposed since the licence was granted by any provision made by or having effect under any enactment,
+
+the Secretary of State may serve notice in writing on that person revoking the licence and requiring him to surrender the licence [^F561]... forthwith to the Secretary of State [[^F562]and it shall be the duty of that person to comply with the requirement].
+
+[[^F563](3ZA) Where it appears to the Secretary of State that a licence holder is not lawfully resident in the United Kingdom, the Secretary of State may serve notice in writing on that person revoking the licence and requiring the person to surrender the licence [^F564]... forthwith to the Secretary of State, and it is the duty of that person to comply with the requirement.
+
+(3ZB) For the purposes of subsection (3ZA) a person is not lawfully resident in the United Kingdom if the person requires leave to enter or remain in the United Kingdom but does not have it.]
+
+[[^F565](3A) Where—
+
+(a) the Secretary of State is sent under a provision of Northern Ireland law corresponding to section 97(1AA) of this Act a licence granted under this Part of this Act to a person to drive a motor vehicle of any class, and
+
+(b) the Secretary of State is satisfied that a Northern Ireland licence to drive a motor vehicle of that or a corresponding class has been granted to that person,
+
+the Secretary of State must serve notice in writing on that person revoking the licence granted under this Part of this Act.]
+
+(4) Where the name or address of the licence holder as specified in a licence ceases to be correct, its holder must forthwith surrender the licence [^F566]... to the Secretary of State [^F567]... .
+
+(5) A person who [[^F568]without reasonable cause]fails to comply with the duty under subsection [[^F569](2A),][[^F568](3) [[^F570], (3ZA)] or](4) above is guilty of an offence.
+
+[^F571]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F572](6A) In subsection (7ZZA)—
+
+(a) omit “and its counterpart” in both places, and
+
+(b) omit “and counterpart”.]
+
+[^F573][[^F574]7 On the surrender of a licence [^F575]... by a person in pursuance of subsection (2A), (3) or (4) above, the Secretary of State must (subject to the following provisions of this section) grant a new licence to that person [^F576]. . . .
+
+[[^F577](7ZZA) Where a person is required to surrender a licence [^F578]... in pursuance of subsection (2A), (3) [[^F579], (3ZA)] or (4) but provides the Secretary of State with an explanation for not doing so which the Secretary of State considers adequate, the Secretary of State may (subject to the following provisions of this section) treat the licence [^F580]... as surrendered in accordance with the requirements of those subsections and [[^F581], except in the case of a licence [^F582]... surrendered in pursuance of subsection (3ZA), ] may grant a new licence [^F583]... to that person.]
+
+[[^F574](7ZA) The Secretary of State is not required by subsection (7) above to grant a new licence on the surrender of a licence [^F584]... by a person in pursuance of subsection (2A) above [[^F585], or in pursuance of subsection (3) or (4) where an election is made under subsection (2D)(b),] unless the person has paid the fee (if any) which is prescribed; but any other licence under [[^F586]subsection (7)] is to be granted free of charge.]
+
+[^F573]7A Where the surrendered licence was revoked because it was granted in error or in consequence of an error or omission appearing to the Secretary of State to be attributable to the fault of the licence holder or in consequence of a current disqualification, [[^F587]subsections (7) and (7ZZA)] shall not apply but the Secretary of State may, if the person is not currently disqualified, grant a new licence to that person on payment of the fee (if any) which is prescribed.
+
+[[^F588](7AA) The Secretary of State may not grant a new licence to a person under subsection (7), (7ZZA) or (7A) above unless, on the date on which the licence is granted, the person is lawfully resident in the United Kingdom and—
+
+(a) is also normally resident in Great Britain, or
+
+(b) has been attending a course of study in Great Britain during the period of 6 months ending on that date.
+
+(7AB) For the purposes of subsection (7AA) a person is not lawfully resident in the United Kingdom if the person requires leave to enter or remain in the United Kingdom but does not have it.]
+
+[^F573]7B The Secretary of State may require a person to provide—
+
+(a) evidence of his name, address, sex and date and place of birth, [^F589]...
+
+(b) a photograph which is a current likeness of him,[[^F590]and
+
+(c) any information required by subsection (7C),]
+
+before granting a new licence to him under subsection (7) [[^F591], (7ZZA)] or (7A) above.
+
+[[^F592](7C) In a case where—
+
+(a) a person surrenders a licence, and
+
+(b) the surrender is in pursuance of subsection (2A) or an election has otherwise been made under subsection (2D)(b) or (2E)(b),
+
+the person must provide such evidence or further evidence as the Secretary of State may require for the purpose of satisfying the Secretary of State that the person is not suffering from a relevant or prospective disability.]
+
+[^F573]8 A replacement licence granted pursuant to subsection (7) [[^F593], (7ZZA)] or (7A) above shall expire on the date on which the surrendered licence would have expired had it not been surrendered except that, where the period for which the surrendered licence was granted was based on an error with respect to the licence holder’s date of birth such that (if that error had not been made) that licence would have been expressed to expire on a different date, the replacement licence shall expire on that different date.]
+
+### [[^F594] Driver training]
+
+#### [[^F595]99ZA Compulsory driver training courses.
+
+Regulations may make provision about training in the driving of motor vehicles by means of courses provided in accordance with the regulations (“driver training courses”).]
+
+#### [[^F596]99ZB Requirements to complete training courses.
+
+(1) Regulations under section 99ZA of this Act may provide that persons who have not successfully completed a driver training course—
+
+(a) may not take a test of competence to drive motor vehicles of a prescribed class (or a prescribed part of such a test),
+
+(b) are not authorised to drive motor vehicles of a prescribed class (before having passed a test of competence to drive them) by a provisional licence (or by section 98(2) or 99A(5) of this Act),
+
+(c) are not granted a licence authorising the driving of motor vehicles of a prescribed class by virtue of regulations under section 89(6)(b) or (c) of this Act, or
+
+(d) are not authorised to drive motor vehicles of a prescribed class in prescribed circumstances (despite having passed a test of competence to drive them).
+
+(2) But a person is exempt from provision made by virtue of subsection (1)(b), (c) or (d) above if he is undergoing training on a driver training course and is driving a motor vehicle as part of the training.
+
+(3) And regulations under section 99ZA of this Act may include provision exempting persons from any provision made by virtue of subsection (1) above in other circumstances; and regulations including such provision may (in particular)—
+
+(a) limit an exemption to persons in prescribed circumstances,
+
+(b) limit an exemption to a prescribed period or in respect of driving in a prescribed area,
+
+(c) attach conditions to an exemption, and
+
+(d) regulate applications for an exemption.
+
+(4) Regulations under section 99ZA of this Act may include provision for the evidencing by a person of his being within—
+
+(a) the exemption specified in subsection (2) above, or
+
+(b) any exemption provided by virtue of subsection (3) above.
+
+(5) Regulations under section 99ZA of this Act may provide that a driver training course is not to be taken into account for the purposes of the regulations if it was completed before such time as is prescribed.]
+
+#### [[^F597]99ZC Driver training courses: supplementary.
+
+(1) Regulations under section 99ZA of this Act may include—
+
+(a) provision about the nature of driver training courses,
+
+(b) provision for the approval by the Secretary of State of persons providing such courses [[^F598]or giving instruction on such courses] and the withdrawal of approvals (including provision for appeals against refusal and withdrawal of approvals) and provision for exemptions from any requirement of approval,
+
+(c) provision for the training or assessment, or the supervision of the training or assessment, of persons providing driver training courses [[^F598]or giving instruction on such courses],
+
+(d) provision setting the maximum amount of any charges payable by persons undergoing such courses, [^F599]. . .
+
+(e) provision for the evidencing of the successful completion of such courses.[[^F600] and
+
+(f) provision authorising the Secretary of State to make available information about persons providing driver training courses or giving instruction on such courses.]
+
+(2) Such regulations may include provision for the charging of reasonable fees in respect of the exercise of any function conferred or imposed on the Secretary of State by such regulations.
+
+(3) Such regulations may make different provision—
+
+(a) for different classes of motor vehicles,
+
+(b) for different descriptions of persons, or
+
+(c) otherwise for different circumstances.]
+
+### [[^F601]Community licence holders]
+
+#### [^F602]99A [ Authorisation to drive in Great Britain.]
+
+(1) A Community licence holder may drive, and a person may cause or permit a Community licence holder to drive, in Great Britain, a motor vehicle of any class which—
+
+(a) he is authorised by his Community licence to drive, and
+
+(b) he is not disqualified for holding or obtaining a licence under this Part of this Act to drive,
+
+notwithstanding that he is not the holder of a licence under this Part of this Act.
+
+(2) Subsections (3) and (4) below apply to a Community licence holder who is normally resident in Great Britain.
+
+(3) In a case where the Community licence holder is authorised by his Community licence to drive motor vehicles of classes other than any prescribed class of goods vehicle or any prescribed class of passenger-carrying vehicle, he shall cease to be authorised by virtue of subsection (1) above to drive in Great Britain any such classes of motor vehicle from—
+
+(a) the date on which he attains the age of seventy years, or
+
+(b) the expiry of the period of three years beginning with the relevant date,
+
+whichever is the later.
+
+(4) In a case where the Community licence holder is authorised by his Community licence to drive any prescribed class of goods vehicle or any prescribed class of passenger-carrying vehicle, he shall cease to be authorised by virtue of subsection (1) above to drive in Great Britain any such class of vehicle from—
+
+[[^F603](a) except in a case falling within paragraph (b) or (c) of this subsection—
+
+(i) the date on which he attains the age of 45 years, or
+
+(ii) the expiry of the period of five years beginning with the relevant date,
+
+whichever is the later,]
+
+(b) where his age at the relevant date exceeds forty-five but not sixty-five years—
+
+(i) the date on which he attains the age of sixty-six years, or
+
+(ii) the expiry of the period of five years beginning with the relevant date,
+
+whichever is the earlier, and
+
+(c) where his age at the relevant date exceeds sixty-five years, the expiry of the period of one year beginning with that date.
+
+(5) A Community licence holder [^F604]... who is authorised by virtue of subsection (1) above to drive in Great Britain motor vehicles of certain classes only, may drive, in Great Britain, motor vehicles of all other classes subject to the same conditions as if he were authorised by a provisional licence to drive motor vehicles of those other classes.
+
+(6) Subsections (3) and (4) of section 98 of this Act shall apply in relation to subsection (5) above as they apply in relation to subsection (2) of that section.
+
+(7) For the purposes of this Part and Part IV of this Act a Community licence shall not be treated as authorising a person to drive a vehicle of any class if it is not for the time being valid for that purpose in the EEA State in respect of which it was issued.
+
+(8) In this section “relevant date", in relation to a Community licence holder who is normally resident in Great Britain, means—
+
+(a) in the case where he first became so resident on or before 1 January 1997, that date; and
+
+(b) in any other case, the date on which he first became so resident.
+
+#### [^F605]99B [ Information about resident Community licence holders.
+
+(1) A Community licence holder who—
+
+(a) is normally resident in Great Britain, and
+
+(b) is authorised by his Community licence to drive medium-sized or large goods vehicles or passenger-carrying vehicles of any class,
+
+shall, on or before the expiry of the period of twelve months beginning with the relevant date, deliver his Community licence to the Secretary of State and provide him with the information specified in, or required under, subsection (4) below.
+
+(2) Subsection (1) above shall not apply to a Community licence holder from whom the Secretary of State has received a qualifying application (within the meaning of section 88(1A) of this Act) for the grant of a licence under this Part of this Act.
+
+[^F606]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The information referred to in [[^F607]subsection (1)] above is—
+
+(a) the name and address in Great Britain of the Community licence holder;
+
+(b) his date of birth;
+
+(c) the classes of vehicle which he is authorised by his Community licence to drive;
+
+(d) the period of validity of the Community licence in the EEA State in respect of which it was issued;
+
+(e) whether the licence was granted in exchange for a licence issued by a state other than an EEA State; and
+
+(f) such other information as the Secretary of State may require for the purposes of the proper exercise of any of his functions under this Part or Part IV of this Act.
+
+(5) The Secretary of State—
+
+(a) may endorse [[^F608]the driving record of a person who delivers to him a Community licence (whether or not in pursuance of this section)] with any part of the information specified in, or required under, subsection (4) above or with information providing a means of ascertaining that information or any part of it; and
+
+(b) must return the Community licence to the holder.
+
+[^F609]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F610](7) Where the name of a Community licence holder as specified in his Community licence ceases to be correct, he must deliver his Community licence immediately to the Secretary of State and provide him with particulars of the alterations falling to be made in the name on it.]
+
+[^F611]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) On the delivery of a Community licence by any person in pursuance of subsection (7) above, the Secretary of State may endorse the Community licence [[^F612]and that person's driving record] with the correct name and must return the Community licence to that person.
+
+(10) Where a Community licence holder has not complied with subsection (1) above, the Secretary of State may serve notice in writing on the holder requiring him to deliver his Community licence to the Secretary of State and to provide him with the information specified in, or required under, subsection (4) above within such period (not being less than 28 days from the date of service of the notice) as is specified in the notice.
+
+(11) A person who drives a motor vehicle on a road is guilty of an offence if he fails without reasonable excuse—
+
+(a) to comply with a requirement contained in a notice served on him in pursuance of subsection (10) above, or
+
+(b) to comply with a requirement imposed under subsection [^F613]... (7) above.
+
+[^F614]12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(13) In England and Wales, proceedings for an offence by virtue of subsection (11)(a) above shall not be instituted except by the Secretary of State or by a constable acting with the approval of the Secretary of State.
+
+(14) In this section “relevant date" has the meaning given by section 99A(8) of this Act.]
+
+#### [^F615]99C [ Revocation of authorisation conferred by Community licence because of disability or prospective disability.
+
+(1) If the Secretary of State is at any time satisfied on inquiry—
+
+(a) that a Community licence holder who is normally resident in Great Britain at that time is suffering from a relevant disability, and
+
+(b) that the Secretary of State would be required by virtue of section 92(3) of this Act to refuse an application made by him at that time for a licence authorising him to drive a vehicle of the class in respect of which his Community licence was issued or a class corresponding to that class,
+
+the Secretary of State may serve notice in writing requiring the Community licence holder to deliver the Community licence [^F616]... immediately to the Secretary of State.
+
+(2) If the Secretary of State is at any time satisfied on inquiry that a Community licence holder who is normally resident in Great Britain at that time is suffering from a prospective disability, the Secretary of State may—
+
+(a) serve notice in writing requiring the Community licence holder to deliver the Community licence [^F616]... immediately to the Secretary of State, and
+
+(b) on receipt of the Community licence [^F616]... grant to the Community licence holder, free of charge, a licence for a period determined by the Secretary of State under section 99(1)(b) of this Act.
+
+(3) Where, in relation to a Community licence holder who is normally resident in Great Britain, the Secretary of State is at any time under a duty to serve notice on him in pursuance of section 92(5) of this Act, the Secretary of State may include in that notice a requirement that the Community licence holder deliver the Community licence [^F616]... immediately to the Secretary of State.
+
+(4) A person who—
+
+(a) is required under, or by virtue of, any of subsections (1) to (3) above to deliver his Community licence [^F616]... to the Secretary of State, but
+
+(b) without reasonable excuse, fails to do so,
+
+is guilty of an offence.
+
+[^F617]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Where a Community licence holder is served with a notice in pursuance of any of subsections (1) to (3) above, he shall cease to be authorised by virtue of section 99A(1) of this Act to drive in Great Britain a motor vehicle of any class from such date as may be specified in the notice, not being earlier than the date of service of the notice.]
+
+#### [^F618]99D [ Information relating to disabilities etc.
+
+Section 94 of this Act [^F619] shall apply to a Community licence holder who is normally resident in Great Britain as if—
+
+(a) in subsection (1), for the words from the beginning to “aware” there were substituted “If a Community licence holder who is authorised by virtue of section 99A(1) of this Act to drive in Great Britain a motor vehicle of any class, is aware immediately before the relevant date (as defined by section 99A(8) of this Act), or becomes aware on or after that date”,
+
+(b) for subsection (3A) there were substituted—
+
+(3A) A person who is authorised by virtue of section 99A(1) of this Act to drive in Great Britain a motor vehicle of any class and who drives on a road a motor vehicle of that class is guilty of an offence if at any earlier time while he was so authorised he was required by subsection (1) above to notify the Secretary of State but has failed without reasonable excuse to do so.
+
+(c) in subsection (4), the words “an applicant for, or”, in both places where they occur, were omitted,
+
+(d) in subsection (5), the words “applicant or” and the words from the beginning of paragraph (c) to “provisional licence” were omitted,
+
+(e) in subsection (6)(b), the words “applicant or”, in both places where they occur, were omitted,
+
+(f) in subsection (7), the words “applicant or” were omitted, and
+
+(g) in subsection (8)—
+
+(i) for “93” there were substituted “99C”, and
+
+(ii) the words “applicant or”, in both places where they occur, were omitted.]
+
+#### [[^F620]99E Return of Community licences delivered to Secretary of State.
+
+(1) This section applies where a Community licence is delivered to the Secretary of State in pursuance of section 99C or 115A of this Act.
+
+(2) Subject to subsection (3) below, the Secretary of State must, on or after the expiry of the relevant period, forward the Community licence to the licensing authority in the EEA state in respect of which it was issued and explain to them his reasons for so doing.
+
+(3) Where the Secretary of State is satisfied that the Community licence holder has ceased to be normally resident in Great Britain before the expiry of the relevant period, the Secretary of State must return the Community licence to the holder.
+
+(4) In this section “relevant period” means—
+
+(a) in a case where the Community licence holder appeals under section 100 or 119 of this Act against the requirement to surrender his Community licence, the period ending on the date on which the appeal is finally determined or abandoned, and
+
+(b) in any other case, the period of seven months beginning with the date on which the Secretary of State received the Community licence.]
+
+### Appeals
+
+#### 100 Appeals relating to licences.
+
+(1) A person who is aggrieved by the Secretary of State’s—
+
+(a) refusal to grant or revocation of a licence in pursuance of section 92 or 93 of this Act, or
+
+(b) determination under section 99(1)(b) of this Act to grant a licence for [[^F621]ten] years or less [[^F622]or, where sub-paragraph (ii) of section 99(1)(b) applies, for three years or less], or
+
+(c) revocation of a licence in pursuance of section 99(3) [[^F623], (3ZA)] [[^F624]or (3A)] of this Act,
+
+or by a notice served on him in pursuance of section 92(5) [[^F625], 99C or 109B] of this Act may, after giving to the Secretary of State notice of his intention to do so, appeal to a magistrates’ court [^F626]. . . or, in Scotland, to the sheriff within whose jurisdiction he resides.
+
+(2) On any such appeal the court or sheriff may make such order as it or he thinks fit and the order shall be binding on the Secretary of State.
+
+(3) It is hereby declared that, without prejudice to section 90 of this Act, in any proceedings under this section the court or sheriff is not entitled to entertain any question as to whether the appellant passed a test of competence to drive if he was declared by the person who conducted it to have failed it.
+
+[[^F627](4) In any proceedings under this section about the revocation of a licence in pursuance of section 99(3ZA) (revocation on grounds of immigration status), the court or sheriff is not entitled to entertain any question as to whether—
+
+(a) the appellant should be, or should have been, granted leave to enter or remain in the United Kingdom, or
+
+(b) the appellant has, after the date that the Secretary of State served notice under section 99(3ZA), been granted leave to enter or remain in the United Kingdom.]
+
+### Disqualification (otherwise than on conviction)
+
+#### 101 Disqualification of persons under age.
+
+(1) A person is disqualified for holding or obtaining a licence to drive a motor vehicle of a class specified in the following Table if he is under the age specified in relation to it in the second column of the Table.
+
+|  |  |
+|---|---|
+| [[^F628]Class of motor vehicle | Age (in years) |
+| 1. Invalid carriage | 16 |
+| 2. Moped | 16 |
+| 3. Motor bicycle | 17 |
+| 4. Agricultural or forestry tractor | 17 |
+| 5. Small vehicle | 17 |
+| 6. Medium-sized good vehicle | 18 |
+| Other motor vehicle | 21] |
+
+(2) The Secretary of State may by regulations provide that subsection (1) above shall have effect as if for the classes of vehicles and the ages specified in the Table in that subsection there were substituted different classes of vehicles and ages or different classes of vehicles or different ages.
+
+(3) Subject to subsection (4) below, the regulations may—
+
+(a) apply to persons of a class specified in or under the regulations,
+
+(b) apply in circumstances so specified,
+
+(c) impose conditions or create exemptions or provide for the imposition of conditions or the creation of exemptions,
+
+(d) contain such transitional and supplemental provisions (including provisions amending section 108, 120 or 183(5) of this Act) as the Secretary of State considers necessary or expedient.
+
+(4) For the purpose of defining the class of persons to whom, the class of vehicles to which, the circumstances in which or the conditions subject to which regulations made by virtue of subsection (2) above are to apply where an approved training scheme for drivers is in force, it is sufficient for the regulations to refer to a document which embodies the terms (or any of the terms) of the scheme or to a document which is in force in pursuance of the scheme.
+
+(5) In subsection (4) above—
+
+- “approved” means approved for the time being by the Secretary of State for the purpose of the regulations,
+- “training scheme for drivers” means a scheme for training persons to drive vehicles of a class in relation to which the age which is in force under this section (but apart from any such scheme) is 21 years,
+
+but no approved training scheme for drivers shall be amended without the approval of the Secretary of State.
+
+#### 102 Disqualification to prevent duplication of licences.
+
+A person is disqualified for obtaining a licence authorising him to drive a motor vehicle of any class so long as he is the holder of another licence authorising him to drive a motor vehicle of that class, whether the licence is suspended or not.
+
+[[^F629](2) A person is also disqualified for holding or obtaining a licence authorising him to drive a motor vehicle of any class so long as he is authorised by virtue of section 109(1) of this Act to drive a motor vehicle of that or a corresponding class.]
+
+### [[^F630]Disqualification if disqualified in Northern Ireland etc.
+
+#### 102A Disqualification while disqualified in Northern Ireland, Isle of Man, Channel Islands or Gibraltar
+
+(1) A person is disqualified for holding or obtaining a licence to drive a motor vehicle of any class so long as he is subject to a relevant disqualification imposed outside Great Britain.
+
+(2) For the purposes of this section a person is subject to a relevant disqualification imposed outside Great Britain if, in respect of any offence—
+
+(a) a court in Northern Ireland disqualifies him for holding or obtaining a Northern Ireland licence,
+
+(b) a court in the Isle of Man or any of the Channel Islands disqualifies him for holding or obtaining a British external licence, or
+
+(c) a court in Gibraltar disqualifies him for holding or obtaining a licence to drive a motor vehicle granted under the law of Gibraltar.
+
+(3) A certificate signed by the Secretary of State which states, in respect of a person, any matter relating to the question whether he is subject to a relevant disqualification imposed outside Great Britain shall be evidence (in Scotland, sufficient evidence) of the matter so stated.
+
+(4) A certificate stating that matter and purporting to be so signed shall be deemed to be so signed unless the contrary is proved.]
+
+### [[^F631]Effects of disqualification]
+
+#### 103 [[^F632] Obtaining licence, or driving, while disqualified.
+
+(1) A person is guilty of an offence if, while disqualified for holding or obtaining a licence, he—
+
+(a) obtains a licence, or
+
+(b) drives a motor vehicle on a road.
+
+(2) A licence obtained by a person who is disqualified is of no effect (or, where the disqualification relates only to vehicles of a particular class, is of no effect in relation to vehicles of that class).
+
+[^F633]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) [[^F634]Subsection (1) above does] not apply in relation to disqualification by virtue of section 101 of this Act.
+
+(5) [[^F635]Subsection (1)(b) above does] not apply in relation to disqualification by virtue of section 102 of this Act.
+
+(6) In the application of [[^F636]subsection (1)] above to a person whose disqualification is limited to the driving of motor vehicles of a particular class by virtue of—
+
+(a) section 102 [[^F637]117 or 117A] of this Act, or
+
+(b) subsection (9) of section 36 of the Road Traffic Offenders Act 1988 (disqualification until test is passed),
+
+the references to disqualification for holding or obtaining a licence and driving motor vehicles are references to disqualification for holding or obtaining a licence to drive and driving motor vehicles of that class.]
+
+### Miscellaneous
+
+#### 104 Conduct of proceedings in certain courts by or against the Secretary of State.
+
+(1) Any proceedings by or against the Secretary of State in a magistrates’ court or [[^F638]the] county court under this Part of this Act or Part II of the Road Traffic Offenders Act 1988 may [[^F639], except in the county court if rules of court provide otherwise,] be conducted on behalf of the Secretary of State by a person authorised by him for the purposes of this subsection.
+
+(2) Any proceedings in any court in Scotland, other than the High Court of Justiciary or the Court of Session, against the Secretary of State under this Part of this Act or Part II of the [^M26]Road Traffic Offenders Act 1988 may be conducted on behalf of the Secretary of State by any person authorised by him for the purposes of this subsection.
+
+#### 105 Regulations.
+
+(1) The Secretary of State may make regulations for any purpose for which regulations may be made under the provisions of this Part of this Act and the relevant provisions of the Road Traffic Offenders Act 1988 and for prescribing anything which may be prescribed under any of those provisions, and otherwise for the purpose of carrying any of those provisions into effect.
+
+(2) In particular, but without prejudice to the generality of subsection (1) above, the regulations may make provision with respect to—
+
+[^F640][a licences under this Part of this Act, [[^F641]Northern Ireland licences,] [[^F642]and Community licences],
+
+(b) [^F643]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+(c) preventing a person holding more than one licence,
+
+(d) facilitating identification of holders of licences,
+
+(e) providing for the issue of [^F644][[^F645]. . . licences [^F646]... in the place of licences [^F646]... ] lost or defaced on payment of such fee [[^F647], and compliance with such requirements,] as may be prescribed,
+
+[^F648]ea . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F649](ee) the correspondence [^F650]. . . of one class of motor vehicle with another class of motor vehicle or of one test of competence to drive with another (whatever the law under which the classification is made or the test conducted),]
+
+(f) the effect of a change in the classification of motor vehicles [^F651]. . . on licences then in force or issued or on the right to or the subsequent granting of licences [[^F652]or on [[^F653]Northern Ireland licences or] Community licences then in force], and
+
+(g) enabling a person—
+
+(i) whose entitlement to the grant of a licence to drive a class of motor vehicle is preserved by regulations made by virtue of paragraph (f) above, and
+
+(ii) who satisfies such conditions as may be prescribed,
+
+to drive (and be employed in driving) that class of motor vehicle while he applies for the licence to be granted to him,
+
+and different regulations may be made as respects different classes of vehicles or as respects the same class of vehicles in different circumstances.
+
+(3) The regulations may—
+
+(a) make different provision for different circumstances,
+
+(b) provide for exemptions from any provision of the regulations, and
+
+(c) contain such incidental and supplemental provisions as the Secretary of State considers expedient for the purposes of the regulations,
+
+and nothing in the other provisions of this Part of this Act shall be construed as prejudicing the generality of the preceding provisions of this subsection.
+
+(4) Any fee prescribed under this Part of this Act shall be of an amount approved by the Treasury, and different fees may be prescribed for different circumstances [[^F654]and (in particular) in relation to licences in different forms].
+
+(5) In subsection (1) above “the relevant provisions of the [^M27]Road Traffic Offenders Act 1988” means the following provisions of that Act: sections 2, 7, 8, 23 to 26, 27, 31 [[^F655], 34 [[^F656], 35] to 48[[^F657], 91ZA and 91A]] .
+
+#### 106 Destination of fees for licences, etc.
+
+(1) All fees received by the Secretary of State for licences under this Part of this Act shall be paid into the Consolidated Fund.
+
+(2) Fees in respect of tests of competence to drive payable by virtue of regulations made by virtue of section 89(4) of this Act shall be paid to such person as may be prescribed by the regulations, and any such fees received by a person so prescribed (other than any as to which the regulations provide that they are to be paid to the person conducting the test and retained by him as remuneration) shall be paid into the Consolidated Fund.
+
+#### 107 Service of notices.
+
+[[^F658]A notice authorised to be served on any person under this Part or Part IV of this Act or a Community licence required to be returned to its holder by section [[^F659]99B, 99E or 109A] of this Act may be served on, or returned to him] by delivering it to him or by leaving it at his proper address or by sending it to him by post; and for the purposes of this section and section 7 of the [^M28]Interpretation Act 1978 in its application to this section the proper address of any person shall be his latest address as known to the person serving the notice.
+
+#### 108 Interpretation.
+
+(1) In this Part of this Act—
+
+- [[^F660]“agricultural or forestry tractor” means a motor vehicle which—
+
+  - (a) has two or more axles,
+  - (b) is constructed for use as a tractor for work off the road in connection with agriculture or forestry, and
+  - (c) is primarily used as such,]
+
+- “articulated goods vehicle” means a motor vehicle which is so constructed that a trailer designed to carry goods may by partial superimposition be attached to it in such manner as to cause a substantial part of the weight of the trailer to be borne by the motor vehicle, and “articulated goods vehicle combination” means an articulated goods vehicle with a trailer so attached,
+
+- [[^F661]“British external licence” and “British Forces licence” have the meanings given by section 88(8) of this Act,]
+
+- “Community licence” means a document issued in respect of [[^F662]an EEA State] [^F663]... by an authority of that or [[^F664]another EEA State] [^F665]... authorising the holder to drive a motor vehicle, not being—
+
+  - (a) a document containing a statement to the effect that that or a previous document was issued in exchange for a document issued in respect of a State other than [[^F662]an EEA State], or
+  - (b) a document in any of the forms for an international driving permit annexed to the Paris Convention on Motor Traffic of 1926, the Geneva Convention on Road Traffic of 1949 or the Vienna Convention on Road Traffic of 1968 [[^F666]or
+  - (c) [^F666]a document issued for a purpose corresponding to that mentioned in section 97(2) of this Act,]
+
+- [^F667]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- “disability” has the meaning given by section 92 of this Act,
+
+- “disqualified” means disqualified for holding or obtaining a licence [[^F668](or, in cases where the disqualification is limited, a licence to drive motor vehicles of the class to which the disqualification relates)], and “disqualification” is to be interpreted accordingly,
+
+- [[^F669]“EEA agreement” and “EEA state” have the meaning given by Schedule 1 to the Interpretation Act 1978;]
+
+- [[^F670]“exchangeable licence” means a document authorising a person to drive a motor vehicle (not being a document mentioned in paragraph (b) of the definition of “Community licence”)—
+
+  - (a) issued in respect of Gibraltar by an authority of Gibraltar,
+  - (b) issued in respect of a country or territory which is designed without restriction by an order under subsection (2)(a) below by an authority of that country or territory, or
+  - (c) issued in respect of a country or territory which is designated by a restricted order under subsection (2)(b) below by an authority of that country or territory, being a document which is a licence of a description specified in that order,
+
+  and a licence of a description so specified as to which provision is made as mentioned in subsection (2B) below is only an exchangeable licence to the extent that it authorises its holder to drive vehicles of a class specified in the order.]
+
+- [[^F671]“full licence” means a licence other than a provisional licence,]
+
+- [[^F672]“large goods vehicle” has the meaning given by section 121(1) of this Act,]
+
+- “licence” [[^F673](except where the context otherwise requires)]means a licence to drive a motor vehicle granted under this Part of this Act [^F674]. . .
+
+- “light quadricycle” means a quadricycle referred to in Article [[^F675]4] of the motorcycle type approval [[^F676]Regulation] (within the meaning of Part 2 of this Act),
+
+- “maximum gross weight”, in relation to a motor vehicle or trailer, means the weight of the vehicle laden with the heaviest load which it is constructed or adapted to carry,
+
+- “maximum train weight”, in relation to an articulated goods vehicle combination, means the weight of the combination laden with the heaviest load which it is constructed or adapted to carry,
+
+- [[^F677]“medium-sized goods vehicle” means a motor vehicle—
+
+  - (a) which is constructed or adapted to carry or to haul goods,
+  - (b) which is not adapted to carry more than nine persons inclusive of the driver, and
+  - (c) the permissible maximum weight of which exceeds 3.5 but not 7.5 tonnes,
+
+  and includes a combination of such a motor vehicle and a trailer where the relevant maximum weight of the trailer does not exceed 750 kilograms,
+
+- [[^F678]“moped” does not include light quadricycles, but otherwise has the same meaning as in Directive 2006/126/EC of the European Parliament and of the Council of 20th December 2006 on driving licences,]
+
+- [^F677] “motor bicycle” means a motor vehicle which—
+
+  - (a) has two wheels, and
+  - (b) has a maximum design speed exceeding [[^F679]45 kilometres per hour] [[^F680]or], if powered by an internal combustion engine, has a cylinder capacity exceeding 50 cubic centimetres,
+
+  and includes a combination of such a motor vehicle and a side-car,]
+
+- [[^F681]“Northern Ireland driving licence” or “Northern Ireland licence” means a licence to drive a motor vehicle granted under the law of Northern Ireland [[^F682]and “Northern Ireland counterpart” means the document issued with the Northern Ireland licence as a counterpart under the law of Northern Ireland],
+
+- “passenger-carrying vehicle” has the meaning given by section 121(1) of this Act,]
+
+- “permissible maximum weight”, in relation to a goods vehicle (of whatever description), means—
+
+  - (a) in the case of a motor vehicle which neither is an articulated goods vehicle nor is drawing a trailer, the relevant maximum weight of the vehicle,
+  
+  - (b) in the case of an articulated goods vehicle—
+  
+    - (i) when drawing only a semi-trailer, the relevant maximum train weight of the articulated goods vehicle combination,
+    - (ii) when drawing a trailer as well as a semi-trailer, the aggregate of the relevant maximum train weight of the articulated goods vehicle combination and the relevant maximum weight of the trailer,
+    - (iii) when drawing a trailer but not a semi-trailer, the aggregate of the relevant maximum weight of the articulated goods vehicle and the relevant maximum weight of the trailer,
+    - (iv) when drawing neither a semi-trailer nor a trailer, the relevant maximum weight of the vehicle,
+  
+  - (c) in the case of a motor vehicle (not being an articulated goods vehicle) which is drawing a trailer, the aggregate of the relevant maximum weight of the motor vehicle and the relevant maximum weight of the trailer,
+
+- “prescribed” means prescribed by regulations,
+
+- “prospective disability” has the meaning given by section 92 of this Act,
+
+- “provisional licence” means a licence granted by virtue of section 97(2) of this Act,
+
+- “regulations” means regulations made under section 105 of this Act,
+
+- “relevant disability” has the meaning given by section 92 of this Act,
+
+- [[^F683]“relevant external law” has the meaning given by section 88(8) of this Act,]
+
+- “relevant maximum weight”, in relation to a motor vehicle or trailer, means—
+
+  - (a) in the case of a vehicle to which regulations under section 49 of this Act apply which is required by regulations under section 41 of this Act to have a maximum gross weight for the vehicle marked on a plate issued by the Secretary of State under regulations under section 41, the maximum gross weight so marked on the vehicle,
+  - (b) in the case of a vehicle which is required by regulations under section 41 of this Act to have a maximum gross weight for the vehicle marked on the vehicle and does not also have a maximum gross weight marked on it as mentioned in paragraph (a) above, the maximum gross weight marked on the vehicle,
+  - (c) in the case of a vehicle on which a maximum gross weight is marked by the same means as would be required by regulations under section 41 of this Act if those regulations applied to the vehicle, the maximum gross weight so marked on the vehicle,
+  - (d) in the case of a vehicle on which a maximum gross weight is not marked as mentioned in paragraph (a), (b) or (c) above, the notional maximum gross weight of the vehicle, that is to say, such weight as is produced by multiplying the unladen weight of the vehicle by the number prescribed by the Secretary of State for the class of vehicle into which that vehicle falls,
+
+- “relevant maximum train weight”, in relation to an articulated goods vehicle combination, means—
+
+  - (a) in the case of an articulated goods vehicle to which regulations under section 49 of this Act apply which is required by regulations under section 41 of this Act to have a maximum train weight for the combination marked on a plate issued by the Secretary of State under regulations under section 41, the maximum train weight so marked on the motor vehicle,
+  - (b) in the case of an articulated goods vehicle which is required by regulations under section 41 of this Act to have a maximum train weight for the combination marked on the vehicle and does not also have a maximum train weight marked on it as mentioned in paragraph (a) above, the maximum train weight marked on the motor vehicle,
+  - (c) in the case of an articulated goods vehicle on which a maximum train weight is marked by the same means as would be required by regulations under section 41 of this Act if those regulations applied to the vehicle, the maximum train weight so marked on the motor vehicle,
+  - (d) in the case of an articulated goods vehicle on which a maximum train weight is not marked as mentioned in paragraph (a), (b) or (c) above, the notional maximum gross weight of the combination, that is to say, such weight as is produced by multiplying the sum of the unladen weights of the motor vehicle and the semi-trailer by the number prescribed by the Secretary of State for the class of articulated goods vehicle combination into which that combination falls,
+
+- “semi-trailer”, in relation to an articulated goods vehicle, means a trailer attached to it in the manner described in the definition of articulated goods vehicle,
+
+- [[^F684]“small vehicle” means a motor vehicle (other than an invalid carriage, moped or motor bicycle) which—
+
+  - (a) is not constructed or adapted to carry more than nine persons inclusive of the driver, and
+  - (b) has a maximum gross weight not exceeding 3.5 tonnes,
+
+  and includes a combination of such a motor vehicle and a trailer,]
+
+- [^F685]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- [^F685]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- “test of competence to drive” means such a test conducted under section 89 of this Act.
+
+- [[^F686]“approved training course for motor cyclists” and, in relation to such a course, “prescribed certificate of completion” mean respectively any course of training approved under, and the certificate of completion prescribed in, regulations under section 97(3A) of this Act.]
+
+[[^F687](1A) In this Part of this Act, unless the context otherwise requires, a reference to the expiry of a licence is a reference to the time when it ceases to be in force (and “expired” is to be interpreted accordingly).]
+
+[[^F688](1B) For the purposes of this Part a person is normally resident in Great Britain if—
+
+(a) the person lives in Great Britain for at least 185 days in each calendar year because of—
+
+(i) personal and occupational ties, or
+
+(ii) close personal ties, or
+
+(b) the person has personal ties in Great Britain and occupational ties in [[^F689]an EEA state or Northern Ireland] and consequently lives in turn in Great Britain and that [[^F690]EEA state or Northern Ireland].
+
+[[^F691](1BA) In order to be normally resident in Great Britain by virtue of subsection (1B)(b) a person must return there regularly, except where the person is living in the EEA state or Northern Ireland in order to carry out a task of a definite duration.]
+
+(1C) For the purposes of this Part a person is normally resident in the United Kingdom if—
+
+(a) the person lives in the United Kingdom for at least 185 days in each calendar year because of—
+
+(i) personal and occupational ties, or
+
+(ii) close personal ties, or
+
+(b) the person has personal ties in the United Kingdom and occupational ties in [[^F692]an EEA state] and consequently lives in turn in the United Kingdom and that [[^F693]EEA state].
+
+(1D) In order to be normally resident in [^F694]... the United Kingdom by virtue of subsection [^F695]...(1C)(b) a person must return there regularly, except when the person is living in [[^F696]the EEA state] in order to carry out a task of a definite duration.
+
+(1E) For the purposes of subsections (1B) and (1C) attendance at a university or school is not a personal or occupational tie.]
+
+[[^F697](2) The Secretary of State may by order made by statutory instrument designate a country or territory which neither is nor forms part of an EEA State for the purposes of the definition of “exchangeable licence” in subsection (1) above)—
+
+(a) as respects all licences authorising the driving of motor vehicles granted under the law of that country or territory, where the Secretary of State is satisfied that satisfactory provision is made by that law for the granting of licences to drive motor vehicles;
+
+(b) as respects only licences authorising the driving of motor vehicles granted under the law of that country or territory of a description specified in the order, where the Secretary of State is satisfied that satisfactory provision is made by that law for the granting of licences of that description.
+
+[^F697]2A An order under subsection (2)(b) above may specify a description of licence by reference to any feature of the licences concerned (including in particular the circumstances in which they are granted, any conditions to which they are subject or the classes of vehicle which they authorise the holders to drive).
+
+[^F697]2B An order under subsection (2)(b) above may provide that a licence of a specified description shall only be an exchangeable licence in so far as it authorises its holder to drive vehicles of a class specified in the order.]
+
+(3) Before making any order under subsection (2) above, the Secretary of State shall consult with such representative organisations as he thinks fit.
+
+#### 109 Provisions as to Northern Ireland drivers’ licences.
+
+(1) The holder of a [[^F698]Northern Ireland driving licence] may drive, and a person may cause or permit the holder of such a licence to drive, in Great Britain, [[^F699]in accordance with that licence,] a motor vehicle of any class which he is authorised by that licence to drive, and which he is not disqualified from driving under this Part [[^F700]or Part IV] of this Act, notwithstanding that he is not the holder of a licence under this Part of this Act.
+
+[[^F701](2) For the purposes of this Act, any driver holding a Northern Ireland licence shall be under the same obligation to produce such a licence as if it had been a licence granted under this Part of this Act, and the provisions of this Act as to the production of licences granted under this Part of this Act shall apply accordingly.]
+
+(3) [^F702]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) [^F702]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) [^F702]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 109A [[^F703][[^F704]Information about] Northern Ireland licence holders
+
+[[^F705](1) The Secretary of State may endorse the driving record of a Northern Ireland licence holder who delivers to him a Northern Ireland licence together with the information specified in, or required under, subsection (3) below with any part of that information.]
+
+(3) The information referred to in subsection (1) above is—
+
+(a) the name and address (whether in Great Britain or Northern Ireland) of the Northern Ireland licence holder;
+
+(b) his date of birth;
+
+(c) the classes of vehicle which he is authorised by his Northern Ireland licence to drive;
+
+(d) the period of validity of the licence;
+
+(e) whether it was granted in exchange for a licence issued by a state other than an EEA State; and
+
+(f) such other information as the Secretary of State may require for the purposes of the proper exercise of any of his functions under this Part or Part 4 of this Act.
+
+[[^F706](4) Where the name of a Northern Ireland licence holder as specified in his Northern Ireland licence ceases to be correct, he may deliver his Northern Ireland licence immediately to the Secretary of State and provide him with particulars of the alterations falling to be made in the name on it.
+
+(5) On the delivery of a Northern Ireland licence by any person in pursuance of subsection (4) above, the Secretary of State may endorse the Northern Ireland licence and that person's driving record with the correct name and must return the Northern Ireland licence to that person.]]
+
+#### 109B [[^F707]Revocation of authorisation conferred by Northern Ireland licence because of disability or prospective disability
+
+(1) If the Secretary of State is at any time satisfied on inquiry—
+
+(a) that a Northern Ireland licence holder is suffering from a relevant disability, and
+
+(b) that he would be required by virtue of section 92(3) of this Act to refuse an application made by the holder at that time for a licence authorising him to drive a vehicle of the class in respect of which his Northern Ireland licence was issued or a class corresponding to that class,
+
+he may serve notice in writing requiring the licence holder to deliver immediately to the Secretary of State his Northern Ireland licence [^F708]....
+
+(2) If the Secretary of State is satisfied on inquiry that a Northern Ireland licence holder is suffering from a prospective disability, he may—
+
+(a) serve notice in writing on the Northern Ireland licence holder requiring him to deliver immediately to the Secretary of State his Northern Ireland licence [^F709]..., and
+
+(b) on receipt of the Northern Ireland licence [^F710]... and of an application made for the purposes of this subsection, grant to the Northern Ireland licence holder, free of charge, a licence for a period determined by the Secretary of State under section 99(1)(b) of this Act.
+
+(3) The Secretary of State may require a person to provide—
+
+(a) evidence of his name, address, sex and date and place of birth, and
+
+(b) a photograph which is a current likeness of him,
+
+before granting a licence to him on an application for the purposes of subsection (2) above.
+
+(4) A person who—
+
+(a) is required under, or by virtue of, this section to deliver to the Secretary of State his Northern Ireland licence [^F711]..., but
+
+(b) without reasonable excuse, fails to do so,
+
+is guilty of an offence.
+
+[^F712]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Where a Northern Ireland licence holder is served with a notice in pursuance of this section, he shall cease to be authorised by virtue of section 109(1) of this Act to drive in Great Britain a motor vehicle of any class from such date as may be specified in the notice, not being earlier than the date of service of the notice.
+
+(7) Where a Northern Ireland licence is delivered to the Secretary of State in pursuance of this section, he must—
+
+(a) send the licence and its Northern Ireland counterpart to the licensing authority in Northern Ireland, and
+
+(b) explain to them his reasons for so doing.]
+
+#### 109C [[^F713]Information relating to disabilities etc
+
+Section 94 of this Act shall apply to a Northern Ireland licence holder who is normally resident in Great Britain as if—
+
+(a) in subsection (1), for the words from the beginning to “aware” there were substituted “ If a Northern Ireland licence holder who is authorised by virtue of section 109(1) of this Act to drive in Great Britain a motor vehicle of any class, is aware immediately before the relevant date, or becomes aware on or after that date ”,
+
+(b) after that subsection there were inserted—
+
+> (1A) For the purposes of subsection (1) “relevant date” means—
+>
+> (a) in the case where the licence holder first became normally resident in Great Britain on or before the date on which section 79 of the Crime (International Co-operation) Act 2003 comes into force, that date; and
+>
+> (b) in any other case, the date on which he first became so resident.
+
+,
+
+(c) for subsection (3A) there were substituted—
+
+> (3A) A person who—
+>
+> (a) is authorised by virtue of section 109(1) of this Act to drive in Great Britain a motor vehicle of any class, and
+>
+> (b) drives on a road a motor vehicle of that class,
+>
+> is guilty of an offence if at any earlier time while he was so authorised he was required by subsection (1) above to notify the Secretary of State but has failed without reasonable excuse to do so.
+
+,
+
+(d) in subsection (4), the words “an applicant for, or” (in both places) were omitted,
+
+(e) in subsection (5), the words “applicant or” and the words from the beginning of paragraph (c) to “provisional licence” were omitted,
+
+(f) in subsection (6)(b), the words “applicant or” (in both places) were omitted,
+
+(g) in subsection (7), the words “applicant or” were omitted, and
+
+(h) in subsection (8)—
+
+(i) for “93” there were substituted “ 109B ”, and
+
+(ii) the words “applicant or” (in both places) were omitted.]
+
+## [[^F714]Part IV — Licensing of drivers of large goods vehicles and passenger-carrying vehicles.]
+
+### Licensing of drivers of large goods vehicles and passenger-carrying vehicles.
+
+#### [[^F715]110
+
+(1) Licences under Part III of this Act to drive motor vehicles of classes which include large goods vehicles or passenger-carrying vehicles or large goods vehicles or passenger-carrying vehicles of any class shall be granted by the Secretary of State in accordance with this Part of this Act and shall, in so far as they authorise the driving of large goods vehicles or passenger-carrying vehicles, be otherwise subject to this Part of this Act in addition to Part III of this Act.
+
+(2) In this Part of this Act—
+
+- [[^F716]“Community licence” has the same meaning as in Part III of this Act;
+- “LGV Community licence” means a Community licence in so far as it authorises a person to drive large goods vehicles of any class;]
+- [[^F717]“PCV Community licence” means a Community licence in so far as it authorises a person to drive passenger-carrying vehicles of any class;]
+- “large goods vehicle driver’s licence” means a licence under Part III of this Act in so far as it authorises a person to drive large goods vehicles of any class; and
+- “passenger-carrying vehicle driver’s licence” means a licence under Part III of this Act in so far as it authorises a person to drive passenger-carrying vehicles of any class.]
+
+#### 111 [[^F718] Functions of traffic commissioners.
+
+(1) [[^F719]A traffic commissioner] shall exercise the functions conferred by the following provisions of this Part of this Act relating to the conduct of
+
+[[^F720](a) applicants for and holders of large goods vehicle and passenger-carrying vehicle drivers’ licences, and
+
+[^F720]b holders of LGV Community licences and PCV Community licences.]
+
+(2) Traffic commissioners shall, in the exercise of those functions, act in accordance with directions given by the Secretary of State; but such directions shall be general directions not relating to the exercise of functions in a particular case.]
+
+#### 112 [[^F721] Grants of licences: fitness as regards conduct.
+
+The Secretary of State shall not grant to an applicant a large goods vehicle driver’s licence or a passenger-carrying vehicle driver’s licence unless he is satisfied, having regard to his conduct, that he is a fit person to hold the licence applied for.]
+
+#### 113 [[^F722] Grant of licences: referral of matters of conduct to traffic commissioners.
+
+(1) Any question arising under section 112 of this Act relating to the conduct of an applicant for a licence may be referred by the Secretary of State to [[^F723]a traffic commissioner] .
+
+(2) On any reference under subsection (1) above, [[^F724]a traffic commissioner] shall determine whether the applicant for the licence is or is not, having regard to his conduct, a fit person to hold a licence to drive large goods vehicles or passenger-carrying vehicles, as the case may be.
+
+(3) A traffic commissioner [[^F725]dealing with a reference] under this section may require the applicant for the licence to furnish the commissioner with such information as he may require and may, by notice to the applicant, require him to attend before the commissioner at the time and place specified by the commissioner to furnish the information and to answer such questions (if any) relating to his application as the commissioner may put to him.
+
+(4) If the applicant fails without reasonable excuse to furnish information to or attend before or answer questions properly put by a commissioner when required to do so under subsection (3) above, [[^F726]the commissioner dealing with the application may] decline to proceed further with the application and, if he does so, the commissioner shall notify the Secretary of State of that fact and the Secretary of State shall refuse to grant the licence.
+
+(5) [[^F727]A traffic commissioner dealing with a reference] under this section shall, unless he has declined to proceed further with the application, notify the Secretary of State and the applicant of his determination in the matter and the decision of the commissioner shall be binding on the Secretary of State.]
+
+#### 114 [[^F728] Conditions of certain licences.
+
+(1) [[^F729]The following licences, that say -
+
+(a) a large goods vehicle or passenger-carrying vehicle driver’s licence issued as a provisional licence,
+
+(b) a full large goods vehicle or passenger-carrying vehicle driver’s licence granted to a person under the age of 21, and
+
+(c) a LGV Community licence held by a person under the age of 21 who is normally resident in Great Britain,]
+
+shall be subject to the prescribed conditions, and if the holder of the licence fails, without reasonable excuse, to comply with any of the conditions he is guilty of an offence.
+
+(2) It is an offence for a person knowingly to cause or permit another person who is under the age of 21 to drive a large goods vehicle of any class or a passenger-carrying vehicle of any class in contravention of the prescribed conditions to which that other person’s licence is subject.]
+
+#### 115 [[^F730] Revocation or suspension of licences.
+
+(1) A large goods vehicle or passenger-carrying vehicle driver’s licence—
+
+(a) must be revoked if there come into existence, in relation to its holder, such circumstances relating to his conduct as may be prescribed;
+
+(b) must be revoked or suspended if his conduct is such as to make him unfit to hold such a licence;
+
+and where the licence is suspended under paragraph (b) above it shall during the time of suspension be of no effect.
+
+(2) Where it appears that the conduct of the holder of a licence falls within both paragraph (a) and paragraph (b) of subsection (1) above, proceedings shall be taken or continued under paragraph (a) and not under paragraph (b) and accordingly the power to suspend the licence, rather than revoke it, shall not be available.
+
+(3) Regulations made for the purposes of [[^F731]this section [[^F732]or any of sections 115A, 117 or 117A] of this Act]—
+
+(a) may make different provision for large goods vehicles and for passenger-carrying vehicles and for different descriptions of persons; and
+
+(b) shall provide for the determination of the cases in which,
+
+[[^F733](i) under section 117 of this Act, a person whose licence has been revoked, or
+
+[^F733]ii under section 117A of this Act, a person on whom a notice is served in pursuance of section 115A(1)(a) of this Act,]
+
+is to be disqualified indefinitely or for a period and, if for a period, for the determination of the period.]
+
+#### 115A [[^F734] Community licence holders: cessation of authorisation, etc.
+
+(1) Where, in relation to a holder of a LGV Community licence or PCV Community licence who is normally resident in Great Britain—
+
+(a) there exist immediately before the relevant date, or there come into existence on or after that date, such circumstances relating to his conduct as may be prescribed; or
+
+(b) his conduct is such as to make him unfit to be authorised by virtue of section 99A(1) of this Act to drive in Great Britain a large goods vehicle or passenger-carrying vehicle (as the case may be),
+
+the Secretary of State must serve notice on the holder requiring him to deliver the Community licence [^F735]... immediately to the Secretary of State and it shall be the duty of the holder to comply with that requirement.
+
+(2) Where a notice is served in pursuance of subsection (1)(a) or (b) above on the holder of a LGV Community licence or a PCV Community licence, he shall cease to be authorised by virtue of section 99A(1) of this Act to drive in Great Britain a large goods vehicle or passenger-carrying vehicle (as the case may be) from such date as is specified in the notice, not being earlier than the date of service of the notice.
+
+(3) Where it appears to the Secretary of State that the conduct of a Community licence holder falls within both paragraph (a) and paragraph (b) of subsection (1) above, the Secretary of State must serve notice on the holder in pursuance of the former paragraph only.
+
+(4) Any Community licence holder who fails without reasonable excuse to comply with his duty under subsection (1) above is guilty of an offence.
+
+(5) In this section “relevant date", in relation to a Community licence holder who is normally resident in Great Britain, has the same meaning as in section 99A(8) of this Act.]
+
+#### 116 [[^F736] Revocation or suspension of licences: referral of matters of conduct to traffic commissioners.
+
+[[^F737](1) Any question arising—
+
+(a) under section 115(1)(b) of this Act as to whether a person is or is not, by reason of his conduct, fit to hold a large goods vehicle or passenger-carrying vehicle driver’s licence, as the case may be, or
+
+(b) under section 115A(1)(b) of this Act as to whether the holder of a LGV Community licence or PCV Community licence is or is not, by reason of his conduct, fit to be authorised by virtue of section 99A(1) of this Act to drive in Great Britain a large goods vehicle or passenger-carrying vehicle (as the case may be),
+
+may be referred by the Secretary of State to [[^F738]a traffic commissioner].]
+
+(2) Where, on any reference under [[^F739]subsection (1)(a)] above, [[^F740]a traffic commissioner] determines that the holder of the licence is not fit to hold a large goods vehicle or passenger-carrying vehicle driver’s licence, as the case may be, he shall also determine whether the conduct of the holder of the licence is such as to require the revocation of his licence or only its suspension; and, if the former, whether the holder of the licence should be disqualified under section 117(2)(a) of this Act (and, if so, for what period) or under section 117(2)(b) of this Act.
+
+[[^F741](2A) Where, on any reference under subsection (1)(b) above, [[^F742]a traffic commissioner] determines that a Community licence holder is not fit to be authorised by virtue of section 99A(1) of this Act to drive in Great Britain a large goods vehicle or passenger-carrying vehicle (as the case may be), he shall also determine whether the Community licence holder—
+
+(a) should be disqualified under section 117A(2)(a) of this Act (and, if so, for what period) or under section 117A(2)(b) of this Act, or
+
+(b) should be granted, free of charge, a large goods vehicle or passenger-carrying vehicle driver’s licence (and, if so, from what date it shall take effect).]
+
+(3) A traffic commissioner [[^F743]dealing with a reference] under subsection (1) above may require the holder of the licence to furnish the commissioner with such information as he may require and may, by notice to the holder, require him to attend before the commissioner at the time and place specified by the commissioner to furnish the information and to answer such questions (if any) relating to the subject matter of the reference as the commissioner may put to him.
+
+(4) If the holder of the licence fails without reasonable excuse to furnish information to or to attend before or answer questions properly put by a commissioner when required to do so under subsection (3) above, [[^F744]the commissioner dealing with the reference may] notify the failure to the
+
+[[^F745](a) in a case where the licence in question is a LGV Community licence or a PCV Community licence, the holder shall cease to be authorised by virtue of section 99A(1) of this Act to drive in Great Britain a large goods or passenger-carrying vehicle (as the case may be) from such date as is specified in a notice served on the holder by the Secretary of State; and
+
+[^F745]b in any other case, revoke the licence or suspend it for such period as he thinks fit.]
+
+(5) Except where he has given such a notification as is mentioned in subsection (4) above, [[^F746]a traffic commissioner dealing with a reference] under subsection (1) above shall notify his determination in the matter to the Secretary of State and the holder of the licence and the decision of the commissioner shall be binding on the Secretary of State.
+
+(6) Where the Secretary of State, without making such a reference, determines to revoke or suspend a person’s licence under section 115(1) of this Act he shall notify his determination in the matter to the holder of the licence and, where he suspends it, to [[^F747]a traffic commissioner].]
+
+#### 117 [[^F748] Disqualification on revocation of licence.
+
+(1) Where in pursuance of section 115(1)(a) of this Act the Secretary of State revokes a person’s large goods vehicle or passenger-carrying vehicle driver’s licence, the Secretary of State must, in accordance with the regulations made [[^F749]in pursuance of section 115(3)], order that person to be disqualified indefinitely or for the period determined in accordance with the regulations.
+
+(2) Where in pursuance of section 115(1)(b) of this Act the Secretary of State revokes a person’s large goods vehicle or passenger-carrying vehicle driver’s licence, the Secretary of State may—
+
+(a) order the holder to be disqualified indefinitely or for such period as the Secretary of State thinks fit, or
+
+(b) except where the licence is a provisional licence, if it appears to the Secretary of State that, owing to the conduct of the holder of the licence, it is expedient to require him to comply with the prescribed conditions applicable to provisional licences under Part III of this Act until he passes the prescribed test of competence to drive large goods vehicles or passenger-carrying vehicles of any class, order him to be disqualified for holding or obtaining a full licence until he passes such a test.
+
+[^F750][2A Regulations may make provision for the application of subsections (1) and (2) above, in such circumstances and with such modifications as may be prescribed, where a person’s large goods vehicle or passenger-carrying vehicle driver’s licence is treated as revoked by virtue of section 37(1) of the Road Traffic Offenders Act 1988 (effect of disqualification by order of a court).]
+
+(3) If, while the holder of a large goods vehicle or passenger-carrying vehicle driver’s licence is disqualified under subsection (1) above, the circumstances prescribed for the purposes of section 115(1)(a) of this Act cease to exist in his case, the Secretary of State must, on an application made to him for the purpose, remove the disqualification.
+
+(4) Where the holder of a large goods vehicle or passenger-carrying vehicle driver’s licence is disqualified under subsection (2)(a) above, the Secretary of State may, in such circumstances as may be prescribed, remove the disqualification.
+
+(5) Where the holder of a full licence is disqualified under subsection (2)(b) above, the Secretary of State must not afterwards grant him a full licence to drive a large goods vehicle or passenger-carrying vehicle of any class unless satisfied that he has since the disqualification passed the prescribed test of competence to drive vehicles of that class, and until he passes that test any full licence obtained by him shall be of no effect.
+
+(6) So long as the disqualification under subsection (1) or (2)(a) above of the holder of a large goods vehicle or passenger-carrying vehicle driver’s licence continues in force, a large goods vehicle or passenger-carrying vehicle driver’s licence must not be granted to him and any such licence obtained by him shall be of no effect.
+
+(7) In this section “disqualified”—
+
+(a) in a case of revocation on the ground of the conduct of the holder of the licence as a driver, means disqualified for holding or obtaining a licence under Part III of this Act to drive large goods vehicles of the prescribed classes and passenger-carrying vehicles of the prescribed classes; and
+
+(b) in a case of revocation of a passenger-carrying vehicle driver’s licence on the ground of the conduct of the holder otherwise than as a driver, means disqualified for holding or obtaining a licence under Part III of this Act to drive passenger-carrying vehicles of the prescribed classes.]
+
+#### [[^F751]117A Community licences: disqualification etc.
+
+(1) Where a notice is served on a Community licence holder in pursuance of section 115A(1)(a) of this Act, the Secretary of State must, in accordance with the regulations made in pursuance of section 115(3), order that person to be disqualified indefinitely or for the period determined in accordance with the regulations.
+
+(2) Where a notice is served on a Community licence holder in pursuance of section 115A(1)(b) of this Act, the Secretary of State may—
+
+(a) order that person to be disqualified indefinitely or for such period as the Secretary of State thinks fit,
+
+(b) if it appears to the Secretary of State that, owing to the conduct of the Community licence holder, it is expedient to require him to comply with the prescribed conditions applicable to provisional licences under Part III of this Act until he passes the prescribed test of competence to drive large goods vehicles or passenger-carrying vehicles of any class, order him to be disqualified for holding or obtaining a full licence until he passes such a test, or
+
+(c) on receipt of the Community licence [^F752]..., grant to the Community licence holder, [[^F753], on payment of such fee (if any) as may be prescribed,] a large goods vehicle or passenger-carrying vehicle driver’s licence which shall take effect from such date as the Secretary of State may determine.
+
+[[^F754](3) Where, in pursuance of subsection (1) or (2) above, the Secretary of State orders a Community licence holder to be disqualified the Secretary of State must, on receipt of the Community licence [^F752]..., grant to the Community licence holder, [[^F755], on payment of such fee (if any) as may be prescribed,] a licence authorising the driving of the classes of vehicle which are unaffected by the disqualification.
+
+[^F754]3A The Secretary of State may require a person to provide—
+
+(a) evidence of his name, address, sex and date and place of birth, and
+
+(b) a photograph which is a current likeness of him,
+
+before issuing a licence to him under subsection (3) above.]
+
+(4) If, while the holder of a LGV Community licence or a PCV Community licence is disqualified under subsection (1) above, the circumstances prescribed for the purposes of section 115A(1)(a) of this Act cease to exist in his case, the Secretary of State must, on an application made to him for the purpose, remove the disqualification.
+
+(5) Where the holder of a LGV Community licence or a PCV Community licence is disqualified under subsection (2)(a) above, the Secretary of State may, in such circumstances as may be prescribed, remove the disqualification.
+
+(6) In this section “disqualified”—
+
+(a) in a case where notice is served in pursuance of section 115A(1) of this Act on a Community licence holder on the ground of his conduct as a driver, means disqualified for holding or obtaining a licence under Part III of this Act to drive large goods vehicles of the prescribed classes and passenger-carrying vehicles of the prescribed classes; and
+
+(b) in a case where notice is served in pursuance of section 115A(1) of this Act on a holder of a PCV Community licence on the ground of his conduct otherwise than as a driver, means disqualified for holding or obtaining a licence under Part III of this Act to drive passenger-carrying vehicles of the prescribed classes.]
+
+#### 118 [[^F756] Revoked or suspended licences: surrender, return and endorsement.
+
+(1) Where, in pursuance of section 115 of this Act, the Secretary of State revokes a licence, he must serve notice on the holder of the licence requiring him to deliver the licence [^F757]... forthwith to the Secretary of State, and it shall be the duty of the holder of the licence to comply with the requirement.
+
+[[^F758](2) Where, in pursuance of section 115 of this Act, the Secretary of State suspends a licence, he must (unless the holder of the licence has already delivered his licence to a traffic commissioner on a reference under section 116 of this Act) serve notice on the holder of the licence requiring him to deliver the licence forthwith to the Secretary of State at the address specified in the notice, and it shall be the duty of the holder of the licence to comply with the requirement.
+
+(2A) On the delivery of the licence or, where the licence has already been delivered to a traffic commissioner, on suspending the licence, the Secretary of State must endorse the particulars of the suspension on the licence holder's driving record.
+
+(2B) The Secretary of State or, as the case may be, [[^F759]a traffic commissioner], must then return the licence to the holder.]
+
+(3) Any holder of a licence who fails without reasonable excuse to comply with his duty under subsection (1) or (2) above is guilty of an offence.
+
+(4) On the delivery of a licence [^F760]... by a person to the Secretary of State in pursuance of subsection (1) above, the Secretary of State must issue to him, on payment of such fee (if any) as may be prescribed, a licence authorising the driving of the classes of vehicles which are unaffected by the revocation.
+
+[[^F761](4A) The Secretary of State may require a person to provide—
+
+(a) evidence of his name, address, sex and date and place of birth, and
+
+(b) a photograph which is a current likeness of him,
+
+before issuing a licence to him under subsection (4) above.]
+
+[^F762]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ]
+
+#### [[^F763]119 Appeals to magistrates’ court or sheriff
+
+(1) A person who, being the holder of, or an applicant for, a large goods vehicle or passenger-carrying vehicle driver’s licence [[^F764]or the holder of a LGV Community licence or a PCV Community licence], is aggrieved by the Secretary of State’s—
+
+(a) refusal or failure to grant such a licence in pursuance of section 112 or 113(4) of this Act,
+
+(b) suspension or revocation of such a licence in pursuance of section 115 or 116(4) of this Act, or
+
+(c) ordering of disqualification under section 117(2) [[^F765]or 117A(2)] of this Act,
+
+[[^F766]or by a notice served on him in pursuance of section 115A(1) or 116(4) of this Act] may, after giving to the Secretary of State [[^F767]and, if the matter was referred to a traffic commissioner, to the traffic commissioner dealing with the matter] notice of his intention to do so, appeal to a magistrates’ court [^F768]. . . or, in Scotland, to the sheriff within whose jurisdiction [[^F769]the holder of or applicant for the licence] resides.
+
+(2) On any appeal under [[^F770]subsection (1) above (except under paragraph (c) of that subsection)] the Secretary of State and, if the matter was referred to a traffic commissioner, [[^F771]the commissioner dealing with the matter shall] be respondent.
+
+(3) On any appeal under subsection (1) above the court or sheriff may make such order as it or he thinks fit and the order shall be binding on the Secretary of State.]
+
+#### 120 [[^F772] Regulations.
+
+(1) The Secretary of State may make regulations for any purpose for which regulations may be made under this Part of this Act and for prescribing anything which may be prescribed under this Part of this Act and generally for the purpose of carrying the provisions of this Part of this Act into effect.
+
+(2) Regulations under this section may in particular require applicants for tests of competence under Part III of this Act to drive large goods vehicles or passenger-carrying vehicles or for large goods vehicle or passenger-carrying vehicle driver’s licences (whether full or provisional) to have such qualifications, experience and knowledge as may be prescribed and, in particular, where they are to be authorised to drive large goods vehicles or passenger-carrying vehicles of any class at an age below the normal minimum age for driving vehicles of that class, to fulfil such requirements with respect to participation in an approved training scheme for drivers as may be prescribed.
+
+(3) In subsection (2) above—
+
+- “approved training scheme for drivers” means a training scheme for drivers (as defined in section 101(5) of this Act) approved for the time being by the Secretary of State for the purposes of regulations under that section; and
+- “normal minimum age for driving”, in relation to the driving of vehicles of any class, means the age which is in force under section 101 of this Act (but apart from any approved training scheme for drivers) in relation to that class of vehicle.
+
+(4) Regulations under this section may make different provision as respects different classes of vehicles or as respects the same class of vehicles in different circumstances.
+
+(5) Regulations under this section may provide that a person who contravenes or fails to comply with any specified provision of the regulations is guilty of an offence.
+
+(6) The Secretary of State may by regulations provide that this Part of this Act shall not apply to large goods vehicles or passenger-carrying vehicles of such classes as may be prescribed either generally or in such circumstances as may be prescribed.]
+
+#### [[^F773]121 Interpretation.
+
+(1) In this Part of this Act—
+
+- [[^F774]“conduct” means—
+
+  - (a) in relation to an applicant for or the holder of a large goods vehicle driver’s licence or the holder of a LGV Community licence, his conduct as a driver of a motor vehicle, and
+  - (b) in relation to an applicant for or the holder of a passenger-carrying vehicle driver’s licence or the holder of a PCV Community licence, his conduct both as a driver of a motor vehicle and in any other respect relevant to his holding a passenger-carrying vehicle driver’s licence or (as the case may be) his authorisation by virtue of section 99A(1) of this Act to drive in Great Britain a passenger-carrying vehicle of any class,
+
+  including, in either case, such conduct in Northern Ireland;]
+
+- [^F775]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- “full licence” means a large goods vehicle or passenger-carrying vehicle driver’s licence other than a provisional licence;
+
+- [[^F776]“large goods vehicle” means a motor vehicle (not being a medium-sized goods vehicle within the meaning of Part III of this Act) which is constructed or adapted to carry or to haul goods and the permissible maximum weight of which exceeds 7.5 tonnes;]
+
+- “passenger-carrying vehicle” means—
+
+  - (a) a large passenger-carrying vehicle, that is to say, a vehicle used for carrying passengers which is constructed or adapted to carry more than 16 passengers, or
+  - (b) a small passenger-carrying vehicle, that is to say, a vehicle used for carrying passengers for hire or reward which is constructed or adapted to carry more than 8 but not more than 16 passengers [[^F777]and includes a combination of such a motor vehicle and trailer];
+
+- “notice” means notice in writing and “notify” shall be construed accordingly;
+
+- “prescribed” means, unless the context requires otherwise, prescribed by regulations under section 120 of this Act;
+
+- “provisional licence” means a licence granted by virtue of section 97(2) of this Act;
+
+[[^F778]and “permissible maximum weight” has the same meaning as in Part III of this Act.]]
+
+#### [[^F779]122 Provisions as to Northern Ireland licences.
+
+(1) In this section “Northern Ireland driving licence” has the same meaning as in Part III of this Act.
+
+(2) The Secretary of State may exercise as respects Great Britain the like power of revoking or suspending any Northern Ireland driving licence and of making an order under section 117(2) of this Act as is conferred on him in relation to a large goods vehicle or passenger-carrying vehicle driver’s licence by sections 115(1)(b) and 117(2) of this Act, and the provisions of sections 115(1), 116, 117 and (with the exception of subsection (3)) 118 shall have effect accordingly [^F780]....
+
+(3) Where a revoked Northern Ireland driving licence [[^F781]is] surrendered to the Secretary of State in pursuance of section 118 of this Act, the Secretary of State shall send [[^F782]it] to the licensing authority in Northern Ireland together with particulars of the revocation.
+
+(4) A holder of a Northern Ireland driving licence who is aggrieved by the revocation or suspension of the licence or the ordering of disqualification by virtue of subsection (2) above shall have the like right of appeal as is conferred by section 119 of this Act except that an appeal brought by virtue of this subsection shall, if the appellant is not resident in Great Britain, lie to a prescribed magistrates’ court or a prescribed sheriff.]
+
+## [[^F783][^X1]Part IV — Licensing of drivers of heavy goods vehicles]
+
+## Part V — Driving Instruction
+
+### Instructors to be registered or licensed
+
+#### 123 Driving instruction for payment to be given only by registered or licensed persons.
+
+(1) No paid instruction in the driving of a motor car shall be given unless—
+
+(a) the name of the person giving the instruction is in the register of approved instructors established in pursuance of section 23 of the [^M29]Road Traffic Act 1962 (in this Part of this Act referred to as “the register”) [[^F784]and the registration is not suspended], or
+
+(b) the person giving the instruction is the holder of a current licence granted under this Part of this Act authorising him to give such instruction.
+
+(2) No paid instruction in the driving of a motor car shall be given unless there is fixed to and exhibited on that motor car in such manner as may be prescribed by regulations either—
+
+(a) a certificate in such form as may be so prescribed that the name of the person giving the instruction is in the register, or
+
+(b) a current licence granted under this Part of this Act authorising the person giving the instruction to give such instruction.
+
+(3) For the purposes of subsections (1) and (2) above, instruction is paid instruction if payment of money or money’s worth is, or is to be, made by or in respect of the person to whom the instruction is given for the giving of the instruction and for the purposes of this subsection instruction which is given—
+
+(a) free of charge to a person who is not the holder of a current licence to drive a motor vehicle granted under Part III of this Act (other than a provisional licence),
+
+(b) by, or in pursuance of arrangements made by, a person carrying on business in the supply of motor cars, and
+
+(c) in connection with the supply of a motor car in the course of that business,
+
+shall be deemed to be given for payment of money by the person to whom the instruction is given.
+
+(4) Where instruction is given in contravention of subsection (1) above—
+
+(a) the person by whom it is given, and
+
+(b) if that person is employed by another to give that instruction, that other, as well as that person,
+
+is guilty of an offence.
+
+(5) In proceedings against a person for an offence under subsection (4) above it shall be a defence for him to prove that he did not know, and had no reasonable cause to believe, that his name or, as the case may be, that of the person employed by him, was not in the register at the material time [[^F785], or (as the case may be) that the registration was at that time suspended] .
+
+(6) If instruction is given in contravention of subsection (2) above, the person by whom it is given is guilty of an offence.
+
+(7) Any reference in this Part of this Act to a current licence [[^F786]or certificate] is a reference to a licence [[^F786]or certificate] which has not expired and has not been cancelled, revoked or suspended.
+
+[[^F787](8) In this Part of this Act—
+
+- “paid instruction”, in relation to instruction in the driving of a motor car, shall be construed in accordance with subsection (3) above; and
+- “provisional licence” has the same meaning as in Part III of this Act.]
+
+#### 124 Exemption of police instructors from prohibition imposed by section 123.
+
+(1) Section 123(1) and (2) of this Act does not apply to the giving of instruction by a police instructor in pursuance of arrangements made by a chief officer of police or, under the authority of a chief officer of police, in pursuance of arrangements made by a local authority.
+
+[[^F788](1A) Section 123(1) and (2) also does not apply to the giving of instruction by a [[^F789]NCA instructor] in pursuance of arrangements made by the Director General of the [[^F790]National Crime Agency] .
+
+In this subsection “ [[^F791]NCA] instructor” means [[^F792]an NCA officer] whose duties consist of or include the giving instruction in the driving of motor cars to other [[^F793]NCA officers] .]
+
+(2) In this section—
+
+- [^F794]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- [^F794]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- [^F794]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- “police instructor” means a person who is—
+
+  - (a) a member of a police force whose duties consist of or include, or have consisted of or included, the giving of instruction in the driving of motor cars to persons being members of a police force, or
+  - (b) a civilian employed by a police authority for the purpose of giving such instruction to such persons, and
+
+- “local authority” means—
+
+  - (a) in relation to England and Wales, the council of a county, metropolitan district, or London borough or the Common Council of the City of London,
+  - (b) in relation to Scotland, a regional or islands council.
+
+[^F795]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Registration
+
+#### 125 The register of approved instructors.
+
+(1) The compilation and maintenance of the register shall continue by virtue of this Act.
+
+(2) An application for the entry of a person’s name in the register must be made, in manner determined by the Secretary of State, accompanied by particulars so determined, to the officer of the Secretary of State (in this Part of this Act referred to as “the Registrar”) by whom the register is, on behalf of the Secretary of State, compiled and maintained.
+
+[[^F796](2A) If an applicant is aware that he is suffering from a relevant or prospective disability, his application under subsection (2) must be accompanied by written notification of the nature and extent of his disability.
+
+(2B) Any person who fails without reasonable excuse to comply with the requirement imposed by subsection (2A) is guilty of an offence.
+
+(2C) The Registrar may, in the circumstances mentioned in subsection (2D), require an applicant to submit himself for an emergency control assessment (whether or not the applicant already holds an emergency control certificate) in connection with his application under subsection (2).
+
+(2D) Those circumstances are that the Registrar has reasonable grounds for believing that the person would be unable to take control of a motor car of a prescribed class if an emergency arose while he was giving driving instruction in such a motor car.]
+
+(3) Where a person duly applies for the entry of his name in the register, the Registrar must, on payment of such fee, if any, as may be prescribed by regulations, enter his name in the register if he satisfies the Registrar that the following conditions are fulfilled in his case—
+
+(a) he has passed such examination of ability to give instruction in the driving of motor cars (consisting of a written examination, a practical test of ability and fitness to drive and a practical test of ability and fitness to instruct) as may be so prescribed,
+
+[[^F797](b) he is the holder of–
+
+(i) a current licence to drive a motor car (not being a provisional licence) granted under Part III of this Act,
+
+(ii) a current licence to drive a motor car (not being a licence corresponding to a provisional licence) granted under the law in force in Northern Ireland, or
+
+(iii) a Community licence by which he is authorised to drive a motor car in Great Britain [^F798]...,]
+
+(c) during the period of six years ending with the day on which the application is made, the periods (if any) for which he did not hold one or more of the following licences, that is—
+
+(i) a current licence of one of the kinds mentioned in paragraph (b) above, and
+
+[[^F799](ii) a current foreign licence, that is to say a document issued under the law of a country or territory other than an EEA State (within the meaning of Part III of this Act [^F800]), authorising the holder to drive a motor car in that country or territory.]
+
+did not amount in aggregate to more than two years,
+
+(d) he has not, during any part of the period of four years ending with the day on which the application is made, been disqualified under section 34 or 36 of the [^M30]Road Traffic Offenders Act 1988 for holding or obtaining a licence to drive a motor vehicle granted under Part III of this Act, [^F801]and
+
+[[^F802](da) in the case of an applicant who has been required under subsection (2C) to submit himself for an emergency control assessment, he holds a current emergency control certificate, and]
+
+(e) apart from fulfilment of the preceding conditions, he is a fit and proper person to have his name entered in the register.
+
+[[^F803](3A) Where the Registrar is satisfied that a person who has applied under subsection (3) is entitled to give paid instruction in the driving of motor cars by virtue of Part 3 of the European Union (Recognition of Professional Qualifications) Regulations 2015 (S.I. 2015/2059)—
+
+(a) the Registrar may not impose a requirement on the applicant under subsection (2C) if the Registrar is satisfied that the applicant holds a current certificate or other document that, under the law of the State that is the applicant’s home State for the purposes of those regulations, is of corresponding effect to an emergency control certificate, and
+
+(b) subsection (3)(a) does not apply in relation to the applicant.]
+
+[[^F804](3B) Where the Registrar is satisfied that a person who has applied under subsection (3) is entitled to give paid instruction in the driving of motor cars by virtue of Part 2 of the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023—
+
+(a) the Registrar may not impose a requirement on the applicant under subsection (2C) if the Registrar is satisfied that the applicant holds a current certificate or other document that, under the law of one of the specified states set out in Schedule 1 to those Regulations, is of corresponding effect to an emergency control certificate, and
+
+(b) subsection (3)(a) does not apply in relation to the applicant.]
+
+(4) At any time when a person who held a current licence of one of the following kinds, that is—
+
+(a) a licence to drive a motor car granted under Part III of this Act, being a provisional licence, and
+
+(b) a licence to drive a motor car (being a licence corresponding to a provisional licence) granted under the law in force in Northern Ireland,
+
+had passed the test of competence to drive a motor car prescribed by virtue of section 89(3) of this Act or the corresponding law in force in Northern Ireland, he shall be regarded for the purposes of paragraph (c) of subsection (3) above as having held a current licence of one of the kinds mentioned in paragraph (b) of that subsection.
+
+(5) The entry of a person’s name in the register shall be subject to the [[^F805]following conditions—
+
+(a) that, so long as his name is on the register, the person will, if at any time required to do so by the Registrar, submit himself for—
+
+(i) such test of continued ability and fitness to give instruction in the driving of motor cars (which may consist of practical and other means of assessment) as may be prescribed;
+
+(ii) an emergency control assessment (whether or not the person already holds an emergency control certificate) on the day (within such period as may be prescribed) and at the place specified by the Registrar; and
+
+(b) that, so long as his name is on the register, if instruction in the driving of a motor car is to be given in circumstances where there is a reasonable expectation of an emergency arising which necessitates the instructor taking control of the motor car, the person will only give such instruction if he would be able to take control of the motor car if such an emergency arose while he was giving the instruction.]
+
+[[^F806](5A) The Registrar may impose a requirement as mentioned in subsection (5)(a)(ii) only in the circumstances mentioned in subsection (2D).]
+
+(6) Regulations may provide that persons of such class as may be specified in the regulations shall be exempt from the condition mentioned in subsection (3)(a) above as regards such part of the examination mentioned in that paragraph as may be so specified.
+
+(7) If the Secretary of State is satisfied that satisfactory provision is made by the law of Northern Ireland for the establishment of a register containing the names of persons qualified under that law to give instruction in the driving of motor cars, a person who satisfies the Registrar—
+
+(a) that his name is in the register established under that law, and
+
+(b) that he is resident in Great Britain,
+
+shall be exempt from the condition mentioned in subsection (3)(a) above.
+
+[[^F807](7A) A person shall be exempt from the condition mentioned in subsection (3)(da) if—
+
+(a) the Secretary of State is satisfied that satisfactory provision is made by the law of Northern Ireland for purposes corresponding to section 133A, and
+
+(b) the person satisfies the Registrar that he holds a current certificate granted under that law which corresponds to an emergency control certificate granted under section 133A.]
+
+(8) The Registrar must, on making a decision on an application under subsection (2) above, give notice in writing of the decision to the applicant which, in the case of a decision to refuse the application, must state the grounds for the refusal.
+
+[[^F808](8A) Subsection (8B) applies if—
+
+(a) a person undergoes an emergency control assessment in accordance with a requirement imposed under subsection (2C) or as mentioned in subsection (5)(a)(ii),
+
+(b) the assessor refuses to grant the applicant an emergency control certificate, and
+
+(c) as a result the person is not registered, or the person's name is removed from the register (as the case may be).
+
+(8B) The person may not make a further application for registration before the end of—
+
+(a) the period of 6 months beginning with the date of the emergency control assessment mentioned in subsection (8A)(a), or
+
+(b) such other period as may be prescribed,
+
+unless the Registrar is satisfied that there is good reason for permitting such an application before the end of that period.]
+
+[[^F809](9) [^F810]Subsections (2) to (8) above do not apply in relation to an application by a person to have his name entered in the register as that of a disabled instructor and to his entry in the register as such.]
+
+[[^F811](10) In this Part of this Act[[^F812]—
+
+- “Community licence” has the same meaning as in Part 3 of this Act;
+
+- “disability” means a want of physical ability affecting the driving of motor cars; and
+
+  - (a) “relevant disability”, in relation to a person, means any prescribed disability or any other disability likely to cause the driving of a motor car by him to be a source of danger to the public;
+  - (b) “prospective disability”, in relation to a person, means any other disability which, at the material time, is not of such a kind that it is a relevant disability but, by virtue of the intermittent or progressive nature of the disability or otherwise, may become a relevant disability in the course of time;
+
+- “emergency control assessment” and “emergency control certificate” mean an assessment and a certificate under section 133A.”]]
+
+#### [[^F813]125A Registration of disabled persons.
+
+[^F814]1 [^F814]A person who—
+
+[^F814]a [^F814]suffers from a relevant disability or a prospective disability,
+
+[^F814]b [^F814]holds a current disabled person’s limited driving licence, and
+
+[^F814]c [^F814]holds a current emergency control certificate,
+
+[^F814]may apply to the Registrar for his name to be entered in the register as that of a disabled instructor.
+
+[^F814]2 [^F814]An application under subsection (1) above shall be made in such manner, and shall be accompanied by such particulars, as the Secretary of State may determine.
+
+[^F814]3 [^F814]If, at the time when he makes an application under subsection (1) above, a person is aware—
+
+[^F814]a [^F814]that he is suffering from a relevant or prospective disability which he has not previously disclosed to the Secretary of State in making an application for his current emergency control certificate, or
+
+[^F814]b [^F814]that a relevant or prospective disability from which he has at any time suffered (and which has been previously so disclosed) has become more acute since the granting of his current emergency control certificate,
+
+[^F814]his application under subsection (1) above must be accompanied by written notification of the nature and extent of his disability.
+
+[^F814]4 [^F814]Any person who fails without reasonable excuse to comply with the requirement imposed by subsection (3) above is guilty of an offence.
+
+[^F814]5 [^F814]Where a person duly applies for the entry of his name in the register as that of a disabled instructor and satisfies the Registrar that the conditions in subsection (6) below are fulfilled in his case, the Registrar must, subject to section 125B(4) of this Act, on payment of such fee, if any, as may be prescribed by regulations, enter the applicant’s name in the register with an indication that he is a disabled person.
+
+[^F814]6 [^F814]The conditions referred to in subsection (5) above are that—
+
+[^F814]a [^F814]the applicant has passed such examination of ability to give instruction in the driving of motor cars (consisting of a written examination, a practical test of ability and fitness to drive and a practical test of ability and fitness to instruct) as may be prescribed by regulations,
+
+[^F814]b [^F814]the conditions set out in paragraphs (c) and (d) of section 125(3) of this Act are fulfilled, and
+
+[^F814]c [^F814]apart from the fulfilment of the preceding conditions, he is a fit and proper person to have his name entered in the register as that of a disabled instructor;
+
+[^F814]and for the purposes of paragraph (b) above, references in paragraphs (c) and (d) of subsection (3) of section 125 of this Act to the making of an application under subsection (2) of that section shall be read as references to the making of an application under subsection (1) above.
+
+[^F814]7 [^F814]Regulations may provide that persons of such class as may be specified in the regulations shall be exempt from the condition mentioned in paragraph (a) of subsection (6) above as regards such part of the examination mentioned in that paragraph as may be so specified.
+
+[^F814]8 [^F814]In this Part of this Act—
+
+- [^F814]“[^F814]appropriate motor car[^F814]” means, subject to section 125B(2) of this Act, a motor car equipped with automatic transmission;
+
+- [^F814]“[^F814]disability[^F814]” means a want of physical ability affecting the driving of motor cars; and
+
+  - (i) [^F814]“[^F814]relevant disability[^F814]”, in relation to a person, means any disability which is prescribed in regulations or any other disability likely to cause the driving of a motor car by him to be a source of danger to the public; and
+  - (ii) [^F814]“[^F814]prospective disability[^F814]”, in relation to a person, means any other disability which, at the material time, is not of such a kind that it is a relevant disability but, by virtue of the intermittent or progressive nature of the disability or otherwise, may become a relevant disability in course of time;
+
+- [^F814]“[^F814]disabled person’s limited driving licence[^F814]” means a licence of one of the following kinds, that is to say—
+
+  - (a) [^F814]a licence to drive a motor car granted under Part III of this Act (not being a provisional licence) which is limited, by virtue of a notice served under section 92(5)(b) of this Act, to an appropriate motor car; [^F815][^F814]...
+  - (b) [^F814]a licence to drive a motor car granted under the law in force in Northern Ireland (not being a licence corresponding to a provisional licence) which is similarly limited by virtue of any corresponding provision of that law; [^F814][[^F816]and
+  - (c) [^F814] a Community licence authorising the driving of a motor car which is similarly limited by virtue of any corresponding provision of the law under which it was issued [^F817][^F814]...;]
+
+- [^F814]“[^F814]emergency control assessment[^F814]” and “[^F814]emergency control certificate[^F814]” mean an assessment and a certificate under section 133A of this Act;
+- [^F814]“[^F814]modifications[^F814]”, in relation to a motor car, includes equipment; and
+- [^F814]“[^F814]registered disabled instructor[^F814]” means a person whose name is in the register with an indication that he is disabled;
+
+[^F814]and any reference, in relation to a person, to the class of motor car covered by his disabled person’s limited driving licence is a reference to the class of motor car specified in the notice served on him under section 92(5)(b) of this Act but disregarding any modifications specified in the notice.]
+
+#### 125B [[^F818]Provisions supplementary to section 125A.
+
+[^F819]1 [^F819]A person who fulfils the conditions mentioned in section 125A(1)(a) and (b) of this Act may, for the purpose of obtaining an emergency control certificate, apply to undergo an emergency control assessment.
+
+[^F819]2 [^F819]Regulations may specify modifications of a motor car as modifications which are to be required for a motor car to be an appropriate motor car for the purposes of this Part of this Act or as modifications which are not to be required for a motor car to be an appropriate motor car for those purposes.
+
+[^F819]3 [^F819]If the Secretary of State is satisfied—
+
+[^F819]a [^F819]that the provision of the law of Northern Ireland required by section 125(7) for the operation of that subsection is made by that law, and
+
+[^F819]b [^F819]that that law includes satisfactory provision for purposes corresponding to the purposes of section 125A of this Act,
+
+[^F819]a person who satisfies the Registrar of the matters mentioned in that subsection and that his name is in the register maintained under that law as that of a disabled instructor shall also be exempt from the conditions mentioned in subsection (1)(c) and (6)(a) of section 125A of this Act.
+
+[^F819]4 [^F819]The Registrar may refuse to enter the name of a person in the register under section 125A of this Act as that of a disabled instructor if he is satisfied that that person has at any time refused to comply with a requirement imposed under section 133B(2) of this Act to submit himself for a further emergency control assessment.
+
+[^F819]5 [^F819]The Registrar must, on making a decision on an application under section 125A of this Act, give notice in writing of his decision to the applicant which, in the case of a decision to refuse the application, must state the grounds for the refusal.
+
+[^F819]6 [^F819]The entry of a person’s name in the register as that of a disabled instructor shall be subject to the condition that, so long as he is a registered disabled instructor, he will, if at any time required to do so by the Registrar—
+
+[^F819]a [^F819]submit himself for a further emergency control assessment on the day (within such period as may be prescribed by regulations) and at the place specified by the Registrar; or
+
+[^F819]b [^F819]submit himself for such test of continued ability and fitness to give instruction in the driving of appropriate motor cars [^F819][[^F820](which may consist of practical and other means of assessment)][^F819] as may be prescribed by regulations.
+
+[^F819]7 [^F819]In considering whether to exercise, in respect of any person, his power under subsection (6)(a) above, the Registrar shall have regard to any recommendation included in that person’s current emergency control certificate as to the period after the end of which he should undergo a further emergency control assessment.]
+
+#### 126 Duration of registration.
+
+(1) Unless previously removed under the following provisions of this Part of this Act, the name of a person shall, subject to subsection (2) below, be removed from the register at the end of the period of four years beginning with—
+
+(a) the first day of the month next after that in which the entry of his name was made, or
+
+(b) where his name has been retained in the register under section 127 of this Act, the day with which the last further period for which his name was so retained began.
+
+(2) If an application for the retention of his name in the register is made under section 127 of this Act before the end of that period, the name must not be removed except in pursuance of a decision of the Registrar having effect under that section.
+
+(3) Where a person whose name has been removed from the register under subsection (1) above applies under section 125(2) of this Act for his name to be entered again in the register, he shall be required again to pass the examination mentioned in section 125(3)(a) of this Act unless the application is made before the end of the period of one year beginning with the end of the period of four years mentioned in subsection (1) above.
+
+[[^F821](4) [^F822]Where a registered disabled instructor whose name has been removed from the register under subsection (1) above applies under section 125A(1) of this Act for his name to be entered again in the register as that of a disabled instructor, he shall be required again to pass the examination mentioned in section 125A(6)(a) of this Act unless the application is made before the end of the period of one year beginning with the end of the period of four years mentioned in subsection (1) above.]
+
+#### 127 Extension of duration of registration.
+
+(1) A person may, before the time when his name is required under section 126(1) of this Act to be removed from the register, apply to the Registrar, in manner determined by the Secretary of State, accompanied by particulars so determined, for the retention of his name in the register for a further period of four years.
+
+(2) On an application under subsection (1) above, he shall be entitled, on payment of such fee, if any, as may be prescribed by regulations, to have his name retained in the register for that further period, if he satisfies the Registrar that the [[^F823]relevant] conditions are fulfilled in his case.
+
+(3) [[^F824][^F825]Except in the case of a registered disabled instructor, the relevant conditions are]—
+
+(a) that he has not refused to undergo any [[^F826]such test or assessment as is mentioned in section 125(5)(a)(i) or (ii)] of this Act which he has been required to undergo during the period of four years ending with the time when his name is required under section 126(1) of this Act to be removed from the register,
+
+(b) that his ability and fitness to give instruction in the driving of motor cars continue, having regard to any such test or tests which he has undergone during that period, to be of a satisfactory standard,
+
+(c) that he is the holder of a current licence of one of the kinds mentioned in section 125(3)(b) of this Act,
+
+(d) that he has not during any part of that period been disqualified under section 34 or 36 of the [^M31]Road Traffic Offenders Act 1988 for holding or obtaining a licence to drive a motor vehicle granted under Part III of this Act, [^F827]and
+
+[[^F828](da) that, in the case of a person who—
+
+(i) when he applied to be registered, was required under section 125(2C) to submit himself for an emergency control assessment, or
+
+(ii) at any time during the period mentioned in paragraph (a) was required as mentioned in section 125(5)(a)(ii) to submit himself for such an assessment,
+
+he holds a current emergency control certificate, and]
+
+(e) that, apart from fulfilment of the preceding conditions, he continues to be a fit and proper person to have his name entered in the register.
+
+[[^F829](3A) [^F830]In the case of a registered disabled instructor, the relevant conditions are—
+
+[^F830]a [^F830]that he holds a current emergency control certificate,
+
+[^F830]b [^F830]that he has not refused to undergo—
+
+[^F830]i [^F830]any such assessment as is mentioned in section 125B(6)(a) of this Act, or
+
+[^F830]ii [^F830]any such test as is mentioned in section 125B(6)(b) of this Act,
+
+[^F830]which he has been required to undergo during the period of four years ending with the time when his name is required under section 126(1) of this Act to be removed from the register,
+
+[^F830]c [^F830]that his ability and fitness to give instruction in the driving of motor cars continue, having regard to any such test or tests of the kind mentioned in section 125B(6)(b) of this Act which he has undergone during that period, to be of a satisfactory standard,
+
+[^F830]d [^F830]that he is the holder of a current disabled person’s limited driving licence,
+
+[^F830]e [^F830]that he has not during any part of that period been disqualified under section 34 or 36 of the Road Traffic Offenders Act 1988 for holding or obtaining a licence to drive a motor vehicle granted under Part III of this Act, and
+
+[^F830]f [^F830]that, apart from fulfilment of the preceding conditions, he continues to be a fit and proper person to have his name entered in the register as that of a disabled instructor.]
+
+[[^F831](4) The retention of a person’s name under this section shall be subject—
+
+(a) [^F832]in the case of its retention by virtue of subsection (3) above, to the [[^F833]conditions] mentioned in section 125(5) of this Act, [^F834]and
+
+(b) [^F835]in the case of its retention by virtue of subsection (3A) above, to the condition mentioned in section 125B(6) of this Act.]
+
+(5) Before refusing an application under subsection (1) above the Registrar must give to the applicant written notice stating that he is considering the refusal of the application and giving particulars of the grounds on which he is considering it.
+
+(6) Where the Registrar gives notice under subsection (5) above—
+
+(a) the applicant may, within the period of twenty-eight days beginning with the day on which the notice is given, make representations with respect to the proposed refusal,
+
+(b) the Registrar must not decide to refuse the application until after the expiration of that period, and
+
+(c) before deciding whether or not to refuse the application, the Registrar must take into consideration any such representations made by the applicant within that period.
+
+(7) On deciding to grant or refuse an application the Registrar must give notice in writing of the decision to the person concerned.
+
+[[^F836](7A) A decision to refuse an application shall take effect at the end of the period of fourteen days beginning with the day on which notice of the decision is given (or, if any appeal brought against the decision under the following provisions of this Part of this Act is previously withdrawn or dismissed, when the appeal is withdrawn or dismissed).]
+
+(8) [[^F837]But the Registrar may, when giving notice of his decision to refuse the application, direct that the decision shall instead] take effect—
+
+(a) where no appeal under the following provisions of this Part of this Act is brought against the decision within the time limited for the appeal, on the expiration of that time,
+
+(b) where such an appeal is brought and is withdrawn or struck out for want of prosecution, on the withdrawal or striking out of the appeal,
+
+(c) where such an appeal is brought and not withdrawn or struck out for want of prosecution, if and when the appeal is dismissed, and not otherwise.
+
+[[^F838](9) Sections 128(7A) to (7G) and 131A apply in relation to suspending a person's registration in connection with an application under subsection (1) above as if the references in sections 128(7A) to (7G) and 131A to—
+
+(a) a notice under section 128(4) were references to a notice under subsection (5) above, and
+
+(b) the removal of the person's name from the register were (or, in the case of section 128(7E)(d), included) references to the refusal of the person's application for the retention of the person's name in the register.]
+
+#### 128 Removal of names from register.
+
+(1) The Registrar may remove the name of a person from the register if he is satisfied that—
+
+(a) in a case where his name has not been retained in the register under section 127 of this Act, at any time since the entry of his name was made, and
+
+(b) in a case where his name has been so retained under that section, at any time since it was last retained,
+
+any of the [[^F839]relevant] conditions was fulfilled in his case.
+
+(2) [[^F840][^F841]Except in the case of a registered disabled instructor, the relevant conditions are]—
+
+(a) that he held [[^F842]none]of the kinds of current licence mentioned in section 125 (3)(b) of this Act,
+
+(b) that he was disqualified under section 34 or 36 of the [^M32]Road Traffic Offenders Act 1988 for holding or obtaining a licence to drive a motor vehicle under Part III of this Act,
+
+(c) that he refused to undergo a [[^F843]test or assessment such as is mentioned in section 125(5)(a)(i) or (ii)] of this Act,
+
+(d) that he failed to pass such a test,
+
+[[^F844](da) that an assessor refused to grant him an emergency control certificate on completing an emergency control assessment of him following a requirement imposed as mentioned in section 125(5)(a)(ii),
+
+(db) that he gave instruction in the driving of a motor car in breach of the condition in section 125(5)(b) (ability to take control of motor car in an emergency),]
+
+(e) that he ceased, apart from fulfilment of any of the preceding conditions, to be a fit and proper person to have his name included in the register.
+
+[[^F845](2A) [^F846]In the case of a registered disabled instructor, the relevant conditions are—
+
+[^F846]a [^F846]that he did not hold a current emergency control certificate,
+
+[^F846]b [^F846]that he did not hold a current disabled person’s limited driving licence,
+
+[^F846]c [^F846]that he was disqualified under section 34 or 36 of the Road Traffic Offenders Act 1988 for holding or obtaining a licence to drive a motor vehicle under Part III of this Act,
+
+[^F846]d [^F846]that he refused to undergo any such assessment as is mentioned in section 125B(6)(a) of this Act,
+
+[^F846]e [^F846]that he refused to undergo, or failed to pass, any such test as is mentioned in section 125B(6)(b) of this Act,
+
+[^F846]f [^F846]that he ceased, apart from fulfilment of the preceding conditions, to be a fit and proper person to have his name included in the register as that of a disabled instructor.]
+
+(3) The Registrar may remove the name of a person from the register if the entry of his name in the register, or the retention of his name in the register, was made by mistake or procured by fraud.
+
+(4) Before removing the name of a person from the register under this section, the Registrar must give him written notice stating that he is considering the removal and giving particulars of the grounds on which he is considering it.
+
+(5) Where the Registrar gives notice to a person under subsection (4) above—
+
+(a) that person may, within the period of twenty-eight days beginning with the day on which the notice is given, make representations with respect to the proposed removal,
+
+(b) the Registrar must not decide to remove his name from the register until after the expiration of that period, and
+
+(c) before deciding whether or not to remove his name from the register, the Registrar must take into consideration any such representations made by him within that period.
+
+(6) The Registrar must, on making a decision to remove a name from the register, give notice in writing of the decision to the person concerned.
+
+[[^F847](6A) A decision to remove a name from the register shall take effect at the end of the period of fourteen days beginning with the day on which notice of the decision is given (or, if any appeal brought against the decision under the following provisions of this Part of this Act is previously withdrawn or dismissed, when the appeal is withdrawn or dismissed).]
+
+(7) [[^F848]But the Registrar may, when giving notice of his decision to remove the name from the register, direct that the decision shall instead] take effect—
+
+(a) where no appeal under the following provisions of this Part of this Act is brought against the decision within the time limited for the appeal, on the expiration of that time,
+
+(b) where such an appeal is brought and is withdrawn or struck out for want of prosecution, on the withdrawal or striking out of the appeal,
+
+(c) where such an appeal is brought and not withdrawn or struck out for want of prosecution, if and when the appeal is dismissed, and not otherwise.
+
+[[^F849](7A) The Registrar may suspend a person's registration if the Registrar—
+
+(a) has given, or is about to give, the person notice under subsection (4),
+
+(b) is considering whether to remove the person's name from the register, or has decided to remove the name but the decision is not yet in effect, and
+
+(c) believes that the person would pose a significant threat to the safety of members of the public if the person's registration were not suspended.
+
+(7B) The Registrar must, on deciding to suspend a person's registration, give written notice of the decision to the person.
+
+(7C) The decision to suspend takes effect on the giving of the notice.
+
+(7D) No notice may be given under subsection (7B) before the notice under subsection (4) is given but the subsection (7B) notice may be included in the subsection (4) notice if the subsection (4) notice is still to be given when the decision to suspend is made.
+
+(7E) A suspension under subsection (7A) is terminated if—
+
+(a) the Registrar decides not to remove the person's name from the register,
+
+(b) the Registrar decides to remove the person's name from the register but the decision has not taken effect and an appeal against the decision is successfully concluded,
+
+(c) the Registrar has not decided whether to remove the person's name from the register and the period of 75 days beginning with the giving of the subsection (4) notice has ended,
+
+(d) the person's name is removed from the register (whether under this section or otherwise), or
+
+(e) the Registrar decides to terminate the suspension.
+
+(7F) The Registrar must give written notice to a person of the fact that the person's suspension is terminated as mentioned in subsection (7E)(a) to (c) or (e).
+
+(7G) For the purposes of this Part of this Act the fact that a person's registration is suspended does not prevent the person's name from being in the register.]
+
+[^F850][8 Where a person whose name has been removed from the register under this section applies under subsection (2) of section 125 of this Act for his name to be entered again in the register and either—
+
+(a) the application is made after the end of the period of one year beginning with the date on which his name was removed; or
+
+(b) his name was removed on the grounds that he has failed to pass such a test as is mentioned in subsection [[^F851](5)(a)(i)] of that section,
+
+the Registrar shall not regard the condition specified in paragraph (a) of subsection (3) of that section as fulfilled unless he is satisfied that that person has again passed the examination mentioned in that paragraph since the date on which his name was removed from the register.]
+
+[[^F852](9) [^F853]Where a person whose name was entered in the register as that of a disabled instructor and whose name has been removed from the register under this section applies under subsection (1) of section 125A of this Act for his name to be entered again in the register as that of a disabled instructor and either—
+
+[^F853]a [^F853]the application is made after the end of the period of one year beginning with the date on which his name was removed, or
+
+[^F853]b [^F853]his name was removed on the ground that he has failed to pass such a test as is mentioned in section 125B(6)(b) of this Act,
+
+[^F853]the Registrar shall not regard the condition mentioned in section 125A(6)(a) of this Act as fulfilled unless he is satisfied that that person has again passed the examination mentioned in the said section 125A(6)(a) since the date on which his name was removed from the register.]
+
+### Licences
+
+#### 129 Licences for giving instruction so as to obtain practical experience.
+
+(1) A licence under this section is granted for the purpose of enabling a person to acquire practical experience in giving instruction in driving motor cars with a view to undergoing [[^F854]such part of the examination referred to in section 125(3)(a) as consists of a practical test of ability and fitness to instruct].
+
+[[^F855](1A) An application for a licence to give paid instruction in the driving of a motor car must be made to the Registrar, in the manner determined by the Secretary of State, accompanied by particulars so determined.
+
+(1B) The Registrar may, in the circumstances mentioned in subsection (1C), require the applicant to submit himself for an emergency control assessment in connection with the application.
+
+(1C) Those circumstances are that the Registrar has reasonable grounds for believing that the person in question would be unable to take control of a motor car of a prescribed class if an emergency arose while he was giving driving instruction in such a motor car.]
+
+[[^F856](2) Where a person duly applies for a licence, the Registrar must, on payment of such fee, if any, as may be prescribed, grant to the applicant a licence to give paid instruction in the driving of a motor car if the Registrar is satisfied—
+
+(a) that the applicant has passed the other parts of the examination referred to in subsection (1),
+
+(b) that the conditions set out in section 125(3)(b), (c), (d) and (e) are fulfilled in the applicant's case, and
+
+(c) in the case of an applicant who has been required under subsection (1B) to submit himself for an emergency control assessment, he holds a current emergency control certificate.]
+
+(3) The Registrar may refuse to grant a licence under this section to an applicant to whom such a licence has previously been issued.
+
+(4) The Registrar must, on making a decision on an application under subsection (2) above, give notice in writing of the decision to the applicant which, in the case of a decision to refuse the application, must state the grounds of the refusal.
+
+(5) A licence under this section shall be in such form, shall be in force for such period, [[^F857]and [^F858], subject to subsection (5A) below, shall] be granted subject to such conditions, as may be prescribed by regulations.
+
+[[^F859](5ZA) Those conditions may (in particular) include—
+
+(a) a condition requiring the person to whom the licence was granted, if required to do so by the Registrar at any time when the circumstances mentioned in subsection (1C) apply, to submit himself for an emergency control assessment (whether or not the person already holds an emergency control certificate) on such day (within such period as may be prescribed) and at such place as may be specified by the Registrar;
+
+(b) a condition requiring that, if instruction in the driving of a motor car is to be given in circumstances where there is a reasonable expectation of an emergency arising which necessitates the instructor taking control of the car, the person will only give such instruction if he would be able to take control of the car if such an emergency arose while giving the instruction.]
+
+[[^F860](5A) [^F861]A licence granted by virtue of paragraph (b) of subsection (2) above shall be granted subject to the condition that the person to whom it is granted shall not give paid instruction in the driving of a motor car—
+
+[^F861]a [^F861]unless he holds a current emergency control certificate, and
+
+[^F861]b [^F861]the car is an authorised motor car.
+
+(5B) [^F862]In subsection (5A) above “[^F862]authorised motor car[^F862]”, in relation to any person, means a motor car which falls within the class of motor car specified in his current emergency control certificate and, where modifications are specified in that certificate, is modified in accordance with the specification.]
+
+(6) Notwithstanding any provision of regulations made by virtue of subsection (5) above prescribing the period for which a licence is to be in force, where a person applies for a new licence in substitution for a licence held by him and current at the date of the application, the previous licence shall not expire—
+
+(a) until the commencement of the new licence, or
+
+(b) if the Registrar decides to refuse the application, until the time limited for an appeal under the following provisions of this Part of this Act against the decision has expired and, if such an appeal is duly brought, it is finally disposed of.
+
+(7) Before deciding to refuse an application for a new licence in substitution for a licence current at the date of the application, the Registrar must give to the applicant written notice stating that he is considering the refusal and giving particulars of the grounds on which he is considering it.
+
+(8) Where the Registrar gives notice under subsection (7) above—
+
+(a) the applicant may, within the period of fourteen days beginning with the day on which the notice is given, make representations with respect to the proposed refusal, and
+
+(b) the Registrar must not decide to refuse the application until after the expiration of that period, and
+
+(c) before deciding whether or not to refuse the application, the Registrar must take into consideration any such representations made within that period.
+
+[[^F863](9) Sections 130(7) to (13) and 131A apply in relation to suspending a person's licence in connection with an application for a new licence in substitution for a licence current at the date of the application as if—
+
+(a) the references in sections 130(7) to (13) and 131A to—
+
+(i) a notice under section 130(3) were references to a notice under subsection (7) above,
+
+(ii) the revocation of the licence were (except in section 130(11)(d)) references to the refusal of the person's application for a new licence, and
+
+(iii) the decision not being in effect were references to the decision not being in effect because the licence has not expired, and
+
+(b) section 131A(3), and the words “(whether or not the Registrar's decision has taken effect)” in section 131A(2)(b), were omitted.]
+
+#### 130 Revocation of licences.
+
+(1) The registrar may revoke a licence granted under section 129 of this Act—
+
+(a) if the person to whom the licence was granted fails to comply with any of the conditions subject to which it was granted, or
+
+(b) if the Registrar is satisfied that, at any time since the licence was granted, any of the [[^F864]relevant conditions] was fulfilled in his case, or
+
+(c) if the licence was granted by mistake or procured by fraud.
+
+(2) [[^F865][^F866]Except in the case of a licence granted by virtue of subsection (2)(b) of section 129 of this Act, the relevant conditions are]—
+
+(a) that he held [[^F867]none] of the kinds of current licence mentioned in section 125 (3)(b) of this Act, [^F868]...
+
+(b) that he was disqualified under section 34 or 36 of the [^M33]Road Traffic Offenders Act 1988 for holding or obtaining a licence to drive a motor vehicle under Part III of this Act, [^F869]or
+
+[[^F870](ba) that an assessor refused to grant him an emergency control certificate on completing an emergency control assessment of him following a requirement imposed as mentioned in section 129(5ZA)(a), or]
+
+(c) that he ceased, apart from fulfilment of either of the preceding conditions, to be a fit and proper person to have his name in the register.
+
+[[^F871](2A) [^F872]In the case of a licence granted by virtue of subsection (2)(b) of section 129 of this Act, the relevant conditions are—
+
+[^F872]a [^F872]that he did not hold a current emergency control certificate, or
+
+[^F872]b [^F872]that he did not hold a current disabled person’s limited driving licence, or
+
+[^F872]c [^F872]that he was disqualified under section 34 or 36 of the Road Traffic Offenders Act 1988 for holding or obtaining a licence to drive a motor vehicle under Part III of this Act, or
+
+[^F872]d [^F872]that he ceased, apart from fulfilment of any of the preceding conditions, to be a fit and proper person to have his name in the register as that of a disabled instructor.]
+
+(3) Before revoking a licence granted to a person [[^F873]under this section] the Registrar must give him written notice stating that he is considering the revocation and giving particulars of the grounds on which he is considering it.
+
+(4) Where the Registrar gives notice to a person under subsection (3) above—
+
+(a) that person may, within the period of fourteen days beginning with the day on which the notice is given, make representations with respect to the proposed revocation, and
+
+(b) the Registrar must not decide to revoke the licence until after the expiration of that period, and
+
+(c) before deciding whether or not to revoke the licence, the Registrar must take into consideration any such representations made within that period.
+
+(5) The Registrar must, on making a decision to revoke a licence [[^F873]granted under this section], give notice in writing of the decision to the person concerned.
+
+[[^F874](5A) A decision to revoke a licence shall take effect at the end of the period of fourteen days beginning with the day on which notice of the decision is given (or, if any appeal brought against the decision under the following provisions of this Part of this Act is previously withdrawn or dismissed, when the appeal is withdrawn or dismissed).
+
+(6) But the Registrar may, when giving notice of his decision to revoke a licence, direct that (if an appeal under the following provisions of this Part of this Act is brought against the decision) it shall instead take effect—
+
+(a) if the appeal is withdrawn or struck out for want of prosecution, on the withdrawal or striking out of the appeal, or
+
+(b) if and when the appeal is dismissed, and not otherwise.]
+
+[[^F875](7) The Registrar may suspend a person's licence if the Registrar—
+
+(a) has given, or is about to give, the person notice under subsection (3),
+
+(b) is considering whether to revoke the licence, or has decided to revoke the licence but the decision is not yet in effect, and
+
+(c) believes that the person would pose a significant threat to the safety of members of the public if the licence were not suspended.
+
+(8) The Registrar must, on deciding to suspend a person's licence, give written notice of the decision to the person.
+
+(9) The decision to suspend takes effect on the giving of the notice.
+
+(10) No notice may be given under subsection (8) before the notice under subsection (3) is given but the subsection (8) notice may be included in the subsection (3) notice if the subsection (3) notice is still to be given when the decision to suspend is made.
+
+(11) A suspension under subsection (7) is terminated if—
+
+(a) the Registrar decides not to revoke the person's licence,
+
+(b) the Registrar decides to revoke the person's licence but the decision has not taken effect and an appeal against the decision is successfully concluded,
+
+(c) the Registrar has not decided whether to revoke the person's licence and the period of 75 days beginning with the giving of the subsection (3) notice has ended,
+
+(d) the person's licence expires or is revoked, or
+
+(e) the Registrar decides to terminate the suspension.
+
+(12) The Registrar must give written notice to a person of the fact that the person's suspension is terminated as mentioned in subsection (11)(a) to (c) or (e).
+
+(13) For the purposes of this Part of this Act the fact that a person's licence is suspended does not prevent the person from being a licence-holder.]
+
+### Appeals
+
+#### 131 Appeals.
+
+[[^F876](A1) A relevant person who is aggrieved by the failure of the Registrar to notify the person of a decision in relation to an application for entry of the person’s name in the register before the end of the period of four months beginning with the day after the day on which the complete application was submitted, may appeal to the First-tier Tribunal.
+
+(B1) On an appeal under subsection (A1), the First-tier Tribunal may make such order requiring the Registrar to notify the relevant person of a decision in relation to the application as it thinks fit.
+
+(C1) In subsections (A1) and (B1), “relevant person” means a person entitled to give paid instruction in the driving of a motor car by virtue of Part 2 of the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023.]
+
+(1) A person who is aggrieved by a decision of the Registrar—
+
+(a) to refuse an application for the entry of his name in the register, or
+
+(b) to refuse an application for the retention of his name in the register, or
+
+(c) to remove his name from the register,
+
+may [[^F877]appeal to the First-tier Tribunal.]
+
+(2) A person who is aggrieved by a decision of the Registrar—
+
+(a) to refuse an application for the grant of a licence under this Part of this Act, or
+
+(b) to revoke such a licence,
+
+may [[^F877]appeal to the First-tier Tribunal.]
+
+(3) On [[^F878]an appeal under subsection (1) or (2)] the [[^F879]First-tier Tribunal] may make such order—
+
+(a) for the grant or refusal of the application
+
+or,
+
+(b) for the removal or the retention of the name in the register, or the revocation or continuation of the licence,
+
+(as the case may be) as [[^F880]it thinks] fit.
+
+(4) An order for such refusal, removal or revocation may direct that an application by the appellant—
+
+(a) for the grant of a licence under this Part of this Act, or
+
+(b) for his name to be entered in the register,
+
+shall not be entertained before the expiration of such period, not exceeding four years beginning with the day on which the order is made, as may be specified in the order.
+
+[[^F881](4A) If the [[^F882]First-tier Tribunal considers] that any evidence adduced on an appeal had not been adduced to the Registrar before he gave the decision to which the appeal relates, [[^F883]it] may (instead of making an order under subsection (3) above) remit the matter to the Registrar for him to reconsider the decision.]
+
+[[^F884](4B) A person who is aggrieved by a decision of the Registrar not to give a direction under section 127(8), 128(7) or 130(6) of this Act may [[^F885]appeal to the First-tier Tribunal.]
+
+(4C) The [[^F886]First-tier Tribunal] shall determine the appeal by either—
+
+(a) giving the direction concerned, or
+
+(b) dismissing the appeal.
+
+[^F887]. . .
+
+(4D) Where the Registrar has decided to refuse an application for the retention of a name in the register, to remove a name from the register or to revoke a licence granted under section 129 of this Act but either—
+
+(a) he gave a direction under section 127(8), 128(7) or 130(6) of this Act, or
+
+(b) the [[^F888]First-tier Tribunal] have given such a direction on appeal,
+
+he may [^F889]. . . apply to the [[^F888]First-tier Tribunal] for an order that the decision is to take effect immediately.
+
+(4E) The [[^F890]First-tier Tribunal] shall determine the Registrar’s application by either granting or refusing the application.[^F891]. . .
+
+(4F) The [[^F892]First-tier Tribunal] may only grant the application if [[^F893]it considers] that a failure to do so might prejudicially affect—
+
+(a) the well-being of any person to whom the person concerned may give instruction in the driving of a motor car, or
+
+(b) the safety of road users.]
+
+(4G) [^F894]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) [^F895]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F896]Compensation
+
+#### 131A Compensation in respect of suspension
+
+(1) The Secretary of State must by regulations make a scheme for the making of payments by the Secretary of State to persons in respect of one or more of the following—
+
+(a) income losses incurred by them as a result of their registrations or licences being suspended by virtue of section 128(7A) to (7G) or (as the case may be) 130(7) to (13),
+
+(b) non-income losses so incurred, and
+
+(c) any other matters which relate to either such suspension and are provided for in the scheme.
+
+(2) No payments may be made under a scheme in respect of the suspension of a person's registration or licence unless—
+
+(a) the suspension is terminated because the Registrar decides not to remove the person's name from the register or (as the case may be) not to revoke the licence,
+
+(b) an appeal is successfully concluded against the decision of the Registrar to remove the person's name from the register or (as the case may be) to revoke the licence (whether or not the Registrar's decision has taken effect), or
+
+(c) any other circumstances provided for in the scheme apply.
+
+(3) Where the decision of the Registrar to remove the person's name from the register or to revoke the licence has taken effect before an appeal against it is successfully concluded, any payments under a scheme may relate only to the suspension.
+
+(4) A scheme may, in particular, specify—
+
+(a) the description or descriptions of income losses, or
+
+(b) the description or descriptions of non-income losses,
+
+in respect of which payments are to be made but need not provide for the making of payments in respect of all income losses or all non-income losses or for the making of payments which correspond to the full amount of any income losses or non-income losses.
+
+(5) A scheme may also, in particular—
+
+(a) specify the basis or bases of valuation for determining losses or the person who is to decide their valuation,
+
+(b) specify the amounts of payments to be made or the basis or bases on which such amounts are to be calculated,
+
+(c) provide for the procedure to be followed (including when claims may be made and the provision of information) in respect of claims under the scheme and for the determination of such claims.
+
+(6) A person who is aggrieved by a decision of the Secretary of State as to the person's entitlement to payments under a scheme or the amounts of any such payments may appeal to the First-tier Tribunal.
+
+(7) On an appeal, the First-tier Tribunal may make such order as it considers appropriate.
+
+(8) If the Tribunal considers that any evidence adduced on an appeal had not been adduced to the Secretary of State before the making of the decision to which the appeal relates, the Tribunal may (instead of making an order under subsection (7)) remit the matter to the Secretary of State for the Secretary of State to reconsider the decision.
+
+(9) In this section—
+
+- “income losses” means losses of income, and
+- “non-income losses” means losses other than income losses.]
+
+### Examinations and tests
+
+#### 132 Examinations and tests of ability to give driving instruction.
+
+(1) Regulations may make provision with respect to—
+
+(a) the nature of examinations of the ability of persons to give instruction in the driving of motor cars and tests of continued ability and fitness to give [[^F897]instruction in the driving of motor cars (or appropriate motor cars)], and
+
+(b) evidence of the results of such tests and examinations,
+
+and generally with respect to such tests and examinations.
+
+(2) In particular, but without prejudice to the generality of subsection (1) above, the regulations may make provision—
+
+(a) for requiring a person submitting himself [[^F898]for any] part of such an examination which consists of a practical test, or to [[^F899]any part of such a test of continued ability and fitness which consists of practical assessment], to provide a vehicle for the purposes of [[^F900]the practical test or assessment], being a vehicle in respect of which such conditions as may be specified in regulations are complied with,
+
+(b) for requiring a person applying to submit himself for any part of such an examination [[^F901], or required to submit himself for such a test,] to pay to the Registrar such fee as may be specified in the regulations in relation to that part [[^F902]or such tests,], and
+
+(c) for requiring a person who desires to submit himself for any part of such an examination [[^F903], or is required to submit himself for such a test] to supply the Registrar with such particulars as the Secretary of State may determine.
+
+#### 133 Review of examinations.
+
+(1) On the application of a person who has [[^F904]undergone a relevant examination, or a part of such an examination]—
+
+(a) [[^F905]a magistrates' court], or
+
+(b) in Scotland, the sheriff within whose jurisdiction he resides,
+
+may determine whether [[^F906]the examination or part was properly conducted]
+
+(2) If it appears to the court or sheriff [[^F907]the examination or part was not properly]conducted, the court or sheriff may order that any fee payable by the applicant in respect of [[^F908]the examination or part]shall not be paid or, if it has been paid, shall be repaid.
+
+(3) No appeal shall lie under section 131 of this Act in respect of any matter in respect of which an application may be made to a magistrates’ court or a sheriff under subsection (1) above.
+
+[[^F909](4) In this section “a relevant examination” means—
+
+(a) an examination of ability to give instruction in the driving of motor cars,
+
+(b) a test of continued ability and fitness to give instruction in the driving of motor cars (or appropriate motor cars), or
+
+(c) an emergency control assessment.]
+
+### [[^F910][[^F911]Disabled persons:] emergency control certificates, etc]
+
+#### [[^F913]133A Assessment of [[^F912]disabled person’s] ability to control a motor car in an emergency.
+
+(1) This section applies to any person who, by or under any provision of this Part of this Act,—
+
+(a) is authorised to apply to undergo an emergency control assessment, or
+
+(b) is required by the Registrar to submit himself for an emergency control assessment.
+
+(2) An emergency control assessment is an assessment of whether the person being assessed would be able either—
+
+(a) to take control of a motor car of a [[^F914]prescribed class] without any modifications, or
+
+(b) to take control of a motor car of a [[^F915]prescribed class] only with appropriate modifications of such a motor car,
+
+if an emergency arose while he was giving, in such a motor car, instruction in the driving of [[^F916]a] motor car.
+
+(3) Where a person is authorised to apply to undergo an emergency control assessment, for the application to be duly made, it must be made to the Secretary of State and must include—
+
+(a) a declaration by the person making the application, in such form as the Secretary of State may require, stating every relevant disability or prospective disability from which the person is suffering or has at any time (or, if a period is prescribed by regulations, has during that period) suffered; and
+
+(b) such other particulars as the Secretary of State may require.
+
+(4) Where a person is required to submit himself for an emergency control assessment he must furnish to the Secretary of State such particulars as the Secretary of State may require.
+
+[[^F917](4A) Regulations may require a person who applies to undergo an emergency control assessment (or a part of such an assessment), or is required to submit himself for such an assessment, to pay a fee to the Secretary of State.]
+
+(5) An emergency control assessment—
+
+(a) shall be conducted by a person appointed by the Secretary of State (in this section referred to as “the assessor”); and
+
+(b) shall consist of such practical tests and other means of assessment as the Secretary of State may determine.
+
+(6) On completing an emergency control assessment of a person, the assessor shall grant him an emergency control certificate if he is satisfied either—
+
+(a) that, in the circumstances mentioned in subsection (2) above, that person would be able to take control of a motor car of a [[^F918]prescribed class] without any modifications, or
+
+(b) that, in the circumstances mentioned in subsection (2) above, that person would be able to take control of a motor car of a [[^F919]prescribed class] only with appropriate modifications of such a motor car;
+
+but if the assessor is not so satisfied, he shall refuse to grant a certificate to that person.
+
+(7) An emergency control certificate granted to any person—
+
+(a) shall specify the class of motor car [[^F920]covered by his disabled person’s limited driving licence] in relation to which the assessor is satisfied as mentioned in subsection (6)(a) or (b) above, specifying, in a case falling within paragraph (b) the modifications that are appropriate; and
+
+(b) may include a recommendation that that person should undergo a further emergency control assessment after the end of such period as is specified in the certificate;
+
+and shall otherwise be in such form as the Secretary of State may determine.
+
+(8) Different modifications for different classes of motor car may be specified under subsection (7)(a) above.
+
+(9) The assessor who has assessed any person under this section—
+
+(a) if he grants an emergency control certificate, shall—
+
+(i) give or send the certificate to that person, and
+
+(ii) send a copy of the certificate to the Registrar; and
+
+(b) if he refuses to grant such a certificate, shall—
+
+(i) give notice in writing to that person of his decision and of the reasons for it, and
+
+(ii) send a copy of the notice to the Registrar.]
+
+[[^F921](10) In this Part, “modifications”, in relation to a motor car, includes equipment.]
+
+#### [[^F922]133B Further assessments.
+
+[[^F923](1) A person who has undergone an emergency control assessment may not apply to undergo a further assessment until after the end of—
+
+(a) the period of six months beginning with the date of his most recent previous assessment, or
+
+(b) such other period as may be prescribed by regulations,
+
+unless, by virtue of section 125B(6)(a) of this Act or subsection (2) below, he is required by the Registrar to submit himself for a further assessment.]
+
+(2) A person whose name is not on the register but who holds a current emergency control certificate shall, if at any time required to do so by the Registrar, submit himself for a further emergency control assessment on the day (within such period as may be prescribed by regulations) and at the place specified by the Registrar.
+
+[[^F924](2A) A person may, for the purpose of obtaining an emergency control certificate, apply to undergo a further emergency control assessment if—
+
+(a) he has been required to submit himself for an emergency control assessment—
+
+(i) under section 125(2C) or 129(1B), or
+
+(ii) as mentioned in section 125(5)(a)(ii) or 129(5ZA),
+
+(b) on completing that assessment, the assessor refused to grant him an emergency control certificate, and
+
+(c) the application for the further assessment is made in such circumstances as may be prescribed.]
+
+[[^F925](3) In considering whether to exercise, in respect of any person, his power under subsection (2) above, the Registrar shall have regard to any recommendation included in that person’s current emergency control certificate as to the period after the end of which he should undergo a further emergency control assessment.]
+
+(4) A person who—
+
+(a) holds a current emergency control certificate, but
+
+(b) wishes to undergo a further emergency control assessment with a view to establishing his ability to control any class of motor car not specified in his current certificate,
+
+may, with the consent of the Registrar and subject to [[^F926]subsection (5A)], apply to undergo a further assessment; but a person applying to undergo a further assessment under this subsection shall not be required to make the declaration required by section 133A(3)(a) of this Act.
+
+(5) An application made under subsection (4) above for the consent of the Registrar shall be made in such manner and be accompanied by such particulars as the Registrar may require.
+
+[[^F927](5A) A person may not apply to undergo a further emergency control assessment under subsection (4) until after the end of—
+
+(a) the period of six months beginning with the date of his most recent previous assessment, or
+
+(b) such other period as may be prescribed by regulations,
+
+unless the Registrar considers it appropriate for the application to be made at such earlier time as may be specified by the Registrar.]
+
+(6) If, as a result of undergoing a further emergency control assessment, a person is granted a fresh emergency control certificate the grant of that certificate shall, with effect from the date on which it is notified as taking effect, revoke the previous certificate.
+
+(7) If, in the case of an emergency control assessment conducted in respect of a person who holds a current emergency control certificate, the assessor is not satisfied as to either of the matters specified in paragraphs (a) and (b) of section 133A(6), he shall revoke the certificate.
+
+(8) Where a person’s emergency control certificate is revoked under subsection (7) above the assessor shall—
+
+(a) serve notice in writing on him specifying—
+
+(i) the grounds for the revocation, and
+
+(ii) the date, not being earlier than the date of service of the notice, on which the revocation is to take effect, and
+
+(b) send a copy of the notice to the Registrar.
+
+(9) In this section “assessor” has the same meaning as in section 133A of this Act.]
+
+#### 133C [[^F928] Duty to disclose further disability.
+
+(1) This section applies to—
+
+[[^F929](a) persons whose names are in the register, and]
+
+(b) persons who hold licences under section 129 of this Act [[^F930]granted by virtue of subsection (2)(b) of that section].
+
+(2) If at any time a person to whom this section applies becomes aware—
+
+(a) that he is suffering from a relevant or prospective disability which he has not previously disclosed to the Secretary of State under section [[^F931]125(2A), 129(1A)] or 133A(3) or (4) of this Act, or
+
+(b) that a relevant or prospective disability from which he has at any time suffered (and which has been previously so disclosed) has become more acute since his current emergency control certificate was granted,
+
+he must forthwith notify the Registrar in writing of the nature and extent of his disability.
+
+(3) Subsection (2) above does not require a person to notify the Registrar if—
+
+(a) the disability is one from which he has not previously suffered, and
+
+(b) he has reasonable grounds for believing that the duration of the disability will not extend beyond the period of three months beginning with the date on which he first becomes aware that he suffers from it.
+
+(4) A person who fails without reasonable excuse to notify the Registrar as required by subsection (2) above is guilty of an offence.]
+
+#### 133D [[^F932] Offences relating to giving [[^F933]by disabled person] of paid driving instruction.
+
+[[^F934](1) This section applies to—
+
+(a) persons whose names are in the register, and
+
+(b) persons who hold licences under section 129 of this Act,
+
+who have undergone emergency control assessments in accordance with a requirement imposed under section 125(2C) or 129(1B) or as mentioned in section 125(5)(a)(ii) or 129(5ZA)(a).]
+
+(2) No person to whom this section applies shall give paid instruction in the driving of a motor car unless he is the holder of a current emergency control certificate.
+
+(3) No person to whom this section applies shall give, in any unauthorised motor car, paid instruction in the driving of a motor car.
+
+[[^F935](3A) Subsection (3) does not apply if the person to whom the instruction is given holds a full licence granted under Part 3 which is not limited by virtue of a notice served under section 92(5)(b).]
+
+(4) Where instruction is given in contravention of this section—
+
+(a) the person by whom it is given, and
+
+(b) if that person is employed by another to give that instruction, that other, as well as that person,
+
+is guilty of an offence.
+
+(5) In subsection (3) above “unauthorised motor car”, in relation to any person, means a motor car other than one which falls within the class of motor car specified in his current emergency control certificate and, where modifications are specified in that certificate, is modified in accordance with the specification.]
+
+#### 133E [[^F936]Direction to disregard emergency control assessment requirement
+
+(1) This section applies where a person has been required—
+
+(a) under section 125(2C) or 129(1B), or
+
+(b) as mentioned in section 125(5)(a)(ii) or 129(5ZA),
+
+to submit himself for an emergency control assessment.
+
+(2) At any time before the assessment takes place the Registrar may withdraw the requirement (in which case this Part applies as if the requirement had never been imposed).
+
+(3) At any time after the assessment takes place the Registrar may direct that the requirement is to be disregarded for the purposes of this Part (and accordingly any condition that the person holds an emergency certificate is to cease to apply).
+
+(4) Notice of—
+
+(a) the withdrawal of a requirement under subsection (2), or
+
+(b) a direction under subsection (3),
+
+must be given to the person on whom the requirement was imposed.]
+
+### General and supplemental
+
+#### 134 Power to alter conditions for entry or retention in, and removal from, register and for grant or revocation of licences.
+
+Regulations may—
+
+(a) alter or add to the conditions as to which the Registrar is required by this Part of this Act to be satisfied for the entry of a name in the register, the retention of a name in the register, the removal of a name from the register, the grant of a licence and the revocation of a licence, or omit any of those conditions,
+
+(b) alter the period at the expiration of which a person’s name which is entered or retained in the register after the coming into force of the regulation must, unless retained or further retained, be removed from the register.
+
+#### 135 Power to prescribe form of certificate of registration, etc.
+
+(1) Regulations may prescribe all or any of the following—
+
+(a) a form of certificate for issue to persons whose names are in the register as evidence of their names’ being in the register,
+
+(b) a form of badge for use by such persons, and
+
+(c) an official title for such use.
+
+(2) If a person whose name is not in the register—
+
+(a) takes or uses a title prescribed under this section, or
+
+(b) wears or displays a badge or certificate so prescribed, or
+
+(c) takes or uses any name, title, addition or description implying that his name is in the register,
+
+he is guilty of an offence unless he proves that he did not know, and had no reasonable cause to believe, that his name was not in the register at the material time.
+
+[[^F937](3) If P uses, in relation to any person employed by P whose name is not in the register,
+
+(a) a title or description prescribed under this section for use by persons whose names are in the register, or
+
+(b) a name, title, addition or description implying that the person’s name is in the Register,
+
+P is guilty of an offence unless P proves that P did not know, and had no reasonable cause to believe, that the person’s name was not in the register at the material time.
+
+(5) If P issues any advertisement or invitation calculated to mislead with respect to the extent to which persons employed by P are registered under this Part, P is guilty of an offence unless P proves that P did not know, and had no reasonable cause to believe, that the advertisement or invitation was misleading in that respect at the time it was issued.
+
+(6) In this section “P” means a person carrying on business in the provision of instruction in the driving of motor vehicles.]
+
+#### 136 Surrender of certificates and licences.
+
+Where—
+
+(a) the name of a person to whom a certificate prescribed under section 135 of this Act has been issued is removed from the register in pursuance of this Part of this Act, or
+
+(b) a licence granted under this Part of this Act to a person expires or is revoked,
+
+that person must, if so required by the Registrar by notice in writing, surrender the certificate or licence, as the case may be, to the Registrar within the period of fourteen days beginning with that on which the notice is given and, if he fails to do so, he is guilty of an offence.
+
+#### 137 Production of certificates and licences to constables and authorised persons.
+
+(1) A person to whom a certificate prescribed under section 135 of this Act is issued, or to whom a licence under this Part of this Act is granted, must, on being so required by a constable or any person authorised in writing by the Secretary of State in that behalf, produce the certificate or licence for examination.
+
+(2) Where—
+
+(a) the name of a person is removed from the register, or
+
+(b) a licence granted under this Part of this Act to a person expires or is revoked,
+
+then, if that person fails to satisfy an obligation imposed on him by section 136 of this Act, a constable or a person authorised in writing by the Secretary of State in that behalf may require him to produce any such certificate issued to him or the licence, and upon its being produced may seize it and deliver it to the Registrar.
+
+(3) A person who is required under subsection (1) or (2) above to produce a document and fails to do so is, subject to subsection (4) below, guilty of an offence.
+
+(4) In proceedings against any person for an offence under subsection (3) above, it shall be a defence for him to show that—
+
+(a) within seven days beginning with the day following that on which the production of the document was so required, it was produced—
+
+(i) where the requirement was made by a constable, at a police station specified at the time the production was required by the person required to produce the document,
+
+(ii) where the requirement was made by a person other than a constable, at a place specified at that time by that person, or
+
+(b) the document was produced at that police station or, as the case may be, place as soon as was reasonably practicable, or
+
+(c) it was not reasonably practicable for it to be produced at that police station or, as the case may be, place before the day on which the proceedings were commenced,
+
+and for the purposes of this subsection the laying of the information or, in Scotland, the service of the complaint on the accused shall be treated as the commencement of the proceedings.
+
+#### 138 Offences by corporations.
+
+Where a body corporate is guilty of an offence under this Part of this Act and the offence is proved to have been committed with the consent or connivance of, or to be attributable to neglect on the part of, a director, manager, secretary or other similar officer of the body corporate, or a person who was purporting to act in any such capacity, he, as well as the body corporate, is guilty of that offence and liable to be proceeded against and punished accordingly.
+
+#### 139 Service of notices.
+
+(1) A notice authorised or required to be given by this Part of this Act to a person may be given by delivering it to him, or by leaving it at his proper address, or by sending it to him by post.
+
+(2) For the purposes of this section and of section 7 of the Interpretation Act 1978 [^M34] in its application to this section, the proper address of a person shall be, in the case of a person whose name is included in the register, his address on the register, and in any other case, his usual or last known address.
+
+#### 140 Receipts.
+
+Any sums received on account of fees payable by virtue of any provision of this Part of this Act shall be paid into the Consolidated Fund.
+
+#### 141 Regulations.
+
+[[^F938](1)] The Secretary of State may make regulations for any purpose for which provision is by this Part of this Act authorised to be made by regulations [[^F939]and for prescribing anything which may be prescribed under this Part of this Act] , and in this Part of this Act “regulations” means regulations made under this section.
+
+[[^F940](2) Regulations under this section—
+
+(a) may be expressed to apply generally or only in particular circumstances,
+
+(b) may make different provision in relation to different cases or other circumstances or otherwise for different purposes, and
+
+(c) may make incidental, supplementary, consequential or transitional provision or savings.]
+
+#### 141A [[^F941] Meaning of “motor car".
+
+(1) Notwithstanding section 185(1) of this Act, in this Part of this Act “motor car" means a motor vehicle (other than an invalid carriage or motor cycle)—
+
+(a) which is not constructed or adapted to carry more than nine persons inclusive of the driver, and
+
+(b) which has a maximum gross weight not exceeding 3.5 tonnes.
+
+(2) In subsection (1) above “maximum gross weight" has the same meaning as in Part III of this Act.]
+
+#### 142 Index to Part V.
+
+The expressions listed in the left-hand column below are respectively defined or (as the case may be) fall to be construed in accordance with the provisions of this Part of this Act listed in the right-hand column in relation to those expressions.
+
+|  |  |
+|---|---|
+| *Expression* | *Relevant provision* |
+| [^F942][[^F943]Appropriate motor car | [^F942]Section 125A(8)] |
+| [[^F944]“ Community licence ” [^F945] ... | Section 125(10)] |
+| Current licence | Section 123(7) |
+| [[^F943]Disability, prospective disability and relevant disability | Section [[^F946]125(10)]] |
+| [[^F942][[^F943]Disabled person’s limited driving licence | Section 125A(8)]] |
+| [[^F943]Emergency control assessment and emergency control certificate | Section [[^F947]125(10)]] |
+| [[^F943]Paid instruction | Section 123(8)] |
+| [[^F943]Provisional licence | Section 123(8)] |
+| The register | Section 123 |
+| [[^F942][[^F943]Registered disabled instructor | Section 125A(8)]] |
+| The Registrar | Section 125 (2) |
+| Regulations | Section 141 |
+
+## Part VI — Third-Party Liabilities
+
+### [^F948] Compulsory insurance ...
+
+#### 143 Users of motor vehicles to be insured [^F949]... .
+
+(1) Subject to the provisions of this Part of this Act—
+
+(a) a person must not use a motor vehicle on a road [[^F950]or other public place] unless there is in force in relation to the use of the vehicle by that person such a policy of insurance [^F951]... as complies with the requirements of this Part of this Act, and
+
+(b) a person must not cause or permit any other person to use a motor vehicle on a road [[^F952]or other public place] unless there is in force in relation to the use of the vehicle by that other person such a policy of insurance [^F953]... as complies with the requirements of this Part of this Act.
+
+(2) If a person acts in contravention of subsection (1) above he is guilty of an offence.
+
+(3) A person charged with using a motor vehicle in contravention of this section shall not be convicted if he proves—
+
+(a) that the vehicle did not belong to him and was not in his possession under a contract of hiring or of loan,
+
+(b) that he was using the vehicle in the course of his employment, and
+
+(c) that he neither knew nor had reason to believe that there was not in force in relation to the vehicle such a policy of insurance [^F954]... as is mentioned in subsection (1) above.
+
+(4) This Part of this Act does not apply to invalid carriages.
+
+#### 144 [^F955] Exceptions from requirement of third-party insurance ... .
+
+[^F956]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F956]1A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F956]1B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Section 143 does not apply—
+
+(a) to a vehicle owned—
+
+(i) by the council of a county or county district in England and Wales [[^F957]the Broads Authority], the Common Council of the City of London, the council of a London borough [[^F958] a National Park authority], the Inner London Education Authority, [[^F959]a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004,] [[^F960]the London Fire Commissioner,] [^F961]... [[^F962], a joint authority [^F963]... established by Part 4 of the Local Government Act 1985, an economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009 [[^F964], a combined authority established under section 103 of that Act or a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023],]
+
+(ii) by a [[^F965]council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 in Scotland [[^F966]or the Scottish Fire and Rescue Service] , or]
+
+(iii) by a joint board or committee in England or Wales, or joint committee in Scotland, which is so constituted as to include among its members representatives of any such council,
+
+at a time when the vehicle is being driven under the owner’s control,
+
+(b) to a vehicle owned by [[^F967]a local policing body or] a police authority [[^F968]or the Receiver for the Metropolitan Police district], at a time when it is being driven under the owner’s control, or to a vehicle at a time when it is being driven for police purposes by or under the direction of a constable, [[^F969]by a member of a police and crime commissioner's staff (within the meaning of Part 1 of the Police Reform and Social Responsibility Act 2011), by a member of the staff of the Mayor's Office for Policing and Crime (within the meaning of that Part of that Act), by a member of the civilian staff of a police force (within the meaning of that Part of that Act), by a member of the civilian staff of the metropolitan police force (within the meaning of that Part of that Act), by a person employed by the Common Council of the City of London [^F970]in its capacity as a police authority, [[^F970]by a police volunteer designated under section 38 of the Police Reform Act 2002,]] or by a person employed by a police authority, [^F968]..., or
+
+[^F971]ba . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) to a vehicle at a time when it is being driven on a journey to or from any place undertaken for salvage purposes pursuant to Part IX of the [[^F972]Merchant Shipping Act 1995],
+
+[^F973]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F974](da) to a vehicle owned by a health service body, as defined in section 60(7) of the National Health Service and Community Care Act 1990 [^F975]...[[^F976]or by a Local Health Board established under section 11 of the National Health Service (Wales) Act 2006], at a time when the vehicle is being driven under the owner’s control.
+
+(db) to an ambulance owned by a National Health Service trust established under [[^F977]section 25 of the National Health Service Act 2006, section 18 of the National Health Service (Wales) Act 2006] or the National Health Service (Scotland) Act 1978, at a time when a vehicle is being driven under the owner’s control]
+
+[[^F978](dc) to an ambulance owned by an NHS foundation trust, at a time when the vehicle is being driven under the owner’s control, ]
+
+(e) to a vehicle which is made available by the Secretary of State [[^F979]or the Welsh Ministers] to any person, body or local authority in pursuance of [[^F980]section 12 or 80 of the National Health Service Act 2006, or section 10 or 38 of the National Health Service (Wales) Act 2006,] at a time when it is being used in accordance with the terms on which it is so made available,
+
+(f) to a vehicle which is made available by the Secretary of State to any local authority, education authority or voluntary organisation in Scotland in pursuance of section 15 or 16 of the [^M35]National Health Service (Scotland) Act 1978 at a time when it is being used in accordance with the terms on which it is so made available.
+
+[[^F981](g) to a vehicle owned by [[^F982]the Care Quality Commission], at a time when the vehicle is being driven under the owner’s control]
+
+#### 144A [[^F983]Offence of keeping vehicle which does not meet insurance requirements
+
+(1) If a motor vehicle registered under the Vehicle Excise and Registration Act 1994 does not meet the insurance requirements, the person in whose name the vehicle is registered is guilty of an offence.
+
+(2) For the purposes of this section a vehicle meets the insurance requirements if—
+
+(a) it is covered by a such a policy of insurance [^F984]... as complies with the requirements of this Part of this Act, and
+
+(b) either of the following conditions is satisfied.
+
+(3) The first condition is that the policy [^F985]... , or the certificate of insurance [^F985]... which relates to it, identifies the vehicle by its registration mark as a vehicle which is covered by the policy [^F985]... .
+
+(4) The second condition is that the vehicle is covered by the policy [^F986]... because—
+
+(a) the policy [^F986]... covers any vehicle, or any vehicle of a particular description, the owner of which is a person named in the policy [^F986]... or in the certificate of insurance [^F986]... which relates to it, and
+
+(b) the vehicle is owned by that person.
+
+(5) For the purposes of this section a vehicle is covered by a policy of insurance [^F987]... if the policy of insurance [^F987]... is in force in relation to the use of the vehicle.]
+
+#### [^F983]144B [Exceptions to section 144A offence
+
+(1) A person (“the registered keeper”) in whose name a vehicle which does not meet the insurance requirements is registered at any particular time (“ the relevant time ”) does not commit an offence under section 144A of this Act at that time if any of the following conditions are satisfied.
+
+(2) The first condition is that at the relevant time the vehicle is owned as described—
+
+(a) in subsection (1) of section 144 of this Act, or
+
+(b) in paragraph (a), (b), (da), (db), (dc) or (g) of subsection (2) of that section,
+
+(whether or not at the relevant time it is being driven as described in that provision).
+
+(3) The second condition is that at the relevant time the vehicle is owned with the intention that it should be used as described in paragraph (c), (d), (e) or (f) of section 144(2) of this Act.
+
+(4) The third condition is that the registered keeper—
+
+(a) is not at the relevant time the person keeping the vehicle, and
+
+(b) if previously he was the person keeping the vehicle, he has by the relevant time complied with any requirements under subsection (7)(a) below that he is required to have complied with by the relevant or any earlier time.
+
+(5) The fourth condition is that—
+
+(a) the registered keeper is at the relevant time the person keeping the vehicle,
+
+(b) at the relevant time the vehicle is not used on a road or other public place, and
+
+(c) the registered keeper has by the relevant time complied with any requirements under subsection (7)(a) below that he is required to have complied with by the relevant or any earlier time.
+
+(6) The fifth condition is that—
+
+(a) the vehicle has been stolen before the relevant time,
+
+(b) the vehicle has not been recovered by the relevant time, and
+
+(c) any requirements under subsection (7)(b) below that, in connection with the theft, are required to have been complied with by the relevant or any earlier time have been complied with by the relevant time.
+
+[[^F988](6A) The sixth condition is that—
+
+(a) the registered keeper is at the relevant time the person keeping the vehicle,
+
+(b) neither a licence nor a nil licence under the Vehicle Excise and Registration Act 1994 was in force for the vehicle on 31<sup>st</sup> January 1998,
+
+(c) neither a licence nor a nil licence has been taken out for the vehicle for a period starting after that date, and
+
+(d) the vehicle has not been used or kept on a public road after that date.]
+
+(7) Regulations may make provision—
+
+(a) for the purposes of subsection (4)(b) and (5)(c) above, requiring a person in whose name a vehicle is registered to furnish such particulars and make such declarations as may be prescribed, and to do so at such times and in such manner as may be prescribed, and
+
+(b) for the purposes of subsection (6)(c) above, as to the persons to whom, the times at which and the manner in which the theft of a vehicle is to be notified.
+
+(8) Regulations may make provision amending this section for the purpose of providing for further exceptions to section 144A of this Act (or varying or revoking any such further exceptions).
+
+(9) A person accused of an offence under section 144A of this Act is not entitled to the benefit of an exception conferred by or under this section unless evidence is adduced that is sufficient to raise an issue with respect to that exception; but where evidence is so adduced it is for the prosecution to prove beyond reasonable doubt that the exception does not apply.]
+
+#### [^F983]144C [Fixed penalty notices
+
+(1) Where on any occasion the Secretary of State has reason to believe that a person has committed an offence under section 144A of this Act, the Secretary of State may give the person a notice offering him the opportunity of discharging any liability to conviction for that offence by payment of a fixed penalty to the Secretary of State.
+
+(2) Where a person is given a notice under this section in respect of an offence under section 144A of this Act—
+
+(a) no proceedings may be instituted for that offence before the end of the period of 21 days following the date of the notice, and
+
+(b) he may not be convicted of that offence if he pays the fixed penalty before the end of that period.
+
+(3) A notice under this section must give such particulars of the circumstances alleged to constitute the offence as are necessary for giving reasonable information of the offence.
+
+(4) A notice under this section must also state—
+
+(a) the period during which, by virtue of subsection (2) above, proceedings will not be taken for the offence,
+
+(b) the amount of the fixed penalty, and
+
+(c) the person to whom and the address at which the fixed penalty may be paid.
+
+(5) Without prejudice to payment by any other method, payment of the fixed penalty may be made by pre-paying and posting a letter containing the amount of the penalty (in cash or otherwise) to the person mentioned in subsection (4)(c) above at the address so mentioned.
+
+(6) Where a letter is sent in accordance with subsection (5) above payment is to be regarded as having been made at the time at which that letter would be delivered in the ordinary course of post.
+
+(7) Regulations may make provision as to any matter incidental to the operation of this section, and in particular—
+
+(a) as to the form of a notice under this section,
+
+(b) as to the information to be provided in such a notice by virtue of this section, and
+
+(c) as to any further information to be provided in a such notice.
+
+(8) The fixed penalty payable under this section is, subject to subsection (9) below, £100.
+
+(9) Regulations may substitute a different amount for the amount for the time being specified in subsection (8) above.
+
+(10) Regulations may make provision for treating a fixed penalty payable under this section as having been paid if a lesser amount is paid before the end of a prescribed period.
+
+(11) In any proceedings a certificate which—
+
+(a) purports to be signed by or on behalf of the Secretary of State, and
+
+(b) states that payment of a fixed penalty was or was not received by a date specified in the certificate,
+
+is evidence of the facts stated.]
+
+#### [^F983]144D [Section 144A offence: supplementary
+
+(1) Schedule 2A makes provision about the immobilisation of vehicles as regards which it appears that an offence under section 144A of this Act is being committed and about their removal and disposal.
+
+(2) A person authorised by the Secretary of State for the purposes of this subsection may on behalf of the Secretary of State conduct and appear in any proceedings by or against the Secretary of State in connection with the enforcement of an offence under section 144A of this Act or under regulations made under section 160 of this Act by virtue of Schedule 2A to this Act—
+
+(a) in England and Wales, in a magistrates' court, and
+
+(b) in Scotland, in any court other than the High Court of Justiciary or the Court of Session.]
+
+#### 145 Requirements in respect of policies of insurance.
+
+(1) In order to comply with the requirements of this Part of this Act, a policy of insurance must satisfy the following conditions.
+
+(2) The policy must be issued by an authorised insurer.
+
+(3) Subject to subsection (4) below, the policy—
+
+(a) must insure such person, persons or classes of persons as may be specified in the policy in respect of any liability which may be incurred by him or them in respect of the death of or bodily injury to any person or damage to property caused by, or arising out of, the use of the vehicle on a road [[^F989]or other public place] in Great Britain, and
+
+[[^F990](aa) must, in the case of a vehicle normally based in the territory of [[^F991]a] member State, insure him or them in respect of any civil liability which may be incurred by him or them as a result of an event related to the use of the vehicle in Great Britain if,—
+
+(i) according to the law of that territory, he or they would be required to be insured in respect of a civil liability which would arise under that law as a result of that event if the place where the vehicle was used when the event occurred were in that territory, and
+
+(ii) the cover required by that law would be higher than that required by paragraph (a) above, and]
+
+(b) must [[^F992] in the case of a vehicle normally based in Great Britain] insure him or them in respect of any liability which may be incurred by him or them in respect of the use of the vehicle and of any trailer, whether or not coupled, in the territory [[^F993]of Northern Ireland and] of each of the member States of the [[^F994]European Union] according to
+
+[[^F995](i) the law on compulsory insurance against civil liability in respect of the use of vehicles [[^F996]applicable in the territory in which] the event giving rise to the liability occurred; or
+
+(ii) if it would give higher cover, the law which would be applicable under this Part of this Act if the place where the vehicle was used when that event occurred were in Great Britain; and]
+
+(c) must also insure him or them in respect of any liability which may be incurred by him or them under the provisions of this Part of this Act relating to payment for emergency treatment.
+
+(4) The policy shall not, by virtue of subsection (3)(a) above, be required—
+
+(a) to cover liability in respect of the death, arising out of and in the course of his employment, of a person in the employment of a person insured by the policy or of bodily injury sustained by such a person arising out of and in the course of his employment, or
+
+(b) to provide insurance of more than [[^F997]£1,200,000] in respect of all such liabilities as may be incurred in respect of damage to property caused by, or arising out of, any one accident involving the vehicle, or
+
+(c) to cover liability in respect of damage to the vehicle, or
+
+(d) to cover liability in respect of damage to goods carried for hire or reward in or on the vehicle or in or on any trailer (whether or not coupled) drawn by the vehicle, or
+
+(e) to cover any liability of a person in respect of damage to property in his custody or under his control, or
+
+(f) to cover any contractual liability.
+
+[[^F998](4A) In the case of a person—
+
+(a) carried in or upon a vehicle, or
+
+(b) entering or getting on to, or alighting from, a vehicle,
+
+the provisions of paragraph (a) of subsection (4) above do not apply unless cover in respect of the liability referred to in that paragraph is in fact provided pursuant to a requirement of the [^M36] Employers’ Liability (Compulsory Insurance) Act 1969. ]
+
+[[^F999](5) “Authorised insurer” has the same meaning as in section 95.]
+
+(6) If any person or body of persons ceases to be a member of the Motor Insurers’ Bureau, that person or body shall not by virtue of that cease to be treated as an authorised insurer for the purposes of this Part of this Act [^F1000]. . . —
+
+(a) in relation to any policy issued by the insurer before ceasing to be such a member, or
+
+(b) in relation to any obligation (whether arising before or after the insurer ceased to be such a member) which the insurer may be called upon to meet under or in consequence of any such policy or under section 157 of this Act [^F1000]. . . by virtue of making a payment in pursuance of such an obligation.
+
+#### 146 Requirements in respect of securities.
+
+[^F1001]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 147 Issue [^F1002]... of certificates of insurance [^F1003]... .
+
+(1) [[^F1004]An insurer issuing a policy of insurance for the purposes of this Part of this Act must deliver] to the person by whom the policy is effected a certificate (in this Part of this Act referred to as a “certificate of insurance”) in the prescribed form and containing such particulars of any conditions subject to which the policy is issued and of any other matters as may be prescribed.
+
+[[^F1005](1A) A certificate of insurance is to be treated for the purposes of [[^F1006]subsection (1) as having been delivered ] to the person by whom the policy is effected if—
+
+(a) it is transmitted electronically by the insurer to the person in accordance with subsection (1B) below, or
+
+(b) it is made available by the insurer to the person on a website in accordance with subsection (1C) below.
+
+(1B) A certificate is transmitted electronically by an insurer to a person in accordance with this subsection if—
+
+(a) on effecting the policy to which the certificate relates, the person agreed to its electronic transmission for the purposes of subsection (1) above, and
+
+(b) the certificate is transmitted by the insurer to an electronic address specified by the person for this purpose.
+
+(1C) A certificate is made available by an insurer to a person on a website in accordance with this subsection if—
+
+(a) on effecting the policy to which the certificate relates, the person agreed to its being made available on a website for the purposes of subsection (1) above,
+
+(b) the insurer makes the certificate available to the person by placing an electronic copy of it on a website, and
+
+(c) the person is notified by the insurer, in a manner agreed by the person, of—
+
+(i) the certificate's presence on the website,
+
+(ii) the address of the website,
+
+(iii) the place on the website where he may access the certificate, and
+
+(iv) how he may access the certificate.
+
+(1D) Where a certificate made available on a website is treated by virtue of subsection (1A)(b) above as having been delivered by an insurer to a person, the insurer must ensure that the certificate remains continuously accessible to the person on the website until the expiry of the last day on which the policy to which it relates has effect.
+
+(1E) For the purposes of subsection (1D) above, a certificate is to be treated as remaining continuously accessible to a person on a website, despite its being temporarily inaccessible to him on the website, if the insurer has taken all reasonable steps to make it continuously accessible to him on the website (including steps to remedy any temporary inaccessibility).]
+
+[^F1007]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Different forms and different particulars may be prescribed for the purposes of subsection (1) [^F1008]... above in relation to different cases or circumstances.
+
+[^F1009]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F1009]4A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F1009]4B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F1009]4C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F1009]4D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F1009]4E . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F1009]4F . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F1009]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 148 Avoidance of certain exceptions to policies [^F1010]... .
+
+(1) [[^F1011]Where a policy [[^F1012]is issued] for the purposes of this Part of this Act,] so much of the policy [^F1013]... as purports to restrict—
+
+(a) the insurance of the persons insured by the policy, [^F1014] ...
+
+[^F1014]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F1015]... by reference to any of the matters mentioned in subsection (2) below shall, as respects such liabilities as are required to be covered by a policy under section 145 of this Act, be of no effect.
+
+(2) Those matters are—
+
+(a) the age or physical or mental condition of persons driving the vehicle,
+
+(b) the condition of the vehicle,
+
+(c) the number of persons that the vehicle carries,
+
+(d) the weight or physical characteristics of the goods that the vehicle carries,
+
+(e) the time at which or the areas within which the vehicle is used,
+
+(f) the horsepower or cylinder capacity or value of the vehicle,
+
+(g) the carrying on the vehicle of any particular apparatus, or
+
+(h) the carrying on the vehicle of any particular means of identification other than any means of identification required to be carried by or under [[^F1016]the Vehicle Excise and Registration Act 1994].
+
+(3) Nothing in subsection (1) above requires an insurer [^F1017]... to pay any sum in respect of the liability of any person otherwise than in or towards the discharge of that liability.
+
+(4) Any sum paid by an insurer [^F1018]... in or towards the discharge of any liability of any person which is covered by the policy [^F1019]... by virtue only of subsection (1) above is recoverable by the insurer [^F1020]... from that person.
+
+(5) A condition in a policy [[^F1021]issued] for the purposes of this Part of this Act providing—
+
+(a) that no liability shall arise under the policy [^F1022]... , or
+
+(b) that any liability so arising shall cease,
+
+in the event of some specified thing being done or omitted to be done after the happening of the event giving rise to a claim under the policy [^F1023]... , shall be of no effect in connection with such liabilities as are required to be covered by a policy under section 145 of this Act.
+
+(6) Nothing in subsection (5) above shall be taken to render void any provision in a policy [^F1024]... requiring the person insured [^F1025]... to pay to the insurer [^F1026]... any sums which the latter may have become liable to pay under the policy [^F1024]... and which have been applied to the satisfaction of the claims of third parties.
+
+(7) Notwithstanding anything in any enactment, a person issuing a policy of insurance under section 145 of this Act shall be liable to indemnify the persons or classes of persons specified in the policy in respect of any liability which the policy purports to cover in the case of those persons or classes of persons.
+
+#### 149 Avoidance of certain agreements as to liability towards passengers.
+
+(1) This section applies where a person uses a motor vehicle in circumstances such that under section 143 of this Act there is required to be in force in relation to his use of it such a policy of insurance [^F1027]... as complies with the requirements of this Part of this Act.
+
+(2) If any other person is carried in or upon the vehicle while the user is so using it, any antecedent agreement or understanding between them (whether intended to be legally binding or not) shall be of no effect so far as it purports or might be held—
+
+(a) to negative or restrict any such liability of the user in respect of persons carried in or upon the vehicle as is required by section 145 of this Act to be covered by a policy of insurance, or
+
+(b) to impose any conditions with respect to the enforcement of any such liability of the user.
+
+(3) The fact that a person so carried has willingly accepted as his the risk of negligence on the part of the user shall not be treated as negativing any such liability of the user.
+
+(4) For the purposes of this section—
+
+(a) references to a person being carried in or upon a vehicle include references to a person entering or getting on to, or alighting from, the vehicle, and
+
+(b) the reference to an antecedent agreement is to one made at any time before the liability arose.
+
+#### 150 Insurance [^F1028]... in respect of private use of vehicle to cover use under car-sharing arrangements.
+
+(1) To the extent that a policy [[^F1029]issued] for the purposes of this Part of this Act—
+
+(a) restricts the insurance of the persons insured by the policy [^F1030]... to use of the vehicle for specified purposes (for example, social, domestic and pleasure purposes) of a non-commercial character, or
+
+(b) excludes from that insurance [^F1031]... —
+
+(i) use of the vehicle for hire or reward, or
+
+(ii) business or commercial use of the vehicle, or
+
+(iii) use of the vehicle for specified purposes of a business or commercial character,
+
+then, for the purposes of that policy [^F1032]... so far as it relates to such liabilities as are required to be covered by a policy under section 145 of this Act, the use of a vehicle on a journey in the course of which one or more passengers are carried at separate fares shall, if the conditions specified in subsection (2) below are satisfied, be treated as falling within that restriction or as not falling within that exclusion (as the case may be).
+
+(2) The conditions referred to in subsection (1) above are—
+
+(a) the vehicle is not adapted to carry more than eight passengers and is not a motor cycle,
+
+(b) the fare or aggregate of the fares paid in respect of the journey does not exceed the amount of the running costs of the vehicle for the journey (which for the purposes of this paragraph shall be taken to include an appropriate amount in respect of depreciation and general wear), and
+
+(c) the arrangements for the payment of fares by the passenger or passengers carried at separate fares were made before the journey began.
+
+(3) Subsections (1) and (2) above apply however the restrictions or exclusions described in subsection (1) are framed or worded.
+
+(4) In subsections (1) and (2) above “fare” and “separate fares” have the same meaning as in section 1(4) of the [^M37]Public Passenger Vehicles Act 1981.
+
+#### 151 Duty of insurers [^F1033]... to satisfy judgment against persons insured [^F1034]... .
+
+(1) This section applies where, after [[^F1035]a policy [[^F1036]is issued] for the purposes of this Part of this Act,] a judgment to which this subsection applies is obtained.
+
+(2) Subsection (1) above applies to judgments relating to a liability with respect to any matter where liability with respect to that matter is required to be covered by a policy of insurance under section 145 of this Act and either—
+
+(a) it is a liability covered by the terms of the policy [^F1037]... [^F1038]... , and the judgment is obtained against any person who is insured by the policy [^F1039]... , or
+
+(b) it is a liability, other than an excluded liability, which would be so covered if the policy insured all persons [^F1040]... and the judgment is obtained against any person other than one who is insured by the policy [^F1041]... .
+
+(3) In deciding for the purposes of subsection (2) above whether a liability is or would be covered by the terms of a policy [^F1042]... , so much of the policy [^F1042]... as purports to restrict [^F1043]... the insurance of the persons insured by the policy [^F1044]... by reference to the holding by the driver of the vehicle of a licence authorising him to drive it shall be treated as of no effect.
+
+(4) In subsection (2)(b) above “excluded liability” means a liability in respect of the death of, or bodily injury to, or damage to the property of any person who, at the time of the use which gave rise to the liability, was allowing himself to be carried in or upon the vehicle and knew or had reason to believe that the vehicle had been stolen or unlawfully taken, not being a person who—
+
+(a) did not know and had no reason to believe that the vehicle had been stolen or unlawfully taken until after the commencement of his journey, and
+
+(b) could not reasonably have been expected to have alighted from the vehicle.
+
+In this subsection the reference to a person being carried in or upon a vehicle includes a reference to a person entering or getting on to, or alighting from, the vehicle.
+
+(5) Notwithstanding that the insurer may be entitled to avoid or cancel, or may have avoided or cancelled, the policy [^F1045]... , he must, subject to the provisions of this section, pay to the persons entitled to the benefit of the judgment—
+
+(a) as regards liability in respect of death or bodily injury, any sum payable under the judgment in respect of the liability, together with any sum which, by virtue of any enactment relating to interest on judgments, is payable in respect of interest on that sum,
+
+(b) as regards liability in respect of damage to property, any sum required to be paid under subsection (6) below, and
+
+(c) any amount payable in respect of costs.
+
+(6) This subsection requires—
+
+(a) where the total of any amounts paid, payable or likely to be payable under the policy [^F1046]... in respect of damage to property caused by, or arising out of, the accident in question does not exceed [[^F1047]£1,200,000], the payment of any sum payable under the judgment in respect of the liability, together with any sum which, by virtue of any enactment relating to interest on judgments, is payable in respect of interest on that sum,
+
+(b) where that total exceeds [[^F1047]£1,200,000], the payment of either—
+
+(i) such proportion of any sum payable under the judgment in respect of the liability as [[^F1047]£1,200,000] bears to that total, together with the same proportion of any sum which, by virtue of any enactment relating to interest on judgments, is payable in respect of interest on that sum, or
+
+(ii) the difference between the total of any amounts already paid under the policy [^F1046]... in respect of such damage and [[^F1047]£1,200,000], together with such proportion of any sum which, by virtue of any enactment relating to interest on judgments, is payable in respect of interest on any sum payable under the judgment in respect of the liability as the difference bears to that sum,
+
+whichever is the less, unless not less than [[^F1047]£1,200,000] has already been paid under the policy [^F1046]... in respect of such damage (in which case nothing is payable).
+
+(7) Where an insurer becomes liable under this section to pay an amount in respect of a liability of a person who is insured by a policy [^F1048]... , he is entitled to recover from that person—
+
+(a) that amount, in a case where he became liable to pay it by virtue only of subsection (3) above, or
+
+(b) in a case where that amount exceeds the amount for which he would, apart from the provisions of this section, be liable under the policy [^F1049]... in respect of that liability, the excess.
+
+(8) Where an insurer becomes liable under this section to pay an amount in respect of a liability of a person who is not insured by a policy [^F1050]... , he is entitled to recover the amount from that person or from any person who—
+
+(a) is insured by the policy [^F1051]... by the terms of which the liability would be covered if the policy insured all persons [^F1052]... , and
+
+(b) caused or permitted the use of the vehicle which gave rise to the liability.
+
+(9) In this section—
+
+[^F1053]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F1054]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) “term-liability-covered-by-the-terms-of-the-policy-or-securityliability covered by the terms of the policy [^F1055]...” means a liability which is covered by the policy [^F1055]... or which would be so covered but for the fact that the insurer is entitled to avoid or cancel, or has avoided or cancelled, the policy [^F1055]... .
+
+(10) In the application of this section to Scotland, the words “by virtue of any enactment relating to interest on judgments” in subsections (5) and (6) (in each place where they appear) shall be omitted.
+
+#### 152 Exceptions to section 151.
+
+(1) No sum is payable by an insurer under section 151 of this Act—
+
+(a) in respect of any judgment unless, before or within seven days after the commencement of the proceedings in which the judgment was given, the insurer had notice of the bringing of the proceedings, or
+
+(b) in respect of any judgment so long as execution on the judgment is stayed pending an appeal, or
+
+(c) in connection with any liability if, before the happening of the event which was the cause of the death or bodily injury or damage to property giving rise to the liability, the policy [^F1056]... was cancelled by mutual consent or by virtue of any provision contained in it [^F1057]...
+
+(i) before the happening of that event the certificate was surrendered to the insurer, or [[^F1058](in the case of a certificate delivered otherwise than as described in section 147(1A) above)] the person to whom the certificate was delivered made a statutory declaration stating that the certificate had been lost or destroyed, or
+
+(ii) after the happening of that event, but before the expiration of a period of fourteen days from the taking effect of the cancellation of the policy or security, the certificate was surrendered to the insurer, or [[^F1059](in the case of a certificate delivered otherwise than as described in section 147(1A) above)] the person to whom it was delivered made a statutory declaration stating that the certificate had been lost or destroyed, or
+
+(iii) either before or after the happening of that event, but within that period of fourteen days, the insurer has commenced proceedings under this Act in respect of the failure to surrender the certificate.
+
+(2) [[^F1060]No sum is payable by an insurer under section 151 of this Act in connection with any liability if, before the happening of the event which was the cause of the death or bodily injury or damage to property giving rise to the liability, the insurer has obtained a declaration—]
+
+(a) that, apart from any provision contained in the policy [^F1061]... , he is entitled to avoid [[^F1062]the policy under either of the relevant insurance enactments [^F1063]...] on the ground that it was obtained—
+
+(i) by the non-disclosure of a material fact, or
+
+(ii) by a representation of fact which was false in some material particular, or
+
+(b) if he has avoided the policy [[^F1064] under either of the relevant insurance enactments [^F1065]...] on that ground, that he was entitled so to do apart from any provision contained in [[^F1066]the policy [^F1067]...]
+
+[[^F1068]and, for the purposes of this section, “material” means of such a nature as to influence the judgment of a prudent insurer in determining whether he will take the risk and, if so, at what premium and on what conditions.].
+
+[^F1069]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F1069]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F1070](5) In this section, “relevant insurance enactment” means the Consumer Insurance (Disclosure and Representations) Act 2012 or Part 2 of the Insurance Act 2015.]
+
+#### 153 Bankruptcy, etc., of insured [^F1071]... persons not to affect claims by third parties.
+
+(1) Where, after [[^F1072]a person has effected a policy of insurance [^F1073]... for the purposes of this Part of this Act,] [[^F1074]an event which results in that person being a relevant person for the purposes of the Third Parties (Rights against Insurers) Act 2010] happens, the happening of that event shall, notwithstanding anything in the [[^F1075]that Act], not affect any such liability of that person as is required to be covered by a policy of insurance under section 145 of this Act.
+
+[^F1076]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Nothing in subsection (1) above affects any rights conferred by the [[^F1077]Third Parties (Rights against Insurers) Act 2010] on the person to whom the liability was incurred, being rights so conferred against the person by whom the policy was issued [^F1078]... .
+
+#### 154 Duty to give information as to insurance [^F1079]... where claim made.
+
+(1) A person against whom a claim is made in respect of any such liability as is required to be covered by a policy of insurance under section 145 of this Act must, on demand by or on behalf of the person making the claim—
+
+(a) state whether or not, in respect of that liability—
+
+(i) he was insured by a policy having effect for the purposes of this Part of this Act [^F1080]... , or
+
+[[^F1081](ii) he would have been so insured if the insurer had not avoided or cancelled the policy, and]
+
+(b) if he was or would have been so insured [^F1082]... —
+
+(i) give such particulars with respect to that policy [^F1083]... as were specified in any certificate of insurance [^F1083]... delivered in respect of that policy [^F1084]... under section 147 of this Act, or
+
+(ii) where no such certificate was delivered under that section, give the following particulars, that is to say, the registration mark or other identifying particulars of the vehicle concerned, the number or other identifying particulars of the insurance policy issued in respect of the vehicle, the name of the insurer and the period of the insurance cover.
+
+(2) If without reasonable excuse, a person fails to comply with the provisions of subsection (1) above, or wilfully makes a false statement in reply to any such demand as is referred to in that subsection, he is guilty of an offence.
+
+#### [^F1085]155 Deposits.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 156 Power to require evidence of insurance [^F1086]... on application for vehicle excise licence.
+
+Provision may be made by regulations under [[^F1087]section 57 of the Vehicle Excise and RegistrationAct 1994] for requiring a person applying for a licence under that Act in respect of a motor vehicle to produce such evidence as may be prescribed that either—
+
+(a) on the date when the licence comes into operation there will be in force the necessary policy of insurance [^F1088]... in relation to the use of the vehicle by the applicant or by other persons on his order or with his permission, or
+
+(b) the vehicle is a vehicle to which section 143 of this Act does not apply at a time when it is being driven under the owner’s control.
+
+### [[^F1089][[^F1090]Assimilated] law relating to compulsory insurance
+
+#### 156A [[^F1091]Assimilated] law relating to compulsory insurance
+
+(1) To the extent that Article 3 of the 2009 Motor Insurance Directive (as it had effect at any time) is relevant to any question as to the interpretation or effect of any provision of this Part, references in that Article to liability in respect of the use of vehicles are to be read as not including liability in respect of the use in Great Britain of vehicles—
+
+(a) other than motor vehicles, or
+
+(b) otherwise than on a road or other public place.
+
+(2) Subsection (1) does not apply in relation to any question for the purposes of section 145(3)(aa) or (b) as to the interpretation or effect of the law on compulsory insurance of, or applicable in, a member State or Northern Ireland.
+
+[^F1092]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Accordingly, to the extent that it is inconsistent with subsection (1) [^F1093]..., [[^F1094]assimilated] case law ceases to have effect.
+
+(5) In this section—
+
+- “the 2009 Motor Insurance Directive” means Directive 2009/103/EC of the European Parliament and of the Council of 16 September 2009 relating to insurance against civil liability in respect of the use of motor vehicles, and the enforcement of the obligation to insure against such liability;
+- [^F1095]...
+- “[[^F1096]assimilated] case law” has the same meaning as in the European Union (Withdrawal) Act 2018 (see section 6(7) of that Act);
+- [^F1097]...
+
+(6) Nothing in this section applies in relation to the use of a vehicle before the day on which section 1 of the Motor Vehicles (Compulsory Insurance) Act 2022 comes into force.]
+
+### Payments for treatment of traffic casualties
+
+#### 157 Payment for hospital treatment of traffic casualties.
+
+(1) Subject to subsection (2) below, where—
+
+(a) a payment, other than a payment under section 158 of this Act, is made (whether or not with an admission of liability) in respect of the death of, or bodily injury to, any person arising out of the use of a motor vehicle on a road or in a place to which the public have a right of access, and
+
+[[^F1098](b) the payment is made by an authorised insurer, the payment being made under or in consequence of a policy issued under section 145 of this Act, and]
+
+(c) the person who has so died or been bodily injured has to the knowledge of the insurer or owner, as the case may be, received treatment at a hospital, whether as an in-patient or as an out-patient, in respect of the injury so arising,
+
+the insurer or owner must pay the expenses reasonably incurred by the hospital in affording the treatment, after deducting from the expenses any moneys actually received in payment of a specific charge for the treatment, not being moneys received under any contributory scheme.
+
+(2) The amount to be paid shall not exceed [[^F1099]£2,949.00] for each person treated as an in-patient or [[^F1100]£295.00] for each person treated as an out-patient.
+
+(3) For the purposes of this section “expenses reasonably incurred” means—
+
+(a) in relation to a person who receives treatment at a hospital as an in-patient, an amount for each day he is maintained in the hospital representing the average daily cost, for each in-patient, of the maintenance of the hospital and the staff of the hospital and the maintenance and treatment of the in-patients in the hospital, and
+
+(b) in relation to a person who receives treatment at a hospital as an out-patient, reasonable expenses actually incurred.
+
+#### 158 Payment for emergency treatment of traffic casualties.
+
+(1) Subsection (2) below applies where—
+
+(a) medical or surgical treatment or examination is immediately required as a result of bodily injury (including fatal injury) to a person caused by, or arising out of, the use of a motor vehicle on a road, and
+
+(b) the treatment or examination so required (in this Part of this Act referred to as “emergency treatment”) is effected by a legally qualified medical practitioner.
+
+(2) The person who was using the vehicle at the time of the event out of which the bodily injury arose must, on a claim being made in accordance with the provisions of section 159 of this Act, pay to the practitioner (or, where emergency treatment is effected by more than one practitioner, to the practitioner by whom it is first effected)—
+
+(a) a fee of [[^F1101]£21.30] in respect of each person in whose case the emergency treatment is effected by him, and
+
+(b) a sum, in respect of any distance in excess of two miles which he must cover in order—
+
+(i) to proceed from the place from which he is summoned to the place where the emergency treatment is carried out by him, and
+
+(ii) to return to the first mentioned place,
+
+equal to [[^F1102]41 pence] for every complete mile and additional part of a mile of that distance.
+
+(3) Where emergency treatment is first effected in a hospital, the provisions of subsections (1) and (2) above with respect to payment of a fee shall, so far as applicable, but subject (as regards the recipient of a payment) to the provisions of section 159 of this Act, have effect with the substitution of references to the hospital for references to a legally qualified medical practitioner.
+
+(4) Liability incurred under this section by the person using a vehicle shall, where the event out of which it arose was caused by the wrongful act of another person, be treated for the purposes of any claim to recover damage by reason of that wrongful act as damage sustained by the person using the vehicle.
+
+#### 159 Supplementary provisions as to payments for treatment.
+
+(1) A payment falling to be made under section 157 or 158 of this Act in respect of treatment in a hospital must be made [[^F1103]to the hospital]
+
+(2) A claim for a payment under section 158 of this Act may be made at the time when the emergency treatment is effected, by oral request to the person who was using the vehicle, and if not so made must be made by request in writing served on him within seven days from the day on which the emergency treatment was effected.
+
+(3) Any such request in writing—
+
+(a) must be signed by the claimant or, in the case of a hospital, by an executive officer of [[^F1104]the hospital claiming the payment].
+
+(b) must state the name and address of the claimant, the circumstances in which the emergency treatment was effected, and that it was first effected by the claimant or, in the case of a hospital, in the hospital, and
+
+(c) may be served by delivering it to the person who was using the vehicle or by sending it in a prepaid registered letter, or the recorded delivery service, addressed to him at his usual or last known address.
+
+(4) A payment made under section 158 of this Act shall operate as a discharge, to the extent of the amount paid, of any liability of the person who was using the vehicle, or of any other person, to pay any sum in respect of the expenses or remuneration of the practitioner or hospital concerned of or for effecting the emergency treatment.
+
+(5) A chief officer of police must, if so requested by a person who alleges that he is entitled to claim a payment under section 158 of this Act, provide that person with any information at the disposal of the chief officer—
+
+(a) as to the identification marks of any motor vehicle which that person alleges to be a vehicle out of the use of which the bodily injury arose, and
+
+(b) as to the identity and address of the person who was using the vehicle at the time of the event out of which it arose.
+
+### General
+
+#### [^F1105] 159A [Disclosure of information
+
+(1) Regulations may make provision for and in connection with requiring MIIC to make information available to any prescribed person for the purposes of the exercise of any of that person's functions in connection with the enforcement of an offence under this Part of this Act or under regulations made under section 160 of this Act.
+
+(2) In this section—
+
+- “ MIIC ” means the Motor Insurers' Information Centre (a company limited by guarantee and incorporated under the Companies Act 1985 on 8th December 1998), and
+- “ information ” means information held in any form. ]
+
+#### 160 Regulations.
+
+(1) The Secretary of State may make regulations for any purpose for which regulations may be made under this Part of this Act and for prescribing anything which may be prescribed under this Part of this Act and generally for the purpose of carrying this Part of this Act into effect.
+
+In this Part of this Act “regulations” means regulations under this section and “prescribed” means prescribed by regulations.
+
+(2) In particular, but without prejudice to the generality of subsection (1) above, the regulations may make provision—
+
+(a) as to forms to be used for the purposes of this Part of this Act,
+
+(b) as to applications for and the issue of certificates of insurance [^F1106]... and any other documents which may be prescribed, and as to the keeping of records [^F1107]. . . and the providing of particulars of them or the giving of information with respect to them to the Secretary of State or a chief officer of police,
+
+(c) as to the issue of copies of any such certificates or other documents which are lost or destroyed,
+
+(d) as to the custody, production, cancellation and surrender of any such certificates or other documents, [^F1108]. . .
+
+[[^F1109](da) for or in connection with the transmission or making available of certificates of insurance as described in section 147(1A)(a) or (b) of this Act, and]
+
+(e) for providing that any provisions of this Part of this Act shall, in relation to vehicles brought into Great Britain by persons making only a temporary stay in Great Britain, have effect subject to such modifications and adaptations as may be prescribed.
+
+#### 161 Interpretation.
+
+(1) In this Part of this Act—
+
+- [^F1110][ “ hospital ” means any institution which provides medical or surgical treatment for in-patients, other than—
+
+  - (a) a health service hospital within the meaning of [[^F1111]the National Health Service Act 2006 or the National Health Service (Wales) Act 2006] or the [^M38]National Health Service (Scotland) Act 1978,
+  - (b) [^F1112]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (c) any institution carried on for profit,]
+
+- “policy of insurance” includes a covering note,
+
+- “salvage” means the preservation of a vessel which is wrecked, stranded or in distress, or the lives of persons belonging to, or the cargo or apparel of, such a vessel, and
+
+- “under the owner’s control” means, in relation to a vehicle, that it is being driven by the owner or by a servant of the owner in the course of his employment or is otherwise subject to the control of the owner.
+
+[^F1113]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In this Part of this Act, any reference to an accident includes a reference to two or more causally related accidents.
+
+#### 162 Index to Part VI.
+
+The expressions listed in the left-hand column below are respectively defined or (as the case may be) fall to be construed in accordance with the provisions of this Part of this Act listed in the right-hand column in relation to those expressions.
+
+|  |  |
+|---|---|
+| *Expression* | *Relevant provision* |
+| Accident | Section 161(3) |
+| [[^F1114]Authorised insurer | Section 145(5)] |
+| Certificate of insurance | Sections 147(1) and 161(2) |
+| [^F1115] . . . | [^F1115] . . . |
+| Hospital | Section 161(1) |
+| Policy of insurance | Section 161(1) |
+| Prescribed | Section 160(1) |
+| Regulations | Section 160(1) |
+| Salvage | Section 161(1) |
+| Under the owner’s control | Section 161(1) |
+
+## Part VII — Miscellaneous and General
+
+### [[^F1116]Requirement for approval of persons to assist at tests
+
+#### 162A Approved test assistants
+
+(1) The Secretary of State may make regulations permitting any person wishing to be accompanied at a relevant test by another person (a “test assistant”) to be so accompanied if—
+
+(a) he submits himself for the relevant test in any circumstances in which the Secretary of State considers it appropriate that he should be entitled to be so accompanied, and
+
+(b) the test assistant is approved in accordance with regulations under this section to accompany people at relevant tests in such circumstances in order to assist them in undergoing the relevant tests.
+
+(2) The circumstances in which the Secretary of State considers it appropriate that a person should be entitled to be accompanied by a test assistant at a relevant test may include, for example, circumstances in which he is likely to have difficulty in hearing, understanding or responding to instructions or questions in the course of the relevant test without assistance.
+
+(3) The regulations may make provision in relation to the approval of test assistants and may, in particular, include provision—
+
+(a) in relation to the making of applications for approval,
+
+(b) for the payment in respect of applications for approval, or of approvals, (or both) of fees of such amounts as are prescribed,
+
+(c) in relation to the period for which an approval is to have effect and withdrawing approval,
+
+(d) authorising the imposition of conditions on an approval,
+
+(e) for an appeal to lie to the [[^F1117]First-tier Tribunal] against a refusal of an application for approval, the imposition of conditions on an approval or the withdrawal of approval,
+
+(f) prescribing circumstances in which an approved test assistant may not act as such,
+
+(g) as to the evidencing by persons of their status as approved test assistants, and
+
+(h) authorising the Secretary of State to make available (with or without charge) information about approved test assistants.
+
+(4) The regulations may make different provision in relation to different cases.
+
+(5) The following are relevant tests—
+
+(a) tests of competence to drive a motor vehicle prescribed by virtue of section 89(3) of this Act or section 36(5) of the Road Traffic Offenders Act 1988,
+
+(b) examinations of ability and fitness (or continued ability and fitness) to give driving instruction for which provision is made by virtue of section 132 of this Act, and
+
+(c) emergency control assessments under section 133A of this Act.]
+
+### Powers of constables and other authorised persons
+
+#### 163 Power of police to stop vehicles.
+
+(1) A person driving a [[^F1118]mechanically propelled vehicle] on a road must stop the vehicle on being required to do so by a constable in uniform [[^F1119]or a traffic officer].
+
+(2) A person riding a cycle on a road must stop the cycle on being required to do so by a constable in uniform [[^F1120]or a traffic officer].
+
+(3) If a person fails to comply with this section he is guilty of an offence.
+
+(4) [^F1121]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 164 Power of constables to require production of driving licence and in certain cases statement of date of birth.
+
+(1) Any of the following persons—
+
+(a) a person driving a motor vehicle on a road,
+
+(b) a person whom a constable [[^F1122]or vehicle examiner] has reasonable cause to believe to have been the driver of a motor vehicle at a time when an accident occurred owing to its presence on a road,
+
+(c) a person whom a constable [[^F1122]or vehicle examiner] has reasonable cause to believe to have committed an offence in relation to the use of a motor vehicle on a road, or
+
+(d) a person—
+
+(i) who supervises the holder of a provisional licence while the holder is driving a motor vehicle on a road, or
+
+(ii) whom a constable [[^F1122]or vehicle examiner] has reasonable cause to believe was supervising the holder of a provisional licence while driving, at a time when an accident occurred owing to the presence of the vehicle on a road or at a time when an offence is suspected of having been committed by the holder of the provisional licence in relation to the use of the vehicle on a road,
+
+must, on being so required by a constable [[^F1122]or vehicle examiner], produce his licence [^F1123]... for examination, so as to enable the constable [[^F1122]or vehicle examiner] to ascertain the name and address of the holder of the licence, the date of issue, and the authority by which [[^F1124]it was] issued.
+
+(2) [[^F1125]A person required by a constable under subsection (1) above to produce his licence] must in prescribed circumstances, on being so required by the constable, state his date of birth.
+
+(3) If—
+
+[[^F1126](a) [[^F1127]a person is required to deliver his licence [^F1123]... to the Secretary of State under section 63 of the Crime (International Co-operation) Act 2003 or ] the Secretary of State has—
+
+(i) revoked a licence under section [[^F1128]92,] 93 or 99 of this Act, or
+
+(ii) revoked or suspended a large goods vehicle driver’s licence or a passenger-carrying vehicle driver’s licence under section 115 of this Act, and] [[^F1129]or
+
+(iii) served notice requiring the delivery of a licence to him in pursuance of section 99C [[^F1130], 109B] or 115A of this Act,]
+
+(b) the holder of the licence fails to deliver it [^F1123]... to the Secretary of State [[^F1131]or [[^F1132]a traffic commissioner] , as the case may be] in pursuance of [[^F1133]section [[^F1128] 92,] 93, 99 [[^F1134]99C, [[^F1135], 109B] 115A or 118] [[^F1136]or section 63 of the Crime (International Co-operation) Act 2003] (as the case may be)],
+
+a constable [[^F1137]or vehicle examiner] may require him to [[^F1138]produce the licence [^F1123]...], and upon [[^F1139]its] being produced may seize [[^F1140]it] and deliver [[^F1140]it] to the Secretary of State.
+
+(4) Where a constable has reasonable cause to believe that the holder of a licence, or any other person, has knowingly made a false statement for the purpose of obtaining the grant of the licence, the constable may require the holder of the licence to produce it [^F1123]... to him.
+
+[[^F1141](4A) Where a constable to whom a provisional licence has been produced by a person driving a motor bicycle has reasonable cause to believe that the holder was not driving it as part of the training being provided on a training course for motor cyclists, the constable may require him to produce the prescribed certificate of completion of a training course for motor cyclists.]
+
+(5) Where a person has been required under [[^F1142]paragraph 5 of Schedule 3ZB to the Social Security Administration Act 1992,] [[^F1143]section 26 or 27 of the Road Traffic Offenders Act 1988 [[^F1144], section 40B of the Child Support Act 1991] [[^F1145], section 40 of the Crime (Sentences) Act 1997, [[^F1146]section 168 of the Sentencing Code]] or section 223A or 436A of the Criminal Procedure (Scotland) Act 1975] to produce a licence [^F1123]... to the court and fails to do so, a constable may require him to produce [[^F1147]it] and, upon [[^F1148]its] being produced, may seize [[^F1147]it] and deliver [[^F1147]it] to the court.
+
+[[^F1149](5A) If a person is required to surrender the person’s licence or test certificate to the Secretary of State under—
+
+(a) section 37A of the Road Traffic Offenders Act 1988, or
+
+(b) section 3A of, or paragraph 5A or 8A of Schedule 1 to, the Road Traffic (New Drivers) Act 1995,
+
+and fails to do so, a constable or vehicle examiner may require the person to produce the licence or test certificate and, upon its being produced, may seize it and deliver it to the Secretary of State.
+
+(5B) In subsection (5A), “test certificate” has the same meaning as in Schedule 1 to the Road Traffic (New Drivers) Act 1995.]
+
+(6) If a person required under the preceding provisions of this section to produce a licence [^F1123]... or state his date of birth [[^F1150]or to produce his certificate of completion of a training course for motor cyclists]. . . fails to do so he is, subject to subsections [[^F1151](8) and] [[^F1152](8A)] below, guilty of an offence.
+
+[^F1153]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) In proceedings against any person for the offence of failing to produce a licence [^F1123]... it shall be a defence for him to show that—
+
+(a) within seven days after the production of his licence [^F1123]... was required he produced [[^F1154]it] in person at a police station that was specified by him at the time [[^F1155]its] production was required, or
+
+(b) he produced [[^F1154]it] in person there as soon as was reasonably practicable, or
+
+(c) it was not reasonably practicable for him to produce [[^F1154]it] there before the day on which the proceedings were commenced,
+
+and for the purposes of this subsection the laying of the information or, in Scotland, the service of the complaint on the accused shall be treated as the commencement of the proceedings.
+
+[[^F1156](8A) Subsection (8) above shall apply in relation to a certificate of completion of a training course for motor cyclists as it applies in relation to a licence.]
+
+(9) Where in accordance with this section a person has stated his date of birth to a constable, the Secretary of State may serve on that person a notice in writing requiring him to provide the Secretary of State—
+
+(a) with such evidence in that person’s possession or obtainable by him as the Secretary of State may specify for the purpose of verifying that date, and
+
+(b) if his name differs from his name at the time of his birth, with a statement in writing specifying his name at that time,
+
+and a person who knowingly fails to comply with a notice under this subsection is guilty of an offence.
+
+(10) A notice authorised to be served on any person by subsection (9) above may be served on him[[^F1157]—
+
+(a) if the statement to the constable was made in England and Wales, in accordance with Criminal Procedure Rules, or
+
+(b) if that statement was made elsewhere,]
+
+by delivering it to him or by leaving it at his proper address or by sending it to him by post; and for the purposes of [[^F1158]this paragraph] and section 7 of the Interpretation Act 1978 [^M39] in its application to [[^F1158]this paragraph] the proper address of any person shall be his latest address as known to the person giving the notice.
+
+[[^F1159](10A) For the purposes of subsection (10)(a)—
+
+(a) Criminal Procedure Rules (as they have effect from time to time) apply to the notice as if it were a document to be served in criminal proceedings before a magistrates’ court, and
+
+(b) any magistrates’ court may discharge functions conferred on a court by those Rules in relation to such service.]
+
+[[^F1160](11) In this section—
+
+- “licence” means a licence under Part III of this Act [[^F1161], a Northern Ireland licence] or a Community licence,
+- “vehicle examiner” means an examiner appointed under section 66A of this Act;
+
+and “ Community licence”, [^F1162]... , [[^F1163]“Northern Ireland licence”,] “provisional licence”, “training course for motor cyclists” and, in relation to such a course, “the prescribed certificate of completion” have the same meanings as in Part III of this Act.]
+
+#### 165 Power of constables to obtain names and addresses of drivers and others, and to require production of evidence of insurance [^F1164]... and test certificates.
+
+(1) Any of the following persons—
+
+(a) a person driving a motor vehicle (other than an invalid carriage) on a road, or
+
+(b) a person whom a constable [[^F1165]or vehicle examiner] has reasonable cause to believe to have been the driver of a motor vehicle (other than an invalid carriage) at a time when an accident occurred owing to its presence on a road [[^F1166]or other public place], or
+
+(c) a person whom a constable [[^F1165]or vehicle examiner] has reasonable cause to believe to have committed an offence in relation to the use on a road of a motor vehicle (other than an invalid carriage),
+
+must, on being so required by a constable [[^F1165]or vehicle examiner], give his name and address and the name and address of the owner of the vehicle and produce the following documents for examination.
+
+(2) Those documents are—
+
+(a) the relevant certificate of insurance [^F1167]... (within the meaning of Part VI of this Act), or such other evidence that the vehicle is not or was not being driven in contravention of section 143 of this Act as may be prescribed by regulations made by the Secretary of State,
+
+(b) in relation to a vehicle to which section 47 of this Act applies, a test certificate issued in respect of the vehicle as mentioned in subsection (1) of that section, and
+
+(c) in relation to a goods vehicle the use of which on a road without a plating certificate or goods vehicle test certificate is an offence under section 53(1) or (2) of this Act, any such certificate issued in respect of that vehicle or any trailer drawn by it.
+
+[[^F1168](2A) Subsections (2B) and (2C) below apply where a certificate of insurance is treated as having been delivered to a person under section 147(1) of this Act by virtue of section 147(1A) of this Act.
+
+(2B) In the case of a certificate transmitted to a person as described in section 147(1A)(a) of this Act, the person is to be treated for the purposes of this section as producing the relevant certificate of insurance if—
+
+(a) using electronic equipment provided by him or made available to him by the constable or examiner, he provides the constable or examiner with electronic access to a copy of the certificate, or
+
+(b) he produces a legible printed copy of the certificate.
+
+(2C) In the case of a certificate made available to a person as described in section 147(1A)(b) of this Act, the person is to be treated for the purposes of this section as producing the relevant certificate of insurance if—
+
+(a) using electronic equipment provided by him or made available to him by the constable or examiner, he provides the constable or examiner with electronic access on the website in question to a copy of the certificate, or
+
+(b) he produces a legible printed copy of the certificate.
+
+(2D) Nothing in subsection (2B) or (2C) above requires a constable or examiner to provide a person with electronic equipment for the purpose of compliance with a requirement imposed on the person by this section.]
+
+(3) Subject to subsection (4) below, a person who fails to comply with a requirement under subsection (1) above is guilty of an offence.
+
+(4) A person shall not be convicted of an offence under [[^F1169]subsection (3)] above by reason only of failure to produce any certificate or other evidence [^F1170]. . . if in proceedings against him for the offence he shows that—
+
+(a) within seven days after the date on which the production of the certificate or other evidence was required it was produced at a police station that was specified by him at the time when its production was required, or
+
+(b) it was produced there as soon as was reasonably practicable, or
+
+(c) it was not reasonably practicable for it to be produced there before the day on which the proceedings were commenced,
+
+and for the purposes of this subsection the laying of the information or, in Scotland, the service of the complaint on the accused shall be treated as the commencement of the proceedings.
+
+(5) A person—
+
+(a) who supervises the holder of a provisional licence granted under Part III of this Act while the holder is driving on a road a motor vehicle (other than an invalid carriage), or
+
+(b) whom a constable [[^F1165]or vehicle examiner] has reasonable cause to believe was supervising the holder of such a licence while driving, at a time when an accident occurred owing to the presence of the vehicle on a road or at a time when an offence is suspected of having been committed by the holder of the provisional licence in relation to the use of the vehicle on a road,
+
+must, on being so required by a constable [[^F1165]or vehicle examiner], give his name and address and the name and address of the owner of the vehicle.
+
+(6) A person who fails to comply with a requirement under subsection (5) above is guilty of an offence.
+
+(7) In this section “owner”, in relation to a vehicle which is the subject of a hiring agreement, includes each party to the agreement [[^F1171]and “vehicle examiner” means an examiner appointed under section 66A of this Act.]
+
+#### 165A [[^F1172]Power to seize vehicles driven without licence or insurance
+
+(1) Subsection (5) applies if any of the following conditions is satisfied.
+
+(2) The first condition is that—
+
+(a) a constable in uniform requires, under section 164, a person to produce his licence [^F1173]... for examination,
+
+(b) the person fails to produce them, and
+
+(c) the constable has reasonable grounds for believing that a motor vehicle is or was being driven by the person in contravention of section 87(1).
+
+(3) The second condition is that—
+
+(a) a constable in uniform requires, under section 165, a person to produce evidence that a motor vehicle is not or was not being driven in contravention of section 143,
+
+(b) the person fails to produce such evidence, and
+
+(c) the constable has reasonable grounds for believing that the vehicle is or was being so driven.
+
+(4) The third condition is that—
+
+(a) a constable in uniform requires, under section 163, a person driving a motor vehicle to stop the vehicle,
+
+(b) the person fails to stop the vehicle, or to stop the vehicle long enough, for the constable to make such lawful enquiries as he considers appropriate, and
+
+(c) the constable has reasonable grounds for believing that the vehicle is or was being driven in contravention of section 87(1) or 143.
+
+(5) Where this subsection applies, the constable may—
+
+(a) seize the vehicle in accordance with subsections (6) and (7) and remove it;
+
+(b) enter, for the purpose of exercising a power falling within paragraph (a), any premises (other than a private dwelling house) on which he has reasonable grounds for believing the vehicle to be;
+
+(c) use reasonable force, if necessary, in the exercise of any power conferred by paragraph (a) or (b).
+
+(6) Before seizing the motor vehicle, the constable must warn the person by whom it appears that the vehicle is or was being driven in contravention of section 87(1) or 143 that he will seize it—
+
+(a) in a section 87(1) case, if the person does not produce his licence [^F1174]... immediately;
+
+(b) in a section 143 case, if the person does not provide him immediately with evidence that the vehicle is not or was not being driven in contravention of that section.
+
+But the constable is not required to give such a warning if the circumstances make it impracticable for him to do so.
+
+(7) If the constable is unable to seize the vehicle immediately because the person driving the vehicle has failed to stop as requested or has driven off, he may seize it at any time within the period of 24 hours beginning with the time at which the condition in question is first satisfied.
+
+(8) The powers conferred on a constable by this section are exercisable only at a time when regulations under section 165B are in force.
+
+(9) In this section—
+
+(a) a reference to a motor vehicle does not include an invalid carriage;
+
+(b) a reference to evidence that a motor vehicle is not or was not being driven in contravention of section 143 is a reference to a document or other evidence within section 165(2)(a);
+
+(c) [[^F1175]“licence” has the same meaning] as in section 164;
+
+(d) “private dwelling house” does not include any garage or other structure occupied with the dwelling house, or any land appurtenant to the dwelling house.
+
+#### 165B Retention etc. of vehicles seized under section 165A
+
+(1) The Secretary of State may by regulations make provision as to—
+
+(a) the removal and retention of motor vehicles seized under section 165A; and
+
+(b) the release or disposal of such motor vehicles.
+
+(2) Regulations under subsection (1) may, in particular, make provision—
+
+(a) for the giving of notice of the seizure of a motor vehicle under section 165A to a person who is the registered keeper, the owner or the driver of that vehicle;
+
+(b) for the procedure by which a person who claims to be the registered keeper or the owner of a motor vehicle seized under section 165A may seek to have it released;
+
+(c) for requiring the payment, by the registered keeper, owner or driver of the vehicle, of fees, charges or costs in relation to the removal and retention of such a motor vehicle and to any application for its release;
+
+(d) as to the circumstances in which a motor vehicle seized under section 165A may be disposed of;
+
+(e) as to the destination—
+
+(i) of any fees or charges payable in accordance with the regulations;
+
+(ii) of the proceeds (if any) arising from the disposal of a motor vehicle seized under section 165A;
+
+(f) for the delivery to a local authority, in circumstances prescribed by or determined in accordance with the regulations, of any motor vehicle seized under section 165A.
+
+(3) Regulations under subsection (1) must provide that a person who would otherwise be liable to pay any fee or charge under the regulations is not liable to pay it if—
+
+(a) he was not driving the motor vehicle at the time in question, and
+
+(b) he did not know that the vehicle was being driven at that time, had not consented to its being driven and could not, by the taking of reasonable steps, have prevented it from being driven.
+
+(4) Regulations under subsection (1) may make different provision for different cases.
+
+(5) In this section—
+
+- “local authority”—
+
+  - (a) in relation to England, means—
+  
+    - (i) a county council,
+    - (ii) the council of a district comprised in an area for which there is no county council,
+    - (iii) a London borough council,
+    - (iv) the Common Council of the City of London, or
+    - (v) Transport for London;
+  
+  - (b) in relation to Wales, means the council of a county or county borough; and
+  
+  - (c) in relation to Scotland, means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994;
+
+- “registered keeper”, in relation to a motor vehicle, means the person in whose name the vehicle is registered under the Vehicle Excise and Registration Act 1994.]
+
+#### 166 [[^F1176] Powers of certain officers as respects goods vehicles and passenger-carrying vehicles.
+
+Any of the following officers, namely—
+
+(a) an examiner appointed under section 68 of this Act,
+
+(b) a certifying officer appointed under section 7(1) of the Public Passenger Vehicles Act [^M40]1981,
+
+(c) an examiner appointed under section 7(2) of that Act, and
+
+(d) [[^F1177]A person authorised for the purpose by a traffic commissioner appointed under the Public Passenger Vehicles Act 1981,]
+
+may, on production if so required of his authority, exercise in the case of goods vehicles or passenger-carrying vehicles of any prescribed class all such powers as are, under section [[^F1178]164(1), (3) or (5A)] or 165 of this Act, exercisable by a constable.]
+
+#### [^F1179]167 Power of arrest in Scotland for reckless or careless driving or cycling.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Duty to give name and address
+
+#### 168 Failure to give, or giving false, name and address in case of reckless or careless or inconsiderate driving or cycling.
+
+Any of the following persons—
+
+(a) the driver of a [[^F1180]mechanically propelled vehicle] who is alleged to have committed an offence under section 2 or 3 of this Act, or
+
+(b) the rider of a cycle who is alleged to have committed an offence under section 28 or 29 of this Act,
+
+who refuses, on being so required by any person having reasonable ground for so requiring, to give his name or address, or gives a false name or address, is guilty of an offence.
+
+#### 169 Pedestrian contravening constable’s direction to stop to give name and address.
+
+A constable may require a person committing an offence under section 37 of this Act to give his name and address, and if that person fails to do so he is guilty of an offence.
+
+### Duties in case of accident
+
+#### 170 Duty of driver to stop, report accident and give information or documents.
+
+(1) This section applies in a case where, owing to the presence of a [[^F1181]mechanically propelled vehicle] on a road [[^F1182]or other public place], an accident occurs by which—
+
+(a) personal injury is caused to a person other than the driver of that [[^F1181]mechanically propelled vehicle], or
+
+(b) damage is caused—
+
+(i) to a vehicle other than that [[^F1181]mechanically propelled vehicle] or a trailer drawn by that [[^F1181]mechanically propelled vehicle], or
+
+(ii) to an animal other than an animal in or on that [[^F1181]mechanically propelled vehicle] or a trailer drawn by that [[^F1181]mechanically propelled vehicle], or
+
+(iii) to any other property constructed on, fixed to, growing in or otherwise forming part of the land on which the road [[^F1183]or place] in question is situated or land adjacent to such land.
+
+(2) The driver of the [[^F1181]mechanically propelled vehicle] must stop and, if required to do so by any person having reasonable grounds for so requiring, give his name and address and also the name and address of the owner and the identification marks of the vehicle.
+
+(3) If for any reason the driver of the [[^F1181]mechanically propelled vehicle] does not give his name and address under subsection (2) above, he must report the accident.
+
+(4) A person who fails to comply with subsection (2) or (3) above is guilty of an offence.
+
+(5) If, in a case where this section applies by virtue of subsection (1)(a) above, the driver of [[^F1184]a motor vehicle] does not at the time of the accident produce such a certificate of insurance [^F1185]... or other evidence, as is mentioned in section 165(2)(a) of this Act—
+
+(a) to a constable, or
+
+(b) to some person who, having reasonable grounds for so doing, has required him to produce it,
+
+the driver must report the accident and produce such a certificate or other evidence.
+
+This subsection does not apply to the driver of an invalid carriage.
+
+(6) To comply with a duty under this section to report an accident or to produce such a certificate of insurance [^F1186]... or other evidence, as is mentioned in section 165(2)(a) of this Act, the driver—
+
+(a) must do so at a police station or to a constable, and
+
+(b) must do so as soon as is reasonably practicable and, in any case, within twenty-four hours of the occurrence of the accident.
+
+(7) A person who fails to comply with a duty under subsection (5) above is guilty of an offence, but he shall not be convicted by reason only of a failure to produce a certificate or other evidence if, within [[^F1187]seven] days after the occurrence of the accident, the certificate or other evidence is produced at a police station that was specified by him at the time when the accident was reported.
+
+(8) In this section “animal” means horse, cattle, ass, mule, sheep, pig, goat or dog.
+
+### Other duties to give information or documents
+
+#### 171 Duty of owner of motor vehicle to give information for verifying compliance with requirement of compulsory insurance [^F1188]... .
+
+(1) For the purpose of determining whether a motor vehicle was or was not being driven in contravention of section 143 of this Act on any occasion when the driver was required under section 165(1) or 170 of this Act to produce such a certificate of insurance [^F1189]... or other evidence, as is mentioned in section 165(2)(a) of this Act, the owner of the vehicle must give such information as he may be required, by or on behalf of a chief officer of police, to give.
+
+(2) A person who fails to comply with the requirement of subsection (1) above is guilty of an offence.
+
+(3) In this section “owner”, in relation to a vehicle which is the subject of a hiring agreement, includes each party to the agreement.
+
+#### [[^F1190]172 Duty to give information as to identity of driver etc in certain circumstances.
+
+(1) This section applies—
+
+(a) to any offence under the preceding provisions of this Act except—
+
+(i) an offence under Part V, or
+
+(ii) an offence under section 13, 16, 51(2), 61(4), 67(9), 68(4), 96 or 120,
+
+and to an offence under section 178 of this Act,
+
+(b) to any offence under sections 25, 26 or 27 of the Road Traffic Offenders Act 1988,
+
+(c) to any offence against any other enactment relating to the use of vehicles on roads, [^F1191]. . . and
+
+(d) to manslaughter, or in Scotland culpable homicide, by the driver of a motor vehicle.
+
+(2) Where the driver of a vehicle is alleged to be guilty of an offence to which this section applies—
+
+(a) the person keeping the vehicle shall give such information as to the identity of the driver as he may be required to give by or on behalf of a chief officer of police [[^F1192]or the Chief Constable of the British Transport Police Force], and
+
+(b) any other person shall if required as stated above give any information which it is in his power to give and may lead to identification of the driver.
+
+(3) Subject to the following provisions, a person who fails to comply with a requirement under subsection (2) above shall be guilty of an offence.
+
+(4) A person shall not be guilty of an offence by virtue of paragraph (a) of subsection (2) above if he shows that he did not know and could not with reasonable diligence have ascertained who the driver of the vehicle was.
+
+(5) Where a body corporate is guilty of an offence under this section and the offence is proved to have been committed with the consent or connivance of, or to be attributable to neglect on the part of, a director, manager, secretary or other similar officer of the body corporate, or a person who was purporting to act in any such capacity, he, as well as the body corporate, is guilty of that offence and liable to be proceeded against and punished accordingly.
+
+(6) Where the alleged offender is a body corporate, or in Scotland a partnership or an unincorporated association, or the proceedings are brought against him by virtue of subsection (5) above or subsection (11) below, subsection (4) above shall not apply unless, in addition to the matters there mentioned, the alleged offender shows that no record was kept of the persons who drove the vehicle and that the failure to keep a record was reasonable.
+
+(7) A requirement under subsection (2) may be made by written notice served [[^F1193]in accordance with Criminal Procedure Rules, if the alleged offence took place in England and Wales, or by post otherwise]; and where it is so made—
+
+(a) it shall have effect as a requirement to give the information within the period of 28 days beginning with the day on which the notice is served, and
+
+(b) the person on whom the notice is served shall not be guilty of an offence under this section if he shows either that he gave the information as soon as reasonably practicable after the end of that period or that it has not been reasonably practicable for him to give it.
+
+[[^F1194](7A) For the purposes of subsection (7) (as it applies in relation to an alleged offence in England and Wales)—
+
+(a) Criminal Procedure Rules (as they have effect from time to time) apply to the notice as if it were a document to be served in criminal proceedings before a magistrates’ court, and
+
+(b) any magistrates’ court may discharge functions conferred on a court by those Rules in relation to such service.]
+
+(8) Where the person on whom a notice under subsection (7) above is to be served is a body corporate, the notice is duly served if it is served on the secretary or clerk of that body.
+
+(9) For the purposes of section 7 of the Interpretation Act 1978 as it applies for the purposes of this section the proper address of any person in relation to the service on him of a notice under subsection (7) above is—
+
+(a) in the case of the secretary or clerk of a body corporate, that of the registered or principal office of that body or (if the body corporate is the registered keeper of the vehicle concerned) the registered address, and
+
+(b) in any other case, his last known address at the time of service.
+
+(10) In this section—
+
+- “registered address”, in relation to the registered keeper of a vehicle, means the address recorded in the record kept under [[^F1195] the Vehicles Excise and Registration Act 1994] with respect to that vehicle as being that person’s address, and
+- “registered keeper”, in relation to a vehicle, means the person in whose name the vehicle is registered under that Act;
+
+and references to the driver of a vehicle include references to the rider of a cycle.
+
+(11) Where, in Scotland, an offence under this section is committed by a partnership or by an unincorporated association other than a partnership and is proved to have been committed with the consent or connivance or in consequence of the negligence of a partner in the partnership or, as the case may be, a person concerned in the management or control of the association, he (as well as the partnership or association) shall be guilty of the offence.]
+
+### Forgery, false statements, etc.
+
+#### 173 Forgery of documents, etc.
+
+(1) A person who, with intent to deceive—
+
+(a) forges, alters or uses a document or other thing to which this section applies, or
+
+(b) lends to, or allows to be used by, any other person a document or other thing to which this section applies, or
+
+(c) makes or has in his possession any document or other thing so closely resembling a document or other thing to which this section applies as to be calculated to deceive,
+
+is guilty of an offence.
+
+(2) This section applies to the following documents and other things—
+
+(a) any licence under any Part of this Act [^F1196]...,
+
+[^F1197]aa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) any test certificate, goods vehicle test certificate, plating certificate, certificate of conformity or Minister’s approval certificate (within the meaning of Part II of this Act),
+
+(c) any certificate required as a condition of any exception prescribed under section 14 of this Act,
+
+[^F1198][cc any seal required by regulations made under section 41 of this Act with respect to speed limiters,]
+
+(d) [[^F1199]any plate containing particulars required to be marked on a vehicle by regulations under section 41 of this Act] or containing other particulars required to be marked on a goods vehicle by sections 54 to 58 of this Act or regulations under those sections,
+
+[^F1200][dd any document evidencing the appointment of an examiner under section 66A of this Act,]
+
+(e) any records required to be kept by virtue of section 74 of this Act,
+
+(f) any document which, in pursuance of section 89(3) [^F1201]. . .of this Act, is issued as evidence of the result of a test of competence to drive,
+
+[[^F1202](ff) any document evidencing the successful completion of a driver training course provided in accordance with regulations under section 99ZA of this Act,]
+
+(g) any [[^F1203]certificate under section 133A or any] badge or certificate prescribed by regulations made by virtue of section 135 of this Act,
+
+(h) any certificate of insurance [^F1204]... under Part VI of this Act,
+
+(j) any document produced as evidence of insurance in pursuance of Regulation 6 of the [^M41]Motor Vehicles (Compulsory Insurance) (No. 2) Regulations 1973,
+
+(k) any document issued under regulations made by the Secretary of State in pursuance of his power under section 165(2)(a) of this Act to prescribe evidence which may be produced in lieu of a certificate of insurance [^F1205]... , [^F1206]...
+
+(l) any international road haulage permit. [[^F1207]and
+
+(m) a certificate of the kind referred to in section 34B(1) of the Road Traffic Offenders Act 1988.]
+
+(3) In the application of this section to England and Wales “forges” means makes a false document or other thing in order that it may be used as genuine.
+
+[^F1208]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 174 False statements and withholding material information.
+
+(1) A person who knowingly makes a false statement for the purpose—
+
+(a) of obtaining the grant of a licence under any Part of this Act to himself or any other person, or
+
+(b) of preventing the grant of any such licence, or
+
+(c) of procuring the imposition of a condition or limitation in relation to any such licence, or
+
+[[^F1209](ca) of obtaining a document evidencing the successful completion of a driver training course provided in accordance with regulations under section 99ZA of this Act, or]
+
+(d) of securing the entry or retention of the name of any person in the register of approved instructors maintained under Part V of this Act, or
+
+[[^F1210](dd) of obtaining the grant to any person of a certificate under section 133A of this Act, or]
+
+(e) of obtaining the grant of an international road haulage permit to himself or any other person,
+
+is guilty of an offence.
+
+(2) A person who, in supplying information or producing documents for the purposes either of sections 53 to 60 and 63 of this Act or of regulations made under sections 49 to 51, 61, 62 and 66(3) of this Act—
+
+(a) makes a statement which he knows to be false in a material particular or recklessly makes a statement which is false in a material particular, or
+
+(b) produces, provides, sends or otherwise makes use of a document which he knows to be false in a material particular or recklessly produces, provides, sends or otherwise makes use of a document which is false in a material particular,
+
+is guilty of an offence.
+
+(3) A person who—
+
+(a) knowingly produces false evidence for the purposes of regulations under section 66(1) of this Act, or
+
+(b) knowingly makes a false statement in a declaration required to be made by the regulations,
+
+is guilty of an offence.
+
+(4) A person who—
+
+(a) wilfully makes a false entry in any record required to be made or kept by regulations under section 74 of this Act, or
+
+(b) with intent to deceive, makes use of any such entry which he knows to be false,
+
+is guilty of an offence.
+
+(5) A person who makes a false statement or withholds any material information for the purpose of obtaining the issue—
+
+(a) of a certificate of insurance [^F1211]... under Part VI of this Act, or
+
+(b) of any document issued under regulations made by the Secretary of State in pursuance of his power under section 165(2)(a) of this Act to prescribe evidence which may be produced in lieu of a certificate of insurance [^F1212]... ,
+
+is guilty of an offence.
+
+#### 175 Issue of false documents.
+
+If a person issues—
+
+(a) any such document as is referred to in section 174(5)(a) or (b) of this Act, or
+
+(b) a test certificate or certificate of conformity (within the meaning of Part II of this Act),
+
+and the document or certificate so issued is to his knowledge false in a material particular, he is guilty of an offence.
+
+#### 176 Power to seize articles in respect of which offences under sections 173 to 175 may have been committed.
+
+(1) If a constable has reasonable cause to believe that a document produced to him—
+
+(a) in pursuance of section 137 of this Act, or
+
+(b) in pursuance of any of the preceding provisions of this Part of this Act,
+
+is a document in relation to which an offence has been committed under section 173, 174 or 175 of this Act or under section 115 of the [^M42]Road Traffic Regulation Act 1984, he may seize the document.
+
+[^F1213]1A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) When a document is seized under subsection (1) above, the person from whom it was taken shall, unless—
+
+(a) the document has been previously returned to him, or
+
+(b) he has been previously charged with an offence under any of those sections,
+
+be summoned before a magistrates’ court or, in Scotland, the sheriff to account for his possession of the document.
+
+(3) The court or sheriff must make such order respecting the disposal of the document and award such costs as the justice of the case may require.
+
+[^F1214]3A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) If a constable, [[^F1215]an examiner appointed under section 66A] of this Act has reasonable cause to believe that a document or plate carried on a motor vehicle or by the driver of the vehicle is a document or plate to which this subsection applies, he may seize it.
+
+For the purposes of this subsection the power to seize includes power to detach from a vehicle.
+
+(5) Subsection (4) above applies to a document or plate in relation to which an offence has been committed under sections 173, 174 or 175 of this Act in so far as they apply—
+
+(a) to documents evidencing the appointment of examiners [[^F1216]under s. 66A] of this Act, or
+
+(b) to goods vehicle test certificates, plating certificates, certificates of conformity or Minister’s approval certificates (within the meaning of Part II of this Act), or
+
+(c) to plates containing plated particulars (within the meaning of that Part) or containing other particulars required to be marked on goods vehicles by sections 54 to 58 of this Act or regulations made under them, or
+
+(d) to records required to be kept by virtue of section 74 of this Act, or
+
+(e) to international road haulage permits.
+
+(6) When a document or plate is seized under subsection (4) above, either the driver or owner of the vehicle shall, if the document or plate is still detained and neither of them has previously been charged with an offence in relation to the document or plate under section 173, 174 or 175 of this Act, be summoned before a magistrates’ court or, in Scotland, the sheriff to account for his possession of, or the presence on the vehicle of, the document or plate.
+
+(7) The court or sheriff must make such order respecting the disposal of the document or plate and award such costs as the justice of the case may require.
+
+[^F1217]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [[^F1218]177 Impersonation of authorised examiner, etc.
+
+A person is guilty of an offence if, with intent to deceive, he falsely represents himself—
+
+(a) to be, or to be employed by, a person authorised in accordance with regulations made under section 41 of this Act with respect to the checking and sealing of speed limiters, or
+
+(b) to be a person entitled under section 45 of this Act to carry out examinations of vehicles under that section.]
+
+### Offences in Scotland
+
+#### 178 Taking motor vehicle without authority, etc.
+
+(1) A person who in Scotland—
+
+(a) takes and drives away a motor vehicle without having either the consent of the owner of the vehicle or other lawful authority, or
+
+(b) knowing that a motor vehicle has been so taken, drives it or allows himself to be carried in or on it without such consent or authority,
+
+is, subject to subsection (2) below, guilty of an offence.
+
+(2) If—
+
+(a) the jury, on proceedings under this section on indictment, or
+
+(b) the court, on summary proceedings under this section,
+
+is satisfied that the accused acted in the reasonable belief that he had lawful authority, or in the reasonable belief that the owner would, in the circumstances of the case, have given consent if he had been asked for it, the accused shall not be liable to be convicted of the offence.
+
+[^F1219]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Inquiries
+
+#### 179 General power to hold enquiries.
+
+[^F1220]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 180 General provisions as to inquiries.
+
+(1) Where under any of the provisions of this Act an inquiry is held by the Secretary of State—
+
+(a) notice of the inquiry may be given and published in accordance with such general or special directions as the Secretary of State may give,
+
+(b) the Secretary of State and, if authorised by him, the person appointed to hold the inquiry may by order require any person, subject to the payment or tender of the reasonable expenses of his attendance, to attend as a witness and give evidence or to produce any documents in his possession or power which relate to any matter in question at the inquiry and are such as would be subject to production in a court of law,
+
+(c) the person holding the inquiry shall have power to take evidence on oath and for that purpose to administer oaths, and
+
+(d) the Secretary of State may make such order as to the payment of the costs incurred by him in connection with the inquiry (including such reasonable sum not exceeding £30 a day as he may determine for the services of any officer engaged in the inquiry) by such party to the inquiry as he thinks fit, and may certify the amount of the costs so incurred.
+
+(2) Any amount certified as mentioned in subsection (1)(d) above and directed by the Secretary of State to be paid by any person shall be recoverable from that person—
+
+(a) in England or Wales, by the Secretary of State summarily as a civil debt (without prejudice to any other means of recovering it), or
+
+(b) in Scotland, by the Secretary of State.
+
+(3) A person who fails without reasonable excuse to comply with any of the provisions of an order under subsection (1)(b) above is guilty of an offence.
+
+#### 181 General provisions as to accident inquiries.
+
+(1) Where an accident arises out of the presence of a [[^F1221]mechanically propelled vehicle] on a road, the Secretary of State may direct inquiry to be made into the cause of the accident.
+
+(2) Where any accident arising out of the presence of a [[^F1221]mechanically propelled vehicle] on a road has occurred, a person authorised by the Secretary of State in that behalf may, on production if so required of his authority, inspect any vehicle in connection with which the accident arose, and for that purpose may enter at any reasonable time any premises where the vehicle is.
+
+(3) If a person obstructs a person so authorised in the performance of his duty under subsection (2) above, he is guilty of an offence.
+
+(4) If in any case the Secretary of State considers that an inquiry to be made by him under this section should be made by means of the holding of a public inquiry, he may direct a public inquiry to be held.
+
+(5) A report made by or to the Secretary of State as the result of an inquiry under this section shall not be used in evidence by or on behalf of a person by or against whom any legal proceedings are instituted in consequence of the accident to which the inquiry relates.
+
+#### 182 Special provisions as to accident inquiries in Greater London.
+
+(1) Where, owing to the presence of a vehicle on a road, an accident occurs within Greater London and it appears to the Secretary of State that the sole or a contributory cause of the accident was—
+
+(a) the nature or character of the road or of the road surface, or
+
+(b) a defect in the design or construction of the vehicle or in the materials used in the construction of the road or vehicle,
+
+he may, if he thinks fit, cause an inquiry to be held into the cause of the accident.
+
+(2) In this section “road” includes a highway and a bridge carrying a highway and any lane, mews, footway, square, court, alley or passage whether a thoroughfare or not.
+
+### Application to the Crown
+
+#### 183 Application to the Crown.
+
+(1) Subject to the provisions of this section—
+
+(a) Part I of this Act,
+
+(b) Part II of this Act, except sections 68 to 74 and 77,
+
+(c) Part III of this Act [[^F1222], except section 103(3)],
+
+(d) Part IV of this Act, and
+
+(e) in this Part, sections 163, 164, 168, 169, 170(1) to (4), 177, 178, 181 and 182,
+
+apply to vehicles and persons in the public service of the Crown.
+
+(2) Sections 49 to 63 and [[^F1223]section 65] of this Act apply—
+
+(a) to vehicles in the public service of the Crown only if they are registered or liable to be registered under [[^F1224]the vehicle Excise and Registration Act 1994], and
+
+(b) to trailers in the public service of the Crown only while drawn by vehicles (whether or not in the public service of the Crown) which are required to be so registered.
+
+(3) Where those sections so apply they do so subject to the following modifications—
+
+(a) examinations of such vehicles in pursuance of regulations under section 49 or 61(2)(a) of this Act may be made by or under the directions of examiners authorised by the Secretary of State for the purpose instead of by or under the directions of examiners appointed under section [[^F1225]66A of this Act], [^F1226]. . .
+
+[^F1226]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Neither section 97(3) nor section 98(3) of this Act, in so far as they prevent such a licence as is there mentioned from authorising a person to drive certain [[^F1227]motor bicycles][[^F1228]and mopeds], applies—
+
+(a) in the case of [[^F1227] motor bicycles][[^F1228]and mopeds]owned by the Secretary of State for Defence and used for naval, military or air force purposes, or
+
+(b) in the case of [[^F1227] motor bicycles][[^F1228]and mopeds] so used while being ridden by persons for the time being subject to the orders of a member of the armed forces of the Crown.
+
+(5) Subject to regulations made under subsection (2) of section 101 of this Act, that section (in so far as it prohibits persons under 21 from holding or obtaining a licence to drive motor vehicles or persons under 18 from holding or obtaining a licence to drive medium-sized goods vehicles) does not apply—
+
+(a) in the case of motor vehicles owned by the Secretary of State for Defence and used for naval, military or air force purposes, or
+
+(b) in the case of vehicles so used while being driven by persons for the time being subject to the orders of a member of the armed forces of the Crown.
+
+[[^F1229](6) The functions under Part IV of this Act of traffic commissioners in relation to licences issued to persons [[^F1230]subject to service law (within the meaning of the Armed Forces Act 2006)] to drive large goods vehicles or passenger-carrying vehicles in the public service of the Crown shall be exercised by the prescribed authority]
+
+(7) Section 165 of this Act, in so far as it provides for the production of test certificates and the giving of names and addresses, applies to a person in connection with a vehicle to which section 47 of this Act applies notwithstanding that he or the driver is or was at any material time in the public service of the Crown.
+
+(8) Subsection (1) of section 165 of this Act, in so far as it provides for the production of any certificate mentioned in subsection (2)(c) of that section, applies to a person in connection with a goods vehicle so mentioned notwithstanding that he or the driver is or was at any material time in the public service of the Crown.
+
+#### 184 Application of sections 5 to 10 to persons subject to service discipline.
+
+(1) Sections 5 to 10 of this Act, in their application to [[^F1231]persons subject to service law and civilians subject to service discipline], apply outside as well as within Great Britain and have effect as if—
+
+(a) references to proceedings for an offence under any enactment included references to proceedings for [[^F1232]an offence under section 42 of the Armed Forces Act 2006 as respects which the corresponding offence under the law of England and Wales is that offence],
+
+(b) references to the court included a reference to any [[^F1233]officer] before whom the proceedings take place,
+
+(c) references to a constable included references to a member of the provost staff,
+
+(d) references to a police station included references to a naval, military or air force unit or establishment,
+
+(e) references to a hospital included references to a naval, military or air force unit or establishment at which medical or surgical treatment is provided for [[^F1234]persons subject to service law or civilians subject to service discipline], [^F1235]. . .
+
+(f) [[^F1236]in section 6 a reference to a traffic offence] included a reference to [[^F1237]an offence under section 42 of the Armed Forces Act 2006 as respects which the corresponding offence under the law of England and Wales is a traffic offence within the meaning of section 6].
+
+[[^F1238](g) in section 6E as it applies by virtue of paragraph (c) above, subsection (2) were omitted and the reference in subsection (1) to any place were to—
+
+(i) service living accommodation (as defined by section 96 of the Armed Forces Act 2006), or
+
+(ii) premises occupied as a residence (alone or with other persons) by the person on whom the requirement is to be imposed or the person to be arrested.]
+
+[[^F1239](2) A member of the provost staff may arrest [[^F1240]without warrant a person who is subject to service law or is a civilian subject to service discipline] if he has reasonable cause to suspect that that person is or has been committing an offence under section 4.
+
+(2A) The power conferred by subsection (2) is exercisable outside as well as within Great Britain.]
+
+[[^F1241](3) In this section—
+
+- “civilian subject to service discipline” has the same meaning as in the Armed Forces Act 2006;
+
+- “corresponding offence under the law of England and Wales”, in relation to an offence under section 42 of that Act, has the meaning given by that section;
+
+- “member of the provost staff” means—
+
+  - (a) [[^F1242]a service policeman (within the meaning given by section 375(1) of the Armed Forces Act 2006); or]
+  - (b) a person lawfully exercising authority on behalf of a provost officer (within the meaning of that Act);
+
+- “subject to service law” has the same meaning as in that Act.]
+
+### Interpretation
+
+#### 185 Meaning of “motor vehicle” and other expressions relating to vehicles.
+
+(1) In this Act—
+
+- “heavy locomotive” means a mechanically propelled vehicle which is not constructed itself to carry a load other than any of the excepted articles and the weight of which unladen exceeds 11690 kilograms,
+- “heavy motor car” means a mechanically propelled vehicle, not being a motor car, which is constructed itself to carry a load or passengers and the weight of which unladen exceeds 2540 kilograms,
+- “invalid carriage” means a mechanically propelled vehicle the weight of which unladen does not exceed 254 kilograms and which is specially designed and constructed, and not merely adapted, for the use of a person suffering from some physical defect or disability and is used solely by such a person,
+- “light locomotive” means a mechanically propelled vehicle which is not constructed itself to carry a load other than any of the excepted articles and the weight of which unladen does not exceed 11690 kilograms but does exceed 7370 kilograms,
+- “motor car” means a mechanically propelled vehicle, not being a motor cycle or an invalid carriage, which is constructed itself to carry a load or passengers and the weight of which unladen—
+
+(a) if it is constructed solely for the carriage of passengers and their effects, is adapted to carry not more than seven passengers exclusive of the driver and is fitted with tyres of such type as may be specified in regulations made by the Secretary of State, does not exceed 3050 kilograms,
+
+(b) if it is constructed or adapted for use for the conveyance of goods or burden of any description, does not exceed 3050 kilograms, or 3500 kilograms if the vehicle carries a container or containers for holding for the purposes of its propulsion any fuel which is wholly gaseous at 17.5 degrees Celsius under a pressure of 1.013 bar or plant and materials for producing such fuel,
+
+(c) does not exceed 2540 kilograms in a case not falling within sub-paragraph (a) or (b) above,
+
+- “motor cycle” means a mechanically propelled vehicle, not being an invalid carriage, with less than four wheels and the weight of which unladen does not exceed 410 kilograms,
+- “motor tractor” means a mechanically propelled vehicle which is not constructed itself to carry a load, other than the excepted articles, and the weight of which unladen does not exceed 7370 kilograms,
+- “motor vehicle” means, subject to section 20 of the [^M43]Chronically Sick and Disabled Persons Act 1970 (which makes special provision about invalid carriages, within the meaning of that Act), a mechanically propelled vehicle intended or adapted for use on roads, and
+- “trailer” means a vehicle drawn by a motor vehicle.
+
+(2) In subsection (1) above “excepted articles” means any of the following: water, fuel, accumulators and other equipment used for the purpose of propulsion, loose tools and loose equipment.
+
+#### 186 Supplementary provisions about those expressions.
+
+(1) For the purposes of section 185 of this Act, a side car attached to a motor vehicle, if it complies with such conditions as may be specified in regulations made by the Secretary of State, is to be regarded as forming part of the vehicle to which it is attached and as not being a trailer.
+
+(2) For the purposes of section 185 of this Act, in a case where a motor vehicle is so constructed that a trailer may by partial super-imposition be attached to the vehicle in such a manner as to cause a substantial part of the weight of the trailer to be borne by the vehicle, that vehicle is to be deemed to be a vehicle itself constructed to carry a load.
+
+(3) For the purposes of section 185 of this Act, in the case of a motor vehicle fitted with a crane, dynamo, welding plant or other special appliance or apparatus which is a permanent or essentially permanent fixture, the appliance or apparatus is not to be deemed to constitute a load or goods or burden of any description, but is to be deemed to form part of the vehicle.
+
+(4) The Secretary of State may by regulations vary any of the maximum or minimum weights specified in section 185 of this Act.
+
+(5) Regulations under subsection (4) above may have effect—
+
+(a) either generally or in the case of vehicles of any class specified in the regulations, and
+
+(b) either for the purposes of the provisions of the Road Traffic Acts and of all regulations made under those provisions or for such of those purposes as may be so specified.
+
+(6) Nothing in section 86 of the [^M44]Road Traffic Regulation Act 1984 limits the powers conferred by subsection (4) above.
+
+#### 187 Articulated vehicles.
+
+(1) Unless it falls within subsection (2) below, a vehicle so constructed that it can be divided into two parts both of which are vehicles and one of which is a motor vehicle shall (when not so divided) be treated for the purposes of the enactments mentioned in subsection (3) below as that motor vehicle with the other part attached as a trailer.
+
+(2) A passenger vehicle so constructed that—
+
+(a) it can be divided into two parts, both of which are vehicles and one of which is a motor vehicle, but cannot be so divided without the use of facilities normally available only at a workshop, and
+
+(b) passengers carried by it when not so divided can at all times pass from either part to the other,
+
+shall (when not so divided) be treated for the purposes of the enactments mentioned in subsection (3) below as a single motor vehicle.
+
+(3) The enactments referred to in subsections (1) and (2) above are the [^M45]Road Traffic Act 1960, Parts I and II of the [^M46]Public Passenger Vehicles Act 1981, and the Traffic Acts.
+
+(4) In this section “passenger vehicle” means a vehicle constructed or adapted for use solely or principally for the carriage of passengers.
+
+#### 188 Hover vehicles.
+
+(1) For the purposes of the Road Traffic Acts, a hovercraft within the meaning of the [^M47]Hovercraft Act 1968 (in this section referred to as a hover vehicle)—
+
+(a) is a motor vehicle, whether or not it is intended or adapted for use on roads, but
+
+(b) apart from that is to be treated, subject to subsection (2) below, as not being a vehicle of any of the classes defined in section 185 of this Act.
+
+(2) The Secretary of State may by regulations provide—
+
+(a) that any provisions of this Act which would otherwise apply to hover vehicles shall not apply to them or shall apply to them subject to such modifications as may be specified in the regulations, or
+
+(b) that any such provision which would not otherwise apply to hover vehicles shall apply to them subject to such modifications (if any) as may be specified in the regulations.
+
+#### 189 Certain vehicles not to be treated as motor vehicles.
+
+(1) For the purposes of the Road Traffic Acts—
+
+(a) a mechanically propelled vehicle being an implement for cutting grass which is controlled by a pedestrian and is not capable of being used or adapted for any other purpose,
+
+(b) any other mechanically propelled vehicle controlled by a pedestrian which may be specified by regulations made by the Secretary of State for the purposes of this section and section 140 of the [^M48]Road Traffic Regulation Act 1984, and
+
+(c) an electrically assisted pedal cycle of such a class as may be prescribed by regulations so made,
+
+is to be treated as not being a motor vehicle.
+
+(2) In subsection (1) above “controlled by a pedestrian” means that the vehicle either—
+
+(a) is constructed or adapted for use only under such control, or
+
+(b) is constructed or adapted for use either under such control or under the control of a person carried on it, but is not for the time being in use under, or proceeding under, the control of a person carried on it.
+
+#### 190 Method of calculating weight of motor vehicles and trailers.
+
+(1) This section applies for the purposes of the Traffic Acts and of any other enactments relating to the use of motor vehicles or trailers on roads.
+
+(2) The weight unladen of a vehicle or trailer shall be taken to be the weight of the vehicle or trailer—
+
+(a) inclusive of the body and all parts (the heavier being taken where alternative bodies or parts are used) which are necessary to or ordinarily used with the vehicle or trailer when working on a road, but
+
+(b) exclusive of the weight of water, fuel or accumulators used for the purpose of the supply of power for the propulsion of the vehicle or, as the case may be, of any vehicle by which the trailer is drawn, and of loose tools and loose equipment.
+
+#### 191 Interpretation of statutory references to carriages.
+
+A motor vehicle or trailer—
+
+(a) is to be deemed to be a carriage within the meaning of any Act of Parliament, whether a public general Act or a local Act, and of any rule, regulation or byelaw made under any Act of Parliament, and
+
+(b) if used as a carriage of any particular class shall for the purpose of any enactment relating to carriages of any particular class be deemed to be a carriage of that class.
+
+#### 192 General interpretation of Act.
+
+(1) In this Act—
+
+- “bridleway” means a way over which the public have the following, but no other, rights of way: a right of way on foot and a right of way on horseback or leading a horse, with or without a right to drive animals of any description along the way,
+
+- “carriage of goods” includes the haulage of goods,
+
+- “cycle” means a bicycle, a tricycle, or a cycle having four or more wheels, not being in any case a motor vehicle,
+
+- “driver”, where a separate person acts as a steersman of a motor vehicle, includes (except for the purposes of section 1 of this Act) that person as well as any other person engaged in the driving of the vehicle, and “drive” is to be interpreted accordingly,
+
+- “footpath”, in relation to England and Wales, means a way over which the public have a right of way on foot only,
+
+- “goods” includes goods or burden of any description,
+
+- “goods vehicle” means a motor vehicle constructed or adapted for use for the carriage of goods, or a trailer so constructed or adapted,
+
+- [^F1243][“highway authority”, in England and Wales, means—
+
+  - (a) in relation to a road for which he is the highway authority within the meaning of the Highways Act 1980, the Secretary of State, and
+  - (b) in relation to any other road, the council of the county, metropolitan district or London borough, or the Common Council of the City of London, as the case may be;]
+
+- “international road haulage permit” means a licence, permit, authorisation or other document issued in pursuance of [[^F356]an EU] instrument relating to the carriage of goods by road between member States or an international agreement to which the United Kingdom is a party and which relates to the international carriage of goods by road,
+
+- “owner”, in relation to a vehicle which is the subject of a hiring agreement or hire-purchase agreement, means the person in possession of the vehicle under that agreement,
+
+- [^F1244]. . .
+
+- “prescribed” [[^F1245](except in section 5A)] means prescribed by regulations made by the Secretary of State,
+
+- “road”
+
+  - (a) [^F1246] , in relation to England and Wales, means any highway and any other road to which the public has access, and includes bridges over which a road passes, [[^F1247]and
+  - (b) in relation to Scotland, means any road within the meaning of the Roads (Scotland) Act 1984 and any other way to which the public has access, and includes bridges over which a road passes,]
+
+- “the Road Traffic Acts” means the [^M49]Road Traffic Offenders Act 1988, the [^M50]Road Traffic (Consequential Provisions) Act 1988 (so far as it reproduces the effect of provisions repealed by that Act) and this Act,
+
+- “statutory”, in relation to any prohibition, restriction, requirement or provision, means contained in, or having effect under, any enactment (including any enactment contained in this Act),
+
+- “the Traffic Acts” means the Road Traffic Acts and the [^M51]Road Traffic Regulation Act 1984,
+
+- “traffic sign” has the meaning given by section 64(1) of the Road Traffic Regulation Act 1984,
+
+- “tramcar” includes any carriage used on any road by virtue of an order under the [^M52]Light Railways Act 1896, and
+
+- “trolley vehicle” means a mechanically propelled vehicle adapted for use on roads without rails [[^F1248]under] power transmitted to it from some external source [[^F1249](whether or not there is in addition a source of power on board the vehicle)].
+
+[[^F1250](1A) In this Act—
+
+(a) any reference to a county shall be construed in relation to Wales as including a reference to a county borough; and
+
+(b) section 17(4) and (5) of the Local Government (Wales) Act 1994 (references to counties and districts to be construed generally in relation to Wales as references to counties and county boroughs) shall not apply.]
+
+(2) In this Act—
+
+- “carriageway”
+- “footway”
+- “local roads authority”
+- “public road”
+- [^F1251]. . .
+- “roads authority”
+- “special road” and
+- “trunk road”,
+
+in relation to Scotland, have the same meanings as in the [^M53]Roads (Scotland) Act 1984, and “footpath”, in relation to Scotland, means a way over which the public have a right of way on foot only (whether or not associated with a carriageway).
+
+(3) References in this Act to a class of vehicles are to be interpreted as references to a class defined or described by reference to any characteristics of the vehicles or to any other circumstances whatsoever [[^F1252]and accordingly as authorising the use of “category” to indicate a class of vehicles, however defined or described].
+
+#### [[^F1253]192A Tramcars and other guided vehicles: drink and drugs.
+
+(1) Sections 4 to 11 of this Act shall not apply (to the extent that apart from this subsection they would) to vehicles on any transport system to which Chapter I of Part II of the Transport and Works Act 1992 (offences involving drink or drugs on railways, tramways and certain other guided transport systems) applies.
+
+(2) Subject to subsection (1) above, the Secretary of State may by regulations provide that sections 4 to 11 of this Act shall apply to vehicles on a system of guided transport specified in the regulations with such modifications as he considers necessary or expedient.
+
+(3) Regulations under subsection (2) above may make different provision for different cases.
+
+(4) In this section—
+
+- “guided transport” means transport by vehicles guided by means external to the vehicles (whether or not the vehicles are also capable of being operated in some other way), and
+- “vehicle” includes mobile traction unit.]
+
+#### [^F1254]193 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [[^F1255]193A Tramcars and trolley vehicles.
+
+(1) The Secretary of State may by regulations provide that such of the provisions mentioned in subsection (2) below as are specified in the regulations shall not apply, or shall apply with modifications—
+
+(a) to all tramcars or to tramcars of any specified class, or
+
+(b) to all trolley vehicles or to trolley vehicles of any specified class.
+
+(2) The provisions referred to in subsection (1) above are the provisions of—
+
+(a) sections 12, 40A to 42, 47, 48, 66, 68 to 73, 75 to 79, 83, 87 to 109, 143 to 165, 168, 170, 171, 178, 190 and 191 of this Act, and
+
+(b) sections 1, 2, 7, 8, 22, 25 to 29, 31, [^F1256]... 34 to 48 [[^F1257]91ZA][[^F1258], 91A], 96 and 97 of the Road Traffic Offenders Act 1988 (provisions requiring warning of prosecution etc and provisions connected with the licensing of drivers).
+
+(3) Regulations under this section—
+
+(a) may make different provision for different cases,
+
+(b) may include such transitional provisions as appear to the Secretary of State to be necessary or expedient, and
+
+(c) may make such amendments to any special Act as appear to the Secretary of State to be necessary or expedient in consequence of the regulations or in consequence of the application to any tramcars or trolley vehicles of any of the provisions mentioned in subsection (2) above.
+
+[[^F1259](3A) Sections 12A to 12I do not apply to tramcars or to trolley vehicles.]
+
+(4) In this section “special Act” means a local Act of Parliament passed before the commencement of this section which authorises or regulates the use of tramcars or trolley vehicles.]
+
+#### 194 General index.
+
+The expressions listed in the left-hand column below are respectively defined or (as the case may be) fall to be construed in accordance with the provisions of this Act listed in the right-hand column in relation to those expressions.
+
+|  |  |
+|---|---|
+| *Expression* | *Relevant provision* |
+| Bridleway | Section 192 |
+| Carriage of goods | Section 192 |
+| Carriageway | Section 192 |
+| Cycle | Section 192 |
+| Drive | Section 192 |
+| Driver | Section 192 |
+| Footpath | Section 192 |
+| Footway | Section 192 |
+| Goods | Section 192 |
+| Goods vehicle | Section 192 |
+| Goods vehicle test certificate | Section 49(2)(b) |
+| Heavy locomotive | Section 185 |
+| Heavy motor car | Section 185 |
+| Highway authority | Section 192 |
+| International road haulage permit | Section 192 |
+| Invalid carriage | Section 185 |
+| Light locomotive | Section 185 |
+| Local roads authority | Section 192 |
+| Motor car | Section 185 |
+| Motor cycle | Section 185 |
+| Motor tractor | Section 185 |
+| Motor vehicle | Sections 185, 186(1), 187, 188, 189 |
+| Owner | Section 192 |
+| Plating certificate | Section 49(2)(a) |
+| Prescribed | Section 192 |
+| Public road | Section 192 |
+| Road | Section 192 |
+| Roads authority | Section 192 |
+| Road Traffic Acts | Section 192 |
+| Special road | Section 192 |
+| Statutory | Section 192 |
+| Test certificate | Section 45(2) |
+| Traffic Acts | Section 192 |
+| Traffic sign | Section 192 |
+| Trailer | Section 185 |
+| Tramcar | Section 192 |
+| Trolley vehicle | Section 192 |
+| Trunk road | Section 192 |
+| Unladen weight | Section 190 |
+
+### Supplementary
+
+#### 195 Provisions as to regulations.
+
+(1) Any power conferred by this Act upon the Secretary of State to make regulations shall be exercisable by statutory instrument.
+
+(2) Before making any regulations under this Act (other than regulations under section 88(3) or Part V) the Secretary of State must consult with such representative organisations as he thinks fit.
+
+[[^F1260](2A) Before making any regulations under this Act the Scottish Ministers must consult with such representative organisations as they think fit.]
+
+(3) A statutory instrument whereby any power conferred by this Act upon the Secretary of State to make regulations is exercised (other than the power conferred by sections [[^F1261]5A,] [^F1262]... 11(2), 14, 15 (where exercisable for the purposes of subsection (3) [[^F1263]or 3(A)] of that section) or 189) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) The Secretary of State must not make any regulations under section [[^F1264]5A,] [^F1265]... 11(2), 14 or (where made for the purposes of subsection (3) [[^F1263]or (3A)] of that section) 15 of this Act unless a draft of the regulations has been approved by both Houses of Parliament.
+
+[[^F1266](4ZA) Regulations made by the Scottish Ministers under section 20(5), 36(5) or 41(1) are subject to the negative procedure.]
+
+[[^F1267](4A) Regulations made by the Scottish Ministers under section [[^F1264]5A,] [^F1268]... 11(2) are subject to the affirmative procedure.]
+
+(5) Regulations under section 189 of this Act shall not have effect unless approved by resolution of each House of Parliament.
+
+[[^F1269](6) This section does not apply in relation to regulations under section 12B(6), 12D(3)(c) or 12E(4) (provision as to which is made by section 12F) or regulations under section 12G or 12H(3), (4), (7) or (8) (provision as to which is made by section 12I).]
+
+[[^F1270](7) Regulations prescribing training for the purposes of section 2A(1A)(b) or 3ZA(2A)(b) may make different provision for different persons or areas.]
+
+#### 196 Provision, etc., of weighbridges.
+
+(1) A highway authority may—
+
+(a) provide, erect, maintain and operate, or join with another highway authority in providing, erecting, maintaining and operating, weighbridges or other machines for weighing vehicles, or
+
+(b) contribute towards the cost of the provision, erection, maintenance and operation of any such weighbridge or other machine by any other authority or person.
+
+(2) The Secretary of State may exercise the powers conferred by subsection (1) above whether or not in his capacity as highway authority, but may provide, erect, maintain and operate any such machine on a road for which he is not the highway authority only with the consent of the highway authority.
+
+(3) Accordingly the presence of any such machine on a road in consequence of the exercise of those powers by virtue of subsection (2) above (as in any other case) shall not be taken to be an obstruction of the road.
+
+(4) The provision or erection, or the making of a contribution towards the provision or erection, of any such weighbridge or other machine shall be a purpose for which the highway authority may borrow.
+
+(5) In relation to Scotland, references in this section to a highway authority are to be read as references to a roads authority.
+
+#### 197 Short title, commencement and extent.
+
+(1) This Act may be cited as the Road Traffic Act 1988.
+
+(2) This Act shall come into force, subject to the transitory provisions in Schedule 5 to the [^M54]Road Traffic (Consequential Provisions) Act 1988, at the end of the period of six months beginning with the day on which it is passed.
+
+(3) This Act, except section 80 and except as provided by section 184, does not extend to Northern Ireland.
+
+## SCHEDULE 1 — Supplementary Provisions in Connection with Proceedings for Offences under Sections [[^F1271]15A,] 17 and 18(4)
+
+*Sections [[^F1271]15A,]17 and 18.*
+
+### Proceedings in England and Wales
+
+**1** (1) A person against whom proceedings are brought in England and Wales for an offence under section [[^F1272]15A,] 17 or 18(4) of this Act is, upon information duly laid by him and on giving the prosecution not less than three clear days’ notice of his intention, entitled to have any person to whose act or default he alleges that the contravention of that section was due brought before the court in the proceedings.
+
+(2) If, after the contravention has been proved, the original accused proves that the contravention was due to the act or default of that other person—
+
+(a) that other person may be convicted of the offence, and
+
+(b) if the original accused further proves that he has used all due diligence to secure that section [[^F1272]15A,]17 or, as the case may be, 18(4) was complied with, he shall be acquitted of the offence.
+
+(3) Where an accused seeks to avail himself of the provisions of sub-paragraphs (1) and (2) above—
+
+(a) the prosecution, as well as the person whom the accused charges with the offence, has the right to cross-examine him, if he gives evidence, and any witness called by him in support of his pleas, and to call rebutting evidence, and
+
+(b) the court may make such order as it thinks fit for the payment of costs by any party to the proceedings to any other party to the proceedings.
+
+**2** (1) Where—
+
+(a) it appears that an offence under section [[^F1273]15A,]17 or 18(4) of this Act has been committed in respect of which proceedings might be taken in England and Wales against some person (referred to below in this paragraph as “the original offender”), and
+
+(b) a person proposing to take proceedings in respect of the offence is reasonably satisfied—
+
+(i) that the offence of which complaint is made was due to an act or default of some other person, being an act or default which took place in England and Wales, and
+
+(ii) that the original offender could establish a defence under paragraph 1 of this Schedule,
+
+the proceedings may be taken against that other person without proceedings first being taken against the original offender.
+
+(2) In any such proceedings the accused may be charged with, and on proof that the contravention was due to his act or default be convicted of, the offence with which the original offender might have been charged.
+
+**3** (1) Where proceedings are brought in England and Wales against a person (referred to below in this paragraph as “the accused”) in respect of a contravention of section [[^F1274]15A,]17 or 18(4) of this Act and it is proved—
+
+(a) that the contravention was due to the act or default of some other person, being an act or default which took place in Scotland, and
+
+(b) that the accused used all due diligence to secure compliance with that section,
+
+the accused shall, subject to the provisions of this paragraph, be acquitted of the offence.
+
+(2) The accused is not entitled to be acquitted under this paragraph unless within seven days from the date of the service of the summons on him—
+
+(a) he has given notice in writing to the prosecution of his intention to rely upon the provisions of this paragraph, specifying the name and address of the person to whose act or default he alleges that the contravention was due, and
+
+(b) he has sent a like notice to that person.
+
+(3) The person specified in a notice served under this paragraph is entitled to appear at the hearing and to give evidence and the court may, if it thinks fit, adjourn the hearing to enable him to do so.
+
+(4) Where it is proved that the contravention of section [[^F1274]15A,]17 or 18(4) of this Act was due to the act or default of some person other than the accused, being an act or default which took place in Scotland, the court must (whether or not the accused is acquitted) cause notice of the proceedings to be sent to the Secretary of State.
+
+### Proceedings in Scotland
+
+**4** (1) Where a contravention of section [[^F1275]15A,] 17 or 18(4) of this Act committed by a person in Scotland (referred to in this sub-paragraph as “the original offender”) was due to the act or default of any other person, being an act or default which took place in Scotland then, whether or not proceedings are taken against the original offender, that other person may be charged with and convicted of the contravention and shall be liable on conviction to the same punishment as might have been inflicted on the original offender if he had been convicted of the contravention.
+
+(2) Where a person (referred to in this sub-paragraph as “the accused") who is charged in Scotland with a contravention of section [[^F1275]15A,] 17 or 18(4) of this Act proves to the satisfaction of the court—
+
+(a) that he used all due diligence to secure that the provision in question was complied with, and
+
+(b) that the contravention was due to the act or default of some other person,
+
+the accused shall be acquitted of the contravention.
+
+### Proceedings in Great Britain
+
+**5** [^F1276][1A Subject to the provisions of this paragraph, in any proceedings (whether in England and Wales or Scotland) for an offence under section 15A of this Act it shall be a defence for the accused to prove—
+
+(a) if the offence is under subsection (3)(a) of that section—
+
+(i) that he purchased the equipment in question as being of a type which could be lawfully sold or offered for sale as conducive to the safety in the event of accident of prescribed classes of children in prescribed classes of motor vehicles and with a written warranty to that effect;
+
+(ii) that he had no reason to believe at the time of the commission of the alleged offence that it was not of such a type; and
+
+(iii) that it was then in the same state as when he purchased it;
+
+(b) if the offence is under subsection (3)(b) of that section, he provided information in relation to the equipment and it is alleged that it did not include appropriate information or included or consisted of inappropriate information—
+
+(i) that the information provided by him was information which had been provided to him with a written warranty to the effect that it was the information required to be provided by him under section 15A of this Act; and
+
+(ii) that he had no reason to believe at the time of the commission of the alleged offence that the information provided by him was not the information required to be provided under that section; or
+
+(c) if the offence is under subsection (3)(b) of that section, he provided information in relation to the equipment and it is alleged that it was not provided in the manner required under that section—
+
+(i) that the information provided by him had been provided to him either with a written warranty to the effect that it was provided to him in the manner in which it was required to be provided by him under that section or with instructions as to the manner in which the information should be provided by him and with a written warranty to the effect that provision in that manner would comply with regulations under that section;
+
+(ii) that he had no reason to believe at the time of the commission of the alleged offence that he was not providing the information in the manner required under that section; and
+
+(iii) that the information was then in the same state as when it was provided to him or, as the case may be, that it was provided by him in accordance with the instructions given to him.]
+
+(1) Subject to the provisions of this paragraph, in any proceedings (whether in England and Wales or Scotland) for an offence under section 17 or 18(4) of this Act it shall be a defence for the accused to prove—
+
+(a) that he purchased the helmet or appliance in question as being of a type which—
+
+(i) in the case of section 17, could be lawfully sold or offered for sale under that section, and
+
+(ii) in the case of section 18(4), could be lawfully sold or offered for sale under section 18 as authorised for use in the manner in question,
+
+and with a written warranty to that effect, and
+
+(b) that he had no reason to believe at the time of the commission of the alleged offence that it was not of such a type, and
+
+(c) that it was then in the same state as when he purchased it.
+
+(2) A warranty is only a defence in any such proceedings if—
+
+(a) the accused—
+
+(i) has, not later than three clear days before the date of the hearing, sent to the prosecutor a copy of the warranty with a notice stating that he intends to rely on it and specifying the name and address of the person from whom he received it, and
+
+(ii) has also sent a like notice of his intention to that person, and
+
+(b) in the case of a warranty given by a person outside the United Kingdom, the accused proves that he had taken reasonable steps to ascertain, and did in fact believe in, the accuracy of the statement contained in the warranty.
+
+(3) Where the accused is a servant of the person who purchased the [[^F1277]equipment, helmet or appliance in question under a warranty, or to whom the information in question was provided] under a warranty, he is entitled to rely on the provisions of this paragraph in the same way as his employer would have been entitled to do if he had been the accused.
+
+(4) The person by whom the warranty is alleged to have been given is entitled to appear at the hearing and to give evidence and the court may, if it thinks fit, adjourn the hearing to enable him to do so.
+
+**[^F1278][6** (1) An accused who in any proceedings for an offence under section 15A, 17 or 18(4) of this Act wilfully applies to equipment, information, a helmet or, as the case may be, an appliance a warranty not given in relation to it is guilty of an offence.
+
+(2) A person who, in respect of equipment, a helmet or an appliance sold by him, or information provided by him, being equipment, a helmet, an appliance or information in respect of which a warranty might be pleaded under paragraph 5 of this Schedule, gives to the purchaser a false warranty in writing, is guilty of an offence, unless he proves that when he gave the warranty he had reason to believe that the statements or description contained in it were accurate.
+
+(3) Where the accused in a prosecution for an offence under section 15A, 17 or 18(4) of this Act relies successfully on a warranty given to him or his employer, any proceedings under sub-paragraph (2) above in respect of the warranty may, at the option of the prosecutor, be taken before a court having jurisdiction in the place—
+
+(a) where the equipment, helmet or appliance, or any of the equipment, helmets or appliances, to which the warranty relates was procured;
+
+(b) where the information, or any of it, to which the warranty relates was provided; or
+
+(c) where the warranty was given.]
+
+**[^F1279]7** In this Schedule, “equipment” means equipment to which section 15A of this Act applies and “appliance” means an appliance to which section 18 of this Act applies.
+
+## SCHEDULE 2 — Deferred Tests of Condition of Vehicles
+
+*Section 67.*
+
+**1** Where the driver is the owner of the vehicle, he may at the time of electing that the test shall be deferred—
+
+(a) specify a period of seven days within which the deferred test is to take place, being a period falling within the next thirty days, disregarding any day on which the vehicle is outside Great Britain, and
+
+(b) require that the deferred test shall take place on premises then specified by him where the test can conveniently be carried out or that it shall take place in such area in England [^F1280]. . ., being a county district or Greater London [[^F1281]in such county or county borough in Wales], or such area in Scotland, being [[^F1282]the area of a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994] , as he may specify at that time.
+
+**2** When the driver is not the owner of the vehicle he shall inform the examiner of the name and address of the owner of the vehicle and the owner shall be afforded an opportunity of specifying such a period, and such premises or area.
+
+**3** (1) Where under the preceding provisions of this Schedule a period has been specified within which the deferred test is to be carried out, the time for carrying it out shall be such time within that period as may be notified, being a time not earlier than two days after the giving of the notification.
+
+(2) Where no such period has been specified, the time for the carrying out of the deferred test shall be such time as may be notified, being a time not earlier than seven days after the giving of the notification.
+
+(3) Where premises have been specified under the preceding provisions of this Schedule for the carrying out of the deferred test, and the test can conveniently be carried out on those premises, it must be carried out there.
+
+(4) Where sub-paragraph (3) above does not apply, the place for carrying out the deferred test shall be such place as may be notified with the notification of the time for the carrying out of the test, and where an area has been so specified the place shall be a place in that area.
+
+(5) Notwithstanding the preceding provisions of this paragraph, the time and place for the carrying out of the deferred test may be varied by agreement between an authorised examiner and the owner of the vehicle.
+
+(6) In this paragraph—
+
+- “notified” means notified in writing to the owner of the vehicle on behalf of the Secretary of State, and
+- “notification” shall be construed accordingly,
+
+and any notification under this paragraph may be given by post.
+
+**4** The owner of the vehicle must produce it, or secure its production, at the time and place fixed for the carrying out of the deferred test.
+
+**5** (1) References in this Schedule to the owner of a vehicle are references to the owner of the vehicle at the time at which the election is made under section 67(6) of this Act that the test should be deferred.
+
+(2) For the purposes of this Schedule—
+
+(a) subject to sub-paragraph (b) below, if at the time at which that election is made the vehicle is in the possession of a person under a hire-purchase agreement or hiring agreement, that person shall be deemed to be the owner of the vehicle to the exclusion of any other person,
+
+(b) if at that time the vehicle is being used under an international circulation permit, the person to whom the permit was issued shall be deemed to be the owner of the vehicle to the exclusion of any other person.
+
+## [^F1283][SCHEDULE 2A — Offence of keeping vehicle which does not meet insurance requirements: immobilisation, removal and disposal of vehicles
+
+*Section 144D*
+
+### Immobilisation
+
+**[^F1283]1** (1) Regulations may make provision with respect to any case where an authorised person has reason to believe that, on or after such date as may be prescribed, an offence under section 144A of this Act is being committed as regards a vehicle which is stationary on a road or other public place.
+
+(2) The regulations may provide that the authorised person or a person acting under his direction may—
+
+(a) fix an immobilisation device to the vehicle while it remains in the place where it is stationary, or
+
+(b) move it from that place to another place on the same or another road or public place and fix an immobilisation device to it in that other place.
+
+(3) The regulations may provide that on any occasion when an immobilisation device is fixed to a vehicle in accordance with the regulations the person fixing the device must also fix to the vehicle a notice—
+
+(a) indicating that the device has been fixed to the vehicle and warning that no attempt should be made to drive it or otherwise put it in motion until it has been released from the device,
+
+(b) specifying the steps to be taken to secure its release, and
+
+(c) giving such other information as may be prescribed.
+
+(4) The regulations may provide that a vehicle to which an immobilisation device has been fixed in accordance with the regulations—
+
+(a) may only be released from the device by or under the direction of an authorised person, but
+
+(b) subject to that, must be released from the device if the first and second requirements specified below are met.
+
+(5) The first requirement is that such charge in respect of the release as may be prescribed is paid in any manner specified in the immobilisation notice.
+
+(6) The second requirement is that, in accordance with instructions specified in the immobilisation notice, there is produced such evidence as may be prescribed establishing—
+
+(a) that any person who proposes to drive the vehicle away will not in doing so be guilty of an offence under section 143 of this Act, and
+
+(b) that the person in whose name the vehicle is registered under the Vehicle Excise and Registration Act 1994 is not guilty of an offence under section 144A of this Act as regards the vehicle.
+
+(7) The regulations may provide that they do not apply in relation to a vehicle if—
+
+(a) a current disabled person's badge is displayed on the vehicle, or
+
+(b) such other conditions as may be prescribed are fulfilled,
+
+and “ disabled person's badge ” means a badge issued, or having effect as if issued, under any regulations for the time being in force under section 21 of the Chronically Sick and Disabled Persons Act 1970.
+
+(8) The regulations may provide that an immobilisation notice is not to be removed or interfered with except by or on the authority of a person falling within a prescribed description.
+
+### Offences connected with immobilisation
+
+**[^F1283]2** (1) The regulations may provide that a person contravening provision made under paragraph 1(8) above is guilty of an offence.
+
+(2) The regulations may provide that a person who, without being authorised to do so in accordance with provision made under paragraph 1 above, removes or attempts to remove an immobilisation device fixed to a vehicle in accordance with the regulations is guilty of an offence.
+
+(3) The regulations may provide that where they would apply in relation to a vehicle but for provision made under paragraph 1(7)(a) above and the vehicle was not, at the time it was stationary, being used—
+
+(a) in accordance with regulations under section 21 of the Chronically Sick and Disabled Persons Act 1970, and
+
+(b) in circumstances falling within section 117(1)(b) of the Road Traffic Regulation Act 1984 (use where a disabled person's concession would be available),
+
+the person in charge of the vehicle at that time is guilty of an offence.
+
+(4) The regulations may provide that where—
+
+(a) a person makes a declaration with a view to securing the release of a vehicle from an immobilisation device purported to have been fixed in accordance with the regulations,
+
+(b) the declaration is that no offence under section 144A of this Act is or was being committed as regards the vehicle, and
+
+(c) the declaration is to the person's knowledge either false or in any material respect misleading,
+
+he is guilty of an offence.
+
+### Removal and disposal of vehicles
+
+**[^F1283]3** (1) The regulations may make provision with respect to any case where—
+
+(a) an authorised person has reason to believe that an offence under section 144A of this Act is being committed as regards a vehicle which is stationary on a road or other public place, and such conditions as may be prescribed are fulfilled, or
+
+(b) an authorised person has reason to believe that such an offence was being committed as regards a vehicle at a time when an immobilisation device which is fixed to the vehicle was fixed to it in accordance with the regulations, and such conditions as may be prescribed are fulfilled.
+
+(2) The regulations may provide that the authorised person, or a person acting under his direction, may remove the vehicle and deliver it into the custody of a person—
+
+(a) who is identified in accordance with prescribed rules, and
+
+(b) who agrees to accept delivery in accordance with arrangements agreed between that person and the Secretary of State,
+
+and the arrangements may include provision as to the payment of a sum to the person into whose custody the vehicle is delivered.
+
+(3) The regulations may provide that the person into whose custody the vehicle is delivered may dispose of it, and may in particular make provision as to—
+
+(a) the time at which the vehicle may be disposed of, and
+
+(b) the manner in which it may be disposed of.
+
+(4) The regulations may make provision allowing a person to take possession of the vehicle if—
+
+(a) he claims it before it is disposed of, and
+
+(b) any prescribed conditions are fulfilled.
+
+(5) The regulations may provide for a sum of an amount arrived at under prescribed rules to be paid to a person if—
+
+(a) he claims after the vehicle's disposal to be or to have been its owner,
+
+(b) the claim is made within a prescribed time of the disposal, and
+
+(c) any other prescribed conditions are fulfilled.
+
+(6) The regulations may provide that—
+
+(a) the Secretary of State, or
+
+(b) a person into whose custody the vehicle is delivered under the regulations,
+
+may recover from the vehicle's owner (whether or not a claim is made under provision made under sub-paragraph (4) or (5) above) such charges as may be prescribed in respect of all or any of the following, namely its release, removal, custody and disposal; and “ owner ” means the person who was the owner when the vehicle was removed.
+
+(7) The conditions prescribed under sub-paragraph (4) above may include conditions as to—
+
+(a) satisfying the person with custody that the claimant is the vehicle's owner,
+
+(b) the payment of prescribed charges in respect of the vehicle's release, removal and custody,
+
+(c) the production of such evidence as may be prescribed establishing that in driving the vehicle away the claimant will not be guilty of an offence under section 143 of this Act, and
+
+(d) the production of such evidence as may be prescribed establishing that the person in whose name the vehicle is registered under the Vehicle Excise and Registration Act 1994 is not guilty of an offence under section 144A of this Act as regards the vehicle.
+
+(8) The regulations may in particular include provision for purposes corresponding to those of sections 101 and 102 of the Road Traffic Regulation Act 1984 (disposal and charges) subject to such additions, omissions or other modifications as the Secretary of State thinks fit.
+
+### Offences as to securing possession of vehicles
+
+**[^F1283]4** The regulations may provide that where—
+
+(a) a person makes a declaration with a view to securing possession of a vehicle purported to have been delivered into the custody of a person in accordance with provision made under paragraph 3 above,
+
+(b) the declaration is that no offence under section 144A of this Act is or was being committed as regards the vehicle, and
+
+(c) the declaration is to the person's knowledge either false or in any material respect misleading,
+
+he is guilty of an offence.
+
+### Disputes
+
+**[^F1283]5** The regulations may make provision about the proceedings to be followed where a dispute occurs as a result of the regulations, and may in particular make provision—
+
+(a) for an application to be made to a magistrates' court or (in Scotland) to the sheriff, or
+
+(b) for a court to order a sum to be paid by the Secretary of State.
+
+### Authorised persons
+
+**[^F1283]6** As regards anything falling to be done under the regulations (such as receiving payment of a charge or other sum) the regulations may provide that it may be done—
+
+(a) by an authorised person, or
+
+(b) by an authorised person or a person acting under his direction.
+
+### Application of Road Traffic Offenders Act 1988
+
+**[^F1283]7** The regulations may make provision for the application of any or all of sections 1, 6, 11 and 12(1) of the Road Traffic Offenders Act 1988 to an offence for which provision is made by the regulations.
+
+### Interpretation
+
+**[^F1283]8** (1) The regulations may make provision as to the meaning for the purposes of the regulations of “owner” as regards a vehicle.
+
+(2) In particular, the regulations may provide that for the purposes of the regulations the owner of a vehicle is taken to be the person in whose name it is then registered under the Vehicle Excise and Registration Act 1994.
+
+**[^F1283]9** (1) The regulations may make provision as to the meaning in the regulations of “authorised person”.
+
+(2) In particular, the regulations may provide that—
+
+(a) references to an authorised person are to a person authorised by the Secretary of State for the purposes of the regulations,
+
+(b) an authorised person may be a local authority or an employee of a local authority or a member of a police force or some other person, and
+
+(c) different persons may be authorised for the purposes of different provisions of the regulations.
+
+**[^F1283]10** In this Schedule—
+
+(a) references to an immobilisation device are to a device or appliance which is an immobilisation device for the purposes of section 104 of the Road Traffic Regulation Act 1984 (immobilisation of vehicles illegally parked), and
+
+(b) references to an immobilisation notice are to a notice fixed to a vehicle in accordance with the regulations.]
+
+## [[^F1284]SCHEDULE 2A — Form of seat belt symbol for buses
+
+*Section 15B]*
+
+![image](http://www.legislation.gov.uk/ukpga/1988/52/images/ukpga_19880052_en_sld_001)
+
+## [^F1285]SCHEDULE 3
+
+**[^F1285]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1285]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1285]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1285]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1285]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F1286]SCHEDULE 4
+
+**[^F1287]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1288]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1289]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1290]3A** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1291]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1292]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1293]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1294]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1295]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1296]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1297]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F1298]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+---
+
+[^F1]: Ss. 1-2A substituted (1.7.1992) for ss. 1-2 by Road Traffic Act 1991 (c. 40, SIF 107:1), s.1; S.I. 1992/1286, art. 2,Sch.
+[^F2]: S. 1A inserted (3.12.2012) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), ss. 143(2), 151(1) (with s. 143(4)); S.I. 2012/2770, art. 2(b)
+[^F3]: Ss. 1- 2A substituted (1.7.1992) for ss. 1-2 by Road Traffic Act 1991 (c. 40, SIF 107:1), s.1; S.I. 1992/1286, art. 2,Sch.
+[^F4]: Ss. 1-2A substituted (1.7.1992) for ss. 1-2 by Road Traffic Act 1991 (c. 40, SIF 107:1), s.1; S.I. 1992/1286, art. 2,Sch.
+[^F5]: Word in s. 2A(1)(2) inserted (3.12.2012) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), ss. 143(3), 151(1); S.I. 2012/2770, art. 2(b)
+[^F6]: Words in s. 2A(1) inserted (26.10.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 5(2), 208(1) (with s. 5(5)); S.I. 2022/1075, reg. 3(a)
+[^F7]: S. 2A(1A)-(1F) inserted (26.10.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 5(3), 208(1) (with s. 5(5)); S.I. 2022/1075, reg. 3(a)
+[^F8]: Word in s. 2A(3) inserted (26.10.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 5(4)(a), 208(1) (with s. 5(5)); S.I. 2022/1075, reg. 3(a)
+[^F9]: Words in s. 2A(3) inserted (26.10.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 5(4)(b), 208(1) (with s. 6(5)); S.I. 2022/1075, reg. 3(a)
+[^F10]: S. 2B inserted (18.8.2008) by Road Safety Act 2006 (c. 49), ss. 20(1), 61(1) (with s. 61(4)(5)); S.I. 2008/1918, art. 2
+[^F11]: S. 2C inserted (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 87(1), 208(5)(i)
+[^F12]: S. 3 substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 2; S.I. 1992/1286, art. 2,Sch.
+[^F13]: S. 3ZA inserted (24.9.2007 for certain purposes and otherwise 18.8.2008) by Road Safety Act 2006 (c. 49), ss. 30, 61; S.I. 2007/2472, art. 2(h); S.I. 2008/1918, art. 2
+[^F14]: Word in s. 3ZA(1) inserted (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 87(2), 208(5)(i)
+[^F15]: Words in s. 3ZA(2) inserted (26.10.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 6(2), 208(1) (with s. 6(5)); S.I. 2022/1075, reg. 3(b)
+[^F16]: S. 3ZA(2A)-(2F) inserted (26.10.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 6(3), 208(1) (with s. 6(5)); S.I. 2022/1075, reg. 3(b)
+[^F17]: Words in s. 3ZA(3) inserted (26.10.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 6(4)(a), 208(1) (with s. 6(5)); S.I. 2022/1075, reg. 3(b)
+[^F18]: Words in s. 3ZA(3) inserted (26.10.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 6(4)(b), 208(1) (with s. 6(5)); S.I. 2022/1075, reg. 3(b)
+[^F19]: S. 3ZB inserted (18.8.2008) by Road Safety Act 2006 (c. 49), ss. 21(1), 61(1) (with s. 61(4)(5)); S.I. 2008/1918, art. 2
+[^F20]: Word in s. 3ZB heading omitted (13.4.2015) by virtue of Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 6 para. 1(3) (with s. 29(5)); S.I. 2015/778, art. 3, Sch. 1 para. 75
+[^F21]: S. 3ZB(b) omitted (13.4.2015) by virtue of Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 6 para. 1(2) (with s. 29(5)); S.I. 2015/778, art. 3, Sch. 1 para. 75
+[^F22]: Words in s. 3ZB(c) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 2 (with reg. 5)
+[^F23]: Ss. 3ZC-3ZD inserted (13.4.2015) by Criminal Justice and Courts Act 2015 (c. 2), ss. 29(1), 95(1) (with s. 29(3)(5)); S.I. 2015/778, art. 3, Sch. 1 para. 24
+[^F24]: S. 3A inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s.3; S.I. 1992/1286, art. 2, Sch.
+[^F25]: S. 3A(1)(ba) inserted (2.3.2015 for E.W., 1.3.2018 for S., 1.3.2018 for N.I.) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 22 para. 2(2); S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2; S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2
+[^F26]: S. 3A(1)(d) and preceding word inserted (24.9.2007) by Road Safety Act 2006 (c. 49), ss. 31(2), 61; S.I. 2007/2472, art. 2(i)
+[^F27]: Word in s. 3A(3) inserted (2.3.2015 for E.W., 1.3.2018 for S., 1.3.2018 for N.I.) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 22 para. 2(3); S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2; S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2
+[^F28]: Words in s. 3A(3) substituted (24.9.2007) by Road Safety Act 2006 (c. 49), ss. 31(3), 61; S.I. 2007/2472, art. 2(i)
+[^F29]: Words in s. 4(1)(2)(3) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 4; S.I. 1992/1286, art. 2, Sch.
+[^F30]: S. 4(6)(7) repealed (E.W.) (1.1.2006) and s. 4(8) repealed (1.1.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 111, 174(2), 178, Sch. 7 para. 27(2)(4), Sch. 17 Pt. 2; S.I. 2005/3495, art. 2(1)(m)(u) (subject to art. 2(2))
+[^F31]: S. 5A inserted (2.3.2015 for E.W., 1.3.2018 in so far as not already in force) by Crime and Courts Act 2013 (c. 22), ss. 56(1), 61(2); S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2; S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2
+[^F32]: Ss. 6-6E substituted (29.3.2004 for certain purposes and 30.3.2004 otherwise) for s. 6 by Railways and Transport Safety Act 2003 (c. 20), ss. 107, 120, Sch. 7 para. 1; S.I. 2004/827, art. 2, 3
+[^F33]: Ss. 6-6E substituted (29.3.2004 for certain purposes and 30.3.2004 otherwise) for s. 6 by Railways and Transport Safety Act 2003 (c. 20), ss. 107, 120, Sch. 7 para. 1; S.I. 2004/827, arts. 2, 3
+[^F34]: Words in s. 6C(1)(b) substituted (2.3.2015 for E.W., 1.3.2018 in so far as not already in force) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 22 para. 3(2) (with Sch. 22 para. 8); S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2; S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2
+[^F35]: S. 6C(3) inserted (2.3.2015 for E.W., 1.3.2018 in so far as not already in force) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 22 para. 3(3) (with Sch. 22 para. 8); S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2; S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2
+[^F36]: Words in s. 6D(1) substituted (2.3.2015 for E.W., 1.3.2018 in so far as not already in force) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 22 para. 4 (with Sch. 22 para. 8); S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2; S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2
+[^F37]: S. 6D(1A) inserted (1.7.2005) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 154(2), 178; S.I. 2005/1521, art. 3(1) (subject to art. 3(4)(5))
+[^F38]: S. 6D(2A) inserted (1.7.2005) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 154(3), 178; S.I. 2005/1521, art. 3(1) (subject to art. 3(4)(5))
+[^F39]: S. 6D(2A) substituted (S.) (25.1.2018) by Criminal Justice (Scotland) Act 2016 (asp 1), s. 117(2), sch. 2 para. 36; S.S.I. 2017/345, art. 3, sch. (with art. 4)
+[^F40]: Words in S. 7(1) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 42(a); S.I. 1992/1286, art. 2, Sch.
+[^F41]: S. 7(1A) inserted (2.3.2015 for E.W., 1.3.2018 in so far as not already in force) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 22 para. 5(2) (with Sch. 22 para. 8); S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2; S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2
+[^F42]: S. 7(2A)(2B) omitted (10.4.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 3(3); S.I. 2015/994, art. 4
+[^F43]: S. 7(2CA) inserted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 3(4); S.I. 2015/994, art. 4
+[^F44]: Words in s. 7(3)(b) inserted (1.7.2005) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 154(6)(a), 178; S.I. 2005/1521, art. 3(1) (subject to art. 3(4)(5))
+[^F45]: S. 7(3)(bb) inserted (4.7.1996 but with effect (1.4.1997) as mentioned in s. 63(3)(4)) by 1996 c. 25, s. 63(1) (with s. 78(1)); S.I. 1997/682, art. 2(1)(b)
+[^F46]: Words in s. 7(3)(bb) substituted (1.7.2005) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 154(6)(b), 178; S.I. 2005/1521, art. 3(1) (subject to art. 3(4)(5))
+[^F47]: S. 7(3)(bc) inserted (30.3.2004) by Railways and Transport Safety Act 2003 (c. 20), ss. 107, 120, Sch. 7 para. 2; S.I. 2004/827, art. 3
+[^F48]: Words in s. 7(3)(c) substituted (2.3.2015 for E.W., 1.3.2018 in so far as not already in force) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 22 para. 5(3) (with Sch. 22 para. 8); S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2; S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2
+[^F49]: Words in s. 7(3)(c) inserted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 5; S.I. 2015/994, art. 4
+[^F50]: Words in s. 7(4) substituted (1.4.2003) by Police Reform Act 2002 (c. 30), ss. 55(1), 108(2); S.I. 2003/808, art. 2(e)
+[^F51]: S. 7(4A) inserted (1.4.2003) by Police Reform Act 2002 (c. 30), ss. 55(2), 108(2); S.I. 2003/808, art. 2(e)
+[^F52]: S. 7(5A) inserted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 3(5); S.I. 2015/994, art. 4
+[^F53]: S. 7A inserted (1.10.2002) by 2002 c. 30, s. 56(1); S.I. 2002/2306, art. 2(d)(v)
+[^F54]: Words in s. 7A(1) substituted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 8(2); S.I. 2015/994, art. 4
+[^F55]: Words in s. 7A(2)(a) substituted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 8(2); S.I. 2015/994, art. 4
+[^F56]: Words in s. 7A(2)(b) substituted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 8(3); S.I. 2015/994, art. 4
+[^F57]: Words in s. 7A(2)(b)(i) substituted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 8(4); S.I. 2015/994, art. 4
+[^F58]: Word in s. 7A(2)(b)(ii) omitted (10.4.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 8(5); S.I. 2015/994, art. 4
+[^F59]: Words in s. 7A(3) substituted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 8(6); S.I. 2015/994, art. 4
+[^F60]: S. 7A(7) substituted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 8(7); S.I. 2015/994, art. 4
+[^F61]: S. 8 heading substituted (10.4.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 1(3)(a); S.I. 2015/994, art. 4
+[^F62]: Words in s. 8(1) omitted (10.4.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 1(3)(b); S.I. 2015/994, art. 4
+[^F63]: S. 8(2) omitted (10.4.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 1(1); S.I. 2015/994, art. 4
+[^F64]: S. 8(2A) omitted (10.4.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 1(1); S.I. 2015/994, art. 4
+[^F65]: S. 8(3) omitted (10.4.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 1(1); S.I. 2015/994, art. 4
+[^F66]: S. 8(4) omitted (10.4.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 1(1); S.I. 2015/994, art. 4
+[^F67]: Words in s. 9(1) substituted (30.3.2004) by Railways and Transport Safety Act 2003 (c. 20), ss. 107, 120, Sch. 7 para. 3(a); S.I. 2004/827, art. 3
+[^F68]: Words in s. 9(1) substituted (1.7.2005) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 154(8), 178; S.I. 2005/1521, art. 3(1) (subject to art. 3(4)(5))
+[^F69]: Words in s. 9(1)(a) substituted (30.3.2004) by Railways and Transport Safety Act 2003 (c. 20), ss. 107, 120, Sch. 7 para. 3(b); S.I. 2004/827, art. 3
+[^F70]: S. 9(1A)(2) substituted for s. 9(2) (1.10.2002) by 2002 c. 30, s. 56(2); S.I. 2002/2306, art. 2(d)(v)
+[^F71]: Words in s. 10(1) inserted (30.3.2004) by Railways and Transport Safety Act 2003 (c. 20), ss. 107, 120, Sch. 7 para. 4; S.I. 2004/827, art. 3
+[^F72]: Words in s. 10(1) substituted (1.7.2005) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 154(10)(a), 178; S.I. 2005/1521, art. 3(1) (subject to art. 3(4)(5))
+[^F73]: Words in s. 10(1)(2) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 43; S.I. 1992/1286, art. 2,Sch.
+[^F74]: Words in s. 10(1) substituted (1.7.2005) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 154(10)(b), 178; S.I. 2005/1521, art. 3(1) (subject to art. 3(4)(5))
+[^F75]: Words in s. 10(1) substituted (2.3.2015 for E.W., 1.3.2018 in so far as not already in force) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 22 para. 6(2) (with Sch. 22 para. 8); S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2; S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2
+[^F76]: Words in s. 10(2) substituted (1.7.2005) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 154(11), 178; S.I. 2005/1521, art. 3(1) (subject to art. 3(4)(5))
+[^F77]: Words in s. 10(2) substituted (2.3.2015 for E.W., 1.3.2018 in so far as not already in force) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 22 para. 6(3) (with Sch. 22 para. 8); S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2; S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2
+[^F78]: S. 10(2A) inserted (1.7.2005) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 154(12), 178; S.I. 2005/1521, art. 3(1) (subject to art. 3(4)(5))
+[^F79]: Words "3A" in s. 11(1) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 44; S.I. 1992/1286, art. 2, Sch.
+[^F80]: In s. 11(2) definition of "breath test" repealed (30.3.2004) by Railways and Transport Safety Act 2003, (c. 20), ss. 107, 118, 120, Sch. 7 para. 5(a), {Sch. 8}; S.I. 2004/827, art. 3
+[^F81]: Words in s. 11(2) inserted (2.3.2015 for E.W., 1.3.2018 in so far as not already in force) by Crime and Courts Act 2013 (c. 22), ss. 56(2)(a), 61(2); S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2; S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2
+[^F82]: Words in s. 11(2) omitted (3.7.2012) by virtue of Scotland Act 2012 (c. 11), ss. 20(6), 44(5); S.I. 2012/1710, art. 2(j)
+[^F83]: In s. 11(2) definition of "registered health care professional" inserted (1.10.2002 for certain purposes and 1.4.2003 otherwise) by Police Reform Act 2002 (c. 30), ss. 55(3), 108(2); S.I. 2002/2306, art. 4(d); S.I. 2003/808, art. 2(e)
+[^F84]: Words in s. 11(2) inserted (2.3.2015 for E.W., 1.3.2018 for S.N.I.) by Crime and Courts Act 2013 (c. 22), ss. 56(2)(b), 61(2); S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2; S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2
+[^F85]: S. 11(2ZA) inserted (3.7.2012) by Scotland Act 2012 (c. 11), ss. 20(7), 44(5); S.I. 2012/1710, art. 2(j)
+[^F86]: S. 11(2A)(2B) inserted (1.10.2002 for certain purposes and 1.4.2003 otherwise) by Police Reform Act 2002 (c. 30), ss. 55(4), 108(2); S.I. 2002/2306, art. 4(d); S.I. 2003/808, art. 2(e)
+[^F87]: Words in s. 11(3) substituted (30.3.2004) by Railways and Transport Safety Act 2003 (c. 30), ss. 107, 120, Sch. 7 para. 5(b); S.I. 2004/827, art. 3
+[^F88]: S. 11(4) substituted (1.4.2003) by Police Reform Act 2002 (c. 30), ss. 55(5), 108(2); S.I. 2003/808, art. 2(e)
+[^F89]: Words in s. 11(4) omitted (10.4.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 9; S.I. 2015/994, art. 4
+[^F90]: S. 12 cross-heading substituted (10.3.2017) by Deregulation Act 2015 (c. 20), ss. 75(2), 115(7); S.I. 2017/273, art. 2(c)
+[^F91]: S. 12(1A) inserted (10.3.2017) by Deregulation Act 2015 (c. 20), ss. 73(2), 115(7); S.I. 2017/273, art. 2(a)
+[^F92]: Word in s. 12(2) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 45; S.I. 1992/1286, art. 2,Sch.
+[^F93]: Ss. 12A-12I inserted (10.3.2017) by Deregulation Act 2015 (c. 20), ss. 73(3), 115(7); S.I. 2017/273, art. 2(a)
+[^F94]: Words in s. 12E(3) Table inserted (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), s. 208(5)(i), Sch. 8 para. 1(2)(a)
+[^F95]: Word in s. 12E(3) Table omitted (28.6.2022) by virtue of Police, Crime, Sentencing and Courts Act 2022 (c. 32), s. 208(5)(i), Sch. 8 para. 1(2)(b)
+[^F96]: Words in s. 12E(3) Table inserted (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), s. 208(5)(i), Sch. 8 para. 1(2)(c)
+[^F97]: Words in s. 12E(3) Table omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 3 (with reg. 5)
+[^F98]: Word in s. 12H(3) inserted (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), s. 208(5)(i), Sch. 8 para. 1(3)
+[^F99]: Words in s. 12H(5)(c) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 4 (with reg. 5)
+[^F100]: S. 13 cross-heading inserted (10.3.2017) by Deregulation Act 2015 (c. 20), ss. 75(3), 115(7); S.I. 2017/273, art. 2(c)
+[^F101]: Word in s. 13(4) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 46; S.I. 1992/1286, art. 2,Sch.
+[^F102]: S. 13A inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s.5; S.I. 1992/1286, art. 2,Sch.
+[^F103]: Word in s. 13A(1) inserted (3.12.2012) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 27 para. 1; S.I. 2012/2770, art. 2(g)
+[^F104]: Word in s. 13A(1) inserted (26.5.2015) by Deregulation Act 2015 (c. 20), s. 115(3)(o), Sch. 10 para. 24
+[^F105]: Word in s. 13A(1) inserted (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), s. 208(5)(i), Sch. 8 para. 1(4)
+[^F106]: S. 14(2)(aa) omitted (31.12.2020) by virtue of The Motor Vehicles (Wearing of Seat Belts) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/512), regs. 1(1), 2(2)(a)(i); 2020 c. 1, Sch. 5 para. 1(1)
+[^F107]: S. 14(2)(b)(i) substituted (1.3.2005) by Railways and Transport Safety Act 2003 (c. 20), ss. 110, 120; S.I. 2004/2759, art. 2(2)
+[^F108]: S. 14(2)(bb) inserted (2.2.1993) by S.I. 1992/3105, reg. 2(2)(b).
+[^F109]: Word in s. 14(2)(bb) substituted (31.12.2020) by The Motor Vehicles (Wearing of Seat Belts) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/512), regs. 1(1), 2(2)(a)(ii)(aa); 2020 c. 1, Sch. 5 para. 1(1)
+[^F110]: Words in s. 14(2)(bb) omitted (31.12.2020) by virtue of The Motor Vehicles (Wearing of Seat Belts) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/512), regs. 1(1), 2(2)(a)(ii)(bb); 2020 c. 1, Sch. 5 para. 1(1)
+[^F111]: Words in s. 14(4) inserted (2.2.1993) by S.I. 1992/3105, reg. 2(3).
+[^F112]: S. 14(7) omitted (31.12.2020) by virtue of The Motor Vehicles (Wearing of Seat Belts) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/512), regs. 1(1), 2(2)(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F113]: S. 15(1A) inserted (18.9.2006) by The Motor Vehicles (Wearing of Seat Belts) (Amendment) Regulations 2006 (S.I. 2006/1892), reg. 3(1)
+[^F114]: Words in s. 15(2) inserted (18.9.2006) by The Motor Vehicles (Wearing of Seat Belts) (Amendment) Regulations 2006 (S.I. 2006/1892), reg. 3(2)
+[^F115]: S. 15(3) subsitituted (18.9.2006) by The Motor Vehicles (Wearing of Seat Belts) (Amendment) Regulations 2006 (S.I. 2006/1892), reg. 3(3)
+[^F116]: S. 15(3A) inserted (2.2.1993) by S.I 1992/3105, reg. 3(2).
+[^F117]: Words in s. 15(4) inserted (2.2.1993) by S.I. 1992/3105, reg. 3(3).
+[^F118]: Words in s. 15(5)(a) substituted (2.2.1993) by S.I. 1992/3105, reg. 3(4)(a).
+[^F119]: Words in s. 15(5)(b) inserted (2.2.1993) by S.I. 1992/3105, reg. 3(4)(b).
+[^F120]: S. 15(5A) omitted (31.12.2020) by virtue of The Motor Vehicles (Wearing of Seat Belts) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/512), regs. 1(1), 2(3)(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F121]: S. 15(6) substituted (2.2.1993) by S.I. 1992/3105, reg. 3(6).
+[^F122]: Word in s. 15(6)(b) substituted (31.12.2020) by The Motor Vehicles (Wearing of Seat Belts) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/512), regs. 1(1), 2(3)(b)(i)(aa); 2020 c. 1, Sch. 5 para. 1(1)
+[^F123]: Words in s. 15(6)(b) omitted (31.12.2020) by virtue of The Motor Vehicles (Wearing of Seat Belts) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/512), regs. 1(1), 2(3)(b)(i)(bb); 2020 c. 1, Sch. 5 para. 1(1)
+[^F124]: Words in s. 15(6) omitted (31.12.2020) by virtue of The Motor Vehicles (Wearing of Seat Belts) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/512), regs. 1(1), 2(3)(b)(ii); 2020 c. 1, Sch. 5 para. 1(1)
+[^F125]: In s. 15(9) definition of "bus" inserted (18.9.2006) by The Motor Vehicles (Wearing of Seat Belts) (Amendment) Regulations 2006 (S.I. 2006/1892), reg. 3(4)
+[^F126]: Definitions in s. 15(9) inserted (2.2.1993) by S.I. 1992/3105, reg. 3(7)(a)(b).
+[^M1]: 1984 c. 27.
+[^F127]: Word in s. 15(9) omitted (2.2.1993) by virtue of S.I. 1992/3105, reg. 3(7)(b).
+[^F128]: Words in s. 15(9) omitted (31.12.2020) by virtue of The Motor Vehicles (Wearing of Seat Belts) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/512), regs. 1(1), 2(3)(c); 2020 c. 1, Sch. 5 para. 1(1)
+[^F129]: S. 15(9A) inserted (18.9.2006) by The Motor Vehicles (Wearing of Seat Belts) (Amendment) Regulations 2006 (S.I. 2006/1892), reg. 3(5)
+[^F130]: S. 15(10) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch. 8; S.I. 1992/1286, art. 2, Sch.
+[^F131]: S. 15A inserted by Motor Vehicles (Safety Equipment for Children) Act 1991 (c. 14, SIF 107:1), s. 1
+[^F132]: S. 15B inserted (18.9.2006) by The Motor Vehicles (Wearing of Seat Belts) (Amendment) Regulations 2006 (S.I. 2006/1892), reg. 4
+[^F133]: 1985 c. 67. A “local service” is defined in section 2 of that Act.
+[^F134]: 1984 c. 27.
+[^M2]: 1980 c. 66.
+[^F135]: S. 19A (which was inserted by Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1) ss. 4, 8(3)(b), Sch. 2 Pt. II para. 22(1)) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch.
+[^F136]: Words in s. 20(5) substituted (23.5.2016) by Scotland Act 2016 (c. 11), ss. 43(3), 72(7)
+[^F137]: S. 20(8)(9) added (23.5.2016) by Scotland Act 2016 (c. 11), ss. 43(4), 72(7)
+[^F138]: Words in s. 21(1) substituted (30.1.2001) by 2000 c. 37, ss. 67, 103(2), Sch. 7 para. 4(1)(2)
+[^F139]: Words in s. 21(2)(b) inserted (1.4.2001 for E. and 1.5.2001 for W.) by 2000 c. 37, ss. 70(4), 103(3); S.I. 2001/114, art. 2(2)(d); S.I. 2001/1410, art. 2(e)
+[^M3]: 1980 c. 66.
+[^F140]: S. 21(3)(aa) inserted (30.1.2001) by 2000 c. 37, ss. 67, 103(2), Sch. 7 para. 4(3)
+[^F141]: Words in s. 21(3)(b) substituted (25.7.2003 for specified purposes, 29.12.2003 for further specified purposes) by Communications Act 2003 (c. 21), ss. 406(1)(6), 408, 411, Sch. 17 para. 95 (with Sch. 18); S.I. 2003/1900, arts. 1(2), 2(1), 3(1), Sch. 1 (with art. 3(2) (as amended (8.12.2003) by S.I. 2003/3142, art. 1(3))); S.I. 2003/3142, art. 3(2) (with art. 11)
+[^F142]: Words in s. 22 substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para.48; S.I. 1992/1286, art. 2,Sch.
+[^F143]: S. 22A inserted (E.W.) (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 6; S.I. 1992/1286, art. 2, Sch.
+[^F144]: Words in s. 22A(3)(c)(i) repealed (1.1.1993) by New Roads and Street Works Act 1991 (c. 22, SIF 59), s. 168(1)(2), Sch. 8 para. 121(2), Sch.9 (with s. 25(2)); S.I. 1992/2984, art. 2(2), Sch.2.
+[^F145]: Words substituted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 6 para. 6
+[^F146]: S. 25 renumbered as s. 25(1) (1.1.2026) by Automated Vehicles Act 2024 (c. 10), ss. 55(a), 99(1) (with s. 96); S.I. 2025/1339, reg. 2(1)(a)
+[^F147]: S. 25(2) inserted (1.1.2026) by Automated Vehicles Act 2024 (c. 10), ss. 55(b), 99(1) (with s. 96); S.I. 2025/1339, reg. 2(1)(a)
+[^F148]: Words in s. 27(7)(b) substituted (S.) (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 159(2); S.I. 1996/323, art. 4(1)(b)(c)
+[^F149]: S. 28 substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 7; S.I. 1992/1286, art. 2,Sch.
+[^F150]: Words in s. 29 repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch.
+[^F151]: S. 30(3) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch.
+[^F152]: S. 31(6) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para.49; ; S.I. 1992/1286, art. 2,Sch.
+[^M4]: 1984 c. 27.
+[^F153]: Words in s. 33 sidenote substituted (E.W.) (3.7.2006 for E. and 12.7.2006 for W.) by The Restricted Byways (Application and Consequential Amendment of Provisions) Regulations 2006 (S.I. 2006/1177), regs. 1(3)(5), 2, Sch. Pt. 1; S.I. 2006/1172, art. 2(a)-(d) (with art. 3); S.I. 2006/1279, art. 2(a)-(d) (with art. 3)
+[^F154]: Words in s. 33(1)(2)(4) substituted (E.W.) (3.7.2006 for E. and 12.7.2006 for W.) by The Restricted Byways (Application and Consequential Amendment of Provisions) Regulations 2006 (S.I. 2006/1177), regs. 1(3)(5), 2, Sch. Pt. 1; S.I. 2006/1172, art. 2(a)-(d) (with art. 3); S.I. 2006/1279, art. 2(a)-(d) (with art. 3)
+[^F155]: Words in s. 33(4) substituted (E.W.) (3.7.2006 for E. and 12.7.2006 for W.) by The Restricted Byways (Application and Consequential Amendment of Provisions) Regulations 2006 (S.I. 2006/1177), regs. 1(3)(5), 2, Sch. Pt. 1; S.I. 2006/1172, art. 2(a)-(d) (with art. 3); S.I. 2006/1279, art. 2(a)-(d) (with art. 3)
+[^F156]: Words in s. 33(5)(b) substituted (S.) (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 159(3); S.I. 1996/323, art. 4(1)(b)(c)
+[^F157]: S. 33(6) inserted (E.W.) (3.7.2006 for E. and 12.7.2006 for W.) by The Restricted Byways (Application and Consequential Amendment of Provisions) Regulations 2006 (S.I. 2006/1177), regs. 1(3)(5), 2, Sch. Pt. 1; S.I. 2006/1172, art. 2(a)-(d) (with art. 3); S.I. 2006/1279, art. 2(a)-(d) (with art. 3)
+[^F158]: S. 34 substituted (30.1.2001) by 2000 c. 37, ss. 67, 103(2), Sch. 7 para. 5
+[^M5]: 1981 c. 69.
+[^F159]: Words in s. 34(2) repealed (2.5.2006 for E. and 16.11.2006 for W.) by Natural Environment and Rural Communities Act 2006 (c. 16), ss. 70(3), 105(2), 107, Sch. 12; S.I. 2006/1176, art. 6; S.I. 2006/2992, art. 2
+[^F160]: S. 34(2A) inserted (E.W.) (2.5.2006 for E. and 16.11.2006 for W.) by Natural Environment and Rural Communities Act 2006 (c. 16), ss. 70(4), 107; S.I. 2006/1176, art. 6; S.I. 2006/2992, art. 2
+[^M6]: 1925 c. 20.
+[^F161]: Words in s. 34(6) substituted (E.W.) (2.5.2006 for E. and 16.11.2006 for W.) by Natural Environment and Rural Communities Act 2006 (c. 16), ss. 70(5), 107; S.I. 2006/1176, art. 6; S.I. 2006/2992, art. 2
+[^M7]: 1981 c. 69.
+[^F162]: Words in s. 34(7) inserted (E.W.) (2.5.2006 for E. and 16.11.2006 for W.) by Natural Environment and Rural Communities Act 2006 (c. 16), ss. 70(6), 107; S.I. 2006/1176, art. 6; S.I. 2006/2992, art. 2
+[^F163]: S. 34(8) inserted (E.W.) (2.5.2006 for E. and 16.11.2006 for W.) by Natural Environment and Rural Communities Act 2006 (c. 16), ss. 70(7), 107; S.I. 2006/1176, art. 6; S.I. 2006/2992, art. 2
+[^F164]: Words in s. 35(1) inserted (E.W.) (4.10.2004 for E. and 1.5.2009 for W.) by Traffic Management Act 2004 (c. 18), ss. 6(2)(a)(i), 99 (with s. 38); S.I. 2004/2380, art. 2(a); S.I. 2009/1095, art. 2
+[^F165]: Words in s. 35(1) inserted (E.W.) (4.10.2004 for E. and 1.5.2009 for W.) by Traffic Management Act 2004 (c. 18), ss. 6(2)(a)(ii), 99 (with s. 38); S.I. 2004/2380, art. 2(a); S.I. 2009/1095, art. 2
+[^F166]: Words in s. 35(2)(b) inserted (E.W.) (4.10.2004 for E. and 1.5.2009 for W.) by Traffic Management Act 2004 (c. 18), ss. 6(2)(b), 99 (with s. 38); S.I. 2004/2380, art. 2(a); S.I. 2009/1095, art. 2
+[^F167]: Words in s. 36(1)(b) substituted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 46(a) (with Sch. 7 paras. 1, 6, 9); S.I. 2017/1179, reg. 3(r)
+[^M8]: 1984 c. 27.
+[^F168]: Words in s. 36(3)(a) substituted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 46(a) (with Sch. 7 paras. 1, 6); S.I. 2017/1179, reg. 3(r)
+[^F169]: Words in s. 36(5) substituted (23.5.2016) by Scotland Act 2016 (c. 11), ss. 41(22), 72(7) (with Sch. 2 paras. 34(2), 35(2))
+[^M9]: 1988 c. 53.
+[^F170]: S. 36(6)-(8) inserted (23.5.2016) by Scotland Act 2016 (c. 11), ss. 41(23), 72(7) (with Sch. 2 paras. 34(2), 35(2))
+[^F171]: Words in s. 36(6) inserted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 46(b) (with Sch. 7 paras. 1, 6, 9); S.I. 2017/1179, reg. 3(r)
+[^F172]: Words in s. 36(7) substituted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 46(c) (with Sch. 7 paras. 1, 6, 9); S.I. 2017/1179, reg. 3(r)
+[^F173]: Words in s. 36(8) substituted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 46(d)(i) (with Sch. 7 paras. 1, 6, 9); S.I. 2017/1179, reg. 3(r)
+[^F174]: Words in s. 36(8) substituted (1.4.2018) by Wales Act 2017 (c. 4), s. 71(4), Sch. 6 para. 46(d)(ii) (with Sch. 7 paras. 1, 6, 9); S.I. 2017/1179, reg. 3(r)
+[^F175]: Words in s. 37 inserted (E.W.) (4.10.2004 for E. and 1.5.2009 for W.) by Traffic Management Act 2004 (c. 18), ss. 6(3)(a), 99 (with s. 38); S.I. 2004/2380, art. 2(a); S.I. 2009/1095, art. 2
+[^F176]: Words in s. 37 inserted (E.W.) (4.10.2004 for E. and 1.5.2009 for W.) by Traffic Management Act 2004 (c. 18), ss. 6(3)(b), 99 (with s. 38); S.I. 2004/2380, art. 2(a); S.I. 2009/1095, art. 2
+[^M10]: 1981 c. 14.
+[^M11]: 1985 c. 67.
+[^M12]: 1930 c. 43.
+[^M13]: 1978 c. 30.
+[^F177]: S. 39(2) substituted (3.7.2000) 1999 c. 29, s. 279(2), (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2(2)(c), Sch. Pt. III
+[^F178]: Words in s. 39(3) substituted (3.7.2000) by 1999 c. 29, s. 279(3) (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2(2)(c), Sch. Pt. III
+[^F179]: Words in s. 39(3)(a) renumbered as s. 39(3)(a)(i) (3.7.2000) by 1999 c. 29, s. 279(4)(a) (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2(2)(c), Sch. Pt. III
+[^F180]: Words in s. 39(3)(a) inserted (3.7.2000) by 1999 c. 29, s. 279(4)(b) (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2(2)(c), Sch. Pt. III
+[^F181]: Words in s. 39(3)(a) substituted (1.11.1991) by New Roads and Streets Works Act 1991 (c. 22, SIF 59, 108), s. 168(1), Sch. 8 Pt. IV para. 121(3)(a)(with s. 25(2)) ; S.I. 1991/2286, art. 2(2), Sch. 2 (for Scotland); S.I. 1991/2288, art. 3, Sch. (for E.W.)
+[^F182]: S. 39(3)(ii) and word added (3.7.2000) by 1999 c. 29, s. 279(4)(c) (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2(2)(c), Sch. Pt. III
+[^F183]: Words in s. 39(3)(b) substituted (1.11.1991) by New Roads and Streets Works Act 1991 (c. 22, SIF 107:1), s. 168(1), Sch. 8 para. 121 (3)(b)(with s. 25(2)); S.I. 1991/2286, art. 2(2), Sch. 2 (for Scotland); S.I. 1991/2288, art. 3, Sch. (for E.W.)
+[^F184]: Definition of “GLA roads" in s. 39(4) inserted (3.7.2000) by 1999 c. 29, s. 279(6), (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2(2)(c), Sch. Pt. III
+[^M14]: 1980 c. 66.
+[^F185]: Words in s. 39(4)(b) substituted (S.) (1.4.1996) by 1994 C. 39, s. 180(1), Sch. 13 para. 159(4); S.I. 1996/323, art. 4(1)(b)(c)
+[^F186]: Definition of “relevant authority" in s. 39(4) inserted (3.7.2000) by 1999 c. 29, s. 279(6), (with Sch. 12 para. 9(1)); S.I. 2000/801, art. 2(2)(c), Sch. Pt. III
+[^F187]: S. 40 substituted (E.W.) (8.1.2007) by Road Safety Act 2006 (c. 49), ss. 1, 61(7)(a)
+[^F188]: S. 40A and cross heading inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 8(1); S.I. 1992/1286, art. 2,Sch.
+[^F189]: S. 40A inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 8(1); S.I. 1992/1286, art. 2,Sch.
+[^F190]: Words in s. 41(1) substituted (23.5.2016) by Scotland Act 2016 (c. 11), ss. 43(6), 72(7)
+[^F191]: Words in s. 41(2)(e) added (1.4.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 50(2); S.I. 1992/421, art. 2,Sch.
+[^F192]: S. 41(2)(jj) inserted (1.4.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 50(3); S.I. 1992/421, art. 2,Sch.
+[^F193]: S. 41(2A)(2B) inserted (23.5.2016) by Scotland Act 2016 (c. 11), ss. 43(7), 72(7)
+[^F194]: S. 41(3)(b)(c) repealed (1.4.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch. 8; S.I. 1992/421, art. 2,Sch.
+[^F195]: S. 41(4A) inserted (1.4.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 50(4); S.I. 1992/421, art. 2,Sch.
+[^F196]: Ss. 41A, 41B, 42 substituted (1.7.1992) for s. 42 by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 8(2); S.I. 1992/1286, art. 2,Sch.
+[^F197]: Ss. 41A, 41B, 42 substituted (1.7.1992) for s. 42 by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 8(2); S.I. 1992/1286, art. 2,Sch.
+[^F198]: S. 41C inserted (prosp.) by Road Safety Act 2006 (c. 49), ss. 18(2), 61
+[^F199]: S. 41D inserted (27.2.2007) by Road Safety Act 2006 (c. 49), ss. 26(1), 61; S.I. 2007/237, art. 2(a)
+[^F200]: Ss. 41A, 41B, 42 substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 8; S.I. 1992/1286, art. 2, Sch.
+[^F201]: Words in s. 42(a) inserted (27.2.2007) by Road Safety Act 2006 (c. 49), ss. 26(2), 61; S.I. 2007/237, art. 2
+[^F202]: Words in s. 43(1) substituted (1.9.1994) by 1994 c. 22, ss. 63, 66(1) (with s. 57(4))
+[^F203]: Words in s. 44(1) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para.51; S.I. 1992/1286, art. 2,Sch.
+[^F204]: S. 44(4)(5) inserted (5.3.2015) by Infrastructure Act 2015 (c. 7), s. 57(1), Sch. 1 para. 103; S.I. 2015/481, reg. 2(a)
+[^F205]: Words in s. 45(1) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 52(2); S.I. 1992/1286, art. 2, Sch.
+[^F206]: S. 45(3)(za) inserted (11.4.2003) by 1999 c. 12, ss. 1(1)(a), 9(2); S.I. 2003/1095, art. 2
+[^F207]: S. 45(3)(b) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 52(3); S.I. 1992/1286, art. 2, Sch.
+[^F208]: S. 45(3)(c) substituted (11.4.2003) by 1999 c. 12, s. 1(1)(b), 9(2); S.I. 2003/1095, art. 2
+[^M15]: 1994 c.39.
+[^F209]: Words in s. 45(4) substituted (11.4.2003) by 1999 c. 12, s. 1(2), 9(2); S.I. 2003/1095, art. 2
+[^F210]: S. 45(6A)(6B) inserted (1.6.2001 for certain purposes and otherwise 11.4.2003) by 1999 c. 12, ss. 1(3), 9(2); S.I. 2001/1896, art. 2(1); S.I. 2003/1095, art. 2
+[^F211]: Words in s. 45(8) substituted (2.3.2016) by The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248), regs. 1(2), 12(2)
+[^F212]: S. 46 substituted (11.4.2003) by 1999 c. 12 , ss. 2, 9(2); S.I. 2003/1095, art. 2
+[^F213]: S. 46(1)(ja) inserted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e), Sch. 10 para. 26(2); S.I. 2015/994, art. 7(b) (with Sch. Pt. 4)
+[^F214]: Word in s. 46(1)(k) omitted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by virtue of Deregulation Act 2015 (c. 20), s. 115(2)(e), Sch. 10 para. 26(3); S.I. 2015/994, art. 7(b) (with Sch. Pt. 4)
+[^F215]: S. 46(1)(ka) inserted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e), Sch. 10 para. 26(3); S.I. 2015/994, art. 7(b) (with Sch. Pt. 4)
+[^F216]: S. 46(1)(m) and preceding word inserted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e), Sch. 10 para. 26(4); S.I. 2015/994, art. 7(b) (with Sch. Pt. 4)
+[^F217]: Words in s. 46(4) inserted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e), Sch. 10 para. 26(5); S.I. 2015/994, art. 7(b) (with Sch. Pt. 4)
+[^F218]: S. 46A inserted (1.6.2001) by 1999 c. 12, s. 3; S.I. 2001/1896, art. 2(2)
+[^M16]: 1994 c.22.
+[^F219]: S. 46B inserted (11.4.2003) by 1999 c. 12, ss. 4, 9(2); S.I. 2003/1095, art. 2
+[^M17]: 1968 c.70.
+[^F220]: Words in s. 47(2)(a) substituted (1.9.1994) by 1994 c. 22, ss. 63, 66(1), Sch. 3 para. 24(2)(a) (with s. 57(4))
+[^F221]: Words in s. 47(2)(b) substituted (1.9.1994) by 1994 c. 22, ss. 63, 66(1), Sch. 3 para. 24(2)(b) (with s. 57(4))
+[^M18]: 1980 c. 34.
+[^F222]: S. 47(4) substituted (1.6.1994) by 1994 c. 9, s. 5, Sch. 2 paras. 25, 29
+[^F223]: Words in s. 47(4)(b) substituted (1.9.1994) by 1994 c. 22, ss. 63, 66(1), Sch. 3 para. 24(2)(c)(i) (with s. 57(4))
+[^F224]: Words in s. 47(4)(b) substituted (1.9.1994) by 1994 c. 22, ss. 63, 66(1), Sch. 3 para. 24(2)(c)(ii) (with s. 57(4))
+[^F225]: S. 48(1A) inserted (1.7.1996) by S.I. 1996/1700, art. 2(2)
+[^F226]: S. 48(4)(4A) substituted for s. 48(4) (22.7.2020) by Business and Planning Act 2020 (c. 16), ss. 13(2), 25(2)(b)
+[^F227]: Words in s. 48(5)(a) inserted (1.7.1996) by S.I. 1996/1700, art. 2(3)(a)
+[^F228]: Words in s. 48(5)(a) substituted (1.7.1996) by S.I. 1996/1700, art. 2(3)(b)
+[^F229]: S. 48(6) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch. 8; S.I. 1992/1286, art. 2, Sch.
+[^F230]: Words in s. 49(1) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 54(2); S.I. 1992/1286, art. 2,Sch.
+[^F231]: Words in s. 49(2)(b) inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 54(3); S.I. 1992/1286, art. 2,Sch.
+[^F232]: Words in s. 49(4) inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 54(4); S.I. 1992/1286, art. 2,Sch.
+[^F233]: Words in s. 49(5) substituted (2.3.2016) by The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248), regs. 1(2), 12(2)
+[^F234]: S. 49A inserted (prosp.) by Road Safety Act 2006 (c. 49), ss. 48(2), 61
+[^F235]: Words in s. 50(1) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 55(2); S.I. 1992/1286, art. 2,Sch.
+[^F236]: S. 50(2) and (3) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 48, 83, Sch. 4 para. 55(3), Sch. 8; S.I. 1992/1286, art. 2,Sch.
+[^F237]: Word in s. 51(1)(b) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch. 8; S.I. 1992/1286, art. 2,Sch.
+[^F238]: S. 51(1)(ka) inserted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e), Sch. 10 para. 27(2); S.I. 2015/994, art. 7(b) (with Sch. Pt. 4)
+[^F239]: S. 51(1)(kb)(kc) inserted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e), Sch. 10 para. 27(3); S.I. 2015/994, art. 7(b) (with Sch. Pt. 4)
+[^F240]: S. 51(1A) inserted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e), Sch. 10 para. 27(4); S.I. 2015/994, art. 7(b) (with Sch. Pt. 4)
+[^F241]: Words in s. 52(2) substituted (26.3.2015 for specified purposes, 8.6.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e), Sch. 10 para. 25; S.I. 2015/994, art. 7(b) (with Sch. Pt. 4)
+[^F242]: Word in s. 53(1) omitted (20.5.2018) by virtue of The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849), regs. 1, 3(a)(i)
+[^F243]: Words in s. 53(1)(a) substituted (20.5.2018) by The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849), regs. 1, 3(a)(ii)
+[^F244]: Words in s. 53(2)(a) substituted (20.5.2018) by The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849), regs. 1, 3(b)(i)
+[^F245]: Words in s. 53(2)(a) substituted (20.5.2018) by The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849), regs. 1, 3(b)(ii)
+[^F246]: Words in s. 53(2)(b) substituted (20.5.2018) by The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849), regs. 1, 3(b)(iii)
+[^F247]: Words in s. 53(2) substituted (20.5.2018) by The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849), regs. 1, 3(b)(iv)
+[^F248]: Word in s. 53(3) omitted (20.5.2018) by virtue of The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849), regs. 1, 3(c)(i)
+[^F249]: Words in s. 53(3) substituted (20.5.2018) by The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849), regs. 1, 3(c)(ii)
+[^F250]: Words inserted (*prosp.*) by Transport Act 1982 (c. 49, SIF 107:1), ss. 10(7)(b), 76(2) (as amended (15.5.1989) by Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1), s. 4, Sch. 2 Pt. I para. 4(4)(b))
+[^F251]: Words in s. 53(4) substituted (20.5.2018) by The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849), regs. 1, 3(d)
+[^F252]: S. 53(5)(b) substituted (22.7.2020) by Business and Planning Act 2020 (c. 16), ss. 13(3), 25(2)(b)
+[^F253]: S. 53(5A) inserted (22.7.2020) by Business and Planning Act 2020 (c. 16), ss. 13(4), 25(2)(b)
+[^F254]: S. 53(6) inserted (20.5.2018) by The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849), regs. 1, 3(e)
+[^F255]: S. 55(1A)-(1C) inserted (temp.) (31.12.2020 for a period of two years at the end of which this amending provision will expire) by virtue of The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/648), regs. 1(b)(ii), 2(2)(a) (with reg. 11) (as amended by S.I. 2020/818, Sch. 6 para. 39(2)(a)(i) (with Sch. 4 paras. 16, 17) and S.I. 2020/1393, regs. 1(2), 2(2)(a)(12)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F256]: S. 55(1D)-(1G) inserted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273), regs. 1(2), 5(2)(a)
+[^F257]: Words in s. 55(2) inserted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273), regs. 1(2), 5(2)(b)
+[^F258]: S. 55(2A) inserted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273), regs. 1(2), 5(2)(c)
+[^F259]: S. 55(4) substituted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273), regs. 1(2), 5(2)(d)
+[^F260]: S. 55(9) inserted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273), regs. 1(2), 5(2)(e)
+[^F261]: Words in s. 57(1) omitted (1.1.1993) by virtue of S.I. 1992/3107, regs. 1(2), 16, Sch. 2 para. 5(1).
+[^F262]: S. 57(1ZA)(1ZB) inserted (temp.) (31.12.2020 for a period of two years at the end of which this amending provision will expire) by virtue of The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/648), regs. 1(b)(ii), 2(3)(a) (with reg. 11) (as amended by S.I. 2020/818, reg. 1(b), Sch. 6 para. 39(2)(b)(i)(ii) (with Sch. 4 paras. 16, 17) and S.I. 2020/1393, regs. 1(2), 2(2)(b)(12)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F263]: S. 57(1ZC)(1ZD) inserted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273), regs. 1(2), 5(3)(a)
+[^F264]: S. 57(1A) substituted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273), regs. 1(2), 5(3)(b)
+[^F265]: Words in s. 58(1)(a) inserted (temp.) (31.12.2020 for a period of two years at the end of which this amending provision will expire) by virtue of The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/648), regs. 1(b)(ii), 2(4)(a) (with reg. 11) (as amended by S.I. 2020/1393, regs. 1(2), 2(12)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F266]: S. 58(3) substituted (temp.) (31.12.2020 for a period of two years at the end of which this amending provision will expire) by virtue of The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/648), regs. 1(b)(ii), 2(4)(b) (with reg. 11) (as amended by S.I. 2020/1393, regs. 1(2), 2(12)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F267]: S. 58(8) inserted (temp.) (31.12.2020 for a period of two years at the end of which this amending provision will expire) by virtue of The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/648), regs. 1(b)(ii), 2(4)(c) (with reg. 11) (as amended by S.I. 2020/1393, regs. 1(2), 2(12)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F268]: Words in s. 61(2)(a) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch.
+[^F269]: S. 61(5) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch. 8; S.I. 1992/1286, art. 2,Sch.
+[^F270]: S. 63(1A) inserted (1.1.1993) by S.I. 1992/3107, regs. 1(2), 16, Sch. 2 para. 1(1).
+[^F271]: Words in s. 63(1A) substituted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273), regs. 1(2), 5(4)
+[^F272]: S. 63(5)-(7) substituted (1.2.2001) for s. 63(5) by 2000 c. 38, s. 264; S.I. 2001/57, art. 3, Sch. 2 Pt. I (as amended (22.1.2001) by S.I. 2001/57, art. 2(6))
+[^F273]: S. 63A inserted (1.8.1996) by Transport Act 1982 (c. 49, SIF 107:1), s. 18 (as amended (15.5.1989) by Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1), s. 4, Sch. 2 Pt. I para. 7); S.I. 1996/1943, arts. 1(2), 2
+[^F274]: S. 64A omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(3)(r), Sch. 23 para. 22(1)
+[^F275]: S. 65(1A) inserted (1.1.1993) by S.I. 1992/3107, regs. 1(2), 16, Sch. 2 para. 1(2).
+[^F276]: Words in s. 65(1A) substituted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273), regs. 1(2), 5(4)
+[^F277]: S. 65A omitted (20.5.2018) by virtue of The Motorcycles (Type-Approval) Regulations 2018 (S.I. 2018/235), reg. 1(b), Sch. 2 para. 1(2) (with reg. 1(c), Sch. 1 paras. 16, 17)
+[^F278]: Words in s. 66(1)(a) substituted (1.9.1994) by 1994 c. 22, ss. 63, 66(1), Sch. 3 para. 24(1) (with s. 57(4))
+[^F279]: Words in s. 66(2)(aa) inserted (11.4.2003) by 1999 c. 12, ss. 5, 9(2); S.I. 2003/1095, art. 2
+[^M19]: 1971 c. 10.
+[^F280]: S. 66(4A) inserted (1.1.1993) by S.I. 1992/3107, regs, 1(2), 16, Sch. 2 para. 4.
+[^F281]: Words in s. 66(4A) substituted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273), regs. 1(2), 5(4)
+[^F282]: S. 66A and cross heading inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 9(1); S.I. 1992/1286, art. 2,Sch.
+[^F283]: S. 66A inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 9(1); S.I. 1992/1286, art. 2, Sch.
+[^F284]: Words in s. 66A(1) inserted (1.1.1996) by s. 60(1), Sch. 7 para. 11 (with ss. 54, 55); S.I. 1995/2181, art. 2
+[^F285]: Ss. 66B, 66C and cross-heading inserted (30.3.2011) by The Road Vehicles (Powers to Stop) Regulations 2011 (S.I. 2011/996), regs. 1, 2(2)
+[^F286]: S. 67(1)(a) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 10(2); S.I. 1992/1286, art. 2, Sch.
+[^F287]: S. 67(2) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 10(3); S.I. 1992/1286, art. 2,Sch.
+[^F288]: Words in s. 67(3) inserted (30.3.2011) by The Road Vehicles (Powers to Stop) Regulations 2011 (S.I. 2011/996), regs. 1, 2(3)(a)
+[^F289]: S. 67(3B) substituted (20.5.2018) by The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849), regs. 1, 4(a)
+[^F290]: Words in s. 67(3B)(a) substituted (1.9.2020) by The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818), reg. 1(b), Sch. 6 para. 2(2) (with Sch. 4 paras. 16, 17)
+[^F291]: Words inserted (*prosp.*) by Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1), ss. 4, 8(3)(c), Sch. 2 Pt. III para. 24 (which insertion was repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 10(2); S.I. 1992/1286, art. 2, Sch. Appendix)
+[^F292]: S. 67(4)(a) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch. 8; S.I. 1992/1286, art. 2,Sch.
+[^F293]: Words in s. 67(4)(b) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 10(4); S.I. 1992/1286, art. 2,Sch.
+[^M20]: 1869 c. 115.
+[^F294]: Words in s. 67(4)(e) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 10(5); S.I. 1992/1286, art. 2,Sch.
+[^F295]: Word in s. 67(4)(e) omitted (16.1.2012) by virtue of Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 194(2)(a); S.I. 2011/3019, art. 3, Sch. 1
+[^F296]: S. 67(4)(ea) inserted (16.1.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 194(2)(b); S.I. 2011/3019, art. 3, Sch. 1
+[^F297]: Words in s. 67(4)(f) omitted (1.4.2013) by virtue of The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602), art. 1(2), Sch. 2 para. 22(2)
+[^F298]: Word in s. 67(4)(f) inserted (16.1.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 194(2)(c); S.I. 2011/3019, art. 3, Sch. 1
+[^F299]: Words in s. 67(5) inserted (16.1.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 194(3); S.I. 2011/3019, art. 3, Sch. 1
+[^F300]: Words in s. 67(7) substituted (30.3.2011) by The Road Vehicles (Powers to Stop) Regulations 2011 (S.I. 2011/996), regs. 1, 2(3)(c)(i)
+[^F301]: Words in s. 67(7) substituted (30.3.2011) by The Road Vehicles (Powers to Stop) Regulations 2011 (S.I. 2011/996), regs. 1, 2(3)(c)(ii)
+[^F302]: Words in s. 67(8) substituted (30.3.2011) by The Road Vehicles (Powers to Stop) Regulations 2011 (S.I. 2011/996), regs. 1, 2(3)(d)(i)
+[^F303]: Words in s. 67(8) substituted (30.3.2011) by The Road Vehicles (Powers to Stop) Regulations 2011 (S.I. 2011/996), regs. 1, 2(3)(d)(ii)
+[^F304]: S. 67(9A) omitted (20.5.2018) by virtue of The Agricultural and Forestry Vehicles (Type-Approval) Regulations 2018 (S.I. 2018/236), reg. 1(b), Sch. 2 para. 1(2) (with reg. 1(c), Sch. 1 paras. 16, 17)
+[^F305]: S. 67A repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), s. 1(1), Sch. 1 Pt. 14
+[^F306]: S. 67B repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), s. 1(1), Sch. 1 Pt. 14
+[^F307]: S. 68 and cross-heading substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s.11; S.I. 1992/1286, art. 2, Sch.
+[^F308]: S. 68 and cross-heading substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s.11; S.I. 1992/1286, art. 2, Sch.
+[^F309]: Ss. 69, 69A and cross heading substituted for s. 69 by Road Traffic Act 1991 (c. 40, SIF 107:1), s.12; S.I. 1992/1286, art. 2,Sch.
+[^F310]: Ss. 69 and 69A substituted (1.7.1992) for s. 69 by Road Traffic Act 1991 (c. 40, SIF 107:1), s.12; S.I. 1992/1286, art. 2,Sch.
+[^F311]: Words in s. 69 inserted (1.7.1992)by Transport Act 1982 (c. 82, SIF 107:1), s. 10 (3) (as amended (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 19(2)); S.I. 1992/1286, art. 2,Sch.
+[^F312]: Ss. 69 and 69A substituted (1.7.1992) for s. 69 by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 12; S.I. 1992/1286, art. 2, Sch.
+[^F313]: Words in s. 69A(3) substituted (1.9.1994) by 1994 c. 22, ss. 63, 66(1), Sch. 3 para. 24(1) (with s. 57(4))
+[^F314]: Words in s. 70(1) inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 13(2)(a); S.I. 1992/1286, art. 2,Sch.
+[^F315]: Words in s. 70(2) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 13(2)(b); S.I. 1992/1286, art. 2,Sch.
+[^F316]: Words in s. 70(1) added (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 13(2)(c); S.I. 1992/1286, art. 2,Sch.
+[^F317]: Words in s. 70(2) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 13(3)(a); S.I. 1992/1286, art. 2,Sch.
+[^F318]: Words in s. 70(2) inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 13(3)(b); S.I. 1992/1286, art. 2,Sch.
+[^F319]: Words in s. 70(4) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 13(4); S.I. 1992/1286, art. 2,Sch.
+[^F320]: S. 71 substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s.14; S.I. 1992/1286, art. 2,Sch.
+[^F321]: Ss. 72 and 72A substituted (1.7.1992) for s. 72 by Road Traffic Act 1991 (c. 40, SIF 107:1), s.15; S.I. 1992/1286, art. 2,Sch.
+[^F322]: Ss. 72 and 72A substituted (1.7.1992) for s. 72 by Road Traffic Act 1991 (c. 40, SIF 107:1). s.15; S.I. 1992/1286, art. 2,Sch.
+[^F323]: S. 73(1)(1A)(1B)(1C) substituted (1.7.1992) for s. 73(1) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 56(2); S.I. 1992/1286, art. 2, Sch.
+[^F324]: Words in s. 73(1) substituted (1.1.1996) by 1995 c. 23, s. 60(1), Sch. 7 para. 12(1)(a) (with ss. 54, 55); S.I. 1995/2181, art. 2
+[^F325]: S. 73(1)(a) substituted (3.7.2013) by The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644), art. 1(1), Sch. 1 (with arts. 1(3), 2, 7)
+[^F326]: S. 73(1ZA) inserted (1.1.1996) by 1995 c. 23, s. 60(1), Sch. 7 para. 12(2) (with ss. 54, 55); S.I. 1995/2181, art. 2
+[^F327]: S. 73(1ZA)(a) omitted (3.7.2013) by virtue of The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644), art. 1(1), Sch. 1 (with arts. 1(3), 2, 7)
+[^F328]: S. 73(1A)(a) substituted (3.7.2013) by The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644), art. 1(1), Sch. 1 (with arts. 1(3), 2, 7)
+[^F329]: Words in s. 73(1C)(b) substituted (3.7.2013) by The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644), art. 1(1), Sch. 1 (with arts. 1(3), 2, 7)
+[^F330]: S. 73(2) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 48, 83, Sch. 4 para. 56(3), Sch. 8; S.I. 1992/1286, art. 2, Sch.
+[^F331]: Words in s. 73(4) substituted (1.1.1996) by 1995 c. 23, s. 60(1), Sch. 7 para. 12(3) (with ss. 54, 55); S.I. 1995/2181, art. 2
+[^F332]: Words in s. 73(4) added (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 56(4); S.I. 1992/1286, art. 2, Sch.
+[^F333]: S. 73(5) inserted (5.1.2009) by Road Safety Act 2006 (c. 49), ss. 12(3), 61; S.I. 2008/3164, arts. 1(2), 2(c)
+[^F334]: Words in s. 74(1)(a) inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para.57; S.I. 1992/1286, art. 2,Sch.
+[^F335]: S. 74(1)(a)(ii) and word "and" preceding it substituted (1.7.1992) for words in s. 74(1)(a) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para.57; S.I. 1992/1286, art. 2,Sch.
+[^F336]: S. 75(3)(a)(iii) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 16(2), 83, Sch. 8; S.I. 1992/1286, art. 2,Sch.
+[^F337]: S. 75(3)(b) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 16(2); S.I. 1992/1286, art. 2,Sch.
+[^F338]: Word in s. 75(4) inserted (1.7.1992) by Road Traffic 1991 (c. 40, SIF 107:1), s. 16(3); S.I. 1992/1286, art. 2,Sch.
+[^F339]: Word and s. 75(4)(b) added (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 16(3); S.I. 1992/1286, art. 2,Sch.
+[^F340]: Word in s. 75(6) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch.
+[^F341]: S. 75(6)(c) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 16(4), 83, Sch. 8; S.I. 1992/1286, art. 2,Sch.
+[^F342]: S. 75(6A) inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 16(5); S.I. 1992/1286, art. 2,Sch.
+[^F343]: S. 75(8) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch. 8; S.I. 1992/1286, art. 2,Sch.
+[^F344]: Words in s. 76(1) inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 58(2); S.I. 1992/1286, art. 2,Sch.
+[^F345]: Words in s. 76(2)(b)(ii) inserted (1.7.1992) and words at the end added (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 58(3); S.I. 1992/1286, art. 2,Sch.
+[^F346]: Words in s. 76(3)(5)(b)(ii)(6)(a) added (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 58(4); S.I. 1992/1286, art. 2,Sch.
+[^F347]: S. 76(11) inserted (1.1.2026) by Automated Vehicles Act 2024 (c. 10), ss. 56, 99(1) (with s. 96); S.I. 2025/1339, reg. 2(1)(b)
+[^F348]: Words in s. 78(8)(b) inserted (16.1.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 195; S.I. 2011/3019, art. 3, Sch. 1
+[^M21]: 1964 c. 40.
+[^F349]: S. 79(A1)(A2) inserted (30.3.2011) by The Road Vehicles (Powers to Stop) Regulations 2011 (S.I. 2011/996), regs. 1, 2(4)(a)
+[^F350]: Words in s. 79(A2) substituted (1.9.2020) by The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818), reg. 1(b), Sch. 6 para. 2(3)(a) (with Sch. 4 paras. 16, 17)
+[^F351]: S. 79(2)(a) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch. 8; S.I. 1992/1286, art. 2, Sch.
+[^F352]: Words in s. 79(2) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 59(2); S.I. 1992/1286, art. 2, Sch.
+[^F353]: Words in s. 79(3) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 59(3)(a); S.I. 1992/1286, art. 2, Sch.
+[^F354]: Word in s. 79(3) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 59(3)(b); S.I. 1992/1286, art. 2, Sch.
+[^F355]: S. 79(6) omitted (1.9.2020) by virtue of The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818), reg. 1(b), Sch. 6 para. 2(3)(b) (with Sch. 4 paras. 16, 17)
+[^F356]: Words in Act substituted (22.4.2011) by The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043), arts. 2, 3, 6 (with arts. 3(2)(3), 4(2), 6(4)(5))
+[^F357]: Words in s. 80(1) repealed (26.5.2008) by The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277), reg. 30(1)(3), Sch. 2 para. 46(a), Sch. 4 Pt. 1 (with reg. 28(2)(3))
+[^F358]: Words in s. 80(2) repealed (26.5.2008) by The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277), reg. 30(1)(3), Sch. 2 para. 46(b), Sch. 4 Pt. 1 (with reg. 28(2)(3))
+[^F359]: S. 82(3) repealed (5.11.1993) by 1993 c. 50, s. 1(1), Sch. 1 Pt. XV Grp. 1
+[^F360]: Words in s. 84(2) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 60; S.I. 1992/1286, art. 2,Sch.
+[^F361]: Words in s. 85(1) omitted (2.3.2016) by virtue of The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248), regs. 1(2), 12(3)
+[^F362]: Words in s. 85(1) omitted (31.12.2022 at 11.00 p.m.) by virtue of The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273), regs. 1(2), 5(5)(a)
+[^F363]: In s. 85 definition of "EEA Agreement" inserted (30.11.1999) by S.I. 1999/2920, reg. 19, Sch. 2 para. 4(3)
+[^F364]: Words in s. 85(1) inserted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273), regs. 1(2), 5(5)(b)
+[^F365]: Words in s. 85(1) inserted (2.3.2016) by The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248), regs. 1(2), 12(3)
+[^F366]: in s. 85 definition of "licensing authority" repealed (1.1.1996) by 1995 c. 23, s. 60(1)(2), Sch. 7 para. 13, Sch. 8 Pt. I; S.I. 1995/2181, art. 2
+[^F367]: Words in s. 85(1) omitted (31.12.2022 at 11.00 p.m.) by virtue of The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273), regs. 1(2), 5(5)(c)
+[^F368]: Words in s. 85(1) substituted (20.5.2018) by The Motorcycles (Type-Approval) Regulations 2018 (S.I. 2018/235), reg. 1(b), Sch. 2 para. 1(3)(c) (with reg. 1(c), Sch. 1 paras. 16, 17)
+[^F369]: Word in s. 85 substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 61(a); S.I. 1992/1286, art. 2, Sch.
+[^F370]: Definition in s. 85 inserted (1.7.1992) (after the definition of "prescribed") by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 61(b); S.I. 1992/1286, art. 2, Sch.
+[^F371]: S. 85: definition of "the road vehicles type approval Directive" inserted (29.4.2009) by The Road Vehicles (Approval) (Consequential Amendments) Regulations 2009 (S.I. 2009/818), reg. 3(6)(c)
+[^F372]: Words in s. 85 inserted (1.9.2020) by The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818), reg. 1(b), Sch. 6 para. 2(5) (with Sch. 4 paras. 16, 17)
+[^F373]: Words in s. 85(1) substituted (20.5.2018) by The Agricultural and Forestry Vehicles (Type-Approval) Regulations 2018 (S.I. 2018/236), reg. 1(b), Sch. 2 para. 1(3)(b) (with reg. 1(c), Sch. 1 paras. 16, 17)
+[^M22]: 1981 c. 14.
+[^F374]: Words in the Table in s. 86 substituted (1.1.1993) by S.I. 1992/3107, regs. 1(2), 16, Sch. 2 para. 5(3)(a).
+[^F375]: Words in s. 86 omitted (2.3.2016) by virtue of The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248), regs. 1(2), 12(4)
+[^F376]: Words in s. 86 substituted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273), regs. 1(2), 5(6)(a)
+[^F377]: Words in the Table in s. 86 inserted (1.1.1993) by S.I. 1992/3107, regs. 1(2), 16, Sch. 2 para. 5(3)(b).
+[^F378]: Words in s. 86 inserted (2.3.2016) by The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248), regs. 1(2), 12(4)
+[^F379]: Words in Table in s. 86 repealed (1.1.1996) by 1995 c. 23, s. 60(1)(2), Sch. 7 para. 14, Sch. 8 Pt. I (with ss. 54, 55); S.I. 1995/2181, art. 2
+[^F380]: Words in s. 86 omitted (31.12.2022 at 11.00 p.m.) by virtue of The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273), regs. 1(2), 5(6)(b)
+[^F381]: Words in s. 86 substituted (20.5.2018) by The Motorcycles (Type-Approval) Regulations 2018 (S.I. 2018/235), reg. 1(b), Sch. 2 para. 1(4) (with reg. 1(c), Sch. 1 paras. 16, 17)
+[^F382]: Words in the Table in s. 86 inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 62; S.I. 1992/1286, art. 2, Sch.
+[^F383]: Words in the Table in s. 86 inserted (29.4.2009) by The Road Vehicles (Approval) (Consequential Amendments) Regulations 2009 (S.I. 2009/818), reg. 3(7)
+[^F384]: Words in s. 86 Table inserted (1.9.2020) by The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818), reg. 1(b), Sch. 6 para. 2(6) (with Sch. 4 paras. 16, 17)
+[^F385]: Words in the Table in s. 86 inserted (30.3.2011) by The Road Vehicles (Powers to Stop) Regulations 2011 (S.I. 2011/996), regs. 1, 2(5)
+[^F386]: Words in s. 86 substituted (20.5.2018) by The Agricultural and Forestry Vehicles (Type-Approval) Regulations 2018 (S.I. 2018/236), reg. 1(b), Sch. 2 para. 1(4) (with reg. 1(c), Sch. 1 paras. 16, 17)
+[^F387]: Words in s. 87(1) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 17(1); S.I. 1992/1286, art. 2,Sch.
+[^F388]: Words in s. 87(2) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 17(2); S.I. 1992/1286, art. 2,Sch.
+[^F389]: S. 87(3) inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 7 (but repealed (1.4.1991) by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c.22, SIF 107:1), s. 16, Sch. 6)
+[^F390]: Words in s. 88(1) inserted (8.11.2006) by Road Safety Act 2006 (c. 49), ss. 58(1), 61(9)
+[^F391]: S. 88(1)(a)(b) substituted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 3(2)
+[^F392]: S. 88(1)(a)(ia) inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 1(2)
+[^F393]: S. 88(1)(b)(ii) substituted (1.7.1998) by S.I. 1998/1420, reg. 3(2)
+[^F394]: S. 88(1A)(1B) inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 3(3)
+[^F395]: Words in s. 88(1A)(b)(ii) inserted (1.6.1997) by 1995 c. 13, s. 10(4), Sch. 2 para. 2(2)(a) (with ss. 8, 10(3)); S.I. 1997/267, art. 2(2)
+[^F396]: Words in s. 88(1A)(b)(ii) substituted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91(1), 94, Sch. 5 para. 18(a); S.I. 2004/2624, art. 2(2)(b)
+[^F397]: Words in s. 88(1B)(a) inserted (28.1.2010) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91(1), 94, Sch. 5 para. 18(b); S.I. 2008/3009, art. 2; London Gazette issue no. 59317 dated 26.1.2010, p. 1229; Edinburgh Gazette issue no. 26739 dated 26.1.2010, p. 244; Belfast Gazette issue no. 7156 dated 22.1.2010, p. 33
+[^F398]: S. 88(1B)(aa) inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 1(3)(a)
+[^F399]: Words in s. 88(1B)(aa) omitted (31.12.2020) by virtue of The Driving Licences (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1251), regs. 1(2), 2(2); 2020 c. 1, Sch. 5 para. 1(1)
+[^F400]: Words in s. 88(1B)(d) omitted (23.7.1996 for specified purposes and otherwise 1.1.1997) by virtue of S.I. 1996/1974, reg. 2, Sch. 1 para. 1(3)(b)
+[^F401]: Words in s. 88(2)(a) inserted (1.7.1998) by S.I. 1998/1420, reg. 3(3)
+[^F402]: S. 88(2)(c) and word immediately preceding it inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 3(4)
+[^F403]: S. 88(2A) inserted (1.6.2013) by Road Safety Act 2006 (c. 49), ss. 13(1), 61(1)(10) (with s. 13(2)); S.I. 2013/1012, art. 2
+[^F404]: Words in s. 88(6) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 3, Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^M23]: 1984 c. 27.
+[^F405]: S. 88(7)(a)(i)(ii) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) for words in s. 88(7)(a) by S.I. 1996/1974, reg. 2, Sch. 1 para. 1(4)
+[^F406]: S. 88(8) inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 3(5)
+[^F407]: Words in s. 89(1) omitted (14.7.2014) by virtue of Immigration Act 2014 (c. 22), s. 75(3), Sch. 9 para. 63(a); S.I. 2014/1820, art. 2(g)
+[^F408]: Words in s. 89(1) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 2(2)(a)
+[^F409]: S. 89(a)–(f) substituted (1.4.1991) for paras. (a)–(d) by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 4(1)(2)
+[^F410]: Words in s. 89(1)(a)(d)(6) repealed (8.11.2006) by Road Safety Act 2006 (c. 49), ss. 59, 61, Sch. 7(19)
+[^F411]: Words in s. 89(1)(c) omitted (23.7.1996 for specified purposes and otherwise 1.1.1997) by virtue of S.I. 1996/1974, reg. 2, Sch. 1 para. 2(2)(b)
+[^F412]: Words in s. 89(1)(e) omitted (23.7.1996 for specified purposes and otherwise 1.1.1997) by virtue of S.I. 1996/1974, reg. 2, Sch. 1 para. 2(2)(c)(i)
+[^F413]: Words in s. 89(1)(e) omitted (23.7.1996 for specified purposes and otherwise 1.1.1997) by virtue of S.I. 1996/1974, reg. 2, Sch. 1 para. 2(2)(c)(ii)
+[^F414]: S. 89(1)(ea) inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 2(2)(d)
+[^F415]: S. 89(1)(f) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 2(2)(e)
+[^F416]: S. 89(1A) omitted (14.7.2014) by virtue of Immigration Act 2014 (c. 22), s. 75(3), Sch. 9 para. 63(b); S.I. 2014/1820, art. 2(g)
+[^F417]: S. 89(2) substituted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 4(1)(3)
+[^F418]: S. 89(2)(a) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 2(4)(a)
+[^F419]: Words in s. 89(2)(a)(iii) omitted (31.12.2020) by virtue of The Driving Licences (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1251), regs. 1(2), 2(3); 2020 c. 1, Sch. 5 para. 1(1)
+[^F420]: S. 89(2)(b) omitted (23.7.1996 for specified purposes and otherwise 1.1.1997) by virtue of S.I. 1996/1974, reg. 2, Sch. 1 para. 2(4)(b)
+[^F421]: S. 89(2A) inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 6(1)(a)
+[^F422]: Words in s. 89(3)(a) inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 63; S.I. 1992/1286, art. 2, Sch.
+[^F423]: Words in s. 89(3)(a) inserted (27.2.2007) by Road Safety Act 2006 (c. 49), ss. 36(2)(a), 61; S.I. 2007/237, art. 2(a)
+[^F424]: Words in s. 89(3)(b) inserted (27.2.2007) by Road Safety Act 2006 (c. 49), ss. 36(2)(b), 61; S.I. 2007/237, art. 2(a)
+[^F425]: S. 89(3)(ba) inserted (27.2.2007) by Road Safety Act 2006 (c. 49), ss. 36(2)(c), 61; S.I. 2007/237, art. 2(b)
+[^F426]: Words in s. 89(4) substituted (27.2.2007) by Road Safety Act 2006 (c. 49), ss. 36(3)(a), 61; S.I. 2007/237, art. 2(b)
+[^F427]: Words in s. 89(4)(a) substituted (27.2.2007) by Road Safety Act 2006 (c. 49), ss. 36(3)(b), 61; S.I. 2007/237, art. 2(b)
+[^F428]: Words in s. 89(4)(a) substituted (27.2.2007) by Road Safety Act 2006 (c. 49), ss. 36(3)(c), 61; S.I. 2007/237, art. 2(b)
+[^F429]: S. 89(4)(aa) inserted (23.7.1996) by S.I. 1996/1974, reg. 2, Sch. 1 para. 2(5)
+[^F430]: Words in s. 89(4)(aa) substituted (14.7.2014) by Immigration Act 2014 (c. 22), s. 75(3), Sch. 9 para. 63(c); S.I. 2014/1820, art. 2(g)
+[^F431]: S. 89(4)(b) substituted (27.2.2007) by Road Safety Act 2006 (c. 49), ss. 36(3)(d), 61; S.I. 2007/237, art. 2(b)
+[^F432]: S. 89(5)(b) and preceding word repealed (27.2.2007) by Road Safety Act 2006 (c. 49), ss. 36(4), 59, 61, Sch. 7(9); S.I. 2007/237, art. 2(b)
+[^F433]: S. 89(5ZA) inserted (27.2.2007) by Road Safety Act 2006 (c. 49), ss. 36(5), 61; S.I. 2007/237, art. 2(b)
+[^F434]: S. 89(5A) inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 6(1)(b)
+[^F435]: Words in s. 89(6) substituted (1.4.1991) by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 8(b)(i)
+[^F436]: Word in s. 89(6)(b) substituted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 8(b)(ii)
+[^F437]: S. 89(6)(c) and word immediately preceding it inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 8(b)(iii)
+[^F438]: Words in s. 89(7)(including paras. (a) and (b)) substituted (1.4.1991) for words by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 8(c)
+[^F439]: Words in s. 89(7)(a) inserted (23.7.1996) by S.I. 1996/1974, reg. 2, Sch. 1 para. 2(6)
+[^F440]: Words in s. 89(8) omitted (23.7.1996 for specified purposes and otherwise 1.1.1997) by virtue of S.I. 1996/1974, reg. 2, Sch. 1 para. 2(7)
+[^F441]: Word in s. 89(8) substituted (1.4.1991) by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 8(d)
+[^F442]: S. 89(9)–(11) substituted (1.4.1991) for s. 89(9) by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 8(e)
+[^F443]: Words in s. 89(9)(a) inserted (23.7.1996) by S.I. 1996/1974, reg. 2, Sch. 1 para. 2(8)
+[^F444]: Words in s. 89(10) inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 2(9)(a)
+[^F445]: Words in s. 89(10) inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 2(9)(b)
+[^F446]: Words in s. 89(10)(a) inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 2(9)(c)
+[^F447]: Words in s. 89(11) omitted (23.7.1996 for specified purposes otherwise 1.1.1997) by virtue of S.I. 1996/1974, reg. 2, Sch. 1 para. 2(10)
+[^F448]: S. 89A inserted (1.4.1991) by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 4(1)(4)
+[^F449]: S. 89A(2)(3)(6) repealed (8.11.2006) by Road Safety Act 2006 (c. 49), ss. 59, 61, Sch. 7(19)
+[^M24]: 1981 c.14 (**107:1**).
+[^F450]: Words in s. 90(1)(a) repealed (1.4.2005) by Courts Act 2003 (c. 39), ss. 109(1)(3), 110, Sch. 8 para. 306, Sch. 10; S.I. 2005/910, art. 3
+[^F451]: Words in s. 91 substituted (27.2.2007) by Road Safety Act 2006 (c. 91), ss. 36(6), 61; S.I. 2007/237, art. 2(b)
+[^F452]: Words in the definition of “disability" in s. 92(2) inserted (23.7.1996) by S.I. 1996/1974, reg. 2, Sch. 1 para. 3(2)
+[^F453]: Words inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 5(2)
+[^F454]: Word in s. 92(5)(a) repealed (1.7.1998) by S.I. 1998/1420, reg. 17, Sch.
+[^F455]: Word substituted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 5(2)
+[^F456]: S. 92(5)(c) and the word “or" immediately preceding it inserted (1.7.1998) by S.I. 1998/1420, reg. 4(2)
+[^F457]: Words in s. 92(6)(a) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 3(3)
+[^F458]: S. 92(7)-(7A) substituted (1.7.1998) for s. 92(7)(7A) by S.I. 1998/1420, reg. 4(3)
+[^F459]: Words in s. 93(7ZB)(a)(7C) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 4, Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F460]: S. 92(7A)–(7C) inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 5(4)
+[^F461]: S. 92(7D) inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 3(5)
+[^F462]: Words in s. 92(7D) inserted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91(1), 94, Sch. 5 para. 19; S.I. 2004/2624, art. 2(2)(b)
+[^M25]: 1960 c. 16.
+[^F463]: S. 92(9)(a) substituted (1.4.1991) by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 5(5)(a)
+[^F464]: Words substituted (1.4.1991) by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 5(5)(b)
+[^F465]: Words repealed (1.4.1991) by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 16, Sch. 6
+[^F466]: S. 92(10) added (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 18(1); S.I. 1992/1286, art. 2, Sch.
+[^F467]: Words in s. 93(1)(b) omitted (23.7.1996 for specified purposes otherwise 1.1.1997) by virtue of S.I. 1996/1974, reg. 2, Sch. 1 para. 4
+[^F468]: Words in s. 93(2)(b)(3) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 5(2), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F469]: S. 93(2A) inserted (1.7.1998) by S.I. 1998/1420, reg. 5
+[^F470]: Words in s. 93(2A) inserted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 79(3)(a), 94; S.I. 2004/2624, art. 2(2)(a)
+[^F471]: Words inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 5(6)
+[^F472]: S. 93(4) omitted (30.11.2022) by virtue of Police, Crime, Sentencing and Courts Act 2022 (c. 32), s. 208(1), Sch. 10 para. 21; S.I. 2022/1187, reg. 4(a) (with Pt. 3)
+[^F473]: S. 93(5)(6) inserted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 79(3)(b), 94; S.I. 2004/2624, art. 2(2)(a)
+[^F474]: S. 94(3A) inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 18(2); S.I. 1992/1286, art. 2,Sch.
+[^F475]: Words inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 5(7)(a)
+[^F476]: Words substituted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 5(7)(b)
+[^F477]: Words substituted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 5(8)
+[^F478]: Words in s. 94(6)(b) substituted (20.7.2022) by The Legislative Reform (Provision of Information etc. Relating to Disabilities) Order 2022 (S.I. 2022/834), arts. 1(b), 2(2)
+[^F479]: S. 94(6A)(6B) inserted (20.7.2022) by The Legislative Reform (Provision of Information etc. Relating to Disabilities) Order 2022 (S.I. 2022/834), arts. 1(b), 2(3)
+[^F480]: Words substituted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 5(9)
+[^F481]: Words in s. 94(9) substituted (20.7.2022) by The Legislative Reform (Provision of Information etc. Relating to Disabilities) Order 2022 (S.I. 2022/834), arts. 1(b), 2(4)(a)
+[^F482]: Word in s. 94(9)(a) omitted (20.7.2022) by virtue of The Legislative Reform (Provision of Information etc. Relating to Disabilities) Order 2022 (S.I. 2022/834), arts. 1(b), 2(4)(b)
+[^F483]: S. 94(9)(c) and word inserted (20.7.2022) by The Legislative Reform (Provision of Information etc. Relating to Disabilities) Order 2022 (S.I. 2022/834), arts. 1(b), 2(4)(c)
+[^F484]: S. 94(10) inserted (20.7.2022) by The Legislative Reform (Provision of Information etc. Relating to Disabilities) Order 2022 (S.I. 2022/834), arts. 1(b), 2(5)
+[^F485]: S. 94A inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 18(3); S.I. 1992/1286, art. 2, Sch.
+[^F486]: S. 94A(1)(a)(b) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 5(2)
+[^F487]: Words in s. 94A(1)(a)(ii) substituted (11.10.2004) by Crime (International Co-operation) Act 2003 (c.32), ss. 91(1), 94, Sch. 5 para. 20(a); S.I. 2004/2624, art. 2(2)(b)
+[^F488]: Words in s. 94A(1)(a)(iii) inserted (11.10.2004) by Crime (International Co-operation) Act 2003 (c.32), ss. 91(1), 94, Sch. 5 para. 20(b)(i); S.I. 2004/2624, art. 2(2)(b)
+[^F489]: Words in s. 94A(1)(a)(iii) inserted (11.10.2004) by Crime (International Co-operation) Act 2003 (c.32), ss. 91(1), 94, Sch. 5 para. 20(b)(ii); S.I. 2004/2624, art. 2(2)(b)
+[^F490]: Words in s. 94A(1)(b)(ii) inserted (11.10.2004) by Crime (International Co-operation) Act 2003 (c.32), ss. 91(1), 94, Sch. 5 para. 20(c); S.I. 2004/2624, art. 2(2)(b)
+[^F491]: S. 95(2)-(5) substituted (1.12.2001) for s. 95(2) by S.I. 2001/3649, arts. 1, 312
+[^F492]: Words in s. 95(3)(a) substituted (1.4.2013) by Financial Services Act 2012 (c. 21), s. 122(3), Sch. 18 para. 60 (with Sch. 20); S.I. 2013/423, art. 3, Sch.
+[^F493]: S. 95(3)(b) and word omitted (31.12.2020) by virtue of The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149), reg. 1(3), Sch. para. 31 (with reg. 4); 2020 c. 1, Sch. 5 para. 1(1)
+[^F494]: Words substituted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 6(2)(a)
+[^F495]: Words inserted (1.4.1991) by Road Traffic (Driver Licensing and Information Systems Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 9(a)
+[^F496]: Words repealed by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 16, Sch. 6
+[^F497]: Words in s. 97(1) inserted (14.7.2014) by Immigration Act 2014 (c. 22), ss. 46(1), 75(3); S.I. 2014/1820, art. 2(d)
+[^F498]: Words inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 9(b)
+[^F499]: S. 97(1)(c) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 6(2)
+[^F500]: Words in s. 97(1)(c)(i) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 6(2)(a), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F501]: S. 97(1)(c)(ia) inserted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 78(2)(a), 94; S.I. 2004/2624, art. 2(2)(a)
+[^F502]: Words in s. 97(1)(c)(ia) substituted (8.6.2015) by The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583), art. 1(1), Sch. 2 para. 2(a)(i)
+[^F503]: Words in s. 97(1)(c)(ii) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 6(2)(c), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F504]: Word in s. 97(1) omitted (19.1.2013) by virtue of The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 1 para. 2(2)(b)
+[^F505]: Words in s. 97(1)(d) renumbered as s. 97(1)(d)(i) (19.1.2013) by The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 1 para. 2(2)(a)
+[^F506]: S. 97(1)(d)(ii) and word inserted (19.1.2013) by The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 1 para. 2(2)(b)
+[^F507]: Words in s. 97(1)(d)(ii) omitted (31.12.2020) by virtue of The Driving Licences (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1251), regs. 1(2), 2(4); 2020 c. 1, Sch. 5 para. 1(1)
+[^F508]: Words in s. 97(1)(d) renumbered as s. 97(1)(e) (19.1.2013) by The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 1 para. 2(2)(c)
+[^F509]: Words in s. 97(1)(e) substituted (19.1.2013) by The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 1 para. 2(2)(d)
+[^F510]: Words in s. 97(1)(d) inserted (1.6.1997) by 1995 c. 13, s. 10(4), Sch. 2 para. 2(2)(b) (with ss. 8, 10(3)); S.I. 1997/267, art. 2(2)
+[^F511]: Words in s. 97(1)(d) substituted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91(1), 94, Sch. 5 para. 21; S.I. 2004/2624, art. 2(2)(b)
+[^F512]: S. 97(1A) inserted (1.7.1998) by S.I. 1998/1420, reg. 6(2)
+[^F513]: S. 97(1AA) inserted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 78(2)(b), 94; S.I. 2004/2624, art. 2(2)(a)
+[^F514]: Words in s. 97(1AA) substituted (8.6.2015) by The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583), art. 1(1), Sch. 2 para. 2(a)(ii)(aa)
+[^F515]: Words in s. 97(1AA)(b) inserted (8.6.2015) by The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583), art. 1(1), Sch. 2 para. 2(a)(ii)(bb)
+[^F516]: Word repealed by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 16, Sch. 6
+[^F517]: S. 97(3)(d) omitted (19.1.2013) by virtue of The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 1 para. 2(3)
+[^F518]: S. 97(3)(e) and word immediately preceding it inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 6(2)(b)
+[^F519]: Words in s. 97(3)(e) inserted (1.7.1998) by S.I. 1998/1420, reg. 6(3)
+[^F520]: Word in s. 97(3)(e) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 6(3)(b)
+[^F521]: S. 97(3A)(3B) inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 6(2)(c)
+[^F522]: Words in s. 97(3A) inserted (1.7.1998) by S.I. 1998/1420, reg. 6(4)
+[^F523]: Words in s. 97(3A) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 6(4)
+[^F524]: Words in s. 97(4) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 6(5)
+[^F525]: Words in s. 97(4) inserted (1.7.1998) by S.I. 1998/1420, reg. 6(5)
+[^F526]: S. 97(5)(6) omitted (19.1.2013) by virtue of The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 1 para. 2(3)
+[^F527]: S. 97(7) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 17(3), 83, Sch. 8; S.I. 1992/1286, art. 2, Sch.
+[^F528]: S. 97A inserted (14.7.2014) by Immigration Act 2014 (c. 22), ss. 46(2), 75(3); S.I. 2014/1820, art. 2(d)
+[^F529]: S. 97A(1)(d) substituted (29.12.2014) by The Road Traffic Act 1988 and Motor Vehicles (Driving Licences) (Amendment) Regulations 2014 (S.I. 2014/3190), regs. 1, 10(2)
+[^F530]: S. 98(1)(1A) substituted (1.7.1998) for s. 98(1) by S.I. 1998/1420, reg. 7(2)
+[^F531]: Words in s. 98(1)(c) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 7, Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F532]: Words substituted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 5(10)(a)
+[^F533]: Words substituted by S.I. 1990/144, regs. 2(1), 3, Sch. 1 para. 4(b)(i)
+[^F534]: S. 98(2)(a)(b) substituted for paras. (a)–(c) by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 11(b)
+[^F535]: Word substituted by S. I. 1990/144, regs. 2(1), 3, Sch. 1 para. 4(b)(ii)
+[^F536]: Words substituted by S.I. 1990/144, regs. 2(1), 3, Sch. 1 para. 4(c)
+[^F537]: S. 98(3)(b) omitted (19.1.2013) by virtue of The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 1 para. 3
+[^F538]: S. 98(3)(c) and word immediately preceding it inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 11(c)(ii)
+[^F539]: Words in s. 98(3)(c) inserted (1.7.1998) by S.I. 1998/1420, reg. 7(3)
+[^F540]: Words inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 11(d)
+[^F541]: S. 98(4A) inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 5(10)(b)
+[^F542]: Words substituted by S.I. 1990/144, regs. 2(3), 3, Sch. 3 para. 1(b)
+[^F543]: S. 98(5) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 17(3), 83, Sch. 8; S.I. 1992/1286, art. 2, Sch.
+[^F544]: S. 98A inserted (prosp.) by Road Safety Act 2006 (c. 49), ss. 39(1), 61
+[^F545]: Words in s. 98A(1) repealed (prosp.) by Road Safety Act 2006 (c. 49), ss. 10(12), 59, 61, Sch. 3 para. 8(2), Sch. 7(4)
+[^F546]: Words in s. 98A(3) repealed (prosp.) by Road Safety Act 2006 (c. 49), ss. 10(12), 59, 61, Sch. 3 para. 8(3), Sch. 7(4)
+[^F547]: Words in s. 98A(4) repealed (prosp.) by Road Safety Act 2006 (c. 49), ss. 10(12), 59, 61, Sch. 3 para. 8(4), Sch. 7(4)
+[^F548]: Word in s. 98A(4) omitted by Road Safety Act 2006 (c. 49), s. 39(1) (as amended) (20.4.2012) by virtue of The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 2 para. 2(2)(a)
+[^F549]: S. 98A(4)(c) and word inserted by Road Safety Act 2006 (c. 49), s. 39(1) (as amended) (20.4.2012) by The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 2 para. 2(2)(b)
+[^F550]: Words in s. 98A(7) repealed (prosp.) by Road Safety Act 2006 (c. 49), ss. 10(12), 59, 61, Sch. 3 para. 8(5), Sch. 7(4)
+[^F551]: Words commencing “In so far as" substituted (1.4.1991) for words “A licence" by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 12(a)
+[^F552]: Words in s. 99(1)(b) substituted (26.5.2015) by Deregulation Act 2015 (c. 20), s. 115(3)(o), Sch. 10 para. 2
+[^F553]: S. 99(1A) inserted (1.4.1991) by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 2(2)
+[^F554]: Words in s. 99(2) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 8
+[^F555]: Words in s. 99(2) inserted (1.7.1998) by S.I. 1998/1420, reg. 8(2)
+[^F556]: S. 99(2A)-(2H) substituted for s. 99(2A) (19.1.2013) by The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 1 para. 4(2)
+[^F557]: Words in s. 99(2A) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 9(2), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F558]: S. 99(3) paras. (a)(aa) substituted for para. (a) by S.I. 1990/144, regs. 2(1), 3, Sch. 1 para. 5(a)(i)
+[^F559]: S. 99(3)(aa) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 9(3)(a), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F560]: Words in s. 99(3)(b) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 9(3)(b), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F561]: Words in s. 99(3) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 9(3)(c), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F562]: Words inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 12(b)
+[^F563]: S. 99(3ZA)(3ZB) inserted (14.7.2014) by Immigration Act 2014 (c. 22), ss. 47(1)(a), 75(3); S.I. 2014/1820, art. 2(e)
+[^F564]: Words in s. 99(3ZA) omitted (8.6.2015) by virtue of Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 9(3A); S.I. 2015/560, art. 3(a) (with arts. 4-9) (as inserted by Immigration Act 2014 (c. 22), Sch. 9 para. 64(a); S.I. 2014/1820, art. 2(g))
+[^F565]: S. 99(3A) inserted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 78(3), 94; S.I. 2004/2624, art. 2(2)(a)
+[^F566]: Words in s. 99(4) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 9(4), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F567]: Words in s. 99(4) omitted (1.7.1998) by virtue of S.I. 1998/1420, reg. 8(4)
+[^F568]: Words inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 12(c)
+[^F569]: Words in s. 99(5) inserted (1.7.1998) by s.I. 1998/1420, reg. 8(5)
+[^F570]: Word in s. 99(5) inserted (14.7.2014) by Immigration Act 2014 (c. 22), ss. 47(1)(b), 75(3); S.I. 2014/1820, art. 2(e)
+[^F571]: S. 99(6) omitted (30.11.2022) by virtue of Police, Crime, Sentencing and Courts Act 2022 (c. 32), s. 208(1), Sch. 10 para. 22; S.I. 2022/1187, reg. 4(a) (with Pt. 3)
+[^F572]: Words in s. 99(7ZZA) omitted by 2006 c. 49, Sch. 3 para. 9(6A) (as inserted) (20.4.2012) by virtue of The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 2 para. 3(2)
+[^F573]: S. 99(7)-(8) substituted (1.7.1998) for s. 99(7)(8) by S.I. 1998/1420, reg. 8(1)(6)
+[^F574]: S. 99(7ZA) inserted (27.2.2007) by Road Safety Act 2006 (c. 49), ss. 40(1)(b), 61; S.I. 2007/237, art. 2(c)
+[^F575]: Words in s. 99(7) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 9(6), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F576]: Words in s. 99(7) repealed (27.2.2007) by Road Safety Act 2006 (c. 49), ss. 40(1)(a), 59, 61, Sch. 7(12); S.I. 2007/237, art. 2(c)
+[^F577]: S. 99(7ZZA) inserted (19.1.2013) by The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 1 para. 4(3)
+[^F578]: Words in s. 99(7ZZA) omitted (8.6.2015) by virtue of Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 9(6A)(a); S.I. 2015/560, art. 3(a) (with arts. 4-9) (as inserted by The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), Sch. 2 para. 3(2))
+[^F579]: Word in s. 99(7ZZA) inserted (14.7.2014) by Immigration Act 2014 (c. 22), ss. 47(1)(c)(i), 75(3); S.I. 2014/1820, art. 2(e)
+[^F580]: Words in s. 99(7ZZA) omitted (8.6.2015) by virtue of Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 9(6A)(a); S.I. 2015/560, art. 3(a) (with arts. 4-9) (as inserted by The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), Sch. 2 para. 3(2))
+[^F581]: Words in s. 99(7ZZA) inserted (14.7.2014) by Immigration Act 2014 (c. 22), ss. 47(1)(c)(ii), 75(3); S.I. 2014/1820, art. 2(e)
+[^F582]: Words in s. 99(7ZZA) omitted (8.6.2015) by virtue of Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 9(6A)(b); S.I. 2015/560, art. 3(a) (with arts. 4-9) (as inserted by The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), Sch. 2 para. 3(2))
+[^F583]: Words in s. 99(7ZZA) omitted (8.6.2015) by virtue of Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 9(6A)(b); S.I. 2015/560, art. 3(a) (with arts. 4-9) (as inserted by The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), Sch. 2 para. 3(2))
+[^F584]: Words in s. 99(7ZA) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 9(7); S.I. 2015/560, art. 3(a) (with arts. 4-9)
+[^F585]: Words in s. 99(7ZA) inserted (19.1.2013) by The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 1 para. 4(4)(a)
+[^F586]: Words in s. 99(7ZA) substituted (19.1.2013) by The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 1 para. 4(4)(b)
+[^F587]: Words in s. 99(7A) substituted (19.1.2013) by The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 1 para. 4(5)
+[^F588]: S. 99(7AA)(7AB) inserted (29.12.2014) by The Road Traffic Act 1988 and Motor Vehicles (Driving Licences) (Amendment) Regulations 2014 (S.I. 2014/3190), regs. 1, 10(3)
+[^F589]: Word in s. 99(7B) omitted (19.1.2013) by virtue of The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 1 para. 4(6)(a)
+[^F590]: S. 99(7B)(c) and word inserted (19.1.2013) by The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 1 para. 4(6)(b)
+[^F591]: Word in s. 99(7B) inserted (19.1.2013) by The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 1 para. 4(6)(c)
+[^F592]: S. 99(7C) inserted (19.1.2013) by The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 1 para. 4(7)
+[^F593]: Word in s. 99(8) inserted (19.1.2013) by The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 1 para. 4(8)
+[^F594]: Ss. 99ZA-99ZC and cross-heading inserted (1.5.2002) by 2000 c. 38, s. 257; S.I. 2002/1014, art. 2, Sch. Pt. II
+[^F595]: Ss. 99ZA-99ZC and cross-heading inserted (1.5.2002) by 2000 c. 38, s. 257; S.I. 2002/1014, art. 2, Sch. Pt. II
+[^F596]: Ss. 99ZA-99ZC and cross-heading inserted (1.5.2002) by 2000 c. 38, s. 257; S.I. 2002/1014, art. 2, Sch. Pt. II
+[^F597]: Ss. 99ZA-99ZC and cross-heading inserted (1.5.2002) by 2000 c. 38, s. 257; S.I. 2002/1014, art. 2, Sch. Pt. II
+[^F598]: Words in s. 99ZC(1)(b)(c) inserted (24.9.2007) by Road Safety Act 2006 (c. 49), ss. 41(2), 61; S.I. 2007/2472, art. 2(l)
+[^F599]: Word in s. 99ZC(1)(d) repealed (24.9.2007) by Road Safety Act 2006 (c. 49), ss. 59, 61, Sch. 7(13); S.I. 2007/2472, art. 2(n)
+[^F600]: S. 99ZC(1)(f) and preceding word inserted (24.9.2007) by Road Safety Act 2006 (c. 49), ss. 41(3), 61; S.I. 2007/2472, art. 2(l)
+[^F601]: S. 99A and cross-heading inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 9
+[^F602]: S. 99A inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 9
+[^F603]: S. 99A(4)(a) substituted (1.7.1998) by S.I. 1998/1420, reg. 9
+[^F604]: S. 99A(5)(a) and word omitted (8.6.2015) by virtue of The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583), art. 1(1), Sch. 2 para. 2(b)
+[^F605]: S. 99B inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 10
+[^F606]: S. 99B(3) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 11(2), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F607]: Words in s. 99B(4) substituted (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 11(3); S.I. 2015/560, art. 3(a) (with arts. 4-9)
+[^F608]: Words in s. 99B(5) substituted (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 11(4); S.I. 2015/560, art. 3(a) (with arts. 4-9)
+[^F609]: S. 99B(6) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 11(5), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F610]: S. 99B(7) substituted (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 11(6); S.I. 2015/560, art. 3(a) (with arts. 4-9)
+[^F611]: S. 99B(8) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 11(7), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F612]: Words in s. 99B(9) inserted (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 11(8); S.I. 2015/560, art. 3(a) (with arts. 4-9)
+[^F613]: Words in s. 99B(11)(b) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 11(9), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F614]: S. 99B(12) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 11(10), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F615]: S. 99C inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 11
+[^F616]: Words in ss. 99C(1)-(4) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 12(2), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F617]: S. 99C(5) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 12(3), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F618]: S. 99D inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 12
+[^F619]: Subsection (3A) was inserted by section 18(2) of the 1991 Act; subsections (4) and (5)(c) were amended by section 5(7) and (8) of the 1989 Act.
+[^F620]: S. 99E inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 13
+[^F621]: Word in s. 100(1)(b) substituted (26.5.2015) by Deregulation Act 2015 (c. 20), s. 115(3)(o), Sch. 10 para. 3(a)
+[^F622]: Words in s. 100(1)(b) inserted (26.5.2015) by Deregulation Act 2015 (c. 20), s. 115(3)(o), Sch. 10 para. 3(b)
+[^F623]: Word in s. 100(1)(c) inserted (14.7.2014) by Immigration Act 2014 (c. 22), ss. 47(2)(a), 75(3); S.I. 2014/1820, art. 2(e)
+[^F624]: Words in s. 100(1)(c) inserted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91(1), 94, Sch. 5 para. 22(a); S.I. 2004/2624, art. 2(2)(b)
+[^F625]: Words in s. 100(1) substituted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91(1), 94, Sch. 5 para. 22(b); S.I. 2004/2624, art. 2(2)(b)
+[^F626]: Words in s. 100(1) repealed (1.4.2005) by Courts Act 2003 (c. 39), ss. 109(1)(3), 110, Sch. 8 para. 307, Sch. 10; S.I. 2005/910, art. 3
+[^F627]: S. 100(4) inserted (14.7.2014) by Immigration Act 2014 (c. 22), ss. 47(2)(b), 75(3); S.I. 2014/1820, art. 2(e)
+[^F628]: Table in s. 101(1) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 15
+[^F629]: S. 102(2) inserted (11.10.2004) by virtue of Crime (International Co-operation) Act 2003 (c. 32), ss. 78(4), 94; S.I. 2004/2624, art. 2(2)(a)
+[^F630]: S. 102A and cross-heading inserted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 76, 94; S.I. 2004/2624, art. 2(2)(a)
+[^F631]: S. 103 and cross heading substituted (1.7.1992) for s. 103 by Road Traffic Act 1991 (c. 40, SIF 107:1), s.19; S.I. 1992/1286, art. 2,Sch.
+[^F632]: S. 103 substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 19; S.I. 1992/1286, art. 2, Sch.
+[^F633]: S. 103(3) repealed (1.10.2002) by 2002 c. 30, s. 107, Sch. 7 para. 11(1)(2), Sch. 8; S.I. 2002/2306, art. 2(g)(i)-(iii)(a)
+[^F634]: Words in s. 103(4) substituted (1.10.2002) by 2002 c. 30, s. 107, Sch. 7 para. 11(1)(3); S.I. 2002/2306, art. 2(g)(i)(ii)
+[^F635]: Words in s. 103(5) substituted (1.10.2002) by 2002 c. 30, s. 107, Sch. 7 para. 11(1)(4), S.I. 2002/2306, art. 2(g)(i)(ii)
+[^F636]: Words in s. 103(6) substituted (1.10.2002) by 2002 c. 30, s. 107, Sch. 7 para. 11(1)(5), S.I. 2002/2306, art. 2(g)(i)(ii)
+[^F637]: Words in s. 103(6)(a) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 16
+[^F638]: Word in s. 104(1) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 126(a); S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F639]: Words in s. 104(1) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 126(b); S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^M26]: 1988 c. 53.
+[^F640]: S. 105(2)(a)(b) substituted (23.7.1996) by S.I. 1996/1974, reg. 2, Sch. 1 para. 17(a)
+[^F641]: Words in s. 105(2)(a) inserted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91(1), 94, Sch. 5 para. 23(a)(i); S.I. 2004/2624, art. 2(2)(b)
+[^F642]: Words in s. 105(2)(a) substituted (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 13(2)(a); S.I. 2015/560, art. 3(a) (with arts. 4-9)
+[^F643]: S. 105(2)(b) repealed (12.1.2010) by Policing and Crime Act 2009 (c. 26, ss. 112(1)(2), 116(6), Sch. 7 para. 130, {Sch. 8 Pt. 13}
+[^F644]: Word in s. 105(2)(e) repealed (1.7.1998) by S.I. 1998/1420, regs. 10(2)(a), 17, Sch.
+[^F645]: Words substituted by S.I. 1990/144, regs. 2(1), 3, Sch. 1 para. 6(c)
+[^F646]: Words in s. 105(2)(e) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 13(2)(c), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F647]: Words in s. 105(2)(e) inserted (1.7.1998) by S.I. 1998/1420, reg. 10(2)(b)
+[^F648]: S. 105(2)(ea) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 13(2)(d), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F649]: S. 105(2)(ee) inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 14
+[^F650]: Words in s. 105(2)(ee) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch. 8; S.I. 1992/1286, art. 2, Sch.
+[^F651]: Words in s. 105(2)(f) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch. 8; S.I. 1992/1286, art. 2, Sch.
+[^F652]: Words in s. 105(2)(f) inserted (23.7.1996) by S.I. 1996/1974, reg. 2, Sch. 1 para. 17(c)
+[^F653]: Words in s. 105(2)(f) inserted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91(1), 94, Sch. 5 para. 23(a)(iv); S.I. 2004/2624, art. 2(2)(b)
+[^F654]: Words in s. 105(4) inserted (1.7.1998) by S.I. 1998/1420, reg. 10(3)
+[^M27]: 1988 c. 53.
+[^F655]: Words in s. 105(5) substituted (23.7.1996) by S.I. 1996/1974, reg. 2, Sch. 1 para. 17(3)
+[^F656]: Words in s. 105(5) inserted (8.11.2006) by Road Safety Act 2006 (c. 49), ss. 58(2), 61(9)
+[^F657]: Words in s. 105(5) substituted (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 13(3); S.I. 2015/560, art. 3(a) (with arts. 4-9)
+[^F658]: Words in s. 107 substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 18
+[^F659]: Words in s. 107 substituted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91(1), 94, Sch. 5 para. 24; S.I. 2004/2624, art. 2(2)(b)
+[^M28]: 1978 c. 30.
+[^F660]: Definition of “agricultural or forestry tractor" in s. 108(1) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) for definition of “agricultural tractor" by S.I. 1996/1974, reg. 2, Sch. 1 para. 19(2)(a)
+[^F661]: Definition inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 15(a)
+[^F662]: Words in the definition of “Community licence" in s. 108(1) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 19(2)(b)(i)
+[^F663]: Words in s. 108(1) omitted (31.12.2020) by virtue of The Driving Licences (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1251), regs. 1(2), 2(5)(a)(i); 2020 c. 1, Sch. 5 para. 1(1)
+[^F664]: Words in the definition of “Community licence" in s. 108(1) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 19(2)(b)(ii)
+[^F665]: Words in s. 108(1) omitted (31.12.2020) by virtue of The Driving Licences (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1251), regs. 1(2), 2(5)(a)(ii); 2020 c. 1, Sch. 5 para. 1(1)
+[^F666]: S. 108(1): para. (c) in definition of “Community licence" and the word “or" immediately preceding it inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 19(2)(b)(iii)
+[^F667]: S. 108: definition of “counterpart” repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 14, Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F668]: Words inserted (1.4.1991) by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 15(b)
+[^F669]: Words in s. 108(1) substituted (19.1.2013) by The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 1 para. 5(2)(a)
+[^F670]: Definition of “exchangeable licence" in s. 108(1) substituted (31.8.1998) by S.I. 1998/1917, art. 2(2)
+[^F671]: Definition inserted (1.4.1991) by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 15(c)
+[^F672]: Definition of “large goods vehicle" in s. 108(1) inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 19(2)(f)
+[^F673]: Words inserted (1.4.1991) by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 15(d)
+[^F674]: Words in the definition of “licence" in s. 108(1) omitted (23.7.1996 for specified purposes and otherwise 1.1.1997) by virtue of S.I. 1996/1974, reg. 2, Sch. 1 para. 19(2)(g)
+[^F675]: Word in s. 108(1) substituted (20.5.2018) by The Motorcycles (Type-Approval) Regulations 2018 (S.I. 2018/235), reg. 1(b), Sch. 2 para. 1(5)(a) (with reg. 1(c), Sch. 1 paras. 16, 17)
+[^F676]: Word in s. 108(1) substituted (20.5.2018) by The Motorcycles (Type-Approval) Regulations 2018 (S.I. 2018/235), reg. 1(b), Sch. 2 para. 1(5)(b) (with reg. 1(c), Sch. 1 paras. 16, 17)
+[^F677]: Definitions of “medium-sized goods vehicle", “moped" and “motor bicycle" in s. 108(1) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) for the definition of “medium-sized goods vehicle" by S.I. 1996/1974, reg. 2, Sch. 1 para. 19(2)(h)
+[^F678]: Definition in s. 108(1) substituted (19.1.2013) by The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 1 para. 5(2)(c)
+[^F679]: S. 108(1): words in para. (b) in definition of “motor bicycle" substituted (1.7.1998) by S.I. 1998/1420, reg. 11
+[^F680]: Word in s. 108(1) substituted (19.1.2013) by The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 1 para. 5(2)(d)
+[^F681]: Definitions inserted (1.6.1990 as regards definition of "Northern Ireland driving licence" and "Northern Ireland licence" and 1.4.1991 otherwise) by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 15(e)
+[^F682]: S. 108(1): in definition of "Northern Ireland driving licence" and "Northern Ireland licence" words inserted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91(1), 94, Sch. 5 para. 25(b); S.I. 2004/2624, art. 2(2)(b)
+[^F683]: Definition inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 15(f)
+[^F684]: Definition of “small vehicle" in s. 108(1) inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 19(2)(i)
+[^F685]: Definitions of “small goods vehicle" and “small passenger vehicle" in s. 108(1) omitted (23.7.1996 for specified purposes and otherwise 1.1.1997) by virtue of S.I. 1996/1974, reg. 2, Sch. 1 para. 19(2)(j)
+[^F686]: Definition inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 15(g)
+[^F687]: S. 108(1A) inserted (19.1.2013) by The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977), reg. 1(2), Sch. 1 para. 5(3)
+[^F688]: S. 108(1B)-(1E) inserted (29.12.2014) by The Road Traffic Act 1988 and Motor Vehicles (Driving Licences) (Amendment) Regulations 2014 (S.I. 2014/3190), regs. 1, 10(4)
+[^F689]: Words in s. 108(1B)(b) substituted (31.12.2020) by The Driving Licences (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1251), regs. 1(2), 2(5)(b)(i); 2020 c. 1, Sch. 5 para. 1(1)
+[^F690]: Words in s. 108(1B)(b) substituted (31.12.2020) by The Driving Licences (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1251), regs. 1(2), 2(5)(b)(ii); 2020 c. 1, Sch. 5 para. 1(1)
+[^F691]: S. 108(1BA) inserted (31.12.2020) by The Driving Licences (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1251), regs. 1(2), 2(5)(c); 2020 c. 1, Sch. 5 para. 1(1)
+[^F692]: Words in s. 108(1C)(b) substituted (31.12.2020) by The Driving Licences (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1251), regs. 1(2), 2(5)(d)(i); 2020 c. 1, Sch. 5 para. 1(1)
+[^F693]: Words in s. 108(1C)(b) substituted (31.12.2020) by The Driving Licences (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1251), regs. 1(2), 2(5)(d)(ii); 2020 c. 1, Sch. 5 para. 1(1)
+[^F694]: Words in s. 108(1D) omitted (31.12.2020) by virtue of The Driving Licences (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1251), regs. 1(2), 2(5)(e)(i); 2020 c. 1, Sch. 5 para. 1(1)
+[^F695]: Words in s. 108(1D) omitted (31.12.2020) by virtue of The Driving Licences (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1251), regs. 1(2), 2(5)(e)(ii); 2020 c. 1, Sch. 5 para. 1(1)
+[^F696]: Words in s. 108(1D) substituted (31.12.2020) by The Driving Licences (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1251), regs. 1(2), 2(5)(e)(iii); 2020 c. 1, Sch. 5 para. 1(1)
+[^F697]: S. 108(2)-(2B) substituted (31.8.1998) for s. 108(2) by S.I. 1998/1917, art. 2(3)
+[^F698]: Words substituted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 16(a)(i)
+[^F699]: Words in s. 109(1) inserted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91(1), 94, Sch. 5 para. 26(a); S.I. 2004/2624, art. 2(2)(b)
+[^F700]: Words inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 16(a)(ii)
+[^F701]: S. 109(2) substituted (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 15; S.I. 2015/560, art. 3(a) (with arts. 4-9)
+[^F702]: S. 109(3)-(5) repealed (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91, 94, Sch. 5 para. 26(c), Sch. 6; S.I. 2004/2624, art. 2(2)(b)(c)
+[^F703]: S. 109A inserted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 77(1), 94; S.I. 2004/2624, art. 2(2)(a)
+[^F704]: Words in s. 109A heading substituted (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 16(4); S.I. 2015/560, art. 3(a) (with arts. 4-9)
+[^F705]: S. 109A(1) substituted for s. 109A(1)(2) (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 16(2); S.I. 2015/560, art. 3(a) (with arts. 4-9)
+[^F706]: S. 109A(4)(5) substituted (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 16(3); S.I. 2015/560, art. 3(a) (with arts. 4-9)
+[^F707]: Ss. 109B, 109C inserted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 79(2), 94; S.I. 2004/2624, art. 2(2)(a)
+[^F708]: Words in s. 109B(1) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 17(2), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F709]: Words in s. 109B(2)(a) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 17(3)(a), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F710]: Words in s. 109B(2)(b) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 17(3)(b), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F711]: Words in s. 109B(4) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 17(4), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F712]: S. 109B(5) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 17(5), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F713]: Ss. 109B, 109C inserted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 79(2), 94; S.I. 2004/2624, art. 2(2)(a)
+[^F714]: Pt. IV (ss. 110–122): by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 1(1)(2)(7), 16, Sch. 6 it is provided that Pt. IV (entitled "Licensing of drivers of heavy goods vehicles") shall cease to have effect and is repealed (1.4.1991) and by s. 2(1) of that 1989 Act (coming into force 1.4.1991) it is provided that there shall be inserted as Part IV (entitled "Licensing of drivers of large goods vehicles and passenger-carrying vehicles") of this 1988 Act the provisions set out in Schedule 2 to that 1989 Act which: (a) apply both to the licensing of the drivers of large goods vehicles and to the licensing of the drivers of passenger-carrying vehicles (as there defined); and (b) re-enact and assimilate certain of the provisions of Part IV of the 1988 Act (as originally enacted) and of section 22 of the Public Passenger Vehicles Act 1981 (c. 14) to take account of the abolition by section 1 above of special licences to drive heavy goods vehicles and public service vehicles and the granting after the appointed day of licences to drive such vehicles under Part III of the 1988 Act
+[^F715]: Pt. IV (ss. 110–122): by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 1(1)(2)(7), 16, Sch. 6 it is provided that Pt. IV (entitled "Licensing of drivers of heavy goods vehicles") shall cease to have effect and is repealed (1.4.1991) and by s. 2(1) of that 1989 Act (coming into force 1.4.1991) it is provided that there shall be inserted as Part IV (entitled "Licensing of drivers of large goods vehicles and passenger-carrying vehicles") of this 1988 Act the provisions set out in Schedule 2 to that 1989 Act which: (a) apply both to the licensing of the drivers of large goods vehicles and to the licensing of the drivers of passenger-carrying vehicles (as there defined); and (b) re-enact and assimilate certain of the provisions of Part IV of the 1988 Act (as originally enacted) and of section 22 of the Public Passenger Vehicles Act 1981 (c. 14) to take account of the abolition by section 1 above of special licences to drive heavy goods vehicles and public service vehicles and the granting after the appointed day of licences to drive such vehicles under Part III of the 1988 Act
+[^F716]: Definition of “Community licence” and “LGV Community licence” inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I 1996/1974, reg. 2, Sch. 1 para. 20(a)
+[^F717]: Definition of “PVC Community licence” inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2 Sch. 1 para. 20(b)
+[^F718]: Pt. IV (ss. 110–122): by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 1(1)(2)(7), 16, Sch. 6 it is provided that Pt. IV (entitled "Licensing of drivers of heavy goods vehicles") shall cease to have effect and is repealed (1.4.1991) and by s. 2(1) of that 1989 Act (coming into force 1.4.1991) it is provided that there shall be inserted as Part IV (entitled "Licensing of drivers of large goods vehicles and passenger-carrying vehicles") of this 1988 Act the provisions set out in Schedule 2 to that 1989 Act which: (a) apply both to the licensing of the drivers of large goods vehicles and to the licensing of the drivers of passenger-carrying vehicles (as there defined); and (b) re-enact and assimilate certain of the provisions of Part IV of the 1988 Act (as originally enacted) and of section 22 of the Public Passenger Vehicles Act 1981 (c. 14) to take account of the abolition by section 1 above of special licences to drive heavy goods vehicles and public service vehicles and the granting after the appointed day of licences to drive such vehicles under Part III of the 1988 Act
+[^F719]: Words in s. 111(1) substituted (3.7.2013) by The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644), art. 1(1), Sch. 1 (with arts. 1(3), 2, 7)
+[^F720]: S. 111(1)(a)(b) substituted for words in s. 111(1) (23.7 1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 21
+[^F721]: Pt. IV (ss. 110–122): by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 1(1)(2)(7), 16, Sch. 6 it is provided that Pt. IV (entitled "Licensing of drivers of heavy goods vehicles") shall cease to have effect and is repealed (1.4.1991) and by s. 2(1) of that 1989 Act (coming into force 1.4.1991) it is provided that there shall be inserted as Part IV (entitled "Licensing of drivers of large goods vehicles and passenger-carrying vehicles") of this 1988 Act the provisions set out in Schedule 2 to that 1989 Act which: (a) apply both to the licensing of the drivers of large goods vehicles and to the licensing of the drivers of passenger-carrying vehicles (as there defined); and (b) re-enact and assimilate certain of the provisions of Part IV of the 1988 Act (as originally enacted) and of section 22 of the Public Passenger Vehicles Act 1981 (c. 14) to take account of the abolition by section 1 above of special licences to drive heavy goods vehicles and public service vehicles and the granting after the appointed day of licences to drive such vehicles under Part III of the 1988 Act
+[^F722]: Pt. IV (ss. 110–122): by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 1(1)(2)(7), 16, Sch. 6 it is provided that Pt. IV (entitled "Licensing of drivers of heavy goods vehicles") shall cease to have effect and is repealed (1.4.1991) and by s. 2(1) of that 1989 Act (coming into force 1.4.1991) it is provided that there shall be inserted as Part IV (entitled "Licensing of drivers of large goods vehicles and passenger-carrying vehicles") of this 1988 Act the provisions set out in Schedule 2 to that 1989 Act which: (a) apply both to the licensing of the drivers of large goods vehicles and to the licensing of the drivers of passenger-carrying vehicles (as there defined); and (b) re-enact and assimilate certain of the provisions of Part IV of the 1988 Act (as originally enacted) and of section 22 of the Public Passenger Vehicles Act 1981 (c. 14) to take account of the abolition by section 1 above of special licences to drive heavy goods vehicles and public service vehicles and the granting after the appointed day of licences to drive such vehicles under Part III of the 1988 Act
+[^F723]: Words in s. 113(1) substituted (3.7.2013) by The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644), art. 1(1), Sch. 1 (with arts. 1(3), 2, 7)
+[^F724]: Words in s. 113(2) substituted (3.7.2013) by The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644), art. 1(1), Sch. 1 (with arts. 1(3), 2, 7)
+[^F725]: Words in s. 113(3) substituted (3.7.2013) by The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644), art. 1(1), Sch. 1 (with arts. 1(3), 2, 7)
+[^F726]: Words in s. 113(4) substituted (3.7.2013) by The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644), art. 1(1), Sch. 1 (with arts. 1(3), 2, 7)
+[^F727]: Words in s. 113(5) substituted (3.7.2013) by The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644), art. 1(1), Sch. 1 (with arts. 1(3), 2, 7)
+[^F728]: Pt. IV (ss. 110–122): by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 1(1)(2)(7), 16, Sch. 6 it is provided that Pt. IV (entitled "Licensing of drivers of heavy goods vehicles") shall cease to have effect and is repealed (1.4.1991) and by s. 2(1) of that 1989 Act (coming into force 1.4.1991) it is provided that there shall be inserted as Part IV (entitled "Licensing of drivers of large goods vehicles and passenger-carrying vehicles") of this 1988 Act the provisions set out in Schedule 2 to that 1989 Act which: (a) apply both to the licensing of the drivers of large goods vehicles and to the licensing of the drivers of passenger-carrying vehicles (as there defined); and (b) re-enact and assimilate certain of the provisions of Part IV of the 1988 Act (as originally enacted) and of section 22 of the Public Passenger Vehicles Act 1981 (c. 14) to take account of the abolition by section 1 above of special licences to drive heavy goods vehicles and public service vehicles and the granting after the appointed day of licences to drive such vehicles under Part III of the 1988 Act
+[^F729]: S. 114(1)(a)(b) and words substituted for words in s. 114(1) (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2 Sch. 1 para. 22
+[^F730]: Pt. IV (ss. 110–122): by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 1(1)(2)(7), 16, Sch. 6 it is provided that Pt. IV (entitled "Licensing of drivers of heavy goods vehicles") shall cease to have effect and is repealed (1.4.1991) and by s. 2(1) of that 1989 Act (coming into force 1.4.1991) it is provided that there shall be inserted as Part IV (entitled "Licensing of drivers of large goods vehicles and passenger-carrying vehicles") of this 1988 Act the provisions set out in Schedule 2 to that 1989 Act which: (a) apply both to the licensing of the drivers of large goods vehicles and to the licensing of the drivers of passenger-carrying vehicles (as there defined); and (b) re-enact and assimilate certain of the provisions of Part IV of the 1988 Act (as originally enacted) and of section 22 of the Public Passenger Vehicles Act 1981 (c. 14) to take account of the abolition by section 1 above of special licences to drive heavy goods vehicles and public service vehicles and the granting after the appointed day of licences to drive such vehicles under Part III of the 1988 Act
+[^F731]: Words in s. 115(3) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 64; S.I. 1992/1286, art. 2, Sch.
+[^F732]: Words in s. 115(3) substituted (23.7.1996 for specified purposes and otherwise 1.1.1996) by S.I. 1996/1974, reg. 2, Sch. 1 para. 23(a)
+[^F733]: S. 115(3)(b)(i)(ii) substituted for words in s. 115(3)(b) (23.7.1996 for specified purposes and otherwise (1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 23(b)
+[^F734]: S. 115A inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 24
+[^F735]: Words in s. 115A(1) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 18, Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F736]: Pt. IV (ss. 110–122): by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 1(1)(2)(7), 16, Sch. 6 it is provided that Pt. IV (entitled "Licensing of drivers of heavy goods vehicles") shall cease to have effect and is repealed (1.4.1991) and by s. 2(1) of that 1989 Act (coming into force 1.4.1991) it is provided that there shall be inserted as Part IV (entitled "Licensing of drivers of large goods vehicles and passenger-carrying vehicles") of this 1988 Act the provisions set out in Schedule 2 to that 1989 Act which: (a) apply both to the licensing of the drivers of large goods vehicles and to the licensing of the drivers of passenger-carrying vehicles (as there defined); and (b) re-enact and assimilate certain of the provisions of Part IV of the 1988 Act (as originally enacted) and of section 22 of the Public Passenger Vehicles Act 1981 (c. 14) to take account of the abolition by section 1 above of special licences to drive heavy goods vehicles and public service vehicles and the granting after the appointed day of licences to drive such vehicles under Part III of the 1988 Act
+[^F737]: S. 116(1) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 25(2)
+[^F738]: Words in s. 116(1) substituted (3.7.2013) by The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644), art. 1(1), Sch. 1 (with arts. 1(3), 2, 7)
+[^F739]: Words in s. 116(2) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 25(3)
+[^F740]: Words in s. 116(2) substituted (3.7.2013) by The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644), art. 1(1), Sch. 1 (with arts. 1(3), 2, 7)
+[^F741]: S. 116(2A) inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 25(4)
+[^F742]: Words in s. 116(2A) substituted (3.7.2013) by The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644), art. 1(1), Sch. 1 (with arts. 1(3), 2, 7)
+[^F743]: Words in s. 116(3) substituted (3.7.2013) by The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644), art. 1(1), Sch. 1 (with arts. 1(3), 2, 7)
+[^F744]: Words in s. 116(4) substituted (3.7.2013) by The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644), art. 1(1), Sch. 1 (with arts. 1(3), 2, 7)
+[^F745]: S. 116(4)(a)(b) substituted for words in s. 116(4) (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1924, reg. 2, Sch. 1 para. 25(5)
+[^F746]: Words in s. 116(5) substituted (3.7.2013) by The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644), art. 1(1), Sch. 1 (with arts. 1(3), 2, 7)
+[^F747]: Words in s. 116(6) substituted (3.7.2013) by The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644), art. 1(1), Sch. 1 (with arts. 1(3), 2, 7)
+[^F748]: Pt. IV (ss. 110–122): by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 1(1)(2)(7), 16, Sch. 6 it is provided that Pt. IV (entitled "Licensing of drivers of heavy goods vehicles") shall cease to have effect and is repealed (1.4.1991) and by s. 2(1) of that 1989 Act (coming into force 1.4.1991) it is provided that there shall be inserted as Part IV (entitled "Licensing of drivers of large goods vehicles and passenger-carrying vehicles") of this 1988 Act the provisions set out in Schedule 2 to that 1989 Act which: (a) apply both to the licensing of the drivers of large goods vehicles and to the licensing of the drivers of passenger-carrying vehicles (as there defined); and (b) re-enact and assimilate certain of the provisions of Part IV of the 1988 Act (as originally enacted) and of section 22 of the Public Passenger Vehicles Act 1981 (c. 14) to take account of the abolition by section 1 above of special licences to drive heavy goods vehicles and public service vehicles and the granting after the appointed day of licences to drive such vehicles under Part III of the 1988 Act
+[^F749]: Words in s. 117(1) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 65(2); S.I. 1992/1286, art. 2,Sch.
+[^F750]: S. 117(2A) inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 65(3); S.I. 1992/1286, art. 2,Sch.
+[^F751]: S. 117A inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1997/1974, reg. 2, Sch. 1 para. 26
+[^F752]: Words in s. 117A(2)(c)(3) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 19, Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F753]: Words in s. 117A(2)(c) substituted (27.2.2007) by Road Safety Act 2006 (c. 49), ss. 40(2), 61; S.I. 2007/237, art. 2(c)
+[^F754]: S. 117A(3)(3A) substituted (1.7.1998) for s. 117A(3) by S.I. 1998/1420, reg. 12
+[^F755]: Words in s. 117A(3) substituted (27.2.2007) by Road Safety Act 2006 (c. 49), ss. 40(2), 61; S.I. 2007/237, art. 2(c)
+[^F756]: Pt. IV (ss. 110–122): by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 1(1)(2)(7), 16, Sch. 6 it is provided that Pt. IV (entitled "Licensing of drivers of heavy goods vehicles") shall cease to have effect and is repealed (1.4.1991) and by s. 2(1) of that 1989 Act (coming into force 1.4.1991) it is provided that there shall be inserted as Part IV (entitled "Licensing of drivers of large goods vehicles and passenger-carrying vehicles") of this 1988 Act the provisions set out in Schedule 2 to that 1989 Act which: (a) apply both to the licensing of the drivers of large goods vehicles and to the licensing of the drivers of passenger-carrying vehicles (as there defined); and (b) re-enact and assimilate certain of the provisions of Part IV of the 1988 Act (as originally enacted) and of section 22 of the Public Passenger Vehicles Act 1981 (c. 14) to take account of the abolition by section 1 above of special licences to drive heavy goods vehicles and public service vehicles and the granting after the appointed day of licences to drive such vehicles under Part III of the 1988 Act
+[^F757]: Words in s. 118(1) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 20(2), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F758]: S. 118(2)-(2B) substituted for s. 118(2) (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 20(3); S.I. 2015/560, art. 3(a) (with arts. 4-9)
+[^F759]: Words in s. 118(2B) substituted (cond.) (8.6.2015) by The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644), art. 1(1), Sch. 1 (with arts. 1(3), 2, 7)
+[^F760]: Words in s. 118(4) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 20(4), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F761]: S. 118(4A) inserted (1.1.1998) by S.I. 1998/1420, reg. 13
+[^F762]: S. 118(5) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 20(5), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F763]: Pt. IV (ss. 110–122): by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 1(1)(2)(7), 16, Sch. 6 it is provided that Pt. IV (entitled "Licensing of drivers of heavy goods vehicles") shall cease to have effect and is repealed (1.4.1991) and by s. 2(1) of that 1989 Act (coming into force 1.4.1991) it is provided that there shall be inserted as Part IV (entitled "Licensing of drivers of large goods vehicles and passenger-carrying vehicles") of this 1988 Act the provisions set out in Schedule 2 to that 1989 Act which: (a) apply both to the licensing of the drivers of large goods vehicles and to the licensing of the drivers of passenger-carrying vehicles (as there defined); and (b) re-enact and assimilate certain of the provisions of Part IV of the 1988 Act (as originally enacted) and of section 22 of the Public Passenger Vehicles Act 1981 (c. 14) to take account of the abolition by section 1 above of special licences to drive heavy goods vehicles and public service vehicles and the granting after the appointed day of licences to drive such vehicles under Part III of the 1988 Act
+[^F764]: Words in s. 119(1) inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. I para. 27(2)(a)
+[^F765]: Words in s. 119(1)(c) inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. I para. 27(2)(b)
+[^F766]: Words in s. 119(1) inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. I para. 27(2)(c)
+[^F767]: Words in s. 119(1) substituted (3.7.2013) by The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644), art. 1(1), Sch. 1 (with arts. 1(3), 2, 7)
+[^F768]: Words in s. 119(1) repealed (1.4.2005) by Courts Act 2003 (c. 39), ss. 109(1)(3), 110, Sch. 8 para. 308(a), Sch. 10; S.I. 2005/910, art. 3
+[^F769]: Words in s. 119(1) substituted (1.4.2005) by Courts Act 2003 (c. 39), ss. 109(1), 110, Sch. 8 para. 308(b); S.I. 2005/910, art. 3
+[^F770]: Words in s. 119(2) substituted (23.7.1996 for specified purposes amnd otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. I para. 27(3)
+[^F771]: Words in s. 119(2) substituted (3.7.2013) by The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644), art. 1(1), Sch. 1 (with arts. 1(3), 2, 7)
+[^F772]: Pt. IV (ss. 110–122): by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 1(1)(2)(7), 16, Sch. 6 it is provided that Pt. IV (entitled "Licensing of drivers of heavy goods vehicles") shall cease to have effect and is repealed (1.4.1991) and by s. 2(1) of that 1989 Act (coming into force 1.4.1991) it is provided that there shall be inserted as Part IV (entitled "Licensing of drivers of large goods vehicles and passenger-carrying vehicles") of this 1988 Act the provisions set out in Schedule 2 to that 1989 Act which: (a) apply both to the licensing of the drivers of large goods vehicles and to the licensing of the drivers of passenger-carrying vehicles (as there defined); and (b) re-enact and assimilate certain of the provisions of Part IV of the 1988 Act (as originally enacted) and of section 22 of the Public Passenger Vehicles Act 1981 (c. 14) to take account of the abolition by section 1 above of special licences to drive heavy goods vehicles and public service vehicles and the granting after the appointed day of licences to drive such vehicles under Part III of the 1988 Act
+[^F773]: Pt. IV (ss. 110–122): by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 1(1)(2)(7), 16, Sch. 6 it is provided that Pt. IV (entitled "Licensing of drivers of heavy goods vehicles") shall cease to have effect and is repealed (1.4.1991) and by s. 2(1) of that 1989 Act (coming into force 1.4.1991) it is provided that there shall be inserted as Part IV (entitled "Licensing of drivers of large goods vehicles and passenger-carrying vehicles") of this 1988 Act the provisions set out in Schedule 2 to that 1989 Act which: (a) apply both to the licensing of the drivers of large goods vehicles and to the licensing of the drivers of passenger-carrying vehicles (as there defined); and (b) re-enact and assimilate certain of the provisions of Part IV of the 1988 Act (as originally enacted) and of section 22 of the Public Passenger Vehicles Act 1981 (c. 14) to take account of the abolition by section 1 above of special licences to drive heavy goods vehicles and public service vehicles and the granting after the appointed day of licences to drive such vehicles under Part III of the 1988 Act
+[^F774]: Definition of “conduct" in s. 121(1) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 28(2)(a)
+[^F775]: S. 121: definition of “counterpart” repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 21, Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F776]: Definition of “large goods Vehicle" in s. 121(1) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 28(2)(c)
+[^F777]: Words in s. 121(1) definition of “passenger carrying vehicle" inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 28(2)(d)
+[^F778]: Words in s. 121(1) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 28(2)(e)
+[^F779]: Pt. IV (ss. 110–122): by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 1(1)(2)(7), 16, Sch. 6 it is provided that Pt. IV (entitled "Licensing of drivers of heavy goods vehicles") shall cease to have effect and is repealed (1.4.1991) and by s. 2(1) of that 1989 Act (coming into force 1.4.1991) it is provided that there shall be inserted as Part IV (entitled "Licensing of drivers of large goods vehicles and passenger-carrying vehicles") of this 1988 Act the provisions set out in Schedule 2 to that 1989 Act which: (a) apply both to the licensing of the drivers of large goods vehicles and to the licensing of the drivers of passenger-carrying vehicles (as there defined); and (b) re-enact and assimilate certain of the provisions of Part IV of the 1988 Act (as originally enacted) and of section 22 of the Public Passenger Vehicles Act 1981 (c. 14) to take account of the abolition by section 1 above of special licences to drive heavy goods vehicles and public service vehicles and the granting after the appointed day of licences to drive such vehicles under Part III of the 1988 Act
+[^F780]: Words in s. 122(2) omitted (3.7.2013) by virtue of The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644), art. 1(1), Sch. 1 (with arts. 1(3), 2, 7)
+[^F781]: Word in s. 122(3) substituted (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 22(a); S.I. 2015/560, art. 3(a) (with arts. 4-9)
+[^F782]: Word in s. 122(3) substituted (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 22(b); S.I. 2015/560, art. 3(a) (with arts. 4-9)
+[^F783]: Pt. IV (ss. 110–122): by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 1(1)(2)(7), 16, Sch. 6 it is provided that Pt. IV (entitled "Licensing of drivers of heavy goods vehicles") shall cease to have effect and is repealed (1.4.1991) and by s. 2(1) of that 1989 Act (coming into force 1.4.1991) it is provided that there shall be inserted as Part IV (entitled "Licensing of drivers of large goods vehicles and passenger-carrying vehicles") of this 1988 Act the provisions set out in Schedule 2 to that 1989 Act which: (a) apply both to the licensing of the drivers of large goods vehicles and to the licensing of the drivers of passenger-carrying vehicles (as there defined); and (b) re-enact and assimilate certain of the provisions of Part IV of the 1988 Act (as originally enacted) and of section 22 of the Public Passenger Vehicles Act 1981 (c. 14) to take account of the abolition by section 1 above of special licences to drive heavy goods vehicles and public service vehicles and the granting after the appointed day of licences to drive such vehicles under Part III of the 1988 Act
+[^X1]: Pt. IV (ss. 110–122): by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 1(1)(2)(7), 16, Sch. 6 it is provided that Pt. IV (entitled "Licensing of drivers of heavy goods vehicles") shall cease to have effect and is repealed (1.4.1991) and by s. 2(1) of that 1989 Act (coming into force 1.4.1991) it is provided that there shall be inserted as Part IV (entitled "Licensing of drivers of large goods vehicles and passenger-carrying vehicles") of this 1988 Act the provisions set out in Schedule 2 to that 1989 Act which: (a) apply both to the licensing of the drivers of large goods vehicles and to the licensing of the drivers of passenger-carrying vehicles (as there defined); and (b) re-enact and assimilate certain of the provisions of Part IV of the 1988 Act (as originally enacted) and of section 22 of the Public Passenger Vehicles Act 1981 (c. 14) to take account of the abolition by section 1 above of special licences to drive heavy goods vehicles and public service vehicles and the granting after the appointed day of licences to drive such vehicles under Part III of the 1988 Act
+[^M29]: 1962 c. 59.
+[^F784]: Words in s. 123(1)(a) inserted (6.7.2012) by Driving Instruction (Suspension and Exemption Powers) Act 2009 (c. 17), s. 7(3), Sch. 1 para. 2(2); S.I. 2012/1356, art. 4(b)
+[^F785]: Words in s. 123(5) inserted (6.7.2012) by Driving Instruction (Suspension and Exemption Powers) Act 2009 (c. 17), s. 7(3), Sch. 1 para. 2(3); S.I. 2012/1356, art. 4(b)
+[^F786]: Words in s. 123(7) inserted (9.9.1996) by 1993 c. 31, s. 6, Sch. para. 2(2); S.I. 1996/1980, art. 2
+[^F787]: S. 123(8) substituted (9.9.1996) by 1993 c. 31, s. 6, Sch. para. 2(3); S.I. 1996/1980, art. 2
+[^F788]: S. 124(1A) inserted (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 178, Sch. 4 para. 53(1); S.I. 2006/378, art. 4(1), Sch. para. 10 (subject to art. 4(2)-(7))
+[^F789]: Words in s. 124(1A) substituted (7.10.2013) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 8 para. 32(2)(a); S.I. 2013/1682, art. 3(v)
+[^F790]: Words in s. 124(1A) substituted (7.10.2013) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 8 para. 32(2)(b); S.I. 2013/1682, art. 3(v)
+[^F791]: Word in s. 124(1A) substituted (7.10.2013) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 8 para. 32(3)(a); S.I. 2013/1682, art. 3(v)
+[^F792]: Words in s. 124(1A) substituted (7.10.2013) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 8 para. 32(3)(b); S.I. 2013/1682, art. 3(v)
+[^F793]: Words in s. 124(1A) substituted (7.10.2013) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 8 para. 32(3)(c); S.I. 2013/1682, art. 3(v)
+[^F794]: S. 124(2): definitions of "chief officer of police", "police authority" and "police force" repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 174(2), 178, Sch. 4, para. 53(2), Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. paras. 10, 13 (subject to art. 4(2)-(7))
+[^F795]: S. 124(3) repealed (3.7.2000) by 1999 c. 29, s. 325, 423, Sch. 27 para. 60, Sch. 34 Pt. VII (with Sch. 12 para. 9(1)); S.I. 2000/1648, art. 2, Sch.
+[^F796]: S. 125(2A)-(2D) inserted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 17(2); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F797]: S. 125(3)(b) substituted (1.4.1999) by S.I. 1999/357, reg. 2(2)(a)
+[^F798]: Words in s. 125(3)(b)(iii) omitted (8.6.2015) by virtue of The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583), art. 1(1), Sch. 2 para. 2(c)(i)
+[^F799]: S. 125(3)(c)(ii) substituted (1.4.1999) by S.I. 1999/357, reg. 2(2)(b)
+[^F800]: See section 108(1), the relevant amendments being by the Driving Licences (Community Driving Licence) Regulations 1996 (S.I. 1996/1974).
+[^M30]: 1988 c. 53.
+[^F801]: Word in s. 125(3)(d) omitted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 17(3)(a); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F802]: S. 125(3)(da) inserted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 17(3)(b); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F803]: S. 125(3A) inserted (9.12.2016 until the commencement of 2006 c. 49, Sch. 6) by The Driving and Motorcycle Riding Instructors (Recognition of European Professional Qualifications) Regulations 2016 (S.I. 2016/1089), regs. 1, 2(4)(f) (with reg. 5)
+[^F804]: S. 125(3B) inserted (until the commencement of 2006 c. 49, Sch. 6) by S.I. 2016/1089, reg. 2(4)(fa) (as inserted (1.12.2023) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286), reg. 1, Sch. 3 para. 97(2)(a))
+[^F805]: S. 125(5)(a)(b) and words substituted for words (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 17(4); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F806]: S. 125(5A) inserted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 17(5); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F807]: S. 125(7A) inserted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 17(6); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F808]: S. 125(8A)(8B) inserted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 17(7); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F809]: S. 125(9) substituted (9.9.1996) by 1993 c. 31, ss. 6, Sch. para. 3; S.I. 1996/1980, art. 2
+[^F810]: S. 125(9) omitted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 17(8); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F811]: S. 125(10) inserted (1.4.1999) by S.I. 1999/357, reg. 2(2)(c)
+[^F812]: Words in s. 125(10) substituted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 17(9); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F813]: S. 125A inserted (9.9.1996) by 1993 c. 31, s. 1; S.I. 1996/1980, art. 2
+[^F814]: S. 125A omitted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 18; S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F815]: Word “and" in definition of “disabled persons limited driving licence" in s. 125A(8)(a) omitted (1.4.1999) by virtue of 1999/357, reg. 2(3)(a)
+[^F816]: S. 125A(8)(c) and preceding word “and" inserted (1.4.1999) by S.I. 1999/357, reg. 2(3)(b)
+[^F817]: Words in s. 125A(8) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 23, Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F818]: S. 125B inserted (9.9.1996) by 1993 c. 31, s. 1; S.I. 1996/1980, art. 2
+[^F819]: S. 125B omitted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 18; S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F820]: Words in s. 125B(6)(b) inserted (1.4.2002) by 2000 c. 38, s. 260, Sch. 29 para. 8; S.I. 2002/658, art. 2(2), Sch. Pt. 2
+[^F821]: S. 126(4) inserted (9.9.1996) by 1993 c. 31, s. 6, Sch. para. 4; S.I. 1996/1980, art. 2
+[^F822]: S. 126(4) omitted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 19; S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F823]: Word in s. 127(2) substituted (9.9.1996) by 1993 c. 31, s. 6, Sch. para. 5(2); S.I. 1996/1980, art. 2
+[^F824]: Words in s. 127(3) substituted (9.9.1996) by 1993 c. 31, s. Sch. para. 5(3); S.I. 1996/1980, art. 2
+[^F825]: Words in s. 127(3) omitted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 20(2)(a); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F826]: Words in s. 127(3)(a) substituted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 20(2)(b); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^M31]: 1988 c. 53.
+[^F827]: Word in s. 127(3)(d) omitted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 20(2)(c); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F828]: S. 127(3)(da) inserted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 20(2)(d); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F829]: S. 127(3A) inserted (9.9.1996) by 1993 c. 31, s. 6, Sch. para. 5(4); S.I. 1996/1980, art. 2
+[^F830]: Words in s. 127(3A) omitted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 20(3); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F831]: S. 127(4) substituted (9.9.1996) by 1993 c. 31, s. 6, Sch. para. 5(5); S.I. 1996/1980, art. 2
+[^F832]: Words in s. 127(4)(a) omitted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 20(4)(a); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F833]: Word in s. 127(4)(a) substituted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 20(4)(b); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F834]: Word in s. 127(4)(a) omitted by virtue of (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 20(4)(c); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F835]: S. 127(4)(b) omitted by virtue of (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 20(4)(d); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F836]: S. 127(7A) inserted (1.4.2002) by 2000 c. 38, s. 259(1); S.I. 2002/658, art. 2(2), Sch. Pt. 2 (with art. 3(1))
+[^F837]: Words in s. 127(8) substituted (1.4.2002) by 2000 c. 38, s. 259(1); S.I. 2002/658, art. 2(2), Sch. Pt. 2 (with art. 3(1))
+[^F838]: S. 127(9) inserted (6.7.2012) by Driving Instruction (Suspension and Exemption Powers) Act 2009 (c. 17), s. 7(3), Sch. 1 para. 3; S.I. 2012/1356, art. 4(b)
+[^F839]: Word in s. 128(1) substituted (9.9.1996) by 1993 c. 31, s. 6, Sch. para. 6(2); S.I. 1996/1980, art. 2
+[^F840]: Words in s. 128(2) substituted (9.9.1996) by 1993 c. 31, s. 6, Sch. para. 6(3); S.I. 1996/1980, art. 2
+[^F841]: Words in s. 128(2) omitted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 21(2)(a); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F842]: Word in s. 128(2)(a) substituted (1.4.1999) by S.I. 1999/357, reg. 2(4)
+[^M32]: 1988 c. 53.
+[^F843]: Words in s. 128(2)(c) substituted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 21(2)(b); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F844]: S. 128(2)(da) inserted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 21(2)(c); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F845]: S. 128(2A) inserted (9.9.1996) by 1993 c. 31, s. 6, Sch. para. 6(4); S.I. 1996/1980, art. 2
+[^F846]: S. 128(2A) omitted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 21(3); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F847]: S. 128(6A) inserted (1.4.2002) by 2000 c. 38, s. 259(2); S.I. 2002/658, art. 2(2), Sch. Pt. 2 (with art. 3(1))
+[^F848]: Words in s. 128(7) substituted (1.4.2002) by 2000 c. 38, s. 259(2); S.I. 2002/658, art. 2(2), Sch. Pt. 2 (with art. 3(1))
+[^F849]: S. 128(7A)-(7G) inserted (6.7.2012) by Driving Instruction (Suspension and Exemption Powers) Act 2009 (c. 17), s. 7(3), Sch. 1 para. 1(2); S.I. 2012/1356, art. 4(b)
+[^F850]: S. 128(8) inserted by S.I. 1991/1129, art. 2
+[^F851]: Word in s. 128(8)(b) substituted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 21(4); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F852]: S. 128(9) inserted (9.9.1996) by 1993 c. 31, s. 6, Sch. para. 6(5); S.I. 1996/1980, art. 2
+[^F853]: S. 128(9) omitted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 21(5); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F854]: Words in s. 129(1) substituted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 22(2); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F855]: S. 129(1A)-(1C) inserted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 22(3); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F856]: S. 129(2) substituted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 22(4); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F857]: Words in s. 129(5) substituted (9.9.1996) by 1993 c. 31, s. 2(3); S.I. 1996/1980, art. 2
+[^F858]: Words in s. 129(5) omitted by virtue of (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 22(5); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F859]: S. 129(5ZA) inserted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 22(6); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F860]: S. 129(5A)(5B) inserted (9.9.1996) by 1993 c. 31, s. 2(4); S.I. 1996/1980, art. 2
+[^F861]: S. 129(5A) omitted by virtue of (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 22(7); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F862]: S. 129(5B) omitted by virtue of (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 22(7); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F863]: S. 129(9) inserted (6.7.2012) by Driving Instruction (Suspension and Exemption Powers) Act 2009 (c. 17), s. 7(3), Sch. 1 para. 6; S.I. 2012/1356, art. 4(b)
+[^F864]: Words in s. 130(1)(b) substituted (9.9.1996) by 1993 c. 31, s. 6, Sch. para. 7(2); S.I. 1996/1980, art. 2
+[^F865]: Words in s. 130(2) substituted (9.9.1996) by 1993 c. 31, s. 6, Sch. para. 7(3); S.I. 1996/1980, art. 2
+[^F866]: Words in s. 130(2) omitted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 23(2)(a); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F867]: Word in s. 130(2)(a) substituted (1.4.1999) by S.I. 1999/357, reg. 2(4)
+[^F868]: Word in s. 130(2)(a) omitted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 23(2)(b); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^M33]: 1988 c. 53.
+[^F869]: Word in s. 130(2)(b) omitted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 23(2)(b); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F870]: S. 130(2)(ba) inserted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 23(2)(c); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F871]: S. 130(2A) inserted (9.9.1996) by 1993 c. 31, s. 6 Sch. para. 7(4); S.I. 1996/1980, art. 2
+[^F872]: S. 130(2A) omitted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 23(3); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F873]: Words in s. 130(3)(5) repealed (1.4.2002) by 2000 c. 38, s. 274, Sch. 31 Pt. V(1); S.I. 2002/658, art. 2(2), Sch. Pt. 2 (as amended by S.I. 2002/846, art. 2(2))
+[^F874]: S. 130(5A)(6) substituted (1.4.2002) for s. 130(6) by 2000 c. 38, s. 259(3); S.I. 2002/658, art. 2(2), Sch. Pt. 2
+[^F875]: S. 130(7)-(13) inserted (6.7.2012) by Driving Instruction (Suspension and Exemption Powers) Act 2009 (c. 17), s. 7(3), Sch. 1 para. 5; S.I. 2012/1356, art. 4(b)
+[^F876]: S. 131(A1)-(C1) inserted (until the commencement of 2006 c. 49, Sch. 6) by S.I. 2016/1089, reg. 2(8)(a) (as substituted (1.12.2023) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286), reg. 1, Sch. 3 para. 97(2)(b))
+[^F877]: Words in s. 131(1)(2) substituted (1.9.2009) by The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885), art. 4(1), Sch. 1 para. 11(a) (with Sch. 4)
+[^F878]: Words in s. 131(3) substituted (until the commencement of 2006 c. 49, Sch. 6) by S.I. 2016/1089, reg. 2(8)(b) (as substituted (1.12.2023) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286), reg. 1, Sch. 3 para. 97(2)(b))
+[^F879]: Words in s. 131(3) substituted (1.9.2009) by The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885), art. 4(1), Sch. 1 para. 11(b)(i) (with Sch. 4)
+[^F880]: Words in s. 131(3) substituted (1.9.2009) by The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885), art. 4(1), Sch. 1 para. 11(b)(ii) (with Sch. 4)
+[^F881]: S. 131(4A) inserted (1.4.2002) by 2000 c. 38, s. 258(1)(4); S.I. 2002/658, art. 2(2), Sch. Pt. 2
+[^F882]: Words in s. 131(4A) substituted (1.9.2009) by The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885), art. 4(1), Sch. 1 para. 11(c)(i) (with Sch. 4)
+[^F883]: Word in s. 131(4A) substituted (1.9.2009) by The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885), art. 4(1), Sch. 1 para. 11(c)(ii) (with Sch. 4)
+[^F884]: S. 131(4B)-(4F) inserted (1.4.2002) by 2000 c. 38, s. 259(4); S.I. 2002/658, art. 2(2), Sch. Pt. 2
+[^F885]: Words in s. 131(4B) substituted (1.9.2009) by The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885), art. 4(1), Sch. 1 para. 11(d) (with Sch. 4)
+[^F886]: Words in s. 131(4C) substituted (1.9.2009) by The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885), art. 4(1), Sch. 1 para. 11(e)(i) (with Sch. 4)
+[^F887]: Words in s. 4C omitted (1.9.2009) by virtue of The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885), art. 4(1), Sch. 1 para. 11(e)(ii) (with Sch. 4)
+[^F888]: Words in s. 131(4D) substituted (1.9.2009) by The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885), art. 4(1), Sch. 1 para. 11(f)(i) (with Sch. 4)
+[^F889]: Words in s. 131(4E) substituted (1.9.2009) by The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885), art. 4(1), Sch. 1 para. 11(g)(i) (with Sch. 4)
+[^F890]: Words in s. 131(4E) substituted (1.9.2009) by The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885), art. 4(1), Sch. 1 para. 11(g)(i) (with Sch. 4)
+[^F891]: Words in s. 131(4E) omitted (1.9.2009) by The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885), art. 4(1), Sch. 1 para. 11(g)(ii) (with Sch. 4)
+[^F892]: Words in s. 131(4F) substituted (1.9.2009) by The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885), art. 4(1), Sch. 1 para. 11(h)(i) (with Sch. 4)
+[^F893]: Words in s. 131(4F) substituted (1.9.2009) by The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885), art. 4(1), Sch. 1 para. 11(h)(ii) (with Sch. 4)
+[^F894]: S. 131(4G) omitted (1.9.2009) by virtue of The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885), art. 4(1), Sch. 1 para. 11(i) (with Sch. 4)
+[^F895]: S. 131(5) repealed (1.4.2002) by 2000 c. 38, s. 274, Sch. 31 Pt. V(1); S.I. 2002/658, art. 2(2), Sch. Pt. 2 (with art. 3(2))
+[^F896]: S. 131A and crossheading inserted (8.6.2012 for specified purposes, 6.7.2012 so far as not already in force) by Driving Instruction (Suspension and Exemption Powers) Act 2009 (c. 17), s. 7(3), Sch. 1 para. 7; S.I. 2012/1356, arts. 3(b), 4(a)
+[^F897]: Words in s. 132(1) substituted (1.4.2002) by 2000 c. 38, s. 260, Sch. 29 para. 9(1)(2); S.I. 2002/658, art. 2(2), Sch. Pt. 2
+[^F898]: Words in s. 132(2)(a) substituted (1.4.2002) by 2000 c. 38, s. 260, Sch. 29 para. 9(1)(3)(a)(i); S.I. 2002/658, art. 2(2), Sch. Pt. 2
+[^F899]: Words in s. 132(2)(a) substituted (1.4.2002) by 2000 c. 38, s. 260, Sch. 29 para. 9(1)(3)(a)(ii); S.I. 2002/658, art. 2(2), Sch. Pt. 2
+[^F900]: Words in s. 132(2)(a) substituted (1.4.2002) by 2000 c. 38, s. 260, Sch. 29 para. 9(1)(3)(a)(iii); S.I. 2002/658, art. 2(2), Sch. Pt. 2
+[^F901]: Words in s. 132(2)(b) inserted (1.4.2002) by 2000 c. 38, s. 260, Sch. 29 para. 9(1)(3)(b)(i); S.I. 2002/658, art. 2(2), Sch. Pt. 2
+[^F902]: Words in s. 132(2)(b) inserted (1.4.2002) by 2000 c. 38, s. 260, Sch. 29 para. 9(1)(3)(b)(ii); S.I. 2002/658, art. 2(2), Sch. Pt. 2
+[^F903]: Words in s. 132(2)(c) inserted (1.4.2002) by 2000 c. 38, s. 260, Sch. 29 para. 9(1)(3)(c); S.I. 2002/658, art. 2(2), Sch. Pt. 2
+[^F904]: Words in s. 133(1) substituted (1.4.2002) by 2000 c. 38, s. 260, Sch. 29 para. 11(1)(2)(a); S.I. 2002/658, art. 2(2), Sch. Pt. 2 (with art. 3(3))
+[^F905]: Words in s. 133(1)(a) substituted (1.4.2005) by Courts Act 2003 (c. 39), ss. 109(1), 110, Sch. 8 para. 309; S.I. 2005/910, art. 3
+[^F906]: Words in s. 133(1) substituted (1.4.2002) by 2000 c. 38, s. 260, Sch. 29 para. 11(1)(2)(b); S.I. 2002/658, art. 2(2), Sch. Pt. 2 (with art. 3(3))
+[^F907]: Words in s. 133(2) substituted (1.4.2002) by 2000 c. 38, s. 260, Sch. 29 para. 11(1)(3)(a); S.I. 2002/658, art. 2(2), Sch. Pt. 2 (with art. 3(3))
+[^F908]: Words in s. 133(2) substituted (1.4.2002) by 2000 c. 38, s. 260, Sch. 29 para. 11(1)(3)(b); S.I. 2002/658, art. 2(2), Sch. Pt. 2 (with art. 3(3))
+[^F909]: S. 133(4) inserted (1.4.2002) by 2000 c. 38, s. 260, Sch. 29 para. 11(1)(4); S.I. 2002/658, art. 2(2), Sch. Pt. 2 (with art. 3(3))
+[^F910]: Ss. 133A, 133B and cross-heading inserted (9.9.1996) by 1993 c. 31, s.3; S.I. 1996/1980, art. 2
+[^F911]: Words in s. 133A cross-heading omitted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 24(7); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F912]: Words in s. 133A heading omitted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 24(6); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F913]: Ss. 133A, 133B and cross-heading inserted (9.9.1996) by 1993 c. 31, s. 3; S.I. 1996/1980, art. 2
+[^F914]: Words in s. 133A(2)(a) substituted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 24(2)(a); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F915]: Words in s. 133A(2)(b) substituted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 24(2)(b); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F916]: Word in s. 133A(2) substituted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 24(2)(c); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F917]: S. 133A(4A) inserted (1.4.2002) by 2000 c. 38, s. 260, Sch. 29 para. 10; S.I. 2002/658, art. 2(2), Sch. Pt. 2
+[^F918]: Words in s. 133A(6)(a) substituted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 24(3)(a); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F919]: Words in s. 133A(6)(b) substituted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 24(3)(b); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F920]: Words in s. 133A(7)(a) omitted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 24(4); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F921]: S. 133A(10) inserted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 24(5); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F922]: Ss. 133A, 133B and cross-heading inserted (9.9.1996) by 1993 c. 31, s. 3; S.I. 1996/1980, art. 2
+[^F923]: S. 133B(1) omitted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 25(2); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F924]: S. 133B(2A) inserted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 25(3); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F925]: S. 133B(3) omitted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 25(4); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F926]: Words in s. 133B(4) substituted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 25(5); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F927]: S. 133B(5A) inserted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 25(6); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F928]: S. 133C inserted (9.9.1996) by 1993 c. 31, s.4; S.I. 1996/1980, art. 2
+[^F929]: S. 133C(1)(a) substituted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 26(2)(a); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F930]: Words in s. 133C(1)(b) omitted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 26(2)(b); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F931]: Words in s. 133C(2)(a) substituted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 26(3); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F932]: S. 133D inserted (9.9.1996) by 1993 c. 31, s. 5 ; S.I. 1996/1980, art. 2
+[^F933]: Words in s. 133D heading omitted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 27(4); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F934]: S. 133D(1) substituted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 27(2); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F935]: S. 133D(3A) inserted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 27(3); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F936]: S. 133E inserted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 28; S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F937]: S. 135(3)-(6) substituted for s. 135(3) (9.12.2016 until the commencement of 2006 c. 49, Sch. 6) by The Driving and Motorcycle Riding Instructors (Recognition of European Professional Qualifications) Regulations 2016 (S.I. 2016/1089), regs. 1, 2(9)(c) (as amended (1.12.2023) by The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286), reg. 1, Sch. 4 para. 7(2)(g)(ii)(iii))
+[^M34]: 1978 c. 30.
+[^F938]: S. 141(1): s. 141 renumbered as s. 141(1) (21.5.2012) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 6 para. 24(1); S.I. 2012/1357, art. 2(c)
+[^F939]: Words in s. 141(1) inserted (21.5.2012) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 6 para. 24(2); S.I. 2012/1357, art. 2(c)
+[^F940]: S. 141(2) inserted (21.5.2012) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 6 para. 24(3); S.I. 2012/1357, art. 2(c)
+[^F941]: S. 141A inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2 Sch. 1 para. 29
+[^F942]: Entries in s. 142 omitted (8.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 29(2); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F943]: Entries in table in s. 142 inserted (9.9.1996) by 1993 c. 31, s. 6, Sch. para. 8; S.I. 1996/1980, art. 2
+[^F944]: Entry in table in s. 142 inserted (1.4.1999) by S.I. 1999/357, reg. 2(5)
+[^F945]: Words in s. 142 omitted (8.6.2015) by virtue of The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583), art. 1(1), Sch. 2 para. 2(d)
+[^F946]: Word in s. 142 substituted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 29(3); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F947]: Word in s. 142 substituted (8.6.2015) by Deregulation Act 2015 (c. 20), s. 115(2), Sch. 2 para. 29(4); S.I. 2015/994, art. 7(a) (with Sch. Pt. 3)
+[^F948]: Words in s. 143 cross-heading omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 5 (with reg. 5)
+[^F949]: Words in s. 143 heading omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 6(2) (with reg. 5)
+[^F950]: Words in s. 143(1)(a) inserted (3.4.2000) by S.I. 2000/726, art. 2(a)
+[^F951]: Words in s. 143(1)(a) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 6(3) (with reg. 5)
+[^F952]: Words in s. 143(1)(b) inserted (3.4.2000) by S.I. 2000/726, art. 2(b)
+[^F953]: Words in s. 143(1)(b) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 6(3) (with reg. 5)
+[^F954]: Words in s. 143(3)(c) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 6(4) (with reg. 5)
+[^F955]: Words in s. 144 heading omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 7(2) (with reg. 5)
+[^F956]: S. 144(1)(1A)(1B) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 7(3) (with reg. 5)
+[^F957]: Words inserted (E.W) by Norfolk and Suffolk Broads Act 1988 (c. 4, SIF 81:1), ss. 21, 23(2), Sch. 6 para. 9 (as amended by Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1), s. 4, Sch. 3 para. 36)
+[^F958]: Words in s. 144(2)(a)(i) inserted (23.11.1995) by 1995 c. 25, S. 78, Sch. 10, para.29 (with ss. 115, 117, Sch. 8 para. 7); S.I. 1995/2950, art. 2
+[^F959]: Words in s. 144(2)(a)(i) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 1 para. 59; S.I. 2017/399, reg. 2, Sch. para. 38
+[^F960]: Words in s. 144(2)(a)(i) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), ss. 183(1)(5)(e), Sch. 2 para. 84; S.I. 2018/227, reg. 4(c)
+[^F961]: Words in s. 144(2)(a)(i) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 13 para. 6(23); S.I. 2015/994, art. 6(g)
+[^F962]: Words in s. 144(2)(a)(i) substituted (17.12.2009) by Local Democracy, Economic Development and Construction Act 2009 (c. 20), ss. 119, 148, 149, Sch. 6 para. 80; S.I. 2009/3318, art. 2(c)
+[^F963]: Words in s. 144(2)(a) omitted (16.1.2012) by virtue of Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 197(2); S.I. 2011/3019, art. 3, Sch. 1
+[^F964]: Words in s. 144(2)(a)(i) substituted (E.W.) (26.12.2023) by Levelling Up and Regeneration Act 2023 (c. 55), s. 255(2)(c), Sch. 4 para. 100 (with s. 247)
+[^F965]: Words in s. 144(2)(a)(ii) substituted (S.) (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 159(8); S.I. 1996/323, art. 4
+[^F966]: Words in s. 144(2)(a)(ii) inserted (1.4.2013) by The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602), art. 1(2), Sch. 2 para. 22(3)
+[^F967]: Words in s. 144(2)(b) inserted (16.1.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 197(3)(a); S.I. 2011/3019, art. 3, Sch. 1
+[^F968]: Words in s. 144(2)(b) repealed (3.7.2000) by 1999 c. 29, ss. 325, 423, Sch. 27 para. 61, Sch. 34 Pt. VII (with Sch. 12 para. 9(1)); S.I. 2000/1648,art. 2, Sch.
+[^F969]: Words in s. 144(2)(b) inserted (16.1.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 197(3)(b); S.I. 2011/3019, art. 3, Sch. 1
+[^F970]: Words in s. 144(2)(b) inserted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force ) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 12 para. 8; S.I. 2017/1139, reg. 2(k) (as amended by S.I. 2017/1162, reg. 2)
+[^F971]: S. 144(2)(ba) repealed (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 59, 174(2), 178, Sch. 4 para. 54, Sch. 17 Pt. 2; S.I. 2006/378, art. 4(1), Sch. paras. 10, 13 (subject to art. 4(2)-(7))
+[^F972]: Words in s. 144(2)(c) substituted (1.1.1996) by 1995 c. 21, ss. 314(2), 316(2) Sch. 13 para. 85 (with s. 312(1))
+[^F973]: S. 144(2)(d) repealed (28.3.2009 for certain purposes otherwise prosp.) by Armed Forces Act 2006 (c. 52), ss. 378(2), 383, Sch. 17; S.I. 2009/812, art. 3 (with transitional provisions in {S.I. 2009/1059})
+[^F974]: S. 144(2)(da)(db) inserted (1.4.1991) by National Health Service and Community Care Act 1990 (c. 19, SIF 113:2), s. 60, Sch. 8 Pt. I para. 4
+[^F975]: Words in s. 144(2)(da) omitted (1.4.2013) by virtue of Health and Social Care Act 2012 (c. 7), s. 306(4), Sch. 5 para. 46; S.I. 2013/160, art. 2(2) (with arts. 7-9)
+[^F976]: Words in s. 144(2)(da) substituted (1.4.2009) by Health and Social Care Act 2008 (c. 14), ss. 95, 170, Sch. 5 para. 61(a); S.I. 2009/462, art. 2, Sch. 1 para. 35(x)
+[^F977]: Words in s. 144(2)(db) substituted (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 5, 8(2), Sch. 1 para. 122(b) (with Sch. 3 Pt. 1)
+[^F978]: S. 144(2)(dc) inserted (E.W.) (1.4.2004) by Health and Social Care (Community Health and Standards) Act 2003 (c. 43), ss. 34, 199, Sch. 4 para. 74; S.I. 2004/759, art. 2
+[^F979]: Words in s. 144(2)(e) inserted (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 5, 8(2), Sch. 1 para. 122(c)(i) (with Sch. 3 Pt. 1)
+[^F980]: Words in s. 144(2)(e) substituted (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 5, 8(2), Sch. 1 para. 122(c)(ii) (with Sch. 3 Pt. 1)
+[^M35]: 1978 c. 29.
+[^F981]: S. 144(2)(g) added (11.11.2004) by The Health and Social Care (Community Health and Standards) Act 2003 (Commission for Healthcare Audit and Inspection and Commission for Social Care Inspection) (Consequential Provisions) Order 2004 (S.I. 2004/2987), art. 2(1)(f)(ii)
+[^F982]: Words in s. 144(2)(g) substituted (1.4.2009) by Health and Social Care Act 2008 (c. 14), ss. 95, 170, Sch. 5 para. 61(b); S.I. 2009/462, art. 2, Sch. 1 para. 35(x)
+[^F983]: Ss. 144A-144D inserted (4.2.2011) by Road Safety Act 2006 (c. 49), ss. 22(1), 61(1)(10) (with s. 61(3)); S.I. 2011/19, art. 2(a)
+[^F984]: Words in s. 144A(2)(a) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 8(2) (with reg. 5)
+[^F985]: Words in s. 144A(3) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 8(3) (with reg. 5)
+[^F986]: Words in s. 144A(4) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 8(3) (with reg. 5)
+[^F987]: Words in s. 144A(5) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 8(3) (with reg. 5)
+[^F988]: S. 144B(6A) inserted (4.2.2011) by The Motor Vehicles (Insurance Requirements) Regulations 2011 (S.I. 2011/20), regs. 1(1), 5
+[^F989]: Words in s. 145(3)(a) inserted (3.4.2000) by S.I. 2000/726, art. 2(3)
+[^F990]: S. 145(3)(aa) inserted (31.12.1992) by S.I. 1992/3036, reg. 2(1).
+[^F991]: Word in s. 145(3)(aa) substituted (31.12.2020) by The Motor Vehicles (Compulsory Insurance) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/551), regs. 1(1), 2(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F992]: Words in s. 145(3)(b) inserted (31.12.1992) by S.I. 1992/3036, reg. 2(2)
+[^F993]: Words in s. 145(3)(b) substituted (31.12.2020) by The Motor Vehicles (Compulsory Insurance) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/551), regs. 1(1), 2(b)(i); 2020 c. 1, Sch. 5 para. 1(1)
+[^F994]: Words in Act substituted (22.4.2011) by The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043), arts. 2, 3, 4 (with arts. 3(2)(3), 4(2), 6(4)(5))
+[^F995]: Words in s. 145(3)(b) substituted (31.12.1992) by S.I. 1992/3036, reg. 2(2).
+[^F996]: Words in s. 145(3)(b)(i) substituted (31.12.2020) by The Motor Vehicles (Compulsory Insurance) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/551), regs. 1(1), 2(b)(ii); 2020 c. 1, Sch. 5 para. 1(1)
+[^F997]: Word in s. 145(4)(b) substituted (31.12.2016) by The Motor Vehicles (Compulsory Insurance) Regulations 2016 (S.I. 2016/1193), regs. 1, 2(2)
+[^F998]: S. 145(4A) inserted (31.12.1992) by S.I. 1992/3036, reg. 2(3).
+[^M36]: 1969 c. 57
+[^F999]: S. 145(5) substituted (1.12.2001) by S.I. 2001/3649, arts. 1, 313
+[^F1000]: Words in s. 145(6) repealed (29.1.2007) by Health and Social Care (Community Health and Standards) Act 2003 (c. 43), ss. 196, 199, Sch. 14 Pt. 3; S.I. 2006/3397, art. 3 (subject to art. 4); S.S.I. 2007/10, art. 2(2)(g) (with art. 3(2)(a))
+[^F1001]: S. 146 omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 9 (with reg. 5)
+[^F1002]: Words in s. 147 heading omitted (30.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 3 para. 2(b); S.I. 2015/994, art. 9(a) (with Sch. Pt. 3A) (as amended by S.I. 2015/1405, art. 2)
+[^F1003]: Words in s. 147 heading omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 10(2) (with reg. 5)
+[^F1004]: Words in s. 147(1) substituted (30.6.2015) by Deregulation Act 2015 (c. 20), ss. 9(2), 115(7); S.I. 2015/994, art. 9(a) (with Sch. Pt. 3A) (as amended by S.I. 2015/1405, art. 2)
+[^F1005]: S. 147(1A)-(1E) inserted (30.4.2010) by The Motor Vehicles (Electronic Communication of Certificates of Insurance) Order 2010 (S.I. 2010/1117), art. 3(2)
+[^F1006]: Words in s. 147(1A) substituted (30.6.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 3 para. 2(a); S.I. 2015/994, art. 9(a) (with Sch. Pt. 3A) (as amended by S.I. 2015/1405, art. 2)
+[^F1007]: S. 147(2) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 10(3) (with reg. 5)
+[^F1008]: Words in s. 147(3) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 10(4) (with reg. 5)
+[^F1009]: S. 147(4)-(5) omitted (30.6.2015) by virtue of Deregulation Act 2015 (c. 20), ss. 9(4), 115(7); S.I. 2015/994, art. 9(a) (with Sch. Pt. 3A) (as amended by S.I. 2015/1405, art. 2)
+[^F1010]: Words in s. 148 heading omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 11(2) (with reg. 5)
+[^F1011]: Words in s. 148(1) substituted (30.6.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 3 para. 3; S.I. 2015/994, art. 9(a) (with Sch. Pt. 3A) (as amended by S.I. 2015/1405, art. 2)
+[^F1012]: Words in s. 148(1) substituted (1.11.2019) by The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 11(3)(a)(i) (with reg. 5)
+[^F1013]: Words in s. 148(1) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 11(3)(a)(ii) (with reg. 5)
+[^F1014]: S. 148(1)(b) and word omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 11(3)(b) (with reg. 5)
+[^F1015]: Words in s. 148(1) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 11(3)(c) (with reg. 5)
+[^F1016]: Words in 148(2)(h) substituted (1.9.1994) by 1994 C. 22, ss. 63, 66, Sch. 3 para. 24(1) (with s. 57(4))
+[^F1017]: Words in s. 148(3) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 11(4) (with reg. 5)
+[^F1018]: Words in s. 148(4) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 11(5)(a) (with reg. 5)
+[^F1019]: Words in s. 148(4) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 11(5)(b) (with reg. 5)
+[^F1020]: Words in s. 148(4) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 11(5)(c) (with reg. 5)
+[^F1021]: Word in s. 148(5) substituted (1.11.2019) by The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 11(6)(a) (with reg. 5)
+[^F1022]: Words in s. 148(5)(a) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 11(6)(b) (with reg. 5)
+[^F1023]: Words in s. 148(5) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 11(6)(c) (with reg. 5)
+[^F1024]: Words in s. 148(6) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 11(7)(a) (with reg. 5)
+[^F1025]: Words in s. 148(6) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 11(7)(b) (with reg. 5)
+[^F1026]: Words in s. 148(6) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 11(7)(c) (with reg. 5)
+[^F1027]: Words in s. 149(1) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 12 (with reg. 5)
+[^F1028]: Words in s. 150 heading omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 13(2) (with reg. 5)
+[^F1029]: Word in s. 150(1) substituted (1.11.2019) by The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 13(3)(a) (with reg. 5)
+[^F1030]: Words in s. 150(1)(a) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 13(3)(b) (with reg. 5)
+[^F1031]: Words in s. 150(1)(b) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 13(3)(b) (with reg. 5)
+[^F1032]: Words in s. 150(1)(b) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 13(3)(c) (with reg. 5)
+[^M37]: 1981 c. 14.
+[^F1033]: Words in s. 151 heading omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 14(2)(a) (with reg. 5)
+[^F1034]: Words in s. 151 heading omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 14(2)(b) (with reg. 5)
+[^F1035]: Words in s. 151(1) substituted (30.6.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 3 para. 4(2); S.I. 2015/994, art. 9(a) (with Sch. Pt. 3A) (as amended by S.I. 2015/1405, art. 2)
+[^F1036]: Words in s. 151(1) substituted (1.11.2019) by The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 14(3) (with reg. 5)
+[^F1037]: Words in s. 151(2)(a) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 14(4)(a)(i) (with reg. 5)
+[^F1038]: Words in s. 151(2)(a) omitted (30.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 3 para. 4(3); S.I. 2015/994, art. 9(a) (with Sch. Pt. 3A) (as amended by S.I. 2015/1405, art. 2)
+[^F1039]: Words in s. 151(2)(a) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 14(4)(a)(ii) (with reg. 5)
+[^F1040]: Words in s. 151(2)(b) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 14(4)(b)(i) (with reg. 5)
+[^F1041]: Words in s. 151(2)(b) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 14(4)(b)(ii) (with reg. 5)
+[^F1042]: Words in s. 151(3) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 14(5)(a) (with reg. 5)
+[^F1043]: Words in s. 151(3) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 14(5)(b) (with reg. 5)
+[^F1044]: Words in s. 151(3) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 14(5)(c) (with reg. 5)
+[^F1045]: Words in s. 151(5) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 14(6) (with reg. 5)
+[^F1046]: Words in s. 151(6) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 14(7) (with reg. 5)
+[^F1047]: Word in s. 151(6) substituted (31.12.2016) by The Motor Vehicles (Compulsory Insurance) Regulations 2016 (S.I. 2016/1193), regs. 1, 2(3)
+[^F1048]: Words in s. 151(7) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 14(8)(a) (with reg. 5)
+[^F1049]: Words in s. 151(7)(b) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 14(8)(b) (with reg. 5)
+[^F1050]: Words in s. 151(8) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 14(9)(a) (with reg. 5)
+[^F1051]: Words in s. 151(8)(a) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 14(9)(b)(i) (with reg. 5)
+[^F1052]: Words in s. 151(8)(a) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 14(9)(b)(ii) (with reg. 5)
+[^F1053]: S. 151(9)(a) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 14(10)(a) (with reg. 5)
+[^F1054]: S. 151(9)(b) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch.
+[^F1055]: Words in s. 151(9)(c) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 14(10)(b) (with reg. 5)
+[^F1056]: Words in s. 152(1)(c) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 15(2) (with reg. 5)
+[^F1057]: Words in s. 152(1)(c) omitted (30.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 3 para. 5; S.I. 2015/994, art. 9(a) (with Sch. Pt. 3A) (as amended by S.I. 2015/1405, art. 2)
+[^F1058]: Words in s. 152(1)(c)(i) inserted (30.4.2010) by The Motor Vehicles (Electronic Communication of Certificates of Insurance) Order 2010 (S.I. 2010/1117), art. 4(a)
+[^F1059]: Words in s. 152(1)(c)(ii) inserted (30.4.2010) by The Motor Vehicles (Electronic Communication of Certificates of Insurance) Order 2010 (S.I. 2010/1117), art. 4(b)
+[^F1060]: Words in s. 152(2) substituted (1.11.2019) by The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), regs. 1, 6(2) (with reg. 8(1)(2))
+[^F1061]: Words in s. 152(2)(a) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 15(3)(a)(i) (with reg. 5)
+[^F1062]: Words in s. 152(2)(a) substituted (12.8.2016) by Insurance Act 2015 (c. 4), ss. 21(4)(a)(i), 23(2) (with s. 22(1))
+[^F1063]: Words in s. 152(2)(a) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 15(3)(a)(ii) (with reg. 5)
+[^F1064]: Words in s. 152(2)(b) substituted (12.8.2016) by Insurance Act 2015 (c. 4), ss. 21(4)(a)(ii), 23(2) (with s. 22(1))
+[^F1065]: Words in s. 152(2)(b) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 15(3)(b)(i) (with reg. 5)
+[^F1066]: Words in s. 152(2)(b) inserted (6.4.2013) by Consumer Insurance (Disclosure and Representations) Act 2012 (c. 6), ss. 11(3)(b), 12(2) (with s. 12(4)(5)); S.I. 2013/450, art. 2
+[^F1067]: Words in s. 152(2)(b) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 15(3)(b)(ii) (with reg. 5)
+[^F1068]: Words in s. 152(2) added (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 66; S.I. 1992/1286, art. 2,Sch.
+[^F1069]: S. 152(3)(4) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), regs. 1, 6(3) (with reg. 8(1)(2))
+[^F1070]: S. 152(5) added (12.8.2016) by Insurance Act 2015 (c. 4), ss. 21(4)(c), 23(2) (with s. 22(1))
+[^F1071]: Words in s. 153 heading omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 16(2) (with reg. 5)
+[^F1072]: Words in s. 153(1) substituted (30.6.2015) by Deregulation Act 2015 (c. 20), s. 115(7), Sch. 3 para. 6; S.I. 2015/994, art. 9(a) (with Sch. Pt. 3A) (as amended by S.I. 2015/1405, art. 2)
+[^F1073]: Words in s. 153(1) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 16(3) (with reg. 5)
+[^F1074]: Words in s. 153(1) substituted (1.8.2016) by Third Parties (Rights against Insurers) Act 2010 (c. 10), s. 21(2), Sch. 2 para. 2(a); S.I. 2016/550, art. 2
+[^F1075]: Words in s. 153(1) substituted (1.8.2016) by Third Parties (Rights against Insurers) Act 2010 (c. 10), s. 21(2), Sch. 2 para. 2(b); S.I. 2016/550, art. 2
+[^F1076]: S. 153(2) repealed (1.8.2016) by Third Parties (Rights against Insurers) Act 2010 (c. 10), s. 21(2), Sch. 2 para. 2(c), Sch. 4; S.I. 2016/550, art. 2
+[^F1077]: Words in s. 153(3) substituted (1.8.2016) by Third Parties (Rights against Insurers) Act 2010 (c. 10), s. 21(2), Sch. 2 para. 2(d); S.I. 2016/550, art. 2
+[^F1078]: Words in s. 153(3) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 16(4) (with reg. 5)
+[^F1079]: Words in s. 154 heading omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 17(2) (with reg. 5)
+[^F1080]: Words in s. 154(1)(a)(i) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 17(3)(a)(i) (with reg. 5)
+[^F1081]: S. 154(1)(a)(ii) substituted (1.11.2019) by The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 17(3)(a)(ii) (with reg. 5)
+[^F1082]: Words in s. 154(1)(b) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 17(3)(b)(i) (with reg. 5)
+[^F1083]: Words in s. 154(1)(b)(i) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 17(3), (b)(ii)(aa) (with reg. 5)
+[^F1084]: Words in s. 154(1)(b)(i) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 17(3)(b)(ii)(bb) (with reg. 5)
+[^F1085]: S. 155 omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 18 (with reg. 5)
+[^F1086]: Words in s. 156 heading omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 19(2) (with reg. 5)
+[^F1087]: Words in s. 156 substituted (1.9.1994) by S.I. 1994 c. 22, ss. 63, 66(2), Sch. 3 para. 24(5) (with s. 57(4))
+[^F1088]: Words in s. 156(a) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 19(3) (with reg. 5)
+[^F1089]: S. 156A and cross-heading inserted (28.6.2022) by Motor Vehicles (Compulsory Insurance) Act 2022 (c. 25), ss. 1, 2(1)
+[^F1090]: Word in s. 156A cross-heading substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 24(2)
+[^F1091]: Word in s. 156A heading substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 24(3)(a)
+[^F1092]: S. 156A(3) omitted (1.1.2024) by virtue of The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 24(3)(b)
+[^F1093]: Words in s. 156A(4) omitted (1.1.2024) by virtue of The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 24(3)(c)
+[^F1094]: Word in s. 156A(4) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 24(3)(c)
+[^F1095]: Words in s. 156A(5) omitted (1.1.2024) by virtue of The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 24(3)(d)
+[^F1096]: Word in s. 156A(5) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 24(3)(d)
+[^F1097]: Words in s. 156A(5) omitted (1.1.2024) by virtue of The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 24(3)(d)
+[^F1098]: S. 157(1)(b) substituted (1.11.2019) by The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 20 (with reg. 5)
+[^F1099]: Sum in s. 157(2) substituted (17.4.1995) by S.I. 1995/889, art. 2
+[^F1100]: Sum in s. 157(2) substituted (17.4.1995) by S.I. 1995/889, art. 2
+[^F1101]: Words in s. 158(2)(a) substituted (17.4.1995) by S.I. 1995/889, art. 3
+[^F1102]: Words in s. 158(2)(b) substituted (17.4.1995) by S.I. 1995/889, art. 3
+[^F1103]: Words in s. 159(1) substituted (5.4.1999) for s. 159(1)(a)-(c) by 1999 c. 3, s. 18(2)(a); S.I. 1999/1075, art. 2
+[^F1104]: It is provided that words in s. 159(3)(a) substituted (5.4.1999) by 1999 c. 3, s. 18(2)(b); S.I. 1999/1075, art. 2
+[^F1105]: S. 159A inserted (4.2.2011) by Road Safety Act 2006 (c. 49), ss. 22(2), 61(1)(10); S.I. 2011/19, art. 2(a)
+[^F1106]: Words in s. 160(2)(b) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 21 (with reg. 5)
+[^F1107]: Words in s. 160(2)(b) omitted (30.4.2010) by virtue of The Motor Vehicles (Electronic Communication of Certificates of Insurance) Order 2010 (S.I. 2010/1117), art. 5(a)
+[^F1108]: Word after s. 160(2)(d) omitted (30.4.2010) by virtue of The Motor Vehicles (Electronic Communication of Certificates of Insurance) Order 2010 (S.I. 2010/1117), art. 5(b)(i)
+[^F1109]: S. 160(2)(da) inserted (30.4.2010) by The Motor Vehicles (Electronic Communication of Certificates of Insurance) Order 2010 (S.I. 2010/1117), art. 5(b)(ii)
+[^F1110]: Definition of “hospital" in s. 161(1) substituted (5.4.1999) by 1999 c. 3, s. 18(3); S.I. 1999/1075, art. 2
+[^F1111]: S. 161(1): in definition of "hospital" words in para. (a) substituted (1.3.2007) by National Health Service (Consequential Provisions) Act 2006 (c. 43), ss. 2, 5, 8(2), Sch. 1 para. 123 (with Sch. 3 Pt. 1)
+[^M38]: 1978 c. 29.
+[^F1112]: S. 161(1): in the definition of "hospital" para. (b) repealed (29.1.2007) by Health and Social Care (Community Health and Standards) Act 2003 (c. 43), ss. 169(2), 196, 199, Sch. 14 Pt. 3 (with s. 166); S.I. 2006/3397, art. 3 (subject to art. 4); S.S.I. 2007/10, art. 2(2)(d)(e)(g)
+[^F1113]: S. 161(2) omitted (30.6.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 3 para. 7; S.I. 2015/994, art. 9(a) (with Sch. Pt. 3A) (as amended by S.I. 2015/1405, art. 2)
+[^F1114]: Entry in s. 162 substituted (1.12.2001) by S.I. 2001/3649, arts. 1, 314
+[^F1115]: Words in s. 162 omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 22 (with reg. 5)
+[^F1116]: S. 162A and cross-heading inserted (24.9.2007) by Road Safety Act 2006 (c. 49), ss. 43, 61; S.I. 2007/2472, art. 2(m)
+[^F1117]: Words in s. 162A(3)(e) substituted (1.9.2009) by The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885), art. 4(1), Sch. 1 para. 13 (with Sch. 4)
+[^F1118]: Words in s. 163(1) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 67; S.I. 1992/1286, art. 2, Sch.
+[^F1119]: Words in s. 163(1) inserted (E.W.) (4.10.2004 for E. and 1.5.2009 for W.) by Traffic Management Act 2004 (c. 18), ss. 6(4), 99 (with s. 38); S.I. 2004/2380, art. 2(a); S.I. 2009/1095, art. 2(a)
+[^F1120]: Words in s. 163(2) inserted (E.W.) (4.10.2004 for E. and 1.5.2009 for W.) by Traffic Management Act 2004 (c. 18), ss. 6(4), 99 (with s. 38); S.I. 2004/2380, art. 2(a); S.I. 2009/1095, art. 2(a)
+[^F1121]: S. 163(4) inserted (1.10.2002) by Police Reform Act 2002 (c. 30), s. 49(1)(3); S.I. 2002/2306, art. 2(d)(iv) and subsequently repealed (1.1.2006) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 111, 174(2), 178, Sch. 7 para. 27(3), Sch. 17 Pt. 2; S.I. 2005/3495, art. 2(1)(m)(u) (subject to art. 2(2))
+[^F1122]: Words in s. 164(1) inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 68(2); S.I. 1992/1286, art. 2, Sch.
+[^F1123]: Words in s. 164 repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 26(2), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F1124]: Words in s. 164(1) substituted (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 26(3); S.I. 2015/560, art. 3(a) (with arts. 4-9)
+[^F1125]: Words in s. 164(2) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 68(3); S.I. 1992/1286, art. 2, Sch.
+[^F1126]: S. 164(3)(a) substituted (1.4.1991) by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c.22, SIF 107:1), s. 7, Sch. 3 para. 18(a)(i)
+[^F1127]: Words in s. 164(3)(a) inserted (28.1.2010) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91(1), 94, Sch. 5 para. 27(a)(i); S.I. 2008/3009, art. 2; London Gazette issue no. 59317 dated 26.1.2010, p. 1229; Edinburgh Gazette issue no. 26739 dated 26.1.2010, p. 244; Belfast Gazette issue no. 7156 dated 22.1.2010, p. 33
+[^F1128]: Words in s. 164(3) inserted (1.7.1998) by S.I. 1998/1420, reg. 14
+[^F1129]: S. 164(3)(a)(iii) and preceding word “or" inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 30(2)(a)
+[^F1130]: Words in s. 164(3)(a)(iii) inserted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91(1), 94, Sch. 5 para. 27(a)(ii); S.I. 2004/2624, art. 2(2)(b)
+[^F1131]: Words inserted (1.4.1991) by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 18(a)(ii)
+[^F1132]: Words in s. 164(3)(b) substituted (3.7.2013) by The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644), art. 1(1), Sch. 1 (with arts. 1(3), 2, 7)
+[^F1133]: Words substituted (1.4.1991) by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 18(a)(ii)
+[^F1134]: Words in s. 164(3)(b) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 30(2)(b)
+[^F1135]: Words in s. 164(3)(b) inserted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91(1), 94, Sch. 5 para. 27(a)(iii); S.I. 2004/2624, art. 2(2)(b)
+[^F1136]: Words in s. 164(3)(b) inserted (28.1.2010) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91(1), 94, Sch. 5 para. 27(a)(iii); S.I. 2008/3009, art. 2; London Gazette issue no. 59317 dated 26.1.2010, p. 1229; Edinburgh Gazette issue no. 26739 dated 26.1.2010, p. 244; Belfast Gazette issue no. 7156 dated 22.1.2010, p. 33
+[^F1137]: Words in s. 164(3) inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 68(4); S.I. 1992/1286, art. 2, Sch.
+[^F1138]: Word(s) substituted by S.I. 1990/144, regs. 2(1), 3, Sch. 1 para. 9(b)(ii)(iii)
+[^F1139]: Word in s. 164(3) substituted (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 26(4)(a); S.I. 2015/560, art. 3(a) (with arts. 4-9)
+[^F1140]: Words in s. 164(3) substituted (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 26(4)(b); S.I. 2015/560, art. 3(a) (with arts. 4-9)
+[^F1141]: S. 164(4A) inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c.22, SIF 107:1), s. 7, Sch. 3 para. 18(b)
+[^F1142]: Words in s. 164(5) inserted (24.6.2026) by Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28), ss. 96(8), 109(1) (with s. 105); S.I. 2026/601, reg. 2(1)(c)
+[^F1143]: Words in s. 164(5) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 68(5); S.I. 1992/1286, art. 2, Sch.
+[^F1144]: Words in s. 164(5) inserted (10.11.2000 for specified purposes and otherwise 2.4.2001) by 2000 c. 19, s. 16(4) (with s. 83(6)); S.I. 2000/2994, art. 2(1), Sch. Pt. I; S.I. 2000/3554, art. 2(3)
+[^F1145]: Words in s. 164(5) substituted (25.8.2000) by 2000 c. 6, ss. 165(1), 168(1), Sch. 9 para. 117
+[^F1146]: Words in s. 164(5) substituted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 98 (with Sch. 24 para. 447, Sch. 27); S.I. 2020/1236, reg. 2
+[^F1147]: Words in s. 164(5) substituted (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 26(5)(a); S.I. 2015/560, art. 3(a) (with arts. 4-9)
+[^F1148]: Word in s. 164(5) substituted (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 26(5)(b); S.I. 2015/560, art. 3(a) (with arts. 4-9)
+[^F1149]: S. 164(5A)(5B) inserted (30.11.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), s. 208(1), Sch. 10 para. 23(2); S.I. 2022/1187, reg. 4(a) (with Pt. 3)
+[^F1150]: Words inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c.22, SIF 107:1), s. 7, Sch. 3 para. 18(c)
+[^F1151]: Words in s. 164(6) substituted (30.11.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), s. 208(1), Sch. 10 para. 23(3); S.I. 2022/1187, reg. 4(a) (with Pt. 3)
+[^F1152]: Words in s. 164(6) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 68(6); S.I. 1992/1286, art. 2, Sch.
+[^F1153]: S. 164(7) omitted (30.11.2022) by virtue of Police, Crime, Sentencing and Courts Act 2022 (c. 32), s. 208(1), Sch. 10 para. 23(4); S.I. 2022/1187, reg. 4(a) (with Pt. 3)
+[^F1154]: Words in s. 164(8) substituted (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 26(7)(a); S.I. 2015/560, art. 3(a) (with arts. 4-9)
+[^F1155]: Word in s. 164(8) substituted (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 26(7)(b); S.I. 2015/560, art. 3(a) (with arts. 4-9)
+[^F1156]: S. 164(8A) inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 68(7); S.I. 1992/1286, art. 2, Sch.
+[^F1157]: S. 164(10)(a)(b) inserted (28.6.2022) by Judicial Review and Courts Act 2022 (c. 35), s. 51(3), Sch. 1 para. 10(2)(a)(i)
+[^F1158]: Words in s. 164(10) substituted (28.6.2022) by Judicial Review and Courts Act 2022 (c. 35), s. 51(3), Sch. 1 para. 10(2)(a)(ii)
+[^M39]: 1978 c. 30.
+[^F1159]: S. 164(10A) inserted (28.6.2022) by Judicial Review and Courts Act 2022 (c. 35), s. 51(3), Sch. 1 para. 10(2)(b)
+[^F1160]: S. 164(11) substituted (27.3.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 30(3)
+[^F1161]: S. 164(11): words in definition of "licence" inserted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91(1), 94, Sch. 5 para. 27(b)(i); S.I. 2004/2624, art. 2(2)(b)
+[^F1162]: Word in s. 164(11) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 26(8), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F1163]: Words in s. 164(11) inserted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91(1), 94, Sch. 5 para. 27(b)(ii); S.I. 2004/2624, art. 2(2)(b)
+[^F1164]: Words in s. 165 heading omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 23(2) (with reg. 5)
+[^F1165]: Words in s. 165(1) and (5) inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 69(2)(3); S.I. 1992/1286, art. 2, Sch.
+[^F1166]: Words in s. 165(1)(b) inserted (3.4.2000) by S.I. 2000/726, art. 2(5)
+[^F1167]: Words in s. 165(2)(a) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 23(3) (with reg. 5)
+[^F1168]: S. 165(2A)-(2D) inserted (30.4.2010) by The Motor Vehicles (Electronic Communication of Certificates of Insurance) Order 2010 (S.I. 2010/1117), art. 6
+[^F1169]: Words substituted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 19
+[^F1170]: Words in s. 165(4) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch. 8; S.I. 1992/1286, art. 2, Sch.
+[^F1171]: Words in s. 165(7) added (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 69(4); S.I. 1992/1286, art. 2, Sch.
+[^F1172]: Ss. 165A, 165B inserted (1.7.2005) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 152, 178; S.I. 2005/1521, art 3(1) (subject to art. 3(4)(5))
+[^F1173]: Words in s. 165A(2)(a) omitted (8.6.2015) by virtue of The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583), art. 1(1), Sch. 2 para. 2(e)(i)
+[^F1174]: Words in s. 165A(6)(a) omitted (8.6.2015) by virtue of The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583), art. 1(1), Sch. 2 para. 2(e)(ii)
+[^F1175]: Words in s. 165A(9)(c) substituted (8.6.2015) by The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583), art. 1(1), Sch. 2 para. 2(e)(iii)
+[^F1176]: S. 166 substituted (1.4.1991) by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), s. 7, Sch. 3 para. 20
+[^M40]: 1981 c.14
+[^F1177]: Words in s. 166(d) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 70; S.I. 1992/1286, art. 2,Sch.
+[^F1178]: Words in s. 166 substituted (30.11.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), s. 208(1), Sch. 10 para. 24; S.I. 2022/1187, reg. 4(a) (with Pt. 3)
+[^F1179]: S. 167 repealed (25.1.2018) by The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452), reg. 1, sch. para. 11
+[^F1180]: Words in s. 168(a) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para.71; S.I. 1992/1286, art. 2,Sch.
+[^F1181]: Words in s. 170(1)-(3) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 72(2); S.I. 1992/1286, art. 2,Sch.
+[^F1182]: Words in s. 170(1) inserted (3.4.2000) by S.I. 2000/726, art. 6(a)
+[^F1183]: Words in s. 170(1)(b)(ii) inserted (3.4.2000) by S.I. 2000/726, art. 6(b)
+[^F1184]: Words in s. 170(5) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 72(3); S.I. 1992/1286, art. 2,Sch.
+[^F1185]: Words in s. 170(5) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 24(2) (with reg. 5)
+[^F1186]: Words in s. 170(6) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 24(3) (with reg. 5)
+[^F1187]: Word in s. 170(7) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 72(4); S.I. 1992/1286, art. 2,Sch.
+[^F1188]: Words in s. 171 heading omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 25(2) (with reg. 5)
+[^F1189]: Words in s. 171(1) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 25(3) (with reg. 5)
+[^F1190]: S. 172 substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 21; S.I. 1992/1286, art. 2, Sch.
+[^F1191]: Words in s. 172(1)(c) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), s. 1(1), Sch. 1 Pt. 14
+[^F1192]: Words in s. 172(2)(a) inserted (12.4.2015) by Infrastructure Act 2015 (c. 7), ss. 22(2), 57(3)
+[^F1193]: Words in s. 172(7) substituted (28.6.2022) by Judicial Review and Courts Act 2022 (c. 35), s. 51(3), Sch. 1 para. 10(3)(a)
+[^F1194]: S. 172(7A) inserted (28.6.2022) by Judicial Review and Courts Act 2022 (c. 35), s. 51(3), Sch. 1 para. 10(3)(b)
+[^F1195]: Words in s. 172(10) substituted (1.9.1994) by 1994 c. 22, ss. 63, 66(1), Sch. 3 para. 24(1) (with s. 57(4))
+[^F1196]: Words in s. 173(2)(a) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 28(2)(a), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F1197]: S. 173(2)(aa) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 28(2)(b), Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F1198]: S. 173(2)(cc) inserted (1.4.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 73(2); S.I. 1992/421, art. 2, Sch.
+[^F1199]: Words in s. 173(2)(d) substituted (1.4.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, 84, Sch. 4 para. 73(3); S.I. 1992/421, art. 2, Sch.
+[^F1200]: S. 173(2)(dd) inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 73(4); S.I. 1992/1286, art. 2, Sch.
+[^F1201]: Words in s. 173(2)(f) repealed (1.4.1991) by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1), ss. 7, 16, Sch. 3 para. 22, Sch. 6
+[^F1202]: S. 173(2)(ff) substituted (24.9.2007) by Road Safety Act 2006 (c. 49), ss. 41(4), 61; S.I. 2007/2472, art. 2(l)
+[^F1203]: Words in s. 173(2)(g) inserted (9.9.1996) by 1993 c. 31, s. 6, Sch. para. 9; S.I. 1996/1980, art. 2
+[^F1204]: Words in s. 173(2)(h) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 26(2) (with reg. 5)
+[^M41]: S.I. 1973/2143.
+[^F1205]: Words in s. 173(2)(k) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 26(3) (with reg. 5)
+[^F1206]: Word in s. 173(2)(k) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch 8; S.I. 1992/1286, art. 2, Sch.
+[^F1207]: S. 173(2)(m) and preceding word added (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 73(6); S.I. 1992/1286, art. 2, Sch.
+[^F1208]: S. 173(4) omitted (8.6.2015) by virtue of The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583), art. 1(1), Sch. 2 para. 2(f)
+[^F1209]: S. 174(1)(ca) inserted (24.9.2007) by Road Safety Act 2006 (c. 49), ss. 41(5), 61; S.I. 2007/2472, art. 2(l)
+[^F1210]: S. 174(1)(dd) inserted (9.9.1996) by 1993 c. 31, s. 6, Sch. para. 10; S.I. 1996/1980, art. 2
+[^F1211]: Words in s. 174(5)(a) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 27(2) (with reg. 5)
+[^F1212]: Words in s. 174(5)(b) omitted (1.11.2019) by virtue of The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047), reg. 1, Sch. 1 para. 27(3) (with reg. 5)
+[^M42]: 1984 c. 27.
+[^F1213]: S. 176(1A) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 29, Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F1214]: S. 176(3A) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 29, Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F1215]: Words in s. 176(4) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 74(2); S.I. 1992/1286, art. 2, Sch.
+[^F1216]: Words in s. 176(5)(a) substituted (1.7.1992) by Road Traffic act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 74(3); S.I. 1992/1286, art. 2, Sch.
+[^F1217]: S. 176(8) repealed (8.6.2015) by Road Safety Act 2006 (c. 49), s. 61(1)(10), Sch. 3 para. 29, Sch. 7(4); S.I. 2015/560, art. 3 (with arts. 4-9)
+[^F1218]: S. 177 substituted (11.4.2003) by 1999 c. 12, ss. 7(1), 9(2), Sch. para. 3; S.I. 2003/1095, art. 2
+[^F1219]: S. 178(3) repealed (25.1.2018) by The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452), reg. 1, sch. para. 11
+[^F1220]: Words in s. 179 repealed (7.6.2005) by Inquiries Act 2005 (c. 12), ss. 48(1), 49(2), 51, Sch. 2 para. 11, Sch. 3 (with ss. 44, 50); S.I. 2005/1432, art. 2
+[^F1221]: Words in s. 181(1)(2) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 76; S.I. 1992/1286, art. 2,Sch.
+[^F1222]: Words in s. 183(1)(c) repealed (E.W.) (1.10.2002) by 2002 c. 30, s. 107, Sch. 7 para. 12, Sch. 8; S.I. 2002/2306, art. 2(g)(i)-(iii)(a)
+[^F1223]: Words in s. 183(2) substituted (20.5.2018) by The Motorcycles (Type-Approval) Regulations 2018 (S.I. 2018/235), reg. 1(b), Sch. 2 para. 1(6) (with reg. 1(c), Sch. 1 paras. 16, 17)
+[^F1224]: Words in s. 183(2)(a) substituted (1.9.1994) by 1994 c. 22 ss. 63, 66(1), Sch. 3 para. 24(1) (with s. 57(4))
+[^F1225]: Words in s. 183(3) substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 48, Sch. 4 para. 77; S.I. 1992/1286, art. 2, Sch.
+[^F1226]: S. 183(3)(b) and the word "and" preceding it repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 83, Sch. 8; S.I. 1992/1286, art. 2, Sch.
+[^F1227]: Words in s. 183(4) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by S.I. 1996/1974, reg. 2, Sch. 1 para. 34
+[^F1228]: Words in s. 183(4) inserted (1.7.1998) by S.I. 1998/1420, reg. 15
+[^F1229]: S. 183(6) substituted (1.4.1991) by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c.22, SIF 107:1), s. 7, Sch. 3 para. 23
+[^F1230]: Words in s. 183(6) substituted (28.3.2009 for certain purposes, 31.10.2009 so far as not already in force) by Armed Forces Act 2006 (c. 52), ss. 378(1), 383, Sch. 16 para. 116; S.I. 2009/812, art. 3; S.I. 2009/1167, art. 4 (with transitional provisions in {S.I. 2009/1059})
+[^F1231]: Words in s. 184(1) substituted (28.3.2009 for certain purposes, 31.10.2009 in so far as it is not already in force) by Armed Forces Act 2006 (c. 52), ss. 378(1), 383, Sch. 16 para. 117(2)(a); S.I. 2009/812, art. 3; S.I. 2009/1167, art. 4 (with transitional provisions in S.I. 2009/1059)
+[^F1232]: Words in s. 184(1)(a) substituted (28.3.2009 for certain purposes 31.10.2009 in so far as it is not already in force) by Armed Forces Act 2006 (c. 52), ss. 378(1), 383, Sch. 16 para. 117(2)(b); S.I. 2009/812, art. 3; S.I. 2009/1167, art. 4 (with transitional provisions in S.I. 2009/1059)
+[^F1233]: Word in s. 184(1)(b) substituted (28.3.2009 for certain purposes 31.10,2009 in so far as it is not already in force) by Armed Forces Act 2006 (c. 52), ss. 378(1), 383, Sch. 16 para. 117(2)(c); S.I. 2009/812, art. 3; S.I. 2009/1167, art. 4 (with transitional provisions in S.I. 2009/1059)
+[^F1234]: Words in s. 184(1)(e) substituted (28.3.2009 for certain purposes, 31.10.2009 in so far as it is not already in force) by Armed Forces Act 2006 (c. 52), ss. 378(1), 383, Sch. 16 para. 117(2)(d)(i); S.I. 2009/812, art. 3; S.I. 2009/1167, art. 4 (with transitional provisions in S.I. 2009/1059)
+[^F1235]: Word in s. 184(1)(e) repealed (28.3.2009 for certain purposes, 31.10.2009 in so far as it is not already in force) by Armed Forces Act 2006 (c. 52), ss. 378, 383, Sch. 16 para. 117(2)(d)(ii), Sch. 17; S.I. 2009/812, art. 3); S.I. 2009/1167, art. 4 (with transitional provisions in S.I. 2009/1059)
+[^F1236]: Words in s. 184(1)(f) substituted (30.3.2004) by Railways and Transport Safety Act 2003 (c. 20), ss. 107, 121, Sch. 7 para. 6; S.I. 2004/827, art. 3
+[^F1237]: Words in s. 184(1)(f) substituted (28.3.2009 for certain purposes, 31.10.2009 in so far as it is not already in force) by Armed Forces Act 2006 (c. 52), ss. 378(1), 383, Sch. 16 para. 117(2)(e); S.I. 2009/812, art. 3; S.I. 2009/1167, art. 4 (with transitional provisions in S.I. 2009/1059)
+[^F1238]: S. 184(1)(g) added (28.3.2009 for certain purposes, 31.10.2009 in so far as it is not already in force) by Armed Forces Act 2006 (c. 52), ss. 378(1), 383, Sch. 16 para. 117(2)(f); S.I. 2009/812, art. 3 ; S.I. 2009/1167, {art. 4 }(with transitional provisions in S.I. 2009/1059)
+[^F1239]: S. 184(2)(2A) substituted (1.1.2006) for s. 184(2) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 111, 178, Sch. 7 para. 59; S.I. 2005/3495, art. 2(1)(m) (subject to art. 2(2))
+[^F1240]: Words in s. 184(2) substituted (28.3.2009 for certain purposes, 31.10.2009 in so far as it is not already in force) by Armed Forces Act 2006 (c. 52), ss. 378(1), 383, Sch. 16 para. 117(3); S.I. 2009/812, art. 3; S.I. 2009/1167, art. 4 (with transitional provisions in S.I. 2009/1059)
+[^F1241]: S. 184(3) substituted (28.3.2009 for certain purposes, 31.10.2009 in so far as it is not already in force) by Armed Forces Act 2006 (c. 52), ss. 378(1), 383, Sch. 16 para. 117(4) S.I. 2009/812, art. 3; S.I. 2009/1167, art. 4 (with transitional provisions in S.I. 2009/1059)
+[^F1242]: Words in s. 184(3) substituted (2.4.2012) by Armed Forces Act 2011 (c. 18), s. 32(3), Sch. 4 para. 1; S.I. 2012/669, art. 4(e)
+[^M43]: 1970 c. 44.
+[^M44]: 1984 c. 27.
+[^M45]: 1960 c. 16.
+[^M46]: 1981 c. 14.
+[^M47]: 1968 c. 59.
+[^M48]: 1984 c. 27.
+[^F1243]: Definition in s. 192(1) substituted (1.11.1991) by New Roads and Street Works Act 1991 (c. 22, SIF 107:1), s. 168(1), Sch. 8 para. 121(4)(with s. 25(2)); S.I. 1991/2288, art. 3, Sch.
+[^F1244]: Definition of “petty sessions area" in s. 192(1) repealed (27.9.1999) by 1999 c. 22, ss. 106, 108(3)(f), Sch. 15 Pt. V(1) (with Sch. 14 paras. 7(2), 36(9)); S.I. 1999/2657, art. 2(d)(iii)
+[^F1245]: Words in s. 192(1) inserted (2.3.2015 for E.W., 1.3.2018 for S.N.I.) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 22 para. 7 (with Sch. 22 para. 8); S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2; S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2
+[^F1246]: In s. 192(1) in the definition of "road", "(a)" inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 78(2)(a); S.I. 1992/1286, art. 2, Sch.
+[^F1247]: In s. 192(1) in definition of "road" para. (b) and preceding word inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 78(2)(b); S.I. 1992/1286, art. 2, Sch.
+[^M49]: 1988 c. 53.
+[^M50]: 1988 c. 54.
+[^M51]: 1984 c. 27.
+[^M52]: 1896 c. 48.
+[^F1248]: In s. 192(1) in the definition of "trolley vehicle" word substituted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 78(3); S.I. 1992/1286, art. 2, Sch.
+[^F1249]: In s. 192(1) in the definition of "trolley vehicle" words added (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4 para. 78(3); S.I. 1992/1286, art. 2, Sch.
+[^F1250]: S. 192(1A) inserted (1.4.1996) by 1994 c. 22,s. 22(1), Sch. 7 Pt. II para. 40(1); S.I. 1996/396, art. 3, Sch. 1
+[^F1251]: Word in s. 192(2) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1) , ss. 48, 83, Sch. 4 para. 78(4), Sch. 8; S.I. 1992/1286, art. 2, Sch.
+[^M53]: 1984 c. 54.
+[^F1252]: Words in s. 192(3) inserted by Road Traffic (Driver Licensing and Information Systems) Act 1989 (c.22, SIF 107:1), s. 7, Sch. 3 para. 24
+[^F1253]: S. 192A inserted (7.12.1992) by Transport and Works Act 1992 (c. 42), s. 39; S.I. 1992/2043, art. 2(a)
+[^F1254]: S. 193 repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch. 8; S.I. 1992/1286, art. 2,Sch.
+[^F1255]: S. 193A inserted (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 46(2); S.I. 1992/1286, art. 2, Sch.
+[^F1256]: Word in s. 193A(2)(b) omitted (8.6.2015) by virtue of The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583), art. 1(1), Sch. 2 para. 2(g)
+[^F1257]: Words in s. 193A(2)(b) substituted (11.10.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91(1), 94, Sch. 5 para. 31; S.I. 2004/2624, art. 2(2)(b)
+[^F1258]: Word in s. 193A(2)(b) substituted (8.6.2015) by The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583), art. 1(1), Sch. 2 para. 2(g)
+[^F1259]: S. 193A(3A) inserted (10.3.2017) by Deregulation Act 2015 (c. 20), ss. 75(4), 115(7); S.I. 2017/273, art. 2(c)
+[^F1260]: S. 195(2A) inserted (3.7.2012) by Scotland Act 2012 (c. 11), ss. 20(9), 44(5); S.I. 2012/1710, art. 2(j)
+[^F1261]: Words in s. 195(3) inserted (2.3.2015 for E.W., 1.3.2018 for S.N.I.) by Crime and Courts Act 2013 (c. 22), ss. 56(3), 61(2); S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2; S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2
+[^F1262]: Word in s. 195(3) omitted (10.4.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 1(3)(c); S.I. 2015/994, art. 4
+[^F1263]: Words in s. 195(3)(4) inserted (2.2.1993) by S.I. 1992/3105, reg.4.
+[^F1264]: Words in s. 195(4)(4A) inserted (2.3.2015 for E.W., 1.3.2018 for S.N.I.) by Crime and Courts Act 2013 (c. 22), ss. 56(3), 61(2); S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2; S.I. 2014/3268, art. 2; S.I. 2018/161, art. 2; S.I. 2018/162, art. 2
+[^F1265]: Word in s. 195(4) omitted (10.4.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 1(3)(d); S.I. 2015/994, art. 4
+[^F1266]: S. 195(4ZA) inserted (23.5.2016) by Scotland Act 2016 (c. 11), s. 72(7), Sch. 2 para. 19
+[^F1267]: S. 195(4A) inserted (3.7.2012) by Scotland Act 2012 (c. 11), ss. 20(10), 44(5); S.I. 2012/1710, art. 2(j)
+[^F1268]: Words in s. 195(4A) omitted (10.4.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 11 para. 1(3)(e); S.I. 2015/994, art. 4
+[^F1269]: S. 195(6) inserted (10.3.2017) by Deregulation Act 2015 (c. 20), ss. 75(5), 115(7); S.I. 2017/273, art. 2(c)
+[^F1270]: S. 195(7) inserted (26.10.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 7, 208(1); S.I. 2022/1075, reg. 3(c)
+[^M54]: 1988 c. 54.
+[^F1271]: Words in the heading to Sch. 1 inserted by Motor Vehicles (Safety Equipment for Children) Act 1991 (c. 14, SIF 107:1), s.2(1)
+[^F1272]: Words in Sch. 1 para. 1 (1)(2)(b) inserted by Motor Vehicles (Safety Equipment for Children) Act 1991 (c. 14, SIF 107:1), s. 2(1)
+[^F1273]: Words in Sch. 1 para. 2(1) inserted by Motor Vehicles (Safety Equipment for Children) Act 1991 (c. 14, SIF 107:1), s. 2(1)
+[^F1274]: Words in Sch. 1 para. 3(1)(4) inserted by Motor Vehicles (Safety Equipment for Children) Act 1991 (c. 14, SIF 107:1), s. 2(1)
+[^F1275]: Words in Sch. 1 para. 4(1)(2) inserted by Motor Vehicles (Safety Equipment for Children) Act 1991 (c. 14, SIF 107:1), s. 2(1)
+[^F1276]: Sch. 1 para. 5(1A) inserted by Motor Vehicles (Safety Equipment for Children) Act 1991 (c. 14, SIF 107:1), s. 2(2)
+[^F1277]: Words in Sch. 1 para. 5(3) substituted by Motor Vehicles (Safety Equipment for Children) Act 1991 (c. 14, SIF 107:1), s. 2(3)
+[^F1278]: Sch. 1 paras. 6 and 7 substituted by Motor Vehicles (Safety Equipment for Children) Act 1991 (c. 14, SIF 107:1), s. 2(4)
+[^F1279]: Sch. 1 paras. 6 and 7 substituted by Motor Vehicles (Safety Equipment for Children) Act 1991 (c. 14, SIF 107:1), s. 2(4)
+[^F1280]: Words in Sch. 2 para. 1(b) repealed (1.4.1996) by 1994 c. 19, s. 22(1), 66(8), Sch. 7, Pt. II para. 40(2), Sch. 18 (with ss. 54(5)(7), 55(5), Sch. 17 paras. 22(1), 23(2)); S.I. 1996/396, arts. 3, 4, Sch. 1, Sch. 2
+[^F1281]: Words in Sch. 2 para. 1(b) inserted (1.4.1996) by 1994, c. 19, s. 22(1), Sch. 40(2) (with ss. 54(5)(7), 55(5), Sch. 17 paras. 22(1), 23(2)); S.I. 1996/396, art. 3, Sch. 1
+[^F1282]: Words in Sch. 2 para. 1(b) substituted (S.) (1.4.1996) by S.I. 1994, c. 39, s. 180(1), Sch. 13 para. 159(9); S.I. 1996/323, art. 3(b)
+[^F1283]: Sch. 2A inserted (4.2.2011) by Road Safety Act 2006 (c. 49), ss. 22(3), 61(1)(10), Sch. 5; S.I. 2011/19, art. 2(b)
+[^F1284]: Sch. 2A inserted (18.9.2006) by The Motor Vehicles (Wearing of Seat Belts) (Amendment) Regulations 2006 (S.I. 2006/1892), reg. 5
+[^F1285]: Sch. 3 repealed (1.4.2002) by 2000 c. 38, s. 274, Sch. 31 Pt. V(1); S.I. 2002/658, art. 2(2), Sch. Pt. 2 (with transitional provisions in art. 3(2))
+[^F1286]: Sch. 4 repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch. 8; S.I. 1992/1286, art. 2, Sch.
+[^F1287]: Sch. 4 repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch.
+[^F1288]: Sch. 4 repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch.
+[^F1289]: Sch. 4 repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch.
+[^F1290]: Sch. 4 repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch.
+[^F1291]: Sch. 4 repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch.
+[^F1292]: Sch. 4 repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch.
+[^F1293]: Sch. 4 repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch.
+[^F1294]: Sch. 4 repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch.
+[^F1295]: Sch. 4 repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch.
+[^F1296]: Sch. 4 repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch.
+[^F1297]: Sch. 4 repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch.
+[^F1298]: Sch. 4 repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch. 8; S.I. 1992/1286, art. 2,Sch.

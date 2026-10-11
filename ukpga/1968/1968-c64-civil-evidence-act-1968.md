@@ -1,0 +1,531 @@
+---
+title: "Civil Evidence Act 1968"
+identifier: "ukpga/1968/64"
+citation: "1968 c.64"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W"
+date: 1968-10-25
+last_amended: 2025-04-06
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1968/64"
+source_modified: 2025-06-05
+retrieved: 2026-10-11
+---
+
+# Civil Evidence Act 1968
+
+**1968 c.64**
+
+An Act to amend the law of evidence in relation to civil proceedings, and in respect of the privilege against self-incrimination to make corresponding amendments in relation to statutory powers of inspection or investigation.
+
+[25th October 1968]
+
+## [^F1]Part I — Hearsay Evidence
+
+### 1 Hearsay evidence to be admissible only by virtue of this Act and other statutory provisions, or by agreement.
+
+(1) In any civil proceedings a statement other than one made by a person while giving oral evidence in those proceedings shall be admissible as evidence of any fact stated therein to the extent that it is so admissible by virtue of any provision of this Part of this Act or by virtue of any other statutory provision or by agreement of the parties, but not otherwise.
+
+(2) In this section “statutory provision ” means any provision contained in, or in an instrument made under, this or any other Act, including any Act passed after this Act.
+
+### 2 Admissibility of out-of-court statements as evidence of facts stated.
+
+(1) In any civil proceedings a statement made, whether orally or in a document or otherwise, by any person, whether called as a witness in those proceedings or not, shall, subject to this section and to rules of court, be admissible as evidence of any fact stated therein of which direct oral evidence by him would be admissible.
+
+(2) Where in any civil proceedings a party desiring to give a statement in evidence by virtue of this section has called or intends to call as a witness in the proceedings the person by whom the statement was made, the statement—
+
+(a) shall not be given in evidence by virtue of this section on behalf of that party without the leave of the court; and
+
+(b) without prejudice to paragraph (a) above, shall not be given in evidence by virtue of this section on behalf of that party before the conclusion of the examination-in-chief of the person by whom it was made, except—
+
+(i) where before that person is called the court allows evidence of the making of the statement to be given on behalf of that party by some other person; or
+
+(ii) in so far as the court allows the person by whom the statement was made to narrate it in the course of his examination-in-chief on the ground that to prevent him from doing so would adversely affect the intelligibility of his evidence.
+
+(3) Where in any civil proceedings a statement which was made otherwise than in a document is admissible by virtue of this section, no evidence other than direct oral evidence by the person who made the statement or any person who heard or otherwise perceived it being made shall be admissible for the purpose of proving it:
+
+Provided that if the statement in question was made by a person while giving oral evidence in some other legal proceedings (whether civil or criminal), it may be proved in any manner authorised by the court.
+
+### 3 Witness’s previous statement, if proved, to be evidence of facts stated.
+
+(1) Where in any civil proceedings—
+
+(a) a previous inconsistent or contradictory statement made by a person called as a witness in those proceedings is proved by virtue of section 3, 4 or 5 of the [^M1]Criminal Procedure Act 1865; or
+
+(b) a previous statement made by a person called as aforesaid is proved for the purpose of rebutting a suggestion that his evidence has been fabricated,
+
+that statement shall by virtue of this subsection be admissible as evidence of any fact stated therein of which direct oral evidence by him would be admissible.
+
+(2) Nothing in this Act shall affect any of the rules of law relating to the circumstances in which, where a person called as a witness in any civil proceedings is cross-examined on a document used by him to refresh his memory, that document may be made evidence in those proceedings; and where a document or any part of a document is received in evidence in any such proceedings by virtue of any such rule of law, any statement made in that document or part by the person using the document to refresh his memory shall by virtue of this subsection be admissible as evidence of any fact stated therein of which direct oral evidence by him would be admissible.
+
+### 4 Admissibility of certain records as evidence of facts stated.
+
+(1) Without prejudice to section 5 of this Act, in any civil proceedings a statement contained in a document shall, subject to this section and to rules of court, be admissible as evidence of any fact stated therein of which direct oral evidence would be admissible, if the document is, or forms part of, a record compiled by a person acting under a duty from information which was supplied by a person (whether acting under a duty or not) who had, or may reasonably be supposed to have had, personal knowledge of the matters dealt with in that information and which, if not supplied by that person to the compiler of the record directly, was supplied by him to the compiler of the record indirectly through one or more intermediaries each acting under a duty.
+
+(2) Where in any civil proceedings a party desiring to give a statement in evidence by virtue of this section has called or intends to call as a witness in the proceedings the person who originally supplied the information from which the record containing the statement was compiled, the statement—
+
+(a) shall not be given in evidence by virtue of this section on behalf of that party without the leave of the court; and
+
+(b) without prejudice to paragraph (a) above, shall not without the leave of the court be given in evidence by virtue of this section on behalf of that party before the conclusion of the examination-in-chief of the person who originally supplied the said information.
+
+(3) Any reference in this section to a person acting under a duty includes a reference to a person acting in the course of any trade, business, profession or other occupation in which he is engaged or employed or for the purposes of any paid or unpaid office held by him.
+
+### 5 Admissibility of statements produced by computers.
+
+(1) In any civil proceedings a statement contained in a document produced by a computer shall, subject to rules of court, be admissible as evidence of any fact stated therein of which direct oral evidence would be admissible, if it is shown that the conditions mentioned in subsection (2) below are satisfied in relation to the statement and computer in question.
+
+(2) The said conditions are—
+
+(a) that the document containing the statement was produced by the computer during a period over which the computer was used regularly to store or process information for the purposes of any activities regularly carried on over that period, whether for profit or not, by any body, whether corporate or not, or by any individual;
+
+(b) that over that period there was regularly supplied to the computer in the ordinary course of those activities information of the kind contained in the statement or of the kind from which the information so contained is derived;
+
+(c) that throughout the material part of that period the computer was operating properly or, if not, that any respect in which it was not operating properly or was out of operation during that part of that period was not such as to affect the production of the document or the accuracy of its contents; and
+
+(d) that the information contained in the statement reproduces or is derived from information supplied to the computer in the ordinary course of those activities.
+
+(3) Where over a period the function of storing or processing information for the purposes of any activities regularly carried on over that period as mentioned in subsection (2)(a) above was regularly performed by computers, whether—
+
+(a) by a combination of computers operating over that period; or
+
+(b) by different computers operating in succession over that period; or
+
+(c) by different combinations of computers operating in succession over that period; or
+
+(d) in any other manner involving the successive operation over that period, in whatever order, of one or more computers and one or more combinations of computers,
+
+all the computers used for that purpose during that period shall be treated for the purposes of this Part of this Act as constituting a single computer; and references in this Part of this Act to a computer shall be construed accordingly.
+
+(4) In any civil proceedings where it is desired to give a statement in evidence by virtue of this section, a certificate doing any of the following things, that is to say—
+
+(a) identifying the document containing the statement and describing the manner in which it was produced;
+
+(b) giving such particulars of any device involved in the production of that document as may be appropriate for the purpose of showing that the document was produced by a computer;
+
+(c) dealing with any of the matters to which the conditions mentioned in subsection (2) above relate,
+
+and purporting to be signed by a person occupying a responsible position in relation to the operation of the relevant device or the management of the relevant activities (whichever is appropriate) shall be evidence of any matter stated in the certificate; and for the purposes of this subsection it shall be sufficient for a matter to be stated to the best of the knowledge and belief of the person stating it.
+
+(5) For the purposes of this Part of this Act—
+
+(a) information shall be taken to be supplied to a computer if it is supplied thereto in any appropriate form and whether it is so supplied directly or (with or without human intervention) by means of any appropriate equipment;
+
+(b) where, in the course of activities carried on by any individual or body, information is supplied with a view to its being stored or processed for the purposes of those activities by a computer operated otherwise than in the course of those activities, that information, if duly supplied to that computer, shall be taken to be supplied to it in the course of those activities;
+
+(c) a document shall be taken to have been produced by a computer whether it was produced by it directly or (with or without human intervention) by means of any appropriate equipment.
+
+(6) Subject to subsection (3) above, in this Part of this Act “computer ” means any device for storing and processing information, and any reference to information being derived from other information is a reference to its being derived therefrom by calculation, comparison or any other process.
+
+### 6 Provisions supplementary to ss. 2 to 5.
+
+(1) Where in any civil proceedings a statement contained in a document is proposed to be given in evidence by virtue of section 2, 4 or 5 of this Act it may, subject to any rules of court, be proved by the production of that document or (whether or not that document is still in existence) by the production of a copy of that document, or of the material part thereof, authenticated in such manner as the court may approve.
+
+(2) For the purpose of deciding whether or not a statement is admissible in evidence by virtue of section 2, 4 or 5 of this Act, the court may draw any reasonable inference from the circumstances in which the statement was made or otherwise came into being or from any other circumstances, including, in the case of a statement contained in a document, the form and contents of that document.
+
+(3) In estimating the weight, if any, to be attached to a statement admissible in evidence by virtue of section 2, 3, 4 or 5 of this Act regard shall be had to all the circumstances from which any inference can reasonably be drawn as to the accuracy or otherwise of the statement and, in particular—
+
+(a) in the case of a statement falling within section 2(1) or 3(1) or (2) of this Act, to the question whether or not the statement was made contemporaneously with the occurrence or existence of the facts stated, and to the question whether or not the maker of the statement had any incentive to conceal or misrepresent the facts;
+
+(b) in the case of a statement falling within section 4(1) of this Act, to the question whether or not the person who originally supplied the information from which the record containing the statement was compiled did so contemporaneously with the occurrence or existence of the facts dealt with in that information, and to the question whether or not that person, or any person concerned with compiling or keeping the record containing the statement, had any incentive to conceal or misrepresent the facts; and
+
+(c) in the case of a statement falling within section 5(1) of this Act, to the question whether or not the information which the information contained in the statement reproduces or is derived from was supplied to the relevant computer, or recorded for the purpose of being supplied thereto, contemporaneously with the occurrence or existence of the facts dealt with in that information, and to the question whether or not any person concerned with the supply of information to that computer, or with the operation of that computer or any equipment by means of which the document containing the statement was produced by it, had any incentive to conceal or misrepresent the facts.
+
+(4) For the purpose of any enactment or rule of law or practice requiring evidence to be corroborated or regulating the manner in which uncorroborated evidence is to be treated—
+
+(a) a statement which is admissible in evidence by virtue of section 2 or 3 of this Act shall not be capable of corroborating evidence given by the maker of the statement; and
+
+(b) a statement which is admissible in evidence by virtue of section 4 of this Act shall not be capable of corroborating evidence given by the person who originally supplied the information from which the record containing the statement was compiled.
+
+(5) If any person in a certificate tendered in evidence in civil proceedings by virtue of section 5(4) of this Act wilfully makes a statement material in those proceedings which he knows to be false or does not believe to be true, he shall be liable on conviction on indictment to imprisonment for a term not exceeding two years or a fine or both.
+
+### 7 Admissibility of evidence as to credibility of maker etc. of statement admitted under s. 2 or 4.
+
+(1) Subject to rules of court, where in any civil proceedings a statement made by a person who is not called as a witness in those proceedings is given in evidence by virtue of section 2 of this Act—
+
+(a) any evidence which, if that person had been so called, would be admissible for the purpose of destroying or supporting his credibility as a witness shall be admissible for that purpose in those proceedings; and
+
+(b) evidence tending to prove that, whether before or after he made that statement, that person made (whether orally or in a document or otherwise) another statement inconsistent therewith shall be admissible for the purpose of showing that that person has contradicted himself:
+
+Provided that nothing in this subsection shall enable evidence to be given of any matter of which, if the person in question had been called as a witness and had denied that matter in cross-examination, evidence could not have been adduced by the cross-examining party.
+
+(2) Subsection (1) above shall apply in relation to a statement given in evidence by virtue of section 4 of this Act as it applies in relation to a statement given in evidence by virtue of section 2 of this Act, except that references to the person who made the statement and to his making the statement shall be construed respectively as references to the person who originally supplied the information from which the record containing the statement was compiled and to his supplying that information.
+
+(3) Section 3(1) of this Act shall apply to any statement proved by virtue of subsection (1)(b) above as it applies to a previous inconsistent or contradictory statement made by a person called as a witness which is proved as mentioned in paragraph (a) of the said section 3(1).
+
+### 8 Rules of court.
+
+(1) Provision shall be made by rules of court as to the procedure which, subject to any exceptions provided for in the rules, must be followed and the other conditions which, subject as aforesaid, must be fulfilled before a statement can be given in evidence in civil proceedings by virtue of section 2, 4 or 5 of this Act.
+
+(2) Rules of court made in pursuance of subsection (1) above shall in particular, subject to such exceptions (if any) as may be provided for in the rules—
+
+(a) require a party to any civil proceedings who desires to give in evidence any such statement as is mentioned in that subsection to give to every other party to the proceedings such notice of his desire to do so and such particulars of or relating to the statement as may be specified in the rules, including particulars of such one or more of the persons connected with the making or recording of the statement or, in the case of a statement falling within section 5(1) of this Act, such one or more of the persons concerned as mentioned in section 6(3)(c) of this Act as the rules may in any case require; and
+
+(b) enable any party who receives such notice as aforesaid by counter-notice to require any person of whom particulars were given with the notice to be called as a witness in the proceedings unless that person is dead, or beyond the seas, or unfit by reason of his bodily or mental condition to attend as a witness, or cannot with reasonable diligence be identified or found, or cannot reasonably be expected (having regard to the time which has elapsed since he was connected or concerned as aforesaid and to all the circumstances) to have any recollection of matters relevant to the accuracy or otherwise of the statement.
+
+(3) Rules of court made in pursuance of subsection (1) above—
+
+(a) may confer on the court in any civil proceedings a discretion to allow a statement falling within section 2(1), 4(1) or 5(1) of this Act to be given in evidence notwithstanding that any requirement of the rules affecting the admissibility of that statement has not been complied with, but except in pursuance of paragraph (b) below shall not confer on the court a discretion to exclude such a statement where the requirements of the rules affecting its admissibility have been complied with;
+
+(b) may confer on the court power, where a party to any civil proceedings has given notice that he desires to give in evidence—
+
+(i) a statement falling within section 2(1) of this Act which was made by a person, whether orally or in a document, in the course of giving evidence in some other legal proceedings (whether civil or criminal); or
+
+(ii) a statement falling within section 4(1) of this Act which is contained in a record of any direct oral evidence given in some other legal proceedings (whether civil or criminal),
+
+to give directions on the application of any party to the proceedings as to whether, and if so on what conditions, the party desiring to give the statement in evidence will be permitted to do so and (where applicable) as to the manner in which that statement and any other evidence given in those other proceedings is to be proved; and
+
+(c) may make different provision for different circumstances, and in particular may make different provision with respect to statements falling within sections 2(1), 4(1) and 5(1) of this Act respectively;
+
+and any discretion conferred on the court by rules of court made as aforesaid may be either a general discretion or a discretion exercisable only in such circumstances as may be specified in the rules.
+
+(4) Rules of court may make provision for preventing a party to any civil proceedings (subject to any exceptions provided for in the rules) from adducing in relation to a person who is not called as a witness in those proceedings any evidence which could otherwise be adduced by him by virtue of section 7 of this Act unless that party has in pursuance of the rules given in respect of that person such a counter-notice as is mentioned in subsection (2)(b) above.
+
+(5) In deciding for the purposes of any rules of court made in pursuance of this section whether or not a person is fit to attend as a witness, a court may act on a certificate purporting to be a certificate of a fully registered medical practitioner.
+
+(6) Nothing in the foregoing provisions of this section shall prejudice the generality of . . . [^F2], [[^F3]section 75 of the County Courts Act 1984], [[^F4]section 144 of the Magistrates’ Courts Act 1980] or any other enactment conferring power to make rules of court; and nothing in . . . [^F2], [[^F3]section 75(2) of the County Courts Act 1984] or any other enactment restricting the matters with respect to which rules of court may be made shall prejudice the making of rules of court with respect to any matter mentioned in the foregoing provisions of this section or the operation of any rules of court made with respect to any such matter.
+
+### 9 Admissibility of certain hearsay evidence formerly admissible at common law.
+
+(1) In any civil proceedings a statement which, if this Part of this Act had not been passed, would by virtue of any rule of law mentioned in subsection (2) below have been admissible as evidence of any fact stated therein shall be admissible as evidence of that fact by virtue of this subsection.
+
+(2) The rules of law referred to in subsection (1) above are the following, that is to say any rule of law—
+
+(a) whereby in any civil proceedings an admission adverse to a party to the proceedings, whether made by that party or by another person, may be given in evidence against that party for the purpose of proving any fact stated in the admission;
+
+(b) whereby in any civil proceedings published works dealing with matters of a public nature (for example, histories, scientific works, dictionaries and maps) are admissible as evidence of facts of a public nature stated therein;
+
+(c) whereby in any civil proceedings public documents (for example, public registers, and returns made under public authority with respect to matters of public interest) are admissible as evidence of facts stated therein; or
+
+(d) whereby in any civil proceedings records (for example, the records of certain courts, treaties, Crown grants, pardons and commissions) are admissible as evidence of facts stated therein.
+
+In this subsection “admission ” includes any representation of fact, whether made in words or otherwise.
+
+(3) In any civil proceedings a statement which tends to establish reputation or family tradition with respect to any matter and which, if this Act had not been passed, would have been admissible in evidence by virtue of any rule of law mentioned in subsection (4) below—
+
+(a) shall be admissible in evidence by virtue of this paragraph in so far as it is not capable of being rendered admissible under section 2 or 4 of this Act; and
+
+(b) if given in evidence under this Part of this Act (whether by virtue of paragraph (a) above or otherwise) shall by virtue of this paragraph be admissible as evidence of the matter reputed or handed down;
+
+and, without prejudice to paragraph (b) above, reputation shall for the purposes of this Part of this Act be treated as a fact and not as a statement or multiplicity of statements dealing with the matter reputed.
+
+(4) The rules of law referred to in subsection (3) above are the following, that is to say any rule of law—
+
+(a) whereby in any civil proceedings evidence of a person’s reputation is admissible for the purpose of establishing his good or bad character;
+
+(b) whereby in any civil proceedings involving a question of pedigree or in which the existence of a marriage is in issue evidence of reputation or family tradition is admissible for the purpose of proving or disproving pedigree or the existence of the marriage, as the case may be; or
+
+(c) whereby in any civil proceedings evidence of reputation or family tradition is admissible for the purpose of proving or disproving the existence of any public or general right or of identifying any person or thing.
+
+(5) It is hereby declared that in so far as any statement is admissible in any civil proceedings by virtue of subsection (1) or (3)(a) above, it may be given in evidence in those proceedings notwithstanding anything in sections 2 to 7 of this Act or in any rules of court made in pursuance of section 8 of this Act.
+
+(6) The words in which any rule of law mentioned in subsection (2) or (4) above is there described are intended only to identify the rule in question and shall not be construed as altering that rule in any way.
+
+### 10 Interpretation of Part I, and application to arbitrations, etc.
+
+(1) In this Part of this Act—
+
+- “computer ” has the meaning assigned by section 5 of this Act;
+
+- “document ” includes, in addition to a document in writing—
+
+  - (a) any map, plan, graph or drawing;
+  - (b) any photograph;
+  - (c) any disc, tape, sound track or other device in which sounds or other data (not being visual images) are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced therefrom; and
+  - (d) any film, negative, tape or other device in which one or more visual images are embodied so as to be capable (as aforesaid) of being reproduced therefrom;
+
+- “film ” includes a microfilm;
+
+- “statement ” includes any representation of fact, whether made in words or otherwise.
+
+(2) In this Part of this Act any reference to a copy of a document includes—
+
+(a) in the case of a document falling within paragraph (c) but not (d) of the definition of “document ” in the foregoing subsection, a transcript of the sounds or other data embodied therein;
+
+(b) in the case of a document falling within paragraph (d) but not (c) of that definition, a reproduction or still reproduction of the image or images embodied therein, whether enlarged or not;
+
+(c) in the case of a document falling within both those paragraphs, such a transcript together with such a still reproduction; and
+
+(d) in the case of a document not falling within the said paragraph (d) of which a visual image is embodied in a document falling within that paragraph, a reproduction of that image, whether enlarged or not,
+
+and any reference to a copy of the material part of a document shall be construed accordingly.
+
+(3) For the purposes of the application of this Part of this Act in relation to any such civil proceedings as are mentioned in section 18(1)(a) and (b) of this Act [[^F5]other than civil proceedings on a reference to arbitration under section 64 of the County Courts Act 1984], any rules of court made for the purposes of this Act under [[^F6]section 84 of the Supreme Court Act 1981] shall (except in so far as their operation is excluded by agreement) apply, subject to such modifications as may be appropriate, in like manner as they apply in relation to civil proceedings in the High Court:
+
+[[^F7](3A) For the purposes of the application of this Part of this Act in relation to proceedings on an arbitration under section 64 of the County Courts Act 1984 any rules made for the purposes of this Act under section 75 of that Act shall (except in so far as their operation is excluded by agreement) apply, subject to such modifications as may be appropriate, in like manner as they apply in relation to proceedings in the county court.]
+
+(4) If any question arises as to what are, for the purposes of any such civil proceedings as are mentioned in section 18(1)(a) or (b) of this Act, the appropriate modifications of any such rule of court as is mentioned in subsection (3) above, that question shall, in default of agreement, be determined by the tribunal or the arbitrator or umpire, as the case may be.
+
+## Part II — Miscellaneous and General
+
+### Convictions, etc. as evidence in civil proceedings
+
+#### 11 Convictions as evidence in civil proceedings.
+
+(1) In any civil proceedings the fact that a person has been convicted of an offence by or before any court in the United Kingdom or [[^F8]of a service offence (anywhere)] shall (subject to subsection (3) below) be admissible in evidence for the purpose of proving, where to do so is relevant to any issue in those proceedings, that he committed that offence, whether he was so convicted upon a plea of guilty or otherwise and whether or not he is a party to the civil proceedings; but no conviction other than a subsisting one shall be admissible in evidence by virtue of this section.
+
+(2) In any civil proceedings in which by virtue of this section a person is proved to have been convicted of an offence by or before any court in the United Kingdom or [[^F9]of a service offence]—
+
+(a) he shall be taken to have committed that offence unless the contrary is proved; and
+
+(b) without prejudice to the reception of any other admissible evidence for the purpose of identifying the facts on which the conviction was based, the contents of any document which is admissible as evidence of the conviction, and the contents of the information, complaint, indictment or charge-sheet on which the person in question was convicted, shall be admissible in evidence for that purpose.
+
+(3) Nothing in this section shall prejudice the operation of section 13 of this Act or any other enactment whereby a conviction or a finding of fact in any criminal proceedings is for the purposes of any other proceedings made conclusive evidence of any fact.
+
+(4) Where in any civil proceedings the contents of any document are admissible in evidence by virtue of subsection (2) above, a copy of that document, or of the material part thereof, purporting to be certified or otherwise authenticated by or on behalf of the court or authority having custody of that document shall be admissible in evidence and shall be taken to be a true copy of that document or part unless the contrary is shown.
+
+(5) Nothing in any of the following enactments, that is to say—
+
+(a) [[^F10]section 82 of the Sentencing Code] (under which a conviction leading to [^F11]. . . discharge is to be disregarded except as therein mentioned);
+
+[[^F12](aa) section 187 of the Armed Forces Act 2006 (which makes similar provision in respect of service convictions);]
+
+(b) [[^F13]section 191 of the [^M2]Criminal Procedure (Scotland) Act 1975] (which makes similar provision in respect of convictions on indictment in Scotland); and
+
+(c) section 8 of the [^M3]Probation Act (Northern Ireland) 1950 (which corresponds to the said section 12) or any corresponding enactment of the Parliament of Northern Ireland for the time being in force,
+
+shall affect the operation of this section; and for the purposes of this section any order made by a court of summary jurisdiction in Scotland under [[^F13]section 383 or section 384 of the said Act of 1975] shall be treated as a conviction.
+
+[[^F14](7) In this section—
+
+- “service offence” has the same meaning as in the Armed Forces Act 2006;
+- “conviction” includes anything that under section 376(1) and (2) of that Act is to be treated as a conviction, and “convicted” is to be read accordingly.]
+
+#### 12 Findings of adultery and paternity as evidence in civil proceedings.
+
+(1) In any civil proceedings—
+
+(a) the fact that a person has been found guilty of adultery in any matrimonial proceedings; and
+
+[[^F15](b) the fact that a person has been found to be the father of a child in relevant proceedings before any court in England and Wales [[^F16]or Northern Ireland] or has been adjudged to be the father of a child in affiliation proceedings before any court in the United Kingdom;]
+
+shall (subject to subsection (3) below) be admissible in evidence for the purpose of proving, where to do so is relevant to any issue in those civil proceedings, that he committed the adultery to which the finding relates or, as the case may be, is (or was) the father of that child, whether or not he offered any defence to the allegation of adultery or paternity and whether or not he is a party to the civil proceedings; but no finding or adjudication other than a subsisting one shall be admissible in evidence by virtue of this section.
+
+(2) In any civil proceedings in which by virtue of this section a person is proved to have been found guilty of adultery as mentioned in subsection (1)(a) above or [[^F17]to have been found or adjudged] to be the father of a child as mentioned in subsection (1)(b) above—
+
+(a) he shall be taken to have committed the adultery to which the finding relates or, as the case may be, to be (or have been) the father of that child, unless the contrary is proved; and
+
+(b) without prejudice to the reception of any other admissible evidence for the purpose of identifying the facts on which the finding or adjudication was based, the contents of any document which was before the court, or which contains any pronouncement of the court, in the [[^F17]other proceedings] in question shall be admissible in evidence for that purpose.
+
+(3) Nothing in this section shall prejudice the operation of any enactment whereby a finding of fact in any matrimonial or affiliation proceedings is for the purposes of any other proceedings made conclusive evidence of any fact.
+
+(4) Subsection (4) of section 11 of this Act shall apply for the purposes of this section as if the reference to subsection (2) were a reference to subsection (2) of this section.
+
+(5) In this section—
+
+- “matrimonial proceedings ” means any matrimonial cause in the High Court or [[^F18] family] court in England and Wales or in the High Court in Northern Ireland, any consistorial action in Scotland, or any appeal arising out of any such cause or action;
+- [[^F19] “ relevant proceedings ” means—
+
+[^F20]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) proceedings under the Children Act 1989;
+
+(c) proceedings which would have been relevant proceedings for the purposes of this section in the form in which it was in force before the passing of the Children Act 1989.]
+
+[^F21]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F22](e) proceedings which are relevant proceedings as defined in section 8(5) of the Civil Evidence Act (Northern Ireland) 1971
+
+- “ affiliation proceedings ” means, in relation to Scotland, any action of affiliation and aliment;
+
+and in this subsection “ consistorial action ” does not include an action of aliment only between husband and wife raised in the Court of Session or an action of interim aliment raised in the sheriff court. ]
+
+#### 13 Conclusiveness of convictions for purposes of defamation actions.
+
+(1) In an action for libel or slander in which the question whether [[^F23]the plaintiff] did or did not commit a criminal offence is relevant to an issue arising in the action, proof that, at the time when that issue falls to be determined, [[^F23]he] stands convicted of that offence shall be conclusive evidence that he committed that offence; and his conviction thereof shall be admissible in evidence accordingly.
+
+(2) In any such action as aforesaid in which by virtue of this section [[^F23] the plaintiff]is proved to have been convicted of an offence, the contents of any document which is admissible as evidence of the conviction, and the contents of the information, complaint, indictment or charge-sheet on which [[^F23]he] was convicted, shall, without prejudice to the reception of any other admissible evidence for the purpose of identifying the facts on which the conviction was based, be admissible in evidence for the purpose of identifying those facts.
+
+[[^F24](2A) In the case of an action for libel or slander in which there is more than one plaintiff—
+
+(a) the references in subsections (1) and (2) above to the plaintiff shall be construed as references to any of the plaintiffs, and
+
+(b) proof that any of the plaintiffs stands convicted of an offence shall be conclusive evidence that he committed that offence so far as that fact is relevant to any issue arising in relation to his cause of action or that of any other plaintiff.]
+
+(3) For the purposes of this section a person shall be taken to stand convicted of an offence if but only if there subsists against him a conviction of that offence by or before a court in the United Kingdom or [[^F25](in the case of a service offence) a conviction (anywhere) of that service offence][^F25].
+
+(4) Subsections (4) to [[^F26](7)][^F26] of section 11 of this Act shall apply for the purposes of this section as they apply for the purposes of that section, but as if in the said subsection (4) the reference to subsection (2) were a reference to subsection (2) of this section.
+
+(5) The foregoing provisions of this section shall apply for the purposes of any action begun after the passing of this Act, whenever the cause of action arose, but shall not apply for the purposes of any action begun before the passing of this Act or any appeal or other proceedings arising out of any such action.
+
+### Privilege
+
+#### 14 Privilege against incrimination of self or spouse [[^F27]or civil partner][^F27].
+
+(1) The right of a person in any legal proceedings other than criminal proceedings to refuse to answer any question or produce any document or thing if to do so would tend to expose that person to proceedings for an offence or for the recovery of a penalty—
+
+(a) shall apply only as regards criminal offences under the law of any part of the United Kingdom and penalties provided for by such law; and
+
+(b) shall include a like right to refuse to answer any question or produce any document or thing if to do so would tend to expose the [[^F28]spouse or civil partner][^F28] of that person to proceedings for any such criminal offence or for the recovery of any such penalty.
+
+(2) In so far as any existing enactment conferring (in whatever words) powers of inspection or investigation confers on a person (in whatever words) any right otherwise than in criminal proceedings to refuse to answer any question or give any evidence tending to incriminate that person, subsection (1) above shall apply to that right as it applies to the right described in that subsection; and every such existing enactment shall be construed accordingly.
+
+(3) In so far as any existing enactment provides (in whatever words) that in any proceedings other than criminal proceedings a person shall not be excused from answering any question or giving any evidence on the ground that to do so may incriminate that person, that enactment shall be construed as providing also that in such proceedings a person shall not be excused from answering any question or giving any evidence on the ground that to do so may incriminate the husband or wife of that person.
+
+(4) Where any existing enactment (however worded) that—
+
+(a) confers powers of inspection or investigation; or
+
+(b) provides as mentioned in subsection (3) above,
+
+further provides (in whatever words) that any answer or evidence given by a person shall not be admissible in evidence against that person in any proceedings or class of proceedings (however described, and whether criminal or not), that enactment shall be construed as providing also that any answer or evidence given by that person shall not be admissible in evidence against the husband or wife of that person in the proceedings or class of proceedings in question.
+
+(5) In this section “existing enactment ” means any enactment passed before this Act; and the references to giving evidence are references to giving evidence in any manner, whether by furnishing information, making discovery, producing documents or otherwise.
+
+#### 15 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F29]
+
+#### 16 Abolition of certain privileges.
+
+(1) The following rules of law are hereby abrogated except in relation to criminal proceedings, that is to say—
+
+(a) the rule whereby, in any legal proceedings, a person cannot be compelled to answer any question or produce any document or thing if to do so would tend to expose him to a forfeiture; and
+
+(b) the rule whereby, in any legal proceedings, a person other than a party to the proceedings cannot be compelled to produce any deed or other document relating to his title to any land.
+
+(2) The rule of law whereby, in any civil proceedings, a party to the proceedings cannot be compelled to produce any document relating solely to his own case and in no way tending to impeach that case or support the case of any opposing party is hereby abrogated.
+
+(3) Section 3 of the Evidence (Amendment) Act 1853 [^M4] (which provides that a husband or wife shall not be compellable to disclose any communication made to him or her by his or her spouse during the marriage) shall cease to have effect except in relation to criminal proceedings.
+
+(4) In section 43(1) of the Matrimonial Causes Act 1965 [^M5] (under which the evidence of a husband or wife is admissable in any proceedings to prove that marital intercourse did or did not take place between them at any period, but a husband or wife is not compellable in any proceedings to give evidence of the matters aforesaid), the words from “but a husband or wife ” to the end of the subsection shall cease to have effect except in relation to criminal proceedings.
+
+(5) A witness in any proceedings instituted in consequence of adultery, whether a party to the proceedings or not, shall not be excused from answering any question by reason that it tends to show that he or she has been guilty of adultery; and accordingly the proviso to section 3 of the [^M6]Evidence Further Amendment Act 1869 and, in section 43(2) of the [^M7]Matrimonial Causes Act 1965, the words from “but ” to the end of the subsection shall cease to have effect.
+
+#### 17 Consequential amendments relating to privilege.
+
+(1) In relation to England and Wales—
+
+(a) [^F30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) section 8(5) of the [^M8]Parliamentary Commissioner Act 1967 (which provides that, subject as there mentioned, no person shall be compelled for the purposes of an investigation under that Act to give evidence or produce any document which he could not be compelled to give or produce in proceedings before the High Court) shall have effect as if before the word “proceedings ” there were inserted the word “civil ”;
+
+and so far as it applies to England and Wales, any other existing enactment, however framed or worded, which in relation to any tribunal, investigation or inquiry (however described) confers on persons required to answer questions or give evidence any privilege described by reference to the privileges of witnesses in proceedings before any court shall, unless the contrary intention appears, be construed as referring to the privileges of witnesses in civil proceedings before that court.
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F31]
+
+(3) Without prejudice to the generality of subsections (2) to (4) of section 14 of this Act, the enactments mentioned in the Schedule to this Act shall have effect subject to the amendments provided for by that Schedule (being verbal amendments to bring those enactments into conformity with the provisions of that section).
+
+(4) Subsection (5) of section 14 of this Act shall apply for the purposes of this section as it applies for the purposes of that section.
+
+### General
+
+#### 18 General interpretation, and savings.
+
+(1) In this Act “civil proceedings ” includes, in addition to civil proceedings in any of the ordinary courts of law—
+
+(a) civil proceedings before any other tribunal, being proceedings in relation to which the strict rules of evidence apply; and
+
+(b) an arbitration or reference, whether under an enactment or not,
+
+but does not include civil proceedings in relation to which the strict rules of evidence do not apply.
+
+(2) In this Act—
+
+- “court ” does not include a [[^F32]service court][^F32], and, in relation to an arbitration or reference, means the arbitrator or umpire and, in relation to proceedings before a tribunal (not being one of the ordinary courts of law), means the tribunal;
+- “legal proceedings ” includes an arbitration or reference, whether under an enactment or not;
+
+and for the avoidance of doubt it is hereby declared that in this Act, and in any amendment made by this Act in any other enactment, references to a person’s husband or wife do not include references to a person who is no longer married to that person.
+
+[[^F33](2A) In subsection (2) “service court” means the Court Martial, the Summary Appeal Court, the Service Civilian Court, the Court Martial Appeal Court or the Supreme Court on an appeal brought from the Court Martial Appeal Court.]
+
+[^F33]3 Any reference in this Act to any other enactment is a reference thereto as amended, and includes a reference thereto as applied, by or under any other anactment.
+
+(4) Nothing in this Act shall prejudice the operation of any enactment which provides (in whatever words) that any answer or evidence given by a person in specified circumstances shall not be admissible in evidence against him or some other person in any proceedings or class of proceedings (however described).
+
+In this subsection the reference to giving evidence is a reference to giving evidence in any manner, whether by furnishing information, making discovery, producing documents or otherwise.
+
+(5) Nothing in this Act shall prejudice—
+
+(a) any power of a court, in any legal proceedings, to exclude evidence (whether by preventing questions from being put or otherwise) at its discretion; or
+
+(b) the operation of any agreement (whenever made) between the parties to any legal proceedings as to the evidence which is to be admissible (whether generally or for any particular purpose) in those proceedings.
+
+(6) It is hereby declared that where, by reason of any defect of speech or hearing from which he is suffering, a person called as a witness in any legal proceedings gives his evidence in writing or by signs, that evidence is to be treated for the purposes of this Act as being given orally.
+
+#### 19 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F34]
+
+#### 20 Short title, repeals, extent and commencement.
+
+(1) This Act may be cited as the Civil Evidence Act 1968.
+
+(2) Sections 1, 2, 6(1) (except the words from “’Proceedings’ ” to “references ”) and 6(2)(b) of the Evidence Act 1938 [^M9] are hereby repealed.
+
+(3) This Act shall not extend to Scotland or, . . . [^F35] to Northern Ireland.
+
+(4) The following provisions of this Act, namely sections 13 to 19, this section (except subsection (2)) and the Schedule, shall come into force on the day this Act is passed, and the other provisions of this Act shall come into force on such day as the Lord Chancellor may by order made by statutory instrument appoint; and different days may be so appointed for different purposes of this Act or for the same purposes in relation to different courts or proceedings or otherwise in relation to different circumstances.
+
+## SCHEDULE — Consequential Amendments.
+
+*Section 17.*
+
+|  |  |
+|---|---|
+| Act amended | Amendment |
+| The Hop (Prevention of Frauds) Act 1866 (29 & 30 Vict. c. 37) | . . . [^F36] |
+| The Explosive Substances Act 1883 (46 & 47 Vict. c. 3) | In section 6(2) (answers to be inadmissible against person giving them), for the word “himself ” there shall be substituted the words “that witness or the husband or wife of that witness ”, after the word “him ”, where it first occurs, there shall be inserted the words “or her ”, and for the words “against him ” there shall be substituted the words “against that person or the husband or wife of that person ” |
+| [^F37] ... | [^F37] ... |
+| [[^F38]The Borrowing (Control and Guarantees) Act 1946 (9 & 10 Geo. 6. c. 58)] | . . . [[^F38] “ ” “ ”.] |
+| The Representation of the People Act 1949 (12, 13 & 14 Geo. 6. c. 68) | . . . [^F39] |
+| The Baking Industry (Hours of Work) Act 1954 (2 & 3 Eliz. 2. c. 57) | . . . [^F40] |
+| The Wages Councils Act 1959 7 & 8 Eliz. 2. c. 69 | . . . [^F41] |
+| The Factories Act 1961 (9 & 10 Eliz. 2. c. 34) | In section 146(1)(f) (privilege against self-incrimination), after the word “himself ” there shall be inserted the words “or, in the case of a person who is married, his or her wife or husband ”. |
+| The Offices, Shops and Railway Premises Act 1963 (c. 41) | In section 53(1)(d) (answers to be inadmissable against the person giving them), for the words “against him ” there shall be substituted the words “against that person or the husband or wife of that person ”. |
+| The National Insurance Act 1965 (1965 c. 51) | . . . [^F42] |
+| The National Insurance (Industrial Injuries Act 1965 (1965 c. 52) | . . . [^F42] |
+| The Selective Employment Payments Act 1966 (1966 c. 32) | In section 8(3) (privilege against self-incrimination), after the word “him ” there shall be added the words “or, in the case of a person who is married, his or her wife or husband ”. |
+
+---
+
+[^F1]: Part I (Ss. 1-10) repealed (31.1.1997) by 1995 c. 38, s. 15(2), Sch. 2 (with ss. 1(3),6(4)(5),14) ; S.I. 1996/3217, art. 2
+[^M1]: 1865 c. 18.
+[^F2]: Words repealed by Supreme Court Act 1981 (c. 54, SIF 37), s. 152(4), Sch. 7
+[^F3]: Words substituted by County Courts Act 1984 (c. 28, SIF 34), s. 148(1)(2), Sch. 2 Pt. V para. 33, Sch. 3 para. 9
+[^F4]: Words substituted by Magistrates' Courts Act 1980 (c. 43, SIF 82), s. 154, Sch. 7 para. 75
+[^F5]: Words inserted by County Courts Act 1984 (c. 28, SIF 34), s. 148(1)(2), Sch. 2 Pt. V para. 34(a), Sch. 3 para. 9
+[^F6]: Words substituted by virtue of Interpretation Act 1978 (c. 30, SIF 115:1), s. 17(2)(*a*)
+[^F7]: Words substituted by County Courts Act 1984 (c. 28, SIF 34), s. 148(1)(2), Sch. 2 Pt. V para. 34(*b*), Sch. 3 para. 9
+[^F8]: Words in s. 11(1) substituted (28.3.2009 for certain purposes and otherwise 31.10.2009) by Armed Forces Act 2006 (c. 52), ss. 378(1), 383(2), Sch. 16 para. 51(2); S.I. 2009/812, art. 3 (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F9]: Words in s. 11(2) substituted (28.3.2009 for certain purposes and otherwise 31.10.2009) by Armed Forces Act 2006 (c. 52), ss. 378(1), 383(2), Sch. 16 para. 51(3); S.I. 2009/812, art. 3 (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F10]: Words in s. 11(5)(a) substituted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 20 (with Sch. 27); S.I. 2020/1236, reg. 2
+[^F11]: Words in s. 11(5)(a) repealed (1.10.1992) by Criminal Justice Act 1991 (c. 53, SIF 39:1), ss. 100, 101(2), Sch. 11 para. 5, Sch. 13; S.I. 1992/333, art. 2(2), Sch. 2
+[^F12]: S. 11(5)(aa) inserted (28.3.2009 for certain purposes and otherwise 31.10.2009) by Armed Forces Act 2006 (c. 52), ss. 378(1), 383(2), Sch. 16 para. 51(4); S.I. 2009/812, art. 3 (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F13]: Words substituted by virtue of Interpretation Act 1889 (c. 63), s. 38(1)
+[^M2]: 1975 c. 21.
+[^M3]: 1950 c. 7 (N.I.)
+[^F14]: S. 11(7) substituted (28.3.2009 for certain purposes and otherwise 31.10.2009) for s. 11(6) by Armed Forces Act 2006 (c. 52), ss. 378(1), 383(2), Sch. 16 para. 51(5); S.I. 2009/812, art. 3 (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F15]: Words substituted by Family Law Reform Act 1987 (c. 42, SIF 49:7), ss. 29(1)(2), 33(2), Sch. 3 paras. 1, 6
+[^F16]: Words in s.12(1)(b) inserted (4.11.1996) by S.I. 1995/756, art. 6(a); S.R. 1996/297, art. 3
+[^F17]: Words substituted by Family Law Reform Act 1987 (c. 42, SIF 49:7), ss. 29(3), 33(2), Sch. 3 paras. 1, 6
+[^F18]: Word in s. 12(5) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 10 para. 17; S.I. 2014/954, art. 2(d) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F19]: Definition of “relevant proceedings” substituted (14.10.1991) by Courts and Legal Services Act 1990 (c. 41, SIF 76:1), s. 116, Sch. 16 para. 2(1); S.I. 1992/1883, art. 3, Sch.
+[^F20]: Words in s. 12(5) omitted (1.4.2015) by virtue of The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914), art. 1(2), Sch. para. 15 (with arts. 1(3), 3)
+[^F21]: S. 12(5)(d) repealed (1.4.2001) by 2000 c. 19, s. 85, Sch. 9 Pt. IX (with s. 83(6)); S.I. 2001/774, art. 2
+[^F22]: S. 12(5)(e) added (4.11.1996) by S.I. 1995/756, art. 6(b); S.R. 1996/297, art. 3
+[^F23]: Words in s. 13(1) substituted (4.9.1996) by 1996 c. 31, ss. 12(1), 19(1) (with s. 20(2))
+[^F24]: S. 13 (2A) inserted (4.9.1996) by 1996 c. 31, ss. 12(1), 19(1) (with s. 20(2))
+[^F25]: Words in s. 13(3) substituted (28.3.2009 for certain purposes and otherwise 31.10.2009) by Armed Forces Act 2006 (c. 52), ss. 378(1), 383(2), Sch. 16 para. 52(a); S.I. 2009/812, art. 3 (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F26]: Words in s. 13(4) substituted (28.3.2009 for certain purposes and otherwise 31.10.2009) by Armed Forces Act 2006 (c. 52), ss. 378(1), 383(2), Sch. 16 para. 52(b); S.I. 2009/812, art. 3 (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F27]: Words in heading inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 261(1), 263, Sch. 27 para. 30(b); S.I. 2005/3175, art. 2(2) (subject to art. 2(3)-(5))
+[^F28]: Words in s. 14(1)(b) substituted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 261(1), 263, Sch. 27 para. 30(a); S.I. 2005/3175, art. 2(2) (subject to art. 2(3)-(5))
+[^F29]: S. 15 repealed by Patents Act 1977 (c. 37), Sch. 6
+[^M4]: 1853 c. 83
+[^M5]: 1965 c. 72
+[^M6]: 1869 c. 68.
+[^M7]: 1965 c. 72.
+[^F30]: S. 17(1)(a) repealed (7.6.2005) by Inquiries Act 2005 (c. 12), ss. 49(2), 51, Sch. 3 (with ss. 44, 50); S.I. 2005/1432, art. 2
+[^M8]: 1967 c. 13.
+[^F31]: S. 17(2) repealed by Evidence (Proceedings in Other Jurisdictions) Act 1975 (c. 34), Sch. 2
+[^F32]: Words in s. 18(2) substituted (28.3.2009 for certain purposes and otherwise 31.10.2009) by Armed Forces Act 2006 (c. 52), ss. 378(1), 383(2), Sch. 16 para. 53(a); S.I. 2009/812, art. 3 (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F33]: S. 18(2A) inserted (28.3.2009 for certain purposes and otherwise 31.10.2009) by Armed Forces Act 2006 (c. 52), ss. 378(1), 383(2), Sch. 16 para. 53(b); S.I. 2009/812, art. 3 (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F34]: S. 19 repealed by Northern Ireland Constitution Act 1973 (c. 36), Sch. 6 Pt. I
+[^M9]: 1938 c. 28
+[^F35]: Words repealed by Northern Ireland Constitution Act 1973 (c. 36), Sch. 6 Pt. I
+[^F36]: Entry repealed by Statute Law (Repeals) Act 1981 (c.19), s.1(1), Sch. 1 Pt.1.
+[^F37]: Sch.: Entry relating to Land Registration Act 1925 repealed (13.10.2003) by 2002 c. 9, ss. 135, 136(2), Sch. 13 (with s. 129, Sch. 12 para. 1); S.I. 2003/1725, art. 2
+[^F38]: Schedule: entry relating to the Borrowing (Control and Guarantees) Act 1946 repealed (11.2.1991) by Government Trading Act 1990 (c. 30, SIF 99:1), s. 4(2), Sch. 2 Pt. I; S.I. 1991/132, art. 2
+[^F39]: Entry repealed by Representation of the People Act 1983 (c. 2 SIF 42), s.206, Sch. 9
+[^F40]: Entry repealed by Sex Discrimination Act 1986 (c.59, SIF 106:1), s9(2), Sch. Pt III
+[^F41]: Entry repealed by Wages Councils Act 1979 (c. 12, SIF 43:1), s. 31, Sch. 5 para. 1, Sch. 7
+[^F42]: Schedule: entries repealed by Social Security Act 1973 (c. 38), Sch. 28 Pt. I

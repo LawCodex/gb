@@ -1,0 +1,2288 @@
+---
+title: "Reserve Forces Act 1980"
+identifier: "ukpga/1980/9"
+citation: "1980 c.9"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1980-03-20
+last_amended: 2016-04-06
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1980/9"
+source_modified: 2024-05-17
+retrieved: 2026-10-11
+---
+
+# Reserve Forces Act 1980
+
+**1980 c.9**
+
+[^F1]An Act to consolidate certain enactments relating to the reserve and auxiliary forces, and the lieutenancies, with amendments to give effect to a recommendation of the Law Commission; and to repeal certain obsolete enactments relating to those forces.
+
+[20th March 1980]
+
+## Part I — The Reserve and Auxiliary Forces
+
+### Naval and marine reserves
+
+#### [^F2]1 .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F3]2 .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F4]3 Royal Marines Reserve.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Army reserves and auxiliaries
+
+#### [^F5]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 5 [^F6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F7]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F8]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Air force reserves and auxiliaries
+
+#### [^F9]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F10]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part II — Call Out and Recall
+
+### General provisions as to call out for permanent service
+
+#### 10 Call out for national danger.
+
+[[^F11](1) Any member of any reserve force other than an officer of the Royal Fleet Reserve may be called out for permanent service in any part of the world whenever an order of Her Majesty made under section 52(1)(a) of the Reserve Forces Act 1996 is in force.
+
+(2) Sections 50(6) and 52(3) to (6) of the Reserve Forces Act 1996 shall apply to persons subject to this section as if they were persons to whom section 52 of that Act applied.]
+
+(a) a proclamation shall be issued for the meeting of Parliament within 5 days; and
+
+(b) Parliament shall accordingly meet and sit upon the day appointed by the proclamation; and
+
+(c) Parliament shall continue to sit and act in like manner as if it had stood adjourned or prorogued to the same day.
+
+(4) In this section “reserve force” means any of the following bodies—
+
+(a) the [[^F12]Regular Reserve] ;
+
+(b) the [[^F13]Army Reserve] ;
+
+(c) the Air Force Reserve;
+
+(d) the Royal Auxiliary Air Force:
+
+(e) the Royal Naval Reserve [^F14]. . .
+
+[[^F15](ea) the Royal Fleet Reserve including its special class; and]
+
+(f) the Royal Marines Reserve.
+
+(5) [^F16]An order under subsection (1) may authorise the calling out of the Ulster Defence Regiment for permanent service in Northern Ireland, and section 26 below applies for the purposes of this subsection as if the Ulster Defence Regiment were a reserve force within the meaning of subsection (4) above.
+
+(6) In relation to a man of the Royal Auxiliary Air Force in whose case it was agreed at the time of his enlistment that he was accepted for home service only, subsection (1) has effect as if for the reference to any part of the world there were a reference to the United Kingdom, the Channel Islands and the Isle of Man.
+
+#### [[^F17]11
+
+(1) A person to whom this section applies shall be liable to be called out for permanent service in any part of the world whenever an order under section 54(1) of the Reserve Forces Act 1996 is in force.
+
+(1A) Sections 50(6) and 54(3) to (6) of the Reserve Forces Act 1996 shall apply to persons subject to this section as if they were persons to whom section 54 of that Act applied.
+
+(2) The persons to whom this section applies are—
+
+(a) any member of the [[^F12]Regular Reserve] or the Air Force Reserve who became such a member on or after 1st April 1967 otherwise than in consequence of his having enlisted in the regular army or the [^F18]regular air force [[^F18]Royal Air Force] before that day;
+
+(b) any member of the [[^F13]Army Reserve] who became such a member on or after 1st April 1967 by enlisting or re-engaging in the [[^F13]Army Reserve] or by becoming an officer of the [[^F13]Army Reserve] ;
+
+(ba) any officer of the Royal Fleet Reserve;
+
+(c) any member of the special class of the Royal Fleet Reserve who became such a member on or after 1st April 1967 otherwise than in consequence of his having, before that day, been entered for non-continuous service in the naval service of Her Majesty or enlisted to serve in the royal marine forces;
+
+(3) In subsection (2) above the references in paragraphs (a) and (c) to becoming a member of a reserve or class include references to remaining a member of it by virtue of a new engagement or other agreement.]
+
+#### [^F19]12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [[^F20]13 Provisions supplemental to ss. 10 to 12.
+
+[^F20]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) A man of the [[^F13]Army Reserve] or the Royal Auxiliary Air Force who is called out for permanent service shall, subject to subsections (3) and (4) below, be liable to serve—
+
+(a) until Her Majesty no longer requires his services, or
+
+(b) until the expiry of his term of service in that reserve or force,
+
+whichever first occurs, and a member of the special class of the Royal Fleet Reserve who is called out for permanent service by virtue of section 11(1) shall be under a like liability to serve.
+
+(3) The period or aggregate of the periods during which a man is called out for service by virtue of section 11(1) during the term of his current engagement shall not without his consent exceed 12 months.
+
+(4) Where the time at which (apart from this subsection)—
+
+(a) the term of service in the special class of the Royal Fleet Reserve of a man of that class would expire, or
+
+(b) a man of the [[^F13]Army Reserve] would be entitled to discharge,
+
+occurs while he is called out for service by virtue of section 11(1), he may be required to continue in service under that subsection for such further period as may be ordered by—
+
+(i) the Defence Council, or
+
+(ii) an officer designated for the purposes of this subsection by the Defence Council,
+
+but the period so ordered (together with the period or aggregate of the periods of the man’s service under section 11(1) apart from this subsection during the term of his current engagement) shall not exceed 12 months.]
+
+### Call out under special agreement
+
+#### [^F21]14 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F22]15 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Other provisions as to call out for service
+
+#### 16 Permanent service call out of naval and marine reserves.
+
+(1) Every officer and man serving in—
+
+(a) the Royal Naval Reserve and the Royal Fleet Reserve, except a man of the special class of the Royal Fleet Reserve to whom section 11 above applies,
+
+(b) the Royal Marines Reserve,
+
+is liable, during the whole of that service, to be called out for permanent service
+
+- [[^F23]whenever an order under section 52(1)(b) of the Reserve Forces Act 1996 is in force.]
+- The reference in this subsection to the United Kingdom shall be construed as if that expression included the Channel Islands and the Isle of Man.
+
+[[^F24](1A) Sections 50(6), and 52(3) to (6) of the Reserve Forces Act 1996 shall apply to persons subject to this section as if they were persons to whom section 52 of that Act applied.]
+
+(2) The provisions of subsection (1) above are in addition to, and not in substitution for, the provisions of any other enactment under which officers or men of the reserves mentioned in that subsection are liable to be called into permanent service.
+
+#### 17 Naval and marine reserve service under ss. 10 and 16.
+
+(1) Every officer and man of the Royal Naval Reserve, the Royal Fleet Reserve and the Royal Marines Reserve called out for permanent service by virtue of section 10 or section 16 above shall be—
+
+(a) liable to that service for a term of 3 years from the time of his coming into such service;
+
+(b) entitled to be discharged from that service at the expiry of that term.
+
+(2) If in any emergency Her Majesty sees fit She may, by order signified under the hand of the Secretary of State, provide that at the date of the order the officers and men of the Royal Naval Reserve and the Royal Fleet Reserve in permanent service by virtue of section 10 or section 16 shall continue in that service for a period of 5 years from the date of their respectively coming into that service, if their services be so long required.
+
+(3) The officers and men mentioned in subsection (2) above shall at the date of the order—
+
+(a) be liable to such permanent service accordingly; and
+
+(b) not be entitled to claim their discharge during that period.
+
+(4) Where any officer or man of the Royal Naval Reserve and the Royal Fleet Reserve—
+
+(a) is called into permanent service by virtue of section 10 or section 16, and
+
+(b) is detained in that service for a period of less than 5 years,
+
+he shall, during the period of 5 years from the date of his joining the reserve be liable from time to time to be again called into that service, and to serve accordingly for such period as with his former such service will make up a period of 5 years in that service.
+
+#### [[^F25]18 Permanent service call out of [[^F12]Regular Reserve] .
+
+[[^F26](1) Any officer or man of the [[^F12]Regular Reserve] shall be liable to be called out for permanent service on home defence service whenever an order under section 52(1)(b) of the Reserve Forces Act 1996 is in force.]
+
+[[^F27](1A) Sections 50(6), and 52(3) to (6) of the Reserve Forces Act 1996 shall apply to persons subject to this section as if they were persons to whom section 52 of that Act applied.]
+
+(2) Where a man of the [[^F12]Regular Reserve] is called out for permanent service—
+
+(a) he may be appointed to any corps;
+
+(b) [^F28]subsection (3) of section 3 of the [^M1][^F28]Army Act 1955 shall apply to him as it applies to a soldier of the regular forces.
+
+[^F25]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+#### 19 Duration of [[^F12]Regular Reserve] permanent service.
+
+(1) Subject to this section and section 13(3) above, a man of the [[^F12]Regular Reserve] when called out for permanent service shall be liable to serve until Her Majesty no longer requires his services.
+
+(2) No man called out for permanent service shall be required to serve for a period exceeding in the whole the remainder unexpired of his term of service in the [[^F12]Regular Reserve] .
+
+[[^F29](3) Section 19A below shall apply to men of the [[^F12]Regular Reserve] called out for permanent service.
+
+(4) [^F30]Section 13 of the Army Act 1955 so far as it relates to discharge shall apply to men of the [^F30][[^F12]Regular Reserve][^F30] called out for permanent service as it applies to soldiers of the regular forces.
+
+(5) Nothing in subsection (2) above shall prejudice the operation of [^F31]subsections (3) and (4) above [[^F31]subsection (3)] .]
+
+#### 19A [[^F32] Postponement of discharge of members of [[^F12]Regular Reserve] during call out.
+
+(1) Where a man of the [[^F12]Regular Reserve] is called out on permanent service at a time when he would apart from this section be entitled to be discharged he may be retained in service for such period as is mentioned below, and his service may be prolonged accordingly.
+
+(2) No person shall be retained in service by virtue of this section later than the end of twelve months after the date on which apart from this section he would be entitled to be discharged.
+
+(3) Subject to subsection (2) above, a person who apart from this section would be entitled to be discharged may be retained in service for such period as the competent military authority may order.
+
+(4) If while a man of the [[^F12]Regular Reserve] is being retained in service by virtue of this section it appears to the competent military authority that his services can be dispensed with, he is entitled to be discharged.
+
+(5) Where, at the time at which under subsections (1) to (4) above a man of the [[^F12]Regular Reserve] is entitled to be discharged, a state of war exists between Her Majesty and a foreign power–
+
+(a) he may, by declaration made in the prescribed form before his commanding officer, agree to continue in service while such a state of war exists, and
+
+(b) if the competent military authority approve, he may continue accordingly as if the period for which his term of service could be prolonged under subsections (1) to (4) above were a period continuing so long as a state of war exists;
+
+but this is subject to subsection (6) below.
+
+(6) If it is so specified in the declaration, he is entitled to be discharged at the end of three months’ notice given by him to his commanding officer.
+
+(7) [^F33]In subsections (3) to (5) above “the competent military authority” and “prescribed” have the same meaning as in Part I of the Army Act 1955.
+
+[[^F33]In subsections (3) to (5)—
+
+- “the competent military authority” means the Defence Council or any officer of a description prescribed by regulations of the Defence Council;
+- “prescribed” means prescribed by regulations of the Defence Council.]
+
+(8) Subject to subsection (9) below, in subsection (1) above the reference to a man of the [[^F12]Regular Reserve] being called out on permanent service is a reference to his being called out under an order made under–
+
+(a) section 52 of the Reserve Forces Act 1996 (call out in the event of a national emergency, great danger or an actual or apprehended attack on the United Kingdom, the Channel Islands or the Isle of Man), or
+
+(b) section 54 of the 1996 Act (call out because warlike operations are in preparation or in progress).
+
+(9) In relation to a man of the [[^F12]Regular Reserve] who enlisted in the [[^F12]Regular Reserve] before 1st April 1967, the reference to a man of the [[^F12]Regular Reserve] being called out on permanent service includes a reference to his being called out under an order under section 54 of the 1996 Act only if–
+
+(a) he re-engaged in the [[^F12]Regular Reserve] on or after that date, or
+
+(b) he has made an irrevocable election to that effect in the prescribed manner.]
+
+#### [[^F34]20 Permanent service call out of Air Force Reserve.
+
+[[^F35](1) Any man of the Air Force Reserve shall be liable to be called out for permanent service on home defence service whenever an order under section 52(1)(b) of the Reserve Forces Act 1996 authorising his call-out is in force.]
+
+[[^F36](1A) Sections 50(6) and 52(3) to (6) of the Reserve Forces Act 1996 shall apply to persons subject to this section as if they were persons to whom section 52 of that Act applied.]
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+#### 21 Duration of Air Force Reserve permanent service.
+
+(1) Subject to this section and section 13(3) above, a man of the Air Force Reserve when called out for a permanent service shall be liable to serve until Her Majesty no longer requires his services.
+
+(2) No man called out for permanent service shall be required to serve for a period exceeding in the whole the remainder unexpired of his term of service in the Air Force Reserve, subject to section 69 below.
+
+[[^F37](3) Section 21A below shall apply to men of the Air Force Reserve called out for permanent service.
+
+[^F38]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Nothing in subsection (2) above shall prejudice the operation of [[^F39]subsection (3)] .]
+
+#### 21A [[^F40] Postponement of discharge of members of Air Force Reserve during call out.
+
+(1) Where a man of the Air Force Reserve is called out on permanent service at a time when he would apart from this section be entitled to be discharged he may be retained in service for such period as is mentioned below, and his service may be prolonged accordingly.
+
+(2) No person shall be retained in service by virtue of this section later than the end of twelve months after the date on which apart from this section he would be entitled to be discharged.
+
+(3) Subject to subsection (2) above, a person who apart from this section would be entitled to be discharged may be retained in service for such period as the competent air force authority may order.
+
+(4) If while a man of the Air Force Reserve is being retained in service by virtue of this section it appears to the competent air force authority that his services can be dispensed with, he is entitled to be discharged.
+
+(5) Where, at the time at which under subsections (1) to (4) above a man of the Air Force Reserve is entitled to be discharged, a state of war exists between Her Majesty and a foreign power–
+
+(a) he may, by declaration made in the prescribed form before his commanding officer, agree to continue in service while such a state of war exists, and
+
+(b) if the competent air force authority approve, he may continue accordingly as if the period for which his term of service could be prolonged under subsections (1) to (4) above were a period continuing so long as a state of war exists;
+
+but this is subject to subsection (6) below.
+
+(6) If it is so specified in the declaration, he is entitled to be discharged at the end of three months’ notice given by him to his commanding officer.
+
+(7) [[^F41]In subsections (3) to (5)—
+
+- “the competent air force authority” means the Defence Council or any officer of a description prescribed by regulations of the Defence Council;
+- “prescribed” means prescribed by regulations of the Defence Council.]
+
+(8) Subject to subsection (9) below, in subsection (1) above the reference to a man of the Air Force Reserve being called out on permanent service is a reference to his being called out under an order made under–
+
+(a) section 52 of the Reserve Forces Act 1996 (call out in the event of a national emergency, great danger or an actual or apprehended attack on the United Kingdom, the Channel Islands or the Isle of Man), or
+
+(b) section 54 of the 1996 Act (call out because warlike operations are in preparation or in progress).
+
+(9) In relation to a man of the Air Force Reserve who enlisted in the Air Force Reserve before 1st April 1967, the reference to a man of the Air Force Reserve being called out on permanent service includes a reference to his being called out under an order under section 54 of the 1996 Act only if–
+
+(a) he re-engaged in the Air Force Reserve on or after that date, or
+
+(b) he has made an irrevocable election to that effect in the prescribed manner.]
+
+#### [[^F42]22
+
+(1) Every officer and man of the [[^F13]Army Reserve] and of the Royal Auxiliary Air Force shall be liable to be called out for home defence service whenever an order under section 52(1)(b) of the Reserve Forces Act 1996 authorising his call-out is in force notwithstanding that—
+
+(a) the [[^F13]Army Reserve] or that part to which he belongs has not been called out for permanent service by virtue of section 10(1) or 11(1) above, or
+
+(b) the Royal Auxiliary Air Force or that part to which he belongs has not been called out for permanent service by virtue of section 10(1).
+
+(2) Sections 50(6) and 52(3) to (6) of the Reserve Forces Act 1996 shall apply to persons subject to this section as if they were persons to whom section 52 of that Act applied.]
+
+#### [^F43]23 .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F44]24 Permanent service call out of Ulster Defence Regiment.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F45]25 Emergency service call out of Ulster Defence Regiment.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 25A [[^F46] Application of section 62 of the Reserve Forces Act 1996
+
+Section 62 of the Reserve Forces Act 1996 (power to exempt persons from or relax call-out liability) shall apply to persons liable to be called out by virtue of the enactments mentioned in section 26(2) below as if in section 62 for the words “this Part” in both places in which they appear there were substituted the words “the Reserve Forces Act 1980”]
+
+### Call-out notices under certain enactments
+
+#### [[^F47]26
+
+(1) The power of the Secretary of State under section 58(1) of the Reserve Forces Act 1996 to call out a person liable to be called out under an order made under section 52 or 54 of that Act shall include a power to call out a person liable to be called out by virtue of the enactments mentioned in subsection (2) below.
+
+(2) The enactments referred to in subsection (1) above are—
+
+(a) section 10(1) above;
+
+(b) section 11(1) above;
+
+(c) section 16(1) above;
+
+(d) section 18(1) above;
+
+(e) section 20(1) above;
+
+(f) section 22 above;
+
+[^F48]g . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(h) paragraph 15(1) of Schedule 8 to this Act; and
+
+(i) sub-paragraphs (2), (3), (5) and (6) of paragraph 16 of that Schedule.
+
+(3) Sections 58 and 59 shall have effect in relation to any person called out by virtue of the enactments mentioned in subsection (2) above with the following modifications—
+
+(a) section 58(3) shall have effect as if—
+
+(i) paragraph (b) provided for the call-out notice to specify the provision of this Act by virtue of which the person concerned is liable to be called out; and
+
+(ii) in paragraph (c), the words “under that order” were omitted;
+
+(b) section 58(5) shall have effect as if—
+
+(i) the words “on the authority of a call-out order” were omitted; and
+
+(ii) in paragraph (a), the reference to the call-out order was a reference to the order made under Part VI of the Reserve Forces Act 1996 by virtue of which the person concerned is liable to be called out;
+
+(c) section 59(5) shall have effect as if—
+
+(i) for the word “under”, where it appears for the first time, there were substituted the words “by virtue of”; and
+
+(ii) the words “under that call-out order” were omitted; and
+
+(d) section 59(6) shall have effect as if—
+
+(i) the words “under a call-out order” and “under that order” were omitted; and
+
+(ii) paragraph (b) provided for the person concerned to be deemed to have been called out for service in accordance with this Act.
+
+(4) In the application of sections 58 and 59 of the Reserve Forces Act 1996 and of section 28 below—
+
+(a) section 63 of the Reserve Forces Act 1996 shall apply in relation to this Act as it applies in relation to Part VI of that Act; and
+
+(b) “authorised officer” means an officer authorised by or in accordance with directions of the Defence Council for the purposes of Part VI of the Reserve Forces Act 1996, and any officer so authorised shall be deemed to be authorised for the same purposes in connection with any corresponding provision of this Act.]
+
+#### [^F49]27 .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 28 Differing service liabilities of those called out.
+
+(1) Where a person—
+
+[[^F50](a) is in service in pursuance of a call-out notice under section 58 of the Reserve Forces Act 1996 specifying an enactment mentioned in section 26(2) above;]
+
+(b) if he were not in service he would be liable to be called into service by a call-out notice under [[^F51]section 58 of the Reserve Forces Act 1996] or, as the case may be, by such a call-out notice specifying a different enactment so mentioned,
+
+the Secretary of State may direct that, on the date of the direction or a later date specified in the direction, that person shall be deemed to be called into service by a call-out notice under [[^F51]section 58 of the Reserve Forces Act 1996] specifying such of those enactments applicable to him as is specified in the direction.
+
+(2) Where a person is deemed in pursuance of subsection (1) above to be called into service by virtue of an enactment specified in a direction under that subsection, his service under any other enactment by virtue of which he was previously serving shall cease.
+
+(3) The power to give a direction under this section includes power—
+
+(a) to make provision for persons of such descriptions as are specified in the direction or in respect of an individual; and
+
+(b) to make different provision for different circumstances.
+
+#### 29 End of service under call-out notices.
+
+(1) In any case where—
+
+(a) the services of a person called into service by a call-out notice under [[^F52]section 58 of the Reserve Forces Act 1996 specifying an enactment in section 26(2) above] above are no longer required, or
+
+(b) a person is in service in pursuance of such a call-out notice at the expiry of the period of his liability for service in pursuance of the enactment specified by the notice,
+
+he shall be entitled to be released from [[^F52]permanent] service in the prescribed manner with all convenient speed.
+
+(2) The reference in paragraph (b) of subsection (1) above to a period of liability for service in pursuance of a particular enactment includes a reference to such a period as extended under any other enactment.
+
+#### 29A [[^F53] Application of provisions relating to recall
+
+The provisions of this Act relating to recall shall not apply to any person to whom section 66 of the Reserve Forces Act 1996 applies.]
+
+### Recall of service pensioners and former soldiers
+
+#### [[^F54]30 Liability of naval and marine pensioners to recall.
+
+[[^F55](1) Whenever a recall order under section 68 of the Reserve Forces Act 1996 authorising the recall of persons who have served in the Royal Navy or Royal Marines is in force, persons to whom this section applies are liable—
+
+(a) by virtue of subsection (1A)(a) below, to be ordered to join the Royal Navy;
+
+(b) by virtue of subsection (1A)(b) below, to be ordered to join the Royal Marines,
+
+and those so ordered shall serve while the recall order remains in force (unless released sooner) and while so serving section 76 of the Reserve Forces Act 1996 shall apply to them as it applies to persons described in that section.]
+
+[[^F56](1A) This section applies to any persons who—
+
+(a) have served as warrant officers, petty officers or seamen in the navy; or
+
+(b) have served as warrant officers, non-commissioned officers or men of the Royal Marines,
+
+and are in receipt of pensions in respect of such service.]
+
+(2) [[^F57]Provision made under section 331 of the Armed Forces Act 2006 that applies in relation to] the discharge of seamen serving in the Royal Navy and becoming entitled to be discharged shall be applicable to and for the discharge of any of those serving under subsection (1) above, and becoming entitled to be discharged.
+
+[^F54]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F54]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+#### 31 Liability of army and air force pensioners to recall.
+
+(1) An army or air force pensioner to whom this section applies shall be liable under this section to be recalled for service in such circumstances and for such period as are specified in this section and in sections 32 and 33 below.
+
+(2) This section applies to army and air force pensioners whose service pensions have been assessed or re-assessed in accordance with pension provisions made on or after 16th December 1948, other than—
+
+(a) pensioners whose service pensions were originally granted before 3rd September 1939;
+
+(b) pensioners being those of any description mentioned in Schedule 2 to this Act.
+
+(3) In subsection (2) above the expression “pension provisions made on or after 16th December 1948” means—
+
+(a) in the case of army pensioners, the provisions of a Royal Warrant issued on or after 16th December 1948,
+
+(b) in the case of air force pensioners, the provisions of an Order by Her Majesty so issued,
+
+not being provisions as to which the Warrant or Order directs that they shall be disregarded for the purposes of this section.
+
+(4) A person shall cease to be liable under this section to be recalled for service when he attains the age of 60 years.
+
+(5) A person recalled for service under this section shall not suffer—
+
+(a) any reduction in pay or other emoluments in respect of his service while recalled by reason of being in receipt of a service pension; or
+
+(b) the withholding or reduction of his service pension by reason of his being in receipt of any such pay or emoluments.
+
+(6) In this section—
+
+- “army pensioner” and “air force pensioner” means persons who have been discharged from service as soldiers and as airmen respectively and are in receipt of service pensions,
+- “service pension” means a pension granted in respect of service as a solidier of the [[^F58]regular army] or an airman of the [[^F59]Royal Air Force] or in respect of that service and other service, but does not include a pension awarded in respect of disablement,
+- [[^F60]“soldier” and “airman” include a warrant officer and a non-commissioned officer.]
+
+(7) For the purposes of [[^F61]this section and section 32] , a person shall be deemed to be in receipt of a pension if the pension has been granted to him and has not been wholly forfeited, notwithstanding—
+
+(a) that any part of the pension has been commuted for a sum of money in lieu of the pension; or
+
+(b) that the pension or any part of it is for the time being administered or otherwise applied for any purpose or paid to some other person; or
+
+(c) that the pension or any part of it has not been paid for any period.
+
+For the purposes of this subsection the forfeiture of a pension shall be disregarded if the whole or any part of the pension has been restored since the forfeiture was incurred.
+
+#### 32 Occasion for and period of recall under s. 31.
+
+(1) An army pensioner liable under section 31 above to be recalled for service may be recalled at any time when persons of the [[^F12]Regular Reserve] are called out for permanent service.
+
+In this subsection the expression “called out for permanent service” means called out for permanent service under [[^F62]a call-out order under section 52 of the Reserve Forces Act 1996].
+
+(2) An air force pensioner liable under section 31 to be recalled for service may be recalled at any time when persons of the Air Force Reserve are called out for permanent service.
+
+In this subsection the expression “called out for permanent service” means called out for permanent service [[^F63]a call-out order under section 52 of the Reserve Forces Act 1996].
+
+(3) A person recalled for service under section 31—
+
+(a) shall be deemed to be enlisted in the [^F64]regular forces or the regular air force [[^F64]regular army or the Royal Air Force] , according as he was an army pensioner or an air force pensioner, for the period mentioned in subsection (4) below, unless
+
+(b) on his recall he requires to be enlisted for that period in accordance with [^F65]section 2 of the Army Act 1955, or section 2 of the Air Force Act 1955, as the case may require [[^F65]regulations under section 328 of the Armed Forces Act 2006] , and upon such enlistment he shall not be deemed to have been enlisted by virtue of paragraph (a) above.
+
+(4) The period referred to in subsection (3) above is one—
+
+(a) beginning with the time [^F66]as from which a person is recalled for [[^F66]the person is accepted (by virtue of section 36) into] service under section 31, and
+
+[[^F67](b) ending with the date on which there is no longer a call-out order under section 52 of the Reserve Forces Act 1996 in force authorising the call-out of persons of the [[^F12]Regular Reserve] or the Air Force Reserve, as the case may be.]
+
+(5) [^F68]Nothing in the following provisions shall prejudice the operation of the provisions of this section—
+
+[^F68]a [^F68]the provisions of the [^M2][^F68]Army Act 1955 or the [^M3][^F68]Air Force Act 1955 as to the term for which a person may be enlisted;
+
+[^F68]b [^F68]the provisions of the [^M4][^F68]Army and Air Force Act 1961 corresponding to the provisions mentioned in paragraph (a) above; and
+
+[^F68]c [^F68]the provisions of section 2 of the [^M5][^F68]Armed Forces Act 1966 and regulations made under that section corresponding to the provisions mentioned in paragraph (a).
+
+[[^F68]No regulation under section 329 of the Armed Forces Act 2006 as to the term for which a person may be enlisted affects the operation of subsections (3) and (4) of this section.]
+
+#### [^F69]33 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [[^F70]34 Liability of certain former soldiers to recall.
+
+(1) Any former soldier to whom this section applies may be recalled for service by the Secretary of State by [[^F71]notice under section 35 below] at any time when men of the [[^F12]Regular Reserve] are called out for permanent service under [[^F72]a call-out order under section 52 of the Reserve Forces Act 1996].
+
+(2) This section applies to any person who is not a woman and who is for the time being under the age of 45, and—
+
+(a) who is not—
+
+(i) a member of the armed forces of the Crown apart from this section;
+
+(ii) liable to be recalled to service under section 31 above;
+
+(iii) such a person as is mentioned in Schedule 2 to this Act;
+
+(b) who enlisted in pursuance of regulations made under section 2 of the [^M6]Armed Forces Act 1966;
+
+(c) who has not been discharged in respect of that enlistment under section 14 of the [^M7]Army Act 1955, or under any regulations made by virtue of section 2 of the Armed Forces Act 1966 conferring a right to discharge by purchase;
+
+(d) who has not been granted a commission.
+
+(3) A person recalled for service by such a notice as is referred to in subsection (1) shall be deemed to be enlisted in the [^F73]regular forces within the meaning of the Army Act 1955 [[^F73]regular army] for the period—
+
+(a) beginning with the time [^F74]specified in the notice [[^F74]he is accepted into service] , and
+
+[[^F75](b) ending (unless he is previously discharged) with the date on which there is no longer a call-out order under section 52 of the Reserve Forces Act 1996 in force.]
+
+[^F70]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F70]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F70]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+#### 35 [[^F76] Recall notices
+
+(1) The Secretary of State may recall any person who is liable to be recalled under section 30, 31 or 34 above by serving a notice on him requiring him—
+
+(a) to present himself for service at a specified time and place; and
+
+(b) to remain at that place until he is either accepted into service or informed that he is not to be accepted into service in pursuance of the notice.
+
+(2) In the case of those liable to recall under section 31 above, the time specified in accordance with subsection (1)(a) shall be not earlier than the third day after the service of the notice.
+
+(3) Section 65(5) of the Reserve Forces Act 1996 shall have effect as if the reference to persons recalled for service under an order made under section 68 of that Act included a reference to persons recalled under section 30, 31 or 34 above.
+
+(4) Section 70(2) to (5), (7) and (8) of the Reserve Forces Act 1996 shall apply to a person subject to this section as if he were a person to whom section 70 of that Act applied, except that section 70(5)(a) shall not apply to a person to whom section 31 or 34 above applies.]
+
+#### 36 [[^F77] Application of sections 71, 73 to 75 and 77 of the Reserve Forces Act 1996 to persons recalled under section 30, 31 or 34
+
+(1) Section 71 of the Reserve Forces Act 1996 shall apply to those liable to be recalled under section 30, 31 or 34 above as it applies to those to whom section 66 of that Act applies, but with the following amendments—
+
+(a) section 71(5) of that Act shall apply to persons liable to be recalled under section 31 or 34 above as if for the first two lines there were substituted—
+
+“When a call-out order under section 52 of the Reserve Forces Act 1996 is in force, and men of the [[^F12]Regular Reserve] or the Air Force Reserve, as the case may be, are in permanent service under it, any person who is thereby liable to be recalled under section 31 or 34 above who—”
+
+;
+
+(b) section 71(6) shall apply as if for paragraph (b) of that subsection there were substituted—
+
+(b) “ he shall be deemed to have been recalled for service under section 30, 31 or 34 as the case may be.”
+
+.
+
+(2) Sections 73 and 74 of the Reserve Forces Act 1996 shall apply to those liable to recall under section 30, 31 or 34 above as they apply to those liable to recall under Part VII of that Act.
+
+(3) Section 75 of the Reserve Forces Act 1996 shall apply to those liable to recall under section 30, 31 or 34 above as if—
+
+(a) the reference in subsection (1) to section 66(1) of the Reserve Forces Act 1996 were a reference to sections 30, 31 and 34 above;
+
+(b) for subsection (2) there were substituted—
+
+(2) “The regulations shall secure that a person liable to provide information by virtue of this section shall cease to be liable to provide such information after he ceases to be a person liable to recall by virtue of section 31(4) of the Reserve Forces Act 1980 or, if section 34 applies to him, he reaches the age mentioned in section 34(2) of that Act or on such other grounds as may be prescribed by regulations made under section 73(a) [^F78]. . ..”
+
+.
+
+(4) Section 77 of the Reserve Forces Act 1996 shall have effect in relation to persons liable to recall under section 30, 31 or 34 as if the words “this Part” included a reference to sections 30 to 36A inclusive of the Reserve Forces Act 1980.]
+
+#### 36A [[^F79] Application of Part X of the Reserve Forces Act 1996 to persons liable to recall under section 30, 31 or 34
+
+For the avoidance of doubt, it is declared that Part X of the Reserve Forces Act 1996 (general offences) applies to a person liable to recall under section 30, 31 or 34 above as it applies to a person liable to recall under the Reserve Forces Act 1996.]
+
+### Call out for training
+
+#### [^F80]37 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 38 [[^F12]Regular Reserve] , Air Force Reserve and [[^F13]Army Reserve] training.
+
+A person to whom this section applies by virtue of section 39 below may, in accordance with regulations made by the Secretary of State, be called out in any year for training in the United Kingdom or elsewhere—
+
+(a) for one period not exceeding 15 days, and
+
+(b) for such other periods as may be prescribed, none of which shall exceed 36 hours without the consent of the person in question,
+
+and may while so called out be attached to and trained with any body of Her Majesty’s forces.
+
+#### [[^F81]39 Application of s. 38.
+
+(1) The persons to whom section 38 above applies are (subject to subsection (3) below)—
+
+(a) any member of the [[^F12]Regular Reserve] or the Air Force Reserve who became such a member on or after 1st April 1967 otherwise than in consequence of his having enlisted in the regular army or the [^F82]regular air force [[^F82]Royal Air Force] before that day;
+
+(b) any member of the [[^F13]Army Reserve] who became such a member on or after 1st April 1967 by enlistment or re-engagement or by becoming an officer; and
+
+[^F81]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F81]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F81]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+#### 40 Preliminary training of Royal Auxiliary Air Force.
+
+(1) Every man of the Royal Auxiliary Air Force shall, by way of preliminary training during the first year of his original enlistment—
+
+(a) if so provided by Order in Council, and
+
+(b) for such periods not exceeding in the whole the number of days specified by the Order in Council,
+
+be trained at such places within the United Kingdom and at such times as may be prescribed, and for that purpose may be called out once or more often.
+
+(2) Whether or not such an Order in Council has been made he shall attend the number of drills and instructional parades and fulfil the other conditions prescribed for a recruit in the Royal Auxiliary Air Force.
+
+(3) The requirements of this section are in addition to the requirements of this Act relating to annual training.
+
+#### 41 Annual training of Royal Auxiliary Air Force.
+
+(1) Every man of the Royal Auxiliary Air Force shall by way of annual training be trained for not less than 8 or more than 15 days in every year at such times and at such places within the United Kingdom as may be prescribed, and may for that purpose be called out once or more often in every year.
+
+(2) Every such man shall attend the number of drills and instructional parades and fulfil the other conditions relating to training prescribed for the Royal Auxiliary Air Force.
+
+(3) The requirements of this section may be dispensed with in whole or in part—
+
+(a) as respects any unit of the Royal Auxiliary Air Force by the prescribed air officer, and
+
+(b) as respects an individual man of the Royal Auxiliary Air Force, by his commanding officer subject to any general directions of the prescribed air officer.
+
+#### 42 Variation and cancellation of training periods for Royal Auxiliary Air Force.
+
+Her Majesty may by order in Council made in relation to all or any part of the Royal Auxiliary Air Force direct—
+
+(a) that the period of annual training in any year shall be extended to such period not exceeding 30 days as may be specified in the Order; or
+
+(b) that the period of annual training in any year shall be reduced to such period as to Her Majesty may seem fit; or
+
+(c) that the annual training in any year shall be dispensed with.
+
+#### 42A [[^F83] Application of section 23 of the Reserve Forces Act 1996
+
+Section 23 of the Reserve Forces Act 1996 (power to exempt persons from or relax training obligations) shall apply to persons to whom this Act applies other than members of the Royal Naval Reserve or the Royal Fleet Reserve as if in section 23 for the words “section 22” wherever they appear there were substituted the words “the Reserve Forces Act 1980”.]
+
+#### [^F84]43 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F85]44 Requirement as to training of Ulster Defence Regiment in Northern Ireland.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part III — Naval and Marine Reserves
+
+### Officers of reserve to the Royal Navy
+
+#### [^F86]45 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 46 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### General provisions as to the naval and marine reserves
+
+#### 47 False answers on enlistment.
+
+If a person offering himself to be entered for service in any of the naval reserve forces—
+
+(a) knowingly makes a false answer in connection with his entry into such service, and
+
+(b) that answer is to a question put to him in that connection by, or by the direction of, any officer or other person authorised by regulations made by the Defence Council to enter persons for such service,
+
+he shall be guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding [[^F87]level 1 on the standard scale].
+
+#### [^F88]48 Void enlistment in [[^F88]Royal Marines or regular army] .
+
+Where any officer or other person enlists a man to serve in [[^F89]the Royal Marines or the regular army] who at the time of such enlisting is entered to serve as a man of the Royal Naval Reserve, Royal Fleet Reserve or Royal Marines Reserve that enlisting shall be null and void.
+
+#### [^F90]49 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [50 Term of service in Royal Naval Reserve and Royal Fleet Reserve.
+
+(1) Every man joining the Royal Naval Reserve shall be entered for a term of 5 years, and shall continue subject to this Act as a man of that reserve during and for no longer than that term, except as otherwise provided by this Act.
+
+(2) A man entitled to claim his discharge under subsection (1) above shall continue subject to the provisions of this Act as a man of the Royal Naval Reserve until actually discharged from that reserve by the Defence Council, or by some officer duly appointed by the defence Council to give such discharges.
+
+(3) The term of service of a man joining the Royal Fleet Reserve shall be regulated—
+
+(a) in the case of a pensioner entitled to his pension subject to a condition of service in the Royal Fleet Reserve, by the conditions attached to the pension; and
+
+(b) in any other case, by the terms of his enlistment.
+
+[^F91]4 For the avoidance of doubt, it is declared that subsections (1) and (3) above do not apply to any man being entered or re-entered for service in the Royal Naval Reserve or the Royal Fleet Reserve if, after being so entered or re-entered for service, he would not be a transitional member as defined in paragraph 3 of Schedule 9 to the Reserve Forces Act 1996.]
+
+#### [^F92]51 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F93]52 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F94]53 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F95]54 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 55 Admission to Greenwich Hospital.
+
+(1) Every man of the Royal Naval Reserve, the Royal Fleet Reserve and the Royal Marines Reserve, under such regulations as may be made by the secretary of State, shall be—
+
+(a) eligible for admission to the Royal Hospital at Greenwich; and
+
+(b) thereupon entitled to the same privileges and advantages as those who are or have been in Her Majesty’s navy.
+
+(2) The Greenwich Hospital Acts 1865 to 1967 have effect as if references in those Acts to any naval reserve force included references to the Royal Marines Reserve.
+
+#### [^F96]56 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Special class of Royal Fleet Reserve
+
+#### 57 Special class of Royal Fleet Reserve.
+
+(1) The special class of the Royal Fleet Reserve shall consist of—
+
+(a) men who, on engaging or re-engaging in the Royal Fleet Reserve or during a term of engagement or re-engagement in that reserve agree in writing—
+
+(i) to be entered in or transferred to that class, and
+
+(ii) to undertake the liability for service in that class specified in this Act, or
+
+(b) men who, having before 16th December 1949 been entered for non-continuous service in the naval service of Her Majesty or enlisted to serve in the royal marine forces, on transfer to the Royal Fleet Reserve or during their service in that reserve pursuant to such transfer agree in writing—
+
+(i) to be entered in or transferred to that class, and
+
+(ii) to undertake the liability for service in that class specified in this Act; or
+
+(c) men entered in that class in accordance with the following provisions of this section.
+
+(2) Any man who—
+
+(a) having been entered for non-continuous service in the naval service of Her Majesty on or after 16th December 1949, or
+
+(b) having been enlisted to serve in the royal marine forces on or after that date,
+
+is transferred to the Royal Fleet Reserve shall, if on his transfer he was designated by the Defence Council or an officer designated by the Defence Council as a man to whom this subsection applies, be entered in that class of the reserve and shall be liable to serve in that class as specified by this Act.
+
+(3) The following provisions shall have effect as to the duration of service in the special class of the Royal Fleet Reserve—
+
+(a) a man entered in that class or transferred to it in pursuance of an agreement under paragraph (a) of subsection (1) above shall be liable to serve in that class until the end of his term of engagement or re-engagement referred to in that paragraph;
+
+(b) a man entered in or transferred to the special class in pursuance of an agreement under paragraph (b) of subsection (1) shall be liable to serve in the special class until the end of his term of service in the Royal Fleet Reserve in pursuance of his transfer to that reserve referred to in that paragraph (b); and
+
+(c) a man entered in the special class by virtue of the provisions of subsection (2) above shall be liable to serve in that class until the expiry of the first 12 months of his service in the Royal Fleet Reserve and shall then be transferred from the special class to the general body of the reserve.
+
+(4) If a man to whom paragraph (c) of subsection (3) above applies agrees in writing to continue to serve in the special class during the residue of the term for which he is transferred to the Royal Fleet Reserve, he shall be liable to serve in that class in accordance with the agreement.
+
+(5) An agreement made for the purposes of subsection (1) or subsection (4) above may be revoked by 3 months’ written notice.
+
+#### 58 Transfers to Royal Fleet Resreve.
+
+References in section 57 above to transfer to the Royal Fleet Reserve shall be construed—
+
+(a) in relation to a man entered for non-continuous service in the naval service of Her Majesty, as references to being entered in the Royal Fleet Reserve in pursuance of a liability incurred under the terms of his engagement, in accordance with regulations made by the Defence Council under section 2 of the [^M8]Armed Forces Act 1966 to serve in the Royal Fleet Reserve after the completion of his term of service in the navy; and
+
+(b) in relation to a man enlisted to serve in the royal marine forces, as references to being entered in the Royal Fleet Reserve in pursuance of a liability incurred under the terms of his engagement to serve in the Royal Fleet Reserve after the completion of his term of service in the Royal Marines.
+
+### Pay, pensions and other payments in respect of naval and marine reserves
+
+#### [^F97]59 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F98]60 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F99]61 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part IV — [[^F12]Regular Reserve] and Air Force Reserve
+
+### [[^F12]Regular Reserve]
+
+#### [^F100]62 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 63 Exercise of powers vested in military office holder.
+
+(1) Any power or jurisdiction given to, and any act or thing to be done by, to, or before, any person holding any military office may, in relation to the [[^F12]Regular Reserve] , be exercised by or done by, to, or before any other person for the time being authorised in that behalf according to the custom of the service.
+
+(2) Where by this Act, or by any order or regulation under this Act, any order is authorised to be made by any military authority, the order may be signified by an order, instruction or letter under the hand of any officer authorised to issue orders on behalf of that military authority, and an order, instruction or letter purporting to be signed by any officer who appears from it to be so authorised shall be evidence of his being so authorised.
+
+#### [^F101]64 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F102]65 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Air Force Reserve
+
+#### [^F103]66 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 67 Exercise of powers vested in air force officer holder.
+
+(1) Any power or jurisdiction given to, and any act or thing to be done by, to, or before, any person holding any air force office may, in relation to the Air Force Reserve, be exercised by or done by, to, or before any other person for the time being authorised in that behalf according to the custom of the service.
+
+(2) Where by this Act, or by any order or regulation under this Act, any order is authorised to be made by any air force authority, the order may be signified by an order, instruction or letter under the hand of any officer authorised to issue orders on behalf of that air force authority, and an order, instruction or letter purporting to be signed by any officer who appears from it to be so authorised shall be evidence of his being so authorised.
+
+#### [^F104]68 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 69 Special reservist called out for permanent service.
+
+(1) The Secretary of State may, by regulations under this Act, authorise any special reservist having the qualifications prescribed by those regulations to agree in writing that—
+
+(a) if the time at which he would otherwise be entitled to be discharged from the Air Force Reserve occurs when he is called out for permanent service, then
+
+(b) he will continue to serve in the Air Force Reserve until the expiry of such period, whether definite or indefinite, as may be specified in the agreement,
+
+(2) If any man who enters into such an agreement is called out for permanent service, he shall be liable to be detained in service for the period specified in his agreement in the same manner in all respects as if his term of service were still unexpired.
+
+#### 70 Special reservist called out for special courses, etc.
+
+(1) A special reservist may, in addition to being called out for annual training, be called out for a special course or special courses of training—
+
+(a) at such place or places in the United Kingdom or the Isle of Man,
+
+(b) at such time or times, and
+
+(c) for such period or periods, not exceeding in the whole 6 months,
+
+as may be prescribed, in like manner and subject to the like conditions as if he were called out for annual training.
+
+(2) Where one of the conditions on which a special reservist was enlisted or re-engaged is that he shall not be called out for training, whether special or annual, for a longer period than the period specified in his attestation paper, he shall not be liable under this section to be called out for any longer period.
+
+### Enlistment in [[^F12]Regular Reserve] and Air Force Reserve
+
+#### [^F105]71 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F106]72 .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Offences
+
+#### [^F107]73 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F108]74 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F109]75 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F110]76 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F111]77 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F112]78 .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F113]79 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F114]80 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F115]81 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Miscellaneous
+
+#### [^F116]82 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F117]83 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F118]84 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F119]85 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F120]86 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 87 Interpretation of Part IV.
+
+In this Part of this Act, except where the context otherwise requires—
+
+- “absence without leave” and “desertion” mean respectively absence without leave contrary to subsection (1) or (3) of section 73 above and desertion contrary to subsection (1) of that section, and “absentee without leave” and “deserter” shall be construed accordingly;
+- “airman” includes a warrant officer and a non-commissioned officer;
+- “soldier” includes a warrant officer and a non-commissioned officer; and
+- “special reservist” means a man of the Air Force Reserve who is serving in that reserve as a special reservist pursuant to section 68 above.
+
+## Part V — [[^F13]Army Reserve] and Royal Auxiliary Air Force
+
+### Government, discipline and pay of [[^F13]Army Reserve] and Royal Auxiliary Air Force
+
+#### [^F121]88 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F122]89 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F123]90 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F124]91 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F125]92 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 93 Exercise of powers of military and air force office holders.
+
+(1) Any power or jurisdiction given to, and act or thing to be done by, to or before any person holding any military or air force office, may—
+
+(a) in relation to the [[^F13]Army Reserve] , or
+
+(b) in relation to the Royal Auxiliary Air Force,
+
+as the case may be, be exercised by or done by, to or before any other person for the time being authorised in that behalf according to the custom of the service.
+
+(2) Where by this Part of this Act, or by any order or regulation in force under it, any order is authorised to be made by any military or air force authority—
+
+(a) the order may be signified by an order, instruction or letter under the hand of any officer authorised to issue orders on behalf of that authority; and
+
+(b) an order, instruction or letter purporting to be signed by any officer who appears from it to be so authorised shall be evidence of his being so authorised.
+
+### Enlistment
+
+#### [^F126]94 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F127]95 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F128]96 .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F129]97 .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Discharge
+
+#### [^F130]98 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F131]99 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 100 Postponement of discharge: [[^F13]Army Reserve] and Royal Auxiliary Air Force.
+
+(1) Where the time at which a man of the [[^F13]Army Reserve] or the Royal Auxiliary Air Force would otherwise be entitled to be discharged occurs during a period of emergency, he may be required to prolong his service for such further term, not exceeding 12 months, as the Defence Council or an officer designated by them may order.
+
+(2) A man shall not during a period of emergency be entitled to be discharged under [[^F132]section 16(2)(a) of the Reserve Forces Act 1996].
+
+(3) In this section the expression “period of emergency” means—
+
+(a) in relation to a man of the [[^F13]Army Reserve] , any period while an order under [[^F133]section 52(1)(a) of the Reserve Forces Act 1996] is in force [[^F133]authorising members of] the [[^F12]Regular Reserve] to be called out for permanent service;
+
+(b) in relation to a man of the Royal Auxiliary Air Force, any period—
+
+(i) while an order under [[^F133]section 52(1)(a) of the Reserve Forces Act 1996]is in force [[^F133]authorising members of] the Air Force Reserve to be called out for permanent service; or
+
+(ii) while the man in question is called out for home defence service.
+
+#### 101 Postponement of discharge: [[^F13]Army Reserve] .
+
+(1) A man of the [[^F13]Army Reserve] who is a person to whom section 11 above applies shall not be entitled to be discharged under [[^F134]section 16(2)(a) of the Reserve Forces Act 1996] during any period while an order is in force under [[^F134]section 54 of the Reserve Forces Act 1996 authorising the call-out of members of the [[^F13]Army Reserve]] .
+
+(2) Subsections (1) and (2) of section 100 above shall have effect, in relation to a man who enlists or re-engages in the [[^F13]Army Reserve] on or after 1st April 1967, as if the period of emergency within the meaning of that section included any period while he is called out for home defence service.
+
+#### [^F135]102 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Additional provisions as to call-out
+
+#### [^F136]103 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F137]104 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 105 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Offences
+
+#### [^F138]106 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F139]107 .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F140]108 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F141]109 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F142]110 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F143]111 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F144]112 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F145]113 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F146]114 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F147]115 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F148]116 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Miscellaneous
+
+#### [^F149]117 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F150]118 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F151]119 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 120 Service of notices for [[^F13]Army Reserve] and Royal Auxiliary Air Force.
+
+Notices required in pursuance of—
+
+(a) this Part of this Act, or
+
+(b) the orders and regulations in force under this Part,
+
+to be given to men of the [[^F13]Army Reserve] or of the Royal Auxiliary Air Force shall be served or published in such manner as may be prescribed and, if so served or published, shall be deemed to be sufficient notice.
+
+## Part VI — Territorial, Auxiliary and Volunteer Reserve Associations, and the Lieutenancies
+
+### Army and air force associations
+
+#### [^F152]121 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F153]122 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F154]123 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F155]124 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F156]125 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F157]126 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F158]127 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F159]128 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F160]129 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The lieutenancies
+
+#### [^F161]130 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F162]131 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F163]132 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F164]133 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F165]134 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F166]135 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F167]136 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F168]137 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 138 Commissioners of lieutenancy for City of London.
+
+[^F169]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The City of London continues to be a separate county for the purposes of [^F170]. . . the militia, [^F170]. . ..
+
+[^F169]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F169]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F169]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part VII — Ulster Defence Regiment
+
+### Membership of Ulster Defence Regiment
+
+#### [^F171]139 Enrolment, re-engagement and resignation.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 140 Orders and regulations as to [[^F172]pensions and other grants] .
+
+(1) [[^F173]The conditions as to pensions and other grants in respect of death or disablement arising out of service in the Ulster Defence Regiment shall be such as may be prescribed by orders or regulations.
+
+(1A) The reference in subsection (1) to service in the Ulster Defence Regiment includes service in the regular army by a relevant person during the relevant period.
+
+(1B) In subsection (1A)—
+
+- “regular army” has the meaning given by section 374 of the Armed Forces Act 2006;
+- “relevant person” means a person who, immediately before 1 July 1992, was a member of the Ulster Defence Regiment;
+- “relevant period”, in relation to a relevant person, means the period beginning with 1 July 1992 and ending at the end of his term of service which was current on that date.]
+
+(2) Orders or regulations shall provide for the organisation, administration, government and duties of the Ulster Defence Regiment, but shall not require members of that force to give whole-time service except—
+
+(a) during any period in which that force or the part of it to which they belong is called out under section 10, or section 24 or section 25 above, or
+
+(b) while they are undergoing training under paragraph (a) of section 44(1) above,
+
+and those orders or regulations shall not require members of that force to serve or train outside Northern Ireland.
+
+(3) In this [[^F174]section] —
+
+(a) references to orders are to orders of Her Majesty signified under the hand of the Secretary of State, and
+
+(b) references to regulations are to regulations made by the Secretary of State,
+
+and any orders or regulations under this [[^F175]section] shall be laid before Parliament after being made.
+
+### Military status of members of Ulster Defence Regiment
+
+#### 141 Membership of armed forces and application of military law.
+
+[^F176]Persons of the Ulster Defence Regiment shall be members of the armed forces of the Crown, and—
+
+[^F176]a [^F176]any holder of a land forces commission who is for the time being assigned for duty with the Ulster Defence Regiment, and any other member of that force when serving on its permanent staff, shall be subject to military law;
+
+[^F176]b [^F176]any member of the Ulster Defence Regiment to whom paragraph (a) above does not apply shall be subject to military law—
+
+[^F176]i [^F176]at all times when called out for service under sections 10, 24, 25 and 44 above or when undergoing training whether in pursuance of an obligation under those sections or not; and
+
+[^F176]ii [^F176]at any other time when he is in possession, or when, in pursuance of any order given or permission granted by a superior officer of his, he is required or authorised to be in possession, of any arms or ammunition or of any prescribed description of equipment, being arms, ammunition or equipment belonging to Her Majesty.
+
+#### 142 Application of Army Act.
+
+[^F176]References in Parts II to V of the [^M9][^F176]Army Act 1955 to the regular forces shall include references to persons of the Ulster Defence Regiment while subject to military law, but any other references in that Act to the regular forces shall not include references to the Ulster Defence Regiment.
+
+### Offences
+
+#### 143 Failure to attend or comply.
+
+[^F176]1 [^F176]Any member of the Ulster Defence Regiment who—
+
+[^F176]a [^F176]when required by or in pursuance of regulations making any such provision as is mentioned in section 44 above to attend at any place fails without reasonable excuse to attend in accordance with the requirement, or
+
+[^F176]b [^F176]fails without reasonable excuse to comply with orders or regulations under this Part of this Act.
+
+[^F176]shall, whether otherwise subject to military law or not, be guilty of an offence and liable on conviction by court-martial to a fine not exceeding [^F176][[^F177]£50][^F176].
+
+[^F176]2 [^F176]That offence shall, for all purposes of and incidental to the trial of the offender, including the summary disposal of the case otherwise than by court-martial, be deemed to be an offence under the Army Act 1955.
+
+#### 144 Assistance in desertion, etc.
+
+[^F176]1 [^F176]Any person who, in Northern Ireland or elsewhere—
+
+[^F176]a [^F176]procures or persuades any member of the Ulster Defence Regiment to desert within the meaning of section 37 of the Army Act 1955 or to absent himself without leave, or
+
+[^F176]b [^F176]knowing that any member of that force is about to desert as mentioned in paragraph (a) above or to absent himself without leave, assists him in so doing, or
+
+[^F176]c [^F176]knowing any person to be a deserter within the meaning of that section 37 or an absentee without leave from that force, procures or persuades or assists him to remain such a deserter or absentee, or assists in his rescue from custody.
+
+[^F176]shall be liable—
+
+[^F176]i [^F176]on summary conviction to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding 3 months or to both;
+
+[^F176]ii [^F176]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F178]
+
+[^F176]iii [^F176]on conviction on indictment [^F179][^F176]to a fine or to imprisonment for a term not exceeding 2 years or to both.
+
+[^F180][^F176]2 [^F176]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part VIII — Miscellaneous and Supplemental
+
+### Reinstatement in civil employment, and protection of other civil interests
+
+#### [[^F181]145 Reinstatement in civil employment.
+
+[^F181]1 Where any person is, or is liable to be—
+
+[^F181]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) recalled under section 34 above,
+
+the provisions of the [[^F182]Reserve Forces (Safeguard of Employment) Act 1985]shall apply to that person as they apply to a person who has entered, or, (as the case may be), may be required to enter, upon a period of whole-time service in the armed forces of the Crown in the circumstances mentioned in paragraph (a) of [[^F182]section 1(1)]of that Act.
+
+[^F183]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F181]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+#### [^F184][146 Protection of other civil interests.
+
+[[^F184](1) Any service rendered by virtue of—
+
+[^F184]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) section 34 above,
+
+shall be relevant service within the meaning of the [^M10]Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951.]]
+
+[^F185]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F184]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Charitable property on disbanding of units
+
+#### [^F186]147 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F187]148 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F188]149 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Further powers as to orders and regulations
+
+#### 150 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 151 Pensions and other grants under Home Guard Act 1951 c. 8.
+
+The conditions as to pensions and other grants in respect of death or disablement from service in the Home Guard under the Home Guard Act 1951 shall be such as may be prescribed—
+
+(a) by orders of Her Majesty signified under the hand of the Secretary of State, or
+
+(b) by regulations made by the Defence Council,
+
+and any such orders or regulations shall be laid before Parliament as soon as may be after they are made.
+
+#### [^F189]152 .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Other provisions as to orders, schemes and regulations
+
+#### 153 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F190]
+
+#### [[^F191]154 Additional provisions as to Orders in Council and schemes.
+
+(1) In relation to any Order in Council under section 40 above, or paragraph (a) of section 42 above [^F192]. . .—
+
+(a) before any such Order is made the draft of the Order shall be laid before each House of Parliament for a period of not less that 40 days during the session of Parliament, and
+
+(b) if either of those Houses before the expiry of those 40 days presents an address to Her Majesty against the draft Order or any part of it, no further proceedings shall be taken in respect of the Order, without prejudice to the laying of a new draft Order.
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+#### 155 Amendment of subordinate legislation.
+
+Section 14 of the [^M11]Interpretation Act 1978 applies to this Act as if in paragraph (b) of that section there were no requirement that Orders in Council, orders or other subordinate legislation should be made by statutory instrument.
+
+### Other supplemental provisions
+
+#### 156 Interpretation.
+
+(1) In this Act, except where the context otherwise requires—
+
+- [^F193]. . .
+- “home defence service” means military or air force service in any place in the United Kingdom, the Channel Islands or the Isle of Man in defence of the United Kingdom or those islands against actual or apprehended attack;
+- “man”, in relation to—
+
+(a) the naval forces, means a person of or below the rate of warrant officer;
+
+(b) the military or air forces, includes a warrant officer and non-commissioned officer;
+
+- [^F194]. . .
+
+- “prescribed” [[^F195](except in subsections (3) to (5) and (7) of sections 19A and 21A and in section 140)] means prescribed by orders or regulations made under [[^F196]the Reserve Forces Act 1996];
+
+- [^F197]“[^F197]regular air force[^F197]” has the same meaning as in the [^M12][^F197]Air Force Act 1955.
+
+- [^F198]“[^F198]regular army[^F198]” means the regular forces within the meaning of the [^M13][^F198]Army Act 1955, but in sections 11(4) and (5), 15, 39(2), 83(1) and (2) above, and paragraph 19 of Schedule 8 to this Act, does not include the Royal Marines;
+
+  [[^F198]“the regular army” has the meaning given by section 374 of the Armed Forces Act 2006.]
+
+- . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F199]
+
+(2) [^F200]Except where the context otherwise requires, other expressions in this Act—
+
+[^F200]a [^F200]relating to the [^F200][[^F12]Regular Reserve][^F200] and the [^F200][[^F13]Army Reserve][^F200] , have the same meanings as in the Army Act 1955;
+
+[^F200]b [^F200]relating to the Air Force Reserve and the Royal Auxiliary Air Force, have the same meanings as in the Air Force Act 1955.
+
+(3) This Act, [[^F201]except so much of it as relates to the Royal Fleet Reserve and the Royal Marines Reserve], applies to women as it applies to men.
+
+(4) In this Act—
+
+(a) in relation to the definition of “home defence service” in subsection (1) above, and
+
+(b) for the purposes of sections 10(6), 68(3) and 96(3) above,
+
+service on any flight of which the points of departure and intended return are within the boundaries of the United Kingdom, the Channel Islands, and the Isle of Man, or of the territorial waters of the United Kingdom and those islands, shall be deemed to be service within the United Kingdom notwithstanding that the flight may in its course extend beyond those boundaries.
+
+(5) The expression “magistrates’ court”, in the application of this Act—
+
+(a) to Scotland, shall be construed as a reference to the sheriff sitting as a court of summary jurisdiction;
+
+(b) to Northern Ireland, shall be construed as a reference to a court of summary jurisdiction.
+
+#### 157 Saving and transitional provisions, consequential amendments and repeals.
+
+(1) Subject to the saving and transitional provisions contained in Schedule 8 to this Act—
+
+(a) the enactments specified in Schedule 9 to this Act have effect subject to the amendments (being amendments consequent on this Act) specified in that Schedule, and
+
+(b) the enactments specified in Part I of Schedule 10 to this Act (repeal of obsolete enactments) and those specified in Part II of that Schedule (consequential repeals) are repealed to the extent specified in the third column of that Schedule,
+
+but nothing in Schedule 8 or in Schedule 9 shall be taken as prejudicing the operation of sections 15 to 17 of the [^M14]Interpretation Act 1978 (which relate to the effect of repeals).
+
+(2) Paragraphs 15 to 19 of Schedule 8 contain provisions made transitory by operation of the [^M15]Reserve Forces Act 1966.
+
+#### 158 Citation, extent and commencement.
+
+(1) This Act may be cited as the Reserve Forces Act 1980.
+
+(2) This Act extends to Northern Ireland.
+
+(3) Her Majesty may by Order in Council direct that any of the provisions of this Act shall extend to the Isle of Man, subject to such exceptions and modifications, if any, as may be specified in the Order.
+
+(4) This Act shall commence on the expiry of the period of one month beginning on the date of its passing.
+
+## [^F202]SCHEDULE 1
+
+### Special agreements
+
+**1** (1) Any agreement for the purposes of section 14 above shall be made with respect to such period of 12 months as may be specified in that agreement and, without prejudice to the making of a further agreement, shall cease to be in force at the expiry of that period.
+
+(2) An agreement for the purposes of section 14 may be revoked at any time by 3 months’ notice in writing, but shall not cease to be in force until the expiry of that notice.
+
+### Notices
+
+**2** (1) A notice to any person under section 14(1) above shall specify the time and place at which he is to present himself for service in accordance with the notice and may be revoked or varied by a subsequent notice under that subsection.
+
+(2) Any such notice shall be deemed to have been duly served on the person to whom it is directed if—
+
+(a) it is delivered to him personally; or
+
+(b) it is sent by registered post or the recorded delivery service addressed to him at his latest address known to the military authorities.
+
+### Length of call out
+
+**3** (1) The term for which a person may be called out under section 14(1) above shall be such a term (consistent with sub-paragraph (2) below) beginning on such date falling within the period specified in the agreement as may be specified in the notice, whether or not any of that term falls after the date when the agreement ceases to be in force.
+
+(2) Subject to paragraphs 4 to 6 below, the term, or, if more than one, the aggregate of the terms, for which any person is called out for service under section 14(1) in pursuance of any one agreement shall not exceed 6 months.
+
+### Calculation of length of service
+
+**4** If, in the case of any person, at the time when the term of any service by him under section 14 above would otherwise be completed, that person has become liable to be proceeded against for an offence against the [^M16]Naval Discipline Act 1957, military law or air-force law, that term shall not be completed until he has been tried or otherwise dealt with for that offence and has undergone any punishment awarded for that offence, or, if at that time punishment for such an offence as is mentioned above has already been awarded, until he has undergone that punishment.
+
+**5** In determining in the case of any person the end of any such term as is mentioned in paragraph 4 above no account shall be taken—
+
+(a) in relation to any service under section 14 above, of any day before the day on which that person presented himself in pursuance of the notice to him under section 14(1);
+
+(b) of any continuous period exceeding 14 days during which that person was absent as a deserter or absent without leave;
+
+(c) of any continuous period exceeding 14 days during which that person—
+
+(i) was serving, or would if he had not been unlawfully at large have been serving, a term of imprisonment, detention, or detention in [[^F203]a young offender institution], [^F204]
+
+(ii) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F204]
+
+in pursuance of a sentence of a court or an award by his commanding officer or in default of payment of any sum of money or for doing or failing to do or abstain from doing anything required to be done or left undone.
+
+**6** If, in the case of any such term as is mentioned in paragraph 4 above, leave of absence is granted to the person in question for a period comprising or immediately following the date on which that term would otherwise be completed, the Defence Council may postpone the completion of that term until a date not later than the expiry of his leave.
+
+### Special agreements and the [[^F13]Army Reserve]
+
+**7** Any notice given by any person under section 98(1) above of his desire to be discharged from the [[^F13]Army Reserve] shall be deemed to include notice of revocation of any agreement entered into by that person for the purposes of section 14 above.
+
+**8** If the term of any person’s enlistment in the [[^F13]Army Reserve] expires during the period specified in any agreement entered into by that person for the purposes of section 14 above or during the term of any service by him by virtue of that section, he shall not be entitled to be discharged from the [[^F13]Army Reserve] before the expiry of that period or term.
+
+**9** Where a member of the [[^F13]Army Reserve] has been called out for army service under section 14 above, and if he so desires, there shall be taken, as soon as may be convenient after the end of the term of his service by virtue of that section, all such steps as are necessary to enable him to serve again in the corps and unit of the [[^F13]Army Reserve] in which he was serving at the time when he was so called out.
+
+### Application of the Army Act 1955
+
+**10** In the case of a person who does not for the time being hold a commission—
+
+(a) the provisions of the [^M17]Army Act 1955 applied by paragraph (b) of section 14(3) above shall not include the proviso to section 3(3) and sections 13, 15, 17, or 18(2); and
+
+(b) section 9(1) of that Act shall not apply by reason only that the person is serving outside the United Kingdom.
+
+## SCHEDULE 2 — Army and Air Force Pensioners and other Former Soldiers not Liable to be Recalled for Service
+
+*Sections 31 and 34.*
+
+**1** A man in holy orders or a regular minister of any religious denomination.
+
+**[[^F205]2** A person who is receiving treatment for mental disorder as an in-patient in any establishment in the United Kingdom and is under the supervision of a registered medical practitioner.]
+
+**[[^F206]2A** A person registered as severely sight-impaired in a register kept under section 77(1) of the Care Act 2014 [[^F207]or section 18(1) of the Social Services and Well-being (Wales) Act 2014] .]
+
+**3** A person certified to be registered as a blind person—
+
+(a) [^F208]by a local authority, as defined for the purposes of Part III of the [^M18][^F208]National Assistance Act 1948, under arrangements made by the authority under section 29 of that Act;
+
+(b) by a Health and Social Services Board in Northern Ireland under arrangements made under Article 15(1) of the [^M19]Health and Personal Social Services (Northern Ireland) Order 1972.
+
+## [^F209]SCHEDULE 3
+
+*.*
+
+### Enlistment
+
+**1** (1) A person offering to enlist shall be given a notice in the prescribed form setting out the questions to be answered on attestation and stating the general conditions of the engagement to be entered into by him; and a recruiting officer shall not enlist any person unless satisfied by that person that he has been given such a notice, understands it and wishes to be enlisted.
+
+(2) The procedure for enlisting a person shall be that set out in paragraph 2 below.
+
+(3) A recruiting officer shall not enlist a person under the appropriate minimum age unless consent to the enlistment has been given in writing—
+
+(a) if the person offering to enlist is living with both or one of his parents, by the parents or parent;
+
+(b) if he is not living with both or one of his parents, but any person (whether a parent or not) whose whereabouts are known or can after reasonable enquiry be ascertained has parental rights and powers in respect of him, by that person;
+
+(c) if there is no such person as is mentioned in paragraph (b) of this sub-paragraph or if after reasonable enquiry it cannot be ascertained whether there is any such person, by any person in whose care (whether in law or in fact) the person offering to enlist may be.
+
+(4) Where the recruiting officer is satisfied, by the production of a certified copy of an entry in the register of births or by any other evidence appearing to him to be sufficient, that a person offering to enlist has or has not attained the appropriate minimum age, that person shall be deemed for the purposes of this Act to have attained, or as the case may be, not to have attained, that age.
+
+A document purporting to be a certificate signed by the recruiting officer, stating that he is satisfied as aforesaid, shall be sufficient evidence, until the contrary is proved, that he is so satisfied.
+
+### Procedure on attestation
+
+**2** (1) The recruiting officer shall warn the person to be enlisted that if he makes any false answers to the questions to be read out to him he will be liable to be punished as provided by this Act.
+
+(2) He shall then read, or cause to be read, to that person the questions set out in the attestation paper and satisfy himself that he understands each of those questions and that his answers thereto have been duly recorded in the attestation paper.
+
+(3) He shall then ask that person to make and sign the declaration set out in the attestation paper as to the truth of the answers and shall administer to him the oath of allegiance as set out in the attestation paper.
+
+(4) Upon signing the declaration and taking the oath the said person shall become a man of the [[^F12]Regular Reserve] , the Air Force Reserve, the [[^F13]Army Reserve] or the Royal Auxiliary Air Force, as the case may be.
+
+(5) The recruiting officer shall by signature attest, in the manner required by the attestation paper, that the requirements of this Act as to the attestation of the recruit have been carried out and deliver the attestation paper duly dated to such person as may be prescribed by regulations of the Defence Council.
+
+(6) When in accordance with the regulations the recruit is finally approved for service, the officer by whom he is approved shall at his request furnish him with a certified copy of the attestation paper.
+
+### Validity of attestation and enlistment
+
+**3** (1) Where a person has signed the declaration required by paragraph 2 above (and in the case of either the [[^F12]Regular Reserve] or the Air Force Reserve has thereafter received pay as a person of one of those reserves)—
+
+(a) the validity of his enlistment shall not be called in question on the ground of any error or omission in his attestation paper;
+
+(b) if within 3 months from the date on which he signed the declaration he claims that his enlistment is invalid by reason of any non-compliance with the requirements of this Act as to enlistment or attestation, or any other ground whatsoever (not being an error or omission in his attestation paper) on which apart from this sub-paragraph the validity of his enlistment could have been called in question, the claim shall be submitted as soon as may be to the Defence Council, and if the claim is well founded the Defence Council shall cause him to be discharged with all convenient speed;
+
+(c) if—
+
+(i) when he signed the declaration he had not attained the appropriate minimum age, and
+
+(ii) within 3 months from the date on which he signed the declaration he, or any person whose consent to the enlistment was required under paragraph 1(3) above but who did not duly consent, claims that his enlistment is invalid by reason of any non-compliance with the requirements of this Act as to enlistment or attestation, or any other ground whatsoever (not being an error or omission in his attestation paper) on which apart from this sub-paragraph the validity of his enlistment could have been called in question, the claim shall be submitted as soon as may be to the Defence Council, and if the claim is well founded the Defence Council shall cause him to be discharged with all convenient speed;
+
+(d) subject to the provisions of paragraphs (b) and (c) above, he shall be deemed as from the expiry of the said 3 months to have been validly enlisted notwithstanding any such non-compliance or other grounds as aforesaid;
+
+(e) notwithstanding any such non-compliance or other grounds as aforesaid, or the making of a claim in pursuance of paragraph (b) or paragraph (c) above, he shall be deemed to be a man of the [[^F12]Regular Reserve] , the Air Force Reserve, the [[^F13]Army Reserve] , or the Royal Auxiliary Air Force, as the case may be, until his discharge.
+
+(2) Where a person has received pay as a man of the [[^F12]Regular Reserve] or the Air Force Reserve, as the case may be, without having previously signed the declaration required by paragraph 2, then—
+
+(a) he shall be deemed to be a man of the [[^F12]Regular Reserve] or the Air Force Reserve, as the case may be, until discharged;
+
+(b) he may claim his discharge at any time, and if he does so the claim shall be submitted as soon as may be to the Defence Council, who shall cause him to be discharged with all convenient speed.
+
+(3) Nothing in this paragraph shall be construed as prejudicing the determination of any question as to the term for which a person was enlisted or as preventing the discharge of a person who has not claimed his discharge.
+
+### False answers in attestation papers
+
+**4** (1) If a person appearing before a recruiting officer for the purpose of being attested, knowingly makes a false answer to any question contained in the attestation paper and put to him by or by the direction of the recruiting officer, he shall be liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding [[^F210]level 1 on the standard scale].
+
+(2) A person may be proceeded against under sub-paragraph (1) above notwithstanding that he has since become subject to military law or to air-force law, as the case may be.
+
+(3) Any person who—
+
+(a) when before a recruiting officer for the purpose of being attested in pursuance of this Act,
+
+(b) knowingly makes a false answer to any question contained in the attestation paper and put to him by or by the direction of the recruiting officer,
+
+shall be, if he has since become and remains subject to military law or to air-force law, as the case may be, liable on conviction by court-martial to the like imprisonment as on summary conviction of an offence against sub-paragraph (1) above or to any less punishment provided by the [^M20]Army Act 1955 or by [^M21]Air Force Act 1955, as the case may be.
+
+### Evidence as to attestation papers
+
+**5** With respect to evidence in proceedings under Part IV or Part V of this Act, whether before a court-martial, a civil court or otherwise—
+
+(a) a document purporting to be a copy of the attestation paper signed by any person and to be certified to be a true copy by a person stated in the certificate to have the custody of the attestation paper shall be evidence of the enlistment of the person attested;
+
+(b) the attestation paper purporting to be signed by a person on his enlistment shall be evidence of his having given the answers to questions which he is recorded in that paper as having given.
+
+### Interpretation of Schedule 3
+
+**6** In this Schedule—
+
+- “appropriate minimum age” means the age of 17 years and 6 months, except that in such classes of case as may be prescribed it means the age of 17 years;
+- “prescribed” means prescribed by regulations made under Part I of the Army Act 1955 or Part I of the Air Force Act 1955, as the case may be.
+
+## [^F211]SCHEDULE 4
+
+## [^F212]SCHEDULE 5
+
+### Arrest of deserters and absentees without leave
+
+**1** (1) A constable may arrest any person whom he has reasonable cause to suspect of being an officer or man of the reserve forces (that is, in this Schedule, an officer or man of the [[^F12]Regular Reserve] , Air Force Reserve, [[^F13]Army Reserve] and Royal Auxiliary Air Force) who has deserted or is absent without leave.
+
+(2) Where no constable is available, any officer, warrant officer, non-commissioned officer or soldier of the regular forces, or airman of the regular air force, or any other person, may arrest any person whom he has reasonable cause to suspect of having deserted or being absent without leave as mentioned in sub-paragraph (1) above.
+
+(3) Any person having authority to issue a warrant for the arrest of a person charged with crime, if satisfied by evidence on oath that there is, or is reasonably suspected of being, within his jurisdiction an officer or man of the reserve forces who has deserted or is absent without leave or is reasonably suspected of having deserted or being absent without leave, may issue a warrant authorising his arrest.
+
+(4) Any person is custody in pursuance of this paragraph shall as soon as practicable be brought before a magistrates’ court.
+
+(5) This paragraph shall have effect in the United Kingdom and in any colony.
+
+### Proceedings before a civil court where persons suspected of illegal absence
+
+**2** (1) Where a person who is brought before a magistrates’ court is alleged to be an officer or man of the reserve forces who has deserted or is absent without leave, the following provisions shall have effect.
+
+(2) If he admits that he is illegally absent from the reserve forces and the court is satisfied of the truth of the admission, then—
+
+(a) unless he is in custody for some other cause the court shall, and
+
+(b) notwithstanding that he is in custody for some other cause, the court may,
+
+forthwith either cause him to be delivered into military or air-force custody, as the case may be, in such manner as the court may think fit or commit him to some prison, police station or other place provided for the confinement of persons in custody, to be kept there for such reasonable time as the court may specify (not exceeding such time as appears to the court reasonably necessary for the purpose of enabling him to be delivered into military or air-force custody, as the case may be) or until sooner delivered into such custody.
+
+Any time specified by the court may be extended by the court from time to time if it appears to the court reasonably necessary so to do for the purpose aforesaid.
+
+(3) If he does not admit that he is illegally absent as aforesaid, or the court is not satisfied of the truth of the admission, the court shall consider the evidence and any statement of the accused, and if satisfied that he is subject to military law or air-force law, as the case may be, and if of opinion that there is sufficient evidence to justify his being tried under this Act for an offence of desertion or absence without leave then, unless he is in custody for some other cause, the court shall cause him to be delivered into military or air-force custody, as the case may be, or commit him as aforesaid, but otherwise shall discharge him:
+
+Provided that if he is in custody for some other cause the court shall have power, but shall not be required, to act in accordance with this sub-paragraph.
+
+(4) The following provisions of [[^F213]the Magistrates’ Courts Act 1980]or any corresponding enactment in force as respects the court in question, that is to say the provisions relating to the constitution and procedure of magistrates’ courts acting as examining justices and conferring powers of adjournment and remand on such courts so acting, and the provisions as to evidence and the issue and enforcement of summonses or warrants to secure the attendance of witnesses, shall apply to any proceedings under this paragraph.
+
+(5) This paragraph shall have effect in the United Kingdom and in any colony.
+
+### Deserters and absentees without leave surrendering to police
+
+**3** (1) Where in the United Kingdom or any colony a person surrenders himself to a constable as being illegally absent from the reserve forces, the constable shall (unless he surrenders himself at a police station) bring him to a police station.
+
+(2) The officer of police in charge of a police station at which a person has surrendered himself as aforesaid, or to which a person who has so surrendered himself is brought, shall forthwith inquire into the case and if it appears to that officer that the said person is illegally absent as aforesaid he may cause him to be delivered into military or air-force custody, as the case may be, without bringing him before a magistrates’ court or may bring him before such a court.
+
+### Certificates of arrest or surrender of deserters and absentees
+
+**4** (1) Where a magistrates’ court in pursuance of paragraph 2 above deals with a person as illegally absent, then when that person is delivered into military or air-force custody, as the case may be, there shall be handed over with him a certificate in the prescribed form, signed by a justice of the peace, containing the prescribed particulars as to his arrest or surrender and the proceedings before the court; and for any such certificate there shall be payable to the clerk of the court, by such person as the Defence Council may direct, such fee (if any) as may be prescribed.
+
+(2) Where under sub-paragraph (1) above, a person is delivered into military or air-force custody without being brought before a court, there shall be handed over with him a certificate in the prescribed form, signed by the officer of police who causes him to be delivered into custody, containing the prescribed particulars relating to his surrender.
+
+(3) In any proceedings for an offence under section 73(1) above or section 106(1) above—
+
+(a) a document purporting to be a certificate under either sub-paragraph (1) or (2) above and to be signed as thereby required, shall be evidence of the matters stated in the document;
+
+(b) where the proceedings are against a person who has been taken into military, naval or air-force custody on arrest or surrender, a certificate purporting to be signed by a provost officer, or any corresponding officer of a Commonwealth force or a force raised under the law of a colony, or by any other officer in charge of the guardroom or other place where that person was confined on being taken into custody, stating the fact, date, time and place of arrest or surrender shall be evidence of the matters stated in the certificate.
+
+(4) In this paragraph the expression “prescribed” means prescribed by regulations made by the Secretary of State by statutory instrument under section 189 of the [^M22]Army Act 1955 or section 189 of the [^M23]Air Force Act 1955, as the case may be.
+
+### Duties of governors of prisons and others to receive deserters and absentees
+
+**5** (1) It shall be the duty of the governor of a civil prison in the United Kingdom or the superintendent or other person in charge of a civil prison in a colony to receive any person duly committed to that prison by a magistrates’ court as illegally absent from the reserve forces and to detain him until in accordance with the directions of the court he is delivered into military or air-force custody, as the case may be.
+
+(2) Sub-paragraph (1) above shall apply to the person having charge of any police station or other place (not being a prison) provided for the confinement of persons in custody, whether in the United Kingdom or in a colony, as it applies to the governor or superintendent of a prison.
+
+## [^F214]SCHEDULE 6
+
+### General provisions as to evidence
+
+**1** (1) The following provisions of this paragraph shall have effect with respect to evidence in proceedings under Part IV or Part V of this Act, whether before a court-martial, a civil court or otherwise.
+
+(2) A letter, return or other document stating that any person—
+
+(a) was or was not serving at any specified time or during any specified period in any part of Her Majesty’s forces or was discharged from any part of those forces at or before any specified time, or
+
+(b) held or did not hold at any specified time any specified rank or appointment in any of those forces, or had at or before any specified time been attached, posted or transferred to any part of those forces, or at any specified time or during any specified period was or was not serving or held or did not hold any rank or appointment in any particular country or place, or
+
+(c) was or was not at any specified time authorised to use or wear any decoration, badge, wound stripe or emblem,
+
+shall, if purporting to be issued by or on behalf of the Defence Council or by a person authorised by them, be evidence of the matters stated in the document.
+
+(3) A record made in any service book or other document prescribed by Queen’s Regulations for the purposes of this sub-paragraph, being a record made in pursuance of any Act or of Queen’s Regulations, or otherwise in pursuance of military or air-force duty, as the case may be, and purporting to be signed by the commanding officer or by any person whose duty it was to make the record, shall be evidence of the facts stated therein.
+
+(4) A copy of a record (including the signature thereto) in any such book or other document as aforesaid, purporting to be certified to be a true copy by a person stated in the certificate to have the custody of the book or other document, shall be evidence of the record.
+
+(5) A document purporting to be issued by order of the Defence Council and to contain instructions or regulations given or made by the Defence Council shall be evidence of the giving of the instructions or making of the regulations and of their contents.
+
+(6) A certificate purporting to be issued by or on behalf of the Defence Council or by a person authorised by them, and stating—
+
+(a) that a decoration of a description specified in or annexed to the certificate is a military, naval or air force decoration, or
+
+(b) that a badge, wound stripe or emblem of a description specified in or annexed to the certificate is one supplied or authorised by the Defence Council,
+
+shall be evidence of the matters stated in the certificate.
+
+(7) A certificate purporting to be signed by a person’s commanding officer or any officer authorised by him to give the certificate, and stating the contents of, or of any part of, standing orders or other routine orders of a continuing nature made for—
+
+(a) any formation or unit or body of troops, or
+
+(b) any formation or unit or body of the air force, or
+
+(c) any command or other area, garrison or place, or
+
+(d) any ship, train or aircraft,
+
+shall in proceedings against the said person be evidence of the matters stated in the certificate. [^F215]
+
+(7A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) Where, in relation to one of the [[^F12]Regular Reserve] , the Air Force Reserve, the [[^F13]Army Reserve] or the Royal Auxiliary Air Force, any document would be evidence in any proceedings under Part IV or Part V of this Act by virtue of this paragraph, or paragraph 5 of Schedule 3 to this Act, that document shall—
+
+(a) in like manner,
+
+(b) subject to the same conditions, and
+
+(c) for the like purpose,
+
+be evidence in the like proceedings in relation to any other of the [[^F12]Regular Reserve] , Air Force Reserve, [[^F13]Army Reserve] or the Royal Auxiliary Air Force.
+
+### Proof of outcome of civil trial
+
+**2** (1) Where a person subject to military law or to air-force law has been tried before a civil court (whether at the time of the trial he was or was not subject to military law or air-force law, as the case may be), a certificate signed by the clerk of the court and stating all or any of the following matters—
+
+(a) that the said person has been tried before the court for an offence specified in the certificate,
+
+(b) the result of the trial,
+
+(c) what judgment or order was given or made by the court,
+
+(d) that other offences specified in the certificate were taken into consideration at the trial,
+
+shall for the purposes of Part IV or Part V of this Act be evidence of the matters stated in the certificate.
+
+(2) The clerk of the court shall, if required by the commanding officer of the person in question or any other officer, furnish a certificate under this paragraph and shall be paid such fee as may be prescribed by regulations made by the Secretary of State under section 199 of the [^M24]Army Act 1955 or section 199 of the [^M25]Air Force Act 1955, as the case may be.
+
+(3) A document purporting to be a certificate under this paragraph and to be signed by the clerk of the court shall, unless the contrary is shown, be deemed to be such a certificate.
+
+(4) References in this paragraph to the clerk of the court include references to his deputy and to any other person having the custody of the records of the court.
+
+## [^F216]SCHEDULE 7
+
+**1** A scheme for the constitution of an association shall provide—
+
+(a) for the date of the establishment of the association;
+
+(b) for the incorporation of the association by an appropriate name;
+
+(c) for appointment as members of the association of [[^F217]naval members, marine members,]military members and air force members the aggregate number of such members to be not less than half of the whole number of members of the association;
+
+(d) for the appointment as members of the association by the Defence Council, after consultation with, and on the recommendation of, the bodies to be represented, of representatives of such of the local authorities wholly or partly within the area for which the association is established as the Defence Council may from time to time determine;
+
+(e) for the mode of appointment, dismissal, term of office and rotation of members of the association and the filling of casual vacancies;
+
+(f) for the election of a chairman and a vice-chairman or vice-chairmen by the association and for defining their powers and duties;
+
+(g) for the appointment by the association, subject to the approval of the Defence Council, of a secretary and other officers and members of the staff of the association provided that a secretary or other officer or member of the staff who is in the employment of the association by virtue of the provisions of an order made by the Defence Council in exercise of the powers conferred upon the Defence Council by subsection (4) of section 122 above shall be deemed for the purpose of this provision in the scheme to have been appointed by the association;
+
+(h) for the procedure to be adopted, including the appointment of committees and the delegation to committees of any of the powers or duties of the association;
+
+(i) for enabling [[^F218]flag]general or air officers of any part of Her Majesty’s forces, or officers deputed by them, to attend the meetings of the association, and to speak but not to vote.
+
+**2** A scheme for the constitution of an association other than an association established for an area including Greater London shall provide—
+
+(a) for constituting as president of the association the lord-lieutenant of one of the counties or parts of counties for which the association is established, as the Defence Council may from time to time think fit, or, failing any of those lord-lieutenants, such other person as the Defence Council may think fit, and
+
+(b) for constituting as vice-presidents of the association the lord-lieutenants of any of those counties or parts of counties in any case where they are not president of the association and are willing to act as vice presidents.
+
+**3** A scheme for the establishment of an association in Scotland shall provide—
+
+(a) in the case where an association area coincides with a [[^F219]local government area] or where a [[^F219] local government area] contains two or more association areas, for the selection by the Defence Council of the president and vice-presidents of the association from the lord-lieutenants residing in the [[^F219]local government area] or from such other persons as the Defence Council may think fit; or
+
+(b) in the case where an association area falls within two or more [[^F219]local government areas], for the selection by the Defence Council of the president and vice-presidents of the association from the lord-lieutenants residing in those [[^F219]local government areas]or from such other persons as the Defence Council may think fit.
+
+**4** A scheme for the constitution of an association established for an area including Greater London shall provide for constituting the lord-lieutenant of Greater London or, failing him, such other person as the Defence Council may think fit, president of the association.
+
+**5** A scheme for the constitution of an association may provide—
+
+(a) for the appointment as members of the association by the Defence Council, of representatives of universities whose activities are carried on wholly or partly within the area for which the association is established;
+
+(b) for the appointment as members of the association by the Defence Council, of persons representing the Army Cadet Force, the Air Training Corps, the Combined Cadet Force and the Sea Cadet Corps;
+
+(c) for the appointment as members of the association by the Defence Council, of persons representing employers in and persons employed in the area for which the association is established;
+
+(d) for the appointment of co-opted members;
+
+(e) for dividing the area for which the association is established into two or more parts and for establishing sub-associations for any of the parts and for delegating to a sub-association such of the powers and duties of the association as may be approved by the Defence Council and regulating the relations of a sub-association to the association and, where any association has established more than one sub-association, regulating the relations of one sub-association to another.
+
+**6** A scheme shall provide that of the chairman and [^F220]vice-chairmen at least one shall be [[^F221]a naval or marine member of the association and at least one shall be]a military member of the association and at least one an air force member of the association.
+
+**7** A scheme may contain any consequential, supplemental, or transitory provisions which may appear to be necessary or proper for the purposes of the scheme, and also as respects any matter for which provision may be made by regulations under this Act and for which it appears desirable to make special provision affecting the association established by the scheme.
+
+**8** (1) A scheme for the constitution of an association established for an area including or including any part of the counties of Kent and Sussex may provide that the Lord Warden of the Cinque Ports shall ex-officio be a member of the association.
+
+(2) A scheme for the constitution of an association established for an area including or including any part of the counties of Devon and Cornwall may provide that the Warden of the Stannaries shall ex-officio be a member of the association.
+
+(3) The Governor or Deputy Governor of the Isle of Wight shall ex-officio be a member of an association established for an area including the Isle of Wight.
+
+(4) The Lord Mayor of the City of London shall ex-officio be president of a sub-association establishment for the City of London.
+
+(5) In this Schedule—
+
+- “air force member” means one who is a member or former member of Her Majesty’s air forces or who is specially qualified by his interest in and knowledge of matters relating to aviation;
+- [[^F222]“county” means, in relation to Wales, a preserved county (as defined by section 64 of the Local Government (Wales) Act 1994);]
+- [[^F223]“marine member”means one who is a member or former member of the Royal Marines [[^F223]or who is specially qualified by his interest in and knowledge of matters affecting the marine forces]];
+- [[^F224]“military member” means one who is a member or former member of Her Majesty’s military forces [[^F225]or who is specially qualified by his interest in and knowledge of military matters].]
+- [[^F224]“naval member”means one who is a member or former member of the Royal Navy [[^F226]or who is specially qualified by his interest in and knowledge of naval matters];]
+
+## [^F227] SCHEDULE 8 — Saving and Transitional Provisions
+
+*Section 157.*
+
+### General
+
+**1** References in paragraph (b) of section 17(2) of the [^M26]Interpretation Act 1978 to subordinate legislation made or other thing done under enactments repealed and re-enacted by this Act shall be construed as including references to subordinate legislation or other thing having effect as if made or done by virtue of—
+
+(a) the [^M27]Army Reserve Act 1950 section 29(4);
+
+(b) the [^M28]Air Force Reserve Act 1950 section 30(4);
+
+(c) the [^M29]Auxiliary Forces Act 1953 section 46(2).
+
+**2** Where any period of time specified in an enactment repealed by this Act is current at the commencement of this Act, this Act has effect as if the corresponding provision of the Act had been in force when that period began to run.
+
+**3** The repeal of an enactment by this Act does not affect the operation of that enactment in relation to any offence committed before the commencement of the Act.
+
+**4** A conviction for an offence under an enactment repealed by this Act shall be treated for the purposes of the Act as a conviction for an offence under the corresponding provision of the Act.
+
+### Saving of amendments
+
+**[[^F228]5** (1) The amendments made—
+
+(a) by section 23(6) of, and paragraph 32 of Schedule 1 to, the [^M30]Reserve Forces Act 1966, [^F229]
+
+(b [^F229)]
+
+(2) The [^F230]Royal Marine Forces Volunteer Reserve shall continue to be known [^F230]as [^F230]the Royal Marines Reserve, and references to that [^F230]marine volunteer reserve in any enactment or instrument shall continue to be construed accordingly.
+
+(3) [^F231]In section 210(2)(b) of the [^M31][^F231]Army Act 1955 the reference to actual service shall continue to be construed as including a reference to permanent service in the marine forces in pursuance of section 11(1) above.]
+
+### Permanent service in naval and marine reserves
+
+**6** Any reference in any enactment to actual service under section 4 of the [^M32]Royal Naval Reserve (Volunteer) Act 1859 shall be construed as a reference to permanent service in the naval or marine forces by virtue of section 10(1) above.
+
+### Militia storehouses
+
+**7** (1) Notwithstanding the repeal by this Act of section 4 of the [^M33]Territorial Army and Militia Act 1921, any enactment repealed by that Act which related to militia storehouses shall continue to apply in relation to militia storehouses provided before the commencement of that Act as though that Act and this Act had not been passed.
+
+In this sub-paragraph “militia storehouses” means any building or premises provided for keeping in them the arms, accoutrements, clothing and other stores belonging to any regiment, battalion or corps of militia, when not embodied.
+
+(2) Any moneys—
+
+(a) which have been paid to and invested by or shall be paid to the proper officer of a county council on account of the proceeds of the sale of any place provided for keeping militia stores, and
+
+(b) which are not required for the purposes of the [^M34]Militia Law Amendment Act 1854,
+
+may be applied to any of the purposes to which money raised on the security of the county rate or stock is applicable or it may be invested in any security in which trustees may by law invest trust moneys, and the interest applied in aid of the county rate or stock, as shall be directed by the county council.
+
+### Enlistment in the [^M35] [[^F13]Army Reserve] or Royal Auxiliary Air Force prior to order or regulation under Auxiliary Forces Act 1953
+
+**8** Where a man—
+
+(a) is a member of the [[^F13]Army Reserve] or the Royal Auxiliary Air Force, and
+
+(b) was enlisted before the date of any order or regulation under the Auxiliary Forces Act 1953,
+
+nothing in any order or regulation made under any provision of that Act or made or having effect under a corresponding provision of this Act shall render him liable without his consent to be appointed, transferred or attached to any military or air force body to which he could not without his consent have been appointed, transferred or attached if that order or regulation had not been made.
+
+### [^M36]Reserve of officers maintained under section 11(4) of Auxiliary Forces Act 1953
+
+**9** In relation to the [^M37]Reserve Forces Act 1966—
+
+(a) the provisions of section 3(2) of that Act (which abolished reserve divisions of the Territorial [[^F12]Regular Reserve] ), and
+
+(b) the repeal by that Act of section 11(7) of the Auxiliary Forces Act 1953,
+
+do not affect any reserve of officers maintained in pursuance of that section 11(7) immediately before 9th August 1966, but any such reserve may be abolished by order of Her Majesty signified under the hand of the Secretary of State.
+
+### Transfers to reserve under Army Act and Air Force Act
+
+**10** [^F232]In this Act—
+
+[^F232]a [^F232]references to the [^M38][^F232]Army Act 1955 in connection with transfers to the reserve include such transfers under the Army Act;
+
+[^F232]b [^F232]references to the [^M39][^F232]Air Force Act 1955 in connection with transfers to the reserve include such transfers under the Air Force Act.
+
+### Modifications of other enactments
+
+**11** Without prejudice to section 152(2) above—
+
+(a) any reference in any enactment to, or to provisions which include, section 5 of the [^M40]Army Reserve Act 1950 or section 5 of the [^M41]Air Force Reserve Act 1950 or to a proclamation ordering the calling out of the [[^F12]Regular Reserve] or the Air Force Reserve under those sections shall be construed respectively as, or as including, a reference to section 10 above or to an order authorising the calling out of the [[^F12]Regular Reserve] or the Air Force Reserve under that section 10;
+
+(b) any reference in any enactment to the embodying or disembodying of the [[^F13]Army Reserve] or the Royal Auxiliary Air Force or any part or member of that reserve or force shall be construed—
+
+(i) in relation to a member of the [[^F13]Army Reserve] , as a reference to his being called into, or released from, service by virtue of section 10(1) or section 11(1) above;
+
+(ii) in relation to a member of the Royal Auxiliary Air Force, as a reference to his being called into, or released from, service by virtue of section 10(1).
+
+### Naval and Marine Reserves Pay Act 1957
+
+**12** Notwithstanding the repeal by this Act of the references to—
+
+(a) officers and men of the Royal Naval Volunteer Reserve, and
+
+(b) officers and men of the Royal Naval Special Reserve,
+
+in Schedule 1 to the [^M42]Naval and Marine Reserves Pay Act 1957, those officers and men described in paragraphs (a) and (b) above shall be deemed to be among those described in subsection (2) of section 59 above for the purposes of that section.
+
+### The lieutenancies in England and Wales
+
+**[^F233]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The lieutenancies in Scotland
+
+**[^F234]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Permanent service call out of special class of Royal Fleet Reserve otherwise than under section 11
+
+**15** (1) Where section 11 above does not apply to a man of the special class of the Royal Fleet Reserve he is liable during the whole of his service in that class of the reserve to be called out for permanent service at any time when warlike operations are in preparation or in progress outside the United Kingdom (including the Channel Islands and the Isle of Man), but this sub-paragraph—
+
+(a) does not make the man liable to serve for a period or periods exceeding 12 months in all without his written consent,
+
+(b) is without prejudice to any liability imposed on the man by section 16(1) above,
+
+and any exercise of the power under this sub-paragraph to call men out for permanent service shall be reported to Parliament forthwith.
+
+(2) The provisions of sub-paragraph (1) above are in addition to, and not in substitution for, the provisions of any other enactment under which officers or men of—
+
+(a) the Royal Naval Reserve and the Royal Fleet Reserve, and
+
+(b) the Royal Marines Reserve,
+
+are liable to be called out for permanent service.
+
+### Permanent service call out of [[^F12]Regular Reserve] and Air Force Reserve otherwise than under section 11
+
+**[[^F235]16** [^F235]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) [^F236]Where section 11 does not apply to a man—
+
+[^F236]a [^F236]who enlisted in the regular forces within the meaning of the Army Act 1955 after 26th February 1964, and
+
+[^F236]b [^F236]who was transferred to the [^F236][[^F12]Regular Reserve][^F236] in pursuance of—
+
+[^F236]i [^F236]the [^M43][^F236]Army Act 1955, or
+
+[^F236]ii [^F236]the [^M44][^F236]Army and Air Force Act 1961, or
+
+[^F236]iii [^F236]regulations under section 2 of the [^M45][^F236]Armed Forces Act 1966, and
+
+[^F236]c [^F236]who on his transfer was designated by the competent military authority as subject to this provision for a specified period not exceeding 3 years beginning with the beginning of his service in the [^F236][[^F12]Regular Reserve][^F236] ,
+
+[^F236]he is liable to be called out for permanent service on overseas service at any time during that period.
+
+(3) Where section 11 does not apply to a man of the [[^F12]Regular Reserve] , that man, whether he entered the reserve—
+
+(a) on transfer, or
+
+(b) on re-engagement, or
+
+(c) on being enlisted or on being deemed to be enlisted,
+
+shall, if he has entered into a written agreement (which may be revoked by 3 months’ written notice) to be so liable at the time in question, be liable at any time during his service in that reserve to be called out for permanent service on overseas service.
+
+This sub-paragraph is without prejudice to sub-paragraphs (1) and (2) above.
+
+[^F235]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) [^F237]Where section 11 does not apply to a man—
+
+[^F237]a [^F237]who enlisted in the regular air force within the meaning of the Air Force Act 1955 after 26th February 1964, and
+
+[^F237]b [^F237]who was transferred to the Air Force Reserve in pursuance of—
+
+[^F237]i [^F237]the Air Force Act 1955, or
+
+[^F237]ii [^F237]the Army and Air Force Act 1961, or
+
+[^F237]iii [^F237]regulations under section 2 of the [^M46][^F237]Armed Forces Act 1966, and
+
+[^F237]c [^F237]who on his transfer was designated by the competent air force authority as subject to this provision for a specified period not exceeding 3 years beginning with the beginning of his service in the Air Force Reserve,
+
+[^F237]he is liable to be called out for permanent service on overseas service at any time during that period.
+
+(6) Where section 11 does not apply to a man of the Air Force Reserve, that man, whether he entered the reserve—
+
+(a) on transfer, or
+
+(b) on re-engagement, or
+
+(c) on being enlisted or on being deemed to be enlisted,
+
+shall, if he has entered into a written agreement (which may be revoked by 3 months’ written notice) to be so liable at the time in question, be liable at any time during his service in that reserve to be called out for permanent service on overseas service.
+
+This sub-paragraph is without prejudice to [[^F238]sub-paragraph] (2) above.
+
+(7) A man shall not without his written consent be liable to serve under sub-paragraphs (1) to (6) above for a period which, together with any previous period for which he was called out under any of those sub-paragraphs, exceeds 12 months.
+
+(8) Any exercise of the power of calling out men under this paragraph shall be reported to Parliament forthwith.
+
+(9) The number of men for the time being called out under any of the provisions of this paragraph shall not be reckoned in the numbers for the time being authorised by Parliament for the [^F239]regular forces or for the regular air force [[^F239]regular army or for the Royal Air Force] .
+
+(10) In this paragraph “overseas service” means service when the men in question are required for service outside the United Kingdom when warlike operations are in preparation or progress; and the reference to the United Kingdom in this sub-paragraph shall be construed as if that expression included the Channel Islands and the Isle of Man.]
+
+### Call out for training of [[^F12]Regular Reserve] and Air Force Reserve otherwise than under section 38
+
+**17** (1) Where section 38 above does not apply to a man of the [[^F12]Regular Reserve] he may be called out for annual training—
+
+(a) at such time or times, and
+
+(b) at such place or places within the United Kingdom, and
+
+(c) for such period or periods,
+
+as may be prescribed, but he is not liable to be called out under this sub-paragraph in any one year for more than 12 days or 20 drills.
+
+(2) Such a man may, during any period of training for which he may be called out, be attached to and trained with any body of the regular or auxiliary forces.
+
+(3) Where section 38 does not apply to a man of the Air Force Reserve he may be called out for annual training—
+
+(a) at such time or times, and
+
+(b) at such place or places within the United Kingdom, and
+
+(c) for such period or periods,
+
+as may be prescribed.
+
+(4) The period or periods so prescribed shall not exceed in any one year—
+
+(a) 24 days in the case of a man who is serving as a qualified pilot or as a qualified navigator;
+
+(b) 6 months in the case of a man who is undergoing instruction with a view to his qualifying for service as a pilot or navigator;
+
+(c) 12 days or 20 drills or instructional parades in the case of any other man.
+
+In this sub-paragraph “navigator” includes “observer”, and “qualified” means qualified in accordance with orders or regulations made under the provisions of this Act relating to the Air Force Reserve.
+
+(5) A man of the Air Force Reserve may, during any period of training for which he may be called out or which he may be required to undergo, be attached to and trained with any body of the regular or auxiliary air force.
+
+(6) Sub-paragraphs (3) to (5) above are subject to the provisions of this Act relating to special reservists.
+
+### Call out for training of [[^F13]Army Reserve] otherwise than under section 38
+
+**18** (1) Where section 38 above does not apply to a man of the [[^F13]Army Reserve] —
+
+(a) he shall during the first year of his original enlistment be subject to any requirements as to preliminary training provided for under section 40 above in the same way as a man of the Royal Auxiliary Air Force and he shall attend the number of drills and fulfil the other conditions prescribed for a recruit of his arm or branch of the [[^F13]Army Reserve] accordingly;
+
+(b) he shall by way of annual training be trained for not less than 8 or more than 15 days (or, for the mounted branch, 18 days) in every year at such times and at such places within the United Kingdom as may be prescribed, and may for that purpose be called out once or more often in every year.
+
+(2) A man mentioned in sub-paragraph (1)(b) above shall (subject to the provisions of this paragraph) attend the number of drills and fulfil the other conditions relating to training prescribed for his arm or branch of the [[^F13]Army Reserve] .
+
+(3) The requirements of this paragraph as to annual training may be dispensed with in whole or in part—
+
+(a) as respects any unit of the [[^F13]Army Reserve] , by the prescribed general officer, and
+
+(b) as respects an individual man of the [[^F13]Army Reserve] , by his commanding officer subject to any general directions of the prescribed general officer.
+
+(4) Her Majesty may by Order in Council made in relation to any man of the [[^F13]Army Reserve] to whom this paragraph applies direct—
+
+(a) that the period of annual training in any year shall be extended to such period not exceeding 30 days as may be specified in the Order; or
+
+(b) that the period of annual training in any year shall be reduced to such period as to Her Majesty may seem fit, or
+
+(c) that the annual training in any year shall be dispensed with.
+
+(5) Nothing in this paragraph shall be construed as preventing a man with his own consent, in addition to any other training, being called up for the purpose of duty or instruction in accordance with orders and regulations under this Act relating to the [[^F13]Army Reserve] .
+
+### Election for section 38 to apply
+
+**19** [^F240]A person who immediately before 1st January 1967 was a man of the regular army or the regular air force may elect irrevocably in the prescribed manner that, on his becoming a member of the [^F240][[^F12]Regular Reserve][^F240] or the Air Force Reserve, he shall be a person to whom section 38 above applies.
+
+### Section 12 of Social Security (Miscellaneous Provisions) Act 1977
+
+**20** Where section 12 of the [^M47]Social Security (Miscellaneous Provisions) Act 1977 applied immediately before the commencement of this Act to any provision which is repealed and re-enacted by this Act that section continues to apply to that provision as so re-enacted as it applied immediately before that commencement.
+
+## [^F241]SCHEDULE 9 — CONSEQUENTIAL AMENDMENTS
+
+*Section 157.*
+
+### ORDERS
+
+#### [^M48] Industrial Relations (Northern Ireland) Order 1976
+
+**[^F242]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^M49] Industrial Relations (No. 2) (Northern Ireland) Order 1976
+
+**[^F243]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F244]
+
+## SCHEDULE 10. — Repeals
+
+*Section 157.*
+
+![image](http://www.legislation.gov.uk/ukpga/1980/9/images/ukpga_19800009_en_sld_001)
+
+![image](http://www.legislation.gov.uk/ukpga/1980/9/images/ukpga_19800009_en_sld_002)
+
+![image](http://www.legislation.gov.uk/ukpga/1980/9/images/ukpga_19800009_en_sld_003)
+
+![image](http://www.legislation.gov.uk/ukpga/1980/9/images/ukpga_19800009_en_sld_004)
+
+![image](http://www.legislation.gov.uk/ukpga/1980/9/images/ukpga_19800009_en_sld_005)
+
+---
+
+[^F1]: Act (except ss. 48, 55, 130 to 138, 140, 151, 156, 157 and 158) repealed (1.4.1997 except so far as relating to certain provisions as to which the repeal is *prosp*.) by 1996 c. 14, ss. 131(2), 132(4), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F2]: S. 1 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F3]: S. 2 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F4]: s. 3 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F5]: S. 4 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F6]: S. 5 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F7]: S. 6 repealed (1.4.1997) by 1996 c. 14, ss. 128, 131(2), Sch. 8 para. 6, Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2(2)
+[^F8]: S. 7 repealed (1.7.1992) by Army Act 1992 (c. 39), ss. 3(1), 5
+[^F9]: S. 8 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F10]: S. 9 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F11]: S. 10(1)(2) substituted (1.4.1997) by S.I. 1997/306, art. 2(a)
+[^F12]: Words in Act substituted (1.10.2014) by Defence Reform Act 2014 (c. 20), s. 44(3)(a)(4)50(1) (with s. 49(3)(5)); S.I. 2014/2370, art. 4(a)
+[^F13]: Words in Act substituted (1.10.2014) by Defence Reform Act 2014 (c. 20), s. 44(3)(b)(4)50(1) (with s. 49(3)(5)); S.I. 2014/2370, art. 4(a)
+[^F14]: Words in s. 10(4)(e) omitted (1.4.1997) by S.I. 1997/306, art. 2(b)
+[^F15]: S. 10(4)(ea) inserted (1.4.1997) by S.I. 1997/306, art. 2(c)
+[^F16]: S. 10(5) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 1, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F17]: S. 11 substituted (1.4.1997) by S.I. 1997/306, art. 3
+[^F18]: Words in s. 11(2)(a) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 2; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F19]: S. 12 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F20]: S. 13 repealed (1.4.1997 except so far as it relates to s. 13(2)-(4) the repeal of which is still*prosp.*) by 1996 c. 14, ss. 131(2), 132(4), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F21]: S. 14 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F22]: S. 15 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F23]: Words in s. 16(1) substituted (1.4.1997) by S.I. 1997/306, reg. 4(a)
+[^F24]: S. 16(1A) inserted (1.4.1997) after subsection (1) by S.I. 1997/306, reg. 4(b)
+[^F25]: S. 18 repealed (1.4.1997 except so far as it relates to s. 18(1)(2) the repeal of which is still*prosp.*) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F26]: S. 18(1) substituted (1.4.1997) by S.I. 1997/306, art. 5(a)
+[^F27]: S. 18(1A) inserted (1.4.1997) by S.I. 1997/306, art. 5(b)
+[^F28]: S. 18(2)(b) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 3, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^M1]: 1955 c. 18.
+[^F29]: S. 19(3)-(5) substituted for s. 19(3) (1.1.1999) by S.I. 1998/3086, reg. 11, Sch. para. 6
+[^F30]: S. 19(4) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 4(a), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F31]: Words in s. 19(5) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 4(b); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F32]: S.19A inserted (1.1.1999) by 1998/3086, reg. 11, Sch. para. 6
+[^F33]: S. 19A(7) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 5; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F34]: S. 20 repealed (1.4.1997 except so far as it relates to s. 20(1) the repeal of which is*prosp.*) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F35]: S. 20(1) substituted (1.4.1997) by S.I. 1997/306, art. 7(a)
+[^F36]: S. 20(1A) inserted (1.4.1997) by S.I. 1997/306, art. 7(b)
+[^F37]: S. 21(3)-(5) substituted (1.1.1999) for s. 21(3) by S.I. 1998/3086, reg. 11, Sch. para. 7(1)
+[^F38]: S. 21(4) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 6(a), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F39]: Words in s. 21(5) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 6(b); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F40]: S. 21A inserted (1.1.1999) by S.I. 1998/3086, reg. 11, Sch. para. 7(2)
+[^F41]: S. 21A(7) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 7; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F42]: S. 22 substituted (1.4.1997) by S.I. 1997/306, art. 9
+[^F43]: S. 23 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1977/305, art. 2
+[^F44]: S. 24 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 8, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F45]: S. 25 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 9, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F46]: S. 25A inserted (1.4.1997) by S.I. 1997/306, reg. 10
+[^F47]: S. 26 substituted (1.4.1997) by S.I. 1997/306, art. 11
+[^F48]: S. 26(2)(g) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 10, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F49]: S. 27 repealed (1.4.1997) by 1996 c. 14, ss. 131(2), 132(4), Sch. 11 (with s.72(5)); S.I. 1997/305, art. 2
+[^F50]: S. 28(1)(a) substituted (1.4.1997) by S.I. 1997/306, art. 12(1)(a)
+[^F51]: Words substituted (1.4.1997) by S.I. 1997/306, art. 12(1)(b)
+[^F52]: Words in s. 29(1) substituted (1.4.1997) by S.I. 1997/306, art. 13(a)(b)
+[^F53]: S. 29A inserted (1.4.1997) by S.I. 1997/306, art. 14
+[^F54]: S. 30 repealed (1.4.1997 except so far as relating to s. 30(1)(2) which repeal is still*prosp.*) by 1996 c. 14, ss. 131(2), 132(4), Sch. 11 (with s.72(5)); S.I. 1997/305, art. 2
+[^F55]: S. 30(1)substituted (1.4.1997) by S.I. 1997/306, art. 15(2)
+[^F56]: S. 30(1A) inserted (1.4.1997) by S.I. 1997/306, art. 15(3)
+[^F57]: Words in s. 30(2) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 11; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F58]: Words in s. 31(6) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 12(2)(a)(i); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F59]: Words in s. 31(6) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 12(2)(a)(ii); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F60]: Words in s. 31(6) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 12(2)(b); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F61]: Words in s. 31(7) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 12(3); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F62]: Words in s. 32(1) substituted (1.4.1997) by S.I. 1997/306, art. 16(2)
+[^F63]: Words in s. 32(2) inserted (1.4.1997) by S.I. 1997/306, art. 16(3)
+[^F64]: Words in s. 32(3)(a) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 13(2)(a); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F65]: Words in s. 32(3)(b) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 13(2)(b); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F66]: Words in s. 32(4)(a) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 13(3); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F67]: S. 32(4)(b) substituted (1.4.1997) by S.I. 1997/306, art. 16(4)
+[^F68]: S. 32(5) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 13(4); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^M2]: 1955 c. 18.
+[^M3]: 1955 c. 19.
+[^M4]: 1961 c. 52.
+[^M5]: 1966 c. 45.
+[^F69]: S. 33 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s.72(5)); S.I. 1997/305, art. 2
+[^F70]: S. 34 repealed (1.4.1997 except for s. 34(1)-(3) the repeal of which is still*prosp.*) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F71]: Words in S. 34(1) substituted (1.4.1997) by S.I. 1997/306, art. 17(2)(a)
+[^F72]: Words in S. 34(1) substituted (1.4.1997) by S.I. 1997/306, art. 17(2)(b)
+[^M6]: 1966 c. 45.
+[^M7]: 1955 c. 18.
+[^F73]: Words in s. 34(3) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 14(a); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F74]: Words in s. 34(3)(a) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 14(b); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F75]: S. 34(3)(b) substituted (1.4.1997) by S.I. 1997/306, art. 17(3)
+[^F76]: S. 35 substituted (1.4.1997) by S.I. 1997/306, reg. 18
+[^F77]: S. 36 substituted (1.4.1997) by S.I. 1997/306, reg. 19
+[^F78]: Words in s. 36(3)(b) repealed (1.1.1999) by S.I. 1998/3086, reg. 12
+[^F79]: S. 36A inserted (1.4.1997) by S.I. 1997/306, reg. 20
+[^F80]: S. 37 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s.72(5)); S.I. 1997/305, art. 2
+[^F81]: S. 39 repealed (1.4.1997 except for s. 39(1)(a)(b) the repeal of which is still*prosp.*) by 1996 c. 14, ss. 131(2), 132(4), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F82]: Words in s. 39(1)(a) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 15; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F83]: S. 42A inserted (1.4.1997) by S.I. 1997/306, reg. 21
+[^F84]: S. 43 repealed (1.4.1997) by 1996 c. 14, ss. 131(2), 132(4), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F85]: S. 44 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 16, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F86]: S. 45 repealed (1.4.1997) by 1996 c. 14, ss. 131(2), 132(4), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F87]: Words substituted by virtue of (E.W.) Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 38, 46 and (S.) Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1), ss. 289F, 289G and (N.I.) S.I. 1984/703 (N.I. 3), arts. 5, 6
+[^F88]: Words in s. 48 substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 17(a); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F89]: Words in s. 48 substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 17(b); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F90]: S. 49 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F91]: S. 50(4) inserted (1.4.1997) by S.I. 1997/306, reg. 22
+[^F92]: S. 51 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F93]: S. 52 repealed (1.4.97) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F94]: S. 53 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F95]: S. 54 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F96]: S. 56 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^M8]: 1966 c. 45.
+[^F97]: S. 59 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F98]: S. 60 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F99]: S. 61 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F100]: S. 62 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F101]: S. 64 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F102]: S. 65 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F103]: S. 66 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F104]: S. 68 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F105]: S. 71 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F106]: S. 72 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F107]: S. 73 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F108]: S. 74 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F109]: S. 75 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F110]: S. 76 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F111]: S. 77 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F112]: S. 78 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F113]: S. 79 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F114]: S. 80 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F115]: S. 81 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F116]: S. 82 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F117]: S. 83 omitted (1.1.1999) by virtue of S.I. 1998/3086, reg. 11, Sch. para. 8(1)(a)
+[^F118]: S. 84 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F119]: S. 85 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F120]: S. 86 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F121]: S. 88 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F122]: S. 89 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F123]: S. 90 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F124]: S. 91 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F125]: S. 92 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F126]: S. 94 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F127]: S. 95 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F128]: S. 96 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F129]: S. 97 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F130]: S. 98 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F131]: S. 99 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F132]: Words in s. 100(2) substituted (1.4.1997) by S.I. 1997/306, reg. 24(2)
+[^F133]: Words in s. 100(3) substituted (1.4.1997) by S.I. 1997/306, reg. 24(3)(a)(b)
+[^F134]: Words in s. 101(1) substituted (1.4.1997) by S.I. 1997/306, reg. 25(2)
+[^F135]: S. 102 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F136]: S. 103 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F137]: S. 104 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F138]: S. 106 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F139]: S. 107 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F140]: S. 108 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F141]: S. 109 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F142]: S. 110 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F143]: S. 111 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F144]: S. 112 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F145]: S. 113 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F146]: S. 114 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F147]: S. 115 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F148]: S. 116 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F149]: S. 117 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F150]: S. 118 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F151]: S. 119 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F152]: S. 121 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F153]: S. 122 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F154]: S. 123 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F155]: S. 124 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F156]: S. 125 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F157]: S. 126 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F158]: S. 127 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F159]: S. 128 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F160]: S. 129 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F161]: S. 130 repealed (1.7.1997) by 1997 c. 23, ss. 8(4), 9(2), Sch. 3 (with s. 7(3), Sch. 2 para. 6)
+[^F162]: S. 131 repealed (1.7.1997) by 1997 C. 23, ss. 8(4), 9(2), Sch. 3
+[^F163]: S. 132 repealed (1.7.1997) by 1997 c. 23, ss. 8(4), 9(2), Sch. 3 (with s. 7(3), Sch. 2 para. 6)
+[^F164]: s. 133 repealed (1.7.1997) by 1997 c. 23, ss. 8(4), 9(2), Sch. 3 (with s. 7(3), Sch. 2 para. 6)
+[^F165]: s. 134 repealed (1.7.1997) by 1997 c. 23, ss. 8(4), 9(2), Sch. 3 (with s. 7(3), Sch. 2 para. 6)
+[^F166]: s. 135 repealed (1.7.1997) by 1997 c. 23, ss. 8(4), 9(2), Sch. 3 (with s. 7(3), Sch. 2 para. 6)
+[^F167]: S. 136 repealed (1.7.1997) by 1997 c. 23, ss. 8(4), 9(2), Sch. 3, (with s. 7(3), Sch. 2 para. 6)
+[^F168]: S. 137 repealed (1.7.1997) by 1997 c. 23, ss. 8(4), 9(2), Sch. 3
+[^F169]: S. 138(1)(3)-(5) repealed (1.7.1997) by 1997 c. 23, ss. 8(4), 9(2), Sch. 3
+[^F170]: Words in s. 138(2) repealed (1.7.1997) by 1997 c. 23, ss. 8(4), 9(2), Sch. 3
+[^F171]: S. 139 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 18, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F172]: Words in s. 140 substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 19(a); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F173]: S. 140(1)-(1B) substituted for s. 140(1)(2) (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 19(b); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F174]: Word in s. 140(3) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 19(c)(i); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F175]: Word in s. 140(3) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 19(c)(ii); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F176]: Ss. 141-144 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 20, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^M9]: 1955 c. 18.
+[^F177]: Figure substituted by Armed Forces Act 1981 (c. 55, SIF 7:1), s. 12
+[^F178]: S. 144(1) para. (ii) repealed by S.I. 1984/703 (N.I. 3), art. 19(2), Sch. 7
+[^F179]: Words repealed by S.I. 1984/703 (N.I. 3), art. 19(2), Sch. 7
+[^F180]: S. 144(2) repealed (5.11.1993) by 1993 c. 50, s. 1(1), Sch. 1 Pt. XIV group2
+[^F181]: S. 145 repealed (1.4.1997 except so far as relating to s. 145(1)(b)(2) the repeal of which is still*prosp.*.) by 1996 c. 14 ss. 131(2), 132(4), Sch. 11 (wth s. 72(5)); S.I. 1997/305, art. 2
+[^F182]: Words substituted by Reserve Forces(Safeguard of Employment) Act 1985 (c. 17, SIF 7:2), s. 21, Sch. 4 para. 7(a)
+[^F183]: S. 145(2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 21, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F184]: S. 146 repealed (1.4.1997 except so far as relating to s. 146(1)(b)(2) the repeal of which is still*prosp.*) by 1996 c. 14, ss. 131(2), 132(4), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^M10]: 1951 c. 65.
+[^F185]: S. 146(2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 22, Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F186]: S. 147 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F187]: S. 148 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F188]: S. 149 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F189]: S. 152 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F190]: S. 153 repealed by Reserve Forces Act 1982 (c. 14, SIF 7:2), s. 2(3) and expressed to be repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 3 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F191]: S. 154 repealed (1.4.1997 except so far as relating to s. 154(1) the repeal of which is still*prosp*.) by 1996 c. 14, ss. 131(2), 132(4), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F192]: Words in s. 154(1) repealed (1.4.1997) by S.I.1997/306, reg. 26
+[^M11]: 1978 c. 30.
+[^F193]: Definition in s. 156(1) repealed (1.7.1997) by 1997 c. 23, ss. 8(4),9(2), Sch. 3 (with s. 7(3), Sch. 2 para. 6)
+[^F194]: Definition in s. 156(1) omitted (1.1.1999) by virtue of S.I. 1998/3068, reg. 11, Sch. para. 8(1)(b)
+[^F195]: Words in s. 156(1) inserted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 23(2)(a); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F196]: Words in definition in s. 156(1) substituted (1.4.1997) by S.I. 1997/306, reg. 27
+[^F197]: Words in s. 156(1) omitted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by virtue of Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 23(2)(b); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^M12]: 1955 c. 19.
+[^F198]: Words in s. 156(1) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 23(2)(c); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^M13]: 1955 c. 18.
+[^F199]: Definition repealed by Reserve Forces Act 1982 (c. 14, SIF 7:2), s. 1(1)(*a*)
+[^F200]: S. 156(2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 23(3), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F201]: Words “except so much of it as relates to the Royal Fleet Reserve and the Royal Marines Reserve” substituted (*retrospectively*) for words “so far as it relates to the military and air forces” by Reserve Forces Act 1982 (c. 14, SIF 7:2), s. 20(3)
+[^M14]: 1978 c. 30.
+[^M15]: 1966 c. 30.
+[^F202]: Sch. 1 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^M16]: 1957 c. 53.
+[^F203]: By Criminal Justice Act 1988 (c. 33, SIF 39:1), s. 123, Sch. 8 Pt. I paras. 1, 2 it is provided that in certain enactments including this Act for a reference to a detention centre or to a youth custody centre or to both there shall be substituted a reference to a young offender institution and for a reference (however expressed) to a detention centre order or to a sentence of youth custody or to both there shall be substituted a reference to a sentence of detention in a young offender institution
+[^F204]: Sch. 1 para. 5(*c*)(ii) and the word “or” immediately preceding it repealed by Criminal Justice Act 1988 (c. 33, SIF 39:1), s. 170(2), Sch. 16
+[^M17]: 1955 c. 18.
+[^F205]: Sch. 2 para. 2 substituted by Health and Social Services and Social Security Adjudications Act 1983 (c. 41, SIF 113:3), s. 32(2), Sch. 9, Pt. I para. 27
+[^F206]: Sch. 2 para. 2A inserted (1.4.2015) by The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914), art. 1(2), Sch. para. 26 (with arts. 1(3), 3)
+[^F207]: Words in Sch. 2 para. 2A inserted (E.W.) (6.4.2016) by The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413), regs. 2(1), 32(a)
+[^F208]: Sch. 2 para. 3(a) omitted (E.W.) (6.4.2016) by virtue of The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413), regs. 2(1), 32(b)
+[^M18]: 1948 c. 29.
+[^M19]: S.I. 1972/1265 (N.I. 14)
+[^F209]: Sch. 3 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F210]: Words substituted by virtue of (E.W.) Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 38, 46 and (S.) Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1), ss. 289F, 289G and (N.I.) S.I. 1984/703 (N.I. 3), arts. 5, 6
+[^M20]: 1955 c. 18.
+[^M21]: 1955 c. 19.
+[^F211]: Sch. 4 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5); S.I. 1997/305, art. 2
+[^F212]: Sch. 5 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F213]: Words substituted by Magistrates' Courts Act 1980 (c. 43, SIF 82), s. 154, Sch. 7 para. 204
+[^M22]: 1955 c. 18.
+[^M23]: 1955 c. 19.
+[^F214]: Sch. 6 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F215]: Sch. 6 para. 1(7A) (which was inserted by Reserve Forces Act 1982 (c. 14, SIF 7:2), s. 2(4)(5)) repealed (1.1.1992) by Armed Forces Act 1991 (c. 62, SIF 7:1) s. 26(1)(2), Sch. 2, para. 11(4), Sch.3; S.I. 1991/2719, art.2, Sch.
+[^M24]: 1955 c. 18.
+[^M25]: 1955 c. 19.
+[^F216]: Sch. 7 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F217]: Words inserted by S.I. 1983/1966, art. (2)
+[^F218]: Word inserted by S.I. 1983/1966, art. 2(3)
+[^F219]: Words in Sch. 7 para. 3 substituted (S.) (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 116(5); S.I. 1996/323, art. 4(1)(c)
+[^F220]: Words repealed by S.I. 1983/1966, art. 2(4)
+[^F221]: Words inserted by S.I. 1983/1966, art. 2(4)
+[^F222]: Definition in Sch. 7 para. 8(5) inserted (1.4.1996) by 1994 c. 19, s. 61(6) (with ss. 54(5)(7), 55(5), 66(7), Sch. 17 paras. 22(1), 23(2)); S.I. 1996/396, art. 4, Sch. 2
+[^F223]: Words inserted by S.I. 1990/553, art. 2(2)(a)
+[^F224]: Definitions inserted by S.I. 1983/1966, art. 2(5)
+[^F225]: Words added by S.I. 1990/553, art. 2(2)(b)
+[^F226]: Words inserted by S.I. 1990/553, art. 2(2)(c)
+[^F227]: Sch. 8 repealed (1.4.1997 except so far as relating to certain paras. and subparas. the repeals of which are still*prosp.*) by 1996 c. 14, ss. 131(2), 132(4), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^M26]: 1978 c. 30.
+[^M27]: 1950 c. 32.
+[^M28]: 1950 c. 33.
+[^M29]: 1953 c. 50.
+[^F228]: Sch. 8 para. 5 repealed (1.4.1997 except so far as relating to para. 5(1)(3) the repeal of which is still*prosp.*) by 1996 c. 14, ss. 131(2), 132(4), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^M30]: 1966 c. 30.
+[^F229]: Sch. 8 para. 5(1)(*b*) and the immediately preceding “and” repealed (with saving) by Armed Forces Act 1981 (c. 55, SIF 7:1), s. 28(2), Sch. 5 Pt. I
+[^F230]: Words repealed by Reserve Forces Act 1982 (c. 14, SIF 7:2), s. 1(3)
+[^F231]: Sch. 8 para. 5(3) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 24(2), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^M31]: 1955 c. 18.
+[^M32]: 1859 c. 40.
+[^M33]: 1921 c. 37.
+[^M34]: 1854 c. 105.
+[^M35]: 1953 c. 50.
+[^M36]: 1953 c. 50.
+[^M37]: 1966 c. 30.
+[^F232]: Sch. 8 para. 10 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 24(3), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^M38]: 1955 c. 18.
+[^M39]: 1955 c. 19.
+[^M40]: 1950 c. 32.
+[^M41]: 1950 c. 33.
+[^M42]: 1957 c. 32.
+[^F233]: Sch. 8 para. 13 repealed (1.7.1997) by 1997 c. 23, s. 8(4), Sch. 3 (with s. 8(3), Sch. 2 para. 7)
+[^F234]: Sch. 8 para. 14 repealed (1.7.1997) by 1997 c. 23, s, 8(4) Sch. 3 (with s. 8(3), Sch.2 para. 7)
+[^F235]: Sch. 8 para. 16 repealed (1.4.1997 except so far as relating to para. 16(2)(3)(5)-(10) the repeal of which is still*prosp*.) by 1996 c. 14 ss. 131(2), 132(4), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F236]: Sch. 8 para. 16(2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 24(4)(a), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^M43]: 1955 c. 18.
+[^M44]: 1961 c. 52.
+[^M45]: 1966 c. 45.
+[^F237]: Sch. 8 para. 16(5) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 24(4)(b), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^M46]: 1966 c. 45.
+[^F238]: Words in Sch. 8 para. 16(6) substituted (1.4.1997) by S.I. 1997/306, reg. 28.
+[^F239]: Words in Sch. 8 para. 16(9) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 24(4)(c); S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F240]: Sch. 8 para. 19 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 14 para. 24(5), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^M47]: 1977 c. 5.
+[^F241]: Sch. 9 repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2(1)
+[^M48]: S.I. 1976/1043 (N.I. 16).
+[^F242]: Sch. 9 para. 19 repealed (1.7.1994) by S.I. 1993/2668 (N.I. 11), arts. 18(4), Sch.8; S.R. 1994/215, art. 2
+[^M49]: S.I. 1976/2147 (N.I. 28).
+[^F243]: Sch. 19 para. 20 repealed (1.7.1994) by S.I. 1993/2668(N.I.11), arts. 18(4), Sch.8; S.R. 1994/215, art. 2
+[^F244]: Sch. 9 para. 21 repealed by S.I. 1980/870 (N.I. 8), Sch. 4 Pt II

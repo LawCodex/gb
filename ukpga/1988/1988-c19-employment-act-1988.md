@@ -1,0 +1,633 @@
+---
+title: "Employment Act 1988"
+identifier: "ukpga/1988/19"
+citation: "1988 c. 19"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1988-05-26
+last_amended: 2026-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1988/19"
+source_modified: 2026-05-13
+retrieved: 2026-10-11
+---
+
+# Employment Act 1988
+
+**1988 c. 19**
+
+An Act to make provision with respect to trade unions, their members and their property, to things done for the purpose of enforcing membership of a trade union, to trade union ballots and elections and to proceedings involving trade unions; to provide for the Manpower Services Commission to be known as the Training Commission; to amend the law with respect to the constitution and functions of that Commission and with respect to persons to whom facilities for work-experience and training for employment are made available; to enable additional members to be appointed to industrial training boards and to the Agricultural Training Board; and to provide that the terms on which certain persons hold office or employment under the Crown are to be treated for certain purposes as contained in contracts of employment.
+
+[26th May 1988]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — Trade Unions
+
+### Rights of trade union members
+
+#### [^F1]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F2]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F3]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F4]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F5]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F6]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F7]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Use of trade union funds
+
+#### [^F8]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F9]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The closed shop etc.
+
+#### [^F10]10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F11]11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Provisions as to ballots and elections
+
+#### [^F12]12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F13]13 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F14]14 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F15]15 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F16]16 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F17]17 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F18]18 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Commissioner for the Rights of Trade Union Members
+
+#### [^F19]19 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F20]20 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F21]21 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Procedure before the Certification Officer
+
+#### [^F22]22 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Interlocutory and interim orders
+
+#### [^F23]23 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part II — Employment and Training
+
+### 24 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F24]
+
+### 25 Functions of the Secretary of State and of the Commission.
+
+(1) For sections 2 and 3 of the 1973 Act (functions of the Commission and control of the Commission by the Secretary of State) there shall be substituted the following sections—
+
+> **2 Functions of the Secretary of State.**
+>
+> (1) The Secretary of State shall make such arrangements as he considers appropriate for the purpose of assisting persons to select, train for, obtain and retain employment suitable for their ages and capacities or of assisting persons to obtain suitable employees (including partners and other business associates).
+>
+> (2) Arrangements under this section may—
+>
+> (a) include arrangements for providing temporary employment for persons in Great Britain who are without employment;
+>
+> (b) include arrangements for encouraging increases in the opportunities for employment and training that are available to women and girls or to disabled persons;
+>
+> (c) subject to the restriction of paragraph (a) of this subsection to persons in Great Britain, be made in respect of employment and training anywhere in the United Kingdom or elsewhere;
+>
+> (d) include provision for the making of payments by the Secretary of State, by way of grant or loan or otherwise, to persons who provide facilities in pursuance of the arrangements, to persons who use those facilities and to other persons specified in or determined under the arrangements;
+>
+> (e) include provision for the making of payments to the Secretary of State by other parties to the arrangements and by persons who use those facilities;
+>
+> (f) include arrangements for securing that assistance in relation to the matters mentioned in subsection (1) of this section is provided by persons other than the Secretary of State.
+>
+> (3) The payments for which arrangements under this section may provide—
+>
+> (a) shall include the payment to a person by the Secretary of State of an allowance pending a time when payments will be or may be made to that person in respect of his use of facilities which will be or may be made available to him under any such arrangements;
+>
+> (b) shall not include the payment of any such allowance to a person—
+>
+> (i) for any period after that person has attained the age of eighteen years; or
+>
+> (ii) for any period for which child benefit is payable in respect of that person;
+>
+> and
+>
+> (c) shall not include any payment by any person to the Secretary of State, other than a payment for publications issued in pursuance of the arrangements, in respect of the seeking or obtaining for that person of any employment under a contract of service or apprenticeship.
+>
+> (4) Without prejudice to paragraph (f) of subsection (2) of this section, the Secretary of State may wholly or partly perform his duty under subsection (1) of this section by authorising or directing the Commission to act on his behalf—
+>
+> (a) in the making of arrangements under this section in such cases or for such purposes as may be specified in or determined under the authorisation or direction;
+>
+> (b) in the taking of such steps for the purposes of, or in connection with, the carrying out of any arrangements under this section (including any made otherwise than by the Commission) as may be so specified or determined;
+>
+> (c) in the carrying out of such of the Secretary of State’s functions under sections 11(3) and 12(4) of this Act as may be so specified or determined.
+>
+> (5) No payments shall be made by or on behalf of the Secretary of State by virtue of any power conferred by this section, other than payments under section 11(3) or 12(4) of this Act, unless the Treasury have approved—
+>
+> (a) the amounts of the payments or the manner of determining those amounts; and
+>
+> (b) the terms on which they are made or the manner of determining those terms.
+>
+> (6) The powers of any Minister of the Crown to give authorisations or directions under this section or the following section shall include power to revoke or vary any authorisation or direction so given.
+>
+> **3 Functions of the Commission.**
+>
+> (1) Subject to the following provisions of this Act, the functions of the Commission shall be—
+>
+> (a) a power to do all such things as it is authorised to do under the preceding section and to do such other things in connection with training for employment, or otherwise with employment or unemployment, as it may be authorised to do by any Minister of the Crown;
+>
+> (b) a duty to do all such things as it is required to do under that section and to do all such other things in connection with training for employment, or otherwise with employment or unemployment, as may be specified in or determined under a direction given to it by any Minister of the Crown.
+>
+> (2) The Commission shall—
+>
+> (a) from time to time submit to the Secretary of State particulars of what it proposes to do for the purpose of carrying out its functions; and
+>
+> (b) ensure that all its activities are in accordance with such proposals submitted by it to the Secretary of State as have been approved by him and with such modifications (if any) of any proposals so submitted as are notified to the Commission by the Secretary of State.
+>
+> (3) The Secretary of State shall have power to give directions to the Commission imposing such general or specific requirements on it as to the carrying out of any of its functions as may be specified in or determined under the directions.
+>
+> (4) The Commission shall have power to do anything (except borrow money) which is calculated to facilitate, or is conducive or incidental to, the carrying out of any of its functions.
+>
+> (5) The power of a Minister of the Crown by virtue of paragraph (a) or (b) of subsection (1) of this section to authorise or direct the Commission to do anything shall include the power to delegate powers conferred on him by any enactment; but nothing in this section shall authorise any Minister of the Crown to delegate a power to make subordinate legislation (within the meaning of the Interpretation Act 1978).
+
+(2) Schedule 2 to this Act (which for purposes connected with the provisions of subsection (1) above further amends the 1973 Act and provides for transitional and other matters) shall have effect.
+
+### 26 Status of trainees etc.
+
+(1) Where it appears to the Secretary of State that provision has been made under section 2 of the 1973 Act [[^F25], or under section 2(3) [[^F26]or section 14A] of the Enterprise and New Towns (Scotland) Act 1990,]for persons using facilities provided in pursuance of arrangements under [[^F27]any of those three sections] to receive payments from any person in connection with their use of those facilities, the Secretary of State may by order provide—
+
+(a) that those persons are, for the purposes and in the cases specified or described in or determined under the order, to be treated in respect of their use of those facilities as being or as not being employed;
+
+(b) that where those persons are treated as being employed they are to be treated as being the employees of the persons so specified, described or determined and of no others;
+
+(c) that where those persons are treated as not being employed they are to be treated as being trained, or are to be treated in such other manner as may be so specified, described or determined; and
+
+(d) that those payments are to be treated for the purposes of such enactments and subordinate legislation as may be so specified, described or determined in such manner as may be so specified, described or determined.
+
+[[^F28](1A) The Secretary of State may make an order under subsection (1B) where it appears to the Secretary of State that provision has been made for trainees to receive payments—
+
+(a) from the Secretary of State under section 14 of the Education Act 2002,
+
+(b) [^F29]...or
+
+(c) from the Welsh Ministers [[^F30]or the Commission for Tertiary Education and Research under section 97(1)(d) or (e) of the Tertiary Education and Research (Wales) Act 2022].
+
+(1B) An order under this subsection may provide—
+
+(a) that the trainees are, for the purposes and in the cases specified or described in or determined under the order, to be treated in respect of the training as being or as not being employed;
+
+(b) that where the trainees are treated as being employed they are to be treated as being the employees of the persons so specified, described or determined and of no others;
+
+(c) that where the trainees are treated as not being employed, they are to be treated in such other manner as may be so specified, described or determined; and
+
+(d) that the payments are to be treated for the purposes of such enactments and subordinate legislation as may be so specified, described or determined in such manner as may be so specified, described or determined.
+
+For the purposes of subsection (1A) and this subsection, trainees are persons receiving or proposing to receive training.]
+
+(2) The power to make an order under this section shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament; and such an order may—
+
+(a) modify any enactment or subordinate legislation;
+
+(b) make different provision for different purposes and for different cases; and
+
+(c) contain such incidental, consequential and transitional provision as appears to the Secretary of State to be appropriate.
+
+(3) The consent of the Treasury shall be required for the making of any order under this section which contains provision for the manner in which any payment is to be treated for the purposes of the Income Tax Acts.
+
+(4) In this section—
+
+- “ enactment ” includes an enactment contained in this Act or in any Act passed after this Act; and
+- “ subordinate legislation ” has the same meaning as in the [^M1] Interpretation Act 1978.
+
+### [^F31]27 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 28 Amendment of section 4 of the 1973 Act.
+
+(1) In subsection (3)(e) of section 4 of the 1973 Act (power of Secretary of State or Commission to disclose information obtained under the [^M2]Statistics of Trade Act 1947 to certain persons so far as it relates to certain matters), after the word “to”, in the first place where it occurs, there shall be inserted the words—
+
+> (i) any person who is or is to be engaged in the carrying out on behalf of the Secretary of State or the Commission of any research or survey relating to matters connected with training for employment, with industrial relations or otherwise with employment or unemployment; or
+>
+> (ii)
+
+.
+
+(2) In subsection (5) of that section (limitation on use to which disclosed information may be put), after paragraph (c) there shall be inserted the following paragraph—
+
+> (cc) in the case of information given to such a person as is mentioned in paragraph (e)(i) of that subsection, a purpose related to the carrying out of the research or survey in the carrying out of which that person is or is to be engaged;
+
+.
+
+### 29 Membership of training boards.
+
+(1) In Schedule 1 to the [^M3]Industrial Training Act 1982, after sub-paragraph (b) of paragraph 3 (membership of boards) there shall be inserted the following sub-paragraph —
+
+> (c) any additional persons appointed by the Secretary of State, being persons whom it appeared to the Secretary of State to be appropriate to appoint in addition to those appointed by virtue of sub-paragraph (a) or (b) above;
+
+[^F32]...[^M4][^F32]...[^F32]...[^F32]...
+
+(2) For paragraph 6 of Schedule 1 to the Industrial Training Act 1982 (voting on matters relating to the imposition of a levy) there shall be substituted the following paragraph —
+
+> **6** Only members appointed by virtue of sub-paragraph (a) of paragraph 3 above after such consultation with organisations or associations of organisations representative of employers engaging in the industry as is required by that sub-paragraph shall vote on any matter relating to the imposition of a levy; and, accordingly, no such matter shall be decided except in accordance with the votes of the majority of the members who were so appointed.
+
+(3) Subsection (4) of section 1 of the Industrial Training Act 1982 (consultation required before an industrial training order is made) shall not apply in relation to the making of any order under that section which amends one or more other orders under that section and contains a statement that the only amendments made by the order are amendments which appear to the Secretary of State to be necessary or expedient in consequence of the preceding provisions of this section.
+
+## Part III — Miscellaneous and Supplemental
+
+### Miscellaneous
+
+#### [^F33]30 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Supplemental
+
+#### 31 Financial provisions.
+
+There shall be paid out of money provided by Parliament any increases attributable to this Act in the sums payable under any other Act out of money so provided.
+
+#### 32 Interpretation.
+
+(1) In this Act, except in so far as the context otherwise requires—
+
+- [^F34]. . .
+- “the 1973 Act” means the [^M5]Employment and Training Act 1973;
+- [^F34]. . .
+- [^F34]. . .
+- [^F34]. . .
+- [^F34]. . .
+- [^F34]. . .
+- [^F34]. . .
+- [^F34]. . .
+- [^F34]. . .
+- [^F34]. . .
+- [^F34]. . .
+- [^F34]. . .
+- [^F34]. . .
+- “modifications” includes additions, alterations and omissions, and cognate expressions shall be construed accordingly;
+- [^F34]. . .
+
+[^F35]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 33 Minor and consequential amendments and repeals.
+
+(1) The enactments mentioned in Schedule 3 to this Act shall have effect subject to the amendments specified in that Schedule (being minor amendments and amendments consequential on the provisions of this Act).
+
+(2) The enactments mentioned in Schedule 4 to this Act are hereby repealed to the extent specified in the third column of that Schedule.
+
+#### 34 Short title, commencement and extent.
+
+(1) This Act may be cited as the Employment Act 1988.
+
+[^F36]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F36]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) An Order in Council under paragraph 1(1)(b) of Schedule 1 to the [^M6]Northern Ireland Act 1974 (legislation for Northern Ireland in the interim period) which states that it is made only for purposes corresponding to those of any provision of this Act to which this subsection applies—
+
+(a) shall not be subject to paragraph 1(4) and (5) of that Schedule (affirmative resolution of both Houses of Parliament); but
+
+(b) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) The provisions of this Act to which subsection (4) above applies are—
+
+(a) section 25(1), in so far as it relates to the new section 2(1), (2), (3) and (5) of the 1973 Act substituted by that provision;
+
+(b) section 26; and
+
+(c) section 27.
+
+(6) This Act, except for the following provisions, shall not extend to Northern Ireland, that is to say, this section and—
+
+[^F37]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F37]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) section 33 so far as it gives effect to any amendment or repeal specified in Schedule 3 or 4 to this Act of any provision which so extends;
+
+[^F37]. . .
+
+## [^F38]SCHEDULE 1
+
+### Terms of appointment
+
+**1** (1) The appointment of a person to hold office as the Commissioner shall be for a term not exceeding five years; but previous appointment to that office shall not affect eligibility for re-appointment.
+
+(2) The Secretary of State may remove any person from the office of Commissioner if he is satisfied—
+
+(a) that that person has been adjudged bankrupt, that his estate has been sequestrated or that he has made a composition or arrangement with, or granted a trust deed for, his creditors;
+
+(b) that that person is incapacitated by physical or mental illness; or
+
+(c) that that person is otherwise unable or unfit to discharge his functions as the Commissioner.
+
+(3) Subject to sub-paragraphs (1) and (2) above, the Commissioner shall hold and vacate office as such in accordance with the terms of his appointment.
+
+### Remuneration, pensions etc.
+
+**2** (1) There shall be paid to the Commissioner such remuneration, and such travelling and other allowances, as the Secretary of State may determine.
+
+(2) In the case of any such holder of the office of the Commissioner as may be determined by the Secretary of State, there shall be paid such pension, allowance or gratuity to or in respect of him on his retirement or death, or such contributions or payments towards provision for such a pension, allowance or gratuity, as may be so determined.
+
+(3) If, when any person ceases to hold office as the Commissioner, the Secretary of State determines that there are special circumstances which make it right that he should receive compensation, there may be paid to him a sum by way of compensation of such amount as may be so determined.
+
+(4) The consent of the Treasury shall be required for the making of a determination under this paragraph.
+
+(5) Payments required to be made under this paragraph shall be made by the Secretary of State out of money provided by Parliament.
+
+### Staff
+
+**3** (1) The Commissioner may, with the approval of the Secretary of State as to numbers and terms and conditions of service, appoint such staff as the Commissioner may determine.
+
+(2) The consent of the Treasury shall be required for the giving of an approval under sub-paragraph (1) above.
+
+**4** (1) Anything authorised or required by or under this Act to be done by the Commissioner may be done by any member of the staff of the Commissioner who is authorised for the purpose, whether generally or specially, by the Commissioner.
+
+(2) An authorisation given for the purposes of this paragraph shall continue to have effect during any vacancy in the office of Commissioner.
+
+**5** (1) Employment as a member of the staff of the Commissioner shall be included among the kinds of employment to which a superannuation scheme under section 1 of the [^M7]Superannuation Act 1972 may apply.
+
+(2) Where a person who is employed by the Commissioner and is by reference to that employment a participant in a scheme under section 1 of the [^M8]Superannuation Act 1972 becomes the Commissioner, the Treasury may determine that his service as the Commissioner shall be treated for the purposes of the scheme as service as an employee of the Commissioner; and his rights under the scheme shall not be affected by any of the preceding provisions of this Schedule.
+
+**6** The [^M9]Employers’ Liability (Compulsory Insurance) Act 1969 shall not require insurance to be effected by the Commissioner.
+
+### Payment of travelling expenses etc. to applicants
+
+**7** (1) The Commissioner may, with the approval of the Secretary of State, make such provision as the Commissioner considers appropriate for the payment by him to persons who apply for assistance under section 20 of this Act of sums in respect of travelling and other expenses incurred by them in connection with their applications.
+
+(2) The consent of the Treasury shall be required for the giving of an approval under sub-paragraph (1) above.
+
+### Financial provisions
+
+**8** (1) The Secretary of State shall, out of money provided by Parliament, pay to the Commissioner such sums as the Secretary of State may determine are required by the Commissioner for the purpose of carrying out his functions.
+
+(2) The consent of the Treasury shall be required for the making of a determination under sub-paragraph (1) above.
+
+**9** (1) It shall be the duty of the Commissioner—
+
+(a) to keep proper accounts and proper records in relation to the accounts;
+
+(b) to prepare in respect of each financial year a statement of accounts in such form as the Secretary of State may with the approval of the Treasury direct; and
+
+(c) to send copies of each such statement to the Secretary of State and the Comptroller and Auditor General not later than the 30th November following the end of the financial year to which the statement relates.
+
+(2) The Comptroller and Auditor General shall examine, certify and report on each statement of accounts sent to him by the Commissioner and shall lay a copy of every such statement and of his report before each House of Parliament.
+
+### Annual report
+
+**10** (1) As soon as reasonably practicable after the end of each financial year the Commissioner shall prepare a report on his activities during that year and shall send a copy of that report to the Secretary of State.
+
+(2) The Secretary of State shall lay a copy of every such report before each House of Parliament.
+
+### Miscellaneous
+
+**11** The Commissioner shall have an official seal for the authentication of documents required for the purposes of his functions.
+
+**12** In the [^M10]Parliamentary Commissioner Act 1967, in Schedule 2 (departments and authorities subject to investigation), there shall be inserted (at the appropriate place) the following entry—
+
+> Office of the Commissioner for the Rights of Trade Union Members.
+
+**13** In the [^M11]House of Commons Disqualification Act 1975, in Part III of Schedule 1 (other disqualifying offices), there shall be inserted (at the appropriate place) the following entry—
+
+> Commissioner for the Rights of Trade Union Members.
+
+;
+
+and the like insertion shall be made in Part III of Schedule 1 to the [^M12]Northern Ireland Assembly Disqualification Act 1975.
+
+### Interpretation
+
+**14** In this Schedule “financial year” means the twelve months ending with 31st March.
+
+## SCHEDULE 2 — Provisions Supplemental to Section 25
+
+*Section 25.*
+
+### Further amendments of the 1973 Act
+
+**1** In section 11(3) of the 1973 Act (power of Commission to make payments in respect of injuries or diseases)—
+
+(a) for the word “Commission”, in the first and third places where it occurs, there shall be substituted the words “ Secretary of State ”; and
+
+(b) for the words “by the Commission or” there shall be substituted the words “ by or on behalf of the Secretary of State or by ”.
+
+**2** (1) In subsection (1) of section 12 of the 1973 Act (duty of Commission to give preference to certain categories of disabled persons)—
+
+(a) for the word “Commission” there shall be substituted the words “ Secretary of State ”; and
+
+(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F39]
+
+(c) for the words “it or he” there shall be substituted the words “ he or it ”.
+
+(2) After that subsection, there shall be inserted the following subsection—
+
+> (1A) It shall be the duty of the Commission and of each local education authority to furnish the Secretary of State with such information in its possession as the Secretary of State may specify as being information required by him in connection with the determination of questions relating to the exercise by him of any power under this Act to make payments to any persons; and any information falling to be furnished in pursuance of this subsection shall be furnished in such form and at such times as the Secretary of State may direct.
+
+(3) In subsection (4) of that section (power of Commission to make payments in connection with an examination for the purposes of a claim for a payment under section 11(3))—
+
+(a) for the word “Commission”, in the first and third places where it occurs, there shall be substituted the words “ Secretary of State ”; and
+
+(b) for the words “are approved by the Secretary of State and which the Commission” there shall be substituted the words “ , in the case of payments by such a board, are approved by the Secretary of State and which the Secretary of State ”.
+
+**3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F40]
+
+### Incidental and transitional provisions
+
+**4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F41]
+
+**5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F42]
+
+**6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F43]
+
+**7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F44]
+
+### Interpretation
+
+**8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F45]
+
+## SCHEDULE 3 — Minor and Consequential Amendments
+
+*Section 33.*
+
+### Part I — Trade Unions
+
+#### The Trade Union Act 1913 (c. 30)
+
+**[^F46]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Employment Protection (Consolidation) Act 1978 (c. 44)
+
+**[^F47]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Employment Act 1980 (c. 42)
+
+**[^F48]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Employment Act 1982 (c. 46)
+
+**[^F49]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Trade Union Act 1984 (c. 49)
+
+**[^F50]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Wages Act 1986 (c. 48)
+
+**[^F51]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part II — Employment and Training
+
+**7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F52]
+
+**8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F53]
+
+**9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F54]
+
+**10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F55]
+
+#### The Sex Discrimination Act 1975 (c. 65)
+
+**11** (1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F56]
+
+(2) In subsection (1) of section 16 of that Act (under which it is unlawful for the Manpower Services Commission to discriminate in the provision of facilities or services under section 2 of the 1973 Act), for the words “Manpower Services Commission” there shall be substituted the words “ Secretary of State or the Training Commission ”.
+
+#### The Race Relations Act 1976 (c. 74)
+
+**12** (1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F57]
+
+(2) In subsection (1) of section 15 of that Act (under which it is unlawful for the Manpower Services Commission to discriminate in the provision of facilities or services under section 2 of the 1973 Act), for the words “Manpower Services Commission” there shall be substituted the words “ Secretary of State or the Training Commission ”.
+
+(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F57]
+
+#### The Agricultural Training Board Act 1982 (c. 9)
+
+**[^F58]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The Industrial Training Act 1982 (c. 10)
+
+**14** (1) In section 5(3)(e) of the Industrial Training Act 1982 (power of industrial training board to take part in arrangements in pursuance of the 1973 Act), for the words “section 2(1) or (2), 3(4)” there shall be substituted the words “ section 2, 3 ”.
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F59]
+
+#### The Income and Corporation Taxes Act 1988 (c. 1)
+
+**[^F60]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — Repeals
+
+*Section 33.*
+
+|  |  |  |
+|---|---|---|
+| 2 & 3 Geo. V c. 30. | The Trade Union Act 1913. | In section 4(1F), the definition of “working hours” and the word “and” immediately preceding that definition. |
+| 1964 c. 24. | The Trade Union (Amalgamations, etc.) Act 1964. | Section 4(6). |
+|  |  | Schedule 1. |
+| 1967 c. 13. | The Parliamentary Commissioner Act 1967. | In Schedule 2, the words “Manpower Services Commission”. |
+| 1973 c. 50. | The Employment and Training Act 1973. | In section 4(2), the words from “Without” to “preceding section,”. |
+|  |  | In section 5, subsection (1) and, in subsection (4), the words “(1) or”. |
+|  |  | In section 11(3), the words from “and the Secretary of State” onwards. |
+|  |  | In section 12(4), the words from “and the Secretary of State” onwards. |
+| 1975 c. 14. | The Social Security Act 1975. | In section 20(1), the word “or” at the end of paragraph (d). |
+| 1975 c. 24. | The House of Commons Disqualification Act 1975. | In Part III of Schedule 1, the words “Chairman of the Manpower Services Commission.” |
+| 1975 c. 25. | The Northern Ireland Assembly Disqualification Act 1975. | In Part III of Schedule 1, the words “Chairman of the Manpower Services Commission.” |
+| 1975 c. 71. | The Employment Protection Act 1975. | In Schedule 14, paragraph 2(1). |
+| 1977 c. 5. | The Social Security (Miscellaneous Provisions) Act 1977. | Section 22(6). |
+| 1978 c. 44. | The Employment Protection (Consolidation) Act 1978. | In section 23, in subsection (1), the words “Subject to the following provisions of this section,” and subsections (2A) and (2B). |
+|  |  | In section 58, in subsection (1), the words “Subject to subsection (3),” and subsections (3) to (12). |
+|  |  | Section 58A. |
+| 1978 c. 44. *—cont.* | The Employment Protection (Consolidation) Act 1978. *—cont.* | In section 153(1), the words from “ “union membership agreement”” to “section 30(5A) of that Act;”. |
+| 1980 c. 39. | The Social Security ( No. 2) Act 1980. | Section 7(7). |
+| 1980 c. 42. | The Employment Act 1980. | Section 15(2). |
+| 1982 c. 46. | The Employment Act 1982. | Section 10(1) and (2). |
+|  |  | In Schedule 3, paragraph 16. |
+| 1984 c. 49. | The Trade Union Act 1984. | In section 1(1) to (3), the word “voting”, wherever it occurs. |
+|  |  | Section 3. |
+|  |  | Section 6(6). |
+|  |  | In section 8(1), the word “voting”. |
+|  |  | In section 9(1), the definition of “working hours” and the word “and” immediately preceding that definition. |
+
+---
+
+[^F1]: S. 1 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F2]: S. 2 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F3]: S. 3 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F4]: S. 4 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F5]: S. 5 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F6]: S. 6 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F7]: S. 7 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F8]: S. 8 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F9]: S. 9 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F10]: S. 10 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F11]: S. 11 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F12]: S. 12 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F13]: S. 13 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F14]: S. 14 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F15]: S. 15 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F16]: S. 16 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F17]: S. 17 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F18]: S. 18 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F19]: S. 19 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F20]: S. 20 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F21]: S. 21 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F22]: S. 22 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F23]: S. 23 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F24]: S. 24 repealed by Employment Act 1989 (c. 38, SIF 43:1), s. 29(4), Sch. 7 Pt. I
+[^F25]: Words in s. 26(1) inserted (1.4.1991) by Enterprise and New Towns (Scotland) Act 1990 (c. 35, SIF 64) , s. 38(1) , Sch. 4 para. 16(a)
+[^F26]: Words in s. 26(1) inserted (30.8.1993) by 1993 c. 19 , s. 49(2) , Sch. 8 para. 38(a) ; S.I. 1993/1908 , art. 2(1) , Sch. 1
+[^F27]: Words in s. 26(1) (as substituted by Enterprise and New Towns (Scotland) Act 1990 c. 35 ) substituted (30.8.1993) by 1993 c. 19 , s. 49(2) , Sch. 8 para. 38(b) ; S.I. 1993/1908 , art. 2(1) , Sch. 1
+[^F28]: S. 26(1A)(1B) substituted for s. 26(1A) (1.4.2012) by Education Act 2011 (c. 21), s. 82(3), Sch. 16 para. 7; S.I. 2012/924, art. 2
+[^F29]: S. 26(1A)(b) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(3)(g), Sch. 14 para. 34
+[^F30]: Words in s. 26(1A) substituted (1.4.2026) by Tertiary Education and Research (Wales) Act 2022 (asc 1), s. 148(2), Sch. 4 para. 4(2) (with s. 19); W.S.I. 2026/62, art. 2(ww)(i)
+[^M1]: 1978 c. 30 .
+[^F31]: S. 27 repealed (01.07.1992) by Social Security (Consequential Provisions) Act 1992 (c. 6), ss. 3, 7(2), Sch. 1 (subject as mentioned (6.3.1992) in Local Government Finance Act 1992 (c. 14), s. 118(5)(7) (with s. 118(1)(2)(4))).
+[^M2]: 1947 c. 39.
+[^M3]: 1982 c. 10.
+[^F32]: Words in s. 29(1) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 2 Group 2
+[^M4]: 1982 c. 9.
+[^F33]: S. 30 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F34]: Definitions in s. 32(1) repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^M5]: 1973 c. 50.
+[^F35]: S. 32(2) repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F36]: S. 34(2)(3) repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^M6]: 1974 c. 28.
+[^F37]: S. 34(6)(a)(b) and words following paragraph (c) repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F38]: Sch. 1 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^M7]: 1972 c. 11.
+[^M8]: 1972 c. 11.
+[^M9]: 1969 c. 57.
+[^M10]: 1967 c. 13.
+[^M11]: 1975 c. 24.
+[^M12]: 1975 c. 25.
+[^F39]: Sch. 2 paras. 2(1)(b), 3–8 repealed by Employment Act 1989 (c. 38, SIF 43:1), s. 29(4), Sch. 7 Pt. I
+[^F40]: Sch. 2 paras. 2(1)(b), 3–8 repealed by Employment Act 1989 (c. 38, SIF 43:1), s. 29(4), Sch. 7 Pt. I
+[^F41]: Sch. 2 paras. 2(1)(b), 3–8 repealed by Employment Act 1989 (c. 38, SIF 43:1), s. 29(4), Sch. 7 Pt. I
+[^F42]: Sch. 2 paras. 2(1)(b), 3–8 repealed by Employment Act 1989 (c. 38, SIF 43:1), s. 29(4), Sch. 7 Pt. I
+[^F43]: Sch. 2 paras. 2(1)(b), 3–8 repealed by Employment Act 1989 (c. 38, SIF 43:1), s. 29(4), Sch. 7 Pt. I
+[^F44]: Sch. 2 paras. 2(1)(b), 3–8 repealed by Employment Act 1989 (c. 38, SIF 43:1), s. 29(4), Sch. 7 Pt. I
+[^F45]: Sch. 2 paras. 2(1)(b), 3–8 repealed by Employment Act 1989 (c. 38, SIF 43:1), s. 29(4), Sch. 7 Pt. I
+[^F46]: Sch. 3 para. 1 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F47]: Sch. 3 para. 2 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F48]: Sch. 3 para. 3 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F49]: Sch. 3 para. 4 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F50]: Sch. 3 para. 5 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F51]: Sch. 3 para. 6 repealed (16.10.1992) by Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52), ss. 300(1), 302, Sch.1 (with Sch. 3 para. 2).
+[^F52]: Sch. 3, Pt. II paras. 7–10 repealed by Employment Act 1989 (c. 38, SIF 43:1), s. 29(4), Sch. 7 Pt. I
+[^F53]: Sch. 3, Pt. II paras. 7–10 repealed by Employment Act 1989 (c. 38, SIF 43:1), s. 29(4), Sch. 7 Pt. I
+[^F54]: Sch. 3, Pt. II paras. 7–10 repealed by Employment Act 1989 (c. 38, SIF 43:1), s. 29(4), Sch. 7 Pt. I
+[^F55]: Sch. 3, Pt. II paras. 7–10 repealed by Employment Act 1989 (c. 38, SIF 43:1), s. 29(4), Sch. 7 Pt. I
+[^F56]: Sch. 3, Pt. II paras. 11(1), 12(1)(3) repealed by Employment Act 1989 (c. 38, SIF 43:1), s. 29(4), Sch. 7 Pt. II
+[^F57]: Sch. 3, Pt. II paras. 11(1), 12(1)(3) repealed by Employment Act 1989 (c. 38, SIF 43:1), s. 29(4), Sch. 7 Pt. II
+[^F58]: Sch. 3 para. 13 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 2 Group 2
+[^F59]: Sch. 3, Pt. II para. 14(2) repealed by Employment Act 1989 (c. 38, SIF 43:1), s. 29(4), Sch. 7 Pt. I
+[^F60]: Sch. 3 para. 15 repealed (6.4.2005) by Income Tax (Trading and Other Income) Act 2005 (c. 5), s. 883(1), Sch. 3 (with Sch. 2)

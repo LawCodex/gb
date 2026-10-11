@@ -1,0 +1,2230 @@
+---
+title: "Local Government (Miscellaneous Provisions) Act 1976"
+identifier: "ukpga/1976/57"
+citation: "1976 c.57"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W"
+date: 1976-11-15
+last_amended: 2026-06-29
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1976/57"
+source_modified: 2026-07-08
+retrieved: 2026-10-11
+---
+
+# Local Government (Miscellaneous Provisions) Act 1976
+
+**1976 c.57**
+
+An Act to make amendments for England and Wales of provisions of the law which relates to local authorities or highways and is commonly amended by local Acts; to alter certain supplemental provisions of the enactments relating to public health; to provide for certain powers of local authorities to execute works to be exercisable outside their areas; to provide for certain future local enactments and orders to have effect subject to certain other enactments; to amend section 126 of the Housing Act 1974; and for purposes connected with the matters aforesaid.
+
+[15th November 1976]
+
+## Part I — General
+
+### Highways
+
+#### [^F1]1–6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 7 Control of road-side sales.
+
+(1) If a highway authority considers that, for the purpose of avoiding danger on or facilitating the passage of traffic over a highway for which it is the highway authority, it is appropriate to make an order under this subsection in respect of the highway, the authority may make an order (hereafter in this section referred to as a “control order”) specifying the highway and providing that, subject to subsection (5) of this section—
+
+(a) no person shall sell anything on the highway or offer or expose anything for sale on the highway; and
+
+(b) no person shall, for the purpose of selling anything or offering or exposing anything for sale on the highway or of attracting from users of the highway offers to buy anything, put, keep or use on the highway, or on land within fifteen metres from any part of the highway any stall or similar structure or any container or vehicle.
+
+(2) The highway authority for a highway in respect of which a control order is in force may vary or revoke the order by a subsequent order.
+
+(3) [[^F2]Paragraphs 20 to 23, paragraph 24 (except so much of it as relates to appeals by district councils) and paragraph 25 of Schedule 9 to the Road Traffic Regulation Act 1984](which relate to the procedure for making orders under the provisions of that Act mentioned in [[^F2]paragraphs 20(1) and 24(*a*) and (*b*) of that Schedule]) shall have effect as if subsections (1) and (2) of this section were included among those provisions.
+
+(4) If a person contravenes a control order which is in force for a highway, the highway authority for the highway may by a notice served on him require him not to contravene the order after a date specified in the notice (which must not be before the expiration of the period of 7 days beginning with the date of service of the notice); and—
+
+(a) if a person on whom a notice relating to a contravention of a control order is served in pursuance of this subsection contravenes the order after the expiration of that period, or causes, permits or procures another person to contravene it after the expiration of that period, he shall be guilty of an offence and liable on summary conviction to a fine not exceeding [[^F3]level 3 on the standard scale];
+
+(b) if a contravention in respect of which a person is convicted of an offence in pursuance of the preceding paragraph is continued by him after the expiration of the period of 7 days beginning with the date of the conviction he shall, as respects each day on which the contravention is so continued, be guilty of a further offence and liable on summary conviction to a fine not exceeding £10.
+
+(5) A control order does not apply—
+
+(a) to anything done at premises used as a shop or petrol filling station either—
+
+(i) in pursuance of planning permission granted or deemed to be granted under [[^F4]the [^M1]Town and Country Planning Act 1990], or
+
+(ii) in a case where the premises are, without such permission, lawfully used as a shop or petrol filling station, or
+
+[^F5]iii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) to anything done at a market in respect of which tolls, stallages or rents are payable;
+
+(c) to the sale, offer or exposure for sale of things from or on a vehicle which is used only for the purpose of itinerant trading with the occupiers of premises or which is used only for that purpose and for purposes other than trading;
+
+(d) to such a vehicle as is mentioned in the preceding paragraph or to containers on the vehicle;
+
+(e) to, or to containers used in connection with, the sale, offer or exposure for sale, by or on behalf of the occupier of land used for agriculture and on that land, of agricultural produce produced on that land;
+
+(f) to the provision, in a lay-by situated on a highway, of facilities for the purchase of refreshments by persons travelling on the highway or on another highway near to the highway;
+
+(g) to anything as respects which the control order provides that the order is not to apply to it.
+
+In paragraph (*e*) of this subsection “agriculture” and “agricultural” have the same meanings as in the [^M2]Agriculture Act 1947.
+
+(6) References in the preceding provisions of this section to a control order are, in the case of a control order which has been varied in pursuance of subsection (2) of this section, references to the order as so varied.
+
+### Housing
+
+#### [^F6]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F7]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Heating etc
+
+#### 11 Production and supply of heat etc. by local authorities.
+
+(1) Subject to subsections (2) and (3) of this section, a local authority may—
+
+(a) produce heat or electricity or both;
+
+(b) establish and operate such generating stations and other installations as the authority thinks fit for the purpose of producing heat or electricity or both;
+
+(c) buy or otherwise acquire heat;
+
+(d) use, sell or otherwise dispose of heat produced or acquired [[^F8]or electricity produced]by the authority by virtue of this section;
+
+(e) without prejudice to the generality of the preceding paragraph, enter into and carry out agreements for the supply by the authority, to premises within or outside the authority’s area, of such heat as is mentioned in the preceding paragraph and steam produced from and air and water heated by such heat.
+
+[[^F9](2) Nothing in subsection (1) of this section shall be construed as exempting a local authority from the requirements of Part I of the Electricity Act 1989.
+
+(3) Except in such cases as may be prescribed, a local authority shall not be entitled to sell electricity which is produced otherwise than in association with heat.]
+
+(4) A local authority may—
+
+(a) construct, lay and maintain pipes and associated works for the purpose of conveying heat produced or acquired by the authority by virtue of this section and steam produced from and air and water heated by such heat;
+
+(b) contribute towards the cost incurred by another person in providing or maintaining pipes or associated works which are connected with pipes provided by the authority in pursuance of the preceding paragraph.
+
+(5) Parts V and VI of Schedule 3 to the [^M3]Water Act 1945 (which relate to the laying of mains and the breaking open of streets) shall apply in relation to pipes and associated works provided or to be provided in pursuance of paragraph (*a*) of the preceding subsection as those Parts apply in relation to water mains and pipes but as if—
+
+(a) sections 19(4) and 21 of that Schedule (which relate to the erection of street notices and the laying of service pipes) were omitted, and in section 22 of that Schedule the words “which they are authorised to lay” were omitted; and
+
+(b) for any reference to undertakers or limits of supply there were substituted respectively a reference to the authority in question and the area of the authority; and
+
+(c) for the reference to the special Act in section 25(4) of that Schedule there were substituted a reference to this subsection.
+
+(6) It shall be the duty of a local authority by which an installation for producing heat is operated in pursuance of this section in any year to furnish to the Secretary of State, as soon as practicable after the end of that year, such particulars relating to the installation and heat produced at it as are prescribed.
+
+(7) In this section—
+
+- “associated works”, in relation to pipes, means any of the following connected with the pipes, namely, any valve, filter, stopcock, pump, meter, inspection chamber and manhole and such other works as are prescribed;
+- [^F10]. . . and
+- “prescribed” means prescribed by regulations made by statutory instrument by the Secretary of State [[^F11]which, in the case of regulations under subsection (3) of this section, shall be subject to annulment in pursuance of a resolution of either House of Parliament];
+
+and nothing in this section (except the restrictions imposed by subsection (3)) shall be construed as prejudicing any power exercisable by a local authority [[^F12](in its capacity as such)]apart from this section.
+
+#### 12 Provisions supplementary to s. 11.
+
+(1) A local authority which supplies or proposes to supply heat, hot air, hot water or steam in pursuance of the preceding section may make byelaws—
+
+(a) with respect to the works and apparatus to be provided or used by persons other than the authority in connection with the supply;
+
+(b) for preventing waste and unauthorised use of the supply and unauthorised interference with works and apparatus used by the authority or any other person in connection with the supply;
+
+(c) providing for any specified contravention of the byelaws to be an offence punishable on summary conviction with a fine of such an amount, not exceeding [[^F13]level 3 on the standard scale], as is specified in the byelaws.
+
+(2) Subsections (1) to (5) of section 82 of Schedule 3 to the [^M4]Water Act 1945 (which relates to the entry of premises by authorised officers of water undertakers) shall have effect for the purpose of authorising the entry of premises by authorised officers of an authority which provides or proposes to provide such a supply as is mentioned in the preceding subsection as if for any reference to undertakers there were substituted a reference to the authority and as if in subsection (1) of that section—
+
+(a) for paragraph (*a*) there were substituted the following paragraph—
+
+> (a) for the purpose of installing, examining, adjusting, removing or reading any meter used or to be used by the authority for measuring the heat, hot air, hot water or steam supplied or to be supplied by the authority;
+
+(b) for the words from “the special Act” onwards in paragraph (*b*) there were substituted the words “ byelaws in force by virtue of section 12 of the Local Government (Miscellaneous Provisions) Act 1976 ”; and
+
+(c) for the words “the special Act” in paragraphs (*c*) and (*d*) there were substituted the words “ section 11 of that Act ”.
+
+(3) [[^F14]Subsections (1) and (2) above have effect subject to paragraph 11(2) of Schedule 1 to the Building Act 1984; and]section 80 of the [^M5]Health and Safety at Work etc. Act 1974 (which among other things provides that regulations under subsection (1) of that section may repeal or modify any provision to which that subsection applies if it appears to the authority making the regulations that it is expedient to do so in consequence of any provision made by or under Part I of that Act) shall have effect as if the provisions to which subsection (1) of that section applies included subsection (1) of this section and byelaws in force by virtue of subsection (1) of this section.
+
+(4) The accounts of a local authority by which expenditure is incurred under any of the provisions of the preceding section and this section shall include a separate account of that expenditure and of any income connected with functions conferred on the authority by those provisions.
+
+### Land
+
+#### 13 Compulsory acquisition by local authorities of rights over land.
+
+(1) A local authority which may be authorised by a Minister of the Crown, by means of a compulsory purchase order, to purchase any land compulsorily for any purpose may be authorised by that Minister, by means of such an order, to purchase compulsorily for that purpose such new rights over the land as are specified in the order; and in this subsection “new rights” means rights which are not in existence when the order specifying them is made.
+
+(2) [^F15]. . . the [^M6]Compulsory Purchase Act 1965 shall have effect with the modifications necessary to make them apply to the compulsory purchase of rights by virtue of the preceding subsection as they apply to the compulsory purchase of land so that, in appropriate contexts, references in those Acts to land are read as referring, or as including references, to the rights or to land over which the rights are or are to be exercisable, according to the requirements of the particular context.
+
+(3) Without prejudice to the generality of the preceding subsection, in relation to the purchase of rights in pursuance of subsection (1) of this section—
+
+[^F16]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) Part I of the said Act of 1965 [^F17]. . . shall have effect with the modifications specified in Part II of Schedule 1 to this Act; and
+
+(c) the enactments relating to compensation for the compulsory purchase of land shall apply with the necessary modifications as they apply to such compensation.
+
+(4) Nothing in the preceding provisions of this section shall authorise the purchase of any rights by an authority for a purpose for which there is power by virtue of [[^F18]section 250 of the Highways Act 1980](which relates to the compulsory acquisition of rights by highway authorities) to authorise the authority to acquire the rights.
+
+[[^F19](5) In this section “compulsory purchase order” has the same meaning as in the Acquisition of Land Act 1981, and Schedule 3 to that Act shall apply to the compulsory purchase of rights by virtue of subsection (1) above.]
+
+#### 14 Injurious affection connected with certain land held by local authorities and acquired by agreement before 1st April 1974.
+
+(1) Where an interest in land is held by a local authority for a purpose for which the authority can by virtue of an enactment be authorised to acquire land compulsorily and—
+
+(a) the interest was acquired by agreement by the authority or another body before 1st April 1974 and, where it was acquired by another body, has not since the acquisition been transferred otherwise than by an Act or an order made under an Act; and
+
+(b) provisions of the Lands Clauses Acts or the [^M7]Compulsory Purchase Act 1965 apply to the acquisition but those provisions do not include section 68 of the [^M8]Lands Clauses Consolidation Act 1845 (under which there is among other things a right to compensation in respect of land injuriously affected by certain works) or section 10 of the said Act of 1965 (which re-enacts the said section 68),
+
+the authority may by resolution provide that, on and after the date when the resolution comes into force, the said section 68 or as the case may be the said section 10 shall be included among the provisions aforesaid which apply to the acquisition.
+
+(2) Where an authority passes a resolution in pursuance of the preceding subsection in connection with any land in which the authority holds an interest, it shall be the duty of the authority—
+
+(a) to send to the appropriate Minister a copy of the resolution and a map indicating the land;
+
+(b) to publish in two successive weeks, in one or more local newspapers circulating in the area in which the land is situated, a copy of the resolution and a notice stating—
+
+(i) a place in the area of the council where a map indicating the land may be inspected by members of the public free of charge between 10 a.m. and 4 p.m. on each weekday, except Saturdays and bank holidays, during a period specified in the notice (which shall not be less than 21 days beginning with the date of first publication of the notice in pursuance of this paragraph), and
+
+(ii) that any person having an interest in land which could be injuriously affected by virtue of the resolution if it came into force may object to the resolution in accordance with the following subsection, and
+
+(iii) the designation and address of the appropriate Minister;
+
+(c) not later than the date aforesaid, to serve a copy of the resolution and of the said notice, by post by the recorded delivery service, on each person who, after reasonable inquiry, appears to the authority to be such a person as is mentioned in paragraph (*b*)(ii) of this subsection; and
+
+(d) not later than that date, to affix a copy of the resolution and the said notice in a prominent position on the land.
+
+(3) Any such person as is mentioned in paragraph (*b*)(ii) of the preceding subsection may object to the resolution in question by serving on the appropriate Minister, within the period mentioned in paragraph (*b*)(i) of that subsection, a notice setting out the grounds of his objection.
+
+(4) A resolution passed in pursuance of subsection (1) of this section shall not come into force unless the appropriate Minister makes an order providing that it shall come into force and, where he makes such an order, shall come into force on the date specified in the order; and the appropriate Minister—
+
+(a) shall not make such an order in respect of a resolution before the expiration of the period specified in pursuance of paragraph (*b*)(i) of subsection (2) of this section in the notice published in pursuance of that subsection in connection with the resolution; and
+
+(b) may hold an inquiry for the purpose of deciding whether to make such an order in respect of a resolution.
+
+(5) Where an order is made in pursuance of this section in respect of a resolution passed by an authority, it shall be the duty of the authority—
+
+(a) to publish in two successive weeks, in one or more local newspapers circulating in the area in which the land to which the resolution relates is situated, a notice stating that the order has been made, the date specified in the order as that on which the resolution comes into force and the effect of the following subsection; and
+
+(b) to serve a copy of the notice, by post by the recorded delivery service, on each person on whom notice in respect of the resolution was served in pursuance of subsection (2)(*c*) of this section.
+
+(6) No question as to the validity of a resolution purporting to be passed in pursuance of subsection (1) of this section or of an order purporting to be made in pursuance of this section in respect of such a resolution shall be entertained in any proceedings begun after the expiration of the period of three months beginning with the date when notice relating to the resolution was first published in pursuance of the preceding subsection; and, except as otherwise determined in proceedings begun before the expiration of that period, such a resolution shall be deemed to be duly passed and such an order shall be deemed to be duly made.
+
+(7) In this section “the appropriate Minister” means, in relation to a resolution passed by an authority in connection with any land in which an interest is held by the authority, the Minister of the Crown having power to authorise the authority to acquire land compulsorily for the purposes for which the interest is held by the authority; and section 250 of the [^M9]Local Government Act 1972 (which relates to local inquiries) shall have effect in relation to an inquiry in pursuance of subsection (4)(*b*) of this section as if for the reference to the Secretary of State in subsection (1) of that section there were substituted a reference to the appropriate Minister.
+
+#### [^F20]15 Power of local authorities to survey land which they propose to acquire compulsorily.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 16 Power of local authorities to obtain particulars of persons interested in land.
+
+(1) Where, with a view to performing a function conferred on a local authority by any enactment, the authority considers that it ought to have information connected with any land, the authority may serve on one or more of the following persons, namely—
+
+(a) the occupier of the land; and
+
+(b) any person who has an interest in the land either as freeholder, mortgagee or lessee or who directly or indirectly receives rent for the land; and
+
+(c) any person who, in pursuance of an agreement between himself and a person interested in the land, is authorised to manage the land or to arrange for the letting of it,
+
+a notice specifying the land and the function and the enactment which confers the function and requiring the recipient of the notice to furnish to the authority, within a period specified in the notice (which shall not be less than fourteen days beginning with the day on which the notice is served), the nature of his interest in the land and the name and address of each person whom the recipient of the notice believes is the occupier of the land and of each person whom he believes is, as respects the land, such a person as is mentioned in the provisions of paragraphs (*b*) and (*c*) of this subsection.
+
+(2) A person who—
+
+(a) fails to comply with the requirements of a notice served on him in pursuance of the preceding subsection; or
+
+(b) in furnishing any information in compliance with such a notice makes a statement which he knows to be false in a material particular or recklessly makes a statement which is false in a material particular,
+
+shall be guilty of an offence and liable on summary conviction to a fine not exceeding [[^F21]level 5 on the standard scale].
+
+### Bathing and boating
+
+#### 17 Byelaws about bathing and boating.
+
+(1) Where any part of the area of a local authority having power to make bylaws under both section 231 of the [^M10]Public Health Act 1936 and section 76 of the [^M11]Public Health Act 1961 (which authorise the making of byelaws about public bathing and pleasure boats) is bounded by or is to seaward of the low water mark, the authority may exercise that power as respects any area of the sea which is outside the area of the authority and within 1,000 metres to seaward of any place where that mark is within or on the boundary of the area of the authority.
+
+(2) The Secretary of State may, before he confirms any byelaws made by virtue of this section, amend the byelaws so as to reduce the area in which the byelaws have effect if it appears to him appropriate to do so with a view to ensuring that the byelaws do not have effect in an area for which another local authority has made or may make byelaws by virtue of this section.
+
+(3) An offence against byelaws made by an authority by virtue of the preceding provisions of this section may be inquired into and dealt with as if committed within the area of the authority.
+
+[^X1]4 In subsection (1) of the said section 231 (which specifies the matters which may be regulated by byelaws under that section about public bathing), after paragraph (a) there shall be inserted the following paragraph—
+
+(aa) prohibit or restrict public bathing at times when and places as respects which warning is given, by the display of flags or by other means specified in the byelaws, that bathing is dangerous.
+
+(5) Subsection (3) of the said section 76 (which among other things provides that byelaws about pleasure boats may be made by an authority so as to have effect outside the area of the authority but within 1,000 yards of low water mark of ordinary spring tides) shall cease to have effect; but any byelaws which are in force by virtue of that subsection immediately before it ceases to have effect shall continue in force and may be revoked or varied by byelaws made in pursuance of that section.
+
+#### 18 Licensing of pleasure boats and boatmen.
+
+(1) In subsection (1) of section 94 of the [^M12]Public Health Acts Amendment Act 1907 (which among other things relates to the licensing of boatmen and persons assisting in the charge or navigation of pleasure boats) for the words “boatmen or persons assisting in the charge or navigation of” there shall be substituted the words “ persons in charge of or navigating ”.
+
+(2) In subsection (3) of the said section 94 (which among other things prohibits the carrying of passengers for hire in a boat or vessel for which no licence is in operation) for the words from “for hire in” onwards there shall be substituted the words
+
+> for hire in any pleasure boat or vessel unless—
+>
+> (a) the boat or vessel is so licensed and the licence is not suspended; and
+>
+> (b) the person in charge of the boat or vessel and any other person navigating it is so licensed and his licence is not suspended and the conditions of his licence are complied with
+
+.
+
+(3) At the end of subsection (4) of the said section 94 (which provides that a licence under that section is not required for a boat or vessel licensed by or under regulations of the Secretary of State) there shall be inserted the words “ or for a person in charge of or navigating such a boat or vessel ”.
+
+(4) At the end of subsection (6) of the said section 94 (which penalises contraventions of that section) there shall be inserted the words “ ; but a person shall not be guilty of an offence under this subsection by reason of a failure to comply with such conditions as are mentioned in subsection (3)(b) of this section if it is shown that there is a reasonable excuse for the failure ”.
+
+### Places of entertainment
+
+#### 19 Recreational facilities.
+
+(1) A local authority may provide, inside or outside its area, such recreational facilities as it thinks fit and, without prejudice to the generality of the powers conferred by the preceding provisions of this subsection, those powers include in particular powers to provide—
+
+(a) indoor facilities consisting of sports centres, swimming pools, skating rinks, tennis, squash and badminton courts, bowling centres, dance studios and riding schools;
+
+(b) outdoor facilities consisting of pitches for team games, athletics grounds, swimming pools, tennis courts, cycle tracks, golf courses, bowling greens, riding schools, camp sites and facilities for gliding;
+
+(c) facilities for boating and water ski-ing on inland and coastal waters and for fishing in such waters;
+
+(d) premises for the use of clubs or societies having athletic, social or recreational objects;
+
+(e) staff, including instructors, in connection with any such facilities or premises as are mentioned in the preceding paragraphs and in connection with any other recreational facilities provided by the authority;
+
+(f) such facilities in connection with any other recreational facilities as the authority considers it appropriate to provide including, without prejudice to the generality of the preceding provisions of this paragraph, facilities by way of parking spaces and places at which food, drink and tobacco may be bought from the authority or another person;
+
+and it is hereby declared that the powers conferred by this subsection to provide facilities include powers to provide buildings, equipment, supplies and assistance of any kind.
+
+(2) A local authority may make any facilities provided by it in pursuance of the preceding subsection available for use by such persons as the authority thinks fit either without charge or on payment of such charges as the authority thinks fit.
+
+(3) A local authority may contribute—
+
+(a) by way of grant or loan towards the expenses incurred or to be incurred by any voluntary organisation in providing any recreational facilities which the authority has power to provide by virtue of subsection (1) of this section; and
+
+(b) by way of grant towards the expenses incurred or to be incurred by any other local authority in providing such facilities;
+
+and in this subsection “voluntary organisation” means any person carrying on or proposing to carry on an undertaking otherwise than for profit.
+
+[^F22]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Any property which, immediately before the date when this subsection comes into force, is held by a local authority [^F23]. . . for the purposes of section 221(*b*) of the [^M13]Public Health Act 1936 or [^F23]. . . section 4 of the [^M14]Physical Training and Recreation Act 1937 or, in pursuance of section 144(1)(*b*) of the [^M15]Local Government Act, 1972, for the purposes of recreation shall on and after that date be held by the local authority for the purposes of this section [^F23]. . ..
+
+[[^F24](5A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+[^X2]6 In section 222(1) of the Public Health Act 1936 (which relates to charges in respect of any baths, wash-house, swimming bath or bathing place under the management of a local authority) for the words “washhouse, swimming bath or bathing place” there shall be substituted the words “ or washhouse ”.
+
+#### 20 Provision of sanitary appliances at places of entertainment.
+
+(1) A local authority (other than a county council [[^F25]in England] and the Greater London Council) may, by a notice served on an owner or occupier of a relevant place in the area of the authority, require him—
+
+(a) to provide, before the expiration of a period specified in the notice and in such positions at the place as are so specified, sanitary appliances of such kinds and numbers as are so specified;
+
+(b) to maintain and keep clean the appliances to the reasonable satisfaction of the authority;
+
+(c) to provide and maintain a proper supply of such things for use in connection with the appliances as are so specified (which may be or include cold water or hot water or both); and
+
+(d) to make the appliances and things available for use by members of the public resorting to the place and, if the notice so requires, to make them so available free of charge.
+
+(2) A notice in pursuance of this section may require the provision of sanitary appliances on such occasions as are specified in the notice but if it does so it shall not also require the provision of sanitary appliances as respects which occasions are not so specified.
+
+(3) A notice in pursuance of this section—
+
+(a) shall not require the provision, in connection with any building for which fixed sanitary appliances could be required by virtue of building regulations in force when the notice is served if the building were to be newly constructed then, of fixed sanitary appliances which are of a different kind from, or which as respects a particular kind are more numerous than, those which could be required as aforesaid;
+
+(b) shall not require the provision of movable sanitary appliances at a betting office;
+
+(c) shall, unless it is an occasional notice, specify as the period before the expiration of which sanitary appliances are to be provided in pursuance of the notice a period equal to or longer than that during which the recipient of the notice may appeal against it in pursuance of the following section.
+
+(4) It is hereby declared that a notice in pursuance of this section in respect of a relevant place may—
+
+(a) be served on an owner or occupier of the place notwithstanding that he is for the time being required to comply with a previous notice served on him in pursuance of this section in respect of the place;
+
+(b) require the provision at the place of appliances already provided there.
+
+(5) A person authorised in writing in that behalf by a local authority (other than a county council [[^F25]in England] and the Greater London Council) may at any reasonable time, upon producing if so required evidence that he is so authorised, enter any relevant place for the purpose of determining whether the authority should serve a notice in pursuance of this section in respect of the place or of ascertaining whether the requirements of such a notice served on a person who is an owner or occupier of the place are being complied with; and a person who wilfully obstructs another person acting in the exercise of powers conferred on the other person by this subsection shall be guilty of an offence and liable on summary conviction to a fine not exceeding [[^F26]level 3 on the standard scale].
+
+(6) Subject to subsections (7) and (8) of this section, a person who without reasonable excuse fails to comply with a notice in respect of a relevant place which was served on him in pursuance of this section when he was an owner or occupier of the place shall be guilty of an offence and liable on summary conviction to a fine not exceeding £400 or, on conviction on indictment, to a fine; and if after the conviction of a person of such an offence the failure in question continues he shall, as respects each day on which it continues, be guilty of a further offence and liable on summary conviction to a fine not exceeding £50 or, on conviction on indictment, to a fine.
+
+(7) In proceedings for an offence under the preceding subsection of failing to comply with a notice it shall be a defence to prove that at the time of the failure the person on whom the notice was served was neither an owner nor an occupier of the relevant place in question and that he did not cease to be an owner or occupier of it by reason of anything done or omitted by him or any other person with a view to avoiding compliance with the notice.
+
+(8) In proceedings for an offence under subsection (6) of this section which is alleged to have been committed on a particular day it shall be a defence to prove that on that day the relevant place in question was closed to members of the public or was used neither as a betting office nor for any of the purposes mentioned in paragraph (*a*) of the definition of relevant place in the following subsection; and in proceedings for an offence under subsection (6) of this section of failing to comply with an occasional notice it shall be a defence to prove—
+
+(a) that the alleged offence is in respect of a requirement of the notice which is unreasonable; or
+
+(b) that it would have been fairer to serve the notice on a person, other than the defendant,—
+
+(i) who was an owner or occupier of the relevant place in question when the notice was served on the defendant, and
+
+(ii) whose name and address were furnished by the defendant, to the local authority which served the notice, before the expiration of the period specified in the notice in pursuance of subsection (1)(*a*) of this section.
+
+(9) In this section and the following section—
+
+- [[^F27] “betting office” means premises, other than a track within the meaning of the Gambling Act 2005, in respect of which a betting premises licence under Part 8 of that Act has effect;]
+
+- “occasional notice” means a notice in pursuance of this section requiring the provision of sanitary appliances on occasions specified in the notice;
+
+- “sanitary appliances” means water closets, other closets, urinals and wash basins;
+
+- “relevant place” means any of the following places—
+
+  - (a) a place which is normally used or is proposed to be normally used for any of the following purposes, namely—
+  
+    - (i) the holding of any entertainment, exhibition or sporting event to which members of the public are admitted either as spectators or otherwise,
+    - (ii) the sale of food or drink to members of the public for consumption at the place;
+  
+  - (b) a place which is used on some occasion or occasions or is proposed to be used on some occasion or occasions for any of the purposes aforesaid; and
+  
+  - (c) a betting office.
+
+(10) Without prejudice to the operation of section 38(1) of the [^M16]Interpretation Act 1889, in section 6(1) of the [^M17]Chronically Sick and Disabled Persons Act 1970 (which provides that a person required to provide sanitary conveniences by a notice under section 89 of the [^M18]Public Health Act 1936 shall in complying with the notice have regard to the needs of disabled persons) for the words “section 89 of the [^M19]Public Health Act 1936” there shall be substituted the words “ section 20 of the Local Government (Miscellaneous Provisions) Act 1976 ”.
+
+[[^F28](11) A notice under this section shall draw the attention of the person on whom it is served—
+
+(a) to sections 6(1) and 7 of the Chronically Sick and Disabled Persons Act 1970; and
+
+(b) to the Code of Practice for Access for the Disabled to Buildings.
+
+(12) In subsection (11) of this section “the Code of Practice for Access for the Disabled to Buildings” means, subject to subsection (13) of this section, the British Standards Institution code of practice referred to as BS 5810: 1979.
+
+(13) Section 28 of the Chronically Sick and Disabled Persons Act 1970 (power to define certain expressions for the purposes of provisions of that Act) shall have effect as if any reference in it to a provision of that Act included a reference to this section.]
+
+#### 21 Appeal to county court against certain notices under s. 20.
+
+(1) A person on whom a notice other than an occasional notice is served in pursuance of the preceding section may, within six weeks beginning with the date of service of the notice, appeal to the county court against the notice on one or both of the following grounds, namely—
+
+(a) that a requirement of the notice is unreasonable; and
+
+(b) that it would have been fairer to serve the notice on another person who is an owner or occupier of the relevant place in question.
+
+(2) Where a ground of an appeal in pursuance of the preceding subsection is the ground mentioned in paragraph (*b*) of that subsection the other person in question shall be made a respondent to the appeal in accordance with rules of court except in a case where the rules provide that he shall not be made a respondent to the appeal.
+
+(3) On an appeal in pursuance of subsection (1) of this section the court shall either—
+
+(a) quash the notice to which the appeal relates; or
+
+(b) modify the notice so that, instead of imposing its requirements on the appellant, it imposes them upon another person who is an owner or occupier of the relevant place in question; or
+
+(c) order that the appellant be entitled to recover from such a person a specified part of the expenses incurred by the appellant in complying with the notice; or
+
+(d) dismiss the appeal;
+
+but the court shall not be entitled to exercise its powers under paragraph (*b*) or (*c*) of this subsection unless a ground of the appeal is that mentioned in paragraph (*b*) of subsection (1) of this section.
+
+(4) Where the court modifies a notice in pursuance of paragraph (*b*) of the preceding subsection the notice shall be deemed to be served in pursuance of the preceding section on the other person in question on the date on which the modification is made; but that person shall not be entitled to appeal against the notice in pursuance of this section.
+
+(5) It shall be the duty of the court, in determining whether to order that the appellant be entitled to recover from another person a part of the cost of complying with a notice, to have regard to the terms of any agreement relating to the relevant place in question to which either person is a party.
+
+(6) Where a person appeals in pursuance of this section against a notice, the notice shall be of no effect pending the determination of the appeal; and where the court determines the appeal otherwise than by quashing the notice it may extend the period specified in the notice in pursuance of subsection (1)(*a*) of the preceding section.
+
+#### 22 Byelaws about fairs etc.
+
+[^X3]1 In subsection (1) of section 75 of the [^M20]Public Health Act 1961, after paragraph (c) (by virtue of which certain authorities may make byelaws for, among other things, the preservation of cleanliness, order and public safety at any pleasure fair within the meaning of that section) there shall be inserted the following paragraph—
+
+> (d) without prejudice to the generality of the preceding paragraph, for preventing outbreaks of fire which might endanger—
+>
+> (i) stands, stalls or other structures used or in tended for use in connection with any pleasure fair, or
+>
+> (ii) caravans used or intended for use as sleeping accommodation in connection with any pleasure fair,
+>
+> and for reducing the risk of, and the spread of fire from, such outbreaks.
+
+(2) Subsection (4) of the said section 75 (which provides that nothing in that section or any byelaws under it applies to certain fairs or to places controlled by authorities having powers to make byelaws for those places) shall cease to have effect; but the repeal of that subsection shall not have the effect of applying byelaws made before the repeal comes into force to a fair or place specified in that subsection.
+
+[^X3]3 At the end of subsection (8) of the said section 75 (which among other things requires the Secretary of State to be satisfied, before he confirms a byelaw under that section, that bodies representing the interests of persons carrying on the entertainments to which that section applies have been consulted about the byelaw) there shall be inserted the words “ and, in the case of a byelaw made in pursuance of subsection (1)(d) of this section, that the fire authority within the meaning of the Fire Services Act 1947 for the area to which the byelaw applies have been so consulted ”.
+
+### Dangerous trees and excavations
+
+#### 23 Power of local authorities to deal with dangerous trees.
+
+(1) Where a district council, a London borough council or the Common Council [[^F29], or a county or county borough council in Wales]—
+
+(a) receives from a person appearing to the council to be an owner or occupier of any land in the area of the council on which a tree is situated a notice requesting the council to make the tree safe; and
+
+(b) considers that the tree is in such a condition that there is imminent danger of its causing damage to persons or property,
+
+the council may take such steps on the land, whether by felling the tree or otherwise, as it thinks are appropriate for the purpose of making the tree safe and may recover the expenses reasonably incurred in doing so from the person who gave the notice.
+
+(2) Where such a council—
+
+(a) receives from a person appearing to the council to be an owner or occupier of land a notice requesting the council to make safe a tree on other land which is in its area and which appears to the council not to be owned or occupied by that person; and
+
+(b) considers that the tree is in such a condition that it is likely to cause damage to persons or property on the first-mentioned land; and
+
+(c) knows the name and address of no person appearing to the council to be an owner or occupier of the other land and either—
+
+(i) has made reasonable but unsuccessful enquiries for the purpose of ascertaining the name and address of such a person, or
+
+(ii) considers that in view of the imminence of the danger of such damage from the tree the delay involved in making enquiries or further enquiries about the name and address of such a person is unwarranted,
+
+the council may take such steps on the other land as are mentioned in the preceding subsection and may recover the expenses reasonably incurred in doing so from any person who was an owner or occupier of the other land when the council took those steps.
+
+(3) Where such a council—
+
+(a) receives from a person appearing to the council to be an owner or occupier of land a notice requesting the council to make safe a tree on other land which is in its area and which appears to the council not to be owned or occupied by that person; and
+
+(b) considers that the tree is in such condition that it is likely to cause damage to persons or property on the first-mentioned land; and
+
+(c) knows the name and address of a person appearing to the council to be an owner or occupier of the other land,
+
+the council may serve on such a person as is mentioned in paragraph (*c*) of this subsection a notice requiring him to take on the other land, within a reasonable period specified in the notice (which must not expire before the expiration of 21 days beginning with the date of service of the notice), such steps for making the tree safe as are so specified.
+
+(4) Where it appears to such a council that a tree on land in the area of the council which is not owned or occupied by the council is in such a condition that it is likely to cause damage to persons or property on other land in that area which is owned or occupied by the council, subsection (2) (except paragraph (*b*)) of this section, or as the case may require subsection (3) (except paragraph (*b*)) of this section, shall apply as if the other land were occupied by another person and he had duly given notice to the council in pursuance of that subsection in respect of the tree.
+
+(5) A person on whom a notice is served by a council in pursuance of subsection (3) of this section may, within 21 days beginning with the date of service of the notice, appeal to the county court against the notice on one or more of the following grounds, namely—
+
+(a) that he is neither an owner nor an occupier of the land on which the tree is situated;
+
+(b) that the tree is not in such condition as is mentioned in paragraph (*b*) of that subsection;
+
+(c) that less expensive steps than those specified in the notice would suffice for the purpose of making the tree safe;
+
+(d) that it would have been fairer to serve the notice on another person who is an owner or occupier of the land aforesaid;
+
+and any other person who is an owner or occupier of the land to which the notice relates may within the period aforesaid appeal to the county court against the notice on one or both of the grounds mentioned in paragraphs (*b*) and (*c*) of this subsection.
+
+(6) Subsections (2) to (6) of section 21 of this Act shall apply to an appeal in pursuance of the preceding subsection as they apply to an appeal in pursuance of subsection (1) of that section as if for the references in subsections (2) and (3) of that section to paragraph (*b*) of subsection (1) of that section there were substituted references to paragraph (*d*) of the preceding subsection, for the references in subsections (3) and (5) of that section to the relevant place there were substituted references to the land on which the tree is situated and for the reference in subsection (4) of that section to section 20 of this Act and the reference in subsection (6) of that section to section 20(1)(*a*) of this Act there were substituted a reference to subsection (3) of this section.
+
+(7) If a person on whom a notice is served by a council in pursuance of subsection (3) of this section fails to comply with the notice, the council may take the steps specified in the notice and recover from that person the expenses reasonably incurred in doing so.
+
+#### 24 Provisions supplementary to s. 23.
+
+(1) A person authorised in writing in that behalf by such a council as is mentioned in subsection (1) of the preceding section may enter on any land for the purpose of—
+
+(a) determining whether the council should take steps in pursuance of subsection (2) or (7) or serve a notice in pursuance of subsection (3) of that section in respect of a tree on the land; or
+
+(b) exercising on behalf of the council a power conferred on the council by subsection (2) or (7) of that section in respect of a tree on the land.
+
+(2) A person authorised to enter on any land in pursuance of the preceding subsection—
+
+(a) shall, if so required before or after entering on the land, produce evidence of his authority to enter;
+
+(b) may take with him on to the land such other persons and such equipment as are necessary for achieving the purpose for which he was authorised to enter on the land;
+
+(c) shall, if the land is unoccupied when he enters or the occupier is then temporarily absent, leave the land as effectually secured against trespassers as he found it.
+
+(3) If a person—
+
+(a) wilfully obstructs another person in the exercise of a power conferred on the other person by subsection (1) or (2)(*b*) of this section; or
+
+(b) while another person is on land in pursuance of the said subsection (1) or (2)(*b*), wilfully obstructs the other person in doing things connected with the purpose for which the other person is authorised to be on the land,
+
+he shall be guilty of an offence and liable on summary conviction to a fine not exceeding [[^F30]level 3 on the standard scale].
+
+(4) If a person interested in any land suffers damage by reason of—
+
+(a) the exercise of the power to enter on the land which is conferred by virtue of subsection (1)(*a*) of this section; or
+
+(b) the exercise on the land, in connection with the exercise of the power mentioned in the preceding paragraph, of the power conferred by subsection (2)(*b*) of this section; or
+
+(c) a failure to perform the duty imposed by subsection (2)(*c*) of this section in respect of the land,
+
+he shall be entitled to recover compensation for the damage from the local authority which authorised the entry in question.
+
+(5) Any dispute as to a person’s entitlement to compensation in pursuance of the preceding subsection or as to the amount of the compensation shall be determined by the [[^F31]Upper Tribunal] , and [[^F32]section] 4 of the [^M21]Land Compensation Act 1961 (which [[^F33]relates to] costs) shall with the necessary modifications apply in relation to the determination by the Tribunal of such a dispute.
+
+(6) Where a council is entitled by virtue of the preceding section to recover any expenses from a person, the council shall also be entitled to recover from him interest on the amount of the expenses or on such portion of it as is for the time being unpaid, at [[^F34]such reasonable rate as the council may determine], from the date on which the council served notice on him demanding payment of the expenses.
+
+#### 25 Power of certain councils with respect to dangerous excavations.
+
+(1) Where a district council, a London borough council or the Common Council [[^F35], or a county or county borough council in Wales]—
+
+(a) considers that an excavation made at any time by some person on land in the area of the council is accessible to the public from a highway or a place of public resort and, by reason of its being unenclosed or inadequately enclosed, is a danger to the public; and
+
+(b) knows the name and address of no person appearing to the council to be an owner or occupier of the land on which it appears to the council that works to remove the danger should be carried out and either—
+
+(i) has made reasonable but unsuccessful enquiries for the purpose of ascertaining the name and address of such a person, or
+
+(ii) considers that in view of the imminence of the danger the delay involved in making enquiries or further enquiries about the name and address of such a person is unwarranted,
+
+the council may carry out on the land mentioned in paragraph (*b*) of this subsection such works as appear to the council to be necessary for the purpose of removing the danger.
+
+(2) Where such a council—
+
+(a) considers that an excavation made at any time by some person on land in the area of the council is as mentioned in paragraph (*a*) of the preceding subsection; and
+
+(b) knows the name and address of a person appearing to the council to be an owner or occupier of the land on which it appears to the council that works to remove the danger in question should be carried out,
+
+the council may serve on an owner or occupier of the land a notice specifying the excavation and stating that the council proposes to carry out, for the purpose of removing the danger in question, such works as are specified in the notice at such places on the land as are so specified.
+
+(3) If any person having an interest in or a right over land in respect of which a notice is served in pursuance of the preceding subsection objects to the notice on one or more of the following grounds, namely—
+
+(a) that the excavation is not a danger to the public; or
+
+(b) that works other than some or all of those specified in the notice are appropriate for the purpose of removing the danger; or
+
+(c) that places other than some or all of those so specified are appropriate as the site of works for removing the danger,
+
+he may, during the period of 21 days beginning with the date on which the notice was served, appeal to the county court against the notice.
+
+(4) On such an appeal the court shall either quash the notice or dismiss the appeal or, where a ground of the appeal is the ground specified in paragraph (*b*) or (*c*) of the preceding subsection, modify the notice so that it refers only to works or, as the case may be, places which the appellant agrees or the appellants agree are appropriate for the purpose of removing the danger; but the notice shall not be modified by the court so as to refer to a place on land of which no appellant is an owner or occupier.
+
+(5) If no appeal in pursuance of subsection (3) of this section is made against a notice within the period mentioned in that subsection or if on such an appeal the appeal is dismissed or the notice is modified as mentioned in the preceding subsection, the council which served the notice may, at any time after the expiration of that period or, as the case may be, after the appeal is dismissed or the notice is modified, carry out the works specified in the notice at the places so specified.
+
+(6) It shall be the duty of a council by which works have been carried out in pursuance of this section to maintain and repair the works except—
+
+(a) so far as they consist of the filling in of the excavation in question;
+
+(b) after the works have been removed in pursuance of the following subsection;
+
+(c) in a case where the council has agreed with a person who is for the time being an owner or occupier of the land on which the works are situated that he shall maintain and repair the works and he has performed his obligations under the agreement.
+
+(7) Where it appears to a council by which works have been carried out in pursuance of this section that if the works were removed the excavation in question would not be a danger to the public, then—
+
+(a) the council may remove the works; and
+
+(b) it shall be the duty of the council to remove the works, except so far as they consist of the filling in of the excavation in question, if it is requested to do so by a person having an interest in or a right over the land on which the works are situated.
+
+(8) [^F36]. . . A district council, a London borough council or the Common Council [[^F35], or a county or county borough council in Wales,] may pay to any person the whole or part of the expenses incurred by him in carrying out works for preventing or removing danger to the public from an excavation made at any time by some person on land in the area of the authority, whether or not the person who incurred the expenses had a duty to carry out any such works.
+
+#### 26 Provisions supplementary to s. 25.
+
+(1) A person authorised in writing in that behalf by such a council as is mentioned in subsection (1) of the preceding section may enter on any land in the area of the council for the purpose of—
+
+(a) ascertaining whether the land is suitable as the site of works which the council may carry out or for which the council may serve a notice in pursuance of that section; or
+
+(b) carrying out, maintaining, repairing or removing in pursuance of that section any works on behalf of the council; or
+
+(c) ascertaining whether any works carried out by the council in pursuance of that section should be or have been maintained, repaired or removed.
+
+(2) A person authorised by a council to enter on land in pursuance of the preceding subsection—
+
+(a) shall, if so required before or after entering on the land, produce evidence of his authority to enter;
+
+(b) may take with him on to the land such other persons and such equipment as are necessary for achieving the purpose for which he was authorised to enter on the land;
+
+(c) shall, if the land is unoccupied when he enters or the occupier is then temporarily absent, leave the land as effectually secured against trespassers as he found it.
+
+(3) If a person having an interest in or a right over any land suffers damage in consequence of the carrying out, maintaining, repairing or removing of works by a council in pursuance of the preceding section or the exercise by a person authorised by a council of a power conferred by subsection (1) or (2)(*b*) of this section or a failure of such a person to perform the duty imposed by subsection (2)(*c*) of this section, the person who suffers the damage shall, subject to the following subsection, be entitled to recover compensation for the damage from the council; and subsection (5) of section 24 of this Act shall have effect for the purposes of this subsection as if for the reference to subsection (4) of that section there were substituted a reference to this subsection.
+
+(4) No compensation shall be payable by virtue of the preceding subsection, to any person having an interest in the site of the excavation in question, in respect of damage attributable to the presence of permanent works on any land other than damage attributable to interference with an easement or profit.
+
+(5) If a person—
+
+(a) wilfully obstructs another person in the exercise of a power conferred on the other person by subsection (1) or (2)(*b*) of this section; or
+
+(b) while another person is on land in pursuance of the said subsection (2)(*b*) wilfully obstructs him in doing things connected with the works in question; or
+
+(c) without the argreement of the council by which works have been carried out in pursuance of the preceding section, removes or otherwise interferes with the works,
+
+he shall be guilty of an offence and liable on summary conviction to a fine not exceeding [[^F37]level 3 on the standard scale].
+
+(6) Nothing in the preceding section or the preceding provisions of this section applies to an excavation—
+
+(a) on operational land of statutory undertakers; or
+
+(b) on land of [[^F38]the Coal Authority] of such a description as the Secretary of State may specify by regulations made by statutory instrument;
+
+and the definition of “operational land” in [[^F39]section 263 of the Town and Country Planning Act 1990] shall apply for the purposes of paragraph (*a*) of this subsection as if in that section “statutory undertakers” had the same meaning as in that paragraph and “undertaking” had a corresponding meaning.
+
+### Alterations of supplemental provisions of Public Health Acts
+
+#### 27 Alterations of supplemental provisions of Public Health Acts.
+
+(1) [^F40]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F41]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) [^F42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) For the purposes of the provisions of the [^M22]Public Health Act 1936 relating to joint boards within the meaning of that Act [^F43]. . ., sections 16, 32 and 41 of this Act (which correspond respectively to sections 277, 274 and 286 of that Act) shall be treated as provisions of that Act and may accordingly be applied to those bodies by orders under those provisions.
+
+[^X4]5 In section 322 of the Public Health Act 1936 (which relates to councils in default), for the words in subsection (2) from the beginning to “question” there shall be substituted the words “ If the Minister is satisfied that any council, port health authority or joint board have failed to discharge their functions under this Act in any case where they ought to have done so ”, and for the words “so specified” in subsection (3) there shall be substituted the words “ specified in his order ”.
+
+(6) The repeal by this Act of sections 295, 313 and 314 of the [^M23]Public Health Act 1936 shall not affect any order in force by virtue of the section in question immediately before the repeal takes effect.
+
+(7) It is hereby declared that references in the preceding provisions of this section to any enactment do not include references to it as incorporated in or applied by or under any other enactment.
+
+### Financial provisions
+
+#### 28 Funds of local authorities etc.
+
+[^F44]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F44]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F45]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 29 Repayment of unclaimed compensation etc. paid into court.
+
+(1) Where—
+
+(a) a local authority has paid money into court in pursuance of section 76 or 85 of the [^M24]Lands Clauses Consolidation Act 1845 or section 9 of or Schedule 2 [^F46]... to the [^M25]Compulsory Purchase Act 1965; and
+
+(b) after the expiration of the period of twelve years beginning with the date when the money was paid into court any of the money, or any assets attributable to the money by way of interest, securities, accumulations from securities, proceeds of sale of securities or otherwise, has not or have not been ordered by a court of competent jurisdiction to be paid or transferred to or applied for the benefit of the authority or another person,
+
+the High Court may, on the application of the authority, order that the money or assets shall be paid or transferred to the authority.
+
+(2) Where at any time after money has been paid or assets have been transferred to a local authority in pursuance of the preceding subsection it appears to the High Court, on the application of another person, that the Court would have ordered the whole or part of the money or assets to be paid or transferred to the applicant if the money or assets had not been paid or transferred to the authority as aforesaid, the Court may order the authority to pay to the applicant such a sum as the Court considers just.
+
+(3) If a former authority paid money into court as mentioned in subsection (1)(*a*) of this section in respect of land or an interest in land which—
+
+(a) is held by a local authority; and
+
+(b) has not since its acquisition by the former authority been transferred otherwise than by an Act or an order made under an Act,
+
+subsection (1) of this section shall have effect in relation to the payment as if it had been made by the local authority on the date on which it was actually made; and in this subsection “former authority” means an authority which has ceased to exist and which, when it existed, was constituted in pursuance of the enactments relating to local government which were then in force.
+
+[[^F47](4) For the purposes of the preceding subsection—
+
+(a) any land held by a parish council shall be treated as held by the district council whose area includes the area of the parish council, and
+
+(b) any land held by a community council shall be treated as held by the county or county borough council whose area includes the area of the community council.]
+
+#### 30 Power to forgo repayment of advances of remuneration paid to deceased employees.
+
+(1) If a person in the employment of a local authority—
+
+(a) receives from the authority remuneration in respect of a future period on the assumption that he will be employed in that employment throughout that period; and
+
+(b) dies before the expiration of that period,
+
+the authority may, subject to the following subsection, forgo the repayment of so much of the remuneration as relates to the period after his death.
+
+(2) An authority shall not be entitled to forgo such a repayment in respect of a period after the relevant death if—
+
+(a) a pension is payable for that period in respect of the deceased out of money provided by Parliament or out of a fund which is maintained by the authority or into which contributions have been paid by the authority in respect of service of the deceased; and
+
+(b) the rate of the pension is not less than the rate of relevant remuneration which was received by the deceased for his last year of service in the employment in question or, if relevant remuneration at different rates was received by him for that year, is not less than the highest of those rates;
+
+and in paragraph (*b*) of this subsection “relevant remuneration”, in relation to a deceased person and a year, means remuneration which would have fallen to be taken into account in respect of that year in calculating a retirement pension payable to him in respect of the employment in question on his attaining pensionable age and being granted such a retirement pension.
+
+[[^F48](3) For the purposes of this section—
+
+(a) the cases in which a person is in the employment of a local authority are to be taken to include cases where a person is a member of a police force maintained by a local authority; and
+
+(b) in such cases, references to employment are to be construed accordingly.]
+
+#### 31 Indemnities for officers of local authorities appointed as receivers or administrators.
+
+If an officer of a local authority is appointed [[^F49]as a deputy for a person by the Court of Protection] or, on the nomination of the authority, as the administrator of the estate of a deceased person, the authority may pay to the officer any sum which he becomes liable to pay in consequence of the appointment and may pay the premiums in respect of any policy of insurance for indemnifying the officer from the consequences of any act or omission connected with the appointment which occurs while he holds the appointment.
+
+### Miscellaneous
+
+#### 32 Power of local authorities to execute works outside their areas.
+
+Any power to execute works which is conferred on a local authority by any enactment may, unless the contrary intention appears in that or any other enactment, be exercised outside as well as inside the area of the authority.
+
+#### 33 Restoration or continuation of supply of water, gas or electricity.
+
+(1) If any premises in the area of a district council, a London borough council or the Common Council [[^F50], or a county or county borough council in Wales] are occupied as a dwelling and the supply of water, gas or electricity to the premises—
+
+(a) is cut off in consequence of the failure of the owner or former owner of the premises to pay a sum payable by him in connection with the supply; or
+
+(b) is in the opinion of the council likely to be cut off in consequence of such a failure,
+
+the council may, at the request in writing of the occupier of the premises, make such arrangements as it thinks fit with the [[^F51]person]who provided the supply for it to be restored to the premises or, as the case may be, for it to be continued to the premises.
+
+(2) Where under arrangements made in pursuance of the preceding subsection in respect of any premises a council makes a payment in respect of a sum which, at the time when the relevant supply to the premises was or became likely to be cut off as mentioned in that subsection, a person was liable to pay in connection with the supply to the [[^F51]person]who provided it, the council shall be entitled to demand and recover from that person a sum equal to the payment; and where under such arrangements a council makes a payment in respect of the restoration of a supply to any premises or a payment for a supply to any premises, the council shall be entitled to demand and recover from the owner of the premises a sum equal to the payment reduced by any amount received by the council in pursuance of subsection (4) of this section in respect of the payment.
+
+(3) A council by which a sum is recoverable from a person in pursuance of the preceding subsection shall also be entitled to recover from him interest on the sum, from the date of service of the demand for the sum, at [[^F52]such reasonable rate as the council may determine]; and such a demand must—
+
+(a) be served on the recipient in writing; and
+
+(b) give particulars of the payment to which the sum demanded relates; and
+
+(c) in the case of a demand for a sum on which interest is payable by virtue of this subsection, state the rate of the interest and that interest is payable from the date aforesaid.
+
+(4) Where by virtue of the preceding provisions of this section a council is entitled to recover from the owner of any premises a sum on account of a payment in respect of the restoration or continuation of a supply to the premises or a payment for a supply to the premises or interest on such a sum [[^F53]the sum so recoverable, together with any interest accrued due, shall, until recovered, be a charge on the premises concerned and if]—
+
+(a) the owner of the premises is, under the terms on which a person occupies the premises, required to pay for a supply of the kind to which that sum relates; and
+
+(b) the council has served a notice on that person requiring him to pay to the council, instead of to the owner of the premises, the rent for the premises which apart from this subsection is or becomes payable by him to the owner of the premises,
+
+it shall be the duty of that person to comply with the notice except so far as the council directs otherwise and the council may accordingly recover from him from time to time sums equal to the rent in question.
+
+[[^F54](4A) A charge under subsection (4) above takes effect from the date when the council makes the payment referred to in that subsection and, for the purposes of enforcing a charge,—
+
+(a) the council shall have the same powers and remedies, under the Law of Property Act 1925 and otherwise, as if it were a mortgagee by deed having powers of sale and lease, of accepting surrenders of leases and, subject to paragraph (b) below, of appointing a receiver; and
+
+(b) the power to appoint a receiver shall be exercisable at any time after the expiry of one month from the date when the charge takes effect.]
+
+(5) In this section “the owner”, in relation to any premises, means a person who apart from the preceding subsection is entitled on his own behalf or as a trustee or agent for another person to rent for the premises from the occupier of the premises and “former owner”, in relation to any premises, means a person who was so entitled to rent for the premises from the occupier or former occupier of the premises.
+
+#### [^F55]34 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 35 Removal of obstructions from private sewers.
+
+(1) If a private sewer is obstructed at a point within the area of a local authority (other than a county council [[^F56]in England]. . .), the authority may serve on each of the persons who is an owner or occupier of premises served by the sewer, or on each of such of those persons as the authority thinks fit, a notice requiring the recipients of notices in pursuance of this subsection in respect of the obstruction to remove it before a time specified in the notice; and that time shall not be earlier than forty-eight hours after the service of the notice or, if different notices in respect of the same obstruction are served in pursuance of this subsection at different times, shall not be earlier than forty-eight hours after the latest of those times.
+
+(2) If an obstruction in respect of which notices have been served by an authority in pursuance of the preceding subsection is not removed within the period specified in the notices, the authority may remove it.
+
+(3) Where an authority has reasonably incurred expenses in removing an obstruction in pursuance of the preceding subsection, the authority may serve on each of the persons on whom it served notice in pursuance of subsection (1) of this section in respect of the obstruction a further notice—
+
+(a) requiring him to pay to the authority a sum equal to so much of the expenses as is specified in the further notice; and
+
+(b) specifying the other persons on whom notices in pursuance of this subsection have been or are to be served in respect of the expenses and the amount specified or to be specified in each of those notices;
+
+and it shall be the duty of the authority, in determining what amounts to specify in notices to be served by the authority in pursuance of this subsection in respect of any expenses, to have regard to any matters which appear to the authority to indicate the cause of the obstruction and, so far as the authority are aware of the obligations, to any obligations to remove the obstruction which arose under agreements between persons on whom the notices are to be served.
+
+(4) A person on whom a notice is served in pursuance of the preceding subsection may, within the period of six weeks beginning with the date of service of the notice, appeal to the county court against the notice on the ground that it would be reasonable for the whole or part of the sum specified in the notice to be paid by some other person who is an owner or occupier of premises served by the sewer in question.
+
+(5) On an appeal in pursuance of the preceding subsection against a notice the court shall either dismiss the appeal or order that the whole or part of the sum specified in the notice shall be paid to the authority which served the notice by—
+
+(a) a person, other than the appellant, who is an owner or occupier of premises served by the sewer in question; or
+
+(b) persons, other than the appellant, each of whom is such an owner or occupier, in such proportions as are specified in the order,
+
+and that the sum specified in the notice shall be reduced accordingly; but the court shall not order any payment by a person other than the appellant unless that person has, not later than the beginning of the period of eight days ending with that on which the hearing of the appeal is begun, been made a respondent to the appeal in accordance with rules of court.
+
+(6) Where a local authority has served a notice on a person in pursuance of subsection (3) of this section, then—
+
+(a) if the person has not appealed against the notice in pursuance of subsection (4) of this section within the period specified in that subsection, the authority shall be entitled after the expiration of that period to recover from him the sum specified in the notice; and
+
+(b) if he has so appealed within that period and the court has not reduced to nil the sum specified in the notice, the authority shall be entitled after the determination of the appeal to recover from him the sum specified in the notice or, if the court has reduced that sum to a smaller sum, the smaller sum.
+
+(7) Expressions used in this section and in Part II of the [^M26]Public Health Act 1936 have the same meanings in this section as in that Part; and sections 287 and 288 of that Act (which confer power to enter premises and penalise obstruction) shall have effect as if references to that Act included references to this section.
+
+#### 36 Power of local authorities to appoint times and charges for markets.
+
+(1) Any provision of a local Act which confers power on a local authority to make byelaws appointing days on which or the hours during which markets or fairs are to be or may be held shall be construed as conferring on the authority a power to appoint such days or hours by resolution.
+
+(2) A local authority which maintains a market in pursuance of a local Act may, notwithstanding anything in any enactment relating to the market, make in connection with the market such charges as the authority determines from time to time.
+
+#### [^F57]37 Control of parking on areas used for loading or unloading goods vehicles.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 38 Use of spare capacity of computers of local authorities.
+
+(1) If a local authority—
+
+(a) has provided a computer for the purpose of enabling the authority to perform any of its functions other than functions under this section; and
+
+(b) considers that the computer can, without detriment to its use for that purpose, be used for the benefit of the authority in pursuance of the following provisions of this section,
+
+the authority may enter into agreements with other persons for the provision by the authority of facilities for using the computer or of services provided by means of the computer.
+
+(2) An agreement in pursuance of this section may contain such terms as to payment or otherwise as the parties consider appropriate; and it shall be the duty of a local authority, in settling the terms of such an agreement, to ensure that they are terms on which the authority considers that a person other than a local authority could reasonably be expected to provide the facilities or services in question.
+
+(3) In this section “computer” means any device for storing and processing information.
+
+#### 39 Protection of members and officers etc. of local authorities from personal liability.
+
+(1) Section 265 of the [^M27]Public Health Act 1875 (which relates to the protection from personal liability of members and officers of certain authorities) shall have effect [^F58]. . . as if any reference to those authorities and the first reference to that Act included respectively a reference to a local authority and to any other public general Act and any local Act and as if the reference to the general purposes of that Act included a reference to the purposes of the other public general Act or the local Act in question.
+
+(2) A person who is appointed as a member of a committee of a local authority or a joint committee of two or more local authorities by virtue of subsection (3) or (4) of section 102 of the [^M28]Local Government Act 1972 (which authorises among other things the appointment to such a committee of a person who is not a member of a relevant authority) shall, if he is not a member of the authority which appointed him, be treated as such a member for the purposes of the said section 265 as modified by the preceding subsection.
+
+#### 40 Local authorities not affected by trusts attaching to certain securities issued by them.
+
+(1) Where a local authority maintains in pursuance of any enactment a register of persons entitled to instruments which have been issued as evidence of or as security for any loan made to the authority, the officer [[^F59]or other person] who keeps the register on behalf of the authority (hereafter in this section referred to as “the registrar”) may if he thinks fit enter in the register as the description of a person so entitled a description specified by that person which may be a description of him as a trustee of a particular trust or a trustee without specifying a trust or any other description indicating the capacity in which he is entitled to such an instrument.
+
+(2) Where a person entitled to such an instrument holds an office or official position, the registrar may if he thinks fit, at the request of that person either before or after his name is entered in the register in connection with the instrument, enter in the register, instead of the person’s name, a description of him as the holder of the office or position; and where such a description is entered in the register any transfer of an instrument to which the description relates may be executed by, and any payment of interest or repayment of principal in connection with such an instrument may be made to, the holder for the time being of the office or position.
+
+(3) No notice of any trust shall be entered in the register or given to the registrar except as authorised by the preceding provisions of this section; and, notwithstanding anything in the terms of an entry in the register, neither the authority which maintains it nor the registrar shall be affected by notice of any trust relating to an instrument issued as aforesaid nor required to enquire about the propriety of anything done in connection with such an instrument.
+
+(4) References to a register in the preceding provisions of this section do not include a register maintained in pursuance of regulations made by virtue of paragraph 4 of Schedule 13 to the [^M29]Local Government Act 1972 (which relates to certain mortgages, stocks and bonds).
+
+#### 41 Evidence of resolutions and minutes of proceedings etc.
+
+(1) A document which—
+
+(a) purports to be a copy of—
+
+(i) a resolution, order or report of a local authority or a precursor of a local authority, or
+
+(ii) the minutes of the proceedings at a meeting of a local authority or a precursor of a local authority; and
+
+(b) bears a certificate purporting to be signed by the proper officer of the authority or a person authorised in that behalf by him or the authority and stating that the resolution was passed or the order or report was made by the authority or precursor on a date specified in the certificate or, as the case may be, that the minutes were signed in accordance with paragraph 41 of Schedule 12 to the [^M30]Local Government Act 1972 or the corresponding provision specified in the certificate of the enactments relating to local government which were in force when the minutes were signed,
+
+shall be evidence in any proceedings of the matters stated in the certificate and of the terms of the resolution, order, report or minutes in question.
+
+(2) In the preceding subsection references to a local authority, except the first and second references in paragraph (*b*), include references to a committee of a local authority and a sub-committee of such a committee and references to a precursor of a local authority include references to a committee of such a precursor and a sub-committee of such a committee.
+
+[[^F60](2A) In the case of a local authority which are operating executive arrangements, a document which—
+
+(a) purports to be a copy of a record of any decision made by the executive of that authority, [[^F61]or a member of that executive] or any person acting on behalf of that executive, where that record is required to be kept or produced by section 22 of the Local Government Act 2000 or any regulations made under that section [^M31]; and
+
+(b) bears a certificate purporting to be signed by the proper officer of the authority or by a person authorised in that behalf by him or any other person who, by virtue of regulations made under section 22 of the Local Government Act 2000, is authorised or required to produce such a record, stating that the decision was made on the date specified in the certificate by that executive, or as the case may be, [[^F62]by the member of that executive or] by the person acting on behalf of that executive,
+
+shall be evidence in any proceedings of the matters stated in the certificate and of the terms of the decision in question.]
+
+[[^F63](2B) Subsection (2C) applies to a record if—
+
+(a) it records a decision made or action taken by a member of a local authority or of a precursor of a local authority in exercise of a function of the authority or precursor by virtue of arrangements made under section 236 of the Local Government and Public Involvement in Health Act 2007, and
+
+(b) it is required to be made by regulations under section 100EA of the Local Government Act 1972.
+
+(2C) If a document which purports to be a copy of a record to which this subsection applies bears a certificate—
+
+(a) purporting to be signed by—
+
+(i) the proper officer of the local authority, or
+
+(ii) a person authorised in that behalf by that officer or by the local authority, and
+
+(b) stating that the decision was made or the action was taken by the member of the local authority on the date specified in the certificate,
+
+the document shall be evidence in any proceedings of the matters stated in the certificate and of the terms of the decision, or nature of the action, in question.]
+
+(3) A document which—
+
+(a) purports to be a copy of an instrument by which the proper officer of a local authority appointed a person to be an officer of the authority or authorised a person to perform functions specified in the instrument; and
+
+(b) bears a certificate purporting to be signed as mentioned in subsection (1)(*b*) of this section and stating that the document is a copy of the instrument in question,
+
+shall be evidence in any proceedings of the fact that the instrument was made by the said proper officer and of the terms of the instrument.
+
+(4) In the preceding provisions of this section “precursor”, in relation to a local authority, means any authority which has ceased to exist but which when it existed was constituted, in pursuance of the enactments relating to local government which were then in force, for an area any part of which is included in the area of the local authority.
+
+#### 42 Certain future local Acts etc. to be subject to the planning enactments etc. except as otherwise provided.
+
+(1) An Act or order to which this section applies shall have effect subject to—
+
+(a) the provisions of the enactments relating to town and country planning;
+
+(b) the provisions of the enactments relating to historic buildings and ancient monuments;
+
+[^F64]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
+
+[[^F65](d) Part II of the Food and Environment Protection Act 1985 (which relates to deposits in the sea).]
+
+except so far as the Act or order expressly provides otherwise.
+
+(2) This section applies to an Act or order which is—
+
+(a) a local Act passed after or in the same Session as this Act;
+
+(b) a provisional order confirmed by an Act so passed; or
+
+(c) an order which is made in the exercise of powers conferred by an Act and comes into force after the passing of this Act or in the same Session as this Act,
+
+and which authorises the carrying out on land specified in the Act or order of works of a kind so specified.
+
+#### [^F66]43 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Supplemental
+
+#### 44 Interpretation etc. of Part I.
+
+(1) In this Part of this Act, except where the contrary intention appears—
+
+- “apparatus” includes any structure constructed in order that apparatus may be lodged in it;
+
+- “the Common Council” means the Common Council of the City of London;
+
+- [[^F67]“executive” and “executive arrangements” have the same meaning as in Part II of the Local Government Act 2000;]
+
+- “functions” includes powers and duties;
+
+- “highway” has the same meaning as in [[^F68]the [^M32]Highways Act 1980];
+
+- “local Act” includes a provisional order confirmed by an Act;
+
+- [[^F69]“local authority” means a county council, [^F70]... a district council, a London borough council, the Common Council, the Council of the Isles of Scilly and—
+
+  - (a) in sections 13 to 16, 29, 30, 38, 39 and 41 of this Act, [[^F71]a [[^F72]police and crime commissioner, the Mayor's Office for Policing and Crime], ... [^F73]... ] ... a joint authority established by Part IV of the Local Government Act 1985 [[^F74]an economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009, a combined authority established under section 103 of that Act,] [[^F75]a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023,] [[^F76], a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004] [^F77]... [[^F78]and the London Fire Commissioner];
+  - (b) in sections 1, 16, 19, 30, 36, 39 and 41 of this Act, a parish council and a community council.
+  - (c) [[^F79]in section 40 of this Act, a joint authority established by Part IV of the Local Government Act 1985, an authority established under section 10 of that Act (waste regulation and disposal authorities), [^F80][[^F81]..., [[^F82]an economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009, a combined authority established under section 103 of that Act,]] [[^F83]a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023,] [[^F84]the London Fire Commissioner] and the South Yorkshire Pensions Authority.]]
+
+- “notice” means notice in writing;
+
+- “owner”, in relation to any land, place or premises, means a person who, either on his own account or as agent or trustee for another person, is receiving the rackrent of the land, place or premises or would be entitled to receive it if the land, place or premises were let at a rackrent, and “owned” shall be construed accordingly;
+
+- “statutory undertakers” means any of the following bodies, namely, any statutory undertakers within the meaning of [[^F85]the Highways Act 1980,][^F86][[^F87]..., [^F88]... and, [^F88]... [[^F89]a universal service provider in connection with the provision of a universal postal service]] ...; and
+
+- “traffic sign” has the same meaning as in the [^M33]Road Traffic Regulation Act [[^F90]1984].
+
+- [[^F91]“universal service provider” has the same meaning as in [[^F92]Part 3 of the Postal Services Act 2011] ; and references to the provision of a universal postal service shall be construed in accordance with [[^F93]that Part].]
+
+[[^F94](1ZA) The undertaking of a universal service provider so far as relating to the provision of a universal postal service shall be taken to be his statutory undertaking for the purposes of this Part; and references in this Part to his undertaking shall be construed accordingly.]
+
+[[^F95](1A) Sections 13, 15, 16, 29, 30, 32, 38, 39 and 41 of this Act shall have effect as if the Broads Authority were a local authority and the Broads (as defined in the Norfolk and Suffolk Broads Act 1988) were its local government area.]
+
+[[^F96](1B) Section 16 of this Act shall have effect as if the Environment Agency were a local authority.]
+
+[[^F97](1C) In relation to the Natural Resources Body for Wales, section 16 of this Act shall have effect—
+
+(a) as if that Body were a local authority; and
+
+(b) as if, in its application by virtue of paragraph (a), any reference to a function were a reference to the Body’s relevant transferred functions (within the meaning of article 11 of the Natural Resources Body for Wales (Establishment) Order 2012 (S.I.2012/1903)).]
+
+(2) [[^F98]Section 322 of the [^M34]Highways Act 1980] (which relates to the service of documents) shall apply to the service of any document by or on the Secretary of State in pursuance of [[^F98]section 7 of this Act as if that section were a provision of that Act].
+
+(3) When an offence under this Part of this Act (including an offence under byelaws made by virtue of section 12 of this Act) which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and be liable to be proceeded against and punished accordingly.
+
+Where the affairs of a body corporate are managed by its members the preceding provisions of this subsection shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+
+(4) Except so far as this Part of this Act expressly provides otherwise and subject to the provisions of section 33 of the [^M35]Interpretation Act 1889 (which relates to offences under two or more laws), nothing in this Part of this Act—
+
+(a) confers a right of action in any civil proceedings (other than proceedings for the recovery of a fine) in respect of any contravention of this Part of this Act or an instrument made in pursuance of this Part of this Act;
+
+(b) affects any restriction imposed by or under any other enactment, whether public, local or private; or
+
+(c) derogates from any right of action or other remedy (whether civil or criminal) in proceedings instituted otherwise than under this Part of this Act.
+
+(5) Nothing in paragraph (*a*) of the preceding subsection applies to the failure of a person to perform a duty imposed on him by section 1(4), 2(5), 25(6) or 7(b) [[^F99]of this Act or section 61(2)(*c*) of the Road Traffic Regulation Act 1984].
+
+(6) References in this Part of this Act to any enactment are references to it as amended by or under any other enactment.
+
+## Part II — Hackney carriages and private hire vehicles
+
+### 45 Application of Part II.
+
+(1) The provisions of this Part of this Act, except this section, shall come into force in accordance with the following provisions of this section.
+
+(2) If the Act of 1847 is in force in the area of a district council, the council may resolve that the provisions of this Part of this Act, other than this section, are to apply to the relevant area; and if the council do so resolve those provisions shall come into force in the relevant area on the day specified in that behalf in the resolution (which must not be before the expiration of the period of one month beginning with the day on which the resolution is passed).
+
+In this subsection “the relevant area”, in relation to a council, means—
+
+(a) if the Act of 1847 is in force throughout the area of the council, that area; and
+
+(b) if the Act of 1847 is in force for part only of the area of the council, that part of that area.
+
+(3) A council shall not pass a resolution in pursuance of the foregoing subsection unless they have—
+
+(a) published in two consecutive weeks, in a local newspaper circulating in their area, notice of their intention to pass the resolution; and
+
+(b) served a copy of the notice, not later than the date on which it is first published in pursuance of the foregoing paragraph, on the council of each parish or community which would be affected by the resolution or, in the case of such a parish which has no parish council, on the chairman of the parish meeting.
+
+(4) If after a council has passed a resolution in pursuance of subsection (2) of this section the Act of 1847 comes into force for any part of the area of the council for which it was not in force when the council passed the resolution, the council may pass a resolution in accordance with the foregoing provisions of this section in respect of that part as if that part were included in the relevant area for the purposes of subsection (2) of this section.
+
+### 46 Vehicle, drivers’ and operators’ licences.
+
+(1) Except as authorised by this Part of this Act—
+
+(a) no person being the proprietor of any vehicle, not being a hackney carriage [[^F100]or London cab] in respect of which a vehicle licence is in force, shall use or permit the same to be used in a controlled district as a private hire vehicle without having for such a vehicle a current licence under section 48 of this Act;
+
+(b) no person shall in a controlled district act as driver of any private hire vehicle without having a current licence under section 51 of this Act;
+
+(c) no person being the proprietor of a private hire vehicle licensed under this Part of this Act shall employ as the driver thereof for the purpose of any hiring any person who does not have a current licence under the said section 51;
+
+(d) no person shall in a controlled district operate any vehicle as a private hire vehicle without having a current licence under section 55 of this Act;
+
+(e) no person licensed under the said section 55 shall in a controlled district operate any vehicle as a private hire vehicle—
+
+(i) if for the vehicle a current licence under the said section 48 is not in force; or
+
+(ii) if the driver does not have a current licence under the said section 51.
+
+(2) If any person knowingly contravenes the provisions of this section, he shall be guilty of an offence.
+
+### 47 Licensing of hackney carriages.
+
+(1) A district council may attach to the grant of a licence of a hackney carriage under the Act of 1847 such conditions as the district council may consider reasonably necessary.
+
+(2) Without prejudice to the generality of the foregoing subsection, a district council may require any hackney carriage licensed by them under the Act of 1847 to be of such design or appearance or bear such distinguishing marks as shall clearly identify it as a hackney carriage.
+
+(3) Any person aggrieved by any conditions attached to such a licence may appeal to a magistrates’ court.
+
+### 48 Licensing of private hire vehicles.
+
+(1) Subject to the provisions of this Part of this Act, a district council may on the receipt of an application from the proprietor of any vehicle for the grant in respect of such vehicle of a licence to use the vehicle as a private hire vehicle, grant in respect thereof a vehicle licence:
+
+Provided that a district council shall not grant such a licence unless they are satisfied—
+
+(a) that the vehicle is—
+
+(i) suitable in type, size and design for use as a private hire vehicle;
+
+(ii) not of such design and appearance as to lead any person to believe that the vehicle is a hackney carriage;
+
+(iii) in a suitable mechanical condition;
+
+(iv) safe; and
+
+(v) comfortable;
+
+(b) that there is in force in relation to the use of the vehicle a policy of insurance or such security as complies with the requirements of [[^F101]Part VI of the Road Traffic Act 1988],
+
+and shall not refuse such a licence for the purpose of limiting the number of vehicles in respect of which such licences are granted by the council.
+
+(2) A district council may attach to the grant of a licence under this section such conditions as they may consider reasonably necessary including, without prejudice to the generality of the foregoing provisions of this subsection, conditions requiring or prohibiting the display of signs on or from the vehicle to which the licence relates.
+
+(3) In every vehicle licence granted under this section there shall be specified—
+
+(a) the name and address of—
+
+(i) the applicant; and
+
+(ii) every other person who is a proprietor of the private hire vehicle in respect of which the licence is granted, or who is concerned, either solely or in partnership with any other person, in the keeping, employing or letting on hire of the private hire vehicle;
+
+(b) the number of the licence which shall correspond with the number to be painted or marked on the plate or disc to be exhibited on the private hire vehicle in accordance with subsection (6) of this section;
+
+(c) the conditions attached to the grant of the licence; and
+
+(d) such other particulars as the district council consider reasonably necessary.
+
+(4) Every licence granted under this section shall—
+
+(a) be signed by an authorised officer of the council which granted it;
+
+(b) relate to not more than one private hire vehicle; and
+
+(c) remain in force for such period not being longer than one year as the district council may specify in the licence.
+
+(5) Where a district council grant under this section a vehicle licence in respect of a private hire vehicle they shall issue a plate or disc identifying that vehicle as a private hire vehicle in respect of which a vehicle licence has been granted.
+
+(6) (a) Subject to the provisions of this Part of this Act, no person shall use or permit to be used in a controlled district as a private hire vehicle in respect of which a licence has been granted under this section unless the plate or disc issued in accordance with subsection (5) of this section is exhibited on the vehicle in such manner as the district council shall prescribe by condition attached to the grant of the licence.
+
+(b) If any person without reasonable excuse contravenes the provisions of this subsection he shall be guilty of an offence.
+
+(7) Any person aggrieved by the refusal of a district council to grant a vehicle licence under this section, or by any conditions specified in such a licence, may appeal to a magistrates’ court.
+
+### 49 Transfer of hackney carriages and private hire vehicles.
+
+(1) If the proprietor of a hackney carriage or of a private hire vehicle in respect of which a vehicle licence has been granted by a district council transfers his interest in the hackney carriage or private hire vehicle to a person other than the proprietor whose name is specified in the licence, he shall within fourteen days after such transfer give notice in writing thereof to the district council specifying the name and address of the person to whom the hackney carriage or private hire vehicle has been transferred.
+
+(2) If a proprietor without reasonable excuse fails to give notice to a district council as provided by subsection (1) of this section he shall be guilty of an offence.
+
+### 50 Provisions as to proprietors.
+
+(1) Without prejudice to the provisions of section 68 of this Act, the proprietor of any hackney carriage or of any private hire vehicle licensed by a district council shall present such hackney carriage or private hire vehicle for inspection and testing by or on behalf of the council within such period and at such place within the area of the council as they may by notice reasonably require:
+
+Provided that a district council shall not under the provisions of this subsection require a proprietor to present the same hackney carriage or private hire vehicle for inspection and testing on more than three separate occasions during any one period of twelve months.
+
+(2) The proprietor of any hackney carriage or private hire vehicle—
+
+(a) licensed by a district council under the Act of 1847 or under this Part of this Act; or
+
+(b) in respect of which an application for a licence has been made to a district council under the Act of 1847 or under this Part of this Act;
+
+shall, within such period as the district council may by notice reasonably require, state in writing the address of every place where such hackney carriage or private hire vehicle is kept when not in use, and shall if the district council so require afford to them such facilities as may be reasonably necessary to enable them to cause such hackney carriage or private hire vehicle to be inspected and tested there.
+
+(3) Without prejudice to the provisions of [[^F102]section 170 of the Road Traffic Act 1988], the proprietor of a hackney carriage or of a private hire vehicle licensed by a district council shall report to them as soon as reasonably practicable, and in any case within seventy-two hours of the occurrence thereof, any accident to such hackney carriage or private hire vehicle causing damage materially affecting the safety, performance or appearance of the hackney carriage or private hire vehicle or the comfort or convenience of persons carried therein.
+
+(4) The proprietor of any hackney carriage or of any private hire vehicle licensed by a district council shall at the request of any authorised officer of the council produce for inspection the vehicle licence for such hackney carriage or private hire vehicle and the certificate of the policy of insurance or security required by [[^F103]Part VI of the Road Traffic Act 1988]in respect of such hackney carriage or private hire vehicle.
+
+(5) If any person without reasonable excuse contravenes the provisions of this section, he shall be guilty of an offence.
+
+### 51 Licensing of drivers of private hire vehicles.
+
+(1) Subject to the provisions of this Part of this Act, a district council shall, on the receipt of an application from any person for the grant to that person of a licence to drive private hire vehicles, grant to that person a driver’s licence:
+
+Provided that a district council shall not grant a licence—
+
+(a) unless they are satisfied [[^F104]—
+
+(i)] that the applicant is a fit and proper person to hold a driver’s licence; [[^F105]and
+
+(ii) that the applicant is not disqualified by reason of the applicant's immigration status from driving a private hire vehicle; or]
+
+(b) [[^F106]to any person who has not for at least twelve months been authorised to drive a motor car, or is not at the date of the application for a driver’s licence so authorised.]
+
+[[^F107](1ZA) In determining for the purposes of subsection (1) whether an applicant is disqualified by reason of the applicant's immigration status from driving a private hire vehicle, a district council must have regard to any guidance issued by the Secretary of State.]
+
+[^F108]1A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F109](1) For the purposes of subsection (1) of this section a person is authorised to drive a motor car if—
+
+(a) he holds a licence granted under Part III of the Road Traffic Act 1988 (not being a provisional licence) authorising him to drive a motor car, or
+
+(b) he is authorised by virtue of section 99A(1) [[^F110]or section 109(1)] of that Act to drive in Great Britain a motor car.]
+
+(2) A district council may attach to the grant of a licence under this section such conditions as they may consider reasonably necessary.
+
+(3) It shall be the duty of a council by which licences are granted in pursuance of this section to enter, in a register maintained by the council for the purpose, the following particulars of each such licence, namely—
+
+(a) the name of the person to whom it is granted;
+
+(b) the date on which and the period for which it is granted; and
+
+(c) if the licence has a serial number, that number,
+
+and to keep the register available at its principal offices for inspection by members of the public during office hours free of charge.
+
+### 52 Appeals in respect of drivers’ licences.
+
+Any person aggrieved by—
+
+(1) the refusal of the district council to grant a driver’s licence under section 51 of this Act; or
+
+(2) any conditions attached to the grant of a driver’s licence;
+
+may appeal to a magistrates’ court.
+
+### 53 Drivers’ licences for hackney carriages and private hire vehicles.
+
+(1) (a) [[^F111]Subject to section 53A, every] licence granted by a district council under the provisions of this Part of this Act to any person to drive a private hire vehicle shall remain in force for three years from the date of such licence or [[^F112]for such lesser period, specified in the licence, as the district council think appropriate in the circumstances of the case] .
+
+(b) Notwithstanding the provisions of the [^M36]Public Health Act 1875 and the [^M37]Town Police Clauses Act 1889, [[^F113]but subject to section 53A, ] every licence granted by a district council under the provisions of the Act of 1847 to any person to drive a hackney carriage shall remain in force for three years from the date of such licence or [[^F114]for such lesser period, specified in the licence, as the district council think appropriate in the circumstances of the case] .
+
+(2) Notwithstanding the provisions of the Act of 1847, a district council may demand and recover for the grant to any person of a licence to drive a hackney carriage, or a private hire vehicle, as the case may be, such a fee as they consider reasonable with a view to recovering the costs of issue and administration and may remit the whole or part of the fee in respect of a private hire vehicle in any case in which they think it appropriate to do so.
+
+(3) The driver of any hackney carriage or of any private hire vehicle licensed by a district council shall at the request of any authorised officer of the council or of any constable produce for inspection his driver’s licence either forthwith or—
+
+(a) in the case of a request by an authorised officer, at the principal offices of the council before the expiration of the period of five days beginning with the day following that on which the request is made;
+
+(b) in the case of a request by a constable, before the expiration of the period aforesaid at any police station which is within the area of the council and is nominated by the driver when the request is made.
+
+(4) If any person without reasonable excuse contravenes the provisions of this section, he shall be guilty of an offence.
+
+### 53A [[^F115]Drivers' licences for persons subject to immigration control
+
+(1) Subsection (2) applies if—
+
+(a) a licence within section 53(1)(a) or (b) is to be granted to a person who has been granted leave to enter or remain in the United Kingdom for a limited period (“the leave period”);
+
+(b) the person's leave has not been extended by virtue of section 3C of the Immigration Act 1971 (continuation of leave pending variation decision); and
+
+(c) apart from subsection (2), the period for which the licence would have been in force would have ended after the end of the leave period.
+
+(2) The district council which grants the licence must specify a period in the licence as the period for which it remains in force; and that period must end at or before the end of the leave period.
+
+(3) Subsection (4) applies if—
+
+(a) a licence within section 53(1)(a) or (b) is to be granted to a person who has been granted leave to enter or remain in the United Kingdom for a limited period; and
+
+(b) the person's leave has been extended by virtue of section 3C of the Immigration Act 1971 (continuation of leave pending variation decision).
+
+(4) The district council which grants the licence must specify a period in the licence as the period for which it remains in force; and that period must not exceed six months.
+
+(5) A licence within section 53(1)(a) ceases to be in force if the person to whom it was granted becomes disqualified by reason of the person's immigration status from driving a private hire vehicle.
+
+(6) A licence within section 53(1)(b) ceases to be in force if the person to whom it was granted becomes disqualified by reason of the person's immigration status from driving a hackney carriage.
+
+(7) If a licence granted in accordance with subsection (2) or (4) expires, the person to whom it was granted must, within the period of 7 days beginning with the day after that on which it expired, return the licence and the person's driver's badge to the district council which granted the licence.
+
+(8) If subsection (5) or (6) applies to a licence, the person to whom it was granted must, within the period of 7 days beginning with the day after the day on which the person first became disqualified, return the licence and the person's driver's badge to the district council which granted the licence.
+
+(9) A person who, without reasonable excuse, contravenes subsection (7) or (8) is guilty of an offence and liable on summary conviction—
+
+(a) to a fine not exceeding level 3 on the standard scale; and
+
+(b) in the case of a continuing offence, to a fine not exceeding ten pounds for each day during which an offence continues after conviction.
+
+(10) The Secretary of State may by regulations made by statutory instrument amend the amount for the time being specified in subsection (9)(b).
+
+(11) Regulations under subsection (10) may make transitional, transitory or saving provision.
+
+(12) A statutory instrument containing regulations under subsection (10) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.]
+
+### 54 Issue of drivers’ badges.
+
+(1) When granting a driver’s licence under section 51 of this Act a district council shall issue a driver’s badge in such a form as may from time to time be prescribed by them.
+
+(2) (a) A driver shall at all times when acting in accordance with the driver’s licence granted to him wear such badge in such position and manner as to be plainly and distinctly visible.
+
+(b) If any person without reasonable excuse contravenes the provisions of this subsection, he shall be guilty of an offence.
+
+### 55 Licensing of operators of private hire vehicles.
+
+(1) Subject to the provisions of this Part of this Act, a district council shall, on receipt of an application from any person for the grant to that person of a licence to operate private hire vehicles grant to that person an operator’s licence:
+
+Provided that a district council shall not grant a licence unless they are satisfied [[^F116] —
+
+(a)] that the applicant is a fit and proper person to hold an operator’s licence[[^F117]; and
+
+(b) if the applicant is an individual, that the applicant is not disqualified by reason of the applicant's immigration status from operating a private hire vehicle.]
+
+[[^F118](1A) In determining for the purposes of subsection (1) whether an applicant is disqualified by reason of the applicant's immigration status from operating a private hire vehicle, a district council must have regard to any guidance issued by the Secretary of State.]
+
+[[^F119](2) [[^F120]Subject to section 55ZA, every] licence granted under this section shall remain in force for five years or for such lesser period, specified in the licence, as the district council think appropriate in the circumstances of the case.]
+
+(3) A district council may attach to the grant of a licence under this section such conditions as they may consider reasonably necessary.
+
+(4) Any applicant aggrieved by the refusal of a district council to grant an operator’s licence under this section, or by any conditions attached to the grant of such a licence, may appeal to a magistrates’ court.
+
+### 55ZA [[^F121]Operators' licences for persons subject to immigration control
+
+(1) Subsection (2) applies if—
+
+(a) a licence under section 55 is to be granted to a person who has been granted leave to enter or remain in the United Kingdom for a limited period (“the leave period”);
+
+(b) the person's leave has not been extended by virtue of section 3C of the Immigration Act 1971 (continuation of leave pending variation decision); and
+
+(c) apart from subsection (2), the period for which the licence would have been in force would have ended after the end of the leave period.
+
+(2) The district council which grants the licence must specify a period in the licence as the period for which it remains in force; and that period must end at or before the end of the leave period.
+
+(3) Subsection (4) applies if—
+
+(a) a licence under section 55 is to be granted to a person who has been granted leave to enter or remain in the United Kingdom for a limited period; and
+
+(b) the person's leave has been extended by virtue of section 3C of the Immigration Act 1971 (continuation of leave pending variation decision).
+
+(4) The district council which grants the licence must specify a period in the licence as the period for which it remains in force; and that period must not exceed six months.
+
+(5) A licence under section 55 ceases to be in force if the person to whom it was granted becomes disqualified by reason of the person's immigration status from operating a private hire vehicle.
+
+(6) If a licence granted in accordance with subsection (2) or (4) expires, the person to whom it was granted must, within the period of 7 days beginning with the day after that on which it expired, return the licence to the district council which granted the licence.
+
+(7) If subsection (5) applies to a licence, the person to whom it was granted must, within the period of 7 days beginning with the day after the day on which the person first became disqualified, return it to the district council which granted the licence.
+
+(8) A person who, without reasonable excuse, contravenes subsection (6) or (7) is guilty of an offence and liable on summary conviction—
+
+(a) to a fine not exceeding level 3 on the standard scale; and
+
+(b) in the case of a continuing offence, to a fine not exceeding ten pounds for each day during which an offence continues after conviction.
+
+(9) The Secretary of State may by regulations made by statutory instrument amend the amount for the time being specified in subsection (8)(b).
+
+(10) Regulations under subsection (9) may make transitional, transitory or saving provision.
+
+(11) A statutory instrument containing regulations under subsection (9) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.]
+
+### 55A [[^F122]Sub-contracting by operators
+
+(1) A person licensed under section 55 who has in a controlled district accepted a booking for a private hire vehicle may arrange for another person to provide a vehicle to carry out the booking if—
+
+(a) the other person is licensed under section 55 in respect of the same controlled district and the sub-contracted booking is accepted in that district;
+
+(b) the other person is licensed under section 55 in respect of another controlled district and the sub-contracted booking is accepted in that district;
+
+(c) the other person is a London PHV operator and the sub-contracted booking is accepted at an operating centre in London; or
+
+(d) the other person accepts the sub-contracted booking in Scotland.
+
+(2) It is immaterial for the purposes of subsection (1) whether or not sub-contracting is permitted by the contract between the person licensed under section 55 who accepted the booking and the person who made the booking.
+
+(3) Where a person licensed under section 55 in respect of a controlled district is also licensed under that section in respect of another controlled district, subsection (1) (so far as relating to paragraph (b) of that subsection) and section 55B(1) and (2) apply as if each licence were held by a separate person.
+
+(4) Where a person licensed under section 55 in respect of a controlled district is also a London PHV operator, subsection (1) (so far as relating to paragraph (c) of that subsection) and section 55B(1) and (2) apply as if the person holding the licence under section 55 and the London PHV operator were separate persons.
+
+(5) Where a person licensed under section 55 in respect of a controlled district also makes provision in the course of a business for the invitation or acceptance of bookings for a private hire car or taxi in Scotland, subsection (1) (so far as relating to paragraph (d) of that subsection) and section 55B(1) and (2) apply as if the person holding the licence under section 55 and the person making the provision in Scotland were separate persons.
+
+In this subsection, “private hire car” and “taxi” have the same meaning as in sections 10 to 22 of the Civic Government (Scotland) Act 1982.
+
+(6) In this section, “London PHV operator” and “operating centre” have the same meaning as in the Private Hire Vehicles (London) Act 1998.
+
+### 55B Sub-contracting by operators: criminal liability
+
+(1) In this section—
+
+- “the first operator” means a person licensed under section 55 who has in a controlled district accepted a booking for a private hire vehicle and then made arrangements for another person to provide a vehicle to carry out the booking in accordance with section 55A(1);
+- “the second operator” means the person with whom the first operator made the arrangements (and, accordingly, the person who accepted the sub-contracted booking).
+
+(2) The first operator is not to be treated for the purposes of section 46(1)(e) as operating a private hire vehicle by virtue of having invited or accepted the booking.
+
+(3) The first operator is guilty of an offence if—
+
+(a) the second operator is a person mentioned in section 55A(1)(a) or (b),
+
+(b) the second operator contravenes section 46(1)(e) in respect of the sub-contracted booking, and
+
+(c) the first operator knew that the second operator would contravene section 46(1)(e) in respect of the booking.]
+
+### 56 Operators of private hire vehicles.
+
+(1) For the purposes of this Part of this Act every contract for the hire of a private hire vehicle licensed under this Part of this Act shall be deemed to be made with the operator who accepted the booking for that vehicle whether or not he himself provided the vehicle.
+
+(2) Every person to whom a licence in force under section 55 of this Act has been granted by a district council shall keep a record in such form as the council may, by condition attached to the grant of the licence, prescribe and shall enter therein, before the commencement of each journey, such particulars of every booking of a private hire vehicle invited or accepted by him, whether by accepting the same from the hirer or by undertaking it at the request of another operator, as the district council may by condition prescribe and shall produce such record on request to any authorised officer of the council or to any constable for inspection.
+
+(3) Every person to whom a licence in force under section 55 of this Act has been granted by a district council shall keep such records as the council may, by conditions attached to the grant of the licence, prescribe of the particulars of any private hire vehicle operated by him and shall produce the same on request to any authorised officer of the council or to any constable for inspection.
+
+(4) A person to whom a licence in force under section 55 of this Act has been granted by a district council shall produce the licence on request to any authorised officer of the council or any constable for inspection.
+
+(5) If any person without reasonable excuse contravenes the provisions of this section, he shall be guilty of an offence.
+
+### 57 Power to require applicants to submit information.
+
+(1) A district council may require any applicant for a licence under the Act of 1847 or under this Part of this Act to submit to them such information as they may reasonably consider necessary to enable them to determine whether the licence should be granted and whether conditions should be attached to any such licence.
+
+(2) Without prejudice to the generality of the foregoing subsection—
+
+(a) a district council may require an applicant for a driver’s licence in respect of a hackney carriage or a private hire vehicle—
+
+(i) to produce a certificate signed by a registered medical practitioner to the effect that he is physically fit to be the driver of a hackney carriage or a private hire vehicle; and
+
+(ii) whether or not such a certificate has been produced, to submit to examination by a registered medical practitioner selected by the district council as to his physical fitness to be the driver of a hackney carriage or a private hire vehicle;
+
+(b) a district council may require an applicant for an operator’s licence to submit to them such information as to—
+
+(i) the name and address of the applicant;
+
+(ii) the address or addresses whether within the area of the council or not from which he intends to carry on business in connection with private hire vehicles licensed under this Part of this Act;
+
+(iii) any trade or business activities he has carried on before making the application;
+
+(iv) any previous application he has made for an operator’s licence;
+
+(v) the revocation or suspension of any operator’s licence previously held by him;
+
+(vi) any convictions recorded against the applicant;
+
+as they may reasonably consider necessary to enable them to determine whether to grant such licence;
+
+(c) in addition to the information specified in paragraph (*b*) of this subsection, a district council may require an applicant for an operator’s licence to submit to them—
+
+(i) if the applicant is or has been a director or secretary of a company, information as to any convictions recorded against that company at any relevant time; any trade or business activities carried on by that company; any previous application made by that company for an operator’s licence; and any revocation or suspension of an operator’s licence previously held by that company;
+
+(ii) if the applicant is a company, information as to any convictions recorded against a director or secretary of that company; any trade or business activities carried on by any such director or secretary; any previous application made by any such director or secretary for an operator’s licence; and any revocation or suspension of an operator’s licence previously held by such director or secretary;
+
+(iii) if the applicant proposes to operate the vehicle in partnership with any other person, information as to any convictions recorded against that person; any trade or business activities carried on by that person; any previous application made by that person for an operator’s licence; and any revocation or suspension of an operator’s licence previously held by him.
+
+(3) If any person knowingly or recklessly makes a false statement or omits any material particular in giving information under this section, he shall be guilty of an offence.
+
+### 58 Return of identification plate or disc on revocation or expiry of licence etc.
+
+(1) On—
+
+(a) the revocation or expiry of a vehicle licence in relation to a hackney carriage or private hire vehicle; or
+
+(b) the suspension of a licence under section 68 of this Act;
+
+a district council may by notice require the proprietor of that hackney carriage or private hire vehicle licensed by them to return to them within seven days after the service on him of that notice the plate or disc which—
+
+(a) in the case of a hackney carriage, is required to be affixed to the carriage as mentioned in section 38 of the Act of 1847; and
+
+(b) in the case of a private hire vehicle, was issued for the vehicle under section 48(5) of this Act.
+
+(2) If any proprietor fails without reasonable excuse to comply with the terms of a notice under subsection (1) of this section—
+
+(a) he shall be guilty of an offence and liable on summary conviction to a fine not exceeding [[^F123]level 3 on the standard scale] and to a daily fine not exceeding ten pounds; and
+
+(b) any authorised officer of the council or constable shall be entitled to remove and retain the said plate or disc from the said hackney carriage or private hire vehicle.
+
+### 59 Qualifications for drivers of hackney carriages.
+
+(1) Notwithstanding anything in the Act of 1847, a district council shall not grant a licence to drive a hackney carriage—
+
+(a) unless they are satisfied [[^F124]—
+
+(i)] that the applicant is a fit and proper person to hold a driver’s licence; [[^F125]and
+
+(ii) that the applicant is not disqualified by reason of the applicant's immigration status from driving a hackney carriage; or]
+
+[[^F126](b) to any person who has not for at least twelve months been authorised to drive a motor car, or is not at the date of the application for a driver’s licence so authorised.]
+
+[[^F127](1ZA) In determining for the purposes of subsection (1) whether an applicant is disqualified by reason of the applicant's immigration status from driving a hackney carriage, a district council must have regard to any guidance issued by the Secretary of State.]
+
+[[^F128](1A) For the purposes of subsection (1) of this section a person is authorised to drive a motor car if—
+
+(a) he holds a licence granted under Part III of the Road Traffic Act 1988 (not being a provisional licence) authorising him to drive a motor car, or
+
+(b) he is authorised by virtue of section 99A(1) [[^F129]or section 109(1)]of that Act to drive in Great Britain a motor car.]
+
+[^F130]1A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Any applicant aggrieved by the refusal of a district council to grant a driver’s licence on the ground that he is not a fit and proper person to hold such licence may appeal to a magistrate’s court.
+
+### 60 Suspension and revocation of vehicle licences.
+
+(1) Notwithstanding anything in the Act of 1847 or in this Part of this Act, a district council may suspend or revoke, or (on application therefor under section 40 of the Act of 1847 or section 48 of this Act, as the case may be) refuse to renew a vehicle licence on any of the following grounds:—
+
+(a) that the hackney carriage or private hire vehicle is unfit for use as a hackney carriage or private hire vehicle;
+
+(b) any offence under, or non-compliance with, the provisions of the Act of 1847 or of this Part of this Act by the operator or driver; or
+
+(c) any other reasonable cause.
+
+(2) Where a district council suspend, revoke or refuse to renew any licence under this section they shall give to the proprietor of the vehicle notice of the grounds on which the licence has been suspended or revoked or on which they have refused to renew the licence within fourteen days of such suspension, revocation or refusal.
+
+(3) Any proprietor aggrieved by a decision of a district council under this section may appeal to a magistrates’ court.
+
+### 61 Suspension and revocation of drivers’ licences.
+
+(1) Notwithstanding anything in the Act of 1847 or in this Part of this Act, a district council may suspend or revoke or (on application therefor under section 46 of the Act of 1847 or section 51 of this Act, as the case may be) refuse to renew the licence of a driver of a hackney carriage or a private hire vehicle on any of the following grounds:—
+
+(a) that he has since the grant of the licence—
+
+(i) been convicted of an offence involving dishonesty, indecency or violence; or
+
+(ii) been convicted of an offence under or has failed to comply with the provisions of the Act of 1847 or of this Part of this Act;
+
+[[^F131](aa) that he has since the grant of the licence been convicted of an immigration offence or required to pay an immigration penalty;]or
+
+(b) any other reasonable cause.
+
+[[^F132](1A) Subsection (1)(aa) does not apply if—
+
+(a) in a case where the driver has been convicted of an immigration offence, the conviction is a spent conviction within the meaning of the Rehabilitation of Offenders Act 1974, or
+
+(b) in a case where the driver has been required to pay an immigration penalty—
+
+(i) more than three years have elapsed since the date on which the penalty was imposed, and
+
+(ii) the amount of the penalty has been paid in full.]
+
+(2) (a) Where a district council suspend, revoke or refuse to renew any licence under this section they shall give to the driver notice of the grounds on which the licence has been suspended or revoked or on which they have refused to renew such licence within fourteen days of such suspension, revocation or refusal and the driver shall on demand return to the district council the driver’s badge issued to him in accordance with section 54 of this Act.
+
+(b) If any person without reasonable excuse contravenes the provisions of this section he shall be guilty of an offence and liable on summary conviction to a fine not exceeding [[^F133]level 1 on the standard scale].
+
+[[^F134](2ZA) The requirement in subsection (2)(a) to return a driver's badge does not apply in a case where section 62A applies (but see subsection (2) of that section).]
+
+[[^F135](2A) Subject to subsection (2B) of this section, a suspension or revocation of the licence of a driver under this section takes effect at the end of the period of 21 days beginning with the day on which notice is given to the driver under subsection (2)(a) of this section.
+
+(2B) If it appears that the interests of public safety require the suspension or revocation of the licence to have immediate effect, and the notice given to the driver under subsection (2)(a) of this section includes a statement that that is so and an explanation why, the suspension or revocation takes effect when the notice is given to the driver.]
+
+(3) Any driver aggrieved by a decision of a district council under [[^F136]subsection (1) of] this section may appeal to a magistrates’ court.
+
+### 62 Suspension and revocation of operators’ licences.
+
+(1) Notwithstanding anything in this Part of this Act a district council may suspend or revoke, or (on application therefor under section 55 of this Act) refuse to renew an operator’s licence on any of the following grounds:—
+
+(a) any offence under, or non-compliance with, the provisions of this Part of this Act;
+
+(b) any conduct on the part of the operator which appears to the district council to render him unfit to hold an operator’s licence;
+
+(c) any material change since the licence was granted in any of the circumstances of the operator on the basis of which the licence was granted;
+
+[[^F137](ca) that the operator has since the grant of the licence been convicted of an immigration offence or required to pay an immigration penalty;]or
+
+(d) any other reasonable cause.
+
+[[^F138](1A) Subsection (1)(ca) does not apply if—
+
+(a) in a case where the operator has been convicted of an immigration offence, the conviction is a spent conviction within the meaning of the Rehabilitation of Offenders Act 1974, or
+
+(b) in a case where the operator has been required to pay an immigration penalty—
+
+(i) more than three years have elapsed since the date on which the penalty was imposed, and
+
+(ii) the amount of the penalty has been paid in full.]
+
+(2) Where a district council suspend, revoke or refuse to renew any licence under this section they shall give to the operator notice of the grounds on which the licence has been suspended or revoked or on which they have refused to renew such licence within fourteen days of such suspension, revocation or refusal.
+
+(3) Any operator aggrieved by a decision of a district council under this section may appeal to a magistrates’ court.
+
+### 62A [[^F139]Return of licences suspended or revoked on immigration grounds
+
+(1) Subsection (2) applies if—
+
+(a) under section 61 a district council suspend, revoke or refuse to renew the licence of a driver of a hackney carriage or a private hire vehicle on the ground mentioned in subsection (1)(aa) of that section, or
+
+(b) under section 62 a district council suspend, revoke or refuse to renew an operator's licence on the ground mentioned in subsection (1)(ca) of that section.
+
+(2) The person to whom the licence was granted must, within the period of 7 days beginning with the relevant day, return to the district council—
+
+(a) the licence, and
+
+(b) in the case of a licence of a driver of a hackney carriage or a private hire vehicle, the person's driver's badge.
+
+(3) In subsection (2) “the relevant day” means—
+
+(a) where the licence is suspended or revoked, the day on which the suspension or revocation takes effect;
+
+(b) where the district council refuse to renew the licence, the day on which the licence expires as a result of the failure to renew it.
+
+(4) A person who, without reasonable excuse, contravenes subsection (2) is guilty of an offence and liable on summary conviction—
+
+(a) to a fine not exceeding level 3 on the standard scale, and
+
+(b) in the case of a continuing offence, to a fine not exceeding ten pounds for each day during which an offence continues after conviction.
+
+(5) The Secretary of State may by regulations made by statutory instrument amend the amount for the time being specified in subsection (4)(b).
+
+(6) Regulations under subsection (5) may make transitional, transitory or saving provision.
+
+(7) A statutory instrument containing regulations under subsection (5) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.]
+
+### 63 Stands for hackney carriages.
+
+(1) For the purposes of their functions under the Act of 1847, a district council may from time to time appoint stands for hackney carriages for the whole or any part of a day in any highway in the district which is maintainable at the public expense and, with the consent of the owner, on any land in the district which does not form part of a highway so maintainable and may from time to time vary the number of hackney carriages permitted to be at each stand.
+
+(2) Before appointing any stand for hackney carriages or varying the number of hackney carriages to be at each stand in exercise of the powers of this section, a district council shall give notice to the chief officer of police for the police area in which the stand is situated and shall also give public notice of the proposal by advertisement in at least one local newspaper circulating in the district and shall take into consideration any objections or representations in respect of such proposal which may be made to them in writing within twenty-eight days of the first publication of such notice.
+
+(3) Nothing in this section shall empower a district council to appoint any such stand—
+
+(a) so as unreasonably to prevent access to any premises;
+
+(b) so as to impede the use of any points authorised to be used in connection with a [[^F140]local service within the meaning of the Transport Act 1985][[^F141]or PSV operator’s licence granted under [[^F142]the Public Passenger Vehicles Act 1981]], as points for the taking up or setting down of passengers, or in such a position as to interfere unreasonably with access to any station or depot of any passenger road transport operators, except with the consent of those operators;
+
+(c) on any highway except with the consent of the highway authority;
+
+and in deciding the position of stands a district council shall have regard to the position of any bus stops for the time being in use.
+
+(4) Any hackney carriage byelaws for fixing stands for hackney carriages which were made by a district council before the date when this section comes into force in the area of the council and are in force immediately before that date shall cease to have effect, but any stands fixed by such byelaws shall be deemed to have been appointed under this section.
+
+(5) The power to appoint stands for hackney carriages under subsection (1) of this section shall include power to revoke such appointment and to alter any stand so appointed and the expressions “appointing” and “appoint” in subsections (2) and (3) of this section shall be construed accordingly.
+
+### 64 Prohibition of other vehicles on hackney carriage stands.
+
+(1) No person shall cause or permit any vehicle other than a hackney carriage to wait on any stand for hackney carriages during any period for which that stand has been appointed, or is deemed to have been appointed, by a district council under the provisions of section 63 of this Act.
+
+(2) Notice of the prohibition in this section shall be indicated by such traffic signs as may be prescribed or authorised for the purpose by the Secretary of State in pursuance of his powers under [[^F143]section 64 of the [^M38]Road Traffic Regulation Act 1984].
+
+(3) If any person without reasonable excuse contravenes the provisions of this section, he shall be guilty of an offence.
+
+(4) In any proceedings under this section against the driver of a public service vehicle it shall be a defence to show that, by reason of obstruction to traffic or for other compelling reason, he caused his vehicle to wait on a stand or part thereof and that he caused or permitted his vehicle so to wait only for so long as was reasonably necessary for the taking up or setting down of passengers.
+
+### 65 Fixing of fares for hackney carriages.
+
+(1) A district council may fix the rates or fares within the district as well for time as distance, and all other charges in connection with the hire of a vehicle or with the arrangements for the hire of a vehicle, to be paid in respect of the hire of hackney carriages by means of a table (hereafter in this section referred to as a “table of fares”) made or varied in accordance with the provisions of this section.
+
+(2) (a) When a district council make or vary a table of fares they shall publish in at least one local newspaper circulating in the district a notice setting out the table of fares or the variation thereof and specifying the period, which shall not be less than fourteen days from the date of the first publication of the notice, within which and the manner in which objections to the table of fares or variation can be made.
+
+(b) A copy of the notice referred to in paragraph (*a*) of this subsection shall for the period of fourteen days from the date of the first publication thereof be deposited at the offices of the council which published the notice, and shall at all reasonable hours be open to public inspection without payment.
+
+(3) If no objection to a table of fares or variation is duly made within the period specified in the notice referred to in subsection (2) of this section, or if all objections so made are withdrawn, the table of fares or variation shall come into operation on the date of the expiration of the period specified in the notice or the date of withdrawal of the objection or, if more than one, of the last objection, whichever date is the later.
+
+(4) If objection is duly made as aforesaid and is not withdrawn, the district council shall set a further date, not later than two months after the first specified date, on which the table of fares shall come into force with or without modifications as decided by them after consideration of the objections.
+
+(5) A table of fares made or varied under this section shall have effect for the purposes of the Act of 1847 as if it were included in hackney carriage byelaws made thereunder.
+
+(6) On the coming into operation of a table of fares made by a council under this section for the district, any hackney carriage byelaws fixing the rates and fares or any table of fares previously made under this section for the district, as the case may be, shall cease to have effect.
+
+(7) Section 236(8) (except the words “when confirmed”) and section 238 of the [^M39]Local Government Act 1972 (except paragraphs (*c*) and (*d*) of that section) shall extend and apply to a table of fares made or varied under this section [[^F144]by a district council in England] as they apply to byelaws made by a district council [[^F145]in England] .
+
+[[^F146](7A) Section 8(5) and section 19 of the Local Government Byelaws (Wales) Act 2012 shall extend and apply to a table of fares made or varied under this section by a council for a county or county borough in Wales as they apply to byelaws made by a council for a county or county borough in Wales.]
+
+### 66 Fares for long journeys.
+
+(1) No person, being the driver of a hackney carriage licensed by a district council, and undertaking for any hirer a journey ending outside the district and in respect of which no fare and no rate of fare was agreed before the hiring was effected, shall require for such journey a fare greater than that indicated on the taximeter with which the hackney carriage is equipped or, if it is not equipped with a taximeter, greater than that which, if the current byelaws fixing rates or fares and in force in the district in pursuance of section 68 of the Act of 1847 or, as the case may be, the current table of fares in force within the district in pursuance of section 65 of this Act had applied to the journey, would have been authorised for the journey by the bylaws or table.
+
+(2) If any person knowingly contravenes the provisions of this section, he shall be guilty of an offence.
+
+### 67 Hackney carriages used for private hire.
+
+(1) No hackney carriage shall be used in the district under a contract or purported contract for private hire except at a rate of fares or charges not greater than that fixed by the byelaws or tables mentioned in section 66 of this Act, and, when any such hackney carriage is so used, the fare or charge shall be calculated from the point in the district at which the hirer commences his journey.
+
+(2) Any person who knowingly contravenes this section shall be guilty of an offence.
+
+(3) In subsection (1) of this section “contract” means—
+
+(a) a contract made otherwise than while the relevant hackney carriage is plying for hire in the district or waiting at a place in the district which, when the contract is made, is a stand for hackney carriages appointed by the district council under section 63 of this Act; and
+
+(b) a contract made, otherwise than with or through the driver of the relevant hackney carriage, while it is so plying or waiting.
+
+### 68 Fitness of hackney carriages and private hire vehicles.
+
+Any authorised officer of the council in question or any constable shall have power at all reasonable times to inspect and test, for the purpose of ascertaining its fitness, any hackney carriage or private hire vehicle licensed by a district council, or any taximeter affixed to such a vehicle, and if he is not satisfied as to the fitness of the hackney carriage or private hire vehicle or as to the accuracy of its taximeter he may by notice in writing require the proprietor of the hackney carriage or private hire vehicle to make it or its taximeter available for further inspection and testing at such reasonable time and place as may be specified in the notice and suspend the vehicle licence until such time as such authorised officer or constable is so satisfied:
+
+Provided that, if the authorised officer or constable is not so satisfied before the expiration of a period of two months, the said licence shall, by virtue of this section, be deemed to have been revoked and subsections (2) and (3) of section 60 of this Act shall apply with any necessary modifications.
+
+### 69 Prolongation of journeys.
+
+(1) No person being the driver of a hackney carriage or of a private hire vehicle licensed by a district council shall without reasonable cause unnecessarily prolong, in distance or in time, the journey for which the hackney carriage or private vehicle has been hired.
+
+(2) If any person contravenes the provisions of this section, he shall be guilty of an offence.
+
+### 70 Fees for vehicle and operators’ licences.
+
+(1) Subject to the provisions of subsection (2) of this section, a district council may charge such fees for the grant of vehicle and operators’ licences as may be resolved by them from time to time and as may be sufficient in the aggregate to cover in whole or in part—
+
+(a) the reasonable cost of the carrying out by or on behalf of the district council of inspections of hackney carriages and private hire vehicles for the purpose of determining whether any such licence should be granted or renewed;
+
+(b) the reasonable cost of providing hackney carriage stands; and
+
+(c) any reasonable administrative or other costs in connection with the foregoing and with the control and supervision of hackney carriages and private hire vehicles.
+
+(2) The fees chargeable under this section shall not exceed—
+
+(a) for the grant of a vehicle licence in respect of a hackney carriage, twenty-five pounds;
+
+(b) for the grant of a vehicle licence in respect of a private hire vehicle, twenty-five pounds; and
+
+(c) for the grant of an operator’s licence, twenty-five pounds per annum;
+
+or, in any such case, such other sums as a district council may, subject to the following provisions of this section, from time to time determine.
+
+(3) (a) If a district council determine that the maximum fees specified in subsection (2) of this section should be varied they shall publish in at least one local newspaper circulating in the district a notice setting out the variation proposed, drawing attention to the provisions of paragraph (*b*) of this subsection and specifying the period, which shall not be less than twenty-eight days from the date of the first publication of the notice, within which and the manner in which objections to the variation can be made.
+
+(b) A copy of the notice referred to in paragraph (*a*) of this subsection shall for the period of twenty-eight days from the date of the first publication thereof be deposited at the offices of the council which published the notice and shall at all reasonable hours be open to public inspection without payment.
+
+(4) If no objection to a variation is duly made within the period specified in the notice referred to in subsection (3) of this section, or if all objections so made are withdrawn, the variation shall come into operation on the date of the expiration of the period specified in the notice or the date of withdrawal of the objection or, if more than one, of the last objection, whichever date is the later.
+
+(5) If objection is duly made as aforesaid and is not withdrawn, the district council shall set a further date, not later than two months after the first specified date, on which the variation shall come into force with or without modification as decided by the district council after consideration of the objections.
+
+(6) A district council may remit the whole or part of any fee chargeable in pursuance of this section for the grant of a licence under section 48 or 55 of this Act in any case in which they think it appropriate to do so.
+
+### 71 Taximeters.
+
+(1) Nothing in this Act shall require any private hire vehicle to be equipped with any form of taximeter but no private hire vehicle so equipped shall be used for hire in a controlled district unless such taximeter has been tested and approved by or on behalf of the district council for the district or any other district council by which a vehicle licence in force for the vehicle was issued.
+
+(2) Any person who—
+
+(a) tampers with any seal on any taximeter without lawful excuse; or
+
+(b) alters any taximeter with intent to mislead; or
+
+(c) knowingly causes or permits a vehicle of which he is the proprietor to be used in contravention of subsection (1) of this section,
+
+shall be guilty of an offence.
+
+### 72 Offences due to fault of other person etc.
+
+(1) Where an offence by any person under this Part of this Act is due to the act or default of another person, then, whether proceedings are taken against the first-mentioned person or not, that other person may be charged with and convicted of that offence, and shall be liable on conviction to the same punishment as might have been imposed on the first-mentioned person if he had been convicted of the offence.
+
+(2) Section 44(3) of this Act shall apply to an offence under this Part of this Act as it applies to an offence under Part I of this Act.
+
+### 73 Obstruction of authorised officers.
+
+(1) Any person who—
+
+(a) wilfully obstructs an authorised officer or constable acting in pursuance of this Part of this Act or the Act of 1847; or
+
+(b) without reasonable excuse fails to comply with any requirement properly made to him by such officer or constable under this Part of this Act; or
+
+(c) without reasonable cause fails to give such an officer or constable so acting any other assistance or information which he may reasonably require of such person for the purpose of the performance of his functions under this Part of this Act or the Act of 1847;
+
+shall be guilty of an offence.
+
+(2) If any person, in giving any such information as is mentioned in the preceding subsection, makes any statement which he knows to be false, he shall be guilty of an offence.
+
+### 74 Saving for certain businesses.
+
+Where any provision of this Part of this Act coming into operation on [[^F147]the relevant day] requires the licensing of a person carrying on any business, or of any vehicle used by a person in connection with any business, it shall be lawful for any person who—
+
+(a) immediately before that day was carrying on that business; and
+
+(b) had before that day duly applied for the licence required by that provision;
+
+to continue to carry on that business until he is informed of the decision with regard to his application and, if the decision is adverse, during such further time as is provided under section 77 of this Act.
+
+[[^F148]In this section “the relevant day” means—
+
+(a) in relation to a district the whole or part of which ceased to be within the metropolitan police district by virtue of the coming into force of section 323 of the Greater London Authority Act 1999 (alteration of the metropolitan police district), 1st April 2000;
+
+(b) in any other case, a day fixed by resolution under section 45 of this Act.]
+
+### 75 Saving for certain vehicles etc.
+
+(1) Nothing in this Part of this Act shall—
+
+(a) apply to a vehicle used for bringing passengers or goods within a controlled district in pursuance of a contract for the hire of the vehicle made outside the district if the vehicle is not made available for hire within the district;
+
+(b) [^F149]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) apply to a vehicle while it is being used in connection with a funeral or a vehicle used wholly or mainly, by a person carrying on the business of a funeral director, for the purpose of funerals;
+
+[[^F150](cc) apply to a vehicle while it is being used in connection with a wedding;]
+
+(d) require the display of any plate, disc or notice in or on any private hire vehicle licensed by a council under this Part of this Act during such period that such vehicle is used for carrying passengers for hire or reward—
+
+[^F151]i . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(ii) under a contract for the hire of the vehicle for a period of not less than 24 hours.
+
+(2) Paragraphs (*a*), (*b*) and (*c*) of section 46(1) of this Act shall not apply to the use or driving of a vehicle or to the employment of a driver of a vehicle while the vehicle is used as a private hire vehicle in a controlled district if a licence issued under section 48 of this Act by the council whose area consists of or includes another controlled district is then in force for the vehicle and a driver’s licence issued by such a council is then in force for the driver of the vehicle.
+
+[[^F152](2A) Where a vehicle is being used as a taxi or private hire car, paragraphs (a), (b) and (c) of section 46(1) of this Act shall not apply to the use or driving of the vehicle or the employment of a person to drive it if—
+
+(a) a licence issued under section 10 of the Civic Government (Scotland) Act 1982 for its use as a taxi or, as the case may be, private hire car is then in force, and
+
+(b) the driver holds a licence issued under section 13 of that Act for the driving of taxis or, as the case may be, private hire cars.
+
+In this subsection, “private hire car” and “taxi” have the same meaning as in sections 10 to 22 of the Civic Government (Scotland) Act 1982.]
+
+[[^F153](2B) Paragraphs (a), (b) and (c) of section 46(1) of this Act shall not apply to the use or driving of a vehicle, or to the employment of a driver of a vehicle, if—
+
+(a) a London PHV licence issued under section 7 of the Private Hire Vehicles (London) Act 1998 is in force in relation to that vehicle; and
+
+(b) the driver of the vehicle holds a London PHV driver’s licence issued under section 13 of that Act.]
+
+(3) Where a licence under section 48 of this Act is in force for a vehicle, the council which issued the licence may, by a notice in writing given to the proprietor of the vehicle, provide that paragraph (*a*) of subsection (6) of that section shall not apply to the vehicle on any occasion specified in the notice or shall not so apply while the notice is carried in the vehicle; and on any occasion on which by virtue of this subsection that paragraph does not apply to a vehicle section 54(2)(*a*) of this Act shall not apply to the driver of the vehicle.
+
+### 76 Penalties.
+
+Any person who commits an offence against any of the provisions of this Part of this Act in respect of which no penalty is expressly provided shall be liable on summary conviction to a fine not exceeding [[^F154]level 3 on the standard scale].
+
+### 77 Appeals.
+
+(1) Sections 300 to 302 of the Act of 1936, which relate to appeals, shall have effect as if this Part of this Act were part of that Act.
+
+(2) If any requirement, refusal or other decision of a district council against which a right of appeal is conferred by this Act—
+
+(a) involves the execution of any work or the taking of any action; or
+
+(b) makes it unlawful for any person to carry on a business which he was lawfully carrying on up to the time of the requirement, refusal or decision;
+
+then, until the time for appealing has expired, or, when an appeal is lodged, until the appeal is disposed of or withdrawn or fails for want of prosecution—
+
+(i) no proceedings shall be taken in respect of any failure to execute the work, or take the action; and
+
+(ii) that person may carry on that business.
+
+[[^F155](3) Subsection (2) of this section does not apply in relation to a decision under subsection (1) of section 61 of this Act which has immediate effect in accordance with subsection (2B) of that section.]
+
+[[^F156](4) On an appeal under this Part of this Act or an appeal under section 302 of the Act of 1936 as applied by this section, the court is not entitled to entertain any question as to whether—
+
+(a) a person should be, or should have been, granted leave to enter or remain in the United Kingdom; or
+
+(b) a person has, after the date of the decision being appealed against, been granted leave to enter or remain in the United Kingdom.]
+
+### 78 Application of provisions of Act of 1936.
+
+Subsection (1) of section 283 and section 304 of the Act of 1936 shall have effect as if references therein to that Act included a reference to this Part of this Act.
+
+### 79 Authentication of licences.
+
+Notwithstanding anything in section 43 of the Act of 1847, any vehicle licence or driver’s licence granted by a district council under that Act, or any licence granted by a district council under this Part of this Act, shall not be required to be under the common seal of the district council, but if not so sealed shall be signed by an authorised officer of the council.
+
+### 79A [[^F157]Persons disqualified by reason of immigration status
+
+(1) For the purposes of this Part of this Act a person is disqualified by reason of the person's immigration status from carrying on a licensable activity if the person is subject to immigration control and—
+
+(a) the person has not been granted leave to enter or remain in the United Kingdom; or
+
+(b) the person's leave to enter or remain in the United Kingdom—
+
+(i) is invalid;
+
+(ii) has ceased to have effect (whether by reason of curtailment, revocation, cancellation, passage of time or otherwise); or
+
+(iii) is subject to a condition preventing the person from carrying on the licensable activity.
+
+(2) Where a person is on immigration bail within the meaning of Part 1 of Schedule 10 to the Immigration Act 2016—
+
+(a) the person is to be treated for the purposes of this Part of this Act as if the person had been granted leave to enter the United Kingdom; but
+
+(b) any condition as to the person's work in the United Kingdom to which the person's immigration bail is subject is to be treated for those purposes as a condition of leave.
+
+(3) For the purposes of this section a person is subject to immigration control if under the Immigration Act 1971 the person requires leave to enter or remain in the United Kingdom.
+
+(4) For the purposes of this section a person carries on a licensable activity if the person—
+
+(a) drives a private hire vehicle;
+
+(b) operates a private hire vehicle; or
+
+(c) drives a hackney carriage.
+
+### 79B Immigration offences and immigration penalties
+
+(1) In this Part of this Act “immigration offence” means—
+
+(a) an offence under any of the Immigration Acts;
+
+(b) an offence under section 1 of the Criminal Attempts Act 1981 of attempting to commit an offence within paragraph (a); or
+
+(c) an offence under section 1 of the Criminal Law Act 1977 of conspiracy to commit an offence within paragraph (a).
+
+(2) In this Part of this Act “immigration penalty” means a penalty under—
+
+(a) section 15 of the Immigration, Asylum and Nationality Act 2006 (“the 2006 Act”); or
+
+(b) section 23 of the Immigration Act 2014 (“the 2014 Act”).
+
+(3) For the purposes of this Part of this Act a person to whom a penalty notice under section 15 of the 2006 Act has been given is not to be treated as having been required to pay an immigration penalty if—
+
+(a) the person is excused payment by virtue of section 15(3) of that Act; or
+
+(b) the penalty is cancelled by virtue of section 16 or 17 of that Act.
+
+(4) For the purposes of this Part of this Act a person to whom a penalty notice under section 15 of the 2006 Act has been given is not to be treated as having been required to pay an immigration penalty until such time as—
+
+(a) the period for giving a notice of objection under section 16 of that Act has expired and the Secretary of State has considered any notice given within that period; and
+
+(b) if a notice of objection was given within that period, the period for appealing under section 17 of that Act has expired and any appeal brought within that period has been finally determined, abandoned or withdrawn.
+
+(5) For the purposes of this Part of this Act a person to whom a penalty notice under section 23 of the 2014 Act has been given is not to be treated as having been required to pay an immigration penalty if—
+
+(a) the person is excused payment by virtue of section 24 of that Act; or
+
+(b) the penalty is cancelled by virtue of section 29 or 30 of that Act.
+
+(6) For the purposes of this Part of this Act a person to whom a penalty notice under section 23 of the 2014 Act has been given is not to be treated as having been required to pay an immigration penalty until such time as—
+
+(a) the period for giving a notice of objection under section 29 of that Act has expired and the Secretary of State has considered any notice given within that period; and
+
+(b) if a notice of objection was given within that period, the period for appealing under section 30 of that Act has expired and any appeal brought within that period has been finally determined, abandoned or withdrawn.]
+
+### 80 Interpretation of Part II.
+
+(1) In this Part of this Act, unless the subject or context otherwise requires—
+
+- “the Act of 1847” means the provisions of the [^M40]Town Police Clauses Act 1847 with respect to hackney carriages;
+
+- “the Act of 1936” means the [^M41]Public Health Act 1936;
+
+- [^F158]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- “authorised officer” means any officer of a district council authorised in writing by the council for the purposes of this Part of this Act;
+
+- “contravene” includes fail to comply;
+
+- [[^F159]“controlled district” means any area for which this Part of this Act is in force by virtue of—
+
+  - (a) a resolution passed by a district council under section 45 of this Act; or
+  - (b) section 255(4) of the Greater London Authority Act 1999;]
+
+- “daily fine” means a fine for each day during which an offence continues after conviction thereof;
+
+- “the district”, in relation to a district council in whose area the provisions of this Part of this Act are in force, means—
+
+  - (a) if those provisions are in force throughout the area of the council, that area; and
+  - (b) if those provisions are in force for part only of the area of the council, that part of that area;
+
+- “driver’s badge” means, in relation to the driver of a hackney carriage, any badge issued by a district council under byelaws made under section 68 of the Act of 1847 and, in relation to the driver of a private hire vehicle, any badge issued by a district council under section 54 of this Act;
+
+- “driver’s licence” means, in relation to the driver of a hackney carriage, a licence under section 46 of the Act of 1847 and, in relation to the driver of a private hire vehicle, a licence under section 51 of this Act;
+
+- “hackney carriage” has the same meaning as in the Act of 1847;
+
+- “hackney carriage byelaws” means the byelaws for the time being in force in the controlled district in question relating to hackney carriages;
+
+- [[^F160]“London cab” means a vehicle which is a hackney carriage within the meaning of the Metropolitan Public Carriage Act [^M42]1869;]
+
+- “operate” means in the course of business to make provision for the invitation or acceptance of bookings for a private hire vehicle;
+
+- “operator’s licence” means a licence under section 55 of this Act;
+
+- “private hire vehicle” means a motor vehicle constructed or adapted to seat [[^F161]fewer than nine passengers], other than a hackney carriage or public service vehicle [[^F162]or a London cab][[^F163]or tramcar], which is provided for hire with the services of a driver for the purpose of carrying passengers;
+
+- “proprietor” includes a part-proprietor and, in relation to a vehicle which is the subject of a hiring agreement or hire-purchase agreement, means the person in possession of the vehicle under that agreement;
+
+- “public service vehicle” has the same meaning as in [[^F164]the [^M43] Public Passenger Vehicles Act 1981];
+
+- “taximeter” means any device for calculating the fare to be charged in respect of any journey in a hackney carriage or private hire vehicle by reference to the distance travelled or time elapsed since the start of the journey, or a combination of both; and
+
+- “vehicle licence” means in relation to a hackney carriage a licence under sections 37 to 45 of the Act of 1847 [[^F165]in relation to a London cab a licence under section 6 of the Metropolitan Public Carriage Act 1869]and in relation to a private hire vehicle means a licence under section 48 of this Act.
+
+(2) In this Part of this Act references to a licence, in connection with a controlled district, are references to a licence issued by the council whose area consists of or includes that district, and “licensed” shall be construed accordingly.
+
+(3) Except where the context otherwise requires, any reference in this Part of this Act to any enactment shall be construed as a reference to that enactment as applied, extended, amended or varied by, or by virtue of, any subsequent enactment including this Act.
+
+[[^F166](4) In this Part of this Act, except where the context otherwise requires, references to a district council shall, in relation to Wales, be construed as references to a county council or county borough council.]
+
+## Part III — Supplemental
+
+### 81 Repeals.
+
+(1) The enactments mentioned in the first and second columns of Schedule 2 to this Act are hereby repealed to the extent specified in the third column of that Schedule.
+
+(2) The Secretary of State may by order—
+
+(a) repeal any provision of an Act passed before or in the same Session as this Act or of an order or other instrument made under or confirmed by an Act so passed if it appears to him that the provision is inconsistent with or has become unnecessary in consequence of any provision of this Act or corresponds to any provision repealed by this Act;
+
+(b) amend any provision of such an Act, order or instrument if it appears to him that the provision requires amendment in consequence of any provision contained in this Act or any repeal made by virtue of the preceding paragraph;
+
+and an order made in pursuance of this subsection may include such incidental or transitional provisions as the Secretary of State considers are appropriate in connection with the order.
+
+(3) It shall be the duty of the Secretary of State, before he makes an order in pursuance of the preceding subsection amending or repealing any provision of a local Act, to consult each local authority which he considers would be affected by the amendment or repeal of that provision.
+
+(4) The power to make orders conferred by subsection (2) of this section shall be exercisable by statutory instrument; and any statutory instrument made in the exercise of that power shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 82 Expenses etc.
+
+Any expenses incurred by a Minister of the Crown by virtue of this Act and any increase attributable to this Act in the sums payable under any other Act out of money provided by Parliament shall be paid out of money so provided.
+
+### 83 Short title, commencement and extent.
+
+(1) This Act may be cited as the Local Government (Miscellaneous Provisions) Act 1976.
+
+(2) [^F167]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) This Act does not extend to Scotland and Northern Ireland
+
+## SCHEDULE 1 — Adaptation of enactments in connection with compulsory purchases of rights
+
+*Section 13(3).*
+
+### Part I — [^F168]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part II — ADAPTATION OF PART I OF THE ACT OF 1965
+
+**6** In the [^M44]Compulsory Purchase Act 1965 (hereafter in this Schedule referred to as “the Act”) for section 7 (which relates to compensation) there shall be substituted the following—
+
+> **7** (1) In assessing the compensation to be paid by the acquiring authority under this Act regard shall be had not only to the extent, if any, to which the value of the land over which the right is purchased is depreciated by the purchase but also to the damage, if any, to be sustained by the owner of the land by reason of injurious affection of other land of the owner by the exercise of the right.
+>
+> (2) The modifications subject to which subsection (1) of section 44 of the Land Compensation Act 1973 is to have effect, as applied by subsection (2) of that section to compensation for injurious affection under this section, are that for the words “land is acquired or taken” there shall be substituted the words “ a right over land is purchased ” and for the words “acquired or taken from him” there shall be substituted the words “ over which the right is exercisable ”.
+
+**[[^F169]7** Section 8(1) of the Compulsory Purchase Act 1965 has effect as if references to acquiring land were to acquiring a right in the land, and Schedule 2A to that Act is to be read as if, for that Schedule, there were substituted—
+
+> **SCHEDULE 2A — Counter-notice requiring purchase of land**
+>
+> **Introduction**
+>
+> **1** (1) This Schedule applies where an acquiring authority serve a notice to treat in respect of a right over the whole or part of a house, building or factory.
+>
+> (2) But see section 2A of the Acquisition of Land Act 1981 (under which a compulsory purchase order can exclude from this Schedule land that is 9 metres or more below the surface).
+>
+> **2** In this Schedule “house” includes any park or garden belonging to a house.
+>
+> **Counter-notice requiring purchase of land**
+>
+> **3** A person who is able to sell the house, building or factory (“the owner”) may serve a counter-notice requiring the authority to purchase the owner's interest in the house, building or factory.
+>
+> **4** A counter-notice under paragraph 3 must be served within the period of 28 days beginning with the day on which the notice to treat was served.
+>
+> **Response to counter-notice**
+>
+> **5** On receiving a counter-notice the acquiring authority must decide whether to—
+>
+> (a) withdraw the notice to treat,
+>
+> (b) accept the counter-notice, or
+>
+> (c) refer the counter-notice to the Upper Tribunal.
+>
+> **6** The authority must serve notice of their decision on the owner within the period of 3 months beginning with the day on which the counter-notice is served (“the decision period”).
+>
+> **7** If the authority decide to refer the counter-notice to the Upper Tribunal they must do so within the decision period.
+>
+> **8** If the authority do not serve notice of a decision within the decision period they are to be treated as if they had served notice of a decision to withdraw the notice to treat at the end of that period.
+>
+> **9** If the authority serve notice of a decision to accept the counter-notice, the compulsory purchase order and the notice to treat are to have effect as if they included the owner's interest in the house, building or factory.
+>
+> **Determination by Upper Tribunal**
+>
+> **10** On a referral under paragraph 7 the Upper Tribunal must determine whether the acquisition of the right would—
+>
+> (a) in the case of a house, building or factory, cause material detriment to the house, building or factory, or
+>
+> (b) in the case of a park or garden, seriously affect the amenity or convenience of the house to which the park or garden belongs.
+>
+> **11** In making its determination, the Upper Tribunal must take into account—
+>
+> (a) the effect of the acquisition of the right,
+>
+> (b) the proposed use of the right, and
+>
+> (c) if the right is proposed to be acquired for works or other purposes extending to other land, the effect of the whole of the works and the use of the other land.
+>
+> **12** If the Upper Tribunal determines that the acquisition of the right would have either of the consequences described in paragraph 10 it must determine how much of the house, building or factory the authority ought to be required to take.
+>
+> **13** If the Upper Tribunal determines that the authority ought to be required to take some or all of the house, building or factory the compulsory purchase order and the notice to treat are to have effect as if they included the owner's interest in that land.
+>
+> **14** (1) If the Upper Tribunal determines that the authority ought to be required to take some or all of the house, building or factory, the authority may at any time within the period of 6 weeks beginning with the day on which the Upper Tribunal makes its determination withdraw the notice to treat in relation to that land.
+>
+> (2) If the acquiring authority withdraws the notice to treat under this paragraph they must pay the person on whom the notice was served compensation for any loss or expense caused by the giving and withdrawal of the notice.
+>
+> (3) Any dispute as to the compensation is to be determined by the Upper Tribunal.]
+
+**8** The following provisions of the Act (which state the effect of a deed poll executed in various circumstances where there is no conveyance by persons with interests in the land), namely—
+
+- section 9(4) (failure of owners to convey);
+- paragraph 10(3) of Schedule 1 (owners under incapacity);
+- paragraph 2(3) of Schedule 2 (absent and untraced owners); and
+- paragraphs 2(3) and 7(2) of Schedule 4 (common land),
+
+shall be so modified as to secure that, as against persons with interests in the land which are expressed to be overridden by the deed, the right which is to be purchased compulsorily is vested absolutely in the acquiring authority.
+
+**9** Section 11 of the Act (powers of entry) shall be so modified as to secure that, as from the date on which the acquiring authority has served notice to treat in respect of any right, it has power, exercisable in the like circumstances and subject to the like conditions, to enter for the purpose of exercising that right (which shall be deemed for this purpose to have been created on the date of service of the notice); and sections 12 (penalty for unauthorised entry) and 13 (entry on [[^F170]enforcement officer's or sheriff's warrant] in the event of obstruction) of the Act shall be modified correspondingly.
+
+**10** Section 20 of the Act (compensation for short-term tenants) shall apply with the modifications necessary to secure that persons with such interests as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory acquisition of the interests but taking into account only the extent (if any) of such interference with such interests as is actually caused, or likely to be caused, by the exercise of the right in question.
+
+**11** Section 22 of the Act (protection of acquiring authority’s possession of land where by inadvertence an interest in the land has not been purchased) shall be so modified as to enable the acquiring authority, in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right in question, subject to compliance with that section as respects compensation.
+
+## [^X5]SCHEDULE 2 — ENACTMENTS REPEALED
+
+*Section 81.*
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1875 c. 55. | The Public Health Act 1875. | In section 172 the words “and the number of persons to be carried therein”. |
+|  |  | Sections 253, 262, 293, 294, 299 to 302, 304 and 309. |
+| 1936 c. 49. | The Public Health Act 1936. | Sections 89, 221(b), 271, 274, 277 and 286. |
+|  |  | In section 293 the words “either summarily as a civil debt, or”and subsection (2). |
+|  |  | Sections 295, 312, 313 and 314. |
+|  |  | In section 322, subsection (1) and, in subsection (3), paragraph (i) and the words “(ii) in any other case”. |
+|  |  | Section 323. |
+| 1937 c. 46. | The Physical Training and Recreation Act 1937. | Sections 4 and 5. |
+|  |  | In section 9 the definition of “local authority”. |
+| 1946 c. 49. | The Acquisition of Land (Authorisation Procedure) Act 1946. | In Schedule 4 the entry relating to section 5 of the Physical Training and Recreation Act 1937. |
+| 1949 c. 55. | The Prevention of Damage by Pests Act 1949. | Section 9. |
+| 1955 c. 16 (4 Eliz. 2.). | The Food and Drugs Act 1955. | In Part I of Schedule 9, the entries relating to sections 271, 277 and 286 of the Public Health Act 1936 and the reference to section 323 of that Act. |
+| 1957 c. 56. | The Housing Act 1957. | Section 170. |
+| 1958 c. 36. | The Physical Training and Recreation Act 1958. | The whole Act. |
+| 1959 c. 25. | The Highways Act 1959. | Section 117(1)(cc). |
+|  |  | In paragraph 22(1) of Schedule 24, the words from “so however”onwards. |
+| 1961 c. 63. | The Highway (Miscellaneous Provisions) Act 1961. | Section 7. |
+| 1961 c. 64. | The Public Health Act 1961. | Sections 75(4), 76(3) and 80. |
+| 1961 c. 65. | The Housing Act 1961. | In section 22(4) the words from the beginning to “premises)”. |
+| 1969 c. 10. | The Mines and Quarries (Tips) Act 1969. | Section 33(b) and (d). |
+| 1969 c. 33. | The Housing Act 1969. | Section 73. |
+|  |  | In paragraph 11 of Schedule 8 the words “and 170”. |
+| 1970 c. 44. | The Chronically Sick and Disabled Persons Act 1970. | In section 6(1) the words from “used”to “public”. |
+| 1972 c. 70. | The Local Government Act 1972. | In section 144(1)(b) the word “recreation”. |
+|  |  | Section 233(6). |
+| 1974 c. 3. | The Slaughterhouses Act 1974. | In section 32(2) the entries relating to sections 271, 277 and 286 of the Public Health Act 1936 and the reference to section 323 of that Act. |
+| 1974 c. 44. | The Housing Act 1974. | In section 48, in subsection (1) paragraph (d) and the words “subject to subsection (2) below”, and subsection (2). |
+|  |  | Section 126(5)(a). |
+
+---
+
+[^F1]: Ss. 1–6 repealed by Highways Act 1980 (c. 66, SIF 59), s. 343(3), Sch. 25
+[^F2]: Words substituted by Road Traffic Regulation Act 1984 (c. 27, SIF 107:1), s. 146, Sch. 13 para. 34
+[^F3]: Words substituted by virtue of Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 38, 46
+[^F4]: Words substituted by Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2), s. 4, Sch. 2 para. 35(1)(a)
+[^M1]: 1990 c. 8.
+[^F5]: S. 7(5)(a)(iii) repealed (27.7.1992) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), ss. 32, 84(6), Sch. 7, para. 3, Sch. 19, Pt. I (with s. 84(5)); S.I. 1992/1630, art. 2, Schs. 1, 2
+[^M2]: 1947 c. 48.
+[^F6]: S. 8 repealed by Local Government (Miscellaneous Provisions) Act 1982 (c. 30, SIF 81:1), s. 47, Sch. 7 Pt. XVI
+[^F7]: Ss. 9, 10 repealed by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 36, Sch. 1 Pt. I
+[^F8]: Words inserted by Electricity Act 1989 (c. 29, SIF 41:1), s. 112(1)(3), Sch. 16 para. 20(2), Sch. 17 paras. 33, 35(1)
+[^F9]: Subsections (2) and (3) substituted by Electricity Act 1989 (c. 29, SIF 44:1), s. 112(1)(3), Sch. 16 para. 20(2), Sch. 17 paras. 33, 35(1)
+[^M3]: 1945 c. 42.
+[^F10]: Definition repealed by Electricity Act 1989 (c. 29, SIF 44:1), s. 112(1)(3)(4), Sch. 16 para. 20(4)(a), Sch. 17 paras. 33, 35(1), Sch. 18
+[^F11]: Words added by Electricity Act 1989 (c. 29, SIF 44:1), s. 112(1)(3), Sch. 16 para. 20(4)(b), Sch. 17 paras. 33, 35(1)
+[^F12]: Words inserted by Electricity Act 1989 (c. 29, SIF 44:1), s. 112(1)(3), Sch. 16 para. 20(4)(c), Sch. 17 paras. 33, 35(1)
+[^F13]: Words substituted by virtue of Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 40, 46
+[^M4]: 1945 c. 42.
+[^F14]: Words substituted by Building Act 1984 (c. 55, SIF 15), s. 133(1), Sch. 6 para. 17
+[^M5]: 1974 c. 37.
+[^F15]: Words repealed by Acquisition of Land Act 1981 (c. 67, SIF 28:1), s. 34(3), Sch. 6 Pt. I
+[^M6]: 1965 c. 56.
+[^F16]: S. 13(3)(*a*) repealed by Acquisition of Land Act 1981 (c. 67, SIF 28:1), s. 34(3), Sch. 6 Pt. I
+[^F17]: Words repealed by Acquisition of Land Act 1981 (c. 67, SIF 28:1), s. 34(3), Sch. 6 Pt. I
+[^F18]: Words substituted by Highways Act 1980 (c. 66, SIF 59), s. 343(2), Sch. 24 para. 27(*a*)
+[^F19]: S. 13(5) substituted by Acquisition of Land Act 1981 (c. 67, SIF 28:1), s. 34(1), Sch. 4 para. 26
+[^M7]: 1965 c. 56.
+[^M8]: 1845 c. 18.
+[^M9]: 1972 c. 70.
+[^F20]: S. 15 omitted (13.7.2016) by virtue of Housing and Planning Act 2016 (c. 22), s. 216(3), Sch. 14 para. 9; S.I. 2016/733, reg. 3(h) (with reg. 6)
+[^F21]: Words substituted by virtue of Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 38, 46
+[^M10]: 1936 c. 49.
+[^M11]: 1961 c. 64.
+[^X1]: The text of ss. 17(4), 18(1)-(4), 19(6), 22(1)(3), 27(1)(3)(5) and Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+[^M12]: 1970 c. 53.
+[^F22]: S. 19(4) repealed by Education Reform Act 1988 (c. 40, SIF 41:1), ss. 231(7), 235(6), 237(2), Sch. 13 Pt. I
+[^F23]: Words repealed by Education Reform Act 1988 (c. 40, SIF 41:1), ss. 231(7), 235(6), 237(2), Sch. 13 Pt. I
+[^M13]: 1936 c. 49.
+[^M14]: 1937 c. 46.
+[^M15]: 1972 c. 70.
+[^F24]: S. 19(5A) was inserted after s. 19(5) by Local Government Act 1985 (c. 51, SIF 81:1), s. 84, Sch. 14 Pt. I para. 53(3)(*a*) and was repealed by Education Reform Act 1988 (c. 40, SIF 41:1), ss. 231(7), 235(6), 237(2), Sch. 13 Pt. I
+[^X2]: The text of ss. 17(4), 18(1)-(4), 19(6), 22(1)(3), 27(1)(3)(5) and Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+[^F25]: Words in s. 20(1)(5) inserted (7.1.1997) by S.I. 1996/3071, art. 2, Sch.
+[^F26]: Words substituted by virtue of Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 38, 46
+[^F27]: S. 20(9): definition of "betting office" substituted (1.9.2007) by Gambling Act 2005 (c. 19), ss. 356, 358, Sch. 16 para. 8 (with ss. 352, 354, Sch. 16 para. 21); S.I. 2006/3272, art. 2(4)(5), Sch. 3B (with Sch. 4 (as amended by S.I. 2007/1157, arts. 7-12; S.I. 2007/2169, arts. 7-11)) (as inserted by S.I. 2007/2169, arts. 3, 6, Sch.)
+[^M16]: 1889 c. 63.
+[^M17]: 1970 c. 44.
+[^M18]: 1936 c. 49.
+[^M19]: 1936 c. 49.
+[^F28]: S. 20(11)(12)(13) inserted by Disabled Persons Act 1981 (c. 43, SIF 81:3), s. 4
+[^X3]: The text of ss. 17(4), 18(1)-(4), 19(6), 22(1)(3), 27(1)(3)(5) and Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+[^M20]: 1961 c. 64.
+[^F29]: Words in s. 23(1) inserted (1.7.1997) by S.I. 1996/3071, art. 2, Sch.
+[^F30]: Words substituted by virtue of Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 38, 46
+[^F31]: Words in s. 24(5) substituted (1.6.2009) by virtue of The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 120(a) (with Sch. 5)
+[^F32]: Word in s. 24(5) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 120(b) (with Sch. 5)
+[^M21]: 1961 c. 33.
+[^F33]: Words in s. 24(5) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 120(c) (with Sch. 5)
+[^F34]: Words substituted by Local Government, Planning and Land Act 1980 (c. 65, SIF 81:1, 2), s. 1(6), Sch. 6 para. 21
+[^F35]: Words in s. 25(1)(8) inserted (7.1.1997) by S.I. 1996/3071, art. 2, Sch.
+[^F36]: Words in s. 25(8) repealed (18.10.2000 for E. and 9.4.2001 for W.) by 2000 c. 22, s. 107(2), Sch. 6; S.I. 2000/2836, art. 2(b)(i); S.I. 2001/1471, art. 2
+[^F37]: Words substituted by virtue of Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 38, 46
+[^F38]: Words in s. 26(6)(b) substituted (31.10.1994) by 1994 c. 21, ss. 67, 68(2), Sch. 9 para. 18(2) (with s. 40(1)); 1994/2553, art. 2
+[^F39]: Words substituted by Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2), s. 4, Sch. 2 para. 35(3)
+[^F40]: S. 27(1) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), s. 1(1), Sch. 1 Pt. 13
+[^F41]: S. 27(2) repealed by Local Government Finance Act 1982 (c. 32, SIF 81:1), s. 38(5), Sch. 6 Pt. IV
+[^F42]: S. 27(3) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), s. 1(1), Sch. 1 Pt. 13
+[^M22]: 1936 c. 49.
+[^F43]: Words repealed by Public Health (Control of Disease) Act 1984 (c. 22, SIF 100:1), s. 78, Sch. 3
+[^X4]: The text of ss. 17(4), 18(1)-(4), 19(6), 22(1)(3), 27(1)(3)(5) and Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
+[^M23]: 1936 c. 49.
+[^F44]: S. 28(1)(2) repealed (with savings in 1990/431, Sch. 1 para. 1(a) ) by Local Government and Housing Act 1989 (c.42, SIF 81:1, 2), s. 194(2), Sch. 12 Pt. I
+[^F45]: S. 28(3) repealed (with savings in S.I. 1990/431, Sch. 1 para. 1(a) ) by Local Government and Housing Act 1989 (c. 42, SIF 81:1), s. 194(2), Sch. 12 Pt. I
+[^M24]: 1845 c. 18.
+[^F46]: Words in s. 29(1)(a) omitted (13.7.2016) by virtue of Housing and Planning Act 2016 (c. 22), s. 216(3), Sch. 16 para. 14; S.I. 2016/733, reg. 3(j)
+[^M25]: 1965 c. 56.
+[^F47]: S. 29(4)(a)(b) substituted for subsection (4) (7.1.1997) by S.I. 1996/3071, art. 2, Sch.
+[^F48]: S. 30(3) substituted (16.1.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 126; S.I. 2011/3019, art. 3, Sch. 1
+[^F49]: Words in s. 31 substituted (1.10.2007) by Mental Capacity Act 2005 (c. 9), ss. 67(1), 68(1)(3), Sch. 6 para. 23 (with ss. 27-29, 62); S.I. 2007/1897, art. 2(1)(d)
+[^F50]: Words in s. 33(1) inserted (7.1.1997) by S.I. 1996/3071, art. 2, Sch. para. 1(5)
+[^F51]: Word substituted by Gas Act 1986 (c. 44, SIF 44:2), s. 67(1), Sch. 7 para. 24
+[^F52]: Words substituted by Local Government, Planning and Land Act 1980 (c. 65, SIF 81:1, 2), s. 1(6), Sch. 6 para. 21
+[^F53]: Words substituted by Local Government and Housing Act 1989 (c. 42, SIF 81:1, 2), s. 194(1), Sch. 11 para. 47
+[^F54]: S. 33(4A) inserted by Local Government and Housing Act 1989 (c. 42, SIF 81:1, 2), s. 194(1), Sch. 11 para. 47
+[^F55]: S. 34 repealed by Building Act 1984 (c. 55, SIF 15), s. 133(2), Sch. 7
+[^F56]: Words in s. 35(1) inserted (7.1.1997) by S.I. 1996/3071, art. 2, Sch. para. 1(6)
+[^M26]: 1936 c. 49.
+[^F57]: S. 37 repealed by Road Traffic Regulation Act 1984 (c. 27, SIF 107:1), s. 146, Sch. 14
+[^M27]: 1875 c. 55.
+[^F58]: Words repealed by Local Government Finance Act 1982 (c. 32, SIF 81:1, 2), s. 38(5), Sch. 6 Pt. IV
+[^M28]: 1972 c. 70.
+[^F59]: Words inserted by Local Government and Housing Act 1989 (c. 42, SIF 81:1), s. 194(1), Sch. 11 para. 48
+[^M29]: 1972 c. 70.
+[^M30]: 1972 c. 70.
+[^F60]: S. 41(2A) inserted (E.W.) (11.7.2001 (E.), 1.4.2002 (W.)) by S.I. 2001/2237, arts. 2(c), 11(1)(a); S.I. 2002/808, art. 11(1)(a)
+[^F61]: Words in s. 41(2A)(a) inserted (12.12.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 237(3)(a), 245; S.I. 2008/3110, art. 2(i)
+[^M31]: See the Local Authorities (Executive Arrangements) (Access to Information) (England) Regulations 2000 (S.I. 2000/3272).
+[^F62]: Words in s. 41(2A)(b) inserted (12.12.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 237(3)(b), 245; S.I. 2008/3110, art. 2(i)
+[^F63]: S. 41(2B)(2C) inserted (12.12.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 237(3)(c), 245; S.I. 2008/3110, art. 2(i)
+[^F64]: S. 42(1)(c) repealed by Ports (Finance) Act 1985 (c. 30, SIF 58), s. 6(2), Sch.
+[^F65]: S. 42(1)(d) substituted by Food and Environment Protection Act 1985 (c. 48, SIF 111), Pt. II, s. 15(6)
+[^F66]: S. 43 repealed by Local Government (Miscellaneous Provisions) Act 1982 (c. 30, SIF 81:1), s. 47, Sch. 7Pt. XVI
+[^F67]: Words in S. 44(1) inserted (E.W.) (11.7.2001 (E.), 1.4.2002 (W.)) by S.I. 2001/2237, arts. 2(c), 11(2); S.I. 2002/808, art. 11(2)
+[^F68]: Words substituted by Highways Act 1980 (c. 66, SIF 59), s. 343(2), Sch. 24 para. 27(c)
+[^M32]: 1980 c. 66.
+[^F69]: Definition of “local authority” substituted by Local Government Act 1985 (c.51, SIF 81:1), s. 84, Sch. 14 para. 53(b)
+[^F70]: Words repealed by virtue of Local Government Act 1985 (c. 51, SIF 81:1), ss. 1, 102, Sch. 17
+[^F71]: S. 44(1): words in para. (a) of definition of “local authority” inserted (1.10.1994 for specified purposes, otherwise 1.4.1995) by 1994 c. 29, s. 43, Sch. 4 para. 18; S.I. 1994/2025, art. 6(2)(g) (subject to art. 6(3)-(6)); S.I. 1994/3262, art. 4, Sch.
+[^F72]: Words in s. 44(1) substituted (16.1.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 127; S.I. 2011/3019, art. 3, Sch. 1 (with Sch. 2 para. 40)
+[^F73]: Word in para. (a) in definition in s. 44(1) repealed (3.7.2000) by 1999 c. 29, ss. 323, Sch. 34 Pt. VIII; S.I. 2000/1094, art. 4(i)
+[^F74]: Words in s. 44(1) inserted (17.12.2009) by Local Democracy, Economic Development and Construction Act 2009 (c. 20), s. 148(6), Sch. 6 para. 43(a); S.I. 2009/3318, art. 2(c)
+[^F75]: Words in s. 44 inserted (26.12.2023) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(2)(c), Sch. 4 para. 58(a) (with s. 247)
+[^F76]: Words in s. 44(1) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as it is not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 1 para. 36; S.I. 2017/399, Sch. para. 38
+[^F77]: Words in s. 44(1) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 13 para. 6(11)(a); S.I. 2015/994, art. 6(g)
+[^F78]: Words in s. 44(1) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 2 para. 51(a); S.I. 2018/227, reg. 4(c)
+[^F79]: Para. (c) inserted by S.I. 1990/1765, art. 4(5)
+[^F80]: Words in s. 44(1) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 13 para. 6(11)(b); S.I. 2015/994, art. 6(g)
+[^F81]: S. 44(1): words in para. (c) of definition inserted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), ss. 209, 245, Sch. 13 para. 33(b); S.I. 2008/917, art. 2(1)(p)
+[^F82]: Words in s. 44(1) inserted (17.12.2009) by Local Democracy, Economic Development and Construction Act 2009 (c. 20), s. 148(6), Sch. 6 para. 43(b); S.I. 2009/3318, art. 2(c)
+[^F83]: Words in s. 44 inserted (26.12.2023) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(2)(c), Sch. 4 para. 58(b) (with s. 247)
+[^F84]: Words in s. 44(1) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 2 para. 51(b); S.I. 2018/227, reg. 4(c)
+[^F85]: Words substituted by Highways Act 1980 (c. 66, SIF 59), Sch. 24 para. 27(c)
+[^F86]: Words repealed by Water Act 1989 (c. 15, SIF 130), ss. 58(7), 101(1), 141(6), 190, 193(1), Sch. 26 paras. 3(1)(2), 17, 40(4), 41(1), 57(6), 58, Sch. 27 Pt. I
+[^F87]: Words substituted by virtue of British Telecommunications Act 1981 (c. 38, SIF 96), Sch. 3 para. 10(4)
+[^F88]: Words repealed by Telecommunications Act 1984 (c. 12, SIF 96), s. 109, Sch. 4 para. 3(1)(d), Sch. 5 para. 45, Sch. 7 Pt. I
+[^F89]: S. 44(1): words in the definition of “statutory undertakers” substituted (26.3.2001) by S.I. 2001/1149, art. 3(1), Sch. 1 para. 42(2)(a)
+[^M33]: 1984 c. 27.
+[^F90]: Words substituted by Road Traffic Regulation Act 1984 (c. 27, SIF 107:1), s. 146, Sch. 13 para. 35(a)
+[^F91]: S. 44(1): definition of “universal service provider” inserted (26.3.2001) by S.I. 2001/1149, art. 3(1), Sch. 1 para. 42(2)(b)
+[^F92]: Words in s. 44(1) substituted (1.10.2011) by Postal Services Act 2011 (c. 5), s. 93(2)(3), Sch. 12 para. 102(a); S.I. 2011/2329, art. 3
+[^F93]: Words in s. 44(1) substituted (1.10.2011) by Postal Services Act 2011 (c. 5), s. 93(2)(3), Sch. 12 para. 102(b); S.I. 2011/2329, art. 3
+[^F94]: S. 44(1ZA) inserted (26.3.2001) by S.I. 2001/1149, art. 3(1), Sch. 1 para. 42(3)
+[^F95]: S. 44(1A) inserted by Norfolk and Suffolk Broads Act 1988 (c. 4, SIF 81:1), ss. 21, 23(2), 27(2), Sch. 6 para. 15
+[^F96]: S. 44(1B) inserted (1.4.1996) by 1995 c. 25, s. 120(1), Sch. 22 para. 33 (with ss. 7(6), 115, 117); S.I. 1996/186, art. 3
+[^F97]: S. 44(1C) inserted (1.4.2013) by The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755), art. 1(2), Sch. 2 para. 153 (with Sch. 7)
+[^F98]: Words substituted by Highways Act 1980 (c. 66, SIF 59), s. 343(2), Sch. 24 para. 27
+[^M34]: 1980 c. 66.
+[^M35]: 1889 c. 63.
+[^F99]: Words substituted by Road Traffic Regulation Act 1984 (c. 27, SIF 107:1), s. 146, Sch. 13 para. 35(b)
+[^F100]: Words inserted by Transport Act 1985 (c. 67, SIF 126), s. 139(2), Sch. 7 para. 17(1)
+[^F101]: Words substituted by Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1), s. 4, Sch. 3 para. 16(1)
+[^F102]: Words substituted by Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1), s. 4, Sch. 3 para. 16(2)(a)
+[^F103]: Words substituted by Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1), s. 4, Sch. 3 para. 16(2)(b)
+[^F104]: Words in s. 51(1)(a) renumbered as s. 51(1)(a)(i) (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 18(2)(a) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F105]: S. 51(1)(a)(ii) substituted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 18(2)(b) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F106]: S. 51(1)(b) substituted (1.1.1997) by S.I. 1996/1974, reg. 5, Sch. 4 para. 2(2)
+[^F107]: S. 51(1ZA) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 18(3) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F108]: S. 51(1A) repealed (1.4.1998) by 1997 c. 50, s. 134(1)(2), Sch. 9 para. 34, Sch. 10; S.I. 1998/354, art. 2(2)(ay)
+[^F109]: By S.I. 1996/1974, reg. 5, Sch. 4 para. 3, it is provided that in s. 51 after subsection (1A) there shall be inserted (1.1.1997) subsection (1)
+[^F110]: Words in s. 51(1)(b) inserted (5.9.1998) by S.I. 1998/1946, art.2
+[^F111]: Words in s. 53(1)(a) substituted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 19(a) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F112]: Words in s. 53(1)(a) substituted (1.10.2015) by Deregulation Act 2015 (c. 20), ss. 10(2)(a), 115(7); S.I. 2015/994, art. 11(d)
+[^M36]: 1875 c. 55.
+[^M37]: 1889 c. 14.
+[^F113]: Words in s. 53(1)(b) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 19(b) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F114]: Words in s. 53(1)(b) substituted (1.10.2015) by Deregulation Act 2015 (c. 20), ss. 10(2)(b), 115(7); S.I. 2015/994, art. 11(d)
+[^F115]: S. 53A inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 20 (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F116]: Words in s. 55(1) renumbered as s. 55(1)(a) (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 21(2)(a) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F117]: S. 55(1)(b) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 21(2)(b) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F118]: S. 55(1A) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 21(3) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F119]: S. 55(2) substituted (1.10.2015) by Deregulation Act 2015 (c. 20), ss. 10(3), 115(7); S.I. 2015/994, art. 11(d)
+[^F120]: Words in s. 55(2) substituted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 21(4) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F121]: S. 55ZA inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 22 (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F122]: S. 55A - S. 55B inserted (1.10.2015) by Deregulation Act 2015 (c. 20), ss. 11, 115(7); S.I. 2015/994, art. 11(e)
+[^F123]: Words substituted by virtue of Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 38, 46
+[^F124]: Words in s. 59(1)(a) renumbered as s. 59(1)(a)(i) (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 23(2)(a) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F125]: S. 59(1)(a)(ii) substituted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 23(2)(b) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F126]: S. 59(1)(b) substituted (1.1.1997) by S.I. 1996/1974, reg. 5, Sch. 4 para. 2(4)
+[^F127]: S. 59(1ZA) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 23(3) (with Sch. 5 para. 54); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F128]: By S.I. 1996/1974, reg. 5 Sch. 4 para. 2(5) it is provided that in s. 59 subsection (1A) shall be inserted after subsection (1)
+[^F129]: Words in s. 59(1A)(b) inserted (5.9.1988) by S.I. 1998/1946, art. 3
+[^F130]: S. 59(1A) repealed (1.4.1998) by 1997 c. 50, s. 134(1)(2), Sch. 9 para. 34, Sch. 10
+[^F131]: S. 61(1)(aa) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 24(2) (with Sch. 5 para. 55); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F132]: S. 61(1A) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 24(3) (with Sch. 5 para. 55); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F133]: Words substituted by virtue of Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 38, 46
+[^F134]: S. 61(2ZA) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 24(4) (with Sch. 5 para. 55); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F135]: S. 61(2A)(2B) inserted (16.3.2007) by Road Safety Act 2006 (c. 49), ss. 52(2), 61; S.I. 2007/466, art. 2
+[^F136]: Words in s. 61(3) inserted (16.3.2007) by Road Safety Act 2006 (c. 49), ss. 52(3), 61; S.I. 2007/466, art. 2
+[^F137]: S. 62(1)(ca) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 25(2) (with Sch. 5 para. 55); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F138]: S. 62(1A) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 25(3) (with Sch. 5 para. 55); S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F139]: S. 62A inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 26; S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F140]: Words substituted by Transport Act 1985 (c. 67, SIF 126), s. 1, Sch. 1
+[^F141]: Words substituted by Transport Act 1980 (c. 34, SIF 107:1), s. 43(1), Sch. 5
+[^F142]: Words substituted by virtue of Public Passenger Vehicles Act 1981 (c. 14, SIF 107:1), s. 88(2), Sch. 7 para. 19
+[^F143]: Words substituted by Road Traffic Regulation Act 1984 (c. 27, SIF 107:1), s. 146, Sch. 13 para. 36
+[^M38]: 1984 c. 27.
+[^M39]: 1972 c. 70.
+[^F144]: Words in s. 65(7) inserted (31.3.2015) by Local Government Byelaws (Wales) Act 2012 (anaw 2), s. 22(2), Sch. 2 para. 10(2)(a); S.I. 2015/1025, art. 2(r) (with art. 3)
+[^F145]: Words in s. 65(7) inserted (31.3.2015) by Local Government Byelaws (Wales) Act 2012 (anaw 2), s. 22(2), Sch. 2 para. 10(2)(b); S.I. 2015/1025, art. 2(r) (with art. 3)
+[^F146]: S. 65(7A) inserted (31.3.2015) by Local Government Byelaws (Wales) Act 2012 (anaw 2), s. 22(2), Sch. 2 para. 10(3); S.I. 2015/1025, art. 2(r) (with art. 3)
+[^F147]: Words in s. 74 substituted (13.3.2000) by S.I. 2000/412, art. 7(2)(a)
+[^F148]: Words in s. 74 inserted (13.3.2000) by S.I. 2000/412, art. 7(2)(b)
+[^F149]: S. 75(1)(b) omitted (28.1.2008) by virtue of Road Safety Act 2006 (c. 49), ss. 53, 61; S.I. 2007/3492, art. 2 and repealed (prosp.) by Road Safety Act 2006 (c. 49), s. 59, Sch. 7(17)
+[^F150]: S. 75(1)(cc) inserted by Transport Act 1985 (c. 67, SIF 126), s. 139(2), Sch. 7 para. 17(2)
+[^F151]: S. 75(1)(d)(i) repealed by Transport Act 1985 (c. 67, SIF 126), s. 139(2), Sch. 7 para. 17(2)
+[^F152]: S. 75(2A) inserted after subsection (2) by Civic Government (Scotland) Act 1982 (c. 45, SIF 81:2), ss. 16, 22, 23
+[^F153]: S. 75(2B) inserted (8.6.2004) by 1998 c. 34, ss. 39(1), 40(2), Sch. 1 para. 1 (with s. 29); S.I. 2004/241, art. 2(2)
+[^F154]: Words substituted by virtue of Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 38, 46
+[^F155]: S. 77(3) inserted (16.3.2007) by Road Safety Act 2006 (c. 49), ss. 52(4), 61; S.I. 2007/466, art. 2
+[^F156]: S. 77(4) inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 27; S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^F157]: S. 79A - S. 79B inserted (1.12.2016) by Immigration Act 2016 (c. 19), s. 94(1), Sch. 5 para. 28; S.I. 2016/1037, reg. 5(i) (with reg. 6)
+[^M40]: 1847 c. 89.
+[^M41]: 1936 c. 49.
+[^F158]: Definition repealed by Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1), ss. 3(1)(2), 5, Sch. 1 Pt. I, Sch. 4 paras. 1, 2
+[^F159]: S. 80(1): Definition of “controlled district” substituted (13.3.2000) by S.I. 2000/412, art. 7(3)
+[^F160]: Definition inserted by Transport Act 1985 (c. 67, SIF 126), s. 139(2), Sch. 7 para. 173(*a*)
+[^M42]: 1869 c.115 (**107:1**)
+[^F161]: Words substituted by Transport Act 1980 (c. 34, SIF 107:1), s. 43(1), Sch. 5
+[^F162]: Words inserted by Transport Act 1985 (c. 67, SIF 126), s. 139(2), Sch. 7 para. 17(3)(*b*)
+[^F163]: Words in s. 80(1) inserted (8.7.1996) by Transport and Works Act 1992 (c. 42), s. 62(3); S.I. 1996/1609, art. 2, Sch.
+[^F164]: Words substituted by virtue of Transport Act 1980 (c. 34, SIF 107:1), s. 43(1), Sch. 5 and Public Passenger Vehicles Act 1981 (c.14, SIF 107:1), s. 88(2), Sch. 7 para. 20
+[^M43]: 1981 c. 14
+[^F165]: Words inserted by Transport Act 1985 (c. 67, SIF 126), s. 139(2), Sch. 7 para. 17(3)(*c*)
+[^F166]: S. 80(4) substituted (7.1.1997) by S.I. 1996/3071, art. 2, Sch. 1(8)
+[^F167]: S. 83(2) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), s. 1(1), Sch. 1 Pt. 13
+[^F168]: Sch. 1 Pt. I repealed by Acquisition of Land Act 1981 (c. 67, SIF 28:1), s. 34(3), Sch. 6 Pt. I
+[^M44]: 1965 c. 56.
+[^F169]: Sch. 1 para. 7 substituted (3.2.2017) by Housing and Planning Act 2016 (c. 22), s. 216(3), Sch. 17 paras. 6, 7; S.I. 2017/75, reg. 3(g) (with reg. 5)
+[^F170]: Words in Sch. 1 Pt. 2 para. 9 substituted (1.4.2008) by Tribunals, Courts and Enforcement Act 2007 (c. 15), ss. 139, 148, Sch. 22 para. 1; S.I. 2007/2709, art. 5(b)
+[^X5]: The text of ss. 17(4), 18(1)-(4), 19(6), 22(1)(3), 27(1)(3)(5) and Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991

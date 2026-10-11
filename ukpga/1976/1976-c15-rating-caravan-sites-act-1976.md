@@ -1,0 +1,192 @@
+---
+title: "Rating (Caravan Sites) Act 1976"
+identifier: "ukpga/1976/15"
+citation: "1976 c. 15"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S"
+date: 1976-04-13
+last_amended: 2013-11-05
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1976/15"
+source_modified: 2014-12-16
+retrieved: 2026-10-11
+---
+
+# Rating (Caravan Sites) Act 1976
+
+**1976 c. 15**
+
+An Act to allow for the valuation and rating as a single unit in certain cases of caravan sites or portions of caravan sites inclusive of parts separately occupied by caravanners and of their caravans; and for purposes connected therewith.
+
+[13th April 1976]
+
+## Provisions for England and Wales
+
+### 1 Rating of caravan sites in England and Wales.
+
+(1) Where in a caravan site in England or Wales having an area of not less than 400 square yards pitches for leisure caravans are separately occupied by persons other than the site operator so that a pitch so occupied is a separate hereditament for purposes of rating within the meaning of the [^M1]General Rate Act 1967, the valuation officer, if he thinks fit, may in the valuation list treat all or any of those pitches as forming a single hereditament together with so much, if any, of the site as is in the occupation of the site operator.
+
+(2) For purposes of this section a caravan pitch (and any area comprising it) shall be taken as including the caravan for the time being on the pitch if, but only if, apart from this section, the caravan would be included as part of a rateable hereditament.
+
+(3) Where any area of a caravan site is under subsection (1) above treated as a single hereditament, it shall, for the purposes of rating (within the meaning of the General Rate Act 1967), be deemed to be a single hereditament in the occupation of the site operator.
+
+(4) In relation to that hereditament section 19(2) of the General Rate Act 1967 (which makes special provision as to ascertaining rateable value in the case of hereditaments consisting of one or more houses or other non-industrial buildings) shall not in any case apply; but . . . [^F1]for purposes of section 48 of that Act (under which the rates on dwelling houses and mixed hereditaments are to be reduced by reference to the domestic element of the rate support grant) any caravan pitches which are separately occupied by persons other than the site operator but are included in the hereditament by virtue of this section shall be treated as used for purposes of private dwellings notwithstanding the exclusion by section 48(5) of sites for movable dwellings.
+
+Where by virtue of this subsection a hereditament is for purposes of section 48 of the [^M2]General Rate Act 1967 a mixed hereditament as at the 1st April in any year, it shall be treated as being a mixed hereditament throughout the rating year beginning with that date, notwithstanding that it appears to the rating authority or is determined to have ceased to be one.
+
+(5) For purposes of any proposal for the alteration of the valuation list made by the valuation officer by virtue of subsection (1) above the hereditament shall be treated as in the occupation of the site operator, and in section 70(2) of the [^M3]General Rate Act 1967 (which confers on owners and occupiers the right to object to a proposal) the reference to any part of the hereditament shall be omitted.
+
+(6) Where a valuation list is altered by virtue of subsection (1) above so as to include an area of a caravan site as a single hereditament, any item comprised in that hereditament and separately entered in the list may be deleted from the list without any proposal being made to delete it; and a deletion so made shall have effect as from the same date as the alteration of the list to include the single hereditament.
+
+(7) Where any area of a caravan site is under subsection (1) above treated as a single hereditament, or where the valuation officer has made a proposal for the alteration of the valuation list in order that it shall be so treated, a proposal for there to be omitted from the hereditament and entered separately in the valuation list a caravan pitch occupied by a person other than the site operator may be made by that person if the pitch would fall to be separately entered in the list but for this section; and in the [^M4]General Rate Act 1967 section 69(4) and (5) and sections 70 to 74 shall apply in relation to a proposal under this subsection as they apply in relation to a proposal under section 69.
+
+(8) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F2]
+
+(9) This section shall have effect for any rate period (within the meaning of the [^M5]General Rate Act 1967) beginning after the end of March 1976; and any proposal of the valuation officer made during the year beginning with the 1st April 1976, if it could have been made on that date had this section been then in force, may be made so as to have effect as of that date, and section 79 of the [^M6]General Rate Act 1967 (which relates to the effect of alterations in the valuation list) shall apply accordingly.
+
+### 2 Information for caravanners about rating of caravan sites mentioned in s. 1.
+
+(1) Where the valuation officer makes a proposal for the alteration of the valuation list in order that an area of a caravan site shall be treated as a single hereditament under section 1(1) above, and there is not already an area of that site so treated, he shall within one month after the date on which the proposal is made give written notice to the site operator stating how many caravans occupied by persons other than the site operator are included in the hereditament proposed to be entered in the valuation list and how much of the rateable value proposed for the hereditament he attributes to those caravans, together with their pitches.
+
+(2) After receiving a notice under subsection (1) above the site operator shall display a notice on the site from the beginning of April to the end of October in every year so long as the proposal is current or the site or part of it is treated as a single hereditament under section 1(1) above (but starting with the April following the receipt of the notice under subsection (1), if it is received in October), and shall state in the notice so displayed—
+
+(a) the part of the site included in the hereditament by the proposal or in the valuation list (or that the whole site is so included);
+
+(b) the facts stated in the notice under subsection (1); and
+
+(c) the rate in the pound at which the general rate for the rating area is charged under the [^M7]General Rate Act 1967 in respect of the period during which the notice is for the time being displayed.
+
+(3) If at any time it appears to the valuation officer that the facts stated in a notice under subsection (1) above or under this subsection are no longer accurate, he shall give to the site operator a further written notice bringing the facts so stated up to date; and the notice or last notice received by the site operator under this subsection shall after his receipt of it (or, if it is received in October, then from the beginning of the following April) take the place of the notice under subsection (1) for purposes of subsection (2)(*b*) above.
+
+(4) The notice required by subsection (2) above shall be displayed at some conspicuous place where it is likely to attract the attention of persons occupying pitches for leisure caravans which are included in the hereditament by the proposal or in the valuation list.
+
+(5) If so requested by a person occupying any such pitch as aforesaid, the site operator shall give him in writing the information required by subsection (2) above to be given by a notice under that subsection as the subsection would apply at the time of the request if a notice were required to be displayed at all times after receipt of a notice under subsection (1) and to take account of any notice received under subsection (3).
+
+(6) If a site operator fails without reasonable excuse to display and keep displayed a notice as required by subsections (2) and (4) above, or to give information to a person as required by subsection (5) within one month after a written request from that person, he shall be liable on summary conviction to a fine not exceeding [[^F3]level 3 on the standard scale].
+
+## Provisions for Scotland
+
+### 3 Valuation and rating of caravan sites in Scotland.
+
+(1) Where a caravan site in Scotland having an area not less than 400 square yards pitches for leisure caravans are separatelyoccupied by persons other than the site operator so that a pitch so occupied is a separate unit of lands and heritages for purposes of valuation and rating, the assessor shall as respects the year 1976-77 and subsequent years for the aforesaid purposes treat all those pitches together with so much, if any, of the site as is in the occupation of the site operator as forming a single unit of lands and heritages in the occupation of the site operator; and the assessor shall make up the valuation roll or alter the valuation roll for the time being in force accordingly, and send a copy of the relevant entry therein to the rating authority.
+
+(2) Any alteration in the valuation roll under subsection (1) above shall have effect as from the beginning of the year in which the alteration is made or as from the date on which the caravan site becomes treated as a single unit of lands and heritages under the said subsection, whichever is the later:
+
+Provided that any such alteration which is made during the year 1976-77, in a case where the caravan site would have been treated as such a single unit of lands and heritages as from 1st April 1976 if this Act had been in force on that date, shall have effect as from that date.
+
+(3) Where as respects any year the valuation roll has been altered under subsection (1) above the [[^F4]rate][[^F4]non-domestic rate]for that year shall be levied accordingly.
+
+(4) For the purposes of valuation and rating, the proprietor or tenant of a caravan site which is treated as a single unti of lands and heritages under subsection (1) above shall be deemed to be the proprietor or tenant of the said single unit.
+
+(5) For the purpose of this section a caravan pitch shall be taken
+
+(a) as including the caravan for the time being on the pitch if, but only if, apart from this section, the caravan would be included as part of lands and heritages; and
+
+(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F5]
+
+[[^F6](6) In relation to the said single unit subsections (2) and (6) of section 6 of the said Act of 1956 (which make provision as to ascertaining rateable value in the case of ladns and heritages consisting of one or more dwelling-houses or other non-industrial buildings) shall not in any case apply.
+
+(7) Where there are in a caravan site which is to be treated as a single unit of lands and heritages under subsection (3) of section 7 of the [^M8]Local Government (Scotland) Act 1966 applies (reduction rates on dwellings by reference to the domestic element), subsection (4) of that section shall have effect as if—
+
+(a) the references to the rateable value to be determined thereunder and to the occupier of the premises were references respctively to the rateable value of all the said pitches as a single sum and to the site operator;
+
+(b) the words “gross annual value and” were omitted.]
+
+(8) Section 22 of the said Act of 1966 (complaints regarding omissions from the valuation roll) shall have effect as if in subsection (1)—
+
+(a) after the word “effect” there were inserted the word “(a)”;
+
+(b) after the words “so included” there were inserted the words “or (b) that lands and heritages consisiting of a pitch for a caravan have been treated as part of single unit of lands and heritages by virttue of section 3(1) of the Rating (Caravan Sites) Act 1976 and ought to be separately entered in such valuation roll;”.
+
+[[^F7](8A) Where—
+
+(a) a caravan site is treated under subsection (1) above as a single unit of lands and heritages;
+
+(b) a caravan pitch on that site would be taken as including, as part of lands and heritages, the caravan for the time being on it; and
+
+(c) the caravan pitch is separately occupied by a person other than the site operator,
+
+the assessor shall, on the application of that person, omit the pitch from the single unit and enter it separately in the valuation roll]
+
+(9) Expressions used in this section and in the previous Valuation Acts shall have the same meanings in this section as in those Acts; and this Act, as it applies to Scotland, and the previous Valuation Acts may be cited together as the Valuation Acts.
+
+In this subsection “the previous Valuation Acts” means the [^M9]Lands Valuation (Scotland) Act 1854, the Acts amending that Act and any other Act relating to valuation, including the [^M10]Local Government (Scotland) Act 1975.
+
+[[^F6](10) In this section “rate” includes a domestic water rate and “rating”shall be construed accordingly.]
+
+### [^F8]3A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4 Information for caravanners about rating of caravan sites mentioned in s. 3.
+
+(1) Where the assessor alters the valuation roll under section 3(1) above, he shall include in the notice of deletion which he sends in pursuance of section 3(3) of the Local Government (Scotland) Act 1975 to each person named in the valuation roll as the occupier of a pitch for a leisure caravan, the following additional information—
+
+(a) the name and location of the caravan site on which the site is situated;
+
+(b) a statement that the assessor has deleted from the valuation roll the entry relating to the pitch because, for the purposes of valuation and rating,he is treating the caravan site including the pitch as a single unit in the occupation of the site operator;
+
+(c) the number of such pitches which the asssessor is including in the said unit;
+
+(d) the amount of the rateable value of the said single unit which the assessor attributes to such pitches; and
+
+(e) the [[^F9]rate][[^F9]non-domestic rate]in the pound [[^F10](as reduced under section 7(1) of the [^M11]Local Government (Scotland) Act 1966)]at which rates are levied within the area in which the site is situated for the first year in which the site and pitches thereon are assessed as a single unit.
+
+(2) Subsections (5) and (9) of section 3 above shall apply for the purposes of this section as they apply for the purposes of that section.
+
+### 5 Transitional provision for Scotland.
+
+(1) Where before the passing of this Act an agreement is entered into, relating to the payment of rent, between the site operator and the occupier of lands and heritages which consist of a pitch for a leisure caravan on the site and which for the year 1975-76 are separately entered in the valuation roll, the site operator may recover from that occupier during the currency of such agreement, in addition to the rent payable thereunder, a sum which represents the amount of rates payable by the site operator in respect of the site which is reasonably attributable to the pitch of such occupier and which but for the enactment of section 3 above would not be payable by the site operator.
+
+(2) Subsections (5), (9) and (10) of section 3 above shall apply for the purposes of this section as they apply for the purposes of that section.
+
+## General
+
+### 6 Interpretation.
+
+For purposes of this Act—
+
+(a) “caravan” has the same meaning as it has for purposes of Part I of the [^M12]Caravan Sites and Control of Development Act 1960;
+
+(b) “caravan site” means any land in respect of which a site licence is required under Part I of [[^F11]the Caravan Sites and Control of Development Act 1960 or Part 2 of the Mobile Homes (Wales) Act 2013], or would be so required if paragraph 4 and paragraph 11 of Schedule 1 to [[^F12]the Caravan Sites and Control of Development Act 1960 or paragraph 4 and paragraph 11 of Schedule 1 to the Mobile Homes (Wales) Act 2013] (exemption of certain land occupied and supervised by organisations concerned with recreational activities and of land occupied by local authorities) were omitted;
+
+(c) a caravan pitch is a “pitch for a leisure caravan” if in accordance with any licence or planning permission regulating the use of the caravan site a caravan stationed on the pitch is not allowed to be used for human habitation throughout the year;
+
+(d) “site operator” means the person who is for purposes of Part I of [[^F13]the Caravan Sites and Control of Development Act 1960] the occupier of the caravan site [[^F14]or is for purposes of the Mobile Homes (Wales) Act 2013 the owner of the caravan site].
+
+### 7 Short title and extent.
+
+(1) This Act may be cited as the Rating (Caravan Sites) Act 1976.
+
+(2) This Act does not extend to Northern Ireland
+
+---
+
+[^M1]: 1967 c. 9.
+[^F1]: Words repealed by Local Government, Planning and Land Act 1980 (c. 65, SIF 123:1, 2), s. 194, Sch. 34 Pt. IX
+[^M2]: 1967 c. 9.
+[^M3]: 1967 c. 9.
+[^M4]: 1967 c. 9.
+[^F2]: S. 1(8) repealed by Land Drainage Act 1976 (c. 70, SIF 73:1), s. 117 (3), Sch. 8
+[^M5]: 1967 c. 9.
+[^M6]: 1967 c. 9.
+[^M7]: 1967 c. 9.
+[^F3]: Words substituted (E.W.) (S.) by virtue of (E.W.) Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 38, 46 and (S.) Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1), ss. 289F, 289G
+[^F4]: Words “non-domestic rate” substituted (S.) for “rate” by Abolition of Domestic Rates Etc. (Scotland) Act 1987 (c. 47, SIF 103:2), s. 6, Sch. 1 Pt. III para. 37
+[^F5]: S. 3(5)(*b*) repealed by Rating (Disabled Persons) Act 1978 (c. 40, SIF 103:1, 2), s. 9(3), Sch. 2
+[^F6]: S. 3(6)(7)(10) repealed (S.) by Abolition of Domestic Rates Etc. (Scotland) Act 1987 (c. 47, SIF 103:2), s. 34, Sch. 6
+[^M8]: 1966 c. 51.
+[^F7]: S. 3(8A) inserted by Rating and Valuation (Amendment) (Scotland) Act 1984 (c. 31, SIF 103:2), s. 14
+[^M9]: 1854 c. 91.
+[^M10]: 1975 c. 30.
+[^F8]: S. 3A (inserted by Rating and Valuation (Amendment)(Scotland) Act 1984 (c. 31, SIF 103:2), s. 15) repealed (retrospective to 1 .4 .1990) by Caravans (Standard Community Charge and Rating) Act 1991 (c. 2, SIF 81:1,2) s.2(5)
+[^F9]: Words “non-domestic rate” substituted (S.) for “rate” by Abolition of Domestic Rates Etc. (Scotland) Act 1987 (c. 47, SIF 103:2), s. 6, Sch. 1 para. 37
+[^F10]: Words repealed (S.) by Abolition of Domestic Rates Etc. (Scotland) Act 1987 (c. 47, SIF 103:2), s. 34, Sch. 6
+[^M11]: 1966 c. 51.
+[^M12]: 1960 c. 62.
+[^F11]: Words in s. 6(b) substituted (5.11.2013) by Mobile Homes (Wales) Act 2013 (anaw 6), s. 64(1), Sch. 4 para. 3(a)(i) (with Sch. 5 para. 7) (this amendment is to be treated as not having effect until 1.10.2014 by virtue of S.I. 2014/11, art. 3(2))
+[^F12]: Words in s. 6(b) substituted (5.11.2013) by Mobile Homes (Wales) Act 2013 (anaw 6), s. 64(1), Sch. 4 para. 3(a)(ii) (with Sch. 5 para. 7) (this amendment is to be treated as not having effect until 1.10.2014 by virtue of S.I. 2014/11, art. 3(2))
+[^F13]: Words in s. 6(d) substituted (5.11.2013) by Mobile Homes (Wales) Act 2013 (anaw 6), s. 64(1), Sch. 4 para. 3(b)(i) (with Sch. 5 para. 7) (this amendment is to be treated as not having effect until 1.10.2014 by virtue of S.I. 2014/11, art. 3(2))
+[^F14]: Words in s. 6(d) inserted (5.11.2013) by Mobile Homes (Wales) Act 2013 (anaw 6), s. 64(1), Sch. 4 para. 3(b)(ii) (with Sch. 5 para. 7) (this amendment is to be treated as not having effect until 1.10.2014 by virtue of S.I. 2014/11, art. 3(2))

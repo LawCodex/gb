@@ -1,0 +1,2268 @@
+---
+title: "Land Compensation (Scotland) Act 1973"
+identifier: "ukpga/1973/56"
+citation: "1973 c.56"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1973-07-25
+last_amended: 2017-12-28
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1973/56"
+source_modified: 2024-05-17
+retrieved: 2026-10-11
+---
+
+# Land Compensation (Scotland) Act 1973
+
+**1973 c.56**
+
+An Act to re-enact in the form in which they apply to Scotland the provisions of the Land Compensation Act 1973.
+
+[25th July 1973]
+
+## Part I — Compensation for Depreciation Caused by use of Public Works
+
+### 1 Right to compensation.
+
+(1) Where the value of an interest in land is depreciated by physical factors caused by the use of public works, then, if—
+
+(a) the interest qualifies for compensation under this Part of this Act; and
+
+(b) the person entitled to the interest makes a claim [[^F1]after the time provided] by and otherwise in accordance with this Part of this Act,
+
+compensation for that depreciation shall, subject to the provisions of this Part of this Act, be payable by the responsible authority to the person making the claim (hereafter referred to as “the claimant”).
+
+(2) The physical factors mentioned in subsection (1) above are noise, vibration, smell, fumes, smoke and artificial lighting and the discharge on to the land in respect of which the claim is made of any solid or liquid substance.
+
+(3) The public works mentioned in subsection (1) above are—
+
+(a) any [[^F2]road];
+
+(b) any aerodrome; and
+
+(c) any works or land (not being a [[^F2]road] or aerodrome) provided or used in the exercise of statutory powers.
+
+(4) The responsible authority mentioned in subsection (1) above is, in relation to a [[^F3]road], the appropriate [[^F3]roads authority] and, in relation to other public works, the person managing those works.
+
+(5) Physical factors caused by an aircraft arriving at or departing from an aerodrome shall be treated as caused by the use of the aerodrome whether or not the aircraft is within the boundaries of the aerodrome; but, save as aforesaid, the source of the physical factors must be situated on or in the public works the use of which is alleged to be their cause.
+
+(6) Compensation shall not be payable under this Part of this Act in respect of the physical factors caused by the use of any public works other than a [[^F4]road] unless immunity from actions for nuisance in respect of that use is conferred (whether expressly or by implication) by an enactment relating to those works or, in the case of an aerodrome and physical factors caused by aircraft, the aerodrome is one to which [[^F5]section 77(2) of the Civil Aviation Act 1982] (immunity from actions for nuisance) for the time being applies.
+
+(7) Compensation shall not be payable under this Part of this Act in respect of physical factors caused by accidents involving vehicles on a [[^F4]road] or accidents involving aircraft.
+
+(8) Compensation shall not be payable under this Part of this Act on any claim unless the relevant date in relation to the claim falls on or after 17th October 1969.
+
+(9) Subject to section 9 below, “the relevant date” in this Part of this Act means—
+
+(a) in relation to a claim in respect of a [[^F4]road], the date on which it was first open to public traffic;
+
+(b) in relation to a claim in respect of other public works, the date on which they were first used after completion.
+
+### 2 Interests qualifying for compensation.
+
+(1) An interest qualifies for compensation under this Part of this Act if it was acquired by the claimant before the relevant date in relation to the claim and the requirements of subsection (2) or, as the case may be, subsection (3) below are satisfied on the date on which notice of the claim for compensation in respect of that interest is served.
+
+(2) If and so far as the interest is in land which is a dwelling, the said requirements are—
+
+(a) that the interest is an owner’s interest; and
+
+(b) where the interest carries the right to occupy the land, that the land is occupied by the claimant in right of that interest as his residence.
+
+(3) If and so far as the interest is not in such land as aforesaid, the said requirements are—
+
+(a) that the interest is that of an owner-occupier; and
+
+(b) that the land is or forms part of either—
+
+(i) a hereditament the annual value of which does not exceed the prescribed amount; or
+
+(ii) an agricultural unit.
+
+(4) In this section “owner’s interest”, in relation to any land, includes the interest of—
+
+(a) the lessee under a lease thereof, being a lease the unexpired period of which on the date of service of the notice of claim in respect thereof is not less than three years; and
+
+(b) a crofter, a landholder, a statutory small tenant and a cottar in the land.
+
+(5) In this section “owner-occupier”, in relation to land in a hereditament, means a person who occupies the whole or a substantial part of the land in right of an owner’s interest therein and, in relation to land in an agricultural unit, means a person who occupies the whole of that unit and is entitled while so occupying it, to an owner’s interest in the whole or any part of that land.
+
+(6) In this section “the prescribed amount” means the amount for the time being prescribed for the purposes of [[^F6]section 100(3)(a) of the Town and Country Planning (Scotland) Act 1997] (interests qualifying for protection under planning blight provisions) and “annual value” and “hereditament” have the meanings given in [[^F6]section 122] of that Act taking references to the date of service of a notice under [[^F6]section 101] of that Act as references to the date on which notice of the claim is served.
+
+(7) This section has effect subject to sections 10(3) and 11 below.
+
+### 3 Claims.
+
+(1) A claim under this Part of this Act shall be made by serving on the responsible authority a notice containing particulars of—
+
+(a) the land in respect of which the claim is made;
+
+(b) the claimant’s interest and the date on which, and the manner in which, it was acquired;
+
+(c) the claimant’s occupation of the land (except where the interest qualifies for compensation without occupation);
+
+(d) any other interests in the land so far as known to the claimant;
+
+(e) the public works to which the claim relates;
+
+(f) the amount of compensation claimed;
+
+(g) any land contiguous or adjacent to the land in respect of which the claim is made, being land to which the claimant was entitled in the same capacity (within the meaning of section 6 below) on the relevant date.
+
+(2) Subject to the provisions of this section and of section 12 below, no claim shall be made [[^F7]before the expiration of twelve months from the relevant date; and the day next following the expiration of the said twelve months is in this Part of this Act referred to as “the first claim day”.]
+
+(3) Subsection (2) above shall not preclude the making of a claim in respect of an interest in land before [[^F8]the first claim day] if—
+
+(a) the claimant has during the said twelve months made a contract for disposing of that interest or (in so far as the interest is in land which is not a dwelling) for the grant of a tenancy of that land; and
+
+(b) the claim is made before the interest is disposed of or the tenancy is granted;
+
+but compensation shall not be payable before [[^F8]the first claim day] on any claim made by virtue of this subsection.
+
+(4) Where notice of a claim has been served on a responsible authority, any person authorised by that authority may, on giving reasonable notice, enter the land to which the claim relates for the purpose of surveying it and ascertaining its value in connection with the claim; and any person who wilfully obstructs a person in the exercise of the powers conferred by this subsection shall be guilty of an offence and liable on summary conviction to a fine not exceeding [[^F9]level 1 on the standard scale].
+
+(5) Where compensation is payable by a responsible authority on a claim there shall be payable by the authority, in addition to the compensation, any reasonable valuation or legal expenses incurred by the claimant for the purposes of the preparation and prosecution of the claim; but this subsection is without prejudice to the powers of the Lands Tribunal in respect of the expenses of proceedings before the Tribunal by virtue of section 14 below.
+
+### 4 Assessment of compensation: general provisions.
+
+(1) The compensation payable on any claim shall be assessed by reference to prices current on [[^F10]the first claim day.]
+
+(2) In assessing depreciation due to the physical factors caused by the use of any public works, account shall be taken of the use of those works as it exists on [[^F10]the first claim day] and of any intensification that may then be reasonably expected of the use of those works in the state in which they are on that date.
+
+(3) In assessing the extent of the depreciation there shall be taken into account the benefit of any relevant works—
+
+(a) which have been carried out, or in respect of which a grant has been paid, under section 18 below, section 15 of the [^M1]Airports Authority Act 1965 [[^F11], section 29A of the [^M2]Civil Aviation Act 1971][[^F12], section 79 of the Civil Aviation Act 1982] or any corresponding local enactment [[^F13]or under any provision of a scheme operated by a person managing an aerodrome which provides for the payment of sound-proofing grants in respect of buildings near the aerodrome];
+
+(b) which have been carried out under section 21 or 25 below;
+
+and it shall be assumed that any relevant works which could be or could have been carried out, or in respect of which a grant could be or could have been paid, under any of the provisions mentioned in paragraph (a) above have been carried out but, in a case where the authority having functions under that provision have a discretion whether or not to carry out the works or pay the grant, only if they have undertaken to do so.
+
+[[^F14]In paragraph (a) above “sound-proofing grants”, in relation to any buildings, means grants towards the cost of insulating those buildings or parts of those buildings against noise].
+
+(4) The value of the interest in respect of which the claim is made shall be assessed—
+
+(a) subject to subsection (5) below, by reference to the nature of the interest and the condition of the land as it subsisted on the date of service of notice of the claim;
+
+(b) subject to section 5 below, in accordance with rules (2) to (4) of the rules set out in section 12 of the [^M3]Land Compensation (Scotland) Act 1963;
+
+(c) if the interest is subject to a heritable security or to missives of sale or to a contract made after the relevant date for the grant of a tenancy, as if it were not subject to the heritable security, missives or contract.
+
+(5) In assessing the value of the interest in respect of which the claim is made there shall be left out of account any part of that value which is attributable to—
+
+(a) any building, or improvement or extension of a building, on the land if the building or, as the case may be, the building as improved or extended, was first occupied after the relevant date; and
+
+(b) any change in the use of the land made after that date.
+
+### 5 Assessment of compensation: assumptions as to planning permission.
+
+(1) The following assumptions shall be made in assessing the value of the interest in respect of which the claim is made
+
+[^F15][3 Subject to subsection (3) below, it shall be assumed that, in respect of the land in which the interest subsists (“the relevant land”) or any part of it, planning permission would be granted—
+
+(a) subject to the condition set out in [[^F16]Schedule 12 to the Town and Country Planning (Scotland) Act 1997], for any development of a class specified in [[^F16]paragraph 1 of Schedule 11] to that Act; and
+
+(b) for any development of a class specified in [[^F17]paragraph 2 of Schedule 11] to that Act.]
+
+(3) Notwithstanding subsection (2) above-
+
+[^F18]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F18]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) where an order has been made under [[^F19]section 71 of or paragraph 1 of Schedule 8 to the said Act of 1997], in respect of the relevant land or any part thereof, requiring the removal of any building or the discontinuance of any use, and compensation has become payable in respect of that order under [[^F19]section 83] of that Act, it shall not by virtue of the said subsection (2) be assumed that planning permission would be granted, in respect of the relevant land or any part thereof, as the case may be, for the rebuilding of that building or the resumption of that use.
+
+(4) It shall be assumed that planning permission would not be granted in respect of the relevant land or any part thereof for any development other than such development as is mentioned in subsection (2) above; and, if planning permission has been granted in respect of the relevant land or any part thereof for such other development, it shall be assumed that the planning permission has not been granted in so far as it relates to development that has not been carried out.
+
+(5) In this section any expression which is also used in [[^F20]the said Act of 1997] has the same meaning as in that Act and references to any provision of that Act include references to any corresponding provision previously in force.
+
+### 6 Reduction of compensation where land is benefited.
+
+(1) The compensation payable on a claim shall be reduced by an amount equal to any increase in the value of—
+
+(a) the claimant’s interest in the land in respect of which the claim is made; and
+
+(b) any interest in other land contiguous or adjacent to the land mentioned in paragraph (a) above to which the claimant was entitled in the same capacity on the relevant date,
+
+which is attributable to the existence of or the use or prospective use of the public works to which the claim relates.
+
+(2) Sections 4 and 5 above shall not apply to the assessment, for the purposes of subsection (1) above, of the value of the interest mentioned in paragraph (a) of that subsection.
+
+(3) Where, for the purpose of assessing compensation on a claim in respect of any interest in land, an increase in the value of an interest in other land has been taken into account under subsection (1) above, then, in connection with any subsequent acquisition to which this subsection applies, that increase shall not be left out of account by virtue of section 13 of the [^M4]Land Compensation (Scotland) Act 1963 or taken into account by virtue of section 14 of that Act or any corresponding enactment, in so far as it was taken into account in connection with that claim.
+
+(4) Subsection (3) above applies to any subsequent acquisition, not being an acquisition of the land in respect of which the claim is made, where either—
+
+(a) the interest acquired by the subsequent acquisition is the same as the interest previously taken into account (whether the acquisition extends to the whole of the land in which that interest previously subsisted or only to part of that land); or
+
+(b) the person entitled to the interest acquired is, or directly or indirectly derives title to that interest from, the person who at the time of the claim mentioned in that subsection was entitled to the interest previously taken into account;
+
+and in this subsection “the interest previously taken into account” means the interest the increased value of which was taken into account as mentioned in the said subsection (3).
+
+(5) For the purposes of this section a person entitled to two interests in land shall be taken to be entitled to them in the same capacity if, but only if, he is entitled—
+
+(a) to both of them beneficially; or
+
+(b) to both of them as trustee of one particular trust; or
+
+(c) to both of them as personal representative of one particular person;
+
+and in this section references to a person deriving title from another person include references to any successor in title of that other person.
+
+(6) In subsection (3) above “corresponding enactment” has the same meaning as in section 15 of the said Act of 1963.
+
+### 7 Exclusion of minimal compensation.
+
+Compensation shall not be payable on any claim unless the amount of the compensation exceeds £50.
+
+### 8 Other restrictions on compensation.
+
+(1) Where a claim has been made in respect of depreciation of the value of an interest in land caused by the use of any public works and compensation has been paid or is payable on that claim, compensation shall not be payable on any subsequent claim in relation to the same works and the same land or any part thereof (whether in respect of the same or a different interest) except that, in the case of land which is a dwelling, this subsection shall not preclude the payment of compensation both on a claim in respect of the ownership of the dominium utile and on a claim in respect of a tenancy.
+
+(2) Where a person is entitled to compensation in respect of the acquisition of an interest in land by an authority possessing compulsory purchase powers, or would be so entitled if the acquisition were compulsory, and—
+
+(a) the land is acquired for the purposes of any public works; and
+
+(b) that person retains land which, in relation to the land acquired, constitutes other land or lands within the meaning of section 61 of the [^M5]Lands Clauses Consolidation Scotland) Act 1845 (compensation for acquisition to include compensation for injurious affection of other land retained),
+
+then, whether or not any sum is paid or payable in respect of injurious affection of the land retained, compensation shall not be payable under this Part of this Act on any claim in relation to those works made after the date of service of the notice to treat (or, if the acquisition is by agreement, the date of the agreement) in respect of any interest in the land retained.
+
+(3) Subsection (2) above applies whether the acquisition is before, on or after 23rd June 1973 and, where it is on or after that date, the public works for the purposes of which the land is acquired shall be taken to be those specified in the relevant particulars recorded under subsection (4) below.
+
+(4) Where on or after 23rd June 1973 an authority possessing compulsory purchase powers acquires land for the purposes of any public works and the person from whom the land is acquired retains land which, in relation to the land acquired, constitutes other land or lands within the meaning of the section mentioned in subsection (2) above, the authority shall cause particulars of the land retained and the nature and extent of those works to be recorded in the Register of Sasines and shall send a copy of those particulars to the local planning authority.
+
+(5) In a case in which compensation for injurious affection fell or falls to be assessed otherwise than in accordance with section 41 below, subsection (2) above shall not preclude the payment of compensation under this Part of this Act in respect of depreciation by public works so far as situated elsewhere than on the land acquired.
+
+(6) Where after a claim has been made in respect of any interest in land the whole or part of the land in which that interest subsists is compulsorily acquired, then, if—
+
+(a) the value of that land has been diminished by the public works to which the claim relates; but
+
+(b) the compensation in respect of the compulsory acquisition falls to be assessed without regard to the diminution,
+
+the compensation in respect of the acquisition shall be reduced by an amount equal to the compensation paid or payable on the claim or, if the acquisition extends only to part of the land, to so much of the last-mentioned compensation as is attributable to that part.
+
+(7) Without prejudice to the foregoing provisions of this section, compensation shall not be payable in respect of the same depreciation both under this Part of this Act and under any other enactment.
+
+### 9 Alterations to public works and changes of use.
+
+(1) This section has effect where, whether before, on or after 23rd June 1973—
+
+(a) the carriageway of a [[^F21]road] has been altered after the [[^F21]road] has been open to public traffic;
+
+(b) any public works other than a [[^F21]road] have been reconstructed, extended or otherwise altered after they have been first used; or
+
+(c) there has been a change of use in respect of any public works other than a [[^F21]road] or aerodrome.
+
+(2) If and so far as a claim in respect of the [[^F21]road] or other public works relates to depreciation that would not have been caused but for the alterations or change of use, this Part of this Act shall, subject to subsection (3) below, have effect in relation to the claim as if the relevant date (instead of being the date specified in section 1(9) above) were—
+
+(a) the date on which the [[^F21]road] was first open to public traffic after completion of the alterations to the carriageway;
+
+(b) the date on which the other public works were first used after completion of the alterations; or
+
+(c) the date of the change of use,
+
+as the case may be.
+
+(3) Subsection (2) above shall not by virtue of any alterations to an aerodrome apply to a claim in respect of physical factors caused by aircraft unless the alterations are runway or apron alterations.
+
+(4) Where a claim relates to such depreciation as is mentioned in subsection (2) above the notice of claim shall specify, in addition to the matters mentioned in section 3 above, the alterations or change of use alleged to give rise to the depreciation; and if and so far as the claim relates to such depreciation—
+
+(a) section 6 above shall have effect as if the increase in value to be taken into account were any increase that would not have been caused but for the alterations or change of use in question;
+
+(b) subsection (1) of section 8 above shall not preclude the payment of compensation unless the previous claim was in respect of depreciation that would not have been caused but for the same alterations or change of use, and subsection (2) of that section shall not preclude the payment of compensation unless the works for which the land was acquired were works resulting from the alterations, or works used for the purpose, to which the claim relates.
+
+(5) For the purposes of this section the carriageway of a [[^F21]road] is altered if, and only if—
+
+(a) the location, width or level of the carriageway is altered (otherwise than by re-surfacing); or
+
+(b) an additional carriageway is provided for the [[^F21]road] beside, above or below an existing one;
+
+and the reference in subsection (2) above to depreciation that would not have been caused but for alterations to the carriageway of a [[^F21]road]is a reference to such depreciation by physical factors which are caused by the use of, and the source of which is situated on, the length of carriageway which has been altered as mentioned in paragraph (a) above or, as the case may be, the additional carriageway and the corresponding length of the existing one mentioned in paragraph (b) above.
+
+(6) In this section “runway or apron alterations” means—
+
+(a) the construction of a new runway, the major realignment of an existing runway or the extension or strengthening of an existing runway; or
+
+(b) a substantial addition to, or alteration of, a taxiway or apron, being an addition or alteration whose purpose or main purpose is the provision of facilities for a greater number of aircraft.
+
+(7) For the avoidance of doubt it is hereby declared that references in this section to a change of use do not include references to the intensification of an existing use.
+
+### 10 Restricted interests in land.
+
+(1) Where an interest is subject to a heritable security—
+
+(a) a claim may be made by any heritable creditor of the interest as if he were the person entitled to that interest but without prejudice to the making of a claim by that person;
+
+(b) no compensation shall be payable in respect of the interest of the heritable creditor (as distinct from the interest which is subject to the heritable security);
+
+(c) any compensation which is payable in respect of the interest which is subject to the heritable security shall be paid to the heritable creditor or, if there is more than one heritable creditor, to the first heritable creditor and shall in either case be applied by him as if it were proceeds of sale.
+
+(2) Where the interest is that of any of the persons specified in section 67 of the [^M6]Lands Clauses Consolidation (Scotland) Act 1845, that Act shall have effect with regard to the application of the compensation as it has effect with regard to the application of the compensation payable in respect of the purchase of land.
+
+(3) Where an interest in land is vested in trustees and a person beneficially entitled (whether directly or derivatively) under the trust is entitled or permitted by reason of his interest to occupy the land, section 2 above shall have effect as if occupation by that person were occupation by the trustees in right of the interest vested in them.
+
+### 11 Interests acquired by inheritance.
+
+(1) So much of section 2(1) above as requires an interest qualifying for compensation under this Part of this Act to have been acquired by the claimant before the relevant date shall not apply to any interest acquired by him by inheritance from a person who acquired that interest, or a greater interest out of which it is derived, before the relevant date.
+
+(2) For the purposes of this section an interest is acquired by a person by inheritance if it devolves on him by virtue only of a testamentary disposition or any other deed with testamentary effect taking effect on, or the law of intestate succession as applied to, the death of another person or the successive deaths of two or more other persons.
+
+(3) For the purposes of subsection (2) above a person who acquires an interest in satisfaction or in partial satisfaction of any legacy, share in residue or other share in the estate of a deceased person shall be treated as a person on whom the interest devolves by direct bequest.
+
+### 12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F22]
+
+### 13 Information for ascertaining relevant date.
+
+(1) The responsible authority in relation to a [[^F23]road] or other public works shall keep a record and, on demand, furnish a statement in writing of—
+
+(a) the date on which the [[^F23]road] was first open to public traffic, or was first open to public traffic after completion of any particular alterations to the carriageway of the highway;
+
+(b) the date on which the public works were first used after completion, or were first used after completion of any particular alteration to those works;
+
+(c) in the case of public works other than a [[^F23]road] or aerodrome, the date on which there was a change of use in respect of the public works.
+
+(2) A certificate by the Secretary of State stating that runway or apron alterations have or have not been carried out at an aerodrome and the date on which an aerodrome at which any such alterations have been carried out was first used after completion of the alterations shall be conclusive evidence of the facts stated.
+
+(3) In this section references to alterations to the carriageway of a [[^F23]road], to runway or apron alterations and to a change of use shall be construed in the same way as in section 9 above; and subsection (1) above shall not apply unless the date in question falls on or after 23rd June 1973.
+
+### 14 Disputes.
+
+(1) Any question of disputed compensation under this Part of this Act shall be referred to and determined by the Lands Tribunal.
+
+(2) No such question arising out of a claim made before [[^F24]the first claim day] shall be referred to that Tribunal before the beginning of that period.
+
+### 15 Action for nuisance following unsuccessful claim where responsible authority have disclaimed statutory immunity.
+
+Where, in resisting a claim under this Part of this Act, a responsible authority contend that no enactment relating to the works in question confers immunity from actions for nuisance in respect of the use to which the claim relates, then if—
+
+(a) compensation is not paid on the claim; and
+
+(b) an action for nuisance in respect of the matters which were the subject of the claim is subsequently brought by the claimant against the authority,
+
+no enactment relating to those works, being an enactment in force when the contention was made, shall afford a defence to that action in so far as it relates to those matters.
+
+### 16 Interest on compensation.
+
+Compensation under this Part of this Act shall carry interest, at the rate for the time being prescribed under section 40 of the [^M7]Land Compensation (Scotland) Act 1963, from—
+
+(a) the date of service of the notice of claim; or
+
+(b) if that date is before [[^F25]the first claim day], from [[^F26]the first claim day]
+
+until payment.
+
+### 17 Interpretation of Part I.
+
+(1) In this Part of this Act—
+
+- “the appropriateroads authority” means—
+
+(a) except where paragraph (b) below applies, the [[^F27]roads authority] who constructed the [[^F27]road] to which the claim relates;
+
+(b) if and so far as the claim relates to depreciation that would not have been caused but for alterations to the carriageway of a [[^F27]road], the [[^F27]roads authority] who carried out the alterations;
+
+- “claim” means a claim under this Part of this Act and “the claimant” means the person making such a claim;
+
+. . . [^F28]
+
+- [[^F29]“the first claim day” has the meaning given in section 3(2) above;]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F30];
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F30];
+
+- “land” includes salmon fishings;
+- “public works” and “responsible authority” have the meaning given in section 1 above;
+- “the relevant date” has the meaning given in sections 1(9) and 9(2) above.
+
+(2) For the purposes of sections 2(1), 11(1) and 12(2) above an interest acquired or disposed of, or a tenancy granted, pursuant to a contract shall be treated as acquired, disposed of or granted when the contract was made.
+
+[[^F31](2A) Section 6 of the [^M8]Prescription and Limitation (Scotland) Act 1973 (extinction of obligations by prescriptive periods of five years) shall apply to an obligation to make compensation under this Part of this Act, and in relation to such an obligation the appropriate date for the purposes of subsection (1) of the said section 6 shall be the first claim day.]
+
+(3) In the application of this Part of this Act to a road which has not always since 17th October 1969 been a [[^F27]road]—
+
+(a) references to its being open to public traffic shall be construed as references to its being so open whether or not as a [[^F27]road];
+
+(b) for references to the [[^F27]roads authority] who constructed it there shall be substituted references to the [[^F27]roads authority] for the [[^F27]roads];
+
+and no claim shall be made if the relevant date falls at a time when the road was not a highway and the road does not become a highway within three years of that date, . . . [^F32]
+
+## Part II — Mitigation of Injurious Effect of Public Works
+
+### Insulation against noise
+
+#### 18 Sound-proofing of buildings affected by public works.
+
+(1) The Secretary of State may make regulations imposing a duty or conferring a power on responsible authorities to insulate buildings against noise caused or expected to be caused by the construction or use of public works or to make grants in respect of the cost of such insulation.
+
+(2) Regulations under this section may—
+
+(a) make provision as to the level of noise giving rise to a duty or power under the regulations and the area in which a building must be situated if a duty or power is to arise in respect of it;
+
+(b) specify the classes of public works and of buildings in respect of which a duty or power is to arise, and the classes of persons entitled to make claims, under the regulations;
+
+(c) specify the nature and extent of the work which is to be undertaken under the regulations and the expenditure in respect of which and the rate at which grants are to be made under the regulations;
+
+(d) make the carrying out of work or the making of grants under the regulations dependent upon compliance with conditions;
+
+(e) make provision as to the funds out of which expenses incurred by responsible authorities under the regulations are to be defrayed;
+
+(f) make provision for the settlement of disputes arising under the regulations.
+
+(3) Without prejudice to the generality of paragraph (a) of subsection (2) above, regulations made by virtue of that paragraph may provide for the relevant level of noise or the relevant area in a particular case to be determined by reference to a document published by or on behalf of the Secretary of State or by any other authority or body or in such other manner as may be provided in the regulations.
+
+(4) If regulations under this section impose a duty or confer a power to carry out, or make a grant in respect of the cost of, work in respect of a building which is subject to a tenancy on a claim in that behalf made by the landlord or the tenant, provision may also be made by the regulations for enabling the work to be carried out notwithstanding the withholding of consent by the other party to the tenancy.
+
+(5) Regulations under this section may authorise or require local authorities to act as agents for responsible authorities in dealing with claims and in discharging or exercising the duties or powers of responsible authorities under the regulations, and may provide for the making by responsible authorities of payments to local authorities in respect of anything done by them as such agents.
+
+(6) Regulations under this section may contain such supplementary provisions as appear to the Secretary of State to be necessary or expedient and may make different provision with respect to different areas or different circumstances.
+
+(7) The power to make regulations under this section shall be exercisable by statutory instrument.
+
+(8) A draft of any regulations under this section shall be laid before Parliament and the first regulations shall not be made unless the draft has been approved by a resolution of each House of Parliament.
+
+(9) The purposes for which advances may be made by the Secretary of State under [[^F33]section 3 of the Roads (Scotland) Act 1984] shall include the discharge or exercise by a [[^F34]roads authority] of any duty or power imposed or conferred on the authority under this section.
+
+(10) In sections 24(4) and 29(a) of the [^M9]Rent (Scotland) Act 1971 (increase of rent for improvements) after the words “section 15 of the [^M10]Airports Authority Act 1965 (grants towards the cost of soundproofing”there shall be inserted the words “or regulations under section 18 of the Land Compensation (Scotland) Act 1973”.
+
+(11) In this section “public works” and “responsible authority” have the same meaning as in section 1 above except that “public works” does not include an aerodrome and except that “responsible authority” in relation to a highway, includes any authority having power to make an order in respect of that highway under section 1 or 6 of the [^M11]Road Traffic Regulation Act 1967 (traffic regulation orders).
+
+#### 18A [[^F35]Power to make payments in respect of caravans and other structures affected by noise of public works.
+
+(1) The Secretary of State may make regulations empowering responsible authorities to make a payment, not exceeding an amount specified in the regulations, in respect of any dwelling which—
+
+(a) is not a building;
+
+(b) is occupied by a person as his only or main residence; and
+
+(c) is affected or likely to be affected by noise caused by the construction or use of public works.
+
+(2) Regulations under this section may—
+
+(a) make provision as to the level of noise giving rise to a power under the regulations and the area in which a dwelling must be situated if a power is to arise in respect of it;
+
+(b) specify the classes of public works and of dwellings in respect of which a power is to arise, and the classes of persons entitled to make claims, under the regulations; and
+
+(c) make provision as to the funds out of which expenses incurred by responsible authorities under the regulations are to be defrayed.
+
+(3) The power to make regulations under this section shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) Subsections (3), (6) and (11) of section 18 above apply for the purposes of this section as they apply for the purposes of that.]
+
+#### 19 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F36]
+
+### Powers of highway authorities
+
+#### 20 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F37]
+
+### Powers of authorities responsible for other public works
+
+#### 24 Acquisition of land in connection with public works.
+
+(1) Subject to the provisions of this section, a responsible authority may acquire land by agreement for the purpose of mitigating any adverse effect which the existence or use of any public works has or will have on the surroundings of the works.
+
+(2) Subject to the provisions of this section, a responsible authority may acquire by agreement—
+
+(a) land the enjoyment of which is seriously affected by the carrying out of works by the authority for the construction or alteration of any public works;
+
+(b) land the enjoyment of which is seriously affected by the use of any public works,
+
+if the interest of the [[^F38]seller] is of the kind mentioned in section 20(2) above.
+
+[^F39][2A Where the responsible authority—
+
+(a) propose to carry out works on land to which this subsection applies for the construction or alteration of any public works, and
+
+(b) are, in relation to the land, the appropriate authority,
+
+they may, subject to the provisions of this section, acquire by agreement land the enjoyment of which will in their opinion be seriously affected by the carrying out of the works or the use of the public works if the interest of the seller is an interest such as is mentioned in [[^F40]section 100(2) (interests qualifying for protection under blight provisions) of the Town and Country Planning (Scotland) Act 1997].
+
+(2B) Subsection (2A) above applies to any land such as is mentioned in [[^F41]Schedule 14 to the said Act of 1997].
+
+(2C) In this section—
+
+“appropriate authority” has the meaning given in section 194(1) of the said Act.]
+
+(3) The powers conferred by subsection (2)(b) above shall not be exercisable unless the date on which the public works or, as the case may be, the altered public works, are first used falls on or after 17th October 1971 and the powers conferred by subsections (1) and (2)(a) above shall not be exercisable unless that date falls on or after 17th October 1972; and—
+
+(a) if that date falls not later than one year after 23rd May 1973—
+
+(i) the powers conferred by subsections (1) and (2)(b) above shall not be exercisable unless the acquisition is begun before the end of one year after 23rd May 1973 or one year after that date, whichever ends later;
+
+(ii) the powers conferred by subsection (2)(a) above shall not be exercisable unless the acquisition is begun before the end of one year after 23rd May 1973;
+
+(b) if that date falls more than one year after 23rd May 1973—
+
+(i) the powers mentioned in paragraph (a)(i) above shall not be exercisable unless the acquisition is begun before the end of one year after that date;
+
+(ii) the powers mentioned in paragraph (a)(ii) above shall not be exercisable unless the acquisition is begun before that date.
+
+(4) For the purposes of subsection (3) above the acquisition of any land shall be treated as begun when the agreement for its acquisition is made.
+
+(5) This section applies only where the responsible authority have statutory powers to acquire land (whether compulsorily or by agreement) for the purposes of their functions but would not, apart from this section, have power to acquire land as mentioned in subsections (1), [[^F42](2) and (2A)] above.
+
+(6) In this section “public works” and “responsible authority” have te same meaning as in section 1 above except that “public works” does not include a road or any works forming part of a statutory undertaking as defined in [[^F43]section 214 of the Town and Country Planning (Scotland) Act 1997] [[^F44]or authorised by an order under section 1 of the Transport and Works (Scotland) Act 2007] [[^F45]or authorised by the Forth Crossing Act 2011] .
+
+#### 25 Execution of works etc. in connection with public works.
+
+(1) A responsible authority may carry out—
+
+(a) if they have power to acquire land under section 24 above, on any land acquired by them under that section;
+
+(b) on any other land belonging to them,
+
+works for mitigating any adverse effect which the construction, alteration, existence or use of any public works has or will have on the surroundings of the works.
+
+(2) Without prejudice to the generality of subsection (1) above, the works that may be carried out under that subsection include the planting of trees, shrubs or plants of any other description and the laying out of any area as grassland.
+
+(3) A responsible authority may—
+
+(a) develop or redevelop any land acquired by them under section 24 above, or any other land belonging to them, for the purpose of improving the surroundings of public works in any manner which they think desirable by reason of the construction, alteration, existence or use of the works;
+
+(b) dispose of any land acquired by them under section 24 above.
+
+(4) This section applies only where the responsible authority are a body incorporated by or under any enactment and has effect only for extending the corporate powers of any such authority.
+
+(5) In this section “public works” and “responsible authority” have the same meaning as in section 1 above except that “public works” does not include a road [[^F46]or any works authorised by an order under section 1 of the Transport and Works (Scotland) Act 2007] [[^F47]or any works authorised by the Forth Crossing Act 2011] .
+
+### Expenses of persons moving temporarily during construction works etc.
+
+#### 26 Power to pay expenses of persons moving temporarily during construction works etc.
+
+(1) This section has effect where works are carried out—
+
+(a) by a [[^F48]roads authority] for the construction or improvement of a road; or
+
+(b) by a responsible authority for the construction or alteration of any public works other than a road,
+
+and the carrying out of those works affects the enjoyment of a dwelling adjacent to the site on which they are being carried out to such an extent that continued occupation of the dwelling is not reasonably practicable.
+
+(2) Subject to subsection (3) below, the [[^F48]roads authority] or responsible authority, as the case may be, may pay any reasonable expenses incurred by the occupier of the dwelling in providing suitable alternative residential accommodation for himself and members of his household for the whole or any part of the period during which the works are being carried out.
+
+(3) No payment shall be made to any person under this section in respect of any expenses except in pursuance of an agreement made between that person and the authority concerned before the expenses are incurred; and no payment shall be so made except in respect of the amount by which the expenses exceed those which that person would have incurred if the dwelling had continued to be occupied.
+
+(4) In this section—
+
+(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F49]
+
+(b) “public works” and “responsible authority” have the same meaning as in section 1 above.
+
+## Part III — Provisions for Benefit of Persons Displaced From Land
+
+### Home loss payments
+
+#### 27 Right to home loss payment where person displaced from dwelling.
+
+(1) Where a person is displaced from a dwelling on any land in consequence of—
+
+(a) the compulsory acquisition of an interest in the dwelling;
+
+(b) the making, passing or acceptance of a housing order, resolution or undertaking in respect of the dwelling;
+
+(c) where the land has been previously acquired by an authority possessing compulsory purchase powers or appropriated by a local authority and is for the time being held by the authority for the purposes for which it was acquired or appropriated, the carrying out of [[^F50]any improvement to the dwelling or of] redevelopment on the land,
+
+[[^F51](d) the carrying out of any improvement to the dwelling or of redevelopment on the land by a housing association which has previously acquired the land and at the date of the displacement is registered,]
+
+[[^F52](e) a requirement to remove from the building containing the dwelling in pursuance of [[^F53]section 29] of the [^M12]Building (Scotland) Act [[^F54]2003 (asp 8)] (dangerous buildings) or any other enactment which requires the demolition of the building on account of its condition,]
+
+[[^F55](f) an order for recovery of possession of the dwelling under section [[^F56]16(2) of the Housing (Scotland) Act 2001 (asp 10) on the ground set out in paragraph 10 of schedule 2] to that Act,]
+
+he shall, subject to the provisions of this section and section 29 below, be entitled to receive a payment (hereafter referred to as a “home loss payment”) from
+
+[[^F57](i) where paragraph (a) above applies, the acquiring authority;
+
+(ii) where paragraph (b) above applies, the authority who made the order, [^F58] . . . or accepted the undertaking; and
+
+(iii) where paragraph (c) above applies, the authority carrying out the improvement or redevelopment; [^F58] . . .
+
+(iv) where paragraph (d) above applies, the housing association carrying out the improvement or redevelopment.][[^F59]and]
+
+[[^F60](v) where paragraph (e) above applies the authority requiring the removal.]
+
+[[^F61](vi) where paragraph (*f*) above applies, the landlord.]
+
+[^F62][2 A person shall not be entitled to a home loss payment unless the following conditions have been satisfied throughout the period of one year ending with the date of displacement—
+
+(a) he has been in occupation of the dwelling, or a substantial part of it, as his only or main residence; and
+
+(b) he has been in such occupation by virtue of an interest or right to which this section applies,
+
+but, if those conditions are satisfied on the date of displacement, a payment (referred to in this section and sections 29 and 30 below as a “discretionary payment”) may be made to him of an amount not exceeding the amount to which he would have been entitled if he had satisfied those conditions throughout that period.]
+
+(3) For the purposes of this section a person shall not be treated as displaced from a dwelling in consequence of the compulsory acquisition of an interest therein if he gives up his occupation thereof before the date on which the acquiring authority were authorised to acquire that interest, but, subject to that, it shall not be necessary for the acquiring authority to have required him to give up his occupation of the dwelling.
+
+[[^F63](3A) For the purposes of this section a person shall not be treated as displaced from a dwelling in consequence of [[^F64](a)] the carrying out of any improvement to the dwelling [[^F65]or; (b) a requirement to remove as mentioned in subsection (1)(e) above] unless he is permanently displaced from it in consequence of the carrying out of the improvement in question [[^F66]or removal as the case may be.]]
+
+(4) This section applies to the following interests and rights—
+
+(a) any interest in the dwelling;
+
+[^F67][b a right to occupy the dwelling-house—
+
+(i) as a statutory tenant within the meaning of the Rent (Scotland) Act 1984; or
+
+(ii) under a contract to which Part VII of that Act applies or would apply if the contract or dwelling-house were not excluded by section 63(3) to (5) or under section 64(3) respectively of that Act; and]
+
+[[^F68](bb) a right to occupy the dwelling as a statutory assured tenant within the meaning of the Housing (Scotland) Act 1988;]
+
+(c) a right to occupy the dwelling under a contract of employment.
+
+[^F69]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Where an authority possessing compulsory purchase powers acquire the interest of any person in a dwelling by agreement, then, in relation to any other person who is displaced from the dwelling in consequence of the acquisition, subsections (1) to (4) above shall have effect as if the acquisition were compulsory and the authority (if not authorised to acquire the interest compulsorily) had been so authorised on the date of the agreement.
+
+(7) In this section “a housing order, resolution or undertaking” means—
+
+(a) a demolition or closing order under Part [[^F70]VI] of the Housing (Scotland) Act [[^F70]1987][[^F71]or [[^F72]an HRA designation order under section 1 of the Housing (Scotland) Act 2006 (asp 1)]] ;
+
+(b) a resolution under section [[^F73]125] of the said Act . . . [^F74] [[^F75]of 1987] ; . . . [^F76]
+
+(c) an undertaking accepted under section [[^F77]117(2)(a)] of the said Act . . . [^F78] [[^F75]of 1987] ; [[^F79]or
+
+[[^F80](d) a work notice under section 30 of the said Act of 2006.]
+
+[^F81] . . .
+
+[[^F82](7A) In this section
+
+“improvement” includes alteration and enlargement; and “redevelopment” includes a change of use]
+
+(8) Where an interest in a dwelling is vested in trustees and a person beneficially entitled (whether directly or derivatively) under the trust is entitled or permitted by reason of his interest to occupy the dwelling, he shall be treated for the purposes of this section as occupying it by virtue of an interest in the dwelling.
+
+(9) [[^F83]Subject to subsection (2) above,] this section applies if the date of displacement is on or after 17th October 1972 [[^F84]except that, where the displacement is in consequence of the circumstances referred to in subsection (1)(e) above, it applies if the date of displacement is on or after the coming into force of paragraph 12 of Schedule 2 to the [^M13]Housing (Financial Provisions) (Scotland) Act 1978.]]
+
+#### 27A [[^F85]Spouses having statutory occupancy rights.
+
+(1) This section applies where, by reason of the entitlement of one spouse (“A”) to occupy a dwelling by virtue of an interest or right to which section 27 above applies, the other spouse (“B”) acquires occupancy rights (within the meaning of the [^M14]Matrimonial Homes (Family Protection) (Scotland) Act 1981).
+
+(2) So long as—
+
+(a) those occupancy rights continue;
+
+(b) B is in occupation of the dwelling and A is not; and
+
+(c) B is not, apart from this section, treated as occupying the dwelling by virtue of an interest or right to which that section applies,
+
+B shall be treated for the purposes of that section as occupying the dwelling by virtue of such an interest (but not an owner’s interest within the meaning of section 28 below).
+
+(3) References in this section to a dwelling include a reference to a substantial part of it.]
+
+#### 28 [[^F86] Amount of home loss payment.
+
+(1) In the case of a person who on the date of displacement is occupying, or is treated for the purposes of section 27 above as occupying, the dwelling by virtue of an interest in it which is an owner’s interest, the amount of the home loss payment shall be 10 per cent. of the market value of his interest in the dwelling or, as the case may be, the interest in the dwelling vested in trustees, subject to a maximum of £15,000 and a minimum of £1,500.
+
+(2) In any other case, the amount of the home loss payment shall be £1,500.
+
+(3) For the purposes of this section and section 29 below the market value of an interest in a dwelling—
+
+(a) in a case where the interest is compulsorily acquired, is the amount assessed for the purposes of the acquisition as the value of the interest; and
+
+(b) in any other case, is the amount which, if the interest were being compulsorily acquired in pursuance of a notice to treat served on the date of displacement, would be assessed for the purposes of the acquisition as the value of the interest,
+
+and any dispute as to the amount referred to in paragraph (b) above shall be determined by the Lands Tribunal.
+
+(4) In determining for the purposes of this section and section 29 below the market value of an interest in a dwelling, the dwelling shall be taken to include any garden, yard, outhouses and appurtenances belonging to or usually enjoyed with that dwelling.
+
+(5) The Secretary of State may from time to time by regulations prescribe a different maximum or minimum for the purposes of subsection (1) above and a different amount for the purposes of subsection (2) above.
+
+(6) The power to make regulations under subsection (5) above shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(7) In this section “owner’s interest” means the interest of a person who is an owner as defined in section 45(1) of the Land Compensation (Scotland) Act 1963.]
+
+#### 29 Supplementary provisions about home loss payments.
+
+[[^F87](1) No home loss payment or discretionary payment shall be made except on a claim in writing made by the person entitled thereto (“the claimant”) giving such particulars as the authority responsible for making the payment may reasonably require for the purpose of determining whether the payment should be made and, if so, its amount.
+
+(2) Where a person is entitled to a home loss payment, the payment shall be made on or before the latest of the following dates—
+
+(a) the date of displacement;
+
+(b) the last day of the period of three months beginning with the making of the claim; and
+
+(c) where the amount of the payment is to be determined in accordance with section 28(1) above, the day on which the market value of the interest in question is agreed or finally determined.
+
+(2A) Where the amount of the payment is to be determined in accordance with section 28(1) above—
+
+(a) the acquiring authority may at any time make a payment in advance; and
+
+(b) if, on the later of the dates referred to in subsection (2)(a) and (b) above, the market value of the interest in question has not been agreed or finally determined, the acquiring authority shall make a payment in advance (where they have not already done so).
+
+(2B) The amount of the payment in advance shall be the lesser of—
+
+(a) the maximum amount for the purposes of section 28(1) above,
+
+(b) 10 per cent. of the amount agreed to be the market value of the interest in question or, if there is no such agreement, 10 per cent. of the acquiring authority’s estimate of that amount.
+
+(2C) Where the amount of a payment in advance differs from the amount of the home loss payment, the shortfall or excess shall be paid by or, as the case may be, repaid to the acquiring authority when the market value of the interest in question is agreed or finally determined.
+
+(3) Where the claimant has satisfied, throughout any period, the conditions mentioned in section 27(2) above, that period shall be treated for the purposes of that subsection as including any immediately preceding period throughout which—
+
+(a) he has resided in the dwelling as his only or main residence but without satisfying those conditions, and
+
+(b) another person or other persons have satisfied those conditions,
+
+and references in this subsection and subsection (3A) below to a dwelling include a reference to a substantial part of it.
+
+(3A) Where the claimant has satisfied, throughout any period, the conditions mentioned in section 27(2) above, that period (or that period as extended under subsection (3) above) shall be treated for the purposes of section 27(2) above as including any immediately preceding period, or successive periods, throughout which he satisfied the conditions mentioned in section 27(2) above in relation to another dwelling or, as the case may be, other dwellings (applying subsection (3) above to determine the length of any period or periods).]
+
+(4) [[^F88]Where a person (“the deceased”) entitled to a home loss payment dies without having claimed it, a claim to the payment may be made] by any person, not being a person under the age of eighteen, who—
+
+(a) throughout a period of not less than [[^F89]one year] ending with the date of displacement of the deceased, has resided in the dwelling, or a substantial part of it, as his only or main residence; and
+
+(b) is entitled to benefit by virtue of—
+
+(i) a testamentary disposition or any other deed with testamentary effect taking effect on, or the law of intestate succession as applied to, the death of the deceased; or
+
+(ii) a right to*jus relicti, jus relictae*or*legitim*out of the deceased’s estate.
+
+(5) Where the claimant has successively been in occupation of or resided in different dwellings in the same building, being dwellings consisting of a room or rooms not constructed or structurally adapted for use as a separate dwelling, section 27(2) above and subsections [[^F90](3) to (4)] above shall have effect as if those dwellings were the same dwelling.
+
+(6) Where there are two or more persons entitled to make a claim to a home loss payment in respect of the same dwelling (whether by virtue of joint occupation or of subsection (4) above) the payment to be made on each claim shall be equal to the whole amount of the home loss payment divided by the number of such persons.
+
+(7) Where an interest in a dwelling is acquired by agreement by an authority possessing compulsory purchase powers, the authority may, in connection with the acquisition, make to the person from whom the interest is acquired a payment corresponding to any home loss payment [[^F91]or discretionary payment] which they would be required [[^F91]or authorised] to make to him if the acquisition were compulsory and the authority had been authorised to acquire that interest before he gave up occupation of the dwelling.
+
+[[^F92](7A) Section 6 of the Prescription and Limitation (Scotland) Act 1973 (extinction of obligations by prescriptive periods of five years) shall apply to an obligation to make a home loss payment, and in relation to such obligation the appropriate date for the purposes of subsection (1) of the said section 6 shall be the date of displacement.]
+
+[[^F93](7AA) If a landlord recovers possession of a dwelling by agreement—
+
+(a) after serving notice under section [[^F94]14 of the Housing (Scotland) Act 2001 (asp 10) on the tenant specifying the ground set out in paragraph 10 of schedule 2]to that Act; or
+
+(b) where, but for that agreement, it would have served such notice on him specifying that ground,
+
+it may, in connection with the recovery, make to him a payment corresponding to any home loss payment [[^F91]or discretionary payment] which it would be required [[^F91]or authorised] to make to him if the recovery were by order under section [[^F95]16(2)] of that Act.]
+
+(8) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F96]
+
+#### 30 Home loss payments for certain caravan dwellers.
+
+(1) Sections 27 to 29 above shall, so far as applicable, have effect in relation to a person residing in a caravan on a caravan site who is displaced from that site as they have effect in relation to a person displaced from a dwelling on any land but shall so have effect subject to the following modifications.
+
+(2) No home loss payment [[^F97]or discretionary payment] shall be made to any person by virtue of this section except where no suitable alternative site for stationing a caravan is available to him on reasonable terms.
+
+(3) Subsection (1) of section 27 above shall have effect as if for the words preceding paragraph (a) there were substituted the words “ Where a person residing in a caravan on a caravan site is displaced from that site in consequence of ” and subsection (2) of that section shall have effect as if for paragraphs (a) and (b) there were substituted—
+
+> [^F98]a he has been in occupation of the caravan site by using a caravan stationed on it as his only or main residence; and
+>
+> (b) he has been in such occupation of the site by virtue of an interest or right to which this section applies
+
+[[^F99](4) Section 28 above shall have effect as if the references to a person occupying a dwelling by virtue of an interest in it and to his interest in the dwelling were to a person occupying a caravan site by virtue of an interest in it and to that interest.]
+
+(5) Section 29 above shall have effect—
+
+[[^F100](a) as if in subsections (3) and (3A) the references to a dwelling were to a caravan site;]
+
+(b) as if in subsection (4) for the words “resided in the dwelling, or a substantial part of it” there were substituted the words “resided in a caravan on the caravan site”; and
+
+(c) as if for subsection (5) there were substituted—
+
+> (5) Where any land comprises two or more caravan sites and the claimant has successively been in occupation of or resided in a caravan on different caravan sites on that land, section 27(2) above and subsections [[^F101](3) to (4)] above shall have effect as if those sites were the same site
+
+.
+
+(6) Sections 27 to 29 above shall have effect as if in any provision not modified as aforesaid for any reference to a dwelling or land there were substituted a reference to a caravan site.
+
+(7) In this section “caravan site” means land on which a caravan is stationed for the purpose of human habitation and land which is used in conjunction with land on which a caravan is so stationed.
+
+### Farm loss payments
+
+#### 31 Right to farm loss payment where person displaced from agricultural unit.
+
+(1) Where land constituting or included in an agricultural unit is land in respect of which the person in occupation of the unit has an owner’s interest, then if—
+
+[^F102][a in consequence of the compulsory acquisition of his interest in the whole, or a sufficient part, of that land, he is displaced from the land acquired;]
+
+(b) not more than three years after the date of displacement he begins to farm another agricultural unit (“the new unit”) elsewhere in Great Britain,
+
+he shall, subject to the provisions of this section and section 33 below, be entitled to receive a payment (hereafter referred to as a “farm loss payment”) from the acquiring authority.
+
+(2) In subsection (1) above “owner’s interest” means the interest of an owner or a lessee under a lease [[^F103]where his interest is as a lessee for a year or from year to year or a greater interest,], or the interest of a crofter or a landholder [[^F104], and “sufficient part” means not less than 0.5 hectares or such other area as the Secretary of State may by order specify].
+
+[^F105][2A The power to make an order under subsection (2) above shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.]
+
+(3) For the purposes of this section a person is displaced from land in consequence of the compulsory acquisition of his interest therein if, and only if, he gives up possession thereof—
+
+(a) on being required to do so by the acquiring authority [[^F106]or on any date after the making or confirmation of the compulsory purchase order but before being required to do so by the acquiring authority];
+
+(b) on completion of the acquisition; or
+
+[[^F107](c) where the acquiring authority permit him to remain in possession of the land under a lease, or a right or permission relating to land but not amounting to an estate or interest therein, of a kind not making him–
+
+(i) where the owner’s interest for the purposes of subsections (1) and (2) above was that of tenant under a lease constituting a short limited duration tenancy [[^F108], a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy] within the meaning of the Agricultural Holdings (Scotland) Act 2003 (asp 11), a tenant of such a tenancy with a duration not less than that of the unexpired term of the tenancy which constituted the owner’s interest as at the date on which he gave up possession; or
+
+(ii) in any other case, a tenant of a lease constituting a 1991 Act tenancy within the meaning of that Act,]
+
+and references in this section and section 32 below to the date of displacement are references to the date on which the person concerned gives up possession as aforesaid.
+
+(4) No farm loss payment shall be made to any person unless on the date on which he begins to farm the new unit he is in occupation of the whole of that unit in right of an interest as owner thereof or a lease thereof, not having been entitled to any such interest or lease before the date on which the acquiring authority were authorised to acquire his interest in the land acquired.
+
+(5) No farm loss payment shall be made by virtue of the displacement of a person from any land if he is entitled to a payment under section 12 of the [^M15]Agriculture (Miscellaneous Provisions) Act 1968 in consequence of the acquisition of an interest in, or the taking of possession of, that land.
+
+[^F109]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) This section applies if the date of displacement is on or after 17th October 1972.
+
+#### 32 Amount of farm loss payment.
+
+(1) Subject to the provisions of this section, the amount of any farm loss payment shall be equal to the average annual profit derived from the use for agricultural purposes of the agricultural land comprised in the land acquired; and that profit shall be computed by reference to the profits for the three years ending with the date of displacement or, if the person concerned has then been in occupation for a shorter period, that period.
+
+(2) Where accounts have been made up in respect of the profits of the person concerned for a period or consecutive periods of twelve months and that period or the last of them ends not more than one year before the date of displacement, subsection (1) above shall have effect as if the date on which that period or the last of those periods ends were the date of the displacement.
+
+(3) Where the date of displacement is determined in accordance with section 31(3)(c) above and the person concerned has on that date been in occupation for more than three years, he may elect that the average annual profit shall, instead of being computed by reference to the profits for the years mentioned in subsection (1) above, be computed by reference to the profits for—
+
+(a) any three consecutive periods of twelve months for which accounts in respect of his profits have been made up, being periods for which he has been in occupation and the last of which ends on or after the date of completion of the acquisition; or
+
+(b) if there are no such periods as aforesaid, any three consecutive years for which he has been in occupation and the last of which ends on or after the date mentioned in paragraph (a) above.
+
+(4) In calculating the profits mentioned in subsection (1) above there shall be deducted a sum equal to the rent that might reasonably be expected to be payable in respect of the agricultural land comprised in the land acquired if it were let for agricultural purposes to a tenant responsible for rates, repairs and other outgoings; and that deduction shall be made whether or not the land is in fact let and, if it is, shall be made to the exclusion of any deduction for the rent actually payable.
+
+(5) In calculating the profits mentioned in subsection (1) above there shall be left out of account profits from any activity if a sum in respect of loss of profits from that activity would fall to be included in the compensation, so far as attributable to disturbance, for the acquisition of the interest in the land acquired.
+
+(6) Where the value of the agricultural land comprised in the land acquired exceeds the value of the agricultural land comprised in the new unit the amount of the farm loss payment shall be proportionately reduced.
+
+(7) For the purposes of subsection (6) above the value of any land shall be assessed—
+
+(a) on the basis of its value as land used solely for agriculture and as for an interest as owner thereof with vacant possession;
+
+(b) by reference to the condition of the land and its surroundings and to prices current—
+
+(i) in the case of the land comprised in the land acquired, on the date of displacement;
+
+(ii) in the case of land comprised in the new unit, on the date on which the person concerned begins to farm the new unit;
+
+(c) in accordance with rules (2) to (4) of the rules set out in section 12 of the [^M16]Land Compensation (Scotland) Act 1963;
+
+(d) without regard to the principal dwelling, if any, comprised in the same agricultural unit as that land.
+
+(8) The amount of a farm loss payment shall not be greater than the amount, if any, by which—
+
+(a) that payment, calculated apart from this subsection, together with compensation for the acquisition of the interest in the land acquired assessed on the assumptions mentioned in section 5(2), (3) and (4) above, (including any sum included as compensation for disturbance), exceeds
+
+(b) the compensation actually payable for the acquisition of that interest.
+
+(9) Any dispute as to the amount of a farm loss payment shall be referred to and determined by the Lands Tribunal.
+
+#### 33 Supplementary provisions about farm loss payments.
+
+(1) Subject to subsection (7) below, no farm loss payment shall be made except on a claim in that behalf made by the person entitled thereto before the expiration of the period of one year beginning with the date on which the requirement in section 31(1)(b) above is complied with, and any such claim shall be in writing and shall be accompanied or supplemented by such particulars as the acquiring authority may reasonably require to enable them to determine whether that person is entitled to a payment and, if so, its amount.
+
+(2) Where the agricultural unit containing the land acquired is occupied for the purposes of a partnership firm sections 31 and 32 above shall have effect in relation to the firm and not the partners individually (any interest of a partner in the land acquired being treated as an interest of the firm) except that the requirements in section 31 as to the new unit shall be treated as complied with in relation to the firm as soon as they are complied with by any one of the persons who were members of the firm.
+
+(3) Where a person dies before the expiration of the period for making a claim to a farm loss payment and would have been entitled to such a payment if he had made a claim within that period, a claim to that payment may be made, before the expiration of that period, by his personal representative.
+
+(4) Where an interest in land is acquired by agreement by an authority possessing compulsory purchase powers, the authority may, in connection with the acquisition, make to the person from whom the interest is acquired a payment corresponding to any farm loss payment which they would be required to make to him if the acquisition were compulsory and the authority (if not authorised to acquire the interest compulsorily) had been so authorised on the date of the agreement.
+
+(5) Where a farm loss payment is made to any person the authority making the payment shall also pay any reasonable valuation or legal expenses incurred by that person for the purposes of the preparation and prosecution of his claim to the payment; but this subsection is without prejudice to the powers of the Lands Tribunal in respect of the expenses of proceedings before the Tribunal by virtue of section 32(9) above.
+
+(6) A farm loss payment shall carry interest, at the rate for the time being prescribed under section 40 of the [^M17]Land Compensation (Scotland) Act 1963, from the date mentioned in subsection (1) above until payment.
+
+(7) Where the date mentioned in subsection (1) above is before 23rd May 1973 the period within which a claim to a farm loss payment can be made shall be the period of one year beginning with 23rd May 1973.
+
+### Disturbance payments
+
+#### 34 Disturbance payments for persons without compensatable interests.
+
+(1) Where a person is displaced from any land in consequence of—
+
+(a) the acquisition of the land by an authority possessing compulsory purchase powers;
+
+(b) the making, passing or acceptance of a housing order, resolution or undertaking in respect of a house or building on the land;
+
+(c) where the land has been previously acquired by an authority possessing compulsory purchase powers or appropriated by a local authority and is for the time being held by the authority for the purposes for which it was acquired or appropriated, the carrying out of [[^F110]any improvement to a house or building on the land or of] redevelopment on the land,
+
+[[^F111](d) the carrying out of any improvement to a house or building on the land or of redevelopment on the land by a housing association which has previously acquired the land and at the date of the displacement is registered,]
+
+[[^F112](e) a requirement to remove from a building on the land in pursuance of [[^F113]section 29] of the [^M18]Building (Scotland) Act [[^F114]2003 (asp 8)] (dangerous buildings) or any other enactment which requires the demolition of the building on account of its condition,]
+
+he shall, subject to the provisions of this section, be entitled to receive a payment (hereafter referred to as a “disturbance payment”) from
+
+[[^F115](i) where paragraph (a) above applies, the acquiring authority;
+
+(ii) where paragraph (b) above applies, the authority who made the order, passed the resolution or accepted the undertaking;
+
+(iii) where paragraph (c) above applies, the authority carrying out the improvement or redevelopment; and
+
+(iv) where paragraph (d) above applies; the housing association carrying out the improvement or redevelopment.]
+
+[[^F116](v) where paragraph (e) above applies; the authority requiring the removal]
+
+(2) A person shall not be entitled to a disturbance payment—
+
+(a) in any case, unless he is in lawful possession of the land from which he is displaced;
+
+(b) in a case within subsection (1)(a) above, unless either—
+
+(i) he has no interest in the land for the acquisition or extinguishment of which he is (or if the acquisition or extinguishment were compulsory would be) entitled to compensation under any other enactment; or
+
+(ii) he has such an interest as aforesaid but the compensation is subject to a site value provision and he is not (or if the acquisition were compulsory would not be) entitled in respect of that acquisition to an owner-occupier’s supplement;
+
+(c) in a case within subsection (1)(b) above, if he is entitled to an owner-occupier’s supplement by reference to the order, resolution or undertaking.
+
+[[^F117](d) in a case within subsection (1)(d) above, unless the [^M19]displacement occurred on or after 31st July 1974 (on which date the Housing Act 1974 was passed).]
+
+In this subsection “site value provision” means [[^F118]section 121 [^F119]... the Housing (Scotland) Act 1987 and “owner occupier’s supplement” means a payment under sections 308 to 311 of that Act.]
+
+(3) For the purposes of subsection (1) above a person shall not be treated as displaced in consequence of any such acquisition [[^F120]improvement or redevelopment as is mentioned in paragraph (a), (c) or (d)] of that subsection unless he was in lawful possession of the land—
+
+(a) in the case of land acquired under a compulsory purchase order, at the time when notice was first published of the making of the compulsory purchase order prior to its submission for confirmation or, where the order did not require confirmation, of the preparation of the order in draft;
+
+(b) in the case of land acquired under an Act specifying the land as subject to compulsory acquisition, at the time when the provisions of the Bill for that Act specifying the land were first published;
+
+(c) in the case of land acquired by agreement, at the time when the agreement was made;
+
+and a person shall not be treated as displaced in consequence of any such order, resolution [[^F121]undertaking or requirement to remove as is mentioned in paragraph (b) or (e)] of that subsection unless he was in lawful possession as aforesaid at the time when the order was made, the resolution was passed [[^F121]the undertaking was accepted or he was required to remove.]
+
+[[^F122](3) For the purposes of subsection (1) above a person shall not be treated as displaced in consequence of [[^F123](a)] the carrying out of any improvement to a house or building [[^F124]or; (a) a requirement to remove as mentioned in subsection (1)(e) above] unless he is permanently displaced in consequence of the carrying out of the improvement in question][[^F125]or removal as the case may be.]
+
+(4) Where a person is displaced from any land as mentioned in subsection (1) above but is not entitled, as against the authority there mentioned, to a disturbance payment or to compensation for disturbance under any other enactment, the authority may, if they think fit, make a payment to him determined in accordance with section 35(1) to (3) below.
+
+(5) A disturbance payment shall carry interest, at the rate for the time being prescribed under section 40 of the [^M20]Land Compensation (Scotland) Act 1963, from the date of displacement until payment.
+
+(6) This section does not apply to any land which is used for the purposes of agriculture.
+
+(7) In section 71(4) of the [^M21]Housing (Financial Provisions)(Scotland) Act 1972 (financial assistance towards tenants’ removal expenses) for the words from “160” to the end there shall be substituted the words “ 34 of the Land Compensation (Scotland) Act 1973 (disturbance payments for persons without compensatable interests) ”.
+
+(8) In this section “a housing order, resolution or undertaking”[[^F126]“improvement”] and “redevelopment” have the same meaning as in section 27 above.
+
+(9) [[^F127]Subject to subsection (2)(d) above,] this section applies if the date of displacement is on or after 17th October 1972 [[^F128]except that, where the displacement is in consequence of the circumstances referred to in subsection (1)(e) above, it applies if the date of displacement is on or after the coming into force of paragraph 13 of Schedule 2 to the [^M22]Housing (Financial Provisions) (Scotland) Act 1978.]
+
+#### 35 Amount of disturbance payment.
+
+(1) The amount of a disturbance payment shall be equal to—
+
+(a) the reasonable expenses of the person entitled to the payment in removing from the land from which he is displaced; and
+
+(b) if he was carrying on a trade or business on that land, the loss he will sustain by reason of the disturbance of that trade or business consequent upon his having to quit the land.
+
+(2) In estimating the loss of any person for the purposes of subsection (1)(b) above, regard shall be had to the period for which the land occupied by him may reasonably have been expected to be available for the purposes of his trade or business and to the availability of other land suitable for that purpose.
+
+This subsection has effect subject to section 43(7) below.
+
+(3) Where the displacement is from a dwelling in respect of which structural modifications have been made for meeting the special needs of a disabled person (whether or not the person entitled to the disturbance payment) then, if—
+
+(a) a local authority having duties under section 12 of the [^M23]Social Work (Scotland) Act 1968 [[^F129]or section 23 of the Children (Scotland) Act 1995], provided assistance, or
+
+(b) such an authority would, if an application had been made, have provided assistance,
+
+for making those modifications, the amount of the disturbance payment shall include an amount equal to any reasonable expenses incurred by the person entitled to the payment in making, in respect of a dwelling to which the disabled person removes, comparable modifications which are reasonably required for meeting the disabled person’s special needs.
+
+(4) Any dispute as to the amount of a disturbance payment shall be referred to and determined by the Lands Tribunal.
+
+### Rehousing
+
+#### 36 Duty to rehouse residential occupiers.
+
+(1) Where a person is displaced from residential accommodation on any land in consequence of—
+
+(a) the acquisition of the land by an authority possessing compulsory purchase powers;
+
+(b) the making, passing or acceptance of a housing order, resolution or undertaking in respect of a house or building on the land;
+
+(c) where the land has been previously acquired by an authority possessing compulsory purchase powers or appropriated by a local authority and is for the time being held by the authority for the purposes for which it was acquired or appropriated, the carrying out of [[^F130]any improvement to a house or building on the land or of] redevelopment on the land,
+
+[[^F131](d) a requirement to remove the building containing the residential accommodation in pursuance of [[^F132]section 29] of the [^M24]Building (Scotland) Act [[^F133]2003 (asp 8)] (dangerous buildings), or any other enactment which requires the demolition of the building on account of its condition,]
+
+and suitable alternative residential accommodation on reasonable terms is not otherwise available to that person, then, subject to the provisions of this section, it shall be the duty of the relevant authority to secure that he will be provided with such other accommodation.
+
+(2) Subsection (1) above shall not by virtue of paragraph (a) thereof apply to a person if the acquisition is in pursuance of the service by him of a blight notice within the meaning of [[^F134]section 100 of the Town and Country Planning (Scotland) Act 1997].
+
+(3) Subsection (1) above shall not apply to any person who is a trespasser on the land or who has been permitted to reside in any house or building on the land pending its demolition [[^F135]or improvement].
+
+(4) Subsection (1) above shall not apply to any person to whom money has been advanced—
+
+(a) under section 38 below;
+
+(b) under the Small Dwellings Acquisition (Scotland) Acts 1899 to 1923 or section 49 of the [^M25]Housing (Financial Provisions) (Scotland) Act 1968 [^F136]...; or
+
+(c) by a development corporation otherwise than under section 38 below,
+
+for the purpose of enabling him to obtain accommodation in substitution for that from which he is displaced as mentioned in that subsection.
+
+(5) Subsection (1)(a) above shall not apply to any acquisition of land in relation to which the Secretary of State has before 23rd May 1973 decided under paragraph 1 of Schedule 8 to the [^M26]Housing (Scotland) Act 1966 that a housing scheme is not necessary.
+
+(6) For the purposes of subsection (1) above a person shall not be treated as displaced in consequence of any such acquisition [[^F137]improvement] or redevelopment as is mentioned in paragraph (a) or (c) of that subsection unless he was residing in the accommodation in question—
+
+(a) in the case of land acquired under a compulsory purchase order, at the time when notice was first published of the making of the order prior to its submission for confirmation or, where the order did not require confirmation, of the preparation of the order in draft;
+
+(b) in the case of land acquired under an Act specifying the land as subject to compulsory acquisition, at the time when the provisions of the Bill for the Act specifying the land were first published;
+
+(c) in the case of land acquired by agreement, at the time when the agreement was made;
+
+and a person shall not be treated as displaced in consequence of any such order, resolution [[^F138]undertaking or requirement as is mentioned in paragraph (b) or (d)] of that subsection unless he was residing in the accommodation in question at the time when the order was made, the resolution was passed [[^F138]the undertaking was accepted or he was required to remove.]
+
+(7) Subject to subsection (8) below, “the relevant authority” for the purposes of this section is the local authority having functions in relation to the district where the land is situated under Part [[^F139]I] of the [^M27]Housing (Scotland) Act [[^F139]1987].
+
+(8) Where the land is in an area designated as the site of a new town—
+
+(a) paragraph (c) of subsection (1) above shall apply if the land on which the redevelopment is carried out has been previously acquired by the development corporation and is for the time being held by that corporation;
+
+(b) the development corporation shall, in a case falling within paragraph (a) or (c) of that subsection, be the relevant authority for the purposes of this section.
+
+(9) In this section “a housing order, resolution or undertaking”[[^F140]“improvement”] and “redevelopment” have the same meaning as in section 27 above.
+
+#### 37 Duty to rehouse certain caravan dwellers.
+
+(1) Section 36 above shall, so far as applicable, have effect in relation to a person residing in a caravan on a caravan site who is displaced from that site as it has effect in relation to a person displaced from residential accommodation on any land but shall so have effect subject to the following modifications.
+
+(2) Subsection (1) of the said section 36 shall have effect—
+
+(a) as if for the words preceding paragraph (a) there were substituted the words “Where a person residing in a caravan on a caravan site is displaced from that site in consequence of”; and
+
+(b) as if for the words following paragraph (c) there were substituted the words “and neither suitable residential accommodation nor a suitable alternative site for stationing a caravan is available to that person on reasonable terms, then, subject to the provisions of this section, it shall be the duty of the relevant authority to secure that he will be provided with suitable residential accommodation.”.
+
+(3) Subsection (6) of the said section 36 shall have effect as if in the words preceding paragraph (a) for the words “unless he was residing in the accommodation in question” there were substituted the words “unless he was residing in a caravan on the caravan site in question”.
+
+(4) The said section 36 shall have effect as if in any provision not modified as aforesaid for any reference to land there were substituted a reference to a caravan site.
+
+(5) In this section “caravan site” has the same meaning as in section 30 above.
+
+#### 38 Power of relevant authority to make advances repayable on maturity to displaced residential owner-occupiers.
+
+(1) Where a person displaced from a dwelling in consequence of any of the matters mentioned in subsection (1)(a), (b) or (c) of section 36 above—
+
+(a) is an owner-occupier of the dwelling; and
+
+(b) wishes to acquire or construct another dwelling in substitution for that from which he is displaced,
+
+the relevant authority for the purposes of that section may advance money to him for the purpose of enabling him to acquire or construct the other dwelling.
+
+(2) The power conferred by this section shall be exercisable subject to such conditions as may be approved by the Secretary of State and the following provisions shall apply with respect to any advance made in the exercise of that power.
+
+(3) The advance shall be made—
+
+(a) on terms providing for the payment of the principal—
+
+(i) at the end of a fixed period, with or without a provision allowing the authority to extend that period; or
+
+(ii) upon notice given by the authority,
+
+subject, in either case, to a provision for earlier repayment on the happening of a specified event;
+
+(b) on such other terms as the authority may think fit having regard to all the circumstances.
+
+(4) An advance for the construction of a dwelling may be made by instalments from time to time as the works of construction progress.
+
+(5) The principal of the advance, together with interest thereon, shall be secured by a heritable security of the borrower’s interest in the dwelling, and the amount of the principal shall not exceed the value which, in accordance with a valuation duly made on behalf of the relevant authority, it is estimated that the borrower’s interest will bear or, as the case may be, will bear when the dwelling has been constructed.
+
+(6) Before advancing money under this section the relevant authority shall satisfy themselves that the dwelling to be acquired meets or will meet the tolerable standard as determined for the purposes of the [[^F141][^M28]Housing (Scotland) Act [[^F142]1987] by section [[^F142]86]] of that Act.
+
+(7) While the payment of the principal of an advance made by a local authority under this section is not required in accordance with the terms of the advance, the local authority may suspend, with respect to so much of any sum borrowed by them as is referable to the advance, any periodical provision for repayment that may be required by any enactment.
+
+(8) The power conferred by this section on a relevant authority is without prejudice to any power to advance money exercisable by the authority under any other enactment.
+
+(9) In this section “owner-occupier” in relation to any dwelling, means a person who occupies it on the date of displacement and either—
+
+(a) occupies it on that date in right of an owner’s interest or a lease of which not less than three years remain unexpired or by virtue of a tenancy or other interest to which the [^M29]Crofters (Scotland) Acts 1955 [^M30] and 1961 or the Small Landholders (Scotland) Acts 1886 to 1931 apply; or
+
+(b) if the displacement is in consequence of the matters mentioned in paragraph (c) of section 36(1) above, occupied it in right of such an interest or lease or by virtue of such a tenancy or interest on the date on which the land was acquired or appropriated as mentioned in that paragraph.
+
+(10) In this section references to the construction of a dwelling include references to the acquisition of a building and its conversion into a dwelling and to the conversion into a dwelling of a building previously acquired.
+
+#### 39 Duty of displacing authority to indemnify rehousing or lending authority for net losses.
+
+(1) Where a relevant authority within the meaning of section 36 above provide or secure the provision of accommodation for any person in pursuance of subsection (1)(a) or (c) of that section, then, if—
+
+(a) the authority providing the accommodation (“the rehousing authority”) are not the same as the authority by whom the land in question is acquired or redeveloped (“the displacing authority”); and
+
+(b) the displacing authority are not an authority having functions under Part [[^F143]I] of the [^M31]Housing (Scotland) Act [[^F143]1987]
+
+the displacing authority shall make to the rehousing authority periodical payments, or if the rehousing authority so require a lump sum payment, by way of indemnity against any net loss in respect of the rehousing authority’s provision of that accommodation which may be incurred by that authority in any year during the period of ten years commencing with the year in which the accommodation is first provided.
+
+(2) For the purposes of subsection (1) above a local authority incur a net loss in respect of their provision of accommodation for a person whom they are rehousing—
+
+(a) if they rehouse him in a house provided by them under Part [[^F143]I] of the said Act of 1987, for the purpose of rehousing him; or
+
+(b) if—
+
+(i) they rehouse him in a house to which the housing revenue account relates not so provided, and
+
+(ii) provide under the said Part [[^F143]I] in the year immediately preceding that in which he first occupies it, or in the period of three years commencing with the year in which he first occupies it, a house of a similar type or size.
+
+(3) Where money has been advanced to a person as mentioned in section 36(4) above, then if—
+
+(a) the authority making the advance (“the lending authority”) are not the same as the displacing authority; and
+
+(b) the lending authority incur a net loss in respect of the making of the advance,
+
+the displacing authority shall make to the lending authority a lump sum payment by way of indemnity against that loss.
+
+(4) For the purposes of subsection (3) above, a lending authority incur a net loss in respect of the making of an advance to any person if—
+
+(a) he does not fully discharge his liability to the authority in respect of principal, interest and expenses in accordance with the terms on which the advance is made; and
+
+(b) the deficiency exceeds the net proceeds arising to the authority on a sale of the interest on which the principal and interest is secured.
+
+(5) The Secretary of State may—
+
+(a) for the purposes of subsection (1) above from time to time determine a method to be used generally in calculating net losses incurred by rehousing authorities;
+
+(b) for the purposes of that subsection or subsection (3) above, determine the net loss incurred by a rehousing authority or lending authority in any particular case;
+
+(c) give directions as to the manner in which any payment under this section is to be made.
+
+(6) Subsection (2) above shall be construed as one with the Housing [[^F144](Scotland) Act 1987].
+
+#### 40 Power of relevant authority to defray expenses in connection with acquisition of new dwellings.
+
+(1) Where a person displaced from a dwelling in consequence of [[^F145]any of the events specified in paragraphs (a) to (c) of section 36(1) above]
+
+(a) has no interest in the dwelling or no greater interest therein than as tenant for a year or from year to year; and
+
+(b) wishes to acquire another dwelling in substitution for that from which he is displaced,
+
+[[^F145]then, according to the nature of the event in consequence of which he was displaced, the acquiring authority, the authority who made the order, passed the resolution or accepted the undertaking or the authority carrying out the improvement or redevelopment] may pay any reasonable expenses incurred by him in connection with the acquisition, other than the purchase price.
+
+(2) No payment shall be made under this section in respect of expenses incurred by any person in connection with the acquisition of a dwelling unless the dwelling is acquired not later than one year after the displacement and is reasonably comparable with that from which he is displaced.
+
+(3) For the purposes of subsection (2) above a dwelling acquired pursuant to a contract shall be treated as acquired when the contract is made.
+
+(4) Subsections (3) and (6) of section 36 above shall have effect in relation to subsection (1) above and to [[^F146]any provision of subsection (1)] of that section as applied thereby.
+
+## Part IV — Compulsory Purchase
+
+### Assessment of compensation
+
+#### 41 Compensation for injurious affection.
+
+(1) Where land is acquired or taken from any person for the purpose of works which are to be situated partly on that land and partly elsewhere, compensation for injurious affection of land retained by that person shall be assessed by reference to the whole of the works and not only the part situated on the land acquired or taken from him.
+
+(2) In this section “compensation for injurious affection” means compensation for injurious affection under section 61 or 114 of the [^M32]Lands Clauses Consolidation (Scotland) Act 1845, and subsection (1) above shall apply with the necessary modifications to such compensation under the said section 61 as substituted by [[^F147]paragraph 22 of Schedule 3 to the Gas Act 1986](compulsory acquisition of rights over land) or any corresponding enactment extending to Scotland, including (except where otherwise provided) an enactment passed after 23rd May 1973.
+
+#### 42 Compensation for acquisition of dwelling specially adapted for disabled person.
+
+(1) This section applies to the assessment of compensation in respect of the compulsory acquisition of an interest in a dwelling which—
+
+(a) has been constructed or substantially modified to meet the special needs of a disabled person; and
+
+(b) is occupied by such a person as his residence immediately before the date when the acquiring authority take possession of the dwelling or was last so occupied before that date.
+
+(2) The compensation shall, if the person whose interest is acquired so elects, be assessed as if the dwelling were land which is devoted to a purpose of such a nature that there is no general demand or market for land for that purpose.
+
+#### 43 Compensation for disturbance where business carried on by person over sixty.
+
+(1) Where a person is carrying on a trade or business on any land and, in consequence of the compulsory acquisition of the whole of that land, is required to give up possession thereof to the acquiring authority, then if—
+
+(a) on the date on which he gives up possession as aforesaid he has attained the age of sixty; and
+
+(b) on that date the land is or forms part of a hereditament the annual value of which does not exceed the prescribed amount; and
+
+(c) that person has not disposed of the goodwill of the whole of the trade or business and gives to the acquiring authority the undertakings mentioned in subsection (3) below,
+
+the compensation payable to that person in respect of the compulsory acquisition of his interest in the land or, as the case may be, under section 114 of the [^M33]Lands Clauses Consolidation (Scotland) Act 1845 (tenants from year to year etc.) shall, so far as attributable to disturbance, be assessed on the assumption that it is not reasonably practicable for that person to carry on the trade or business or, as the case may be, the part thereof the goodwill of which he has retained, elsewhere than on that land.
+
+(2) In subsection (1) above “the prescribed amount” means the amount which on the date mentioned in that subsection is the amount prescribed for the purposes of [[^F148]section 100(3)(a) of the Town and Country (Scotland) Planning Act 1997] (interests qualifying for protection under planning blight provisions) and “annual value” and “hereditament” have the meanings given in [[^F148]section 122] of that Act taking references to the date of service of a notice under [[^F148]section 101] of that Act as references to the date mentioned in subsection (1) above.
+
+(3) The undertakings to be given by the person claiming compensation are—
+
+(a) an undertaking that he will not dispose of the goodwill of the trade or business, or, as the case may be, of the part thereof the goodwill of which he has retained; and
+
+(b) an undertaking that he will not, within such area and for such time as the acquiring authority may require, directly or indirectly engage in or have any interest in any other trade or business of the same or substantially the same kind as that carried on by him on the land acquired.
+
+(4) If an undertaking given by a person for the purposes of this section is broken the acquiring authority may recover from him an amount equal to the difference between the compensation paid and the compensation that would have been payable if it had been assessed without regard to the provisions of this section.
+
+(5) This section shall apply to a trade or business carried on by two or more persons in partnership as if references to the person by whom it is carried on were references to all the partners and as if the undertakings mentioned in subsection (3) above were required to be given by all the partners.
+
+(6) This section shall apply to a trade or business carried on by a company—
+
+(a) as if subsection (1)(a) above required—
+
+(i) each shareholder, other than a minority shareholder, to be an individual who has attained the age of sixty on the date there mentioned; and
+
+(ii) each minority shareholder to be an individual who either has attained that age on that date or is the spouse of a shareholder who has attained that age on that date; and
+
+(b) as if the undertakings mentioned in subsection (3)(b) above were required to be given both by the company and by each shareholder.
+
+In this subsection “shareholder” means a person who is beneficially entitled to a share or shares in the company carrying voting rights and “minority shareholder” means a person who is so entitled to less than 50 per cent. of those shares.
+
+(7) This section shall apply in relation to any disturbance payment assessed in accordance with section 35(1)(b) above as it applies in relation to the compensation mentioned in subsection (1) above, and shall so apply subject to the necessary modifications and as if references to the giving up of possession of land to the acquiring authority in consequence of its compulsory acquisition were references to displacement as mentioned in section 34 above.
+
+#### 44 Compensation in respect of agricultural holdings.
+
+(1) This section has effect where in pursuance of any enactment providing for the acquisition or taking of possession of land compulsorily an acquiring authority—
+
+(a) acquire the interest of the landlord in an agricultural holding or any part of it; or
+
+(b) acquire the interest of the tenant in, or take possession of, an agricultural holding or any part of it.
+
+(2) In assessing the compensation payable by the acquiring authority to the landlord in connection with any such acquisition of an interest as is mentioned in subsection (1)(a) above—
+
+(a) there shall be disregarded any right of the landlord to serve a notice to quit, and any notice to quit already served by the landlord, which would not be or would not have been effective if—
+
+(i) in [[^F149]section 22(2)(b) of the Agricultural Holdings (Scotland) Act 1991] (land required for non-agricultural use for which planning permission has been granted etc.) the reference to the land being required did not include a reference to its being required by an acquiring authority; and
+
+(ii) in [[^F150]section 24(1)(e)] of that Act (proposed termination of tenancy for purpose of land’s being used for non-agricultural use not falling within [[^F151]section 22(2)(b)] the reference to the land’s being used did not include a reference to its being used by an acquiring authority; and
+
+[[^F152](aa) there shall be disregarded any right of the landlord to serve a notice of intention to resume land which would not be or have been effective if in section 17(1)(a) of the Agricultural Holdings (Scotland) Act 2003 (asp 11) (resumption of land by landlord) the reference to the resumption being for a non-agricultural purpose did not include a reference to its being required by an acquiring authority; and]
+
+(b) there shall be disregarded any entitlement of the landlord to resume land comprised in the holding by virtue of a stipulation in the lease, and any notice already given in pursuance of such a stipulation which would not be or would not have been effective if the stipulation were construed as not including authority to resume the land for the purpose of its being required by the acquiring authority; and
+
+(c) if the tenant has quitted the holding or any part of it by reason of a notice to quit which is to be so disregarded, it shall be assumed that he has not done so; and
+
+(d) if land comprised in the holding has been resumed by reason of such an entitlement or notice which is to be so disregarded that land shall be assumed not to have been so resumed.
+
+(3) In assessing the compensation payable by the acquiring authority to the tenant in connection with any such acquisition of an interest or taking of possession of land as is mentioned in subsection (1)(b) above (hereafter referred to as “the tenant’s compensation”), there shall be disregarded—
+
+(a) any right of the landlord to serve a notice to quit, and any notice to quit already served by the landlord, which would not be or would not have been effective if the said [[^F153]sections 22(2)(b) and 24(1)(e)] [[^F154]of the Agricultural Holdings (Scotland) Act 1991 or section 17(1)(a) of the Agricultural Holdings (Scotland) Act 2003] were construed in accordance with subsection (2)(a)(i) and (ii) above; and
+
+(b) any entitlement of the landlord to resume land comprised in the holding by virtue of a stipulation in the lease, and any notice already given in pursuance of such a stipulation which would not be or would not have been effective if the stipulation were construed in accordance with subsection (2)(b) above.
+
+(4) The tenant’s compensation shall be reduced by an amount equal to any payment which the acquiring authority are liable to make to him, in respect of the acquisition or taking of possession in question, under [[^F155]section 56 of the Agricultural Holdings (Scotland) Act 1991] (additional payments by acquiring authority in circumstances described in subsection (1)(b) above) [[^F156]or, as the case may be, under section 54(1) to (3) of the Agricultural Holdings Act (Scotland) 2003 (compensation where compulsory acquisition of land)] .
+
+(5) If the tenant’s compensation as determined in accordance with subsections (3) and (4) above is less than it would have been if those subsections had not been enacted, it shall be increased by the amount of the deficiency.
+
+(6) This section shall not apply to an agricultural holding which is a croft or the holding of a landholder or a statutory small tenant.
+
+#### 45 Compensation in respect of crofts, etc.
+
+(1) This section has effect where in pursuance of any enactment providing for the acquisition or taking of possession of land compulsorily an acquiring authority—
+
+(a) acquire the interest of the landlord in an agricultural holding which is a croft; or
+
+(b) take possession of a croft.
+
+(2) In assessing the compensation payable by the acquiring authority to the landlord of a croft in connection with any such acquisition of an interest as is mentioned in subsection (1)(a) above—
+
+(a) there shall be disregarded any right of the landlord to apply to the Scottish Land Court under section 12 of the [^M34]Crofters (Scotland) Act 1955 for authority to resume the croft and any such authority already granted which would not be or would not have been effective if in that section the reference to resuming the croft did not include a reference to its being resumed for the purpose of its being required by the acquiring authority; and
+
+(b) if the crofter has surrendered his croft under the said section 12 by reason of an authority which is to be so disregarded it shall be assumed that he has not done so.
+
+(3) In assessing the compensation payable by the acquiring authority to the crofter in connection with any such taking of possession of a croft as is mentioned in subsection (1)(b) above, there shall be disregarded any right of the landlord to apply to the Scottish Land Court under the said section 12 for authority to resume the croft or any such authority already granted which would not be or would not have been effective if the said section 12 were construed in accordance with subsection (2)(a) above.
+
+(4) If the compensation payable to the crofter as determined in accordance with subsection (3) above is less than it would have been if that subsection had not been enacted, it shall be increased by the amount of the deficiency.
+
+(5) This section shall apply to part of a croft as it applies to an entire croft.
+
+(6) This section shall apply to the holding or part of the holding of a landholder as it applies to a croft or part of a croft except that for any reference to a croft, crofter or section 12 of the [^M35]Crofters (Scotland) Act 1955 there shall be substituted respectively a reference to a holding, landholder or section 2 of the [^M36]Crofters Holdings (Scotland) Act 1886.
+
+(7) This section shall apply to the holding or part of the holding of a statutory small tenant as it applies to a croft or part of a croft except that—
+
+(a) for any reference to a croft, crofter or section 12 of the Crofters (Scotland) Act 1955 there shall be substituted respectively a reference to a holding, statutory small tenant or section 32(15) of the [^M37]Small Landholders (Scotland) Act 1911;
+
+(b) in subsection (2)(b), for the words “crofter has surrendered his croft under the said section 12” there shall be substituted the words “landlord has resumed the holding under the said section 32(15)”;
+
+(c) after subsection (3) there shall be inserted the following subsection—
+
+> (3A) The compensation payable to the statutory small tenant shall be reduced by an amount equal to any payment which the acquiring authority are liable to make to him, in respect of the taking of possession in question, under section 12 of the Agriculture (Miscellaneous Provisions) Act 1968 (additional payments by acquiring authority in circumstances described in subsection (1)(b) above).
+
+;
+
+(d) in subsection (4), for the words “subsection (3)” there shall be substituted the words “subsections (3) and (3A)”.
+
+#### 46 Compensation where occupier is rehoused.
+
+(1) The amount of compensation payable in respect of the compulsory acquisition of an interest in land shall not be subject to any reduction on account of the fact that the acquiring authority have provided, or undertaken to provide or arrange for the provision of, or another authority will provide, residential accommodation under any enactment for the person entitled to the compensation.
+
+(2) In assessing the compensation payable in respect of the compulsory acquisition of an interest in land which on the date of service of the notice to treat is subject to a tenancy, there shall be left out of account any part of the value of that interest which is attributable to, or to the prospect of, the tenant giving up possession after that date in consequence of being provided with other accommodation by virtue of section 36(1)(a) above; and for the purpose of determining the date by reference to which that compensation is to be assessed the acquiring authority shall be deemed, where the tenant gives up possession as aforesaid, to have taken possession on the date on which it is given up by the tenant.
+
+(3) Subsection (1) above shall apply in relation to any payment to which a person is entitled under Part III of this Act as it applies in relation to the compensation mentioned in that subsection taking references to the acquiring authority as references to the authority responsible for making that payment.
+
+(4) Subsection (2) above shall apply in relation to a case where a notice to treat is deemed to have been served by virtue of [[^F157]Schedule 15 to the Town and Country Planning (Scotland) Act 1997] (general vesting declarations) as it applies in relation to a case where a notice to treat is actually served.
+
+#### 47 Compensation where land is in area designated as site of new town for purpose of public development.
+
+(1) Where the Secretary of State proposes to make an order under section 1 of the [^M38]New Towns (Scotland) Act 1968 designating any area as—
+
+(a) the site of new town; or
+
+(b) an extension of the site of a new town,
+
+and the purpose or main purpose, or one of the main purposes, for which the order is proposed to be made is the provision of housing or other facilities required in connection with or in consequence of the carrying out of any public development, he may, before making the order, give a direction specifying that development for the purposes of this section in relation to that area.
+
+(2) Where the area mentioned in paragraph 3 or 3A in the first column of Schedule 1 to the [^M39]Land Compensation (Scotland) Act 1963 (cases where land acquired forms part of site of new town or extension of site of new town) is an area to which a direction under this section relates, then, in the circumstances described in that paragraph—
+
+(a) the increase or diminution in value to be left out of account by virtue of section 13 of that Act (compensation to be assessed without regard to development attributable to designation of new town) or any rule of law relating to the assessment of compensation in respect of compulsory acquisition; and
+
+(b) the increase in value to be taken into account by virtue of section 14 of that Act (reduction of compensation where other land benefited by such development),
+
+shall respectively include any increase or diminution in value, and any increase in value, which is attributable to the carrying out or the prospect of the public development specified in the direction.
+
+(3) No direction shall be given under this section in relation to any area until the Secretary of State has prepared a draft of the order under section 1 of the said Act of 1968 in respect of that area and has published the notice required by paragraph 2 of Schedule 1 to that Act.
+
+(4) Any direction under this section shall be given by order; and any order containing such a direction may be varied or revoked by a subsequent order.
+
+(5) The power to make orders under this section shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(6) In this section “public development” means development (whether or not in the area designated under section 1 of the said Act of 1968) in the exercise of statutory powers by—
+
+(a) a government department;
+
+(b) any statutory undertakers within the meaning of [[^F158]the Town and Country Planning (Scotland) Act 1997] or any body deemed by virtue of any enactment to be statutory undertakers for the purposes of, or of any provision of, that Act; or
+
+(c) without prejudice to paragraph (b) above, any body having power to borrow money with the consent of a Minister,
+
+and includes such development which has already been carried out when the direction in respect of it is given as well as such development which is then proposed.
+
+### Advance payment of compensation
+
+#### 48 Right to advance payment of compensation.
+
+(1) Where an acquiring authority have taken possession of any land the authority shall, if a request in that behalf is made in accordance with subsection (2) below, make an advance payment on account of any compensation payable by them for the compulsory acquisition of any interest in that land.
+
+(2) Any request under this section shall be made by the person entitled to the compensation (hereafter referred to as “the claimant”), shall be in writing, shall give particulars of the claimant’s interest in the land (so far as not already given pursuant to a notice to treat) and shall be accompanied or supplemented by such other particulars as the acquiring authority may reasonably require to enable them to estimate the amount of the compensation in respect of which the advance payment is to be made.
+
+(3) Subject to subsection (6) below, the amount of any advance payment under this section shall be equal to 90 per cent. of the following amount, that is to say—
+
+(a) if the acquiring authority and the claimant have agreed on the amount of the compensation, the agreed amount;
+
+(b) in any other case, an amount equal to the compensation as estimated by the acquiring authority.
+
+(4) Any advance payment under this section shall be made not later than three months after the date on which a request for the payment is made in accordance with subsection (2) above or, if those three months end before the date on which the acquiring authority take possession of the land to which the compensation relates, on the date on which they take possession as aforesaid.
+
+[[^F159](4A) Where, at any time after an advance payment has been made on the basis of the acquiring authority’s estimate of the compensation, it appears to the acquiring authority that their estimate was too low, they shall, if a request in that behalf is made in accordance with subsection (2) above, pay to the claimant the balance of the amount of the advance payment calculated as at that time.
+
+(5) Where the amount, or aggregate amount, of any payment under this section made on the basis of the acquiring authority’s estimate of the compensation exceeds the compensation as finally determined or agreed, the excess shall be repaid; and if after any payment under this section has been made to any person it is discovered that he was not entitled to it, the amount of the payment shall be recoverable by the acquiring authority]
+
+(6) No advance payment shall be made on account of compensation payable in respect of any land which is subject to a heritable security the principal of which exceeds 90 per cent. of the amount mentioned in subsection (3) above; and where the land is subject to a heritable security the principal of which does not exceed 90 per cent. of that amount, the advance payment shall be reduced by such sum as the acquiring authority consider will be required by them for securing the release of the interest of the heritable creditor.
+
+(7) Where an acquiring authority make an advance payment under this section on account of compensation in respect of any interest in land, the authority shall cause notice of that fact, specifying particulars of the payment, the compensation and the interest in land to which it relates, to be recorded in the Register of Sasines and shall send a copy of the notice to the local planning authority.
+
+(8) Where after particulars of the advance payment made to any claimant have been recorded as aforesaid the claimant disposes of the interest in the land to, or creates an interest in the land in favour of, a person other than the acquiring authority, the amount of the advance payment [[^F160]together with any amount paid under section 48A] shall be set off against any sum payable by the authority to that other person in respect of the compulsory acquisition of the interest disposed of or the compulsory acquisition or release of the interest created.
+
+(9) Where an advance payment has been made under this section on account of any compensation—
+
+(a) section 75 of the [^M40]Lands Clauses Consolidation (Scotland) Act 1845 (refusal of owner to convey on tender of compensation) shall have effect as if references to the compensation were references to the balance thereof remaining unpaid; [^F161] . . .
+
+[^F161]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10) This section shall apply to compensation for the compulsory acquisition of a right in or over land as it applies to compensation for the compulsory acquisition of an interest in land, and shall so apply with the necessary modifications and as if references to taking possession of the land were references to first entering it for the purpose of exercising the right.
+
+#### [[^F162]48A Right to interest where advance payment made.
+
+(1) This section applies where the compensation to be paid by the acquiring authority for the compulsory acquisition of any interest in land would (apart from this section) carry interest under paragraph 3(1) of the second Schedule to the [^M41]Acquisition of Land (Authorisation Procedures) (Scotland) Act 1947 or any bond under section 84 (promoters to be allowed to enter on lands before purchase on giving bond etc.) of the [^M42]Lands Clauses Consolidation (Scotland) Act 1845.
+
+(2) If the authority make a payment under section 48(1) above to any person on account of the compensation—
+
+(a) they shall at the same time make a payment to that person of accrued interest, for the period beginning with the date of entry, on the amount by reference to which the payment under section 48(1) above was calculated; and
+
+(b) the difference between the amount of the payment under section 48(1) above and the amount by reference to which it was calculated is an unpaid balance for the purposes of this section.
+
+(3) If the authority make a payment under section 48(4A) above to any person on account of the compensation, they shall at the same time make a payment to him of accrued interest, for the period beginning with the date of entry, on—
+
+(a) the amount by reference to which the payment under section 48(4A) above was calculated; less
+
+(b) the amount by reference to which the preceding payment under section 48(1) or (4A) above was calculated.
+
+(4) Where the authority make a payment under section 48(4A) above on account of the compensation, the difference between—
+
+(a) the amount of the payment; and
+
+(b) the amount by reference to which it was calculated less the amount by reference to which the preceding payment under section 48(1) or (4A) above was calculated,
+
+is an unpaid balance for the purposes of this section.
+
+(5) If, on an anniversary of the date on which the authority made a payment to any person under section 48(1) above on account of the compensation—
+
+(a) the amount of accrued interest on the unpaid balance under subsection (2) above or, as the case may be,
+
+(b) the aggregate amount of the accrued interest on any unpaid balances,
+
+exceeds £1,000, the authority shall make a payment to the claimant of the amount or aggregate amount.
+
+(6) The acquiring authority shall, on paying the compensation, pay the amount of the accrued interest on the unpaid balance under subsection (2) above or, as the case may be, the aggregate amount of the accrued interest on any unpaid balances.
+
+(7) For the purposes of subsections (5) and (6) above, interest accrues on any unpaid balance for the period beginning with—
+
+(a) the making of the payment under section 48(1) or, as the case may be, 48(4A) above; or
+
+(b) if any payment has already been made in respect of that balance under subsection (5) above, the date of the preceding payment under that subsection.
+
+(8) For the purposes of this section—
+
+(a) interest accrues at the rate prescribed under section 40 of the [^M43]Land Compensation (Scotland) Act 1963 or, in the case of a bond under section 84 of the [^M44]Lands Clauses Consolidation (Scotland) Act 1845, at the rate specified in that section; and
+
+(b) the amount by reference to which a payment under section 48(1) or (4A) was calculated is the amount referred to in section 48(3)(a) or (b) for the purposes of that calculation.
+
+(9) Where any payment has been made under section 48(1) above on account of any compensation, the acquiring authority is not required to pay interest under paragraph 3(1) of the second Schedule to the [^M45]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 or any bond under section 84 (promoters to be allowed to enter on lands before purchase on giving bond etc.) of the [^M46]Lands Clauses Consolidation (Scotland) Act 1845.
+
+(10) Where the amount, or aggregate amount, of any payment under section 48 above made on the basis of the acquiring authority’s estimate of the compensation is greater than the compensation as finally determined or agreed and, accordingly, the interest paid under this section is excessive, the excess shall be repaid.
+
+(11) If after any interest has been paid to any person under this section on any amount it is discovered that he was not entitled to the amount, the interest shall be recoverable by the acquiring authority.
+
+(12) The Secretary of State may by order increase the sum specified in subsection (5) above; and the power to make orders under this subsection shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.]
+
+### Severance of land
+
+#### 49 Notice to treat in respect of part of agricultural land.
+
+(1) Where an acquiring authority serve notice to treat in respect of any agricultural land on a person (whether in occupation or not) having a greater interest in the land than as tenant for a year or from year to year, and that person has such an interest in other agricultural land comprised in the same agricultural unit as that to which the notice relates, the person on whom the notice is served (hereafter referred to as “the claimant”) may within the period of two months beginning with the date of service of the notice to treat, serve on the acquiring authority a counter-notice—
+
+(a) claiming that the other land is not reasonably capable of being farmed, either by itself or in conjunction with other relevant land, as a separate agricultural unit; and
+
+(b) requiring the acquiring authority to purchase his interest in the whole of the other land.
+
+(2) Where a counter-notice is served under subsection (1) above the claimant shall also, within the period mentioned in that subsection, serve a copy thereof on any other person who has an interest in the land to which the requirement in the counter-notice relates, but failure to comply with this subsection shall not invalidate the counter-notice.
+
+(3) Subject to subsection (4) below, “other relevant land” in subsection (1) above means—
+
+(a) land comprised in the same agricultural unit as the land to which the notice to treat relates, being land in which the claimant does not have such an interest as is mentioned in that subsection; and
+
+(b) land comprised in any other agricultural unit occupied by him on the date of service of the notice to treat, being land in respect of which he is then entitled to a greater interest than as tenant for a year or from year to year.
+
+(4) Where an acquiring authority have served a notice to treat in respect of any of the other agricultural land mentioned in subsection (1) above or in respect of other relevant land as defined in subsection (3) above [[^F163]or such a notice is deemed to have been served by virtue of sections 88 to 95 of the Town and Country Planning (Scotland) Act 1997], then, unless and until that notice to treat is withdrawn, this section and section 50 below shall have effect as if that land did not form part of that other agricultural land or did not constitute other relevant land, as the case may be.
+
+(5) This section shall have effect in relation to a case where a notice to treat is deemed to have been served by virtue of any of the provisions of [^F164]. . . [[^F165]Schedule 15 to the Town and Country Planning (Scotland) Act 1997] (general vesting declarations) as it has effect in relation to a case where a notice to treat is actually served, and section 50 below shall have effect accordingly.
+
+(6) This section is without prejudice to the rights conferred by sections 91 and 92 of the [^M47]Lands Clauses Consolidation (Scotland) Act 1845 (provisions as to divided land).
+
+#### 50 Effect of counter-notice under section 49.
+
+(1) If the acquiring authority do not within the period of two months beginning with the date of service of a counter-notice under section 49 above agree in writing to accept the counter-notice as valid, the claimant or the authority may, within two months after the end of that period, refer it to the Lands Tribunal; and on any such reference the Tribunal shall determine whether the claim in the counter-notice is justified and declare the counter-notice valid or invalid in accordance with its determination of that question.
+
+(2) Where a counter-notice is accepted as, or declared to be, valid under subsection (1) above the acquiring authority shall be deemed—
+
+(a) to be authorised to acquire compulsorily, under the enactment by virtue of which they are empowered to acquire the land in respect of which the notice to treat was served, the claimant’s interest in the land to which the requirement in the counter-notice relates; and
+
+(b) to have served a notice to treat in respect of that land on the date on which the first-mentioned notice to treat was served.
+
+(3) A claimant may withdraw a counter-notice at any time before the compensation payable in respect of a compulsory acquisition in pursuance of the counter-notice has been determined by the Lands Tribunal or at any time before the end of six weeks beginning with the date on which the compensation is so determined; and where a counter-notice is withdrawn by virtue of this subsection any notice to treat deemed to have been served in consequence thereof shall be deemed to have been withdrawn.
+
+(4) Without prejudice to subsection (3) above, the power conferred by section 39 of the [^M48]Land Compensation (Scotland) Act 1963 to withdraw a notice to treat shall not be exercisable in the case of a notice to treat which is deemed to have been served by virtue of this section.
+
+(5) The compensation payable in respect of the acquisition of an interest in land in pursuance of a notice to treat deemed to have been served by virtue of this section shall be assessed on the assumptions mentioned in section 5(2), (3) and (4) above.
+
+(6) Where by virtue of this section the acquiring authority become, or will become, entitled to a lease of any land but not to the interest of the lessor—
+
+(a) the authority shall offer to renounce the lease to the lessor on such terms as the authority consider reasonable;
+
+(b) the question of what terms are reasonable may be referred to the Lands Tribunal by the authority or the lessor and, if at the expiration of three months after the date of the offer mentioned in paragraph (a) above, the authority and the lessor have not agreed on that question and that question has not been referred to the Tribunal by the lessor, it shall be so referred by the authority;
+
+(c) if that question is referred to the Tribunal the lessor shall be deemed to have accepted the renunciation of the lease at the expiration of one month after the date of the determination of the Tribunal or on such other date as the Tribunal may direct and to have agreed with the authority on the terms of renunciation which the Tribunal has held to be reasonable.
+
+For the purposes of this subsection any terms as to renunciation contained in the lease shall be disregarded.
+
+(7) Where the lessor refuses to accept any sum payable to him by virtue of subsection (6) above, or refuses or fails to make out his title to the satisfaction of the acquiring authority, they may pay into the Bank within the meaning of section 3 of the [^M49]Lands Clauses Consolidation (Scotland) Act 1845 any sum payable to the lessor by virtue of that subsection; and the following provisions of the said Act of 1845 shall apply to that sum with the necessary modifications—
+
+(a) section 75 so far as it relates to the opening of an account,
+
+(b) section 76 so far as it relates to the giving of a receipt,
+
+(c) section 77,
+
+(d) section 79.
+
+(8) Where an acquiring authority who become entitled to the lease of any land as mentioned in subsection (6) above are a body incorporated by or under any enactment the corporate powers of the authority shall, if they would not otherwise do so, include power to farm that land.
+
+#### 51 Notice of entry in respect of part of agricultural holding.
+
+(1) Where an acquiring authority serve notice of entry under paragraph 3 of Schedule 2 to the [^M50]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 or [[^F166]paragraph 15 of Schedule 15 to the Town and Country Planning (Scotland) Act 1997] on the person in occupation of an agricultural holding, being a person having no greater interest therein than as tenant for a year or from year to year, and the notice relates to part only of that holding, the person on whom the notice is served (hereafter referred to as “the claimant”) may, within the period of two months beginning with the date of service of the notice of entry, serve on the the acquiring authority a counter-notice—
+
+(a) claiming that the remainder of the holding is not reasonably capable of being farmed, either by itself or in conjunction with other relevant land, as a separate agricultural unit; and
+
+(b) electing to treat the notice of entry as a notice relating to the entire holding.
+
+(2) Where a counter-notice is served under subsection (1) above the claimant shall also, within the period mentioned in that subsection, serve a copy thereof on the landlord of the holding, but failure to comply with this subsection shall not invalidate the counter-notice.
+
+(3) Subject to subsection (4) below, “other relevant land” in subsection (1) above means—
+
+(a) land comprised in the same agricultural unit as the agricultural holding; and
+
+(b) land comprised in any other agricultural unit occupied by the claimant on the date of service of the notice of entry, being land in respect of which he is then entitled to a greater interest than as tenant for a year or from year to year.
+
+(4) Where an acquiring authority have served a notice to treat in respect of land in the agricultural holding other than that to which the notice of entry relates or in respect of other relevant land as defined in subsection (3) above, then, unless and until that notice to treat is withdrawn, this section and section 52 below shall have effect as if that land did not form part of the holding or did not constitute other relevant land, as the case may be.
+
+#### 52 Effect of counter-notice under section 51.
+
+(1) If the acquiring authority do not within the period of two months beginning with the date of service of a counter-notice under section 51 above agree in writing to accept the counter-notice as valid, the claimant or the authority may, within two months after the end of that period, refer it to the Lands Tribunal; and on any such reference the Tribunal shall determine whether the claim in the counter-notice is justified and declare the counter-notice valid or invalid in accordance with its determination of that question.
+
+(2) Where a counter-notice is accepted as, or declared to be, valid under subsection (1) above then, if before the end of twelve months after it has been so accepted or declared the claimant has given up possession of every part of the agricultural holding to the acquiring authority—
+
+(a) the notice of entry shall be deemed to have extended to the part of the holding to which it did not relate; and
+
+(b) the acquiring authority shall be deemed to have taken possession of that part in pursuance of that notice on the day before the expiration of the year of the tenancy which is current when the counter-notice is so accepted or declared.
+
+(3) Where the claimant gives up possession of an agricultural holding to the acquiring authority as aforesaid but the authority have not been authorised to acquire the landlord’s interest in, or in any of, the part of the holding to which the notice of entry did not relate (“the land not subject to compulsory purchase”)—
+
+(a) neither the claimant nor the authority shall be under any liability to the landlord by reason of the claimant giving up possession of the land not subject to compulsory purchase or the authority taking or being in possession of it;
+
+(b) immediately after the date on which the authority take possession of the land not subject to compulsory purchase they shall give up to the landord, and he shall take, possession of that land;
+
+(c) the tenancy shall be treated as terminated on the date on which the claimant gives up possession of the holding to the acquiring authority or (if he gives up possession of different parts at different times) gives up possession as aforesaid of the last part, but without prejudice to any rights or liabilities of the landlord or the claimant which have accrued before that date;
+
+(d) any rights of the claimant against, or liabilities of the claimant to, the landlord which arise on or out of the termination of the tenancy by virtue of paragraph (c) above (whether under the lease, the [[^F167]Agricultural Holdings (Scotland) Act 1991] [[^F168], the Agricultural Holdings (Scotland) Act 2003] , the [^M51]Crofters (Scotland) Acts 1955 [^M52] and 1961, the Small Landholders (Scotland) Acts 1886 to 1931 or otherwise) shall be rights and liabilities of the authority, and any question as to the payment to be made in respect of any such right or liability shall be referred to and determined by the Lands Tribunal;
+
+(e) any increase in the value of the land not subject to compulsory purchase which is attributable to the landlord’s taking possession of it under paragraph (b) above shall be deducted from the compensation payable in respect of the acquisition of his interest in the remainder of the holding.
+
+(4) Where a tenancy is terminated by virtue of subsection (3)(c) above, [[^F169]section 47(1) of the Agricultural Holdings (Scotland) Act 1991] (landlord’s right to compensation for deterioration of holding) shall have effect as if [[^F169]the said section 47(1)] required the landlord’s notice of intention to claim compensation to be served on the acquiring authority and to be so served within three months after the termination of the tenancy.
+
+#### 53 Other procedures for taking possession of part of agricultural holding.
+
+(1) Before taking possession of part only of an agricultural holding under section 84 or 114 of the [^M53]Lands Clauses Consolidation (Scotland) Act 1845 (alternative procedures for taking possession of land) the acquiring authority shall serve notice of their intention to do so on the person in occupation of the holding, and sections 51 and 52 above shall have effect, subject to any necessary modifications, as if possession were being obtained pursuant to a notice of entry under paragraph 3 of Schedule 2 to the [^M54]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947.
+
+(2) Sections 51 and 52 above shall have effect, subject to any necessary modifications, in relation to a notice of entry under paragraph 4 of Schedule 6 to the [^M55]New Towns (Scotland) Act 1968 (provisions applicable to compulsory acquisitions under that Act) as they have effect in relation to a notice of entry under paragraph 3 of Schedule 2 to the [^M56]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947.
+
+(3) Sections 51 and 52(1) and (2) above shall have effect, subject to any necessary modifications, in relation to a notice under section [[^F170]II] of the [^M57]Housing (Scotland) Act [[^F170]1987] (dispossession of tenant where local authority have agreed to purchase or have appropriated land for purposes of Part [[^F170]I] of that Act) as they have effect in relation to a notice of entry under paragraph 3 of Schedule 2 to the said Act of 1947.
+
+#### 54 Determination of material detriment where part of house etc. proposed for compulsory acquisition.
+
+(1) In determining under paragraph 4 of Schedule 2 to the Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 or [[^F171]section 117(2) of, or paragraph 26 of Schedule 15 to the Town and Country Planning (Scotland) Act 1997] whether—
+
+(a) part of a house, building or manufactory can be taken without material detriment or damage to the house, building or manufactory; or
+
+(b) part of a park or garden belonging to a house can be taken without seriously affecting the amenity or convenience of the house,
+
+the Lands Tribunal shall take into account not only the effect of the severance but also the use to be made of the part proposed to be acquired and, in a case where the part is proposed to be acquired for works or other purposes extending to other land, the effect of the whole of the works and the use to be made of the other land.
+
+(2) Subsection (1) above shall apply with the necessary modifications to any determination—
+
+(a) under the said paragraph 4 as substituted by [[^F172]paragraph 22 of Schedule 3 to the Gas Act 1986] (compulsory acquisition of rights over land); or
+
+(b) under any provision corresponding to or substituted for the said paragraph 4 which is contained in, or in an instrument made under, any other enactment including (except where otherwise provided) an enactment passed after 23rd May 1973.
+
+### Miscellaneous
+
+#### 55 Notice to quit agricultural holding: right to opt for notice of entry compensation.
+
+(1) This section has effect where the person in occupation of an agricultural holding, being a person having no greater interest therein than as tenant for a year or from year to year, is served with a notice to quit the holding [[^F173]or (as the case may be) notice of intention to resume land], and—
+
+(a) the notice is served after an acquiring authority have served notice to treat on the landlord of the holding or, being an authority possessing compulsory purchase powers, have agreed to acquire his interest in the holding; and
+
+[^F174][b either—
+
+(i) section 22(1) of the Agricultural Holdings (Scotland) Act 1991 does not apply by virtue of subsection (2)(b) of that section; or
+
+(ii) the Scottish Land Court have consented to the notice on the ground set out in section 24(1)(e) of that Act][[^F175], or the resumption is for a non-agricultural purpose under section 17(1)(a) of the Agricultural Holdings (Scotland) Act 2003.]
+
+(2) If the person served with the notice to quit [[^F176]or (as the case may be) notice of intention to resume land] elects that this subsection shall apply to the notice and gives up possession of the holding to the acquiring authority on or before the date on which his tenancy terminates in accordance with the notice—
+
+(a) section 114 of the [^M58]Lands Clauses Consolidation (Scotland) Act 1845 (compensation for tenants from year to year, etc.) and [[^F177]either section 56 of the Agricultural Holdings (Scotland) Act 1991 or (as the case may be) section 54(1) to (3) of the Agricultural Holdings (Scotland) Act 2003] shall have effect as if the notice to quit [[^F176]or (as the case may be) notice of intention to resume land] had not been served and the acquiring authority had taken possession of the holding in pursuance of a notice of entry under paragraph 3 of Schedule 2 to the [^M59]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 on the day before that on which the tenancy terminates in accordance with the notice to quit [[^F176]or (as the case may be) notice of intention to resume land]; and
+
+[[^F178](b) either (as the case may be)–
+
+(i) the provisions of the Agricultural Holdings (Scotland) Act 1991 relating to the compensation to a tenant on the termination of his tenancy and sections 54 and 58(1) and (2) of that Act (additional payment and compensation in cases of notice to quit); or
+
+(ii) the provisions of the Agricultural Holdings (Scotland) Act 2003 relating to compensation to a tenant on the termination of his tenancy,
+
+shall not have effect in relation to the termination of the tenancy by reason of the notice to quit or (as the case may be) the notice of intention to resume land].
+
+(3) No election under subsection (2) above shall be made or, if already made, continue to have effect in relation to any land (whether the whole or part of the land to which the notice to quit relates) if, before the expiration of that notice, an acquiring authority take possession of that land in pursuance of an enactment providing for the taking of possession of land compulsorily.
+
+(4) Any election under subsection (2) above shall be made by notice in writing served on the acquiring authority not later than the date on which possession of the holding is given up.
+
+(5) This section shall have effect in relation to a notice to quit [[^F179]or (as the case may be) notice of intention to resume land] part of an agricultural holding as it has effect in relation to a notice to quit [[^F179]or (as the case may be) notice of intention to resume land] an entire holding and references to a holding and the termination of the tenancy shall be construed accordingly.
+
+(6) A person served with a notice to quit part of an agricultural holding shall not be entitled, in relation to that notice, both to make an election under this section and to give a counter-notice under [[^F180]section 30 of the Agricultural Holdings (Scotland) Act 1991] (tenant’s right to treat notice to quit part of holding as notice to quit entire holding) [[^F181]or, as the case may be, to give notice under section 17(3) of the Agricultural Holdings (Scotland) Act 2003 (resumption of land by landlord)] .
+
+(7) The reference in subsection (1)(a) above to a notice to treat served by an acquiring authority includes a reference to a notice to treat deemed to have been so served under any of the provisions mentioned in section 49(5) above [[^F182]and the reference in that subsection to an authority possessing compulsory purchase powers includes a person or body of persons who would be an authority possessing compulsory purchase powers if the landlord’s interest were not an interest in Crown land (as defined by [[^F183]section 242(1) of the Town and Country Planning (Scotland) Act 1997]).].
+
+(8) This section and section 57 below shall have effect in relation to a notice given in pursuance of a stipulation in a lease entitling the landlord to resume land for building, planting, feuing or other purposes (not being agricultural purposes) as it has effect in relation to a notice to quit [[^F184]or (as the case may be) a notice of intention to resume land] as if, in this section, subsections (1)(b) and (6) were omitted; and references in this section to the termination of the tenancy shall be construed accordingly.
+
+(9) This section shall not apply where the person in occupation of an agricultural holding is a crofter, landholder or statutory small tenant.
+
+#### 56 Requirement to surrender croft, etc.: right to opt for notice of entry compensation.
+
+(1) This section has effect where—
+
+(a) the person in occupation of an agricultural holding is a crofter and is required by an order of the Scottish Land Court under section 12 of the [^M60]Crofters (Scotland) Act 1955 to surrender his croft; and
+
+(b) the crofter is so required—
+
+(i) after an acquiring authority have served notice to treat on the landlord of the croft or, being an authority possessing compulsory purchase powers, have agreed to acquire his interest in the croft, and
+
+(ii) where the Court have been satisfied under the said section 12 that the landlord desires to resume the croft for a reasonable purpose which is a purpose other than an agricultural purpose.
+
+(2) If the crofter required by such an order to surrender his croft elects that this subsection shall apply to the order and gives up possession of the croft to the acquiring authority on or before the date on which the croft is required to be surrendered in accordance with the order—
+
+(a) section 114 of the [^M61]Lands Clauses Consolidation (Scotland) Act 1845 (compensation for tenants from year to year, etc.) shall have effect as if the crofter had not been so required to surrender his croft and the acquiring authority had taken possession of the croft in pursuance of a notice of entry under paragraph 3 of Schedule 2 to the [^M62]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 on the day before that on which the croft is required to be surrendered in accordance with the order; and
+
+(b) any provision of an order under section 12 of the [^M63]Crofters (Scotland) Act 1955 relating to the compensation to a crofter shall not have effect in relation to the surrender of the croft by reason of the order.
+
+(3) No election under subsection (2) above shall be made or, if already made, continue to have effect in relation to any land to which such an order relates if, before the date on which the croft is required to be surrendered in accordance with the order, an acquiring authority take possession of that land in pursuance of an enactment providing for the taking of possession of land compulsorily.
+
+(4) Any election under subsection (2) above shall be made by notice in writing served on the acquiring authority not later than the date on which possession of the croft is given up.
+
+(5) This section shall have effect in relation to an order to surrender part of a croft as it has effect in relation to an order to surrender an entire croft and references to a croft shall be construed accordingly.
+
+(6) The reference in subsection (1)(b)(i) above to a notice to treat served by an acquiring authority includes a reference to a notice to treat deemed to have been so served under any of the provisions mentioned in section 49(5) above.
+
+(7) This section shall apply to a landholder as it applies to a crofter except that for any reference to a croft, crofter or section 12 of the [^M64]Crofters (Scotland) Act 1955 there shall be substituted respectively a reference to a holding, landholder or section 2 of the [^M65]Crofters Holdings (Scotland) Act 1886.
+
+(8) This section shall apply to a statutory small tenant subject to the modifications set out in Part I of Schedule 1 to this Act; and in accordance with this subsection this section shall have effect in relation to a statutory small tenant as set out in Part II of that Schedule.
+
+#### 57 Notice to quit part of agricultural holding: right to claim notice of entry compensation for remainder of holding.
+
+(1) Where a notice to quit in respect of which a person is entitled to make an election under section 55 above relates to part only of an agricultural holding and that person makes such an election within the period of two months beginning with the date of service of that notice, or, if later, the decision of the Scottish Land Court, he may also within that period serve a notice on the acquiring authority claiming that the remainder of the holding is not reasonably capable of being farmed, either by itself or in conjunction with other relevant land, as a separate agricultural unit.
+
+(2) If the acquiring authority do not within the period of two months beginning with the date of service of a notice under subsection (1) above agree in writing to accept the notice as valid, the claimant or the authority may, within two months after the end of that period, refer it to the Lands Tribunal, and on any such reference the Tribunal shall determine whether the claim in the notice is justified and declare the notice valid or invalid in accordance with its determination of that question.
+
+(3) Where a notice under subsection (1) above is accepted as, or declared to be, valid under subsection (2) above then, if before the end of twelve months after it has been so accepted or declared the claimant has given up to the acquiring authority possession of the part of the holding to which the notice relates, section 114 of the [^M66]Lands Clauses Consolidation (Scotland) Act 1845 and section 12 of the [^M67]Agriculture (Miscellaneous Provisions) Act 1968 shall have effect as if the acquiring authority had taken possession of that part in pursuance of a notice of entry under paragraph 3 of Schedule 2 to the [^M68]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 on the day before the expiration of the year of the tenancy which is current when the notice is so accepted or declared.
+
+(4) Subsections (2) to (4) of section 51 and subsection (3) of section 52 above shall apply in relation to subsections (1) to (3) above and to a notice under subsection (1) above as they apply in relation to those sections and a counter-notice under subsection (1) of section 51, and shall so apply with the necessary modifications and as if any reference to the notice of entry were a reference to the notice to quit.
+
+(5) Where an election under section 55 above ceases to have effect in relation to any land by virtue of subsection (3) of that section any notice served by virtue of this section shall also cease to have effect in relation thereto.
+
+#### 58 Requirement to surrender part of croft, etc.: right to claim notice of entry compensation for remainder.
+
+(1) Where an order of the Scottish Land Court in respect of which a person is entitled to make an election under section 56 above relates to part only of a croft or holding and that person makes such an election within the period of two months beginning with the date of the making of the order, he may also within that period serve a notice on the acquiring authority claiming that the remainder of the croft or holding is not reasonably capable of being farmed, either by itself or in conjunction with other relevant land, as a separate agricultural unit.
+
+(2) If the acquiring authority do not within the period of two months beginning with the date of service of a notice under subsection (1) above agree in writing to accept the notice as valid, the claimant or the authority may, within two months after the end of that period, refer it to the Lands Tribunal, and on any such reference the Tribunal shall determine whether the claim in the notice is justified and declare the notice valid or invalid in accordance with its determination of that question.
+
+(3) Where a notice under subsection (1) above is accepted as, or declared to be valid under subsection (2) above then, if before the end of twelve months after it has been so accepted or declared the claimant has given up to the acquiring authority possession of the part of the croft or holding to which the notice relates, section 114 of the [^M69]Lands Clauses Consolidation (Scotland) Act 1845 shall have effect as if the acquiring authority had taken possession of that part in pursuance of a notice of entry under paragraph 3 of Schedule 2 to the [^M70]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 on the day before the expiration of the year of the tenancy which is current when the notice is so accepted or declared.
+
+(4) Subsections (2) to (4) of section 51 and subsection (3) of section 52 above shall apply in relation to subsections (1) to (3) above and to a notice under subsection (1) above as they apply in relation to those sections and a counter-notice under subsection (1) of section 51, and shall so apply with the necessary modifications and as if in section 51(3)(b) for the words “service of the notice of entry” and in section 52(3) for the words “the notice of entry” there were substituted the words “the order of the Scottish Land Court”.
+
+(5) Where an election under section 56 above ceases to have effect in relation to any land by virtue of subsection (3) of that section any notice served by virtue of this section shall cease to have effect in relation thereto.
+
+(6) Subsection (3) above shall apply in the case of the holding of a statutory small tenant as if after the word “1845” there were inserted the words “and section 12 of the [^M71]Agriculture (Miscellaneous Provisions) Act 1968”.
+
+#### 59 Interest on compensation for injurious affection where no land taken.
+
+Compensation under section 6 of the [^M72]Railways Clauses Consolidation (Scotland) Act 1845 (compensation for injurious affection where no land taken) shall carry interest, at the rate for the time being prescribed under section 40 of the [^M73]Land Compensation (Scotland) Act 1963, from the date of the claim until payment.
+
+#### 60 Extension of grounds for challenging validity of compulsory purchase order.
+
+In paragraph 15 of Schedule 1 to the [^M74]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 (which enables an aggrieved person to challenge the validity of a compulsory purchase order on the ground that certain requirements have not been complied with) references to those requirements shall include references to any requirements of the [^M75]Tribunals and Inquiries Act 1971 or of any rules made, or having effect as if made, under that Act.
+
+#### 61 Construction of section 6 of Railway Clauses Consolidation (Scotland) Act 1845.
+
+At the end of section 6 of the Railway Clauses Consolidation (Scotland) Act 1845 (construction of railway to be subject to that Act and [^M76]Land Clauses Consolidation (Scotland) Act 1845 there shall be added the following subsection—
+
+> (2) For the avoidance of doubt it is hereby declared that in this section the reference to the construction of the railway includes a reference to the execution of works in connection therewith.
+
+#### 62 Amendment of section 35 of Roads (Scotland) Act 1970.
+
+Section 35 of the [^M77]Roads (Scotland) Act 1970 (general provisions as to acquisition of land) shall have effect as if—
+
+(a) after subsection (1) there were inserted the following subsection—
+
+> (1A) Any power to acquire land compulsorily conferred by any of the said sections or by section 20 of the Land Compensation (Scotland) Act 1973 shall include power to acquire a servitude or other right in or over land by the creation of a new right.
+
+(b) at the end there were added the following subsection—
+
+> (5) Where under section 29, 30, 31, 32 or 33 of this Act or section 20 of the Land Compensation (Scotland) Act 1973 a highway authority are authorised to acquire land by agreement, the Lands Clauses Acts (except the provisions relating to the purchase of land otherwise than by agreement and the provisions relating to access to the special Act, and except sections 120 to 125 of the Lands Clauses Consolidation (Scotland) Act 1845) and sections 6 and 70 of the Railways Clauses Consolidation (Scotland) Act 1845, and sections 71 to 78 of that Act, as originally enacted and not as amended for certain purposes by section 15 of the Mines (Working Facilities and Support) Act 1923, shall be incorporated with this Act, and in construing those Acts for the purposes of this subsection this Act shall be deemed to be the special Act, and the highway authority to be the promoters of the undertaking or cmpany, as the case may require, and the word “land” shall have the meaning assigned to it by section 50(1) of this Act.
+
+#### 63 Provisions relating to acquisition of new rights.
+
+(1) Subject to the provisions of this section, the [^M78]Lands Clauses Consolidation (Scotland) Act 1845 and the [^M79]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 shall apply subject to any necessary modifications to the compulsory acquisition under any enactment of a right in or over land by the creation of a new right as they apply to the compulsory acquisition of land under the enactment in question.
+
+(2) Section 61 of the said Act of 1845 (estimation of purchase money and compensation) shall apply to the compulsory acquisition of such a right as if for the words from “value” to “undertaking” there were substituted the words “extent (if any) to which the value of the land in or over which the right is to be acquired is depreciated by the acquisition of the right”.
+
+(3) Paragraph 4 of Schedule 2 to the said Act of 1947 (protection for vendor against severance of house, garden, etc.) shall apply to the compulsory acquisition of such a right as if at the end there were added the following sub-paragraph—
+
+> (2) In considering the extent of any material detriment to a house, building or manufactory or any extent to which the amenity or convenience of a house is affected, the Lands Tribunal for Scotland shall have regard not only to the right which is to be acquired in or over the land, but also to any adjoining or adjacent land belonging to the same owner and subject to compulsory purchase.
+
+(4) Nothing in this section shall affect the operation of any enactment which makes specific provision to the like effect as the provisions of this section.
+
+## Part V — Planning Blight
+
+### Extension of classes of blighted land
+
+#### [^F185]64 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F186]65 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F187]66 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F188]67 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F189]68 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F190]69 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 70 Land affected by proposed exercise of powers under section 20.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F191]
+
+#### [^F192]71 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Attempts to sell blighted property.
+
+#### [^F193]72 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Blight notices by personal representatives
+
+#### [^F194]73 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Blight notices in respect of agricultural units
+
+#### [^F195]74 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F196]75 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F197]76 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Supplementary
+
+#### [^F198]77 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part VI — Supplementary Provisions
+
+### 78 Application to Crown.
+
+(1) Part I of this Act does not apply to any aerodrome in the occupation of a government department but, subject to that, references in that Part and in Part II of this Act to public works and responsible authorities include references to any works or authority which, apart from any Crown exemption, would be public works or a responsible authority.
+
+(2) Parts III and IV of this Act apply in relation to the acquisition of interests in land (whether compulsorily or by agreement) by government departments being authorities possessing compulsory purchase powers, as they apply in relation to the acquisition of interests in land by such authorities who are not government departments.
+
+### 79 Financial provisions.
+
+There shall be paid out of moneys provided by Parliament—
+
+(a) any expenses incurred under this Act by any government department;
+
+(b) any increase attributable to this Act in the sums payable out of such moneys under any other Act.
+
+### 80 General interpretation.
+
+(1) In this Act—
+
+- “agriculture”, “agricultural” and “agricultural land” have the meaning given in section 86 of the [^M80]Agriculture (Scotland) Act 1948, and references to the farming of land include references to the carrying on in relation to the land of any agricultural activities;
+- [[^F199]“agricultural holding” means the land comprised in a lease constituting a 1991 Act tenancy within the meaning of the Agricultural Holdings (Scotland) Act 2003 (asp 11), or the land comprised in a lease constituting a short limited duration tenancy [[^F200], a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy] (within the meaning of that Act); and “landlord” and “tenant”, in relation to an agricultural holding, have the same meaning as in section 85 of the Agricultural Holdings (Scotland) Act 1991 or (as the case may be) section 93 of the Agricultural Holdings (Scotland) Act 2003;]
+- “agricultural unit” has the meaning given in [[^F201]section 122 of the Town and Country Planning (Scotland) Act 1997];
+- “acquiring authority”, and “authority possessing compulsory purchase powers” have the same meaning as in the [^M81]Land Compensation (Scotland) Act 1963;
+- [[^F202]“aerodrome” has the same meaning as in the Civil Aviation Act 1982;]
+- [[^F203]“carriageway” has the same meaning as in the Roads (Scotland) Act 1984]
+- “cottar” has the same meaning as in section 28(4) of the [^M82]Crofters (Scotland) Act 1955;
+- “croft”, “crofter” and “landlord”, in relation to a croft, have the same meanings respectively as in the Crofters (Scotland) Act 1955;
+- “disabled person” means [[^F204]—
+
+(a)] a person in need under section 12 of the [^M83]Social Work (Scotland) Act 1968 as read with section 1 of the [^M84]Chronically Sick and Disabled Persons (Scotland) Act 1972[[^F205];and
+
+(b) a child in need within the meaning of section 93(4)(a)(iii) of the Children (Scotland) Act 1995];
+
+- “dwelling” means a building or part of a building occupied or (if not occupied) last occupied or intended to be occupied as a private house, and (except in section 27) includes any garden, yard, outhouses and appurtenances belonging to or usually enjoyed with that building or part;
+- “heritable security” means any security capable of being constituted over any interest in land by a disposition or assignation of that interest in security of any debt and of being recorded in the Register of Sasines;
+- “holding”, in relation to a landholder and a statutory small tenant, has the same meaning as in section 2(1) of the [^M85]Small Landholders (Scotland) Act 1911 and “landlord”, in relation to such a holding, has the same meaning as in the [^M86]Agricultural Holdings (Scotland) Act 1949;
+- [[^F206]“housing association” has the meaning assigned to it by [[^F207]the Housing Associations Act 1985];]
+- “landholder” has the same meaning as in section 2(2) of the Small Landholders (Scotland) Act 1911;
+- “Lands Tribunal” means the Lands Tribunal for Scotland;
+- [[^F208]“local roads authority” has the same meaning as in the Roads (Scotland) Act 1984]
+- [[^F209]“notice of intention to resume land”, in relation to a short limited duration tenancy or a limited duration tenancy within the meaning of the Agricultural Holdings (Scotland) Act 2003 (asp 11) means notice under section 17(2) of that Act;
+- “notice to quit”, in relation to a lease constituting a 1991 Act tenancy within the meaning of the Agricultural Holdings (Scotland) Act 2003 (asp 11), means a notice to quit within the meaning of the Agricultural Holdings (Scotland) Act 1991;]
+- “owner” has the same meaning as in section 45(1) of the [^M87]Land Compensation (Scotland) Act 1963;
+- [[^F206]“registered”, in relation to a housing association, means registered [[^F210]under the Housing Associations Act 1985];]
+- [[^F211]“road” has the same meaning as in the Roads (Scotland) Act 1984;]
+- [[^F212]“roads authority” has the same meaning as in the Roads (Scotland) Act 1984;]
+- “statutory small tenant” has the same meaning as in section 32(1) of the Small Landholders (Scotland) Act 1911.
+
+[[^F213](1A) Any reference in this Act to an “interest” in land shall be construed as a reference to a right in land and as including a reference to ownership of land.]
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F214].
+
+(3) Except where the context otherwise requires, references in this Act to any enactment are references to that enactment as amended, and include references to that enactment as extended or applied, by any other enactment, including this Act.
+
+### 81 Repeal of Land Compensation Act 1973 in relation to Scotland and reprinting of Act as it applies to England and Wales.
+
+(1) The [^M88]Land Compensation Act 1973 (except section 86 and Schedule 3) shall cease to apply to Scotland . . . [^F215]
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F216]
+
+### 82 Savings and transitional.
+
+(1) Notwithstanding the repeal of the Land Compensation Act 1973, in so far as anything done under that Act could have been done under a corresponding provision in this Act, it shall have effect as if done under that provision.
+
+(2) Notwithstanding the repeal of the said Act, section 3 of that Act (claims) shall have effect in relation to offences committed thereunder before the passing of this Act.
+
+(3) The inclusion in this section of any express savings shall not be taken as prejudicing the operation of [[^F217]sections 16(1) and 17(2)(a) of the [^M89]Interpretation Act 1978] (which relates to the effect of repeals).
+
+(4) Section 44 above does not affect any compensation which fell or falls to be assessed by reference to prices current on a date before 23rd May 1973, and the other provisions of Part IV of this Act relating to the assessment of compensation do not affect any compensation which fell or falls to be assessed by reference to prices current on a date before 17th October 1972.
+
+### 83 Short title and extent.
+
+(1) This Act may be cited as the Land Compensation (Scotland) Act 1973.
+
+(2) This Act, except section 81 and Schedule 2, extends to Scotland only.
+
+## SCHEDULE 1 — Application of Section 56 to Statutory Small Tenants
+
+*Section 56.*
+
+### Part I
+
+#### Modification of section 56
+
+Section 56 above shall apply to a statutory small tenant subject to the following modifications—
+
+(a) for any reference to a croft, crofter or section 12 of the [^M90]Crofters (Scotland) Act 1955 there shall be substituted respectively a reference to a holding, statutory small tenant or section 32(15) of the [^M91]Small Landholders (Scotland) Act 1911;
+
+(b) in subsection (1), for the words from “crofter” in paragraph (a) to “so required” in paragraph (b) there shall be substituted the words “statutory small tenant and resumption of the holding is authorised by an order of the Scottish Land Court under section 32(15) of the [^M92]Small Landholders (Scotland) Act 1911; and (b) the resumption is so authorised”;
+
+(c) in subsection (2), for the words “crofter required by such an order to surrender his croft” there shall be substituted the words “statutory small tenant, resumption of whose holding is authorised by such an order”;
+
+(d) in subsections (2) and (3), for the words “croft is required to be surrendered”, wherever they occur, there shall be substituted the words “holding is authorised to be resumed”;
+
+(e) in subsection (2)(a), after the words “year, etc.)” there shall be inserted the words “and section 12 of the [^M93]Agriculture (Miscellaneous Provisions) Act 1968” and for the words “the crofter had not been so required to surrender his croft” there shall be substituted the words “resumption of the holding had not been so authorised”;
+
+(f) for subsection (2)(b) there shall be substituted the following paragraph—
+
+> (b) any provision of the said section 32(15) relating to compensation to a statutory small tenant shall not have effect in relation to the resumption of the holding by reason of the order.
+
+;
+
+(g) in subsection (5), for the words “to surrender”, wherever they occur, there shall be substituted the words “authorising resumption of”.
+
+### Part II
+
+#### Section 56 as modified, in its application to statutory small tenants
+
+Resumption of holding of statutory small tenant: right to opt for notice of entry compensation.
+
+(1) This section has effect where—
+
+(a) the person in occupation of an agricultural holding is a statutory small tenant and resumption of the holding is authorised by an order of the Scottish Land Court under section 32(15) of the [^M94]Small Landholders (Scotland) Act 1911; and
+
+(b) the resumption is so authorised—
+
+(i) after an acquiring authority have served notice to treat on the landlord of the holding or, being an authority possessing compulsory purchase powers, have agreed to acquire his interest in the holding; and
+
+(ii) where the Court have been satisfied under the said section 32(15) that the landlord desires to resume the holding for a reasonable purpose which is a purpose other than an agricultural purpose.
+
+(2) If the statutory small tenant, resumption of whose holding is authorised by such an order, elects that this subsection shall apply to the order and gives up possession of the holding to the acquiring authority on or before the date on which the holding is authorised to be resumed in accordance with the order—
+
+(a) section 114 of the [^M95]Lands Clauses Consolidation (Scotland) Act 1845 (compensation for tenants from year to year, etc.) and section 12 of the [^M96]Agriculture (Miscellaneous Provisions) Act 1968 shall have effect as if resumption of the holding had not been so authorised and the acquiring authority had taken possession of the holding in pursuance of a notice of entry under paragraph 3 of Schedule 2 to the [^M97]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 on the day before that on which the holding is authorised to be resumed in accordance with the order; and
+
+(b) any provision of the said section 32(15) relating to compensation to a statutory small tenant shall not have effect in relation to the resumption of the holding by reason of the order.
+
+(3) No election under subsection (2) above shall be made or, if already made, continue to have effect in relation to any land to which such an order relates if, before the date on which the holding is authorised to be resumed in accordance with the order, an acquiring authority take possession of that land in pursuance of an enactment providing for the taking of possession of land compulsorily.
+
+(4) Any election under subsection (2) above shall be made by notice in writing served on the acquiring authority not later than the date on which possession of the holding is given up.
+
+(5) This section shall have effect in relation to an order authorising resumption of part of a holding as it has effect in relation to an order authorising resumption of an entire holding and references to a holding shall be construed accordingly.
+
+(6) The reference in subsection (1)(b)(i) above to a notice to treat served by an acquiring authority includes a reference to a notice to treat deemed to have been so served under any of the provisions mentioned in section 49(5) above.
+
+## SCHEDULE 2 — CONSEQUENTIAL REPEALS AND AMENDMENTS IN LAND COMPENSATION ACT 1973
+
+*Section 81.*
+
+### PART I — REPEALS
+
+Section 2(8).
+
+In section 3(5) the words “or the Lands Tribunal for Scotland” and “or expenses”.
+
+Section 4(6).
+
+Section 5(6).
+
+Section 6(7).
+
+Section 8(8).
+
+Section 10(5).
+
+Section 11(6).
+
+In section 16(1) the words “or, in Scotland. the Lands Tribunal for Scotland”.
+
+Section 18(2).
+
+In section 19, in subsection (1), in the definition of “highway” the words “in relation to England and Wales” and the words from “and, in relation to Scotland” onwards, and the definitions of “highway authority” and “land” ; and subsection (4).
+
+In section 20, in subsection (10) the words “or section 8 of the Development and Road Improvement Funds Act 1909” ; and in subsection (1 1) the words “and sections 24(4) and 29(a) of the Rent (Scotland) Act 1971”.
+
+Section 22(11).
+
+In section 23(1)(d) the words from “section 3” to “1970”.
+
+Section 24(6).
+
+In section 25 the words “or section 8 of the Development and Road Improvement Funds Act 1909”.
+
+In section 26(6) the words “or in Scotland a road” and the words from “or, as respects Scotland” onwards.
+
+In section 27(5) the words “or in Scotland a road”.
+
+Section 28(5).
+
+In section 29, in subsection (j), in paragraph (b) the words “, passing” and “, resolution” and, in the words following paragraph (c), the words “, passed the resolution” ; subsection (4)(c) ; in subsection (5) the words “or section 181 of the Town and Country Planning (Scotland) Act 1972” and “or section 11 of the New Towns (Scotland) Act 1968” ; in subsection (7) the word “, resolution” where it first occurs, in paragraphs (a) and (c) the words following “1969” and paragraph (b); and in subsection (8) the second paragraph.
+
+In section 30(1) the words “in England and Wales”.
+
+Section 31.
+
+Section 32(9).
+
+Section 34(7).
+
+In section 35, in subsection (7), in paragraph (a) the words “(or, in Scotland, an interest as owner thereof)” and in paragraph (c) the words “or section 12 of the Land Compensation (Scotland) Act 1963” ; and in subsection (9) the words “or, in Scotland, the Lands Tribunal for Scotland”.
+
+In section 36, in subsection (5) the words “or the Lands Tribunal for Scotland” and “or expenses” ; and in subsection (6) the words “or, in Scotland, section 40 of the Land Compensation (Scotland) Act 1963”.
+
+In section 37, in subsection (1), in paragraph (b) the words “, passing” and “, resolution” and in the words following paragraph (c), the words “, passed the resolution” ; in subsection (2), in paragraph (c), the word “, resolution” and, in the words following that paragraph the words “section 20 of the Housing (Scotland) Act 1966 or section 10 of the Housing (Scotland) Act 1969” and “or sections 18 to 20 of the Housing (Scotland) Act 1969” ; in subsection (3) the word “, resolution” where it first occurs and the words “, the resolution was passed” ; in subsection (6) the words “or, in Scotland, section 40 of the Land Compensation (Scotland) Act 1963”; subsection (8) ; and in subsection (9) the word “, resolution”.
+
+In section 38, in subsection (3)(a) the words “or having duties under section 12 of the Social Work (Scotland) Act 1968” ; and in subsection (4) the words “or, in Scotland, the Lands Tribunal for Scotland”.
+
+In section 39, in subsection (1), in paragraph (b) the words “, passing” and “, resolution” ; in subsection (2) the words “or section 181 of the Town and Country Planning (Scotland) Act 1972” ; subsection (4)(c) ; in subsection (5) the words “or paragraph 1 of Schedule 8 to the Housing (Scotland) Act 1966” ; in subsection (6) the word “, resolution” where it first occurs and the words “, the resolution was passed” ; in subsection (7) the words “or district” and “or that district under Part VII of the Housing (Scotland) Act 1966” ; and in subsection (9) the word “, resolution”.
+
+Section 41 (11).
+
+In section 42, in subsection (1)(b) the words “or Part VII of the Housing (Scotland) Act 1966” ; in subsection (2) the words “or a house provided by them under Part \*VII of the said Act of 1966”, “or (in Scotland) a house to which the housing revenue account relates not so provided”, “or the said Part VII” and “or house” ; and in subsection (6) the words “or, in relation to Scotland, the Housing (Financial Provisions) (Scotland) Act 1972”.
+
+Section 44(3).
+
+Section 46(8).
+
+Section 48(7).
+
+Section 49.
+
+In section 50(4) the words “or Schedule 24 to the Town and Country Planning (Scotland) Act 1972”.
+
+Section 51(7).
+
+Section 52(13).
+
+In section 53, in subsection (5) the words “or sections 169 to 177 of the Town and Country Planning (Scotland) Act 1972” and “or Schedule 24 to the said Act of 1972” ; and in subsection (6) the words “sections 91 and 92 of the Lands Clauses Consolidation (Scotland) Act 1845”.
+
+Section 54(9).
+
+Section 55(5).
+
+Section 56(5).
+
+Section 57(4), (5) and (6).
+
+Section 58(3).
+
+Section 59(8).
+
+Section 60.
+
+Section 61(6).
+
+Section 62.
+
+Section 63(2).
+
+In section 64 the words “and paragraph 15 of Schedule 1 to the Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947”.
+
+Sections 65 to 67.
+
+Section 83.
+
+In section 87, in subsection (1), in the definitions of “agriculture”, “agricultural” and “agricultural land” the words “or, in relation to Scotland, section 86 of the Agriculture (Scotland) Act 1948” , in the definition of “agricultural holding” the words “or, in relation to Scotland, section 1 of the Agricultural Holdings (Scotland) Act 1949”, in the definition of “agricultural unit” the words from “or, in relation to Scotland” onwards, in the definitions of “acquiring authority”and “authority possessing compulsory purchase powers” the words from “or, in relation to Scotland” onwards, the definitions of “cottar” and of “croft”, “crofter” and “landlord” in relation to a croft, in the definition of “disabled person” the words from “or, in relation to Scotland” onwards, in the definition of “dwelling” the words “or, in relation to Scotland, a private house”, the definitions of “heritable security”, “holding”, “landholder”, “owner”, “road” and “statutory small tenant” and in the definition of “tenancy” the words “in relation to England and Wales and” ; and in subsection (3) the words from “or, in relation to Scotland” onwards.
+
+Schedules 1 and 2.
+
+### PART II — AMENDMENTS
+
+In section 16(2) for the words “either of those Tribunals” there shall be substituted the words “ the Tribunal ”.
+
+In section 23(1)(d) after “1959” there shall be inserted the word “ or ”.
+
+In section 29(7)(a) and (c) after “1957” there shall be inserted the word “ or ”.
+
+[^F218]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+In section 37(2) after “1957” where it occurs for the second time there shall be inserted the word “ or ”.
+
+In section 87(1), in the definition of “agricultural holding”, for the words “these Acts respectively” there shall be substituted the words “ that Act ”.
+
+In section 89(4) there shall be added at the end the words “ and, except section 86 and Schedule 3, does not extend to Scotland ”.
+
+---
+
+[^F1]: Words substituted by Local Government, Planning and Land Act 1980 (c. 65), s. 112(3)(9) except in cases where the relevant date was more than 3 years before 13.11.1980
+[^F2]: Word substituted by Roads (Scotland) Act 1984 (c. 54, SIF 108), s. 156(1), Sch. 9 para. 72(2)(3)
+[^F3]: Words substituted by Roads (Scotland) Act 1984 (c. 54, SIF 108), Sch. 9 para. 72(2)(3)
+[^F4]: Word substituted by Roads (Scotland) Act 1984 (c. 54, SIF 108), s. 156(1), Sch. 9 para. 72(2)(3)
+[^F5]: Words substituted by Civil Aviation Act 1982 (c. 16, SIF 9), s 109, Sch. 15 para. 14(1)
+[^F6]: Words in s. 2(6) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 21(1)
+[^F7]: Words substituted by Local Government, Planning and Land Act 1980 (c. 65), s. 112(2)(9) except in cases where the relevant date was more than 3 years before 13.11.1980
+[^F8]: Words substituted by Local Government, Planning and Land Act 1980 (c. 65), s. 112(4)(9) except in cases where the relevant date was more than 3 years before 13.11.1980
+[^F9]: Words substituted by virtue of Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1), ss. 289F, 289G
+[^F10]: Words substituted by Local Government, Planning and Land Act 1980 (c. 65), s. 112(4)(9) except in cases where the relevant date was more than 3 years before 13.11.1980
+[^M1]: 1965 c. 16.
+[^F11]: Words inserted by Airports Authority Act 1975 (c. 78), Sch. 5 Pt. II para. 6
+[^M2]: 1971 c. 75.
+[^F12]: Words inserted by Civil Aviation Act 1982 (c. 16, SIF 9), s. 109, Sch. 15 para. 14(2)
+[^F13]: Words inserted by Civil Aviation Act 1980 (c. 60), s. 20(2)(a)
+[^F14]: Para. added by Civil Aviation Act 1980 (c. 60), s. 20(2)(a)
+[^M3]: 1963 c. 51.
+[^F15]: S. 5(3) substituted (25.9.1991) for s. 5(2) by Planning and Compensation Act 1991 (c. 34, SIF 28:2),s. 60(6), Sch. 12 para. 5(1)(a) (with s. 84(5)); S.I. 1991/2092, art. 3
+[^F16]: By 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 21(2)(a)(i) it is provided (27.5.1997) that in s. 5(2)(a) for “Schedule 16 to the Town and Country Planning (Scotland) Act 1972” and “paragraph 1 of Schedule 6” there is substituted respectively “Schedule 12 to the Town and Country Planning (Scotland) Act 1997” and “paragraph 1 of Schedule 11”
+[^F17]: By 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 21(2)(a)(ii) it is provided (27.5.1997) that in s. 5(2)(b) for “paragraph 2 of Schedule 6” there is substituted “paragraph 2 of Schedule 11” in s. 5(3)(b)
+[^F18]: S. 5(3)(a)(b) repealed (25.9.1991) (subject to limitation referred to in S.I. 1991/2092, art. 4(2), Sch. 2, Pt. II) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 60(6), Sch. 12 para. 5(1)(b), Sch. 19 Pt. IV (with s. 84(5)); S.I. 1991/2092, art. 3
+[^F19]: Words in s. 5(3)(c) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 21(2)(b)
+[^F20]: Words in s. 5(5) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 21(2)(c)
+[^M4]: 1963 c. 51.
+[^M5]: 1845 c. 19.
+[^F21]: Word substituted by Roads (Scotland) Act 1984 (c. 54, SIF 108), s. 156(1), Sch. 9 para. 72(2)(3)
+[^M6]: 1845 c. 19.
+[^F22]: S. 12 repealed by Local Government, Planning and Land Act 1980 (c. 65), Sch. 34 Pt. XII
+[^F23]: Word substituted by Roads (Scotland) Act 1984 (c. 54, SIF 108), s. 156(1), Sch. 9 para. 72(2)(3)
+[^F24]: Words substituted by Local Government, Planning and Land Act 1980 (c. 65), s. 112(4)(9) except in cases where the relevant date was more than 3 years before 13.11.1980
+[^M7]: 1963 c. 51.
+[^F25]: Words substituted by Local Government, Planning and Land Act 1980 (c. 65), s. 112(4)(9) except in cases where the relevant date was more than 3 years before 13.11.1980
+[^F26]: Words substituted by Local Government, Planning and Land Act 1980 (c. 65), s. 112(3)(9) except in cases where the relevant date was more than 3 years before 13.11.1980
+[^F27]: Words substituted by Roads (Scotland) Act 1984 (c. 54, SIF 108), s. 156(1), Sch. 9 para. 72(2)(3)
+[^F28]: Definition repealed by Local Government, Planning and Land Act 1980 (c. 65), s. 112(5)(9), Sch. 34 Pt. XII except in cases where the relevant date was more than 3 years before 13.11.1980
+[^F29]: Definition inserted by Local Government, Planning and Land Act 1980 (c. 65), s. 112(5)(9) except in cases where the relevant date was more than 3 years before 13.11.1980
+[^F30]: Definitions of “highway” and “highway authority” repealed by Roads (Scotland) Act 1984 (c. 54, SIF 108), s. 156(1), Sch. 9 para. 72(2)–(4), Sch. 11
+[^F31]: S. 17(2A) inserted by Local Government, Planning and Land Act 1980 (c. 65), s. 112(7)(9) except in cases where the relevant date was more than 3 years before 13.11.1980
+[^M8]: 1973 c. 52.
+[^F32]: Words repealed by Local Government, Planning and Land Act 1980 (c. 65), s. 112(8)(9), Sch. 34 Pt. XII except in cases where the relevant date was more than 3 years before 13.11.1980
+[^F33]: Words substituted by Roads (Scotland) Act 1984 (c. 54, SIF 108), s. 156(1), Sch. 9 para. 72(5)
+[^F34]: Words substituted by Roads (Scotland) Act 1984 (c. 54, SIF 108), s. 156(1), Sch. 9 para. 72(2)(3)
+[^M9]: 1971 c. 28
+[^M10]: 1965 c. 16
+[^M11]: 1967 c. 76.
+[^F35]: S. 18A inserted (25.9.1991) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 79, Sch. 17 Pt. I para.13(1)(2) (with s. 84(5)); S.I. 1991/2092, art. 3
+[^F36]: S. 19 repealed by Airports Authority Act 1975 (c. 78), Sch. 6
+[^F37]: Ss. 20–23 repealed by Roads (Scotland) Act 1984 (c. 54, SIF 108), Sch. 11
+[^F38]: Word in s. 24(2) substituted (25.9.1991) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 79, Sch. 17, Pt. II, para. 19(a) (with s. 84(5)); S.I. 1991/2092, art. 3
+[^F39]: S. 24(2A)-(2C) inserted (25.9.1991) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 76(1) (with s. 84(5)); S.I. 1991/2092, art. 3
+[^F40]: Words in s. 24(2A) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 21(3)(a)
+[^F41]: Words in s. 24(2B) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 21(3)(b)
+[^F42]: Words in s. 24(5) substituted (25.9.l991) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 79, Sch. 17, Pt. II para. 19(b) (with s. 84(5)); S.I. 1991/2092, art. 3
+[^F43]: Words in s. 24(6) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 21(3)(c)
+[^F44]: Words in s. 24(6) added (28.12.2007) by Transport and Works (Scotland) Act 2007 (asp 8), ss. 19(7)(a), 30(4); S.S.I. 2007/516, art. 2
+[^F45]: Words in s. 24(6) inserted (3.2.2011) by Forth Crossing Act 2011 (asp 2), ss. 23(2)(a), 80(2) (with ss. 69, 78); S.S.I. 2011/38, art. 2, sch.
+[^F46]: Words in s. 25(5) added (28.12.2007) by Transport and Works (Scotland) Act 2007 (asp 8), ss. 19(7)(b), 30(4); S.S.I. 2007/516, art. 2
+[^F47]: Words in s. 25(5) inserted (3.2.2011) by Forth Crossing Act 2011 (asp 2), ss. 23(2)(b), 80(2) (with ss. 69, 78); S.S.I. 2011/38, art. 2, sch.
+[^F48]: Words substituted by Roads (Scotland) Act 1984 (c. 54, SIF 108), s. 156(1), Sch. 9 para. 72(2)(3)
+[^F49]: S. 26(4)(*a*) repealed by Roads (Scotland) Act 1984 (c. 54, SIF 108), s. 156(1), Sch. 9 para. 72(6), Sch. 11
+[^F50]: Words inserted by Housing Act 1974 (c. 44), s. 130, Sch. 13 para. 42(1)(a)
+[^F51]: S. 27(1)(d) substituted by Housing Rents and Subsidies (Scotland) Act 1975 (c. 28), Sch. 3 para. 9(1)
+[^F52]: S. 27(1)(e) inserted by Housing (Financial Provisions) (Scotland) Act 1978 (c. 14), Sch. 2 para. 12(a)(i)
+[^F53]: Words in s. 27(1)(e) substituted (1.5.2005) by Building (Scotland) Act 2003 (asp 8), s. 59(1), sch. 6 para. 7(2)(a) (with s. 53); S.S.I. 2004/404, art. 2(1)
+[^M12]: 1959 c. 24.
+[^F54]: Words in s. 27(1)(e) substituted (1.5.2005) by Building (Scotland) Act 2003 (asp 8), s. 59(1), sch. 6 para. 7(2)(b) (with s. 53); S.S.I. 2004/404, art. 2(1)
+[^F55]: S. 27(1)(*f*) inserted by Housing (Scotland) Act 1986 (c. 65, SIF 61), s. 20(2)(*a*)
+[^F56]: Words in s. 27(1)(f) substituted (30.9.2002) by 2001 asp 10, s. 112, Sch. 10 para. 3(a); S.S.I. 2002/321, art. 2, Sch. (subject to transitional provisions and savings in arts. 3-5)
+[^F57]: Paras. (i) to (iv) substituted for words by Housing Act 1974 (c. 44), s. 130, Sch. 13 para. 42(1)(b)
+[^F58]: Words in s. 27(1)(ii) and 'and' following para. (iii) repealed (25.9.1991) (subject to limitation referred to in S.I. 1991/2092, art. 4(2), Sch. 2 Pt. II) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 79, 84(6), Sch. 17, Pt.II, para. 20(2), Sch. 19, Pt. IV (with s. 84(5)); S.I. 1991/2092, art. 3
+[^F59]: Word after s. 27(1)(iv) inserted (25.9.1991) (subject to limitation referred to in S.I. 1991/2092, art. 4(2), Sch. 2, Pt. II) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 79, Sch. 17, Pt. II, para. 20(2)(c) (with s. 84(5)); S.I. 1991/2092, art. 3
+[^F60]: Para. (v) added by Housing (Financial Provisions) (Scotland) Act 1978 (c. 14), Sch. 2 para. 12(a)(ii)
+[^F61]: S. 27(1)(vi) inserted by Housing (Scotland) Act 1986 (c. 65, SIF 61), s. 20(2)(*b*)
+[^F62]: S. 27(2) substituted (25.9.1991) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 71(1)(9) (with s. 84(5)); S.I. 1991/2092, art. 3
+[^F63]: S. 27(3A) inserted by Housing Act 1974 (c. 44), s. 130, Sch. 13 para. 42(2)
+[^F64]: Word inserted by Housing (Financial Provisions) (Scotland) Act 1978 (c. 14), Sch. 2 para. 12(b)(i)
+[^F65]: Words inserted by Housing (Financial Provisions) (Scotland) Act 1978 (c. 14), Sch. 2 para. 12(b)(ii)
+[^F66]: Words added by Housing (Financial Provisions) (Scotland) Act 1978 (c. 14), Sch. 2 para. 12(b)(iii)
+[^F67]: S. 27(4)(b) substituted (25.9.1991) (subject to limitation referred to in S.I. 1991/ 2092, art. 4(2), Sch. 2, Pt. II) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 79, Sch. 17, Pt. II, para. 20(3) (with s. 84(5); S.I. 1991/2092, art. 3
+[^F68]: S. 27(4)(bb) inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72(2), Sch. 9 para. 1
+[^F69]: S. 27(5) repealed (25.9.1991) (subject to limitation referred to in S.I. 1991/2092, art. 4(2), Sch. 2, Pt. II) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), ss. 71(2)(9), 84(6), Sch. 19, Pt. IV (with s. 84(5); S.I. 1991/2092, art. 3
+[^F70]: Words substituted by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339(2), Sch. 23 para. 19(2)
+[^F71]: Words added by Housing (Financial Provisions) (Scotland) Act 1978 (c. 14), Sch. 2 para. 39
+[^F72]: Words in s. 27(7)(a) substituted (1.4.2009) by Housing (Scotland) Act 2006 (asp 1), s. 195(3), sch. 6 para. 3(a) (with s. 193); S.S.I. 2009/122, art. 3 (with art. 7)
+[^F73]: Words substituted by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339(2), Sch. 23 para. 19(2)(*b*)
+[^F74]: Words repealed by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339(2), Sch. 23 para. 19(2)(*b*)
+[^F75]: Words in s. 27(7)(b)(c) inserted (1.4.2009) by Housing (Scotland) Act 2006 (asp 1), s. 195(3), sch. 6 para. 3(b) (with s. 193); S.S.I. 2009/122, art. 3 (with art. 7)
+[^F76]: Word repealed by Housing (Scotland) Act 1974 (c. 45), Sch. 5
+[^F77]: Words substituted by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339(2), Sch. 23 para. 19(2)(*c*)
+[^F78]: Words repealed by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339(2), Sch. 23 para. 19(2)(*c*)
+[^F79]: S. 27(7)(*d*) inserted by Housing (Scotland) Act 1974 (c. 45, SIF 61), Sch. 3 para. 48
+[^F80]: S. 27(7)(d) substituted (1.4.2009) by Housing (Scotland) Act 2006 (asp 1), s. 195(3), sch. 6 para. 3(c) (with s. 193); S.S.I. 2009/122, art. 3 (with art. 7)
+[^F81]: Words repealed by Housing Act 1974 (c. 44), s. 130, Sch. 15
+[^F82]: S. 27(7A) inserted by Housing Act 1974 (c. 44), s. 130, Sch. 13 para. 42(3)
+[^F83]: Words inserted by Housing Rents and Subsidies (Scotland) Act 1975 (c. 28), Sch. 3 para. 9(3)
+[^F84]: Words added by Housing (Financial Provisions) (Scotland) Act 1978 (c. 14, SIF 61), Sch. 2 para. 12(*c*)
+[^M13]: 1978 c. 14.
+[^F85]: S. 27A inserted (25.9.1991) (subject to limitation referred to in S.I. 1991/2092, art. 4(1), Sch. 2 Pt. II) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 72 (with s. 84(5)); S.I. 1991/2092, art. 3
+[^M14]: 1981 c. 59.
+[^F86]: S. 28 substituted (25.9.1991) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 71(3) (with s. 84(5)); S.I. 1991/2092, art.3
+[^F87]: S. 29(1)-(3A) substituted (25.9.1991) for s. 29(1)-(3) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 71(4)(9) (with s. 84(5)); S.I. 1991/2092, art. 3
+[^F88]: Words substituted by Local Government, Planning and Land Act 1980 (c. 65), s. 114(3)(6) except in cases where the date of displacement was more than 6 months before 13.11.1980
+[^F89]: Words in s. 29(4) substituted (25.9.1991) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 71(5)(9) (with s. 84(5)); S.I. 1991/2092, art. 3
+[^F90]: Words in s. 29(5) substituted (25.9.1991) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 71(6)(9) (with s. 84(5)); S.I. 1991/2092, art. 3
+[^F91]: Words in s. 29(7)(7AA) inserted (25.9.1991) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 71(7)(9) (with s. 84(5)); S.I. 1991/2092, art. 3
+[^F92]: S. 29(7A) inserted by Local Government, Planning and Land Act 1980 (c. 65), s. 114(5)(6) except in cases where the date of displacement was more than 6 months before 13.11.1980
+[^F93]: S. 29(7AA) inserted by Housing (Scotland) Act 1986 (c. 65, SIF 61), s. 20(3)
+[^F94]: Words in s. 29(7AA) substituted (30.9.2002) by 2001 asp 10, s. 112, Sch. 10 para. 3(b)(i); S.S.I. 2002/321, art. 2, Sch. (subject to transitional provisions and savings in arts. 3-5)
+[^F95]: Word in s. 29(7AA) substituted (30.9.2002) by 2001 asp 10, s. 112, Sch. 10 para. 3(b)(ii); S.S.I. 2002/321, art. 2, Sch. (subject to transitional provisions and savings in arts. 3-5)
+[^F96]: S. 29(8) repealed by Local Government, Planning and Land Act 1980 (c. 65), Sch. 34 Pt. XII
+[^F97]: Words in s. 30(2) inserted (25.9.1991) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 71(8)(a)(9) (with s. 84(5)); S.I. 1991/2092, art. 3
+[^F98]: Words in s. 30(3) substituted (25.9.1991) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 71(8)(b)(9) (with s. 84(5)); S.I. 1991/2092, art.3
+[^F99]: S. 30(4) (which was repealed (1.4.1989) by S.I. 1989/47, reg. 3) is expressed to be substituted (25.9.1991) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 71(8)(c)(9) (with s. 84(5)); S.I. 1991/2092, art. 3
+[^F100]: S. 30(5)(a) substituted (25.9.1991) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 71(8)(d)(9) (with s. 84(5)); S.I. 1991/2092, art. 3
+[^F101]: Words in s. 30(5)(c) substituted (25.9.1991) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 71(8)(9) (with s. 84(5)); S.I. 1991/2092, art. 3
+[^F102]: S. 31(1)(a) substituted (25.9.1991) (subject to limitation referred to in S.I. 1991/2092, art. 4(1), Sch. 2, Pt.I) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 79, Sch. 17, Pt. I, para. 14(2) (with s. 84(5)); S.I. 1991/2092, art. 3
+[^F103]: Words in s. 31(2) substituted (25.9.1991) (subject to limitation referred to in S.I. 1991/2092, art. 4(1), Sch. 2, Pt. I) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 79, Sch. 17, Pt. I, para. 14(3)(a) (with s. 84(5)); S.I. 1991/2092, art.3
+[^F104]: Words in s. 31(2) inserted (25.9.1991) (subject to limitation referred to in S.I. 1991/2092, art. 4(1), Sch. 2, Pt. I) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 79, Sch. 17, Pt. I, para. 14(3)(b) (with s. 84(5)); S.I. 1991/2092, art.3
+[^F105]: S. 31(2A) inserted (25.9.1991) (subject to limitation referred to in S.I. 1991/2092, art. 4(1), Sch. 2, Pt. I) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 79, Sch. 17, Pt. I, para. 14(4) (with s. 84(5)); S.I. 1991/2092, art. 3
+[^F106]: Words in s. 31(3)(a) added (25.9.1991) (subject to limitation referred to in S.I. 1991/2092, art. 4(1), Sch. 2, Pt. I) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 79, Sch. 17, Pt. I para. 14(5) (with s. 84(5)); S.I. 1991/2092, art. 3
+[^F107]: S. 31(3)(c) substituted (27.11.2003) by The Agricultural Holdings (Consequential Amendments) (Scotland) Order 2003 (S.S.I. 2003/583), art. 1, sch. para. 8(a)
+[^F108]: Words in s. 31(3)(c)(i) substituted (30.11.2017) by The Land Reform (Scotland) Act 2016 (Supplementary, Consequential, Transitory and Saving Provisions) Regulations 2017 (S.S.I. 2017/416), reg. 1(1), sch. 1 para. 2(2) (with sch. 2 para. 2(a))
+[^M15]: 1968 c. 34.
+[^F109]: S. 31(6) repealed (25.9.1991) (subject to limitation referred to in S.I. 1991/2092, art. 4(1), Sch. 2, Pt.I) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), ss.79, 84(6), Sch. 17, Pt. I, para. 14(6), Sch. 19, Pt.IV (with s. 84(5)); S.I. 1991/2092, art. 3
+[^M16]: 1963 c. 51.
+[^M17]: 1963 c. 51.
+[^F110]: Words inserted by Housing Act 1974 (c. 44), s. 30, Sch. 13 para. 43(1)(a)
+[^F111]: S. 34(1)(d) substituted by Housing Rents and Subsidies (Scotland) Act 1975 (c. 28), Sch. 3 para. 10(1)
+[^F112]: S. 34(1)(e) inserted by Housing (Financial Provisions) (Scotland) Act 1978 (c. 14), Sch. 2 para. 13(a)(i)
+[^F113]: Words in s. 34(1)(e) substituted (1.5.2005) by Building (Scotland) Act 2003 (asp 8), s. 59(1), sch. 6 para. 7(3)(a) (with s. 53); S.S.I. 2004/404, art. 2(1)
+[^M18]: 1959 c. 24.
+[^F114]: Words in s. 34(1)(e) substituted (1.5.2005) by Building (Scotland) Act 2003 (asp 8), s. 59(1), sch. 6 para. 7(3)(b) (with s. 53); S.S.I. 2004/404, art. 2(1)
+[^F115]: Paras. (i) to (iv) substituted for words by Housing Act 1974 (c. 44), s. 130, Sch. 13 para. 43(1)(c)
+[^F116]: Para. (v) added by Housing (Financial Provisions) (Scotland) Act 1978 (c. 14), Sch. 2 para. 13(a)(ii)
+[^F117]: S. 34(2)(d) added by Housing Rents and Subsidies (Scotland) Act 1975 (c. 28), Sch. 3 para. 10(2)
+[^M19]: 1974 c. 44.
+[^F118]: Words substituted by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339(2), Sch. 23 para. 19(4)
+[^F119]: Words in s. 34(2) repealed (1.4.2010) by Housing (Scotland) Act 2006 (asp 1), s. 195(3), sch. 7 (with s. 193); S.S.I. 2009/122, art. 3
+[^F120]: Words substituted by Housing Act 1974 (c. 44), s. 130, Sch. 13 para. 43(2)
+[^F121]: Words substituted by Housing (Financial Provisions) (Scotland) Act 1978 (c. 14), Sch. 2 para. 13(b)
+[^F122]: S. 34(3) inserted by Housing Act 1974 (c. 44), s. 130, Sch. 13 para. 43(3)
+[^F123]: Word inserted by Housing (Financial Provisions) (Scotland) Act 1978 (c. 14), Sch. 2 para. 13(c)(i)
+[^F124]: Words inserted by Housing (Financial Provisions) (Scotland) Act 1978 (c. 14), Sch. 2 para. 13(c)(ii)
+[^F125]: Words added by Housing (Financial Provisions) (Scotland) Act 1978 (c. 14), Sch. 2 para. 13(c)(iii)
+[^M20]: 1963 c. 51.
+[^M21]: 1972 c. 46.
+[^F126]: Word inserted by Housing Act 1974 (c. 44), s. 130, Sch. 13 para. 43(4)
+[^F127]: Words inserted by Housing Rents and Subsidies (Scotland) Act 1975 (c. 28), Sch. 3 para. 10(3)
+[^F128]: Words added by Housing (Financial Provisions) (Scotland) Act 1978 (c. 14), Sch. 2 para. 13(d)
+[^M22]: 1978 c. 14.
+[^M23]: 1968 c. 49.
+[^F129]: Words in s. 35(3)(a) inserted (1.4.1997) by 1995 c. 36, s. 105(4), Sch. 4 para. 21(2) (with Sch. 3 paras. 4, 6); S.I. 1996/3201, art. 3(7)
+[^F130]: Words inserted by Housing Act 1974 (c. 44), s. 130, Sch. 13 para. 44(1)
+[^F131]: S. 36(1)(d) inserted by Housing (Financial Provisions) (Scotland) Act 1978 (c. 14), Sch. 2 para. 14(a)
+[^F132]: Words in s. 36(1)(d) substituted (1.5.2005) by Building (Scotland) Act 2003 (asp 8), s. 59(1), sch. 6 para. 7(4)(a) (with s. 53); S.S.I. 2004/404, art. 2(1)
+[^M24]: 1959 c. 24.
+[^F133]: Words in s. 36(1)(d) substituted (1.5.2005) by Building (Scotland) Act 2003 (asp 8), s. 59(1), sch. 6 para. 7(4)(b) (with s. 53); S.S.I. 2004/404, art. 2(1)
+[^F134]: Words in s. 26(2) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 21(4)
+[^F135]: Words added by Housing Act 1974 (c. 44), s. 130, Sch. 13 para. 44(2)
+[^M25]: 1968 c. 31.
+[^F136]: Words in s. 36(4)(b) repealed (1.4.2010) by Housing (Scotland) Act 2006 (asp 1), s. 195(3), sch. 7 (with s. 193); S.S.I. 2009/122, art. 3
+[^M26]: 1966 c. 49.
+[^F137]: Word inserted by Housing Act 1974 (c. 44), s. 130, Sch. 13 para. 44(3)
+[^F138]: Words substituted by Housing (Financial Provisions) (Scotland) Act 1978 (c. 14), Sch. 2 para. 14(b)
+[^F139]: Words substituted by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339(2), Sch. 23 para. 19(5)(b)
+[^M27]: 1987 c. 49.
+[^F140]: Word inserted by Housing Act 1974 (c. 44), s. 130, Sch. 13 para. 44(4)
+[^F141]: Words substituted by Housing (Scotland) Act 1974 (c. 45), s. 50, Sch. 3 para. 50
+[^M28]: 1987 c. 45.
+[^F142]: Words substituted by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339(2), Sch. 23 para. 19(6)
+[^M29]: 1955 c. 21.
+[^M30]: 1961 c. 58.
+[^F143]: Words substituted by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339(2), Sch. 23 para. 19(7)(a)
+[^M31]: 1987 c. 26.
+[^F144]: Words substituted by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339(2), Sch. 23 para. 19(7)(b)
+[^F145]: Words substituted by Housing Act 1974 (c. 44), s. 130, Sch. 13 para. 45(1)
+[^F146]: Words substituted by Housing Act 1974 (c. 44), s. 130, Sch. 13 para. 45(2)
+[^M32]: 1845 c. 19.
+[^F147]: Words substituted by Gas Act 1986 (c. 44, SIF 44:2), s. 67, Sch. 7 para. 16(1)
+[^M33]: 1845 c. 19.
+[^F148]: Words in s. 43(2) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 21(5)
+[^F149]: Words in s. 44(2)(a)(i) substituted (25.09.1991) by Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3), ss. 88(1), 89(2), Sch. 11 para. 34(a) (with s. 45(3), Sch. 12 para. 3).
+[^F150]: Words in s. 44(2)(a)(ii) substituted (25.09.1991) by Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3), ss. 88(1), 89(2), Sch. 11 para. 34(b)(i) (with s. 45(3), Sch. 12 para. 3).
+[^F151]: Words in s. 44(2)(a)(ii) substituted (25.09.1991) by Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3), ss. 88(1), 89(2), Sch. 11 para. 34(b)(ii) (with s. 45(3), Sch. 12 para. 3).
+[^F152]: S. 44(2)(aa) inserted (27.11.2003) by The Agricultural Holdings (Consequential Amendments) (Scotland) Order 2003 (S.S.I. 2003/583), art. 1, sch. para. 8(b)(i)
+[^F153]: Words in s. 44(3)(a) substituted (25.09.1991) by Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3), ss. 88(1), 89(2), Sch. 11 para. 34(c) (with s. 45(3), Sch. 12 para. 3).
+[^F154]: Words in s. 44(3)(a) inserted (27.11.2003) by The Agricultural Holdings (Consequential Amendments) (Scotland) Order 2003 (S.S.I. 2003/583), art. 1, sch. para. 8(b)(ii)
+[^F155]: Words in s. 44(4) substituted (25.09.1991) by Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3), ss. 88(1), 89(2), Sch. 11 para. 34(d) (with s. 45(3), Sch. 12 para. 3).
+[^F156]: Words in s. 44(4) inserted (27.11.2003) by The Agricultural Holdings (Consequential Amendments) (Scotland) Order 2003 (S.S.I. 2003/583), art. 1, sch. para. 8(b)(iii)
+[^M34]: 1955 c. 21.
+[^M35]: 1955 c. 21.
+[^M36]: 1886 c. 29.
+[^M37]: 1911 c. 49.
+[^F157]: Words in s. 46(4) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 21(6)
+[^M38]: 1968 c. 16.
+[^M39]: 1963 c. 51.
+[^F158]: Words in s. 47(6)(b) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 21(7)
+[^F159]: S. 48(4A)(5) substituted (25.9.1991) for s. 48(5) (subject to limitation referred to in S.I. 1991/ 2092, art. 4(1), Sch. 2 Pt.I) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 73(1) (with s. 84(5)); S.I. 1991/2092, art.3
+[^F160]: Words in s. 48(8) inserted (25.9.1991) (subject to limitation referred to in S.I. 1991/2092, art. 4(1), Sch. 2 Pt.I) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 79, Sch. 17, Pt. II, para. 21(a) (with s. 84(5)); S.I. 1991/2092, art.3
+[^M40]: 1845 c. 19.
+[^F161]: S. 48(9)(b) repealed (25.9.1991) and preceding word omitted (25.9.1991) (subject to limitation referred to in S.I. 1991/2092, art. 4(1), Sch. 2, Pt. I) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), ss. 79, 84(6), Sch. 17, Pt. II, para. 21(b), Sch. 19 Pt.IV (with s. 84(5)); S.I. 1991/2092, art. 3
+[^F162]: S. 48A inserted (25.9.1991) (subject to limitation referred to in S.I. 1991/2092, art. 4(1), Sch. 2 Pt.I) by Planning and Compensation Act 1991 (c. 34, SIF 28:2), s. 73(2) (with s. 84(5)); S.I. 1991/2092, art. 3
+[^M41]: 1947 c. 42.
+[^M42]: 1845 c. 19.
+[^M43]: 1963 c. 51.
+[^M44]: 1845 c. 19.
+[^M45]: 1947 c. 42.
+[^M46]: 1845 c. 19.
+[^F163]: Words in s. 49(4) inserted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 21(8)(a)
+[^F164]: Words in s. 49(5) repealed (27.5.1997) by 1997 c. 11, ss. 3, 4, 6(2), Sch. 1 Pt. I, Sch. 2 para. 21(8)(b)(i) (with s. 5, Sch. 3)
+[^F165]: Words in s. 49(5) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 21(8)(b)(ii)
+[^M47]: 1845 c. 19.
+[^M48]: 1963 c. 51.
+[^M49]: 1845 c. 19.
+[^M50]: 1947 c. 42.
+[^F166]: Words in s. 51(1) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 21(9)
+[^F167]: Words in s. 52(3)(d) substituted (25.09.1991) by Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3), ss. 88(1), 89(2), Sch. 11 para. 35(a) (with s. 45(3), Sch. 12 para. 3).
+[^F168]: Words in s. 52(3)(d) inserted (27.11.2003) by The Agricultural Holdings (Consequential Amendments) (Scotland) Order 2003 (S.S.I. 2003/583), art. 1, sch. para. 8(c)
+[^M51]: 1955 c. 21.
+[^M52]: 1961 c. 58.
+[^F169]: Words in s. 52(4) substituted (25.09.1991) by Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3), ss. 88(1), 89(2), Sch. 11 para. 35(b) (with s. 45(3), Sch. 12 para. 3).
+[^M53]: 1845 c. 19.
+[^M54]: 1947 c. 42.
+[^M55]: 1968 c. 16.
+[^M56]: 1947 c. 42.
+[^F170]: Words substituted by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339(2), Sch. 23 para. 19(8)
+[^M57]: 1987 c. 26.
+[^F171]: Words in s. 54(1) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 21(10)
+[^F172]: Words substituted by Gas Act 1986 (c. 44, SIF 44:2), s. 67(1), Sch. 7 para. 16(2)
+[^F173]: Words in s. 55(1) inserted (27.11.2003) by The Agricultural Holdings (Consequential Amendments) (Scotland) Order 2003 (S.S.I. 2003/583), art. 1, sch. para. 8(d)(i)
+[^F174]: S. 55(1)(b) substituted (25.09.1991) by Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3), ss. 88(1), 89(2), Sch. 11 para. 36 (with s. 45(3), Sch. 12 para. 3).
+[^F175]: Words in s. 55(1)(b) inserted (27.11.2003) by The Agricultural Holdings (Consequential Amendments) (Scotland) Order 2003 (S.S.I. 2003/583), art. 1, sch. para. 8(d)(ii)
+[^F176]: Words in s. 55(2) inserted (27.11.2003) by The Agricultural Holdings (Consequential Amendments) (Scotland) Order 2003 (S.S.I. 2003/583), art. 1, sch. para. 8(d)(iii)
+[^M58]: 1845 c. 19.
+[^F177]: Words in s. 55(2)(a) substituted (27.11.2003) by The Agricultural Holdings (Consequential Amendments) (Scotland) Order 2003 (S.S.I. 2003/583), art. 1, sch. para. 8(d)(iv)
+[^M59]: 1947 c. 42.
+[^F178]: S. 55(2)(b) substituted (27.11.2003) by The Agricultural Holdings (Consequential Amendments) (Scotland) Order 2003 (S.S.I. 2003/583), art. 1, sch. para. 8(d)(v)
+[^F179]: Words in s. 55(5) inserted (27.11.2003) by The Agricultural Holdings (Consequential Amendments) (Scotland) Order 2003 (S.S.I. 2003/583), art. 1, sch. para. 8(d)(vi)
+[^F180]: Words in s. 55(6) substituted (25.09.1991) by Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3), ss. 88(1), 89(2), Sch. 11 para. 36(d) (with s. 45(3), Sch. 12 para. 3).
+[^F181]: Words in s. 55(6) inserted (27.11.2003) by The Agricultural Holdings (Consequential Amendments) (Scotland) Order 2003 (S.S.I. 2003/583), art. 1, sch. para. 8(d)(vii)
+[^F182]: Words in s. 55(7) inserted (25.9.1991) (subject to limitation referred to in S.I. 1991/2092, art. 4(1), Sch. 2, Pt. I) by Planning and Compensation Act 1991 (c. 34, SIF 28:1), s. 79, Sch. 17, Pt. I para.15 (with s. 84(5)); S.I. 1991/2092, art. 3
+[^F183]: Words in s. 55(7) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 21(11)
+[^F184]: Words in s. 55(8) inserted (27.11.2003) by The Agricultural Holdings (Consequential Amendments) (Scotland) Order 2003 (S.S.I. 2003/583), art. 1, sch. para. 8(d)(viii)
+[^M60]: 1955 c. 21.
+[^M61]: 1845 c. 19.
+[^M62]: 1947 c. 42.
+[^M63]: 1955 c. 21.
+[^M64]: 1955 c. 21.
+[^M65]: 1886 c. 29.
+[^M66]: 1845 c. 19.
+[^M67]: 1968 c. 34.
+[^M68]: 1947 c. 42.
+[^M69]: 1845 c. 19.
+[^M70]: 1947 c. 42.
+[^M71]: 1968 c. 34.
+[^M72]: 1845 c. 33.
+[^M73]: 1963 c. 51.
+[^M74]: 1947 c. 42.
+[^M75]: 1971 c. 62.
+[^M76]: 1845 c. 19.
+[^M77]: 1970 c. 20.
+[^M78]: 1845 c. 19.
+[^M79]: 1947 c. 42.
+[^F185]: S. 64 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt. I (with s. 5, Sch. 3)
+[^F186]: S. 65 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt. I (with s. 5, Sch. 3)
+[^F187]: S. 66 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt. I (with s. 5, Sch. 3)
+[^F188]: S. 67 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt. I (with s. 5, Sch. 3)
+[^F189]: S. 68 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt. I (with s. 5, Sch. 3)
+[^F190]: S. 69 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt. I (with s. 5, Sch. 3)
+[^F191]: S. 70 repealed by Roads (Scotland) Act 1984 (c. 54, SIF 108), s. 156(3), Sch. 11
+[^F192]: S. 71 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt. I (with s. 5, Sch. 3)
+[^F193]: S. 72 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt. I (with s. 5, Sch. 3)
+[^F194]: S. 73 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt. I (with s. 5, Sch. 3)
+[^F195]: S. 74 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt. I (with s. 5, Sch. 3)
+[^F196]: S. 75 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt. I (with s. 5, Sch. 3)
+[^F197]: S. 76 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt. I (with s. 5, Sch. 3)
+[^F198]: S. 77 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1 Pt. I (with s. 5, Sch. 3)
+[^M80]: 1948 c. 45.
+[^F199]: Words in s. 80 substituted (27.11.2003) by The Agricultural Holdings (Consequential Amendments) (Scotland) Order 2003 (S.S.I. 2003/583), art. 1, sch. para. 8(e)
+[^F200]: Words in s. 80(1) substituted (30.11.2017) by The Land Reform (Scotland) Act 2016 (Supplementary, Consequential, Transitory and Saving Provisions) Regulations 2017 (S.S.I. 2017/416), reg. 1(1), sch. 1 para. 2(3) (with sch. 2 para. 2(b))
+[^F201]: Words in definition of “agricultural unit” in s. 80(1) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 21(12)
+[^M81]: 1963 c. 51.
+[^F202]: Definition substituted by Civil Aviation Act 1982 (c. 16, SIF 9), s. 109, Sch. 15 para. 14(3)
+[^F203]: Definition inserted by Roads (Scotland) Act 1984 (c. 54, SIF 108), s. 156(1), Sch. 9 para. 72(9)(*a*)(i)
+[^M82]: 1955 c. 21.
+[^F204]: S. 80(1): “- (a)”in definition of “disabled person” inserted (1.4.1997) by 1995 c. 36, s. 105(4), Sch. 4 para. 21(3)(a) (with Sch. 3 paras. 4, 6); S.I. 1996/3201, art. 3(7)
+[^M83]: 1968 c. 49.
+[^M84]: 1972 c. 51.
+[^F205]: S. 80(1): Para. (b) and “; and” preceeding in definition of “disabled person” inserted (1.4.1997) by 1995 c. 36, s. 105(4), Sch. 4 para. 21(3)(b) (with Sch. 3 paras. 4, 6); S.I. 1996/3201, art. 3(7)
+[^M85]: 1911 c. 49.
+[^M86]: 1949 c. 75.
+[^F206]: Definition inserted by Housing Rents and Subsidies (Scotland) Act 1975 (c. 28), Sch. 3 para. 11
+[^F207]: Words substituted by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339(2), Sch. 23 para. 19(11)(a)
+[^F208]: Definition inserted by Roads (Scotland) Act 1984 (c. 54, SIF 108), s. 156(1), Sch. 9 para. 72(9)(*a*)(i)
+[^F209]: Words in s. 80 inserted (27.11.2003) by The Agricultural Holdings (Consequential Amendments) (Scotland) Order 2003 (S.S.I. 2003/583), art. 1, sch. para. 8(e)(ii)
+[^M87]: 1963 c. 51.
+[^F210]: Words substituted by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339(2), Sch. 23 para. 19(11)(b)
+[^F211]: Definition substituted by Roads (Scotland) Act 1984 (c. 54, SIF 108), s. 156(1), Sch. 9 para. 72(9)(*a*)(ii)
+[^F212]: Definition inserted by Roads (Scotland) Act 1984 (c. 54, SIF 108), s. 156(1), Sch. 9 para. 72(9)(*a*)(ii)
+[^F213]: S. 80(1A) inserted (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), sch. 12 para. 35 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F214]: S. 80(2) repealed by Roads (Scotland) Act 1984 (c. 54, SIF 108), s. 156(1), Sch. 9 para. 72(9)(*b*), Sch. 11
+[^M88]: 1973 c. 26.
+[^F215]: Words repeal provisions of Land Compensation Act 1973 (c. 26) specified in Sch. 2 Pt. I and provide for amendments of provisions of ibid., specified in Sch. 2 Pt. II
+[^F216]: S. 81(2) repealed by Statute Law (Repeals) Act 1976 (c. 16), Sch. 1 Pt. XXI
+[^F217]: Words substituted by virtue of Interpretation Act 1978 (c. 30), s. 25(2)
+[^M89]: 1978 c. 30.
+[^M90]: 1955 c. 21.
+[^M91]: 1911 c. 49.
+[^M92]: 1911 c. 49.
+[^M93]: 1968 c. 34.
+[^M94]: 1911 c. 49.
+[^M95]: 1845 c. 19.
+[^M96]: 1968 c. 34.
+[^M97]: 1947 c. 42.
+[^F218]: Entry in Sch. 2 Pt. II repealed (25.9.1991) (E.W.S.) by Planning and Compensation Act 1991 (c. 34, SIF 28:1, 28:2), s. 84(6), Sch. 19, Pts.III, IV (with s. 84(5)); S.I. 1991/2067, art.3

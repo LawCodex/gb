@@ -1,0 +1,456 @@
+---
+title: "Rentcharges Act 1977"
+identifier: "ukpga/1977/30"
+citation: "1977 c.30"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W"
+date: 1977-07-22
+last_amended: 2016-05-12
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1977/30"
+source_modified: 2016-09-12
+retrieved: 2026-10-11
+---
+
+# Rentcharges Act 1977
+
+**1977 c.30**
+
+An Act to prohibit the creation, and provide for the extinguishment, apportionment and redemption, of certain rentcharges.
+
+[22nd July 1977]
+
+## Prohibition and extinguishment
+
+### 1 Meaning of “rentcharge”.
+
+For the purposes of this Act “rentcharge” means any annual or other periodic sum charged on or issuing out of land, except—
+
+(a) rent reserved by a lease or tenancy, or
+
+(b) any sum payable by way of interest.
+
+### 2 Creation of rentcharges prohibited.
+
+(1) Subject to this section, no rentcharge may be created whether at law or in equity after the coming into force of this section.
+
+(2) Any instrument made after the coming into force of this section shall, to the extent that it purports to create a rentcharge the creation of which is prohibited by this section, be void.
+
+(3) This section does not prohibit the creation of a rentcharge—
+
+[[^F1](a) in the case of which paragraph 3 of Schedule 1 to the Trusts of Land and Appointment of Trustees Act 1996 (trust in case of family charge) applies to the land on which the rent is charged;
+
+(b) in the case of which paragraph (a) above would have effect but for the fact that the land on which the rent is charged is settled land or subject to a trust of land;]
+
+(c) which is an estate rentcharge;
+
+(d) under any Act of Parliament providing for the creation of rentcharges in connection with the execution of works on land (whether by way of improvements, repairs or otherwise) or the commutation of any obligation to do any such work; or
+
+(e) by, or in accordance with the requirements of, any order of a court.
+
+(4) For the purposes of this section “estate rentcharge” means (subject to subsection (5) below) a rentcharge created for the purpose—
+
+(a) of making covenants to be performed by the owner of the land affected by the rentcharge enforceable by the rent owner against the owner for the time being of the land; or
+
+(b) of meeting, or contributing towards, the cost of the performance by the rent owner of covenants for the provision of services, the carrying out of maintenance or repairs, the effecting of insurance or the making of any payment by him for the benefit of the land affected by the rentcharge or for the benefit of that and other land.
+
+(5) A rentcharge of more than a nominal amount shall not be treated as an estate rentcharge for the purposes of this section unless it represents a payment for the performance by the rent owner of any such covenant as is mentioned in subsection (4)(b) above which is reasonable in relation to that covenant.
+
+### 3 Extinguishment of rentcharges.
+
+(1) Subject to this section, every rentcharge shall (if it has not then ceased to have effect) be extinguished at the expiry of the period of 60 years beginning—
+
+(a) with the passing of this Act, or
+
+(b) with the date on which the rentcharge first became payable,
+
+whichever is the later; and accordingly the land on which it was charged or out of which it issued shall, at the expiration of that period, be discharged and freed from the rentcharge.
+
+(2) The extinguishment of a rentcharge under this section shall not affect the exercise by any person of any right or remedy for the recovery of any rent which accrues before the rentcharge is so extinguished.
+
+(3) This section shall not have the effect of extinguishing any rentcharge—
+
+(a) which is, by virtue of any enactment or agreement or by custom, charged on or otherwise payable in relation to land wholly or partly in lieu of tithes; or
+
+(b) which is of a kind referred to in subsection (3) of section 2 above (disregarding subsection (5) of that section).
+
+(4) Subsection (1) above shall not apply to a variable rentcharge; but where such a rentcharge ceases to be variable, subsection (1) above shall apply as if the date on which the rentcharge first became payable were the date on which it ceased to be variable.
+
+(5) For the purposes of subsection (4) above, a rentcharge shall (at any time) be treated as variable if at any time thereafter the amount of the rentcharge will, or may, vary in accordance with the provisions of the instrument under which it is payable.
+
+## Apportionment
+
+### 4 Application for apportionment.
+
+(1) The owner of any land which is affected by a rentcharge which also affects land which is not in his ownership may, subject to this section, apply to the Secretary of State for an order apportioning the rentcharge between that land and the remaining land affected by the rentcharge.
+
+(2) The owner of any land which is affected by a rentcharge which does not affect land not in his ownership may apply to the Secretary of State for an order apportioning the rentcharge between such parts of his land as may be specified in the application.
+
+(3) No application for apportionment may be made under this section in respect of—
+
+(a) a rentcharge of a kind mentioned in section 2(3)(d) or 3(3)(a) above, or
+
+(b) land affected by a rentcharge which also affects other land, if the whole of that other land is exonerated or indemnified from the whole of the rentcharge by means of a charge on the first mentioned land.
+
+(4) Every application—
+
+(a) under subsection (1) above, shall specify the amount (if any) equitably apportioned to the applicant’s land, and
+
+(b) under subsection (2) above, shall specify the applicant’s proposal for apportioning the rentcharge between the parts of his land specified in the application.
+
+(5) Subject to subsection (4) above, every application under this section shall be in such form and shall contain such information and be accompanied by such documents as may be prescribed by regulations.
+
+(6) In any case where the Secretary of State considers that any additional document or information ought to be furnished by the applicant he may require the applicant—
+
+(a) to deliver to him such documents (including documents of title and, in the case of registered land, an authority to inspect the register), and
+
+(b) to furnish him with such information,
+
+as the Secretary of State may specify.
+
+(7) Where an applicant’s documents of title are in the custody of a mortgagee the mortgagee shall, if requested to do so by the Secretary of State for the purpose of an application made under this section, deliver those documents to the Secretary of State on such terms as to their custody and return as the mortgagee may reasonably require.
+
+### 5 Apportionment.
+
+(1) Where an application for apportionment is made under section 4 above and the Secretary of State is satisfied that he is in a position to do so, he shall prepare a draft order for apportionment of the rentcharge.
+
+(2) If the application is made under section 4(1) above, the amount specified in the draft order as being that part of the rentcharge apportioned to the applicant’s land shall be—
+
+(a) the amount specified in the application as the amount equitably apportioned to that land; or
+
+(b) where no amount has been equitably apportioned to that land, such amount as the Secretary of State considers appropriate.
+
+(3) If the application is made under section 4(2) above, the amounts specified in the draft order as apportioned between the parts of the applicant’s land specified in the application shall be those proposed in the application.
+
+(4) A copy of the draft order shall be served by the Secretary of State on the person appearing to him to be the rent owner or his agent, and, in a case falling within subsection (2)(b) above, on such persons as appear to him to be the owners of the land affected by the rentcharge.
+
+(5) After service of a draft order on the rent owner or his agent under subsection (4) above, the rent owner may, before the expiry of the period of 21 days beginning with the date on which the draft order is served (or such longer period, not exceeding the period of 42 days beginning with that date, as the Secretary of State may in a particular case allow)—
+
+(a) object to it on the ground that such an apportionment would provide insufficient security for any part of the rentcharge;
+
+(b) make an application to the effect that in the event of the apportionment not exceeding the sum mentioned in section 7(2) below, a condition should be imposed under that section.
+
+(6) Where a draft order is served under subsection (4) above on a person who is the owner of any land affected by the rentcharge, that person may, before the expiry of the period of 21 days beginning with the date on which the draft order is served (or such longer period, not exceeding the period of 42 days beginning with that date, as the Secretary of State may in a particular case allow), make representations to the Secretary of State concerning the apportionment specified in the draft order.
+
+(7) Any objection, application or representations under subsection (5) or (6) above shall be made in writing.
+
+(8) An objection under subsection (5) above shall state what apportionment (if any) would in the opinion of the rent owner provide sufficient security for the rentcharge or, as the case may be, part of the rentcharge.
+
+(9) The Secretary of State shall consider any objection duly made under subsection (5) above and any representations duly made under subsection (6) above and, if he is satisfied that the draft order should be modified—
+
+(a) in the case of an objection, in order to preserve for the rent owner sufficient security for each apportioned part of the rentcharge, or
+
+(b) to take account of any such representations,
+
+he shall make such modifications in the draft order as appear to him to be appropriate.
+
+(10) Where—
+
+(a) the relevant period has expired without any objection or representation having been duly made, or
+
+(b) an objection has, or any representations have, been duly made and the objection has, or, as the case may be, all the representations have, been considered by the Secretary of State,
+
+the Secretary of State shall, if the applicant has not then withdrawn his application and the Secretary of State is satisfied that it is appropriate to do so, make an order (an “apportionment order”) in the form of the draft but incorporating—
+
+(i) any modifications made by the Secretary of State in accordance with subsection (9) above, and
+
+(ii) where appropriate, a condition imposed by virtue of section 7(2) below.
+
+(11) Immediately after making an apportionment order the Secretary of State shall serve copies of the order on the applicant and on the person appearing to him to be the rent owner or his agent, and, in a case falling within subsection (2)(b) above, on those other persons on whom copies of the draft order were served under subsection (4) above.
+
+(12) In a case where modifications have been made in a draft order under subsection (9) above, the Secretary of State shall not make an apportionment order without giving the applicant an opportunity to withdraw his application.
+
+### 6 Appeal.
+
+(1) Where the applicant or the rent owner or, in a case falling within section 5(2)(b) above, any other person who is the owner of any land affected by the rentcharge, is aggrieved by the terms of an apportionment order, he may appeal to the [[^F2]Upper Tribunal].
+
+(2) Where an appeal has been duly made to the [[^F3]Upper Tribunal] under this section, the Tribunal shall—
+
+(a) conform the order, or
+
+(b) set it aside, and, subject to section 7(2) below, make such other order apportioning the rentcharge as it thinks fit.
+
+### 7 Effect of apportionment order.
+
+(1) An apportionment order shall, subject to subsection (2) below, have effect—
+
+(a) on the expiry of the period of 28 days beginning with the day on which it is made, or
+
+(b) where an appeal against the order has been duly made under section 6 above, on such day as the [[^F4]Upper Tribunal] shall specify.
+
+(2) If—
+
+(a) in the case of an application made under section 4(1) above, the part of the rentcharge apportioned to the applicant’s land, or
+
+(b) in the case of an application under section 4(2) above, any apportioned part of the rentcharge,
+
+does not exceed the annual sum of £5, then, subject to subsection (3) below, it shall, where an application has been duly made under section 5(3)(b) above, be made a condition of the apportionment order that it shall have effect only for the purpose of the redemption of that part of the rentcharge in accordance with the following provisions of this Act.
+
+(3) The Secretary of State shall not impose a condition under subsection (2) above in any case where he considers that, having regard to all the circumstances, to do so would cause the applicant to suffer financial hardship.
+
+(4) In the case of an application under section 4(1) above, the effect of an apportionment order shall (subject to subsection (2) above) be to release the applicant’s land from any part of the rentcharge not apportioned to it and to release the remaining land affected by the rentcharge from such part (if any) of the rentcharge as is apportioned to the applicant’s land.
+
+(5) In the case of an application under section 4(2) above, the effect of an apportionment order shall (subject to subsection (2) above) be to release each part of the applicant’s land from any part of the rentcharge not apportioned to it.
+
+(6) The Secretary of State may by regulations specify, in substitution for the sum mentioned in subsection (2) above, such other annual sum as he considers appropriate.
+
+## Redemption
+
+### 8 Application for redemption certificate.
+
+(1) The owner of any land affected by a rentcharge may apply to the Secretary of State, in accordance with this section, for a certificate (in this Act referred to as a “redemption certificate”) certifying that the rentcharge has been redeemed.
+
+(2) Every application under this section shall be in such form and shall contain such information and be accompanied by such documents as may be prescribed by regulations.
+
+(3) In any case where the Secretary of State considers that any additional document or information ought to be furnished by the applicant he may require the applicant—
+
+(a) to deliver to him such documents (including documents of title and, in the case of registered land, an authority to inspect the register), and
+
+(b) to furnish him with such information,
+
+as the Secretary of State may specify.
+
+(4) No application may be made under this section in respect of a rentcharge of a kind mentioned in section 2(3) or 3(3)(a) above.
+
+(5) An application under this section may only be made—
+
+(a) if the period for which the rentcharge concerned would remain payable if it were not redeemed is ascertainable, and
+
+(b) in the case of a rentcharge which has at any time been a variable rentcharge, if it has ceased to be variable at the time of making the application.
+
+For the purposes of this section a rentcharge shall (at any time) be treated as variable if at any time thereafter the amount of the rentcharge will, or may, vary in accordance with the provisions of the instrument under which it is payable.
+
+(6) Where an applicant’s documents of title are in the custody of a mortgagee the mortgagee shall, if requested to do so by the Secretary of State for the purpose of an application made under this section, deliver those documents to the Secretary of State on such terms as to their custody and return as the mortgagee may reasonably require.
+
+### 9 Issue of redemption certificate.
+
+(1) Where an application for a redemption certificate has been duly made under section 8 above, the Secretary of State shall serve notice of the application (“notice of application”) on the person appearing to him to be the rent owner in relation to the rentcharge to which the application relates or his agent.
+
+(2) A notice of application shall require the person on whom it is served to notify the Secretary of State, before the expiry of the period of 21 days beginning with the date on which the notice of application is served, whether or not he is the rent owner in relation to that rentcharge.
+
+(3) Notification under subsection (2) above shall be given in the form prescribed by regulations and shall contain such information, and be accompanied by such documents, as may be so prescribed.
+
+(4) Where the Secretary of State has been duly notified under subsection (2) above, or the period mentioned in that subsection has expired without his being so notified, he shall serve a notice (“instructions for redemption”) on the applicant for the redemption certificate—
+
+(a) specifying the sum required to redeem the rentcharge (the “redemption price”) calculated in accordance with [[^F5]regulations under] section 10(1) below, and
+
+(b) naming the person (determined in accordance with section 10(2) below), if any, appearing to the Secretary of State to be the person to whom the redemption price should be paid by the applicant.
+
+(5) After service of instructions for redemption, the Secretary of State shall issue the applicant with a redemption certificate on proof—
+
+(a) that the applicant has, before the expiry of the period of 28 days beginning with the date on which the instructions are served—
+
+(i) paid the amount specified as the redemption price to the person named in the instructions as the person to whom payment should be made, or
+
+(ii) where no person is so named, paid that amount into court in accordance with section 10(4) below, or
+
+(b) in a case where the applicant has been authorised to do so under subsection (6) below, that he has paid that amount into court in accordance with section 10(4) below before the expiry of that period, (or such longer period as the Secretary of State may allow).
+
+(6) For the purposes of subsection (5)(b) above, the Secretary of State may authorise payment into court in any case where he is satisfied that the applicant is unable to effect payment in accordance with the instructions for redemption or that it would be unreasonable to require him to do so.
+
+### 10 Provisions supplemental to section 9.
+
+[[^F6](1) For the purposes of section 9 above, the redemption price for a rentcharge is to be calculated in accordance with regulations made by the Secretary of State.]
+
+(2) For the purposes of section 9(4)(b) above, the person to whom the redemption price should be paid is—
+
+(a) in a case where the rentcharge was subject to a mortgage, the mortgagee or, if there is more than one mortgagee, the first mortgagee;
+
+(b) in a case where the rentcharge was not subject to a mortgage but was settled land or was subject to a [[^F7]trust of land], the trustees;
+
+(c) in any other case, the rent owner.
+
+(3) Where a redemption certificate has been issued under section 9 above—
+
+(a) it shall have the effect of releasing the applicant’s land from the rentcharge concerned, but
+
+(b) it shall not affect the exercise by the rent owner of any right or remedy for the recovery of any rent which accrues before the date on which it was issued.
+
+(4) Where a payment is made into court for the purposes of section 9 above, the sum concerned shall—
+
+(a) if it does not exceed [[^F8]£5,000], be paid into the county court, and
+
+[^F9]4A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) in any other case, be paid into the High Court.
+
+(5) Any person who, in notifying the Secretary of State under section 9(2) above, makes a statement which he knows to be false in a material particular, or recklessly makes any statement which is so false, shall be guilty of an offence punishable on summary conviction by a fine not exceeding £1,000.
+
+## Miscellaneous and general
+
+### 11 Implied covenants.
+
+(1) Where any land affected by a rentcharge created after the passing of this Act by virtue of section 2(3)(a) or (b) above—
+
+(a) is conveyed for consideration in money or money’s worth, and
+
+(b) remains affected by the rentcharge or by any part of it,
+
+the following provisions of this section shall have effect in place of those of section 77 of the [^M1]Law of Property Act 1925, in respect of the covenants deemed to be included and implied in the conveyance.
+
+(2) In addition to the covenants implied under [[^F10]Part I of the Law of Property (Miscellaneous Provisions) Act 1994], there shall be deemed to be included and implied in the conveyance covenants by the conveying party or joint and several covenants by the conveying parties (if more than one) with the grantee (or with each of the grantees) in the following terms:—
+
+(a) that the conveying party will at all times from the date of the conveyance duly pay the rentcharge (or part of the rentcharge) and keep the grantee and those deriving title under him and their respective estates and effects indemnified against all claims and demands whatsoever in respect of the rentcharge; and
+
+(b) that the conveying party will (at his expense), in the event of the rentcharge (or part of the rentcharge) ceasing to affect the land conveyed, furnish evidence of that fact to the grantee and those deriving title under him.
+
+(3) The benefit of the covenants deemed to be included and implied in a conveyance, by virtue of subsection (2) above, shall be annexed and incident to and shall go with the estate or interest of the implied covenantee and shall be capable of being enforced by every person in whom the estate or interest is from time to time vested.
+
+(4) Any stipulation which is contained in an agreement and which is inconsistent with, or designed to prevent the operation of, the said covenants (or any part of them) shall be void.
+
+### 12 Regulations.
+
+(1) Regulations under any provision of this Act shall be made by the Secretary of State and shall be contained in a statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(2) Regulations under any provision of this Act may contain such [[^F11]transitional,] incidental and supplemental provisions as the Secretary of State considers appropriate, and may make different provision in relation to different cases or classes of case and in relation to different circumstances.
+
+### 13 Interpretation.
+
+(1) In this Act—
+
+- “apportionment”, in relation to a rentcharge, includes an apportionment which provides for the amount apportioned to any part of the land affected by the rentcharge to be nil;
+- “apportionment order” means an order made under section 5(10) above or, where appropriate, an order made by the [[^F12]Upper Tribunal] under section 6(2)(b) above;
+- “conveyance” has the same meaning as in section 205(1) of the [^M2]Law of Property Act 1925;
+- “land” has the same meaning as in section 205(1) of the [^M3]Law of Property Act 1925;
+- “legal apportionment” and “equitable apportionment” in relation to a rentcharge mean, respectively—
+
+(a) any apportionment of the rentcharge which is binding on the rent owner, and
+
+(b) any apportionment or exoneration of the rentcharge which is not binding on the rent owner;
+
+- “owner”, in relation to any land, means a person, other than a mortgagee not in possession, who is for the time being entitled to dispose of the fee simple of the land,whether in possession or in reversion, and includes a person holding or entitled to the rents and profits of the land under a lease or agreement;
+- “redemption certificate” has the meaning given in section 8(1) above;
+- “rent owner”, in relation to a rentcharge, means the person entitled to the rentcharge or empowered to dispose of it absolutely or to give an absolute discharge for the capital value thereof.
+
+(2) The provisions of this Act relating to the redemption and apportionment of rentcharges shall apply equally to the redemption and further apportionment of legally apportioned parts of rentcharges.
+
+(3) Subject to section 3(4) above, a rentcharge shall be treated for the purposes of this Act as becoming payable on the first day of the first period in respect of which it is to be paid.
+
+### 14 Application to Crown.
+
+(1) This Act shall apply in relation to any land in which there subsists a Crown interest as it applies in relation to land in which no such interest subsists.
+
+(2) In this section “Crown interest” means an interest which belongs to Her Majesty in right of the Crown or of the Duchy of Lancaster or to the Duchy of Cornwall or to a government department, or which is held in trust for Her Majesty for the purposes of a government department.
+
+### 15 Expenses.
+
+(1) Any expenses incurred by the Secretary of State in consequence of this Act shall be paid out of money provided by Parliament.
+
+(2) Subject to any provision made by regulations, any expenses incurred by any person in connection with an application for an apportionment order or for a redemption certificate under this Act shall be borne by that person.
+
+(3) Regulations under subsection (2) above shall, in particular, provide for the reasonable expenses of a mortgagee, incurred in complying with a request under section 4(7) or 8(6) above, to be borne by the applicant.
+
+### 16 Service of notices, etc.
+
+(1) Any document required to be served under this Act may be served on the person to be served either by delivering it to him, or by leaving it at his proper address, or by sending it by post.
+
+(2) Any such document required to be served on a body corporate or a firm shall be duly served if it is served on the secretary or clerk of that body or a partner of that firm.
+
+(3) For the purposes of this section, and of section 26 of the [^M4]Interpretation Act 1889, in its application to this section, the proper address of a person shall be—
+
+(a) in the case of a secretary or clerk of a body corporate, that of the registered or principal office of that body;
+
+(b) in the case of a partner of a firm, that of the principal office of the firm;
+
+(c) in any other case, the last known address of the person to be served.
+
+### 17 Amendments, repeals and transitional provisions.
+
+(1) The enactments mentioned in Schedule 1 to this Act shall have effect subject to the amendments specified in that Schedule.
+
+(2) The enactments mentioned in Schedule 2 to this Act are hereby repealed to the extent specified in the third column of that Schedule.
+
+(3) Nothing in section 2 above shall prohibit the creation of any rentcharge—
+
+(a) in pursuance of an aggreement entered into before the passing of this Act; or
+
+(b) in the case of land subject to compulsory purchase before that date, in pursuance of section 24 of the [^M5]Compulsory Purchase Act 1965,
+
+and notwithstanding the repeal of the said section 24 by Schedule 2 to this Act, the provisions of that section shall (in a case falling within paragraph (b) above) continue to have effect in relation to the creation of any rentcharge by virtue of this subsection.
+
+[^F13]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F14]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Nothing in the repeal by this Act of paragraph 8 of Schedule 1 to the [^M6]Leasehold Reform Act 1967 shall prevent the creation of a rentcharge under that paragraph in a case where written notice has been duly given to the reversioner by the claimant under that paragraph before the coming into force of the repeal; and paragraph 8 shall, notwithstanding the repeal, continue to have effect, subject to the provisions of this Act, in relation to rentcharges created under it.
+
+### 18 Short title etc.
+
+(1) This Act may be cited as the Rentcharges Act 1977.
+
+[^F15]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) This Act does not extend to Scotland or Northern Ireland.
+
+## SCHEDULE 1 — Minor and Consequential Amendments
+
+*Section 17(1).*
+
+### [^M7]Inclosure Act 1854
+
+**1** In section 10 of the Inclosure Act 1854 the words “fee farm rent, rent seck, rent of assize, or chief rent, or other” shall be omitted and at the end there shall be added the following paragraph:—
+
+> No application for apportionment shall be made under this section in a case in which an application for apportionment may be entertained under the Rentcharges Act 1977.
+
+.
+
+### [^M8]Lands Clauses Consolidation Acts Amendment Act 1860
+
+**2** In section 2 of the Lands Clauses Consolidation Acts Amendment Act 1860 (power to sell lands for rentcharges), for the words from the beginning to “such rentcharge” there shall be substituted “The powers to recover any rentcharge”.
+
+### Landlord and Tenant Act 1927
+
+**3** In section 20 of the Landlord and Tenant Act 1927, in the proviso, for the words from “in accordance” to the end, substitute “in accordance with sections 8 to 10 of the Renteharges Act 1977 (which, for the purposes of this section, shall have effect with the necessary modifications)”.
+
+### [^M9]Leasehold Reform Act 1967
+
+**4** (1) In section 8(4)(b) of the Leasehold Reform Act 1967 (conveyance on enfranchisement to be subject to certain encumbrances) for the words from “and other” to “1925” there shall be substituted the words “ redeemable under sections 8 to 10 of the Rentcharges Act 1977 and those falling within paragraphs (c) and (d) of section 2(3) of that Act (estate renteharges and rentcharges imposed under certain enactments)”.
+
+(2) In section 11 of the Leasehold Reform Act 1967 (exoneration from, or redemption of, rentcharges—
+
+(a) in subsection (1), the words “or other rent falling within section 191 of the Law of Property Act 1925” shall be omitted ;
+
+(b) in subsection (4), for the words from “191(4)” to “1925” there shall be substituted the words “13(2) below” ;
+
+(c) in subsection (6), for the words from “certified” to the end there shall be substituted the words “specified as the redemption price in instructions for redemption under section 9(4) of the Renteharges Act 1977” ;
+
+(d) in subsection (7)(a), for the words “certified” and “191(7) of the Law of Property Act 1925” there shall be substituted, respectively, the words “specified” and “4 of the Rentcharges Act 1977” ; and
+
+(e) in subsection (8) for the words from “and other” to “1925” there shall be substituted the words “redeemable under sections 8 to 10 of the Rentcharges Act 1977”.
+
+## SCHEDULE 2 — Repeals
+
+*Section 17(2).*
+
+![image](http://www.legislation.gov.uk/ukpga/1977/30/images/ukpga_19770030_en_001)
+
+---
+
+[^F1]: S. 2(3)(a)(b) substituted (1.1.1997) by 1996 c. 47, s. 25(1), Sch. 3 para. 15(2) (with ss. 24, 25(4)); S.I. 1996/2974, art.2.
+[^F2]: Words in s. 6(1) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 123 (with Sch. 5)
+[^F3]: Words in s. 6(2) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 123 (with Sch. 5)
+[^F4]: Words in s. 7(1)(b) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 124 (with Sch. 5)
+[^F5]: Words in s. 9(4)(a) inserted (12.5.2016) by Housing and Planning Act 2016 (c. 22), ss. 137(2), 216(1)(c) (with s. 137(5))
+[^F6]: S. 10(1) substituted (12.5.2016) by Housing and Planning Act 2016 (c. 22), ss. 137(3), 216(1)(c) (with s. 137(5))
+[^F7]: Words in s. 10(2)(b) substituted (1.1.1997) by 1996 c. 47, s. 25(1), Sch. 3 para. 15(3) (with ss. 24, 25(4)); S.I. 1996/2974, art.2.
+[^F8]: Words in s. 10(4) substituted by S.I. 1991/724, art. 2(8), Schedule Part I
+[^F9]: S. 10(4A) omitted by S.I. 1991/724, art. 2(8), Schedule Part I
+[^M1]: 1925 c. 20.
+[^F10]: Words in s. 11(2) substituted (1.7.1995) by 1994 c. 36, ss. 20, 21(1), Sch. 1 para.7; SI 1995/1317, art.2.
+[^F11]: Word in s. 12(2) inserted (12.5.2016) by Housing and Planning Act 2016 (c. 22), ss. 137(4), 216(1)(c) (with s. 137(5))
+[^F12]: Words in s. 13(1) substituted (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 1, Sch. 1 para. 125 (with Sch. 5)
+[^M2]: 1925 c. 20.
+[^M3]: 1925 c. 20.
+[^M4]: 1889 c. 63.
+[^M5]: 1965 c. 56.
+[^F13]: S. 17(4) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 12
+[^F14]: S. 17(5) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 12
+[^M6]: 1967 c. 88.
+[^F15]: S. 18(2) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 12
+[^M7]: 1854 c.97.
+[^M8]: 1860 c.106.
+[^M9]: 1967 c.88

@@ -1,0 +1,4632 @@
+---
+title: "Agricultural Holdings Act 1986"
+identifier: "ukpga/1986/5"
+citation: "1986 c. 5"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1986-03-18
+last_amended: 2026-05-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1986/5"
+source_modified: 2026-05-06
+retrieved: 2026-10-11
+---
+
+# Agricultural Holdings Act 1986
+
+**1986 c. 5**
+
+An Act to consolidate certain enactments relating to agricultural holdings, with amendments to give effect to recommendations of the Law Commission.
+
+[18th March 1986]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — Introductory
+
+### 1 Principal definitions.
+
+(1) In this Act “agricultural holding” means the aggregate of the land (whether agricultural land or not) comprised in a contract of tenancy which is a contract for an agricultural tenancy, not being a contract under which the land is let to the tenant during his continuance in any office, appointment or employment held under the landlord.
+
+(2) For the purposes of this section, a contract of tenancy relating to any land is a contract for an agricultural tenancy if, having regard to—
+
+(a) the terms of the tenancy,
+
+(b) the actual or contemplated use of the land at the time of the conclusion of the contract and subsequently, and
+
+(c) any other relevant circumstances,
+
+the whole of the land comprised in the contract, subject to such exceptions only as do not substantially affect the character of the tenancy, is let for use as agricultural land.
+
+(3) A change in user of the land concerned subsequent to the conclusion of a contract of tenancy which involves any breach of the terms of the tenancy shall be disregarded for the purpose of determining whether a contract which was not originally a contract for an agricultural tenancy has subsequently become one unless it is effected with the landlord’s permission, consent or acquiescence.
+
+(4) In this Act “agricultural land” means—
+
+(a) land used for agriculture which is so used for the purposes of a trade or business, and
+
+(b) any other land which, by virtue of a designation under section 109(1) of the [^M1]Agriculture Act 1947, is agricultural land within the meaning of that Act.
+
+(5) In this Act “contract of tenancy” means a letting of land, or agreement for letting land, for a term of years or from year to year; and for the purposes of this definition a letting of land, or an agreement for letting land, which, by virtue of subsection (6) of section 149 of the [^M2]Law of Property Act 1925, takes effect as such a letting of land or agreement for letting land as is mentioned in that subsection shall be deemed to be a letting of land or, as the case may be, an agreement for letting land, for a term of years.
+
+### 2 Restriction on letting agricultural land for less than from year to year.
+
+(1) An agreement to which this section applies shall take effect, with the necessary modifications, as if it were an agreement for the letting of land for a tenancy from year to year unless the agreement was approved by the Minister before it was entered into.
+
+(2) Subject to subsection (3) below, this section applies to an agreement under which—
+
+(a) any land is let to a person for use as agricultural land for an interest less than a tenancy from year to year, or
+
+(b) a person is granted a licence to occupy land for use as agricultural land,
+
+if the circumstances are such that if his interest were a tenancy from year to year he would in respect of that land be the tenant of an agricultural holding.
+
+(3) This section does not apply to an agreement for the letting of land, or the granting of a licence to occupy land—
+
+(a) made (whether or not it expressly so provides) in contemplation of the use of the land only for grazing or mowing (or both) during some specified period of the year, or
+
+(b) by a person whose interest in the land is less than a tenancy from year to year and has not taken effect as such a tenancy by virtue of this section.
+
+(4) Any dispute arising as to the operation of this section in relation to any agreement shall be determined by arbitration under this Act.
+
+[[^F1](5) Notwithstanding subsection (4) above, the parties to the agreement may instead refer for third party determination under this Act the dispute that has arisen as to the operation of this section.]
+
+### 3 Tenancies for two years or more to continue from year to year unless terminated by notice.
+
+(1) Subject to section 5 below, a tenancy of an agricultural holding for a term of two years or more shall, instead of terminating on the term date, continue (as from that date) as a tenancy from year to year, but otherwise on the terms of the original tenancy so far as applicable, unless—
+
+(a) not less than one year nor more than two years before the term date a written notice has been given by either party to the other of his intention to terminate the tenancy, or
+
+(b) section 4 below applies.
+
+(2) A notice given under subsection (1) above shall be deemed, for the purposes of this Act, to be a notice to quit.
+
+(3) This section does not apply to a tenancy which, by virtue of subsection (6) of section 149 of the [^M3]Law of Property Act 1925, takes effect as such a term of years as is mentioned in that subsection.
+
+(4) In this section “term date”, in relation to a tenancy granted for a term of years, means the date fixed for the expiry of that term.
+
+### 4 Death of tenant before term date.
+
+(1) This section applies where—
+
+(a) a tenancy such as is mentioned in subsection (1) of section 3 above is granted on or after 12th September 1984 to any person or persons,
+
+(b) the person, or the survivor of the persons, dies before the term date, and
+
+(c) no notice effective to terminate the tenancy on the term date has been given under that subsection.
+
+(2) Where this section applies, the tenancy, instead of continuing as mentioned in section 3(1) above—
+
+(a) shall, if the death is one year or more before the term date, terminate on that date, or
+
+(b) shall, if the death is at any other time, continue (as from the term date) for a further period of twelve months, but otherwise on the terms of the tenancy so far as applicable, and shall accordingly terminate on the first anniversary of the term date.
+
+(3) For the purposes of the provisions of this Act with respect to compensation any tenancy terminating in accordance with this section shall be deemed to terminate by reason of a notice to quit given by the landlord of the holding.
+
+(4) In this section “term date” has the same meaning as in section 3 above.
+
+### 5 Restriction on agreements excluding effect of section 3.
+
+(1) Except as provided in this section, section 3 above shall have effect notwithstanding any agreement to the contrary.
+
+(2) Where before the grant of a tenancy of an agricultural holding for a term of not less than two, and not more than five, years—
+
+(a) the persons who will be the landlord and the tenant in relation to the tenancy agree that section 3 above shall not apply to the tenancy, and
+
+(b) those persons make a joint application in writing to the Minister for his approval of that agreement, and
+
+(c) the Minister notifies them of his approval,
+
+section 3 shall not apply to the tenancy if it satisfies the requirements of subsection (3) below.
+
+(3) A tenancy satisfies the requirements of this subsection if the contract of tenancy is in writing and it, or a statement endorsed upon it, indicates (in whatever terms) that section 3 does not apply to the tenancy.
+
+## Part II — Provisions Affecting Tenancy During its Continuance
+
+### Written tenancy agreements
+
+#### 6 Right to written tenancy agreement.
+
+(1) Where in respect of a tenancy of an agricultural holding—
+
+(a) there is not in force an agreement in writing embodying all the terms of the tenancy (including any model clauses incorporated in the contract of tenancy by virtue of section 7 below), or
+
+(b) such an agreement in writing is in force but the terms of the tenancy do not make provision for one or more of the matters specified in Schedule 1 to this Act,
+
+the landlord or tenant of the holding may, if he has requested the other to enter into an agreement in writing embodying all the terms of the tenancy and containing provision for all of the said matters but no such agreement has been concluded, refer the terms of the tenancy to arbitration under this Act.
+
+[[^F2](1A) Where the landlord or tenant has the right under subsection (1) above to refer the terms of the tenancy to arbitration under this Act, the landlord and tenant may instead refer the terms of the tenancy for third party determination under this Act.]
+
+(2) On any such reference the arbitrator in his award [[^F3]or (as the case may be) the third party in his determination]—
+
+(a) shall specify the existing terms of the tenancy, subject to any variations agreed between the landlord and the tenant,
+
+(b) in so far as those terms as so varied neither make provision for, nor make provision inconsistent with, the matters specified in Schedule 1 to this Act, shall make provision for all of the said matters having such effect as may be agreed between the landlord and the tenant or, in default of agreement, as appears to the arbitrator [[^F4]or third party] to be reasonable and just between them, and
+
+(c) may include any further provisions relating to the tenancy which may be agreed between the landlord and the tenant.
+
+(3) Where it appears to the arbitrator [[^F5]or third party] on a reference under this section that, by reason of any provision which he is required to include in his award [[^F6]or (as the case may be) his determination], it is equitable that the rent of the holding should be varied, he may vary the rent accordingly.
+
+(4) The award of an arbitrator [[^F7]or (as the case may be) the determination of a third party] under this section shall have effect as if the terms and provisions specified and made in the award [[^F8] or determination] were contained in an agreement in writing entered into by the landlord and the tenant and having effect (by way of variation of the agreement previously in force in respect of the tenancy) as from the making of the award [[^F8] or determination] or, if the award [[^F8] or determination] so provides, from such later date as may be specified in it.
+
+(5) Where in respect of a tenancy of an agricultural holding—
+
+(a) the terms of the tenancy neither make provision for, nor make provision inconsistent with, the matter specified in paragraph 9 of Schedule 1 to this Act, and
+
+(b) the landlord requests the tenant in writing to enter into such an agreement as is mentioned in subsection (1) above containing provision for all of the matters specified in that Schedule,
+
+the tenant may not without the landlord’s consent in writing assign, sub-let or part with possession of the holding or any part of it during the period while the determination of the terms of the tenancy is pending; and any transaction entered into in contravention of this subsection shall be void.
+
+(6) The period mentioned in subsection (5) above is the period beginning with the date of service of the landlord’s request on the tenant and ending with the date on which an agreement is concluded in accordance with that request or (as the case may be) with the date on which the award of an arbitrator [[^F9]or the determination of a third party ] on a reference under this section relating to the tenancy takes effect.
+
+### Fixed equipment
+
+#### 7 The model clauses.
+
+(1) The Minister may, after consultation with such bodies of persons as appear to him to represent the interests of landlords and tenants of agricultural holdings, make regulations prescribing terms as to the maintenance, repair and insurance of fixed equipment (in this Act referred to as “the model clauses”).
+
+(2) Regulations under this section may make provision for any matter arising under them to be determined by arbitration [^F10][or third party determination] under this Act.
+
+(3) The model clauses shall be deemed to be incorporated in every contract of tenancy of an agricultural holding except in so far as they would impose on one of the parties to an agreement in writing a liability which under the agreement is imposed on the other.
+
+#### [^F11]8 Arbitration [[^F11]or third party determination ] where terms of written agreement are inconsistent with the model clauses.
+
+(1) This section applies where an agreement in writing relating to a tenancy of an agricultural holding effects substantial modifications in the operation of regulations under section 7 above.
+
+(2) Where this section applies, then, subject to subsection (6) below, the landlord or tenant of the holding may, if he has requested the other to vary the terms of the tenancy as to the maintenance, repair and insurance of fixed equipment so as to bring them into conformity with the model clauses but no agreement has been reached on the request, refer those terms of the tenancy to arbitration under this Act.
+
+[^F12][2A Where the landlord or tenant has the right under subsection (2) above to refer the terms of the tenancy as to the maintenance, repair and insurance of fixed equipment to arbitration under this Act (or would have that right but for subsection (6) below), the landlord and tenant may instead refer those terms for third party determination under this Act.]
+
+(3) On any reference under this section the arbitrator [[^F13]or third party] shall consider whether (disregarding the rent payable for the holding) the terms referred to arbitration [[^F14]or (as the case may be) for third party determination] are justifiable having regard to the circumstances of the holding and of the landlord and the tenant, and, if he determines that they are not so justifiable, he may by his award [[^F15]or determination] vary them in such manner as appears to him reasonable and just between the landlord and tenant.
+
+(4) Where it appears to the arbitrator [[^F16]or third party] on any reference under this section that by reason of any provision included in his award [[^F17]or (as the case may be) his determination] it is equitable that the rent of the holding should be varied, he may vary the rent accordingly.
+
+(5) The award [[^F18]or determination] of an arbitrator [[^F19]or (as the case may be) the determination of a third party] under this section shall have effect as if the terms and provisions specified and made in the award were contained in an agreement in writing entered into by the landlord and the tenant and having effect (by way of variation of the agreement previously in force in respect of the tenancy) as from the making of the award [[^F18]or determination] or, if the award [[^F18]or determination] so provides, from such later date as may be specified in it.
+
+(6) Where there has been a reference [[^F20]to arbitration or third party determination ] under this section relating to a tenancy, no [[^F21]subsequent reference to arbitration] relating to that tenancy shall be made before the expiry of three years from the coming into effect of the award of the arbitrator [[^F22]or (as the case may be) the determination of the third party] on the previous reference.
+
+#### 9 Transitional arrangements where liability in respect of fixed equipment transferred.
+
+(1) Where by virtue of section 6, 7 or 8 above the liability for the maintenance or repair of any item of fixed equipment is transferred from the tenant to the landlord, the landlord may within the prescribed period beginning with the date on which the transfer takes effect require that there shall be determined by arbitration under this Act and paid by the tenant the amount of any relevant compensation.
+
+[[^F23](1A) Where the landlord has the right under subsection (1) above to require that there shall be determined by arbitration under this Act and paid by the tenant the amount of any relevant compensation (or would have that right but for the expiry of the prescribed period), the landlord and tenant may instead refer for third party determination under this Act the question of the amount of any relevant compensation that the tenant is to be required to pay.]
+
+(2) [[^F24]subsections (1) and (1A) above]“relevant compensation” means compensation which would have been payable either under subsection (1) of section 71 below or in accordance with subsection (3) of that section, in respect of any previous failure by the tenant to discharge the liability mentioned in subsection (1) above, if the tenant had quitted the holding on the termination of his tenancy at the date on which the transfer takes effect.
+
+(3) Where by virtue of section 6, 7 or 8 above the liability for the maintenance or repair of any item of fixed equipment is transferred from the landlord to the tenant, any claim by the tenant in respect of any previous failure by the landlord to discharge the said liability shall, if the tenant within the prescribed period beginning with the date on which the transfer takes effect so requires, be determined by arbitration under this Act.
+
+[[^F25](3A) Where the tenant has the right under subsection (3) above to require that there shall be determined by arbitration under this Act a claim of a type described in that subsection (or would have that right but for the expiry of the prescribed period), the tenant and landlord may instead refer the claim for third party determination under this Act.]
+
+(4) Where the terms of a tenancy of an agricultural holding as to the maintenance, repair or insurance of fixed equipment (whether established by the operation of regulations under section 7 above or by agreement) are varied by new regulations made under that section, then, if a reference is made under section 6 above within the prescribed period after the coming into operation of the new regulations, the arbitrator [[^F26]or third party] shall, for the purposes of subsection (2) of the said section 6, disregard the variation.
+
+#### 10 Tenant’s right to remove fixtures and buildings.
+
+(1) Subject to the provisions of this section—
+
+(a) any engine, machinery, fencing or other fixture (of whatever description) affixed, whether for the purposes of agriculture or not, to an agricultural holding by the tenant, and
+
+(b) any building erected by him on the holding,
+
+shall be removable by the tenant at any time during the continuance of the tenancy or before the expiry of two months from its termination, and shall remain his property so long as he may remove it by virtue of this subsection.
+
+(2) Subsection (1) above shall not apply—
+
+(a) to a fixture affixed or a building erected in pursuance of some obligation,
+
+(b) to a fixture affixed or a building erected instead of some fixture or building belonging to the landlord,
+
+(c) to a building in respect of which the tenant is entitled to compensation under this Act or otherwise, or
+
+(d) to a fixture affixed or a building erected before 1st January 1884.
+
+(3) The right conferred by subsection (1) above shall not be exercisable in relation to a fixture or building unless the tenant—
+
+(a) has paid all rent owing by him and has performed or satisfied all his other obligations to the landlord in respect of the holding, and
+
+(b) has, at least one month before both the exercise of the right and the termination of the tenancy, given to the landlord notice in writing of his intention to remove the fixture or building.
+
+(4) If, before the expiry of the notice mentioned in subsection (3) above, the landlord gives to the tenant a counter-notice in writing electing to purchase a fixture or building comprised in the notice, subsection (1) above shall cease to apply to that fixture or building, but the landlord shall be liable to pay to the tenant the fair value of that fixture or building to an incoming tenant of the holding.
+
+(5) In the removal of a fixture or building by virtue of subsection (1) above, the tenant shall not do any avoidable damage to any other building or other part of the holding, and immediately after the removal shall make good all damage so done that is occasioned by the removal.
+
+(6) Any dispute between the landlord and the tenant with respect to the amount payable by the landlord under subsection (4) above in respect of any fixture or building shall be determined by arbitration under this Act.
+
+[[^F27](6A) Notwithstanding subsection (6) above, the landlord and tenant may instead refer for third party determination under this Act the dispute that has arisen with respect to the amount payable by the landlord under subsection (4).]
+
+(7) This section shall apply to a fixture or building acquired by a tenant as it applies to a fixture or building affixed or erected by him.
+
+(8) This section shall not be taken as prejudicing any right to remove a fixture that subsists otherwise than by virtue of this section.
+
+#### 11 Provision of fixed equipment necessary to comply with statutory requirements.
+
+(1) Where, on an application by the tenant of an agricultural holding, the Tribunal are satisfied that it is reasonable, having regard to the tenant’s responsibilities to farm the holding in accordance with the rules of good husbandry, that he should carry on on the holding an agricultural activity specified in the application to the extent and in the manner so specified and—
+
+(a) that, unless fixed equipment is provided on the holding, the tenant, in carrying on that activity to that extent and in that manner, will contravene requirements imposed by or under any enactment, or
+
+(b) that it is reasonable that the tenant should use, for purposes connected with that activity, fixed equipment already provided on the holding, but that, unless that equipment is altered or repaired, the tenant, in using the equipment for those purposes, will contravene such requirements,
+
+the Tribunal may direct the landlord to carry out, within a period specified in the direction, such work for the provision or, as the case may be, the alteration or repair of that fixed equipment as will enable the tenant to comply with the said requirements.
+
+(2) Where it appears to the Tribunal that an agricultural activity specified in the tenant’s application has not been carried on on the holding continuously for a period of at least three years immediately preceding the making of the application the Tribunal shall not direct the landlord to carry out the work in connection with that activity unless they are satisfied that the starting of the activity did not or, where the activity has not yet been started, will not constitute or form part of a substantial alteration of the type of farming carried on on the holding.
+
+(3) The Tribunal shall not direct the landlord to carry out work under this section unless they are satisfied—
+
+(a) that it is reasonable to do so having regard to the landlord’s responsibilities to manage the land comprised in the holding in accordance with the rules of good estate management and also to the period for which the holding may be expected to remain a separate holding and to any other material consideration, and
+
+(b) that the landlord has refused to carry out that work on being requested in writing to do so by the tenant or has not agreed to carry it out within a reasonable time after being so requested.
+
+(4) The Tribunal shall not direct the landlord to carry out work under this section if he is under a duty to carry out the work in order to comply with a requirement imposed on him by or under any enactment or if provision is made by the contract of tenancy, or by any other agreement between the landlord and the tenant, for the carrying out of work by one of them.
+
+(5) If the landlord fails to comply with a direction under this section the tenant shall have the same remedies as if the contract of tenancy had contained an undertaking by the landlord to carry out the work required by the direction within the period allowed by the Tribunal.
+
+(6) Notwithstanding any term in the contract of tenancy restricting the carrying out by the tenant of alterations to the holding, the remedies referred to in subsection (5) above shall include the right of the tenant to carry out the work himself and recover the reasonable cost of the work from the landlord.
+
+(7) The Tribunal, on an application by the landlord, may extend or further extend the period specified in a direction under this section if it is shown to their satisfaction that the period so specified, or that period as previously extended under this subsection, as the case may be, will not allow sufficient time both for the completion of preliminary arrangements necessary or desirable in connection with the work required by the direction (including, in appropriate cases, the determination of an application by the landlord for a grant out of money provided by Parliament in respect of that work) and for the carrying out of the said work.
+
+(8) The reference in subsection (6) above to the reasonable cost of work carried out by a tenant shall, where the tenant has received a grant in respect of the work out of money provided by Parliament, be construed as a reference to the reasonable cost reduced by the amount of the grant.
+
+### Variation of rent
+
+#### [^F28]12 Arbitration [[^F28]or third party determination] of rent.
+
+(1) Subject to the provisions of Schedule 2 to this Act, the landlord or tenant of an agricultural holding may by notice in writing served on the other demand that the rent to be payable in respect of the holding as from the next termination date shall be [^F29]... [[^F29]determined in accordance with this section].
+
+[^F30]1A [^F30]The landlord and tenant may instead refer for third party determination under this Act the question of how much rent is to be payable in respect of the holding as from the next termination date.
+
+[[^F30](1A) Where a notice under subsection (1) is served, the question of how much rent is to be payable in respect of the holding as from the next termination date—
+
+(a) may be required by the landlord or tenant to be determined by arbitration under this Act (see section 84), or
+
+(b) may be referred by the landlord and tenant for third party determination under this Act (see section 84A).]
+
+(2) On a reference under this section the arbitrator [[^F31]or third party] shall determine what rent should be properly payable in respect of the holding at the [[^F32]next termination date following the date of the [^F33]... [[^F33]notice under subsection (1)] and accordingly shall, with effect from that next termination date], increase or reduce the rent previously payable or direct that it shall continue unchanged.
+
+(3) A [^F34]... [[^F34]notice under subsection (1)] shall cease to be effective for the purposes of this section on the next termination date following the date of [^F35]... [[^F35]the notice] unless before the said termination date—
+
+(a) an arbitrator [[^F36]or third party] has been appointed by agreement between the parties, or
+
+(b) an application has been made [^F37]... [[^F37]under section 84 for the appointment of an arbitrator].
+
+(4) References in this section (and in Schedule 2 to this Act) [^F38]...[[^F39],] with respect to the rent of any holding, to the next termination date following the date of [^F40]... [[^F40]a notice under subsection (1)] are references to the next day following the date of [^F41]... [[^F41]the notice] on which the tenancy of the holding could have been determined by notice to quit given at the date of [^F42]... [[^F42]the notice under subsection (1)].
+
+(5) Schedule 2 to this Act shall have effect for supplementing this section.
+
+#### 13 Increases of rent for landlord’s improvements.
+
+(1) Where the landlord of an agricultural holding has carried out on the holding any improvement to which this section applies he may by notice in writing served on the tenant within six months from the completion of the improvement increase the rent of the holding as from the completion of the improvement by an amount equal to the increase in the rental value of the holding attributable to the carrying out of the improvement.
+
+(2) This section applies to—
+
+(a) an improvement carried out at the request of, or in agreement with, the tenant,
+
+(b) an improvement carried out in compliance with a direction given by the Tribunal under section 11 above,
+
+(c) an improvement carried out in pursuance of a notice served by the landlord under section 67(5) below,
+
+(d) an improvement carried out in compliance with a direction given by the Minister under powers conferred on him by or under any enactment,
+
+(e) works executed on the holding for the purpose of complying with the requirements of a notice under section 3 of the [^M4]Agriculture (Safety, Health and Welfare Provisions) Act 1956 (provision of sanitary conveniences and washing facilities),
+
+(f) an improvement carried out in compliance with an improvement notice served, or an undertaking accepted, under Part VII of the [^M5]Housing Act 1985 or Part VIII of the [^M6]Housing Act 1974.
+
+(3) No increase of rent shall be made under subsection (1) above in respect of an improvement within paragraph (a), (b) or (f) of subsection (2) above if within six months from its completion the landlord and tenant agree on any increase of rent or other benefit to the landlord in respect of the improvement.
+
+(4) The increase in rent provided for by subsection (1) above shall be reduced proportionately—
+
+(a) in the case of an improvement within paragraph (b) of subsection (2) above, where a grant has been made to the landlord in respect of the improvement out of money provided by Parliament,
+
+(b) in the case of an improvement within any other paragraph of that subsection, where a grant has been made to the landlord in respect of the improvement out of money provided by Parliament or local government funds, and
+
+(c) in the case of an improvement within paragraph (f) of that subsection, where the tenant has contributed to the cost incurred by his landlord in carrying out the improvement.
+
+(5) Where, on the failure of a landlord to carry out an improvement specified in such a direction as is referred to in subsection (2)(b) above, the tenant has himself carried out the improvement, the provisions of this section shall apply as if the improvement had been carried out by the landlord and as if any grant made to the tenant in respect of the improvement out of money provided by Parliament had been made to the landlord.
+
+(6) No increase in rent shall take effect by virtue of subsection (5) above until the tenant has recovered from the landlord the reasonable cost of the improvement reduced by the amount of any grant made to the tenant in respect of the improvement out of money provided by Parliament.
+
+(7) Any dispute arising between the landlord and the tenant of the holding under this section shall be determined by arbitration under this Act.
+
+[[^F43](7A) Notwithstanding subsection (7) above, the landlord and the tenant may instead refer the dispute for third party determination under this Act.]
+
+(8) This section applies to an improvement whether or not it is one for the carrying out of which compensation is provided under Part V or VI of this Act.
+
+### Cultivation of land and disposal of produce
+
+#### 14 Variation of terms of tenancies as to permanent pasture.
+
+(1) This section applies where a contract for a tenancy of an agricultural holding provides for the maintenance of specified land, or a specified proportion of the holding, as permanent pasture.
+
+(2) Where this section applies, the landlord or tenant may, by notice in writing served on the other, demand a reference to arbitration under this Act of the question whether it is expedient in order to secure the full and efficient farming of the holding that the area of land required to be maintained as permanent pasture should be reduced.
+
+[[^F44](2A) Where the landlord or tenant has the right under subsection (2) above to demand that the question described in that subsection shall be referred to arbitration under this Act, the landlord and tenant may instead refer that question for third party determination under this Act.]
+
+(3) On a reference under subsection (2) [[^F45] or (2A)] above the arbitrator [[^F46]or third party] may by his award [[^F47]or (as the case may be) his determination] direct that the provisions of the contract of tenancy as to land which is to be maintained as permanent pasture or is to be treated as arable land and as to cropping shall have effect subject to such modifications as may be specified in the direction.
+
+(4) If, on a reference under subsection (2) [[^F48]or (2A)] above, the arbitrator [[^F49]or third party] gives a direction reducing the area of land which under the contract of tenancy is to be maintained as permanent pasture, he may order that the contract of tenancy shall have effect as if it provided that on quitting the holding on the termination of the tenancy the tenant should leave—
+
+(a) as permanent pasture, or
+
+(b) as temporary pasture sown with seeds mixture of such kind as may be specified in the order,
+
+such area of land (in addition to the area of land required by the contract of tenancy, as modified by the direction, to be maintained as permanent pasture) as may be so specified.
+
+(5) The area of land specified in an order made under subsection (4) above shall not exceed the area by which the land required by the contract of tenancy to be maintained as permanent pasture has been reduced by virtue of the direction.
+
+#### 15 Disposal of produce and cropping.
+
+(1) Subject to the provision of this section and to section 82 below, the tenant of an agricultural holding shall (notwithstanding any custom of the country or the provisions of the contract of tenancy or of any agreement respecting the disposal of crops or the method of cropping of arable land) have, without incurring any penalty, forfeiture or liability, the following rights, namely—
+
+(a) to dispose of the produce of the holding, other than manure produced on the holding, and
+
+(b) to practise any system of cropping of the arable land on the holding.
+
+(2) Subsection (1) above shall not apply—
+
+(a) in the case of a tenancy from year to year, as respects the year before the tenant quits the holding or any period after he has given or received notice to quit which results in his quitting the holding, or
+
+(b) in the case of any other tenancy, as respects the year before its termination.
+
+(3) Subject to any agreement in writing to the contrary, the tenant of an agricultural holding shall not at any time after he has given or received notice to quit the holding sell or remove from the holding any manure or compost or any hay or straw or roots grown in the last year of the tenancy unless the landlord’s written consent has been obtained before the sale or removal.
+
+(4) Before, or as soon as possible after, exercising his rights under subsection (1) above, a tenant shall make suitable and adequate provision—
+
+(a) in the case of an exercise of the right to dispose of produce, to return to the holding the full equivalent manurial value of all crops sold off or removed from the holding in contravention of the custom, contract or agreement, and
+
+(b) in the case of an exercise of the right to practise any system of cropping, to protect the holding from injury or deterioration.
+
+(5) If the tenant of an agricultural holding exercises his rights under subsection (1) above in such manner as to, or to be likely to, injure or deteriorate the holding, the landlord shall have the following remedies, but no other, namely—
+
+(a) the right to obtain, if the case so requires, an injunction to restrain the exercise of those rights in that manner, and
+
+(b) the right in any case, on the tenant’s quitting the holding on the termination of the tenancy, to recover damages for any injury to or deterioration of the holding attributable to the exercise by the tenant of those rights.
+
+(6) For the purposes of any proceedings for an injunction brought under paragraph (a) of subsection (5) above, the question whether the tenant is exercising, or has exercised, his rights under subsection (1) above in such a manner as to, or to be likely to, injure or deteriorate his holding shall be determined by arbitration under this Act; and the award of the arbitrator shall, for the purposes of any proceedings brought under subsection (5) (including an arbitration [[^F50]or third party determination] under paragraph (b)) be conclusive proof of the facts stated in the award.
+
+[[^F51](6A) Notwithstanding subsection (6) above, the landlord and tenant may agree that, for the purposes of proceedings brought by the landlord under paragraph (a) of subsection (5) above, the question described in subsection (6) is instead to be referred for third party determination under this Act.
+
+(6B) On a reference under subsection (6A) above, the determination of the third party shall, for the purposes of any proceedings brought under subsection (5) above (including an arbitration or third party determination under paragraph (b)) be conclusive proof of the facts stated in the determination.]
+
+(7) In this section—
+
+- “arable land” does not include land in grass which, by the terms of a contract of tenancy, is to be retained in the same condition throughout the tenancy; and
+- “roots” means the produce of any root crop of a kind normally grown for consumption on the holding.
+
+### Distress
+
+#### [^F52]16 No distress for rent due more than a year previously.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F52]17 Compensation to be set off against rent for purposes of distress.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F52]18 Restrictions on distraining on property of third party.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F52]19 Settlement of disputes as to distress.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Miscellaneous
+
+#### 19A [[^F53]Disputes relating to requests for landlord's consent or variation of terms
+
+(1) The appropriate authority may by regulations make provision for the tenant of an agricultural holding to refer for arbitration under this Act a request made by the tenant to the landlord where—
+
+(a) the request falls within subsection (3), and
+
+(b) no agreement has been reached with the landlord on the request.
+
+(2) The regulations may also provide that, where the tenant is given the right to refer a request to arbitration, the landlord and tenant may instead refer the request for third party determination under this Act.
+
+(3) A request falls within this subsection if—
+
+(a) it is a request for—
+
+(i) the landlord's consent to a matter which under the terms of the tenancy requires such consent, or
+
+(ii) a variation of the terms of the tenancy,
+
+(b) it is made for the purposes of—
+
+(i) enabling the tenant to request or apply for relevant financial assistance or relevant financial assistance of a description specified in the regulations, or
+
+(ii) complying with a statutory duty, or a statutory duty of a description specified in the regulations, applicable to the tenant, and
+
+(c) it meets such other conditions (if any) as may be specified in the regulations.
+
+(4) The regulations may provide for the arbitrator or third party on a reference made under the regulations, where the arbitrator or third party considers it reasonable and just (as between the landlord and tenant) to do so—
+
+(a) to order the landlord to comply with the request (either in full or to the extent specified in the award or determination);
+
+(b) to make any other award or determination permitted by the regulations.
+
+(5) The regulations may (among other things) make provision—
+
+(a) about conditions to be met before a reference may be made;
+
+(b) about matters which an arbitrator or third party is to take into account when considering a reference;
+
+(c) for regulating the conduct of arbitrations or third party determinations;
+
+(d) about the awards or determinations which may be made by the arbitrator or third party, which may include making an order for a variation in the rent of the holding or for the payment of compensation or costs;
+
+(e) about the time at which, or the conditions subject to which, an award or determination may be expressed to take effect;
+
+(f) for restricting a tenant's ability to make subsequent references to arbitration where a reference to arbitration or third party determination has already been made under the regulations in relation to the same tenancy.
+
+(6) The provision covered by subsection (5)(e) includes, in the case of a request made for the purpose described in subsection (3)(b)(i), conditions relating to the making of a successful application for assistance.
+
+(7) In this section—
+
+- “appropriate authority” means—
+
+  - (a) in relation to England, the Secretary of State, and
+  - (b) in relation to Wales, the Welsh Ministers;
+
+- “relevant financial assistance” means financial assistance under—
+
+  - (a) section 1 of the Agriculture Act 2020 (powers of Secretary of State to give financial assistance),
+  - (b) section 21 of [[^F54]that Act (powers of Secretary of State] to give financial assistance in exceptional market conditions), [^F55]...
+  - (c) a scheme of the sort mentioned in section 2(4) of that Act (third party schemes);
+  - (d) [[^F56]section 8 of the Agriculture (Wales) Act 2023 (“the 2023 Act”) (Welsh Ministers’ power to provide support),
+  - (e) a scheme of the sort mentioned in section 9(7) of the 2023 Act (meaning of “third party scheme” for purposes of power to provide support),
+  - (f) the basic payment scheme, as defined in section 16 of the 2023 Act (power to modify legislation governing the basic payment scheme),
+  - (g) legislation relating to the financing, management and monitoring of the common agricultural policy, as defined in section 17 of the 2023 Act (power to modify legislation relating to the common agricultural policy),
+  - (h) legislation relating to support for apiculture, as defined in section 18 of the 2023 Act (power to modify legislation relating to support for apiculture),
+  - (i) legislation relating to support for rural development, as defined in section 19 of the 2023 Act (support for rural development), or
+  - (j) section 22 of the 2023 Act (powers of Welsh Ministers to give financial assistance in exceptional market conditions);]
+
+- “statutory duty” means a duty imposed by or under—
+
+  - (a) an Act of Parliament;
+  - (b) an Act or Measure of Senedd Cymru;
+  - (c) [[^F57]assimilated direct] legislation.]
+
+#### 20 Compensation for damage by game.
+
+(1) Where the tenant of an agricultural holding has sustained damage to his crops from any wild animals or birds the right to kill and take which is vested in the landlord or anyone (other than the tenant himself) claiming under the landlord, being animals or birds which the tenant has not permission in writing to kill, he shall, if he complies with the requirements of subsection (2) below, be entitled to compensation from his landlord for the damage.
+
+(2) The requirements of this subsection are that the tenant shall give his landlord—
+
+(a) notice in writing within one month after the tenant first became, or ought reasonably to have become, aware of the occurrence of the damage,
+
+(b) a reasonable opportunity to inspect the damage—
+
+(i) in the case of damage to a growing crop, before the crop is begun to be reaped, raised or consumed, and
+
+(ii) in the case of damage to a crop which has been reaped or raised, before the crop is begun to be removed from the land, and
+
+(c) notice in writing of the claim, together with particulars of it, within one month after the expiry of the year in respect of which the claim is made.
+
+(3) For the purposes of subsection (2) above—
+
+(a) seed once sown shall be treated as a growing crop whether or not it has germinated, and
+
+(b) “year” means any period of twelve months ending, in any year, with 29th September or with such other date as may by agreement between the landlord and tenant be substituted for that date.
+
+(4) The amount of compensation under this section shall, in default of agreement made after the damage has been suffered, be determined by arbitration under this Act.
+
+[[^F58](4A) Notwithstanding subsection (4) above, the tenant and landlord may instead refer for third party determination under this Act the question of the amount of compensation to which the tenant is entitled.]
+
+(5) Where the right to kill and take the wild animals or birds that did the damage is vested in some person other than the landlord, the landlord shall be entitled to be indemnified by that other person against all claims for compensation under this section; and any question arising under this subsection shall be determined by arbitration under this Act.
+
+[[^F59](6) Notwithstanding subsection (5) above, the landlord and the other person may instead refer for third party determination under this Act the questions arising between them under that subsection.]
+
+#### 21 Extension of tenancies in lieu of claims to emblements.
+
+(1) Where the tenancy of an agricultural holding held by a tenant at a rackrent determines by the death or cesser of the estate of any landlord entitled for his life, or for any other uncertain interest, instead of claims to emblements the tenant shall continue to hold and occupy the holding until the occupation is determined by a twelve months’ notice to quit expiring at the end of a year of the tenancy, and shall then quit upon the terms of his tenancy in the same manner as if the tenancy were then determined by effluxion of time or other lawful means during the continuance of his landlord’s estate.
+
+(2) The succeeding landlord shall be entitled to recover from the tenant, in the same manner as his predecessor could have done, a fair proportion of the rent for the period which may have elapsed from the date of the death or cesser of the estate of his predecessor to the time of the tenant so quitting.
+
+(3) The succeeding landlord and the tenant respectively shall as between themselves and as against each other be entitled to all the benefits and advantages and be subject to the terms, conditions and restrictions to which the preceding landlord and the tenant respectively would have been entitled and subject if the tenancy had determined in manner aforesaid at the expiry of the said twelve months’ notice.
+
+#### 22 Rights to require certain records to be made.
+
+(1) At any time during the tenancy of an agricultural holding—
+
+(a) the landlord or the tenant may require the making of a record of the condition of the fixed equipment on the holding and of the general condition of the holding itself (including any parts not under cultivation), and
+
+(b) the tenant may require the making of a record of any fixtures or buildings which, under section 10 above, he is entitled to remove and of existing improvements executed by him or in respect of the execution of which he, with the written consent of the landlord, paid compensation to an outgoing tenant.
+
+(2) Any such record shall be made by a person appointed, [[^F60]by the landlord and tenant (“the parties”) or, in default of agreement between the parties, by a person appointed by a professional authority on the application of either of them; and any person appointed by a professional authority] may, on production of evidence of his appointment, enter the holding at all reasonable times for the purpose of making any such record.
+
+[[^F61](2A) A party may not make an application to a professional authority under subsection (2) in any case if the other party has already made an application to a professional authority under that subsection in that case.]
+
+(3) The cost of making any such record shall, in default of agreement between the landlord and tenant, be borne by them in equal shares.
+
+(4) No application may be made to [[^F62]a professional authority] for a person to be appointed by [[^F63]that authority] under subsection (2) above unless the application is accompanied by such fee as may be prescribed as the fee for such an application.
+
+(5) Any instrument of appointment purporting to be made by [[^F64]a professional authority] by virtue of subsection (2) above and to be signed by or on behalf of [[^F65]that authority] shall be taken to be such an instrument unless the contrary is shown.
+
+[[^F66](6) In this section “professional authority” has the same meaning as in section 84.]
+
+#### 23 Landlord’s power of entry.
+
+The landlord of an agricultural holding or any person authorised by him may at all reasonable times enter on the holding for any of the following purposes, namely—
+
+(a) viewing the state of the holding,
+
+(b) fulfilling the landlord’s responsibilities to manage the holding in accordance with the rules of good estate management,
+
+(c) providing or improving fixed equipment on the holding otherwise than in fulfilment of those responsibilities.
+
+#### 24 Restriction of landlord’s remedies for breach of contract of tenancy.
+
+Notwithstanding any provision in a contract of tenancy of an agricultural holding making the tenant liable to pay a higher rent or other liquidated damages in the event of a breach or non-fulfilment of a term or condition of the contract, the landlord shall not be entitled to recover in consequence of any such breach or non-fulfilment[^F67]... any sum in excess of the damage actually suffered by him in consequence of the breach or non-fulfilment.
+
+## Part III — Notices to Quit
+
+### Notices to quit whole or part of agricultural holding
+
+#### 25 Length of notice to quit.
+
+(1) A notice to quit an agricultural holding or part of an agricultural holding shall (notwithstanding any provision to the contrary in the contract of tenancy of the holding) be invalid if it purports to terminate the tenancy before the expiry of twelve months from the end of the then current year of tenancy.
+
+(2) Subsection (1) above shall not apply—
+
+(a) where the tenant is insolvent,
+
+(b) to a notice given in pursuance of a provision in the contract of tenancy authorising the resumption of possession of the holding or some part of it for some specified purpose other than the use of the land for agriculture,
+
+(c) to a notice given by a tenant to a sub-tenant,
+
+(d) where the tenancy is one which, by virtue of subsection (6) of section 149 of the [^M7]Law of Property Act 1925, has taken effect as such a term of years as is mentioned in that subsection.
+
+(3) Where on a reference under section 12 above with respect to an agricultural holding the arbitrator [[^F68]or third party] determines that the rent payable in respect of the holding shall be increased, a notice to quit the holding given by the tenant at least six months before it purports to take effect shall not be invalid by virtue of subsection (1) above if it purports to terminate the tenancy at the end of the year of the tenancy beginning with the date as from which the increase of rent is effective.
+
+(4) On an application made to the Tribunal with respect to an agricultural holding under paragraph 9 of Part II of Schedule 3 to this Act, the Tribunal may, if they grant a certificate in accordance with the application—
+
+(a) specify in the certificate a minimum period of notice for termination of the tenancy (not being a period of less than two months), and
+
+(b) direct that that period shall apply instead of the period of notice required in accordance with subsection (1) above;
+
+and in any such case a notice to quit the holding which states that the Tribunal have given a direction under this subsection shall not be invalid by virtue of subsection (1) above if the notice given is not less than the minimum notice specified in the certificate.
+
+(5) A notice to quit within subsection (3) or (4) above shall not be invalid by virtue of any term of the contract of tenancy requiring a longer period of notice to terminate the tenancy, and a notice to quit within subsection (4) above shall not be invalid by reason of its terminating at a date other than the end of a year of the tenancy.
+
+#### 26 Restriction on operation of notices to quit.
+
+(1) Where—
+
+(a) notice to quit an agricultural holding or part of an agricultural holding is given to the tenant, and
+
+(b) not later than one month from the giving of the notice to quit the tenant serves on the landlord a counter-notice in writing requiring that this subsection shall apply to the notice to quit,
+
+then, subject to subsection (2) below, the notice to quit shall not have effect unless, on an application by the landlord, the Tribunal consent to its operation.
+
+(2) Subsection (1) above shall not apply in any of the Cases set out in Part I of Schedule 3 to this Act; and in this Act “Case A”, “Case B” (and so on) refer severally to the Cases set out and so named in that Part of that Schedule.
+
+(3) Part II of that Schedule shall have effect in relation to the Cases there specified.
+
+#### 27 Tribunal’s consent to operation of notice to quit.
+
+(1) Subject to subsection (2) below, the Tribunal shall consent under section 26 above to the operation of a notice to quit an agricultural holding or part of an agricultural holding if, but only if, they are satisfied as to one or more of the matters mentioned in subsection (3) below, being a matter or matters specified by the landlord in his application for their consent.
+
+(2) Even if they are satisfied as mentioned in subsection (1) above, the Tribunal shall withhold consent under section 26 above to the operation of the notice to quit if in all the circumstances it appears to them that a fair and reasonable landlord would not insist on possession.
+
+(3) The matters referred to in subsection (1) above are—
+
+(a) that the carrying out of the purpose for which the landlord proposes to terminate the tenancy is desirable in the interests of good husbandry as respects the land to which the notice relates, treated as a separate unit;
+
+(b) that the carrying out of the purpose is desirable in the interests of sound management of the estate of which the land to which the notice relates forms part or which that land constitutes;
+
+(c) that the carrying out of the purpose is desirable for the purposes of agricultural research, education, experiment or demonstration, or for the purposes of the enactments relating to smallholdings;
+
+(d) that the carrying out of the purpose is desirable for the purposes of the enactments relating to allotments;
+
+(e) that greater hardship would be caused by withholding than by giving consent to the operation of the notice;
+
+(f) that the landlord proposes to terminate the tenancy for the purpose of the land’s being used for a use, other than for agriculture, not falling within Case B.
+
+(4) Where the Tribunal consent under section 26 above to the operation of a notice to quit, they may impose such conditions as appear to them requisite for securing that the land to which the notice relates will be used for the purpose for which the landlord proposes to terminate the tenancy.
+
+(5) Where, on an application by the landlord, the Tribunal are satisfied that, by reason of any change of circumstances or otherwise, any condition imposed under subsection (4) above ought to be varied or revoked, they shall vary or revoke the condition accordingly.
+
+(6) Where—
+
+(a) on giving consent under section 26 above to the operation of a notice to quit the Tribunal imposed a condition under subsection (4) above, and
+
+(b) it is proved on an application to the Tribunal on behalf of the Crown that the landlord has acted in contravention of the condition or has failed within the time allowed by the condition to comply with it,
+
+the Tribunal may by order impose on the landlord a penalty of an amount not exceeding two years’ rent of the holding at the rate at which rent was payable immediately before the termination of the tenancy, or, where the notice to quit related to a part only of the holding, of an amount not exceeding the proportion of the said two years’ rent which it appears to the Tribunal is attributable to that part.
+
+(7) The [[^F69]Agricultural Land Tribunal] may, in proceedings under this section, by order provide for the payment by any party of such sum as the [[^F69]Agricultural Land Tribunal] consider a reasonable contribution towards costs.
+
+(8) A penalty imposed under subsection (6) above shall be a debt due to the Crown and shall, when recovered, be paid into the Consolidated Fund.
+
+(9) An order under subsection (6) or (7) above shall be enforceable in the same manner as a judgment or order of the county court to the like effect.
+
+#### 28 Additional restrictions on operation of notice to quit given under Case D.
+
+(1) This section applies where—
+
+(a) notice to quit an agricultural holding or part of an agricultural holding is given to the tenant, and
+
+(b) the notice includes a statement in accordance with Case D to the effect that it is given by reason of the tenant’s failure to comply with a notice to do work.
+
+(2) If the tenant serves on the landlord a counter-notice in writing in accordance with subsection (3) or (4) below requiring that this subsection shall apply to the notice to quit, the notice to quit shall not have effect (whether as a notice to which section 26(1) above does or does not apply) unless, on an application by the landlord, the Tribunal consent to its operation.
+
+(3) Subject to subsection (4) below, a counter-notice under subsection (2) above shall be served not later than one month from the giving of the notice to quit.
+
+(4) Where the tenant not later than one month from the giving of the notice to quit serves on the landlord an effective notice requiring the validity of the reason stated in the notice to quit to be determined by arbitration under this Act—
+
+(a) any counter-notice already served under subsection (2) above shall be of no effect, but
+
+(b) if the notice to quit would, apart from this subsection, have effect in consequence of the arbitration, the tenant may serve a counter-notice under subsection (2) not later than one month from the date on which the arbitrator’s award is delivered to him.
+
+(5) The Tribunal shall consent under subsection (2) above to the operation of the notice to quit unless it appears to them, having regard—
+
+(a) to the extent to which the tenant has failed to comply with the notice to do work,
+
+(b) to the consequences of his failure to comply with it in any respect, and
+
+(c) to the circumstances surrounding any such failure,
+
+that a fair and reasonable landlord would not insist on possession.
+
+(6) In this section “notice to do work” means a notice served on a tenant of an agricultural holding for the purposes of paragraph (b) of Case D, being a notice requiring the doing of any work of repair, maintenance or replacement.
+
+#### 29 Power to make supplementary provision.
+
+The Lord Chancellor may by order provide for any of the matters specified in Schedule 4 to this Act.
+
+#### 30 Notice to quit where tenant is a service man.
+
+Schedule 5 to this Act, which makes provision as to notices to quit in cases where the tenant of an agricultural holding is a service man, shall have effect.
+
+### Notices to quit part of agricultural holding
+
+#### 31 Notice to quit part of holding valid in certain cases.
+
+(1) A notice to quit part of an agricultural holding held on a tenancy from year to year given by the landlord of the holding shall not be invalid on the ground that it relates to part only of the holding if it is given—
+
+(a) for the purpose of adjusting the boundaries between agricultural units or amalgamating agricultural units or parts of such units, or
+
+(b) with a view to the use of the land to which the notice relates for any of the objects mentioned in subsection (2) below,
+
+and the notice states that it is given for that purpose or with a view to any such use, as the case may be.
+
+(2) The objects referred to in subsection (1) above are—
+
+(a) the erection of cottages or other houses for farm labourers, whether with or without gardens;
+
+(b) the provision of gardens for cottages or other houses for farm labourers;
+
+(c) the provision of allotments;
+
+(d) the letting of land (with or without other land) as a smallholding under Part III of the [^M8]Agriculture Act 1970;
+
+(e) the planting of trees;
+
+(f) the opening or working of a deposit of coal, ironstone, limestone, brick-earth or other mineral, or a stone quarry or a clay, sand or gravel pit, or the construction of any works or buildings to be used in connection therewith;
+
+(g) the making of a watercourse or reservoir;
+
+(h) the making of a road, railway, tramroad, siding, canal of basin, or a wharf, pier, or other work connected therewith.
+
+#### 32 Right to treat notice to quit part of holding as notice to quit entire holding.
+
+(1) Where there is given to the tenant of an agricultural holding a notice to quit part of the holding, being either—
+
+(a) such a notice as is rendered valid by section 31 above, or
+
+(b) a notice given by a person entitled to a severed part of the reversionary estate in the holding,
+
+subsection (2) below shall apply.
+
+(2) If—
+
+(a) within twenty-eight days after the giving of the notice, or
+
+(b) where the operation of the notice depends on any proceedings under this Part of this Act, within twenty-eight days after the time at which it is determined that the notice has effect,
+
+the tenant gives to the landlord or (as the case may be) to the persons severally entitled to the severed parts of the reversion a counter-notice in writing to the effect that he accepts the notice to quit as a notice to quit the entire holding given by the landlord or (as the case may be) those persons, to take effect at the same time as the original notice, the notice to quit shall have effect accordingly.
+
+#### 33 Reduction of rent where notice is given to quit part of holding.
+
+(1) Where the landlord of an agricultural holding resumes possession of part of the holding either—
+
+(a) by virtue of section 31(1) above, or
+
+(b) in pursuance of a provision in that behalf contained in the contract of tenancy,
+
+the tenant shall be entitled to a reduction of rent proportionate to that part of the holding and in respect of any depreciation of the value to him of the residue of the holding caused by the severance or by the use to be made of the part severed.
+
+(2) The amount of any reduction of rent under this section shall, in default of agreement made after the landlord resumes possession of the part of the holding concerned, be determined by arbitration under this Act.
+
+[[^F70](2A) Notwithstanding subsection (2) above, the tenant and landlord may instead refer for third party determination under this Act the question of the amount of any reduction of rent to which the tenant is entitled under this section.]
+
+(3) In a case falling within subsection (1)(b) above that falls to be determined by arbitration [[^F71]or third party determination] under this Act the arbitrator [[^F72]or (as the case may be) the third party], in assessing the amount of the reduction, shall take into consideration any benefit or relief allowed to the tenant under the contract of tenancy in respect of the land possession of which is resumed by the landlord.
+
+## Part IV — Succession on Death or Retirement of Tenant
+
+### Tenancies to which Part IV applies
+
+#### 34 Tenancies to which Part IV applies.
+
+(1) The provisions of this Part of this Act shall have effect with respect to—
+
+(a) any tenancy of an agricultural holding granted before 12th July 1984, and
+
+(b) a tenancy granted on or after that date if (but only if)—
+
+(i) the tenancy was obtained by virtue of a direction of the Tribunal under section 39 or 53 below,
+
+(ii) the tenancy was granted (following a direction under section 39 below) in circumstances within section 45(6) below,
+
+(iii) the tenancy was granted by a written contract of tenancy indicating (in whatever terms) that this Part of this Act is to apply in relation to the tenancy, or
+
+(iv) the tenancy was granted otherwise than as mentioned in the preceding provisions of this subsection to a person who, immediately before that date, was a tenant of the holding or of any agricultural holding which comprised the whole or a substantial part of the land comprised in the holding.
+
+(2) In this section “tenant” does not include an executor, administrator, trustee in bankruptcy or other person deriving title from a tenant by operation of law.
+
+[[^F73](3) Where this Act applies in relation to a tenancy by virtue of section 4(1)(g) of the Agricultural Tenancies Act 1995 [^F74], the reference in subsection (1)(b)(iv) above to a substantial part of the land comprised in the holding means a substantial part determined by reference to either area or value.]
+
+### Succession on death of tenant
+
+#### 35 Application of sections 36 to 48.
+
+(1) Sections 36 to 48 below (except sections 40(5), 42 and 45(8) which are of general application) shall apply where—
+
+(a) an agricultural holding is held under a tenancy which falls within paragraph (a) or (b) of section 34(1) above, and
+
+(b) the sole (or sole surviving) tenant (within the meaning of that section) dies and is survived by a close relative of his.
+
+(2) In sections 36 to 48 below [^F75]...—
+
+- “close relative” of a deceased tenant means—
+
+  - (a) the wife [[^F76], husband or civil partner] of the deceased;
+  - (b) a brother or sister of the deceased;
+  - (c) a child of the deceased;
+  - (d) any person (not within (b) or (c) above) who, in the case of any marriage [[^F77]or civil partnership] to which the deceased was at any time a party, was treated by the deceased as a child of the family in relation to that marriage [[^F77]or civil partnership];
+
+- “the date of death” means the date of the death of the deceased;
+
+- “the deceased” means the deceased tenant of the holding;
+
+- “the holding” (except where the context otherwise requires) means the agricultural holding mentioned in subsection (1) above;
+
+- “related holding” means, in relation to the holding, any agricultural holding comprising the whole or a substantial part of the land comprised in the holding;
+
+- “the tenancy” means the tenancy of the holding.
+
+[[^F78](3) Where this Act applies in relation to a tenancy by virtue of section 4(1)(g) of the Agricultural Tenancies Act 1995, the reference in subsection (2) above (in the definition of related holding) to a substantial part of the land comprised in the holding means a substantial part determined by reference to either area or value.]
+
+#### 36 Right of any eligible person to apply for new tenancy on death of tenant.
+
+(1) Any eligible person may apply under section 39 below to the Tribunal for a direction entitling him to a tenancy of the holding unless excluded by subsection (2) or section 37 or 38 below.
+
+(2) Subsection (1) above (and section 41 below) shall not apply if on the date of death the holding was held by the deceased under—
+
+(a) a tenancy for a fixed term of years of which more than twenty-seven months remained unexpired, or
+
+(b) a tenancy for a fixed term of more than one but less than two years.
+
+(3) For the purposes of this section and sections 37 to 48 below, “eligible person” means ([^F79]... without prejudice to section 41 below) any surviving close relative of the deceased in whose case the following [[^F80]condition is] satisfied—
+
+(a) in the seven years ending with the date of death his only or principal source of livelihood throughout a continuous period of not less than five years, or two or more discontinuous periods together amounting to not less than five years, derived from his agricultural work on the holding or on an agricultural unit of which the holding forms part, [^F81] ...
+
+[^F81]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In the case of the deceased’s wife the reference in subsection (3)(a) above to the relative’s agricultural work shall be read as a reference to agricultural work carried out by either the wife or the deceased (or both of them).
+
+[[^F82](4A) In the case of the deceased’s civil partner the reference in subsection (3)(a) above to the relative’s agricultural work shall be read as a reference to agricultural work carried out by either the civil partner or the deceased (or both of them).]
+
+[[^F83](5) For the purposes of the condition in subsection (3)(a), any period during which a close relative of the deceased was, in the period of seven years mentioned in that condition, attending a full-time course at a university, college or other establishment of higher or further education shall be treated as a period throughout which the relative's only or principal source of livelihood derived from the relative's agricultural work on the holding; but not more than three years in all shall be so treated by virtue of this subsection.]
+
+[[^F84](6) The reference in subsection (3)(a) above to agricultural work carried out by a person on the holding or on an agricultural unit of which the holding forms part includes—
+
+(a) agricultural work carried out by him from the holding or an agricultural unit of which the holding forms part, and
+
+(b) other work carried out by him on or from the holding or an agricultural unit of which the holding forms part,
+
+which is of a description approved in writing by the landlord after the commencement of this subsection.]
+
+#### 37 Exclusion of statutory succession where two successions have already occurred.
+
+(1) Section 36(1) above (and section 41 below) shall not apply if on each of the last two occasions when there died a sole (or sole surviving) tenant of the holding or of a related holding there occurred one or other of the following things, namely—
+
+(a) a tenancy of the holding or of a related holding was obtained by virtue of a direction of the Tribunal under section 39 below, or such a tenancy was granted (following such a direction) in circumstances within section 45(6) below, or
+
+(b) a tenancy of the holding or of a related holding was granted by the landlord to a person who, being a close relative of the tenant who died on that occasion, was or had become the sole or sole remaining applicant for such a direction.
+
+(2) If on any occasion prior to the date of death, as a result of an agreement between the landlord and the tenant for the time being of the holding or of a related holding, the holding or a related holding became let—
+
+(a) under a tenancy granted by the landlord, or
+
+(b) by virtue of an assignment of the current tenancy,
+
+to a person who, if the said tenant had died immediately before the grant or assignment would have been his close relative, that occasion shall for the purposes of subsection (1) above be deemed to be an occasion such as is mentioned in that subsection on which a tenancy of the holding or a related holding was obtained by virtue of a direction of the Tribunal under section 39 below.
+
+(3) If any such tenancy was granted as mentioned in subsection (2) above for a term commencing later than the date of the grant, the holding under that tenancy shall for the purposes of that subsection not be taken to have become let under that tenancy until the commencement of the term.
+
+(4) Subsections (1) and (2) above—
+
+(a) shall apply whether or not any tenancy granted or obtained (otherwise than by virtue of an assignment) as mentioned in those provisions related to the whole of the land held by the tenant on the occasion of whose death, or with whose agreement, the tenancy was so granted or obtained, as the case may be, and
+
+(b) shall apply where a joint tenancy is granted by the landlord to persons one of whom is a person such as is mentioned in either of those subsections as they apply where a tenancy is granted by the landlord to any such person alone.
+
+(5) Subsection (2) above shall apply where a tenancy is assigned to joint tenants one of whom is a person such as is mentioned in that subsection as it applies where a tenancy is assigned to any such person alone.
+
+(6) Where a tenancy of the holding or of a related holding was obtained by virtue of a direction of the Tribunal under section 53(7) below, that occasion shall for the purposes of subsection (1) above be deemed to be an occasion such as is mentioned in that subsection on which a tenancy of the holding or a related holding was obtained by virtue of a direction of the Tribunal under section 39 below.
+
+(7) Subsection (2) above shall, in relation to any time before 12th September 1984, have effect with the substitution for the words from “as a result” to “grant or assignment” of the words “the holding or a related holding became let under a new tenancy granted by the landlord, with the agreement of the outgoing tenant, to a person who, if the outgoing tenant had died immediately before the grant”.
+
+(8) Subsections (4) and (5) above shall not apply in relation to any tenancy if—
+
+(a) it was granted before 12th September 1984,
+
+(b) it was obtained by virtue of any direction given in any proceedings arising out of an application made under Part II of the [^M9]Agriculture (Miscellaneous Provisions) Act 1976 before 12th September 1984, or
+
+(c) it was granted (following such a direction) in circumstances within section 23(6) of the said Act of 1976.
+
+(9) In this section “tenant” has the same meaning as in section 34 above.
+
+#### 38 Other excluded cases.
+
+(1) Section 36(1) above (and section 41 below) shall not apply if on the date of death the tenancy is the subject of a valid notice to quit to which subsection (1) of section 26 above applies, being a notice given before that date in the case of which—
+
+(a) the month allowed by that subsection for serving a counter-notice under that subsection expired before that date without such a counter-notice having been served, or
+
+(b) the Tribunal consented before that date to its operation.
+
+(2) Section 36(1) (and section 41) shall not apply if on the date of death the tenancy is the subject of a valid notice to quit given before that date and falling within Case C or F.
+
+(3) Those sections shall not apply if on the date of death the tenancy is the subject of a valid notice to quit given before that date and falling within Case B, D or E, and
+
+(a) the time within which the tenant could have required any question arising in connection with the notice to be determined by arbitration under this Act expired before that date without such a requirement having been made by the tenant, and the month allowed for serving any counter-notice in respect of the notice expired before that date without any such counter-notice having been served, or
+
+(b) questions arising in connection with the notice were referred to arbitration under this Act before that date and were determined before that date in such a way as to uphold the operation of the notice and (where applicable) the month allowed for serving any counter-notice in respect of the notice expired before that date without a counter-notice having been served, or
+
+(c) the Tribunal consented before that date to the operation of the notice.
+
+(4) Those sections shall not apply if the holding consists of land held by a smallholdings authority or the Minister for the purposes of smallholdings within the meaning of Part III of the [^M10]Agriculture Act 1970 (whether the tenancy was granted before or after the commencement of the said Part III).
+
+(5) Those sections shall not apply if the tenancy was granted by trustees in whom the land is vested on charitable trusts the sole or principle object of which is the settlement or employment in agriculture of persons who have served in any of Her Majesty’s naval, military or air forces.
+
+#### 39 Applications for tenancy of holding.
+
+(1) An application under this section by an eligible person to the Tribunal for a direction entitling him to a tenancy of the holding shall be made within the period of three months beginning with the day after the date of death.
+
+(2) Where only one application is made under this section the Tribunal, if satisfied—
+
+(a) that the applicant was an eligible person at the date of death, and
+
+(b) that he has not subsequently ceased to be such a person,
+
+shall determine whether he is in their opinion a suitable person to become the tenant of the holding.
+
+(3) Where two or more applications are made under this section, then, subject to subsection (4) below, subsection (2) above shall apply to each of the applicants as if he were the only applicant.
+
+(4) If the applicants under this section include a person validly designated by the deceased in his will as the person he wished to succeed him as tenant of the holding, the Tribunal shall first make a determination under subsection (2) above as regards that person, and shall do so as regards the other applicant or each of the other applicants only if the Tribunal determine that the person so designated is not in their opinion a suitable person to become the tenant of the holding.
+
+(5) If under the preceding provisions of this section only one applicant is determined by the Tribunal to be in their opinion a suitable person to become the tenant of the holding, the Tribunal shall, subject to subsection (10) and section 44 below, give a direction entitling him to a tenancy of the holding.
+
+(6) If under the preceding provisions of this section each of two or more applicants is determined by the Tribunal to be in their opinion a suitable person to become the tenant of the holding, the Tribunal—
+
+(a) shall, subject to subsection (9) below, determine which of those applicants is in their opinion the more or most suitable person to become the tenant of the holding, and
+
+(b) shall, subject to subsection (10) and section 44 below, give a direction entitling that applicant to a tenancy of the holding.
+
+(7) Before making a determination under subsection (2) above in the case of any applicant the Tribunal shall afford the landlord an opportunity of stating his views on the suitability of that applicant.
+
+[[^F85](8) For the purposes of this section, a person's suitability to become the tenant of a holding is to be determined (having regard to any views stated by the landlord) in accordance with criteria specified in regulations made by—
+
+(a) the Secretary of State, in relation to England, and
+
+(b) the Welsh Ministers, in relation to Wales.
+
+(8A) The criteria referred to in subsection (8) must relate to the person's likely capacity to farm the holding commercially to high standards of efficient production and care for the environment, and may in particular include—
+
+(a) criteria relating to the person's experience, training or skills in agriculture or business management;
+
+(b) criteria relating to the person's physical health, financial standing or character;
+
+(c) criteria relating to the character or condition of the holding or the terms of the tenancy.]
+
+(9) Where subsection (6) above would apply apart from this subsection, the Tribunal may, with the consent of the landlord, give instead a direction specifying any two, any three or any four of the applicants within that subsection, and entitling the specified applicants to a joint tenancy of the holding.
+
+(10) Where the person or persons who would, subject to section 44 below, be entitled to a direction under this section entitling him or them to a tenancy or (as the case may be) to a joint tenancy of the holding agree to accept instead a tenancy or joint tenancy of a part of the holding, any direction given by the Tribunal under subsection (5), (6) or (9) above shall relate to that part of the holding only.
+
+#### 40 Provisions supplementary to section 39.
+
+(1) In section 39 above “will” includes codicil, and for the purposes of that section a person shall be taken to be validly designated by the deceased in his will as the person he wishes to succeed him as tenant of the holding if, but only if, a will of the deceased which is the subject of a grant of probate or administration—
+
+(a) contains an effective specific bequest to that person of the deceased’s tenancy of the holding, or
+
+(b) does not contain an effective specific bequest of that tenancy, but does contain a statement specifically mentioning the holding or the deceased’s tenancy of the holding and exclusively designating that person (in whatever words, and whether by name or description) as the person whom the deceased wishes to succeed him as tenant of the holding.
+
+(2) For the purposes of subsection (1) above a statement which is framed so as to designate as mentioned in paragraph (b) of that subsection different persons in different circumstances shall be taken to satisfy that paragraph if, in the events which have happened, the statement exclusively designates a particular person.
+
+(3) A direction under section 39 above given in favour of a person by reason of his being a person validly designated by the deceased as mentioned in subsection (4) of that section shall be valid even if the probate or administration by virtue of which he was such a person at the giving of the direction is subsequently revoked or varied.
+
+(4) For the purposes of this Part of this Act an application under section 39 above which is withdrawn or abandoned shall be treated as if it had never been made.
+
+[[^F86](5) Provision shall be made by Tribunal Procedure Rules and by order under section 73(3) of the Agriculture Act 1947 (procedure of Agricultural Land Tribunal) for requiring any person making an application to the Tribunal under section 39 or section 41 to give notice of the application to the landlord of the agricultural holding to which the application relates and to take such steps as the rules or the order may require for bringing the application to the notice of other persons interested in the outcome of the application.]
+
+#### 41 Application by not fully eligible person to be treated as eligible.
+
+(1) This section applies to any surviving close relative of the deceased who for some part of the seven years ending with the date of death engaged (whether full-time or part-time) in agricultural work on the holding, being a person in whose case—
+
+[^F87]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) the condition specified in paragraph (a) of that definition, though not fully satisfied, is satisfied to a material extent.
+
+(2) A person to whom this section applies may within the period of three months beginning with the day after the date of death apply to the Tribunal for a determination that he is to be treated as an eligible person for the purposes of sections 36 to 48 of this Act.
+
+(3) If on an application under this section—
+
+(a) the Tribunal are satisfied that the applicant is a person to whom this section applies, and
+
+(b) it appears to the Tribunal that in all the circumstances it would be fair and reasonable for the applicant to be able to apply under section 39 above for a direction entitling him to a tenancy of the holding,
+
+the Tribunal shall determine that he is to be treated as an eligible person for the purposes of sections 36 to 48 of this Act, but shall otherwise dismiss the application.
+
+(4) In relation to a person in respect of whom the Tribunal have determined as mentioned in subsection (3) above sections 36 to 48 of this Act shall apply as if he were an eligible person.
+
+(5) A person to whom this section applies may make an application under section 39 above as well as an application under this section; and if the Tribunal determine as mentioned in subsection (3) above in respect of a person who has made an application under that section, the application under that section shall (without prejudice to subsection (4) above) be treated as made by an eligible person.
+
+(6) Without prejudice to the generality of paragraph (b) of subsection (1) above, cases where the condition mentioned in that paragraph might be less than fully satisfied include cases where the close relative’s agricultural work on the holding fell short of providing him with his principal source of livelihood because the holding was too small.
+
+[[^F88](7) The references in subsections (1) and (6) above to agricultural work carried out by a person on the holding include—
+
+(a) agricultural work carried out by him from the holding, and
+
+(b) other work carried out by him on or from the holding,
+
+which is of a description approved in writing by the landlord after the commencement of this subsection.]
+
+#### [[^F89]42 Procedure where deceased held more than one holding.
+
+(1) This section has effect where at the expiry of the period of three months beginning with the day after the date of death of a tenant there are pending before the First-tier Tribunal, or the Agricultural Land Tribunal, or both of them, separate applications made under section 39 above by any person or (as the case may be) by each one of a number of persons, in respect of more than one agricultural land holding.
+
+(2) If the applications are pending in both the First-tier Tribunal and the Agricultural Land Tribunal, they (together with any associated application made under section 41 above) shall be heard and determined by—
+
+(a) the First-tier Tribunal, if the largest holding is in England, and
+
+(b) the Agricultural Land Tribunal, if the largest holding is in Wales.
+
+(3) The order in which the applications (together with any associated application made under section 41 above) are heard and determined shall, subject to and in accordance with the provisions of any such order as is referred to in section 40(5) above, be such as may be decided—
+
+(a) where the applications were made by one person, by that person,
+
+(b) where the applications were made by two or more persons, by agreement between those persons or, in default of agreement—
+
+(i) by the First-tier Tribunal (if that tribunal is hearing and determining the applications), or
+
+(ii) by the chairman of the Agricultural Land Tribunal (if that tribunal is hearing and determining the applications).
+
+(4) Any decision under subsection (3)(b)(i) or (ii) shall be made according to the respective size of the holdings concerned so that any application in respect of any holding which is larger than any of those holdings shall be heard and determined before any application in respect of that other holding.]
+
+#### 43 Restriction on operation of notice to quit given by reason of death of tenant.
+
+(1) A notice to quit the holding given to the tenant of the holding by reason of the death of the deceased and falling within Case G shall not have effect unless—
+
+(a) no application to become the tenant of the holding is made (or has already at the time of the notice to quit been made) under section 39 above within the period mentioned in subsection (1) of that section, or
+
+(b) one or more such applications having been made within that period—
+
+(i) none of the applicants is determined by the Tribunal to be in their opinion a suitable person to become the tenant of the holding, or
+
+(ii) the Tribunal consent under section 44 below to the operation of the notice to quit in relation to the whole or part of the holding.
+
+(2) Where the Tribunal consent under section 44 below to the operation of a notice to quit to which subsection (1) above applies in relation to part only of the holding, the notice shall have effect accordingly as a notice to quit that part and shall not be invalid by reason that it relates only to part of the holding.
+
+#### 44 Opportunity for landlord to obtain Tribunal’s consent to operation of notice to quit.
+
+(1) Before giving a direction under section 39(5) or (6) above in a case where a notice to quit to which section 43(1) above applies has been given the Tribunal shall afford the landlord an opportunity of applying for their consent under this section to the operation of the notice.
+
+(2) Subject to subsection (5) below, section 27 above shall apply in relation to an application for, or the giving of, the Tribunal’s consent under this section as it applies in relation to an application for, or the giving of, their consent under section 26 above.
+
+(3) The Tribunal shall not entertain an application for their consent to the operation of a notice to quit to which section 43(1) above applies unless it is made in pursuance of subsection (1) above.
+
+(4) Subject to subsection (5) below, if the Tribunal give their consent on an application made in pursuance of subsection (1) above, they shall dismiss the application or each of the applications made under section 39 above.
+
+(5) Where in any case—
+
+(a) a notice to quit to which section 43(1) above applies has been given, and
+
+(b) section 39(10) above applies,
+
+the Tribunal shall give their consent to the operation of the notice to quit in relation to the part of the holding which would, in accordance with section 39(10), be excluded from any direction given by the Tribunal with respect to the holding under section 39; and subsections (2) and (4) above shall not apply.
+
+(6) If on an application made in pursuance of subsection (1) above the Tribunal give their consent to the operation of a notice to quit—
+
+(a) within the period of three months ending with the date on which the notice purports to terminate the tenancy (“the original operative date”), or
+
+(b) at any time after that date,
+
+the Tribunal may, on the application of the tenant, direct that the notice shall have effect from a later date (“the new operative date”).
+
+(7) The new operative date, in the case of a notice to quit, must be a date not later than the end of the period of three months beginning with—
+
+(a) the original operative date, or
+
+(b) the date on which the Tribunal give their consent to the operation of the notice,
+
+whichever last occurs.
+
+#### 45 Effect of direction under section 39.
+
+(1) A direction by the Tribunal—
+
+(a) under section 39(5) or (6) above entitling an applicant to a tenancy of the holding, or
+
+(b) under section 39(9) above entitling two or more applicants to a joint tenancy of the holding,
+
+shall entitle him or them to a tenancy or joint tenancy of the holding as from the relevant time on the terms provided by sections 47 and 48 below; and accordingly such a tenancy or joint tenancy shall be deemed to be at that time granted by the landlord to, and accepted by, the person or persons so entitled.
+
+(2) Where the deceased’s tenancy was not derived from the interest held by the landlord at the relevant time, the tenancy or joint tenancy deemed by virtue of subsection (1) above to be granted to, and accepted by, the person or persons so entitled shall be deemed to be granted by the person for the time being entitled to the interest from which the deceased’s tenancy was derived, instead of by the landlord, with like effect as if the landlord’s interest and any other supervening interest were not subsisting at the relevant time.
+
+(3) The reference in subsection (2) above to a supervening interest is a reference to any interest in the land comprised in the deceased’s tenancy, being an interest created subsequently to that tenancy and derived (whether immediately or otherwise) from the interest from which that tenancy was derived and still subsisting at the relevant time.
+
+(4) Subsection (2) above shall not be read as affecting the rights and liabilities of the landlord under this Part of this Act.
+
+(5) Any tenancy of the holding inconsistent with the tenancy to which a direction such as is mentioned in subsection (1) above entitles the person or persons concerned shall, if it would not cease at the relevant time apart from this subsection, cease at that time as if terminated at that time by a valid notice to quit given by the tenant.
+
+(6) If the person or persons whom such a direction entitles to a tenancy or joint tenancy of the holding as from the relevant time becomes or become the tenant or joint tenants of the holding before that time under a tenancy granted by the landlord to, and accepted by, the person or persons concerned, the direction shall cease to have effect and section 48 below shall not apply.
+
+(7) The rights conferred on any person by such a direction (as distinct from his rights under his tenancy of the holding after he has become the tenant or joint tenant of the holding) shall not be capable of assignment.
+
+(8) The Lord Chancellor may by regulations provide for all or any of the provisions of sections 36 to 48 of this Act (except this subsection) to apply, with such exceptions, additions or other modifications as may be specified in the regulations, in cases where the person or any of the persons whom such a direction entitles to a tenancy or joint tenancy of the holding dies before the relevant time.
+
+#### 46 Interpretation of section 45.
+
+(1) Subject to subsection (2) below, in sections 45 above and 48 below “the relevant time”—
+
+(a) except where the following paragraph applies, means the end of the twelve months immediately following the end of the year of tenancy in which the deceased died,
+
+(b) if a notice to quit the holding was given to the tenant by reason of the death of the deceased, being a notice falling within Case G which, apart from section 43 above, would have terminated the tenancy at a time after the end of those twelve months, means that time.
+
+(2) Where the Tribunal give a direction under section 39(5), (6) or (9) above in relation to the holding at any time after the beginning of the period of three months ending with the relevant time apart from this subsection (“the original relevant time”), then—
+
+(a) if the direction is given within that period, the Tribunal may, on the application of the tenant, specify in the direction, as the relevant time for the purposes of this section and section 48 below, such a time falling within the period of three months immediately following the original relevant time as they think fit,
+
+(b) if the direction is given at any time after the original relevant time the Tribunal shall specify in the direction, as the relevant time for those purposes, such a time falling within the period of three months immediately following the date of the giving of the direction as they think fit,
+
+and any time so specified shall be the relevant time for those purposes accordingly.
+
+(3) Where in accordance with section 39(10) above, the tenancy to which a direction under that section entitles the person or persons concerned is a tenancy of part of the deceased’s holding, references in sections 45 above and 48 below to the holding shall be read as references to the whole of the deceased’s holding or to the part of that holding to which the direction relates, as the context requires.
+
+#### [^F90]47 Terms of new tenancy unless varied by arbitration [[^F90]or third party determination ].
+
+(1) Subject to the provisions of this section and section 48 below, the terms of the tenancy or joint tenancy to which a direction under section 39(5), (6) or (9) above entitles the person or persons concerned shall be the same as the terms on which the holding was let immediately before it ceased to be let under the contract of tenancy under which it was let at the date of death.
+
+(2) If on the date of death the holding was held by the deceased under a tenancy for a fixed term of years, subsection (1) above shall have effect as if the tenancy under which the holding was let at the date of death had before that date become a tenancy from year to year on (with that exception) the terms of the actual tenancy as far as applicable.
+
+(3) If the terms of the tenancy to which such a direction entitles the person or persons concerned would not, apart from this subsection, include a covenant by the tenant or each of the tenants not to assign, sub-let or part with possession of the holding or any part of it without the landlord’s consent in writing, subsection (1) above shall have effect as if those terms included such a covenant.
+
+#### [^F91]48 Arbitration [[^F91]or third party determination ] on terms of new tenancy.
+
+(1) Where the Tribunal give a direction such as is mentioned in subsection (1) of section 45 above, the provisions of this section shall apply unless excluded by subsection (6) of that section.
+
+(2) In the following provisions of this section—
+
+- “the landlord” means the landlord of the holding;
+- “the prescribed period” means the period between the giving of the direction and—
+
+(a) the end of the three months immediately following the relevant time, or
+
+(b) the end of the three months immediately following the date of the giving of the direction,
+
+- whichever last occurs;
+- “the relevant time” has the meaning given by subsection (1) or (as the case may require) subsection (2) of section 46 above;
+- “the tenant” means the person or persons entitled to a tenancy or joint tenancy of the holding by virtue of the direction;
+
+and references to the holding shall be read in accordance with section 46(3) above.
+
+[[^F92](3) Where the provisions of this section apply—
+
+(a) the landlord or tenant may by notice in writing served on the other within the prescribed period demand a reference to arbitration under this Act of one or both of the questions specified in subsection (4) below, or
+
+(b) the landlord and tenant may refer for third party determination under this Act one or both of those questions.]
+
+(4) Those questions (referred to in the following provisions of this section as “question (a)” and “question (b)” respectively) are—
+
+(a) what variations in the terms of the tenancy which the tenant is entitled to or has obtained by virtue of the direction are justifiable having regard to the circumstances of the holding and the length of time since the holding was first let on those terms;
+
+(b) what rent should be or should have been properly payable in respect of the holding at the relevant time.
+
+(5) Where question (a) is referred to arbitration [[^F93]or third party determination] under subsection (3) above (with or without question (b)), the arbitrator [[^F94]or (as the case may be) the third party ]—
+
+(a) shall determine what variations, if any, in the terms mentioned in that question are justifiable as there mentioned, and
+
+(b) without prejudice to the preceding paragraph, shall include in his award [[^F95]or determination] such provisions, if any, as are necessary—
+
+(i) for entitling the landlord to recover from the tenant under those terms a sum equal to so much as is in all the circumstances fair and reasonable of the aggregate amount of the compensation mentioned in subsection (8)(a) below, and
+
+(ii) for entitling the tenant to recover from the landlord under those terms a sum equal to so much as is in all the circumstances fair and reasonable of the aggregate amount of the compensation mentioned in subsection (8)(b) below,
+
+and shall accordingly, with effect from the relevant time, vary those terms in accordance with his determination or direct that they are to remain unchanged.
+
+(6) Where question (a) but not question (b) is referred to arbitration [[^F96]or third party determination] under subsection (3) above and it appears to the arbitrator [[^F97] or (as the case may be) the third party] that by reason of any provision included in his award [[^F98]or determination] under subsection (5) above (not being a provision of a kind mentioned in paragraph (b) of that subsection) it is equitable that the rent of the holding should be varied, he may vary the rent accordingly with effect from the relevant time.
+
+(7) Where question (b) is referred to arbitration [[^F99]or third party determination] under subsection (3) above (with or without question (a)), the arbitrator [[^F100]or (as the case may be) the third party] shall determine what rent should be or should have been properly payable in respect of the holding at the relevant time and accordingly shall, with effect from that time, increase or reduce the rent which would otherwise be or have been payable or direct that it shall remain unchanged.
+
+(8) The compensation referred to in subsection (5)(b) above is—
+
+(a) the compensation paid or payable by the landlord, whether under this Act or under agreement or custom, on the termination of the deceased’s tenancy of the holding,
+
+(b) the compensation paid or payable to the landlord, whether under this Act or under agreement, on that termination in respect of any such dilapidation or deterioration of, or damage to, any part of the holding or anything in or on the holding as the tenant is or will be liable to make good under the terms of his tenancy.
+
+(9) For the purposes of this section the rent properly payable in respect of the holding shall be the rent at which the holding might reasonably be expected to be let by a prudent and willing landlord to a prudent and willing tenant, taking into account all relevant factors, including (in every case) the terms of the tenancy or prospective tenancy (including those relating to rent) and any such other matters as are specifically mentioned in sub-paragraph (1) of paragraph 1 of Schedule 2 to this Act (read with sub-paragraphs (2) and (3) of that paragraph).
+
+(10) On any reference under subsection (3) above the arbitrator may include in his award [[^F101]or (as the case may be) the third party may include in his determination] such further provisions, if any, relating to the tenancy which the tenant is entitled to or has obtained by virtue of the direction as may be agreed between the landlord and the tenant.
+
+(11) If the award of an arbitrator [[^F102]or (as the case may be) the determination of a third party] under this section is made before the relevant time, section 47(1) above shall have effect subject to, and in accordance with, the award [[^F103]or determination].
+
+(12) If the award of an arbitrator [[^F104]or (as the case may be) the determination of a third party ] under this section is made after the relevant time, it shall have effect as if the terms of the award [[^F105]or determination] were contained in an agreement in writing entered into by the landlord and the tenant and having effect as from the relevant time.
+
+### Succession on retirement of tenant
+
+#### 49 Application of sections 50 to 58.
+
+(1) Sections 50 to 58 below (except sections 53(11) and 55(7) which are of general application) shall apply where—
+
+(a) an agricultural holding is held under a tenancy from year to year, being a tenancy which falls within paragraph (a) or (b) of section 34(1) above, and
+
+(b) a notice is given to the landlord by the tenant, or (in the case of a joint tenancy) by all the tenants, of the holding indicating (in whatever terms) that he or they wish a single eligible person named in the notice to succeed him or them as tenant of the holding as from a date specified in the notice, being a date on which the tenancy of the holding could have been determined by notice to quit given at the date of the notice and which falls not less than one year, but not more than two years, after the date of the notice.
+
+(2) In subsection (1) above “tenant” has the same meaning as in section 34 above.
+
+(3) In this section and sections 50 to 58 below (and in Part I of Schedule 6 to this Act as applied by section 50(4))—
+
+- “close relative” of the retiring tenant means—
+
+  - (a) the wife [[^F106], husband or civil partner] of the retiring tenant;
+  - (b) a brother or sister of the retiring tenant;
+  - (c) a child of the retiring tenant;
+  - (d) any person (not within (b) or (c) above) who, in the case of any marriage [[^F107]or civil partnership] to which the retiring tenant has been at any time a party, has been treated by the latter as a child of the family in relation to that marriage [[^F107]or civil partnership];
+
+- “eligible person” has the meaning given by section 50 below;
+
+- “the holding” means the holding in respect of which the retirement notice is given;
+
+- “the nominated successor” means the eligible person named in the retirement notice;
+
+- “related holding” means, in relation to the holding, any agricultural holding comprising the whole or a substantial part of the land comprised in the holding;
+
+- “the retirement date” means the date specified in the retirement notice as the date as from which the proposed succession is to take place;
+
+- “the retirement notice” means the notice mentioned in subsection (1) above;
+
+- “the retiring tenant” means the tenant by whom the retirement notice was given, or, where it was given by joint tenants (and the context so permits), any one of those tenants, and “the retiring tenants” accordingly means those tenants;
+
+- “the tenancy” means the tenancy of the holding.
+
+[[^F108](4) Where this Act applies in relation to a tenancy by virtue of section 4(1)(g) of the Agricultural Tenancies Act 1995, the reference in subsection (3) above (in the definition of related holding) to a substantial part of the land comprised in the holding means a substantial part determined by reference to either area or value.]
+
+#### 50 Right to apply for new tenancy on retirement of tenant.
+
+(1) The eligible person named in the retirement notice may (subject to section 57(2) below) apply under section 53 below to the Tribunal for a direction entitling him to a tenancy of the holding unless excluded by section 51 below.
+
+(2) For the purposes of sections 49 to 58 of this Act, “eligible person” means [^F109]... a close relative of the retiring tenant in whose case the following [[^F110]condition is] satisfied—
+
+(a) in the last seven years his only or principal source of livelihood throughout a continuous period of not less than five years, or two or more discontinuous periods together amounting to not less than five years, derived from his agricultural work on the holding or on an agricultural unit of which the holding forms part, [^F111]...
+
+[^F111]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In the case of the wife of the retiring tenant the reference in subsection (2)(a) above to the relative’s agricultural work shall be read as a reference to agricultural work carried out by either the wife or the retiring tenant (or both of them).
+
+[[^F112](3A) In the case of the civil partner of the retiring tenant the reference in subsection (2)(a) above to the relative’s agricultural work shall be read as a reference to agricultural work carried out by either the civil partner or the retiring tenant (or both of them).]
+
+[[^F113](4) For the purposes of the condition in subsection (2)(a), any period during which a close relative of the retiring tenant was, in the period of seven years mentioned in that condition, attending a full-time course at a university, college or other establishment of higher or further education shall be treated as a period throughout which the relative's only or principal source of livelihood derived from the relative's agricultural work on the holding; but not more than three years in all shall be so treated by virtue of this subsection.]
+
+[[^F114](5) The reference in subsection (2)(a) above to agricultural work carried out by a person on the holding or on an agricultural unit of which the holding forms part includes—
+
+(a) agricultural work carried out by him from the holding or an agricultural unit of which the holding forms part, and
+
+(b) other work carried out by him on or from the holding or an agricultural unit of which the holding forms part,
+
+which is of a description approved in writing by the landlord after the commencement of this subsection.]
+
+#### 51 Excluded cases.
+
+(1) Sections 37 and 38 above shall apply for the purpose of excluding the application of section 50(1) above, but subject to the following modifications—
+
+(a) references to sections 36(1) and 41 above shall be read as references to section 50(1),
+
+(b) references to the holding, a related holding and the tenancy shall be read in accordance with section 49(3) above, and
+
+(c) references to the date of death shall be read as references to the date of the giving of the retirement notice.
+
+(2) Section 50(1) shall not apply if the retiring tenant has at any time given any other notice under section 49(1) above in respect of the holding or a related holding and an application to become the tenant of the holding or a related holding has been duly made by any person under section 53 below in respect of that notice.
+
+[^F115]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) If on the date of the giving of the retirement notice the tenancy is the subject of a valid notice to quit given before that date and including a statement that it is given for any such reason as is referred to in Case B, D or E (not being a notice to quit falling within section 38(3) above as applied by subsection (1) above), section 50(1) shall not apply unless one of the events mentioned in subsection (5) below occurs.
+
+(5) Those events are as follows—
+
+(a) it is determined by arbitration under this Act that the notice to quit is ineffective for the purposes of section 26(2) above on account of the invalidity of any such reason as aforesaid, or
+
+(b) where a counter-notice is duly served under section 28(2) above—
+
+(i) the Tribunal withhold consent to the operation of the notice to quit, or
+
+(ii) the period for making an application to the Tribunal for such consent expires without such an application having been made.
+
+(6) Where one of the events mentioned in subsection (5) above occurs the relevant period shall for the purposes of sections 53(1) and 54(2) below be the period of one month beginning with the date on which the arbitrator’s award is delivered to the tenant, with the date of the Tribunal’s decision to withhold consent, or with the expiry of the said period for making an application (as the case may be).
+
+#### 52 Notices to quit restricting operation of section 53.
+
+(1) If the tenancy becomes the subject of a valid notice to quit given on or after the date of the giving of the retirement notice (but before the Tribunal have begun to hear any application by the nominated successor under section 53 below in respect of the retirement notice) and the notice to quit—
+
+(a) falls within Case C and is founded on a certificate granted under paragraph 9 of Part II of Schedule 3 to this Act in accordance with an application made before that date, or
+
+(b) falls eithin Case F,
+
+the retirement notice shall be of no effect and no proceedings, or (as the case may be) no further proceedings, shall be taken under this Part of this Act in respect of it.
+
+(2) If the tenancy becomes the subject of a valid notice to quit given on or after the date of the giving of the retirement notice (but before the Tribunal have begun to hear any application by the nominated successor under section 53 below in respect of the retirement notice) and the notice to quit—
+
+(a) includes a statement that it is given for any such reason as is referred to in Case B, or
+
+(b) includes a statement that it is given for any such reason as is referred to in Case D and is founded on a notice given for the purposes of that Case before that date,
+
+the retirement notice shall be of no effect and no proceedings, or (as the case may be) no further proceedings, shall be taken under this Part of this Act in respect of it unless one of the events mentioned in subsection (3) below occurs.
+
+(3) Those events are as follows—
+
+(a) it is determined by arbitration under this Act that the notice to quit is ineffective for the purposes of section 26(2) above on account of the invalidity of any such reason as aforesaid, or
+
+(b) where a counter-notice is duly served under section 28(2) above—
+
+(i) the Tribunal withhold consent to the operation of the notice to quit, or
+
+(ii) the period for making an application to the Tribunal for such consent expires without such an application having been made.
+
+(4) Where—
+
+(a) one of the events mentioned in subsection (3) above occurs, and
+
+(b) the notice to quit was given before the time when the relevant period for the purposes of sections 53(1) and 54(2) would expire apart from this subsection,
+
+that period shall for those purposes expire at the end of the period of one month beginning with the date on which the arbitrator’s award is delivered to the tenant, with the date of the Tribunal’s decision to withhold consent, or with the expiry of the said period for making an application (as the case may be).
+
+(5) For the purposes of this Part of this Act an application by the nominated successor under section 53 below which is invalidated by subsection (1) or (2) above shall be treated as if it had never been made.
+
+#### 53 Application for tenancy of holding by nominated successor.
+
+(1) An application under this section by the nominated successor to the Tribunal for a direction entitling him to a tenancy of the holding shall be made within the relevant period.
+
+(2) In subsection (1) above “the relevant period” means (subject to sections 51(6) and 52(4) above) the period of one month beginning with the day after the date of the giving of the retirement notice.
+
+(3) Any such application—
+
+(a) must be accompanied by a copy of the retirement notice, and
+
+(b) must be signed by both the nominated successor and the retiring tenant or, where the notice was given by joint tenants, by each of the retiring tenants.
+
+[^F116]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) If the Tribunal are satisfied—
+
+(a) that the nominated successor was an eligible person at the date of the giving of the retirement notice, and
+
+(b) that he has not subsequently ceased to be such a person,
+
+the Tribunal shall determine whether he is in their opinion a suitable person to become the tenant of the holding.
+
+(6) Before making a determination under subsection (5) above the Tribunal shall afford the landlord an opportunity of stating his views on the suitability of the nominated successor; [^F117]...
+
+[^F117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F118](6A) Section 39(8) and (8A) apply for the purposes of determinations under this section relating to a person's suitability to become the tenant of a holding.]
+
+(7) If the nominated successor is determined under that subsection to be in their opinion a suitable person to become the tenant of the holding, the Tribunal shall, subject to subsection (8) below, give a direction entitling him to a tenancy of the holding.
+
+(8) The Tribunal shall not give such a direction if, on an application made by the landlord, it appears to the Tribunal that greater hardship would be caused by giving the direction than by refusing the nominated successor’s application under this section.
+
+(9) If the Tribunal dispose of the nominated successor’s application otherwise than by the giving of a direction under subsection (7) above the retirement notice shall be of no effect (but without prejudice to section 51(2) above).
+
+(10) For the purposes of this Part of this Act, an application by the nominated successor under this section which is withdrawn or abandoned shall be treated as if it had never been made.
+
+[[^F119](11) Provision shall be made by Tribunal Procedure Rules and by order under section 73(3) of the Agriculture Act 1947 (procedure of Agricultural Land Tribunal) for requiring any person making an application to the Tribunal for a direction under this section to give notice of the application to the landlord of the agricultural holding to which the application relates.]
+
+#### 54 Restriction on operation of certain notices to quit.
+
+(1) This section applies to any notice to quit the holding or part of it given to the tenant of the holding (whether before or on or after the date of the giving of the retirement notice), not being a notice to quit falling within any provision of section 38 above (as applied by section 51(1) above) or section 51 or 52 above.
+
+(2) A notice to quit to which this section applies shall not, if it would otherwise be capable of so having effect, have effect—
+
+(a) at any time during the relevant period, or
+
+(b) where an application to become the tenant of the holding is made by the nominated successor under section 53 above within that period, at any time before the application has been finally disposed of by the Tribunal or withdrawn or abandoned,
+
+and shall in any event not have effect if any such application is disposed of by the Tribunal by the giving of a direction under section 53(7) above.
+
+(3) In subsection (2) above “the relevant period” means (subject to sections 51(6) and 52(4) above) the period of one month beginning with the day after the date of the giving of the retirement notice.
+
+#### 55 Effect of direction under section 53.
+
+(1) A direction by the Tribunal under section 53(7) above entitling the nominated successor to a tenancy of the holding shall entitle him to a tenancy of the holding as from the relevant time on the terms provided by section 56 below; and accordingly such a tenancy shall be deemed to be at that time granted by the landlord to, and accepted by, the nominated successor.
+
+(2) Where the tenancy of the retiring tenant or (as the case may be) of the retiring tenants was not derived from the interest held by the landlord at the relevant time, the tenancy deemed by virtue of subsection (1) above to be granted to, and accepted by, the nominated successor shall be deemed to be granted by the person for the time being entitled to the interest from which the tenancy of the retiring tenant or tenants was derived, instead of by the landlord, with like effect as if the landlord’s interest and any other supervening interest were not subsisting at the relevant time.
+
+(3) The reference in subsection (2) above to a supervening interest is a reference to any interest in the land comprised in the tenancy of the retiring tenant or tenants, being an interest created subsequently to that tenancy and derived (whether immediately or otherwise) from the interest from which that tenancy was derived and still subsisting at the relevant time.
+
+(4) Subsection (2) above shall not be read as affecting the rights and liabilities of the landlord under this Part of this Act.
+
+(5) Any tenancy of the holding inconsistent with the tenancy to which the nominated successor is entitled by virtue of a direction under section 53(7) above shall, if it would not cease at the relevant time apart from this subsection, cease at that time as if terminated at that time by a valid notice to quit given by the tenant.
+
+(6) The rights conferred on any person by such a direction (as distinct from his rights under his tenancy of the holding after he has become the tenant) shall not be capable of assignment.
+
+(7) The Lord Chancellor may by regulations provide for all or any of the provisions of sections 37(6) and 50 to 58 of this Act (except this subsection) to apply, with such exceptions, additions or other modifications as may be specified in the regulations, in cases where the nominated successor, being entitled to a tenancy of the holding by virtue of such a direction, dies before the relevant time.
+
+(8) In this section “the relevant time” means the retirement date, except that—
+
+(a) where such a direction is given within the period of three months ending with the retirement date, the Tribunal may, on the application of the tenant, specify in the direction, as the relevant time for the purposes of this section, such a time falling within the period of three months immediately following the retirement date as they think fit,
+
+(b) where such a direction is given at any time after the retirement date, the Tribunal shall specify in the direction, as the relevant time for those purposes, such a time falling within the period of three months immediately following the date of the giving of the direction as they think fit,
+
+and any time so specified shall be the relevant time for those purposes accordingly.
+
+#### 56 Terms of new tenancy.
+
+(1) Subject to subsections (2) and (3) below, the terms of the tenancy to which a direction under section 53(7) above entitles the nominated successor shall be the same as the terms on which the holding was let immediately before it ceased to be let under the contract of tenancy under which it was let at the date of the giving of the retirement notice.
+
+(2) If the terms of the tenancy to which the nominated successor is entitled as mentioned in subsection (1) above would not, apart from this subsection, include a covenant by the tenant not to assign, sub-let or part with possession of the holding or any part of it without the landlord’s consent in writing, subsection (1) above shall have effect as if those terms included that covenant.
+
+(3) Where the Tribunal give a direction under section 53(7) above, subsections (3) to (12) of section 48 above shall have effect in relation to the tenancy which the nominated successor is entitled to or has obtained by virtue of the direction, but with the substitution—
+
+(a) in subsection (8)(a) of a reference to the tenancy of the retiring tenant or (as the case may be) tenants for the reference to the deceased’s tenancy,
+
+(b) in subsection (11) of a reference to subsection (1) above for the reference to section 47(1).
+
+(4) In those provisions, as extended by subsection (3) above—
+
+- “the landlord” means the landlord of the holding;
+- “the prescribed period” means the period between the giving of the direction and—
+
+(a) the end of the three months immediately following the relevant time, or
+
+(b) the end of the three months immediately following the date of the giving of the direction,
+
+- whichever last occurs;
+- “the relevant time” has the meaning given by section 55(8) above;
+- “the tenant” means the nominated successor.
+
+#### 57 Effect of death of retiring tenant on succession to the holding.
+
+(1) Subsections (2) to (4) below apply where the retiring tenant, being the sole (or sole surviving) tenant of the holding, dies after giving the retirement notice.
+
+(2) If the tenant’s death occurs at a time when no application by the nominated successor has been made under section 53 above or such an application has not been finally disposed of by the Tribunal, the retirement notice shall be of no effect and no proceedings, or (as the case may be) no further proceedings, shall be taken under section 53 above in respect of it; and accordingly sections 36 to 48 above shall apply on the tenant’s death in relation to the holding.
+
+(3) If the tenant’s death occurs at a time when any such application has been so disposed of by the giving of a direction such as is mentioned in subsection (1) of section 55 above, but before the relevant time (within the meaning of that section), that section and section 56 above shall continue to have effect in relation to the holding; and accordingly sections 36 to 48 above shall not apply on the tenant’s death in relation to the holding.
+
+(4) If the tenant’s death occurs at a time when any such application has been so disposed of otherwise than by the giving of any such direction, sections 36 to 48 above shall apply on the tenant’s death in relation to the holding, but no application under section 39 (or 41) above may be made on that occasion by the nominated successor in relation to the holding.
+
+(5) Where the retirement notice was given by joint tenants and one of those tenants, not being the sole surviving tenant of the holding, dies, his death shall not affect any rights of the nominated successor under sections 50 to 56 above.
+
+#### [^F120]58 Effect of direction under section 53 on succession to other holdings.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Interpretation
+
+#### 59 Interpretation of Part IV.
+
+(1) In sections 36 to 48 above [^F121]...—
+
+- “the date of death”,
+- “the deceased”,
+- “the holding”,
+- “related holding”, and
+- “the tenancy”,
+
+have the meanings given by section 35(2) above; and in those sections “eligible person” has the meaning given by section 36(3) above.
+
+(2) In sections 49 to 58 above [^F122]...—
+
+- “close relative” of the retiring tenant,
+- “the holding”,
+- “the nominated successor”,
+- “related holding”,
+- “the retirement date”,
+- “the retirement notice”,
+- “the retiring tenant”,
+- “the retiring tenants”, and
+- “the tenancy”,
+
+have the meanings given by section 49(3) above; and in those sections “eligible person” has the meaning given by section 50(2) above.
+
+## Part V — Compensation on Termination of Tenancy
+
+### Compensation to tenant for disturbance
+
+#### 60 Right to, and measure of, compensation for disturbance.
+
+(1) This section applies where the tenancy of an agricultural holding terminates by reason—
+
+(a) of a notice to quit the holding given by the landlord, or
+
+(b) of a counter-notice given by the tenant under section 32 above after the giving to him of such a notice to quit part of the holding as is mentioned in that section,
+
+and the tenant quits the holding in consequence of the notice or counter-notice.
+
+(2) Subject to section 61 below, where this section applies there shall be payable by the landlord to the tenant by way of compensation for disturbance—
+
+(a) a sum computed under subsection (3) below (in this section referred to as “basic compensation”), and
+
+(b) a sum computed under subsection (4) below (in this section referred to as “additional compensation”).
+
+(3) The amount of basic compensation shall be—
+
+(a) an amount equal to one year’s rent of the holding at the rate at which rent was payable immediately before the termination of the tenancy, or
+
+(b) where the tenant has complied with the requirements of subsection (6) below, a greater amount equal to either the amount of the tenant’s actual loss or two years’ rent of the holding whichever is the smaller.
+
+(4) The amount of additional compensation shall be an amount equal to four years’ rent of the holding at the rate at which rent was payable immediately before the termination of the tenancy of the holding.
+
+(5) In subsection (3) above “the amount of the tenant’s actual loss” means the amount of the loss or expense directly attributable to the quitting of the holding which is unavoidably incurred by the tenant upon or in connection with the sale or removal of his household goods, implements of husbandry, fixtures, farm produce or farm stock on or used in connection with the holding, and includes any expenses reasonably incurred by him in the preparation of his claim for basic compensation (not being costs of an arbitration to determine any question arising under this section or section 61 below).
+
+(6) The requirements of this subsection are—
+
+(a) that the tenant has not less than one month before the termination of the tenancy given to the landlord notice in writing of his intention to make a claim for an amount under subsection (3)(b) above, and
+
+(b) that the tenant has, before their sale, given to the landlord a reasonable opportunity of making a valuation of any such goods, implements, fixtures, produce or stock as are mentioned in subsection (5) above.
+
+(7) Compensation payable under this section shall be in addition to any compensation to which the tenant may be entitled apart from this section.
+
+#### 61 Cases where compensation under section 60 is not payable.
+
+(1) Neither basic compensation nor additional compensation shall be payable under section 60 above where the operation of section 26(1) above in relation to the relevant notice is excluded by virtue of Case C, D, E, F or G.
+
+(2) Additional compensation shall not be so payable where the operation of section 26(1) above in relation to the relevant notice is excluded by virtue of Case A or H.
+
+(3) Except as provided by subsection (4) below, additional compensation shall not be payable under section 60 above where—
+
+(a) the relevant notice contains a statement either that the carrying out of the purpose for which the landlord proposes to terminate the tenancy is desirable on any of the grounds mentioned in paragraphs (a) to (c) of section 27(3) above or that the landlord will suffer hardship unless the notice has effect, and
+
+(b) if an application for consent in respect of the notice is made to the Tribunal in pursuance of section 26(1) above, the Tribunal consent to its operation and state in the reasons for their decision that they are satisfied as to any of the matters mentioned in paragraphs (a), (b), (c) and (e) of section 27(3).
+
+(4) Additional compensation shall be payable in a case falling within subsection (3) above where such an application as is mentioned in paragraph (b) of that subsection is made and—
+
+(a) the reasons given by the Tribunal also include the reason that they are satisfied as to the matter mentioned in paragraph (f) of section 27(3) above, or
+
+(b) the Tribunal include in their decision a statement under subsection (5) below.
+
+(5) Where such an application as is mentioned in subsection (3)(b) above is made in respect of the relevant notice and the application specifies the matter mentioned in paragraph (b) of section 27(3) above (but not that mentioned in paragraph (f) of that subsection), the Tribunal shall if they are satisfied as to the matter mentioned in paragraph (b) but would, if it had been specified in the application, have been satisfied also as to the matter mentioned in paragraph (f) include a statement to that effect in their decision.
+
+(6) In this section—
+
+- “basic compensation” and “additional compensation” have the same meanings as in section 60 above;
+- “the relevant notice” means the notice to quit the holding or part of the holding, as the case may be, mentioned in section 60(1) above.
+
+#### 62 Compensation on termination in pursuance of early resumption clause.
+
+(1) Where—
+
+(a) the tenancy of an agricultural holding terminates by reason of a notice to quit the holding given in pursuance of a provision in the contract of tenancy authorising the resumption of possession of the holding for some specified purpose other than the use of the land for agriculture, and
+
+(b) the tenant quits the holding in consequence of the notice,
+
+compensation shall be payable by the landlord to the tenant, in addition to any other compensation so payable apart from this section in respect of the holding.
+
+(2) The amount of compensation payable under this section shall be equal to the value of the additional benefit (if any) which would have accrued to the tenant if the tenancy had, instead of being terminated as provided by the notice, been terminated by it on the expiration of twelve months from the end of the year of tenancy current when the notice was given.
+
+(3) For the purposes of subsection (2) above, the current year of a tenancy for a term of two years or more is the year beginning with such day in the period of twelve months ending with the date on which the notice is served as corresponds to the day on which the term would expire by the effluxion of time.
+
+#### 63 Compensation for disturbance: supplementary provisions.
+
+(1) Where—
+
+(a) the tenant of an agricultural holding has sub-let the holding, and
+
+(b) the sub-tenancy terminates by operation of law in consequence of the termination of the tenancy by reason of any such notice or counter-notice as is referred to in section 60(1)(a) or (b) above,
+
+section 60 shall apply if the sub-tenant quits the holding in consequence of the termination of the sub-tenancy as mentioned in paragraph (b) above as it applies where a tenant quits a holding in consequence of any such notice or counter-notice.
+
+(2) Where the tenant of an agricultural holding has sub-let the holding and in consequence of a notice to quit given by his landlord becomes liable to pay compensation under section 60 or 62 above to the sub-tenant, the tenant shall not be debarred from recovering compensation under that section by reason only that, owing to not being in occupation of the holding, on the termination of his tenancy he does not quit the holding.
+
+(3) Where the tenancy of an agricultural holding terminates by virtue of such a counter-notice as is mentioned in section 60(1)(b) above, and—
+
+(a) the part of the holding affected by the notice to quit together with any part of the holding affected by any relevant previous notice rendered valid by section 31 above is less than one-fourth of the original holding, and
+
+(b) the holding as proposed to be diminished is reasonably capable of being farmed as a separate holding,
+
+compensation shall not be payable under section 60 above except in respect of the part of the holding to which the notice to quit relates.
+
+(4) In subsection (3) above “relevant previous notice” means any notice to quit given by the same person who gave the current notice to quit or, where that person is a person entitled to a severed part of the reversionary estate in the holding, by that person or by any other person so entitled.
+
+### Compensation to tenant for improvements and tenant-right matters
+
+#### 64 Tenant’s right to compensation for improvements.
+
+(1) The tenant of an agricultural holding shall, subject to the provisions of this Act, be entitled on the termination of the tenancy, on quitting the holding, to obtain from his landlord compensation for an improvement specified in Schedule 7 or Part I of Schedule 8 to this Act carried out on the holding by the tenant, being an improvement begun on or after 1st March 1948.
+
+(2) In this Act “relevant improvement” means an improvement falling within subsection (1) above.
+
+(3) Subsection (1) above shall have effect as well where the tenant entered into occupation of the holding before 1st March 1948 as where he entered into occupation on or after that date.
+
+(4) The provisions of Part I of Schedule 9 to this Act shall have effect with respect to the rights of the tenant of an agricultural holding with respect to compensation for improvements specified in Part II of that Schedule carried out on the holding, being improvements begun before 1st March 1948.
+
+#### 65 Tenant’s right to compensation for tenant-right matters.
+
+(1) The tenant of an agricultural holding shall, subject to the provisions of this Act, be entitled on the termination of the tenancy, on quitting the holding, to obtain from his landlord compensation for any such matter as is specified in Part II of Schedule 8 to this Act.
+
+(2) The tenant shall not be entitled to compensation under subsection (1) above for crops or produce grown, seeds sown, cultivations, fallows or acts of husbandry performed, or pasture laid down, in contravention of the terms of a written contract of tenancy unless—
+
+(a) the growing of the crops or produce, the sowing of the seeds, the performance of the cultivations, fallows or acts of husbandry, or the laying down of the pasture was reasonably necessary in consequence of the giving of a direction under the [^M11]Agriculture Act 1947, or
+
+(b) the tenant shows that the term of the contract contravened was inconsistent with the fulfilment of his responsibilities to farm the holding in accordance with the rules of good husbandry.
+
+(3) Subject to paragraphs 6 and 7 of Schedule 12 to this Act, subsection (1) above shall apply to a tenant on whatever date he entered into occupation of the holding.
+
+#### 66 Measure of compensation.
+
+(1) The amount of any compensation under this Act for a relevant improvement specified in Schedule 7 to this Act shall be an amount equal to the increase attributable to the improvement in the value of the agricultural holding as a holding, having regard to the character and situation of the holding and the average requirements of tenants reasonably skilled in husbandry.
+
+(2) The amount of any compensation under this Act for a relevant improvement specified in Part I of Schedule 8 to this Act, or for any matter falling within Part II of that Schedule, shall be the value of the improvement or matter to an incoming tenant calculated in accordance with such method, if any, as may be prescribed.
+
+(3) Where the landlord and the tenant of an agricultural holding have entered into an agreement in writing whereby any benefit is given or allowed to the tenant in consideration of his carrying out an improvement specified in Part I of Schedule 8 to this Act, the benefit shall be taken into account in assessing compensation under this Act for the improvement.
+
+(4) Nothing in this Act shall prevent the substitution, in the case of matters falling within Part II of Schedule 8 to this Act, for the measure of compensation specified in subsection (2) above, of such measure of compensation, to be calculated according to such method, if any, as may be specified in a written contract of tenancy.
+
+(5) Where a grant out of money provided by Parliament or local government funds has been or will be made to the tenant of an agricultural holding in respect of a relevant improvement, the grant shall be taken into account in assessing compensation under this Act for the improvement.
+
+#### 67 Compensation for long-term improvements: consent required.
+
+(1) The tenant of an agricultural holding shall not be entitled to compensation for a relevant improvement specified in Schedule 7 to this Act unless the landlord has given his consent in writing to the carrying out of the improvement.
+
+(2) Any such consent may be given by the landlord unconditionally or upon such terms as to compensation or otherwise as may be agreed upon in writing between the landlord and the tenant; and the provisions of section 66(1) above shall have effect subject to the provisions of any such agreement as is made.
+
+(3) Where, in the case of an improvement specified in Part II of Schedule 7 to this Act, a tenant is aggrieved by the refusal of his landlord to give his consent under subsection (1) above, or is unwilling to agree to any terms subject to which the landlord is prepared to give his consent, the tenant may apply to the Tribunal for approval of the carrying out of the improvement, and the following provisions of this section shall have effect with respect to the application.
+
+(4) The Tribunal may approve the carrying out of the improvement, either unconditionally or upon such terms, whether as to reduction of the compensation which would be payable if the Tribunal approved unconditionally or as to other matters, as appear to them to be just, or may withhold their approval.
+
+(5) If the Tribunal grant their approval, the landlord may, within the prescribed period from receiving notification of the Tribunal’s decision, serve notice in writing on the Tribunal and the tenant that the landlord proposes himself to carry out the improvement.
+
+(6) Where the Tribunal grant their approval, then if—
+
+(a) no notice is duly served by the landlord under subsection (5) above, or
+
+(b) such a notice is duly served, but on an application made by the tenant the Tribunal determines that the landlord has failed to carry out the improvement within a reasonable time,
+
+the approval of the Tribunal shall have effect for the purposes of subsection (1) above as if it were the consent of the landlord, and any terms subject to which the approval was given shall have effect as if they were contained in an agreement in writing between the landlord and the tenant.
+
+(7) In subsection (5) above, “the prescribed period” means the period prescribed by the Lord Chancellor by order [[^F123](where the Tribunal is the Agricultural Land Tribunal) or by Tribunal Procedure Rules (where the Tribunal is the First-tier Tribunal or the Upper Tribunal)].
+
+#### 68 Improvements: special cases.
+
+(1) The tenant of an agricultural holding shall not be entitled to compensation for a relevant improvement specified in paragraph 1 of Schedule 8 to this Act unless, not later than one month before the improvement was begun, he gave notice in writing to the landlord of his intention to carry out the improvement.
+
+(2) Where, on an application of the sub-tenant of an agricultural holding, the Tribunal have directed the immediate landlord of the sub-tenant to carry out work under section 11 above being work which constitutes an improvement specified in Schedule 7 to this Act—
+
+(a) section 67 above shall not apply as respects a claim by the immediate landlord against his superior landlord for compensation in respect of that work, and
+
+(b) if, on the failure of the immediate landlord to comply with the direction of the Tribunal, the sub-tenant has himself carried out the work, sections 64 and 66 above shall have effect for the purposes of a claim for compensation by the immediate landlord against his superior landlord as if the work had been carried out by the immediate landlord and as if any grant made to the sub-tenant in respect of the work out of money provided by Parliament had been made to the immediate landlord.
+
+(3) Where the tenant of an agricultural holding has carried out on the holding an improvement specified in Schedule 7 to this Act in accordance with provision for the making of the improvement and for the tenant’s being responsible for doing the work in a hill farming land improvement scheme approved under section 1 of the [^M12]Hill Farming Act 1946, being provision included in the scheme at the instance or with the consent of the landlord—
+
+(a) the landlord shall be deemed to have consented as mentioned in subsection (1) of section 67 above,
+
+(b) any agreement as to compensation or otherwise made between the landlord and the tenant in relation to the improvement shall have effect as if it had been such an agreement on terms as is mentioned in subsection (2) of that section, and
+
+(c) the provisions of subsections (5) and (6) of that section as to the carrying out of improvements by the landlord shall not apply.
+
+(4) In assessing the amount of any compensation payable under custom or agreement to the tenant of an agricultural holding, if it is shown to the satisfaction of the person assessing the compensation that the cultivations in respect of which the compensation is claimed were wholly or in part the result of or incidental to work in respect of the cost of which an improvement grant has been paid under section 1 of the [^M13]Hill Farming Act 1946, the amount of the grant shall be taken into account as if it had been a benefit allowed to the tenant in consideration of his executing the cultivations and the compensation shall be reduced to such extent as that person considers appropriate.
+
+(5) Where the tenant of an agricultural holding claims compensation in respect of works carried out in compliance with an improvement notice served, or an undertaking accepted, under Part VII of the [^M14]Housing Act 1985 or Part VIII of the [^M15]Housing Act 1974—
+
+(a) section 67 above shall not apply as respects the works, and
+
+(b) if a person other than the tenant has contributed to the cost of carrying out the works, compensation in respect of the works as assessed under section 66 above shall be reduced proportionately.
+
+#### 69 Improvements: successive tenancies.
+
+(1) Where the tenant of an agricultural holding has remained in the holding [[^F124], or in any agricultural holding which comprised the whole or a substantial part of the land comprised in the holding,] during two or more tenancies, he shall not be deprived of his right to compensation under this Act in respect of relevant improvements by reason only that the improvements werre made during a tenancy other than the one at the termination of which he quits the holding.
+
+[[^F125](1A) Where this Act applies in relation to any tenancy referred to in subsection (1) above by virtue of section 4(1)(g) of the Agricultural Tenancies Act 1995, the reference in that subsection to a substantial part of the land comprised in the holding means a substantial part determined by reference to either area or value.]
+
+(2) Where, on entering into occupation of an agricultural holding, the tenant—
+
+(a) with the consent in writing of his landlord paid to an outgoing tenant any compensation payable by the landlord under or in pursuance of this Act (or the [^M16]Agricultural Holdings Act 1948 or Part III of the [^M17]Agriculture Act 1947) in respect of the whole or part of a relevant improvement, or
+
+(b) has paid to the landlord the amount of any such compensation payable to an outgoing tenant,
+
+the tenant shall be entitled, on quitting the holding, to claim compensation in respect of the improvement or part in the same manner, if at all, as the outgoing tenant would have been entitled if the outgoing tenant had remained tenant of the holding and quitted it at the time at which the tenant quits it.
+
+(3) Where, in a case not falling within subsection (2) above, the tenant, on entering into occupation of an agricultural holding, paid to his landlord any amount in respect of the whole or part of a relevant improvement, he shall, subject to any agreement in writing between the landlord and the tenant, be entitled on quitting the holding to claim compensation in respect of the improvement or part in the same manner, if at all, as he would have been entitled if he had been tenant of the holding at the time when the improvement was carried out and the improvement or part had been carried out by him.
+
+### Compensation to tenant for adoption of special system of farming
+
+#### 70 Compensation for special system of farming.
+
+(1) Where the tenant of an agricultural holding shows that, by the continuous adoption of a system of farming which has been more beneficial to the holding—
+
+(a) than the system of farming required by the contract of tenancy, or
+
+(b) in so far as no system of farming is so required, than the system of farming normally practised on comparable agricultural holdings,
+
+the value of the holding as a holding has been increased during the tenancy, having regard to the character and situation of the holding and the average requirements of tenants reasonably skilled in husbandry, the tenant shall be entitled, on quitting the holding on the termination of the tenancy, to obtain from the landlord compensation of an amount equal to the increase.
+
+(2) Compensation shall not be recoverable under this section unless—
+
+(a) the tenant has, not later than one month before the termination of the tenancy, given to the landlord notice in writing of his intention to claim compensation under this section, and
+
+(b) a record has been made under section 22 above of the condition of the fixed equipment on the holding and of the general condition of the holding.
+
+(3) Compensation shall not be recoverable under this section in respect of any matter arising before the date of the making of the record referred to in subsection (2) above or, if more than one such record has been made, the first of them.
+
+(4) In assessing the value of an agricultural holding for the purposes of this section due allowance shall be made for any compensation agreed or awarded to be paid to the tenant for an improvement falling within section 64(1) or (4) above or (subject to paragraph 8 of Schedule 12 to this Act) for any such matter as is specified in Part II of Schedule 8 to this Act, being an improvement or matter which has caused, or contributed to, the benefit.
+
+(5) Nothing in this section shall entitle a tenant to recover for an improvement falling within section 64(1) or (4) above or an improvement to which the provisions of this Act relating to market gardens apply or (subject to the said paragraph 8) for any such matter as is specified in Part II of Schedule 8 to this Act, any compensation which he is not entitled to recover apart from this section.
+
+### Compensation to landlord for deterioration of holding
+
+#### 71 Compensation for deterioration of particular parts of holding.
+
+(1) The landlord of an agricultural holding shall be entitled to recover from a tenant of the holding, on the tenant’s quitting the holding on the termination of the tenancy, compensation in respect of the dilapidation or deterioration of, or damage to, any part of the holding or anything in or on the holding caused by non-fulfilment by the tenant of his responsibilities to farm in accordance with the rules of good husbandry.
+
+(2) Subject to subsection (5) below, the amount of the compensation payable under subsection (1) above shall be the cost, as at the date of the tenant’s quitting the holding, of making good the dilapidation, deterioration or damage.
+
+(3) Notwithstanding anything in this Act, the landlord may, in lieu of claiming compensation under subsection (1) above, claim compensation in respect of matters specified in that subsection under and in accordance with a written contract of tenancy.
+
+(4) Where the landlord claims compensation in accordance with subsection (3) above—
+
+(a) compensation shall be so claimed only on the tenant’s quitting the holding on the termination of the tenancy, and
+
+(b) compensation shall not be claimed in respect of any one holding both under such a contract as is mentioned in that subsection and under subsection (1) above;
+
+and for the purposes of paragraph (b) above any claim under section 9(1) above shall be disregarded.
+
+(5) The amount of the compensation payable under subsection (1) above, or in accordance with subsection (3) above, shall in no case exceed the amount (if any) by which the value of the landlord’s reversion in the holding is diminished owing to the dilapidation, deterioration or damage in question.
+
+#### 72 Compensation for general deterioration of holding.
+
+(1) This section applies where, on the quitting of an agricultural holding by the tenant on the termination of the tenancy, the landlord shows that the value of the holding generally has been reduced by reason of any such dilapidation, deterioration or damage as is mentioned in section 71(1) above or otherwise by non-fulfilment by the tenant of his responsibilities to farm in accordance with the rules of good husbandry.
+
+(2) Where this section applies, the landlord shall be entitled to recover from the tenant compensation for the matter in question, in so far as the landlord is not compensated for it under subsection (1), or in accordance with subsection (3), of section 71 above.
+
+(3) The amount of the compensation payable under this section shall be equal to the decrease attributable to the matter in question in the value of the holding as a holding, having regard to the character and situation of the holding and the average requirements of tenants reasonably skilled in husbandry.
+
+(4) Compensation shall not be recoverable under this section unless the landlord has, not later than one month before the termination of the tenancy, given notice in writing to the tenant of his intention to claim such compensation.
+
+#### 73 Deterioration of holding: successive tenancies.
+
+[[^F126](1)] Where the tenant of an agricultural holding has remained on the holding [[^F127], or on any agricultural holding which comprised the whole or a substantial part of the land comprised in the holding,] during two or more tenancies his landlord shall not be deprived of his right to compensation under section 71 or 72 above in respect of any dilapidation, deterioration or damage by reason only that the tenancy during which an act or omission occurred which in whole or in part caused the dilapidation, deterioration or damage was a tenancy other than the tenancy at the termination of which the tenant quits the holding.
+
+[[^F128](2) Where this Act applies in relation to any tenancy referred to in subsection (1) above by virtue of section 4(1)(g) of the Agricultural Tenancies Act 1995, the reference in that subsection to a substantial part of the land comprised in the holding means a substantial part determined by reference to either area or value.]
+
+### Supplementary provisions with respect to compensation
+
+#### 74 Termination of tenancy of part of holding.
+
+(1) Where the landlord of an agricultural holding resumes possession of part of the holding by virtue of section 31 or 43(2) above, the provisions of this Act with respect to compensation shall apply to that part of the holding as if it were a separate holding which the tenant had quitted in consequence of a notice to quit.
+
+(2) Where the landlord of an agricultural holding resumes possession of part of the holding in pursuance of a provision in that behalf contained in the contract of tenancy—
+
+(a) the provisions of this Act with respect to compensation shall apply to that part of the holding as if it were a separate holding which the tenant had quitted in consequence of a notice to quit, but
+
+(b) the arbitrator [[^F129]or (as the case may be) the third party appointed under section 84A below ] in assessing the amount of compensation payable to the tenant, except the amount of compensation under section 60(2)(b) above, shall take into consideration any benefit or relief allowed to the tenant under the contract of tenancy in respect of the land possession of which is resumed by the landlord.
+
+(3) Where a person entitled to a severed part of the reversionary estate in an agricultural holding resumes possession of part of the holding by virtue of a notice to quit that part given to the tenant by virtue of section 140 of the [^M18]Law of Property Act 1925 the provisions of this Act with respect to compensation shall apply to that part of the holding as if—
+
+(a) it were a separate holding which the tenant had quitted in consequence of the notice to quit, and
+
+(b) the person resuming possession were the landlord of that separate holding.
+
+(4) References in this Act to the termination of the tenancy of, or (as the case may be) of part of, an agricultural holding include references to the resumption of possession of part of an agricultural holding in circumstances within subsection (1), (2) or (3) above.
+
+#### 75 Compensation where reversionary estate in holding is severed.
+
+(1) Where the reversionary estate in an agricultural holding is for the time being vested in more than one person in several parts, the tenant shall be entitled, on quitting the entire holding, to require that any compensation payable to him under this Act shall be determined as if the reversionary estate were not so severed.
+
+(2) Where subsection (1) above applies, the arbitrator [[^F130]or (as the case may be) the third party] shall, where necessary, apportion the amount awarded [[^F131]or determined by third party determination ] between the persons who for the purposes of this Act together constitute the landlord of the holding, and any additional costs of the award[[^F132]or determination ] caused by the apportionment shall be directed by the arbitrator[[^F133]or third party ] to be paid by those persons in such proportions as he shall determine.
+
+#### 76 Restrictions on compensation for things done in compliance with this Act.
+
+(1) Notwithstanding anything in this Act or any custom or agreement—
+
+(a) no compensation shall be payable to the tenant of an agricultural holding in respect of anything done in pursuance of an order under section 14(4) above,
+
+(b) in assessing compensation to an outgoing tenant of an agricultural holding where land has been ploughed up in pursuance of a direction under that section, the value per hectare of any tenant’s pasture comprised in the holding shall be taken not to exceed the average value per hectare of the whole of the tenant’s pasture comprised in the holding on the termination of the tenancy.
+
+(2) In subsection (1) above “tenant’s pasture” means pasture laid down at the expense of the tenant or paid for by the tenant on entering on the holding.
+
+(3) The tenant of an agricultural holding shall not be entitled to any compensation for a relevant improvement specified in Part I of Schedule 8 to this Act or (subject to paragraph 8 of Schedule 12 to this Act) for any such matter as is specified in Part II of Schedule 8 if it is an improvement or matter made or effected for the purposes of section 15(4) above.
+
+#### 77 No compensation under custom for improvement or tenant-right matter.
+
+(1) A landlord or tenant of an agricultural holding shall not be entitled under custom to any compensation from the other for any improvement, whether or not one in respect of the carrying out of which compensation is provided under this Act, or (subject to paragraph 8 of Schedule 12 to this Act) for any matter specified in Part II of Schedule 8 to this Act or otherwise.
+
+(2) Subsection (1) above shall not apply to compensation for an improvement of a kind specified in Schedule 7 or Part I of Schedule 8 to this Act begun before 1st March 1948.
+
+#### 78 Extent to which compensation recoverable under agreements.
+
+(1) Save as expressly provided in this Act, in any case for which apart from this section the provisions of this Act provide for compensation, a tenant or landlord shall be entitled to compensation in accordance with those provisions and not otherwise, and shall be so entitled notwithstanding any agreement to the contrary.
+
+(2) Where the landlord and tenant of an agricultural holding enter into an agreement in writing for any such variation of the terms of the contract of tenancy as could be made by direction or order under section 14 above, the agreement may provide for the exclusion of compensation in the same manner as under section 76(1) above.
+
+(3) Nothing in the provisions of this Act, apart from this section, shall be construed as disentitling a tenant or landlord to compensation in any case for which the said provisions do not provide for compensation, but (subject to paragraph 8 of Schedule 12 to this Act) a claim for compensation in any such case shall not be enforceable except under an agreement in writing.
+
+## Part VI — Market Gardens and Smallholdings
+
+### 79 Additional rights with respect to improvements for tenants of market gardens.
+
+(1) Subsections (2) to (5) below apply in the case of an agricultural holding in respect of which it is agreed by an agreement in writing that the holding shall be let or treated as a market garden; and where the land to which such agreement relates consists of part of an agricultural holding only, those subsections shall apply as if that part were a separate holding.
+
+(2) The provisions of this Act shall apply as if improvements of a kind specified in Schedule 10 to this Act begun on or after 1st March 1948 were included amongst the improvements specified in Part I of Schedule 8 to this Act and as if improvements begun before that day consisting of the erection or enlargement of buildings for the purpose of the trade or business of a market gardener were included amongst the improvements specified in Part II of Schedule 9 to this Act.
+
+(3) In section 10 above—
+
+(a) subsection (2)(c) shall not exclude that section from applying to any building erected by the tenant on the holding or acquired by him for the purposes of his trade or business as a market gardener, and
+
+(b) subsection (2)(d) shall not exclude that section from applying to any building acquired by him for those purposes (whenever erected).
+
+(4) It shall be lawful for the tenant to remove all fruit trees and fruit bushes planted by him on the holding and not permanently set out, but if the tenant does not remove them before the termination of his tenancy they shall remain the property of the landlord and the tenant shall not be entitled to any compensation in respect of them.
+
+(5) The right of an incoming tenant to claim compensation in respect of the whole or part of an improvement which he has purchased may be exercised although his landlord has not consented in writing to the purchase.
+
+### 80 Power of Tribunal to direct holding to be treated as market garden.
+
+(1) Where the tenant of an agricultural holding desires to make on the holding or any part of it an improvement specified in Schedule 10 to this Act and the landlord refuses, or fails within a reasonable time, to agree in writing that the holding or that part of it, as the case may be, shall be treated as a market garden, the tenant may apply to the Tribunal for a direction under subsection (2) below.
+
+(2) On such an application, the Tribunal may, after being satisfied that the holding or part is suitable for the purposes of market gardening, direct that subsections (2) to (5) of section 79 above shall, either in respect of all the improvements specified in the said Schedule 10 or in respect of some only of those improvements, apply to the holding or to that part of it; and the said subsections shall apply accordingly as respects any improvements executed after the date on which the direction is given.
+
+(3) Where a direction is given under subsection (2) above, then, if the tenancy is terminated by notice to quit given by the tenant or by reason of the tenant becoming insolvent, the tenant shall not be entitled to compensation in respect of improvements specified in the direction unless the conditions mentioned in subsection (4) below are satisfied.
+
+(4) Those conditions are that—
+
+(a) the tenant not later than one month after the date on which the notice to quit is given or the date of the insolvency, as the case may be, or such later date as may be agreed, produces to the landlord an offer in writing by a substantial and otherwise suitable person (being an offer which is to hold good for a period of three months from the date on which it is produced)—
+
+(i) to accept a tenancy of the holding from the termination of the existing tenancy, and on the terms and conditions of that tenancy so far as applicable, and,
+
+(ii) subject as hereinafter provided, to pay to the outgoing tenant all compensation payable under this Act or under the contract of tenancy, and
+
+(b) the landlord fails to accept the offer within three months after it has been produced.
+
+(5) If the landlord accepts any such offer as is mentioned in subsection (4) above, the incoming tenant shall pay to the landlord on demand all sums payable to him by the outgoing tenant on the termination of the tenancy in respect of rent or breach of contract or otherwise in respect of the holding, and any amount so paid may, subject to any agreement between the outgoing tenant and incoming tenant, be deducted by the incoming tenant from any compensation payable by him to the outgoing tenant.
+
+(6) A direction under subsection (2) above may be given subject to such conditions (if any) for the protection of the landlord as the Tribunal think fit.
+
+(7) Without prejudice to the generality of subsection (6) above, where a direction relates to part only of an agricultural holding, it may, on the application of the landlord, be given subject to the condition that it shall become operative only in the event of the tenant’s consenting to the division of the holding into two parts, of which one shall be that to which the direction relates, to be held at rents settled, in default of agreement, by arbitration under this Act, but otherwise on the same terms and conditions (so far as applicable) as those on which the holding is held.
+
+[[^F134](7A) Notwithstanding the provision made by subsection (7) above for rents to be settled by arbitration, the landlord and tenant may instead refer those rents to be settled by third party determination under this Act.]
+
+(8) A new tenancy created by the acceptance of a tenant in accordance with the provisions of this section on the terms and conditions of the existing tenancy shall be deemed for the purposes of Schedule 2 to this Act not to be a new tenancy.
+
+(9) For the purposes of subsection (3) above a person has become insolvent if any of the events mentioned in section 96(2)(a) or (b) below has occurred; and the reference in subsection (4) above to the date of the insolvency is a reference to the date of the occurrence of the event in question.
+
+### 81 Agreements as to compensation relating to market gardens.
+
+(1) Where an agreement in writing secures to the tenant of an agricultural holding, for an improvement for which compensation is payable by virtue of section 79 or section 80 above, fair and reasonable compensation having regard to the circumstances existing when the agreement was made, the compensation so secured shall, as respects that improvement, be substituted for compensation under this Act.
+
+(2) The landlord and tenant of an agricultural holding who have agreed that the holding shall be let or treated as a market garden may by agreement in writing substitute, for the provisions as to compensation which would otherwise be applicable to the holding, the provisions as to compensation known as the “Evesham custom”, and set out in subsections (3) to (5) of section 80 above.
+
+### 82 Application of section 15 to smallholdings.
+
+(1) Section 15(1) above shall not apply to a tenancy of land let as a smallholding by a smallholdings authority or by the Minister in pursuance of a scheme, approved by the Minister for the purposes of this section, which—
+
+(a) provides for the farming of such holdings on a co-operative basis,
+
+(b) provides for the disposal of the produce of such holdings, or
+
+(c) provides other centralised services for the use of the tenants of such holdings.
+
+(2) Where it appears to the Minister that the provisions of any scheme approved by him for the purposes of this section are not being satisfactorily carried out, he may, in accordance with subsection (3) below, withdraw his approval to the scheme.
+
+(3) Before withdrawing his approval to a scheme the Minister shall—
+
+(a) serve a notice on the persons responsible for the management of the scheme specifying a date (not being earlier than one month after the service of the notice) and stating that on that date his approval to the scheme will cease to have effect and that, accordingly, section 15(1) will then apply to the tenancies granted in pursuance of the scheme,
+
+(b) give to those persons an opportunity of making representations to him;
+
+and, if the said notice is not withdrawn by the Minister before the said date, section 15(1) shall as from that date apply to the said tenancies.
+
+## Part VII — Miscellaneous and Supplemental
+
+### 83 Settlement of claims on termination of tenancy.
+
+(1) Without prejudice to any other provision of this Act, any claim of whatever nature by the tenant or landlord of an agricultural holding against the other, being a claim which arises—
+
+(a) under this Act or any custom or agreement, and
+
+(b) on or out of the termination of the tenancy of the holding or part of it,
+
+shall, subject to the provisions of this section, be determined by arbitration under this Act.
+
+[[^F135](1A) Notwithstanding subsection (1) above, but subject to the provisions of subsections (2) and (3) below, the tenant and landlord may instead refer for third party determination under this Act any such claim as is mentioned in subsection (1).]
+
+(2) No such claim as is mentioned in subsection (1) above shall be enforceable unless before the expiry of two months from the termination of the tenancy the claimant has served notice in writing on his landlord or tenant, as the case may be, of his intention to make the claim.
+
+(3) A notice under subsection (2) above shall specify the nature of the claim; but it shall be sufficient if the notice refers to the statutory provision, custom or term of an agreement under which the claim is made.
+
+[[^F136](4) An arbitrator may not be appointed under section 84(2) below to determine a claim which has become enforceable by virtue of the service of a notice under subsection (2) above before the expiry of eight months from the termination of the tenancy.]
+
+(5) Where by the expiry of the said period any such claim as is mentioned in subsection (1) above has not been settled, it shall be determined by arbitration under this Act.
+
+(6) Where a tenant lawfully remains in occupation of part of an agricultural holding after the termination of a tenancy, references in subsections (2) and (4) above to the termination of the tenancy shall, in the case of a claim relating to that part of the holding, be construed as references to the termination of the occupation.
+
+### 84 Arbitrations.
+
+(1) Any matter which by or by virtue of this Act or regulations made under this Act is required to be determined by arbitration under this Act shall, notwithstanding any agreement (under a contract of tenancy or otherwise) providing for a different method of arbitration, be determined by the arbitration of a single arbitrator [^F137]. . . .
+
+[[^F138](2) The arbitrator shall be a person appointed by agreement between the parties or, in default of agreement, a person appointed on the application of either of the parties by [[^F139]a professional authority].
+
+[[^F140](2A) A party may not make an application to a professional authority under subsection (2) in relation to a matter if the other party has already made an application to a professional authority under that subsection in relation to that matter.]
+
+(3) If the arbitrator dies, or is incapable of acting, a new arbitrator may be appointed as if no arbitrator had been appointed.
+
+(4) No application may be made to [[^F141]a professional authority] for an arbitrator to be appointed by [[^F142]that authority] under this section unless the application is accompanied by such fee as may be prescribed as the fee for such an application; but once the fee has been paid in connection with any such application no further fee shall be payable in connection with any subsequent application for the appointment by [[^F142]that authority] of a new arbitrator in relation to that arbitration.
+
+(5) Where by virtue of this Act compensation under an agreement is to be substituted for compensation under this Act for improvements or for any such matters as are specified in Part II of Schedule 8 to this Act, the arbitrator shall award compensation in accordance with the agreement instead of in accordance with this Act.
+
+[[^F143](6) In this section “professional authority” means—
+
+(a) the President of the Royal Institution of Chartered Surveyors,
+
+(b) the President of the Central Association of Agricultural Valuers, or
+
+(c) the Chair of the Agricultural Law Association.
+
+(7) The appropriate authority may by regulations amend this section so as to—
+
+(a) include a person in, or remove a person from, the definition of “professional authority”;
+
+(b) reflect changes in the name or internal organisation of any body mentioned in that definition.
+
+(8) In subsection (7) “appropriate authority” means—
+
+(a) the Secretary of State, in relation to England, and
+
+(b) the Welsh Ministers, in relation to Wales.]]
+
+### 84A [[^F144]Third party determinations
+
+(1) Parties who wish to refer a matter for third party determination under this Act must jointly appoint a third party to determine the matter.
+
+(2) Parties may not under subsection (1) jointly appoint a third party to determine a matter once an arbitrator has been appointed to determine the matter under section 84(2).
+
+(3) Any matter which by or by virtue of this Act or regulations made under this Act may be determined by third party determination under this Act is to be treated as having been referred for third party determination under this Act once an appointment has been made under subsection (1).
+
+(4) References to “third party determination under this Act” are to the determination of a matter by the third party appointed under subsection (1) or a replacement third party jointly appointed by the parties on a termination of the earlier appointment and references to a “third party”, in the context of such a determination, are to the third party so appointed.
+
+(5) If a third party appointed under this section to determine a matter dies, or is incapable of acting, the parties may (instead of appointing a replacement) agree to proceed as if they had not referred the matter for third party determination under this Act.
+
+(6) A matter that has been referred for third party determination under this Act may not be determined by arbitration under this Act except by virtue of subsection (5).
+
+(7) Where by virtue of this Act compensation under an agreement is to be substituted for compensation under this Act for improvements or for any such matters as are specified in Part 2 of Schedule 8 to this Act, the third party must award compensation in accordance with the agreement instead of in accordance with this Act.]
+
+### 85 Enforcement.
+
+(1) Subject to subsection (3) below, where a sum agreed [[^F145], awarded or determined by third party determination] under this Act to be paid for compensation, costs or otherwise by a landlord or tenant of an agricultural holding is not paid within fourteen days after the time when the payment becomes due, it shall be recoverable, if the county court so orders, as if it were payable under an order of that court.
+
+(2) Where a sum becomes due to a tenant of an agricultural holding in respect of compensation from the landlord, and the landlord fails to discharge his liability within the period of one month from the date on which the sum becomes due, the tenant shall be entitled to obtain from the Minister an order charging the holding with payment of the amount due.
+
+(3) Where the landlord of an agricultural holding is entitled to receive the rents and profits of the holding otherwise than for his own benefit (whether as trustee or in any other character)—
+
+(a) he shall not be under any liability to pay any sum agreed or awarded under this Act to be paid to the tenant or awarded under this Act to be paid by the landlord, and it shall not be recoverable against him personally, but
+
+(b) if he fails to pay any such sum to the tenant for one month after it becomes due, the tenant shall be entitled to obtain from the Minister an order charging the holding with payment of the sum.
+
+### 86 Power of landlord to obtain charge on holding.
+
+(1) Where the landlord of an agricultural holding—
+
+(a) has paid to the tenant of the holding an amount due to him under this Act, or under custom or agreement, or otherwise, in respect of compensation for an improvement falling within section 64(1) or (4) above, for any such matter as is specified in Part II of Schedule 8 to this Act or for disturbance, or
+
+(b) has defrayed the cost of the execution by him, in pursuance of a notice served under section 67(5) above, of an improvement specified in Part II of Schedule 7 to this Act,
+
+he shall be entitled to obtain from the Minister an order charging the holding or any part of it with repayment of the amount of the compensation or the amount of the cost, as the case may be.
+
+(2) Where there falls to be determined by arbitration [[^F146]or third party determination ] under this Act the amount of compensation for an improvement falling within 64(1) or (4) above or for any such matter as is specified in Part II of Schedule 8 to this Act payment of which entitles the landlord to obtain a charge under subsection (1) above, the arbitrator [[^F147] or (as the case may be) the third party] shall, at the request and cost of the landlord, certify—
+
+(a) the amount of the compensation, and
+
+(b) the term for which the charge may properly be made having regard to the time at which each improvement or matter in respect of which compensation is awarded is to be deemed to be exhausted.
+
+(3) Where the landlord of an agricultural holding is entitled to receive the rents and profits of the holding otherwise than for his own benefit (whether as trustee or in any other character) he shall, either before or after paying to the tenant of the holding any sum agreed [[^F148], awarded or determined by third party determination] under this Act to be paid to the tenant for compensation or awarded [[^F149] or determined by third party determination] under this Act to be paid by the landlord, be entitled to obtain from the Minister an order charging the holding with repayment of that sum.
+
+(4) The rights conferred by this section on a landlord of an agricultural holding to obtain an order charging land shall not be exercised by trustees for ecclesiastical or charitable purposes except with the approval in writing of the [[^F150]Charity Commission].
+
+### 87 General provisions as to charges under this Act on holdings.
+
+(1) An order of the Minister under this Act charging an agricultural holding or any part of an agricultural holding with payment or repayment of a sum shall charge it, in addition, with payment of all costs properly incurred in obtaining the charge.
+
+(2) Any such order shall be made in favour of the person obtaining the charge and of his executors, administrators and assigns, and the order shall make such provision as to the payment of interest and the payment of the sum charged by instalments, and shall contain such directions for giving effect to the charge, as the Minister thinks fit.
+
+(3) In the case of a charge under section 86 above the sum charged shall be a charge on the holding or the part of the holding charged, as the case may be, for the landlord’s interest in the holding and for all interests in the holding subsequent to that of the landlord, but so that in any case where the landlord’s interest is an interest in a leasehold, the charge shall not extend beyond the interest of the landlord, his executors, administrators and assigns.
+
+(4) In the case of a charge under section 86 above where the landlord is not absolute owner of the holding for his own benefit, no instalment or interest shall be made payable after the time when the improvement in respect of which compensation is paid will, in the opinion of the Minister, have become exhausted.
+
+(5) Notwithstanding anything in any deed, will or other instrument to the contrary, where the estate or interest in an agricultural holding of the landlord is determinable or liable to forfeiture by reason of his creating or suffering any charge on it, that estate or interest shall not be determined or forfeited by reason that the tenant obtains a charge on the holding under section 85(2) above or that the landlord obtains a charge on the holding under section 86 above.
+
+(6) A charge created under section 85 above or section 74 of the [^M19]Agricultural Holdings Act 1948 shall rank in priority to any other charge, however and whenever created or arising; and charges created under those sections shall, as between themselves, rank in the order of their creation.
+
+(7) Any company now or hereafter incorporated by Parliament, and having power to advance money for the improvement of land, may take an assignment of any charge created under section 85(2) or 86(1) above upon such terms and conditions as may be agreed upon between the company and the person entitled to the charge, and may assign any charge of which they have taken an assignment under this subsection.
+
+(8) Subsection (6) above shall bind the Crown.
+
+### 88 Power of limited owners to give consents etc.
+
+The landlord of an agricultural holding, whatever his estate or interest in it, may, for the purposes of this Act, give any consent, make any agreement or do or have done to him any other act which he might give, make, do or have done to him if he were owner in fee simple or, if his interest is an interest in a leasehold, were absolutely entitled to that leasehold.
+
+### 89 Power of limited owners to apply capital for improvements.
+
+(1) Where under powers conferred by the [^M20]Settled Land Act 1925 [^F151]. . . capital money is applied in or about the execution of any improvement specified in Schedule 7 to this Act no provision shall be made for requiring the money or any part of it to be replaced out of income, and accordingly any such improvement shall be deemed to be an improvement authorised by Part I of Schedule 3 to the Settled Land Act 1925.
+
+[^F152]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 90 Estimation of best rent for purposes of Acts and other instruments.
+
+In estimating the best rent or reservation in the nature of rent of an agricultural holding for the purposes of any Act of Parliament, deed or other instrument, authorising a lease to be made provided that the best rent, or reservation in the nature of rent, is reserved, it shall not be necessary to take into account against the tenant any increase in the value of the holding arising from any improvements made or paid for by him.
+
+### 91 Power of Minister to vary Schedules 7, 8 and 10.
+
+(1) The Minister may, after consultation with such bodies of persons as appear to him to represent the interests of landlords and tenants of agricultural holdings, by order vary the provisions of Schedules 7, 8 and 10 to this Act.
+
+(2) An order under this section may make such provision as to the operation of this Act in relation to tenancies current when the order takes effect as appears to the Minister to be just having regard to the variation of the said Schedules effected by the order.
+
+### [^F153]92 Advisory committee on valuation of improvements and tenant-right matters.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 93 Service of notices.
+
+(1) Any notice, request, demand or other instrument under this Act shall be duly given to or served on the person to or on whom it is to be given or served if it is delivered to him, or left at his proper address, or sent to him by post in a registered letter or by the recorded delivery service.
+
+(2) Any such instrument shall be duly given to or served on an incorporated company or body if it is given or served on the secretary or clerk of the company or body.
+
+(3) Any such instrument to be given to or served on a landlord or tenant shall, where an agent or servant is responsible for the control of the management or farming, as the case may be, of the agricultural holding, be duly given or served if given to or served on that agent or servant.
+
+(4) For the purposes of this section and of section 7 of the [^M21]Interpretation Act 1978 (service by post), the proper address of any person to or on whom any such instrument is to be given or served shall, in the case of the secretary or clerk of an incorporated company or body, be that of the registered or principal office of the company or body, and in any other case be the last known address of the person in question.
+
+(5) Unless or until the tenant of an agricultural holding has received—
+
+(a) notice that the person who before that time was entitled to receive the rents and profits of the holding (“the original landlord”) has ceased to be so entitled, and
+
+(b) notice of the name and address of the person who has become entitled to receive the rents and profits,
+
+any notice or other document served upon or delivered to the original landlord by the tenant shall be deemed for the purposes of this Act to have been served upon or delivered to the landlord of the holding.
+
+### 94 Orders and regulations.
+
+(1) Any power to make an order or regulations conferred on [[^F154]the Secretary of State, the Lord Chancellor or the Welsh Ministers] by any provision of this Act (except section 85 or 86) shall be exercisable by statutory instrument.
+
+(2) Any statutory instrument containing an order or regulations made under any provision of this Act (except section 22(4) [[^F155], 84(4)] or 91 [^F156]... ) shall be subject to annulment in pursuance of a resolution of
+
+[[^F157](a) either House of Parliament, in the case of a statutory instrument made by the Secretary of State or Lord Chancellor, or
+
+(b) Senedd Cymru, in the case of a statutory instrument made by the Welsh Ministers].
+
+(3) No regulations shall be made under section 22(4) above or [[^F158]section 84(4) above] unless a draft of the regulations has been laid before and approved by a resolution of
+
+[[^F159](a) each House of Parliament, in the case of regulations made by the Secretary of State, or
+
+(b) Senedd Cymru, in the case of regulations made by the Welsh Ministers].
+
+(4) An order made under section 91 above shall be of no effect unless approved by a resolution of
+
+[[^F160](a) each House of Parliament, in the case of an order made by the Secretary of State, or
+
+(b) Senedd Cymru, in the case of an order made by the Welsh Ministers].
+
+### 95 Crown land.
+
+(1) The provisions of this Act, except section 11 above, shall apply to land belonging to Her Majesty in right of the Crown or the Duchy of Lancaster and to land belonging to the Duchy of Cornwall, subject in either case to such modifications as may be prescribed.
+
+(2) For the purposes of this Act—
+
+(a) as respects land belonging to Her Majesty in right of the Crown, the Crown Estate Commissioners or other the proper officer or body having charge of the land for the time being, or, if there is no such officer or body, such person as Her Majesty may appoint in writing under the Royal Sign Manual, shall represent Her Majesty and shall be deemed to be the landlord,
+
+(b) as respects land belonging to Her Majesty in right of the Duchy of Lancaster, the Chancellor of the Duchy shall represent Her Majesty and shall be deemed to be the landlord,
+
+(c) as respects land belonging to the Duchy of Cornwall, such person as the Duke of Cornwall or other the possessor for the time being of the Duchy of Cornwall appoints shall represent the Duke of Cornwall or other the possessor aforesaid, and shall be deemed to be the landlord and may do any act or thing which a landlord is authorised or required to do under this Act.
+
+(3) Without prejudice to subsection (1) above it is hereby declared that the provisions of this Act, except section 11 above, apply to land notwithstanding that the interest of the landlord or tenant is held on behalf of Her Majesty for the purposes of any government department; but those provisions shall, in their application to any land in which an interest is so held, have effect subject to such modifications as may be prescribed.
+
+(4) Any compensation payable under this Act by the Chancellor of the Duchy of Lancaster for long-term improvements shall, and any compensation so payable under section 60(2)(b) or 62 above may, be raised and paid as an expense incurred in improvement of land belonging to Her Majesty in right of the Duchy within section 25 of the [^M22]Duchy of Lancaster Act 1817; and any compensation so payable under this Act for short-term improvements and tenant-right matters shall be paid out of the annual revenues of the Duchy.
+
+(5) Any compensation payable under this Act by the Duke of Cornwall or other the possessor for the time being of the Duchy of Cornwall for long-term improvements shall, and any compensation so payable under section 60(2)(b) or 62 above may, be paid and advances therefor made in the manner and subject to the provisions of section 8 of the [^M23]Duchy of Cornwall Management Act 1863 with respect to improvements of land mentioned in that section.
+
+(6) Nothing in subsection (5) above shall be taken as prejudicing the operation of the [^M24]Duchy of Cornwall Management Act 1982.
+
+(7) In this section—
+
+- “long-term improvements” means relevant improvements specified in Schedule 7 to this Act, improvements falling within section 64(4) above and improvements specified in Schedule 10 to this Act;
+- “short-term improvements and tenant-right matters” means relevant improvements specified in Part I of Schedule 8 to this Act and such matters as are specified in Part II of that Schedule.
+
+### 96 Interpretation.
+
+(1) In this Act, unless the context otherwise requires—
+
+- “agreement” includes an agreement arrived at by means of valuation or otherwise, and “agreed” has a corresponding meaning;
+- “agricultural holding” has the meaning given by section 1 above;
+- “agricultural land” has the meaning given by section 1 above;
+- “agricultural unit” means land which is an agricultural unit for the purposes of the [^M25]Agriculture Act 1947;
+- “agriculture” includes horticulture, fruit growing, seed growing, dairy farming and livestock breeding and keeping, the use of land as grazing land, meadow land, osier land, market gardens and nursery grounds, and the use of land for woodlands where that use is ancillary to the farming of land for other agricultural purposes, and “agricultural” shall be construed accordingly;
+- “building” includes any part of a building;
+- “Case A”, “Case B” (and so on) refer severally to the Cases set out and so named in Part I of Schedule 3 to this Act;
+- “contract of tenancy” has the meaning given by section 1 above;
+- [^F161]...
+- “fixed equipment” includes any building or structure affixed to land and any works on, in, over or under land, and also includes anything grown on land for a purpose other than use after severance from the land, consumption of the thing grown or of its produce, or amenity, and any reference to fixed equipment on land shall be construed accordingly;
+- “landlord” means any person for the time being entitled to receive the rents and profits of any land;
+- “livestock” includes any creature kept for the production of food, wool, skins, or fur or for the purpose of its use in the farming of land or the carrying on in relation to land of any agricultural activity;
+- “local government funds” means, in relation to any grant in respect of an improvement executed by the landlord or tenant of an agricultural holding, the funds of any body which, under or by virtue of any enactment, has power to make grants in respect of improvements of the description in question within any particular area (whether or not it is a local authority for that area);
+- “the Minister” means—
+
+(a) in relation to England, the [[^F162]Secretary of State], and
+
+(b) in relation to Wales, the Secretary of State;
+
+- “the model clauses” has the meaning given by section 7 above;
+
+- “pasture” includes meadow;
+
+- “prescribed” means prescribed by the Minister by regulations;
+
+- “relevant improvement” has the meaning given by section 64(2) above;
+
+- “tenant” means the holder of land under a contract of tenancy, and includes the executors, administrators, assigns, or trustee in bankruptcy of a tenant, or other person deriving title from a tenant;
+
+- “termination”, in relation to a tenancy, means the cesser of the contract of tenancy by reason of effluxion of time or from any other cause;
+
+- [[^F163]“third party” and “third party determination” have the meaning given by section 84A(4) above;]
+
+- [[^F164]“the Tribunal” means—
+
+  - where the agricultural holding (or the greater part of the holding) is in England, the First-tier Tribunal; and
+  - where the agricultural holding (or the greater part of the holding) is in Wales, the Agricultural Land Tribunal (see section 73 of the Agriculture Act 1947).]
+
+(2) For the purposes of this Act, a tenant is insolvent if—
+
+(a) he has been [[^F165]made] bankrupt or has made a composition or arrangement with his creditors, or
+
+(b) where the tenant is a body corporate, a winding-up order has been made with respect to it or a resolution for voluntary winding-up has been passed with respect to it (other than a resolution passed solely for the purposes of its reconstruction or of its amalgamation with another body corporate).
+
+(3) Sections 10 and 11 of the Agriculture Act 1947 (which specify the circumstances in which an owner of agricultural land is deemed for the purposes of that Act to fulfil his responsibilities to manage the land in accordance with the rules of good estate management and an occupier of such land is deemed for those purposes to fulfil his responsibilities to farm it in accordance with the rules of good husbandry) shall apply for the purposes of this Act.
+
+(4) References in this Act to the farming of land include references to the carrying on in relation to the land of any agricultural activity.
+
+(5) References in this Act to the use of land for agriculture include, in relation to land forming part of an agricultural unit, references to any use of the land in connection with the farming of the unit.
+
+(6) The designations of landlord and tenant shall continue to apply to the parties until the conclusion of any proceedings taken under or in pursuance of this Act in respect of compensation.
+
+### 97 Saving for other rights etc.
+
+Subject to sections 15(5) and 83(1) above in particular, and to any other provision of this Act which otherwise expressly provides, nothing in this Act shall prejudicially affect any power, right or remedy of a landlord, tenant or other person vested in or exercisable by him by virtue of any other Act or law or under any custom of the country or otherwise, in respect of a contract of tenancy or other contract, or of any improvements, deteriorations, waste, emblements, tillages, away-going crops, fixtures, tax, rate, tithe rentcharge, rent or other thing.
+
+### 98 Application of Act to old tenancies etc.
+
+(1) Subject to sections 4 and 34 above, to the provisions of Schedule 12 to this Act and to any other provision to the contrary, this Act applies in relation to tenancies of agricultural holdings whenever created, agreements whenever made and other things whenever done.
+
+(2) The provisions of this Act shall apply in relation to tenancies of agricultural holdings granted or agreed to be granted, agreements made and things done before the dates specified in paragraphs 1 to 5 and 10 of Schedule 12 to this Act (being dates no later than 1st March 1948) subject to the modifications there specified.
+
+(3) Paragraphs 6 to 9 of Schedule 12 to this Act, which make provision with respect to compensation for tenant-right matters in relation to tenants of agricultural holdings who entered into occupation before the dates specified in those paragraphs (being dates no later than 31st December 1951), shall have effect.
+
+### 99 Transitional provisions and savings.
+
+(1) Schedule 13 to this Act, which excepts from the operation of this Act certain cases current at the commencement of this Act and contains other transitional provisions and savings, shall have effect.
+
+(2) The re-enactment in paragraphs 6 to 8 of Schedule 12 to this Act of provisions contained in the [^M26]Agricultural Holdings Act (Variation of Fourth Schedule) Order 1951 shall be without prejudice to the validity of those provisions; and any question as to the validity of any of those provisions shall be determined as if the re-enacting provisions of this Act were contained in a statutory instrument made under the powers under which the original provision was made.
+
+(3) Nothing in this Act (except paragraph 8 of Schedule 13) shall be taken as prejudicing the operation of sections 16 and 17 of the [^M27]Interpretation Act 1978 (which relate to the effect of repeals).
+
+### 100 Consequential amendments.
+
+Schedule 14 to this Act shall have effect.
+
+### 101 Repeals and revocations.
+
+(1) The enactments specified in Part I of Schedule 15 to this Act are hereby repealed to the extent specified in the third column of that Schedule.
+
+(2) The instruments specified in Part II of Schedule 15 to this Act are hereby revoked to the extent specified in the third column of that Schedule.
+
+### 102 Citation, commencement and extent.
+
+(1) This Act may be cited as the Agricultural Holdings Act 1986.
+
+(2) This Act shall come into force at the end of the period of three months beginning with the day on which it is passed.
+
+(3) Subject to subsection (4) below, this Act extends to England and Wales only.
+
+(4) Subject to subsection (5) below and to paragraph 26(6) of Schedule 14 to this Act, the amendment or repeal by this Act of an enactment which extends to Scotland or Northern Ireland shall also extend there.
+
+(5) Subsection (4) above does not apply to the amendment or repeal by this Act of section 9 of the [^M28]Hill Farming Act 1946, section 48(4) of the [^M29]Agriculture Act 1967 or an enactment contained in the [^M30]Agriculture (Miscellaneous Provisions) Act 1968.
+
+## SCHEDULE 1 — Matters for Which Provision is to be Made in Written Tenancy Agreements
+
+*Section 6.*
+
+**1** The names of the parties.
+
+**2** Particulars of the holding with sufficient description, by reference to a map or plan, of the fields and other parcels of land comprised in the holding to identify its extent.
+
+**3** The term or terms for which the holding or different parts of it is or are agreed to be let.
+
+**4** The rent reserved and the dates on which it is payable.
+
+**5** The incidence of the liability for rates (including drainage rates).
+
+**6** A covenant by the tenant in the event of the destruction by fire of harvested crops grown on the holding for consumption on it to return to the holding the full equivalent manurial value of the crops destroyed, in so far as the return of that value is required for the fulfilment of his responsibilities to farm in accordance with the rules of good husbandry.
+
+**7** A covenant by the tenant (except where the interest of the tenant is held for the purposes of a government department or where the tenant has made provision approved by the Minister in lieu of such insurance) to insure against damage by fire all dead stock on the holding and all harvested crops grown on the holding for consumption on it.
+
+**8** A power for the landlord to re-enter on the holding in the event of the tenant not performing his obligations under the agreement.
+
+**9** A covenant by the tenant not to assign, sub-let or part with possession of the holding or any part of it without the landlord’s consent in writing.
+
+## [^F166]SCHEDULE 2 — Arbitration [[^F166]or Third Party Determination] of Rent: Provisions Supplementary to Section 12
+
+*Section 12.*
+
+### Amount of rent
+
+**1** (1) For the purposes of section 12 of this Act, the rent properly payable in respect of a holding shall be the rent at which the holding might reasonably be expected to be let by a prudent and willing landlord to a prudent and willing tenant, taking into account (subject to sub-paragraph (3) and paragraphs 2 and 3 below) all relevant factors, including (in every case) the terms of the tenancy (including those relating to rent), the character and situation of the holding (including the locality in which it is situated), the productive capacity of the holding and its related earning capacity, and the current level of rents for comparable lettings, as determined in accordance with sub-paragraph (3) below.
+
+(2) In sub-paragraph (1) above, in relation to the holding—
+
+(a) “productive capacity” means the productive capacity of the holding (taking into account fixed equipment and any other available facilities on the holding) on the assumption that it is in the occupation of a competent tenant practising a system of farming suitable to the holding, and
+
+(b) “related earning capacity” means the extent to which, in the light of that productive capacity, a competent tenant practising such a system of farming could reasonably be expected to profit from farming the holding.
+
+(3) In determining for the purposes of that sub-paragraph the current level of rents for comparable lettings, the arbitrator [[^F167]or (as the case may be) the third party ] shall take into account any available evidence with respect to the rents (whether fixed by agreement between the parties or by arbitration [[^F168]or third party determination] under this Act) which are, or (in view of rents currently being tendered) are likely to become, payable in respect of tenancies of comparable agricultural holdings on terms (other than terms fixing the rent payable) similar to those of the tenancy under consideration, but shall disregard—
+
+(a) any element of the rents in question which is due to an appreciable scarcity of comparable holdings available for letting on such terms compared with the number of persons seeking to become tenants of such holdings on such terms,
+
+(b) any element of those rents which is due to the fact that the tenant of, or a person tendering for, any comparable holding is in occupation of other land in the vicinity of that holding that may conveniently be occupied together with that holding, and
+
+(c) any effect on those rents which is due to any allowances or reductions made in consideration of the charging of premiums.
+
+**2** (1) On a reference under section 12 of this Act, the arbitrator [[^F169]or (as the case may be) the third party] shall disregard any increase in the rental value of the holding which is due to—
+
+(a) tenant’s improvements or fixed equipment other than improvements executed or equipment provided under an obligation imposed on the tenant by the terms of his contract of tenancy, and
+
+(b) landlord’s improvements, in so far as the landlord has received or will receive grants out of money provided by Parliament or local government funds in respect of the execution of those improvements.
+
+(2) In this paragraph—
+
+(a) “tenant’s improvements” means any improvements which have been executed on the holding, in so far as they were executed wholly or partly at the expense of the tenant (whether or not that expense has been or will be reimbursed by a grant out of money provided by Parliament or local government funds) without any equivalent allowance or benefit made or given by the landlord in consideration of their execution,
+
+(b) “tenant’s fixed equipment” means fixed equipment provided by the tenant, and
+
+(c) “landlord’s improvements” means improvements executed on the holding by the landlord.
+
+(3) Where the tenant has held a previous tenancy of the holding, then—
+
+(a) in the definition of “tenant’s improvements” in sub-paragraph (2)(a) above, the reference to any such improvements as are there mentioned shall extend to improvements executed during that tenancy, and
+
+(b) in the definition of “tenant’s fixed equipment” in sub-paragraph (2)(b), the reference to such equipment as is there mentioned shall extend to equipment provided during that tenancy,
+
+excluding, however, any improvement or fixed equipment so executed or provided in respect of which the tenant received any compensation on the termination of that (or any other) tenancy.
+
+(4) For the purposes of sub-paragraph (2)(a) above, the continuous adoption by the tenant of a system of farming more beneficial to the holding—
+
+(a) than the system of farming required by the contract of tenancy, or
+
+(b) in so far as no system is so required, than the system of farming normally practised on comparable agricultural holdings,
+
+shall be treated as an improvement executed at his expense.
+
+**3** On a reference under section 12 of this Act the arbitrator [[^F170]or (as the case may be) the third party ]—
+
+(a) shall disregard any effect on the rent of the fact that the tenant who is a party to the arbitration [[^F171]or third party determination] is in occupation of the holding, [^F172]...
+
+[[^F173](aa) in a case where the tenant is, under an agreement in writing with the landlord, required to make payments in respect of improvements to the holding that are or are to be wholly or partly financed by the landlord, shall disregard any effect on the rent of—
+
+(i) the fact that the tenant is required to make such payments, and
+
+(ii) any benefit to the tenant arising from the improvements before the date on which the last of those payments falls to be made, and]
+
+(b) shall not fix the rent at a lower amount by reason of any dilapidation or deterioration of, or damage to, buildings or land caused or permitted by the tenant.
+
+### Frequency of [[^F174]determinations] under section 12
+
+**4** (1) Subject to the following provisions of this Schedule, a [[^F175]notice under section 12(1) of this Act] shall not be effective for the purposes of section 12 of this Act if the next termination date following the date of [[^F176]the notice] falls earlier than the end of three years from any of the following dates, that is to say—
+
+(a) the commencement of the tenancy, or
+
+(b) the date as from which there took effect a previous increase or reduction of rent (whether made under that section or otherwise), or
+
+(c) the date as from which there took effect a previous direction of an arbitrator [[^F177]or third party] under that section that the rent should continue unchanged.
+
+(2) The following shall be disregarded for the purposes of sub-paragraph (1)(b) above—
+
+(a) an increase of rent under section 6(3) or 8(4) of this Act;
+
+(b) an increase of rent under subsection (1) of section 13 of this Act or such an increase as is referred to in subsection (3) of that section, or any reduction of rent agreed between the landlord and the tenant of the holding in consequence of any change in the fixed equipment provided on the holding by the landlord;
+
+(c) a reduction of rent under section 33 of this Act;
+
+[[^F178](d) an increase or reduction of rent arising from—
+
+(i) the exercise of an option to tax under Schedule 10 to the Value Added Tax Act 1994,
+
+(ii) the revocation of such an option, or
+
+(iii) a change in the rate of value added tax applicable to grants of interests in or rights over land in respect of which such an option has effect.]
+
+**5** (1) This paragraph applies in any case where a tenancy of an agricultural holding (“the new holding”) commences under a contract of tenancy between—
+
+(a) a person who immediately before the date of the commencement of the tenancy was entitled to a severed part of the reversionary estate in an agricultural holding (“the original holding”) in which the new holding was then comprised, and
+
+(b) the person who immediately before that date was the tenant of the original holding,
+
+and where the rent payable in respect of the new holding at the commencement of the tenancy of that holding represents merely the appropriate portion of the rent payable in respect of the original holding immediately before the commencement of that tenancy.
+
+(2) In any case to which this paragraph applies—
+
+(a) paragraph (a) of sub-paragraph (1) of paragraph 4 above shall be read as referring to the commencement of the tenancy of the original holding, and
+
+(b) references to rent in paragraphs (b) and (c) of that sub-paragraph shall be read as references to the rent payable in respect of the original holding,
+
+until the first occasion following the commencement of the tenancy of the new holding on which any such increase or reduction of, or direction with respect to, the rent of the new holding as is mentioned in paragraph (b) or (c) takes effect.
+
+**6** Where under an agreement between the landlord and the tenant of the holding (not being an agreement expressed to take effect as a new contract of tenancy between the parties) provision is made for adjustment of the boundaries of the holding or for any other variation of the terms of the tenancy, exclusive of those relating to rent, then, unless the agreement otherwise provides—
+
+(a) that provision shall for the purposes of sub-paragraph (1) of paragraph 4 above be treated as not operating to terminate the tenancy, and accordingly as not resulting in the commencement of a new contract of tenancy between the parties, and
+
+(b) any increase or reduction of rent solely attributable to any such adjustment or variation as aforesaid shall be disregarded for the purposes of paragraph (b) of that sub-paragraph.
+
+**[[^F179]7** (1) This paragraph applies in any case where—
+
+(a) a tenancy of an agricultural holding (the new tenancy) is granted to a person who, immediately before the grant of the new tenancy, was the tenant of the holding, or of any agricultural holding which comprised the whole or a substantial part of the land comprised in the holding, under a contract of tenancy (“the previous tenancy”),
+
+(b) this Act applies in relation to the new tenancy by virtue of section 4(1)(g) of the Agricultural Tenancies Act 1995, and
+
+(c) the rent payable under the new tenancy is unchanged from that payable under the previous tenancy, disregarding any increase or reduction in rent solely attributable to an adjustment of the boundaries of the holding.
+
+(2) The reference in sub-paragraph (1) above to a substantial part of the land comprised in the holding means a substantial part determined by reference to either area or value.
+
+(3) In any case to which this paragraph applies—
+
+(a) paragraph (a) of sub-paragraph (1) of paragraph 4 above shall be read as referring to the commencement of the previous tenancy, and
+
+(b) references to rent in paragraphs (b) and (c) of that sub-paragraph shall be read as references to the rent payable under the previous tenancy,
+
+until the first occasion following the commencement of the new tenancy on which any such increase or reduction of, or direction with respect to, the rent payable under the new tenancy as is mentioned in paragraph (b) or (c) takes effect.]
+
+## SCHEDULE 3 — Cases Where Consent Of Tribunal To Operation Of Notice To Quit Is Not Required
+
+*Section 26.*
+
+### Part I — The Cases
+
+#### CASE A
+
+The holding is let as a smallholding by a smallholdings authority or the Minister in pursuance of Part III of the [^M31]Agriculture Act 1970 and was so let on or after 12th September 1984, and
+
+(a) the tenant has attained [[^F180]the tenant's pensionable age (as specified from time to time in Part 1 of Schedule 4 to the Pensions Act 1995)], and
+
+(b) if the result of the notice to quit taking effect would be to deprive the tenant of living accommodation occupied by him under the tenancy, suitable alternative accommodation is available for him, or will be available for him when the notice takes effect, and
+
+(c) the instrument under which the tenancy was granted contains an acknowledgment signed by the tenant that the tenancy is subject to the provisions of this Case (or to those of Case I in section 2(3) of the [^M32]Agricultural Holdings (Notices to Quit) Act 1977),
+
+and it is stated in the notice to quit that it is given by reason of the said matter.
+
+#### [[^F181] Case B
+
+The notice to quit is given on the ground that the land is required for a use, other than for agriculture—
+
+(a) for which permission has been granted on an application made under the enactments relating to town and country planning,
+
+(b) for which permission under those enactments is granted by a general development order by reason only of the fact that the use is authorised by—
+
+(i) a private or local Act,
+
+(ii) an order approved by both Houses of Parliament, or
+
+(iii) an order made under section 14 or 16 of the Harbours Act 1964,
+
+(c) for which any provision that—
+
+(i) is contained in an Act, but
+
+(ii) does not form part of the enactments relating to town and country planning,
+
+deems permission under those enactments to have been granted,
+
+(d) which any such provision deems not to constitute development for the purposes of those enactments, or
+
+(e) for which permission is not required under the enactments relating to town and country planning by reason only of Crown immunity,
+
+and that fact is stated in the notice.]
+
+#### CASE C
+
+Not more than six months before the giving of the notice to quit, the Tribunal granted a certificate under paragraph 9 of Part II of this Schedule that the tenant of the holding was not fulfilling his responsibilities to farm in accordance with the rules of good husbandry, and that fact is stated in the notice.
+
+#### CASE D
+
+At the date of the giving of the notice to quit the tenant had failed to comply with a notice in writing served on him by the landlord, being either—
+
+(a) a notice requiring him within two months from the service of the notice to pay any rent due in respect of the agricultural holding to which the notice to quit relates, or
+
+(b) a notice requiring him within a reasonable period specified in the notice to remedy any breach by the tenant that was capable of being remedied of any term or condition of his tenancy which was not inconsistent with his responsibilities to farm in accordance with the rules of good husbandry,
+
+and it is stated in the notice to quit that it is given by reason of the said matter.
+
+#### CASE E
+
+At the date of the giving of the notice to quit the interest of the landlord in the agricultural holding had been materially prejudiced by the commission by the tenant of a breach, which was not capable of being remedied, of any term or condition of the tenancy that was not inconsistent with the tenant’s responsibilities to farm in accordance with the rules of good husbandry, and it is stated in the notice that it is given by reason of the said matter.
+
+#### CASE F
+
+At the date of the giving of the notice to quit the tenant was a person who had become insolvent, and it is stated in the notice that it is given by reason of the said matter.
+
+#### CASE G
+
+The notice to quit is given—
+
+(a) following the death of a person who immediately before his death was the sole (or sole surviving) tenant under the contract of tenancy, and
+
+(b) not later than the end of the period of three months beginning with the date of any relevant notice,
+
+and it is stated in the notice to quit that it is given by reason of that person’s death.
+
+#### CASE H
+
+The notice to quit is given by the Minister and—
+
+(a) the Minister certifies in writing that the notice to quit is given in order to enable him to use or dispose of the land for the purpose of effecting any amalgamation (within the meaning of section 26(1) of the [^M33]Agriculture Act 1967) or the reshaping of any agricultural unit, and
+
+(b) the instrument under which the tenancy was granted contains an acknowledgement signed by the tenant that the tenancy is subject to the provisions of this Case (or to those of Case H in section 2(3) of the [^M34]Agricultural Holdings (Notices to Quit) Act 1977 or of section 29 of the [^M35]Agriculture Act 1967).
+
+### Part II — Supplementary Provisions Applicable to Cases A, B, C, D, E and G
+
+#### Provisions applicable to Case A
+
+**1** Paragraphs 2 to 7 below have effect for determining whether, for the purposes of paragraph (b) of Case A, suitable alternative accommodation is or will be available for the tenant.
+
+**2** For the purposes of paragraph (b) of Case A, a certificate of the housing authority for the district in which the living accommodation in question is situated, certifying that the authority will provide suitable alternative accommodation for the tenant by a date specified in the certificate, shall be conclusive evidence that suitable alternative accommodation will be available for him by that date.
+
+**3** Where no such certificate as is mentioned in paragraph 2 above has been issued, accommodation shall be deemed to be suitable for the purposes of paragraph (b) of Case A if it consists of either—
+
+(a) premises which are to be let as a separate dwelling such that they will then be let on a protected tenancy (within the meaning of the [^M36]Rent Act 1977), or
+
+(b) premises to be let as a separate dwelling on terms which will afford to the tenant security of tenure reasonably equivalent to the security afforded by Part VII of that Act in the case of a protected tenancy, [[^F182]or
+
+(c) [^F183]premises which are to be let as a separate dwelling such that they will then be let on an assured tenancy which is not an assured shorthold tenancy (construing those terms in accordance with Part I of the Housing Act 1988), or
+
+[[^F183]premises which are to be let as a separate dwelling such that they will then be let on an assured tenancy (construing that term in accordance with Part 1 of the Housing Act 1988)—
+
+(i) by the person who was the landlord under the tenancy of the agricultural holding (“the former agricultural landlord”), or
+
+(ii) by another person pursuant to a contract or other agreement entered into with the former agricultural landlord under which—
+
+(A) the premises are to be let as suitable alternative accommodation for the purposes of paragraph (b) of case A, and
+
+(B) subsection (5ZA) of section 7 of that Act is to apply;]
+
+(d) [^F183]premises to be let as a separate dwelling on terms which will afford to the tenant security of tenure reasonably equivalent to the security afforded by Chapter I of Part I of that Act in the case of an assured tenancy which is not an assured shorthold tenancy.
+
+[[^F183]premises which are to be let as a separate dwelling in any other case on terms which will afford to the tenant security of tenure reasonably equivalent to the security that would be afforded by Chapter 1 of Part 1 of that Act in a case within paragraph (c).]]
+
+and the accommodation fulfils the conditions in paragraph 4 below.
+
+[[^F184](2) [^F185]Any reference in sub-paragraph (1) above to an assured tenancy does not include a reference to a tenancy in respect of which possession might be recovered on any of Grounds 1 to 5 in Schedule 2 to the Housing Act 1988.]
+
+**4** (1) The accommodation must be reasonably suitable to the needs of the tenant’s family as regards proximity to place of work and either—
+
+(a) similar as regards rental and extent to the accommodation afforded by dwelling-houses provided in the neighbourhood by any housing authority for persons whose needs as regards extent are similar to those of the tenant and his family, or
+
+(b) reasonably suitable to the means of the tenant and to the needs of the tenant and his family as regards extent and character.
+
+(2) For the purposes of sub-paragraph (1)(a) above, a certificate of a housing authority stating—
+
+(a) the extent of the accommodation afforded by dwelling-houses provided by the authority to meet the needs of tenants with families of such number as may be specified in the certificate, and
+
+(b) the amount of the rent charged by the authority for dwelling-houses affording accommodation of that extent,
+
+shall be conclusive evidence of the facts so stated.
+
+(3) If any furniture was provided by the landlord for use under the tenancy in question, furniture must be provided for use in the alternative accommodation which is either—
+
+(a) similar to that so provided, or
+
+(b) reasonably suitable to the needs of the tenant and his family.
+
+**5** Accommodation shall not be deemed to be suitable to the needs of the tenant and his family if the result of their occupation of the accommodation would be that it would be an overcrowded dwelling-house for the purposes of Part X of the [^M37]Housing Act 1985.
+
+**6** Any document purporting—
+
+(a) to be a certificate of a housing authority named in it issued for the purposes of this Schedule, and
+
+(b) to be signed by the proper officer of the authority,
+
+shall be received in evidence and, unless the contrary is shown, shall be deemed to be such a certificate without further proof.
+
+**7** (1) In paragraphs 2, 4 and 6 above “housing authority”, and “district” in relation to such an authority, mean a local housing authority and their district within the meaning of the Housing Act 1985.
+
+(2) For the purposes of paragraphs 4 and 5 a dwelling-house may be a house or part of a house.
+
+#### Provisions applicable to Case B
+
+**8** (1) For the purposes of Case B no account shall be taken of any permission granted as mentioned in paragraph (a) of that Case if the permission—
+
+[^F186]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) relates to the working of coal by opencast operations, and
+
+(c) was granted subject to a restoration condition and to an aftercare condition in which the use specified is use for agriculture or use for forestry.
+
+(2) In this paragraph “restoration condition” and “aftercare condition” have the meaning given by [[^F187]section 336(1) of the Town and Country Planning Act 1990].
+
+**[[^F188]8A** (1) For the purposes of Case B—
+
+(a) “general development order” means an order under section 59 of the Town and Country Planning Act 1990 which is made as a general order, and
+
+(b) “the enactments relating to town and country planning” means the planning Acts (as defined in section 336(1) of the Town and Country Planning Act 1990) and any enactment amending or replacing any of those Acts.
+
+(2) In relation to any time before the commencement of Part III of the Town and Country Planning Act 1990, sub-paragraph (1) above shall have effect as if—
+
+(a) in paragraph (a), for “59” there were substituted “24” and for “1990” there were substituted “1971”, and
+
+(b) in paragraph (b), for the words from “planning Acts” onwards there were substituted “repealed enactments (as defined in section 1(1) of the Planning (Consequential Provisions) Act 1990)”.]
+
+#### Provisions applicable to Case C
+
+**9** (1) For the purposes of Case C the landlord of an agricultural holding may apply to the Tribunal for a certificate that the tenant is not fulfilling his responsibilities to farm in accordance with the rules of good husbandry; and the Tribunal, if satisfied that the tenant is not fulfilling his said responsibilities, shall grant such a certificate.
+
+(2) In determining whether to grant a certificate under this paragraph the Tribunal shall disregard any practice adopted by the tenant in pursuance of any provision of the contract of tenancy, or of any other agreement with the landlord, which indicates (in whatever terms) that its object is the furtherance of one or more of the following purposes, namely—
+
+(a) the conservation of flora or fauna or of geological or physiographical features of special interest;
+
+(b) the protection of buildings or other objects of archaeological, architectural or historic interest;
+
+(c) the conservation or enhancement of the natural beauty or amenity of the countryside or the promotion of its enjoyment by the public.
+
+[[^F189](3) In determining whether to grant a certificate under this paragraph, the tribunal shall disregard any practice adopted by the tenant in compliance with any obligation accepted by or imposed on the tenant under [[^F190]section 94 or 95 of the Water Resources Act 1991]]
+
+#### Provisions applicable to Case D
+
+**10** (1) For the purposes of Case D—
+
+(a) a notice such as that mentioned in paragraph (a) or (b) of that Case must be in the prescribed form,
+
+(b) where such a notice in the prescribed form requires the doing of any work of repair, maintenance or replacement, any further notice requiring the doing of any such work which is served on the tenant less than twelve months after the earlier notice shall be disregarded unless the earlier notice was withdrawn with his agreement in writing,
+
+(c) a period of less than six months shall not be treated as a reasonable period within which to do any such work, and
+
+(d) any provision such as is mentioned in paragraph 9(2) above shall (if it would not otherwise be so regarded) be regarded as a term or condition of the tenancy which is not inconsistent with the tenant’s responsibilities to farm in accordance with the rules of good husbandry.
+
+(2) Different forms may be prescribed for the purpose of paragraph (b) of Case D in relation to different circumstances.
+
+[[^F191](3) For the purposes of that Case compliance with any obligation accepted by or imposed on the tenant under [[^F192]section 94 or 95 of the Water Resources Act 1991] shall not be capable of constituting a breach by the tenant of the terms or conditions of his tenancy.]
+
+#### Provisions applicable to Case E
+
+**11** (1) Where—
+
+(a) the landlord is a smallholdings authority, or
+
+(b) the landlord is the Minister and the holding is on land held by him for the purposes of smallholdings,
+
+then, in considering whether the interest of the landlord has been materially prejudiced as mentioned in Case E, regard shall be had to the effect of the breach in question not only on the holding itself but also on the carrying out of the arrangements made by the smallholdings authority or the Minister (as the case may be) for the letting and conduct of smallholdings.
+
+(2) For the purposes of Case E any provision such as is mentioned in paragraph 9(2) above shall (if it would not otherwise be so regarded) be regarded as a term or condition of the tenancy which is not inconsistent with the tenant’s responsibilities to farm in accordance with the rules of good husbandry.
+
+[[^F193](3) For the purposes of that Case compliance with any obligation accepted by or imposed on the tenant under [[^F194]section 94 or 95 of the Water Resources Act 1991]shall not be capable of constituting a breach by the tenant of the terms or conditions of his tenancy.]
+
+#### Provisions applicable to Case G
+
+**12** For the purposes of Case G—
+
+(a) “tenant” does not include an executor, administrator, trustee in bankruptcy or other person deriving title from a tenant by operation of law, and
+
+(b) the reference to the date of any relevant notice shall be construed as a reference—
+
+(i) to the date on which a notice in writing was served on the landlord by or on behalf of an executor or administrator of the tenant’s estate informing the landlord of the tenant’s death or the date on which the landlord was given notice by virtue of section 40(5) of this Act of any application with respect to the holding under section 39 or 41, or
+
+(ii) where both of those events occur, to the date of whichever of them occurs first.
+
+## SCHEDULE 4 — Matters for Which Provision may be made by Order Under Section 29
+
+*Section 29.*
+
+**1** Requiring any question arising under the provisions of section 26(2) of, and Schedule 3 to, this Act to be determined by arbitration under this Act.
+
+**2** Limiting the time within which any such arbitration may be required or within which an arbitrator may be appointed by agreement between the parties, or (in default of such agreement) an application may be made under [[^F195]section 84(2) of] this Act for the appointment of an arbitrator, for the purposes of any such arbitration.
+
+**3** Extending the period within which a counter-notice may be given by the tenant under section 26(1) of this Act where any such arbitration is required.
+
+**4** Suspending the operation of notices to quit until the expiry of any time fixed in pursuance of paragraph 2 above for the making of any such appointment by agreement or application as is there mentioned or, where any such appointment or application has been duly made, until the termination of any such arbitration.
+
+**5** Postponing the date at which a tenancy is to be terminated by a notice to quit which has effect in consequence of any such arbitration or of an application under section 26(1) or 28(2) of this Act or under provisions made by virtue of paragraph 12 below.
+
+**6** Excluding the application of section 26(1) of this Act in relation to sub-tenancies in such cases as may be specified in the order.
+
+**7** Making such provision as appears to the Lord Chancellor expedient for the purpose of safeguarding the interests of sub-tenants including provision enabling the Tribunal, where the interest of a tenant is terminated by notice to quit, to secure that a sub-tenant will hold from the landlord on the like terms as he held from the tenant.
+
+**8** The determination by arbitration under this Act of any question arising under such a notice as is mentioned in paragraph (b) of Case D, being a notice requiring the doing of any work of repair, maintenance or replacement (including the question whether the notice is capable of having effect for the purposes of that Case).
+
+**9** Enabling the arbitrator, on an arbitration under this Act relating to such a notice as is mentioned in paragraph 8 above, to modify the notice—
+
+(a) by deleting any item or part of an item of work specified in the notice as to which, having due regard to the interests of good husbandry as respects the agricultural holding to which the notice relates and of sound management of the estate of which that holding forms part or which that holding constitutes, the arbitrator is satisfied that it is unnecessary or unjustified, or
+
+(b) by substituting, in the case of any item or part of an item of work so specified, a different method or material for the method or material which the notice would otherwise require to be followed or used where, having regard to the purpose which that item or part is intended to achieve, the arbitrator is satisfied that—
+
+(i) the last-mentioned method or material would involve undue difficulty or expense,
+
+(ii) the first-mentioned method or material would be substantially as effective for the purpose, and
+
+(iii) in all the circumstances the substitution is justified.
+
+**10** Enabling the time within which anything is to be done in pursuance of such a notice as is mentioned in paragraph (b) of Case D to be extended or to be treated as having been extended.
+
+**11** Enabling a tenancy, in a case where that time is extended, to be terminated either by a notice to quit served less than twelve months before the date on which it is to be terminated, or at a date other than the end of a year of the tenancy, or both by such a notice and at such a date.
+
+**12** Securing that, where a subsequent notice to quit is given in accordance with provisions made by virtue of paragraph 11 above in a case where the original notice to quit fell within section 28(1) of this Act, then, if the tenant serves on the landlord a counter-notice in writing within one month after the giving of the subsequent notice to quit (or, if the date specified in that notice for the termination of the tenancy is earlier, before that date), the subsequent notice to quit shall not have effect unless the Tribunal consent to its operation, and applying section 28(5) of this Act as regards the giving of that consent.
+
+**13** The recovery by a tenant of the cost of any work which is done by him in compliance with a notice requiring him to do it, but which is found by arbitration under this Act to be work which he was not under an obligation to do.
+
+## SCHEDULE 5 — Notice to Quit Where Tenant is a Service Man
+
+*Section 30.*
+
+**1** In this Schedule—
+
+- “the 1951 Act” means the [^M38]Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951;
+- “period of residence protection” in the case of a service man who performs a period of relevant service, other than a short period of training, means the period comprising that period of service and the four months immediately following the date on which it ends;
+- “relevant service” means service (as defined in section 64(1) of the 1951 Act) of a description specified in Schedule 1 to that Act;
+- “service man” means a man or woman who performs a period of relevant service;
+- “short period of training” has the meaning given by section 64(1) of the 1951 Act.
+
+**2** (1) Paragraph 3 below shall have effect where—
+
+(a) the tenant of an agricultural holding to which this Schedule applies performs a period of relevant service, other than a short period of training, and
+
+(b) during his period of residence protection there is given to him—
+
+(i) notice to quit the holding, or
+
+(ii) notice to quit a part of it to which this Schedule applies.
+
+(2) This Schedule applies to—
+
+(a) any agricultural holding which comprises such a dwelling-house as is mentioned in section 10 of the [^M39]Rent Act 1977, that is to say a dwelling-house occupied by the person responsible for the control (whether as tenant or as servant or agent of the tenant) of the farming of the holding, and
+
+(b) any part of an agricultural holding, being a part which consists of or comprises such a dwelling-house.
+
+**3** (1) Section 26(1) of this Act shall apply notwithstanding the existence of any such circumstances as are mentioned in Cases B to G; but where the Tribunal are satisfied that such circumstances exist, then, subject to sub-paragraph (2) below, the Tribunal shall not be required to withhold their consent to the operation of the notice to quit by reason only that they are not satisfied that circumstances exist such as are mentioned in paragraphs (a) to (f) of section 27(3) of this Act.
+
+(2) In determining whether to give or withhold their consent under section 26 of this Act the Tribunal—
+
+(a) if satisfied that circumstances exist such as are mentioned in Cases B to G or in section 27(3) of this Act, shall consider to what extent (if at all) the existence of those circumstances is directly or indirectly attributable to the service man’s performing or having performed the period of service in question, and
+
+(b) in any case, shall consider to what extent (if at all) the giving of such consent at a time during the period of protection would cause special hardship in view of circumstances directly or indirectly attributable to the service man’s performing or having performed that period of service,
+
+and the Tribunal shall withhold their consent to the operation of the notice to quit unless in all the circumstances they consider it reasonable to give their consent.
+
+**4** Where the tenant of an agricultural holding to which this Schedule applies performs a period of relevant service, other than a short period of training, and—
+
+(a) a notice to quit the holding, or a part of it to which this Schedule applies, is given to him before the beginning of his period of residence protection, and
+
+(b) the tenant duly serves a counter-notice under section 26(1) of this Act, and
+
+(c) the Tribunal have not before the beginning of his period of residence protection decided whether to give or withhold consent to the operation of the notice to quit,
+
+paragraph 3(2) above shall (with the necessary modifications) apply in relation to the giving or withholding of consent to the operation of the notice to quit as it applies in relation to the giving or withholding of consent to the operation of a notice to quit given in the circumstances mentioned in paragraph 2(1) above.
+
+**5** The Lord Chancellor’s power under section 29 of this Act to provide for the matters specified in paragraphs 1 to 7 of Schedule 4 to this Act shall apply in relation to the provisions of sections 26 and 27 of this Act as modified by the preceding provisions of this Schedule as they apply in relation to the provisions of those sections apart from this Schedule.
+
+**6** (1) The Lord Chancellor may make regulations—
+
+(a) for enabling a counter-notice under section 26(1) of this Act to be served on behalf of a service man at a time when he is serving abroad, in a case where a notice to quit is given to him as mentioned in paragraph 2(1) above, and
+
+(b) for enabling an act or proceedings consequential upon the service of a counter-notice under section 26(1) to be performed or conducted on behalf of a service man at a time when he is serving abroad, either in such a case as is mentioned in paragraph (a) above or in a case where paragraph 4 above applies in relation to him.
+
+(2) References in sub-paragraph (1) above to a time when a service man is serving abroad are references to a time when he is performing a period of relevant service and is outside the United Kingdom.
+
+(3) Regulations under this paragraph may contain such incidental and consequential provisions as appear to the Lord Chancellor to be necessary or expedient for the purposes of the regulations.
+
+## [^F196]SCHEDULE 6 — Eligibility to Apply For New Tenancy Under Part IV of this Act
+
+*Sections 36 and 50.*
+
+### Part I — “Eligible Person”: Supplementary Provisions
+
+#### Preliminary
+
+**[^F196]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### The livelihood condition
+
+**[^F196]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Commercial unit of agricultural land
+
+**[^F196]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F196]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Ministerial statements as to net annual income of land
+
+**[^F196]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Occupation to be disregarded for purposes of occupancy condition
+
+**[^F196]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Joint occupation
+
+**[^F196]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Deemed occupation in case of Tribunal direction
+
+**[^F196]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Occupation by spouse [[^F197], civil partner] or controlled company
+
+**[^F196]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Deemed occupation in case of tenancy or licence granted by close relative, spouse [[^F198], civil partner] or controlled company
+
+**[^F196]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART II — Modifications of Part I of this Schedule in its Application to Succession on Retirement
+
+**[^F196]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F196]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F196]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F196]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F196]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F196]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 7 — Long-Term Improvements begun on or after 1st March 1948 for which Compensation is Payable
+
+*Sections 64, 66, etc.*
+
+### Part I — Improvements to which Consent of Landlord Required
+
+**1** Making or planting of osier beds.
+
+**2** Making of water meadows.
+
+**3** Making of watercress beds.
+
+**4** Planting of hops.
+
+**5** Planting of orchards or fruit bushes.
+
+**6** Warping or weiring of land.
+
+**7** Making of gardens.
+
+**8** Provision of underground tanks.
+
+### Part II — Improvements to which Consent of Landlord or Approval of Tribunal Required
+
+**9** Erection, alteration or enlargement of buildings, and making or improvement of permanent yards.
+
+**10** Carrying out works in compliance with an improvement notice served, or an undertaking accepted, under Part VII of the [^M40]Housing Act 1985 or Part VIII of the [^M41]Housing Act 1974.
+
+**11** Erection or construction of loading platforms, ramps, hard standings for vehicles or other similar facilities.
+
+**12** Construction of silos.
+
+**13** Claying of land.
+
+**14** Marling of land.
+
+**15** Making or improvement of roads or bridges.
+
+**16** Making or improvement of water courses, culverts, ponds, wells or reservoirs, or of works for the application of water power for agricultural or domestic purposes or of works for the supply, distribution or use of water for such purposes (including the erection or installation of any structures or equipment which form part of or are to be used for or in connection with operating any such works).
+
+**17** Making or removal of permanent fences.
+
+**18** Reclaiming of waste land.
+
+**19** Making or improvement of embankments or sluices.
+
+**20** Erection of wirework for hop gardens.
+
+**21** Provision of permanent sheep-dipping accommodation.
+
+**22** Removal of bracken, gorse, tree roots, boulders or other like obstructions to cultivation.
+
+**23** Land drainage (other than improvements falling within paragraph 1 of Schedule 8 to this Act).
+
+**24** Provision or laying-on of electric light or power.
+
+**25** Provision of facilities for the storage or disposal of sewage or farm waste.
+
+**26** Repairs to fixed equipment, being equipment reasonably required for the proper farming of the holding, other than repairs which the tenant is under an obligation to carry out.
+
+**27** The grubbing up of orchards or fruit bushes.
+
+**28** Planting trees otherwise than as an orchard and bushes other than fruit bushes.
+
+## SCHEDULE 8 — Short-Term Improvements Begun on or After 1st March 1948, and other Matters, for which Compensation is Payable
+
+*Sections 64, 65, etc.*
+
+### Part I — Improvements (to which no Consent Required)
+
+**1** Mole drainage and works carried out to secure its efficient functioning.
+
+**2** Protection of fruit trees against animals.
+
+**3** Clay burning.
+
+**4** Liming (including chalking) of land.
+
+**[[^F199]4A** Application to land in England of manure, fertiliser, soil improvers and digestate.]
+
+**[[^F200]4B** Application to land in Wales of manure, fertiliser, soil improvers and digestate.]
+
+**[^F201]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[[^F202]5A** (1) In relation to England, production of manure arising from the consumption on the holding of relevant feedingstuff by livestock and equidae where the manure is held in storage on the holding.
+
+(2) In this paragraph “relevant feedingstuff” means—
+
+(a) corn (whether produced on the holding or not), or
+
+(b) cake or other feedingstuff not produced on the holding.]
+
+**[[^F203]5B** (1) In relation to Wales, production of manure arising from the consumption on the holding of relevant feedingstuff by livestock and equidae where the manure is held in storage on the holding.
+
+(2) In this paragraph “relevant feedingstuff” means—
+
+(a) corn (whether produced on the holding or not), or
+
+(b) cake or other feedingstuff not produced on the holding.]
+
+**[^F204]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part II — Tenant-Right Matters
+
+**7** Growing crops and severed or harvested crops and produce, being in either case crops or produce grown on the holding in the last year of tenancy, but not including crops or produce which the tenant has a right to sell or remove from the holding.
+
+**8** Seeds sown and cultivations, fallows and acts of husbandry performed on the holding at the expense of the tenant (including the growing of herbage crops for commercial seed production).
+
+**9** Pasture laid down with clover, grass, lucerne, sainfoin or other seeds, being either—
+
+(a) pasture laid down at the expense of the tenant otherwise than in compliance with an obligation imposed on him by an agreement in writing to lay it down to replace temporary pasture comprised in the holding when the tenant entered on the holding which was not paid for by him, or
+
+(b) pasture paid for by the tenant on entering on the holding.
+
+**10** (1) Acclimatisation, hefting or settlement of hill sheep on hill land.
+
+(2) In this paragraph—
+
+- “hill sheep” means sheep which—
+
+(a) have been reared and managed on a particular hill or mountain,
+
+(b) have developed an instinct not to stray from the hill or mountain,
+
+(c) are able to withstand the climatic conditions typical of the hill or mountain, and
+
+(d) have developed resistance to diseases which are likely to occur in the area in which the hill or mountain is situated;
+
+“hill land” means any hill or mountain where only hill sheep are likely to thrive throughout the year.
+
+**11** (1) In areas of the country where arable crops can be grown in an unbroken series of not less than six years and it is reasonable that they should be grown on the holding or part of it, the residual fertility value of the sod of the excess qualifying leys on the holding, if any.
+
+(2) For the purposes of this paragraph—
+
+(a) the growing of an arable crop includes the growing of clover, grass, lucerne, sainfoin or other seeds grown for a period of less than one year but does not include the laying down of a ley continuously maintained as such for more than one year,
+
+(b) the qualifying leys comprising the excess qualifying leys shall be those indicated to be such by the tenant, and
+
+(c) qualifying leys laid down at the expense of the landlord without reimbursement by the tenant or any previous tenant of the holding or laid down by and at the expense of the tenant pursuant to agreement by him with the landlord for the establishment of a specified area of leys on the holding as a condition of the landlord giving consent to the ploughing or other destruction of permanent pasture or pursuant to a direction given by an arbitrator on a reference under section 14(2) of this Act, shall not be included in the excess qualifying leys.
+
+(3) In this paragraph—
+
+- “leys” means land laid down with clover, grass, lucerne, sainfoin or other seeds, but does not include permanent pasture;
+- “qualifying leys” means—
+
+(a) leys continuously maintained as such for a period of three or more growing seasons since being laid down excluding, if the leys were undersown or autumn-sown, the calendar year in which the sowing took place, and
+
+(b) arable land which within the three growing seasons immediately preceding the termination of the tenancy was ley continuously maintained as aforesaid before being destroyed by ploughing or some other means for the production of a tillage crop or crops;
+
+and for the purpose of paragraph (a) above the destruction of a ley (by ploughing or some other means) followed as soon as practicable by re-seeding to a ley without sowing a crop in the interval between such destruction and such re-seeding shall be treated as not constituting a break in the continuity of the maintenance of the ley;
+
+- “the excess qualifying leys” means the area of qualifying leys on the holding at the termination of the tenancy which is equal to the area (if any) by which one-third of the aggregate of the areas of leys on the holding on the following dates, namely,
+
+(a) at the termination of the tenancy,
+
+(b) on the date one year prior to such termination, and
+
+(c) on the date two years prior to such termination,
+
+- exceeds the accepted proportion at the termination of the tenancy;
+- “the accepted proportion” means the area which represents the proportion which the total area of the leys on the holding would, taking into account the capability of the holding, be expected to bear to the area of the holding, excluding the permanent pasture on the holding, or, if a greater proportion is provided for by or under the terms of the tenancy, that proportion.
+
+## SCHEDULE 9 — Compensation to Tenant for Improvements Begun Before 1st March 1948
+
+*Sections 64 and 79.*
+
+### Part I — Tenant’s Right to Compensation for Old Improvements
+
+**1** (1) The tenant of an agricultural holding shall, subject to the provisions of this Act, be entitled on the termination of the tenancy, on quitting the holding, to obtain from his landlord compensation for an improvement specified in Part II of this Schedule carried out on the holding by the tenant, being an improvement begun before 1st March 1948.
+
+(2) Improvements falling within sub-paragraph (1) above are in this Schedule referred to as “old improvements”.
+
+(3) The tenant of an agricultural holding shall not be entitled to compensation under this Schedule for an improvement which he was required to carry out by the terms of his tenancy where the contract of tenancy was made before 1st January 1921.
+
+(4) Nothing in this Schedule shall prejudice the right of a tenant to claim any compensation to which he may be entitled under custom or agreement, or otherwise, in lieu of any compensation provided by this Schedule.
+
+(5) The tenant of an agricultural holding shall not be entitled to compensation under this Schedule for an old improvement made on land which, at the time when the improvement was begun, was not a holding within the meaning of the [^M42]Agricultural Holdings Act 1923, as originally enacted, and would not have fallen to be treated as such a holding by virtue of section 33 of that Act.
+
+**2** (1) The amount of any compensation under this Schedule for an old improvement shall be an amount equal to the increase attributable to the improvement in the value of the agricultural holding as a holding, having regard to the character and situation of the holding and the average requirements of tenants reasonably skilled in husbandry.
+
+(2) In the ascertainment of the amount of the compensation payable under this Schedule to the tenant of an agricultural holding in respect of an old improvement, there shall be taken into account any benefit which the landlord has given or allowed to the tenant in consideration of the tenant’s executing the improvement, whether expressly stated in the contract of tenancy to be so given or allowed or not.
+
+**3** (1) Compensation under this Schedule shall not be payable for an old improvement specified in any of paragraphs 1 to 15 of Part II of this Schedule unless, before the execution of the improvement, the landlord consented in writing (whether unconditionally or upon terms as to compensation or otherwise agreed between him and the tenant) to the execution of the improvement.
+
+(2) Where the consent was given upon agreed terms as to compensation, compensation payable under the agreement shall be substituted for compensation under this Schedule.
+
+**4** (1) Compensation under this Schedule shall not be payable for an old improvement consisting of that specified in paragraph 16 of Part II of this Schedule unless the tenant gave to the landlord, not more than three nor less than two months before beginning to execute the improvement, notice in writing under section 3 of the [^M43]Agricultural Holdings Act 1923 of his intention to execute the improvement and of the manner in which he proposed to execute it, and—
+
+(a) the landlord and tenant agreed on the terms on which the improvement was to be executed, or
+
+(b) in a case where no agreement was reached and the tenant did not withdraw the notice, the landlord failed to exercise the right conferred on him by that section to execute the improvement himself within a reasonable time.
+
+(2) Subsection (1) above shall not have effect if the landlord and tenant agreed, by the contract of tenancy or otherwise, to dispense with notice under the said section 3.
+
+(3) If the landlord and tenant agreed (whether after notice was given under the said section 3 or by an agreement to dispense with notice under that section) upon terms as to compensation upon which the improvement was to be executed, compensation payable under the agreement shall be substituted for compensation under this Schedule.
+
+**5** (1) Where the tenant of an agricultural holding has remained in the holding [[^F205], or in any agricultural holding which comprised the whole or a substantial part of the land comprised in the holding,] during two or more tenancies, he shall not be deprived of his right to compensation under this Schedule in respect of old improvements by reason only that the improvements were made during a tenancy other than the one at the termination of which he quits the holding.
+
+[[^F206](1A) Where this Act applies in relation to any tenancy referred to in subsection (1) above by virtue of section 4(1)(g) of the Agricultural Tenancies Act 1995, the reference in that subsection to a substantial part of the land comprised in the holding means a substantial part determined by reference to either area or value.]
+
+(2) Where, on entering into occupation of an agricultural holding, the tenant, with the consent in writing of his landlord, paid to an outgoing tenant any compensation payable under or in pursuance of this Schedule (or the [^M44]Agricultural Holdings Act 1948 or the [^M45]Agricultural Holdings Act 1923) in respect of the whole or part of an old improvement, he shall be entitled, on quitting the holding, to claim compensation for the improvement or part in the same manner, if at all, as the outgoing tenant would have been entitled if the outgoing tenant had remained tenant of the holding and quitted it at the time at which the tenant quits it.
+
+### Part II — Old Improvements for which Compensation is Payable
+
+**1** Erection, alteration or enlargement of buildings.
+
+**2** Formation of silos.
+
+**3** Making and planting of osier beds.
+
+**4** Making of water meadows or works of irrigation.
+
+**5** Making of gardens.
+
+**6** Making or improvement of roads or bridges.
+
+**7** Making or improvement of watercourses, ponds, wells or reservoirs or of works for the application of water power or for supply of water for agricultural or domestic purposes.
+
+**8** Making or removal of permanent fences.
+
+**9** Planting of hops.
+
+**10** Planting of orchards or fruit bushes.
+
+**11** Reclaiming of waste land.
+
+**12** Warping or weiring of land.
+
+**13** Embankments and sluices against floods.
+
+**14** Erection of wirework in hop gardens.
+
+**15** Provision of permanent sheep-dipping accommodation.
+
+**16** Drainage.
+
+## SCHEDULE 10 — Market Garden Improvements
+
+*Sections 79 and 80.*
+
+**1** Planting of standard or other fruit trees permanently set out.
+
+**2** Planting of fruit bushes permanently set out.
+
+**3** Planting of strawberry plants.
+
+**4** Planting of asparagus, rhubarb and other vegetable crops which continue productive for two or more years.
+
+**5** Erection, alteration or enlargement of buildings for the purpose of the trade or business of a market gardener.
+
+## [^F207][^F207]SCHEDULE 11
+
+### Appointment and remuneration of arbitrator
+
+**1** (1) The arbitrator shall be a person appointed by agreement between the parties or, in default of agreement, a person appointed on the application of either of the parties by the President of the Royal Institution of Chartered Surveyors (referred to in this Schedule as “the President”) from among the members of the panel constituted for the purposes of this paragraph.
+
+(2) No application may be made to the President for an arbitrator to be appointed by him under this paragraph unless the application is accompanied by such fee as may be prescribed as the fee for such an application; but once the fee has been paid in connection with any such application no further fee shall be payable in connection with any subsequent application for the President to exercise any function exercisable by him in relation to the arbitration by virtue of this Schedule (including an application for the appointment by him in an appropriate case of a new arbitrator).
+
+(3) Any such appointment by the President shall be made by him as soon as possible after receiving the application; but where the application is referable to a demand for arbitration made under section 12 of this Act any such appointment shall in any event not be made by him earlier than four months before the next termination date following the date of the demand (as defined by subsection (4) of that section).
+
+(4) A person appointed by the President as arbitrator shall, where the arbitration relates to an agricultural holding in Wales, be a person who possesses a knowledge of Welsh agricultural conditions, and, if either party to the arbitration so requires, a knowledge also of the Welsh language.
+
+(5) For the purposes of this Schedule there shall be constituted a panel consisting of such number of persons as the Lord Chancellor may determine, to be appointed by him.
+
+[[^F208](6) A member of the panel constituted for the purposes of this Schedule shall vacate his office on the day on which he attains the age of seventy years; but this sub-paragraph is subject to section 26(4) to (6) of the Judicial Pensions and Retirement Act 1993 (power to authorise continuance in office up to the age of seventy-five years).]
+
+**2** If the arbitrator dies, or is incapable of acting, or for seven days after notice from either party requiring him to act fails to act, a new arbitrator may be appointed as if no arbitrator had been appointed.
+
+**3** In relation to an arbitrator who is appointed in place of another arbitrator (whether under paragraph 2 above or otherwise) the reference in section 12(2) of this Act to the date of the reference shall be construed as a reference to the date when the original arbitrator was appointed.
+
+**4** Neither party shall have power to revoke the appointment of the arbitrator without the consent of the other party; and his appointment shall not be revoked by the death of either party.
+
+**5** Every appointment, application, notice, revocation and consent under the foregoing paragraphs must be in writing.
+
+**6** The remuneration of the arbitrator shall be—
+
+(a) where he is appointed by agreement between the parties, such amount as may be agreed upon by him and the parties or, in default of agreement, fixed by the registrar of the county court (subject to an appeal to the judge of the court) on an application made by the arbitrator or either of the parties,
+
+(b) where he is appointed by the President, such amount as may be agreed upon by the arbitrator and the parties or, in default of agreement, fixed by the President,
+
+and shall be recoverable by the arbitrator as a debt due from either of the parties to the arbitration.
+
+### Conduct of proceedings and witnesses
+
+**7** The parties to the arbitration shall, within thirty-five days from the appointment of the arbitrator, deliver to him a statement of their respective cases with all necessary particulars and—
+
+(a) no amendment or addition to the statement or particulars delivered shall be allowed after the expiry of the said thirty-five days except with the consent of the arbitrator,
+
+(b) a party to the arbitration shall be confined at the hearing to the matters alleged in the statement and particulars delivered by him and any amendment or addition duly made.
+
+**8** The parties to the arbitration and all persons claiming through them respectively shall, subject to any legal objection, submit to be examined by the arbitrator, on oath or affirmation, in relation to the matters in dispute and shall, subject to any such objection, produce before the arbitrator all samples and documents within their possession or power respectively which may be required or called for, and do all other things which during the proceedings the arbitrator may require.
+
+**9** Witnesses appearing at the arbitration shall, if the arbitrator thinks fit, be examined on oath or affirmation, and the arbitrator shall have power to administer oaths to, or to take the affirmation of, the parties and witnesses appearing.
+
+**10** The provisions of county court rules as to the issuing of witness summonses shall, subject to such modifications as may be prescribed by such rules, apply for the purposes of the arbitration as if it were an action or matter in the county court.
+
+**11** (1) Subject to sub-paragraphs (2) and (3) below, any person who—
+
+(a) having been summoned in pursuance of county court rules as a witness in the arbitration refuses or neglects, without sufficient cause, to appear or to produce any documents required by the summons to be produced, or
+
+(b) having been so summoned or being present at the arbitration and being required to give evidence, refuses to be sworn or give evidence,
+
+shall forfeit such fine as the judge of the county court may direct.
+
+(2) A judge shall not have power under sub-paragraph (1) above to direct that a person shall forfeit a fine of an amount exceeding £10.
+
+(3) No person summoned in pursuance of county court rules as a witness in the arbitration shall forfeit a fine under this paragraph unless there has been paid or tendered to him at the time of the service of the summons such sum in respect of his expenses (including, in such cases as may be prescribed by county court rules, compensation for loss of time) as may be so prescribed for the purposes of section 55 of the [^M46]County Courts Act 1984.
+
+(4) The judge of the county court may at his discretion direct that the whole or any part of any such fine, after deducting costs, shall be applicable towards indemnifying the party injured by the refusal or neglect.
+
+**12** (1) Subject to sub-paragraph (2) below, the judge of the county court may, if he thinks fit, upon application on affidavit by either party to the arbitration, issue an order under his hand for bringing up before the arbitrator any person (in this paragraph referred to as a “prisoner”) confined in any place under any sentence or under committal for trial or otherwise, to be examined as a witness in the arbitration.
+
+(2) No such order shall be made with respect to a person confined under process in any civil action or matter.
+
+(3) Subject to sub-paragraph (4) below, the prisoner mentioned in any such order shall be brought before the arbitrator under the same custody, and shall be dealt with in the same manner in all respects, as a prisoner required by a writ of habeas corpus to be brought before the High Court and examined there as a witness.
+
+(4) The person having the custody of the prisoner shall not be bound to obey the order unless there is tendered to him a reasonable sum for the conveyance and maintenance of a proper officer or officers and of the prisoner in going to, remaining at, and returning from, the place where the arbitration is held.
+
+**13** The High Court may order that a writ of habeas corpus ad testificandum shall issue to bring up a prisoner for examination before the arbitrator, if the prisoner is confined in any prison under process in any civil action or matter.
+
+### Award
+
+**14** (1) Subject to sub-paragraph (2) below, the arbitrator shall make and sign his award within fifty-six days of his appointment.
+
+(2) The President may from time to time enlarge the time limited for making the award, whether that time has expired or not.
+
+**15** The arbitrator may if he thinks fit make an interim award for the payment of any sum on account of the sum to be finally awarded.
+
+**16** The arbitrator shall—
+
+(a) state separately in the award the amounts awarded in respect of the several claims referred to him, and
+
+(b) on the application of either party, specify the amount awarded in respect of any particular improvement or any particular matter the subject of the award.
+
+**17** Where by virtue of this Act compensation under an agreement is to be substituted for compensation under this Act for improvements or for any such matters as are specified in Part II of Schedule 8 to this Act, the arbitrator shall award compensation in accordance with the agreement instead of in accordance with this Act.
+
+**18** The award shall fix a day not later than one month after the delivery of the award for the payment of the money awarded as compensation, costs or otherwise.
+
+**19** The award shall be final and binding on the parties and the persons claiming under them respectively.
+
+**20** The arbitrator shall have power to correct in the award any clerical mistake or error arising from any accidental slip or omission.
+
+### Reasons for award
+
+**21** [[^F209]Section 10 of the Tribunals and Inquiries Act 1992] (reasons to be given for decisions of tribunals etc.) shall apply in relation to the award of an arbitrator appointed under this Schedule by agreement between the parties as it applies in relation to the award of an arbitrator appointed under this Schedule otherwise than by such agreement.
+
+### Interest on awards
+
+**22** Any sum directed to be paid by the award shall, unless the award otherwise directs, carry interest as from the date of the award and at the [[^F210]same rate as that specified in section 17 of the Judgments Act 1838 at the date of the award].
+
+### Costs
+
+**23** The cost of, and incidental to, the arbitration and award shall be in the discretion of the arbitrator who may direct to and by whom and in what manner the costs, or any part of the costs, are to be paid.
+
+**24** On the application of either party, any such costs shall be taxable in the county court according to such of the scales prescribed by county court rules for proceedings in the county court as may be directed by the arbitrator under paragraph 23 above, or, in the absense of any such direction, by the county court.
+
+**25** (1) The arbitrator shall, in awarding costs, take into consideration—
+
+(a) the reasonableness or unreasonableness of the claim of either party, whether in respect of amount or otherwise,
+
+(b) any unreasonable demand for particulars or refusal to supply particulars, and
+
+(c) generally all the circumstances of the case.
+
+(2) The arbitrator may disallow the costs of any witness whom he considers to have been called unnecessarily and any other costs which he considers to have been unnecessarily incurred.
+
+### Special case, setting aside award and remission
+
+**26** The arbitrator may, at any stage of the proceedings, and shall, upon a direction in that behalf given by the judge of the county court upon an application made by either party, state in the form of a special case for the opinion of the county court any question of law arising in the course of the arbitration and any question as to the jurisdiction of the arbitrator.
+
+**27** (1) Where the arbitrator has misconducted himself, the county court may remove him.
+
+(2) Where the arbitrator has misconducted himself, or an arbitration or award has been improperly procured, or there is an error of law on the face of the award, the county court may set the award aside.
+
+**28** (1) The county court may from time to time remit the award, or any part of the award, to the reconsideration of the arbitrator.
+
+(2) In any case where it appears to the county court that there is an error of law on the face of the award, the court may, instead of exercising its power of remission under sub-paragraph (1) above, vary the award by substituting for so much of it as is affected by the error such award as the court considers that it would have been proper for the arbitrator to make in the circumstances; and the award shall thereupon have effect as so varied.
+
+(3) Where remission is ordered under that sub-paragraph, the arbitrator shall, unless the order otherwise directs, make and sign his award within thirty days after the date of the order.
+
+(4) If the county court is satisfied that the time limited for making the said award is for any good reason insufficient, the court may extend or further extend that time for such period as it thinks proper.
+
+### Miscellaneous
+
+**29** Any amount paid, in respect of the remuneration of the arbitrator by either party to the arbitration, in excess of the amount, if any, directed by the award to be paid by him in respect of the costs of the award shall be recoverable from the other party.
+
+**30** The provisions of this Schedule relating to the fixing and recovery of the remuneration of an arbitrator and the making and enforcement of an award as to costs, together with any other provision in this Schedule applicable for the purposes of or in connection with those provisions, shall apply where the arbitrator has no jurisdiction to decide the question referred to him as they apply where the arbitrator has jurisdiction to decide that question.
+
+**31** For the purposes of this Schedule, an arbitrator appointed by the President shall be taken to have been so appointed at the time when the President executed the instrument of appointment; and in the case of any such arbitrator the periods mentioned in paragraphs 7 and 14 above shall accordingly run from that time.
+
+**32** Any instrument of appointment or other document purporting to be made in the exercise of any function exercisable by the President under paragraph 1, 6 or 14 above and to be signed by or on behalf of the President shall be taken to be such an instrument or document unless the contrary is shown.
+
+## SCHEDULE 12 — Modifications Applicable to Old Tenancies and other Similar Cases
+
+*Sections 65, 70, 76, 77, 78, 98.*
+
+### General
+
+**1** Section 2 of this Act shall not apply to an agreement made before 1st March 1948.
+
+**2** Section 3 of this Act shall not apply to a tenancy granted or agreed to be granted before 1st January 1921.
+
+### Right to remove fixtures
+
+**3** A tenant shall not be entitled by virtue of section 10(1) or 79 of this Act (or the said section 79 as applied by paragraph 10 below) to remove a fixture or building acquired by him before 1st January 1901.
+
+### Notices to quit
+
+**4** (1) Where a tenancy of an agricultural holding subsists under an agreement entered into before 25th March 1947, section 25(1) of this Act does not apply—
+
+(a) to a notice given by or on behalf of the Secretary of State under the provisions of any agreement of tenancy, where possession of the land is required for naval, military or air force purposes, or
+
+(b) to a notice given by a corporation carrying on a railway, dock, canal, water or other undertaking in respect of land acquired by the corporation for the purposes of their undertaking or by a government department or local authority, where possession of the land is required by the corporation, government department or authority for the purpose (not being the use of the land for agriculture) for which it was acquired by the corporation, department or authority or appropriated under any statutory provision.
+
+(2) In the application of sub-paragraph (1)(b) above to a Board, the reference to land acquired by the corporation for the purposes of their undertaking shall be construed as including a reference to land transferred to that Board by section 31 of the [^M47]Transport Act 1962 or, in the case of [[^F211]Transport for London, transferred to the London Transport Executive], by section 16 of the [^M48]Transport (London) Act 1969, being land—
+
+(a) acquired, for the purpose of an undertaking vested in the British Transport Commission by Part II of the [^M49]Transport Act 1947, by the body carrying on that undertaking, or
+
+(b) acquired by a body carrying on an undertaking vested in any such undertaking as is mentioned in paragraph (a) above by virtue of an amalgamation or absorption scheme under the [^M50]Railways Act 1921, being a scheme that came into operation on or after 7th July 1923,
+
+and the reference to the purpose for which the land was acquired or appropriated by the corporation shall be construed accordingly.
+
+(3) In sub-paragraph (2) above “a Board” means any of the following, namely—
+
+- Associated British Ports,
+- the British Railways Board,
+- the British Waterways Board, and
+- [[^F212]Transport for London].
+
+[[^F213](4) Sub-paragraph (2) above shall have effect in relation to a company which is a subsidiary (within the meaning of the Greater London Authority Act 1999) of Transport for London as it has effect in relation to Transport for London, so far as relates to land transferred to the London Transport Executive as there mentioned and subsequently transferred to the company (whether before or after it became a subsidiary of Transport for London).]
+
+(5) Where by a scheme under section 7 of the [^M51]Transport Act 1968 relevant land has been transferred by the British Railways Board to another body, sub-paragraph (2) above shall (so far as relates to relevant land so transferred) have effect in relation to that body as it has effect in relation to the British Railways Board; and in this sub-paragraph “relevant land” means land falling within paragraph (a) or (b) of sub-paragraph (2) above and transferred to the British Railways Board as there mentioned.
+
+[[^F214](5A) Where by a scheme under section 24 of the Public Bodies Act 2011 relevant land has been transferred by the British Waterways Board to Canal & River Trust or any subsidiary of Canal & River Trust, sub-paragraph (2) shall (so far as relates to relevant land so transferred) have effect in relation to Canal & River Trust or, as the case may be, that subsidiary as it had effect in relation to the British Waterways Board immediately before that land was transferred under that scheme.
+
+(5B) In sub-paragraph (5A)—
+
+(a) “relevant land” means land falling within paragraph (a) or (b) of sub-paragraph (2) and transferred to the British Waterways Board as there mentioned;
+
+(b) “subsidiary” means a company which is a subsidiary within the meaning of the Companies Act 2006.]
+
+(6) Where, by virtue of an Act (whether public, general or local) passed, or an instrument having effect under an Act made, after 7th July 1923 and before 30th July 1948, any right of a corporation carrying on a water undertaking or of a local authority to avail itself of the benefit conferred by section 25(2)(b) of the [^M52]Agricultural Holdings Act 1923 was transferred to some other person, that other person shall have the same right to avail himself of the benefit conferred by sub-paragraph (1)(b) above as the corporation or authority would have had if the Act or instrument by virtue of which the transfer was effected had not been passed or made.
+
+### Compensation for improvements
+
+**5** The tenant of an agricultural holding shall not be entitled to compensation under section 64(1) of this Act for an improvement which he was required to carry out by the terms of his tenancy where the contract of tenancy was made before 1st January 1921.
+
+### Compensation for tenant-right matters
+
+**6** (1) Where the tenant of an agricultural holding entered into occupation of the holding before 1st March 1948, section 65(1) of this Act shall not apply to him as regards the matters specified in paragraphs 7 to 10 of Part II of Schedule 8 to this Act, unless, before the termination of the tenancy, he gives notice in writing to the landlord stating that he elects that it is to apply to him as regards those matters.
+
+(2) Where the tenancy terminates by reason of a notice to quit and at any time while the notice to quit is current the landlord gives notice in writing to the tenant requiring him to elect whether section 65(1) of this Act is to apply to him as regards the matters specified in paragraphs 7 to 10 of Part II of Schedule 8 to this Act, the tenant shall not be entitled to give a notice under sub-paragraph (1) above after the expiry of—
+
+(a) one month from the giving of the notice under this sub-paragraph, or
+
+(b) if the operation of the notice to quit depends upon any proceedings under section 26 or 27 of this Act (including any proceedings under Schedule 3 to this Act), one month from the termination of those proceedings.
+
+**7** (1) This paragraph applies where the tenant of an agricultural holding entered into occupation of the holding before 31st December 1951 and immediately before that date subsection (1) of section 47 of the [^M53]Agricultural Holdings Act 1948 applied to him as regards the matters now specified in paragraphs 7 to 9 of Part II of Schedule 8 to this Act (whether by virtue of his having entered into occupation of the holding on or after 1st March 1948 or by virtue of a notice having been given under paragraph (c) of the proviso to subsection (1) of the said section 47).
+
+(2) Where this paragraph applies, section 65(1) of this Act shall not apply to the tenant as regards the matters specified in paragraph 10 of Part II of Schedule 8 to this Act unless, before the termination of the tenancy, he gives notice in writing to the landlord that it is to apply to him as regards those matters.
+
+(3) Paragraph 6(2) above shall have effect in relation to a notice under this paragraph as if in that provision there were substituted—
+
+(a) for the reference to the matters specified in paragraphs 7 to 10 of Part II of Schedule 8 to this Act a reference to the matters specified in paragraph 10 of Part II of that Schedule, and
+
+(b) for the reference to a notice under paragraph 6(1) above, a reference to a notice under this paragraph.
+
+**8** (1) In a case where, by virtue of paragraph 6 or 7 above, section 65(1) above does not apply to a tenant as regards all or any of the matters specified in paragraphs 7 to 10 of Part II of Schedule 8 to this Act—
+
+(a) sections 70(4) and (5) and 76(3) of this Act shall have effect with the omission of references to the excluded matters,
+
+(b) section 77(1) of this Act shall not apply to compensation to the tenant for the excluded matters, and
+
+(c) section 78(3) of this Act, in so far as it provides that a claim for compensation in a case for which the provisions of this Act do not provide for compensation shall not be enforceable except under an agreement in writing, shall not apply to a claim by a tenant for compensation for the excluded matters.
+
+(2) In this paragraph “the excluded matters” means, in relation to a case to which this paragraph applies, the matters as regards which section 65(1) does not apply to the tenant.
+
+**9** The Minister may revoke or vary the provisions of paragraphs 6 to 8 above so far as they relate to the matters specified in paragraph 10 of Part II of Schedule 8 to this Act as if those provisions were contained in an order made under section 91 of this Act.
+
+### Market gardens
+
+**10** (1) Except as provided by this paragraph, subsections (2) to (5) of section 79 of this Act shall not apply unless the agreement in writing mentioned in subsection (1) of that section was made on or after 1st January 1896.
+
+(2) Where—
+
+(a) under a contract of tenancy current on 1st January 1896 an agricultural holding was at that date in use or cultivation as a market garden with the knowledge of the landlord, and
+
+(b) the tenant had then executed on the holding, without having received before the execution a written notice of dissent by the landlord, an improvement of a kind specified in Schedule 10 to this Act (other than one consisting of such an alteration of a building as did not constitute an enlargement of it),
+
+subsections (2) to (5) of section 79 (and section 81) of this Act shall apply in respect of the holding as if it had been agreed in writing after that date that the holding should be let or treated as a market garden.
+
+(3) The improvements in respect of which compensation is payable under subsection (2) to (5) of section 79 of this Act as applied by this paragraph shall include improvements executed before, as well as improvements executed after, 1st January 1896.
+
+(4) Where the land used and cultivated as mentioned in sub-paragraph (2) above consists of part of an agricultural holding only, this paragraph shall apply as if that part were a separate holding.
+
+## SCHEDULE 13 — Transitional Provisions and Savings
+
+*Section 99*
+
+### Construction of references to old and new law
+
+**1** (1) Any reference, whether express or implied, in any enactment, instrument or document (including this Act and any enactment amended by Schedule 14 to this Act), to, or to things done or falling to be done under or for the purposes of, any provision of this Act shall, if and so far as the nature of the reference permits, be construed as including, in relation to the times, circumstances or purposes in relation to which the corresponding provision repealed by this Act has or had effect, a reference to, or as the case may be, to things done or falling to be done under or for the purposes of, that corresponding provision.
+
+(2) Any reference, whether express or implied, in any enactment, instrument or document (including the enactments repealed by this Act and enactments, instruments and documents passed or made after the passing of this Act) to, or to things done or falling to be done under or for the purposes of, any provision repealed by this Act shall, if and so far as the nature of the reference permits, be construed as including, in relation to the times, circumstances or purposes in relation to which the corresponding provision of this Act has effect, a reference to, or as the case may be, to things done or falling to be done under or for the purposes of, that corresponding provision.
+
+(3) In this paragraph references to any provision repealed by this Act include references to any earlier provision, corresponding to a provision so repealed, which was repealed by the [^M54]Agricultural Holdings (Notices to Quit) Act 1977, the [^M55]Agricultural Holdings Act 1948, the [^M56]Agricultural Holdings Act 1923 or the [^M57]Agricultural Holdings Act 1908.
+
+**2** References, in whatever terms, in any enactment to a holding within the meaning of the [^M58]Agricultural Holdings Act 1923 shall be construed as references to an agricultural holding within the meaning of this Act.
+
+### Continuation of old law for certain pending cases
+
+**3** (1) Nothing in this Act shall apply in relation to—
+
+(a) a notice to quit an agricultural holding or part of an agricultural holding—
+
+(i) given before the commencement of this Act, or
+
+(ii) in the case of a notice to quit given after that time which includes a statement that it is given by reason of the death of a former tenant, where the date of death was before that time,
+
+(b) an agricultural holding—
+
+(i) the tenancy of which terminated before the commencement of this Act, or
+
+(ii) the tenant of which quitted the holding before the commencement of this Act or quitted after that time in consequence of a notice to quit falling within paragraph (a) above,
+
+(c) an arbitration where the arbitrator was appointed under the [^M59]Agricultural Holdings Act 1948 before the commencement of this Act,
+
+(d) an application made before the commencement of this Act to the Tribunal under any of the enactments repealed by this Act, or
+
+(e) an application made after the commencement of this Act to the Tribunal for a direction entitling the applicant to a tenancy of an agricultural holding on the death or retirement of the tenant where the date of death or the date of the giving of the retirement notice was before that time;
+
+and accordingly the enactments repealed or amended by this Act shall in relation to any such notice to quit, agricultural holding, arbitration (including an award made in such an arbitration) or application (including any proceedings arising out of any such application or any direction given in any such proceedings) continue to have effect as if this Act had not been passed.
+
+(2) This paragraph shall have effect subject to paragraph 1 above and paragraph 11 below.
+
+### Periods of time
+
+**4** Where a period of time specified in any enactment repealed by this Act is current at the commencement of this Act, this Act shall have effect as if the corresponding provision of this Act had been in force when the period began to run.
+
+### Transfer of functions
+
+**5** Any reference, whether express or implied, in this Act (or any enactment amended by Schedule 14 to this Act) to, or to anything done by, the Minister, the Tribunal, an arbitrator or the President of the Royal Institution of Chartered Surveyors shall where the relevant function has been transferred to that person be construed, in relation to any time before the transfer, as including a reference to, or to the corresponding thing done by, the person by whom the function was then exercisable.
+
+**6** Section 22 of this Act shall have effect in relation to the appointment of a person in pursuance of an application made before 1st January 1986 under section 16(2) of the [^M60]Agricultural Holdings Act 1948 as if for references to the President of the Royal Institution of Chartered Surveyors there were substituted references to the Minister and as if subsections (4) and (5) were omitted.
+
+**7** [^F215]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Compensation
+
+**8** Notwithstanding section 16 of the [^M61]Interpretation Act 1978, rights to compensation conferred by this Act shall be in lieu of rights to compensation conferred by any enactment repealed by this Act.
+
+### Right to remove fixtures
+
+**9** Sections 13 and 67 of the Agricultural Holdings Act 1948 shall continue to have effect (to the exclusion of sections 10 and 79 of this Act) in relation to an agricultural holding in a case where the tenant gave notice under subsection (2)(b) of the said section 13 before 12th September 1984 as the said sections 13 and 67 had effect before that date.
+
+### Compensation for damage by game
+
+**10** Section 14 of the Agricultural Holdings Act 1948 shall continue to have effect (to the exclusion of section 20 of this Act) in relation to an agricultural holding in a case where a notice was given to the landlord under paragraph (a) of the proviso to subsection (1) of the said section 14 before 12th September 1984 as the said section 14 had effect before that date.
+
+### Succession on death or retirement
+
+**11** (1) Where Part IV of this Act has effect in relation to an application under that Part, references in that Part to notices to quit shall include references to notices to quit given before the commencement of this Act and, in particular, section 54 of this Act shall apply (to the exclusion of paragraph 4 of Schedule 2 to the [^M62]Agricultural Holdings Act 1984) in relation to a notice to quit given before the commencement of this Act as it applies in relation to a notice to quit given after that time.
+
+(2) Where, by virtue of paragraph 3(1) above, Part II of the [^M63]Agriculture (Miscellaneous Provisions) Act 1976 or Schedule 2 to the Agricultural Holdings Act 1984 has effect in relation to an application under the said Part II or, as the case may be, under the said Schedule 2, references in the said Part II or the said Schedule 2 to notices to quit shall include references to notices to quit given after the commencement of this Act and, in particular, paragraph 4 of the said Schedule 2 shall apply (to the exclusion of section 54 of this Act) in relation to a notice to quit given after the commencement of this Act as it applies in relation to a notice to quit given before that time.
+
+(3) This paragraph is without prejudice to the generality of paragraph 1 above.
+
+**12** Without prejudice to the generality of section 34(1)(b)(iii) of this Act, a written contract of tenancy which grants the tenancy of an agricultural holding and indicates (in whatever terms) that section 2(1) of the Agricultural Holdings Act 1984 is not to apply in relation to the tenancy shall be taken to be such a contract of tenancy as is mentioned in that section.
+
+### Record of condition of holding
+
+**13** (1) In section 70(2)(b) of this Act the reference to a record made under section 22 of this Act shall include a reference to a record made before 12th September 1984 under section 16 of the [^M64]Agricultural Holdings Act 1948 as it had effect before that date.
+
+(2) Sub-paragraph (1) above is without prejudice to the generality of paragraph 1 above.
+
+### Insolvency
+
+**14** Sections 80(9) and 96(2) of this Act shall have effect—
+
+(a) until the date on which Part III of the [^M65]Insolvency Act 1985 comes into force, and
+
+(b) on or after that date, in any case in which a petition of bankruptcy was presented, or a receiving order or adjudication in bankruptcy was made, before that date.
+
+as if for paragraph (a) of section 96(2) there were substituted—
+
+> (a) he has become bankrupt or has made a composition or arrangement with his creditors or a receiving order is made against him
+
+.
+
+### Forms for arbitration
+
+**15** [^F216]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Notices to quit
+
+**16** Paragraphs 10(1)(d) and 11(2) of Part II of Schedule 3 to this Act shall not apply in relation to any act or omission by a tenant which occurred before 12th September 1984.
+
+## SCHEDULE 14 — Consequential Amendments
+
+*Section 100.*
+
+### The Small Holdings and Allotments Act 1908
+
+**1** (1) Section 47 of the [^M66]Small Holdings and Allotments Act 1908 shall be amended as follows.
+
+(2) In subsection (1) for the words “section forty-two of the Agricultural Holdings Act 1908” there shall be substituted the words “ subsections (2) to (5) of section 79 of the Agricultural Holdings Act 1986 ”.
+
+(3) In subsection (2)—
+
+(a) for the words “Agricultural Holdings Act 1908”, in the first place where they occur, there shall be substituted the words “ Agricultural Holdings Act 1986 ”,
+
+(b) for the words “section forty-two of the Agricultural Holdings Act 1908” there shall be substituted the words “ subsections (2) to (5) of section 79 of the Agricultural Holdings Act 1986 ”, and
+
+(c) for the words “Part III of the First Schedule to the Agricultural Holdings Act 1908” there shall be substituted the words “ Schedule 8 to the Agricultural Holdings Act 1986 ”.
+
+(4) In subsection (3) for the words “Agricultural Holdings Act 1908” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+**2** In section 58 of that Act for the words “Agricultural Holdings Act 1908” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+**3** In paragraph (3) of Part II of Schedule 1 to that Act for the words “Agricultural Holdings Act 1908” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+### The Law of Distress Amendment Act 1908
+
+**4** In section 4(1) of the [^M67]Law of Distress Amendment Act 1908 for the words from “live stock” to “Act 1908” there shall be substituted the words “ agisted livestock within the meaning of section 18 of the Agricultural Holdings Act 1986 to which that section ”.
+
+### The Chequers Estate Act 1917
+
+**5** In clauses 6B(b) and 8D of the Deed set out in the Schedule to the [^M68]Chequers Estate Act 1917 for the words “Agricultural Holdings Act 1948” there shall be substituted the words “ Agricultural Holdings Act 1986, except section 60(2)(b) or 62 of that Act ”.
+
+### The Land Settlement (Facilities) Act 1919
+
+**6** In section 2(3) of the [^M69]Land Settlement (Facilities) Act 1919 for the words “Second Schedule of the Agricultural Holdings Act 1908” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+**7** [^F217]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F218]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Allotments Act 1922
+
+**9** In section 3(5) of the [^M70]Allotments Act 1922—
+
+(a) for the words “Agricultural Holdings Acts 1908 to 1921” there shall be substituted the words “ Agricultural Holdings Act 1986 ”,
+
+(b) for the words “to which those Acts apply” there shall be substituted the words “ which is an agricultural holding within the meaning of that Act ”, and
+
+(c) for the words “those Acts”, in the second and third places where they occur, there shall be substituted the words “ that Act ”.
+
+**10** In section 11(2) of that Act for the words “Second Schedule to the Agricultural Holdings Act 1908” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+### The Settled Land Act 1925
+
+**11** In section 73(1) of the [^M71]Settled Land Act 1925—
+
+(a) for the words “Agricultural Holdings Act 1923”, in both places where they occur, there shall be substituted the words “ Agricultural Holdings Act 1986 ”, and
+
+(b) for the words “Part I or Part II of the First Schedule” there shall be substituted the words “ Schedule 7 ”.
+
+### The Law of Property Act 1925
+
+**[^F219]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F220]...
+
+**[^F220]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Landlord and Tenant Act 1927
+
+**14** In section 17(1) of the [^M72]Landlord and Tenant Act 1927 for the words “Agricultural Holdings Act 1923” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+**15** In section 19(4) of that Act for the words “Agricultural Holdings Act 1923” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+### The Agricultural Credits Act 1928
+
+**16** In section 5(7) of the [^M73]Agricultural Credits Act 1928 for the words “Agricultural Holdings Act 1923” there shall be substituted the words “ Agricultural Holdings Act 1986, except under section 60(2)(b) or 62, ”.
+
+### The Leasehold Property (Repairs) Act 1938
+
+**17** In section 7(1) of the [^M74]Leasehold Property (Repairs) Act 1938 for the words “Agricultural Holdings Act 1948” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+### The Agriculture Act 1947
+
+**18** In section 73(3)(a) of the [^M75]Agriculture Act 1947 for the words “Agricultural Holdings Act 1923” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+**19** [^F221]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951
+
+**20** In section 27(1) of the [^M76]Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951 for the words “Agricultural Holdings Act 1948” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+### The Landlord and Tenant Act 1954
+
+**21** In section 43(1)(a) of the [^M77]Landlord and Tenant Act 1954 for the words from “the proviso” to “the said subsection (1)” there shall be substituted the words “ subsection (3) of section 2 of the Agricultural Holdings Act 1986 did not have effect or, in a case where approval was given under subsection (1) of that section ”.
+
+**22** In section 69(1) of that Act for the words “Agricultural Holdings Act 1948” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+### The Agriculture (Safety, Health and Welfare Provisions) Act 1956
+
+**23** In section 24(1) of the [^M78]Agriculture (Safety, Health and Welfare Provisions) Act 1956 for the words “Agricultural Holdings Act 1948” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+### The Coal-Mining (Subsidence) Act 1957
+
+**[^F222]24** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Opencast Coal Act 1958
+
+**[[^F223]25** (1) Section 14 of the [^M79]Opencast Coal Act 1958 shall be amended as follows.
+
+(2) In subsection (2)—
+
+(a) for the words “Agricultural Holdings Act 1948” there shall be substituted the words “ Agricultural Holdings Act 1986 ”, and
+
+(b) for the words “Act of 1948” there shall be substituted the words “ Act of 1986 ”.
+
+(3) In subsection (3) and (4) for the words “Act of 1948” there shall be substituted the words “ Act of 1986 ”.
+
+(4) In subsection (5) for the words “Case B in section 2(3) of the Agricultural Holdings (Notices to Quit) Act 1977” there shall be substituted the words “ Case B in Part I of Schedule 3 to the Agricultural Holdings Act 1986 ”; and that subsection shall continue to have effect with the substitution of the words “ that Case ” for the words “that paragraph” made by paragraph 3(3) of Schedule I to the [^M80]Agricultural Holdings (Notices to Quit) Act 1977.
+
+(5) In subsection (6)—
+
+(a) for the words from “section 3” to “section 2” there shall be substituted the words “ section 27 of the Agricultural Holdings Act 1986 (in which subsections (1) to (3) specify conditions for the giving of consent under section 26 ”, and
+
+(b) for the words “paragraph (e) of the said subsection (3)” there shall be substituted the words “ paragraph (f) of the said subsection (3) ”.
+
+(6) In subsection (7) for the words “section eight of the Act of 1948” there shall be substituted the words “ section 12 of the Act of 1986 ”.
+
+(7) In subsection (8) for the words “section nine of the Act of 1948” there shall be substituted the words “ section 13 of the Act of 1986 ”.
+
+[^F224]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+**26** (1) Section 24 of that Act shall be amended as follows.
+
+(2) In subsection (1) for the words “Act of 1948” there shall be substituted the words “ Act of 1986 ”.
+
+(3) In subsection (2) for the words “Act of 1948” there shall be substituted the words “ Act of 1986 ”.
+
+(4) In subsection (3) for the words “Act of 1948”, in each place where they occur, there shall be substituted the words “ Act of 1986 ”.
+
+(5) In subsection (5)—
+
+(a) for the words “section forty-four or section fifty-four of the Act of 1948” there shall be substituted the words “ section 69(1) of the Act of 1986 or paragraph 5(1) of Part I of Schedule 9 to that Act ”, and
+
+(b) for the words “section forty-five or section fifty-five of the Act of 1948” there shall be substituted the words “ section 69(2) or (3) of the Act of 1986 or paragraph 5(2) of Part I of Schedule 9 to that Act ”.
+
+(6) In subsection (6)—
+
+(a) for the words “Act of 1948”, in both places where they occur, there shall be substituted the words “ Act of 1986 ”, and
+
+(b) for the words “subsection (3) of section seventy” there shall be substituted the words “ section 83(4) ”;
+
+and that subsection in its application to England and Wales shall continue to have effect with the substitution for each of the words “four” and “five” of the word “ eight ” made by paragraph 29 of Schedule 3 to the [^M81]Agricultural Holdings Act 1984.
+
+(7) In subsection (7)—
+
+(a) for the words “Act of 1948”, in both places where they occur, there shall be substituted the words “ Act of 1986 ” and
+
+(b) for the words “section fifty-six” there shall be substituted the words “ section 70 ”.
+
+(8) In subsection (8) for the words “Act of 1948” there shall be substituted the words “ Act of 1986 ”.
+
+(9) In subsection (9) for the words “the Third Schedule to the Act of 1948” there shall be substituted the words “ Schedule 7 to the Act of 1986 ”.
+
+(10) After subsection (9) there shall be inserted—
+
+> (9A) In this section the references to the Act of 1986 in subsections (1)(b), (7) and (8) and the second and fourth references to that Act in subsection (3) include references to the Agricultural Holdings Act 1948 (in this Act called the Act of 1948) and the reference to section 70 of the Act of 1986 in subsection (7)(b) includes a reference to section 56 of the Act of 1948.
+
+[^F225][11 For subsection (10) there shall be substituted—
+
+> (10) In the application of this section to Scotland, for references—
+>
+> (a) to the Act of 1986 and to sections 70 and 83(4) of that Act there shall be substituted respectively references to the Scottish Act of 1949 and to sections 56 and 68(3) of that Act,
+>
+> (b) to subsections (1), (2) and (3) of section 69 of the Act of 1986 there shall be substituted respectively references to sections 54, and subsections (1) and (2) of section 55 of the Scottish Act of 1949,
+>
+> (c) to Parts I and II of Schedule 7 to the Act of 1986 and to the first day of March 1948 there shall be substituted references to Parts I and II of Schedule 1 to the Scottish Act of 1949 and to the first day of November 1948, and
+>
+> (d) to sub-paragraphs (1) and (2) of paragraph 5 of Part I of Schedule 9 to the 1986 Act there shall be substituted respectively references to sections 45 and 46 of the Scottish Act of 1949.]
+
+**27** (1) Section 25 of that Act shall be amended as follows.
+
+(2) In subsection (1)—
+
+(a) for the words “section fifty-seven of the Act of 1948” there shall be substituted the words “ section 71 of the Act of 1986 ”, and
+
+(b) for the words “section fifty-eight” there shall be substituted the words “ section 72 ”.
+
+(3) In subsection (2) for the words “Act of 1948” there shall be substituted the words “ Act of 1986 ”.
+
+(4) After subsection (2) there shall be inserted—
+
+> (2A) In this section references to the Act of 1986 and to sections 71 and 72 of that Act include respectively references to the Act of 1948 and to sections 57 and 58 of that Act
+
+.
+
+(5) In subsection (3) for the words from “Act of 1948” to “fifty-eight” there shall be substituted the words “ Act of 1986 and to sections 71 and 72 ”.
+
+**28** (1) Section 26 of that Act shall be amended as follows.
+
+(2) In subsection (3) for the words “Act of 1948” there shall be substituted the words “ Act of 1986 ”.
+
+(3) In subsection (5) for the words “section seventy-eight of the Act of 1948, the provisions of the Fourth Schedule” there shall be substituted the words “ section 91 of the Act of 1986, the provisions of Schedule 8 ”.
+
+(4) After subsection (5) there shall be inserted—
+
+> (5A) the reference in subsection (3) of this section to the 1986 Act includes a reference to the 1948 Act
+
+.
+
+(5) In subsection (6)—
+
+(a) for the words “Act of 1948”, in the first place where they occur, there shall be substituted the words “ Act of 1986 ”, and
+
+(b) for the words “section seventy-eight of the Act of 1948 and to the Fourth Schedule” there shall be substituted the words “ section 91 of the Act of 1986 and to Schedule 8 ”.
+
+**29** (1) Section 27 of that Act shall be amended as follows.
+
+(2) In subsection (1)(b) for the words “section thirteen of the Act of 1948” there shall be substituted the words “ section 10 of the Act of 1986 ”.
+
+(3) In subsection (4) for the words “section thirteen of the Act of 1948” there shall be substituted the words “ section 10 of the Act of 1986 ”.
+
+**30** (1) Section 28 of that Act shall be amended as follows.
+
+(2) In subsection (3)—
+
+(a) for the words “section sixty-seven of the Act of 1948” there shall be substituted the words “ subsections (2) to (5) of section 79 of the Act of 1986 ”, and
+
+(b) for the words “subsection (1) of section sixty-eight” there shall be substituted the words “ subsection (2) of section 80 ”.
+
+(3) In subsection (4)—
+
+(a) for the words “section thirteen of the Act of 1948” there shall be substituted the words “ section 10 of the Act of 1986 ”, and
+
+(b) for the words “paragraph (b) of subsection (1) of section sixty-seven of the Act of 1948” there shall be substituted the words “ subsection (3) of section 79 of the Act of 1986 ”.
+
+(4) In subsection (5) for the words from “section seventy-eight” to “Fifth Schedule” there shall be substituted the words “ section 91 of the Act of 1986 the provisions of Schedule 10 ”.
+
+(5) In subsection (6)—
+
+(a) for the words “section sixty-seven of the Act of 1948 and to paragraph (b) of subsection (1)” there shall be substituted the words “ subsections (2) to (5) of section 79 of the Act of 1986 and subsection (3) of that section ”,
+
+(b) for the words “subsection (1) of section sixty-eight of the Act of 1948 and to section thirteen” there shall be substituted the words “ subsection (2) of section 80 of the Act of 1986 and to section 10 ”, and
+
+(c) for the words “section seventy-eight of the Act of 1948 and to the Fifth Schedule” there shall be substituted the words “ section 91 of the Act of 1986 and to Schedule 10 ”.
+
+**31** In section 51(1) of that Act—
+
+(a) after the definition of “the Acquisition of Land Act” there shall be inserted—
+
+> ”the Act of 1986’ means the Agricultural Holdings Act 1986;
+
+, and
+
+(b) in the definition of “agricultural holding” for the words “Act of 1948” there shall be substituted the words “ Act of 1986 ”.
+
+**32** (1) Schedule 6 to that Act shall be amended as follows.
+
+(2) In paragraph 20(a) for the words from “made” to “year” there shall be substituted the words “ falling within section 2(3)(a) of the 1986 Act ”.
+
+(3) In paragraph 24—
+
+(a) for the words from “by the Minister” to “1948 (” there shall be substituted the words “ under section 2 of the Act of 1986 or of the Act of 1948 (each of ”, and
+
+(b) for the words from “by the said Minister” to “of the section)” there shall be substituted the words “ under that section from the operation of that section) ”.
+
+(4) In paragraph 25 for the words from “by the Minister” to “section two” there shall be substituted the words “ under section 2 of the Act of 1986 or ”.
+
+(5) In paragraph 31 for the words from “for the letting” to “Secretary of State” there shall be substituted the words “ falling within section 2(3)(a) of the 1986 Act, to an agreement for the letting of land and to section 2 of the Act of 1986 there shall be substituted respectively references to a lease of land entered into in contemplation of the use of land only for grazing or mowing falling within the proviso to section 2(1) of the Scottish Act of 1949, to a lease ”.
+
+**33** (1) Schedule 7 to that Act shall be amended as follows.
+
+(2) In paragraph 1(2) for the words “Act of 1948” there shall be substituted the words “ Act of 1986 ”.
+
+(3) In paragraph 2—
+
+(a) for the words “Act of 1948”, in each place where they occur, there shall be substituted the words “ Act of 1986 ”, and
+
+(b) after sub-paragraph (3) there shall be inserted—
+
+> (3A) The references in sub-paragraph (1)(a) of this paragraph to the Act of 1986 include references to the Act of 1948
+
+.
+
+(4) In paragraph 3—
+
+(a) in sub-paragraph (1) for the words “Act of 1948” there shall be substituted the words “ Act of 1986 ”, and
+
+(b) in sub-paragraph (2) for the words “section nine of the Act of 1948 in so far as the said section nine” there shall be substituted the words “ section 13 of the Act of 1986 in so far as the said section 13 ”.
+
+(5) In paragraph 4—
+
+(a) in sub-paragraph (2) for the words “Act of 1948” there shall be substituted the words “ Act of 1986 ”.
+
+(b) in sub-paragraph (4) for the words “Section seventy-seven of the Act of 1948” there shall be substituted the words “ Section 84 of the Act of 1986 ” and for the words “Act of 1948”, in the second place where they occur, there shall be substituted the words “ Act of 1986 ”,
+
+(c) in sub-paragraph (5) for the words “section eight or section nine of the Act of 1948” there shall be substituted the words “ section 12 or section 13 of the Act of 1986 ”, and
+
+(d) in sub-paragraph (6) for the words “section nine of the Act of 1948” there shall be substituted the words “ section 13 of the Act of 1986 ”.
+
+(6) In paragraph 5—
+
+(a) in sub-paragraph (1) for the words “section thirteen of the Act of 1948” there shall be substituted the words “ section 10 of the Act of 1986 ”.
+
+(b) in sub-paragraph (2) for the words “subsection (2)” there shall be substituted the words “ subsection (3) ”,
+
+(c) in sub-paragraph (3) for the words “subsection (2)” there shall be substituted the words “ subsection (3) ” and for the words “subsection (3)” there shall be substituted the words “ subsection (4) ”, and
+
+(d) in sub-paragraph (5) for the words “section thirteen of the Act of 1948” there shall be substituted the words “ section 10 of the Act of 1986 ” and for the words “paragraph (b) of subsection (1) of section sixty-seven” there shall be substituted the words “ subsection (3) of section 79 ”.
+
+(7) In paragraph 6(2) for the words “section seventeen of the Act of 1948” there shall be substituted the words “ section 23 of the Act of 1986 ”.
+
+[^F226][8 In paragraph 25, for sub-paragraph (a) there shall be substituted—
+
+> (a) for references—
+>
+> (i) to the Act of 1986 and to sections 12, 13, 23 and 84 of that Act there shall be substituted respectively references to the Scottish Act of 1949 and to sections 7, 8, 18 and 75 of that Act,
+>
+> (ii) to section 10 of the Act of 1986 and to subsections (3) and (4) of that section there shall be substituted respectively references to section 14 of the Scottish Act of 1949 and to subsections (2) and (3) of that section, and
+>
+> (iii) to subsection (3) of section 79 of the Act of 1986 there shall be substituted references to paragraph (b) of subsection (1) of section 65 of the Scottish Act of 1949.]
+
+### The Chevening Estate Act 1959
+
+**34** In clauses 15(i) and 23(b) of the Trust Instrument set out in the Schedule to the [^M82]Chevening Estate Act 1959 for the words “Agricultural Holdings Act 1948” there shall be substituted the words “ Agricultural Holdings Act 1986, except section 60(2)(b) or 62 of that Act, ”.
+
+### The Horticulture Act 1960
+
+**[^F227]35** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Agriculture (Miscellaneous Provisions) Act 1963
+
+**36** In subsections (1)(a) and (6)(c) of section 22 of the [^M83]Agriculture (Miscellaneous Provisions) Act 1963 for the words “Agricultural Holdings Act 1948” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+### The Agriculture Act 1967
+
+**37** In section 26(1) of the [^M84]Agriculture Act 1967 for the words “Agriculture Holdings Act 1948”, in both places where they occur, there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+**38** In section 27(5B)(a) of that Act for the words “Agricultural Holdings Act 1948” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+**39** In section 28(1)(a) of that Act for the words “section 34 of the Agricultural Holdings Act 1948” there shall be substituted the words “ section 60(2)(a) of the Agricultural Holdings Act 1986 ”.
+
+**40** In section 29(3)(a) of that Act for the words “section 34 of the Agricultural Holdings Act 1948” there shall be substituted the words “ section 60(2)(a) of the Agricultural Holdings Act 1986 ”.
+
+**41** (1) Section 48 of that Act shall be amended as follows.
+
+(2) In subsection (2)(a) for the words “section 34 of the Agricultural Holdings Act 1948” there shall be substituted the words “ section 60(2)(a) of the Agricultural Holdings Act 1986 ”.
+
+(3) For subsection (4) there shall be substituted—
+
+> (4) Case H in Part I of Schedule 3 to the Agricultural Holdings Act 1986 shall apply in relation to a Rural Development Board as it applies in relation to the Minister within the meaning of that Act.
+
+**42** In paragraph 7(4) of Schedule 3 to that Act for the words “Section 77 of the Agricultural Holdings Act 1948” there shall be substituted the words “ Section 84 of the Agricultural Holdings Act 1986 ”.
+
+### The Leasehold Reform Act 1967
+
+**43** In section 1(3)(b) of the [^M85]Leasehold Reform Act 1967 for the words “Agricultural Holdings Act 1948” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+### The Agriculture (Miscellaneous Provisions) Act 1968
+
+**44** In section 12(1) of the [^M86]Agriculture (Miscellaneous Provisions) Act 1968 for the words from “section 9” to the end there shall be substituted the words “ subsection (2)(b) of section 60 of the Agricultural Holdings Act 1986 (additional compensation to tenant for disturbance) shall apply as if the acquiring authority were the landlord of the holding and on the date of the acquisition or taking of possession the tenancy of the holding or part of it had terminated, and the tenant had quitted the holding or part of it, in consequence of such a notice or counter-notice as is mentioned in subsection (1) of that section; and section 61 of that Act (exceptions to section 60) shall not apply in such a case. ”
+
+**45** In section 13(1) of that Act for the words “section 2(1) of the principal Act” there shall be substituted the words “ section 2(2) of the Agricultural Holdings Act 1986 ”.
+
+**46** (1) Section 17 of that Act shall be amended as follows.
+
+(2) In subsection (1) for the words “principal Act”, in the second place where they occur, there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+(3) In subsection (3) for the words “Section 87(1) and (2) of the principal Act” there shall be substituted the words “ Section 95(1), (2) and (3) of the Agricultural Holdings Act 1986 ”.
+
+**47** In section 42(2) of that Act, as it has effect for the purposes of section 48(6) of the [^M87]Land Compensation Act 1973, for the words “section 24 of the principal Act” there shall be substituted the words “ section 26 of the Agricultural Holdings Act 1986 ” and for the words “principal Act”, in the second place where they occur, there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+**48** (1) Schedule 3 to that Act shall be amended as follows.
+
+(2) In paragraph 2—
+
+(a) for the words “section 9(2) of this Act” there shall be substituted the words “ section 60(4) of the Agricultural Holdings Act 1986 ”, and
+
+(b) for the words “section 8 or section 9 of the principal Act” there shall be substituted the words “ section 12 or section 13 of the Agricultural Holdings Act 1986 ”.
+
+(3) In paragraph 3—
+
+(a) for the words “section 8 of the principal Act” there shall be substituted the words “ section 12 of the Agricultural Holdings Act 1986 ”, and
+
+(b) for the words “section 9(2)” there shall be substituted the words “ section 60(4) ”.
+
+### The Tribunals and Inquiries Act 1971
+
+**[^F228]49** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Town and Country Planning Act 1971
+
+**50** In section 27(7) of the [^M88]Town and Country Planning Act 1971 for the words “Agricultural Holdings Act 1948” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+### The Land Charges Act 1972
+
+**51** (1) Schedule 2 to the [^M89]Land Charges Act 1972 shall be amended as follows.
+
+(2) In paragraph 1(g) for the words from “Sections” to “tenant or” there shall be substituted the words “ Section 74 (charge in respect of sums due to ” and the words from “Section 82” to “improvements)” shall be omitted.
+
+(3) After paragraph 1(h) there shall be inserted—
+
+> |  |  |
+> |---|---|
+> | (i) The Agricultural Holdings Act 1986 | Section 85 (charges in respect of sums due to tenant of agricultural holding). |
+> |  | Section 86 (charges in favour of landlord of agricultural holding in respect of compensation for or cost of certain improvements). |
+
+(4) In paragraph 3 for the words from the beginning to “Act 1948” there shall be substituted the words “ The reference in paragraph 1(g) above to section 74 of the Agricultural Holdings Act 1948 and the references in paragraph 1(i) above to section 85 and 86 of the Agricultural Holdings Act 1986 ”.
+
+### The Land Compensation Act 1973
+
+**52** In section 34(3) (c) of the [^M90]Land Compensation Act 1973 for the words “Agricultural Holdings Act 1948” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+**53** (1) Section 48 of that Act shall be amended as follows.
+
+(2) In subsection (2)—
+
+(a) for the words “Case B in section 2(3) of the Agricultural Holdings (Notices to Quit) Act 1977” there shall be substituted the words “ Case B in Part I of Schedule 3 to the Agricultural Holdings Act 1986 ”,
+
+(b) for the words “section 3(3)(e)” there shall be substituted the words “ section 27(3)(f) ”;
+
+and that subsection shall continue to have effect with the substitution of the words “ the said Case B ” for the words “section 24(2)(b)” made by paragraph 6 of Schedule 1 to the [^M91]Agricultural Holdings (Notices to Quit) Act 1977.
+
+(3) In subsection (3) for the words “Case B and section 3(3)(e)” there shall be substituted the words “ Case B and section 27(3)(f) ”.
+
+(4) After subsection (6) there shall be inserted—
+
+> (6A) In assessing the tenant’s compensation no account shall be taken of any benefit which might accrue to the tenant by virtue of section 60(2)(b) of the Agricultural Holdings Act 1986 (additional payments by landlord for disturbance); and in this subsection the reference to the said section 60(2)(b) does not include a reference to it as applied by section 12 of the Agriculture (Miscellaneous Provisions) Act 1968.
+
+**54** (1) Section 56 of that Act shall be amended as follows.
+
+(2) In subsection (3)(d) for the words “Agricultural Holdings Act 1948” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+(3) In subsection (4) for the words “section 58 of the Agricultural Holdings Act 1948” there shall be substituted the words “ section 72 of the Agricultural Holdings Act 1986 ” and for the words “the proviso” there shall be substituted the words “ subsection (4) of that section ”.
+
+**55** (1) Section 59 of that Act shall be amended as follows.
+
+(2) In subsection (1)(b)—
+
+(a) in paragraph (i) for the words “subsection (1) of section 2 of the Agricultural Holdings (Notices to Quit) Act 1977” there shall be substituted the words “ section 26(1) of the Agricultural Holdings Act 1986 ” and for the words “Case B in subsection (3) of that section” there shall be substituted the words “ Case B in Part I of Schedule 3 to that Act ”, and
+
+(b) in paragraph (ii) for the words “section 3(3)(e)” there shall be substituted the words “ section 27(3)(f) ”;
+
+and that subsection shall continue to have effect with the substitution of the words “ the said Case B ” for the words “section 24(2)(b)” made by paragraph 6 of Schedule 1 to the Agricultural Holdings (Notice to Quit) Act 1977.
+
+(3) In subsection (2)(b) for the words from “Agricultural Holdings Act 1948” to “notice to quit)” there shall be substituted the words “ Agricultural Holdings Act 1986 relating to compensation to a tenant on the termination of his tenancy ”.
+
+(4) In subsection (6) for the words “section 9 of the Agricultural Holdings (Notices to Quit) Act 1977” there shall be substituted the words “ section 32 of the Agricultural Holdings Act 1986 ”.
+
+**56** In section 87(1) for the words “Agricultural Holdings Act 1948” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+### The Rent (Agriculture) Act 1976
+
+**57** In section 9(3) and (4)(c) of the [^M92]Rent (Agriculture) Act 1976 for the words “Agricultural Holdings Act 1948” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+**58** In paragraph 2 of Schedule 2 to that Act for the words “Agricultural Holdings Act 1948” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+### The Rent Act 1977
+
+**59** In section 10 of the [^M93]Rent Act 1977 for the words “Agricultural Holdings Act 1948” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+**60** In section 137(3) and (4)(c) of that Act for the words “Agricultural Holdings Act 1948” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+### The Protection from Eviction Act 1977
+
+**61** In section 8(1)(d) of the [^M94]Protection from Eviction Act 1977 for the words “Agricultural Holdings Act 1948” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+### The Cycle Tracks Act 1984
+
+**62** In section 3(2) of the [^M95]Cycle Tracks Act 1984 for the words “section 1(2) of the Agricultural Holdings Act 1948” there shall be substituted the words “ section 1(4) of the Agricultural Holdings Act 1986 ”.
+
+### The Housing Act 1985
+
+**63** In paragraph 8 of Schedule 1 to the [^M96]Housing Act 1985 for the words “Agricultural Holdings Act 1948” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+### The Landlord and Tenant Act 1985
+
+**64** In section 14(3) of the [^M97]Landlord and Tenant Act 1985 for the words “Agricultural Holdings Act 1948” there shall be substituted the words “ Agricultural Holdings Act 1986 ”.
+
+## SCHEDULE 15 — Repeals and Revocations
+
+*Section 101.*
+
+### Part I — Repeals
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 9 & 10 Geo. 6. c. 73. | The Hill Farming Act 1946. | Section 9. |
+| 11 & 12 Geo. 6. c. 63. | The Agricultural Holdings Act 1948. | The whole Act. |
+| 12 & 13 Geo. 6. c. 37. | The Agricultural (Miscellaneous Provisions) Act 1949. | Section 10. |
+|  |  | In the Schedule, Part II. |
+| 6 & 7 Eliz. 2, c. 71. | The Agriculture Act 1958. | Section 4. |
+|  |  | In section 9(1), in the definition of “agricultural holding” the words from “as respects England” to “1948 and”, the definitions of “contract of tenancy” and “fixed equipment” and in the definition of “landlord and tenant” the words from “as respects England” to “1948 and”. |
+|  |  | In Schedule 1, in Part I, paragraphs 6, 7, 14 to 18, 20 and 21. |
+|  |  | In Schedule 4, paragraphs 5, 9 and 11. |
+| 1963 c. 11. | The Agriculture (Miscellaneous Provisions) Act 1963. | In section 20, paragraph (b), the words “and the period within which the arbitrator is to make his award”, the words “the said paragraph 6 or” and paragraph (ii). |
+| 1964 c. 51. | The Universities and College Estates Act 1964. | In Schedule 3, in Part I, the entry relating to the Agricultural Holdings Act 1948. |
+| 1968 c. 34. | The Agriculture (Miscellaneous Provisions) Act 1968. | Sections 9 and 10. |
+|  |  | In section 15, subsection (2), in subsection (4) the words from the beginning to “section and”, the words “subsection (2) or” and the words “as the case may be” and in subsection (5)(a) the words “or subsection (2)”. |
+|  |  | In section 17, in subsection (1) the definition of “the principal Act” and in subsection (2) the words from “references to the termination” to “holding and”. |
+| 1970 c. 40. | The Agriculture Act 1970. | In Schedule 4, the entry relating to the Agricultural Holdings Act 1948. |
+| 1971 c. 23. | The Courts Act 1971. | In Schedule 9, in Part I, the entry relating to the Agricultural Holdings Act 1948. |
+| 1972 c. 61. | The Land Charges Act 1972. | In Schedule 2, in paragraph 1(g), the words from “Section 82” to “improvements)”. |
+| 1972 c. 62. | The Agriculture (Miscellaneous Provisions) Act 1972. | Section 15. |
+| 1976 c. 55. | The Agriculture (Miscellaneous Provisions) Act 1976. | Sections 17 to 24. |
+|  |  | In section 27(5), the words “and Part II”. |
+|  |  | In Schedule 3, the entries relating to the Agricultural Holdings Act 1948. |
+|  |  | Schedule 3A. |
+| 1977 c. 12. | The Agricultural Holdings (Notices to Quit) Act 1977. | The whole Act. |
+| 1984 c. 32. | The London Regional Transport Act 1984. | In Schedule 6, paragraph 13. |
+| 1984 c. 41. | The Agricultural Holdings Act 1984. | The whole Act. |
+| 1985 c. 65. | The Insolvency Act 1985. | In Schedule 8, paragraphs 9 and 30. |
+| 1985 c. 68. | The Housing Act 1985. | Section 231. |
+| 1985 c. 71. | The Housing (Consequential Provisions) Act 1985. | In Schedule 2, paragraph 34. |
+
+### Part II — Revocations
+
+|  |  |  |
+|---|---|---|
+| Number | Title | Extent of Revocation |
+| S.I. 1951/2168. | The Agricultural Holdings Act (Variation of Fourth Schedule) Order 1951. | The whole order. |
+| S.I. 1978/447. | The Agricultural Holdings Act 1948 (Amendment) Regulations 1978. | The whole instrument. |
+| S.I. 1978/742. | The Agricultural Holdings Act 1948 (Variation of Fourth Schedule) Order 1978. | The whole order. |
+| S.I. 1985/1947. | The Agricultural Holdings Act 1948 (Variation of Fourth Schedule) Order 1985. | The whole order. |
+
+|  |  |  |
+|---|---|---|
+| 1948 | = | The Agricultural Holdings Act 1948 (11 & 12 Geo. 6. c. 63) |
+| 1949 | = | The Agriculture (Miscellaneous Provisions) Act 1949 (12 & 13 Geo. 6. c. 37) |
+| 1958 | = | The Agriculture Act 1958 (6 & 7 Eliz. 2, c. 71) |
+| 1963 | = | The Agriculture (Miscellaneous Provisions) Act 1963 (c. 11) |
+| 1968 | = | The Agriculture (Miscellaneous Provisions) Act 1968 (c. 34) |
+| 1970 | = | The Agriculture Act 1970 (c. 40) |
+| 1972 | = | The Agriculture (Miscellaneous Provisions) Act 1972 (c. 62) |
+| 1976 | = | The Agriculture (Miscellaneous Provisions) Act 1976 (c. 55) |
+| 1977 | = | The Agricultural Holdings (Notices to Quit) Act 1977 (c. 12) |
+| 1984 | = | The Agricultural Holdings Act 1984 (c. 41) |
+| S.I. 1951/2168 | = | The Agricultural Holdings Act (Variation of Fourth Schedule) Order 1951 (S.I. 1951/2168) |
+| S.I. 1955/554 | = | The Transfer of Functions (Ministry of Food) Order 1955 (S.I. 1955/554) |
+| S.I. 1978/272 | = | The Transfer of Functions (Wales) ( No. 1) Order 1978 (S.I. 1978/272) |
+| S.I. 1978/447 | = | The Agricultural Holdings Act 1948 (Amendment) Regulations 1978 (S.I. 1978/447) |
+| S.I. 1978/742 | = | The Agricultural Holdings Act 1948 (Variation of Fourth Schedule Order 1978 (S.I. 1978/742) |
+| S.I. 1985/1947 | = | The Agricultural Holdings Act 1948 (Variation of Fourth Schedule) Order 1985 (S.I. 1985/1947) |
+| R (followed by a number) | = | The recommendation set out in the paragraph of that number in the Appendix to the Report of the Law Commission on this Act ( Cmnd. 9665). |
+
+|  |  |
+|---|---|
+| Provision | Derivation |
+| 1(1) | 1948 s. 1(1); 1984 Sch. 3 para. 1(2). |
+| (2)(3) | 1948 s. 1(1A)(1B); 1984 Sch. 3 para. 1(3). |
+| (4) | 1984 s. 1(2); 1976 s. 18(2); 1984 Sch. 1 para. 1, Sch. 2 para. 1(2). |
+| (5) | 1948 s. 94(1). |
+| 2 | 1948 s. 2; R.1. |
+| 3(1) | 1948 s. 3(1); 1984 Sch. 3 para. 2(1)(a). |
+| (2) | 1948 s. 3(2). |
+| (3) | 1948 s. 3(3). |
+| (4) | 1948 s. 3(1). |
+| 4(1) | 1948 s. 3A(1)(2)(3); 1984 Sch. 3 para. 2(2). |
+| (2) | 1948 s. 3A(2)(3); 1984 Sch. 3 para. 2(2). |
+| (3) | 1948 s. 3A(4); 1984 Sch. 3 para. 2(2). |
+| (4) | 1948 s. 3A(2)(3); 1984 Sch. 3 para. 2(2). |
+| 5(1) | 1948 s. 3(4); 1984 Sch. 3 para. 2(1)(b). |
+| (2)(3) | 1948 s. 3B; 1984 Sch. 3 para. 2(2). |
+| 6(1) | 1948 s. 5(1); 1984 Sch. 3 para. 3(2). |
+| (2) | 1948 s. 5(2) (3). |
+| (3) | 1948 s. 7(3). |
+| (4) | 1948 s. 7(5); 1984 Sch. 3 para. 4. |
+| (5) | 1948 s. 5(4)(6); 1984 Sch. 3 para. 3(3). |
+| (6) | 1948 s. 5(5); 1984 Sch. 3 para. 3(3). |
+| 7(1) | 1948 s. 6(1). |
+| (2) | 1972 s. 15(2). |
+| (3) | 1948 s. 6(1). |
+| 8(1)(2) | 1948 s. 6(2). |
+| (3) | 1948 s. 6(3). |
+| (4) | 1948 s. 7(3). |
+| (5) | 1948 s. 7(5); 1984 Sch. 3 para. 4. |
+| (6) | 1948 s. 6(2). |
+| 9(1)(2) | 1948 s. 7(1). |
+| (3) | 1948 s. 7(2). |
+| (4) | 1948 s. 7(4). |
+| 10(1) | 1948 s. 13(1)(4A); 1984 Sch. 3 para. 6(2)(3). |
+| (2) | 1948 s. 13(1)(5)(b). |
+| (3) to (5) | 1948 s. 13(2) to (4). |
+| (6) | 1948 s. 13(4B); 1984 Sch. 3 para. 6(3). |
+| (7) | 1948 s. 13(5)(a). |
+| (8) | 1948 s. 13(4A); 1984 Sch. 3 para. 6(3). |
+| 11(1) | 1958 s. 4(1). |
+| (2) | 1958 s. 4(1); 1984 Sch. 3 para. 30. |
+| (3) to (7) | 1958 s. 4(2) to (4). |
+| (8) | 1958 s. 4(7). |
+| 12(1)(2) | 1948 s. 8(1)(2); 1984 s. 1. |
+| (3) | 1948 s. 8(13); 1984 ss. 1, 8(2). |
+| (4) | 1948 s. 8A(2); 1984 s. 1. |
+| (5) | Introduces Schedule 2. |
+| 13(1) | 1948 s. 9(1). |
+| (2) | 1948 s. 9(1); 1958 s. 4(5); 1984 Sch. 3 para. 5(2)(b); Housing Act 1985 (c. 68)s. 231(1). |
+| (3) | 1948 s. 9(2); 1958 s. 4(5); 1984 Sch. 3 para. 5(3); Housing Act 1985 (c. 68)s. 231(1). |
+| (4) | 1948 s. 9(1); 1958 s. 4(5); 1984 Sch. 3 para. 5(2)(c); Housing Act 1985 (c. 68)s. 231(1)(2). |
+| (5)(6) | 1958 s. 4(5)(7). |
+| (7) | 1948 s. 9(4). |
+| (8) | 1948 s. 9(1). |
+| 14(1)(2) | 1948 s. 10(1); 1958 Sch. 1 Pt. I para. 6. |
+| (3) | 1948 s. 10(2)(a); 1958 Sch. 1 Pt. I para. 6. |
+| (4)(5) | 1948 s. 10(2)(b); 1958 Sch. 1 Pt. I para. 6. |
+| 15(1) | 1948 s. 11(1). |
+| (2) | 1948 s. 11(4)(a)(b). |
+| (3) | 1948 s. 12(1). |
+| (4)(5) | 1948 s. 11(1)(2). |
+| (6) | 1948 s. 11(3); 1958 Sch. 1 Pt. I para. 7. |
+| (7) | 1948 ss. 11(5), 12(2). |
+| 16 | 1948 s. 18. |
+| 17 | 1948 s. 22. |
+| 18(1) | 1948 s. 20(1). |
+| (2)(3)(4) | 1948 s. 19(1)(2)(3). |
+| (5) | 1948 ss. 19(1)(4), 20(2). |
+| 19(1) | 1948 s. 21(1)(2). |
+| (2) | 1948 s. 21(3); Courts Act 1971 (c. 23)Sch. 9 Pt. I. |
+| (3) | 1948 s. 21(4). |
+| 20(1)(2)(3) | 1948 s. 14(1); 1984 Sch. 3 para. 7(2). |
+| (4) | 1948 s. 14(2). |
+| (5) | 1948 s. 14(3); 1984 Sch. 3 para. 7(3). |
+| 21(1)(2)(3) | 1948 s. 4(1)(2)(3). |
+| 22(1) | 1948 s. 16(1); 1984 Sch. 3 para. 8(a). |
+| (2) | 1948 s. 16(2); 1984 s. 8(1)(2), Sch. 3 para. 8(b). |
+| (3) | 1948 s. 16(3). |
+| (4) | 1948 s. 8(3)(4). |
+| (5) | 1984 s. 8(5). |
+| 23 | 1948 s. 17. |
+| 24 | 1948 s. 15. |
+| 25(1) | 1977 s. 1(1). |
+| (2) | 1977 s. 1(2); 1984 Sch. 3 para. 36. |
+| (3) to (5) | 1977 s. 1(5) to (7); 1984 s. 5. |
+| 26(1) | 1977 s. 2(1). |
+| (2) | 1977 ss. 2(2), 12(1). |
+| (3) | Introduces Schedule 3. |
+| 27(1) to (5) | 1977 s. 3. |
+| (6) | 1977 s. 6(1). |
+| (7) | 1977 s. 6(3). |
+| (8) | 1977 s. 6(2). |
+| (9) | 1977 s. 6(4). |
+| 28(1) | 1977 s. 4(1). |
+| (2) | 1977 s. 4(2)(3). |
+| (3) | 1977 s. 4(2). |
+| (4) | 1977 s. 4(2)(3). |
+| (5) | 1977 s. 4(4), 1984 s. 7. |
+| (6) | 1977 s. 4(5). |
+| 29 | Introduces Schedule 4. |
+| 30 | Introduces Schedule 5. |
+| 31(1) | 1977 s. 8(1). |
+| (2) | 1977 s. 8(2); 1984 Sch. 3 para. 39. |
+| 32 | 1977 s. 9. |
+| 33(1) | 1977 s. 10(1); 1984 Sch. 3 para. 40(a). |
+| (2) | 1977 s. 10(1A); 1984 Sch. 3 para. 40(b). |
+| (3) | 1977 s. 10(2); 1984 Sch. 3 para. 40(c). |
+| 34(1) | 1984 s. 2(1)(2), Sch. 2 paras. 1(1)(a), 10(1)(a). |
+| (2) | 1984 s. 2(3). |
+| 35(1) | 1976 s. 18(1); 1984 s. 2(1)(2), Sch. 1 para. 5(1). |
+| (2) | 1976 s. 18(1)(2); 1984 Sch. 1 para. 1. |
+| 36(1) | 1976 ss. 18(1), 20(1). |
+| (2) | 1976 s. 18(4)(d). |
+| (3) | 1976 s. 18(2). |
+| (4) | 1976 s. 18(2); 1984 s. 3(2)(b). |
+| (5) | Introduces Schedule 6. |
+| 37(1) | 1976 s. 18(4)(e); 1984 Sch. 1 para. 2(5). |
+| (2)(3) | 1976 s. 18(5); 1984 Sch. 1 para. 2(7). |
+| (4)(5) | 1976 s. 18(5A); 1984 Sch. 1 para. 2(7). |
+| (6) | 1984 Sch. 2 para. 10(1)(b), (2). |
+| (7) | 1984 Sch. 5 para. 2(2)(a). |
+| (8) | 1984 Sch. 5 para. 2(2)(b). |
+| (9) | 1976 s. 18(4)(e), (5); 1984 Sch. 1 para. 2(5), (7). |
+| 38(1) | 1976 s. 18(4)(a); 1977 Sch. 1 para. 7(2)(b); 1984 Sch. 1 para. 2(2). |
+| (2) | 1976 s. 18(4)(b); 1977 Sch. 1 para. 7(2)(c); 1984 Sch. 3 para. 34. |
+| (3) | 1976 s. 18(4)(c); 1977 Sch. 1 para. 7(2)(d); 1984 Sch. 1 para. 2(3). |
+| (4) | 1976 s. 18(4)(f); 1984 Sch. 1 para. 2(6). |
+| (5) | 1976 s. 18(4)(g). |
+| 39(1) | 1976 ss. 18(2), 20(1). |
+| (2) | 1976 s. 20(2); 1984 Sch. 1 para. 4. |
+| (3) | 1976 s. 20(3). |
+| (4) | 1976 s. 20(4). |
+| (5) | 1976 s. 20(5); 1984 Sch. 1 para. 3(3)(a). |
+| (6) | 1976 s. 20(6); 1984 Sch. 1 para. 3(3)(a). |
+| (7) to (9) | 1976 s. 20(7) to (9). |
+| (10) | 1976 s. 20(9A); 1984 Sch. 1 para. 3(3)(b). |
+| 40(1) to (5) | 1976 s. 20(10) to (14). |
+| 41 | 1976 ss. 18(2), 21. |
+| 42 | 1976 s. 20(15); 1984 Sch. 1 para. 5(2). |
+| 43 | 1976 s. 19; 1977 Sch. 1 para. 7(3); 1984 s. 6(9), Sch. 1 para. 3(2). |
+| 44(1) | 1976 s. 22(1). |
+| (2) | 1976 s. 22(2); 1977 Sch. 1 para. 7(4); 1984 Sch. 1 para. 3(4)(a). |
+| (3) | 1976 s. 22(3). |
+| (4) | 1976 s. 22(4); 1984 Sch. 1 para. 3(4)(a). |
+| (5) | 1976 s. 22(5); 1984 Sch. 1 para. 3(4)(b). |
+| (6) | 1976 s. 22(6); 1984 Sch. 1 para. 6. |
+| (7) | 1976 s. 22(7); 1984 Sch. 1 para. 6. |
+| 45(1) | 1976 s. 23(1). |
+| (2) to (4) | 1976 s. 23(1A); 1984 s. 3(1). |
+| (5) to (8) | 1976 s. 23(5) to (8). |
+| 46(1) | 1976 s. 23(2); 1977 Sch. 1 para. 7(5); 1984 Sch. 1 para. 7(1). |
+| (2) | 1976 s. 23(2A); 1984 Sch. 1 para. 7(2). |
+| (3) | 1976 s. 23(9); 1984 Sch. 1 para. 3(5). |
+| 47(1) | 1976 s. 23(1). |
+| (2) | 1976 s. 23(3). |
+| (3) | 1976 s. 23(4). |
+| 48(1) | 1976 s. 24(1). |
+| (2) | 1976 s. 24(2); 1984 Sch. 1 paras. 3(6), 7(3). |
+| (3)(4) | 1976 s. 24(3). |
+| (5) | 1976 s. 24(4)(a). |
+| (6) | 1976 s. 24(4)(b). |
+| (7) | 1976 s. 24(4)(c). |
+| (8) | 1976 s. 24(5). |
+| (9) | 1976 s. 24(6); 1984 Sch. 3 para. 35. |
+| (10) | 1976 s. 24(7). |
+| (11) | 1976 s. 24(4). |
+| (12) | 1976 s. 24(8). |
+| 49(1)(2) | 1984 Sch. 2 para. 1(1)(2). |
+| (3) | 1984 Sch. 2 para. 1(2), 2(2). |
+| 50(1) | 1984 Sch. 2 paras. 1(1), 5(1). |
+| (2)(3) | 1984 Sch. 2 para. 1(2). |
+| (4) | Introduces Schedule 6. |
+| 51(1) | 1984 Sch. 2 para. 2(1)(a)(b)(c)(f)(g), (4). |
+| (2) | 1984 Sch. 2 para. 21(1)(d). |
+| (3) | 1984 Sch. 2 para. 2(1)(e), (3). |
+| (4) | 1984 Sch. 2 para. 2(5). |
+| (5)(6) | 1984 Sch. 2 para. 2(6). |
+| 52(1)(2) | 1984 Sch. 2 para. 3(1)(2). |
+| (3)(4) | 1984 Sch. 2 para. 3(3). |
+| (5) | 1984 Sch. 2 para. 3(4). |
+| 53(1) | 1984 Sch. 2 para. 5(1). |
+| (2) | 1984 Sch. 2 para. 1(2). |
+| (3) to (11) | 1984 Sch. 2 para. 5(2) to (10). |
+| 54(1)(2) | 1984 Sch. 2 para. 4. |
+| (3) | 1984 Sch. 2 para. 1(2). |
+| 55(1) | 1984 Sch. 2 para. 6(1). |
+| (2) to (4) | 1984 Sch. 2 para. 6(2). |
+| (5) to (8) | 1984 Sch. 2 para. 6(4) to (7). |
+| 56(1) | 1984 Sch. 2 para. 6(1). |
+| (2) | 1984 Sch. 2 para. 6(3). |
+| (3)(4) | 1984 Sch. 2 para. 7(1)(2). |
+| 57 | 1984 Sch. 2 para. 8. |
+| 58 | 1984 Sch. 2 para. 9. |
+| 59 | Index of definitions. |
+| 60(1)(2) | 1948 s. 34(1); 1968 s. 9(1); 1977 Sch. 1 para. 1(3)(a). |
+| (3) | 1948 s. 34(2)(a)(d). |
+| (4) | 1968 s. 9(2). |
+| (5) | 1948 s. 34(2). |
+| (6) | 1948 s. 34(2)(b)(c). |
+| (7) | 1948 s. 34(5); 1968 s. 9(1). |
+| 61(1) | 1948 s. 34(1); 1968 s. 9(1); 1977 Sch. 1 para. 1(3)(b). |
+| (2) | 1968 s. 10(1)(d)(e); 1977 Sch. 1 para. 5; 1984 Sch. 3 para. 32(b). |
+| (3)(4) | 1968 s. 10(1)(b)(c), (2), (8); 1977 Sch. 1 para. 5; 1984 Sch. 3 para. 32(1)(a). |
+| (5) | 1968 s. 10(2); 1977 Sch. 1 para. 5. |
+| (6) | 1948 s. 34(1); 1968 s. 10(8). |
+| 62(1)(2) | 1968 s. 15(2). |
+| (3) | 1968 s. 15(5). |
+| 63(1) | 1948 s. 34(2A); 1968 s. 9(1); 1984 Sch. 3 para. 9(2). |
+| (2) | 1948 s. 34(3); 1968 ss. 10(5), 15(4). |
+| (3) | 1948 s. 34(4); 1968 s. 9(1); 1977 Sch. 1 para. 1(3)(c); 1984 Sch. 3 para. 9(3)(a)(b). |
+| (4) | 1948 s. 34(4); 1984 Sch. 3 para. 9(3)(c). |
+| 64(1) | 1948 ss. 46(1), 47(1). |
+| (2) | 1948 s. 46(2). |
+| (3) | 1948 s. 46(1). |
+| (4) | 1948 s. 35(1). |
+| 65(1) | 1948 ss. 46(1), 47(1). |
+| (2) | 1948 s. 47(1)(b). |
+| (3) | 1948 s. 46(1). |
+| 66(1) | 1948 s. 48. |
+| (2) | 1948 s. 51(1). |
+| (3) | 1948 s. 51(3). |
+| (4) | 1948 s. 51(2). |
+| (5) | 1948 s. 53; 1984 Sch. 3 para. 11. |
+| 67(1) | 1948 s. 49(1). |
+| (2) | 1948 s. 49(1)(2). |
+| (3) to (6) | 1948 s. 50(1) to (4); 1958 Sch. 1 Pt. I para. 14. |
+| (7) | 1948 s. 50(3); 1958 Sch. 1 Pt. I para. 15. |
+| 68(1) | 1948 s. 52. |
+| (2) | 1958 s. 4(6); R.2. |
+| (3)(4) | Hill Farming Act 1946 (c. 73)s. 9(2)(4); 1948 Sch. 7 para. 4. |
+| (5) | Housing Act 1985 (c. 68)s. 231(3)(4). |
+| 69(1) | 1948 s. 54. |
+| (2)(3) | 1948 s. 55(1)(2). |
+| 70(1) | 1948 s. 56(1). |
+| (2)(3) | 1948 s. 56(1); 1984 Sch. 3 para. 12. |
+| (4)(5) | 1948 s. 56(2)(3). |
+| 71(1) | 1948 s. 57(1). |
+| (2) | 1948 s. 57(2); 1984 Sch. 3 para. 13(a). |
+| (3)(4) | 1948 s. 57(3). |
+| (5) | 1948 s. 57(4); 1984 Sch. 3 para. 13(b). |
+| 72 | 1948 s. 58. |
+| 73 | 1958 s. 59. |
+| 74(1) | 1948 s. 60(1); 1968 s. 9(1)(2); 1977 Sch. 1 para. 1(5); 1984 Sch. 3. para. 14(a). |
+| (2) | 1948 s. 60(1); 1968 ss. 9(1)(2), 15(2). |
+| (3) | 1948 s. 60(2); 1968 s. 9(1A); 1984 Sch. 3 paras. 14(b), 31. |
+| (4) | 1948 s. 60(3); 1968 s. 17(2); 1984 Sch. 3 paras. 14(b), 33. |
+| 75 | 1948 s. 61; 1968 ss. 10(5), 15(4); 1984 Sch. 3 para. 15. |
+| 76(1) | 1948 s. 63(1); 1958 Sch. 1 Pt. I para. 16; S.I. 1978/447 reg. 2(2). |
+| (2) | 1948 s. 63(1). |
+| (3) | 1948 s. 63(2). |
+| 77 | 1948 s. 64. |
+| 78(1)(2) | 1948 s. 65(1); 1968 ss. 10(4), 15(4). |
+| (3) | 1948 s. 65(2). |
+| 79 | 1948 s. 67(1)(3)(4); 1984 Sch. 3 paras. 16 and 27(b). |
+| 80(1)(2) | 1948 s. 68(1); 1958 Sch. 1 Pt. I para. 17. |
+| (3)(4) | 1948 s. 68(2); 1984 Sch. 3 para. 17(a). |
+| (5) | 1948 s. 68(3). |
+| (6) | 1948 s. 68(4); 1958 Sch. 1 Pt. I para. 17. |
+| (7) | 1948 s. 68(4). |
+| (8) | 1948 s. 68(5). |
+| (9) | 1948 s. 68(6); 1984 Sch. 3 para. 17(b). |
+| 81 | 1948 s. 69. |
+| 82(1) | 1948 s. 11(4)(c); 1949 s. 10(1); 1970 Sch. 4. |
+| (2)(3) | 1949 s. 10(2); S.I. 1955/554 art. 3; S.I. 1978/272 art. 2(1), Sch. 1. |
+| 83(1) to (3) | 1948 s. 70(1)(2); 1968 ss. 10(5), 15(4). |
+| (4) | 1948 s. 70(3); 1984 Sch. 3 para. 18(a). |
+| (5) | 1948 s. 70(4); 1984 Sch. 3 para. 18(b). |
+| (6) | 1948 s. 70(5). |
+| 84(1) | 1948 s. 77(1); Arbitration Act 1950 (c. 27)s. 44(3); 1968 ss. 10(5), 15(4); 1976 s. 24(9); 1984 Sch. 2 para. 7(3), Sch. 3 para. 19(2). |
+| (2) to (5) | 1948 s. 77(2) to (4), (6); 1984 Sch. 3 para. 19(3). |
+| 85(1) | 1948 s. 71; 1968 ss. 10(5), 15(4); R.3. |
+| (2) | 1948 s. 72; 1968 ss. 10(5), 15(4). |
+| (3) | 1948 s. 73; 1968 ss. 10(5), 15(4); R.3. |
+| 86(1) to (3) | 1948 s. 82(1)(2); 1968 ss. 10(5), 15(4). |
+| (4) | 1948 s. 89; 1968 ss. 10(5), 15(4). |
+| 87 | 1948 s. 83; 1968 ss. 10(5), 15(4). |
+| 88 | 1948 s. 80; 1968 ss. 10(5), 15(4); R.4. |
+| 89(1) | 1948 s. 81(1). |
+| (2) | 1948 s. 81(2); Universities and College Estates Act 1964 (c. 51)Sch. 3 Pt. I. |
+| 90 | 1948 s. 86. |
+| 91 | 1948 s. 78; Housing Act 1985 (c. 68) s. 231(2). |
+| 92 | 1948 s. 79. |
+| 93(1) | 1948 s. 92(1); 1968 ss. 10(5), 15(4); 1977 s. 12(2)(a); 1984 Sch. 2 para. 1(7), Sch. 3 para. 21; R.5. |
+| (2)(3) | 1948 s. 92(2)(3). |
+| (4) | 1948 s. 92(4); Interpretation Act 1978 (c. 30)s. 25(2). |
+| (5) | 1948 s. 92(5); 1968 ss. 10(5), 15(4); 1977 s. 12(2)(a); 1984 Sch. 2 para. 1(7); R.5. |
+| 94(1)(2) | 1948 ss. 6(4), 50(3), 77(5), 78(1), 94(1); 1958 Sch. 1 Pt. I para. 15; 1976 ss. 18(3B), 23(8); 1977 ss. 5(2), 11(9); 1984 ss. 3(3), 8(4), Sch. 2 para. 6(6), Sch. 3 para. 19(3). |
+| (3) | 1984 s. 8(4). |
+| (4) | 1978 s. 78(3). |
+| 95 | 1948 s. 87; Crown Estate Act 1956 (c. 73); Crown Estate Act 1961 (c. 55); 1968 ss. 10(5), 15(4), 17(3); 1976 s. 18(8); 1977 s. 12(2)(a); 1984 s. 9(3). |
+| 96(1) | 1948 s. 94(1); 1958 s. 9(1); 1968 s. 17(1); 1976 s. 18(2)(7); 1977 ss. 2(3) Case H, 12(1)(2)(a); 1984 ss. 8(4), 9(2), Sch. 1 para. 1(a), Sch. 2 para. 1(2), Sch. 3 para. 23. |
+| (2) | 1948 s. 68(6); 1977 s. 12(1A); 1984 Sch. 3 paras. 17(b), 42(b); Insolvency Act 1985 (c. 65)Sch. 8 paras. 9 and 30. |
+| (3) | 1948 s. 94(2); 1958 s. 4(8); 1977 s. 12(2)(a); 1984 s. 9(2). |
+| (4)(5) | 1948 s. 94(3)(4). |
+| (6) | 1948 s. 94(5), 1968 ss. 10(5), 15(4). |
+| 97 | 1948 s. 101; 1968 ss. 10(5), 15(4). |
+| 98 | 1948 ss. 5(1), 6(1)(2), 8A(1), 9(1), 10(1); 1984 s. 1. |
+| 99—102 |  |
+| Sch. 1 |  |
+| paras. 1 to 5 | 1948 Sch. 1 paras. 1 to 5. |
+| 6 and 7 | 1948 Sch. 1 para. 8. |
+| 8 | 1948 Sch. 1 para. 9. |
+| 9 | 1948 Sch. 1 para. 10; 1976 s. 17. |
+| Sch. 2 |  |
+| para. 1(1) to (3) | 1948 s. 8(3) to (5); 1984 s. 1. |
+| 2(1) | 1948 s. 8(6); 1984 s. 1. |
+| (2) to (4) | 1948 s. 8A(3) to (5); 1984 s. 1. |
+| 3 | 1948 s. 8(7); 1984 s. 1. |
+| 4(1) | 1948 s. 8(8); 1984 s. 1. |
+| (2) | 1948 s. 8(12); 1984 s. 1. |
+| 5(1) | 1948 s. 8(9); 1984 s. 1. |
+| (2) | 1948 s. 8(10); 1984 s. 1. |
+| 6 | 1948 s. 8(11); 1984 s. 1. |
+| Sch. 3. |  |
+| Pt. I |  |
+| Case A | 1977 s. 2(3) Case I; 1984 ss. 6(6), 11(2). |
+| Case B | 1977 s. 2(3) Case B. |
+| Case C | 1977 s. 2(3) Case C; 1984 s. 6(3). |
+| Case D | 1977 s. 2(3) Case D. |
+| Case E | 1977 s. 2(3) Case E. |
+| Case F | 1977 s. 2(3) Case F; 1984 Sch. 3 para. 37. |
+| Case G | 1977 s. 2(3) Case G; 1984 s. 6(5)(a). |
+| Case H | 1977 s. 2(3) Case H. |
+| Pt. II |  |
+| para. 1 | 1977 s. 2(3) Case I; 1984 s. 6(6). |
+| 2 to 7 | 1977 Sch. 1A paras. 1 to 6; 1984 Sch. 3 para. 43; Housing (Consequential Provisions) Act 1985 (c. 71) Sch. 2 para. 34. |
+| 8 | 1977 s. 2(3A); 1984 s. 6(7). |
+| 9(1) | 1977 s. 2(4). |
+| (2) | 1977 s. 2(4A); 1984 s. 6(8). |
+| 10(1) | 1977 s. 2(3) Case D, (4B); 1984 s. 6(4)(8). |
+| (2) | 1977 s. 2(6). |
+| 11(1) | 1977 s. 2(5). |
+| (2) | 1977 s. 2(48); 1984 s. 6(8). |
+| 12 | 1977 s. 2(3) Case G; 1984 s. 6(5)(b). |
+| Sch. 4 | 1977 s. 5(1); 1984 Sch. 3 para. 38. |
+| Sch. 5 |  |
+| para. 1 | 1977 s. 11(10). |
+| para. 2 | 1977 s. 11(1), (2). |
+| 3 | 1977 s. 11(3), (4); 1984 Sch. 3 para. 41. |
+| 4 | 1977 s. 11(5). |
+| 5 | 1977 s. 11(6). |
+| 6 | 1977 s. 11(7), (8). |
+| Sch. 6 |  |
+| Pt. I. |  |
+| 1 | 1976 Sch. 3A para. 1; 1984 Sch. 1 para. 3, Sch. 2 para. 1(4). |
+| 2 | 1976 s. 18(3); 1984 Sch. 2 para. 1(3). |
+| 3 | 1976 s. 18(3A); 1984 s. 3(3), Sch. 2 para. 1(4). |
+| 4 | 1976 s. 18(3B); 1984 s. 3(3); Sch. 2 para. 1(4). |
+| 5(1) | 1976 s. 18(6); 1984 s. 3(4); Sch. 2 para. 1(5). |
+| (2) | 1976 s. 18(6); Sch. 3A para. 7; 1984 s. 3(4); Sch. 1 para. 8, Sch. 2 paras. 1(5), 9. |
+| (3) | 1976 s. 18(6A); 1984 s. 3(4), Sch. 2 para. 1(5). |
+| (4)(5) | 1976 s. 18(6B); 1984 s. 3(4), Sch. 2 para. 1(5). |
+| 6 | 1976 Sch. 3A para. 2; 1984 Sch. 1 para. 8; Sch. 2 para. 1(4). |
+| 7 | 1976 Sch. 3A para. 4(1) to (3); 1984 Sch. 1 para. 8; Sch. 2 para. 1(4). |
+| 8(1) | 1976 Sch. 3A para. 3; 1984 Sch. 1 para. 8. |
+| (2) | 1976 Sch. 3A para. 4(4); 1984 Sch. 1 para. 8. |
+| 9 | 1976 Sch. 3A para. 5; 1984 Sch. 1 para. 8; Sch. 2 para. 1(4). |
+| 10 | 1976 Sch. 3A para. 6; 1984 Sch. 1 para. 8; Sch. 2 para. 1(4). |
+| Pt. II | 1984 Sch. 2 para. 1(3) to (6). |
+| Sch. 7 |  |
+| Pt. I |  |
+| para. 1 | 1948 Sch. 3 Pt. I para. 1. |
+| 2 | 1948 Sch. 3 Pt. I para. 2. |
+| 3 to 7 | 1948 Sch. 3 Pt. I paras. 3 to 7. |
+| 8 | 1948 Sch. 3 Pt. I para. 7A; 1984 Sch. 3 para. 25(1)(b). |
+| Pt. II |  |
+| para. 9 | 1948 Sch. 3 Pt. II para. 8. |
+| 10 | Housing Act 1985 (c. 68) s. 231(2). |
+| 11 | 1948 Sch. 3 Pt. II para. 8A; 1984 Sch. 3 para. 25(2)(a). |
+| 12 to 15 | 1948 Sch. 3 Pt. II paras. 9 to 12. |
+| 16 | 1948 Sch. 3 Pt. II para. 13; 1984 Sch. 3 para. 25(2)(b). |
+| 17 to 24 | 1948 Sch. 3 Pt. II paras. 14 to 21. |
+| 25 | 1948 Sch. 3 Pt. II para. 22; 1984 Sch. 3 para. 25(2)(c). |
+| 26 | 1948 Sch. 3 Pt. II para. 23. |
+| 27 and 28 | 1948 Sch. 3 Pt. II paras. 24, 25; 1984 Sch. 3 para. 25(2)(d). |
+| Sch. 8 |  |
+| Pt. I |  |
+| para. 1 to 3 | 1948 Sch. 4 Pt. I paras. 1, 2, 4. |
+| 4 to 6 | 1948 Sch. 4 Pt. I paras. 5 to 7; S.I. 1978/742 Sch. para. 1. |
+| Pt. II |  |
+| para. 7 | 1948 Sch. 4 Pt. II para. 8. |
+| 8 | 1948 Sch. 4 Pt. II para. 9; 1984 Sch. 3 para. 26. |
+| 9 | 1948 Sch. 4 Pt. II para. 10. |
+| 10 | 1948 Sch. 4 Pt. II para. 11; S.I. 1951/2168 art. 3(1); S.I. 1985/1947 art. 3(2). |
+| 11 | 1948 Sch. 4 Pt. II para. 12; S.I. 1978/742 Sch. para. 2; S.I. 1985/1947 art. 3(3). |
+| Sch. 9 |  |
+| Pt. I |  |
+| para. 1(1) | 1948 s. 36(1). |
+| (2) | 1948 s. 35(2). |
+| (3) | 1948 s. 36(1). |
+| (4) | 1948 s. 36(2). |
+| (5) | 1948 s. 43(3). |
+| 2(1) | 1948 s. 37; 1984 Sch. 3 para. 10. |
+| (2) | 1948 s. 43(1). |
+| 3 | 1948 s. 38. |
+| 4(1)(2) | 1948 s. 39(1). |
+| (3) | 1948 s. 39(2). |
+| 5(1) | 1948 s. 44. |
+| (2) | 1948 s. 45. |
+| Pt. II |  |
+| paras. 1 to 15 | 1948 Sch. 2 Pt. I paras. 1, 2, 4 to 11, 13 to 17. |
+| 16 | 1948 Sch. 2 Pt. II. |
+| Sch. 10 |  |
+| paras. 1 to 5 | 1948 Sch. 5 paras. 1 to 5. |
+| Sch. 11 |  |
+| para. 1(1) | 1948 Sch. 6 para. 1(1); 1984 s. 8(1)(2). |
+| (2) | 1984 s. 8(3)(4). |
+| (3) | 1948 Sch. 6 para. 1(1A); 1984 s. 8(2), Sch. 3 para. 28(2). |
+| (4) | 1948 Sch. 6 para. 1(2); 1984 s. 8(2). |
+| (5) | 1948 Sch. 6 para. 1(3); 1958 Sch. 1 Pt. I para. 20. |
+| 2 | 1948 Sch. 6 para. 2. |
+| 3 | 1948 Sch. 6 para. 2A; 1984 Sch. 3 para. 28(3). |
+| 4 | 1948 Sch. 6 para. 3; 1984 Sch. 3 para. 28(4). |
+| 5 | 1948 Sch. 6 para. 4. |
+| 6 | 1948 Sch. 6 para. 5; 1984 s. 8(2), Sch. 3 para. 28(5). |
+| 7 | 1948 Sch. 6 para. 6; 1984 Sch. 3 para. 28(6). |
+| 8 | 1948 Sch. 6 para. 7. |
+| 9 | 1948 Sch. 6 para. 8. |
+| 10 | 1948 Sch. 6 para. 9. |
+| 11(1) | 1948 Sch. 6 para. 10(1)(2). |
+| (2)(3) | 1948 Sch. 6 para. 10(1). |
+| (4) | 1948 Sch. 6 para. 10(3). |
+| 12(1)(2) | 1948 Sch. 6 para. 11(1). |
+| (3)(4) | 1948 Sch. 6 para. 11(2). |
+| 13 | 1948 Sch. 6 para. 12. |
+| 14(1) | 1948 Sch. 6 para. 13; 1963 s. 20. |
+| (2) | 1948 Sch. 6 para. 13; 1984 s. 8(2). |
+| 15 | 1948 Sch. 6 para. 14. |
+| 16 | 1948 Sch. 6 para. 16. |
+| 17 | 1948 Sch. 6 para. 17. |
+| 18 | 1948 Sch. 6 para. 18. |
+| 19 | 1948 Sch. 6 para. 19. |
+| 20 | 1948 Sch. 6 para. 20. |
+| 21 | 1948 Sch. 6 para. 20A; 1984 Sch. 3 para. 28(7). |
+| 22 | 1948 Sch. 6 para. 20B; 1984 Sch. 3 para. 28(7). |
+| 23 | 1948 Sch. 6 para. 21. |
+| 24 | 1948 Sch. 6 para. 22; 1984 Sch. 3 para. 28(8). |
+| 25 | 1948 Sch. 6 para. 23. |
+| 26 | 1948 Sch. 6 para. 24; 1958 Sch. 1 Pt. I para. 21(1). |
+| 27(1) | 1948 Sch. 6 para. 25(1). |
+| (2) | 1948 Sch. 6 para. 25(2); 1972 s. 15(1). |
+| 28(1) to (4) | 1948 Sch. 6 para. 25A(1) to (4); 1984 Sch. 3 para. 28(9). |
+| 29 | 1948 Sch. 6 para. 26. |
+| 30 | 1958 Sch. I Pt. I para. 21(2). |
+| 31 | 1948 Sch. 6 para. 29; 1984 s. 8(2), Sch. 3 para. 28(10). |
+| 32 | 1984 s. 8(5). |
+| Sch. 12 |  |
+| para. 1 | 1948 s. 2(1). |
+| 2 | 1948 s. 3(3). |
+| 3 | 1948 ss. 13(5)(a), 67(1)(b); 1984 Sch. 3 para. 16. |
+| 4 | 1977 s. 1(2)(d), (3), (3A), (4); Transport Act 1981 (c. 56) s. 5; London Regional Transport Act 1984 (c. 32) Sch. 6 para. 13. |
+| 5 | 1948 s. 47(1)(a). |
+| 6 | 1948 s. 47(1)(c), (2); 1977 Sch. 1 para. 1. |
+| 7 | S.I. 1951/2168 art. 4. |
+| 8 | 1948 ss. 56(4), 63(2), 64, 65(2); S.I. 1951/2168 art. 4. |
+| 9 | Saving. |
+| 10 | 1948 s. 67(1)(2)(3). |
+| Sch. 13 |  |
+| para. 1 |  |
+| 2 | 1948 s. 96(2). |
+| 3—5 |  |
+| 6, 7 | 1984 Sch. 5 para. 5. |
+| 8 |  |
+| 9 | 1984 Sch. 5 para. 7. |
+| 10 | 1984 Sch. 5 para. 8. |
+| 11, 12 |  |
+| 13 | 1984 Sch. 5 para. 10. |
+| 14 | Insolvency Act 1985 (c. 65) Sch. 9 para. 11. |
+| 15 | 1984 Sch. 5 para. 14. |
+| 16 | 1984 Sch. 5 para. 4(d). |
+| Sch. 14 |  |
+| para. 12 | 1948 Sch. 7 para. 2. |
+| 44 | 1968 s. 10(8). |
+| 53(4) | 1968 s. 10(3)(8). |
+| remainder |  |
+| Sch. 15 |  |
+
+---
+
+[^M1]: 1947 c. 48.
+[^M2]: 1925 c. 20.
+[^F1]: S. 2(5) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 2
+[^M3]: 1925 c. 20.
+[^F2]: S. 6(1A) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 3(2)
+[^F3]: Words in s. 6(2) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 3(3)(a)
+[^F4]: Words in s. 6(2)(b) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 3(3)(b)
+[^F5]: Words in s. 6(3) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 3(4)(a)
+[^F6]: Words in s. 6(3) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 3(4)(b)
+[^F7]: Words in s. 6(4) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 3(5)(a)
+[^F8]: Words in s. 6(4) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 3(5)(b)
+[^F9]: Words in s. 6(6) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 3(6)
+[^F10]: Words in s. 7(2) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 4
+[^F11]: Words in s. 8 inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 5(7)
+[^F12]: S. 8(2A) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 5(2)
+[^F13]: Words in s. 8(3) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 5(3)(a)
+[^F14]: Words in s. 8(3) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 5(3)(b)
+[^F15]: Words in s. 8(3) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 5(3)(c)
+[^F16]: Words in s. 8(4) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 5(4)(a)
+[^F17]: Words in s. 8(4) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 5(4)(b)
+[^F18]: Words in s. 8(5) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 5(5)(b)
+[^F19]: Words in s. 8(5) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 5(5)(a)
+[^F20]: Words in s. 8(6) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 5(6)(a)
+[^F21]: Words in s. 8(6) substituted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 5(6)(b)
+[^F22]: Words in s. 8(6) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 5(6)(c)
+[^F23]: S. 9(1A) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 6(2)
+[^F24]: Words in s. 9(2) substituted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 6(3)
+[^F25]: S. 9(3A) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 6(4)
+[^F26]: Words in s. 9(4) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 6(5)
+[^F27]: S. 10(6A) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 7
+[^F28]: Words in s. 12 inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 8(5)
+[^F29]: Words in s. 12(1) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 2(2)
+[^F30]: S. 12(1A) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 2(3)
+[^F31]: Words in s. 12(2) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 8(3)(a)
+[^F32]: Words in s. 12(2) substituted (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 3 (with art. 10)
+[^F33]: Words in s. 12(2) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 2(4)
+[^F34]: Words in s. 12(3) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 2(5)(a)
+[^F35]: Words in s. 12(3) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 2(5)(b)
+[^F36]: Words in s. 12(3)(a) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 2(5)(c)
+[^F37]: Words in s. 12(3)(b) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 4
+[^F38]: Words in s. 12(4) omitted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by virtue of Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 2(6)(a)
+[^F39]: Words in s. 12(4) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 8(4)(a)
+[^F40]: Words in s. 12(4) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 2(6)(b)
+[^F41]: Words in s. 12(4) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 2(6)(c)
+[^F42]: Words in s. 12(4) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 2(6)(d)
+[^M4]: 1956 c. 49.
+[^M5]: 1985 c. 68.
+[^M6]: 1974 c. 44.
+[^F43]: S. 13(7A) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 9
+[^F44]: S. 14(2A) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 10(2)
+[^F45]: Words in s. 14(3) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 10(3)(a)
+[^F46]: Words in s. 14(3) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 10(3)(b)
+[^F47]: Words in s. 14(3) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 10(3)(c)
+[^F48]: Words in s. 14(4) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 10(4)(a)
+[^F49]: Words in s. 14(4) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 10(4)(b)
+[^F50]: Words in s. 15(6) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 11(2)
+[^F51]: S. 15(6A)(6B) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 11(3)
+[^F52]: Ss. 16-19 repealed (6.4.2014) by Tribunals, Courts and Enforcement Act 2007 (c. 15), s. 148, Sch. 14 para. 42, Sch. 23 Pt. 4 (with s. 89); S.I. 2014/768, art. 2(1)(b)
+[^F53]: S. 19A inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 7
+[^F54]: Words in s. 19A(7) substituted (15.7.2024) by Agriculture (Wales) Act 2023 (asc 4), ss. 24(2)(a), 56(4); S.I. 2024/789, art. 2
+[^F55]: Word in s. 19A(7) omitted (15.7.2024) by virtue of Agriculture (Wales) Act 2023 (asc 4), ss. 24(2)(b), 56(4); S.I. 2024/789, art. 2
+[^F56]: Words in s. 19A(7) inserted (15.7.2024) by Agriculture (Wales) Act 2023 (asc 4), ss. 24(2)(c), 56(4); S.I. 2024/789, art. 2
+[^F57]: Words in s. 19A(7) substituted (1.1.2024) by The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424), reg. 1(2), Sch. para. 19
+[^F58]: S. 20(4A) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 12(2)
+[^F59]: S. 20(6) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 12(3)
+[^F60]: Words in s. 22(2) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 5(2)
+[^F61]: S. 22(2A) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 5(3)
+[^F62]: Words in s. 22(4) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 5(4)(a)
+[^F63]: Words in s. 22(4) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 5(4)(b)
+[^F64]: Words in s. 22(5) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 5(5)(a)
+[^F65]: Words in s. 22(5) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 5(5)(b)
+[^F66]: S. 22(6) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 5(6)
+[^F67]: Words in s. 24 repealed (6.4.2014) by Tribunals, Courts and Enforcement Act 2007 (c. 15), s. 148, Sch. 14 para. 43, 23 Pt. 4 (with s. 89); S.I. 2014/768, art. 2(1)(b)
+[^M7]: 1925 c. 20.
+[^F68]: Words in s. 25(3) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 13
+[^F69]: Words in s. 27(7) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 204 (with Sch. 3)
+[^M8]: 1970 c. 40.
+[^F70]: S. 33(2A) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 14(2)
+[^F71]: Words in s. 33(3) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 14(3)(a)
+[^F72]: Words in s. 33(3) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 14(3)(b)
+[^F73]: S. 34(3) inserted (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 4(1) (with art. 10)
+[^F74]: 1995 c.8.
+[^F75]: Words in s. 35(2) omitted (11.11.2020 for specified purposes, 1.9.2024 in so far as not already in force) by virtue of Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(2)(c)(3)(a), Sch. 3 para. 10; S.I. 2021/597, reg. 2(a) (with reg. 3); S.I. 2024/788, reg. 2(a) (with reg. 3) (with transitional provisions in S.I. 2024/798, regs. 1(2)(b), 6(2))
+[^F76]: S. 35(2): words in definition of "close relative" substituted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(2), Sch. 8 para. 36(2); S.I. 2005/3175, {art. 2(1), Sch. 1}
+[^F77]: S. 35(2): words in definition of "close relative" inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(2), Sch. 8 para. 36(3); S.I. 2005/3175, {art. 2(1), Sch. 1}
+[^F78]: S. 35(3) inserted (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 4(2) (with art. 10)
+[^F79]: Words in s. 36(3) omitted (11.11.2020 for specified purposes, 1.9.2024 in so far as not already in force) by virtue of Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(2)(c)(3)(a), Sch. 3 para. 11(2)(a); S.I. 2021/597, reg. 2(a) (with reg. 3); S.I. 2024/788, reg. 2(a) (with reg. 3) (with transitional provisions in S.I. 2024/798, regs. 1(2)(b), 6(2))
+[^F80]: Words in s. 36(3) substituted (11.11.2020 for specified purposes, 1.9.2024 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(2)(c)(3)(a), Sch. 3 para. 11(2)(b); S.I. 2021/597, reg. 2(a) (with reg. 3); S.I. 2024/788, reg. 2(a) (with reg. 3) (with transitional provisions in S.I. 2024/798, regs. 1(2)(b), 6(2))
+[^F81]: S. 36(3)(b) and word omitted (11.11.2020 for specified purposes, 1.9.2024 in so far as not already in force) by virtue of Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(2)(c)(3)(a), Sch. 3 para. 11(2)(c); S.I. 2021/597, reg. 2(a) (with reg. 3); S.I. 2024/788, reg. 2(a) (with reg. 3) (with transitional provisions in S.I. 2024/798, regs. 1(2)(b), 6(2))
+[^F82]: S. 36(4A) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(2), Sch. 8 para. 37; S.I. 2005/3175, {art. 2(1), Sch. 1}
+[^F83]: S. 36(5) substituted (11.11.2020 for specified purposes, 1.9.2024 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(2)(c)(3)(a), Sch. 3 para. 11(3); S.I. 2021/597, reg. 2(a) (with reg. 3); S.I. 2024/788, reg. 2(a) (with reg. 3) (with transitional provisions in S.I. 2024/798, regs. 1(2)(b), 6(2))
+[^F84]: S. 36(6) inserted (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 5(1) (with art. 10)
+[^M9]: 1976 c. 55.
+[^M10]: 1970 c. 40.
+[^F85]: S. 39(8)(8A) substituted for s. 39(8) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 17 (with transitional provision (17.3.2021) in S.I. 2021/324, regs. 1(1), 2)
+[^F86]: S. 40(5) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 205 (with Sch. 3)
+[^F87]: S. 41(1)(a) omitted (11.11.2020 for specified purposes, 1.9.2024 in so far as not already in force) by virtue of Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(2)(c)(3)(a), Sch. 3 para. 12; S.I. 2021/597, reg. 2(a) (with reg. 3); S.I. 2024/788, reg. 2(a) (with reg. 3) (with transitional provisions in S.I. 2024/798, regs. 1(2)(b), 6(2))
+[^F88]: S. 41(7) inserted (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 5(2) (with art. 10)
+[^F89]: S. 42 substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 206 (with Sch. 3)
+[^F90]: Words in s. 47 inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 15
+[^F91]: Words in s. 48 inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 16(9)
+[^F92]: S. 48(3) substituted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 16(2)
+[^F93]: Words in s. 48(5) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 16(3)(a)(i)
+[^F94]: Words in s. 48(5) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 16(3)(a)(ii)
+[^F95]: Words in s. 48(5)(b) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 16(3)(b)
+[^F96]: Words in s. 48(6) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 16(4)(a)
+[^F97]: Words in s. 48(6) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 16(4)(b)
+[^F98]: Words in s. 48(6) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 16(4)(c)
+[^F99]: Words in s. 48(7) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 16(5)(a)
+[^F100]: Words in s. 48(7) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 16(5)(b)
+[^F101]: Words in s. 48(10) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 16(6)
+[^F102]: Words in s. 48(11) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 16(7)(a)
+[^F103]: Words in s. 48(11) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 16(7)(b)
+[^F104]: Words in s. 48(12) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 16(8)(a)
+[^F105]: Words in s. 48(12) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 16(8)(b)
+[^F106]: S. 49(3): words in definition of "close relative" substituted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(2), Sch. 8 para. 36(2); S.I. 2005/3175, {art. 2(1), Sch. 1}
+[^F107]: S. 49(3): words in definition of "close relative" inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(2), Sch. 8 para. 36(3); S.I. 2005/3175, {art. 2(1), Sch. 1}
+[^F108]: S. 49(4) inserted (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 4(3) (with art. 10)
+[^F109]: Words in s. 50(2) omitted (11.11.2020 for specified purposes, 1.9.2024 in so far as not already in force) by virtue of Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(2)(c)(3)(a), Sch. 3 para. 13(2)(a); S.I. 2021/597, reg. 2(a) (with reg. 3); S.I. 2024/788, reg. 2(a) (with reg. 3) (with transitional provisions in S.I. 2024/798, regs. 1(2)(b), 6(2))
+[^F110]: Words in s. 50(2) substituted (11.11.2020 for specified purposes, 1.9.2024 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(2)(c)(3)(a), Sch. 3 para. 13(2)(b); S.I. 2021/597, reg. 2(a) (with reg. 3); S.I. 2024/788, reg. 2(a) (with reg. 3) (with transitional provisions in S.I. 2024/798, regs. 1(2)(b), 6(2))
+[^F111]: S. 50(2)(b) and word omitted (11.11.2020 for specified purposes, 1.9.2024 in so far as not already in force) by virtue of Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(2)(c)(3)(a), Sch. 3 para. 13(2)(c); S.I. 2021/597, reg. 2(a) (with reg. 3); S.I. 2024/788, reg. 2(a) (with reg. 3) (with transitional provisions in S.I. 2024/798, regs. 1(2)(b), 6(2))
+[^F112]: S. 50(3A) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(2), Sch. 8 para. 38; S.I. 2005/3175, art. 2(1), Sch. 1
+[^F113]: S. 50(4) substituted (11.11.2020 for specified purposes, 1.9.2024 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(2)(c)(3)(a), Sch. 3 para. 13(3); S.I. 2021/597, reg. 2(a) (with reg. 3); S.I. 2024/788, reg. 2(a) (with reg. 3) (with transitional provisions in S.I. 2024/798, regs. 1(2)(b), 6(2))
+[^F114]: S. 50(5) inserted (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 5(3) (with art. 10)
+[^F115]: S. 51(3) omitted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by virtue of Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 19
+[^F116]: S. 53(4) omitted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by virtue of Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 20
+[^F117]: Words in s. 53(6) omitted (11.11.2020 for specified purposes, 1.9.2024 in so far as not already in force) by virtue of Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(2)(c)(3)(a), Sch. 3 para. 18(2); S.I. 2021/597, reg. 2(b) (with reg. 3); S.I. 2024/788, reg. 2(b) (with reg. 3) (with transitional provisions in S.I. 2024/798, regs. 1(2)(b), 6(2))
+[^F118]: S. 53(6A) inserted (11.11.2020 for specified purposes, 1.9.2024 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(2)(c)(3)(a), Sch. 3 para. 18(3); S.I. 2021/597, reg. 2(b) (with reg. 3); S.I. 2024/788, reg. 2(b) (with reg. 3) (with transitional provisions in S.I. 2024/798, regs. 1(2)(b), 6(2))
+[^F119]: S. 53(11) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 207 (with Sch. 3)
+[^F120]: S. 58 omitted (11.11.2020 for specified purposes, 1.9.2024 in so far as not already in force) by virtue of Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(2)(c)(3)(a), Sch. 3 para. 14; S.I. 2021/597, reg. 2(a) (with reg. 3); S.I. 2024/788, reg. 2(a) (with reg. 3) (with transitional provisions in S.I. 2024/798, regs. 1(2)(b), 6(2))
+[^F121]: Words in s. 59(1) omitted (11.11.2020 for specified purposes, 1.9.2024 in so far as not already in force) by virtue of Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(2)(c)(3)(a), Sch. 3 para. 15(2); S.I. 2021/597, reg. 2(a) (with reg. 3); S.I. 2024/788, reg. 2(a) (with reg. 3) (with transitional provisions in S.I. 2024/798, regs. 1(2)(b), 6(2))
+[^F122]: Words in s. 59(2) omitted (11.11.2020 for specified purposes, 1.9.2024 in so far as not already in force) by virtue of Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(2)(c)(3)(a), Sch. 3 para. 15(3); S.I. 2021/597, reg. 2(a) (with reg. 3); S.I. 2024/788, reg. 2(a) (with reg. 3) (with transitional provisions in S.I. 2024/798, regs. 1(2)(b), 6(2))
+[^M11]: 1947 c. 48.
+[^F123]: Words in s. 67(7) inserted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 208 (with Sch. 3)
+[^M12]: 1946 c. 73.
+[^M13]: 1946 c. 73.
+[^M14]: 1985 c. 68.
+[^M15]: 1974 c. 44.
+[^F124]: Words in s. 69(1) inserted (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 6(1) (with arts. 6(8), 10)
+[^F125]: S. 69(1A) inserted (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 6(2) (with arts. 6(8), 10)
+[^M16]: 1948 c. 63.
+[^M17]: 1947 c. 48.
+[^F126]: S. 73 re-numbered as s. 73(1) (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 6(2) (with arts. 6(8), 10)
+[^F127]: Words in s. 73(1) inserted (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 6(4) (with arts. 6(8), 10)
+[^F128]: S. 73(2) inserted (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 6(5) (with arts. 6(8), 10)
+[^F129]: Words in s. 74(2)(b) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 17
+[^M18]: 1925 c. 20.
+[^F130]: Words in s. 75(2) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 18(a)
+[^F131]: Words in s. 75(2) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 18(b)
+[^F132]: Words in s. 75(2) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 18(c)
+[^F133]: Words in s. 75(2) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 18(d)
+[^F134]: S. 80(7A) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 19
+[^F135]: S. 83(1A) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 20(2)
+[^F136]: S. 83(4) substituted for s. 83(4)(5) (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 20(3)
+[^F137]: Words in s. 84(1) repealed (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 7(1), Sch. 2 (with art. 10)
+[^F138]: S. 84(2)-(6) substituted for s. 84(2)-(5) (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 7(2) (with art. 10)
+[^F139]: Words in s. 84(2) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 6(2)
+[^F140]: S. 84(2A) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 6(3)
+[^F141]: Words in s. 84(4) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 6(4)(a)
+[^F142]: Words in s. 84(4) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 6(4)(b)
+[^F143]: S. 84(6)-(8) substituted for s. 84(6) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 6(5)
+[^F144]: S. 84A inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 21
+[^F145]: Words in s. 85(1) substituted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 22
+[^F146]: Words in s. 86(2) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 23(2)(a)
+[^F147]: Words in s. 86(2) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 23(2)(b)
+[^F148]: Words in s. 86(3) substituted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 23(3)(a)
+[^F149]: Words in s. 86(3) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 23(3)(b)
+[^F150]: Words in s. 86(4) substituted (27.2.2007) by Charities Act 2006 (c. 50), s. 79(2), Sch. 8 para. 79; S.I. 2007/309, art. 2, Sch.
+[^M19]: 1948 c. 63.
+[^M20]: 1925 c. 18.
+[^F151]: Words in s. 89(1) repealed (1.1.1997) by 1996 c. 47, s. 25(2), Sch. 4 (with ss. 24(2), 25(4)); S.I. 1996/2974, art. 2.
+[^F152]: S. 89(2) omitted (19.5.2025) by virtue of Charities Act 2022 (c. 6), s. 41(4), Sch. 1 para. 15(2); S.I. 2024/265, reg. 4, Sch. 2 para. 3
+[^F153]: S. 92 repealed (23.4.2014) by The Public Bodies (Abolition of the Committee on Agricultural Valuation) Order 2014 (S.I. 2014/1068), arts. 1(2), 3(1)
+[^M21]: 1978 c. 30.
+[^F154]: Words in s. 94(1) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 21(2)
+[^F155]: Words in s. 94(2) inserted (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 7(3)(a) (with art. 10)
+[^F156]: Words in s. 94(2) repealed (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 7(3)(b), Sch. 2 (with art. 10)
+[^F157]: S. 94(2)(a)(b) substituted for words (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 21(3)
+[^F158]: Words in s. 94(3) substituted (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 7(4) (with art. 10)
+[^F159]: S. 94(3)(a)(b) substituted for words (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 21(4)
+[^F160]: S. 94(4)(a)(b) substituted for words (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 21(5)
+[^M22]: 1817 c. 97.
+[^M23]: 1863 c. 49.
+[^M24]: 1982 c. 47.
+[^M25]: 1947 c. 48.
+[^F161]: Words in s. 96(1) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 56; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F162]: S. 96(1): words in definition of “the Minister” in para. (a) substituted (27.3.2002) by S.I. 2002/794, art. 5(1), Sch. 1 para. 27 (with arts. 5(3), 6)
+[^F163]: Words in s. 96(1) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 24
+[^F164]: Words in s. 96(1) substituted (1.7.2013) by The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036), art. 1, Sch. 1 para. 209 (with Sch. 3)
+[^F165]: Word in s. 96(2)(a) substituted (6.4.2016) by The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481), reg. 1, Sch. 1 para. 18
+[^M26]: S.I. 1951/2168.
+[^M27]: 1978 c. 30.
+[^M28]: 1946 c. 73.
+[^M29]: 1967 c. 22.
+[^M30]: 1968 c. 34.
+[^F166]: Words in Sch. 2 heading inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 25(6)
+[^F167]: Words in Sch. 2 para. 1(3) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 25(2)(a)
+[^F168]: Words in Sch. 2 para. 1(3) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 25(2)(b)
+[^F169]: Words in Sch. 2 para. 2(1) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 25(3)
+[^F170]: Words in Sch. 2 para. 3 inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 25(4)(a)
+[^F171]: Words in Sch. 2 para. 3(a) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 25(4)(b)
+[^F172]: Word in Sch. 2 para. 3(a) omitted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by virtue of Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 8(2)
+[^F173]: Sch. 2 para. 3(aa) inserted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 8(3)
+[^F174]: Word in Sch. 2 para. 4 cross-heading substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 3(2)
+[^F175]: Words in Sch. 2 para. 4(1) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 3(3)(a)
+[^F176]: Words in Sch. 2 para. 4(1) substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 3(3)(b)
+[^F177]: Words in Sch. 2 para. 4(1)(c) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by Deregulation Act 2015 (c. 20), s. 115(2)(e)(3)(a), Sch. 4 para. 25(5)
+[^F178]: Sch. 2 para. 4(2)(d) inserted (21.7.2009) by Finance Act 2009 (c. 5), s. 79(1) (with s. 79(2)(3))
+[^F179]: Sch. 2 para. 7 inserted (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 8 (with art. 10)
+[^M31]: 1970 c. 40.
+[^F180]: Words in Sch. 3 Pt. 1 substituted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(6), Sch. 3 para. 9
+[^M32]: 1977 c. 12.
+[^F181]: Sch. 3 Pt. 1 Case B substituted by Agricultural Holdings (Amendment) Act 1990 (c. 15, SIF 2:3), ss. 1(1)(2), 2
+[^M33]: 1967 c. 22.
+[^M34]: 1977 c. 12.
+[^M35]: 1967 c. 22.
+[^M36]: 1977 c. 42.
+[^F182]: Sch. 3 Pt. II para. 3(c)(d) and the word “or” preceding inserted by Housing Act 1988 (c. 50, SIF 61), s. 140, Sch. 17 para. 69(1)
+[^F183]: Sch. 3 para. 3(1)(c)(d) substituted (1.5.2026 for specified purposes) by Renters’ Rights Act 2025 (c. 26), s. 145(1)(8), Sch. 2 para. 19(a) (with ss. 138, 146(1), Sch. 6 paras. 1, 3, 4, 16, 17); S.I. 2026/421, reg. 2(c)
+[^F184]: Sch. 3 Pt.II para.3(2) added by Housing Act 1988 (c. 50, SIF 61), s. 140, Sch. 17 para. 69(2)
+[^F185]: Sch. 3 para. 3(2) omitted (1.5.2026 for specified purposes) by virtue of Renters’ Rights Act 2025 (c. 26), s. 145(1)(8), Sch. 2 para. 19(b) (with ss. 138, 146(1), Sch. 6 paras. 1, 3, 4, 16, 17); S.I. 2026/421, reg. 2(c)
+[^M37]: 1985 c. 68.
+[^F186]: Sch. 3 Pt. II para. 8(1)(a) repealed (31.10.1994) by 1994 c. 21, s. 67, Sch. 9 para. 35, Sch. 11 Pt. II (with ss. 40(7), 66); S.I. 1994/2553, art. 2.
+[^F187]: Words substituted by Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2), s. 4, Sch. 2 para. 72
+[^F188]: Sch. 3 Pt. II para. 8A inserted by Agricultural Holdings (Amendment) Act 1990 (c. 15, SIF 2:3), ss. 1(1)(3), 2
+[^F189]: Sch. 3 Pt. II para. 9(3) inserted by Water Act 1989 (c. 15, SIF 130), ss. 58(7), 101(1), 141(6), 160(1)(2)(4), 189(4)–(10), 190, 193(1), Sch. 25 para. 75(a), Sch. 26 paras. 3(1)(2), 17, 40(4), 57(6), 58
+[^F190]: Sch. 3 Pt. II para. 9: words substituted (1.12.1991) by Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130), ss. 2(1), 4(2), Sch. 1 para. 43
+[^F191]: Sch. 3 Pt. II paras.10(3), 11(3) inserted by Water Act 1989 (c. 15, SIF 130), ss. 58(7), 101(1), 141(6), 160(1)(2)(4), 189(4)–(10), 190, 193(1), Sch. 25 para. 75(b), Sch. 26 paras. 57(6), 58
+[^F192]: Sch. 3 Pt. II para. 10: words substituted (1.12.1991) by Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130), ss. 2(1), 4(2), Sch. 1 para.43
+[^F193]: Sch. 3 Pt. II paras.10(3), 11(3) inserted by Water Act 1989 (c. 15, SIF 130), ss. 58(7), 101(1), 141(6), 160(1)(2)(4), 189(4)–(10), 190, 193(1), Sch. 25 para. 75(b), Sch. 26 paras. 57(6), 58
+[^F194]: Sch. 3 Pt. II para. 11: words substituted (1.12.1991) by Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130), ss. 2(1), 4(2), Sch. 1 para. 43
+[^F195]: Words in Sch. 4 para. 2 substituted (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 7(5) (with art. 10)
+[^M38]: 1951 c. 65.
+[^M39]: 1977 c. 42.
+[^F196]: Sch. 6 omitted (11.11.2020 for specified purposes, 1.9.2024 in so far as not already in force) by virtue of Agriculture Act 2020 (c. 21), s. 57(1)(b)(c)(2)(c)(3)(a), Sch. 3 para. 16; S.I. 2021/597, reg. 2(a) (with reg. 3); S.I. 2024/788, reg. 2(a) (with reg. 3) (with transitional provisions in S.I. 2024/798, regs. 1(2)(b), 6(2))
+[^F197]: Words in Sch. 6 para. 9 cross-heading inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(2), Sch. 8 para. 39(8); S.I. 2005/3175, art. 2(1), Sch. 1
+[^F198]: Words in Sch. 6 para. 10 cross-heading inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(2), Sch. 8 para. 39(8); S.I. 2005/3175, art. 2(1), Sch. 1
+[^M40]: 1985 c. 68.
+[^M41]: 1974 c. 44.
+[^F199]: Sch. 8 para. 4A inserted (6.4.2016) by The Agricultural Holdings Act 1986 (Variation of Schedule 8) (England) Order 2015 (S.I. 2015/2082), arts. 1, 2(2)
+[^F200]: Sch. 8 para. 4B inserted (1.11.2019) by The Agricultural Holdings Act 1986 (Variation of Schedule 8) (Wales) Order 2019 (S.I. 2019/1404), arts. 1(3), 2(2)
+[^F201]: Sch. 8 para. 5 omitted (1.11.2019) by virtue of The Agricultural Holdings Act 1986 (Variation of Schedule 8) (Wales) Order 2019 (S.I. 2019/1404), arts. 1(3), 2(3)
+[^F202]: Sch. 8 para. 5A inserted (6.4.2016) by The Agricultural Holdings Act 1986 (Variation of Schedule 8) (England) Order 2015 (S.I. 2015/2082), arts. 1, 2(4)
+[^F203]: Sch. 8 para. 5B inserted (1.11.2019) by The Agricultural Holdings Act 1986 (Variation of Schedule 8) (Wales) Order 2019 (S.I. 2019/1404), arts. 1(3), 2(4)
+[^F204]: Sch. 8 para. 6 omitted (1.11.2019) by virtue of The Agricultural Holdings Act 1986 (Variation of Schedule 8) (Wales) Order 2019 (S.I. 2019/1404), arts. 1(3), 2(5)
+[^M42]: 1923 c. 9.
+[^M43]: 1923 c. 9.
+[^F205]: Words in Sch. 9 para. 5(1) inserted (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 6(6) (with arts. 6(8), 10)
+[^F206]: Sch. 9 para. 5(1A) inserted (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 6(7) (with arts. 6(8), 10)
+[^M44]: 1948 c. 63.
+[^M45]: 1923 c. 9.
+[^F207]: Sch. 11 repealed (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 9(1), Sch. 2 (with art. 10)
+[^F208]: Sch. 11 para. 1(6) added (31.3.1995) by 1993 c. 8, s. 26, Sch. 6, para.45; S.I. 1995/631, art. 2.
+[^M46]: 1984 c. 28.
+[^F209]: Words in Sch. 11 para. 21 substituted (1.10.1992) by Tribunals and Inquiries Act 1992 (c. 53), ss. 18(1), 19(2), Sch. 3 para.18
+[^F210]: Words in Sch. 11 para. 22 substituted (1.11.1996) by 1995 c. 42, s. 4(2); S.I. 1996/2515, art. 2.
+[^M47]: 1962 c. 46.
+[^F211]: Words in Sch. 12 para. 4(2) substituted (15.7.2003) by The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615), Sch. 1 para. 13(2)
+[^M48]: 1969 c. 35.
+[^M49]: 1947 c. 49.
+[^M50]: 1921 c. 55.
+[^F212]: Words in Sch. 12 para. 4(3) substituted (15.7.2003) by The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615), Sch. 1 para. 13(3)
+[^F213]: Sch. 12 para. 4(4) substituted (15.7.2003) by The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615), Sch. 1 para. 13(4)
+[^M51]: 1968 c. 73.
+[^F214]: Sch. 12 para. 4(5A)(5B) inserted (2.7.2012) by The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659), art. 1(2), Sch. 3 para. 8 (with arts. 4-6)
+[^M52]: 1923 c. 9.
+[^M53]: 1948 c. 63.
+[^M54]: 1977 c. 12.
+[^M55]: 1948 c. 63.
+[^M56]: 1923 c. 9.
+[^M57]: 1908 c. 28.
+[^M58]: 1923 c. 9.
+[^M59]: 1948 c. 63.
+[^M60]: 1948 c. 63.
+[^F215]: Sch. 13 para. 7 repealed (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 9(2), Sch. 2 (with art. 10)
+[^M61]: 1978 c. 30.
+[^M62]: 1984 c. 41.
+[^M63]: 1976 c. 55.
+[^M64]: 1948 c. 63.
+[^M65]: 1985 c. 65.
+[^F216]: Sch. 13 para. 15 repealed (19.10.2006) by The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805), art. 9(2), Sch. 2 (with art. 10)
+[^M66]: 1908 c. 36.
+[^M67]: 1908 c. 53.
+[^M68]: 1917 c. 55.
+[^M69]: 1919 c. 59.
+[^F217]: Sch. 14 para. 7 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 3
+[^F218]: Sch. 14 para. 8 repealed (5.11.1993) by 1993 c. 50, s. 1(1), Sch. 1 Pt.II
+[^M70]: 1922 c. 51.
+[^M71]: 1925 c. 18.
+[^F219]: Sch. 14 para. 12 repealed (1.9.1995) by 1995 c. 8, ss. 31(4), 41(2) (with s. 37).
+[^F220]: Sch. 14 para. 13 and cross-heading omitted (19.5.2025) by virtue of Charities Act 2022 (c. 6), s. 41(4), Sch. 1 para. 15(3); S.I. 2024/265, reg. 4, Sch. 2 para. 3
+[^M72]: 1927 c. 36.
+[^M73]: 1928 c. 43.
+[^M74]: 1938 c. 34.
+[^M75]: 1947 c. 48.
+[^F221]: Sch. 14 para. 19 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), {Sch. 1 Pt. 2 Group 1}
+[^M76]: 1951 c. 65.
+[^M77]: 1954 c. 56.
+[^M78]: 1956 c. 49.
+[^F222]: Sch. 14 para. 24 repealed (30.11.1991) by Coal Mining Subsidence Act 1991 (c. 45, SIF 86), s. 53(2), Sch.8 (with Sch. 7); S.I. 1991/2508, art.2
+[^F223]: Sch. 14 para. 25 repealed (E.W.) by Housing and Planning Act 1986 (c. 63, SIF 86, 123:1), s. 39(4), Sch. 12 Pt. II
+[^M79]: 1958 c. 69.
+[^M80]: 1977 c. 12.
+[^F224]: Sch. 14 para. 25(8) repealed (S.)(25.9.1991) by Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3), ss. 88(2), 89(2), Sch. 13 Pt. I (with s. 45(3), Sch. 12 paras. 1,3)
+[^M81]: 1984 c. 41.
+[^F225]: Sch. 14 para. 26(11) repealed (S.)(25.9.1991) by Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3), ss. 88(2), 89(2), Sch. 13 Pt. I (with s. 45(3), Sch. 12 paras. 1, 3)
+[^F226]: Sch. 14 para. 33(8) repealed (S.)(25.9.1991) by Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3), ss. 88(2), 89(2), Sch. 13 Pt. I (with s. 45(3), Sch. 12 paras. 1, 3)
+[^M82]: 1959 c. 49.
+[^F227]: Sch. 14 para. 35 repealed (5.11.1993) by 1993 c. 50, s. 1(1), Sch. 1 Pt.II
+[^M83]: 1963 c. 11.
+[^M84]: 1967 c. 22.
+[^M85]: 1967 c. 88.
+[^M86]: 1968 c. 34.
+[^M87]: 1973 c. 26.
+[^F228]: Sch. 14 para. 49 repealed (1.10.1992) by Tribunals and Inquiries Act 1992 (c. 53), ss. 18(2), 19(2), Sch. 4 Pt. I
+[^M88]: 1971 c. 78.
+[^M89]: 1972 c. 61.
+[^M90]: 1973 c. 26.
+[^M91]: 1977 c. 12.
+[^M92]: 1976 c. 80.
+[^M93]: 1977 c. 42.
+[^M94]: 1977 c. 43.
+[^M95]: 1984 c. 38.
+[^M96]: 1985 c. 68.
+[^M97]: 1985 c. 70.

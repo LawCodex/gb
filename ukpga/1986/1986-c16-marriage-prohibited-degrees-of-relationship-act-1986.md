@@ -1,0 +1,337 @@
+---
+title: "Marriage (Prohibited Degrees of Relationship) Act 1986"
+identifier: "ukpga/1986/16"
+citation: "1986 c. 16"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S"
+date: 1986-05-20
+last_amended: 2009-10-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1986/16"
+source_modified: 2015-08-18
+retrieved: 2026-10-11
+---
+
+# Marriage (Prohibited Degrees of Relationship) Act 1986
+
+**1986 c. 16**
+
+An Act to make further provision with regard to the marriage of persons related by affinity.
+
+[20th May 1986]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1 Marriage between certain persons related by affinity not to be void.
+
+(1) A marriage solemnized after the commencement of this Act between a man and a woman who is the daughter or grand-daughter of a former spouse of his (whether the former spouse is living or not) or who is the former spouse of his father or grandfather (whether his father or grandfather is living or not) shall not be void by reason only of that relationship if both the parties have attained the age of twenty-one at the time of the marriage and the younger party has not at any time before attaining the age of eighteen been a child of the family in relation to the other party.
+
+(2) A marriage solemnized after the commencement of this Act between a man and a woman who is the grandmother of a former spouse of his (whether the former spouse is living or not) or is a former spouse of his grandson (whether his grandson is living or not) shall not be void by reason only of that relationship.
+
+[^F1]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F1]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In this section “child of the family” in relation to any person, means a child who has lived in the same household as that person and been treated by that person as a child of his family.
+
+(6) The [^M1]Marriage Act 1949 shall have effect subject to the amendments specified in the Schedule to this Act, being amendments consequential on the preceding provisions of this section.
+
+(7) Where, apart from this Act, any matter affecting the validity of a marriage would fall to be determined (in accordance with the rules of private international law) by reference to the law of a country outside England and Wales nothing in this Act shall preclude the determination of that matter in accordance with that law.
+
+(8) Nothing in this section shall affect any marriage solemnized before the commencement of this Act.
+
+## 2 Marriage between certain persons related by affinity—Scotland.
+
+Schedule 2 (which amends the [^M2]Marriage (Scotland) Act 1977 so as to permit—
+
+(a) the marriage of a man and a woman who is the grandmother of a former spouse of his or is a former spouse of his grandson;
+
+(b) the marriage of a woman and a man who is the grandfather of a former spouse of hers or is a former spouse of her grand-daughter; and
+
+(c) under certain conditions, the marriage of persons related in certain other degrees of affinity)
+
+shall have effect.
+
+## 3 Marriage according to rites of Church of England or the Church in Wales.
+
+In the [^M3]Marriage Act 1949 after section 5 there shall be inserted the following section—
+
+> **5A Marriages between certain persons related by affinity.**
+>
+> No clergyman shall be obliged—
+>
+> (a) to solemnize a marriage which, apart from the Marriage (Prohibited Degrees of Relationship) Act 1986, would have been void by reason of the relationship of the persons to be married; or
+>
+> (b) to permit such a marriage to be solemnized in the church or chapel of which he is the minister.
+
+## 4 Amendment of s. 3 of Perjury Act 1911.
+
+In section 3(1) of the [^M4]Perjury Act 1911 (false statements relating to marriage) after paragraph (c) there shall be inserted the words
+
+> or
+>
+> (d) with respect to a declaration made under section 16(1A) or 27B(2) of the Marriage Act 1949—
+>
+> (i) enters a caveat under subsection (2) of the said section 16, or
+>
+> (ii) makes a statement mentioned in subsection (4) of the said section 27B
+>
+> which he knows to be false in a material particular,
+
+.
+
+## 5 Amendment of Schedule 1 to [[^F2]Senior Courts Act 1981].
+
+In Schedule 1 to the [^M5][[^F2]Senior Courts Act 1981] in paragraph 3(c) (assignment of business to the Family Division) after the words “marriage of a minor” there shall be inserted the words “or for a declaration under section 27B(5) of the Marriage Act 1949.”
+
+## 6 Short title, citation, commencement and extent.
+
+(1) This Act may be cited as the [^M6]Marriage (Prohibited Degrees of Relationship) Act 1986.
+
+(2) This Act so far as it extends to England and Wales may be cited with the Marriage Acts 1949 to 1983 and the Marriage (Wales) Act 1986 as the Marriage Acts 1949 to 1986.
+
+(3) This Act so far as it relates to the [^M7]Marriage (Scotland) Act 1977 may be cited with that Act as the Marriage (Scotland) Acts 1977 and 1986.
+
+(4) In section 11(a) of the [^M8]Matrimonial Causes Act 1973 for the words “Marriage Acts 1949 to 1984” there shall be substituted the words “Marriage Acts 1949 to 1986.”
+
+(5) This Act shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint and different days may be so appointed for different provisions.
+
+(6) Section 2 and Schedule 2 shall extend to Scotland only, but save as aforesaid this Act shall not extend to Scotland or to Northern Ireland.
+
+## SCHEDULE 1 — Amendments of Marriage Act 1949
+
+*Section 1(4).*
+
+**1** The [^M9]Marriage Act 1949 shall have effect subject to the following amendments.
+
+**2** In section 1 (prohibited degrees) after subsection (1) there shall be inserted the following subsections—
+
+> (2) Subject to subsection (3) of this section, a marriage solemnized between a man and any of the persons mentioned in the first column of Part II of the First Schedule to this Act, or between a women and any of the persons mentioned in the second column of the said part II, shall be void.
+>
+> (3) Any such marriage as is mentioned in subsection (2) of this section shall not be void by reason only of affinity if both the parties to the marriage have attained the age of twenty-one at the time of the marriage and the younger party has not at any time before attaining the age of eighteen been a child of the family in relation to the other party.
+>
+> (4) Subject to subsection (5) of this section, a marriage solemnized between a man and any of the persons mentioned in the first column of Part III of the First Schedule to this Act or between a woman and any of the persons mentioned in the second column of the said Part III shall be void.
+>
+> (5) Any such marriage as is mentioned in subsection (4) of this section shall not be void by reason only of affinity if both the parties to the marriage have attained the age of twenty-one at the time of the marriage and the marriage is solemnized—
+>
+> (a) in the case of a marriage between a man and the mother of a former wife of his, after the death of both the former wife and the father of the former wife;
+>
+> (b) in the case of a marriage between a man and the former wife of his son, after the death of both his son and the mother of his son;
+>
+> (c) in the case of a marriage between a woman and the father of a former husband of hers, after the death of both the former husband and the mother of the former husband;
+>
+> (d) in the case of a marriage between a woman and a former husband of her daughter, after the death of both her daughter and the father of her daughter.
+
+**3** In section 5 (marriages according to rites of Church of England) there shall be added at the end the words “except that paragraph (a) of this section shall not apply in relation to the solemnization of any marriage mentioned in subsection (2) of section 1 of this Act.”
+
+**4** In section 16 (common Licences)—
+
+(a) after subsection (1) there shall be inserted the following subsections—
+
+> (1A) A common licence shall not be granted for the solemnization of a marriage mentioned in subsection (2) of section 1 of this Act unless—
+>
+> (a) the person having authority to grant the licence is satisfied by the production of evidence that both the persons to be married have attained the age of twenty-one; and
+>
+> (b) he has received a declaration in writing made by each of those persons specifying their affinal relationship and declaring that the younger of those persons has not at any time before attaining the age of eighteen been a child of the family in relation to the other.
+>
+> (1B) In the case of a marriage mentioned in subsection (4) of section 1 of this Act which by virtue of subsection (5) of that section is valid only if at the time of the marriage both the parties to the marriage have attained the age of twenty-one and the death has taken place of two other persons related to those parties in the manner mentioned in the said subsection (5), a common licence shall not be granted for the solemnization of the marriage unless the person having authority to grant the licence is satisfied by the production of evidence—
+>
+> (a) that both the parties to the marriage have attained the age of twenty-one; and
+>
+> (b) that both those other persons are dead.
+
+;
+
+(b) in subsection (2) at the beginning there shall be inserted the words “Subject to subsection (2A) of this section”; and
+
+(c) after subsection (2) there shall be inserted the following subsections—
+
+> (2A) Where in the case of a marriage mentioned in subsection (2) of section 1 of this Act a caveat is entered under subsection (2) of this section on the ground that the persons to be married have not both attained the age of twenty-one or that one of those persons has at any time before attaining the age of eighteen been a child of the family in relation to the other, then, notwithstanding that the caveat is withdrawn by the person who entered it, no licence shall be issued unless the judge has certified that he has examined into that ground of objection and is satisfied that that ground ought not to obstruct the grant of the licence.
+>
+> (2B) In the case of a marriage mentioned in subsection (2) of section 1 of this Act, one of the persons to be married may apply to the ecclesiastical judge out of whose office the licence is to issue for a declaration that, both those persons having attained the age of twenty-one and the younger of those persons not having at any time before attaining the age of eighteen been a child of the family in relation to the other, there is no impediment of affinity to the solemnization of the marriage; and where any such declaration is obtained the common licence may be granted notwithstanding that no declaration has been made under the said subsection (1A).
+
+**5** After section 27A there shall be inserted the following sections—
+
+> **Provisions relating to section 1(3) marriages.**
+>
+> **27B** (1) This section applies in relation to any marriage mentioned in subsection (2) of section 1 of this Act which is intended to be solemnized on the authority of a certificate of a superintendent registrar.
+>
+> (2) The superintendent registrar shall not enter notice of the marriage in the marriage notice book unless—
+>
+> (a) he is satisfied by the production of evidence that both the persons to be married have attained the age of twenty-one; and
+>
+> (b) he has received a declaration made in the prescribed form by each of those persons, each declaration having been signed and attested in the prescribed manner, specifying their affinal relationship and declaring that the younger of those persons has not at any time before attaining the age of eighteen been a child of the family in relation to the other.
+>
+> (3) The fact that a superintendent registrar has received a declaration under subsection (2) of this section shall be entered in the marriage notice book together with the particulars given in the notice of marriage and any such declaration shall be filed and kept with the records of the office of the superintendent registrar or, where notice of marriage is required to be given to two superintendent registrars, of each of them.
+>
+> (4) Where the superintendent registrar receives from some person other than the persons to be married a written statement signed by that person which alleges that the declaration made under subsection (2) of this section is false in a material particular, the superintendent registrar shall not issue a certificate or licence unless a declaration is obtained from the High Court under subsection (5) of this section.
+>
+> (5) Either of the persons to be married may, whether or not any statement has been received by the superintendent registrar under subsection (4) of this section, apply to the High Court for a declaration that, both those persons having attained the age of twenty-one and the younger of those persons not having at any time before attaining the age of eighteen been a child of the family in relation to the other, there is no impediment of affinity to the solemnization of the marriage; and where such a declaration is obtained the superintendent registrar may enter notice of the marriage in the marriage notice book and may issue a certificate, or certificate and licence, whether or not any declaration has been made under subsection (2) of this section.
+>
+> (6) Section 29 of this Act shall not apply in relation to a marriage to which this section applies, except so far as a caveat against the issue of a certificate or licence for the marriage is entered under that section on a ground other than the relationship of the persons to be married.
+>
+> **Provisions relating to section 1(5) marriages.**
+>
+> **27C** In the case of a marriage mentioned in subsection (4) of section 1 of this Act which by virtue of subsection (5) of that section is valid only if at the time of the marriage both the parties to the marriage have attained the age of twenty-one and the death has taken place of two other persons related to those parties in the manner mentioned in the said subsection (5), the superintendent registrar shall not enter notice of the marriage in the marriage notice book unless satisfied by the production of evidence—
+>
+> (a) that both the parties to the marriage have attained the age of twenty-one, and
+>
+> (b) that both those other persons are dead.
+
+.
+
+**6** In section 39 (notice of marriage given on board Her Majesty’s ships)—
+
+(a) in subsection (2) for the words “excluding section 27A” there shall be substituted the words “excluding sections 27A and 27B”;
+
+(b) in subsection (3) for the words “excluding section 27A” there shall be substituted the words, “excluding sections 27A and 27B”.
+
+**7** In section 78 (interpretation) after the definition of “brother” there shall be inserted—
+
+> “child of the family”, in relation to any person, means a child who has lived in the same household as that person and been treated by that person as a child of his family
+
+.
+
+**8** In the First Schedule—
+
+(a) in Part I—
+
+(i) in the first column the words from “Wife’s mother” to “Daughter’s son’s wife”; and
+
+(ii) in the second column the words from “Husband’s father” to “Daughter’s daughter’s husband” shall cease
+
+to have effect; and
+
+(b) at the end of Part I there shall be added—
+
+> **Part II**
+>
+> **Degrees of affinity referred to in section 1(2) and (3) of this Act**
+>
+> |  |  |
+> |---|---|
+> | Daughter of former wife | Son of former husband |
+> | Former wife of father | Former husband of mother |
+> | Former wife of father’s father | Former husband or father’s mother |
+> | Former wife of mother’s father | Former husband of mother’s mother |
+> | Daughter of son of former wife | Son of son of former husband |
+> | Daughter of daughter of former wife | Son of daughter of former husband |
+>
+> **Part III**
+>
+> **Degrees of affinity referred to in section 1(4) and (5) of this Act**
+>
+> |  |  |
+> |---|---|
+> | Mother of former wife | Father of former husband |
+> | Former wife of son | Former husband of daughter |
+
+## SCHEDULE 2 — Amendments of Marriage (Scotland) Act 1977
+
+*Section 2.*
+
+**1** The Marriage (Scotland) Act 1977 shall be amended as follows.
+
+**2** In section 2 (prohibited degrees for marriage of related persons)—
+
+(a) at the beginning of subsection (1) there shall be inserted the words “Subject to subsections (1A) and (1B) below,”;
+
+(b) after subsection (1) there shall be inserted the following subsections—
+
+> (1A) Subsection (1) above does not apply to a marriage between a man and any woman related to him in a degree specified in column 1 of paragraph 2 of Schedule 1 to this Act, or between a woman and any man related to her in a degree specified in column 2 of that paragraph, if—
+>
+> (a) both parties have attained the age of 21 at the time of the marriage; and
+>
+> (b) the younger party has not at any time before attaining the age of 18 lived in the same household as the other party and been treated by the other party as a child of his family.
+>
+> (1B) Subsection (1) above does not apply to a marriage between a man and any woman related to him in a degee specified in column 1 of paragraph 2A of Schedule 1 to this Act, or between a woman and any man related to her in a degree specified in column 2 of that paragraph, if both parties to the marriage have attained the age of 21 and the marriage is solemnized—
+>
+> (a) in the case of a man marrying the mother of a former wife of his, after the death of both the former wife and the former wife’s father;
+>
+> (b) in the case of a man marrying a former wife of his son, after the death of both his son and his son’s mother;
+>
+> (c) in the case of a woman marrying the father of a former husband of hers, after the death of both the former husband and the former husband’s mother;
+>
+> (d) in the case of a woman marrying a former husband of her daughter, after the death of both her daughter and her daughter’s father.
+
+and
+
+(c) after subsection (4) there shall be inserted the following new subsection—
+
+> (5) Where the parties to an intended marriage are related in a degree specified in paragraph 2 of Schedule 1 to this Act, either party may (whether or not an objection to the marriage has been submitted in accordance with section 5(1) of this Act) apply to the Court of Session for a declarator that the conditions specified in paragraphs (a) and (b) of subsection (1A) above are fulfilled in relation to the intended marriage.
+
+.
+
+**3** In section 3(1) (notice of intention to marry), after paragraph (c) there shall be inserted the following paragraph—
+
+> (d) where he is related to the other party in a degree specified in paragraph 2 of Schedule 1 to this Act, a declaration in the prescribed form stating—
+>
+> (i) the degree of relationship; and
+>
+> (ii) that the younger party has not at any time before attaining the age of 18 lived in the same household as the other party and been treated by the other party as a child of his family.
+
+.
+
+**4** In section 5 (objections to marriage)-
+
+(a) at the beginning of subsection (3) there shall be inserted the words “Subject to subsection (3A) below,”;
+
+(b) after subsection (3) there shall be inserted the following subsection—
+
+> (3A) Where—
+>
+> (a) an objection of which the Registrar General has received notification under subsection (2)(b)(i) above is on the ground that—
+>
+> (i) the parties are related in a degree specified in paragraph 2 of Schedule 1 to this Act; and
+>
+> (ii) the conditions specified in paragraphs (a) and (b) of section 2(1A) of this Act are not satisfied; and
+>
+> (b) an extract decree of declarator that those conditions are satisfied, granted on an application under section 2(5) of this Act, is produced to the Registrar General,
+>
+> the Registrar General shall inform the district registrar that there is no legal impediment to the marriage on that ground.
+
+; and
+
+(c) in subsection (4), for the words “subsection (3) above” there shall be substituted the words “this section”.
+
+**5** In section 6(1) (the Marriage Schedule), after “5(3)(b)” there shall be inserted “or (3A)”.
+
+**6** In section 7(1) (marriage outside Scotland where a party resides in Scotland), for the words “(a) and (b)” there shall be substituted the words “(a), (b) and (d)”.
+
+**7** For paragraph 2 of Schedule 1 (relationships by affinity) there shall be substituted the following paragraphs—
+
+> **2** —*Relationships by affinity referred to in section*2(1A)
+>
+> |  |  |
+> |---|---|
+> | Daughter of former wife; | Son of former husband; |
+> | Former wife of father; | Former husband of mother; |
+> | Former wife of father’s father; | Former husband of father’s mother; |
+> | Former wife of mother’s father; | Former husband of mother’s mother; |
+> | Daughter of son of former wife; | Son of son of former husband; |
+> | Daughter of daughter of former wife; | Son of daughter of former husband. |
+>
+> **2A** —*Relationships by affinity referred to in section* 2(1B)
+>
+> |  |  |
+> |---|---|
+> | Mother of former wife; | Father of former husband; |
+> | Former wife of son; | Former husband of daughter. |
+
+---
+
+[^F1]: S. 1(3)(4) repealed (1.3.2007) by Marriage Act 1949 (Remedial) Order 2007 (S.I. 2007/438), arts. 1(1), 3(b) (with s. 1(2))
+[^M1]: 1949 c. 76.
+[^M2]: 1977 c. 15.
+[^M3]: 1949 c. 76.
+[^M4]: 1911 c. 6.
+[^F2]: Words in Act substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), s. 148(1), Sch. 11 para. 1(2); S.I. 2009/1604, art. 2(d)
+[^M5]: 1981 c. 54.
+[^M6]: 1986 c. 7.
+[^M7]: 1977 c. 15.
+[^M8]: 1973 c. 18.
+[^M9]: 1949 c. 76.

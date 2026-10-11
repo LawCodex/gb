@@ -1,0 +1,52 @@
+---
+title: "Interest on Damages (Scotland) Act 1971"
+identifier: "ukpga/1971/31"
+citation: "1971 c.31"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1971-05-12
+last_amended: 1991-02-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1971/31"
+source_modified: 2011-05-26
+retrieved: 2026-10-11
+---
+
+# Interest on Damages (Scotland) Act 1971
+
+**1971 c.31**
+
+An Act to amend the Interest on Damages (Scotland) Act 1958 by extending the power of the courts to order payment of interest on damages.
+
+[12th May 1971]
+
+## 1 Extension of power of courts to grant interest on damages.
+
+(1) In section 1 of the [^M1]Interest on Damages (Scotland) Act 1958, for subsection (1) there shall be substituted the following subsections—
+
+> (1) Where a court pronounces an interlocutor decerning for payment by any person of a sum of money as damages, the interlocutor may include decree for payment by that person of interest, at such rate or rates as may be specified in the interlocutor, on the whole or any part of that sum for the whole or any part of the period between the date when the right of action arose and the date of the interlocutor.
+>
+> (1A) Where a court pronounces an interlocutor decerning for payment of a sum which consists of or includes damages or solatium in respect of personal injuries sustained by the pursuer or any other person, then (without prejudice to the exercise of the power conferred by subsection (1) of this section in relation to any part of that sum which does not represent such damages or solatium) the court shall exercise that power so as to include in that sum interest on those damages and on that solatium or on such part of each as the court considers appropriate, unless the court is satisfied that there are reasons special to the case why no interest should be given in respect thereof.
+>
+> (1B) For the avoidance of doubt, it is hereby declared that where, in any section in which it is competent for the court to award interest under this Act, a tender is made in the course of the action, the tender shall, unless otherwise stated therein, be in full satisfaction of any claim to interest thereunder by any person in whose favour the tender is made; and in considering in any such action whether an award is equal to or greater than an amount tendered in the action, the court shall take account of the amount of any interest awarded under this Act, or such part of that interest as the court considers appropriate.
+
+(2) In section 2 of the said Act of 1958 there shall be inserted at the end the words “having regard to the provisions of the Interest on Damages (Scotland) Acts 1958 and 1971”.
+
+(3) In section 3 of the said Act of 1958, for subsection (2) there shall be substituted the following subsection—
+
+> (2) In this Act “personal injuries” includes any disease and any impairment of a person’s physical or mental condition.
+
+## 2 Citation and commencement
+
+(1) This Act may be cited as the Interest on Damages (Scotland) Act 1971, and the [^M2]Interest on Damages (Scotland) Act 1958 and this Act may be cited together as the Interest on Damages (Scotland) Acts 1958 and 1971.
+
+(2) This Act shall not apply to any action in which the proof or trial has taken place, or the evidence has otherwise been given, before the passing of this Act.
+
+---
+
+[^M1]: 1958 c. 61.
+[^M2]: 1958 c. 61.

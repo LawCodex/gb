@@ -1,0 +1,1899 @@
+---
+title: "Family Law Reform Act 1987"
+identifier: "ukpga/1987/42"
+citation: "1987 c. 42"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1987-05-15
+last_amended: 2019-12-02
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1987/42"
+source_modified: 2025-05-14
+retrieved: 2026-10-11
+---
+
+# Family Law Reform Act 1987
+
+**1987 c. 42**
+
+An Act to reform the law relating to the consequences of birth outside marriage; to make further provision with respect to the rights and duties of parents and the determination of parentage; and for connected purposes.
+
+[15th May 1987]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — General Principle
+
+### 1 General principle.
+
+(1) In this Act and enactments passed and instruments made after the coming into force of this section, references (however expressed) to any relationship between two persons shall, unless the contrary intention appears, be construed without regard to whether or not the father and mother of either of them, or the father and mother of any person through whom the relationship is deduced, have or had been married to each other at any time.
+
+(2) In this Act and enactments passed after the coming into force of this section, unless the contrary intention appears—
+
+(a) references to a person whose father and mother were married to [[^F1], or civil partners of,] each other at the time of his birth include; and
+
+(b) references to a person whose father and mother were not married to [[^F2], or civil partners of,] each other at the time of his birth do not include,
+
+references to any person to whom subsection (3) below applies, and cognate references shall be construed accordingly.
+
+(3) This subsection applies to any person who—
+
+(a) is treated as legitimate by virtue of section 1 of the [^M1]Legitimacy Act 1976;
+
+(b) is a legitimated person within the meaning of section 10 of that Act;
+
+[[^F3](ba) has a parent by virtue of section 42 of the Human Fertilisation and Embryology Act 2008 (which relates to treatment provided to a woman who is at the time of treatment [[^F4]married to a woman or] a party to a civil partnership or, in certain circumstances, a void [[^F5]marriage or] civil partnership);
+
+(bb) has a parent by virtue of section 43 of that Act (which relates to treatment provided to woman who agrees that second woman to be parent) who—
+
+(i) is [[^F6]married to or] the civil partner of the child's mother at the time of the child's birth, or
+
+(ii) was [[^F7]married to or] the civil partner of the child's mother at any time during the period beginning with the time mentioned in section 43(b) of that Act and ending with the child's birth;]
+
+[[^F8](c) is an adopted person within the meaning of Chapter 4 of Part 1 of the Adoption and Children Act 2002]
+
+(d) is otherwise treated in law as legitimate.
+
+(4) For the purpose of construing references falling within subsection (2) above, the time of a person’s birth shall be taken to include any time during the period beginning with—
+
+(a) the insemination resulting in his birth; or
+
+(b) where there was no such insemination, his conception,
+
+and (in either case) ending with his birth.
+
+[[^F9](4A) Subsection (4B) applies to a person—
+
+(a) who was born before the date on which the Civil Partnership (Opposite-sex Couples) Regulations 2019 came into force;
+
+(b) whose parents formed a civil partnership before that date; and
+
+(c) who does not fall within subsection (3)(ba) or (bb).
+
+(4B) A reference falling within subsection (2)(a) or (b) above does not include or (as the case may be) exclude the person by virtue of that civil partnership.]
+
+[^F10]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F10]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F10]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F10]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part II — Rights and Duties of Parents etc.
+
+### Parental rights and duties: general
+
+#### 2 Construction of enactments relating to parental rights and duties.
+
+(1) In the following enactments, namely—
+
+[^F11]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) section 6 of the Family Law Reform Act [^M2]1969;
+
+(c) the Guardianship of Minors Act [^M3]1971 (in this Act referred to as “the 1971 Act”);
+
+(d) Part I of the Guardianship Act 1973 (in this Act referred to as “the 1973 Act”);
+
+(e) Part II of the Children Act 1975;
+
+(f) the Child Care Act 1980 except Part I and sections 13, 24, 64 and 65;
+
+[^F12]g . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+references (however expressed) to any relationship between two persons shall be construed in accordance with section 1 above.
+
+(2) In subsection (7) of section 1 of the 1973 Act (equality of parental rights) for the words from “or be taken” to the end there shall be substituted the words “ and nothing in subsection (1) above shall be taken as applying in relation to a child whose father and mother were not married to each other at the time of his birth ”.
+
+#### [^F13]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F14] Parental rights and duties where parents not married]
+
+#### [^F15]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F16]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F17]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F18]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 8 Rights where child in care etc.
+
+[^F19]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In section 8 of the [^M4]Child Care Act 1980 (application of Part I to children subject to orders of court), for subsection (2) there shall be substituted the following subsections—
+
+> (2) Subject to subsection (3) below, where an order of any court is in force giving the right to the actual custody of a child to any person, the provisions of this Part of this Act shall have effect in relation to the child as if for references to the parents or guardians of the child or to a parent or guardian of his there were substituted references to that person.
+>
+> (3) Where, in the case of a child whose father and mother were not married to each other at the time of his birth, an order is in force under section 4 of the Family Law Reform Act 1987 by virtue of which actual custody is shared between the mother and the father, both the mother and the father shall be treated as parents of the child for the purposes of the provisions of this Part.
+>
+> (4) In this section “actual custody”, in relation to a child, means actual possession of his person.
+
+(3) In section 13 of that Act (penalty for assisting children in care to run away etc.), for subsection (4) there shall be substituted the following subsection—
+
+> (4) Subsections (2) and (3) of section 8 of this Act shall apply for the purposes of this section as they apply for the purposes of the provisions of Part I of this Act.
+
+(4) In section 24 of that Act (emigration of children), after subsection (4) there shall be inserted the following subsection—
+
+> (4A) Subsection (2) and (3) of section 8 of this Act shall apply for the purposes of the provisions of Part I of this Act.
+
+(5) At the end of section 64 of that Act (transfer of parental rights and duties to voluntary organisations) there shall be added the following subsection—
+
+> (8) Subsections (2) and (3) of section 8 of this Act shall apply for the purposes of this section and section 65 of this Act as they apply for the purposes of the provisions of Part I of this Act.
+
+#### [^F20]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F21] . . .
+
+#### [^F22]10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F23]11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F24] . . .
+
+#### [^F25]12 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F26]13 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F27]14 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F28] . . .
+
+#### [^F29]15 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F30]16 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Supplemental
+
+#### 17 Abolition of affiliation proceedings.
+
+The [^M5]Affiliation Proceedings Act 1957 (the provisions of which are superseded by this Part) shall cease to have effect.
+
+## Part III — Property Rights
+
+### 18 Succession on intestacy.
+
+(1) In Part IV of the Administration of Estates Act 1925 (which deals with the distribution of the estate of an intestate), references (however expressed) to any relationship between two persons shall be construed in accordance with section 1 above.
+
+(2) For the purposes of subsection (1) above and that Part of that Act, a person whose father and mother were not married to [[^F31], or civil partners of,] each other at the time of his birth shall be presumed not to have been survived by his father, or by any person related to him only through his father, unless the contrary is shown.
+
+[[^F32](2ZA) Subsection (2) does not apply if a person is recorded as the intestate's father, or as a parent (other than the mother) of the intestate—
+
+(a) in a register of births kept (or having effect as if kept) under the Births and Deaths Registration Act 1953, or
+
+(b) in a record of a birth included in an index kept under section 30(1) of that Act (indexes relating to certain other registers etc).]
+
+[[^F33](2A) In the case of a person who has a parent by virtue of section 43 of the Human Fertilisation and Embryology Act 2008 (treatment provided to woman who agrees that second woman to be parent), the second and third references in subsection (2) to the person's father are to be read as references to the woman who is a parent of the person by virtue of that section.]
+
+(3) In [[^F34] section 50(1) of the Administration of Estates Act 1925] (which relates to the construction of documents), the reference to Part IV of that Act, or to the foregoing provisions of that Part, shall in relation to an instrument inter vivos made, or a will or codicil coming into operation, after the coming into force of this section (but not in relation to instruments inter vivos made or wills or codicils coming into operation earlier) be construed as including references to this section.
+
+(4) This section does not affect any rights under the intestacy of a person dying before the coming into force of this section.
+
+### 19 Dispositions of property.
+
+(1) In the following dispositions, namely—
+
+(a) dispositions inter vivos made on or after the date on which this section comes into force; and
+
+(b) dispositions by will or codicil where the will or codicil is made on or after that date,
+
+references (whether express or implied) to any relationship between two persons shall be construed in accordance with section 1 above.
+
+(2) It is hereby declared that the use, without more, of the word “heir” or “heirs” or any expression [[^F35]purporting to create] an entailed interest in real or personal property does not show a contrary intention for the purposes of section 1 as applied by subsection (1) above.
+
+(3) In relation to the dispositions mentioned in subsection (1) above, section 33 of the [^M6]Trustee Act 1925 (which specifies the trust implied by a direction that income is to be held on protective trusts for the benefit of any person) shall have effect as if any reference (however expressed) to any relationship between two persons were construed in accordance with section 1 above.
+
+(4) Where under any disposition of real or personal property, any interest in such property is limited (whether subject to any preceding limitation or charge or not) in such a way that it would, apart from this section, devolve (as nearly as the law permits) along with a dignity or title of honour, then—
+
+(a) whether or not the disposition contains an express reference to the dignity or title of honour; and
+
+(b) whether or not the property or some interest in the property may in some event become severed from it,
+
+nothing in this section shall operate to sever the property or any interest in it from the dignity or title, but the property or interest shall devolve in all respects as if this section had not been enacted.
+
+(5) This section is without prejudice to section 42 of the [^M7]Adoption Act 1976 [[^F36] or section 69 of the Adoption and Children Act 2002] (construction of dispositions in cases of adoption).
+
+(6) In this section “disposition” means a disposition, including an oral disposition, of real or personal property whether inter vivos or by will or codicil.
+
+(7) Notwithstanding any rule of law, a disposition made by will or codicil executed before the date on which this section comes into force shall not be treated for the purposes of this section as made on or after that date by reason only that the will or codicil is confirmed by a codicil executed on or after that date.
+
+### 20 No special protection for trustees and personal representatives.
+
+Section 17 of the [^M8]Family Law Reform Act 1969 (which enables trustees and personal representatives to distribute property without having ascertained that no person whose parents were not married to each other at the time of his birth, or who claims through such a person, is or may be entitled to an interest in the property) shall cease to have effect.
+
+### 21 Entitlement to grant of probate etc.
+
+(1) For the purpose of determining the person or persons who would in accordance with probate rules be entitled to a grant of probate or administration in respect of the estate of a deceased person, the deceased shall be presumed, unless the contrary is shown, not to have been survived—
+
+(a) by any person related to him whose father and mother were not married to [[^F37], or civil partners of,] each other at the time of his birth; or
+
+(b) by any person whose relationship with him is deduced through such a person as is mentioned in paragraph (a) above.
+
+(2) In this section “probate rules” means rules of court made under section 127 of the [^M9][[^F38]Senior Courts Act 1981].
+
+(3) This section does not apply in relation to the estate of a person dying before the coming into force of this section.
+
+## Part IV — Determination of Relationships
+
+### 22 Declarations of parentage.
+
+For section 56 of the [^M10]Family Law Act 1986 (declarations of legitimacy or legitimation) there shall be substituted the following section—
+
+> **56 Declarations of parentage, legitimacy or legitimation.**
+>
+> (1) Any person may apply to the court for a declaration—
+>
+> (a) that a person named in the application is or was his parent; or
+>
+> (b) that he is the legitimate child of his parents.
+>
+> (2) Any person may apply to the court for one (or for one or, in the alternative, the other) of the following declarations, that is to say—
+>
+> (a) a declaration that he has become a legitimated person;
+>
+> (b) a declaration that he has not become a legitimated person.
+>
+> (3) A court shall have jurisdiction to entertain an application under this section if, and only if, the applicant—
+>
+> (a) is domiciled in England and Wales on the date of the application; or
+>
+> (b) has been habitually resident in England and Wales throughout the period of one year ending with that date.
+>
+> (4) Where a declaration is made on an application under subsection (1) above, the prescribed officer of the court shall notify the Registrar General, in such a manner and within such period as may be prescribed, of the making of that declaration.
+>
+> (5) In this section “legitimated person” means a person legitimated or recognised as legitimated—
+>
+> (a) under section 2 or 3 of the Legitimacy Act 1976;
+>
+> (b) under section 1 or 8 of the Legitimacy Act 1926; or
+>
+> (c) by a legitimation (whether or not by virtue of the subsequent marriage of his parents) recognised by the law of England and Wales and effected under the law of another country.
+
+### 23 Provisions as to scientific tests.
+
+(1) For subsections (1) and (2) of section 20 of the [^M11]Family Law Reform Act 1969 (power of court to require use of blood tests) there shall be substituted the following subsections—
+
+> (1) In any civil proceedings in which the parentage of any person fails to be determined, the court may, either of its own motion or on an application by any party to the proceedings, give a direction—
+>
+> (a) for the use of scientific tests to ascertain whether such tests show that a party to the proceedings is or is not the father or mother of that person; and
+>
+> (b) for the taking, within a period specified in the direction, of bodily samples from all or any of the following, namely, that person, any party who is alleged to be the father or mother of that person and any other party to the proceedings;
+>
+> and the court may at any time revoke or vary a direction previously given by it under this subsection.
+>
+> (2) The [[^F39]individual] carrying out scientific tests in pursuance of a direction under subsection (1) above shall make to the court a report in which he shall state—
+>
+> (a) the results of the tests;
+>
+> (b) whether any party to whom the report relates is or is not excluded by the results from being the father or mother of the person whose parentage is to be determined; and
+>
+> (c) in relation to any party who is not so excluded, the value, if any, of the results in determining whether that party is the father or mother of that person;
+>
+> and the report shall be received by the court as evidence in the proceedings of the matters stated in it.
+>
+> (2A) Where the proceedings in which the parentage of any person fails to be determined are proceedings on an application under section [[^F40]55A or 56] of the Family Law Act 1986, any reference in subsection (1) or (2) of this section to any party to the proceedings shall include a reference to any person named in the application.
+
+(2) In section 25 of that Act (interpretation of Part III)—
+
+(a) for the definitions of “blood samples” and “blood tests” there shall be substituted the following definition—
+
+> “bodily sample” means a sample of bodily fluid or bodily tissue taken for the purpose of scientific tests;
+
+’; and
+
+(b) after the definition of “excluded” there shall be inserted the following definition—
+
+> “scientific tests” means scientific tests carried out under this Part of this Act and made with the object of ascertaining the inheritable characteristics of bodily fluids or bodily tissue.
+
+## Part V — Registration of Births
+
+### 24 Registration of father where parents not married.
+
+For section 10 of the [^M12]Births and Deaths Registration Act 1953 (in this Act referred to as “the 1953 Act”) there shall be substituted the following section—
+
+> **10 Registration of father where parents not married.**
+>
+> (1) Notwithstanding anything in the foregoing provisions of this Act, in the case of a child whose father and mother were not married to each other at the time of his birth, no person shall as father of the child be required to give information concerning the birth of the child, and the registrar shall not enter in the register the name of any person as father of the child except—
+>
+> (a) at the joint request of the mother and the person stating himself to be the father of the child (in which case that person shall sign the register together with the mother; or
+>
+> (b) at the request of the mother on production of—
+>
+> (i) a declaration in the prescribed form made by the mother stating that that person is the father of the child; and
+>
+> (ii) a statutory declaration made by that person stating himself to be the father of the child; or
+>
+> (c) at the request of that person on production of—
+>
+> (i) a declaration in the prescribed form by that person stating himself to be the father of the child; and
+>
+> (ii) a statutory declaration made by the mother stating that that person is the father of the child; or
+>
+> (d) at the request of the mother or that person (which shall in either case be made in writing) on production of—
+>
+> (i) a certified copy of a relevant order; and
+>
+> (ii) if the child has attained the age of sixteen, the written consent of the child to the registration of that person as his father.
+>
+> (2) Where, in the case of a child whose father and mother were not married to each other at the time of his birth, a person stating himself to be the father of the child makes a request to the registrar in accordance with paragraph (c) or (d) of subsection (1) of this section—
+>
+> (a) he shall be treated as a qualified informant concerning the birth of the child for the purposes of this Act; and
+>
+> (b) the giving of information concerning the birth of the child by that person and the signing of the register by him in the presence of the register shall act as a discharge of any duty of any other qualified informant under section 2 of this Act.
+>
+> (3) In this section and section 10A of this Act references to a child whose father and mother were not married to each other at the time of his birth shall be construed in accordance with section 1 of the Family Law Reform Act 1987 and “relevant order”, in relation to a request under subsection (1)(d) that the name of any person be entered in the register as father of a child, means any of the following orders, namely—
+>
+> (a) an order under section 4 of the said Act of 1987 which gives that person all the parental rights and duties with respect to the child;
+>
+> (b) an order under section 9 of the Guardianship of Minors Act 1971 which gives that person any parental right with respect to the child; and
+>
+> (c) an order under section 11B of that Act which requires that person to make any financial provision for the child.
+
+### 25 Re-registration where parents not married.
+
+For section 10A of the 1953 Act there shall be substituted the following section—
+
+> **10A Re-registration where parents not married.**
+>
+> (1) Where there has been registered under this Act the birth of a child whose father and mother were not married to each other at the time of the birth, but no person has been registered as the father of the child, the registrar shall re-register the birth so as to show a person as the father—
+>
+> (a) at the joint request of the mother and that person; or
+>
+> (b) at the request of the mother on production of—
+>
+> (i) a declaration in the prescribed form made by the mother stating that that person is the father of the child; and
+>
+> (ii) a statutory declaration made by that person stating himself to be the father of the child; or
+>
+> (c) at the request of that person on production of—
+>
+> (i) a declaration in the prescribed form by that person stating himself to be the father of the child; and
+>
+> (ii) a statutory declaration made by the mother stating that that person is the father of the child; or
+>
+> (d) at the request of the mother or that person (which shall in either case be made in writing) on production of—
+>
+> (i) a certified copy of a relevant order; and
+>
+> (ii) if the child has attained the age of sixteen, the written consent of the child to the registration of that person as his father;
+>
+> but no birth shall be re-registered under this section except in the prescribed manner and with the authority of the Registrar General.
+>
+> (2) On the re-registration of a birth under this section—
+>
+> (a) the registrar shall sign the register;
+>
+> (b) in the case of a request under paragraph (a) or (b) of subsection (1) of this section, or a request under paragraph (d) of that subsection made by the mother of the child, the mother shall also sign the register;
+>
+> (c) in the case of a request under paragraph (a) or (c) of that subsection, or a request made under paragraph (d) of that subsection by the person requesting to be registered as the father of the child, that person shall also sign the register; and
+>
+> (d) if the re-registration takes place more than three months after the birth, the superintendent registrar shall also sign the register.
+
+### 26 Re-registration after declaration of parentage.
+
+After section 14 of the 1953 Act there shall be inserted the following section—
+
+> **14A Re-registration after declaration of parentage.**
+>
+> (1) Where, in the case of a person whose birth has been registered in England and Wales—
+>
+> (a) the Registrar General receives, by virtue of section 56(4) of the Family Law Act 1986, a notification of the making of a declaration of parentage in respect of that person; and
+>
+> (b) it appears to him that the birth of that person should be re-registered,
+>
+> he shall authorise the re-registration of that person’s birth, and the re-registration shall be effected in such manner and at such place as may be prescribed.
+>
+> (2) This section shall apply with the prescribed modifications in relation to births at sea of which a return is sent to the Registrar General.
+
+## Part VI — Miscellaneous and Supplemental
+
+### Miscellaneous
+
+#### 27 Artificial insemination.
+
+(1) Where after the coming into force of this section a child is born in England and Wales as the result of the artificial insemination of a woman who—
+
+(a) was at the time of the insemination a party to a marriage (being a marriage which had not at that time been dissolved or annulled); and
+
+(b) was artificially inseminated with the semen of some person other than the other party to that marriage,
+
+then, unless it is proved to the satisfaction of any court by which the matter has to be determined that the other party to that marriage did not consent to the insemination, the child shall be treated in law as the child of the parties to that marriage and shall not be treated as the child of any person other than the parties to that marriage.
+
+(2) Any reference in this section to a marriage includes a reference to a void marriage if at the time of the insemination resulting in the birth of the child both or either of the parties reasonably believed that the marriage was valid; and for the purposes of this section it shall be presumed, unless the contrary is shown, that one of the parties so believed at that time that the marriage was valid.
+
+(3) Nothing in this section shall affect the succession to any dignity or title of honour or render any person capable of succeeding to or transmitting a right to succeed to any such dignity or title.
+
+#### 28 Children of void marriages.
+
+(1) In subsection (1) of section 1 of the [^M13]Legitimacy Act 1976 (legitimacy of children of certain void marriages), for the words “the act of intercourse resulting in the birth” there shall be substituted the words “ the insemination resulting in the birth or, where there was no such insemination, the child’s conception ”.
+
+(2) At the end of that section there shall be added the following subsections—
+
+> (3) It is hereby declared for the avoidance of doubt that subsection (1) above applies notwithstanding that the belief that the marriage was valid was due to a mistake as to law.
+>
+> (4) In relation to a child born after the coming into force of section 28 of the Family Law Reform Act 1987, it shall be presumed for the purposes of subsection (1) above, unless the contrary is shown, that one of the parties to the void marriage reasonably believed at the time of the insemination resulting in the birth or, where there was no such insemination, the child’s conception (or at the time of the celebration of the marriage if later) that the marriage was valid.
+
+#### 29 Evidence of paternity in civil proceedings.
+
+(1) Section 12 of the [^M14]Civil Evidence Act 1968 (which relates to the admissibility in evidence in civil proceedings of the fact that a person has been adjudged to be the father of a child in affiliation proceedings) shall be amended as follows.
+
+(2) For paragraph (b) of subsection (1) there shall be substituted the following paragraph—
+
+> (b) the fact that a person has been found to be the father of a child in relevant proceedings before any court in England and Wales or has been adjudged to be the father of a child in affiliation proceedings before any court in the United Kingdom;
+
+(3) In subsection (2) for the words “to have been adjudged” there shall be substituted the words “ to have been found or adjudged ” and for the words “matrimonial or affiliation proceedings” there shall be substituted the words “ other proceedings ”.
+
+[^F41]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Supplemental
+
+#### 30 Orders applying section 1 to other enactments.
+
+(1) The Lord Chancellor may by order make provision for the construction in accordance with section 1 above of such enactments passed before the coming into force of that section as may be specified in the order.
+
+(2) An order under this section shall so amend the enactments to which it relates as to secure that (so far as practicable) they continue to have the same effect notwithstanding the making of the order.
+
+(3) An order under this section shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 31 Interpretation.
+
+In this Act—
+
+- “the 1953 Act” means the [^M15]Births and Deaths Registration Act 1953;
+- “the 1971 Act” means the [^M16]Guardianship of Minors Act 1971;
+- “the 1973 Act” means the [^M17]Guardianship Act 1973.
+
+#### 32 Text of 1971 Act as amended. (prospective)
+
+The 1971 Act (excluding consequential amendments of other enactments and savings) is set out in Schedule 1 to this Act as it will have effect, subject to sections 33(2) and 34(3) below, when all the amendments and repeals made in it by this Act come into force.
+
+#### 33 Amendments, transitional provisions, savings and repeals.
+
+(1) The enactments mentioned in Schedule 2 to this Act shall have effect subject to the amendments there specified, being minor amendments and amendments consequential on the provisions of this Act.
+
+(2) The transitional provisions and savings in Schedule 3 to this Act shall have effect.
+
+(3) The inclusion in this Act of any express saving or amendment shall not be taken as prejudicing the operation of sections 16 and 17 of the Interpretation Act 1978 (which relate to the effect of repeals).
+
+(4) The enactments mentioned in Schedule 4 to this Act are hereby repealed to the extent specified in the third column of that Schedule.
+
+#### 34 Short title, commencement and extent.
+
+(1) This Act may be cited as the Family Law Reform Act 1987.
+
+(2) This Act shall come into force on such day as the Lord Chancellor may by order made by statutory instrument appoint; and different days may be so appointed for different provisions or different purposes.
+
+(3) Without prejudice to the transitional provisions contained in Schedule 3 to this Act, an order under subsection (2) above may make such further transitional provisions as appear to the Lord Chancellor to be necessary or expedient in connection with the provisions brought into force by the order, including—
+
+(a) such adaptations of the provisions so brought into force; and
+
+(b) such adaptations of any provisions of this Act then in force,
+
+as appear to him necessary or expedient in consequence of the partial operation of this Act.
+
+(4) The following provisions of this Act extend to Scotland and Northern Ireland, namely—
+
+(a) –section 33(1) and paragraphs 12, 13 and 74 of Schedule 2;
+
+(b) –section 33(2) and paragraph 7 of Schedule 3 so far as relating to the operation of the [^M18]Maintenance Orders Act 1950;
+
+(c) –section 33(4) and Schedule 4 so far as relating to that Act and the Interpretation Act 1978; and
+
+(d) –this section.
+
+(5) Subject to subsection (4) above, this Act extends to England and Wales only.
+
+## SCHEDULE 1 — TEXT OF 1971 ACT AS AMENDED
+
+*Section 32.*
+
+ARRANGEMENT OF SECTIONS
+
+### General principles
+
+**1** Principle on which questions relating to custody, upbringing etc. of children are to be decided.
+
+### Appointment, removal and powers of guardians
+
+**3** Rights of surviving parent as to guardianship.
+
+**4** Power of father and mother to appoint testamentary guardians.
+
+**5** Power of court to appoint guardian for child having no parent etc.
+
+**6** Power of High Court to remove or replace guardian.
+
+**7** Disputes between joint guardians.
+
+### Orders for custody and financial relief
+
+**9** Orders for custody on application of either parent.
+
+**10** Orders for custody in guardianship cases.
+
+**11A** Further provisions relating to orders for custody.
+
+**11B** Orders for financial relief on application of either parent.
+
+**11C** Orders for financial relief in guardianship cases.
+
+**11D** Orders for financial relief for persons over eighteen.
+
+**12** Duration of orders for periodical payments.
+
+**12A** Matters to which court is to have regard in making order for financial relief.
+
+**12B** Provisions relating to lump sums.
+
+**12C** Variation etc. of orders for periodical payments.
+
+**12D** Variation of orders for secured periodical payments after death of parent.
+
+**13** Enforcement of orders for custody and maintenance.
+
+**13A** Restriction on removal of child from England and Wales.
+
+**13B** Direction for settlement of instrument by conveyancing counsel.
+
+### Access to children by grandparents
+
+**14A** Access to children by grandparents.
+
+### Jurisdiction and procedure
+
+**15** Courts having jurisdiction under this Act.
+
+**15A** Financial provision for child resident in country outside England and Wales.
+
+**16** Appeals and procedure.
+
+**17** Saving for powers of High Court and other courts.
+
+### Supplementary
+
+**20** Short title, interpretation, extent and commencement.
+
+An Act to consolidate certain enactments relating to the guardianship and custody of minors.
+
+### (Formal enacting words)
+
+### General principles
+
+#### Principle on which questions relating to custody, upbringing etc. of children are to be decided.
+
+**1** (1) Where in any proceedings before any court (whether or not a court as defined in section 15 of this Act)—
+
+(a) the legal custody or upbringing of a child; or
+
+(b) the administration of any property belonging to or held on trust for a child, or the application of the income thereof,
+
+is in question, the court, in deciding that question, shall regard the welfare of the child as the first and paramount consideration, and shall not take into consideration whether from any other point of view the claim of the father in respect of such legal custody, upbringing, administration or application is superior to that of the mother, or the claim of the mother is superior to that of the father.
+
+### Appointment, removal and powers of guardians
+
+#### Rights of surviving parent as to guardianship.
+
+**3** (1) On the death of the father of a child, the mother, if surviving, shall, subject to the provisions of this Act, be guardian of the child either alone or jointly with any guardian appointed by the father; and—
+
+(a) where no guardian has been appointed by the father; or
+
+(b) in the event of the death or refusal to act of the guardian or guardians appointed by the father,
+
+the court may, if it thinks fit, appoint a guardian to act jointly with the mother.
+
+(2) On the death of the mother of a child, the father, if surviving, shall, subject to the provisions of this Act, be guardian of the child either alone or jointly with any guardian appointed by the mother; and—
+
+(a) where no guardian has been appointed by the mother; or
+
+(b) in the event of the death or refusal to act of the guardian or guardians appointed by the mother,
+
+the court may, if it thinks fit, appoint a guardian to act jointly with the father.
+
+(3) Where the father and mother of a child were not married to each other at the time of his birth, this section does not apply unless the father satisfies the requirements of subsection (4) of this section.
+
+(4) The father of a child satisfies the requirements of this subsection if—
+
+(a) an order is in force under section 4 of the Family Law Reform Act 1987 giving him all the parental rights and duties with respect to the child; or
+
+(b) he has a right to custody, legal or actual custody or care and control of the child by virtue of an order made under any other enactment.
+
+#### Power of father and mother to appoint testamentary guardians.
+
+**4** (1) The father of a child may by deed or will appoint any person to be guardian of the child after his death.
+
+(2) The mother of a child may by deed or will appoint any person to be guardian of the child after her death.
+
+(3) Any guardian so appointed shall act jointly with the mother or father, as the case may be, of the child so long as the mother or father remains alive unless the mother or father objects to his so acting.
+
+(4) If the mother or father so objects, or if the guardian so appointed considers that the mother or father is unfit to have the custody of the child, the guardian may apply to the court, and the court may either—
+
+(a) refuse to make any order (in which case the mother or father shall remain sole guardian); or
+
+(b) make an order that the guardian so appointed—
+
+(i) shall act jointly with the mother or father; or
+
+(ii) shall be the sole guardian of the child.
+
+(5) Where the guardians are appointed by both parents, the guardians so appointed shall, after the death of the surviving parent, act jointly.
+
+(6) If under section 3 of this Act a guardian has been appointed by the court to act jointly with a surviving parent, he shall continue to act as guardian after the death of the surviving parent; but, if the surviving parent has appointed a guardian, the guardian appointed by the court shall act jointly with the guardian appointed by the surviving parent.
+
+(7) Where the father and mother of a child were not married to each other at the time of his birth—
+
+(a) subsection (1) of this section does not apply, and subsection (3) of this section does not apply in relation to a guardian appointed by the mother, unless the father satisfies the requirements of section 3(4) of this Act; and
+
+(b) any appointment under subsection (1) of this section shall be of no effect unless the father satisfies those requirements immediately before his death.
+
+#### Power of court to appoint guardian for child having no parent etc.
+
+**5** (1) Where a child has no parent, no guardian of the person, and no other person having parental rights with respect to him, the court, on the application of any person, may, if it thinks fit, appoint the applicant to be the guardian of the child.
+
+(2) A court may entertain an application under this section to appoint a guardian of a child notwithstanding that parental rights and duties with respect to the child are vested in a local authority or a voluntary organisation by virtue of a resolution under section 3 or 64 of the [^M19]Child Care Act 1980.
+
+(3) Where the father and mother of a child were not married to each other at the time of his birth, subsection (1) of this section shall have effect as if for the words “no parent” there were substituted the words “ no mother, no father satisfying the requirements of section 3(4) of this Act ”.
+
+#### Power of High Court to remove or replace guardian.
+
+**6** The High Court may in its discretion on being satisfied that it is for the welfare of the child remove from his office any testamentary guardian or any guardian appointed or acting by virtue of this Act, and may also, if it deems it to be for the welfare of the child, appoint another guardian in place of the guardian so removed.
+
+#### Disputes between joint guardians.
+
+**7** Where two or more persons act as joint guardians of the child and they are unable to agree on any question affecting the welfare of the child, any of them may apply to the court for its direction and the court may make such order regarding the matters in difference that it may think proper.
+
+### Orders for custody and financial relief
+
+#### Orders for custody on application of either parent.
+
+**9** (1) The court may, on the application of either parent of a child, make such order regarding—
+
+(a) the legal custody of the child; and
+
+(b) access to the child by either parent,
+
+as the court thinks fit; and an order under this section may be varied or discharged by a subsequent order made on the application of either parent or, after the death of either parent, on the application of any guardian appointed under this Act.
+
+(2) An order under this section—
+
+(a) shall not give legal custody to a person other than a parent of the child; and
+
+(b) shall not be made at any time when the child is free for adoption by virtue of an order made under section 18 of the [^M20]Adoption Act 1976 or section 18 of the [^M21]Adoption (Scotland) Act 1978.
+
+#### Orders for custody in guardianship cases.
+
+**10** (1) Where the court makes an order under section 4(4) of this Act that a person shall be sole guardian of a child to the exclusion of a parent, the court may make such order regarding—
+
+(a) the legal custody of the child; and
+
+(b) access to the child by the parent,
+
+as the court thinks fit; and the powers conferred by this subsection may be exercised at any time and include power to vary or discharge any order previously made.
+
+(2) The powers of the court under section 7 of this Act to make orders regarding matters in difference between joint guardians shall include, where a parent of the child is one of the joint guardians—
+
+(a) power to make such order regarding—
+
+(i) the legal custody of the child; and
+
+(ii) access to the child by the parent,
+
+as the court thinks fit; and
+
+(b) powers to vary or discharge any order previously made by virtue of this subsection.
+
+(3) An order shall not be made under or by virtue of this section at any time when the child is free for adoption by virtue of an order made under section 18 of the Adoption Act 1976 or section 18 of the Adoption (Scotland) Act 1978.
+
+#### Further provisions relating to orders for custody.
+
+**11A** (1) An order shall not be made under section 9 or 10 of this Act giving the legal custody of a child to more than one person; but where the court makes an order under one of those sections giving legal custody of a child to any person it may order that a parent of the child who is not given the legal custody of the child shall retain all or such as the court may specify of the parental rights and duties comprised in legal custody (other than the right to the actual custody of the child) and shall have those rights and duties jointly with the person who is given the legal custody of the child.
+
+(2) Where the court makes an order under section 9 or 10 of this Act the court may direct that the order, or such provision thereof as the court may specify, shall not have effect until the occurence of an event specified by the court or the expiration of a period so specified; and where the court has directed that the order or any provision thereof shall not have effect until the expiration of a specified period, the court may, at any time before the expiration of that period, direct that the order, or that provision thereof, shall not have effect until the expiration of such further period as the court may specify.
+
+(3) Any order made in respect of a child under section 9 or 10 of this Act shall cease to have effect when the child attains the age of eighteen.
+
+#### Orders for financial relief on application of either parent.
+
+**11B** (1) The court may, on the application of either parent of a child, make—
+
+(a) in the case of proceedings in the High Court or a county court, one or more of the orders mentioned in subsection (2) of this section;
+
+(b) in the case of proceedings in a magistrates’ court, one or both of the orders mentioned in paragraphs (a) and (c) of that subsection;
+
+and an order mentioned in paragraph (a) or (b) of that subsection may be varied or discharged on the application of either parent or, after the death of either parent, on the application of any guardian appointed under this Act.
+
+(2) The orders referred to in subsection (1) of this section are—
+
+(a) an order requiring one parent to make to the other parent for the benefit of the child, or to the child, such periodical payments, and for such terms, as may be specified in the order;
+
+(b) an order requiring one parent to secure to the other parent for the benefit of the child, or to secure to the child, such periodical payments, and for such term, as may be so specified;
+
+(c) an order requiring one parent to pay to the other parent for the benefit of the child, or to the child, such lump sum as may be so specified;
+
+(d) an order requiring either parent to transfer to the other parent for the benefit of the child, or to the child, such property as may be so specified, being property to which the first-mentioned parent is entitled, either in possession or reversion;
+
+(e) an order requiring that a settlement of such property as may be so specified, being property to which either parent is so entitled, be made to the satisfaction of the court for the benefit of the child.
+
+#### Orders for financial relief in guardianship cases.
+
+**11C** (1) Where the court makes an order under section 4(4) of this Act that a person shall be sole guardian of a child to the exclusion of a parent, the court may make—
+
+(a) in the case of proceedings in the High Court or a county court, one or more of the orders mentioned in subsection (3) of this section;
+
+(b) in the case of proceedings in a magistrates’ court, one or both of the orders mentioned in paragraphs (a) and (c) of that subsection;
+
+and the powers conferred by this subsection may be exercised at any time and include power to vary or discharge any order mentioned in paragraph (a) or (b) of that subsection previously made.
+
+(2) The powers of the court under section 7 of this Act to make orders regarding matters in difference between joint guardians shall include, where a parent of the child is one of the joint guardians—
+
+(a) power to make—
+
+(i) in the case of proceedings in the High Court or a county court, one or more of the orders mentioned in subsection (3) of this section;
+
+(ii) in the case of proceedings in a magistrates’ court, one or both of the orders mentioned in paragraphs (a) and (c) of that subsection; and
+
+(b) power to vary or discharge any order mentioned in paragraph (a) or (b) of that subsection previously made.
+
+(3) The orders referred to in subsections (1) and (2) of this section are—
+
+(a) an order requiring the parent to make to the guardian or other guardian for the benefit of the child, or to the child, such periodical payments, and for such term, as may be specified in the order;
+
+(b) an order requiring the parent to secure to the guardian or other guardian for the benefit of the child, or to secure to the child, such periodical payments, and for such term, as may be so specified;
+
+(c) an order requiring the parent to pay to the guardian or other guardian for the benefit of the child, or to the child, such lump sum as may be so specified;
+
+(d) an order requiring the parent to transfer to the guardian or other guardian for the benefit of the child, or to the child, such property as may be so specified, being property to which the parent is entitled, either in possession or reversion;
+
+(e) an order requiring that a settlement of such property as may be so specified, being property to which the parent is so entitled, be made to the satisfaction of the court for the benefit of the child.
+
+#### Orders for financial relief for persons over eighteen.
+
+**11D** (1) If, on an application by a person who has attained the age of eighteen and whose parents are not living with each other in the same household, it appears to the High Court or a county court—
+
+(a) that the applicant is, will be or (if an order were made under this section) would be receiving instruction at an educational establishment or undergoing training for a trade, profession or vocation, whether or not he also is, will be or would be in gainful employment; or
+
+(b) that there are special circumstances which justify the making or an order under this section,
+
+the court may make one or both of the orders mentioned in subsection (2) of this section.
+
+(2) The orders referred to in subsection (1) of this section are—
+
+(a) an order requiring either or both of the applicant’s parents to pay to the applicant such periodical payments and for such term, as may be specified in the order; and
+
+(b) an order requiring either or both of the applicant’s parents to pay to the applicant such lump sum as may be so specified.
+
+(3) An application may not be made under this section by any person if, immediately before he attained the age of sixteen, a periodical payments order was in force with respect to him.
+
+(4) No order shall be made under this section at a time when the parents of the applicant are living with each other in the same household.
+
+(5) Any order made under this section requiring the making of periodical payments shall, notwithstanding anything in the order, cease to have effect on the death of the person liable to make payments under the order.
+
+(6) An order under this section requiring the making of periodical payments may be varied or discharged by a subsequent order made on the application of any person by or to whom payments were required to be made under the previous order.
+
+(7) In subsection (3) of this section “periodical payments order” means an order made under—
+
+(a) this Act,
+
+(b) section 6(3) of the [^M22]Family Law Reform Act 1969,
+
+(c) section 23 or 27 of the [^M23]Matrimonial Causes Act 1973,
+
+(d) section 34 of the [^M24]Children Act 1975, or
+
+(e) Part I of the [^M25]Domestic Proceedings and Magistrates’ Courts Act 1978,
+
+for the making or securing of periodical payments.
+
+#### Duration of orders for periodical payments.
+
+**12** (1) The term to be specified in an order for periodical payments made by virtue of section 11B(2)(a) or (b) or 11C(3)(a) or (b) of this Act in favour of a child may begin with the date of the making of an application for the order in question or any later date; but—
+
+(a) shall not in the first instance extend beyond the date of the birthday of the child next following his attaining the upper limit of the compulsory school age (that is to say, the age that is for the time being that limit by virtue of section 35 of the [^M26]Education Act 1944 together with any Order in Council made under that section) unless the court thinks it right in the circumstances in the case to specify a later date: and
+
+(b) shall not in any event, subject to subsection (2) below, extend beyond the date of the child’s eighteenth birthday.
+
+(2) Paragraph (b) of subsection (1) above shall not apply in the case of a child if it appears to the court that—
+
+(a) the child is, will be or (if an order were made without complying with that paragraph) would be receiving instruction at an educational establishment or undergoing training for a trade, profession or vocation, whether or not he also is, will be or would be in gainful employment; or
+
+(b) there are special circumstances which justify the making of an order without complying with that paragraph.
+
+(3) An order for periodical payments made by virtue of section 11B(2)(a) or 11C(3)(a) of this Act shall, notwithstanding anything in the order, cease to have effect on the death of the person liable to make payments under the order.
+
+#### Matters to which court is to have regard in making orders for financial relief.
+
+**12A** In deciding whether to exercise its powers under section 11B, 11C or 11D of this Act and, if so, in what manner, the court shall have regard to all the circumstances of the case including the following matters, that is to say—
+
+(a) the income, earning capacity, property and other financial resources which the mother or father of the child has or is likely to have in the foreseeable future;
+
+(b) the financial needs, obligations and responsibilities which the mother or father of the child has or is likely to have in the foreseeable future;
+
+(c) the financial needs of the child;
+
+(d) the income, earning capacity (if any), property and other financial resources of the child;
+
+(e) any physical or mental disability of the child.
+
+#### Provisions relating to lump sums.
+
+**12B** (1) Without prejudice to the generality of sections 11B and 11C of this Act, an order under any of those provisions for the payment of a lump sum may be made for the purpose of enabling any liabilities or expenses reasonably incurred before the making of the order to be met, being liabilities or expenses incurred in connection with the birth of the child or in maintaining the child.
+
+(2) The amount of any lump sum required to be paid by an order made by the magistrates’ court under section 11B, 11C or 11D of this Act shall not exceed £500 or such larger amount as the Secretary of State may from time to time by order fix for the purposes of this subsection.
+
+Any order made by the Secretary of State under this subsection shall be made by statutory instrument and shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(3) The power of the court under section 11B, 11C or 11D of this Act to vary or discharge an order for the making or securing of periodical payments by a parent shall include power to make an order under the said section 11B, 11C or 11D, as the case may be, for the payment of a lump sum by that parent.
+
+(4) The amount of any lump sum which a parent may be required to pay by virtue of subsection (3) above shall not, in the case of an order made by a magistrates’ court, exceed the maximum amount that may at the time of the making of the order be required to be paid under subsection (2) above, but a magistrates court may make an order for the payment of a lump sum not exceeding that amount notwithstanding that the parent was required to pay a lump sum by a previous order under this Act.
+
+(5) An order made under section 11B, 11C or 11D of this Act for the payment of a lump sum may provide for the payment of that sum by instalments and where the court provides for the payment of a lump sum by instalments the court, on an application made either by the person liable to pay or the person entitled to receive that sum, shall have power to vary that order by varying the number of instalments payable, the amount of any instalment payable and the date on which any instalment becomes payable
+
+#### Variation etc, of orders for periodical payments.
+
+**12C** (1) In exercising its powers under section 11B, 11C or 11D of this Act to vary or discharge an order for the making or securing of periodical payments the court shall have regard to all the circumstances of the case, including any change in any of the matters to which the court was required to have regard when making the order.
+
+(2) The power of the court under section 11B, 11C or 11D of this Act to vary an order for the making or securing of periodical payments shall include power to suspend any provision thereof temporarily and to revive any provision so suspended.
+
+(3) Where on an application under section 11B, 11C or 11D of this Act for the variation or discharge of an order for the making or securing of periodical payments the court varies the payment required to be made under that order, the court may provide that the payments as so varied shall be made from such date as the court may specify, not being earlier than the date of the making of the application.
+
+(4) An application for the variation of an order made under section 11B or 11C of this Act for the making or securing of periodical payments to or for the benefit of a child may, if the child has attained the age of sixteen, be made by the child himself.
+
+(5) Where an order for the making of periodical payments made under section 11B or 11C of this Act ceases to have effect on the date on which the child attains the age of sixteen or at any time after that date but before or on the date on which he attains the age of eighteen, the child may apply—
+
+(a) in the case of an order made by the High Court of a county court, to the court which made the order, or
+
+(b) in the case of an order made by a magistrates’ court, to the High Court or a county court,
+
+for an order for the revival of the first mentioned order.
+
+(6) If on such an application it appears to the High Court or county court that—
+
+(a) the child is, will be or (if an order were made under this subsection) would be receiving instruction at an educational establishment or undergoing training for a trade, profession or vocation, whether or not he also is, will be or would be in gainful employment; or
+
+(b) there are special circumstances which justify the making of an order under this subsection,
+
+the court shall have power by order to revive the first mentioned order from such date as the court may specify, not being earlier than the date of the making of the application.
+
+(7) Any order made under section 11B or 11C of this Act by the High Court or a county court which is revived by an order under subsection (5) above may be varied or discharged under section 11B or 11C of this Act, as the case may be, on the application of any person by whom or to whom payments are required to be made under the order.
+
+(8) Any order made under section 11B or 11C of this Act by a magistrates’ court which is revived by an order of the High Court or a county court under subsection (5) above—
+
+(a) for the purposes of the variation and discharge of the order, shall be treated as an order of the court by which it was revived and may be varied or discharged by that court on the application of any person by whom or to whom payments are required to be made under the order; and
+
+(b) for the purposes of the enforcement of the order, shall be treated as an order of the magistrates’ court by which the order was originally made.
+
+#### Variation of order for secured periodical payments after death of parent.
+
+**12D** (1) Where the parent liable to make payments under a secured periodical payments order has died, the persons who may apply for the variation or discharge of the order shall include the personal representatives of the deceased parent, and no application for the variation of the order shall, except with the permission of the court, be made after the end of the period of six months from the date on which representation in regard to the estate of that parent is first taken out.
+
+(2) The personal representatives of a deceased person against whom a secured periodical payments order was made shall not be liable for having distributed any part of the estate of the deceased after the expiration of the period of six months referred to in subsection (1) of this section on the ground that they ought to have taken into account the possibility that the court might permit an application for variation to be made after that period by the person entitled to payments under the order; but this subsection shall not prejudice any power to recover any part of the estate so distributed arising by virtue of the variation of an order in accordance with this section.
+
+(3) Where an application to vary a secured periodical payments order is made after the death of the parent liable to make payments under the order, the circumstances to which the court is required to have regard under section 12C(1) of this Act shall include the changed circumstances resulting from the death of that parent.
+
+(4) In considering for the purposes of subsection (1) of this section the question when representation was first taken out, a grant limited to settled land or to trust property shall be left out of account and a grant limited to real estate or to personal estate shall be left out of account unless a grant limited to the remainder of the estate has previously been made or is made at the same time.
+
+(5) In this section “secured periodical payments order” means an order for secured periodical payments made by virtue of section 11B(2)(b) or 11C(3)(b) of this Act.
+
+#### Enforcement of orders for custody and maintenance.
+
+**13** (1) Where an order made by a magistrates’ court under this Act contains a provision committing to any person the actual custody of any child, a copy of the order may be served on any person in whose actual custody the child may for the time being be, and thereupon the provision may, without prejudice to any other remedy open to the person given the custody, be enforced under section 63(3) of the Magistrates’ Courts Act 1980 as if it were an order of the court requiring the person so served to give up the child to the person given the custody.
+
+(2) Any person for the time being under an obligation to make payments in pursuance of any order for the payment of money made by a magistrates’ court under this Act shall give notice of any change of address to such person (if any) as may be specified in the order, and any person failing without reasonable excuse to give such a notice shall be liable on summary conviction to a fine not exceeding level 2 on the standard scale.
+
+(3) Any order for the payment of money made by a magistrates’ court under this Act shall be enforceable as a magistrates’ court maintenance order within the meaning of section 150(1) of the [^M27]Magistrates’ Courts Act 1980.
+
+#### Restriction on removal of child from England and Wales.
+
+**13A** (1) Where the court makes—
+
+(a) an order under section 9 or 10 of this Act regarding the legal custody of a child, or
+
+(b) an interim order under section 2(4) of the Guardianship Act 1973 containing provision regarding the legal custody of a child,the court, on making the order or at any time while the order is in force, may, if an application is made under this section, by order direct that no person shall take the child out of England and Wales while the order under this section is in force, except with the leave of the court.
+
+(2) An order made under subsection (1) above may be varied or discharged by a subsequent order.
+
+(3) An application for an order under subsection (1) above, or for the variation or discharge of such an order, may be made by any party to the proceedings in which the order mentioned in paragraph (a) or (b) of that subsection was made.
+
+#### Direction for settlement of instrument by conveyancing counsel.
+
+**13B** —Where the High Court or a county court decides to make an order under this Act for the securing of periodical payments or for the transfer or settlement of property, it may direct that the matter be referred to one of the conveyancing counsel of the court for him to settle a proper instrument to be executed by all necessary parties.
+
+### Access to children by grandparents
+
+#### Access to children by grandparents.
+
+**14A** (1) The court, on making an order under section 9 of this Act, or at any time while such an order is in force, may on the application of a grandparent of the child make such order requiring access to the child to be given to the grandparents as the court thinks fit.
+
+(2) Where one parent of a child is dead, or both parents are dead, the court may, on an application made by a parent of a deceased parent of the child, make such order requiring access to the child to be given to the applicant as the court thinks fit.
+
+(3) Section 11A(2) of this Act shall apply in relation to an order made under this section as it applies in relation to an order under section 9 or 10 of this Act.
+
+(4) The court shall not make an order under this section with respect to a child who is for the purposes of Part III of the Child Care Act 1980 in the care of a local authority.
+
+(5) Where the court has made an order under subsection (1) above requiring access to a child to be given to a grandparent, the court may vary or discharge that order on an application made—
+
+(a) by that grandparent, or
+
+(b) by either parent of the child, or
+
+(c) if before 1st December 1985 the court has made an order under section 9 of this Act giving the legal custody of the child to a person other than one of the parents, by that person.
+
+(6) Where the court has made an order under subsection (2) above requiring access to a child to be given to a grandparent, the court may vary or discharge that order on an application made—
+
+(a) by that grandparent, or
+
+(b) by any surviving parent of the child, or
+
+(c) by any guardian of the child.
+
+(7) Section 6 of the [^M28]Guardianship Act 1973 shall apply in relation to an application under this section as it applies in relation to an application under section 5 or 9 of this Act, and any reference to a party to the proceedings in subsection (2) or (3) of the said section 6 shall include—
+
+(a) in the case of an application under subsection (1) or (2) above, a reference to the grandparent who has made an application under either of those subsections,
+
+(b) in the case of an application under subsection (5) or (6) above, a reference to the grandparent who has access to the child under the order for the variation or discharge of which the application is made.
+
+(8) Where, at any time after an order with respect to a child has been made under subsection (1) above, no order is in force under section 9 of this Act with respect to that child, the order made under subsection (1) above shall cease to have effect.
+
+### Jurisdiction and Procedure
+
+#### Courts having jurisdiction under this Act.
+
+**15** (1) Subject to the provisions of this section “the court” for the purposes of this Act means the High Court, any county court or any magistrates’ court, except that provision may be made by rules of court that in the case of such applications to a county court, or such applications to a magistrates’ court, as are prescribed, only such county courts, or as the case may be such magistrates’ courts, as are prescribed shall be authorised to hear those applications.
+
+(2) A magistrates’ court shall not be competent to entertain—
+
+(b) any application involving the administration or application of any property belonging to or held in trust for a child or the income thereof.
+
+(2A) It is hereby declared that any power conferred on a magistrates’ court under this Act is exercisable notwithstanding that any party to the proceedings is residing outside England and Wales.
+
+(2B) Where any party to the proceedings on an application to a magistrates’ court under this Act resides outside the United Kingdom and does not appear at the time and place appointed for the hearing of the application, the court shall not hear the application unless it is proved to the satisfaction of the court, in such manner as is prescribed, that such steps as are prescribed have been taken to give to that party notice of the application and of the time and place appointed for the hearing of it.
+
+(2C) In this section “prescribed” means prescribed by rules of court.
+
+#### Financial provision for child resident in country outside England and Wales.
+
+**15A** (1) Where one parent of a child resides in England and Wales and the other parent and the child reside outside England and Wales, the court shall have power, on an application made by that other parent, to make one or both of the orders mentioned in section 11B(2)(a) and (b) of this Act against the parent resident in England and Wales; and in relation to such an application section 11B(2)(a) and (b) shall have effect as if for any reference to the parent excluded from actual custody there were substituted a reference to the parent resident in England and Wales.
+
+(2) Any reference in this Act to the powers of the court under section 11B(2) of this Act or to an order made under the said section 11B(2) shall include a reference to the powers which the court has by virtue of subsection (1) above or, as the case may be, to an order made by virtue of subsection (1) above.
+
+(Appeals and procedure) Subject to subsection (4) of this section, where on an application to a magistrates’ court under this Act the court makes or refuses to make an order, an appeal shall lie to the High Court.
+
+(4) Where an application is made to a magistrates’ court under this Act, and the court considers that the matter is one which would more conveniently be dealt with by the High Court, the magistrates’ court shall refuse to make an order, and in that case no appeal shall lie to the High Court.
+
+(5) In relation to applications made to a magistrates’ court under section 14A of this Act regarding access to a child by a grandparent or under section 3(3) or 4(3A) of the [^M29]Guardianship Act 1973 for the discharge or variation of a supervision order or, as the case may be, an order giving the care of a child to a local authority or an order requiring payments to be made to an authority to whom care of a child is so given, rules made under section 144 of the Magistrates’ Courts Act 1980 may make provision as to the persons who are to be made defendants on the application; and if on any such application there are two or more defendants, the power of the court under section 64(1) of the Magistrates’ Courts Act 1980 shall be deemed to include power, whatever adjudication the court makes on the complaint, to order any of the parties to pay the whole part of the costs of all or any of the other parties.
+
+(6) On an appeal under subsection (3) of this section the High Court shall have power to make such orders as may be necessary to give effect to its determination of the appeal including such incidental or consequential orders as appear to the court to be just, and, in the case of an appeal from a decision of a magistrates’ court made on an application for or in respect of an order for the making of periodical payments, the High Court shall have power to order that its determination of the appeal shall have effect from such date as the court thinks fit, not being earlier than the date of the making of the application to the magistrates’ court.
+
+(7) Without prejudice to the generality of subsection (6) above, where, on an appeal under subsection (3) of this section in respect of an order of a magistrates’ court requiring a parent of a child to make periodical payments, the High Court reduces the amount of those payments or discharges the order, the High Court shall have power to order the person entitled to payments under the order of the magistrates’ court to pay to that parent such sum in respect of payments already made by the parent in compliance with the order as the High Court thinks fit and if any arrears are due under the order of the magistrates’ court, the High Court shall have power to remit the payment of those arrears or any part thereof.
+
+(8) Any order of the High Court made on an appeal under subsection (3) of this section (other than an order directing that an application shall be re-heard by a magistrates’ court) shall for the purposes of the enforcement of the order and for the purposes of any power to vary, revive or discharge orders conferred by section 9(1), 10(1) or (2)(b), 11B(1), 11C(1) or (2)(b), 11D(6), 12B(5) or 12C(2) of this Act or section 3(3) or 4(3A) of the Guardianship Act 1973 be treated as if it were an order of the magistrates’ court from which the appeal was brought and not of the High Court.
+
+#### Saving for powers of High Court and other courts.
+
+**17** (1) Nothing in this Act shall restrict or affect the jurisdiction of the High Court to appoint or remove guardians or otherwise in respect of children.
+
+### Supplementary
+
+#### Short title, interpretation and extent.
+
+**20** (1) This Act may be cited as the Guardianship of Minors Act 1971.
+
+(2) In this Act, unless the context otherwise requires—
+
+- “actual custody”, as respects a child, means the actual possession of the person of the child;
+- “child”, except where used to express a relationship, means a person who has not attained the age of eighteen;
+- “legal custody” shall be construed in accordance with Part IV of the [^M30]Children Act 1975;
+- “maintenance” includes education.
+
+(2A) In this Act—
+
+(a) references (however expressed) to any relationship between two persons; and
+
+(b) references to the father and mother of a child not being married to each other at the time of his birth,
+
+shall be construed in accordance with section 1 of the Family Law Reform Act 1987.
+
+(3) References in this Act to any enactment are references thereto as amended, and include references thereto as applied, by any other enactment.
+
+(4) This Act—
+
+(a) so far as it amends the [^M31]Maintenance Orders Act 1950 extends to Scotland and Northern Ireland,
+
+but, save as aforesaid, extends to England and Wales only.
+
+## SCHEDULE 2 — MINOR AND CONSEQUENTIAL AMENDMENTS
+
+### The Maintenance Orders (Facilities for Enforcement) Act 1920 (c.33)
+
+**1** In Section 6(2) of the Maintenance Orders (Facilities for Enforcement) Act 1920—
+
+(a) for the words “in like manner as an order of affiliation” there shall be substituted the words “ as a magistrates’ court maintenance order ”;
+
+(b) at the end of that subsection there shall be inserted the words—
+
+> In this subsection “magistrates” court maintenance order, has the same meaning as in section 150(1) of the Magistrates’ Courts Act 1980.
+
+### The Trustee Act 1925 (c.19)
+
+**2** At the end of section 33 of the Trustee Act 1925 there shall be added the following subsection—
+
+> (4) In relation to the dispositions mentioned in section 19(1) of the Family Law Reform Act 1987, this section shall have effect as if any reference (however expressed) to any relationship between two persons were construed in accordance with section 1 of that Act.
+
+### The Administration of Estates Act 1925 (c.23)
+
+**3** At the end of section 50 of the Administration of Estates Act 1925 there shall be added the following subsection—
+
+> (3) In subsection (1) of this section the reference to this Part of this Act, or the foregoing provisions of this Part of this Act, shall in relation to an instrument inter vivos made, or a will or codicil coming into operation, after the coming into force of section 18 of the Family Law Reform Act 1987 (but not in relation to instruments inter vivos made or wills or codicils coming into operation earlier) be construed as including references to that section.
+
+**4** At the end of section 52 of that Act there shall be added the words “ and references (however expressed) to any relationship between two persons shall be construed in accordance with section 1 of the Family Law Reform Act 1987 ”.
+
+### The National Assistance Act 1948 (c.29)
+
+**5** In [^F42]... the National Assistance Act 1948 [^F42]...
+
+**[^F43]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7** Section 44 of that Act (affiliation orders) shall cease to have effect.
+
+**[^F44]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Marriage Act 1949 (c.76)
+
+**9** In the Marriage Act 1949 for the words “an infant”, wherever they occur in section 3, 16 or 28 or in Schedule 2, there shall be substituted the words “ a child ” and for the words “the infant”, wherever they occur in section 3 or in Schedule 2, there shall be substituted the words “ the child ”.
+
+**10** In section 78 of that Act—
+
+(a) in subsection (1) for the definition of “infant” there shall be substituted the following definition—
+
+> “child” means a person under the age of eighteen;
+
+;
+
+(b) after that subsection there shall be inserted the following subsection—
+
+> (1A) References in this Act to the parents of a child being or not being married to each other at the time of his birth shall be construed in accordance with section 1 of the Family Law Reform Act 1987.
+
+**[^F45]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Maintenance Orders Act 1950 (c. 37)
+
+**12** In section 16(2)(a) of the Maintenance Orders Act 1950— [^F46]
+
+(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) sub-paragraph (iv) shall cease to have effect;
+
+(c) the sub-paragraph (vi) inserted by the [^M32]Children Act 1975 shall cease to have effect;
+
+(d) in the sub-paragraph (vi) inserted by the [^M33]Supplementary Benefits Act 1976 the words from “or section 4 of the Affiliation Proceedings Act 1957” to the end shall cease to have effect;
+
+(e) in sub-paragraph (viii) the words from “or section 4 of the [^M34]Affiliation Proceedings Act 1957” to the end shall cease to have effect.
+
+**[^F47]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F48] . . .
+
+**[^F49]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Births and Deaths Registration Act 1953 (c. 20)
+
+**15** In section 9(4) of the 1953 Act for “(b) or (c)” there shall be substituted “ (b), (c) or (d) ”.
+
+**16** In the proviso to section 14(1) of that Act—
+
+(a) in paragraph (a) for the word “acknowledging” there shall be substituted the word “ stating ”;
+
+(b) in paragraph (b) the words “by an affiliation order or otherwise” shall cease to have effect;
+
+(c) at the end of paragraph (c) there shall be added the words “ or section 56 of the Family Law Reform Act 1987 ”.
+
+**17** In section 34(2) of that Act for the words “required by law” there shall be substituted the words “ required or permitted by law ”.
+
+### The Maintenance Orders Act 1958 (c. 39)
+
+**[^F50]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Domestic and Appellate Proceedings (Restriction of Publicity) Act 1968 (c. 63)
+
+**19** In section 2 of the Domestic and Appellate Proceedings (Restriction of Publicity) Act 1968 (restriction of publicity for certain proceedings)—
+
+(a) in subsection (1) the word “and” following paragraph (b) shall cease to have effect [[^F51]and there shall be inserted at the end the following paragraph—
+
+> (e) proceedings under section 56(1) of the Family Law Act 1986 (declarations of parentage);
+
+;]
+
+(b) in subsection (3) for the words “subsection (1)(d)” there shall be substituted the words “ subsection (1)(d) or (e) ”.
+
+### The Family Law Reform Act 1969 (c. 46)
+
+**[^F52]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**21** In section 20(6) of that Act, for the words “blood samples” there shall be substituted the words “ bodily samples ”.
+
+**22** In section 21 of that Act, for the words “blood sample”, in each place where they occur, there shall be substituted the words “ bodily sample ” and for the words “blood tests” there shall be substituted the words “ scientific tests ”.
+
+**23** (1) Section 22(1) of that Act shall be amended as follows.
+
+(2) For the words “blood sample”, “blood samples” and “blood tests”, in each place where they occur, there shall be respectively substituted the words “ bodily sample ”, “ bodily samples ” and “ scientific tests ”.
+
+(3) After paragraph (a) there shall be inserted the following paragraph—
+
+> (aa) prescribe the bodily samples to be taken;
+
+.
+
+(4) In paragraph (d) after the words “any such illness” there shall be inserted the words “ or condition or undergone any such treatment ”.
+
+(5) After paragraph (i) there shall be inserted the following paragraph—
+
+> (j) make different provision for different cases or for different descriptions of case.
+
+**24** In section 23 of that Act—
+
+(a) in subsection (2), for the word “paternity” there shall be substituted the word “ parentage ”; and
+
+(b) in subsection (3), for the words “blood sample” there shall be substituted the words “ bodily sample ”.
+
+**25** In section 24 of that Act, for the words “blood sample” there shall be substituted the words “ bodily sample ”.
+
+### The Children and Young Persons Act 1969 (c.54)
+
+**[^F53]26** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Administration of Justice Act 1970 (c.31)
+
+**27** In Schedule 8 to the Administration of Justice Act 1970— [^F54]
+
+(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) paragraph 5 shall cease to have effect.
+
+### The Guardianship of Minors Act 1971 (c.3)
+
+**28** Without prejudice to any other amendment of the 1971 Act made by this Act, for the words “minor”, “minor’s” and “minors”, wherever occurring in that Act otherwise than in the expression “the Guardianship of Minors Act 1971”, there shall be substituted the words “ child ”, “ child’s ” and “ children ” respectively.
+
+**29** In section 5(2) of that Act for the words from “notwithstanding” to the end there shall be substituted the words “ notwithstanding that parental rights and duties with respect to the child are vested in a local authority or a voluntary organisation by virtue of a resolution under section 3 or 64 of the [^M35]Child Care Act 1980 ”.
+
+**30** In section 11A of that Act for the words “section 9(1), 10(1)(a) or 11(a)”, wherever they occur, there shall be substituted the words “ section 9 or 10 ”.
+
+**31** (1) Section 12 of that Act shall be amended as follows.
+
+(2) In subsection (1) for the words “an order made under section 9, 10 or 11 of this Act for the making of periodical payments” there shall be substituted the words “ an order for periodical payments made by virtue of section 11B(2)(a) or (b) or 11C(3)(a) or (b) of this Act ”.
+
+(3) In subsection (2) for paragraph (a) there shall be substituted the following paragraph—
+
+> (a) the child is, will be or (if an order were made without complying with that paragraph) would be receiving instruction at an educational establishment or undergoing training for a trade, profession or vocation, whether or not he also is, will be or would be in gainful employment; or
+
+.
+
+(4) In subsection (3) for the words “Any order made under section 9, 10 or 11 of this Act requiring the making of periodical payments” there shall be substituted the words “ An order for periodical payments made by virtue of section 11B(2)(a) or 11C(3)(a) of this Act ”.
+
+**32** In section 12A of that Act for the words “section 9(2), 10(1)(b) or 11(b)” there shall be substituted the words “ section 11B, 11C or 11D ”.
+
+**33** (1) Section 12B of that Act shall be amended as follows.
+
+(2) In subsection (1) for the words “section 9(2), 10(1)(b) and 11(b)” there shall be substituted the words “ sections 11B and 11C ”, the words “in maintaining the minor” shall cease to have effect and there shall be added at the end the words “ being liabilities or expenses incurred in connection with the birth of the child or in maintaining the child ”.
+
+(3) In subsection (2) for the words “section 9(2), 10(1)(b) or 11(b)” there shall be substituted the words “ section 11B, 11C or 11D ”.
+
+(4) In subsections (3) and (5) for the words “section 9, 10 or 11”, in each place where they occur, there shall be substituted the words “ section 11B, 11C or 11D ”.
+
+(5) In subsection (3) after the words “for the making” there shall be inserted the words “ or securing ” and the words “ of a minor ” shall cease to have effect.
+
+**34** (1) Section 12C of that Act shall be amended as follows.
+
+(2) In subsections (1) to (3) for the words “section 9, 10 or 11” there shall be substituted the words “ section 11B, 11C or 11D ” and after the words “for the making” there shall be inserted the words “ or securing ”.
+
+(3) In subsection (4) for the words “section 9, 10 or 11” there shall be substituted the words “ section 11B or 11C ” and after the words “for the making” there shall be inserted the words “ or securing ”.
+
+(4) For subsection (5) there shall be substituted the following subsections—
+
+> (5) Where an order for the making of periodical payments made under section 11B or 11C of this Act ceases to have effect on the date on which the child attains the age of sixteen or at any time after that date but before or on the date on which he attains the age of eighteen, the child may apply—
+>
+> (a) in the case of an order made by the High Court or a county court, to the court which made the order, or
+>
+> (b) in the case of an order made by a magistrates’ court, to the High Court or a county court,
+>
+> for an order for the revival of the first mentioned order.
+>
+> (6) If on such an application it appears to the High Court or county court that—
+>
+> (a) the child is, will be or (if an order were made under this subsection) would be receiving instruction at an educational establishment or undergoing training for a trade, profession or vocation, whether or not he also is, will be or would be in gainful employment; or
+>
+> (b) there are special circumstances which justify the making of an order under this subsection,
+>
+> the court shall have power by order to revive the first mentioned order from such date as the court may specify, not being earlier than the date of the making of the application.
+>
+> (7) Any order made under section 11B or 11C of this Act by the High Court or a county court which is revived by an order under subsection (5) above may be varied or discharged under section 11B or 11C of this Act, as the case may be, on the application of any person by whom or to whom payments are required to be made under the order.
+>
+> (8) Any order made under section 11B or 11C or this Act by a magistrates’ court which is revived by an order of the High Court or a county court under subsection (5) above—
+>
+> (a) for the purposes of the variation and discharge of the order, shall be treated as an order of the court by which it was revived and may be varied or discharged by that court on the application of any person by whom or to whom payments are required to be made under the order; and
+>
+> (b) for the purposes of the enforcement of the order, shall be treated as an order of the magistrates’ court by which the order was originally made.
+
+**35** After that section there shall be inserted the following section—
+
+> **Variation of orders for secured periodical payments after death of parent.**
+>
+> **12D** (1) Where the parent liable to make payments under a secured periodical payments order has died, the persons who may apply for the variation or discharge of the order shall include the personal representatives of the deceased parent, and no application for the variation of the order shall, except with the permission of the court, be made after the end of the period of six months from the date on which representation in regard to the estate of that parent is first taken out.
+>
+> (2) The personal representatives of a deceased person against whom a secured periodical payments order was made shall not be liable for having distributed any part of the estate of the deceased after the expiration of the period of six months referred to in subsection (1) of this section on the ground that they ought to have taken into account the possibility that the court might permit an application for variation to be made after that period by the person entitled to payments under the order; but this subsection shall not prejudice any power to recover any part of the estate so distributed arising by virtue of the variation of an order in accordance with this section.
+>
+> (3) Where an application to vary a secured periodical payments order is made after the death of the parent liable to make payments under the order, the circumstances to which the court is required to have regard under section 12C(1) of this Act shall include the changed circumstances resulting from the death of that parent.
+>
+> (4) In considering for the purposes of subsection (1) of this section the question when representation was first taken out, a grant limited to settled land or to trust property shall be left out of account and a grant limited to real estate or to personal estate shall be left out of account unless a grant limited to the remainder of the estate has previously been made or is made at the same time.
+>
+> (5) In this section “secured periodical payments order”means an order for secured periodical payments made by virtue of section 11B(2)(b) or 11C(3)(b) of this Act.
+
+**36** In section 13 of that Act for subsection (3) there shall be substituted the following subsection—
+
+> (3) Any order for the payment of money made by a magistrates’ court under this Act shall be enforceable as a magistrates’ court maintenance order within the meaning of section 150(1) of the Magistrates’ Courts Act 1980
+
+**37** In section 13A(1) of that Act, for the words “section 9(1), 10(1)(a) or 11(a)” there shall be substituted the words “ section 9 or 10 ”.
+
+**38** After that section there shall be inserted the following section—
+
+> **Direction for settlement of instrument by conveyancing counsel.**
+>
+> **13B** Where the High Court or a county court decides to make an order under this Act for the securing of periodical payments or for the transfer or settlement of property, it may direct that the matter be referred to one of the conveyancing counsel of the court for him to settle a proper instrument to be executed by all necessary parties.
+
+**39** Section 14 of that Act and the heading preceding that section shall cease to have effect.
+
+**40** (1) Section 14A of that Act shall be amended as follows.
+
+(2) In subsection (1) for the words “section 9(1)” there shall be substituted the words “ section 9 ”.
+
+(3) In subsection (3) for the words “section 9(1), 10(1)(a) or 11(a)” there shall be substituted the words “ section 9 or 10 ”.
+
+(4) In subsection (5) for the words “the court has made an order under section 9(1)(a)” there shall be substituted the words “ before 1st December 1985 the court has made an order under section 9 ”.
+
+**41** (1) Section 15A of that Act shall be amended as follows.
+
+(2) In subsection (1)—
+
+(a) for the words “section 9(2)(a) and (b)”, in both places where they occur, there shall be substituted the words “ section 11B(2)(a) and (b) ”; and
+
+(b) the words from “notwithstanding” to “custody of the child” shall cease to have effect.
+
+(3) In subsection (2) for the words “section 9(2)”, in both places where they occur, there shall be substituted the words “ section 11B(2) ”.
+
+**42** In section 16(8) of that Act for the words “section 9(4), 10(2), 11(c), 12B(5) or 12C(5) of this Act or section 3(3) or 4(3A) or (3D)” there shall be substituted the words “ section 9(1), 10(1) or 11B(1), 11C(1) or (2)(b), 11D(6), 12B(5) or 12C(2) of this Act or section 3(3) or 4(3A) ”.
+
+**43** In section 20 of that Act for subsection (2) there shall be substituted the following subsections—
+
+> (2) In this Act, unless the context otherwise requires—
+>
+> - “actual custody”, as respects a child, means the actual possession of the person of the child;
+> - “child”, except where used to express a relationship, means a person who has not attained the age of eighteen;
+> - “legal custody” shall be construed in accordance with Part IV of the Children Act 1975;
+> - “maintenance” includes education.
+>
+> (2A) In this Act—
+>
+> (a) references (however expressed) to any relationship between two persons; and
+>
+> (b) references to the father and mother of a child not being married to each other at the time of his birth,
+>
+> shall be construed in accordance with section 1 of the Family Law Reform Act 1987.
+
+### The Attachment of Earnings Act 1971 (c.32)
+
+**44** In Schedule 1 to the Attachment of Earnings Act 1971—
+
+(a) for paragraph 5(a) there shall be substituted the following paragraph—
+
+> (a) section 11B, 11C or 11D of the Guardianship of Minors Act 1971 or section 2(3) or 2(4A) of the Guardianship Act 1973 (payments for maintenance of persons who are or have been in guardianship);
+
+;
+
+(b) paragraph 6 shall cease to have effect.
+
+### The Maintenance Orders (Reciprocal Enforcement) Act 1972 (c.18)
+
+**[^F55]45** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F56]46** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**47** In section 28 of that Act after “19(1)(ii)” there shall be inserted “ 20A ”.
+
+**48** In section 28A(3) of that Act, in paragraph (e) after “19(1)(ii)” there shall be inserted “ 20A ”.
+
+**49** (1) Section 30 of that Act shall be amended as follows.
+
+(2) For subsection (1) there shall be substituted the following subsection—
+
+> (1) Section 12C(5) of the Guardianship of Minors Act 1971 (revival by High Court or county court of orders for periodical payments) shall not apply in relation to an order made on a complaint for an order under section 11B of that Act.
+
+(3) In subsection (2) for the words “to which subsection (1) above applies” there shall be substituted the words “ for an order under section 11B of that Act ”.
+
+(4) In subsection (3) the words “the Affiliation Proceedings Act 1957 or”, the words “paragraph (b) of section 2(1) of the said Act of 1957 (time for making complaint) or”, the words “(provision to the like effect) as the case may be”, the words “three years or” and the words “in the case of a complaint under the said Act of 1924” shall cease to have effect.
+
+(5) In subsection (5) the words “the said Act of 1957 or” and the words “ as the case may be” shall cease to have effect.
+
+(6) In subsection (6) the words “or an affiliation order under the said Act of 1957” shall cease to have effect.
+
+**[^F57]50** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F58]51** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Matrimonial Causes Act 1973 (c.18)
+
+**52** In section 27 of the Matrimonial Causes Act 1973 for subsection (6B) there shall be substituted the following subsection—
+
+> (6B) Where a periodical payments order made in favour of a child under this section ceases to have effect on the date on which the child attains the age of sixteen or at any time after that date but before or on the date on which he attains the age of eighteen, then if, on an application made to the court for an order under this subsection, it appears to the court that—
+>
+> (a) the child is, will be or (if an order were made under this subsection) would be receiving instruction at an educational establishment or undergoing training for a trade, profession or vocation, whether or not he also is, will be or would be in gainful employment; or
+>
+> (b) there are special circumstances which justify the making of an order under this subsection,
+>
+> the court shall have power by order to revive the first mentioned order from such date as the court may specify, not being earlier than the date of the making of the application, and to exercise its power under section 31 of this Act in relation to any order so revived.
+
+### The Guardianship Act 1973 (c.29)
+
+**53** Without prejudice to any other amendment of Part I of the 1973 Act made by this Act, for the words “minor” and “minors”, wherever occurring in that Part otherwise than in the expression “the [^M36]Guardianship of Minors Act 1971”, there shall be substituted the words “ child ” and “ children ” respectively.
+
+**54** (1) Section 2 of that Act shall be amended as follows.
+
+(2) For subsection (2) there shall be substituted the following subsection—
+
+> (2) Where an application is made under section 9 of the Guardianship of Minors Act 1971 for the legal custody of a child, then subject to sections 3 and 4 below—
+>
+> (a) if by virtue of the making of, or refusal to make, an order on that application the actual custody of the child is given to, or retained by, a parent of the child, but it appears to the court that there are exceptional circumstances making it desirable that the child should be under the supervision of an independent person, the court may make an order that the child shall be under the supervision of a specified local authority or under the supervision of a probation officer;
+>
+> (b) if it appears to the court that there are exceptional circumstances making it impracticable or undesirable for the child to be entrusted to either of the parents, the court may commit the care of the child to a specified local authority.
+
+(3) In subsection (3B) for the words “section 9(2)” there shall be substituted the words “ section 11B ”.
+
+(4) For subsections (4) and (5) there shall be substituted the following subsections—
+
+> (4) Subject to the provisions of this section, where an application is made under section 9 of the Guardianship of Minors Act 1971 the court, at any time before it makes a final order or dismisses the application, may, if by reason of special circumstances the court thinks it proper, make an interim order containing any such provision regarding the legal custody of and right of access to the child as the court has power to make under that section.
+>
+> (4A) Subject to the provisions of this section, where an application is made under section 11B of the Guardianship of Minors Act 1971, the court, at any time before it makes a final order or dismisses the application, may make an interim order requiring either parent to make to the other or to the child such periodical payments towards the maintenance of the child as the court thinks fit.
+>
+> (5) Where under section 16(4) of the Guardianship of Minors Act 1971 the court refuses to make an order on an application under section 9 or 11B of that Act on the ground that the matter is one that would more conveniently be dealt with by the High Court, the court shall have power—
+>
+> (a) in the case of an application under section 9 of that Act, to make an order under subsection (4) above,
+>
+> (b) in the case of an application under section 11B of that Act, to make an order under subsection (4A) above
+
+.
+
+(5) In subsection (5B) for the words “section 9” there shall be substituted the words “ section 11B ”.
+
+(6) For subsection (5E) there shall be substituted the following subsection—
+
+> (5E) On an application under section 9 or 11B of the Guardianship of Minors Act 1971 the court shall not have power to make more than one interim order under this section with respect to that application, but without prejudice to the powers of the court under this section on any further such application.
+
+(7) Subsection (6) shall cease to have effect.
+
+**55** In section 4 of that Act—
+
+(a) in subsection (3) after the words “section 9” there shall be inserted the words “ or 11B ”, and
+
+(b) subsection (3D) shall cease to have effect.
+
+**56** (1) Section 5 of that Act shall be amended as follows.
+
+(2) For subsections (1) and (2) there shall be substituted the following subsections—
+
+> (1) There shall be no appeal under section 16 of the Guardianship of Minors Act 1971 from an interim order under subsection (4A) of section 2 above.
+>
+> (2) Section 9 of the Guardianship of Minors Act 1971 shall apply in relation to an interim order made under this Act on an application under that section as if the interim order had been made under that section.
+>
+> (2A) Section 13 of the Guardianship of Minors Act 1971 shall apply in relation to an interim order made under this Act as if the interim order had been made under that Act.
+
+**57** In section 5A of that Act for subsections (1) and (2) there shall be substituted the following subsections—
+
+> (1) Where any of the following orders is made, that is to say—
+>
+> (a) an order under section 9 of the Guardianship of Minors Act 1971 which gives the right to the actual custody of a child to one of the parents of the child.
+>
+> (b) an order under section 11B of that Act which requires periodical payments to be made or secured to a parent of the child,
+>
+> (c) an interim order under section 2(4) above which gives the right to the actual custody of a child to a parent of the child,
+>
+> (d) an interim order under section 2(4A) above which requires periodical payments to be made to a parent of the child,
+>
+> that order shall be enforceable notwithstanding that the parents of the child are living with each other at the date of the making of the order or that, although they are not living with each other at that date, they subsequently live with each other; but that order shall cease to have effect if after that date the parents of the child marry each other or live with each other for a period exceeding six months.
+>
+> (2) Where any of the following orders is made, that is to say—
+>
+> (a) an order under section 11B of the Guardianship of Minors Act 1971 which requires periodical payments to be made or secured to a child,
+>
+> (b) an order under section 2(2) or (3) above,
+>
+> (c) an interim order under section 2(4A) requiring periodical payments to be made to a child,
+>
+> then, unless the court otherwise directs, that order shall be enforceable notwithstanding that the parents of the child are living with each other at the date of the making of the order or that, although they are not living with each other at that date, they subsequently live with each other.
+>
+> (2A) Where an order is made under section 11D of the Guardianship of Minors Act 1971 requiring periodical payments to be made to a person who has attained the age of eighteen, then unless the court otherwise directs, that order shall be enforceable notwithstanding that the parents of that person, although they are not living with each other at the date of the order, subsequently live with each other.
+
+**58** Before section 9 of that Act there shall be inserted the following section—
+
+> **Interpretation of Part I.**
+>
+> **8A** (1) In this Part of this Act “child”, except where used to express a relationship, means a person who has not attained the age of eighteen.
+>
+> (2) In this Part of this Act—
+>
+> (a) references (however expressed) to any relationship between two persons; and
+>
+> (b) references to the father and mother of a child not being married to each other at the time of his birth,
+>
+> shall be construed in accordance with section 1 of the Family Law Reform Act 1987.
+
+### The Social Security Act 1975 (c.14)
+
+**59 [^F59]** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Children Act 1975 (c.72)
+
+**60** In section 33 of the Children Act 1975, after subsection (9) there shall be inserted the following subsection—
+
+> (9A) In this Part of this Act references (however expressed) to any relationship between two persons shall be construed in accordance with section 1 of the Family Law Reform Act 1987.
+
+**61** (1) Section 34 of that Act shall be amended as follows.
+
+(2) Subsections (3) and (4) shall cease to have effect.
+
+(3) In subsection (5) for the words “(5A), (5B), (5C), (5D), (5E) and (6)” there shall be substituted the words “ (4A), (5A), (5B), (5C), (5D) and (5E) ” and for the words “section 2(2)(b) and (4)(a)” there shall be substituted the words “ section 2(2)(b) and (4A) ”.
+
+**62** In section 35 of that Act, for subsection (10) there shall be substituted the following subsections—
+
+> (10) Where an order under section 34(1)(b) ceases to have effect on the date on which the child attains the age of 16 or at any time after that date but before or on the date on which he attains the age of 18, the child may apply to an authorised court, other than a magistrates’ court, for an order for the revival of that order, and if, on such an application, it appears to the court that—
+>
+> (a) the child is, will be or (if an order were made under this subsection) would be receiving instruction at an educational establishment or undergoing training for a trade, profession or vocation, whether or not he also is, will be or would be in gainful employment; or
+>
+> (b) there are special circumstances which justify the making of an order under this subsection,
+>
+> the court shall have power by order to revive the order made under section 34(1)(b) from such date as the court may specify, not being earlier than the date of the making of the application and to vary or revoke under this section any order so revived.
+>
+> (10A) Any order made by a magistrates’ court under section 34(1)(b) which is revived by an order under subsection (10) shall for the purposes of the enforcement of the order be treated as an order made by the magistrates’ court by which the order was originally made.
+
+**63** In section 36 of that Act, subsection (5A) shall cease to have effect.
+
+**64** In section 37(3) of that Act, for the words “section 9 (orders for custody and maintenance)” there shall be substituted the words “ section 9 (orders for custody) ”.
+
+**65** In section 43 of that Act, for subsection (3) there shall be substituted the following subsection—
+
+> (3) An order for the payment of money made by a magistrates’ court under section 34 shall be enforceable as a magistrates’ court maintenance order within the meaning of section 150(1) of the Magistrates’ Courts Act 1980.
+
+**66** Section 45 of that Act (affiliation order on application of custodian) shall cease to have effect.
+
+### [^F60] . . .
+
+**[^F61]67** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F62]68** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Domestic Proceedings and Magistrates’ Courts Act 1978 (c.22)
+
+**69** After section 20 of the Domestic Proceedings and Magistrates’ Courts Act 1978 there shall be inserted the following section—
+
+> **Revival of orders for periodical payments.**
+>
+> **20A** (1) Where an order made by a magistrates’ court under this Part of this Act for the making of periodical payments to or in respect of a child (other than an interim maintenance order) ceases to have effect on the date on which the child attains the age of 16 or at any time after that date but before or on the date on which he attains the age of 18, the child may apply to the High Court or a county court for an order for the revival of the order of the magistrates’ court, and if, on such an application, it appears to the High Court or county court that—
+>
+> (a) the child is, will be or (if an order were made under this subsection) would be receiving instruction at an educational establishment or undergoing training for a trade, profession or vocation, whether or not he also is, will be or would be in gainful employment; or
+>
+> (b) there are special circumstances which justify the making of an order under this subsection.the court shall have power by order to revive the first mentioned order from such date as the court may specify, not being earlier than the date of the making of the application.
+>
+> (2) Where an order made by a magistrates’ court is revived by an order of the High Court or a county court under subsection (1) above, then—
+>
+> (a) for the purposes of the variation and discharge of the revived order, that order shall be treated as an order of the court by which it was revived and may be varied or discharged by that court on the application of any person by whom or to whom payments are required to be made under the order, and
+>
+> (b) for the purposes of the enforcement of the revived order, that order shall be treated as an order of the magistrates’ court by which the order was originally made.
+
+**[^F63]70** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**71** In section 88(1) of that Act, after the definition of “local authority” there shall be inserted the following definition—
+
+> “magistrates” court maintenance order’ has the same meaning as in section 150(1) of the Magistrates’ Courts Act 1980,
+
+.
+
+**72** In Schedule 1 to that Act—
+
+(a) after paragraph 3 there shall be inserted the following paragraph—
+
+> **3A** Any order for the payment of money in force under the Matrimonial Proceedings (Magistrates’ Courts) Act 1960 (including any such order made under that Act by virtue of paragraph 1 above) shall be enforceable as a magistrates’ court maintenance order.
+
+(b) in paragraph 4 for the words “paragraph 2 or 3” there shall be substituted the words “ paragraph 2, 3 or 3A ”.
+
+### The Interpretation Act 1978 (c.30)
+
+**73** At the end of Schedule 1 to the Interpretation Act 1978, there shall be added the following heading and entry—
+
+> **Construction of certain references to relationships**
+>
+> In relation to England and Wales—
+>
+> (a) references (however expressed) to any relationship between two persons;
+>
+> (b) references to a person whose father and mother were or were not married to each other at the time of his birth; and
+>
+> (c) references cognate with references falling within paragraph (b) above,
+>
+> shall be construed in accordance with section 1 of the Family Law Reform Act 1987. [The date of the coming into force of that section]
+
+.
+
+**74** In paragraph 4 of Schedule 2 to that Act, the words “earlier than the commencement of this Act” shall cease to have effect and after the word “specified”, wherever it occurs, there shall be inserted the words “ or described ”.
+
+### The Child Care Act 1980 (c.5)
+
+**75** In section 47 of that Act, for subsection (4) there shall be substituted the following subsections—
+
+> (4) A contribution order shall be enforceable as a magistrates’ court maintenance order within the meaning of section 150(1) of the Magistrates’ Courts Act 1980, except that any powers conferred on a magistrates’ court by that Act shall as respects a contribution order be exercisable, and exercisable only, by a magistrates’ court appointed for the commission area where the contributor is for the time being residing.
+>
+> (5) Where a contribution order is made requiring the father of a child whose parents were not married to each other at the time of his birth to make contributions in respect of the child, the father shall keep the local authority to whom the contributions are required to be made informed of his address; and if he fails to do so, he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 1 on the standard scale.
+
+**76** Sections 49 and 50 of that Act (affiliation orders) shall cease to have effect.
+
+**77** In section 55 of that Act—
+
+(a) subsection (3) shall cease to have effect;
+
+(b) in subsection (5) the words from “and any jurisdiction conferred by this section in affiliation proceedings” to the end shall cease to have effect.
+
+**78** In section 86 of that Act for paragraphs (a) and (b) there shall be substituted the words “ of an order made by a court under section 47 or 48 of this Act ”.
+
+**79** (1) Section 87 of that Act shall be amended as follows.
+
+(2) In subsection (1), in the definition of “relative” the words from “and includes” to the end shall cease to have effect.
+
+(3) After subsection (1) there shall be inserted the following subsection—
+
+> (1A) In this Act—
+>
+> (a) references to a child whose father and mother were not married to each other at the time of his birth; and
+>
+> (b) except in Part I and sections 13, 24, 64 and 65, references (however expressed) to any relationship between two persons,
+>
+> shall be construed in accordance with section 1 of the Family Law Reform Act 1987.
+
+### The Magistrates’ Courts Act 1980 (c.43)
+
+**80** In section 58(2)(a) of the Magistrates’ Courts Act 1980, for the words “an affiliation order or order enforceable as an affiliation order” there shall be substituted the words “ a magistrates’ court maintenance order ”.
+
+**[^F64]81** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**82** In section 65(1) of that Act, after paragraph (1) there shall be inserted the following paragraph—
+
+> (m) section 4 or 15 of the Family Law Reform Act 1987;
+
+.
+
+**[^F65]83** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F65]84** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F65]85** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**86** In section 95 of that Act, for the words “an affiliation order or an order enforceable as an affiliation order” there shall be substituted the words “ a magistrates’ court maintenance order ”.
+
+**[^F66]87** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**88** In section 150(1) of that Act—
+
+(a) the definition of “affiliation order” shall cease to have effect;
+
+(b) after the definition of “London Commission area” there shall be inserted the following definitions—
+
+> “magistrates’ court maintenance order” means a maintenance order enforceable by a magistrates’ court;
+>
+> “maintenance order” means any order specified in Schedule 8 to the Administration of Justice Act 1970 and includes such an order which has been discharged, if any arrears are recoverable thereunder;
+
+### The Civil Jurisdiction and Judgments Act 1982 (c.27)
+
+**89** (1) Section 5 of the Civil Jurisdiction and Judgments Act 1982 shall be amended as follows.
+
+[^F67]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In subsection (6) the words “England and Wales or” shall cease to have effect.
+
+### The Child Abduction and Custody Act 1985 (c.60)
+
+**90** In Schedule 3 to the Child Abduction and Custody Act 1985—
+
+(a) in paragraph 1(1)(d) for the words “section 9(1), 10(1)(a) or 11(a)” there shall be substituted the words “ section 9 or 10 ”;
+
+(b) in paragraph 1(1)(f) for the words “(4)(b) or (5)” there shall be substituted the words “ (4) or (5)(b) ”.
+
+### The Social Security Act 1986 (c.50)
+
+**[^F68]91** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F69]92** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F70]93** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Family Law Act 1986 (c.55)
+
+**[^F71]94** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F72]95** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**96** At the end of section 60(2)(c) of that Act (supplementary provisions as to declarations) there shall be added the words “ and on persons who may be affected by any declaration applied for ”.
+
+## SCHEDULE 3 — Transitional Provisions and Savings
+
+### Applications pending under amended or repealed enactments
+
+**1** This Act (including the repeals and amendments made by it) shall not have effect in relation to any application made under any enactment repealed or amended by this Act if that application is pending at the time when the provision of this Act which repeals or amends that enactment comes into force.
+
+### References to provisions of Adoption Act 1976
+
+**[^F73]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F73]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F73]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F73]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Affiliation orders
+
+**6** (1) Neither section 17 of this Act nor any associated amendment or repeal shall affect, or affect the operation of any enactment in relation to—
+
+(a) any affiliation order made under the [^M37]Affiliation Proceedings Act 1957 which is in force immediately before the coming into force of that section; or
+
+(b) any affiliation order made under that Act by virtue of paragraph 1 above.
+
+(2) Any reference in this paragraph or paragraph 7 below to an affiliation order made under the Affiliation Proceedings Act 1957 includes a reference to—
+
+(a) an affiliation order made, by virtue of section 44 of the [^M38]National Assistance Act 1948, section 19 of the [^M39]Supplementary Benefits Act 1976, section 49 or 50 of the [^M40]Child Care Act 1980 or section 25 of the [^M41]Social Security Act 1986; and
+
+(b) any order made in relation to such an order.
+
+**7** Where—
+
+(a) an application is made to the High Court or a county court for an order under section 11B of the 1971 Act in respect of a child whose parents were not married to each other at the time of his birth, and
+
+(b) an affiliation order made under the Affiliation Proceedings Act 1957 and providing for periodical payments is in force in respect of the child by virtue of this Schedule
+
+the court may, if it thinks fit, direct that the affiliation order shall cease to have effect on such date as may be specified in the direction.
+
+### Property rights
+
+**8** The repeal by this Act of section 14 of the [^M42]FamilyLaw Reform Act 1969 shall not affect any rights arising under the intestacy of a person dying before the coming into force of the repeal.
+
+**9** The repeal by this Act of section 15 of the [^M43]Family Law Reform Act 1969 shall not affect, or affect the operation of section 33 of the [^M44]Trustee Act 1925 in relation to—
+
+(a) any disposition inter vivos made before the date on which the repeal comes into force; or
+
+(b) any disposition by will or codicil executed before that date.
+
+**10** The repeal by this Act of section 17 of the Family Law Reform Act 1969 shall not affect the liability of trustees or personal representatives in respect of any conveyance or distribution made before the coming into force of the repeal.
+
+### [^F74] . . .
+
+**[^F75]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F76]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — Repeals
+
+*Section 33(4)*
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 11 & 12 Geo. 6 c.29. | The National Assistance Act 1948. | Section 42(2). |
+|  |  | Section 44. |
+| 14 Geo. 6 c.37. | The Maintenance Orders Act 1950. | Section 3. |
+|  |  | In section 16(2)(a)— |
+|  |  | (a) sub-paragraph (iv); |
+|  |  | (b) the sub-paragraph (vi) inserted by the Children Act 1975; |
+|  |  | (c) in the sub-paragraph (vi) inserted by the Supplementary Benefits Act 1976, the words from “or section 4 of the Affiliation Proceedings Act 1957” to the end; |
+|  |  | (d) in sub-paragraph (viii), the words from “or section 4 of the Affiliation Proceedings Act 1957” to the end. |
+| 3 & 4 Eliz. 2 c.18. | The Army Act 1955. | In section 150(5), the words from “references to a sum ordered to be paid” to the end. |
+| 3 & 4 Eliz. 2 c.19. | The Air Force Act 1955. | In section 150(5), the words from “references to a sum ordered to be paid” to the end. |
+| 5 & 6 Eliz. 2 c.53. | The Naval Discipline Act 1957. | In section 101(5), the words “and includes an affiliation order within the meaning of the Affiliation Orders Act 1914”. |
+| 5 & 6 Eliz. 2 c.55. | The Affiliation Proceedings Act 1957. | The whole Act. |
+| 6 & 7 Eliz. 2 c.39. | The Maintenance Orders Act 1958. | In section 21(1), the words “affiliation order”. |
+| 7 & 8 Eliz. 2 c.73. | The Legitimacy Act 1959. | The whole Act. |
+| 1968 c.63. | The Domestic and Appellate Proceedings (Restriction of Publicity) Act 1968. | In section 2(1), the word “and” following paragraph (c). |
+| 1969 c.46. | The Family Law Reform Act 1969. | Sections 14 and 15. |
+|  |  | Section 17. |
+|  |  | Section 27. |
+| 1970 c.31. | The Administration of Justice Act 1970. | In Schedule 8, paragraph 5. |
+| 1971 c.3. | The Guardianship of Minors Act 1971. | In section 12B, in subsection (1), the words “in maintaining the minor” and, in subsection (3), the words “of a minor”. |
+|  |  | Section 14 and the heading preceding that section. |
+| 1971 c.32. | The Attachment of Earnings Act 1971. | In Schedule 1, paragraph 6. |
+| 1972 c.18. | The Maintenance Orders (Reciprocal Enforcement) Act 1972. | Section 3(3). |
+|  |  | In section 27(9), the words “section 5(5) of the Affiliation Proceedings Act 1957”. |
+|  |  | In section 30— |
+|  |  | (a) in subsection (3), the words “the Affiliation Proceedings Act 1957 or”, the words “paragraph (b) of section 2(1) of the said Act of 1957 (time for making complaint) or”, the words “(provision to the like effect), as the case may be”, the words “three years (or” and the words “in the case of a complaint under the said Act of 1924)”; |
+|  |  | (b) in subsection (5), the words “the said Act of 1957” and the words “as the case may be”; |
+|  |  | (c) in subsection (6), the words “or an affiliation order under the said Act of 1957”. |
+|  |  | In section 41— |
+|  |  | (a) subsection (1); |
+|  |  | (b) in subsection (2A), paragraph (a); |
+|  |  | (c) in subsection (2B), paragraph (a). |
+| 1972 c.49. | The Affiliation Proceedings (Amendment) Act 1972. | The whole Act. |
+| 1973 c.29. | The Guardianship Act 1973. | Section 2(6). |
+|  |  | Section 4(3D). |
+| 1974 c.4. | The Legal Aid Act 1974. | In Schedule 1, in Part I, paragraph 2. |
+| 1975 c.72. | The Children Act 1975. | In section 34, subsections (3) and (4). |
+|  |  | Section 36(5A). |
+|  |  | Section 45. |
+|  |  | In section 85(2), the words “(which relate to separation agreements between husband and wife)”. |
+|  |  | In section 93, subsections (1) and (2). |
+|  |  | In Schedule 3, paragraphs 14 and 75(1). |
+| 1976 c. 36. | The Adoption Act 1976. | In Schedule 3, paragraph 16. |
+| 1978 c. 22. | The Domestic Proceedings and Magistrates’ Courts Act 1978. | In section 20, subsections (10) and (13). |
+|  |  | In section 36(1), paragraph (c). |
+|  |  | Section 38(2). |
+|  |  | Section 41. |
+|  |  | In section 45, subsections (2) and (3). |
+|  |  | In Schedule 2, paragraphs 30 and 44. |
+| 1978 c. 30. | The Interpretation Act 1978. | In Schedule 2, in paragraph 4, the words “earlier than the commencement of this Act”. |
+| 1980 c. 5. | The Child Care Act 1980. | Sections 49 and 50. |
+|  |  | In section 52(1), paragraph (b). |
+|  |  | In section 54, in subsections (1) and (2), the words “49, 50”. |
+|  |  | In section 55, subsection (3) and, in subsection (5), the words from “and any jurisdiction conferred by this section in affiliation proceedings” to the end. |
+|  |  | In section 87(1), in the definition of “relative”, the words from “and includes” to the end. |
+|  |  | In Schedule 2, paragraphs 4 and 5 and, in paragraph 7, the words “49, 50”. |
+|  |  | In Schedule 5, paragraphs 6 to 8. |
+| 1980 c. 43. | The Magistrates’ Courts Act 1980. | In section 59(2), the words “an affiliation order”. |
+|  |  | In section 65(1)— |
+|  |  | (a) in paragraph (b), the words “or section 44”; |
+|  |  | (b) paragraph (d); |
+|  |  | (c) in paragraph (i), the words “or section 19”; |
+|  |  | (d) in paragraph (k), the words “49 or 50”. |
+|  |  | Section 92(3). |
+|  |  | In section 150(1), the definition of “affiliation order”. |
+| 1981 c. 54. | The [[^F38]Senior Courts Act 1981] . | In Schedule 1, in paragraph 3(b)(iii), the words “affiliation or”. |
+| 1982 c. 24. | The Social Security and Housing Benefits Act 1982. | In Schedule 4, paragraph 1. |
+| 1986 c. 50. | The Social Security Act 1986. | In section 24, subsections (2) and (3). |
+|  |  | Section 25. |
+
+---
+
+[^F1]: Words in s. 1(2)(a) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 13(2)(a)
+[^F2]: Words in s. 1(2)(b) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 13(2)(a)
+[^M1]: 1976 c. 31.
+[^F3]: S. 1(3)(ba) - S. 1(3)(bb) inserted (6.4.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), s. 68(2), Sch. 6 para. 24(2); S.I. 2009/479, art. 6(1)(d) (with art. 7 Sch.)
+[^F4]: Words in s. 1(3)(ba) inserted (13.3.2014) by The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560), art. 1(2), Sch. 1 para. 19(a)(i)
+[^F5]: Words in s. 1(3)(ba) inserted (13.3.2014) by The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560), art. 1(2), Sch. 1 para. 19(a)(ii)
+[^F6]: Words in s. 1(3)(bb)(i) inserted (13.3.2014) by The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560), art. 1(2), Sch. 1 para. 19(b)
+[^F7]: Words in s. 1(3)(bb)(ii) inserted (13.3.2014) by The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560), art. 1(2), Sch. 1 para. 19(c)
+[^F8]: S. 1(3)(c) substituted (30.12.2005) by Adoption and Children Act 2002 (c. 38), s. 148(1), Sch. 3 para. 51 (with Sch. 4 paras. 6-8); S.I. 2005/2213, art. 2(o)
+[^F9]: S. 1(4A)(4B) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 13(2)(b)
+[^F10]: S. 1(5)-(8) omitted (2.12.2019) by virtue of The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 13(2)(c)
+[^F11]: S. 2(1)(a) repealed (6.4.2009 except in relation to local authorities in W. except in relation to local authorities in W., 6.4.2009 for W.) by Health and Social Care Act 2008 (c. 14), s. 170(3)(4), Sch. 15 Pt. 5 (with Sch. 13); S.I. 2009/462, art. 4(c); S.I. 2009/631, art. 2(c); S.I. 2009/462, art. 4(c); S.I. 2009/631, art. 2(c)
+[^M2]: 1969 c. 36.
+[^M3]: 1971 c. 3.
+[^F12]: S. 2(1)(g) repealed (01.07.1992) by Social Security (Consequential Provisions) Act 1992 (c. 6), ss. 3, 7(2), Sch. 1 (subject as mentioned (06.03.1992) in Local Government Finance Act 1992 (c. 14), s. 118(5)(7) (with s. 118(1)(2)(4))).
+[^F13]: S. 3 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch.15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F14]: Ss. 4–7 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch.15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F15]: S.4 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch. 15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F16]: S. 5 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch. 15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F17]: S. 6 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch. 15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F18]: S. 7 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch. 15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F19]: S. 8(1) repealed (30.9.1998) by 1998 c. 37, s. 120(2), Sch. 10; S.I. 1998/2327, art. 2(1)(aa)(3)(q)
+[^M4]: 1980 c. 5
+[^F20]: S. 9 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch. 15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F21]: Ss. 10-11 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch.15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F22]: S. 10 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), S. 108, Sch.15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F23]: S. 11 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch. 15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F24]: S. 12-14 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch.15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F25]: S. 12 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20) s. 108 Sch.15 (with Sch. 14 paras. 1(1), 27(4)); S.I 1991/828, art. 3(2)
+[^F26]: S. 13 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch.15 (with Sch. 14 paras. 1(1), 27(4)); S.I 1991/828, art. 3(2)
+[^F27]: S. 14 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch. 15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F28]: S. 15-16 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch.15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F29]: S. 15 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch.15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F30]: S. 16 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch.15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^M5]: 1957 c. 55.
+[^F31]: Words in s. 18(2) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 13(3)
+[^F32]: S. 18(2ZA) inserted (1.10.2014) by Inheritance and Trustees' Powers Act 2014 (c. 16), ss. 5, 12(2) (with s. 12(4)); S.I. 2014/2039, art. 2
+[^F33]: S. 18(2A) inserted (6.4.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), s. 68(2), Sch. 6 para. 25(2); S.I. 2009/479, art. 6(1)(d) (with art. 7, Sch.)
+[^F34]: Words in s. 18(3) substituted (6.4.2009) by Human Fertilisation and Embryology Act 2008 (c. 22), s. 68(2), Sch. 6 para. 25(3); S.I. 2009/479, art. 6(1)(d) (with art. 7, Sch.)
+[^F35]: Words in s. 19(2) substituted (1.1.1997) by 1996 c. 47, s. 25(1), Sch. 3 para. 25 (with ss. 24(2), 25(4)); S.I. 1996/2974, art. 2
+[^M6]: 1925 c. 19.
+[^M7]: 1976 c. 36.
+[^F36]: Words in s. 19(5) inserted (30.12.2005) by Adoption and Children Act 2002 (c. 38), s. 148(1), Sch. 3 para. 52 (with Sch. 4 paras. 6-8); S.I. 2005/2213, art. 2(o)
+[^M8]: 1969 c. 46.
+[^F37]: Words in s. 21(1)(a) inserted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), regs. 1(2), 13(4)
+[^M9]: 1981 c. 54.
+[^F38]: Words in Act substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), s. 148(1), Sch. 11 para. 1(2); S.I. 2009/1604, art. 2(d)
+[^M10]: 1986 c. 55.
+[^M11]: 1969 c. 46.
+[^F39]: Words in s. 23(1) substituted (1.4.2001) by 2000 c. 19, s. 83(5), Sch. 8 para. 9(a) (with s. 83(6)); S.I. 2001/774, art. 2(b)(c)
+[^F40]: Words in s. 23(1) substituted (1.4.2001) by 2000 c. 19, s. 83(5), Sch. 8 para. 9(b) (with s. 83(6)); S.I. 2001/774, art. 2(b)(c)
+[^M12]: 1953 c. 20.
+[^M13]: 1976 c.31.
+[^M14]: 1968 c. 64.
+[^F41]: S. 29(4) repealed (14.10.1991) by Courts and Legal Services Act 1990 (c. 41, SIF 76:1), s. 125(7), Sch. 20; S.I. 1991/1883, art.3, Sch.
+[^M15]: 1953 c. 20.
+[^M16]: 1971 c. 3.
+[^M17]: 1973 c. 29.
+[^M18]: 1950 c. 37.
+[^M19]: 1980 c.5.
+[^M20]: 1976 c.36.
+[^M21]: 1978 c. 28.
+[^M22]: 1969 c. 46.
+[^M23]: 1973 c. 18.
+[^M24]: 1975 c. 72.
+[^M25]: 1978 c. 22.
+[^M26]: 1944 c. 31.
+[^M27]: 1980 c. 43.
+[^M28]: 1973 c.29.
+[^M29]: 1973 c.29.
+[^M30]: 1975 c. 72.
+[^M31]: 1950 c. 37.
+[^F42]: Words in Sch. 2 para. 5 repealed (6.4.2009) by Health and Social Care Act 2008 (c. 14), s. 170(3)(4), Sch. 15 Pt. 5 (with Sch. 13); S.I. 2009/462, art. 4(c); S.I. 2009/631, art. 2(c)
+[^F43]: Sch. 2 para. 6 repealed (6.4.2009) by Health and Social Care Act 2008 (c. 14), s. 170(3)(4), Sch. 15 Pt. 5 (with Sch. 13); S.I. 2009/462, art. 4(c); S.I. 2009/631, art. 2(c)
+[^F44]: Sch. 2 para. 8 repealed (6.4.2009) by Health and Social Care Act 2008 (c. 14), s. 170(3)(4), Sch. 15 Pt. 5 (with Sch. 13); S.I. 2009/462, art. 4(c); S.I. 2009/631, art. 2(c)
+[^F45]: Sch. 2 para. 11 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch.15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F46]: Sch. 2 para. 12(a) repealed (14.10.1991) by Courts and Legal Services Act 1990 (c. 41, SIF 76:1), s. 125(7), Sch. 20; S.I. 1991/1883, art.3, Sch.
+[^M32]: 1975 c. 72.
+[^M33]: 1976 c. 36.
+[^M34]: 1957 c. 55.
+[^F47]: Sch. 2 para. 13 repealed (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 210 Table; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F48]: Sch. 2 para. 14 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch.15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F49]: Sch. 2 para. 14 repealed (14.10.1991) by Children Act 1989 (c.41, SIF 20), s. 108, Sch.15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F50]: Sch. 2 para. 18 repealed (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 10 para. 99 Table; S.I. 2014/954, art. 2(d) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F51]: Words in Sch. 2 para. 19(a) repealed (1.4.2001) by 2000 c. 19, s. 85, Sch. 9 Pt. IX (with s. 83(6)); S.I. 2001/774, art. 2(d)
+[^F52]: Sch. 2 para. 20 repealed (14.10.1991) by Courts and Legal Services Act 1990 (c. 41, SIF 76:1), s. 125(7), Sch. 20; S.I. 1991/1883, art. 3, Sch.
+[^F53]: Sch. 2 para. 26 repealed (30.9.1998) by 1998 c. 37, s. 120(2), Sch. 10; S.I. 1998/2327, art. 2(1)(aa)(3)(q)
+[^F54]: Sch. 2 para. 27(a) repealed (14.10.1991) by Courts and Legal Services Act 1990 (c. 41, SIF 76:1), s. 125(7), Sch. 20; S.I. 1991/1883, art.3, Sch.
+[^M35]: 1980 c. 5.
+[^F55]: Sch. 2 para. 45 repealed (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 210 Table; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F56]: Sch. 2 para. 46 repealed (5.4.1993) by Maintenance Orders (Reciprocal Enforcement) Act 1992, ss. 2(2), 3, Sch. 3; S.I. 1993/618, art.2
+[^F57]: Sch. 2 para. 50 repealed (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 210 Table; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F58]: Sch. 2 para. 51 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch.15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^M36]: 1971 c. 3.
+[^F59]: Sch. 2 para. 59 repealed (01.07.1992) by Social Security (Consequential Provisions) Act 1992 (c. 6), ss. 3, 7(2), Sch.1 (subject as mentioned (06.03.1992) in Local Government Finance Act 1992 (c. 14), s.118(5)(7) (with s. 118(1)(2)(4))).
+[^F60]: Sch. 2 paras. 67, 68 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch.15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F61]: Sch. 2 para. 67 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch.15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F62]: Sch. 2 para. 68 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch.15 (with Sch. 14 paras. 1(1), (4)); S.I. 1991/828, art. 3(2)
+[^F63]: Sch. 2 para. 70 repealed (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 210 Table; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F64]: Sch. 2 para. 81 repealed (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 10 para. 99 Table; S.I. 2014/954, art. 2(d) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F65]: Sch. 2 paras. 83-85 repealed (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 10 para. 99 Table; S.I. 2014/954, art. 2(d) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F66]: Sch. 2 para. 87 repealed (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 10 para. 99 Table; S.I. 2014/954, art. 2(d) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F67]: Sch. 2 para. 89(2) repealed (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 210 Table; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F68]: Sch. 2 para. 91 repealed (01.07.1992) by Social Security (Consequential Provisions) Act 1992 (c. 6), ss. 3, 7(2), Sch. 1 (subject as mentioned (06.03.1992) in Local Government Finance Act 1992 (c. 14), s.118(5)(7) (with s. 118(1)(2)(4))).
+[^F69]: Sch. 2 para. 92 repealed (01.07.1992) by Social Security (Consequential Provisions) Act 1992 (c. 6), ss. 3, 7(2), Sch. 1 (subject as mentioned (06.03.1992) in Local Government Finance Act 1992 (c. 14), s.118(5)(7) (with s. 118(1)(2)(4))).
+[^F70]: Sch. 2 para. 93 repealed (01.07.1992) by Social Security (Consequential Provisions) Act 1992 (c. 6), ss. 3, 7(2), Sch.1 (subject as mentioned (06.03.1992) in Local Government Finance Act 1992 (c. 14), s.118(5)(7) (with s. 118(1)(2)(4))).
+[^F71]: Sch. 2 para. 94 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch.15 (with Sch. 14 paras. 1(1) 27(4)); S.I. 1991/828, art. 3(2)
+[^F72]: Sch. 2 para. 95 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch.15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F73]: Sch. 3 paras. 2-5 repealed (30.12.2005) by Adoption and Children Act 2002 (c. 38), s. 148(1), Sch. 5 (with Sch. 4 paras. 2, 6-8); S.I. 2005/2897, art. 2(b)
+[^M37]: 1957 c. 55.
+[^M38]: 1948 c. 24.
+[^M39]: 1976 c. 71.
+[^M40]: 1980 c. 5.
+[^M41]: 1986 c. 50.
+[^M42]: 1969 c. 46.
+[^M43]: 1969 c. 46.
+[^M44]: 1925 c. 19.
+[^F74]: Sch. 3 paras. 11, 12 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch.15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F75]: Sch. 3 para. 11 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch.15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F76]: Sch. 3 para. 12 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch.15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)

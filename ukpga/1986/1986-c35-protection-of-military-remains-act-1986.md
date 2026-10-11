@@ -1,0 +1,266 @@
+---
+title: "Protection of Military Remains Act 1986"
+identifier: "ukpga/1986/35"
+citation: "1986 c. 35"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1986-07-08
+last_amended: 2024-11-04
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1986/35"
+source_modified: 2025-01-07
+retrieved: 2026-10-11
+---
+
+# Protection of Military Remains Act 1986
+
+**1986 c. 35**
+
+An Act to secure the protection from unauthorised interference of the remains of military aircraft and vessels that have crashed, sunk or been stranded and of associated human remains; and for connected purposes.
+
+[8th July 1986]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1 Application of Act.
+
+(1) This Act applies to any aircraft which has crashed (whether before or after the passing of this Act) while in military service.
+
+(2) Subject to the following provisions of this section, the Secretary of State may by order made by statutory instrument—
+
+(a) designate as a vessel to which this Act applies any vessel which appears to him to have sunk or been stranded (whether before or after the passing of this Act) while in military service;
+
+(b) designate as a controlled site any area (whether in the United Kingdom, in United Kingdom waters or in international waters) which appears to him to contain a place comprising the remains of, or of a substantial part of, an aircraft to which this Act applies or a vessel which has so sunk or been stranded;
+
+and the power of the Secretary of State to designate a vessel as a vessel to which this Act applies shall be exercisable irrespective of whether the situation of the remains of the vessel is known.
+
+(3) The Secretary of State shall not designate a vessel as a vessel to which this Act applies unless it appears to him—
+
+(a) that the vessel sank or was stranded on or after the 4th August 1914; and
+
+(b) in the case of a vessel which sank or was stranded while in service with, or while being used for the purposes of, any of the armed forces of a country or territory outside the United Kingdom, that remains of the vessel are in United Kingdom waters.
+
+(4) The Secretary of State shall not designate any area as a controlled site in respect of any remains of an aircraft or vessel which has crashed, sunk or been stranded unless it appears to him—
+
+(a) that less than two hundred years have elapsed since the crash, sinking or stranding;
+
+(b) that the owners and occupiers of such land in the United Kingdom as is to be designated as, or as part of, that site do not object to the terms of the designating order which afffect them; and
+
+(c) where the aircraft or vessel crashed, sank or was stranded while in service with, or while being used for the purposes of, any of the armed forces of a country or territory outside the United Kingdom, that the remains are in the United Kingdom or in the United Kingdom waters.
+
+(5) An area designated as a controlled site shall not extend further around any place appearing to the Secretary of State to comprise remains of an aircraft or vessel which has crashed, sunk or been stranded while in military service than appears to him appropriate for the purpose of protecting or preserving those remains or on account of the difficulty of identifying that place; and no controlled site shall have a boundary in international waters any two points on which are more than two nautical miles apart.
+
+(6) For the purposes of this Act a place (whether in the United Kingdom, in United Kingdom waters or in international waters) is a protected place if—
+
+(a) it comprises the remains of, or of a substantial part of, an aircraft, or vessel to which this Act applies; and
+
+(b) it is on or in the sea bed or is the place, or in the immediate vicinity of the place, where the remains were left by the crash, sinking or stranding of that aircraft or vessel;
+
+but no place in international waters shall be a protected place by virtue of its comprising remains of an aircraft or vessel which has crashed, sunk or been stranded while in service with, or while being used for the purposes of, any of the armed forces of a country or territory outside the United Kingdom.
+
+(7) The power to designate any land as, or as part of, a controlled site shall be exercisable in relation to Crown land as it is exercisable in relation to other land.
+
+(8) The Secretary of State may by order made by statutory instrument substitute references to a later date for the reference in subsection (3)(a) above to 4th August 1914 or for any reference to a date which is inserted by an order under this subsection; and a statutory instrument containing an order under this subsection shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## 2 Offences in relation to remains and prohibited operations.
+
+(1) Subject to the following provisions of this section and to section 3 below, a person shall be guilty of an offence—
+
+(a) if he contravenes subsection (2) below in relation to any remains of an aircraft or vessel which are comprised in a a place which is part of a controlled site;
+
+(b) if, believing or having reasonable grounds for suspecting that any place comprises any remains of an aircraft or vessel which has crashed, sunk or been stranded while in military service, he contravenes that subsection in relation to any remains by virtue of which that place is a protected place;
+
+(c) if he knowingly takes part in, or causes or permits any other person to take part in, the carrying out of any excavation or diving or salvage operation which is prohibited by subsection (3) below; or
+
+(d) if he knowingly uses, or causes or permits any other person to use, any equipment in connection with the carrying out of any such excavation or operation.
+
+(2) A person contravenes this subsection in relation to any remains—
+
+(a) if he tampers with, damages, moves, removes or unearths the remains;
+
+(b) if he enters any hatch or other opening in any of the remains which enclose any part of the interior of an aircraft or vessel; or
+
+(c) if he causes or permits any other person to do anything falling within paragraph (a) or (b) above.
+
+(3) An excavation or diving or salvage operation is prohibited by this subsection—
+
+(a) if it is carried out at a controlled site for the purpose of investigating or recording details of any remains of an aircraft or vessel which are comprised in a place which is part of that site; or
+
+(b) if it is carried out for the purpose of doing something that constitutes, or is likely to involve, a contravention of subsection (2) above in relation to any remains of an aircraft or vessel which are comprised in a protected place or in a place which is part of such a site; or
+
+(c) in the case of an excavation, if it is carried out for the purpose of discovering whether any place in the United Kingdom or United Kingdom waters comprises any remains of an aircraft or vessel which has crashed, sunk or been stranded while in military service.
+
+(4) In proceedings against any person for an offence under this section, it shall be a defence for that person to show that what he did or, as the case may be, what he caused or permitted to be done was done under and in accordance with a licence under section 4 below.
+
+(5) In proceedings against any person for an offence under this section in respect of anything done at or in relation to a place which is not part of a controlled site it shall be a defence for that person to show that he believed on reasonable grounds that the circumstances were such that (if those had been the circumstances) the place would not have been a protected place.
+
+(6) In proceedings against any person for an offence under this section it shall be a defence for that person to show that what he did or, as the case may be, what he caused or permitted to be done was urgently necessary in the interests of safety or health or to prevent or avoid serious damage to property.
+
+(7) A person who is guilty of an offence under this section shall be liable—
+
+(a) on a summary conviction, to a fine not exceeding the statutory maximum;
+
+(b) on conviction on indictment, to a fine.
+
+(8) Nothing in this section shall be construed as restricting any power to carry out works which is conferred by or under any enactment.
+
+(9) References in this section to any remains which are comprised in a protected place or to any remains which are comprised in a place which is part of a controlled site include references to remains other than those by virtue of which that place is a protected place or, as the case may be, to remains other than those in respect of which that site was or could have been designated.
+
+## 3 Extraterritorial jurisdiction.
+
+(1) Where a contravention of subsection (2) of section 2 above occurs in international waters or an excavation or operation prohibited by subsection (3) of that section is carried out in international waters, a person shall be guilty of an offence under that section in respect of that contravention, excavation or operation only—
+
+(a) if the acts or omissions which constitute the offence are committed in the United Kingdom, in United Kingdom waters or on board a British-controlled ship; or
+
+(b) in a case where those acts or omissions are committed in international waters but not on board a British controlled ship, if that person is—
+
+(i) a British citizen, a British Dependent Territories citizen or a British Overseas citizen; or
+
+(ii) a person who under the British [^M1]Nationality Act 1981 is a British subject; or
+
+(iii) a British protected person (within the meaning of that Act); or
+
+[[^F1](iv) a company registered under the Companies Act 2006.]
+
+(2) Subject to subsection (1) above, an offence under section 2 above shall, for the purpose only of conferring jurisdiction on any court, be deemed to have been committed in any place where the offender may for the time being be.
+
+(3) Where subsection (1) above applies in relation to any contravention, excavation or operation, no proceedings for an offence under section 2 above in respect of that contravention, excavation or operation shall be instituted—
+
+(a) in England and Wales, except by or with the consent of the Director of Public Prosecutions;
+
+(b) in Northern Ireland, except by or with the consent of the Director of Public Prosecutions for Northern Ireland.
+
+## 4 Licences to carry out prohibited works, operations etc.
+
+(1) The Secretary of State shall have power to grant licenses authorising the doing of such things as are described (whether generally or specifically) in the licences for the purpose of enabling those things to be done without the commission of any offence under section 2 above.
+
+(2) A licence under this section shall be capable of being granted to a particular person, to persons of a particular description or to persons generally; and such a licence may be contained in an order designating a controlled site.
+
+(3) The Secretary of State in granting a licence under this section may impose such conditions with respect to the doing of anything authorised by the licence as he may specify in the licence for any purpose connected with protecting or preserving any remains to which the licence relates.
+
+(4) A licence under this section shall continue in force, subject to any amendments made from time to time by the Secretary of State, until the expiration of such period as is specified in the licence or until revoked, whichever is the earlier.
+
+(5) Where a licence (other than a licence contained in an order designating a controlled site) is granted, amended or revoked under this section, the Secretary of State shall, as he thinks fit, either—
+
+(a) send a copy of the licence, amendment or revocation to the licensee; or
+
+(b) publish such a copy in such manner as he considers appropriate for the purpose of bringing it to the attendance of persons likely to be affected by the licence, amendement or revocation.
+
+(6) The grant of a licence under this section is without prejudice to the rights of any person (including the Crown)—
+
+(a) as the owner of an interest in any land where any remains of an aircraft or vessel are, or are thought to be, situated; or
+
+(b) as the owner of, or the person entitled (whether under any enactment or rule of law or otherwise) to claim, an interest in any such remains.
+
+## 5 Supplemental provision with respect to licence applications.
+
+(1) A person shall be guilty of an offence if, for the purpose of obtaining a licence under section 4 above (whether for himself or another or for persons of any description), he—
+
+(a) makes a statement, or furnishes a document or information, which he knows to be false in a material particular; or
+
+(b) recklessly makes a statement or representation, or furnishes a document or information, which is false in a material particular.
+
+(2) A person who is guilty of an offence under subsection (1) above shall be liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum;
+
+(b) on conviction on indictment, to a fine.
+
+(3) The Secretary of State may by order made by statutory instrument require an application made to him for a licence under section 4 above to be accompanied, in such circumstances as may be specified in the order, by a fee of an amount so specified.
+
+(4) A statutory instrument containing an order under subsection (3) above shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) Any fees received by the Secretary of State by virtue of an order under subsection (3) above shall be paid into the Consolidated Fund.
+
+## 6 Powers of boarding by authorised persons.
+
+Subject to the following provisions of this section, an authorised person shall be entitled for the purpose of determining whether an offence under this Act is being, has been or is to be committed to board and search—
+
+(a) any vessel which is in United Kingdom waters; or
+
+(b) any vessel which is in international waters and is a British-controlled ship.
+
+(2) An authorised person shall not board a vessel under this section unless at the time he made his first request to board the vessel he had reasonable grounds for believing—
+
+(a) in the case of a vessel other than a British-controlled ship, that an offence under this Act was being committed on board the vessel; or
+
+(b) in the case of a British-controlled ship, that such an offence was being, had been or was to be so committed.
+
+(3) An authorised person who has boarded a vessel under this section may seize anything which is on board the vessel if he has reasonable grounds for believing—
+
+(a) that it is evidence of an offence under this Act or has been obtained in consequence of the commission of such an offence; and
+
+(b) that it is necessary to seize it to prevent its being concealed, lost, altered or destroyed.
+
+(4) An authorised person may use such force as is reasonably necessary for the purpose of exercising any power conferred on him by this section and may do anything else reasonably necessary for that purpose, including ordering a vessel to stop.
+
+(5) A person on whom a power is conferref by this section shall, if required to do so by the master of the vessel, produce his authority before exercising the power.
+
+(6) Any person who intentionally obstructs a person who is exercising any power conferred by this section shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(7) For the purpose only of conferring jurisdiction on any court, an offence under subsection (6) above shall be deemed to have been committed in any place where the offender may for the time being be.
+
+(8) In this section “authorised person” means a person wuthorised in writing by the Secretary of State to exercise the powers conferred by this section (whether in all cases or only in cases specified or described in the authority) or a person of a description of persons so authorised.
+
+## 7 Supplemental provisions with respect to offences.
+
+(1) [^F2]... [[^F3]Article 11 of the Criminal Justice (Northern Ireland) Order 1994] (power to deprive offenders of property used, or intended for use, for purposes of crime) shall have effect [^F4]... in Northern Ireland [^F5]... as if an offence under section 2 above were an offence punishable on indictment with imprisonment for a term of two years or more.
+
+(2) Where a body corporate is guilty of an offence under this Act and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity he, as well as the body corporate, shall be guillty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(3) Where the affairs of a body corporate are managed by its members, subsection (2) above shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body coporate.
+
+## 8 Administrative expenses.
+
+There shall be paid out of money provided by Parliament any administrative expenses incurred by the Secretary of State in consequence of the provisions of this Act.
+
+## 9 Interpretation.
+
+(1) In this act, except in so far as the context otherwise requires—
+
+- “aircraft” includes a hovercraft, glider or balloon;
+- “British-controlled ship” means a ship registered in the United Kingdom or a ship exempted from such registration under the [[^F6]Merchant Shipping Act 1995];
+- “controlled site” means any area which is designated as such a site under section 1 above;
+- “Crown land” has the same meaning as in section 50 of the [^M2]Ancient Monuments and Archaeological Areas Act 1979 [[^F7]except that in relation to land in Wales, it has the meaning given in section 207 of the Historic Environment (Wales) Act 2023];
+- “international waters” means any part of the sea outside the seaward limits of the territorial wates adjacent to any country or territory;
+- “military service” shall be shall be construed in accordance with subsection (2) below;
+- “nautical miles” means international nautical miles of 1,852 metres;
+- “protected place” shall be construed in accordance with section 1(6) above;
+- “remains”, in relation to, or part of, an aircraft or vessel which has crashed, sunk or been stranded, includes any cargo, munitions, apparel or personal effects which were on board the aircraft or vessel during its final flight or voyage (including, in the case of a vessel, any aircraft which were on board) and any human remains associated with the aircraft or vessel;
+- “sea” includes the sea bed and, so far as the tide flows at mean high water springs, any estuary or arm of the sea and the waters of any channel, creek, bay or river;
+- “sea bed” includes any area submerged at mean high water springs;
+- “United Kingdom waters” means any part of the sea within the seaward limits of the territorial waters adjacent to the United Kingdom.
+
+(2) For the purposes of this Act an aircraft or vessel shall be regarded as having been in military service at a particular time if at that time it was—
+
+(a) in service with, or being used for the purposes of, any of the armed forces of the United Kingdom or any other country or territory; or
+
+(b) in the case of an aircraft, being taken from one place to another for delivery into service with any of the armed forces of the United Kingdom.
+
+(3) Where a place comprising the remains of, or of a substantial part of, any aircraft or vessel which has crashed, sunk or been stranded while in military service is situated only partly in United Kingdom waters, that place shall be treated for the purposes of this Act as if the part which is situated in United Kingdom waters and the part which is situated in the United Kingdom or in international waters were separate places each of which comprised the remains of a substantial part of the aircraft or vessel.
+
+## 10 Short title, commencement and extent.
+
+(1) This Act may be cited as the Protection of Military Remains Act 1986.
+
+(2) This Act shall come into force at the end of the period of two months beginning with the day on which it is passed.
+
+(3) This Act extends to Northern Ireland.
+
+(4) Her Majesty may by Order in Council make provision for extending the provisions of this Act, with such exceptions, adaptations and modifications as may be specified in the Order, to any of the Channel Islands or any colony.
+
+---
+
+[^M1]: 1981 c. 61.
+[^F1]: S. 3(1)(b)(iv) substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941), art. 1(2), Sch. 1 para. 69 (with art. 10)
+[^F2]: Words in s. 7(1) omitted (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by virtue of Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9), s. 5(2)(3), Sch. 2 para. 117(a); S.I. 2012/1236, reg. 2
+[^F3]: Words in s. 7(1) substituted (9.1.1995) by S.I. 1994/2795 (N.I. 5), art. 26(1), Sch. 2 para. 12; S.R. 1994/446, art. 2
+[^F4]: Words in s. 7(1) omitted (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by virtue of Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9), s. 5(2)(3), Sch. 2 para. 117(b); S.I. 2012/1236, reg. 2
+[^F5]: Word in s. 7(1) omitted (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by virtue of Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9), s. 5(2)(3), Sch. 2 para. 117(c); S.I. 2012/1236, reg. 2
+[^F6]: Words in s. 9(1) substituted (1.1.1996) by 1995 c. 21, ss. 314(2), 316(2), Sch. 13 para. 76 (with s. 312(1))
+[^M2]: 1979 c. 46.
+[^F7]: Words in s. 9(1) inserted (W.) (4.11.2024) by Historic Environment (Wales) Act 2023 (asc 3), s. 212(2), Sch. 13 para. 70 (with Sch. 14 paras. 1-3); S.I. 2024/860, art. 3(d)

@@ -1,0 +1,891 @@
+---
+title: "Mines And Quarries (Tips) Act 1969"
+identifier: "ukpga/1969/10"
+citation: "1969 c.10"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S"
+date: 1969-03-27
+last_amended: 2025-05-19
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1969/10"
+source_modified: 2025-06-10
+retrieved: 2026-10-11
+---
+
+# Mines And Quarries (Tips) Act 1969
+
+**1969 c.10**
+
+An Act to make further provision in relation to tips associated with mines and quarries; to prevent disused tips constituting a danger to members of the public; and for purposes connected with those matters.
+
+[27th March 1969]
+
+## Part I — Security of Tips Associated with Mines and Quarries
+
+### [^F1]1 Security of certain tips and application of Mines and Quarries Act 1954.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]2 Tips to which Part I applies.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]3 Duties of owners and managers and powers of inspectors.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]4 Notification of beginning and ending of tipping operations.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]5 Tipping rules.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]6 Plans and sections of tips.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]7 Transmission and preservation of plans, etc. relating to tips at abandoned mines and quarries.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F2]
+
+### [^F3]10 Interpretation of Part I.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part II — Prevention of Public Danger from Disused Tips
+
+### 11 Local authorities having functions under Part II.
+
+(1) For the purpose of ensuring that disused tips do not, by reason of instability, constitute a danger to members of the public, local authorities shall have the functions conferred on them by this Part of this Act.
+
+[[^F4](2) For the purposes of this Part of this Act a disused tip is a tip other than one to which the Quarries Regulations 1999 or the Mines Regulations 2014 apply.]
+
+(3) In this Part of this Act “local authority”, . . . [^F5] means—
+
+(a) in England [^F6]. . ., the council of a county, . . . [^F5][[^F7]metropolitan district]or London borough, the Common Council of the City of London or the Council of the Isles of Scilly,
+
+[[^F8](aa) in Wales, the council of a county or county borough,] and
+
+(b) in Scotland, [[^F9]a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994].
+
+[[^F10](3A) In this Part of this Act, “tip” means an accumulation or deposit of refuse from a mine or quarry (whether in a solid state or in solution or suspension) other than an accumulation or deposit situated underground, and where any wall or other structure retains or confines a tip then, whether or not that wall or structure is itself composed of refuse, it is deemed to form part of the tip for the purposes of this Part.]
+
+(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F11]
+
+### 12 Information relating to disused tips.
+
+(1) For the purpose of enabling a local authority to assess whether a disused tip which is situated wholly or partly within its area is stable and whether any instability of the tip is or is likely to constitute a danger to members of the public, the local authority may, by notice served on the owner of the tip or on any other person who the authority has reason to believe may be able to assist it, require him, within such time, not being less than fourteen days, as may be specified in the notice, to produce to the authority such documents in his possession or control (whether in the form of maps, surveys, plans, records of work or otherwise and whether relating to the tip itself or the land on which it is situated) as may be so specified.
+
+(2) Any person who without reasonable excuse fails to comply with a notice under this section shall be liable on summary conviction to a fine not exceeding [[^F12]level 3 on the standard scale], and any person who, in pursuance of such a notice—
+
+(a) with intent to deceive, produces any document or gives any information which is false in a material particular, or,
+
+(b) knowingly or recklessly makes a statement which is false in a material particular,
+
+shall be liable on summary conviction to a fine not exceeding £400, or, on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or to both.
+
+### 13 Right of entry to carry out exploratory tests, etc.
+
+(1) Subject to the following provisions of this section, a person duly authorised in writing by a local authority may at any reasonable time enter upon the land on which a disused tip is situated or upon any neighbouring land—
+
+(a) for the purpose of investigating whether any instability of the tip might constitute a danger to members of the public;
+
+(b) for the purpose of carrying out any operations (in this Part of this Act referred to as “exploratory tests”) which, in the opinion of the local authority, are necessary to determine whether the tip is unstable; and
+
+(c) for the purpose of inspecting any operations which are being carried out on that land where those operations may affect the stability of the tip;
+
+but, subject to the following provisions of this section, a person so authorised shall not demand admission as of right to any land which is occupied unless at least forty-eight hours’ notice in writing of the intended entry has been given to the occupier.
+
+(2) If it is shown to the satisfaction of a justice of the peace on sworn information in writing—
+
+(a) that admission to any land which any person is entitled to enter under this section has been refused to that person, or that a refusal is apprehended, or that the occupier is temporarily absent, and
+
+(b) that there is reasonable ground for entry on to the land for the purpose for which entry is required.
+
+the justice may by warrant under his hand authorise that person to enter the land, if need be by force; but such a warrant shall not be issued on the ground that entry has been refused or that a refusal of entry is apprehended unless the justice is satisfied that notice in writing of the intention to apply for a warrant has been given to the occupier.
+
+(3) Every warrant granted under this section shall continue in force until the purpose for which the entry is required has been satisfied.
+
+(4) If a local authority has reasonable ground for believing that a disused tip is unstable and that possible danger to members of the public requires an immediate entry on to any such land as is referred to in subsection (1) for one or more of the purposes specified in that subsection, a person duly authorised in writing by the local authority may, at any time and without giving notice or obtaining a warrant under this section, enter upon the land for that purpose (or those purposes).
+
+(5) A person duly authorised to enter on any land by virtue of this section shall, if so required, produce evidence of his authority before so entering and may take with him on to the land such other persons and such equipment as may be necessary.
+
+(6) Any person who wilfully obstructs a person entitled to enter land by virtue of this section shall be liable on summary conviction to a fine not exceeding [[^F13]£50][[^F13]level 3 on the standard scale] or, on a second or subsequent conviction, to a fine not exceeding [[^F13]£100][[^F13]level 3 on the standard scale].
+
+(7) In the application of this section to Scotland—
+
+(a) for any reference to a justice of the peace there shall be substituted a reference to the sheriff, or a magistrate or justice of the peace, having jurisdiction in the place where the land is situated;
+
+(b) for the reference to sworn information in writing there shall be substituted a reference to evidence on oath.
+
+### 14 Notice requiring owner of disused tip to carry out remedial operations.
+
+(1) If it appears to a local authority that a disused tip situated wholly or partly within its area is unstable and, by reason of that instability, constitutes or is likely to constitute a danger to members of the public, the authority may by notice in the prescribed form served on the owner thereof require him to carry out, within such period as may be specified in the notice, being a period beginning not earlier than twenty-one days after the date of service of the notice, such remedial operations as may be so specified.
+
+(2) In this Part of this Act “remedial operations”, in relation to a disused tip, means operations which, in the opinion of the local authority concerned, are necessary to ensure the stability of the tip.
+
+(3) A notice under this section may require the carrying out of remedial operations on the tip itself, on the land on which it is situated or on any neighbouring land which is in the occupation of the owner of the tip or in which he has, otherwise than as a mortgagee, an estate or interest superior to that of the occupier.
+
+(4) Where a local authority serves a notice under this section on the owner of a disused tip, then, within the period of seven days beginning with the day on which the notice was served, the authority shall serve a copy of the notice on—
+
+(a) any other person who is in occupation of the whole or part of the land on which any remedial operations specified in the notice are required to be carried out and any other person who, to the knowledge of the local authority, has an estate or interest, otherwise than as a mortgagee, in that land; and
+
+(b) any other person who, to the knowledge of the local authority, either has an estate or interest, otherwise than as a mortgagee, in the land on which the tip is situated, or had such an estate or interest at any time within the period of twelve years immediately preceding the date of the service of the notice on the owner of the tip; and
+
+(c) any other person who, to the knowledge of the local authority, has an interest in (including a right to acquire) all or any of the material comprised in the tip; and
+
+(d) any other person who, to the knowledge of the local authority, has at any time within the period referred to in paragraph (*b*) above used the tip for the purpose of the deposit of refuse from a mine or quarry; and
+
+(e) any other person who the local authority has reason to believe has, at any time within that period, caused or contributed to the instability of the tip by the carrying out of any operations on the tip, on the land on which it is situated or on neighbouring land or by failing to take any steps which he might reasonably have taken to prevent the tip from becoming unstable.
+
+(5) Where a local authority serves a notice under this section on the owner of a disused tip, then, within the period of twenty-one days beginning with the day on which the notice was served, the owner may serve a counter-notice under this subsection in the prescribed form requiring the local authority to exercise its powers under section 17; and where such a counter-notice is served—
+
+(a) the local authority shall serve a copy of the counter-notice on every person on whom, under subsection (4), it served a copy of the notice under this section;
+
+(b) the notice under this section and any copy thereof served under subsection (4) shall be deemed for the purposes of the following provisions of this Part of this Act never to have been served; and
+
+(c) the local authority shall, as soon as reasonably practicable, exercise its powers under section 17 in relation to the disused tip in question.
+
+(6) Where the owner of a disused tip is required by a notice under this section to carry out remedial operations on any land which is not in his occupation but in which he has an estate or interest superior to that of the occupier, then, as against the occupier and any other person having an estate or interest in the land in question, the owner of the disused tip shall have the right to enter on to the land in order to carry out the remedial operations and any consequential works of reinstatement and to take with him on to the land such other persons and such equipment as may be necessary.
+
+(7) Where, in the course of carrying out remedial operations specified in a notice under this section, material which is not the property of the owner of the disused tip is removed from the tip, the owner may sell the material but shall account to the owner thereof for the proceeds of sale; but nothing in this subsection shall prevent the owner of a disused tip from setting off the proceeds of sale or any part thereof against any sum which he is entitled to recover from the owner of the material under the following provisions of this Part of this Act.
+
+(8) If, without reasonable excuse, the owner of a disused tip on whom a notice is served under this section fails to carry out the remedial operations specified in the notice within the period specified therein or, if that period is extended on an application under subsection (3) or subsection (4) of section 15, within that period as so extended, he shall be liable on summary conviction to a fine not exceeding [[^F14]level 5 on the standard scale].
+
+### 15 Appeals against notices under s. 14.
+
+(1) A person on whom is served a notice or a copy of a notice under section 14 may, within the period of twenty-one days beginning with the date of service of the notice on the owner, apply to the court for an order varying or cancelling the notice on any one or more of the following grounds, namely,—
+
+(a) that there is no reasonable ground for believing that the tip is unstable or that, by reason of instability, the tip constitutes or is likely to constitute a danger to members of the public;
+
+(b) that the remedial operations specified in the notice are more extensive than is necessary to secure the safety of members of the public;
+
+(c) that the stability of the tip could be ensured by the carrying out of operations different, in whole or in part, from the remedial operations specified in the notice and that the owner is prepared to undertake those alternative operations;
+
+(d) that the owner or some other person has already begun, or has entered into a contract with a third party to begin, operations different, in whole or in part, from the remedial operations specified in the notice and those alternative operations will ensure the stability of the tip;
+
+(e) that the time within which the remedial operations are to be carried out is not reasonably sufficient for the purpose;
+
+(f) that there is some defect or error in, or in connection with the notice.
+
+(2) If and so far as an application under this section is based on the ground of some defect or error in or in connection with the notice, the court shall dismiss the application if it is satisfied that the defect or error was not material.
+
+(3) Subject to subsection (2), if the court is satisfied on an application under this section that the ground, or any of the grounds, of the application is made out, the court may make an order varying or, if the court thinks fit, cancelling the notice; and where a notice is varied under this section the notice and any copy thereof which has been served under section 14(4) shall be deemed always to have had effect as so varied.
+
+(4) Where an application is made under this section and is not withdrawn, the period specified in the notice in question as the period within which the remedial operations are to be carried out shall not expire before the application is finally determined; and where on an application under this section the court is not satisfied that the ground, or any of the grounds, of the application is made out, the court may nevertheless by order extend the period specified in the notice as the period within which the remedial operations are to be carried out.
+
+### 16 Cancellation by local authority of notice under s. 14.
+
+(1) Where a local authority has served on the owner of a disused tip a notice under section 14 requiring the carrying out of remedial operations then, notwithstanding that an application may have been made under section 15 in respect of the notice or that the owner may have begun to carry out the operations (and whether or not the period specified for the carrying out of the operations has expired) the local authority may at any time before the completion of the remedial operations cancel the notice under section 14 by a notice under this section in the prescribed form served on the owner.
+
+(2) Where a notice is served under this section in respect of a notice under section 14, the local authority shall serve a copy of the notice so served on every person on whom it served a copy of the notice under section 14.
+
+(3) Where a notice under section 14 is cancelled under this section then, without prejudice to any penalty already incurred by the owner of the tip under section 14(8), the owner shall no longer be required to carry out the remedial operations specified in the notice which is cancelled; but the service of a notice under this section shall not affect the right of the local authority to serve a further notice under section 14 in relation to the disused tip in question.
+
+(4) Where a local authority has cancelled a notice under section 14 and the owner of the disused tip has incurred expenditure in compliance with the notice, the owner may apply to the court for an order directing the local authority to reimburse to him the whole, or such part as the court thinks fit, of—
+
+(a) any expenditure incurred by him in consequence of the service of the notice under section 14; and
+
+(b) any expenditure incurred by him which is attributable to the cancellation of that notice (whether relating to the reinstatement of any land, the cancellation of any contract or otherwise).
+
+(5) In determining whether to make an order under subsection (4) or to what extent the local authority is to be required by such an order to reimburse the owner, the court shall have regard to all the circumstances of the case and, in particular, to the grounds on which the local authority cancelled the notice under section 14 and to whether the local authority has served or intends to serve a further notice on the owner under section 14 or whether the local authority intends to carry out remedial operations itself.
+
+### 17 Carrying out of remedial operations and works of reinstatement by local authority.
+
+(1) Where a local authority considers that such circumstances exist as are specified in section 14(1) then, instead of serving a notice under that section requiring the owner of the disused tip in question to carry out remedial operations, the authority may itself carry out remedial operations and any works of reinstatement reasonably necessary in consequence of the carrying out of those remedial operations.
+
+(2) Subject to subsection (3), where a local authority proposes to carry out remedial operations under subsection (1) in relation to a disused tip it shall, not less than twenty-one days before the operations are begun, serve notice on the owner of the tip of its intention to carry out the operations, specifying the nature and extent of the operations and of any consequential works of reinstatement which it proposes to carry out.
+
+(3) If a local authority has reasonable ground for believing that a disused tip is unstable and that possible danger to members of the public requires the immediate carrying out of remedial operations, it may begin operations under subsection (1) forthwith, notwithstanding that no notice under subsection (2) has been served or that less than twenty-one days has elapsed since the service of such a notice; but if no such notice has been served at the time the remedial operations are begun, then, as soon thereafter as is reasonably practicable, the local authority shall serve notice on the owner of the tip of the commencement of the operations, specifying the nature and extent of the operations and of any consequential works of reinstatement which it proposes to carry out.
+
+(4) A notice under subsection (2) or subsection (3) shall be in the prescribed form.
+
+(5) Concurrently with the service of a notice under subsection (2) or subsection (3) on the owner of a disused tip, or as soon thereafter as is reasonably practicable a copy of that notice shall be served on every person falling within paragraphs (*a*) to (*e*) of section 14(4) (and for the purposes of this subsection, any reference in those paragraphs to the notice shall be construed as a reference to the notice served on the owner of the disused tip under subsection (2) or subsection (3)).
+
+(6) A local authority may sell any material removed from a disused tip in the course of remedial operations carried out by it under subsection (1) and shall account to the owner of the material for the proceeds of sale thereof; but nothing in this subsection shall prevent the local authority from setting off the proceeds of sale or any part thereof against any sum which the local authority is entitled to recover from the owner of the material under the following provisions of this Part of this Act.
+
+(7) Where a local authority is the owner of a disused tip situated wholly or partly within its area, Schedule 2 to this Act shall apply in relation to the carrying out by the local authority of remedial operations relating to that tip.
+
+### 18 Right of entry to carry out remedial operations and works of reinstatement.
+
+(1) Where a local authority has served a notice under section 17(2) of its intention to carry out remedial operations in relation to a disused tip or where no such notice has been served but section 17(3) applies, a person duly authorised in writing by the local authority may at any reasonable time enter upon the land on which the disused tip is situated or upon any neighbouring land for any purpose connected with the carrying out of remedial operations or consequential works of reinstatement; but, subject to the following provisions of this section, a person so authorised shall not demand admission as of right to any land which is occupied unless twenty-four hours’ notice in writing of the intended entry has been given to the occupier.
+
+(2) If it is shown to the satisfaction of a justice of the peace on sworn information in writing—
+
+(a) that admission to any land which any person is entitled to enter under this section has been refused to that person, or that a refusal is apprehended, or that the occupier is temporarily absent, and
+
+(b) that there is reasonable ground for entry on to the land for the purpose for which entry is required,
+
+the justice may by warrant under his hand authorise that person to enter the land, if need be by force; but such a warrant shall not be issued on the ground that entry has been refused or that a refusal of entry is apprehended unless the justice is satisfied that notice in writing of the intention to apply for a warrant has been given to the occupier.
+
+(3) Every warrant granted under this section shall continue in force until the purpose for which the entry is required has been satisfied.
+
+(4) Notwithstanding anything in subsection (1), in a case falling within section 17(3), a person duly authorised in writing by the local authority concerned may exercise the right of entry conferred by subsection (1) without giving notice or obtaining a warrant under this section.
+
+(5) A person duly authorised to enter on any land by virtue of this section shall, if so required, produce evidence of his authority before so entering and may take with him on to the land such other persons and such equipment as may be necessary.
+
+(6) Any person who wilfully obstructs a person entitled to enter land by virtue of this section shall be liable on summary conviction to a fine not exceeding [[^F15]£50][[^F15]level 3 on the standard scale] or, on a second or subsequent conviction, to a fine not exceeding [[^F15]£100][[^F15]level 3 on the standard scale].
+
+(7) In the application of this section to Scotland—
+
+(a) for any reference to a justice of the peace there shall be substituted a reference to the sheriff, or a magistrate or justice of the peace, having jurisdiction in the place where the land is situated;
+
+(b) for the reference to sworn information in writing there shall be substituted a reference to evidence on oath.
+
+### 19 Contribution orders.
+
+(1) Where a notice relating to remedial operations at a disused tip has been served on the owner of the tip under section 14 or section 17 and an application is made to the court under this section, the court may order that a contribution towards the expenses otherwise falling to be borne by the owner of the disused tip as a result of the carrying out of the remedial operations shall be made by any one or more of the following persons on whom notice of the application has been served, namely,—
+
+(a) any person who at the date of the service of the notice under section 14 or section 17 had an estate or interest, otherwise than as a mortgagee, in the land on which the tip is situated and any person who had such an estate or interest at any time within the period of twelve years immediately preceding that date;
+
+(b) any other person who has, at any time within that period, used the tip for the purpose of the deposit of refuse from a mine or quarry; and
+
+(c) any other person who, in the opinion of the court, has at any time within that period caused or contributed to the instability of the tip by the carrying out of any operations on the tip, on the land on which it is situated or on neighbouring land or by failing to take any steps which he might reasonably have taken to prevent the tip from becoming unstable.
+
+(2) An application under this section may be made by the owner of the disused tip on whom has been served the notice referred to in subsection (1) and, in the case of a notice under section 17, such an application may also be made by the local authority which served the notice.
+
+(3) An application under this section shall be of no effect unless it is made within the following period namely,—
+
+(a) where the application relates to a notice under section 14 and no application is made in respect of the notice under section 15, the period of three months beginning with the date of service of that notice on the owner; and
+
+(b) where the application relates to a notice under section 14 in respect of which an application is made under section 15, the period beginning with the date of service of that notice on the owner and ending three months after the date on which the application under section 15 is withdrawn or finally determined; and
+
+(c) where the application relates to a notice served under section 17, the period of three months beginning with the date of service of that notice on the owner of the disused tip.
+
+(4) In determining whether to make an order under this section requiring any person to make a contribution or what is to be the amount of any such contribution the court shall have regard to all the circumstances of the case and, in particular,—
+
+(a) to the extent to which it appears to the court that that person has, by any act or omission, caused or contributed to the instability of the tip;
+
+(b) to the extent to which that person has used the tip for the deposit of refuse;
+
+(c) to the nature and extent of any estate or interest which that person had, at the date of the service of the notice under section 14 or section 17, in the land on which the tip is situated;
+
+(d) in the case of a person who had an estate or interest in that land but disposed of it before that date, to whether, in the opinion of the court, he disposed of his estate or interest for the purpose of evading any liability (whether under this Part of this Act or otherwise) in connection with the disused tip; and
+
+(e) to the terms of any covenant, agreement or statutory provision affecting the rights and obligations in relation to the tip of that person and the owner thereof.
+
+(5) An order under this section shall specify the amount of the contribution to be made by the person to whom it relates as a percentage (which, if the court thinks appropriate in any case, may be 100 per cent) of the total amount in respect of which a contribution can be claimed under the following provisions of this Part of this Act.
+
+(6) In this Part of this Act—
+
+- “contributory” means the person to whom an order under this section relates;
+- “covenant”, in relation to Scotland, means an obligation or agreement, and includes a real burden*ad factum praestandum*; and
+- “the specified percentage”, in relation to a contributory, means the percentage specified, in accordance with subsection (5) in the order under this section relating to the contributory.
+
+### 20 Compensation for damage or disturbance.
+
+(1) Subject to the following provisions of this section, where, as a result of remedial operations carried out by the owner of a disused tip in pursuance of a notice under section 14 or of exploratory tests or remedial operations carried out by a local authority under section 17(1),—
+
+(a) any land on which entry is made for the purpose of carrying out those operations or tests is damaged, or
+
+(b) any person is disturbed in his enjoyment of any land,
+
+any person interested in the land which is damaged or, as the case may be, the person whose enjoyment of land is disturbed shall be entitled to recover compensation under this section in respect of that damage or disturbance.
+
+(2) Subject to the following provisions of this Part of this Act—
+
+(a) compensation for damage or disturbance resulting from the carrying out of exploratory tests shall be recoverable from the local authority which carried out the tests; and
+
+(b) compensation for damage or disturbance resulting from the carrying out of remedial operations shall be recoverable from the owner of the disused tip by whom, or, as the case may be, the local authority by which, the operations were carried out.
+
+(3) Nothing in this section shall entitle the owner of a disused tip to compensation in respect of damage or disturbance resulting from remedial operations carried out by him or by any other person who was the owner of the disused tip at the time the remedial operations were carried out.
+
+(4) Subsections (1) to (3) shall apply in relation to damage or disturbance resulting from the carrying out of works of reinstatement consequential upon any remedial operations and accordingly any reference in those subsection to remedial operations includes a reference to consequential works of reinstatement.
+
+(5) Any dispute arising on a claim for compensation under this section shall be determined by the court.
+
+(6) The provisions of Schedule 3 to this Act shall have effect in relation to any claim for compensation under this section by the owner of a disused tip or by a contributory.
+
+### 21 Recovery from contributories of expenses of owner carrying out remedial operations.
+
+(1) Subject to the following provisions of this section, where—
+
+(a) remedial operations have been carried out by the owner of a disused tip in compliance with a notice under section 14, and
+
+(b) an order for contribution towards the expenses otherwise falling to be borne by the owner as a result of the carrying out of those operations has been made under section 19,
+
+the owner of the disused tip shall be entitled to recover from the contributory the specified percentage of the total amount determined in accordance with subsection (2).
+
+(2) Subject to subsection (4), the total amount in respect of which a contribution may be claimed by the owner of a disused tip in a case falling within subsection (1) is the aggregate of—
+
+(a) the expenses reasonably incurred by the owner in carrying out the remedial operations referred to in subsection (1) and any works of reinstatement reasonably necessary in consequence of the carrying out of those operations;
+
+(b) the amount of any such compensation as is mentioned in paragraph (*b*) of section 20(2) (being compensation referable to those remedial operations or consequential works of reinstatement) which is recoverable (or has been recovered) from the owner in pursuance of a claim under section 20; and
+
+(c) the amount of any such compensation as is referred to in paragraph (*b*) of section 20(2) in respect of which the owner could himself have made a claim under section 20 if the remedial operations (and any consequential works of reinstatement) had been carried out by the local authority.
+
+(3) No contribution shall be recoverable under this section unless a demand therefor is served on the contributory specifying, in addition to the sum claimed by way of contribution,—
+
+(a) the total amount in respect of which the contribution is claimed, and
+
+(b) the separate amounts which comprise that total, distinguished by reference to paragraphs (*a*), (*b*) and (*c*) of subsection (2).
+
+(4) In any case where remedial operations have been carried out by the owner of a disused tip in compliance with a notice under section 14 and that notice was cancelled under section 16, this section and section 22 shall have effect subject to the modifications in Schedule 4 to this Act.
+
+### 22 Appeals against demands under s. 21.
+
+(1) Within the period of six weeks beginning with the date of service on a contributory of a demand under section 21(3), the contributory may apply to the court for an order varying the demand on any one or more of the following grounds, namely,—
+
+(a) that the amount of the expenses incurred by the owner of the disused tip in carrying out the remedial operations was greater than was reasonable;
+
+(b) that the amount of the expenses incurred by the owner in carrying out works of reinstatement was greater than was reasonably necessary to reinstate the land in consequence of the remedial operations;
+
+(c) that, because the time taken by the owner to carry out the remedial operations or any consequential works of reinstatement was unreasonably long, the compensation paid or payable to any person in pursuance of a claim under section 20 in respect of damage or disturbance is greater than it would otherwise have been;
+
+(d) that the amount of the compensation paid or payable to any person in pursuance of a claim under section 20 is greater than is necessary to compensate him in respect of any damage or disturbance suffered;
+
+(e) that the amount specified in the demand as being referable to paragraph (*c*) of section 21(2) is greater than the compensation which could have been claimed by the owner in the circumstances specified in that paragraph;
+
+(f) that the amount claimed in the demand is greater than the specified percentage of the amount determined under section 21(2).
+
+(2) If on an application under subsection (1) the court is satisfied that the ground, or any of the grounds, of the application is made out, the court may make an order reducing the amount recoverable by the owner of the disused tip from the contributory to such amount as the court thinks fit.
+
+(3) Subject to the right to make an application under subsection (1) and to Schedule 4 to this Act a demand under section 21(3) shall be final and conclusive.
+
+### 23 Right of local authority to recover certain expenses.
+
+(1) Subject to the following provisions of this section and to sections 24 and 25, where a local authority has carried out remedial operations in relation to a disused tip under section 17(1), the authority shall be entitled to recover from the owner of the tip—
+
+(a) the expenses reasonably incurred by the authority in carrying out any exploratory tests which gave rise to the remedial operations;
+
+(b) the expenses reasonably incurred by the authority in carrying out the remedial operations and any works of reinstatement reasonably necessary in consequence of the carrying out of those operations;
+
+(c) [[^F16]such sum, not exceeding 5 per cent. of the expenses referred to in paragraphs (*a*) and (*b*) above, as the authority thinks fit in respect of its establishment charges;] and
+
+(d) the amount of any such compensation as is mentioned in section 20(2) (being compensation referable to the carrying out of the exploratory tests, remedial operations or works of reinstatement referred to in paragraphs (*a*) and (*b*) above) which is recoverable (or has been recovered) from the local authority in pursuance of a claim under section 20.
+
+(2) Subject to the following provisions of this section and to section 24, where a local authority has carried out, in relation to a disused tip, exploratory tests which resulted in the service of a notice under section 14 requiring the owner of the tip to carry out remedial operations, the local authority shall be entitled to recover from the owner—
+
+(a) the expenses reasonably incurred by the authority in carrying out those exploratory tests;
+
+(b) such sum, not exceeding 5 per cent. of the expenses referred to in paragraph (*a*) above, as the authority thinks fit in respect of its establishment charges; and
+
+(c) the amount of any such compensation as is mentioned in paragraph (*a*) of section 20(2) (being compensation referable to the carrying out of the exploratory tests referred to in paragraph (*a*) above) which is recoverable (or has been recovered) from the local authority in pursuance of a claim under section 20.
+
+(3) Where an order has been made under section 19 requiring any person to make a contribution towards the expenses otherwise falling to be borne by the owner of the disused tip as a result of the carrying out of the remedial operations referred to in subsection (1), or, as the case may be, subsection (2),—
+
+(a) the local authority referred to in that subsection shall be entitled to recover from the contributory the specified percentage of the amount recoverable (disregarding paragraph (*b*) below) from the owner of the disused tip under that subsection; and
+
+(b) the amount recoverable from the owner of the disused tip under that subsection shall be reduced by any sum or sums which the local authority is entitled to recover from any contributory or contributories by virtue of paragraph (*a*) above.
+
+(4) No sum shall be recoverable under this section by a local authority from the owner of a disused tip or from any contributory unless a demand therefor is served on the owner or, as the case may be, the contributory specifying, in addition to the sum claimed by the local authority,—
+
+(a) in the case of a demand served on a contributory, the total amount in respect of which the contribution is claimed;
+
+(b) in the case of a demand served on the owner of a disused tip, the sums (if any) which the local authority is entitled to recover from any contributory or contributories; and
+
+(c) in either case, the separate amounts which comprise the total amount recoverable by the local authority, distinguished by reference to each of paragraphs (*a*) to (*d*) of subsection (1) or, as the case may be, paragraphs (*a*) to (*c*) of subsection (2).
+
+(5) Together with any sum recoverable by a local authority under this section from the owner of a disused tip or from a contributory, the local authority shall be entitled to recover interest from the date of service on him of the demand therefor under subsection (4) until the total amount recoverable from that person is paid, at such [[^F17]reasonable rate as the authority may determine]; and, with the agreement of the authority, any sum so recoverable may be paid by such instalments as may be agreed.
+
+(6) For the purposes of this section,—
+
+(a) the owner of the disused tip, in a case falling within subsection (1), is the person who was the owner at the date of the commencement of the remedial operations referred to in that subsection and, in a case falling within subsection (2), is the person on whom was served the notice under section 14 referred to in that subsection; and
+
+(b) exploratory tests relating to a disused tip shall be deemed to give rise to remedial operations in relation to that tip or, as the case may be, to result in the service of a notice under section 14 if, within the period of six months after the completion of the tests, the local authority began those operations or served the notice under section 14 on the owner of the tip.
+
+### 24 Appeals against demands under s. 23.
+
+(1) Within the period of six weeks beginning with the date of the service on the owner of a disused tip or on a contributory of a demand under section 23(4), the person on whom the demand was served may apply to the court for an order varying or cancelling the demand on any one or more of the grounds specified in subsection (2) or subsection (3), whichever is appropriate to the case in question.
+
+(2) Where the demand referred to in subsection (1) is made in a case falling within section 23(1), the grounds on which an application may be made under this section are—
+
+(a) that the amount of the expenses incurred by the local authority in carrying out exploratory tests or remedial operations was greater than was reasonable;
+
+(b) that the amount of the expenses incurred by the local authority in carrying out works of reinstatement was greater than was reasonably necessary to reinstate the land in consequence of the remedial operations;
+
+(c) that, at the time the remedial operations were begun, there was no reasonable ground for believing that the disused tip concerned was unstable or that, by reason of instability, the tip constituted or was likely to constitute a danger to members of the public;
+
+(d) that the remedial operations carried out by the local authority were more extensive than was necessary to secure the safety of members of the public;
+
+(e) that, because the time taken by the local authority to carry out the exploratory tests or the remedial operations or any consequential works of reinstatement was unreasonably long, the compensation paid or payable to any person in pursuance of a claim under section 20 in respect of damage or disturbance is greater than it would otherwise have been;
+
+(f) that the amount of the compensation paid or payable to any person in pursuance of a claim under section 20 is greater than is necessary to compensate him in respect of any damage or disturbance suffered;
+
+(g) that, in the case of a demand served on a contributory, the amount claimed in the demand is greater than the specified percentage of the total amount recoverable by the local authority under section 23(1);
+
+(h) that, in the case of a demand served on the owner of the disused tip concerned, the amount claimed in the demand does not give proper allowance for any sum or sums which the local authority is entitled to recover from any contributory or contributories.
+
+(3) Where the demand referred to in subsection (1) is made in a case falling within section 23(2), the grounds on which an application may be made under this section are—
+
+(a) that the amount of the expenses incurred by the local authority in carrying out the exploratory tests in question was greater than was reasonable;
+
+(b) that, because the time taken by the local authority to carry out the exploratory tests was unreasonably long, the compensation paid or payable to any person in pursuance of a claim under section 20 in respect of damage or disturbance is greater than it would otherwise have been;
+
+(c) that the amount of the compensation paid or payable to any person in pursuance of a claim under section 20 is greater than is necessary to compensate him in respect of any damage or disturbance suffered;
+
+(d) that, in the case of a demand served on a contributory, the amount claimed in the demand is greater than the specified percentage of the total amount recoverable by the local authority under section 23(2);
+
+(e) that, in the case of a demand served on the owner of the disused tip concerned, the amount claimed in the demand does not give proper allowance for any sum or sums which the local authority is entitled to recover from any contributory or contributories.
+
+(4) If on an application under this section the court is satisfied that the ground, or any of the grounds, of the application is made out, the court may make an order either cancelling the demands in respect of which the application was made or reducing the amount recoverable from the person on whom that demand was served to such amount as the court thinks fit.
+
+(5) Subject to the right to make an application under this section, a demand under section 23(4) shall be final and conclusive.
+
+### 25 Grants towards local authority expenditure.
+
+(1) Where remedial operations are being or have been carried out in relation to a disused tip by a local authority, the appropriate Minister may, with the consent of the Treasury, make grants to the local authority towards the expenditure incurred by the authority in or in connection with the carrying out of the remedial operations, any previous exploratory tests and any consequential works of reinstatement.
+
+(2) Grants made by the appropriate Minister under this section shall be of such amounts and payable at such times and subject to such conditions as he may from time to time determine either generally or in the case of any particular local authority or grant.
+
+(3) Grants under this section may be made either as periodical grants in respect of the costs from time to time incurred or treated as incurred by a local authority in respect of the borrowing of money to defray expenditure qualifying for such grants, or as capital grants in respect of such expenditure or in substitution for such periodical grants.
+
+(4) Where a grant is made to a local authority under this section the appropriate Minister may, after consultation with the local authority, give a direction that, having regard to the amount of the grant, the total amount recoverable from the owner of the disused tip concerned and any contributories under section 23, in respect of the expenditure referred to in paragraphs (*a*) to (*d*) of section 23(1), shall be limited to such amount as may be specified in the direction.
+
+(5) Where a direction is given under subsection (4) limiting the amount recoverable from the owner of the disused tip and any contributories under section 23 to the amount specified in the direction then, in relation to the recovery of that amount by the local authority,—
+
+(a) in a case where there are no contributories, the amount recoverable under that section from the owner by the local authority shall be reduced to the amount specified in the direction.
+
+(b) any reference in section 23(3) to the amount recoverable from the owner of the disused tip shall be construed as a reference to the amount specified in the direction;
+
+(c) a demand under section 23(4) shall state that the direction has been given and shall state the amount specified in the direction;
+
+(d) in section 23(4), the reference in paragraph (*a*) to the total amount in respect of which the contribution is claimed and the reference in paragraph (*c*) to the total amount recoverable by the local authority shall each be construed as a reference to the total amount which would have been recoverable by the authority if no direction had been given; and
+
+(e) in paragraph (*g*) of section 24(2), for the reference to the total amount recoverable by the authority under section 23(1) there shall be substituted a reference to the amount specified in the direction.
+
+[[^F18](6) Where, by virtue of Part VI of the [^M1]Local Government Act 1972, a district council incurs any such expenditure as is referred to in subsection (1), grants under this section may be made to the district council and references to a local authority shall be construed accordingly.]
+
+### 26 Penalty for obstructing remedial operations and damaging completed works.
+
+(1) Any person who wilfully prevents or interferes with the carrying out of exploratory tests or remedial operations shall be liable on summary conviction to a fine not exceeding [[^F19]level 3 on the standard scale].
+
+(2) Any person who wilfully damages or otherwise interferes with any works completed in the course of remedial operations for the purpose of ensuring the stability of a disused tip shall be liable on summary conviction to a fine not exceeding [[^F20]level 5 on the standard scale].
+
+### 27 Offences under Part II.
+
+(1) Proceedings in respect of an offence under this Part of this Act shall not, in England and Wales, be instituted except by a local authority or by or with the consent of the Director of Public Prosecutions.
+
+(2) Where an offence under this Part of this Act which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(3) In this section “director”, in relation to a body corporate established by or under any enactment for the purpose of carrying on under national ownership any industry or part of an industry or undertaking, being a body corporate whose affairs are managed by its members, means a member of that body corporate.
+
+### [[^F21]28 “ The court” in England and Wales.
+
+- In the application of this Part of this Act to England and Wales, “ the court ” means the High Court or [[^F22] the county court ]. ]
+
+### 29 Regulations and orders.
+
+(1) Any power conferred by this Part of this Act to make regulations and the power to make an order under section 23(5) shall be exercisable by statutory instrument.
+
+(2) A statutory instrument containing regulations under this Part of this Act shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(3) A statutory instrument containing an order under section 23(5) shall be laid before Parliament after being made.
+
+(4) The power to make an order under section 23(5) includes power to vary or revoke such an order by a further order under that section.
+
+### 30 Service of documents.
+
+(1) Any document which is required or authorised under this Part of this Act to be given to or served on any person may be given to or served on him—
+
+(a) by delivering it to him or by leaving it at his proper address; or
+
+(b) by sending it to him by post.
+
+(2) Any document required or authorised under this Part of this Act to be given to or served on a body corporate shall be duly given or served if it is given to or served on the secretary or clerk of that body.
+
+(3) For the purposes of this section and of [[^F23]section 7 of the [^M2]Interpretation Act 1978] (service of documents by post) in its application to this section, the proper address of any person to or on whom any document is to be given or served shall, in the case of the secretary or clerk of a body corporate, be that of the registered or principal office of that body, and in any other case shall be the last known address of the person to be served:
+
+Provided that, if the person to or on whom the document to be given or served has, in accordance with arrangements agreed, given an address in the United Kingdom for the giving or service of the document, his proper address for those purposes shall be that address.
+
+(4) If the name or the address of any owner, lessee or occupier of land to or on whom any document is to be given or served under this Part of this Act cannot after reasonable inquiry be ascertained by the local authority or person seeking to give or serve the document, but there is on that land a building occupied by some person, the document may be given or served by addressing it to the person to or on whom it is to be given or served by the description of “owner”, “lessee” or “occupier” of the land (describing it) and either delivering it to some responsible person in the building or sending it by post to that building in a letter addressed to “the owner”, “the lessee”, or “the occupier”, as the case may be.
+
+(5) In relation to any document required or authorised under this Part of this Act to be given or served by a local authority, the preceding provisions of this section shall have effect in place of [[^F24]section 233 of the [^M3]Local Government Act 1972] or [[^F25]section 192 of the [^M4]Local Government (Scotland) Act 1973] (service of notices by local authority) but nothing in this section shall affect the operation in relation to such a document of [[^F24]section 234 of the said Act of 1972] or, as the case may be, [[^F25]section 193 of the said Act of 1973] (authentication of documents).
+
+### 31 Ecclesiastical property.
+
+(1) No notice under section 14 may be served in respect of a disused tip if the land on which the tip is situated is ecclesiastical property, but nothing in this subsection affects the powers of a local authority under section 17.
+
+(2) Where under this Part of this Act a document is required or authorised to be given to, or served on, any person as occupier of, or owner of an estate or interest in, any land which is ecclesiastical property, a copy of the document shall be given to or served on the [^F26]Church Commissioners[[^F26] Diocesan Board of Finance for the diocese in which the land is situated ].
+
+(3) Any compensation payable under section 20 to a person by virtue of his having an estate in fee simple in any land shall, if that land is ecclesiastical property, be paid (where the fee simple is vested in any person other than the [^F26]Church Commissioners[[^F26] Diocesan Board of Finance for the diocese in which the land is situated ]) to [^F27]them[[^F27] it ] instead of that person.
+
+(4) Any sums paid under subsection (3) to the [^F26]Church Commissioners[[^F26] Diocesan Board of Finance for the diocese in which the land is situated ] with reference to any land shall, if the land is not consecrated, be applied by [^F27]them[[^F27] it ] for the purposes for which the proceeds of a sale by agreement of the fee simple in the land would be applicable under any enactment or Measure authorising such a sale, and, if the land is consecrated, be applied by [^F27]them[[^F27] it ] [^F28]in such a manner as they may determine[[^F28] as if the land had been sold under the Pastoral Measure 1983 ].
+
+(5) [^F29]Where the fee simple in any ecclesiastical property is in abeyance[[^F29] Where any ecclesiastical property is vested in the incumbent of a benefice which is vacant ]—
+
+(a) it shall be treated for the purposes of this Part of this Act as being vested in the [^F26]Church Commissioners[[^F26] Diocesan Board of Finance for the diocese in which the land is situated ]; and
+
+(b) where, by virtue of paragraph (*a*) above, the [^F26]Church Commissioners[[^F26] Diocesan Board of Finance for the diocese in which the land is situated ] [^F29]are owners[[^F29] is the owner ] of land belonging to a benefice and, by virtue of [^F27]their[[^F27] its ] ownership of that land, [^F30]are[[^F30] is ] under a liability to pay any sum under this Part of this Act, either as owner of a disused tip or as a contributory, [^F27]their[[^F27] its ] liability shall be met from, and shall not exceed the total of, the sums held by [^F27]them[[^F27] it ] for that benefice.
+
+(6) Where subsection (5) does not apply but a liability to pay any sum under this Part of this Act falls on any person, either as owner of a disused tip or as a contributory, by virtue of there being vested in him the fee simple in land belonging to a benefice, the [^F26]Church Commissioners[[^F26] Diocesan Board of Finance for the diocese in which the land is situated ] may apply any sums held by [^F27]them[[^F27] it ] for that benefice in discharging the whole or any part of that liability.
+
+(7) In the foregoing provisions of this section “benefice” means an ecclesiastical benefice of the Church of England and “ecclesiastical property” means land belonging to a benefice or being or forming part of a church subject to the jurisdiction of the bishop of any diocese of the Church of England or the site of a church so subject, or being or forming part of a burial ground so subject.
+
+(8) Subsection (1) applies in relation to Scottish church land as it applies to ecclesiastical property within the meaning of subection (7).
+
+In this subsection, “Scottish church land” means any land being or forming part of a church of the Church of Scotland, or the site of such a church, or the manse, glebe, churchyard or burial ground appertaining to such a church.
+
+### 32 Raising of money in special cases to meet expenditure under Part II.
+
+(1) The provisions of this section shall have effect with respect to the raising of money in particular cases for the payment—
+
+(a) of any expenses incurred in carrying out remedial operations in pursuance of a notice under section 14 and in carrying out any consequential works of reinstatement;
+
+(b) of any compensation recoverable under section 20 and referable to any such remedial operations or works of reinstatement; and
+
+(c) of any sums recoverable under section 21 or section 23 or paragraph 6 of Schedule 2 to this Act;
+
+and in the following provisions of this section the expression “relevant expenditure” means any such expenses, compensation or sums as are referred to in paragraphs (*a*), (*b*) and (*c*) above.
+
+(2) In relation to England and Wales—
+
+(a) the purposes authorised for the application of capital moneys by section 73 of the [^M5]Settled Land Act 1925 [^F31]... [^F32]... shall include the payment of any relevant expenditure;
+
+(b) the purposes authorised by section 71 of the [^M6]Settled Land Act 1925 [^F31]... [^F33]... as purposes for which moneys may be raised by mortgage shall include the payment of any relevant expenditure;
+
+(c) the purposes authorised by section 25 of the Act of the fifty-seventh year of King George the Third, chapter 97, for the application of moneys arising by any such sale of annuities standing in the name or to the account of the Duchy of Lancaster as is therein mentioned shall include the payment of any relevant expenditure arising by virtue of the application of any provision of this Part of this Act to property belonging to Her Majesty in right of that Duchy; and
+
+(d) the purposes authorised by section 8 of the [^M7]Duchy of Cornwall Management Act 1863 for the advancement of parts of such gross sums as are therein mentioned shall include the payment of any relevant expenditure arising by virtue of the application of any provision of this Part of this Act to property belonging to the Duchy of Cornwall.
+
+(3) In relation to Scotland, for the purpose of paying any relevant expenditure, a trustee, a liferenter or an heir of entail in possession shall have power to expend capital money and to sell, or to borrow money on the security of, the estate or any part thereof, heritable as well as moveable.
+
+### 33 Application of provisions of Public Health Act 1936.
+
+In the application of this Part of this Act in England and Wales, the following provisions of Part XII of the [^M8]Public Health Act 1936 shall apply as if this Part of this Act were contained in that Act and as if any reference in that Act to a local authority were a reference to a local authority within the meaning of this Part of this Act, that is to say,—
+
+(a) section 272 (power of councils to combine for purposes of Act);
+
+(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F34]
+
+(c) section 275 (power of local authority to execute work on behalf of owners);
+
+(d) . . . [^F34]
+
+(e) section 304 (judges and justices not to be disqualified by liability to rates);
+
+(f) section 305 (protection of members and officers of local authorities from personal liability); and
+
+(g) section 341 (power to apply provisions of Act to Crown property).
+
+### 34 Miscellaneous provisions relating to local authorities, etc. in Scotland.
+
+(1) A local authority in Scotland may execute outside their area any works which under this Part of this Act they may execute within their area, subject to entering into an agreement with the local authority of the area in which the works are being carried out as to the terms and conditions on which any such works are to be executed.
+
+(2) A local authority in Scotland may by agreement with the owner of a disused tip themselves execute at his expense any works which they have under this Part of this Act required him to execute, and for that purpose they shall have all such rights as he would have.
+
+(3) In the application of this Part of this Act to Scotland, the provisions of the following enactments shall apply for any purpose of this Part of this Act as they apply for the purposes of the respective enactments, and as if any reference in these enactments to any local authority[[^F35] and, in the case of section 37(3) of the Building (Scotland) Act 2003 (asp 8), the reference to “any such person” ] were a reference to a local authority within the meaning of this Part of this Act, that is to say,—
+
+(a) section [[^F36] 37(3) and (4) of the Building (Scotland) Act 2003 (power ] to require information as to ownership of premises);
+
+(b) section 166 of the [^M9]Public Health (Scotland) Act 1897 (protection of members and officers of local authorities from personal liability);
+
+(c) section 16 of the [^M10]Land Drainage (Scotland) Act 1958 (Crown rights).
+
+### 35 Application to Scotland.
+
+In the application of this Part of this Act in Scotland—
+
+(a) “the court” means the sheriff, and any application to the sheriff under this Part of this Act shall be disposed of in a summary manner; and
+
+(b) “mortgagee” means creditor in a heritable security, and “heritable security” has the same meaning as in the [^M11]Conveyancing (Scotland) Act 1924 except that it includes a security constituted by ex facie absolute disposition or assignation.
+
+### 36 Interpretation of Part II.
+
+(1) In this Part of this Act—
+
+- “appropriate Minister” shall be construed in accordance with subsection (4);
+- “contributory” has the meaning assigned to it by section 19(6);
+- “disused tip” has the meaning assigned to it by section 11(2);
+- “exploratory tests” has the meaning assigned to it by section 13(1)(*b*);
+- “local authority” shall be construed in accordance with subsections (3) and (4) of section 11;
+- “the Ministers” means [[^F37]the Secretary of State for the Environment], the Secretary of State for Wales and the Secretary of State for Scotland acting jointly;
+- “operations” includes surveys and tests as well as tipping operations (within the meaning of Part I of this Act) and building, engineering, mining and other operations;
+- “prescribed” means prescribed by regulations made by the appropriate Minister;
+- “remedial operations” has the meaning assigned to it by section 14(2); and
+- “the specified percentage” has the meaning assigned to it by section 19(6).
+
+(2) For the purposes of this Part of this Act a disused tip shall be treated as unstable if and only if there is, or there is reasonable ground for believing that there is likely to be, such a movement of the refuse which makes up the tip as to cause a significant increase in the area of land covered by the tip.
+
+(3) In this Part of this Act the expression “owner” in relation to a disused tip means—
+
+(a) with respect to England and Wales, the person who has a legal estate in the land on which the tip is situated which—
+
+(i) is either the fee simple or a tenancy for a specific term which has not less than one year unexpired and is not a mortgage term; and
+
+(ii) is not in reversion expectant on the termination of such a tenancy; and
+
+(b) with respect to Scotland.
+
+(i) except in a case to which sub-paragraph (ii) of this paragraph applies, the proprietor of [^F38]the dominium utile or, in the case of land not held on feudal tenure, the proprietor, of the land on which the tip is situated;
+
+(ii) in any case where the land on which the tip is situated is subject to a lease, not being an excluded lease, the tenant who is in possession of the land under the lease or who would, but for the existence of a sub-lease which is an excluded lease, be entitled to such possession.
+
+In this sub-paragraph “excluded lease” means a lease for a year or from year to year or for a lesser period, or any other lease the unexpired period of which does not exceed a year; “lease” includes sub-lease; and “tenant” includes sub-tenant:
+
+Provided that, in the case of land in Scotland subject to a heritable security constituted by ex facie absolute disposition or assignation, the debtor shall, for the purposes of this Part of this Act, be treated as the proprietor or, as the case may be, as the tenant except where the creditor is in possession of the land.
+
+(4) Any reference in this Part of this Act to the appropriate Minister shall be construed—
+
+(a) in the application of this Part of this Act to England, except Monmouthshire, as a reference to [[^F37]the Secretary of State for the Environment].
+
+(b) in its application to Wales and Monmouthshire, as a reference to the Secretary of State for Wales; and
+
+(c) in its application to Scotland, as a reference to the Secretary of State for Scotland.
+
+(5) Any reference in this Part of this Act to a section or subsection which is not otherwise identified is a reference to that section of this Act or to that subsection of the section in which the reference occurs, as the case may be.
+
+(6) Any reference in this Part of this Act to any other enactment shall be taken as referring to that enactment as amended by or under any other enactment.
+
+## Part III — General Provisions
+
+### 37 Financial provisions.
+
+There shall be defrayed out of moneys provided by Parliament—
+
+(a) any sums required for the payment of grants under section 25 of this Act; and
+
+(b) any increase attributable to this Act in the sums payable out of moneys so provided under any other enactment.
+
+### 38 Short title, citation, commencement and extent.
+
+(1) This Act may be cited as the Mines and Quarries (Tips) Act 1969.
+
+(2) Part I of this Act and the [^M12]Mines and Quarries Act 1954 may be cited together as the Mines and Quarries Acts 1954 and 1969.
+
+(3) Part I of this Act shall come into operation on such day as the Minister of Power may by order made by statutory instrument appoint and Part II of this Act, in its application to England and Wales, shall come into operation on such day as the Minister of Housing and Local Government and the Secretary of State for Wales may by order made by statutory instrument jointly appoint, and in its application to Scotland on such day as the Secretary of State for Scotland may by order so made appoint.
+
+(4) Sections 28 and 33 of this Act do not extend to Scotland and sections 34 and 35 extend to Scotland only.
+
+(5) This Act does not extend to Northern Ireland.
+
+## [^F39]SCHEDULE 1 — Modifications of Mines and Quarries Act 1954
+
+*Section 1.*
+
+**[^F39]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F39]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F39]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F39]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F39]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F39]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F39]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Provisions applicable where Local Authority carries out Remedial Operations on Disused Tip of which it is Owner
+
+*Section 17(7).*
+
+**1** The provisions of this Schedule apply where a local authority is the owner of a disused tip situated wholly or partly within its area and the local authority—
+
+(a) considers that the disused tip is unstable, and, by reason of that instability, constitutes or is likely to constitute a danger to members of the public; and
+
+(b) determines accordingly to carry out remedial operations in relation to that tip; and
+
+(c) requires to enter on to any land which is not in its occupation in order to carry out those remedial operations or consequential works of reinstatement or considers that it may be entitled to claim a contribution from any person under Part II of this Act.
+
+**2** Before commencing remedial operations, or as soon thereafter as is reasonably practicable, the local authority shall serve a notice in the prescribed form, specifying the nature and extent of the remedial operations and of any consequential works of reinstatement which it proposes to carry out, on every person falling within paragraphs (*a*) to (*e*) of section 14(4) and, for this purpose, for the words “service of the notice on the owner of the tip” in paragraph (*b*) of section 14(4) there shall be substituted the words “commencement of the remedial operations”.
+
+**3** Where a local authority has served a notice under paragraph 2 above on any person,—
+
+(a) section 14(7) shall apply as if the reference therein to a notice under section 14 were a reference to the notice under paragraph 2 above; and
+
+(b) in so far as the local authority requires to enter on to any land which is not in its occupation, section 18 shall apply as it applies where a local authority has served a notice under section 17(2).
+
+**4** Where a local authority has served a notice under paragraph 2 above on any person then, at any time within the period of three months beginning with the date of the commencement of the remedial operation specified in that notice, the local authority may make an application under section 19 and, for this purpose, that section shall have effect subject to the following modifications, namely,—
+
+(a) in subsection (1), the words from “a notice” to “section 17 and” shall be omitted, and in paragraph (*a*), for the words “service of the notice under section 14 or section 17” there shall be substituted the words “commencement of the remedial operations”; and
+
+(b) subsections (2) and (3) shall be omitted.
+
+**5** Where remedial operations are carried out by a local authority in the circumstances referred to in paragraph 1 above, section 20 shall apply as it applies where remedial operations are carried out by a local authority under section 17(1).
+
+**6** (1) Subject to the following provisions of this paragraph, where a local authority has carried out remedial operations in the circumstances referred to in paragraph 1 above and an order has been made under section 19 requiring any person to make a contribution towards the expenses otherwise falling to be borne by the local authority, as owner of the disused tip, the local authority shall be entitled to recover from the contributory the specified percentage of—
+
+(a) the expenditure reasonably incurred by the authority in carrying out those remedial operations and any works of reinstatement reasonably necessary in consequence of the carrying out of those operations; and
+
+(b) the amount of any such compensation as is mentioned in paragraph (*b*) of section 20(2) (being compensation referable to those remedial operations or consequential works of reinstatement) which is recoverable (or has been recovered) from the local authority in pursuance of a claim under section 20; and
+
+(c) the amount of any such compensation as is referred to in paragraph (*b*) of section 20(2) in respect of which the local authority could itself have made a claim under section 20 if the disused tip had been situated in the area of another local authority and that other authority had carried out those remedial operations (and any consequential works of reinstatement).
+
+(2) No sum shall be recoverable under this paragraph by a local authority from a contributory unless a demand therefor is served on the contributory specifying, in addition to the sum claimed by way of contribution,—
+
+(a) the total amount in respect of which the contribution is claimed; and
+
+(b) the separate amounts which comprise that total, distinguished by reference to paragraphs (*a*), (*b*) and (*c*) of sub-paragraph (1) above.
+
+(3) Section 23(5) shall apply to any sum recoverable under this paragraph as it applies to sums recoverable under section 23.
+
+(4) Within the period of six weeks beginning with the date of the service on a contributory of a demand under sub-paragraph (2) above, the contributory may apply to the court for an order varying or cancelling the demand—
+
+(a) on any one or more of the grounds specified in paragraphs (*b*) to (*f*) of section 24(2); or
+
+(b) on the ground that the amount of the expenses incurred by the local authority in carrying out the remedial operations was greater than was reasonable; or
+
+(c) on the ground that the amount claimed in the demand is greater than the specified percentage of the aggregate of the expenditure referred to in paragraphs (*a*) to (*c*) of sub-paragraph (1) above.
+
+(5) Section 24(4) shall apply in relation to an application under sub-paragraph (4) above as it applies in relation to an application under section 24 and, subject to the right to make an application under that sub-paragraph, a demand under sub-paragraph (2) above shall be final and conclusive.
+
+**7** (1) In any case where—
+
+(a) a local authority has carried out remedial operations in the circumstances referred to in paragraph 1 above, and
+
+(b) an order has been made under section 19 requiring any person to make a contribution towards the expenses otherwise falling to be borne by the local authority, as owner of the disused tip, and
+
+(c) a grant has been made under section 25 and the Minister proposes to give a direction under section 25(4),
+
+section 25(4) shall have effect as if, for the words from “recoverable” to “section 23(1)” there were substituted the words “recoverable from any contributories under paragraph 6 of Schedule 2 to this Act in respect of the expenditure referred to in paragraphs (*a*) to (*c*) of sub-paragraph (1) of that paragraph”, and section 25(5) shall not apply.
+
+(2) Where sub-paragraph (1) above applies, then, in relation to the recovery of any sum from a contributory under paragraph 6 above, that paragraph shall have effect subject to the following modifications—
+
+(a) the amount recoverable under sub-paragraph (1) thereof shall be limited to the specified percentage of the amount specified in the direction;
+
+(b) a demand under sub-paragraph (2) shall state that the direction has been given and shall state the amount specified in the direction;
+
+(c) in sub-paragraph (2), paragraph (*a*) shall be construed as applying to the total amount which would have been recoverable by the local authority under paragraph 6 if no direction had been given; and
+
+(d) in paragraph (*c*) of sub-paragraph (4), for the words from “aggregate” onwards there shall be substituted the words “amount specified in the direction”.
+
+## SCHEDULE 3 — Claims for Compensation by Owners and Contributories
+
+*Section 20.*
+
+**1** (1) This Schedule applies to the owner of a disused tip if—
+
+(a) a local authority has carried out remedial operations in relation to that tip or has carried out any such exploratory tests as are referred to in section 23(1)(*a*); and
+
+(b) the owner has served on the local authority a claim for compensation under section 20 in respect of damage or disturbance resulting from the carrying out of those exploratory tests or remedial operations; and
+
+(c) either no order for contribution has been made under section 19 in respect of the expenses otherwise falling to be borne by the owner in respect of the carrying out of those exploratory tests or remedial operations or one or more such orders have been made but the specified percentage or, as the case may be, the aggregate of the specified percentages is less than 100.
+
+(2) This Schedule applies to a contributory if—
+
+(a) the expenses in respect of which a contribution may be claimed under section 21 or section 23 include expenses incurred in carrying out remedial operations or any such exploratory tests as are referred to in subsection (1) or subsection (2) of section 23; and
+
+(b) the contributory has served on the owner of the disused tip or, as the case may be, the local authority concerned a claim for compensation under section 20 in respect of damage or disturbance resulting from the carrying out of those exploratory tests or remedial operations.
+
+**2** (1) Where this Schedule applies to the owner of a disused tip then, subject to sub-paragraph (2) below, until the expiry of the period of twelve months beginning with the date on which the remedial operations referred to in paragraph 1(1)(*a*) above were completed, the owner shall not be entitled to enforce his claim for compensation otherwise than by way of set-off against any sum demanded from him by the local authority under section 23.
+
+(2) Where a demand under subsection (4) of section 23 in respect of the expenditure referred to in subsection (1) or subsection (2) of that section is served by the local authority concerned on the owner of a disused tip to whom this Schedule applies and the amount recoverable by virtue of that demand (having regard to any application made by the owner under section 24) is less than the amount of the owner’s claim for compensation against the local authority, sub-paragraph (1) above shall not apply to any proceedings brought by the owner to recover the balance of that compensation from the local authority.
+
+**3** (1) Where this Schedule applies to a contributory then, subject to sub-paragraph (2) below, until the expiry of the relevant period, the contributory shall not be entitled to enforce his claim for compensation otherwise than by way of set-off against any sum demanded from him by way of contribution under section 21 or, as the case may be, section 23.
+
+(2) Where a demand for contribution under section 21 or section 23 in respect of the expenses referred to in paragraph 1(2)(*a*) above is served on a contributory to whom this Schedule applies and the amount recoverable by virtue of that demand (having regard to any application made by the contributory under section 22 or section 24) is less than the amount of the contributory’s claim for compensation against the person or local authority making the demand, sub-paragraph (1) above shall not apply to any proceedings brought by the contributory to recover the balance of that compensation from that person or local authority.
+
+(3) For the purposes of this paragraph, the relevant period shall be determined as follows,—
+
+(a) in relation to a claim by a contributory for compensation recoverable from the owner of a disused tip, the period of twelve months beginning with the date of the completion by the owner of the remedial operations referred to in paragraph 1(2)(*a*) above;
+
+(b) in relation to a claim by a contributory for compensation recoverable from a local authority in a case where the expenses in respect of which a contribution may be claimed from him by the local authority are such as are mentioned in section 23(1), the period of twelve months beginning with the date of the completion of the remedial operations referred to in that section; and
+
+(c) in relation to a claim by a contributory for compensation recoverable from a local authority in a case where the expenses in respect of which a contribution may be claimed from him by the local authority are such as are mentioned in section 23(2), the period of twelve months beginning with the date of the completion of the exploratory tests referred to in that section.
+
+**4** Any reference in this Schedule to remedial operations includes a reference to works of reinstatement consequential on those remedial operations.
+
+**5** Where Schedule 2 to this Act applies, the preceding provisions of this Schedule shall apply as if—
+
+(a) any reference in paragraph 1(2), paragraph 3(1) or paragraph 3(2) to section 23 included a reference to paragraph 6 of Schedule 2 to this Act;
+
+(b) the reference in paragraph 3(2) to section 24 included a reference to paragraph 6(4) of that Schedule; and
+
+(c) the reference in paragraph 3(3)(*b*) to section 23(1) included a reference to paragraph 6(1) of that Schedule.
+
+**6** (1) The time within which the owner of a disused tip or contributory to whom this Schedule applies may bring proceedings to recover the whole or any part of the compensation to which his claim under section 20 refers shall be six years from—
+
+(a) the expiry of the period referred to in sub-paragraph (1) of paragraph 2 or, as the case may be, of paragraph 3 above; or
+
+(b) where sub-paragraph (2) of paragraph 2 or of paragraph 3 above applies, the date of the service of the demand referred to in that sub-paragraph.
+
+(2) In relation to England and Wales, sub-paragraph (1) above shall be construed as one with Part I of [[^F40]the Limitation Act 1980].
+
+(3) In relation to Scotland, in reckoning the period of six years mentioned in sub-paragraph (1) above, no account shall be taken of any period during which the owner or, as the case may be, the contributory was in minority or less age or was under legal disability.
+
+## SCHEDULE 4 — Modifications of Sections 21 and 22 where notice under Section 14 is cancelled
+
+*Sections 21, 22.*
+
+**1** In any case where—
+
+(a) a local authority has served a notice on the owner of a disused tip under section 14, and
+
+(b) the owner has carried out remedial operations in compliance with the notice, and
+
+(c) the local authority has cancelled the notice by a notice under section 16,
+
+sections 21 and 22 shall have effect subject to the modifications specified in the following provisions of this Schedule.
+
+**2** Any reference in those sections to remedial operations carried out in compliance with the notice under section 14 shall be construed as a reference to remedial operations so carried out before the notice was cancelled.
+
+**3** (1) In determining, for the purpose of sections 21 and 22, the amount of the expenses reasonably incurred by the owner in carrying out remedial operations, there shall be deducted any sum which—
+
+(a) is recoverable (or has been recovered) by the owner from the local authority by virtue of an order under section 16(4); and
+
+(b) is referable to expenditure incurred by the owner in consequence of the service of the notice under section 14.
+
+(2) No sum shall be recoverable by the owner under section 21 in respect of expenses incurred by him in carrying out works of reinstatement.
+
+**4** Where, by virtue of an order under section 16(4), the owner is entitled to recover (or has recovered) from the local authority any sum in respect of expenditure incurred by him in consequence of the service of a notice under section 14—
+
+(a) a demand under section 21(3) shall specify the total sum recoverable (or recovered) by virtue of the order, distinguishing between the part which is referable to expenditure incurred in consequence of the service of the notice under section 14 and the part which is referable to expenditure incurred by the owner which is attributable to the cancellation of the notice; and
+
+(b) any reference in section 21(3) to the total amount in respect of which the contribution is claimed shall be construed as a reference to the amount in respect of which the contribution could have been claimed if no such order had been made; and
+
+(c) an application may be made under section 22 on the ground that the amount claimed in the demand does not give proper allowance for any sum which is required to be deducted by virtue of paragraph 3 above.
+
+---
+
+[^F1]: Ss. 1-7 repealed (6.4.2015) by The Mines Regulations 2014 (S.I. 2014/3248), reg. 1(2), Sch. 3 Pt. 1 (with reg. 1(3))
+[^F2]: Ss. 8, 9 repealed by S.I. 1974/2013, Sch. 1 Pt. II
+[^F3]: S. 10 repealed (6.4.2015) by The Mines Regulations 2014 (S.I. 2014/3248), reg. 1(2), Sch. 3 Pt. 1 (with reg. 1(3))
+[^F4]: S. 11(2) substituted (6.4.2015) by The Mines Regulations 2014 (S.I. 2014/3248), reg. 1(2), Sch. 5 para. 3(a) (with reg. 1(3))
+[^F5]: Words repealed by Local Government Act 1972 (c. 70), Sch. 30
+[^F6]: Words in s. 11(3)(a) repealed (1.4.1996) by 1994 c. 19, s. 66(6)(8), Sch. 16 para. 34, Sch. 18 (with ss. 54(5)(7), 55, Sch. 17 paras. 22(1), 23(2)); S.I. 1996/396, art. 4, Sch. 2
+[^F7]: Words inserted by Local Government Act 1985 (c. 51, SIF 81:1), s. 16, Sch. 8 para. 27
+[^F8]: S. 11(3)(aa) inserted (1.4.1996) by 1994 c. 19, s. 66(6), Sch. 16 para. 34 (with ss. 54(5)(7), 55(5), Sch. 17 paras. 22(1), 23(2)); S.I. 1996/396, art. 4, Sch. 2
+[^F9]: Words in s. 11(3)(b) substituted (S.) (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 81 (with s. 128(8)); S.I. 1996/323, art. 4
+[^F10]: S. 11(3A) inserted (6.4.2015) by The Mines Regulations 2014 (S.I. 2014/3248), reg. 1(2), Sch. 5 para. 3(b) (with reg. 1(3))
+[^F11]: S. 11(4) repealed by Local Government Act 1972 (c. 70), Sch. 30
+[^F12]: Words substituted by virtue of (E.W.) Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 38, 46 and (S.) Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1), ss. 289F, 289G
+[^F13]: Words “level 3 on the standard scale” substituted (S.) for “£50 and £100” by virtue of Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1), ss. 289E–289G
+[^F14]: Words substituted by virtue of (E.W.) Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 38, 46 and (S.) Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1), ss. 289F, 289G
+[^F15]: Words “level 3 on the standard scale” substituted (S.) for “£50 and £100” by virtue of Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1), ss. 289E–289G
+[^F16]: Words repealed (E.W.) by Local Government Act 1974 (c. 7), Sch. 8
+[^F17]: Words substituted by Local Government, Planning and Land Act 1980 (c. 65, SIF 81:1, 2), Sch. 6 para. 12
+[^F18]: S. 25(6) added by Local Government Act 1972 (c. 70), Sch. 29 para. 28
+[^M1]: 1972 c.70.
+[^F19]: Words substituted by virtue of (E.W.) Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 38, 46 and (S.) Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1), ss. 289F, 289G
+[^F20]: Words substituted by virtue of (E.W.) Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 38, 46 and (S.) Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1), ss. 289F, 289G
+[^F21]: S. 28 substituted (1.7.1991) by S.I. 1991/724, art. 2(7), Sch. (with saving for certain proceedings in art. 12)
+[^F22]: Words in s. 28 substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 52; S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F23]: Words substituted by virtue of Interpretation Act 1978 (c. 30), s. 25(2)
+[^M2]: 1978 c. 30.
+[^F24]: Words substituted by virtue of Local Government Act 1972 (c. 70), s. 272(2)
+[^M3]: 1972 c. 70.
+[^F25]: Words substituted by virtue of Local Government (Scotland) Act 1973 (c. 65), s. 237(2)
+[^M4]: 1973 c. 65.
+[^F26]: Words in s. 31 substituted (E.) (1.10.2006) by Church of England (Miscellaneous Provisions) Measure 2006 (No. 1), s. 16(2), Sch. 5 para. 16(a); S.I. 2006/2, Instrument made by Archbishops
+[^F27]: Words in s. 31 substituted (E.) (1.10.2006) by Church of England (Miscellaneous Provisions) Measure 2006 (No. 1), s. 16(2), Sch. 5 para. 16(b); S.I. 2006/2, Instrument made by Archbishops
+[^F28]: Words in s. 31(4) substituted (E.) (1.10.2006) by Church of England (Miscellaneous Provisions) Measure 2006 (No. 1), s. 16(2), Sch. 5 para. 16(c); S.I. 2006/2, Instrument made by Archbishops
+[^F29]: Words in s. 31(5) substituted (E.) (1.10.2006) by Church of England (Miscellaneous Provisions) Measure 2006 (No. 1), s. 16(2), Sch. 5 para. 16(d); S.I. 2006/2, Instrument made by Archbishops
+[^F30]: Word in s. 31(5) substituted (E.) (1.10.2006) by Church of England (Miscellaneous Provisions) Measure 2006 (No. 1), s. 16(2), Sch. 5 para. 16(d); S.I. 2006/2, Instrument made by Archbishops
+[^M5]: 1925 c. 18.
+[^F31]: Words in s. 32(2)(a)(b) repealed (1.1.1997) by 1996 c. 47, s. 25(2), Sch. 4 (with ss. 24(2), 25(4)); S.I. 1996/2974, art. 2
+[^F32]: Words in s. 32(2)(a) omitted (19.5.2025) by virtue of Charities Act 2022 (c. 6), s. 41(4), Sch. 1 para. 10(a); S.I. 2024/265, reg. 4, Sch. 2 para. 3
+[^M6]: 1925 c. 18.
+[^F33]: Words in s. 32(2)(b) omitted (19.5.2025) by virtue of Charities Act 2022 (c. 6), s. 41(4), Sch. 1 para. 10(b); S.I. 2024/265, reg. 4, Sch. 2 para. 3
+[^M7]: 1863 c. 49.
+[^M8]: 1936 c. 49.
+[^F34]: S. 33(*b*)(*d*) repealed by Local Government (Miscellaneous Provisions) Act 1976 (c. 57), Sch. 2
+[^F35]: Words in s. 34(3) inserted (1.5.2005) by Building (Scotland) Act 2003 (asp 8), s. 59(1), Sch. 6 para. 3(a) (with s. 53); S.S.I. 2004/404, art. 2(1)
+[^F36]: Words in s. 34(3)(a) substituted (1.5.2005) by Building (Scotland) Act 2003 (asp 8), s. 59(1), Sch. 6 para. 3(b) (with s. 53); S.S.I. 2004/404, art. 2(1)
+[^M9]: 1897 c. 38.
+[^M10]: 1958 c. 24.
+[^M11]: 1924 c. 27.
+[^F37]: Words substituted by virtue of S.I. 1970/1681, arts. 2(1), 6(3), Sch. 1
+[^F38]: Words in s. 36(3)(b)(i) repealed (S.) (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 13 Pts. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2; S.S.I. 2003/456, art. 2
+[^M12]: 1954 c. 70.
+[^F39]: Sch. 1 repealed (6.4.2015) by The Mines Regulations 2014 (S.I. 2014/3248), reg. 1(2), Sch. 3 Pt. 1 (with reg. 1(3))
+[^F40]: Words substituted by Limitation Act 1980 (c. 58, SIF 79), Sch. 3 para. 8

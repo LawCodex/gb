@@ -1,0 +1,728 @@
+---
+title: "Inheritance (Provision for Family and Dependants) Act 1975"
+identifier: "ukpga/1975/63"
+citation: "1975 c. 63"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W"
+date: 1975-11-12
+last_amended: 2022-04-06
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1975/63"
+source_modified: 2022-06-05
+retrieved: 2026-10-11
+---
+
+# Inheritance (Provision for Family and Dependants) Act 1975
+
+**1975 c. 63**
+
+An Act to make fresh provision for empowering the court to make orders for the making out of the estate of a deceased person of provision for the spouse, former spouse, child, child of the family or dependant of that person; and for matters connected therewith.
+
+[12th November 1975]
+
+## 1 Application for financial provision from deceased’s estate.
+
+(1) Where after the commencement of this Act a person dies domiciled in England and Wales and is survived by any of the following persons:—
+
+[[^F1](a) the spouse or civil partner of the deceased;
+
+(b) a former spouse or former civil partner of the deceased, but not one who has formed a subsequent marriage or civil partnership;]
+
+[[^F2](ba) any person (not being a person included in paragraph (a) or (b) above) to whom subsection (1A) [^F3]... below applies;]
+
+(c) a child of the deceased;
+
+(d) any person (not being a child of the deceased) [[^F4]who in relation to any marriage or civil partnership to which the deceased was at any time a party, or otherwise in relation to any family in which the deceased at any time stood in the role of a parent, was treated by the deceased as a child of the family;]
+
+(e) any person (not being a person included in the foregoing paragraphs of this subsection) who immediately before the death of the deceased was being maintained, either wholly or partly, by the deceased;
+
+that person may apply to the court for an order under section 2 of this Act on the ground that the disposition of the deceased’s estate effected by his will or the law relating to intestacy, or the combination of his will and that law, is not such as to make reasonable financial provision for the applicant.
+
+[[^F5](1A) This subsection applies to a person if the deceased died on or after 1st January 1996 and, during the whole of the period of two years ending immediately before the date when the deceased died, the person was living—
+
+(a) in the same household as the deceased, and
+
+(b) [[^F6]as if that person and the deceased were a married couple or civil partners].]
+
+[^F7]1B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In this Act “reasonable financial provision”—
+
+(a) in the case of an application made by virtue of subsection (1)(a) above by the husband or wife of the deceased (except where the marriage with the deceased was the subject of a [[^F8]judicial separation order] and at the date of death [[^F9]the order] was in force and the separation was continuing), means such financial provision as it would be reasonable in all the circumstances of the case for a husband or wife to receive, whether or not that provision is required for his or her maintenance;
+
+[[^F10](aa) in the case of an application made by virtue of subsection (1)(a) above by the civil partner of the deceased (except where, at the date of death, a separation order under Chapter 2 of Part 2 of the Civil Partnership Act 2004 was in force in relation to the civil partnership and the separation was continuing), means such financial provision as it would be reasonable in all the circumstances of the case for a civil partner to receive, whether or not that provision is required for his or her maintenance;]
+
+(b) in the case of any other application made by virtue of subsection (1) above, means such financial provision as it would be reasonable in all the circumstances of the case for the applicant to receive for his maintenance.
+
+[[^F11](2A) The reference in subsection (1)(d) above to a family in which the deceased stood in the role of a parent includes a family of which the deceased was the only member (apart from the applicant).]
+
+[[^F12](3) For the purposes of subsection (1)(e) above, a person is to be treated as being maintained by the deceased (either wholly or partly, as the case may be) only if the deceased was making a substantial contribution in money or money's worth towards the reasonable needs of that person, other than a contribution made for full valuable consideration pursuant to an arrangement of a commercial nature.]
+
+## 2 Powers of court to make orders.
+
+(1) Subject to the provisions of this Act, where an application is made for an order under this section, the court may, if it is satisfied that the disposition of the deceased’s estate effected by his will or the law relating to intestacy, or the combination of his will and that law, is not such as to make reasonable financial provision for the applicant, make any one or more of the following orders:—
+
+(a) an order for the making to the applicant out of the net estate of the deceased of such periodical payments and for such term as may be specified in the order;
+
+(b) an order for the payment to the applicant out of that estate of a lump sum of such amount as may be so specified;
+
+(c) an order for the transfer to the applicant of such property comprised in that estate as may be so specified;
+
+(d) an order for the settlement for the benefit of the applicant of such property comprised in that estate as may be so specified;
+
+(e) an order for the acquisition out of property comprised in that estate of such property as may be so specified and for the transfer of the property so acquired to the applicant or for the settlement thereof for his benefit;
+
+(f) an order varying any ante-nuptial or post-nuptial settlement (including such a settlement made by will) made on the parties to a marriage to which the deceased was one of the parties, the variation being for the benefit of the surviving party to that marriage, or any child of that marriage, or any person who was treated by the deceased as a child of the family in relation to that marriage.
+
+[[^F13](h) an order varying for the applicant's benefit the trusts on which the deceased's estate is held (whether arising under the will, or the law relating to intestacy, or both).]
+
+[[^F14](g) an order varying any settlement made—
+
+(i) during the subsistence of a civil partnership formed by the deceased, or
+
+(ii) in anticipation of the formation of a civil partnership by the deceased,
+
+on the civil partners (including such a settlement made by will), the variation being for the benefit of the surviving civil partner, or any child of both the civil partners, or any person who was treated by the deceased as a child of the family in relation to that civil partnership.]
+
+(2) An order under subsection (1)(a) above providing for the making out of the net estate of the deceased of periodical payments may provide for—
+
+(a) payments of such amount as may be specified in the order,
+
+(b) payments equal to the whole of the income of the net estate or of such portion thereof as may be so specified,
+
+(c) payments equal to the whole of the income of such part of the net estate as the court may direct to be set aside or appropriated for the making out of the income thereof of payments under this section,
+
+or may provide for the amount of the payments or any of them to be determined in any other way the court thinks fit.
+
+(3) Where an order under subsection (1)(a) above provides for the making of payments of an amount specified in the order, the order may direct that such part of the net estate as may be so specified shall be set aside or appropriated for the making out of the income thereof of those payments; but no larger part of the net estate shall be so set aside or appropriated than is sufficient, at the date of the order, to produce by the income thereof the amount required for the making of those payments.
+
+[[^F15](3A) In assessing for the purposes of an order under this section the extent (if any) to which the net estate is reduced by any debts or liabilities (including any inheritance tax paid or payable out of the estate), the court may assume that the order has already been made.]
+
+(4) An order under this section may contain such consequential and supplemental provisions as the court thinks necessary or expedient for the purpose of giving effect to the order or for the purpose of securing that the order operates fairly as between one beneficiary of the estate of the deceased and another and may, in particular, but without prejudice to the generality of this subsection—
+
+(a) order any person who holds any property which forms part of the net estate of the deceased to make such payment or transfer such property as may be specified in the order;
+
+(b) vary the disposition of the deceased’s estate effected by the will or the law relating to intestacy, or by both the will and the law relating to intestacy, in such manner as the court thinks fair and reasonable having regard to the provisions of the order and all the circumstances of the case;
+
+(c) confer on the trustees of any property which is the subject of an order under this section such powers as appear to the court to be necessary or expedient.
+
+## 3 Matters to which court is to have regard in exercising powers under s. 2.
+
+(1) Where an application is made for an order under section 2 of this Act, the court shall, in determining whether the disposition of the deceased’s estate effected by his will or the law relating to intestacy, or the combination of his will and that law, is such as to make reasonable financial provision for the applicant and, if the court considers that reasonable financial provision has not been made, in determining whether and in what manner it shall exercise its powers under that section, have regard to the following matters, that is to say—
+
+(a) the financial resources and financial needs which the applicant has or is likely to have in the foreseeable future;
+
+(b) the financial resources and financial needs which any other applicant for an order under section 2 of this Act has or is likely to have in the foreseeable future;
+
+(c) the financial resources and financial needs which any beneficiary of the estate of the deceased has or is likely to have in the foreseeable future;
+
+(d) any obligations and responsibilities which the deceased had towards any applicant for an order under the said section 2 or towards any beneficiary of the estate of the deceased;
+
+(e) the size and nature of the net estate of the deceased;
+
+(f) any physical or mental disability of any applicant for an order under the said section 2 or any beneficiary of the estate of the deceased;
+
+(g) any other matter, including the conduct of the applicant or any other person, which in the circumstances of the case the court may consider relevant.
+
+(2) [[^F16] This subsection applies, without prejudice to the generality of paragraph (g) of subsection (1) above, where an application for an order under section 2 of this Act is made by virtue of section 1(1)(a) or (b) of this Act.]
+
+The court shall, in addition to the matters specifically mentioned in paragraphs (a) to (f) of that subsection, have regard to—
+
+(a) the age of the applicant and the duration of the marriage [[^F17]or civil partnership];
+
+(b) the contribution made by the applicant to the welfare of the family of the deceased, including any contribution made by looking after the home or caring for the family.
+
+[^F18]. . . In the case of an application by the wife or husband of the deceased, the court shall also, unless at the date of death a [[^F19]judicial separation order] was in force and the separation was continuing, have regard to the provision which the applicant might reasonably have expected to receive if on the day on which the deceased died the marriage, instead of being terminated by death, had been terminated by a [[^F20]divorce order] [[^F21]; but nothing requires the court to treat such provision as setting an upper or lower limit on the provision which may be made by an order under section 2.]
+
+[[^F22]In the case of an application by the civil partner of the deceased, the court shall also, unless at the date of the death a separation order under Chapter 2 of Part 2 of the Civil Partnership Act 2004 was in force and the separation was continuing, have regard to the provision which the applicant might reasonably have expected to receive if on the day on which the deceased died the civil partnership, instead of being terminated by death, had been terminated by a dissolution order [[^F21]; but nothing requires the court to treat such provision as setting an upper or lower limit on the provision which may be made by an order under section 2.]]
+
+[[^F23](2A) Without prejudice to the generality of paragraph (g) of subsection (1) above, where an application for an order under section 2 of this Act is made by virtue of section 1(1)(ba) of this Act, the court shall, in addition to the matters specifically mentioned in paragraphs (a) to (f) of that subsection, have regard to—
+
+(a) the age of the applicant and the length of the period during which the applicant lived [[^F24]in the same household as the deceased as if the applicant and the deceased were a married couple or civil partners];
+
+(b) the contribution made by the applicant to the welfare of the family of the deceased, including any contribution made by looking after the home or caring for the family.]
+
+(3) Without prejudice to the generality of paragraph (g) of subsection (1) above, where an application for an order under section 2 of this Act is made by virtue of section 1(1)(c) or 1(1)(d) of this Act, the court shall, in addition to the matters specifically mentioned in paragraphs (a) to (f) of that subsection, have regard to the manner in which the applicant was being or in which he might expect to be educated or trained, and where the application is made by virtue of section 1(1)(d) the court shall also have regard—
+
+[[^F25](a) to whether the deceased maintained the applicant and, if so, to the length of time for which and basis on which the deceased did so, and to the extent of the contribution made by way of maintenance;
+
+(aa) to whether and, if so, to what extent the deceased assumed responsibility for the maintenance of the applicant;]
+
+(b) to whether in [[^F26]maintaining or assuming responsibility for maintaining the applicant] the deceased did so knowing that the applicant was not his own child;
+
+(c) to the liability of any other person to maintain the applicant.
+
+(4) Without prejudice to the generality of paragraph (g) of subsection (1) above, where an application for an order under section 2 of this Act is made by virtue of section 1(1)(e) of this Act, the court shall, in addition to the matters specifically mentioned in paragraphs (a) to (f) of that subsection, have [[^F27]regard—
+
+(a) to the length of time for which and basis on which the deceased maintained the applicant, and to the extent of the contribution made by way of maintenance;
+
+(b) to whether and, if so, to what extent the deceased assumed responsibility for the maintenance of the applicant.]
+
+(5) In considering the matters to which the court is required to have regard under this section, the court shall take into account the facts as known to the court at the date of the hearing.
+
+(6) In considering the financial resources of any person for the purposes of this section the court shall take into account his earning capacity and in considering the financial needs of any person for the purposes of this section the court shall take into account his financial obligations and responsibilities.
+
+## 4 Time-limit for applications.
+
+An application for an order under section 2 of this Act shall not, except with the permission of the court, be made after the end of the period of six months from the date on which representation with respect to the estate of the deceased is first taken out [[^F28](but nothing prevents the making of an application before such representation is first taken out)].
+
+## 5 Interim orders.
+
+(1) Where on an application for an order under section 2 of this Act it appears to the court—
+
+(a) that the applicant is in immediate need of financial assistance, but it is not yet possible to determine what order (if any) should be made under that section; and
+
+(b) that property forming part of the net estate of the deceased is or can be made available to meet the need of the applicant;
+
+the court may order that, subject to such conditions or restrictions, if any, as the court may impose and to any further order of the court, there shall be paid to the applicant out of the net estate of the deceased such sum or sums and (if more than one) at such intervals as the court thinks reasonable; and the court may order that, subject to the provisions of this Act, such payments are to be made until such date as the court may specify, not being later than the date on which the court either makes an order under the said section 2 or decides not to exercise its powers under that section.
+
+(2) Subsections (2), (3) and (4) of section 2 of this Act shall apply in relation to an order under this section as they apply in relation to an order under that section.
+
+(3) In determining what order, if any, should be made under this section the court shall, so far as the urgency of the case admits, have regard to the same matters as those to which the court is required to have regard under section 3 of this Act.
+
+(4) An order made under section 2 of this Act may provide that any sum paid to the applicant by virtue of this section shall be treated to such an extent and in such manner as may be provided by that order as having been paid on account of any payment provided for by that order.
+
+## 6 Variation, discharge etc. of orders for periodical payments.
+
+(1) Subject to the provisions of this Act, where the court has made an order under section 2(1)(a) of this Act (in this section referred to as “the original order”) for the making of periodical payments to any person (in this section referred to as “the original recipient”), the court, on an application under this section, shall have power by order to vary or discharge the original order or to suspend any provision of it temporarily and to revive the operation of any provision so suspended.
+
+(2) Without prejudice to the generality of subsection (1) above, an order made on an application for the variation of the original order may—
+
+(a) provide for the making out of any relevant property of such periodical payments and for such term as may be specified in the order to any person who has applied, or would but for section 4 of this Act be entitled to apply, for an order under section 2 of this Act (whether or not, in the case of any application, an order was made in favour of the applicant);
+
+(b) provide for the payment out of any relevant property of a lump sum of such amount as may be so specified to the original recipient or to any such person as is mentioned in paragraph (a) above;
+
+(c) provide for the transfer of the relevant property, or such part thereof as may be so specified, to the original recipient or to any such person as is so mentioned.
+
+(3) Where the original order provides that any periodical payments payable thereunder to the original recipient are to cease on the occurrence of an event specified in the order [[^F29](other than the formation of a subsequent marriage or civil partnership by a former spouse or former civil partner)] or on the expiration of a period so specified, then, if, before the end of the period of six months from the date of the occurrence of that event or of the expiration of that period, an application is made for an order under this section, the court shall have power to make any order which it would have had power to make if the application had been made before that date (whether in favour of the original recipient or any such person as is mentioned in subsection (2)(a) above and whether having effect from that date or from such later date as the court may specify).
+
+(4) Any reference in this section to the original order shall include a reference to an order made under this section and any reference in this section to the original recipient shall include a reference to any person to whom periodical payments are required to be made by virtue of an order under this section.
+
+(5) An application under this section may be made by any of the following persons, that is to say—
+
+(a) any person who by virtue of section 1(1) of this Act has applied, or would but for section 4 of this Act be entitled to apply, for an order under section 2 of this Act,
+
+(b) the personal representatives of the deceased,
+
+(c) the trustees of any relevant property, and
+
+(d) any beneficiary of the estate of the deceased.
+
+(6) An order under this section may only affect—
+
+(a) property the income of which is at the date of the order applicable wholly or in part for the making of periodical payments to any person who has applied for an order under this Act, or
+
+(b) in the case of an application under subsection (3) above in respect of payments which have ceased to be payable on the occurrence of an event or the expiration of a period, property the income of which was so applicable immediately before the occurrence of that event or the expiration of that period, as the case may be,
+
+and any such property as is mentioned in paragraph (a) or (b) above is in subsections (2) and (5) above referred to as “relevant property”.
+
+(7) In exercising the powers conferred by this section the court shall have regard to all the circumstances of the case, including any change in any of the matters to which the court was required to have regard when making the order to which the application relates.
+
+(8) Where the court makes an order under this section, it may give such consequential directions as it thinks necessary or expedient having regard to the provisions of the order.
+
+(9) No such order as is mentioned in sections 2(1)(d), (e) or (f), 9, 10 or 11 of this Act shall be made on an application under this section.
+
+(10) For the avoidance of doubt it is hereby declared that, in relation to an order which provides for the making of periodical payments which are to cease on the occurrence of an event specified in the order [[^F29](other than the formation of a subsequent marriage or civil partnership by a former spouse or former civil partner)] or on the expiration of a period so specified, the power to vary an order includes power to provide for the making of periodical payments after the expiration of that period or the occurrence of that event.
+
+## 7 Payment of lump sums by instalments.
+
+(1) An order under section 2(1)(b) or 6(2)(b) of this Act for the payment of a lump sum may provide for the payment of that sum by instalments of such amount as may be specified in the order.
+
+(2) Where an order is made by virtue of subsection (1) above, the court shall have power, on an application made by the person to whom the lump sum is payable, by the personal representatives of the deceased or by the trustees of the property out of which the lump sum is payable, to vary that order by varying the number of instalments payable, the amount of any instalment and the date on which any instalment becomes payable.
+
+## Property available for financial provision
+
+### 8 Property treated as part of “net estate”.
+
+(1) Where a deceased person has in accordance with the provisions of any enactment nominated any person to receive any sum of money or other property on his death and that nomination is in force at the time of his death, that sum of money, after deducting therefrom any capital transfer tax payable in respect thereof, or that other property, to the extent of the value thereof at the date of the death of the deceased after deducting therefrom any capital transfer tax so payable, shall be treated for the purposes of this Act as part of the net estate of the deceased; but this subsection shall not render any person liable for having paid that sum or transferred that other property to the person named in the nomination in accordance with the directions given in the nomination.
+
+(2) Where any sum of money or other property is received by any person as a donatio mortis causa made by a deceased person, that sum of money, after deducting therefrom any capital transfer tax payable thereon, or that other property, to the extent of the value thereof at the date of the death of the deceased after deducting therefrom any capital transfer tax so payable, shall be treated for the purposes of this Act as part of the net estate of the deceased; but this subsection shall not render any person liable for having paid that sum or transferred that other property in order to give effect to that donatio mortis causa.
+
+(3) The amount of capital transfer tax to be deducted for the purposes of this section shall not exceed the amount of that tax which has been borne by the person nominated by the deceased or, as the case may be, the person who has received a sum of money or other property as a donatio mortis causa.
+
+### 9 Property held on a joint tenancy.
+
+(1) Where a deceased person was immediately before his death beneficially entitled to a joint tenancy of any property, then, if [^F30]... an application is made for an order under section 2 of this Act, the court for the purpose of facilitating the making of financial provision for the applicant under this Act may order that the deceased’s severable share of that property [^F31]... shall, to such extent as appears to the court to be just in all the circumstances of the case, be treated for the purposes of this Act as part of the net estate of the deceased.
+
+[[^F32](1A) Where an order is made under subsection (1) the value of the deceased's severable share of the property concerned is taken for the purposes of this Act to be the value that the share would have had at the date of the hearing of the application for an order under section 2 had the share been severed immediately before the deceased's death, unless the court orders that the share is to be valued at a different date.]
+
+(2) In determining the extent to which any severable share is to be treated as part of the net estate of the deceased by virtue of an order under subsection (1) above, the court shall have regard to any capital transfer tax payable in respect of that severable share.
+
+(3) Where an order is made under subsection (1) above, the provisions of this section shall not render any person liable for anything done by him before the order was made.
+
+(4) For the avoidance of doubt it is hereby declared that for the purposes of this section there may be a joint tenancy of a chose in action.
+
+## Powers of court in relation to transactions intended to defeat applications for financial provision
+
+### 10 Dispositions intended to defeat applications for financial provision.
+
+(1) Where an application is made to the court for an order under section 2 of this Act, the applicant may, in the proceedings on that application, apply to the court for an order under subsection (2) below.
+
+(2) Where on an application under subsection (1) above the court is satisfied—
+
+(a) that, less than six years before the date of the death of the deceased, the deceased with the intention of defeating an application for financial provision under this Act made a disposition, and
+
+(b) that full valuable consideration for that disposition was not given by the person to whom or for the benefit of whom the disposition was made (in this section referred to as “the donee”) or by any other person, and
+
+(c) that the exercise of the powers conferred by this section would facilitate the making of financial provision for the applicant under this Act,
+
+then, subject to the provisions of this section and of sections 12 and 13 of this Act, the court may order the donee (whether or not at the date of the order he holds any interest in the property disposed of to him or for his benefit by the deceased) to provide, for the purpose of the making of that financial provision, such sum of money or other property as may be specified in the order.
+
+(3) Where an order is made under subsection (2) above as respects any disposition made by the deceased which consisted of the payment of money to or for the benefit of the donee, the amount of any sum of money or the value of any property ordered to be provided under that subsection shall not exceed the amount of the payment made by the deceased after deducting therefrom any capital transfer tax borne by the donee in respect of that payment.
+
+(4) Where an order is made under subsection (2) above as respects any disposition made by the deceased which consisted of the transfer of property (other than a sum of money) to or for the benefit of the donee, the amount of any sum of money or the value of any property ordered to be provided under that subsection shall not exceed the value at the date of the death of the deceased of the property disposed of by him to or for the benefit of the donee (or if that property has been disposed of by the person to whom it was transferred by the deceased, the value at the date of that disposal thereof) after deducting therefrom any capital transfer tax borne by the donee in respect of the transfer of that property by the deceased.
+
+(5) Where an application (in this subsection referred to as “the original application”) is made for an order under subsection (2) above in relation to any disposition, then, if on an application under this subsection by the donee or by any applicant for an order under section 2 of this Act the court is satisfied—
+
+(a) that, less than six years before the date of the death of the deceased, the deceased with the intention of defeating an application for financial provision under this Act made a disposition other than the disposition which is the subject of the original application, and
+
+(b) that full valuable consideration for that other disposition was not given by the person to whom or for the benefit of whom that other disposition was made or by any other person,
+
+the court may exercise in relation to the person to whom or for the benefit of whom that other disposition was made the powers which the court would have had under subsection (2) above if the original application had been made in respect of that other disposition and the court had been satisifed as to the matters set out in paragraphs (a), (b) and (c) of that subsection; and where any application is made under this subsection, any reference in this section (except in subsection (2)(b)) to the donee shall include a reference to the person to whom or for the benefit of whom that other disposition was made.
+
+(6) In determining whether and in what manner to exercise its powers under this section, the court shall have regard to the circumstances in which any disposition was made and any valuable consideration which was given therefor, the relationship, if any, of the donee to the deceased, the conduct and financial resources of the donee and all the other circumstances of the case.
+
+(7) In this section “disposition” does not include—
+
+(a) any provision in a will, any such nomination as is mentioned in section 8(1) of this Act or any donatio mortis causa, or
+
+(b) any appointment of property made, otherwise than by will, in the exercise of a special power of appointment,
+
+but, subject to these exceptions, includes any payment of money (including the payment of a premium under a policy of assurance) and any conveyance, assurance, appointment or gift of property of any description, whether made by an instrument or otherwise.
+
+(8) The provisions of this section do not apply to any disposition made before the commencement of this Act.
+
+### 11 Contracts to leave property by will.
+
+(1) Where an application is made to a court for an order under section 2 of this Act, the applicant may, in the proceedings on that application, apply to the court for an order under this section.
+
+(2) Where on an application under subsection (1) above the court is satisfied—
+
+(a) that the deceased made a contract by which he agreed to leave by his will a sum of money or other property to any person or by which he agreed that a sum of money or other property would be paid or transferred to any person out of his estate, and
+
+(b) that the deceased made that contract with the intention of defeating an application for financial provision under this Act, and
+
+(c) that when the contract was made full valuable consideration for that contract was not given or promised by the person with whom or for the benefit of whom the contract was made (in this section referred to as “the donee”) or by any other person, and
+
+(d) that the exercise of the powers conferred by this section would facilitate the making of financial provision for the applicant under this Act,
+
+then, subject to the provisions of this section and of sections 12 and 13 of this Act, the court may make any one or more of the following orders, that is to say—
+
+(i) if any money has been paid or any other property has been transferred to or for the benefit of the donee in accordance with the contract, an order directing the donee to provide, for the purpose of the making of that financial provision, such sum of money or other property as may be specified in the order;
+
+(ii) if the money or all the money has not been paid or the property or all the property has not been transferred in accordance with the contract, an order directing the personal representatives not to make any payment or transfer any property, or not to make any further payment or transfer any further property, as the case may be, in accordance therewith or directing the personal representatives only to make such payment or transfer such property as may be specified in the order.
+
+(3) Notwithstanding anything in subsection (2) above, the court may exercise its powers thereunder in relation to any contract made by the deceased only to the extent that the court considers that the amount of any sum of money paid or to be paid or the value of any property transferred or to be transferred in accordance with the contract exceeds the value of any valuable consideration given or to be given for that contract, and for this purpose the court shall have regard to the value of property at the date of the hearing.
+
+(4) In determining whether and in what manner to exercise its powers under this section, the court shall have regard to the circumstances in which the contract was made, the relationship, if any, of the donee to the deceased, the conduct and financial resources of the donee and all the other circumstances of the case.
+
+(5) Where an order has been made under subsection (2) above in relation to any contract, the rights of any person to enforce that contract or to recover damages or to obtain other relief for the breach thereof shall be subject to any adjustment made by the court under section 12(3) of this Act and shall survive to such extent only as is consistent with giving effect to the terms of that order.
+
+(6) The provisions of this section do not apply to a contract made before the commencement of this Act.
+
+### 12 Provisions supplementary to ss. 10 and 11.
+
+(1) Where the exercise of any of the powers conferred by section 10 or 11 of this Act is conditional on the court being satisfied that a disposition or contract was made by a deceased person with the intention of defeating an application for financial provision under this Act, that condition shall be fulfilled if the court is of the opinion that, on a balance of probabilities, the intention of the deceased (though not necessarily his sole intention) in making the disposition or contract was to prevent an order for financial provision being made under this Act or to reduce the amount of the provision which might otherwise be granted by an order thereunder.
+
+(2) Where an application is made under section 11 of this Act with respect to any contract made by the deceased and no valuable consideration was given or promised by any person for that contract then, notwithstanding anything in subsection (1) above, it shall be presumed, unless the contrary is shown, that the deceased made that contract with the intention of defeating an application for financial provision under this Act.
+
+(3) Where the court makes an order under section 10 or 11 of this Act it may give such consequential directions as it thinks fit (including directions requiring the making of any payment or the transfer of any property) for giving effect to the order or for securing a fair adjustment of the rights of the persons affected thereby.
+
+(4) Any power conferred on the court by the said section 10 or 11 to order the donee, in relation to any disposition or contract, to provide any sum of money or other property shall be exercisable in like manner in relation to the personal representative of the donee, and—
+
+(a) any reference in section 10(4) to the disposal of property by the donee shall include a reference to disposal by the personal representative of the donee, and
+
+(b) any reference in section 10(5) to an application by the donee under that subsection shall include a reference to an application by the personal representative of the donee;
+
+but the court shall not have power under the said section 10 or 11 to make an order in respect of any property forming part of the estate of the donee which has been distributed by the personal representative; and the personal representative shall not be liable for having distributed any such property before he has notice of the making of an application under the said section 10 or 11 on the ground that he ought to have taken into account the possibility that such an application would be made.
+
+### 13 Provisions as to trustees in relation to ss. 10 and 11.
+
+(1) Where an application is made for—
+
+(a) an order under section 10 of this Act in respect of a disposition made by the deceased to any person as a trustee, or
+
+(b) an order under section 11 of this Act in respect of any payment made or property transferred, in accordance with a contract made by the deceased, to any person as a trustee,
+
+the powers of the court under the said section 10 or 11 to order that trustee to provide a sum of money or other property shall be subject to the following limitation (in addition, in a case of an application under section 10, to any provision regarding the deduction of capital transfer tax) namely, that the amount of any sum of money or the value of any property ordered to be provided—
+
+(i) in the case of an application in respect of a disposition which consisted of the payment of money or an application in respect of the payment of money in accordance with a contract, shall not exceed the aggregate of so much of that money as is at the date of the order in the hands of the trustee and the value at that date of any property which represents that money or is derived therefrom and is at that date in the hands of the trustee;
+
+(ii) in the case of an application in respect of a disposition which consisted of the transfer of property (other than a sum of money) or an application in respect of the transfer of property (other than a sum of money) in accordance with a contract, shall not exceed the aggregate of the value at the date of the order of so much of that property as is at that date in the hands of the trustee and the value at that date of any property which represents the first-mentioned property or is derived therefrom and is at that date in the hands of the trustee.
+
+(2) Where any such application is made in respect of a disposition made to any person as a trustee or in respect of any payment made or property transferred in pursuance of a contract to any person as a trustee, the trustee shall not be liable for having distributed any money or other property on the ground that he ought to have taken into account the possibility that such an application would be made.
+
+(3) Where any such application is made in respect of a disposition made to any person as a trustee or in respect of any payment made or property transferred in accordance with a contract to any person as a trustee, any reference in the said section 10 or 11 to the donee shall be construed as including a reference to the trustee or trustees for the time being of the trust in question and any reference in subsection (1) or (2) above to a trustee shall be construed in the same way.
+
+## Special provisions relating to cases of divorce, separation etc.
+
+### 14 Provision as to cases where no financial relief was granted in divorce proceedings etc.
+
+(1) Where, within twelve months from the date on which a [[^F33]divorce order or nullity of marriage order has been made final or a judicial separation order has been made,] a party to the marriage dies and—
+
+(a) an application for a financial provision order under section 23 of the [^M1]Matrimonial Causes Act 1973 or a property adjustment order under section 24 of that Act has not been made by the other party to that marriage, or
+
+(b) such an application has been made but the proceedings thereon have not been determined at the time of the death of the deceased,
+
+then, if an application for an order under section 2 of this Act is made by that other party, the court shall, notwithstanding anything in section 1 or section 3 of this Act, have power, if it thinks it just to do so, to treat that party for the purposes of that application as if the [[^F34]divorce order or nullity of marriage order had not been made final or the judicial separation order had not been made,] as the case may be.
+
+(2) This section shall not apply in relation to a [[^F35]judicial separation order] unless at the date of the death of the deceased [[^F36]the order] was in force and the separation was continuing.
+
+### 14A [[^F37]Provision as to cases where no financial relief was granted in proceedings for the dissolution etc. of a civil partnership
+
+(1) Subsection (2) below applies where—
+
+(a) a dissolution order, nullity order, separation order or presumption of death order has been made under Chapter 2 of Part 2 of the Civil Partnership Act 2004 in relation to a civil partnership,
+
+(b) one of the civil partners dies within twelve months from the date on which the order is made, and
+
+(c) either—
+
+(i) an application for a financial provision order under Part 1 of Schedule 5 to that Act or a property adjustment order under Part 2 of that Schedule has not been made by the other civil partner, or
+
+(ii) such an application has been made but the proceedings on the application have not been determined at the time of the death of the deceased.
+
+(2) If an application for an order under section 2 of this Act is made by the surviving civil partner, the court shall, notwithstanding anything in section 1 or section 3 of this Act, have power, if it thinks it just to do so, to treat the surviving civil partner as if the order mentioned in subsection (1)(a) above had not been made.
+
+(3) This section shall not apply in relation to a separation order unless at the date of the death of the deceased the separation order was in force and the separation was continuing.]
+
+### 15 Restriction imposed in divorce proceedings etc. on application under this Act.
+
+[[^F38](1) On the [[^F39]making of a divorce, nullity of marriage or judicial separation order] or at any time thereafter the court, if it considers it just to do so, may, on the application of either party to the marriage, order that the other party to the marriage shall not on the death of the applicant be entitled to apply for an order under section 2 of this Act.
+
+In this subsection “ the court ” means the High Court or [[^F40]the family court].]
+
+(2) In the case of a [[^F41]divorce or nullity of marriage order] an order may be made under subsection (1) above before or [[^F42]after the divorce or nullity of marriage order is made final, but if it is made before that order is made final it shall not take effect unless that order is made final].
+
+(3) Where an order made under subsection (1) above on the [[^F43]making of a divorce or nullity of marriage order] has come into force with respect to a party to a marriage, then, on the death of the other party to that marriage, the court shall not entertain any application for an order under section 2 of this Act made by the first-mentioned party.
+
+(4) Where an order made under subsection (1) above on the [[^F44]making of a judicial separation order] has come into force with respect to any party to a marriage, then, if the other party to that marriage dies while the [[^F45]order is] in force and the separation is continuing, the court shall not entertain any application for an order under section 2 of this Act made by the first-mentioned party.
+
+### 15ZA [[^F46] Restriction imposed in proceedings for the dissolution etc. of a civil partnership on application under this Act
+
+(1) On making a dissolution order, nullity order, separation order or presumption of death order under Chapter 2 of Part 2 of the Civil Partnership Act 2004, or at any time after making such an order, the court, if it considers it just to do so, may, on the application of either of the civil partners, order that the other civil partner shall not on the death of the applicant be entitled to apply for an order under section 2 of this Act.
+
+(2) In subsection (1) above “ the court ” means the High Court or [[^F47]the family court] .
+
+(3) In the case of a dissolution order, nullity order or presumption of death order (“ the main order ”) an order may be made under subsection (1) above before (as well as after) the main order is made final, but if made before the main order is made final it shall not take effect unless the main order is made final.
+
+(4) Where an order under subsection (1) above made in connection with a dissolution order, nullity order or presumption of death order has come into force with respect to a civil partner, then, on the death of the other civil partner, the court shall not entertain any application for an order under section 2 of this Act made by the surviving civil partner.
+
+(5) Where an order under subsection (1) above made in connection with a separation order has come into force with respect to a civil partner, then, if the other civil partner dies while the separation order is in force and the separation is continuing, the court shall not entertain any application for an order under section 2 of this Act made by the surviving civil partner.]
+
+### 15A [[^F48] Restriction imposed in proceedings under Matrimonial and Family Proceedings Act 1984 on application under this Act.
+
+(1) On making an order under section 17 of the Matrimonial and Family Proceedings Act 1984 (orders for financial provision and property adjustment following overseas divorces, etc. ) the court, if it considers it just to do so, may, on the application of either party to the marriage, order that the other party to the marriage shall not on the death of the applicant be entitled to apply for an order under section 2 of this Act.
+
+In this subsection “ the court ” means the High Court or [[^F49]the family court] .
+
+(2) Where an order under subsection (1) above has been made with respect to a party to a marriage which has been dissolved or annulled, then, on the death of the other party to that marriage, the court shall not entertain an application under section 2 of this Act made by the first-mentioned party.
+
+(3) Where an order under subsection (1) above has been made with respect to a party to a marriage the parties to which have been legally separated, then, if the other party to the marriage dies while the legal separation is in force, the court shall not entertain an application under section 2 of this Act made by the first-mentioned party.]
+
+### 15B [[^F50]Restriction imposed in proceedings under Schedule 7 to the Civil Partnership Act 2004 on application under this Act
+
+(1) On making an order under paragraph 9 of Schedule 7 to the Civil Partnership Act 2004 (orders for financial provision, property adjustment and pension-sharing following overseas dissolution etc. of civil partnership) the court, if it considers it just to do so, may, on the application of either of the civil partners, order that the other civil partner shall not on the death of the applicant be entitled to apply for an order under section 2 of this Act.
+
+(2) In subsection (1) above “ the court ” means the High Court or [[^F51]the family court] .
+
+(3) Where an order under subsection (1) above has been made with respect to one of the civil partners in a case where a civil partnership has been dissolved or annulled, then, on the death of the other civil partner, the court shall not entertain an application under section 2 of this Act made by the surviving civil partner.
+
+(4) Where an order under subsection (1) above has been made with respect to one of the civil partners in a case where civil partners have been legally separated, then, if the other civil partner dies while the legal separation is in force, the court shall not entertain an application under section 2 of this Act made by the surviving civil partner.]
+
+### 16 Variation and discharge of secured periodical payments orders made under Matrimonial Causes Act 1973.
+
+(1) Where an application for an order under section 2 of this Act is made to the court by any person who was at the time of the death of the deceased entitled to payments from the deceased under a secured periodical payments order made under the [^M2]Matrimonial Causes Act 1973 [[^F52]or Schedule 5 to the Civil Partnership Act 2004], then, in the proceedings on that application, the court shall have power, if an application is made under this section by that person or by the personal representative of the deceased, to vary or discharge that periodical payments order or to revive the operation of any provision thereof which has been suspended under section 31 of that Act [[^F53]of 1973 or Part 11 of that Schedule].
+
+(2) In exercising the powers conferred by this section the court shall have regard to all the circumstances of the case, including any order which the court proposes to make under section 2 or section 5 of this Act and any change (whether resulting from the death of the deceased or otherwise) in any of the matters to which the court was required to have regard when making the secured periodical payments order.
+
+(3) The powers exercisable by the court under this section in relation to an order shall be exercisable also in relation to any instrument executed in pursuance of the order.
+
+### 17 Variation and revocation of maintenance agreements.
+
+(1) Where an application for an order under section 2 of this Act is made to the court by any person who was at the time of the death of the deceased entitled to payments from the deceased under a maintenance agreement which provided for the continuation of payments under the agreement after the death of the deceased, then, in the proceedings on that application, the court shall have power, if an application is made under this section by that person or by the personal representative of the deceased, to vary or revoke that agreement.
+
+(2) In exercising the powers conferred by this section the court shall have regard to all the circumstances of the case, including any order which the court proposes to make under section 2 or section 5 of this Act and any change (whether resulting from the death of the deceased or otherwise) in any of the circumstances in the light of which the agreement was made.
+
+(3) If a maintenance agreement is varied by the court under this section the like consequences shall ensue as if the variation had been made immediately before the death of the deceased by agreement betweeen the parties and for valuable consideration.
+
+(4) In this section “maintenance agreement”, in relation to a deceased person, means any agreement made, whether in writing or not and whether before or after the commencement of this Act, by the deceased with any person with whom he [[^F54]formed a marriage or civil partnership], being an agreement which contained provisions governing the rights and liabilities towards one another when living separately of the parties to that marriage [[^F55]or of the civil partners](whether or not the marriage [[^F56]or civil partnership] has been dissolved or annulled) in respect of the making or securing of payments or the disposition or use of any property, including such rights and liabilities with respect to the maintenance or education of any child, whether or not a child of the deceased or a person who was treated by the deceased as a child of the family in relation to that marriage [[^F56]or civil partnership].
+
+### 18 Availability of court’s powers under this Act in applications under ss. 31 and 36 of the Matrimonial Causes Act 1973.
+
+(1) Where—
+
+(a) a person against whom a secured periodical payments order was made under the [^M3]Matrimonial Causes Act 1973 has died and an application is made under section 31(6) of that Act for the variation or discharge of that order or for the revival of the operation of any provision thereof which has been suspended, or
+
+(b) a party to a maintenance agreement within the meaning of section 34 of that Act has died, the agreement being one which provides for the continuation of payments thereunder after the death of one of the parties, and an application is made under section 36(1) of that Act for the alteration of the agreement under section 35 thereof,
+
+the court shall have power to direct that the application made under the said section 31(6) or 36(1) shall be deemed to have been accompanied by an application for an order under section 2 of this Act.
+
+(2) Where the court gives a direction under subsection (1) above it shall have power, in the proceedings on the application under the said section 31(6) or 36(1), to make any order which the court would have had power to make under the provisions of this Act if the application under the said section 31(6) or 36(1), as the case may be, had been made jointly with an application for an order under the said section 2; and the court shall have power to give such consequential directions as may be necessary for enabling the court to exercise any of the powers available to the court under this Act in the case of an application for an order under section 2.
+
+(3) Where an order made under section 15(1) of this Act is in force with respect to a party to a marriage, the court shall not give a direction under subsection (1) above with respect to any application made under the said section 31(6) or 36(1) by that party on the death of the other party.
+
+### 18A [[^F57]Availability of court’s powers under this Act in applications under paragraphs 60 and 73 of Schedule 5 to the Civil Partnership Act 2004
+
+(1) Where—
+
+(a) a person against whom a secured periodical payments order was made under Schedule 5 to the Civil Partnership Act 2004 has died and an application is made under paragraph 60 of that Schedule for the variation or discharge of that order or for the revival of the operation of any suspended provision of the order, or
+
+(b) a party to a maintenance agreement within the meaning of Part 13 of that Schedule has died, the agreement being one which provides for the continuation of payments under the agreement after the death of one of the parties, and an application is made under paragraph 73 of that Schedule for the alteration of the agreement under paragraph 69 of that Schedule,
+
+the court shall have power to direct that the application made under paragraph 60 or 73 of that Schedule shall be deemed to have been accompanied by an application for an order under section 2 of this Act.
+
+(2) Where the court gives a direction under subsection (1) above it shall have power, in the proceedings on the application under paragraph 60 or 73 of that Schedule, to make any order which the court would have had power to make under the provisions of this Act if the application under that paragraph had been made jointly with an application for an order under section 2 of this Act; and the court shall have power to give such consequential directions as may be necessary for enabling the court to exercise any of the powers available to the court under this Act in the case of an application for an order under section 2.
+
+(3) Where an order made under section 15ZA(1) of this Act is in force with respect to a civil partner, the court shall not give a direction under subsection (1) above with respect to any application made under paragraph 60 or 73 of that Schedule by that civil partner on the death of the other civil partner.]
+
+## Miscellaneous and supplementary provisions
+
+### 19 Effect, duration and form of orders.
+
+(1) Where an order is made under section 2 of this Act then for all purposes, including the purposes of the enactments relating to capital transfer tax, the will or the law relating to intestacy, or both the will and the law relating to intestacy, as the case may be, shall have effect and be deemed to have had effect as from the deceased’s death subject to the provisions of the order.
+
+(2) Any order made under section 2 or 5 of this Act in favour of—
+
+(a) an applicant who was the [[^F58]former spouse or former civil partner] of the deceased, or
+
+(b) an applicant who was the husband or wife of the deceased in a case where the marriage with the deceased was the subject of a [[^F59]judicial separation order] and at the date of death [[^F60]the order] was in force and the separation was continuing, [[^F61] or
+
+(c) an applicant who was the civil partner of the deceased in a case where, at the date of death, a separation order under Chapter 2 of Part 2 of the Civil Partnership Act 2004 was in force in relation to their civil partnership and the separation was continuing,]
+
+shall, in so far as it provides for the making of periodical payments, cease to have effect [[^F62]on the formation by the applicant of a subsequent marriage or civil partnership, except in relation to any arrears due under the order on the date of the formation of the subsequent marriage or civil partnership.]
+
+(3) A copy of every order made under this Act [[^F63]other than an order made under section 15(1) [[^F64]or 15ZA(1)] of this Act] shall be sent to the principal registry of the Family Division for entry and filing, and a memorandum of the order shall be endorsed on, or permanently annexed to, the probate or letters of administration under which the estate is being administered.
+
+### 20 Provisions as to personal representatives.
+
+(1) The provisions of this Act shall not render the personal representative of a deceased person liable for having distributed any part of the estate of the deceased, after the end of the period of six months from the date on which representation with respect to the estate of the deceased is first taken out, on the ground that he ought to have taken into account the possibility—
+
+(a) that the court might permit the making of an application for an order under section 2 of this Act after the end of that period, or
+
+(b) that, where an order has been made under the said section 2, the court might exercise in relation thereto the powers conferred on it by section 6 of this Act,
+
+but this subsection shall not prejudice any power to recover, by reason of the making of an order under this Act, any part of the estate so distributed.
+
+(2) Where the personal representative of a deceased person pays any sum directed by an order under section 5 of this Act to be paid out of the deceased’s net estate, he shall not be under any liability by reason of that estate not being sufficient to make the payment, unless at the time of making the payment he has reasonable cause to believe that the estate is not sufficient.
+
+(3) Where a deceased person entered into a contract by which he agreed to leave by his will any sum of money or other property to any person or by which he agreed that a sum of money or other property would be paid or transferred to any person out of his estate, then, if the personal representative of the deceased has reason to believe that the deceased entered into the contract with the intention of defeating an application for financial provision under this Act, he may, notwithstanding anything in that contract, postpone the payment of that sum of money or the transfer of that property until the expiration of the period of six months from the date on which representation with respect to the estate of the deceased is first taken out or, if during that period an application is made for an order under section 2 of this Act, until the determination of the proceedings on that application.
+
+### [^F65]21 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F66]
+
+### 23 [[^F67]Determination of date on which representation was first taken out
+
+(1) The following are to be left out of account when considering for the purposes of this Act when representation with respect to the estate of a deceased person was first taken out—
+
+(a) a grant limited to settled land or to trust property,
+
+(b) any other grant that does not permit any of the estate to be distributed,
+
+(c) a grant limited to real estate or to personal estate, unless a grant limited to the remainder of the estate has previously been made or is made at the same time,
+
+(d) a grant, or its equivalent, made outside the United Kingdom (but see subsection (2) below).
+
+(2) A grant sealed under section 2 of the Colonial Probates Act 1892 counts as a grant made in the United Kingdom for the purposes of this section, but is to be taken as dated on the date of sealing.]
+
+### 24 Effect of this Act on s. 46(1)(vi) of Administration of Estates Act 1925.
+
+Section 46(1)(vi) of the [^M4]Administration of Estates Act 1925, in so far as it provides for the devolution of property on the Crown, the Duchy of Lancaster or the Duke of Cornwall as bona vacantia, shall have effect subject to the provisions of this Act.
+
+### 25 Interpretation.
+
+(1) In this Act—
+
+- “beneficiary”, in relation to the estate of a deceased person, means—
+
+  - (a) a person who under the will of the deceased or under the law relating to intestacy is beneficially interested in the estate or would be so interested if an order had not been made under this Act, and
+  - (b) a person who has received any sum of money or other property which by virtue of section 8(1) or 8(2) of this Act is treated as part of the net estate of the deceased or would have received that sum or other property if an order had not been made under this Act;
+
+- “child” includes an illegitimate child and a child en ventre sa mere at the death of the deceased;
+
+- “the court” means [[^F68]unless the context otherwise requires] the High Court, or where [[^F69]the county] court has jurisdiction by virtue of section [[^F70]25 of the County Courts Act 1984], [[^F69]the county] court;
+
+- [[^F71] “ former civil partner ” means a person whose civil partnership with the deceased was during the lifetime of the deceased either—
+
+  - (a) dissolved or annulled by an order made under the law of any part of the British Islands, or
+  - (b) dissolved or annulled in any country or territory outside the British Islands by a dissolution or annulment which is entitled to be recognised as valid by the law of England and Wales;]
+
+- [[^F72][[^F73] “ former spouse ” ] means a person whose marriage with the deceased was during the lifetime of the deceased either—
+
+  - (a) dissolved or annulled by a [[^F74]divorce order or nullity of marriage order made, or a decree of divorce or of nullity of marriage granted,] under the law of any part of the British Islands, or
+  - (b) dissolved or annulled in any country or territory outside the British Islands by a divorce or annulment which is entitled to be recognised as valid by the law of England and Wales;]
+
+- “net estate”, in relation to a deceased person, means:—
+
+  - (a) all property of which the deceased had power to dispose by his will (otherwise than by virtue of a special power of appointment) less the amount of his funeral, testamentary and administration expenses, debts and liabilities, including any capital transfer tax payable out of his estate on his death;
+  - (b) any property in respect of which the deceased held a general power of appointment (not being a power exercisable by will) which has not been exercised;
+  - (c) any sum of money or other property which is treated for the purposes of this Act as part of the net estate of the deceased by virtue of section 8(1) or (2) of this Act;
+  - (d) any property which is treated for the purposes of this Act as part of the net estate of the deceased by virtue of an order made under section 9 of the Act;
+  - (e) any sum of money or other property which is, by reason of a disposition or contract made by the deceased, ordered under section 10 or 11 of this Act to be provided for the purpose of the making of financial provision under this Act;
+
+- “property” includes any chose in action;
+
+- “reasonable financial provision” has the meaning assigned to it by section 1 of this Act;
+
+- “valuable consideration” does not include marriage or a promise of marriage;
+
+- “will” includes codicil.
+
+(2) For the purposes of paragraph (a) of the definition of “net estate” in subsection (1) above a person who is not of full age and capacity shall be treated as having power to dispose by will of all property of which he would have had power to dispose by will if he had been of full age and capacity.
+
+(3) Any reference in this Act to provision out of the net estate of a deceased person includes a reference to provision extending to the whole of that estate.
+
+(4) For the purposes of this Act any reference to a [[^F75]spouse,] wife or husband shall be treated as including a reference to a person who in good faith entered into a void marriage with the deceased unless either—
+
+(a) the marriage of the deceased and that person was dissolved or annulled during the lifetime of the deceased and the dissolution or annulment is recognised by the law of England and Wales, or
+
+(b) that person has during the lifetime of the deceased [[^F76]formed a subsequent marriage or civil partnership].
+
+[[^F77](4A) For the purposes of this Act any reference to a civil partner shall be treated as including a reference to a person who in good faith formed a void civil partnership with the deceased unless either—
+
+(a) the civil partnership between the deceased and that person was dissolved or annulled during the lifetime of the deceased and the dissolution or annulment is recognised by the law of England and Wales, or
+
+(b) that person has during the lifetime of the deceased formed a subsequent civil partnership or marriage.
+
+(5) Any reference in this Act to the formation of, or to a person who has formed, a subsequent marriage or civil partnership includes (as the case may be) a reference to the formation of, or to a person who has formed, a marriage or civil partnership which is by law void or voidable.
+
+(5A) The formation of a marriage or civil partnership shall be treated for the purposes of this Act as the formation of a subsequent marriage or civil partnership, in relation to either of the spouses or civil partners, notwithstanding that the previous marriage or civil partnership of that spouse or civil partner was void or voidable.]
+
+[[^F78](5B) In sections 1(2), 3(2), 14, 15 and 19(2)—
+
+(a) a reference to a divorce order includes a decree of divorce,
+
+(b) a reference to a nullity of marriage order includes a decree of nullity of marriage;
+
+(c) a reference to a judicial separation order includes a decree of judicial separation;
+
+(d) a reference to making includes granting;
+
+(e) a reference to an order being made final includes a decree being made absolute.]
+
+(6) Any reference in this Act to an order or decree made under the [^M5]Matrimonial Causes Act 1973 or under any section of that Act shall be construed as including a reference to an order or decree which is deemed to have been made under that Act or under that section thereof, as the case may be.
+
+[[^F79](6A) Any reference in this Act to an order made under, or under any provision of, the Civil Partnership Act 2004 shall be construed as including a reference to anything which is deemed to be an order made (as the case may be) under that Act or provision.]
+
+(7) Any reference in this Act to any enactment is a reference to that enactment as amended by or under any subsequent enactment.
+
+### 26 Consequential amendments, repeals and transitional provisions.
+
+[^F80]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Subject to the provisions of this section, the enactments specified in the Schedule to this Act are hereby repealed to the extent specified in the third column of the Schedule; and in paragraph 5(2) of Schedule 2 to the [^M6]Matrimonial Causes Act 1973 for the words “that Act” there shall be substituted the words “the Matrimonial Causes Act 1965.”
+
+(3) The repeal of the said enactments shall not affect their operation in relation to any application made thereunder (whether before or after the commencement of this Act) with reference to the death of any person who died before the commencement of this Act.
+
+(4) Without prejudice to the provisions of section 38 of the [^M7]Interpretation Act 1889 (which relates to the effect of repeals) nothing in any repeal made by this Act shall affect any order made or direction given under any enactment repealed by this Act, and, subject to the provisions of this Act, every such order or direction (other than an order made under section 4A of the [^M8]Inheritance Family Provision Act 1938 or section 28A of the [^M9]Matrimonial Causes Act 1965) shall, if it is in force at the commencement of this Act or is made by virtue of subsection (3) above, continue in force as if it had been made under section 2(1)(a) of this Act, and for the purposes of section 6(7) of this Act the court in exercising its powers under that section in relation to an order continued in force by this subsection shall be required to have regard to any change in any of the circumstances to which the court would have been required to have regard when making that order if the order had been made with reference to the death of any person who died after the commencement of this Act.
+
+### 27 Short title, commencement and extent.
+
+(1) This Act may be cited as the Inheritance (Provision for Family and Dependants) Act 1975.
+
+(2) This Act does not extend to Scotland or Northern Ireland.
+
+(3) This Act shall come into force on 1st April 1976.
+
+## SCHEDULE — ENACTMENTS REPEALED
+
+*Section 26.*
+
+![image](http://www.legislation.gov.uk/ukpga/1975/63/images/ukpga_19750063_en_sld_001)
+
+---
+
+[^F1]: S. 1(1)(a)(b) substituted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 15(2); S.I. 2005/3175, art. 2(1), Sch. 1
+[^F2]: S. 1(1)(ba) inserted (8.11.1995) by 1995 c. 41, s. 2(2)
+[^F3]: Words in s. 1(1)(ba) omitted (2.12.2019) by virtue of The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), reg. 1(2), Sch. 3 para. 3(2)(a)
+[^F4]: Words in s. 1(1)(d) substituted (1.10.2014) by Inheritance and Trustees' Powers Act 2014 (c. 16), s. 12(2), Sch. 2 para. 2(2) (with s. 12(4)); S.I. 2014/2039, art. 2
+[^F5]: S. 1(1A) inserted (8.11.1995) by 1995 c. 41, s. 2(3)
+[^F6]: Words in s. 1(1A)(b) substituted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), reg. 1(2), Sch. 3 para. 3(2)(b)
+[^F7]: S. 1(1B) omitted (2.12.2019) by virtue of The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), reg. 1(2), Sch. 3 para. 3(2)(c)
+[^F8]: Words in s. 1(2)(a) substituted (6.4.2022) by Divorce, Dissolution and Separation Act 2020 (c. 11), s. 8(1)(8), Sch. para. 44(2)(a); S.I. 2022/283, reg. 2
+[^F9]: Words in s. 1(2)(a) substituted (6.4.2022) by Divorce, Dissolution and Separation Act 2020 (c. 11), s. 8(1)(8), Sch. para. 44(2)(b); S.I. 2022/283, reg. 2
+[^F10]: S. 1(2)(aa) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 15(6); S.I. 2005/3175, art. 2(1), Sch. 1
+[^F11]: S. 1(2A) inserted (1.10.2014) by Inheritance and Trustees' Powers Act 2014 (c. 16), s. 12(2), Sch. 2 para. 2(3) (with s. 12(4)); S.I. 2014/2039, art. 2
+[^F12]: S. 1(3) substituted (1.10.2014) by Inheritance and Trustees' Powers Act 2014 (c. 16), s. 12(2), Sch. 2 para. 3 (with s. 12(4)); S.I. 2014/2039, art. 2
+[^F13]: S. 2(1)(h) inserted (1.10.2014) by Inheritance and Trustees' Powers Act 2014 (c. 16), s. 12(2), Sch. 2 para. 4(2) (with s. 12(4)); S.I. 2014/2039, art. 2
+[^F14]: S. 2(1)(g) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 16; S.I. 2005/3175, art. 2(1), Sch. 1
+[^F15]: S. 2(3A) inserted (1.10.2014) by Inheritance and Trustees' Powers Act 2014 (c. 16), s. 12(2), Sch. 2 para. 4(3) (with s. 12(4)); S.I. 2014/2039, art. 2
+[^F16]: Words in s. 3(2) substituted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 17(2); S.I. 2005/3175, art. 2(1), Sch. 1
+[^F17]: Words in s. 3(2)(a) inserted, and the words from "the court shall, in addition" to the end of s. 3(2)(b) become the second sentence of the subsection, (5.12.2005) by virtue of Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 17(3); S.I. 2005/3175, art. 2(1), Sch. 1
+[^F18]: Word in s. 3(2) repealed, and the words following it become the third sentence of the subsection, (5.12.2005) by virtue of Civil Partnership Act 2004 (c. 33), ss. 71, 261(4), 263(2), Sch. 4 para. 17(4), Sch. 30; S.I. 2005/3175, art. 2(1)(6), Sch. 1
+[^F19]: Words in s. 3(2) substituted (6.4.2022) by Divorce, Dissolution and Separation Act 2020 (c. 11), s. 8(1)(8), Sch. para. 44(3)(a); S.I. 2022/283, reg. 2
+[^F20]: Words in s. 3(2) substituted (6.4.2022) by Divorce, Dissolution and Separation Act 2020 (c. 11), s. 8(1)(8), Sch. para. 44(3)(b); S.I. 2022/283, reg. 2
+[^F21]: Words in s. 3(2) inserted (1.10.2014) by Inheritance and Trustees' Powers Act 2014 (c. 16), s. 12(2), Sch. 2 para. 5(2) (with s. 12(4)); S.I. 2014/2039, art. 2
+[^F22]: Words in s. 3(2) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 17(5); S.I. 2005/3175, art. 2(1), Sch. 1
+[^F23]: S. 3(2A) inserted (8.11.1995) by 1995 c. 41, s. 2(4)
+[^F24]: Words in s. 3(2A)(a) substituted (2.12.2019) by The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458), reg. 1(2), Sch. 3 para. 3(3)
+[^F25]: S. 3(3)(a)(aa) substituted for s. 3(3)(a) (1.10.2014) by Inheritance and Trustees' Powers Act 2014 (c. 16), s. 12(2), Sch. 2 para. 5(3)(a) (with s. 12(4)); S.I. 2014/2039, art. 2
+[^F26]: Words in s. 3(3)(b) substituted (1.10.2014) by Inheritance and Trustees' Powers Act 2014 (c. 16), s. 12(2), Sch. 2 para. 5(3)(b) (with s. 12(4)); S.I. 2014/2039, art. 2
+[^F27]: Words in s. 3(4) substituted (1.10.2014) by Inheritance and Trustees' Powers Act 2014 (c. 16), s. 12(2), Sch. 2 para. 5(4) (with s. 12(4)); S.I. 2014/2039, art. 2
+[^F28]: Words in s. 4 inserted (1.10.2014) by Inheritance and Trustees' Powers Act 2014 (c. 16), s. 12(2), Sch. 2 para. 6 (with s. 12(4)); S.I. 2014/2039, art. 2
+[^F29]: Words in s. 6(3)(10) substituted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 19; S.I. 2005/3175, art. 2(2), Sch. 1
+[^F30]: Words in s. 9(1) omitted (1.10.2014) by virtue of Inheritance and Trustees' Powers Act 2014 (c. 16), s. 12(2), Sch. 2 para. 7(2)(a) (with s. 12(4)); S.I. 2014/2039, art. 2
+[^F31]: Words in s. 9(1) omitted (1.10.2014) by virtue of Inheritance and Trustees' Powers Act 2014 (c. 16), s. 12(2), Sch. 2 para. 7(2)(b) (with s. 12(4)); S.I. 2014/2039, art. 2
+[^F32]: S. 9(1A) inserted (1.10.2014) by Inheritance and Trustees' Powers Act 2014 (c. 16), s. 12(2), Sch. 2 para. 7(3) (with s. 12(4)); S.I. 2014/2039, art. 2
+[^F33]: Words in s. 14(1) substituted (6.4.2022) by Divorce, Dissolution and Separation Act 2020 (c. 11), s. 8(1)(8), Sch. para. 44(4)(a)(i); S.I. 2022/283, reg. 2
+[^M1]: 1973 c. 18.
+[^F34]: Words in s. 14(1) substituted (6.4.2022) by Divorce, Dissolution and Separation Act 2020 (c. 11), s. 8(1)(8), Sch. para. 44(4)(a)(ii); S.I. 2022/283, reg. 2
+[^F35]: Words in s. 14(2) substituted (6.4.2022) by Divorce, Dissolution and Separation Act 2020 (c. 11), s. 8(1)(8), Sch. para. 44(4)(b)(i); S.I. 2022/283, reg. 2
+[^F36]: Words in s. 14(2) substituted (6.4.2022) by Divorce, Dissolution and Separation Act 2020 (c. 11), s. 8(1)(8), Sch. para. 44(4)(b)(ii); S.I. 2022/283, reg. 2
+[^F37]: S. 14A inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 20; S.I. 2005/3175, art. 2(1), Sch. 1
+[^F38]: S. 15(1) substituted by Matrimonial and Family Proceedings Act 1984 (c. 42, SIF 49:3), s. 8(1)
+[^F39]: Words in s. 15(1) substituted (6.4.2022) by Divorce, Dissolution and Separation Act 2020 (c. 11), s. 8(1)(8), Sch. para. 44(5)(a); S.I. 2022/283, reg. 2
+[^F40]: Words in s. 15(1) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 10 para. 36(2); S.I. 2014/954, art. 2(d) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F41]: Words in s. 15(2) substituted (6.4.2022) by Divorce, Dissolution and Separation Act 2020 (c. 11), s. 8(1)(8), Sch. para. 44(5)(b)(i); S.I. 2022/283, reg. 2
+[^F42]: Words in s. 15(2) substituted (6.4.2022) by Divorce, Dissolution and Separation Act 2020 (c. 11), s. 8(1)(8), Sch. para. 44(5)(b)(ii); S.I. 2022/283, reg. 2
+[^F43]: Words in s. 15(3) substituted (6.4.2022) by Divorce, Dissolution and Separation Act 2020 (c. 11), s. 8(1)(8), Sch. para. 44(5)(c); S.I. 2022/283, reg. 2
+[^F44]: Words in s. 15(4) substituted (6.4.2022) by Divorce, Dissolution and Separation Act 2020 (c. 11), s. 8(1)(8), Sch. para. 44(5)(d)(i); S.I. 2022/283, reg. 2
+[^F45]: Words in s. 15(4) substituted (6.4.2022) by Divorce, Dissolution and Separation Act 2020 (c. 11), s. 8(1)(8), Sch. para. 44(5)(d)(ii); S.I. 2022/283, reg. 2
+[^F46]: S. 15ZA inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 21; S.I. 2005/3175, art. 2(1), Sch. 1
+[^F47]: Words in s. 15ZA(2) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 10 para. 36(3); S.I. 2014/954, art. 2(d) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F48]: S. 15A inserted by Matrimonial and Family Proceedings Act 1984 (c. 42, SIF 49:3), s. 25(3)
+[^F49]: Words in s. 15A(1) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 10 para. 36(4); S.I. 2014/954, art. 2(d) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F50]: S. 15B inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 22; S.I. 2005/3175, art. 2(1), Sch. 1
+[^F51]: Words in s. 15B(2) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 10 para. 36(5); S.I. 2014/954, art. 2(d) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^M2]: 1973 c. 18.
+[^F52]: Words in s. 16(1) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 23(a); S.I. 2005/3175, art. 2(1), Sch. 1
+[^F53]: Words in s. 16(1) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 23(b); S.I. 2005/3175, art. 2(1), Sch. 1
+[^F54]: Words in s. 17(4) substituted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 24(a); S.I. 2005/3175, art. 2(1), Sch. 1
+[^F55]: Words in s. 17(4) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 24(b); S.I. 2005/3175, art. 2(1), Sch. 1
+[^F56]: Words in s. 17(4) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 24(c); S.I. 2005/3175, art. 2(1), Sch. 1
+[^M3]: 1973 c. 18.
+[^F57]: S. 18A inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 25; S.I. 2005/3175, art. 2(1), Sch. 1
+[^F58]: Words in s. 19(2)(a) substituted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 26(2); S.I. 2005/3175, art. 2(1), Sch. 1
+[^F59]: Words in s. 19(2)(b) substituted (6.4.2022) by Divorce, Dissolution and Separation Act 2020 (c. 11), s. 8(1)(8), Sch. para. 44(6)(a); S.I. 2022/283, reg. 2
+[^F60]: Words in s. 19(2)(b) substituted (6.4.2022) by Divorce, Dissolution and Separation Act 2020 (c. 11), s. 8(1)(8), Sch. para. 44(6)(b); S.I. 2022/283, reg. 2
+[^F61]: S. 19(2)(c) and preceding word inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 26(3); S.I. 2005/3175, art. 2(1), Sch. 1
+[^F62]: Words in s. 19(2) substituted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 26(4); S.I. 2005/3175, art. 2(1), Sch. 1
+[^F63]: Words inserted by Administration of Justice Act 1982 (c. 53, SIF 37), s. 52
+[^F64]: Words in s. 19(3) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 26(5); S.I. 2005/3175, art. 2(1), Sch. 1
+[^F65]: S. 21 repealed (31.1.1997) by 1995 c. 38, s. 15(2), Sch. 2; S.I. 1996/3217, art. 2
+[^F66]: S. 22 repealed by Administration of Justice Act 1982 (c. 53, SIF 116:5), s. 75, Sch. 9 Pt. I
+[^F67]: S. 23 substituted (1.10.2014) by Inheritance and Trustees' Powers Act 2014 (c. 16), s. 12(2), Sch. 3 para. 2 (with s. 12(4)); S.I. 2014/2039, art. 2
+[^M4]: 1925 c. 23.
+[^F68]: Words inserted by Matrimonial and Family Proceedings Act 1984 (c. 42, SIF 49:3), s. 8(2)
+[^F69]: Words in s. 25(1) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 92(a); S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F70]: Words in s. 25(1) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 9 para. 92(b); S.I. 2014/954, art. 2(c) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F71]: S. 25(1): definition of "former civil partner" inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 27(3); S.I. 2005/3175, art. 2(1), Sch. 1
+[^F72]: Definition substituted by Matrimonial and Family Proceedings Act 1984 (c. 42, SIF 49:3), s. 25(2)
+[^F73]: S. 25(1): definition of ""former husband" or "former wife"" becomes definition of "former spouse" (5.12.2005) by virtue of Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 27(2); S.I. 2005/3175, art. 2(1), Sch. 1
+[^F74]: Words in s. 25(1) substituted (6.4.2022) by Divorce, Dissolution and Separation Act 2020 (c. 11), s. 8(1)(8), Sch. para. 44(7)(a); S.I. 2022/283, reg. 2
+[^F75]: Word in s. 25(4) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 27(4)(a); S.I. 2005/3175, art. 2(1), Sch. 1
+[^F76]: Words in s. 25(4)(b) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 27(4)(b); S.I. 2005/3175, art. 2(1), Sch. 1
+[^F77]: S. 25(4A)-(5A) substituted for s. 25(5) (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 27(5); S.I. 2005/3175, art. 2(1), Sch. 1
+[^F78]: S. 25(5B) inserted (6.4.2022) by Divorce, Dissolution and Separation Act 2020 (c. 11), s. 8(1)(8), Sch. para. 44(7)(b); S.I. 2022/283, reg. 2
+[^M5]: 1973 c. 18.
+[^F79]: S. 25(6A) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 71, 263(2), Sch. 4 para. 27(6); S.I. 2005/3175, art. 2(1), Sch. 1
+[^F80]: S. 26(1) repealed (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 210 Table; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^M6]: 1973 c. 18.
+[^M7]: 1889 c. 63.
+[^M8]: 1938 c. 71.
+[^M9]: 1965 c. 72.

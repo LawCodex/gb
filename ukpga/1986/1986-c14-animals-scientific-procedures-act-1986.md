@@ -1,0 +1,2194 @@
+---
+title: "Animals (Scientific Procedures) Act 1986"
+identifier: "ukpga/1986/14"
+citation: "1986 c. 14"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1986-05-20
+last_amended: 2026-06-19
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1986/14"
+source_modified: 2026-09-21
+retrieved: 2026-10-11
+---
+
+# Animals (Scientific Procedures) Act 1986
+
+**1986 c. 14**
+
+An Act to make new provision for the protection of animals used for experimental or other scientific purposes.
+
+[20th May 1986]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Preliminary
+
+### 1 Protected animals.
+
+(1) Subject to the provisions of this section, “a protected animal” for the purposes of this Act means any living vertebrate other than man [[^F1]and any living cephalopod] .
+
+(2) Any such vertebrate in its foetal, larval or embryonic form is a protected animal only from the stage of its development when—
+
+(a) in the case of a mammal, bird or reptile, [[^F2]two-thirds of] the gestation or incubation period for the relevant species has elapsed; and
+
+(b) in any other case, it becomes capable of independent feeding.
+
+[[^F3](2A) Any living cephalopod in its embryonic form is not a protected animal.]
+
+(3) The Secretary of State may by order—
+
+(a) extend the definition of protected animal so as to include [[^F4]any description of invertebrates other than cephalopods] ;
+
+(b) alter the stage of development specified in subsection (2) above;
+
+(c) make provision in lieu of subsection (2) above as respects any animal which becomes a protected animal by virtue of an order under paragraph (a) above.
+
+(4) For the purposes of this section an animal shall be regarded as continuing to live until the permanent cessation of circulation or the destruction of its brain.
+
+(5) In this section “vertebrate” means any animal of the Sub-phylum Vertebrata of the Phylum Chordata and “invertebrate” means any animal not of that Sub-phylum.
+
+### 2 Regulated procedures.
+
+(1) Subject to the provision of this section, “a regulated procedure” for the purposes of this Act means any [[^F5]procedure applied to a protected animal for a qualifying purpose which may have the effect of causing the animal a level of pain, suffering, distress or lasting harm equivalent to, or higher than, that caused by the introduction of a needle in accordance with good veterinary practice.]
+
+[[^F6](1A) A procedure is applied to an animal for “a qualifying purpose” if—
+
+(a) it is applied for an experimental or other scientific purpose (whether or not the outcome of the procedure is known); or
+
+(b) it is applied for an educational purpose.]
+
+(2) [[^F7]A procedure applied to an animal for a qualifying purpose] is also a regulated procedure if—
+
+(a) it is part of a series or combination of [^F8]... procedures (whether the same or different) applied to the same animal; and
+
+[[^F9](ab) each of the other procedures in the series or combination is applied for a qualifying purpose; and]
+
+(b) the series or combination may have the effect mentioned in subsection (1) above; and
+
+(c) the animal is a protected animal throughout the series or combination or in the course of it attains the stage of its development when it becomes such an animal.
+
+[[^F10](2A) A procedure applied to an animal for a qualifying purpose is also a regulated procedure if—
+
+(a) at the time the procedure is applied the animal has not attained the stage of its development when it is a protected animal;
+
+(b) the animal is to be allowed to live until after it attains that stage of its development; and
+
+(c) the procedure is likely to have the effect mentioned in subsection (1) after the animal attains that stage (whether or not it is also likely to have that effect before the animal attains that stage).]
+
+(3) Anything done for the purpose of, or liable to result in, the birth or hatching of a protected animal is also a regulated procedure if it may as respects that animal have the effect mentioned in subsection (1) above.
+
+[[^F11](3A) The modification of an animal’s genes is a regulated procedure if—
+
+(a) the animal is a protected animal and the modification may have the effect mentioned in subsection (1); or
+
+(b) the animal is to be allowed to live until after it attains the stage of its development when it is a protected animal and the modification may have the effect mentioned in subsection (1) after it has attained that stage (whether or not it is also likely to have that effect before the animal attains that stage).
+
+(3B) The breeding of an animal is a regulated procedure if—
+
+(a) the animal is bred from an animal whose genes have mutated or been modified or from a descendant of an animal whose genes have mutated or been modified;
+
+(b) the animal is to be allowed to live until after it has attained the stage of its development when it is a protected animal; and
+
+(c) after the animal has attained that stage the animal may experience pain, suffering, distress or lasting harm of a level mentioned in subsection (1) by reason of the mutation or modification referred to in paragraph (a).
+
+(3C) For the purposes of subsections (3A) and (3B), references to the modification of an animal’s genes include the modification before the animal comes into being of any genetic material by virtue of which it comes into being]
+
+(4) In determining whether any procedure may have the effect mentioned in subsection (1) above the use of an anaesthetic or analgesic, decerebration and any other procedure for rendering an animal insentient shall be disregarded; and the administration of an anaesthetic or analgesic to a protected animal, or decerebration or any other such procedure applied to such an animal, for the purposes of any experimental or other scientific procedure shall itself be a regulated procedure.
+
+[^F12]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F12]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F13](7) Killing a protected animal is a regulated procedure only if—
+
+(a) it is killed for experimental or other scientific use;
+
+(b) the place where it is killed is—
+
+(i) a place that is specified in a licence granted under section 2C, or
+
+(ii) a place that is specified in a project licence by virtue of section 5(3), and
+
+(c) the method employed to kill the animal is not—
+
+(i) a method that is appropriate to that description of animal under Schedule 1, or
+
+(ii) in a case within paragraph (b)(i), a method that is specified as being appropriate to that description of animal in the licence granted under section 2C.
+
+(8) Notwithstanding anything in this section, the following are not regulated procedures—
+
+(a) non-experimental agricultural practices;
+
+(b) non-experimental clinical veterinary practices;
+
+(c) practices undertaken for the purposes of recognised animal husbandry;
+
+(d) the administration of any substance or article to an animal for research purposes in accordance with an animal test certificate granted under the Veterinary Medicines Regulations 2011 [[^F14]or the Veterinary Medicines Regulations 2013];
+
+(e) the ringing, tagging or marking of an animal, or the application of any other humane procedure for the primary purpose of enabling an animal to be identified, provided that it causes only momentary pain or distress (or none at all) and no lasting harm.
+
+(8A) References in this section to “a procedure” include both invasive and non-invasive procedures.]
+
+(9) Schedule 1 to this Act may be amended by orders made by the Secretary of State.
+
+### 2A [[^F15]Principles of replacement, reduction and refinement
+
+(1) The Secretary of State must exercise his or her functions under this Act with a view to ensuring compliance with the principles of replacement, reduction and refinement.
+
+(2) For the purposes of this Act—
+
+(a) the principle of replacement is the principle that, wherever possible, a scientifically satisfactory method or testing strategy not entailing the use of protected animals must be used instead of a regulated procedure;
+
+(b) the principle of reduction is the principle that whenever a programme of work involving the use of protected animals is carried out the number of protected animals used must be reduced to a minimum without compromising the objectives of the programme;
+
+(c) the principle of refinement is the principle that the breeding, accommodation and care of protected animals and the methods used in regulated procedures applied to such animals must be refined so as to eliminate or reduce to the minimum any possible pain, suffering, distress or lasting harm to those animals.]
+
+## [[^F16]Licensing of undertakings
+
+### 2B Prohibition of unlicensed undertakings
+
+(1) A person must not, whether for profit or otherwise, carry on at any place an undertaking which involves one or more of the activities mentioned in subsection (2) unless the person is authorised to do so by a licence under section 2C.
+
+(2) The activities are—
+
+(a) the applying of regulated procedures to protected animals;
+
+(b) the breeding of relevant protected animals with a view to—
+
+(i) their use in regulated procedures, or
+
+(ii) the use of their tissues or organs for scientific purposes,
+
+or the breeding of protected animals (other than relevant protected animals) primarily for purposes within sub-paragraph (i) or (ii);
+
+(c) the keeping of relevant protected animals which have been bred elsewhere and are to be supplied with a view to —
+
+(i) their use elsewhere in regulated procedures, or
+
+(ii) the use elsewhere of their tissues or organs for scientific purposes.
+
+(3) In this section “relevant protected animal” means a protected animal of a description specified in Schedule 2 to this Act.
+
+### 2C Licensing of undertakings
+
+(1) A licence under this section is a licence granted by the Secretary of State which authorises the holder to carry on at a specified place an undertaking which involves the activities mentioned in subsection (2) of section 2B or such of those activities as are specified in the licence.
+
+(2) The Secretary of State may grant a licence under this section only if satisfied that the person who is to be the holder and the place that is to be specified are in compliance with the requirements of [[^F17]this Act].
+
+(3) An application for a licence under this section shall be made to the Secretary of State in such form and shall be supported by such information as the Secretary of State may reasonably require.
+
+(4) A licence under this section shall not be granted unless the application nominates for inclusion in the licence pursuant to subsection (5) persons appearing to the Secretary of State to be suitable for that purpose.
+
+(5) A licence under this section shall specify—
+
+(a) a person to be responsible for overseeing the welfare and care of the animals kept at the place specified in the licence;
+
+(b) a veterinary surgeon with expertise in laboratory animal medicine, or other suitably qualified person, to provide advice on the welfare and treatment of those animals;
+
+(c) a person to be responsible for ensuring that the persons dealing with those animals have access to any information they need about the species concerned;
+
+(d) a person to be responsible for ensuring that the persons dealing with those animals are adequately educated and trained and are supervised until they have demonstrated the requisite competence; and
+
+(e) a person to be responsible for ensuring that the conditions of the licence are complied with.
+
+(6) If the Secretary of State thinks fit, the same person may be specified under two or more of the paragraphs of subsection (5).
+
+(7) If it appears to any person specified in a licence pursuant to paragraph (a) or (b) of subsection (5) that the health or welfare of any animal kept at the place specified in the licence gives rise to concern, that person shall—
+
+(a) notify the person holding a personal licence who is in charge of the animal; or
+
+(b) if there is no such person or it is not practicable to notify that person, take steps to ensure that the animal is cared for and, if it is necessary for it to be killed, that it is killed in accordance with section 15A (manner in which protected animals are to be killed).
+
+(8) In any case to which subsection (7) applies the person specified in the licence pursuant to paragraph (a) of subsection (5) may also notify the person (if different) specified pursuant to paragraph (b) of that subsection; and the person specified pursuant to either paragraph of that subsection may also notify one of the inspectors appointed under this Act.
+
+(9) A licence under this section shall continue in force until revoked.
+
+(10) Where—
+
+(a) there has been or is to be a significant change to the structure or function of the place specified in a licence under this section, and
+
+(b) the change may have a negative effect on animal welfare,
+
+the Secretary of State shall vary the licence as appropriate (or if necessary revoke it).]
+
+## Personal and project licences
+
+### 3 Prohibition of unlicensed procedures.
+
+No person shall [[^F18]personally] apply a regulated procedure to an animal unless—
+
+(a) he holds a personal licence qualifying him to apply a regulated procedure of that description to an animal of that description;
+
+(b) the procedure is applied as part of a programme of work specified in a project licence authorising the application, as part of that programme, of a regulated procedure of that description to an animal of that description; and
+
+(c) the place where the procedure is carried out is a place specified in [^F19]... the project licence.
+
+### 4 Personal licences.
+
+(1) A personal licence is a licence granted by the Secretary of State qualifying the holder [[^F20]personally to apply regulated procedures of specified descriptions] to animals of specified descriptions [^F21]....
+
+(2) An application for a personal licence shall be made to the Secretary of State in such form and shall be supported by such information as he may reasonably require.
+
+(3) Except where the Secretary of State dispenses with the requirements of this subsection any such application shall be endorsed by a person who—
+
+[[^F22](a) is for the time being specified in a relevant section 2C licence by virtue of section 2C(5)(d);]
+
+(b) has knowledge of the [[^F23]education,] training, experience and character of the applicant;
+
+[^F24]...
+
+[[^F25](3A) For the purposes of subsection (3)(a), a section 2C licence is “relevant” if it authorises the holder to carry on an undertaking which involves the applying of regulated procedures to protected animals.]
+
+(4) No personal licence shall be granted to a person under the age of eighteen.
+
+[[^F26](4A) The Secretary of State shall not grant a personal licence to a person unless he is satisfied that the person—
+
+(a) has appropriate education and training [^F27]... for the purpose of applying the regulated procedures [[^F28]that the licence would qualify the person to apply] ; and
+
+(b) is competent to apply those procedures in accordance with the conditions which are to be included in the licence and to handle and take care of laboratory animals.]
+
+(5) A personal licence shall continue in force until revoked but the Secretary of State shall review each personal licence granted by him at intervals not exceeding five years and may for that purpose require the holder to furnish him with such information as he may reasonably require.
+
+### 5 [[^F29] Project licences: general
+
+(1) A project licence is a licence granted by the Secretary of State which specifies a programme of work and authorises the application, as part of that programme, of specified regulated procedures to animals of specified descriptions at a specified place or specified places.
+
+(2) A place may not be specified in a project licence unless it is a place at which a person is authorised by a section 2C licence to carry on an undertaking involving the applying of regulated procedures to protected animals.
+
+(3) But subsection (2) does not apply in any case in which it appears to the Secretary of State, on the basis of a scientific justification, that the programme or procedures authorised by the project licence require a different place to be specified.
+
+[[^F30](4) A project licence may specify a programme of work which consists of multiple generic projects if the projects—
+
+(a) are to be carried out to satisfy regulatory requirements, or
+
+(b) use animals for production or diagnostic purposes, in accordance with established methods.]
+
+### 5A Application for a project licence
+
+(1) An application for a project licence must—
+
+(a) specify the programme of work the applicant wishes to be specified in the project licence;
+
+(b) specify the regulated procedures, the descriptions of animal and the place or places the applicant wishes to be specified in the project licence;
+
+(c) include information on the matters set out in [[^F31]subsection (1A)];
+
+(d) include such other information as the Secretary of State may reasonably require; and
+
+(e) be accompanied by a project summary.
+
+[[^F32](1A) The matters referred to in subsection (1)(c) are—
+
+(a) the relevance of, and justification for, the regulated procedures specified in the application;
+
+(b) the proposed application of methods to replace, reduce or refine the use of animals in those procedures;
+
+(c) the proposed severity classification of the procedures specified in the application (see section 5B(3)(c));
+
+(d) the relevance of, and justification for, the use of animals in those procedures;
+
+(e) the following matters in relation to the animals to be used in those procedures—
+
+(i) their estimated number;
+
+(ii) their type and species;
+
+(iii) their life stages;
+
+(iv) their origin;
+
+(f) the proposed housing conditions, husbandry conditions and care conditions of those animals;
+
+(g) the steps proposed for the avoidance, reduction or alleviation of pain, suffering or distress in those animals, from birth to death where appropriate, including, in particular—
+
+(i) the planned use of anaesthesia, analgesia or other methods of relieving pain;
+
+(ii) the use of humane end-points;
+
+(h) any proposed experimental or observational strategy or statistical design for minimising the following where appropriate—
+
+(i) the number of animals to be used;
+
+(ii) their pain, suffering or distress;
+
+(iii) the environmental impact of the procedures;
+
+(i) the cumulative effects of any proposed reuse on those animals;
+
+(j) any proposed methods of killing those animals;
+
+(k) the steps proposed for the avoidance of any unjustified duplication of procedures where appropriate;
+
+(l) the competence of persons involved in the proposed programme of work.]
+
+(2) A project summary is a statement, in non-technical language, which (subject to subsection (3)(a))—
+
+(a) describes the proposed programme of work and states the objectives of the programme, the predicted harm and benefits of the programme and the number and types of animal to be used in the programme;
+
+(b) demonstrates that the proposed programme of work would be carried out in compliance with the principles of replacement, reduction and refinement.
+
+(3) A project summary must not contain—
+
+(a) any information of a confidential nature or any information the publication of which may lead to the infringement of any person’s intellectual property rights;
+
+(b) names or addresses or any other information from which the identity of the applicant or any other person can be ascertained.
+
+(4) If the Secretary of State receives an incomplete or incorrect application for a project licence the Secretary of State must, as soon as practicable, inform the applicant of the following matters—
+
+(a) the fact that the application is incomplete or incorrect;
+
+(b) the additional information that needs to be provided by the applicant to complete or correct the application; and
+
+(c) the fact that the period mentioned in subsection (7) will not begin until the Secretary of State has received the additional information.
+
+(5) Subsections (6) to (9) apply if the Secretary of State receives a complete and correct application for a project licence or receives information from an applicant that completes or corrects an application for a project licence.
+
+(6) The Secretary of State must as soon as practicable—
+
+(a) acknowledge receipt of the application or (as the case may be) receipt of the information; and
+
+(b) inform the applicant of the effect of subsections (7) to (9).
+
+(7) Within the period of 40 working days beginning with the day on which the Secretary of State receives the application or (as the case may be) the information, the Secretary of State must—
+
+(a) grant a project licence to the applicant (in the terms specified in the application under subsection (1)(a) and (b) or in those terms with such modifications as the Secretary of State thinks appropriate); or
+
+(b) serve on the applicant a notice under section 12(1) indicating the Secretary of State’s intention to refuse the project licence.
+
+(8) On one occasion within the period mentioned in subsection (7), the Secretary of State may by notice to the applicant extend the period by up to 15 working days.
+
+(9) The Secretary of State may exercise the power in subsection (8) only if, and to the extent that, the Secretary of State considers its exercise is justified by the complexity or multi-disciplinary nature of the proposed programme of work.
+
+### 5B Determining an application: evaluation of the programme of work
+
+(1) A project licence must not be granted unless the Secretary of State has carried out in accordance with this section a favourable evaluation of the programme of work to be specified in the licence.
+
+(2) For this purpose, the evaluation of a programme of work is favourable only if it verifies—
+
+(a) that carrying out the programme of work is justified from a scientific or educational point of view or is required by law;
+
+(b) that the purposes of the programme of work justify the use of protected animals; and
+
+(c) that the programme of work is designed so as to enable the regulated procedures applied as part of it to be applied in the most humane and environmentally sensitive manner possible.
+
+(3) In carrying out the evaluation of a programme of work the Secretary of State must—
+
+(a) evaluate the objectives of the programme of work and its predicted scientific benefits or educational value;
+
+(b) assess the compliance of the programme of work with the principles of replacement, reduction and refinement;
+
+(c) classify as “non-recovery”, “mild”, “moderate” or “severe” the likely severity of each regulated procedure that would be applied as part of the programme of work [[^F33](see section 5BA)];
+
+(d) carry out a harm-benefit analysis of the programme of work to assess whether the harm that would be caused to protected animals in terms of suffering, pain and distress is justified by the expected outcome, taking into account ethical considerations and the expected benefit to human beings, animals or the environment;
+
+(e) assess any scientific justification which is relevant (by virtue of sections 5(3), 15A(7) or 17(2), paragraphs 1(4), 2(4) or 3(3) of Schedule 2B or paragraph 25(2), (3) or (5) of Schedule 2C) to the question of whether or on what terms a project licence may be granted in respect of the programme of work;
+
+(f) assess whether there is any justification for an exemption under paragraph 26(2) of Schedule 2C;
+
+(g) assess whether carrying out the programme of work would give rise to any scientific reason for an exemption under paragraph 11(5) of Schedule 2C;
+
+(h) determine, on the assumption that a project licence is granted in respect of the programme of work, whether and (if so) when the programme should be retrospectively assessed under section 5F.
+
+(4) In carrying out the evaluation of a programme of work the Secretary of State must consider—
+
+(a) expertise in the area of science for which it is intended that protected animals will be used (including expertise in the application of the principles of replacement, reduction and refinement when working in that area of science);
+
+(b) expertise in experimental design (including expertise in statistics where appropriate);
+
+(c) expertise in veterinary practice in laboratory animal science or, where appropriate, expertise in wildlife veterinary practice;
+
+(d) expertise in animal husbandry and care in relation to the species of protected animals that are intended to be used.
+
+(5) For the purposes of subsection (3)(c) a series of regulated procedures applied to an animal for a particular purpose is to be treated as constituting a single regulated procedure.
+
+[^F34]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) The Secretary of State must determine that a programme of work should be retrospectively assessed under section 5F if the programme would involve—
+
+(a) the application of regulated procedures to primates; or
+
+(b) the application of regulated procedures the likely severity of which has been classified under section (3)(c) as “severe”.
+
+(8) The evaluation of a programme of work must be carried out with a degree of detail appropriate for the type of programme and must be carried out in an impartial manner.
+
+(9) The Secretary of State must publish information as to the process by which he proposes to evaluate programmes of work under this section.
+
+### 5BA [[^F35]Determining an application: classification of the severity of the procedure
+
+(1) This section applies for the purposes of classifying the likely severity of a regulated procedure under section 5B(3)(c).
+
+(2) The likely severity of the procedure is to be determined by the degree of pain, suffering, distress or lasting harm expected to be experienced by an animal during the course of the procedure.
+
+(3) A procedure that falls within a description set out in column 1 of the following Table is to be assigned to the category that is specified in column 2 of the Table in relation to that description—
+
+|  |  |
+|---|---|
+| Description of procedure performed on animal | Category of severity |
+| A procedure that does not cause any significant impairment of the well-being or general condition of the animal. A procedure as a result of which the animal is likely to experience short-term mild pain, suffering or distress. | Mild |
+| A procedure that is likely to cause moderate impairment of the well-being or general condition of the animal. A procedure as a result of which the animal is likely to experience short-term moderate pain, suffering or distress or long-lasting mild pain, suffering or distress. | Moderate |
+| A procedure that is likely to cause severe impairment of the well-being or general condition of the animal. A procedure as a result of which the animal is likely to experience severe pain, suffering or distress or long-lasting moderate pain, suffering or distress. | Severe |
+| A procedure performed entirely under general anaesthesia from which the animal will not regain consciousness. | Non-recovery |
+
+(4) The assignment of a procedure to a category in accordance with subsection (3)—
+
+(a) must be based on the most severe effects likely to be experienced by the animal after all appropriate refinement techniques have been applied, and
+
+(b) must take into account any manipulation of the animal.
+
+(5) When assigning a procedure to a category in accordance with subsection (3), the Secretary of State—
+
+(a) must first assign the procedure to a category on the basis of factors relating to the type of procedure only (“step 1”), and
+
+(b) must then determine whether to assign the procedure to a different category on the basis of additional factors (“step 2”).
+
+(6) The following factors relating to the type of procedure must be taken into account for the purposes of step 1—
+
+(a) the type of manipulation or handling involved in the procedure;
+
+(b) the nature and intensity of the pain, suffering, distress or lasting harm that would be caused by the procedure;
+
+(c) the duration, frequency and number of techniques to be used in the procedure;
+
+(d) the cumulative effects of the procedure;
+
+(e) the extent to which the animal used in the procedure would be prevented from expressing their natural behaviour, including any restrictions on their housing, husbandry or care.
+
+(7) Where the procedure is of a description that has been assigned by Schedule 2AA to a particular category of severity, the procedure is to be assigned to that category for the purposes of step 1.
+
+(8) The following additional factors must be taken into account for the purposes of step 2—
+
+(a) the species and genotype of the animal to be used in the procedure;
+
+(b) the maturity, age and gender of the animal;
+
+(c) the habituation of the animal with respect to the procedure;
+
+(d) if the animal is to be reused, the actual severity and cumulative severity of each previous procedure;
+
+(e) the methods used to reduce or eliminate pain, suffering and distress, including refinement of housing, husbandry and care conditions;
+
+(f) use of humane end-points.
+
+(9) The factors to be taken into account for the purposes of subsection (5) must be considered on a case-by-case basis.
+
+(10) Section 5B(5) applies for the purposes of this section as it applies for the purposes of section 5B(3)(c).]
+
+### 5C Determining an application: further provision
+
+(1) A project licence must not be granted except to a person who undertakes responsibility for the overall implementation of the programme of work to be specified in the licence.
+
+(2) A project licence must not be granted to a person unless the Secretary of State has verified that—
+
+(a) the person has received instruction in a scientific discipline relevant to the programme of work to be specified in the licence;
+
+(b) the person has specific knowledge relating to the species of animal that is to be subjected to regulated procedures as part of that programme of work; and
+
+(c) the person has appropriate education and training for the purpose of designing programmes of work involving the application of regulated procedures.
+
+(3) A project licence must not be granted unless the Secretary of State has verified that the programme of work to be specified in the licence is to be carried out for one of the following purposes—
+
+(a) basic research;
+
+(b) translational or applied research with one of the following aims—
+
+(i) the avoidance, prevention, diagnosis or treatment of disease, ill-health or other abnormality, or their effects, in man, animals or plants;
+
+(ii) the assessment, detection, regulation or modification of physiological conditions in man, animals or plants; or
+
+(iii) the improvement of the welfare of animals or of the production conditions for animals reared for agricultural purposes;
+
+(c) the development, manufacture or testing of the quality, effectiveness and safety of drugs, foodstuffs and feed-stuffs or any other substances or products, with one of the aims mentioned in paragraph (b);
+
+(d) the protection of the natural environment in the interests of the health or welfare of man or animals;
+
+(e) research aimed at preserving the species of animal subjected to regulated procedures as part of the programme of work;
+
+(f) higher education or training for the acquisition, maintenance or improvement of vocational skills;
+
+(g) forensic inquiries.
+
+(4) Schedule 2B (which requires the Secretary of State to verify that additional conditions are met before granting a project licence that would authorise the use of endangered animals, primates, cats, dogs or equidae) has effect.
+
+(5) The Secretary of State must not grant a project licence that would authorise the application of regulated procedures to great apes.
+
+### 5D Granting a project licence
+
+(1) This section applies where a project licence is granted in relation to a programme of work.
+
+(2) The project licence must—
+
+(a) specify the name of the person to whom the licence is granted; and
+
+(b) contain a statement that the person is responsible for the overall implementation of the programme of work and for ensuring that the programme is carried out in compliance with the conditions of the licence.
+
+(3) The project licence must specify the name of any person who at the time the project licence is granted holds a section 2C licence granted in respect of a place specified in the project licence.
+
+(4) The project licence must state how the Secretary of State classified the likely severity of each of the regulated procedures specified in the licence (see section 5B(3)(c)).
+
+(5) The project licence must state what determination the Secretary of State made as to whether and, if so, when the programme of work should be retrospectively assessed under section 5F (see section 5B(3)(h)).
+
+(6) The Secretary of State must publish a copy of the project summary that accompanied the application for the project licence [[^F36]before the end of the period of six months beginning with the day on which the project licence was granted].
+
+(7) But before doing so the Secretary of State must alter the copy so that—
+
+(a) it states what determination the Secretary of State made as to whether and when the programme of work should be retrospectively assessed under section 5F; and
+
+(b) it includes such additional information as the Secretary of State thinks appropriate in order to assist a person who reads the summary.
+
+### 5E Duration of a project licence and further evaluation etc
+
+(1) Unless revoked and subject to the following provisions of this section, a project licence shall continue in force for such period as is specified in the licence and may be renewed for further periods but (without prejudice to the grant of a new licence in respect of the programme in question) no such licence shall be in force for more than five years in all.
+
+(2) A project licence shall terminate on the death of the holder unless a qualifying person notifies the Secretary of State of the death within seven days of becoming aware of it.
+
+(3) Where the Secretary of State receives a notification under subsection (2) the project licence shall, unless the Secretary of State otherwise directs, continue in force until the end of the period of 28 days beginning with the date of the notification.
+
+(4) For the purposes of subsection (2), a person is a “qualifying person” in relation to a project licence if—
+
+(a) the person is the holder of a section 2C licence granted in respect of a place specified in the project licence; or
+
+(b) in a case where the project licence does not specify a place in respect of which there is a section 2C licence, the person is the holder of a personal licence who was engaged on the programme in question.
+
+(5) A project licence may not be varied or renewed unless the Secretary of State has carried out a further favourable evaluation of the relevant programme of work; and for this purpose section 5B applies with any necessary modifications.
+
+(6) The Secretary of State must establish and publish conditions which he or she will take into account in determining whether to vary or renew a project licence.
+
+### 5F Retrospective assessment of programme of work
+
+(1) This section applies where—
+
+(a) a project licence is granted in respect of a programme of work; and
+
+(b) the Secretary of State made a determination under section 5B(3)(h) that the programme of work should be retrospectively assessed under this section.
+
+(2) At the time determined by the Secretary of State under section 5B(3)(h), the Secretary of State must assess the following matters—
+
+(a) whether the programme of work has been carried out;
+
+(b) whether the objectives of the programme of work have been achieved;
+
+(c) the amount of harm caused to animals by the carrying out of the programme of work (including the number of animals subjected to regulated procedures as part of the programme of work, the species of animals subjected to those procedures and the severity of those procedures); and
+
+(d) whether any lessons can be learnt from the programme of work which may contribute to the further implementation of the principles of replacement, reduction and refinement.
+
+(3) Following the assessment the Secretary of State must—
+
+(a) alter the copy of the relevant project summary published under section 5D(6) so that it includes a report on the assessment; and
+
+(b) publish the copy as altered [[^F37]before the end of the period of six months beginning with the day on which the assessment was completed].
+
+(4) The Secretary of State may by notice require the holder or former holder of the licence to provide the Secretary of State with specified information, or information of a specified kind, for the purpose of enabling the Secretary of State to assess the matters mentioned in subsection (2).
+
+(5) Information required to be provided by a notice under subsection (4) must be provided within such period as may be specified.
+
+### 5G Documents to be kept by Secretary of State
+
+(1) Where a person applies for a project licence the Secretary of State must keep the documents specified in subsection (2) at least until the end of the period of three years beginning immediately after—
+
+(a) the expiry of the project licence (if the application for the licence is successful); or
+
+(b) (if not) the period mentioned in section 5A(7), taking into account any extension of that period under section 5A(8).
+
+(2) The documents referred to above are—
+
+(a) the application for the licence and the documents submitted in support of it;
+
+(b) documents setting out the results of the evaluation carried out under section 5B and of any evaluation carried out under section 5E(5);
+
+(c) the project licence itself, or the notice (served under section 12(1)(a)) of intention to refuse the application for the licence;
+
+(d) documents containing information provided for the purposes of any assessment under section 5F;
+
+(e) documents setting out the results of any such assessment (if completed before the end of the three-year period mentioned in subsection (1)); and
+
+(f) any other documents prepared or received by the Secretary of State in relation to the licence which the Secretary of State considers should be kept.
+
+(3) If section 5F applies in relation to a project licence and the assessment under that section is not completed until after the end of the three-year period mentioned in subsection (1), the Secretary of State must keep the documents specified in subsection (2)(a), (b), (c), (d) and (f) until the assessment is completed.]
+
+## [^F38]...
+
+### 6 Scientific procedure establishments.
+
+(1) Subject to subsection (2) below, no place shall be specified in a project licence unless it is a place designated by a certificate issued by the Secretary of State under this section as a scientific procedure establishment.
+
+(2) Subsection (1) above shall not apply in any case in which it appears to the Secretary of State that the programme or procedures authorised by the licence require him to specify a different place.
+
+(3) An application for a certificate in respect of a scientific procedure establishment shall be made to the Secretary of State in such form and shall be supported by such information as he may reasonably require.
+
+(4) A certificate shall not be issued under this section—
+
+(a) except to a person occupying a position of authority at the establishment in question; and
+
+(b) unless the application nominates for inclusion in the certificate pursuant to subsection (5) below a person or persons appearing to the Secretary of State to be suitable for that purpose.
+
+(5) A certificate under this section shall specify—
+
+(a) a person to be responsible for the day-to-day care of the protected animals kept for experimental or other scientific purposes at the establishment; and
+
+(b) a veterinary surgeon or other suitably qualified person to provide advice on their health and welfare;
+
+and the same person may, if the Secretary of State thinks fit, be specified under both paragraphs of this subsection.
+
+(6) If it appears to any person specified in a certificate pursuant to subsection (5) above that the health or welfare of any such animal as is mentioned in that subsection gives rise to concern he shall—
+
+(a) notify the person holding a personal licence who is in charge of the animal; or
+
+(b) if there is no such person or it is not practicable to notify him, take steps to ensure that the animal is cared for and, if it is necessary for it to be killed, that it is killed by a method which is appropriate under Schedule 1 to this Act or approved by the Secretary of State.
+
+(7) In any case to which subsection (6) above applies the person specified in the certificate pursuant to paragraph (a) of subsection (5) above may also notify the person (if different) specified pursuant to paragraph (b) of that subsection; and the person specified pursuant to either paragraph of that subsection may also notify one of the inspectors appointed under this Act.
+
+(8) A certificate under this section shall continue in force until revoked.
+
+### 7 Breeding and supplying establishments.
+
+(1) A person shall not at any place breed for use in regulated procedures (whether there or elsewhere) protected animals of a description specified in Schedule 2 to this Act unless that place is designated by a certificate issued by the Secretary of State under this section as a breeding establishment.
+
+(2) A person shall not at any place keep any such protected animals which have not been bred there but are to be supplied for use elsewhere in regulated procedures unless that place is designated by a certificate issued by the Secretary of State under this section as a supplying establishment.
+
+(3) An application for a certificate in respect of a breeding or supplying establishment shall be made to the Secretary of State in such form and shall be supported by such information as he may reasonably require.
+
+(4) A certificate shall not be issued under this section unless the application nominates for inclusion in the certificate pursuant to subsection (5) below a person or persons appearing to the Secretary of State to be suitable for that purpose.
+
+(5) A certificate under this section shall specify—
+
+(a) a person to be responsible for the day-to-day care of the animals bred or kept for breeding at the establishment or, as the case may be, kept there for the purpose of being supplied for use in regulated procedures; and
+
+(b) a veterinary surgeon or other suitably qualified person to provide advice on their health and welfare;
+
+and the same person may, if the Secretary of State thinks fit, be specified under both paragraphs of this subsection.
+
+(6) If it appears to any person specified in a certificate pursuant to subsection (5) above that the health or welfare of any such animal as is mentioned in that subsection gives rise to concern he shall take steps to ensure that it is cared for and, if it is necessary for it to be killed, that it is killed by a method appropriate under Schedule 1 to this Act or approved by the Secretary of State.
+
+(7) In any case to which subsection (6) above applies the person specified in the certificate pursuant to paragraph (a) of subsection (5) above may also notify the person (if different) specified pursuant to paragraph (b) of that subsection; and the person specified pursuant to either paragraph of that subsection may also notify one of the inspectors appointed under this Act.
+
+(8) A certificate under this section shall continue in force until revoked.
+
+(9) Schedule 2 to this Act may be amended by orders made by the Secretary of State.
+
+## [[^F39]Licences: general provisions]
+
+### 8 Fees.
+
+The holder of a [[^F40]section 2C licence] shall pay such periodical fees to the Secretary of State as may be prescribed by or determined in accordance with an order made by him.
+
+## [^F41]...
+
+### 9 Consultation.
+
+(1) Before granting a [[^F42]section 2C licence or a project licence] under this Act the Secretary of State shall consult one of the inspectors appointed under this Act and may also consult an independent assessor or [[^F43]the Committee for the Protection of Animals Used for Scientific Purposes] established by this Act.
+
+[[^F44](1A) Before granting a personal licence under this Act the Secretary of State may consult one of those inspectors, an independent assessor or that Committee.]
+
+(2) Where the Secretary of State proposes to consult an independent assessor he shall notify the applicant of that fact, and in selecting the assessor he shall have regard to any representations made by the applicant.
+
+### 10 [[^F45]Conditions
+
+(1) Schedule 2C makes provision as to the conditions that must be included in a licence granted under this Act.
+
+(2) A licence granted under this Act may include such other conditions as the Secretary of State thinks fit.
+
+(3) Breach of a condition in a licence does not invalidate the licence; but as to the consequences of a breach, see section 11 (failure to comply with licence conditions etc).
+
+(4) If a personal licence includes a condition permitting the holder to use assistants to perform, under the holder’s direction, tasks not requiring technical knowledge, nothing done by an assistant in accordance with the condition contravenes section 3.]
+
+### 11 [[^F46]Failure to comply with licence conditions etc
+
+(1) Subsections (2) to (5) apply where it appears to the Secretary of State that the holder of a licence under this Act is failing or has failed to comply with—
+
+(a) a condition of the licence, or
+
+(b) a provision of this Act.
+
+(2) The Secretary of State may issue the holder of the licence with a notice (“a compliance notice”) which—
+
+(a) specifies the condition or provision that the Secretary of State considers the holder is failing or has failed to comply with;
+
+(b) specifies the action the Secretary of State considers should be taken by the holder to ensure that the failure is not continued or repeated;
+
+(c) specifies any action the Secretary of State considers should be taken by the holder to eliminate or reduce any consequences of the failure;
+
+(d) requires the holder to take that action within such time as is specified in the notice; and
+
+(e) explains the effect of subsection (3).
+
+(3) If a compliance notice has been issued and it appears to the Secretary of State that the holder of the licence has failed to comply with it, the Secretary of State may revoke the licence (unless the compliance notice has been withdrawn, or the notice has been varied and the holder is in compliance with the notice as varied).
+
+(4) If it appears to the Secretary of State that—
+
+(a) remedial action needs to be taken to safeguard the welfare of protected animals for the time being kept by or on behalf of the holder of the licence, and
+
+(b) the holder of the licence is not willing or able to take that action,
+
+the Secretary of State may take that action (whether or not a compliance notice has already been issued).
+
+(5) If the Secretary of State does not act under subsection (2) or (4) the Secretary of State may suspend, revoke or vary the licence.
+
+(6) A licence under this Act may also be suspended, revoked or varied by the Secretary of State in any case in which it appears to the Secretary of State that it is appropriate to do so or at the request of the holder.
+
+(7) A reference in this section to suspending a licence is a reference to suspending the operation of the licence either for a specified period or until further notice.]
+
+### 12 Right to make representations.
+
+[[^F47](1) Where the Secretary of State proposes—
+
+(a) to refuse a licence under this Act;
+
+(b) to revoke or vary a licence under this Act otherwise than at the request of the holder; or
+
+(c) to suspend a licence, otherwise than at the request of the holder, under section 11,
+
+he shall serve on the applicant or the holder a notice of his intention to do so.]
+
+(2) The notice shall state the reasons for which the Secretary of State proposes to act and give particulars of the rights conferred by subsection (3) below.
+
+(3) A person on whom a notice is served under subsection (1) above may make written representations and, if desired, oral representations to a person appointed for that purpose by the Secretary of State if before such date as is specified in the notice (not being less than twenty-eight days after the date of service) he notifies the Secretary of State of his wish to do so.
+
+(4) The holder of a licence [^F48]... who is dissatisfied with any condition contained in it may, if he notifies the Secretary of State of his wish to do so, make written representations and, if desired, oral representations to a person appointed for that purpose by the Secretary of State; but the making of such representations shall not affect the operation of any condition unless and until it is varied under section 11 above.
+
+(5) The person appointed to receive any representations under this section shall be a person who holds or has held judicial office in the United Kingdom or
+
+[[^F49][[^F50](a) a person who satisfies the judicial-appointment eligibility condition on a 5-year basis;]
+
+(b) an advocate or solicitor in Scotland of at least [[^F51]5] years’ standing; or
+
+(c) a member of the Bar of Northern Ireland or [[^F52]solicitor of the Court of Judicature of Northern Ireland] of at least [[^F53]5] years’ standing,]
+
+and the Secretary of State may, if he thinks fit, appoint a person with scientific or other appropriate qualifications to assist the person receiving the representations in his consideration of them.
+
+(6) The person appointed to receive any such representations shall after considering them make a report to the Secretary of State; and the Secretary of State shall furnish a copy of the report to the person who made the representations and take it into account in deciding whether to refuse the application or to [[^F54]revoke, suspend or vary the licence] , as the case may be.
+
+[[^F55](6A) Where subsection (1)(c) applies and the suspension is for a specified period of twelve months or less, this section has effect as if—
+
+(a) in subsection (3), for the words “may make written representations and, if desired, oral representations to a person appointed for that purpose by the Secretary of State” there were substituted “may make written representations to the Secretary of State”; and
+
+(b) subsections (5) and (6) were omitted.]
+
+(7) The Secretary of State may by order make rules with respect to the procedure to be followed in the making and consideration of representations under this section, including provision requiring any such representations to be made within a specified time.
+
+(8) A notice under subsection (1) above may be served either personally or by post.
+
+### 13 Suspension in cases of urgency.
+
+(1) If it appears to the Secretary of State to be urgently necessary for the welfare of any protected animals that a licence [^F56]... under this Act should cease to have effect forthwith he shall by notice served on the holder suspend its operation for a period not exceeding three months.
+
+(2) If during that period a notice of proposed variation or revocation of the licence [^F56]... is served under section 12 above but at the end of that period—
+
+(a) the time for notifying the Secretary of State under subsection (3) of that section has not expired; or
+
+(b) representations are to be or are being made in accordance with that subsection; or
+
+(c) such representations have been made but the Secretary of State has not received or has not completed his consideration of the report of the person to whom the representations were made,
+
+he may by notice served on the holder further suspend the licence [^F56]... until he is able to decide whether to vary or revoke it but no further suspension shall be for longer than three months at a time.
+
+(3) A notice under this section may be served personally or by post.
+
+### 13A [[^F57]Duty to ensure welfare of animals not adversely affected by revocation or suspension
+
+Where the Secretary of State revokes or suspends a licence under this Act, the Secretary of State must take steps to ensure that the revocation or suspension does not have an adverse effect on the welfare of the protected animals for the time being kept by or on behalf of the holder of the licence.]
+
+## Additional controls
+
+### [[^F58]14 Re-use of protected animals
+
+(1) A protected animal that has been subjected to one or more regulated procedures must not be used for a further regulated procedure unless the Secretary of State has consented to such further use and the following conditions are met.
+
+(2) The first condition is that—
+
+(a) the actual severity of the regulated procedure, or each of the regulated procedures, previously applied to the animal has been classified in accordance with conditions included in a project licence by virtue of paragraph 23 of Schedule 2C, and
+
+(b) in a case where more than one regulated procedure has previously been applied to the animal, the actual severity of no more than one of those procedures has been classified as “severe”.
+
+(3) The second condition is that a veterinary surgeon with knowledge of the lifetime experience of the animal has advised that the animal’s general state of health and well-being has been fully restored following the application of the previous procedure or procedures.
+
+(4) The third condition is that—
+
+(a) the further procedure is to be applied as part of a programme of work specified in a project licence; and
+
+(b) the likely severity of the further procedure was classified by the Secretary of State under section 5B(3)(c) as “non-recovery”, “mild” or “moderate”.
+
+(5) For the purposes of subsection (1), the consent of the Secretary of State may relate to the specific animal concerned or may relate to animals used in specified procedures or specified circumstances.
+
+(6) But in the case of an animal that has been subjected to a regulated procedure the actual severity of which has been classified as “severe”, the consent of the Secretary of State must relate to the specific animal concerned and the Secretary of State may give consent only if—
+
+(a) the Secretary of State has consulted a veterinary surgeon who has examined the animal about whether consent should be given; and
+
+(b) the Secretary of State is satisfied that there are exceptional circumstances that justify the animal being used for the further regulated procedure.
+
+(7) For the purposes of this section, a series of regulated procedures applied to an animal for a particular purpose is to be treated as constituting a single regulated procedure.]
+
+### 15 Killing animals at conclusion of regulated procedures.
+
+(1) Where a protected animal—
+
+(a) has been subjected to a series of regulated procedures for a particular purpose; and
+
+(b) at the conclusion of the series is suffering or likely to suffer adverse effects [[^F59]as a result of being subjected to the series] ,
+
+the person who applied those procedures, or the last of them, shall [[^F60]ensure that the animal is immediately killed in accordance with section 15A] .
+
+(2) Subsection (1) above is without prejudice to any condition of a project licence requiring an animal to be killed at the conclusion of a regulated procedure in circumstances other than those mentioned in that subsection.
+
+### 15A [[^F61]Manner in which protected animals are to be killed
+
+(1) Subject to subsections (8) and (9), a person must not intentionally kill a relevant protected animal unless—
+
+(a) the person kills the animal in a place that is specified in a section 2C licence;
+
+(b) the person kills the animal using an appropriate method; and
+
+(c) the person is registered in a register kept by the holder of the section 2C licence (in compliance with a condition included in the licence by virtue of paragraph 2 of Schedule 2C) as being competent to kill animals of that description using that method.
+
+(2) An animal is killed using an appropriate method if—
+
+(a) the method used is one that is appropriate to that description of animal under Schedule 1; or
+
+(b) the method used is one that is specified as being appropriate to that description of animal in the section 2C licence granted in respect of the place where the animal is killed.
+
+(3) An animal is also killed using an appropriate method if—
+
+(a) the animal is being or has been subjected to a regulated procedure as part of a programme of work specified in a project licence; and
+
+(b) the animal is killed using a method that is specified as being appropriate to that description of animal in the project licence.
+
+(4) An animal is also killed using an appropriate method if—
+
+(a) the animal is being or has been used in an agricultural research project the aim of which requires animals to be kept in similar conditions to those in which commercial farm animals are kept;
+
+(b) the animal is killed in a way that complies with Article 4 of Council Regulation (EC) No 1099/2009 on the protection of animals at the time of killing; and
+
+(c) the process of killing is completed by one of the methods listed in sub-paragraphs (a) to (e) of paragraph 1 of Schedule 1.
+
+(5) An animal is also killed using an appropriate method if—
+
+(a) the method is applied to the animal while it is unconscious;
+
+(b) the animal does not subsequently regain consciousness; and
+
+(c) the process of killing is completed by one of the methods listed in sub-paragraphs (a) to (e) of paragraph 1 of Schedule 1.
+
+(6) A section 2C licence may specify a method of killing as being appropriate to a description of animal only if the Secretary of State is satisfied, on the basis of scientific evidence, that the method is at least as humane as one of the methods of killing that are appropriate to that description of animal under Schedule 1.
+
+(7) A project licence may specify a method of killing as being appropriate to a description of animal only if the Secretary of State is satisfied, on the basis of a scientific justification, that the purposes of the programme of work specified in the licence cannot be achieved if a method of killing that is appropriate to that description of animal under Schedule 1 is required to be used.
+
+(8) A person may kill an animal in a place not specified in a section 2C licence if—
+
+(a) the place is specified in a project licence in reliance on section 5(3);
+
+(b) the animal is being or has been subjected to a regulated procedure at that place as part of a programme of work specified in that licence; and
+
+(c) that licence specifies a section 2C licence for the purposes of this subsection.
+
+Where this exception applies, the reference in subsection (1)(c) or (2)(b) to the section 2C licence mentioned there shall be read as a reference to the section 2C licence specified as mentioned in paragraph (c) above.
+
+(9) A person may kill an animal otherwise than in accordance with subsection (1) if it is necessary for the animal to be killed as a matter of urgency for animal welfare, public health, public security or environmental reasons.
+
+(10) Where a person applies a regulated procedure to a protected animal and the procedure causes the animal to die, the person is not to be treated for the purposes of this section as having intentionally killed the animal (even if the death of the animal was the likely outcome of the procedure).
+
+(11) In this section “relevant protected animal” means a protected animal which—
+
+(a) is being or has been used in a regulated procedure;
+
+(b) is being or has been kept for use in a regulated procedure;
+
+(c) has been bred for use in a regulated procedure; or
+
+(d) is being or has been kept for the purpose of being supplied for use in a regulated procedure.
+
+(12) A protected animal that is killed in a place specified in a section 2C licence for the use of its tissues or organs for scientific purposes shall also be treated as a relevant protected animal for the purposes of this section.]
+
+### 16 Prohibition of public displays.
+
+(1) No person shall carry out any regulated procedure as an exhibition to the general public or carry out any such procedure which is shown live on television for general reception.
+
+(2) No person shall publish a notice or advertisement announcing the carrying out of any regulated procedure in a manner that would contravene subsection (1) above.
+
+### 17 [[^F62] Neuromuscular blocking agents
+
+(1) A person must not use a neuromuscular blocking agent in the course of a regulated procedure unless—
+
+(a) the person is expressly authorised to do so by the personal licence and the project licence under which the procedure is carried out; and
+
+(b) the agent is used in combination with such level of anaesthesia or analgesia as is determined in accordance with the project licence.
+
+(2) The Secretary of State must not grant a project licence that authorises the use of a neuromuscular blocking agent unless the Secretary of State is satisfied, on the basis of a scientific justification, that the purposes of the programme of work specified in the licence cannot be achieved without the use of such an agent.]
+
+### 17A [[^F63]Setting free and re-homing protected animals
+
+(1) A person who holds a licence under this Act must not set free a relevant protected animal, or permit any person acting on their behalf to do so, unless—
+
+(a) the Secretary of State has consented to the setting free of the animal; or
+
+(b) the animal is set free during the course of a series of regulated procedures.
+
+(2) A person who holds a licence under this Act must not re-home a relevant protected animal, or permit any person acting on their behalf to do so, unless the Secretary of State has consented to the re-homing of the animal.
+
+(3) The Secretary of State must not consent to the setting free or re-homing of a relevant protected animal unless satisfied—
+
+(a) that the animal’s state of health allows it to be set free or re-homed;
+
+(b) that the setting free or re-homing of the animal poses no danger to public health, animal health or the environment;
+
+(c) that there is an adequate scheme in place for ensuring the socialisation of the animal upon being set free or re-homed; and
+
+(d) that other appropriate measures have been taken to safeguard the animal’s well-being upon being set free or re-homed.
+
+(4) The Secretary of State must not consent to the setting free of a relevant protected animal which has been taken from the wild unless the Secretary of State is also satisfied that the animal has undergone a programme of rehabilitation or that it would be inappropriate for the animal to be required to undergo such a programme.
+
+(5) For the purposes of this section—
+
+(a) “relevant protected animal” has the same meaning as in section 15A(11);
+
+(b) a reference to a person who holds a licence under this Act includes a reference to a person who held a licence under this Act which is no longer in force;
+
+(c) an animal is not to be treated as being “re-homed” if it is moved to live in a place which is for the time being specified in a section 2C licence.]
+
+## The inspectorate and the committee
+
+### 18 Inspectors.
+
+(1) The Secretary of State shall, with the consent of the Treasury as to numbers and remuneration, appoint as inspectors for the purposes of this Act persons having such medical or veterinary qualifications as he thinks requisite.
+
+(2) It shall be the duty of an inspector—
+
+(a) to advise the Secretary of State on applications for [[^F64]licences under this Act] , on requests for their variation or revocation and on their periodical review;
+
+[[^F65](b) to comply with any direction given by the Secretary of State under subsection (2A).]
+
+[[^F66](2A) The Secretary of State may give a direction to an inspector which—
+
+(a) specifies the holder of a licence under this Act;
+
+(b) requires the inspector to visit the place specified in the licence, or in the case of a personal licence such places as the inspector considers appropriate, for the purpose of determining whether the holder is complying with the provisions of this Act and the conditions of the licence;
+
+(c) requires the inspector to provide a report to the Secretary of State on the holder’s compliance with those provisions and conditions; and
+
+(d) in a case where the inspector considers that the holder has failed or is failing to comply with any of those provisions or conditions, requires the inspector to include within the report advice as to the action to be taken by the Secretary of State.
+
+(2B) A direction under subsection (2A) may require visits carried out in pursuance of the direction to be carried out without notice to the holder of the licence concerned.
+
+(2C) In determining the frequency with which a direction under subsection (2A) should be given in respect of the holder of a licence, the Secretary of State must take into account—
+
+(a) the record of the holder in complying with the provisions of this Act and the conditions of the licence;
+
+(b) any information suggesting that the holder has failed or is failing to comply with any of those provisions or conditions; and
+
+(c) in the case of a holder of a section 2C licence—
+
+(i) the number and the species of protected animals kept at the place specified in the licence; and
+
+(ii) the number and the type of regulated procedures, if any, carried out at that place.
+
+(2D) The Secretary of State must seek to ensure that during the course of any year—
+
+(a) a direction is given under subsection (2A) in respect of one third of the persons who hold section 2C licences that authorise the carrying on of an undertaking involving the applying of regulated procedures to protected animals;
+
+(b) a direction is given under subsection (2A) in respect of each person who holds a section 2C licence and keeps non-human primates at the place specified in the licence.
+
+(2E) Any report provided to the Secretary of State by virtue of subsection (2A)(c) must be kept by the Secretary of State for a period of at least five years.]
+
+(3) If an inspector considers that a protected animal is undergoing excessive suffering he may require it to be immediately killed [[^F67]in accordance with section 15A] .
+
+### 19 [[^F68]The Committee for the Protection of Animals Used for Scientific Purposes
+
+(1) There is to be a committee to be known as the Committee for the Protection of Animals Used for Scientific Purposes.
+
+(2) The Committee is to consist of a chair and other members appointed by the Secretary of State.
+
+(3) Members of the Committee are to be appointed for such periods as the Secretary of State may determine.
+
+(4) A person may resign as a member of the Committee or as its chair by notice in writing to the Secretary of State.
+
+(5) The Secretary of State may terminate the appointment of a member if satisfied that—
+
+(a) for a period of six months beginning not more than nine months previously the member has, without the consent of the other members, failed to attend the meetings of the Committee;
+
+(b) the member is an undischarged bankrupt or has made an arrangement with his or her creditors;
+
+(c) the member is for any reason incapable of acting as a member; or
+
+(d) the member has been convicted of such a criminal offence, or the member’s conduct has been such, that it is not in the Secretary of State’s opinion fitting that the member should remain a member.
+
+(6) The Secretary of State may make payments to the chair by way of remuneration and may make payments to the chair and the other members in respect of expenses incurred by them in the performance of their duties.
+
+(7) The Secretary of State may also defray any other expenses of the Committee.
+
+### 20 Functions of the Committee
+
+(1) The Committee must provide advice to the Secretary of State and the Animal Welfare and Ethical Review Bodies on such matters relating to the acquisition, breeding, accommodation, care and use of protected animals as the Committee may determine or as may be referred to the Committee by the Secretary of State.
+
+(2) In its consideration of any matter the Committee shall have regard both to the legitimate requirements of science and industry and to the protection of animals against avoidable suffering and unnecessary use in scientific procedures.
+
+(3) The Committee must take such steps as it considers appropriate to ensure the sharing of best practice in relation to the acquisition, breeding, accommodation, care and use of protected animals.
+
+[^F69]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The Secretary of State may provide the Committee with such information as the Committee requests for the purpose of enabling the Committee to exercise its duties under this section.
+
+(6) In this section—
+
+- “the Animal Welfare and Ethical Review Bodies” means the bodies established and maintained in pursuance of conditions included in section 2C licences by virtue of paragraph 6 of Schedule 2C;
+- [^F70]...]
+
+## Miscellaneous and supplementary
+
+### 20A [[^F71]Sharing of organs and tissues
+
+The Secretary of State must take such steps as he or she considers appropriate to facilitate the establishment of programmes for the sharing of the organs and tissues of killed animals with persons who wish to use the organs and tissues for scientific purposes.]
+
+### 20B [[^F72]Alternative strategies
+
+(1) The Secretary of State must support the development and validation of alternative strategies.
+
+(2) In particular, the Secretary of State must—
+
+[^F73]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F73]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) take such [^F74]... steps as the Secretary of State considers appropriate to encourage research into alternative strategies;
+
+(d) ensure the promotion of, and dissemination of information about, alternative strategies.
+
+(3) The Secretary of State may make grants to any person concerned with the development, promotion or validation of alternative strategies.
+
+(4) “Alternative strategies” means scientific methods and testing strategies which do not use protected animals, or which (compared to existing scientific methods and testing strategies) use fewer protected animals or reduce the pain, suffering, distress or lasting harm caused to protected animals.]
+
+### 21 Guidance [[^F75]and codes of practice].
+
+(1) The Secretary of State shall publish information to serve as guidance with respect to the manner in which he proposes to exercise his power to grant licences [^F76]... under this Act and with respect to the conditions which he proposes to include in such licences [^F76]....
+
+(2) The Secretary of State shall issue codes of practice as to the care of protected animals and their use for regulated procedures and may approve such codes issued by other persons.
+
+(3) The Secretary of State shall consult the [[^F77]Committee for the Protection of Animals Used for Scientific Purposes] before publishing or altering any information under subsection (1) above or issuing, approving, altering or approving any alteration in any code issued or approved under subsection (2) above.
+
+(4) A failure on the part of any person to comply with any provision of a code issued or approved under subsection (2) above shall not of itself render that person liable to criminal or civil proceedings but—
+
+(a) any such code shall be admissible in evidence in any such proceedings; and
+
+(b) if any of its provisions appears to the court conducting the proceedings to be relevant to any question arising in the proceedings it shall be taken into account in determining that question.
+
+(5) The Secretary of State shall lay before Parliament—
+
+(a) copies of any information published or code issued by him under subsection (1) or (2) above and of any alteration made by him in any such information or code; and
+
+(b) copies of any code approved by him under subsection (2) above and of any alteration approved by him in any such code;
+
+and if either House of Parliament passes a resolution requiring the information, code or alteration mentioned in paragraph (a) above, or the approval mentioned in paragraph (b) above, to be withdrawn the Secretary of State shall withdraw it accordingly; and where he withdraws information published or a code issued by him or his approval of a code he shall publish information or issue or approve a code, as the case may be, in substitution for the information or code previously published, issued or approved.
+
+(6) No resolution shall be passed by either House under subsection (5) above in respect of any information, code or alteration after the end of the period of forty days beginning with the day on which a copy of the information, code or alteration was laid before that House; but for the purposes of this subsection no account shall be taken of any time during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days.
+
+[^F78]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21A [[^F79]Statistics and reporting
+
+(1) In each year, beginning with the year 2015, the Secretary of State must by 10 November—
+
+(a) collect and publish statistical information on the use of protected animals in regulated procedures during the previous year;
+
+(b) lay that information before Parliament; [^F80]...
+
+[^F80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) The statistical information must include information—
+
+(a) on the actual severity of the regulated procedures, and
+
+(b) on the origin and the species of any primates used in regulated procedures.
+
+[^F81]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F81]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+### 22 Penalties for contraventions.
+
+[[^F82](A1) Any person who carries on an undertaking involving the applying of regulated procedures to protected animals in contravention of section 2B shall be guilty of an offence and liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or to both;
+
+(b) on summary conviction in England and Wales, to imprisonment for a term not exceeding six months or to a fine not exceeding the statutory maximum or to both;
+
+(c) on summary conviction in Scotland or Northern Ireland, to imprisonment for a term not exceeding three months or to a fine not exceeding the statutory maximum or to both.]
+
+(1) Any person who contravenes section 3 above shall be guilty of an offence and liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or to both;
+
+(b) on summary conviction, to imprisonment for a term not exceeding six months or to a fine not exceeding the statutory maximum or to both.
+
+(2) Any person who, being the holder of a project licence—
+
+(a) procures or knowingly permits a person under his control to carry out a regulated procedure otherwise than as part of the programme specified in the licence; or
+
+(b) procures or knowingly permits a person under his control to carry out a regulated procedure otherwise than in accordance with that person’s personal licence,
+
+shall be guilty of an offence and liable to the penalties specified in subsection (1) above.
+
+(3) Any person who—
+
+[[^F83](za) contravenes section 2B otherwise than by carrying on an undertaking involving the applying of regulated procedures to protected animals;
+
+(zb) fails to comply with a notice under section 5F(4);]
+
+(a) contravenes section [^F84]... 14, 15, 16, or 17 above; or
+
+(b) fails to comply with a requirement imposed on him under section 18(3) above,
+
+shall be guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding the fourth level on the standard scale or to both.
+
+[[^F85](3A) Any person who contravenes section 15A or 17A above shall be guilty of an offence and liable on summary conviction—
+
+(a) in England and Wales, to imprisonment for a term not exceeding 51 weeks or to a fine not exceeding the fifth level on the standard scale or to both;
+
+(b) in Scotland or Northern Ireland, to imprisonment for a term not exceeding three months or to a fine not exceeding the fifth level on the standard scale or to both.]
+
+(4) A person shall not be guilty of an offence under section 3 or [[^F86]17] above by reason only that he acted without the authority of a project licence if he shows that he reasonably believed, after making due enquiry, that he had such authority.
+
+[[^F87](4A) A person who kills an animal in contravention of section 15A above shall not be guilty of an offence by virtue of subsection (3A) above if the person shows that he did not know and had no reason to believe that the animal was a relevant protected animal (within the meaning of section 15A).]
+
+(5) A person guilty of an offence under [[^F88]any of sections 4, 5, 6(1) and (2), 7 and 8 of the Animal Welfare Act 2006] [^F89]or section 1 of the [^M1][^F89]Protection of Animals (Scotland) Act 1912 in respect of an animal at a [[^F90]place specified in a section 2C licence] shall be liable to the penalties specified in subsection (1) above [[^F91](rather than any penalty by way of imprisonment or fine provided for in those Acts)].
+
+[[^F92](5A) A person guilty of an offence under sections 28C or 28F(16) of the Animal Health Act 1981 (c. 22) , or sections 19 to 24, 25(7), 29 or 40(11) of the Animal Health and Welfare (Scotland) Act 2006 (asp 11) , in respect of an animal at a [[^F93]place specified in a section 2C licence] shall be liable to the penalties specified in subsection (1) above. ]
+
+### 23 False statements.
+
+(1) A person is guilty of an offence if for the purpose of obtaining or assisting another person to obtain a licence [^F94]... under this Act he furnishes information which he knows to be false or misleading in a material particular or recklessly furnishes information which is false or misleading in a material particular.
+
+(2) A person guilty of an offence under this section shall be liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding the fourth level on the standard scale or to both.
+
+### 24 Protection of confidential information.
+
+(1) A person is guilty of an offence if otherwise than for the purpose of discharging his functions under this Act he discloses any information which has been obtained by him in the exercise of those functions and which he knows or has reasonable grounds for believing to have been given in confidence.
+
+(2) A person guilty of an offence under this section shall be liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or to both;
+
+(b) on summary conviction, to imprisonment for a term not exceeding six months or to a fine not exceeding the statutory maximum or to both.
+
+### 25 Powers of entry.
+
+(1) If a justice of the peace or in Scotland a sheriff is satisfied by information on oath that there are reasonable grounds for believing that an offence under this Act has been or is being committed at any place, he may issue a warrant authorising a constable to enter that place if need be by such force as is reasonably necessary, to search it and to require any person found there to give his name and address.
+
+(2) A warrant under [[^F95]subsection (1)] may authorise a constable to be accompanied by an inspector appointed under this Act and shall require him to be accompanied by such an inspector if the place in question is a [[^F96]place specified in a section 2C licence.]
+
+[[^F97](2A) If a justice of the peace or in Scotland a sheriff is satisfied by information on oath that—
+
+(a) the Secretary of State has power to take action under section 11(4) or is under a duty to take steps under section 13A, and
+
+(b) entry to a particular place is needed for that purpose,
+
+the justice or sheriff may issue a warrant authorising specified officers of the Secretary of State to enter that place for that purpose, if need be using such force as is reasonably necessary to secure entry.
+
+(2B) A warrant under subsection (2A) must require the specified officers to be accompanied by a constable and by an inspector appointed under this Act.]
+
+(3) Any person who—
+
+(a) intentionally obstructs a constable or inspector in the exercise of his powers under this section; [^F98]...
+
+[[^F99](aa) intentionally obstructs a person specified in a warrant issued under subsection (2A) in the exercise of a power under section 11(4) or a duty under section 13A; or]
+
+(b) refuses on demand to give his name and address or gives a false name or address,
+
+shall be guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding the fourth level on the standard scale or to both.
+
+### 26 Prosecutions.
+
+(1) No proceedings for—
+
+(a) an offence under this Act; or
+
+(b) an offence under [[^F100]any of sections 4, 5, 6(1) and (2) and 7 to 9 of the Animal Welfare Act 2006] which is alleged to have been committed in respect of an animal at a [[^F101]place specified in a section 2C licence] , shall be brought in England and Wales except by or with the consent of the Director of Public Prosecutions.
+
+(2) Summary proceedings for an offence under this Act may (without prejudice to any jurisdiction exercisable apart from this subsection) be taken against any person at any place at which he is for the time being.
+
+(3) Notwithstanding anything in section 127(1) of the [^M2]Magistrates’ Courts Act 1980, an information relating to an offence under this Act which is triable by a magistrates’ court in England and Wales may be so tried if it is laid at any time within three years after the commission of the offence and within six months after the date on which evidence sufficient in the opinion of the Director of Public Prosecutions to justify the proceedings comes to his knowledge.
+
+(4) Notwithstanding anything in [[^F102]section 136 of the Criminal Procedure (Scotland) Act 1995], summary proceedings for an offence under this Act may be commenced in Scotland at any time within three years after the commission of the offence and within six months after the date on which evidence sufficient in the opinion of the Lord Advocate to justify the proceedings comes to his knowledge; and subsection (3) of that section shall apply for the purposes of this subsection as it applies for the purposes of that section.
+
+(5) For the purposes of subsections (3) and (4) above a certificate of the Director of Public Prosecutions or, as the case may be, the Lord Advocate as to the date on which such evidence as is there mentioned came to his knowledge shall be conclusive evidence of that fact.
+
+### 27 Repeal, consequential amendments and transitional provisions.
+
+(1) The [^M3] Cruelty to Animals Act 1876 is hereby repealed.
+
+(2) The enactments mentioned in Schedule 3 to this Act shall have effect with the amendments there specified, being amendments consequential on the provisions of this Act.
+
+[^F103]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Schedule 4 to this Act shall have effect with respect to the transitional matters there mentioned.
+
+(5) The Secretary of State may by order make such further transitional provisions as he considers necessary or expedient.
+
+### 28 Orders.
+
+(1) Any power of the Secretary of State to make an order under this Act shall be exercisable by statutory instrument.
+
+(2) A statutory instrument containing an order under any of the foregoing provisions of this Act shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 29 Application to Northern Ireland.
+
+(1) This Act applies to Northern Ireland with the following modifications.
+
+(2) For any reference to the Secretary of State in any provision of this Act except sections 19 and 20(1) there shall be substituted a reference to the Department of Health and Social Services for Northern Ireland; and for the reference in section 18(1) above to the Treasury there shall be substituted a reference to the Department of Finance and Personnel for Northern Ireland.
+
+(3) The functions of the Secretary of State under sections 19 and 20(1) shall be exercisable by him jointly with the Department of Health and Social Services for Northern Ireland; and any notice under section [[^F104]19(4)] or advice under section 20(1) may be given to either of them.
+
+(4) In [^F105]... section 21 above—
+
+(a) for the references to Parliament or either House of Parliament there shall be substituted references to [[^F106]the Northern Ireland Assembly] ;
+
+(b) in subsection (5) after the word “if” there shall be inserted the words “within the statutory period (within the meaning of the Interpretation Act (Northern Ireland) 1954)”; and
+
+(c) subsection (6) shall be omitted.
+
+[[^F107](4A) In section 21A(1) above for the reference to Parliament there shall be substituted a reference to the Northern Ireland Assembly.]
+
+[[^F108](5) In section 22(5) above for the reference to sections 4, 5, 6(1) and (2), 7 and 8 of the Animal Welfare Act 2006 there shall be substituted a reference to [^F109]sections 13 and 14 of the Welfare of Animals Act (Northern Ireland) 1972 [[^F109]sections 4, 5, 6(1) and (2), 7 and 8 of the Welfare of Animals Act (Northern Ireland) 2011].
+
+(5A) In section 26(1)(b) above for the reference to sections 4, 5, 6(1) and (2) and 7 to 9 of the Animal Welfare Act 2006 there shall be substituted a reference to [^F110]sections 13 and 14 of the Welfare of Animals Act (Northern Ireland) 1972 [[^F110]sections 4, 5, 6(1) and (2) and 7 to 9 of the Welfare of Animals Act (Northern Ireland) 2011].]
+
+[[^F111](6) In section 25 above for the references to information on oath there shall be substituted references to a complaint on oath.]
+
+(7) In section 26 above—
+
+(a) in subsections (1) and (3) for the words “England and Wales” there shall be substituted the words “Northern Ireland”;
+
+(b) in subsections (1), (3) and (5) for the references to the Director of Public Prosecutions there shall be substituted references to the Director of Public Prosecutions for Northern Ireland; and
+
+(c) in subsection (3) for the reference to section 127(1) of the Magistrates’ Courts Act 1980 there shall be substituted a reference to Article 19(1) of the [^M4]Magistrates’ Courts (Northern Ireland) Order 1981.
+
+(8) In section 27(3) above for the reference to the Breeding of Dogs Act 1973 there shall be substituted a reference to Articles 12, 13 and 43 of the [^M5]Dogs (Northern Ireland) Order 1983.
+
+(9) Section 28 above shall not apply and any order made by the Department of Health and Social Services for Northern Ireland under this Act shall be a statutory rule for the purposes of the [^M6]Statutory Rules (Northern Ireland) Order 1979 and shall be subject to negative resolution within the meaning of section 41(6) of the [^M7]Interpretation Act (Northern Ireland) 1954.
+
+### 30 Short title, interpretation and commencement.
+
+(1) This Act may be cited as the Animals (Scientific Procedures) Act 1986.
+
+(2) In this Act—
+
+- [^F112]...
+- [^F113]...
+- “ personal licence ” means a licence granted under section 4 above;
+- “ place ” includes any place within the seaward limits of the territorial waters of the United Kingdom, including any vessel other than a ship which is not a British ship;
+- “ project licence ” means a licence granted under section 5 above;
+- “ protected animal ” has the meaning given in section 1 above but subject to any order under subsection (3) of that section;
+- “ regulated procedure ” has the meaning given in section 2 above.
+- [[^F114]“section 2C licence” means a licence granted under section 2C.]
+
+[^F115]2A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) This Act shall come into force on such date as the Secretary of State may by order appoint; and different dates may be appointed for different provisions or different purposes.
+
+## [[^F116]SCHEDULE 1 — APPROPRIATE METHODS OF HUMANE KILLING
+
+*[[^F117]Sections 2 and 15A]*
+
+**1** [^F118]... The methods of humane killing listed in Tables A and B below are appropriate for the animals listed in the corresponding entries in those tables only if the process of killing is completed by one of the methods listed in sub-paragraphs (a) to (f) below:
+
+(a) confirmation of permanent cessation of the circulation
+
+(b) destruction of the brain
+
+(c) dislocation of the neck
+
+(d) exsanguination
+
+(e) confirming the onset of rigor mortis
+
+(f) instantaneous destruction of the body in a macerator.
+
+**[^F119]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[[^F120]3** (1) A requirement in Table A for prior use of a sedative or anaesthetic—
+
+(a) is subject to sub-paragraph (2); and
+
+(b) is not to be read as prohibiting the prior use of sedative or anaesthetic in any cases where it is not required by that Table.
+
+(2) Nothing in this Schedule requires or permits the prior use of sedative or anaesthetic where the distress likely to be caused by administering it is greater than the distress likely to be caused by using the appropriate method of killing without sedative or anaesthetic.]
+
+**Table A**
+
+|  |  |
+|---|---|
+| **A. Methods for animals other than foetal, larval and embryonic forms** | **Animals for which appropriate** |
+| 1. Overdose of an anaesthetic using a route and an anaesthetic agent appropriate for the size and species of animal. | All animals |
+| 2. Exposure to carbon dioxide gas in a rising concentration. | [[^F121]Birds and Rodents up to 1.5 kg (but not neonatal rodents)] |
+| 3. Dislocation of the neck [[^F122](with the prior use of a sedative or anaesthetic in the case of rodents and rabbits over 150 g and birds over 250 g)]. | Rodents up to 500g Rabbits up to 1 kg [[^F123]Birds up to 1 kg] |
+| 4. Concussion of the brain by striking the cranium. | Rodents and Rabbits up to 1 kg Birds up to 250g Amphibians and reptiles (with destruction of the brain before the return of consciousness) up to 1 kg Fishes (with destruction of the brain before the return of consciousness) |
+| 5. One of the recognised methods of slaughter set out below which is appropriate to the animal and is performed by a registered veterinary surgeon, or, in the case of the methods described in paragraph (ii) below, performed by [[^F124]the holder of a certificate of competence or licence granted under the Welfare of Animals at the Time of Killing (England) Regulations 2015 or the Welfare of Animals at the Time of Killing (Wales) Regulations 2014, or a certificate of competence granted under the Welfare of Animals at the Time of Killing (Scotland) Regulations 2012— (i) Destruction] of the brain by free bullet, [[^F125]using appropriate rifles, guns and ammunition] or (ii) captive bolt [^F126]... or electrical stunning followed by destruction of the brain or exsanguination before return of consciousness. | Ungulates |
+
+**Table B**
+
+|  |  |
+|---|---|
+| **B. Methods for foetal, larval and embryonic forms** | **Animals for which appropriate** |
+| 1.Overdose of an anaesthetic using a route and anaesthetic agent appropriate for the size, stage of development and species of animal. | All animals |
+| 2.Refrigeration, or disruption of membranes, or maceration in apparatus approved under appropriate slaughter legislation, or exposure to carbon dioxide in near 100% concentration until they are dead. | Birds Reptiles |
+| 3.Cooling of foetuses followed by immersion in cold tissue fixative. | Mice, Rats and Rabbits |
+| 4.Decapitation. | Mammals and Birds up to 50g.] |
+
+## SCHEDULE 2 — [[^F127]ANIMALS THAT ARE “RELEVANT PROTECTED ANIMALS” FOR THE PURPOSES OF SECTION 2B]
+
+*[[^F128]Section 2B] .*
+
+- [[^F129]Any mouse of the species *Mus musculus]*
+- [[^F130]Any rat of the species *Rattus norvegicus]*
+- Guinea-pig
+- [[^F131]Any hamster of the species *Mesocricetus auratus* or *Cricetulus griseus]*
+- [[^F132]Any rabbit of the species *Oryctolagus cuniculus]*
+- Dog
+- Cat
+- Primate
+- [[^F133]Any bird of the species Coturnix coturnix (quail).]
+- [[^F134] Pig, if genetically modified
+- Sheep, if genetically modified
+- Ferret
+- [[^F135]Any gerbil of the species *Meriones unguiculatus]]*
+- [[^F136]Any frog of the species *Xenopus laevis, Xenopus tropicalis, Rana temporaria* or *Rana pipiens]*
+- [[^F136]Zebra fish]
+
+## [^F137]SCHEDULE 2A — ARTICLE 8 OF COUNCIL DIRECTIVE No.86/609/EEC
+
+*Section 10(2A).*
+
+**[^F137]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F137]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F137]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F137]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [[^F138]Schedule 2AA — Severity of procedures
+
+*Section 5BA(7)*
+
+### Part 1 — General
+
+**1** This Schedule contains descriptions of procedures assigned to a particular category of severity on the basis of factors relating to the type of procedure only.
+
+**2** Part 2 of this Schedule contains a list of procedures categorised as “mild”.
+
+**3** Part 3 of this Schedule contains a list of procedures categorised as “moderate”.
+
+**4** Part 4 of this Schedule contains a list of procedures categorised as “severe”.
+
+### Part 2 — Mild procedures
+
+**5** The administration of anaesthesia except for the sole purpose of killing.
+
+**6** A pharmacokinetic study where a single dose is administered, a limited number of blood samples are taken totalling less than 10 per cent of circulating volume and the substance is not expected to cause any detectable adverse effect.
+
+**7** The non-invasive imaging of an animal with appropriate sedation or anaesthesia including, in particular, magnetic resonance imaging.
+
+**8** A superficial procedure including, in particular—
+
+(a) ear and tail biopsies;
+
+(b) non-surgical subcutaneous implantation of mini-pumps or transponders.
+
+**9** The application of external telemetry devices that cause only minor impairment to the animal or minor interference with normal activity and behaviour.
+
+**10** The administration of a substance where—
+
+(a) the substance has no more than a mild impact on an animal,
+
+(b) the volume of the substance administered is within appropriate limits for the size and species of the animal, and
+
+(c) the substance is administered by any of the following routes—
+
+(i) subcutaneous;
+
+(ii) intramuscular;
+
+(iii) intraperitoneal;
+
+(iv) gavage;
+
+(v) intravenous, using superficial blood vessels.
+
+**11** The induction of tumours, or spontaneous tumours, that cause no detectable clinical adverse effects including, in particular, small, subcutaneous, non-invasive nodules.
+
+**12** The breeding of a genetically altered animal, which is expected to result in a phenotype with mild effects.
+
+**13** The feeding of a modified diet that does not meet all of the animal’s nutritional needs and is expected to cause mild clinical abnormality within the time-scale of the procedure.
+
+**14** Restraint in metabolic cages for less than 24 hours.
+
+**15** A study involving—
+
+(a) short-term deprivation of a social partner, or
+
+(b) short-term solitary caging of an adult rat of a sociable strain or an adult mouse of a sociable strain.
+
+**16** Experimental models which expose an animal to noxious stimuli which—
+
+(a) are associated with mild pain, suffering or distress, and
+
+(b) the animal can successfully avoid.
+
+**17** A repetition or combination of any of the following procedures, as a result of which the animal is likely to experience short-term mild pain, suffering or distress or which does not cause significant impairment of the animal’s well-being or general condition—
+
+(a) the assessment of body composition by non-invasive measures with minimal restraint;
+
+(b) a monitoring electrocardiogram with non-invasive techniques with minimal or no restraint of a habituated animal;
+
+(c) the application of external telemetry devices that is expected to cause no impairment to a socially adapted animal and does not interfere with normal activity and behaviour;
+
+(d) the breeding of a genetically altered animal which is expected to have no clinically detectable adverse phenotype;
+
+(e) the addition of inert markers in the diet to follow passage of digesta;
+
+(f) the withdrawal of food for less than 24 hours in an adult rat;
+
+(g) open field behavioural testing of a mouse.
+
+### Part 3 — Moderate procedures
+
+**18** The repeated application of test substances which produce moderate clinical effects.
+
+**19** The withdrawal of blood samples from a conscious animal where—
+
+(a) the blood withdrawn within an appropriate period for the animal exceeds 10% of the circulating volume of blood in the animal at the start of the period, and
+
+(b) the volume of blood withdrawn is not replaced within that period.
+
+**20** An acute dose-range finding study, or chronic toxicity or carcinogenicity test, with non-lethal end-points.
+
+**21** Surgery under general anaesthesia and appropriate analgesia, associated with post surgical pain, suffering or impairment of general condition including, in particular—
+
+(a) thoracotomy, craniotomy, laparotomy, orchidectomy, lymphadenectomy or thyroidectomy;
+
+(b) orthopaedic surgery with effective stabilisation and wound management;
+
+(c) organ transplantation with effective management of rejection;
+
+(d) surgical implantation of catheters or biomedical devices such as telemetry transmitters or minipumps.
+
+**22** Models of induction of tumours, or spontaneous tumours, that are expected to cause moderate pain or distress or moderate interference with normal behaviour.
+
+**23** Irradiation or chemotherapy with—
+
+(a) a sublethal dose, or
+
+(b) an otherwise lethal dose with reconstitution of the immune system,
+
+where any adverse effects are expected to be mild or moderate and to last for less than five days.
+
+**24** The breeding of a genetically altered animal which is expected to result in a phenotype with moderate effects, such as impaired organ dysfunction, or an underdeveloped physiological function.
+
+**25** The creation of a genetically altered animal through a surgical procedure.
+
+**26** The use of metabolic cages involving moderate restriction of movement over a period of up to five days.
+
+**27** A study with a modified diet that does not meet all of the animal’s nutritional needs and is expected to cause moderate clinical abnormality within the time-scale of the study.
+
+**28** The withdrawal of food for 48 hours in an adult rat.
+
+**29** Evoking escape and avoidance reactions where the animal is—
+
+(a) unable to escape or avoid the stimulus, and
+
+(b) expected to suffer moderate distress.
+
+### Part 4 — Severe procedures
+
+**30** Toxicity testing, including in particular single dose acute toxicity testing, where—
+
+(a) death is the end-point, or
+
+(b) fatality is to be expected and a severe pathophysiological state is induced.
+
+**31** The testing of a device where failure may cause severe pain, distress or death of the animal including, in particular, cardiac assist devices.
+
+**32** Vaccine potency testing that is—
+
+(a) characterised by—
+
+(i) persistent impairment of the animal’s condition, or
+
+(ii) progressive disease leading to death, and
+
+(b) associated with long-lasting moderate pain, suffering or distress.
+
+**33** Irradiation or chemotherapy with a lethal dose—
+
+(a) without reconstitution of the immune system, or
+
+(b) with reconstitution of the immune system with production of graft versus host disease.
+
+**34** The induction of tumours, or spontaneous tumours, that are expected to progress to cause lethal disease associated with long-lasting moderate pain, suffering or distress including, in particular—
+
+(a) tumours causing cachexia;
+
+(b) invasive bone tumours;
+
+(c) tumours resulting in metastatic spread;
+
+(d) tumours that are allowed to ulcerate.
+
+**35** Surgical and other interventions in an animal under general anaesthesia which are expected to result in severe or persistent moderate postoperative pain, suffering or distress or severe and persistent impairment of the animal’s general condition.
+
+**36** Production of unstable fractures, or thoracotomy without adequate analgesia.
+
+**37** A procedure expected to result in multiple organ failure.
+
+**38** Organ transplantation where organ rejection is likely to lead to severe distress or impairment of the general condition of the animal including, in particular, xenotransplantation.
+
+**39** Breeding an animal with a genetic disorder that is expected to experience severe and persistent impairment of general condition including, in particular—
+
+(a) Huntington’s disease;
+
+(b) muscular dystrophy;
+
+(c) chronic relapsing neuritis models.
+
+**40** The use of metabolic cages involving severe restriction of movement over a prolonged period.
+
+**41** Inescapable electric shock including, in particular, where it produces learned helplessness.
+
+**42** The complete isolation for a prolonged period of a social species, whether occurring once or on more than one occasion, including, in particular, a dog or non-human primate.
+
+**43** Immobilisation stress expected to result in gastric ulcers or cardiac failure in a rat.
+
+**44** Forced swim or exercise tests with exhaustion as the end-point.]
+
+## [[^F139]SCHEDULE 2B — ADDITIONAL CONDITIONS FOR THE GRANT OF CERTAIN PROJECT LICENCES
+
+*Section 5C(4)*
+
+### Project licences authorising the use of endangered primates
+
+**1** (1) A project licence that would authorise the application of regulated procedures to endangered primates must not be granted unless the Secretary of State has verified that the following conditions are met—
+
+(a) Condition 1 or 2; and
+
+(b) Condition 3.
+
+(2) Condition 1 is that the programme of work to be specified in the licence is to be carried out—
+
+(a) for the purpose mentioned in paragraph (b)(i) or (c) of section 5C(3); and
+
+(b) for the purpose of the avoidance, prevention, diagnosis or treatment of debilitating or potentially life-threatening clinical conditions in man.
+
+(3) Condition 2 is that the programme of work to be specified in the licence is to be carried out for the purpose mentioned in paragraph (e) of section 5C(3).
+
+(4) Condition 3 is that there is scientific justification to the effect that the purpose of the programme of work to be specified in the licence cannot be achieved by the use of animals which—
+
+(a) are not primates; and
+
+(b) are not of a species listed in Annex A to the Council Regulation.
+
+### Project licences authorising the use of non-endangered primates
+
+**2** (1) A project licence that would authorise the application of regulated procedures to non-endangered primates must not be granted unless the Secretary of State has verified that the following conditions are met—
+
+(a) Condition 4 or 5; and
+
+(b) Condition 6.
+
+(2) Condition 4 is that the programme of work to be specified in the licence is to be carried out—
+
+(a) for the purpose mentioned in paragraph (b)(i) or (c) of section 5C(3); and
+
+(b) for the purpose of the avoidance, prevention, diagnosis or treatment of debilitating or potentially life-threatening clinical conditions in man.
+
+(3) Condition 5 is that the programme of work to be specified in the licence is to be carried out for the purpose mentioned in paragraph (a) or (e) of section 5C(3).
+
+(4) Condition 6 is that there is scientific justification to the effect that the purpose of the programme of work to be specified in the licence cannot be achieved by the use of animals which are not primates.
+
+### Project licences authorising the use of endangered animals that are not primates
+
+**3** (1) A project licence that would authorise the application of regulated procedures to endangered animals other than primates must not be granted unless the Secretary of State has verified that conditions 7 and 8 are met.
+
+(2) Condition 7 is that the programme of work to be specified in the licence is to be carried out for a purpose mentioned in paragraph (b)(i), (c) or (e) of section 5C(3).
+
+(3) Condition 8 is that there is scientific justification to the effect the purpose of the programme of work to be specified in the licence cannot be achieved by the use of animals which are not of a species listed in Annex A to the Council Regulation.
+
+### Project licences authorising the use of cats, dogs and equidae
+
+**4** (1) A project licence that would authorise the application of regulated procedures to cats, dogs or equidae must not be granted unless the Secretary of State has verified that Condition 9 is met.
+
+(2) Condition 9 is that the purpose of the programme of work to be specified in the licence can be achieved—
+
+(a) only by the use of cats, dogs or equidae; or
+
+(b) only by the use of cats, dogs, equidae and other animals which it is not practicable to obtain.
+
+### Interpretation
+
+**5** In this Schedule—
+
+- “the Council Regulation” means Council Regulation (EC) No 338/97 on the protection of species of wild fauna and flora by regulating trade therein;
+- “debilitating clinical condition” means a condition which causes a reduction in a person’s normal physical or psychological ability to function;
+- “endangered animal” means an animal of a species which—
+
+(a) is listed in Annex A to the Council Regulation; and
+
+(b) is not within the scope of Article 7(1) of that Regulation;
+
+and “endangered primate” and “non-endangered primate” are to be construed accordingly.]
+
+## [[^F140]SCHEDULE 2C — CONDITIONS IN LICENCES
+
+*Section 10(1)*
+
+### PART 1 — Conditions in section 2C licences
+
+**1** A section 2C licence must include a condition requiring the holder to ensure that the activities carried on at the place specified in the licence are carried on in a manner that is consistent with the principles of replacement, reduction and refinement.
+
+**2** (1) A section 2C licence must include conditions requiring the holder to keep a register for the purposes of section 15A(1)(c) which—
+
+(a) contains the names of persons who are competent to kill protected animals; and
+
+(b) specifies in relation to each person named the description of animal that the person is competent to kill and the methods of killing that the person is competent to use to kill that description of animal.
+
+(2) A section 2C licence must include such conditions as the Secretary of State considers appropriate for the purpose of ensuring—
+
+(a) that a person is not registered in the register kept by the holder unless the person has been adequately educated and trained in the killing of animals;
+
+(b) that a person who is so registered is supervised when killing animals at the place specified in the licence until he or she has demonstrated the requisite competence;
+
+(c) that at all times the number of persons who are so registered and are present at the place specified in the licence is sufficient to enable any protected animal being kept at that place that needs to be killed to be killed expeditiously.
+
+**3** A section 2C licence must include such conditions as the Secretary of State considers appropriate for the purpose of ensuring that the Secretary of State—
+
+(a) is notified if any changes become necessary to the persons specified in the licence by virtue of subsection (5) of section 2C;
+
+(b) is notified of any changes falling within subsection (10) of that section.
+
+**4** (1) A section 2C licence must include such conditions as the Secretary of State considers appropriate for ensuring that the installations and equipment at the place specified in the licence are suitable for—
+
+(a) the species of protected animals kept at that place; and
+
+(b) the regulated procedures, if any, carried out at that place.
+
+(2) For the purposes of sub-paragraph (1)(b), the installations and equipment at a place specified in a section 2C licence are suitable for the regulated procedures carried out at that place only if the design, construction and method of functioning of the installations and equipment enable the regulated procedures to be performed in a manner that—
+
+(a) provides reliable results;
+
+(b) uses the minimum number of animals; and
+
+(c) causes the minimum degree of pain, suffering, distress and lasting harm to the animals used.
+
+(3) The conditions included in a licence by virtue of this paragraph must be such as to ensure that any [[^F141]standard concerning installations and equipment which is set out in a relevant code of practice is met].
+
+[[^F142](4) In sub-paragraph (3), “relevant code of practice” means a code of practice issued or approved under section 21 (as that code has effect from time to time).]
+
+**5** A section 2C licence must include such conditions as the Secretary of State considers appropriate to ensure—
+
+(a) that sufficient staff are provided at the place specified in the licence to care for the protected animals kept at that place;
+
+(b) that the staff are adequately educated and trained before they perform any function relating to the care of those protected animals;
+
+(c) that the staff are supervised when performing any such function until they have demonstrated the requisite competence.
+
+**6** (1) A section 2C licence must include a condition requiring the holder to establish and maintain a body (to be known as an “Animal Welfare and Ethical Review Body”) which—
+
+(a) consists of the persons mentioned in sub-paragraph (2) and such other persons as are determined in accordance with the licence; and
+
+(b) carries out the tasks mentioned in [[^F143]sub-paragraph (2A)] and such other advisory and reviewing tasks as are specified in the licence.
+
+(2) The persons referred to in sub-paragraph (1)(a) are—
+
+(a) the persons specified in the section 2C licence in pursuance of paragraphs (a) and (b) of section 2C(5); and
+
+(b) in a case where the section 2C licence authorises the holder to carry on an undertaking that involves the applying of regulated procedures to protected animals, a person with such scientific credentials as are specified in the licence.
+
+[[^F144](2A) The tasks referred to in sub-paragraph (1)(b) are—
+
+(a) advising the staff dealing with animals on matters related to the welfare of animals, so far as relating to their acquisition, accommodation, care and use;
+
+(b) advising the staff on the application of the principles of replacement, reduction and refinement, and keeping them informed of technical and scientific developments concerning the application of those principles;
+
+(c) establishing and reviewing internal operational processes as regards monitoring, reporting and follow-up actions in relation to the welfare of animals housed or used in the place specified in the licence;
+
+(d) following the development and outcome of projects, taking into account the effect on the animals used, and identifying and advising on elements that would further contribute to replacement, reduction and refinement; and
+
+(e) advising on rehoming schemes, including the appropriate socialisation of the animals to be rehomed.]
+
+(3) A section 2C licence must include a condition requiring the holder to ensure that whenever the Animal Welfare and Ethical Review Body established by the holder provides advice a record is made of the advice and of any decisions taken in response to the advice.
+
+(4) A section 2C licence must include a condition requiring the holder to ensure that any such records are kept for a period of three years and are supplied to the Secretary of State upon request.
+
+**7** A section 2C licence which authorises the holder to carry on an undertaking which involves the activity mentioned in section 2B(2)(b) must include such conditions as the Secretary of State considers appropriate to ensure that primates are not bred at the place specified in the licence unless the holder of the licence has in place a strategy for increasing the proportion of primates bred from primates bred in captivity.
+
+**8** [[^F145](1)] A section 2C licence must include conditions requiring the holder—
+
+(a) to maintain records of the information mentioned in [[^F146]sub-paragraph (2)];
+
+(b) to retain any such record for a period determined in accordance with the licence (being a period of at least five years); and
+
+(c) to make any such record that is being retained available to the Secretary of State upon request.
+
+[[^F147](2) The information referred to in sub-paragraph (1)(a) is—
+
+(a) the origin of each of the animals kept in the place specified in the licence;
+
+(b) the number and species of animals that have been—
+
+(i) bred at that place for use in procedures;
+
+(ii) acquired for the purposes of the undertaking carried on in accordance with the licence;
+
+(iii) supplied elsewhere in the course of that undertaking;
+
+(iv) used in procedures at the place specified in the licence;
+
+(v) released or rehomed;
+
+(c) in the case of any animal acquired for the purposes of the undertaking, the date on which, and the person from whom, it was acquired;
+
+(d) in the case of any animal supplied elsewhere or rehomed, the date on which the animal was supplied or rehomed, and the name and address of the person to whom the animal was provided;
+
+(e) in the case of any animal released, the date on which the animal was released;
+
+(f) in the case of any animal used in a procedure, the project in which it was used;
+
+(g) the number and species of animals that have died in the place specified in the licence and, where known, the cause of death.]
+
+**9** (1) A section 2C licence must include conditions requiring the holder to ensure—
+
+(a) that if a dog, cat or non-human primate is bred at the place specified in the licence an individual history file is established in relation to the animal as soon as is reasonably practicable after its birth;
+
+(b) that if a dog, cat or non-human primate is transferred to the place specified in the licence an individual history file is established in relation to the animal as soon as is reasonably practicable after its transfer (unless the animal is transferred from a place specified in another section 2C licence and an individual history file previously established in relation to the animal is provided in accordance with conditions included in that other licence by virtue of paragraph (c));
+
+(c) that if a dog, cat or non-human primate kept at the place specified in the licence is transferred to a place specified in another section 2C licence, the individual history file kept in relation to the animal is provided to the holder of that other licence;
+
+(d) that if a dog, cat or non-human primate kept at the place specified in the licence is re-homed otherwise than at a place specified in another section 2C licence, the person with whom the animal is re-homed is provided with a copy of any veterinary and social information about the animal that is included in the individual history file kept in relation to the animal;
+
+(e) that if a dog, cat or non-human primate kept at the place specified in the licence dies at that place, is set free from that place or is re-homed otherwise than at a place specified in another section 2C licence, the individual history file for the animal is kept for a period of three years following the death, setting free or re-homing;
+
+(g) that where an individual history file is being kept by virtue of this paragraph, the information included within it is kept up to date;
+
+(h) that where an individual history file is being kept by virtue of this paragraph, a copy of it is provided to the Secretary of State upon request.
+
+(2) An “individual history file” is a file kept in relation to a dog, cat or non-human primate which contains the following—
+
+(a) particulars of the animal’s identity;
+
+(b) particulars of the animal’s date and place of birth (if known);
+
+(c) a statement as to whether the animal was bred for use in regulated procedures;
+
+(d) any relevant reproductive, veterinary and social information about the animal;
+
+(e) a record of the programmes of work, if any, which have involved the use of the animal in regulated procedures; and
+
+(f) in the case of a primate, a statement as to whether the animal is the offspring of primates bred in captivity.
+
+**10** (1) A section 2C licence must include conditions requiring the holder to ensure—
+
+(a) that before any unmarked dog, cat or non-human primate is weaned at the place specified in the licence the animal is provided with a permanent individual identification mark;
+
+(b) that before any unmarked dog, cat or non-human primate that has not been weaned is transferred from the place specified in the licence to a place specified in another section 2C licence, the animal is provided with a permanent individual identification mark unless it would not be reasonably practicable to do so;
+
+(c) that where an unmarked dog, cat or non-human primate that has not been weaned is transferred to the place specified in the licence from a place specified in another section 2C licence, a record of the animal’s mother is kept until the animal is provided with a permanent individual identification mark;
+
+(d) that where an unmarked dog, cat or non-human primate is taken into the place specified in the licence after being weaned it is provided as soon as is reasonably practicable with a permanent individual identification mark.
+
+(2) A section 2C licence must include a condition requiring the holder to ensure that where a dog, cat or primate at the place specified in the licence is provided with a permanent individual identification mark it is provided in the least painful manner possible.
+
+(3) A section 2C licence must include a condition requiring the holder to comply with any request made by the Secretary of State for an explanation of why any dog, cat or primate at the place specified in the licence has not been provided with a permanent individual identification mark.
+
+(4) In this paragraph references to an “unmarked” animal are to an animal that has not been provided with a permanent individual identification mark.
+
+**11** (1) A section 2C licence must include such conditions relating to the general care and accommodation of protected animals kept at the place specified in the licence as the Secretary of State considers appropriate to ensure—
+
+(a) that the environment, housing, freedom of movement, food, water and care provided for each such animal is appropriate for the animal’s health and well-being;
+
+(b) that the conditions under which any such animal is transported are appropriate for the animal’s health and well-being;
+
+(c) that any restrictions on the extent to which each such animal can satisfy its physiological and ethological needs are kept to the absolute minimum;
+
+(d) that the environmental conditions in which such animals are kept are checked daily;
+
+(e) that the well-being and state of health of such animals is monitored by a suitably qualified person in order to prevent pain or avoidable suffering, distress or lasting harm; and
+
+(f) that arrangements are made to ensure that any defect discovered and any avoidable pain, suffering, distress or lasting harm discovered is eliminated as quickly as possible.
+
+(2) The conditions included in a section 2C licence under sub-paragraph (1) must include conditions which ensure that at least [[^F148]any standard concerning the care and accommodation of animals which is set out in a relevant code of practice is met].
+
+[[^F149](3) In sub-paragraph (2) “relevant code of practice” means a code of practice issued or approved under section 21 (as that code has effect from time to time).]
+
+(4) The conditions included in a section 2C licence by virtue of sub-paragraph (1)(a) and (2) do not have effect in so far as compliance with them would—
+
+(a) prevent the carrying out of a programme of work specified in a project licence; or
+
+(b) prevent the objectives of a programme of work specified in a project licence from being achieved.
+
+(5) A section 2C licence may include other exemptions from the conditions included in it by virtue of sub-paragraph (1)(a) and (2) if the Secretary of State is satisfied that the exemptions are necessary for scientific, animal welfare or animal health reasons.
+
+**12** A section 2C licence must include conditions requiring the holder to give any necessary assistance to—
+
+(a) inspectors carrying out visits by virtue of section 18(2A)(b); [^F150]...
+
+[^F150]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2 — Conditions in personal licences
+
+**13** A personal licence must include a condition requiring the holder to act at all times in a manner that is consistent with the principles of replacement, reduction and refinement.
+
+**14** A personal licence must include—
+
+(a) a condition to the effect that the holder must not apply a regulated procedure to an animal if the procedure may cause the animal severe pain, suffering or distress that is likely to be long-lasting and cannot be ameliorated;
+
+(b) a condition to the effect that the holder must not apply a regulated procedure to an animal unless the holder has taken precautions to prevent or reduce to the minimum consistent with the purposes of the procedure any pain, suffering, distress or discomfort that may be caused to the animal;
+
+(c) a condition to the effect that where the holder is applying a regulated procedure to an animal the holder must ensure that any unnecessary pain, suffering, distress or lasting harm that is being caused to the animal is stopped;
+
+(d) a condition to the effect that where the holder is applying or has applied a regulated procedure which is causing the animal severe pain, suffering or distress the holder must take steps to ameliorate that pain, suffering or distress;
+
+(e) a condition requiring the holder to ensure that where the holder applies a regulated procedure death as the end-point of the procedure is avoided as far as possible and is replaced by an early and humane end-point;
+
+(f) a condition to the effect that where the holder is applying or has applied a regulated procedure to an animal and the animal is in severe pain, suffering or distress which is likely to be long-lasting and cannot be ameliorated, the holder must ensure that the animal is immediately killed in accordance with section 15A.
+
+**15** (1) A personal licence must include a condition to the effect that the holder may apply a regulated procedure without the use of general or local anaesthesia only if the holder is satisfied that—
+
+(a) the procedure will not inflict serious injuries capable of causing severe pain; and
+
+(b) the use of general or local anaesthesia would be more traumatic to the animal than the procedure itself or would frustrate the purposes of the procedure.
+
+(2) A personal licence must include a condition to the effect that the holder must use analgesia or another appropriate method to ensure that the pain, suffering and distress caused by regulated procedures are kept to a minimum.
+
+(3) A personal licence must include a condition to the effect that if the holder applies a regulated procedure to an animal with the use of general or local anaesthesia the holder must, unless it would frustrate the purpose of the procedure, use such analgesics or other pain-relieving methods as may be necessary to reduce any pain that the animal may experience once the anaesthesia wears off.
+
+**16** A personal licence must include conditions requiring the holder to give any necessary assistance to—
+
+(a) inspectors carrying out visits by virtue of section 18(2A)(b); [^F151]...
+
+[^F151]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 3 — Conditions in project licences
+
+**17** A project licence must include a condition requiring the holder to ensure that the specified programme of work does not involve the application of any regulated procedure to which there is a scientifically satisfactory alternative method or testing strategy not entailing the use of a protected animal.
+
+**18** (1) A project licence must include a condition requiring the holder to ensure that the regulated procedures applied as part of the specified programme of work are those which to the greatest extent meet the following requirements—
+
+(a) use the minimum number of animals;
+
+(b) involve animals with the lowest capacity to experience pain, suffering, distress or lasting harm;
+
+(c) cause the least pain, suffering, distress or lasting harm;
+
+(d) are most likely to provide satisfactory results.
+
+(2) A project licence must include a condition requiring the holder to ensure that the regulated procedures applied as part of the specified programme of work are designed so as—
+
+(a) to result in the death of as few protected animals as possible; and
+
+(b) to reduce to the minimum possible the duration and intensity of suffering caused to those animals that die and, as far as possible, ensure a painless death.
+
+**19** A project licence must include such conditions as the Secretary of State considers appropriate for the purpose of ensuring that any person who applies regulated procedures as part of the specified programme of work does so under supervision until the person has demonstrated the requisite competence.
+
+**20** A project licence must include such conditions as the Secretary of State considers appropriate for the purpose of ensuring that a regulated procedure is not applied to an animal as part of a specified programme of work if the procedure may cause the animal severe pain, suffering or distress that is likely to be long-lasting and cannot be ameliorated.
+
+**21** A project licence must include such conditions as the Secretary of State considers appropriate for the purpose of ensuring that where a regulated procedure is being applied to an animal as part of the specified programme of work, any unnecessary pain, suffering, distress or lasting harm that is being caused to the animal is stopped.
+
+**22** A project licence must include such conditions as the Secretary of State considers appropriate for the purpose of ensuring that where a regulated procedure is applied to an animal as part of the specified programme of work—
+
+(a) death as the end point of the procedure is avoided as far as possible and is replaced by an early and humane end point;
+
+(b) as soon as the purpose of the procedure has been achieved, the procedure is stopped and appropriate action is taken to minimise the suffering of the animal.
+
+**23** (1) A project licence must include a condition requiring the holder to ensure that where a regulated procedure has been applied to an animal as part of the specified programme of work a suitably qualified person classifies the severity of the procedure as “non-recovery”, “mild”, “moderate” or “severe” [^F152]....
+
+[[^F153](1A) Section 5BA applies for the purposes of sub-paragraph (1) as it applies for the purposes of section 5B(3)(c), but as if the reference in section 5BA(5) to the Secretary of State were a reference to the suitably qualified person mentioned in sub-paragraph (1).]
+
+(2) For the purposes of this paragraph, a series of regulated procedures applied to an animal for a particular purpose is to be treated as constituting a single regulated procedure.
+
+**24** (1) A project licence must include such conditions as the Secretary of State considers appropriate for the purpose of ensuring that where a series of regulated procedures are applied to an animal for a particular purpose the animal is killed at the end of the series unless a veterinary surgeon or other competent person has determined that the animal is not suffering and is not likely to suffer adverse effects.
+
+(2) For the purposes of this paragraph a series of regulated procedures is to be treated as ending when no further observations are to be made for the purposes of the series.
+
+**25** (1) Subject to sub-paragraph (3), a project licence must include—
+
+(a) a condition to the effect that a stray animal of a domestic species must not be subjected to a regulated procedure as part of the specified programme of work;
+
+(b) a condition to the effect that a feral animal of a domestic species must not be subjected to a regulated procedure as part of the specified programme of work;
+
+(c) a condition to the effect that an animal taken from the wild must not be subjected to a regulated procedure as part of the specified programme of work;
+
+(d) a condition to the effect that a marmoset must not be subjected to a regulated procedure as part of the specified programme of work unless it is the offspring of marmosets bred in captivity or it has been obtained from a self-sustaining colony of marmosets;
+
+(e) a condition to the effect that an animal of a description specified in Schedule 2 must not be subjected to a regulated procedure as part of the specified programme of work unless it has been bred for use in regulated procedures.
+
+(2) A project licence may include an exemption from the condition mentioned in sub-paragraph (1)(b) in relation to a particular domestic species (“the exempted species”); but such an exemption may be included only if the Secretary of State is satisfied that there is scientific justification to the effect that the purposes of the specified programme of work can be achieved only by the application of regulated procedures to feral animals of the exempted species and that the specified programme of work consists of a study which is essential—
+
+(a) to protect the health or welfare of animals of the exempted species; or
+
+(b) to avoid a serious threat to human or animal health or the environment.
+
+(3) A project licence is not required to include a condition mentioned in sub-paragraph (1)(c), (d) or (e) if the Secretary of State is satisfied that there is scientific justification to the effect that compliance with the condition would prevent the purposes of the programme of work specified in the licence from being achieved.
+
+(4) A project licence that permits the application of regulated procedures to animals taken from the wild must include such conditions as the Secretary of State considers appropriate for the purpose of ensuring—
+
+(a) that the animals taken from the wild are captured by a competent person using a method which does not cause the animal avoidable pain, suffering, distress or lasting harm;
+
+(b) that an animal taken from the wild which is found to be injured or in poor health is not subjected to a regulated procedure unless and until—
+
+(i) it has been examined by a veterinary surgeon or other competent person; and
+
+(ii) action has been taken to minimise the suffering of the animal.
+
+(5) But a project licence that permits the application of regulated procedures to animals taken from the wild is not required to include conditions for the purpose of ensuring the matter mentioned in sub-paragraph (4)(b)(ii) if the Secretary of State is satisfied that there is scientific justification to the effect that compliance with any such conditions would prevent the purposes of the programme of work specified in the licence from being achieved.
+
+(6) For the purposes of sub-paragraph (1)(d) a colony of animals is a “self-sustaining colony” if—
+
+(a) the colony is kept in captivity in a way that ensures the animals are accustomed to humans;
+
+(b) the colony consists only of animals that have been bred in captivity; and
+
+(c) the colony is sustained only by animals being bred within the colony or animals being sourced from other colonies that meet paragraphs (a) and (b).
+
+**26** (1) A project licence must include such conditions as the Secretary of State considers appropriate to ensure that regulated procedures are not applied to an animal as part of the specified programme of work if the data to be obtained from the application of those procedures is already available [^F154]... and has been obtained [^F155]... by procedures which satisfy any relevant regulatory requirements [^F156]....
+
+(2) A project licence may include exemptions from the conditions included in it by virtue of sub-paragraph (1) if the Secretary of State considers the exemptions are justified for the protection of public health, safety or the environment.
+
+**27** A project licence must include conditions requiring the holder to give any necessary assistance to—
+
+(a) inspectors carrying out visits by virtue of section 18(2A)(b); [^F157]...
+
+[^F157]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**28** A project licence must include a condition to the effect that if the holder becomes aware of a failure to comply with any of the other conditions of the licence the holder must—
+
+(a) take appropriate steps to rectify the failure (if it is capable of being rectified); and
+
+(b) keep a record of the steps taken.]
+
+## SCHEDULE 3 — CONSEQUENTIAL AMENDMENTS
+
+*Section 27(2).*
+
+**[^F158]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F159]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3** In paragraph 1 of Schedule 1 to the [^M8]Protection of Animals (Anaesthetics) Act 1954 for the words “Any experiment duly authorised under the Cruelty to Animals Act 1876” there shall be substituted the words “Any procedure duly authorised under the Animals (Scientific Procedures) Act 1986”.
+
+**4** In section 12 of the [^M9]Pests Act 1954 for the words “any experiment duly authorised under the Cruelty to Animals Act 1876” there shall be substituted the words “any procedure duly authorised under the Animals (Scoentific Procedures) Act 1986”.
+
+**5** In section 19(4)(a) of the [^M10]Veterinary Surgeons Act 1966 for the words “any experiment duly authorised under the Cruelty to Animals Act 1876” there shall be substituted the words “any procedure duly authorised under the Animals (Scientific Procedures) Act 1986”.
+
+**6** In section 1(2A)(b) of the [^M11]Slaughter of Poultry Act 1967 for the words “an experiment in respect of which restrictions are imposed by the Cruelty to Animals Act 1876, being an experiment performed subject to any restrictions so imposed” there shall be substituted the words “a procedure duly authorised under the Animals (Scientific Procedures) Act 1986”.
+
+**[^F160][^F161]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F162]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F163]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10** In section 5(4) of the [^M12]Dangerous Wild Animals Act 1976 for the words “registered pursuant to the Cruelty to Animals Act 1876 for the purpose of performing experiments” there shall be substituted the words “which is a designated establishment within the meaning of the Animals (Scientific Procedures) Act 1986”.
+
+## SCHEDULE 4 — TRANSITIONAL PROVISIONS
+
+*Section 27(4).*
+
+### Existing licences
+
+**1** Any licence which immediately before the coming into force of section 3 of this Act is in force under the Cruelty to Animals Act 1876 (in this Schedule referred to as “the previous Act”) shall until such date as it would have expired under that Act be treated for the purposes of this Act as if it were a personal licence.
+
+### Current experiments
+
+**2** (1) Subject to sub-paragraph (2) below, any experiment or series of experiments which is lawfully in progress under the previous Act immediately before the coming into force of section 3 of this Act shall be treated for the purposes of this Act as authorised by a project licence.
+
+(2) The Secretary of State may direct that sub-paragraph (1) above shall cease to have effect on such date as he may specify; and different dates may be specified in relation to different cases.
+
+### Existing certificates
+
+**3** A person shall not by virtue of paragraphs 1 or 2 above be entitled to do anything which would have been unlawful under the previous Act without such a certificate as is mentioned in paragraph (2) or (3) of the proviso to section 3 of that Act or in section 5 of that Act unless immediately before the coming into force of section 3 of this Act he holds the appropriate certificate under that Act.
+
+### Registered premises
+
+**4** Until such date as the Secretary of State may direct there shall be treated as a designated scientific procedure establishment for the purposes of this Act any place registered under the previous Act or approved by the Secretary of State.
+
+### Inspectors
+
+**5** Any person who at the coming into force of section 18 of this Act holds office as an inspector under the previous Act shall be treated for the purposes of this Act as an inspector appointed under that section.
+
+---
+
+[^F1]: Words in s. 1(1) inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 3(a) (with Sch. 3)
+[^F2]: Words in s. 1(2)(a) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 3(b) (with Sch. 3)
+[^F3]: S. 1(2A) inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 3(c) (with Sch. 3)
+[^F4]: Words in s. 1(3)(a) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 3(d) (with Sch. 3)
+[^F5]: Words in s. 2(1) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 4(2) (with Sch. 3)
+[^F6]: S. 2(1A) inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 4(3) (with Sch. 3)
+[^F7]: Words in s. 2(2) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 4(4)(a) (with Sch. 3)
+[^F8]: Word in s. 2(2)(a) omitted (1.1.2013) by virtue of The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 4(4)(b) (with Sch. 3)
+[^F9]: S. 2(2)(ab) inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 4(4)(c) (with Sch. 3)
+[^F10]: S. 2(2A) inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 4(5) (with Sch. 3)
+[^F11]: S. 2(3A)-(3C) inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 4(6) (with Sch. 3)
+[^F12]: S. 2(5)(6) omitted (1.1.2013) by virtue of The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 4(7) (with Sch. 3)
+[^F13]: S. 2(7)-(8A) substituted for s. 2(7)(8) (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 4(8) (with Sch. 3)
+[^F14]: Words in s. 2(8)(d) inserted (11.4.2021) by Medicines and Medical Devices Act 2021 (c. 3), ss. 14(2), 50(2)(c)
+[^F15]: S. 2A inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 5 (with Sch. 3)
+[^F16]: Ss. 2B, 2C and cross-heading inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 6 (with Sch. 3)
+[^F17]: Words in s. 2C(2) substituted (31.12.2020) by The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72), regs. 1, 2(2); 2020 c. 1, Sch. 5 para. 1(1)
+[^F18]: Word in s. 3 inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 7(2) (with Sch. 3)
+[^F19]: Words in s. 3(c) omitted (1.1.2013) by virtue of The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 7(3) (with Sch. 3)
+[^F20]: Words in s. 4(1) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 8(2)(a) (with Sch. 3)
+[^F21]: Words in s. 4(1) omitted (1.1.2013) by virtue of The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 8(2)(b) (with Sch. 3)
+[^F22]: S. 4(3)(a) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 8(3)(a) (with Sch. 3)
+[^F23]: Word in s. 4(3)(b) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 8(3)(b) (with Sch. 3)
+[^F24]: Words in s. 4(3) omitted (1.1.2013) by virtue of The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 8(3)(c) (with Sch. 3)
+[^F25]: S. 4(3A) inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 8(4) (with Sch. 3)
+[^F26]: S. 4(4A) inserted (5.9.1998) by S.I. 1998/1974, reg. 2, Sch. para. 2
+[^F27]: Words in s. 4(4A)(a) omitted (1.1.2013) by virtue of The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 8(5)(a) (with Sch. 3)
+[^F28]: Words in s. 4(4A)(a) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 8(5)(b) (with Sch. 3)
+[^F29]: Ss. 5-5G substituted for s. 5 (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 9(1) (with Sch. 3)
+[^F30]: S. 5(4) substituted (19.6.2026) by The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663), regs. 1(1), 3
+[^F31]: Words in s. 5A(1)(c) substituted (19.6.2026) by The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663), regs. 1(1), 4(a)
+[^F32]: S. 5A(1A) inserted (19.6.2026) by The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663), regs. 1(1), 4(b)
+[^F33]: Words in s. 5B(3)(c) inserted (19.6.2026) by The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663), regs. 1(1), 5(a)
+[^F34]: S. 5B(6) omitted (19.6.2026) by virtue of The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663), regs. 1(1), 5(b)
+[^F35]: S. 5BA inserted (19.6.2026) by The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663), regs. 1(1), 6
+[^F36]: Words in s. 5D(6) inserted (19.6.2026) by The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663), regs. 1(1), 7
+[^F37]: Words in s. 5F(3)(b) inserted (19.6.2026) by The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663), regs. 1(1), 8
+[^F38]: S. 6 cross-heading omitted (1.1.2013) by virtue of The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(1) (with Sch. 3)
+[^F39]: S. 8 cross-heading inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(2) (with Sch. 3)
+[^F40]: Words in s. 8 substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(3) (with Sch. 3)
+[^F41]: S. 9 cross-heading omitted (1.1.2013) by virtue of The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(4) (with Sch. 3)
+[^F42]: Words in s. 9(1) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(5)(a)(i) (with Sch. 3)
+[^F43]: Words in s. 9(1) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(5)(a)(ii) (with Sch. 3)
+[^F44]: S. 9(1A) inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(5)(b) (with Sch. 3)
+[^F45]: S. 10 substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 10(1) (with Sch. 3)
+[^F46]: S. 11 substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 11 (with Sch. 3)
+[^F47]: S. 12(1) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 12(2) (with Sch. 3)
+[^F48]: Words in s. 12(4) omitted (1.1.2013) by virtue of The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 12(3) (with Sch. 3)
+[^F49]: S. 12(5)(a) substituted (21.7.2008) by Tribunals, Courts and Enforcement Act 2007 (c. 15), s. 148, Sch. 10 para. 18(2); S.I. 2008/1653, art. 2(d) (with arts. 3 4)
+[^F50]: S. 2(5)(a)(b)(c) substituted by Courts and Legal Services Act 1990 (c. 41, SIF 37), s. 71(2)(5), Sch. 10 para. 66
+[^F51]: Word in s. 12(5)(b) substituted (21.7.2008) by Tribunals, Courts and Enforcement Act 2007 (c. 15), s. 148, Sch. 10 para. 18(3); S.I. 2008/1653, art. 2(d) (with arts. 3 4)
+[^F52]: Words in Act substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), s. 148(1), Sch. 11 para. 5; S.I. 2009/1604, art. 2(d)
+[^F53]: Word in s. 12(5)(c) substituted (21.7.2008) by Tribunals, Courts and Enforcement Act 2007 (c. 15), s. 148, Sch. 10 para. 18(3); S.I. 2008/1653, art. 2(d) (with arts. 3 4)
+[^F54]: Words in s. 12(6) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 12(4) (with Sch. 3)
+[^F55]: S. 12(6A) inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 12(5) (with Sch. 3)
+[^F56]: Words in s. 13 omitted (1.1.2013) by virtue of The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(6) (with Sch. 3)
+[^F57]: S. 13A inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 13 (with Sch. 3)
+[^F58]: S. 14 substituted (19.12.2012 for specified purposes, 1.1.2013 in so far as not already in force) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), reg. 1(2)(3)(a), 14 (with Sch. 3)
+[^F59]: Words in s. 15(1)(b) inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(7)(a) (with Sch. 3)
+[^F60]: Words in s. 15(1) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(7)(b) (with Sch. 3)
+[^F61]: S. 15A inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 15 (with Sch. 3)
+[^F62]: S. 17 substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 17 (with Sch. 3)
+[^F63]: S. 17A inserted (19.12.2012 for specified purposes, 1.1.2013 in so far as not already in force) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), reg. 1(2)(3)(b), 18 (with Sch. 3)
+[^F64]: Words in s. 18(2)(a) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 19(2)(a) (with Sch. 3)
+[^F65]: S. 18(2)(b) substituted for s. 18(2)(b)-(e) (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 19(2)(b) (with Sch. 3)
+[^F66]: S. 18(2A)-(2E) inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 19(3) (with Sch. 3)
+[^F67]: Words in s. 18(3) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(8) (with Sch. 3)
+[^F68]: Ss. 19, 20 substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 20 (with Sch. 3)
+[^F69]: S. 20(4) omitted (31.12.2020) by virtue of The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72), regs. 1, 2(3)(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F70]: Words in s. 20(6) omitted (31.12.2020) by virtue of The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72), regs. 1, 2(3)(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F71]: S. 20A inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 21 (with Sch. 3)
+[^F72]: S. 20B inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 22 (with Sch. 3)
+[^F73]: S. 20B(2)(a)(b) omitted (31.12.2020) by virtue of The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72), regs. 1, 2(4)(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F74]: Word in s. 20B(2)(c) omitted (31.12.2020) by virtue of The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72), regs. 1, 2(4)(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F75]: Words in s. 21 heading substituted (1.1.2015) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(4), 26(9)(a) (with Sch. 3)
+[^F76]: Words in s. 21(1) omitted (1.1.2013) by virtue of The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(9)(b) (with Sch. 3)
+[^F77]: Words in s. 21(3) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(9)(c) (with Sch. 3)
+[^F78]: S. 21(7) omitted (1.1.2015) by virtue of The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(4), 26(9)(d) (with Sch. 3)
+[^F79]: S. 21A inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 23 (with Sch. 3)
+[^F80]: S. 21A(1)(c) and word omitted (31.12.2020) by virtue of The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72), regs. 1, 2(5)(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F81]: S. 21A(3)(4) omitted (31.12.2020) by virtue of The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72), regs. 1, 2(5)(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F82]: S. 22(A1) inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 24(2) (with reg. 24(6)(a), Sch. 3)
+[^F83]: S. 22(3)(za)(zb) inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 24(3)(a) (with Sch. 3)
+[^F84]: Words in s. 22(3)(a) omitted (1.1.2013) by virtue of The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 24(3)(b) (with Sch. 3)
+[^F85]: S. 22(3A) inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 24(4) (with reg. 24(6)(b), Sch. 3)
+[^F86]: Word in s. 22(4) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(10)(a) (with Sch. 3)
+[^F87]: S. 22(4A) inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 24(5) (with Sch. 3)
+[^F88]: Words in s. 22(5) substituted (27.3.2007 for W., 6.4.2007 for E.) by Animal Welfare Act 2006 (c. 45) , s. 68(3) , Sch. 3 para. 12(1)(a) (with ss. 1(2) , 58(1) , 59 , 60 ); S.I. 2007/499 , art. 2(2)(l) ; S.I. 2007/1030 , art. 2(1)(l)
+[^F89]: Words in s. 22(5) omitted (S.) (3.11.2006) by virtue of The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2006 (S.S.I. 2006/536) , art. 1 , Sch. 1 para. 11(2)
+[^M1]: 1912 c. 14 .
+[^F90]: Words in s. 22(5) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(10)(b) (with Sch. 3)
+[^F91]: Words in s. 22(5) inserted (27.3.2007 for W., 6.4.2007 for E.) by Animal Welfare Act 2006 (c. 45) , s. 68(3) , Sch. 3 para. 12(1)(b) (with ss. 1(2) , 58(1) , 59 , 60 ); S.I. 2007/499 , art. 2(2)(l) ; S.I. 2007/1030 , art. 2(1)(l)
+[^F92]: S. 22(5A) inserted (S.) (3.11.2006) by The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2006 (S.S.I. 2006/536) , art. 1, Sch. 1 para. 11(3)
+[^F93]: Words in s. 22(5A) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(10)(c) (with Sch. 3)
+[^F94]: Words in s. 23(1) omitted (1.1.2013) by virtue of The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(11) (with Sch. 3)
+[^F95]: Words in s. 25(2) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 25(2) (with Sch. 3)
+[^F96]: Words in s. 25(2) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(12) (with Sch. 3)
+[^F97]: S. 25(2A)(2B) inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 25(3) (with Sch. 3)
+[^F98]: Word in s. 25(3)(a) omitted (1.1.2013) by virtue of The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 25(4) (with Sch. 3)
+[^F99]: S. 25(3)(aa) inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 25(4) (with Sch. 3)
+[^F100]: Words in s. 26(1)(b) substituted (27.3.2007 for W., 6.4.2007 for E.) by Animal Welfare Act 2006 (c. 45) , s. 68(3) , Sch. 3 para. 12(2) (with ss. 1(2) , 58(1) , 59 , 60 ); S.I. 2007/499 , art. 2(2)(l) ; S.I. 2007/1030 , art. 2(1)(l)
+[^F101]: Words in s. 26(1)(b) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(13) (with Sch. 3)
+[^M2]: 1980 c. 43 .
+[^F102]: Words in s. 26(4) substituted (1.4.1996) by 1995 c. 40, ss. 5, 7(2), Sch. 4 para. 59
+[^M3]: 1876 c. 77 .
+[^F103]: S. 27(3) omitted: (E.W.) (1.10.2018) by virtue of The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486), reg. 1(1)(b), Sch. 9 para. 9 (with reg. 27); and repealed: (S.) (8.6.2022) by The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2022 (S.S.I. 2022/195), art. 1(2), sch. 2 para. 1
+[^F104]: Word in s. 29(3) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(15)(a) (with Sch. 3)
+[^F105]: Words in s. 29(4) omitted (1.1.2013) by virtue of The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(15)(b)(i) (with Sch. 3)
+[^F106]: Words in s. 29(4)(a) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(15)(b)(ii) (with Sch. 3)
+[^F107]: S. 29(4A) inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(15)(c) (with Sch. 3)
+[^F108]: S. 29(5)(5A) substituted for s. 29(5) (27.3.2007 for W., 6.4.2007 for E.) by Animal Welfare Act 2006 (c. 45) , s. 68(3) , Sch. 3 para. 12(3) (with ss. 1(2) , 58(1) , 59 , 60 ); S.I. 2007/499 , art. 2(2)(l) ; S.I. 2007/1030 , art. 2(1)(l)
+[^F109]: Words in s. 29(5) substituted (N.I.) (11.7.2011) by Welfare of Animals Act (Northern Ireland) 2011 (c. 16) , s. 59 , Sch. 4 para. 3(a) (with ss. 1(2) , 52(1) , 53 , 54 ); S.R. 2011/245 , art. 2 , Sch. 1
+[^F110]: Words in s. 29(5A) substituted (N.I.) (11.7.2011) by Welfare of Animals Act (Northern Ireland) 2011 (c. 16) , s. 59 , Sch. 4 para. 3(b) (with ss. 1(2) , 52(1) , 53 , 54 ); S.R. 2011/245 , art. 2 , Sch. 1
+[^F111]: S. 29(6) substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(15)(d) (with Sch. 3)
+[^M4]: S.I. 1981/1675 (N.I.26) .
+[^M5]: S.I. 1983/1764 (N.I.8) .
+[^M6]: S.I. 1979/1573 (N.I.12) .
+[^M7]: 1954 c. 33 (N.I.)
+[^F112]: Words in s. 30(2) omitted (19.6.2026) by virtue of The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663), regs. 1(1), 9(a)
+[^F113]: Words in s. 30(2) omitted (1.1.2013) by virtue of The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(16)(a)(i) (with Sch. 3)
+[^F114]: Words in s. 30(2) inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(16)(a)(ii) (with Sch. 3)
+[^F115]: S. 30(2A) omitted (19.6.2026) by virtue of The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663), regs. 1(1), 9(b)
+[^F116]: Sch. 1 substituted (E.W.S.) (1.3.1997) and (N.I.) (9.6.1997) by S.I. 1996/3278, art. 2, Sch.; S.R. 1997/226, art. 2, Sch.
+[^F117]: Words in Sch. 1 shoulder reference substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(17) (with Sch. 3)
+[^F118]: Words in Sch. 1 para. 1 omitted (1.1.2013) by virtue of The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 16(2) (with Sch. 3)
+[^F119]: Sch. 1 para. 2 omitted (1.1.2013) by virtue of The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 16(2) (with Sch. 3)
+[^F120]: Sch. 1 para. 3 inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 16(3) (with Sch. 3)
+[^F121]: Words in Sch. 1 Table A substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 16(4)(a) (with Sch. 3)
+[^F122]: Words in Sch. 1 Table A inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 16(4)(b) (with Sch. 3)
+[^F123]: Words in Sch. 1 Table A substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 16(4)(c) (with Sch. 3)
+[^F124]: Words in Sch. 1 Table A substituted (5.11.2015) by The Welfare of Animals at the Time of Killing (England) Regulations 2015 (S.I. 2015/1782), reg. 1(4), Sch. 6 para. 3
+[^F125]: Words in Sch. 1 Table A inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 16(4)(d) (with Sch. 3)
+[^F126]: Word in Sch. 1 Table A omitted (1.1.2013) by virtue of The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 16(4)(d) (with Sch. 3)
+[^F127]: Sch. 2 heading substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(18)(a) (with Sch. 3)
+[^F128]: Words in Sch. 2 shoulder reference substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(18)(b) (with Sch. 3)
+[^F129]: Words in Sch. 2 substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(18)(c) (with Sch. 3)
+[^F130]: Words in Sch. 2 substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(18)(d) (with Sch. 3)
+[^F131]: Words in Sch. 2 substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(18)(e) (with Sch. 3)
+[^F132]: Words in Sch. 2 substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(18)(f) (with Sch. 3)
+[^F133]: Words in Sch. 2 added (1.10.1993) by S.I. 1993/2103, art. 4; (and for N.I. (15.11.1993) by S.R. 1993/407, art. 2(2)
+[^F134]: Words in Sch. 2 inserted (N.I.) (1.1.1999) by S.R. 1998/331, reg. 2
+[^F135]: Words in Sch. 2 substituted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(18)(g) (with Sch. 3)
+[^F136]: Words in Sch. 2 inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(18)(h) (with Sch. 3)
+[^F137]: Sch. 2A omitted (1.1.2013) by virtue of The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 26(19) (with Sch. 3)
+[^F138]: Sch. 2AA inserted (19.6.2026) by The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663), reg. 1(1), Sch.
+[^F139]: Sch. 2B inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 9(2), Sch. 1 (with Sch. 3)
+[^F140]: Sch. 2C inserted (1.1.2013) by The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039), regs. 1(2), 10(2), Sch. 2 (with Sch. 3)
+[^F141]: Words in Sch. 2C para. 4(3) substituted (19.6.2026) by The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663), regs. 1(1), 11(a)(i)
+[^F142]: Sch. 2C para. 4(4) substituted (19.6.2026) by The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663), regs. 1(1), 11(a)(ii)
+[^F143]: Words in Sch. 2C para. 6(1)(b) substituted (19.6.2026) by The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663), regs. 1(1), 11(b)(i)
+[^F144]: Sch. 2C para. 6(2A) inserted (19.6.2026) by The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663), regs. 1(1), 11(b)(ii)
+[^F145]: Sch. 2C para. 8 renumbered as Sch. 2C para. 8(1) (19.6.2026) by The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663), regs. 1(1), 11(c)(i)
+[^F146]: Words in Sch. 2C para. 8(1)(a) substituted (19.6.2026) by The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663), regs. 1(1), 11(c)(ii)
+[^F147]: Sch. 2C para. 8(2) inserted (19.6.2026) by The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663), regs. 1(1), 11(c)(iii)
+[^F148]: Words in Sch. 2C para. 11(2) substituted (19.6.2026) by The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663), regs. 1(1), 11(d)(i)
+[^F149]: Sch. 2C para. 11(3) substituted (19.6.2026) by The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663), regs. 1(1), 11(d)(ii)
+[^F150]: Sch. 2C para. 12(b) and word omitted (31.12.2020) by virtue of The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72), regs. 1, 2(6)(a); 2020 c. 1, Sch. 5 para. 1(1)
+[^F151]: Sch. 2C para. 16(b) and word omitted (31.12.2020) by virtue of The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72), regs. 1, 2(6)(b); 2020 c. 1, Sch. 5 para. 1(1)
+[^F152]: Words in Sch. 2C para. 23(1) omitted (19.6.2026) by virtue of The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663), regs. 1(1), 11(e)(i)
+[^F153]: Sch. 2C para. 23(1A) inserted (19.6.2026) by The Animals (Scientific Procedures) Act 1986 (Amendment) Regulations 2026 (S.I. 2026/663), regs. 1(1), 11(e)(ii)
+[^F154]: Words in Sch. 2C para. 26(1) omitted (31.12.2020) by virtue of The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72), regs. 1, 2(6)(c)(i); 2020 c. 1, Sch. 5 para. 1(1)
+[^F155]: Word in Sch. 2C para. 26(1) omitted (31.12.2020) by virtue of The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72), regs. 1, 2(6)(c)(ii); 2020 c. 1, Sch. 5 para. 1(1)
+[^F156]: Words in Sch. 2C para. 26(1) omitted (31.12.2020) by virtue of The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72), regs. 1, 2(6)(c)(iii); 2020 c. 1, Sch. 5 para. 1(1)
+[^F157]: Sch. 2C para. 27(b) and word omitted (31.12.2020) by virtue of The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72), regs. 1, 2(6)(d); 2020 c. 1, Sch. 5 para. 1(1)
+[^F158]: Sch. 3 para. 1 repealed (E.W.) (27.3.2007 for W., 6.4.2007 for E.) by Animal Welfare Act 2006 (c. 45), s. 68(3), Sch. 4 (with ss. 1(2), 58(1), 59, 60); S.I. 2007/499, art 2(2)(m); S.I. 2007/1030, art. 2(1)(m)
+[^F159]: Sch. 3 para. 2 repealed (S.) (3.11.2006) by The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2006 (S.S.I. 2006/536), art. 1, Sch. 3
+[^M8]: 1954 c. 46.
+[^M9]: 1954 c. 68.
+[^M10]: 1966 c. 36.
+[^M11]: 1967 c. 24.
+[^F160]: Sch. 3 para. 7 repealed (S.) (3.11.2006) by The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2006 (S.S.I. 2006/536), art. 1, Sch. 3
+[^F161]: Sch. 3 para. 7 repealed (E.W.) (27.3.2007 for W., 6.4.2007 for E.) by Animal Welfare Act 2006 (c. 45), s. 68(3), Sch. 4 (with ss. 1(2), 58(1), 59, 60); S.I. 2007/499, art. 2(2)(m); S.I. 2007/1030, art. 2(1)(m)
+[^F162]: Sch. 3 para. 8 repealed (N.I.) (2.4.2012) by Welfare of Animals Act (Northern Ireland) 2011 (c. 16), s. 59, Sch. 5 (with ss. 1(2), 52(1), 53, 54); S.R. 2012/154, art. 2(b), Sch. 2
+[^F163]: Sch. 3 para. 9 repealed (E.W.S.) (16.10.1992) by Protection of Badgers Act 1992 (c.51), s. 15(2)(3), Sch.
+[^M12]: 1976 c. 38.

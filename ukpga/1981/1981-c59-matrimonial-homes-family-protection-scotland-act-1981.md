@@ -1,0 +1,858 @@
+---
+title: "Matrimonial Homes (Family Protection) (Scotland) Act 1981"
+identifier: "ukpga/1981/59"
+citation: "1981 c. 59"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "S"
+date: 1981-10-30
+last_amended: 2025-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1981/59"
+source_modified: 2025-04-23
+retrieved: 2026-10-11
+---
+
+# Matrimonial Homes (Family Protection) (Scotland) Act 1981
+
+**1981 c. 59**
+
+An Act to make new provision for Scotland as to the rights of occupancy of spouses in a matrimonial home and of cohabiting couples in the house where they cohabit; to provide for the transfer of the tenancy of a matrimonial home between the spouses in certain circumstances during marriage and on granting decree of divorce or nullity of marriage, and for the transfer of the tenancy of a house occupied by a cohabiting couple between the partners in certain circumstances; to strengthen the law relating to matrimonial interdicts; and for connected purposes.
+
+[30th October 1981]
+
+## Protection of occupancy rights of one spouse against the other
+
+### 1 Right of spouse without title to occupy matrimonial home.
+
+(1) Where, apart from the provisions of this Act, one spouse is entitled, or permitted by a third party, to occupy a matrimonial home (an “entitled spouse”) and the other spouse is not so entitled or permitted (a “non-entitled spouse”), the non-entitled spouse shall, subject to the provisions of this Act, have the following rights—
+
+(a) if in occupation, a right [[^F1]to continue to occupy the matrimonial home;]
+
+(b) if not in occupation, a right to enter into and occupy the matrimonial home.
+
+[[^F2](1A) The rights conferred by subsection (1) above to continue to occupy or, as the case may be, to enter and occupy the matrimonial home include, without prejudice to their generality, the right to do so together with any child of the family.]
+
+(2) In subsection (1) above, an “entitled spouse” includes a spouse who is entitled, or permitted by a third party, to occupy a matrimonial home along with an individual who is not the other spouse only if that individual has waived his or her right of occupation in favour of the spouse so entitled or permitted.
+
+(3) If the entitled spouse refuses to allow the non-entitled spouse to exercise the right conferred by subsection (1)(b) above, the non-entitled spouse may exercise that right only with the leave of the court under section 3(3) or (4) of this Act.
+
+(4) In this Act, the rights mentioned in paragraphs (a) and (b) of subsection (1) above are referred to as occupancy rights.
+
+(5) A non-entitled spouse may renounce in writing his or her occupancy rights only—
+
+(a) in a particular matrimonial home; or
+
+(b) in a particular property which it is intended by the spouses will become a matrimonial home.
+
+(6) A renunciation under subsection (5) above shall have effect only if at the time of making the renunciation, the non-entitled spouse has sworn or affirmed before a notary public that it was made freely and without coercion of any kind.
+
+[[^F3] In this subsection, “ notary public ” includes any person duly authorised by the law of the country (other than Scotland) in which the swearing or affirmation takes place to administer oaths or receive affirmations in that other country. ]
+
+[[^F4](7) Subject to subsection (5), if—
+
+(a) there has been no cohabitation between an entitled spouse and a non-entitled spouse during a continuous period of two years; and
+
+(b) during that period the non-entitled spouse has not occupied the matrimonial home,
+
+the non-entitled spouse shall, on the expiry of that period, cease to have occupancy rights in the matrimonial home.
+
+(8) A non-entitled spouse who has ceased to have occupancy rights by virtue of subsection (7) may not apply to the court for an order under section 3(1).]
+
+### 2 Subsidiary and consequential rights.
+
+(1) For the purpose of securing the occupancy rights of a non-entitled spouse, that spouse shall, in relation to a matrimonial home, be entitled without the consent of the entitled spouse—
+
+(a) to make any payment due by the entitled spouse in respect of rent, rates, secured loan instalments, interest or other outgoings (not being outgoings on repairs or improvements);
+
+(b) to perform any other obligation incumbent on the entitled spouse (not being an obligation in respect of non-essential repairs or improvements);
+
+(c) to enforce performance of an obligation by a third party which that third party has undertaken to the entitled spouse to the extent that the entitled spouse may enforce such performance;
+
+(d) to carry out such essential repairs as the entitled spouse may carry out;
+
+(e) to carry out such non-essential repairs or improvements as may be authorised by an order of the court, being such repairs or improvements as the entitled spouse may carry out and which the court considers to be appropriate for the reasonable enjoyment of the occupancy rights;
+
+(f) to take such other steps, for the purpose of protecting the occupancy rights of the non-entitled spouse, as the entitled spouse may take to protect the occupancy rights of the entitled spouse.
+
+(2) Any payment made under subsection (1)(a) above or any obligation performed under subsection (1)(b) above shall have effect in relation to the rights of a third party as if the payment were made or the obligation were performed by the entitled spouse; and the performance of an obligation which has been enforced under subsection (1)(c) above shall have effect as if it had been enforced by the entitled spouse.
+
+(3) Where there is an entitled and a non-entitled spouse, the court, on the application of either of them, may, having regard in particular to the respective financial circumstances of the spouses, make an order apportioning expenditure incurred or to be incurred by either spouse—
+
+(a) without the consent of the other spouse, on any of the items mentioned in paragraphs (a) and (d) of subsection (1) above;
+
+(b) with the consent of the other spouse, on anything relating to a matrimonial home.
+
+(4) Where both spouses are entitled, or permitted by a third party, to occupy a matrimonial home—
+
+(a) either spouse shall be entitled, without the consent of the other spouse, to carry out such non-essential repairs or improvements as may be authorised by an order of the court, being such repairs or improvements as the court considers to be appropriate for the reasonable enjoyment of the occupancy rights;
+
+(b) the court, on the application of either spouse, may, having regard in particular to the respective financial circumstances of the spouses, make an order apportioning expenditure incurred or to be incurred by either spouse, with or without the consent of the other spouse, on anything relating to the matrimonial home.
+
+(5) Where one spouse owns or hires, or is acquiring under a hire-purchase or conditional sale agreement, furniture and plenishings in a matrimonial home—
+
+(a) the other spouse may, without the consent of the first mentioned spouse—
+
+(i) make any payment due by the first mentioned spouse which is necessary, or take any other step which the first mentioned spouse is entitled to take, to secure the possession or use of any such furniture and plenishings (and any such payment shall have effect in relation to the rights of a third party as if it were made by the first mentioned spouse); or
+
+(ii) carry out such essential repairs to the furniture and plenishings as the first mentioned spouse is entitled to carry out;
+
+(b) the court, on the application of either spouse, may, having regard in particular to the respective financial circumstances of the spouses, make an order apportioning expenditure incurred or to be incurred by either spouse—
+
+(i) without the consent of the other spouse, in making payments under a hire, hire-purchase or conditional sale agreement, or in paying interest charges in respect of the furniture and plenishings, or in carrying out essential repairs to the furniture and plenishings; or
+
+(ii) with the consent of the other spouse, on anything relating to the furniture and plenishings.
+
+(6) An order under subsection (3), (4)(b) or (5)(b) above may require one spouse to make a payment to the other spouse in implementation of the apportionment.
+
+(7) Any application under subsection (3), (4)(b) or (5)(b) above shall be made within five years of the date on which any payment in respect of such incurred expenditure was made.
+
+(8) Where—
+
+(a) the entitled spouse is a tenant of a matrimonial home; and
+
+(b) possession thereof is necessary in order to continue the tenancy; and
+
+(c) the entitled spouse abandons such possession,
+
+the tenancy shall be continued by such possession by the non-entitled spouse.
+
+[[^F5](8A) In subsection (1)(a), “secured loan” includes secured obligation (construed in accordance with section 43(1) of the Moveable Transactions (Scotland) Act 2023).]
+
+(9) In this section “improvements” includes alterations and enlargement.
+
+### 3 Regulation by court of rights of occupancy of matrimonial home.
+
+(1) [[^F6]Subject to section 1(7) of this Act,] Where there is an entitled and a non-entitled spouse, or where both spouses are entitled, or permitted by a third party, to occupy a matrimonial home, either spouse may apply to the court for an order—
+
+(a) declaring the occupancy rights of the applicant spouse;
+
+(b) enforcing the occupancy rights of the applicant spouse;
+
+(c) restricting the occupancy rights of the non-applicant spouse;
+
+(d) regulating the exercise by either spouse of his or her occupancy rights;
+
+(e) protecting the occupancy rights of the applicant spouse in relation to the other spouse.
+
+(2) Where one spouse owns or hires, or is acquiring under a hire-purchase or conditional sale agreement, furniture and plenishings in a matrimonial home, the other spouse, if he or she has occupancy rights in that home, may apply to the court for an order granting to the applicant the possession or use in the matrimonial home of any such furniture and plenishings; but, subject to section 2 of this Act, an order under this subsection shall not prejudice the rights of any third party in relation to the non-performance of any obligation under such hire-purchase or conditional sale agreement [[^F7]or the rights of any secured creditor in relation to the non-performance of a secured obligation.]
+
+(3) The court shall grant an application under subsection (1) (a) above if it appears to the court that the application relates to a matrimonial home; and, on an application under any of paragraphs (b) to (e) of subsection (1) or under subsection (2) above, the court may make such order relating to the application as appears to it to be just and reasonable having regard to all the circumstances of the case including—
+
+(a) the conduct of the spouses in relation to each other and otherwise;
+
+(b) the respective needs and financial resources of the spouses;
+
+(c) the needs of any child of the family;
+
+(d) the extent (if any) to which—
+
+(i) the matrimonial home; and
+
+(ii) in relation only to an order under subsection (2) above, any item of furniture and plenishings referred to in that subsection,
+
+is used in connection with a trade, business or profession of either spouse; and
+
+(e) whether the entitled spouse offers or has offered to make available to the non-entitled spouse any suitable alternative accommodation.
+
+(4) Pending the making of an order under subsection (3) above, the court, on the application of either spouse, may make such interim order as it may consider necessary or expedient in relation to—
+
+(a) the residence of either spouse in the home to which the application relates;
+
+(b) the personal effects of either spouse or of any child of the family; or
+
+(c) the furniture and plenishings:
+
+Provided that an interim order may be made only if the non-applicant spouse has been afforded an opportunity of being heard by or represented before the court.
+
+(5) The court shall not make an order under subsection (3) or (4) above if it appears that the effect of the order would be to exclude the non-applicant spouse from the matrimonial home.
+
+(6) If the court makes an order under subsection (3) or (4) above which requires the delivery to one spouse of anything which has been left in or removed from the matrimonial home, it may also grant a warrant authorising a messenger-at-arms or sheriff officer to enter the matrimonial home or other premises occupied by the other spouse and to search for and take possession of the thing required to be delivered, if need be by opening shut and lockfast places, and to deliver the thing in accordance with the said order:
+
+Provided that a warrant granted under this subsection shall be executed only after expiry of the period of a charge, being such period as the court shall specify in the order for delivery.
+
+(7) Where it appears to the court—
+
+(a) on the application of a non-entitled spouse, that that spouse has suffered a loss of occupancy rights or that the quality of the non-entitled spouse’s occupation of a matrimonial home has been impaired; or
+
+(b) on the application of a spouse who has been given the possession or use of furniture and plenishings by virtue of an order under subsection (3) above, that the applicant has suffered a loss of such possession or use or that the quality of the applicant’s possession or use of the furniture and plenishings has been impaired,
+
+in consequence of any act or default on the part of the other spouse which was intended to result in such loss or impairment, it may order that other spouse to pay to the applicant such compensation as the court in the circumstances considers just and reasonable in respect of that loss or impairment.
+
+(8) A spouse may renounce in writing the right to apply under subsection (2) above for the possession or use of any item of furniture and plenishings.
+
+[[^F8](9) In subsection (2)—
+
+- “secured creditor” has the meaning given by section 113(1) of the Moveable Transactions (Scotland) Act 2023, and
+- “secured obligation” is to be construed in accordance with section 43(1) of the Moveable Transactions (Scotland) Act 2023.]
+
+### 4 Exclusion orders.
+
+(1) Where there is an entitled and non-entitled spouse, or where both spouses are entitled, or permitted by a third party, to occupy a matrimonial home, either spouse [[^F9]whether or not that spouse is in occupation at the time of the application] may apply to the court for an order (in this Act referred to as “an exclusion order”) suspending the occupancy rights of the other spouse (“the non-applicant spouse”) in a matrimonial home.
+
+(2) Subject to subsection (3) below, the court shall make an exclusion order if it appears to the court that the making of the order is necessary for the protection of the applicant or any child of the family from any conduct or threatened or reasonably apprehended conduct of the non-applicant spouse which is or would be injurious to the physical or mental health of the applicant or child.
+
+(3) The court shall not make an exclusion order if it appears to the court that the making of the order would be unjustified or unreasonable—
+
+(a) having regard to all the circumstances of the case including the matters specified in paragraphs (a) to (e) of section 3(3) of this Act; and
+
+(b) where the matrimonial home—
+
+(i) is or is part of an agricultural holding within the meaning of section 1 of the [^M1]Agricultural Holdings (Scotland) Act 1949; or
+
+(ii) is let, or is a home in respect of which possession is given, to the non-applicant spouse or to both spouses by an employer as an incident of employment,
+
+subject to a requirement that the non-applicant spouse or, as the case may be, both spouses must reside in the matrimonial home, having regard to that requirement and the likely consequences of the exclusion of the non-applicant spouse from the matrimonial home.
+
+(4) In making an exclusion order the court shall, on the application of the applicant spouse,—
+
+(a) grant a warrant for the summary ejection of the non-applicant spouse from the matrimonial home;
+
+(b) grant an interdict prohibiting the non-applicant spouse from entering the matrimonial home without the express permission of the applicant;
+
+(c) grant an interdict prohibiting the removal by the non-applicant spouse, except with the written consent of the applicant or by a further order of the court, of any furniture and plenishings in the matrimonial home;
+
+unless, in relation to paragraph (a) or (c) above, the non-applicant spouse satisfies the court that it is unnecessary for it to grant such a remedy.
+
+(5) In making an exclusion order the court may—
+
+(a) grant an interdict prohibiting the non-applicant spouse from entering or remaining in a specified area in the vicinity of the matrimonial home;
+
+(b) where the warrant for the summary ejection of the non-applicant spouse has been granted in his or her absence, give directions as to the preservation of the non-applicant spouse’s goods and effects which remain in the matrimonial home;
+
+(c) on the application of either spouse, make the exclusion order or the warrant or interdict mentioned in paragraph (a), (b) or (c) of subsection (4) above or paragraph (a) of this subsection subject to such terms and conditions as the court may prescribe;
+
+(d) on application as aforesaid, make such other order as it may consider necessary for the proper enforcement of an order made under subsection (4) above or paragraph (a), (b) or (c) of this subsection.
+
+(6) Pending the making of an exclusion order, the court may, on the application of the applicant spouse, make an interim order suspending the occupancy rights of the non-applicant spouse in the matrimonial home to which the application for the exclusion order relates; and subsections (4) and (5) above shall apply to such interim order as they apply to an exclusion order:
+
+Provided that an interim order may be made only if the non-applicant spouse has been afforded an opportunity of being heard by or represented before the court.
+
+(7) Without prejudice to subsections (1) and (6) above, where both spouses are entitled, or permitted by a third party, to occupy a matrimonial home, it shall be incompetent for one spouse to bring an action of ejection from the matrimonial home against the other spouse.
+
+### 5 Duration of orders under ss. 3 and 4.
+
+(1) The court may, on the application of either spouse, vary or recall any order made by it under section 3 or 4 of this Act, but, subject to subsection (2) below, any such order shall, unless previously so varied or recalled, cease to have effect—
+
+(a) on the termination of the marriage; or
+
+(b) subject to section 6(1) of this Act, where there is an entitled and non-entitled spouse, on the entitled spouse ceasing to be an entitled spouse in respect of the matrimonial home to which the order relates; or
+
+(c) where both spouses are entitled, or permitted by a third party, to occupy the matrimonial home, on both spouses ceasing to be so entitled or permitted.
+
+(2) Without prejudice to the generality of subsection (1) above, an order under section 3(3) or (4) of this Act which grants the possession or use of furniture and plenishings shall cease to have effect if the furniture and plenishings cease to be permitted by a third party to be retained in the matrimonial home.
+
+## Occupancy rights in relation to dealings with third parties
+
+### 6 Continued exercise of occupancy rights after dealing.
+
+(1) Subject to subsection (3) below—
+
+(a) the continued exercise of the rights conferred on a non-entitled spouse by the provisions of this Act in respect of a matrimonial home shall not be prejudiced by reason only of any dealing of the entitled spouse relating to that home; and
+
+(b) a third party shall not by reason only of such a dealing be entitled to occupy that matrimonial home or any part of it.
+
+[[^F10](1A) The occupancy rights of a non-entitled spouse in relation to a matrimonial home shall not be exercisable in relation to the home where, following a dealing of the entitled spouse relating to the home—
+
+(a) a person acquires the home, or an interest in it, in good faith and for value from a person other than the person who is or, as the case may be, was the entitled spouse; or
+
+(b) a person derives title to the home from a person who acquired title as mentioned in paragraph (a).]
+
+(2) In this section and section 7 of this Act—
+
+- “dealing” includes the grant of a heritable security [[^F11], the grant of a statutory pledge] and the creation of a trust but does not include a conveyance under section 80 of the [^M2]Lands Clauses Consolidation (Scotland) Act 1845;
+
+- “entitled spouse” does not include a spouse who, apart from the provisions of this Act,—
+
+  - (a) is permitted by a third party to occupy a matrimonial home; or
+  - (b) is entitled to occupy a matrimonial home along with an individual who is not the other spouse, whether or not that individual has waived his or her right of occupation in favour of the spouse so entitled;
+
+  and “non-entitled spouse” shall be construed accordingly.
+
+(3) This section shall not apply in any case where—
+
+(a) the non-entitled spouse in writing either—
+
+(i) consents or has consented to the dealing, and any consent shall be in such form as the Secretary of State may, by regulations made by statutory instrument, prescribe; or
+
+(ii) renounces or has renounced his or her occupancy rights in relation to the matrimonial home or property to which the dealing relates;
+
+(b) the court has made an order under section 7 of this Act dispensing with the consent of the non-entitled spouse to the dealing;
+
+(c) the dealing occurred, or implements, a binding obligation entered into by the entitled spouse before his or her marriage to the non-entitled spouse;
+
+(d) the dealing occurred, or implements, a binding obligation entered into before the commencement of this Act; . . . [^F12]
+
+(e) the dealing comprises [[^F13]a [[^F14]transfer for value] to] a third party who has acted in good faith, if . . . [^F15] there is produced to the third party by the [[^F16]transferor—
+
+(i) a written declaration signed by the transferor, or a person acting on behalf of the transferor under a power of attorney or as a guardian (within the meaning of the Adults with Incapacity (Scotland) Act 2000 (asp 4)), that the subjects of the transfer are not, or were not at the time of the dealing, a matrimonial home in relation to which a spouse of the transferor has or had occupancy rights; or
+
+(ii) a renunciation of occupancy rights or consent to the dealing which bears to have been properly made or given by the non-entitled spouse or a person acting on behalf of the non-entitled spouse under a power of attorney or as a guardian (within the meaning of the Adults with Incapacity (Scotland) Act 2000 (asp 4)).]
+
+[[^F17](f) the entitled spouse has permanently ceased to be entitled to occupy the matrimonial home, and at any time thereafter a continuous period of [[^F18]2] years has elapsed during which the non-entitled spouse has not occupied the matrimonial home.]
+
+(4) The Land Registration (Scotland) Act 1979 [^M3]shall be amended as follows—
+
+(a) in section 6(4)—
+
+(i) after the words “the interest of” there shall be inserted “(i)”; and
+
+(ii) after the words “is not a long lease” there shall be inserted—
+
+> and
+>
+> (ii) a non-entitled spouse within the meaning of section 6 of the Matrimonial Homes (Family Protection) (Scotland) Act 1981.
+
+;
+
+(b) in paragraph (*b*) section 9(4)—
+
+(i) after the words “the interest of” there shall be inserted “(i)”; and
+
+(ii) after the words “is not a long lease” there shall be inserted—
+
+> and
+>
+> (ii) a non-entitled spouse within the meaning of section 6 of the Matrimonial Homes (Family Protection) (Scotland) Act 1981.
+
+; and
+
+(c) in section 28 in the definition of overriding interest after paragraph (*g*) there shall be inserted the following—
+
+> - (gg) the non-entitled spouse within the meaning of section 6 of the Matrimonial Homes (Family Protection) (Scotland) Act 1981;
+
+.
+
+### 7 Dispensation by court with spouse’s consent to dealing.
+
+(1) [[^F19]Subject to subsections (1A) to (1D) below,] The court may, on the application of an entitled spouse or any other person having an interest, make an order dispensing with the consent of a non-entitled spouse to a dealing which has taken place or a proposed dealing, if—
+
+(a) such consent is unreasonably withheld;
+
+(b) such consent cannot be given by reason of physical or mental disability;
+
+(c) the non-entitled spouse cannot be found after reasonable steps have been taken to trace him or her; or
+
+(d) the non-entitled spouse is [[^F20]under legal disability by reason of nonage].
+
+[[^F21](1A) Subsection (1B) applies if, in relation to a proposed sale—
+
+(a) negotiations with a third party have not begun; or
+
+(b) negotiations have begun but a price has not been agreed.
+
+(1B) An order under subsection (1) dispensing with consent may be made only if—
+
+(a) the price agreed for the sale is no less than such amount as the court specifies in the order; and
+
+(b) the contract for the sale is concluded before the expiry of such period as may be so specified.
+
+(1C) Subsection (1D) applies if the proposed dealing is the grant of a heritable security.
+
+(1D) An order under subsection (1) dispensing with consent may be made only if—
+
+(a) the heritable security is granted for a loan of no more than such amount as the court specifies in the order; and
+
+(b) the security is executed before the expiry of such period as may be so specified.]
+
+(2) For the purposes of subsection (1)(a) above, a non-entitled spouse shall have unreasonably withheld consent to a dealing which has taken place or a proposed dealing, where it appears to the court—
+
+(a) that the non-entitled spouse has led the entitled spouse to believe that he or she would consent to the dealing and that the non-entitled spouse would not be prejudiced by any change in the circumstances of the case since such apparent consent was given; or
+
+(b) that the entitled spouse has, having taken all reasonable steps to do so, been unable to obtain an answer to a request for consent.
+
+(3) The court, in considering whether to make an order under subsection (1) above, shall have regard to all the circumstances of the case including the matters specified in paragraphs (a) to (e) of section 3(3) of this Act.
+
+[[^F22](3A) If the court refuses an application for an order under subsection (1), it may make an order requiring a non-entitled spouse who is or becomes the occupier of the matrimonial home—
+
+(a) to make such payments to the owner of the home in respect of that spouse's occupation of it as may be specified in the order;
+
+(b) to comply with such other conditions relating to that spouse's occupation of the matrimonial home as may be so specified.]
+
+(4) Where—
+
+(a) an application is made for an order under this section; and
+
+(b) an action is or has been raised by a non-entitled spouse to enforce occupancy rights,
+
+the action shall be sisted until the conclusion of the proceedings on the application.
+
+(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F23]
+
+### 8 [[^F24]Interests of creditors]
+
+(1) The rights of a third party with an interest in the matrimonial home as a creditor under a secured loan in relation to the non-performance of any obligation under the loan shall not be prejudiced by reason only of the occupancy rights of the non-entitled spouse; but where a non-entitled spouse has or obtains occupation of a matrimonial home and—
+
+(a) the entitled spouse is not in occupation; and
+
+(b) there is a third party with such an interest in the matrimonial home,
+
+the court may, on the application of the third party, make an order requiring the non-entitled spouse to make any payment due by the entitled spouse in respect of the loan.
+
+(2) This section shall not apply [[^F25]to secured loans in respect of which the security was granted prior to the commencement of section 13 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985] unless the third party in granting the secured loan acted in good faith and . . . [^F26] there was produced to the third party by the entitled spouse—
+
+(a) [[^F27]a written declaration signed] by the entitled spouse declaring that there is no non-entitled spouse; or
+
+(b) a renunciation of occupancy rights or consent to the taking of the loan which bears to have been properly made or given by the non-entitled spouse.
+
+[[^F28] 2A This section shall not apply to secured loans in respect of which the security was granted after the commencement of section 13 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 unless the third party in granting the secured loan acted in good faith and . . . [^F29] there was produced to the third party by the grantor—
+
+(a) [[^F30]a written declaration signed] by the grantor declaring that the security subjects are not [[^F31]or were not at the time of the granting of the security] a matrimonial home in relation to which a spouse of the grantor has [[^F32]or had] occupancy rights; or
+
+(b) a renunciation of occupancy rights or consent to the granting of the security which bears to have been properly made or given by the non-entitled spouse.
+
+(2B) for the purposes of subsections (2) and (2A) above, the time of granting a security, in the case of a heritable security, is the date of delivery of the deed creating the security.]
+
+[[^F33](2C) For the purposes of subsection (2A) above, the time of granting a security, in the case of a statutory pledge, is—
+
+(a) the date of delivery of the constitutive document of the statutory pledge, or
+
+(b) where the statutory pledge is granted in an amendment document, the date of delivery of that document.]
+
+### 9 Provisions where both spouses have title.
+
+(1) Subject to subsection (2) below, where, apart from the provisions of this Act, both spouses are entitled to occupy a matrimonial home—
+
+(a) the rights in that home of one spouse shall not be prejudiced by reason only of any dealing of the other spouse; and
+
+(b) a third party shall not by reason only of such a dealing be entitled to occupy that matrimonial home or any part of it.
+
+(2) The definition of “dealing” in section 6(2) of this Act and sections 6(3) and 7 of this Act shall apply for the purposes of subsection (1) above as they apply for the purposes of section 6(1) of this Act subject to the following modifications—
+
+(a) any reference to the entitled spouse and to the non-entitled spouse shall be construed as a reference to a spouse who has entered into or, as the case may be, proposes to enter into a dealing and to the other spouse respectively; and
+
+(b) in paragraph (b) of section 7(4) the reference to occupancy rights shall be construed as a reference to any rights in the matrimonial home.
+
+## [[^F34]Reckoning of non-cohabitation periods in sections 1 and 6
+
+### 9A Effect of court action under section 3, 4 or 5 on reckoning of periods in sections 1 and 6
+
+(1) Subsection (2) applies where an application is made under section 3(1), 4(1) or 5(1) of this Act.
+
+(2) In calculating the period of two years mentioned in section 1(7)(a) or 6(3)(f) of this Act, no account shall be taken of the period mentioned in subsection (3) below.
+
+(3) The period is the period beginning with the date on which the application is made and—
+
+(a) in the case of an application under section 3(1) or 4(1) of this Act, ending on the date on which—
+
+(i) an order under section 3(3) or, as the case may be, 4(2) of this Act is made; or
+
+(ii) the application is otherwise finally determined or abandoned;
+
+(b) in the case of an application under section 5(1) of this Act, ending on the date on which—
+
+(i) the order under section 3(3) or, as the case may be, 4(2) is varied or recalled; or
+
+(ii) the application is otherwise finally determined or abandoned.]
+
+## Protection of rights of spouse against arrangements intended to defeat them
+
+### 10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F35]
+
+### 11 Poinding.
+
+- Where [[^F36]an attachment][^F36] has been executed of furniture and plenishings of which the debtor’s spouse has the possession or use by virtue of an order under section 3(3) or (4) of this Act, the sheriff, on the application of that spouse within 40 days of the date of execution of [[^F37]the attachment][^F37] , may—
+
+  - (a) declare that [[^F37]the attachment][^F37] is null; or
+  - (b) make such order as he thinks appropriate to protect such possession or use by that spouse,
+
+  if he is satisfied that the purpose of the diligence was wholly or mainly to prevent such possession or use.
+
+### 12 Adjudication.
+
+(1) Where a matrimonial home of which there is an entitled spouse and a non-entitled spouse is adjudged, the Court of Session, on the application of the non-entitled spouse within 40 days of the date of the decree of adjudication, may—
+
+(a) order the reduction of the decree; or
+
+(b) make such order as it thinks appropriate to protect the occupancy rights of the non-entitled spouse,
+
+if it is satisfied that the purpose of the diligence was wholly or mainly to defeat the occupancy rights of the non-entitled spouse.
+
+(2) In this section, “entitled spouse” and “non-entitled spouse” have the same meanings respectively as in section 6(2) of this Act.
+
+## Transfer of tenancy
+
+### 13 Transfer of tenancy.
+
+(1) The court may, on the application of a non-entitled spouse, make an order transferring the tenancy of a matrimonial home to that spouse and providing, subject to subsection (11) below, for the payment by the non-entitled spouse to the entitled spouse of such compensation as seems just and reasonable in all the circumstances of the case.
+
+[[^F38](2) In an action—
+
+(a) for divorce, the Court of Session or a sheriff;
+
+(b) for nullity of marriage, the Court of Session,
+
+may, on granting decree or within such period as the court may specify on granting decree, make an order granting an application under subsection (1) above.]
+
+(3) In determining whether to grant an application under subsection (1) above, the court shall have regard to all the circumstances of the case including the matters specified in paragraphs (a) to (e) of section 3(3) of this Act and the suitability of the applicant to become the tenant and the applicant’s capacity to perform the obligations under the lease of the matrimonial home.
+
+(4) The non-entitled spouse shall serve a copy of an application under subsection (1) above on the landlord and, before making an order under subsection (1) above, the court shall give the landlord an opportunity of being heard by it.
+
+(5) On the making of an order granting an application under subsection (1) above, the tenancy shall vest in the non-entitled spouse without intimation to the landlord, subject to all the liabilities under the lease (other than any arrears of rent for the period before the making of the order, which shall remain the liability of the original entitled spouse).
+
+(6) The clerk of court shall notify the landlord of the making of an order granting an application under subsection (1) above.
+
+(7) It shall not be competent for a non-entitled spouse to apply for an order under subsection (1) above where the matrimonial home—
+
+(a) is let to the entitled spouse by his or her employer as an incident of employment, and the lease is subject to a requirement that the entitled spouse must reside therein;
+
+[[^F39](b) is on or pertains to land comprised in an agricultural lease;]
+
+(c) is on or pertains to a croft or the subject of a cottar or the holding of a landholder or a statutory small tenant;
+
+(d) is let on a long lease;
+
+(e) is part of the tenancy land of a tenant-at-will.
+
+(8) In subsection (6) above—
+
+- [[^F40] “ agricultural lease ” means a lease constituting a 1991 Act tenancy within the meaning of the Agricultural Holdings (Scotland) Act 2003 (asp 11) or a lease constituting a limited duration tenancy [[^F41], a short limited duration tenancy, a modern limited duration tenancy or a repairing tenancy] (within the meaning of that Act); ]
+- “cottar” has the same meaning as in section 28(4) of the [^M4]Crofters (Scotland) Act 1955;
+- “croft” has the same meaning as in the Crofters (Scotland) Act 1955;
+- “holding”, in relation to a landholder and a statutory small tenant, “landholder” and “statutory small tenant” have the same meanings respectively as in sections 2(1), 2(2) and 32(1) of the [^M5]Small Landholders (Scotland) Act 1911;
+- “long lease” has the same meaning as in [[^F42]section 9(2) of the Land Registration etc. (Scotland) Act 2012 (asp 5)];
+- “tenant-at-will” has the same meaning as in section 20(8) of the Land Registration (Scotland) Act 1979.
+
+(9) Where both spouses are joint or common tenants of a matrimonial home, the court may, on the application of one of the spouses, make an order vesting the tenancy in that spouse solely and providing, subject to subsection (11) below, for the payment by the applicant to the other spouse of such compensation as seems just and reasonable in the circumstances of the case.
+
+(10) Subsections (2) to (8) above shall apply for the purposes of an order under subsection (9) above as they apply for the purposes of an order under subsection (1) above subject to the following modifications—
+
+(a) in subsection (3) for the word “tenant” there shall be substituted the words “sole tenant”;
+
+(b) in subsection (4) for the words “non-entitled” there should be substituted the word “applicant”;
+
+(c) in subsection (5) for the words “non-entitled” and “liability of the original entitled spouse” there shall be substituted respectively the words “applicant” and “joint and several liability of both spouses”;
+
+(d) in subsection (7)—
+
+(i) for the words “a non-entitled” there shall be substituted the words “an applicant”;
+
+(ii) for paragraph (a) there shall be substituted the following paragraph—
+
+“(a) is let to both spouses by their employer as an incident of employment, and the lease is subject to a requirement that both spouses must reside there;”;
+
+(iii) paragraphs (c) and (e) shall be omitted.
+
+[^F43]11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12) In the Tenants’ Rights, Etc. (Scotland) Act 1980 [^M6]—
+
+(a) paragraph 6 of Part I of Schedule 2 is repealed; and
+
+(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F44]
+
+## Matrimonial interdicts
+
+### 14 Interdict competent where spouses live together.
+
+(1) It shall not be incompetent for the court to entertain an application by a spouse for a matrimonial interdict by reason only that the spouses are living together as man and wife.
+
+(2) In this section [^F45]... of this Act—
+
+- “matrimonial interdict” means an interdict including an interim interdict which—
+
+(a) restrains or prohibits any conduct of one spouse towards the other spouse or a child of the family, or
+
+[[^F46](b) subject to subsection (3), prohibits a spouse from entering or remaining in—
+
+(i) a matrimonial home;
+
+(ii) any other residence occupied by the applicant spouse;
+
+(iii) any place of work of the applicant spouse;
+
+(iv) any school attended by a child in the permanent or temporary care of the applicant spouse.]
+
+[[^F47](3) Subsection (4) applies if in relation to a matrimonial home the non-applicant spouse—
+
+(a) is an entitled spouse; or
+
+(b) has occupancy rights.
+
+(4) Except where subsection (5) applies, the court may not grant a matrimonial interdict prohibiting the non-applicant spouse from entering or remaining in the matrimonial home.
+
+(5) This subsection applies if—
+
+(a) the interdict is ancillary to an exclusion order; or
+
+(b) by virtue of section 1(3), the court refuses leave to exercise occupancy rights.
+
+(6) In this section [^F48]..., “ applicant spouse ” means the spouse who has applied for the interdict; and “ non-applicant spouse ” shall be construed accordingly. ]
+
+### [^F49]15 Attachment of powers of arrest to matrimonial interdicts.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F49]16 Police powers after arrest.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F49]17 Procedure after arrest.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Cohabiting couples
+
+### 18 Occupancy rights of cohabiting couples.
+
+(1) If a man and a woman are living with each other as if they were man and wife[[^F50]or two persons of the same sex are living together as if they were civil partners] (“[[^F51]in either case]a cohabiting couple”) in a house which, apart from the provisions of this section—
+
+(a) one of them (an “entitled partner”) is entitled, or permitted by a third party, to occupy; and
+
+(b) the other (a “non-entitled partner”) is not so entitled or permitted to occupy,
+
+the court may, on the application of the non-entitled partner, if it appears that the [[^F52]entitled partner and the non-entitled partner] are a cohabiting couple in that house, grant occupancy rights therein to the applicant for such period, not exceeding [[^F53]6] months, as the court may specify:
+
+Provided that the court may extend the said period for a further period or periods, no such period exceeding 6 months.
+
+(2) In determining whether for the purpose of subsection (1) above [[^F54]two persons] are a cohabiting couple the court shall have regard to all the circumstances of the case including—
+
+(a) the time for which it appears they have been living together; and
+
+(b) whether there [[^F55]is any child—
+
+(i) of whom they are the parents; or
+
+(ii) who they have treated as a child of theirs.]
+
+(3) While an order granting an application under subsection (1) above or an extension of such an order is in force, or where both partners of a cohabiting couple are entitled, or permitted by a third party, to occupy the house where they are cohabiting, the following provisions of this Act shall subject to any necessary modifications—
+
+(a) apply to the cohabiting couple as they apply to parties to a marriage;
+
+and
+
+(b) have effect in relation to any child residing with the cohabiting couple as they have effect in relation to a child of the family,
+
+- section 2;
+- section 3, except subsection (1)(a);
+- section 4;
+- in section 5(1), the words from the beginning to “Act” where it first occurs;
+- [[^F56]section 13]
+- and
+- section 22,
+
+and any reference in these provisions to a matrimonial home shall be construed as a reference to a house.
+
+(4) Any order under section 3 or 4 of this Act as applied to a cohabiting couple by subsection (3) above shall have effect—
+
+(a) if one of them is a non-entitled partner, for such a period, not exceeding the period or periods which from time to time may be specified in any order under subsection (1) above for which occupancy rights have been granted under that subsection, as may be specified in the order;
+
+(b) if they are both entitled, or permitted by a third party, to occupy the house, until a further order of the court.
+
+(5) Nothing in this section shall prejudice the rights of any third party having an interest in the house referred to in subsection (1) above.
+
+(6) In this section—
+
+- “house” includes a caravan, houseboat or other structure in which the couple are cohabiting and any garden or other ground or building attached to, and usually occupied with, or otherwise required for the amenity or convenience of, the house, caravan, houseboat or other structure;
+- “occupancy rights” means the following rights of a non-entitled partner—
+
+(a) if in occupation, a right [[^F57]to continue to occupy the house;]
+
+(b) if not in occupation, a right to enter into and occupy the house [[^F58]and, without prejudice to the generality of these rights, includes the right to continue to occupy or, as the case may be, to enter and occupy the house together with any child residing with the cohabiting couple];
+
+“entitled partner” includes a partner who is entitled, or permitted by a third party, to occupy the house along with an individual who is not the other partner only if that individual has waived his or her right of occupation in favour of the partner so entitled or permitted.
+
+## [[^F59]Domestic interdicts
+
+### 18A Meaning of “domestic interdict”
+
+(1) In section 18B, “ domestic interdict ” means—
+
+(a) an interdict granted on the application of a person (“A”) who is (or was) living with another person (“B”) as if they were husband and wife against B for any of the purposes mentioned in subsection (2); or
+
+(b) an interdict granted on the application of a person (“C”) who is (or was) living with another person (“D”) as if they were civil partners against D for any of the purposes mentioned in subsection (2).
+
+(2) Those purposes are—
+
+(a) restraining or prohibiting such conduct of the defender towards—
+
+(i) the pursuer; or
+
+(ii) any child in the permanent or temporary care of the pursuer,
+
+as the court may specify;
+
+(b) prohibiting the defender from entering or remaining in—
+
+(i) a family home occupied by the pursuer and the defender;
+
+(ii) any other residence occupied by the pursuer;
+
+(iii) any place of work of the pursuer;
+
+(iv) any school attended by a child in the permanent or temporary care of the pursuer.
+
+(3) In this section and in section 18B—
+
+- “ family home ” means, subject to subsection (4), any house, caravan, houseboat or other structure which has been provided or has been made available by the pursuer or the defender (or both of them) as (or has become) a family residence for them and includes any garden or other ground or building usually occupied with, or otherwise required for the amenity or convenience of, the house, caravan, houseboat or other structure; but does not include a residence provided or made available by any person for the pursuer or, as the case may be, the defender to reside in (whether or not with any child of the pursuer and the defender) separately from the defender or, as the case may be, the pursuer; and
+- “ interdict ” includes interim interdict.
+
+(4) If the tenancy of a family home is transferred from a pursuer to a defender (or, as the case may be, from a defender to a pursuer) by agreement or under any enactment, the home shall, on such transfer, cease to be a family home.
+
+(5) In subsection (3), “ child of the pursuer and the defender ” includes any child or grandchild of the pursuer or the defender, and any person who has been brought up or treated by the pursuer or the defender as if the person were a child of the pursuer or, as the case may be, the defender, whatever the age of such a child, grandchild or person.
+
+### 18B Domestic interdicts: further provision
+
+(1) Subsection (2) applies if the defender—
+
+(a) is entitled to occupy a family home;
+
+(b) is permitted by a third party to occupy it; or
+
+(c) has, by virtue of section 18(1), occupancy rights in it.
+
+(2) Except where subsection (3) applies, the court may not grant a domestic interdict prohibiting the defender from entering or remaining in the family home.
+
+(3) This subsection applies if—
+
+(a) the interdict is ancillary to an exclusion order; or
+
+(b) an order under section 18(1) granting or extending occupancy rights is recalled.]
+
+## Miscellaneous and General
+
+### 19 Rights of occupancy in relation to division and sale.
+
+Where a spouse brings an action for the division and sale of a matrimonial home which the spouses own in common, the court, after having regard to all the circumstances of the case including—
+
+(a) the matters specified in paragraphs (a) to (d) of section 3(3) of this Act; and
+
+(b) whether the spouse bringing the action offers or has offered to make available to the other spouse any suitable alternative accommodation,
+
+may refuse to grant decree in that action or may postpone the granting of decree for such period as it may consider reasonable in the circumstances or may grant decree subject to such conditions as it may prescribe.
+
+### 20 Spouse’s consent in relation to calling up of standard securities over matrimonial homes.
+
+Section 19(10) of the Conveyancing and Feudal Reform (Scotland) Act 1970 [^M7]shall have effect as if at the end there were added the following proviso—
+
+> Provided that, without prejudice to the foregoing generality, if the standard security is over a matrimonial home as defined in section 22 of the Matrimonial Homes (Family Protection) (Scotland) Act 1981, the spouse on whom the calling-up notice has been served may not dispense with or shorten the said period without the consnt in writing of the other spouse.
+
+.
+
+### [^F60]21 Procedural provision
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22 Interpretation.
+
+[^F61]1 In this Act—
+
+- “caravan” means a caravan which is mobile or affixed to the land;
+
+- “child of the family” includes any child or grandchild of either spouse, and any person who has been brought up or [[^F62]treated] by either spouse as if he or she were a child of that spouse, whatever the age of such a child, grandchild or person may be;
+
+- “the court” means the Court of Session or the sheriff;
+
+- “furniture and plenishings” means any article situated in a matrimonial home which—
+
+  - (a) is owned or hired by either spouse or is being acquired by either spouse under a hire-purchase agreement or conditional sale agreement; and
+  - (b) is reasonably necessary to enable the home to be used as a family residence,
+
+  but does not include any vehicle, caravan or houseboat, or such other structure as is mentioned in the definition of “matrimonial home”;
+
+- “matrimonial home” means [[^F63]subject to subsection (2),]any house, caravan, houseboat or other structure which has been provided or has been made available by one or both of the spouses as, or has become, a family residence and includes any garden or other ground or building [^F64]... usually occupied with, or otherwise required for the amenity or convenience of, the house, caravan, houseboat or other structure; [[^F65]but does not include a residence provided or made available by [[^F66]a person for one] spouse to reside in, whether with any child of the family or not, separately from the other spouse.]
+
+- “occupancy rights” has, subject to section 18(6) of this Act, the meaning assigned by section 1(4) of this Act;
+
+- “the sheriff” includes the sheriff having jurisdiction in the district where the matrimonial home is situated;
+
+- “tenant” includes sub-tenant and a statutory tenant as defined in section 3 of the [[^F67]Rent (Scotland) Act 1984 and a statutory assured tenant as defined in section 16(1) of the Housing (Scotland) Act 1988] and “tenancy” shall be construed accordingly;
+
+- “entitled spouse” and “non-entitled spouse”, subject to sections 6(2) and 12(2) of this Act, have the meanings respectively assigned to them by section 1 of this Act.
+
+[[^F68](2) If—
+
+(a) the tenancy of a matrimonial home is transferred from one spouse to the other by agreement or under any enactment; and
+
+(b) following the transfer, the spouse to whom the tenancy was transferred occupies the home but the other spouse does not,
+
+the home shall, on such transfer, cease to be a matrimonial home.]
+
+### 23 Short title, commencement and extent.
+
+(1) This Act may be cited as the Matrimonial Homes (Family Protection) (Scotland) Act 1981.
+
+(2) This Act (except this section) shall come into operation on such day as the Secretary of State may by order made by statutory instrument appoint, and different days may be so appointed for different provisions and for different purposes.
+
+(3) This Act extends to Scotland only.
+
+---
+
+[^F1]: Words substituted by Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6), ss. 13(2), 60(6)
+[^F2]: By Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6), ss. 13(3), 60(6) it is provided that s. 1(1A) is inserted after s. 1.
+[^F3]: Words added by Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6), ss. 13(4), 60(6)
+[^F4]: S. 1(7) (8) added (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 5, 46(2); S.S.I. 2006/212, art. 2 (with art. 3)
+[^F5]: S. 2(8A) inserted (1.4.2025) by Moveable Transactions (Scotland) Act 2023 (asp 3), ss. 56(2), 121(2); S.S.I. 2024/378, reg. 2
+[^F6]: Words in s. 3(1) inserted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), s. 46(2), Sch. 2 para. 4(2); S.S.I. 2006/212, art. 2
+[^F7]: Words in s. 3(2) inserted (1.4.2025) by Moveable Transactions (Scotland) Act 2023 (asp 3), ss. 56(3), 121(2); S.S.I. 2024/378, reg. 2
+[^F8]: S. 3(9) inserted (1.4.2025) by Moveable Transactions (Scotland) Act 2023 (asp 3), ss. 56(4), 121(2); S.S.I. 2024/378, reg. 2
+[^F9]: Words inserted by Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6), ss. 13(5), 60(6)
+[^M1]: 1949 c. 75.
+[^F10]: S. 6(1A) inserted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 6(2), 46(2); S.S.I. 2006/212, art. 2 (with art. 3)
+[^F11]: Words in s. 6(2) inserted (1.4.2025) by Moveable Transactions (Scotland) Act 2023 (asp 3), ss. 56(6), 121(2); S.S.I. 2024/378, reg. 2
+[^M2]: 1845 c. 19.
+[^F12]: Word repealed by Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6), ss. 13(6)(*a*), 60(6)
+[^F13]: Words substituted by Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6), ss. 13(6)(*b*)(i), 60(6)
+[^F14]: Words in s. 6(3)(e) substituted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 6(3)(a)(i), 46(2); S.S.I. 2006/212, art. 2 (with art. 3)
+[^F15]: Words repealed by Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40, SIF 76:2, 68A:2), s. 74, Sch. 8 para. 31(1)(a), Sch. 9
+[^F16]: Words in s. 6(3)(e) substituted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 6(3)(a)(ii), 46(2); S.S.I. 2006/212, art. 2 (with art. 3)
+[^F17]: S. 6(3)(*f*) added by Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6), ss. 13(6)(*c*), 60(6)
+[^F18]: Word in s. 6(3)(f) substituted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 6(3)(b), 46(2); S.S.I. 2006/212, art. 2 (with art. 3)
+[^M3]: 1979 c. 33.
+[^F19]: Words in s. 7(1) inserted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 7(a), 46(2); S.S.I. 2006/212, art. 2
+[^F20]: Words in s. 7(1)(d) substituted by Age of Legal Capacity (Scotland) Act 1991 (c. 50, SIF 49:8), s. 10(1), Sch. 1 para. 37
+[^F21]: S. 7(1A)-(1D) inserted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 7(b), 46(2); S.S.I. 2006/212, art. 2
+[^F22]: S. 7(3A) inserted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 7(c), 46(2); S.S.I. 2006/212, art. 2
+[^F23]: S. 7(5) repealed by Family Law (Scotland) Act 1985 (c. 37, SIF 49:3), ss. 28(2), 29(4), Sch. 2
+[^F24]: S. 8 heading substituted (1.4.2025) by Moveable Transactions (Scotland) Act 2023 (asp 3), ss. 56(9), 121(2); S.S.I. 2024/378, reg. 2
+[^F25]: Words inserted by Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6), ss. 13(7), 60(6)
+[^F26]: Words repealed by Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40, SIF 76:2, 68A:2), s. 74, Sch. 8 para. 31(2)(a), Sch. 9
+[^F27]: Words in s. 8(2)(a) substituted (30.6.2006) by Family Law (Scotland) Act 2006 (Consequential Modifications) Order 2006 (S.S.I. 2006/384), arts. 1, 5
+[^F28]: S. 8(2A)(2B) inserted by Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6), ss. 13(8), 60(6)
+[^F29]: Words repealed by Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40, SIF 76:2, 68A:2), s. 74, Sch. 8 para. 31(2)(b)(i), Sch. 9
+[^F30]: Words in s. 8(2A)(a) substituted (30.6.2006) by Family Law (Scotland) Act 2006 (Consequential Modifications) Order 2006 (S.S.I. 2006/384), arts. 1, 5
+[^F31]: Words inserted by Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40, SIF 76:2, 68A:2), s. 74, Sch. 8 para. 31(2)(ii)
+[^F32]: Words inserted by Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40, SIF 76:2, 68A:2), s. 74, Sch. 8 para. 31(2)(iii)
+[^F33]: S. 8(2C) inserted (1.4.2025) by Moveable Transactions (Scotland) Act 2023 (asp 3), ss. 56(7), 121(2); S.S.I. 2024/378, reg. 2
+[^F34]: S. 9A and preceding cross-heading inserted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 8, 46(2); S.S.I. 2006/212, art. 2 (with art. 3)
+[^F35]: S. 10repealed by Bankruptcy (Scotland) Act 1985 (c. 66, SIF 66), ss. 75(2), 78(5), Sch. 8
+[^F36]: Words in s.11 substituted (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp. 17), ss. 61, 64(2), Sch. 3 Pt. 1 para. 13(a)
+[^F37]: Words in s. 11 substituted (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp. 17), ss. 61, 64(2), Sch. 3 Pt. 1 para. 13(b)
+[^F38]: S. 13(2) substituted by Family Law (Scotland) Act 1985 (c. 37, SIF 49:3), ss. 28(1), 29(4), Sch. 1 para. 11
+[^F39]: S. 13(7)(b) substituted (27.11.2003) by Agricultural Holdings (Scotland) Act 2003 (asp 11), s. 95(3)(4), Sch. para. 5(a) (with s. 95(2)); S.S.I. 2003/548, art. 2(i) (with Sch.)
+[^F40]: Words in s. 13(8) substituted (27.11.2003) by Agricultural Holdings (Scotland) Act 2003 (asp 11), s. 95(3)(4), Sch. para. 5(b) (with s. 95(2)); S.S.I. 2003/548, art. 2(i) (with Sch.)
+[^F41]: Words in s. 13(8) substituted (30.11.2017) by The Land Reform (Scotland) Act 2016 (Supplementary, Consequential, Transitory and Saving Provisions) Regulations 2017 (S.S.I. 2017/416), reg. 1(1), sch. 1 para. 4(2) (with sch. 2 para. 4)
+[^M4]: 1955 c. 21.
+[^M5]: 1911 c. 49.
+[^F42]: Words in s. 13(8) substituted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, Sch. 5 paras. 22 (with s. 121, Sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F43]: S. 13(11) repealed (1.8.2016) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 2 para. 2; S.S.I. 2014/264, art. 2, sch. (with art. 4)
+[^M6]: 1980 c. 52.
+[^F44]: S. 13(12)(*b*) repealed (*retrospectively*) by Tenants' Rights, Etc. (Scotland) Amendment Act 1984 (c. 18, SIF 61), ss. 8(2), 9(3), Sch.
+[^F45]: Words in s. 14(2) repealed (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), s. 46(2), Sch. 3; S.S.I. 2006/212, art. 2
+[^F46]: S. 14(2)(b) substituted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 10(2), 46(2); S.S.I. 2006/212, art. 2
+[^F47]: S. 14(3)-(6) added (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 10(3), 46(2); S.S.I. 2006/212, art. 2
+[^F48]: Words in s. 14(6) repealed (30.6.2006) by Family Law (Scotland) Act 2006 (Consequential Modifications) Order 2006 (S.S.I. 2006/384), arts. 1, 6
+[^F49]: Ss. 15-17 repealed (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), s. 46(2), Sch. 3; S.S.I. 2006/212, art. 2 (with art. 13); Word in s. 17(2) substituted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), s. 46(2), Sch. 2 para. 4(3); S.S.I. 2006/212, art. 2
+[^F50]: Words in s. 18(1) inserted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 34(2)(a), 46(2); S.S.I. 2006/212, art. 2
+[^F51]: Words in s. 18(1) inserted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 34(2)(b), 46(2); S.S.I. 2006/212, art. 2
+[^F52]: Words in s. 18(1) substituted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 34(2)(c), 46(2); S.S.I. 2006/212, art. 2
+[^F53]: By the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6), ss. 13(9)(*a*), 60(6)
+[^F54]: Words in s. 18(2) substituted (4.5.2006) by virtue of Family Law (Scotland) Act 2006 (asp 2), ss. 34(3)(a), 46(2); S.S.I. 2006/212, art. 2
+[^F55]: Words in s. 18(2)(b) substituted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 34(3)(b), 46(2); S.S.I. 2006/212, art. 2
+[^F56]: Words in s. 18(3) substituted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 31(2), 46(2); S.S.I. 2006/212, art. 2
+[^F57]: Words substituted by Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6), ss. 13(9)(*b*)(i), 60(6)
+[^F58]: Words inserted by Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6), ss. 13(9)(*b*)(ii), 60(6)
+[^F59]: Ss. 18A, 18B and preceding cross-heading inserted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 31(3), 46(2); S.S.I. 2006/212, art. 2
+[^M7]: 1970 c. 35.
+[^F60]: S. 21 repealed (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), s. 46(2), Sch. 3; S.S.I. 2006/212, art. 2
+[^F61]: S. 22(1): s. 22 renumbered as s. 22(1) (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 9, 46(2); S.S.I. 2006/212, art. 2
+[^F62]: Word in s. 22 substituted (1.11.1996) by 1995 c. 36, s. 105(4), Sch. 4 para. 30 (with s. 103(1)); S.I. 1996/2203, art. 3(3), Sch.
+[^F63]: Words in s. 22(1) inserted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 9(a)(i), 46(2); S.S.I. 2006/212, art. 2
+[^F64]: Words in s. 22(1) repealed (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), s. 46(2), Sch. 3; S.S.I. 2006/212, art. 2
+[^F65]: Words added by Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 49:6), ss. 13(10), 60(6)
+[^F66]: Words in s. 22(1) substituted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 9(a)(ii), 46(2); S.S.I. 2006/212, art. 2
+[^F67]: Words substituted by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72(2), Sch. 9 para. 3
+[^F68]: S. 22(2) inserted (4.5.2006) by Family Law (Scotland) Act 2006 (asp 2), ss. 9(b), 46(2); S.S.I. 2006/212, art. 2

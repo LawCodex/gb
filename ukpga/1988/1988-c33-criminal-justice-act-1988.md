@@ -1,0 +1,5255 @@
+---
+title: "Criminal Justice Act 1988"
+identifier: "ukpga/1988/33"
+citation: "1988 c. 33"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W"
+date: 1988-07-29
+last_amended: 2026-07-08
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1988/33"
+source_modified: 2026-07-31
+retrieved: 2026-10-11
+---
+
+# Criminal Justice Act 1988
+
+**1988 c. 33**
+
+An Act to make fresh provision for extradition; to amend the rules of evidence in criminal proceedings; to provide for the reference by the Attorney General of certain questions relating to sentencing to the Court of Appeal; to amend the law with regard to the jurisdiction and powers of criminal courts, the collection, enforcement and remission of fines imposed by coroners, juries, supervision orders, the detention of children and young persons, probation and the probation service, criminal appeals, anonymity in cases of rape and similar cases, orders under sections 4 and 11 of the Contempt of Court Act 1981 relating to trials on indictment, orders restricting the access of the public to the whole or any part of a trial on indictment or to any proceedings ancillary to such a trial and orders restricting the publication of any report of the whole or any part of a trial on indictment or any such ancillary proceedings, the alteration of names of petty sessions areas, officers of inner London magistrates’ courts and the costs and expenses of prosecution witnesses and certain other persons; to make fresh provision for the payment of compensation by the Criminal Injuries Compensation Board; to make provision for the payment of compensation for a miscarriage of justice which has resulted in a wrongful conviction; to create an offence of torture and an offence of having an article with a blade or point in a public place; to create further offences relating to weapons; to create a summary offence of possession of an indecent photograph of a child; to amend the Police and Criminal Evidence Act 1984 in relation to searches, computer data about fingerprints and bail for persons in customs detention; to make provision in relation to the taking of body samples by the police in Northern Ireland; to amend the Bail Act 1976; to give a justice of the peace power to authorise entry and search of premises for offensive weapons; to provide for the enforcement of the Video Recordings Act 1984 by officers of a weights and measures authority and in Northern Ireland by officers of the Department of Economic Development; to extend to the purchase of easements and other rights over land the power to purchase land conferred on the Secretary of State by section 36 of the Prison Act 1952; and for connected purposes.
+
+[29th July 1988]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — Extradition
+
+### Preliminary
+
+#### 1 Scope of Part I.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F1]
+
+### Suppression of terrorism
+
+#### 22 Suppression of terrorism.
+
+(1) Schedule 1 to the [^M1]Suppression of Terrorism Act 1978 shall be amended as follows.
+
+(2) The following sub-paragraph shall be inserted before paragraph 8(a)—
+
+> (za) section 4 (soliciting etc. to commit murder);
+
+.
+
+(3) The following shall be inserted after paragraph 9—
+
+> **9A**
+>
+> The offence of torture under section 134 of the Criminal Justice Act 1988.
+
+.
+
+(4) The following shall be inserted after paragraph 13—
+
+> **13A Nuclear material**
+>
+> An offence under any provision of the Nuclear Material (Offences) Act 1983.
+
+.
+
+(5) The following shall be added at the end—
+
+> **21 Conspiracy**
+>
+> An offence of conspiring to commit any offence mentioned in a preceding paragraph of this Schedule.
+
+.
+
+## [^F2][^F2]Part II — Documentary Evidence in Criminal Proceedings
+
+### 23 First-hand hearsay.
+
+(1) Subject—
+
+(a) to subsection (4) below; [[^F3]and]
+
+(b) to paragraph 1A of Schedule 2 to the [^M2]Criminal Appeal Act 1968 (evidence given orally at original trial to be given orally at retrial); [^F4]. . .
+
+[^F4]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+a statement made by a person in a document shall be admissible in criminal proceedings as evidence of any fact of which direct oral evidence by him would be admissible if—
+
+(i) the requirements of one of the paragraphs of subsection (2) below are satisfied; or
+
+(ii) the requirements of subsection (3) below are satisfied.
+
+(2) The requirements mentioned in subsection (1)(i) above are—
+
+(a) that the person who made the statement is dead or by reason of his bodily or mental condition unfit to attend as a witness;
+
+(b) that—
+
+(i) the person who made the statement is outside the United Kingdom; and
+
+(ii) it is not reasonably practicable to secure his attendance; or
+
+(c) that all reasonable steps have been taken to find the person who made the statement, but that he cannot be found.
+
+(3) The requirements mentioned in subsection (1)(ii) above are—
+
+(a) that the statement was made to a police officer or some other person charged with the duty of investigating offences or charging offenders; and
+
+(b) that the person who made it does not give oral evidence through fear or because he is kept out of the way.
+
+(4) Subsection (1) above does not render admissible a confession made by an accused person that would not be admissible under section 76 of the [^M3]Police and Criminal Evidence Act 1984.
+
+[^F5][^F6] [ 5 . . . ]
+
+### 24 Business etc. documents.
+
+(1) Subject—
+
+(a) to subsections (3) and (4) below; [[^F7]and]
+
+(b) to paragraph 1A of Schedule 2 to the [^M4]Criminal Appeal Act 1968; [^F8]. . .
+
+[^F8]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+a statement in a document shall be admissible in criminal proceedings as evidence of any fact of which direct oral evidence would be admissible, if the following conditions are satisfied—
+
+(i) the document was created or received by a person in the course of a trade, business, profession or other occupation, or as the holder of a paid or unpaid office; and
+
+(ii) the information contained in the document was supplied by a person (whether or not the maker of the statement) who had, or may reasonably be supposed to have had, personal knowledge of the matters dealt with.
+
+(2) Subsection (1) above applies whether the information contained in the document was supplied directly or indirectly but, if it was supplied indirectly, only if each person through whom it was supplied received it—
+
+(a) in the course of a trade, business, profession or other occupation; or
+
+(b) as the holder of a paid or unpaid office.
+
+(3) Subsection (1) above does not render admissible a confession made by an accused person that would not be admissible under section 76 of the Police and Criminal Evidence Act 1984.
+
+(4) A statement prepared otherwise than in accordance with [[^F9]section 7 of the Crime (International Co-operation) Act 2003] or an order under paragraph 6 of Schedule 13 to this Act or under section 30 or 31 below for the purposes—
+
+(a) of pending or contemplated criminal proceedings; or
+
+(b) of a criminal investigation,
+
+shall not be admissible by virtue of subsection (1) above unless—
+
+(i) the requirements of one of the paragraphs of subsection (2) of section 23 above are satisfied; or
+
+(ii) the requirements of subsection (3) of that section are satisfied; or
+
+(iii) the person who made the statement cannot reasonably be expected (having regard to the time which has elapsed since he made the statement and to all the circumstances) to have any recollection of the matters dealt with in the statement.
+
+[^F10] [^F11] [ 5 . . . ]
+
+### 25 Principles to be followed by court.
+
+(1) If, having regard to all the circumstances—
+
+(a) the Crown Court—
+
+(i) on a trial on indictment;
+
+(ii) on an appeal from a magistrates’ court; [^F12]. . .
+
+(iii) on the hearing of an application under section 6 of the [^M5]Criminal Justice Act 1987 (applications for dismissal of charges of fraud transferred from magistrates’ court to Crown Court); or
+
+[[^F13](iv) on the hearing of an application under paragraph 5 of Schedule 6 to the Criminal Justice Act 1991 (applications for dismissal of charges in certain cases involving children transferred from magistrates’ court to Crown Court); or]
+
+(b) the criminal division of the Court of Appeal; or
+
+(c) a magistrates’ court on a trial of an information,
+
+is of the opinion that in the interests of justice a statement which is admissible by virtue of section 23 or 24 above nevertheless ought not to be admitted, it may direct that the statement shall not be admitted.
+
+(2) Without prejudice to the generality of subsection (1) above, it shall be the duty of the court to have regard—
+
+(a) to the nature and source of the document containing the statement and to whether or not, having regard to its nature and source and to any other circumstances that appear to the court to be relevant, it is likely that the document is authentic;
+
+(b) to the extent to which the statement appears to supply evidence which would otherwise not be readily available;
+
+(c) to the relevance of the evidence that it appears to supply to any issue which is likely to have to be determined in the proceedings; and
+
+(d) to any risk, having regard in particular to whether it is likely to be possible to controvert the statement if the person making it does not attend to give oral evidence in the proceedings, that its admission or exclusion will result in unfairness to the accused or, if there is more than one, to any of them.
+
+### 26 Statements in documents that appear to have been prepared for purposes of criminal proceedings or investigations.
+
+Where a statement which is admissible in criminal proceedings by virtue of section 23 or 24 above appears to the court to have been prepared, otherwise than in accordance with [[^F14]section 7 of the Crime (International Co-operation) Act 2003] or an order under paragraph 6 of Schedule 13 to this Act or under section 30 or 31 below, for the purposes—
+
+(a) of pending or contemplated criminal proceedings; or
+
+(b) of a criminal investigation,
+
+the statement shall not be given in evidence in any criminal proceedings without the leave of the court, and the court shall not give leave unless it is of the opinion that the statement ought to be admitted in the interests of justice; and in considering whether its admission would be in the interests of justice, it shall be the duty of the court to have regard—
+
+(i) to the contents of the statement;
+
+(ii) to any risk, having regard in particular to whether it is likely to be possible to controvert the statement if the person making it does not attend to give oral evidence in the proceedings, that its admission or exclusion will result in unfairness to the accused or, if there is more than one, to any of them; and
+
+(iii) to any other circumstances that appear to the court to be relevant.
+
+[^F15] [^F16][ . . . . ]
+
+### 27 Proof of statements contained in documents.
+
+Where a statement contained in a document is admissible as evidence in criminal proceedings, it may be proved—
+
+(a) by the production of that document; or
+
+(b) (whether or not that document is still in existence) by the production of a copy of that document, or of the material part of it,
+
+authenticated in such manner as the court may approve; and it is immaterial for the purposes of this subsection how many removes there are between a copy and the original.
+
+[^F17] [^F18] [ . . . . ]
+
+### 28 Documentary evidence— supplementary.
+
+(1) Nothing in this Part of this Act shall prejudice—
+
+(a) the admissibility of a statement not made by a person while giving oral evidence in court which is admissible otherwise than by virtue of this Part of this Act; or
+
+(b) any power of a court to exclude at its discretion a statement admissible by virtue of this Part of this Act.
+
+(2) Schedule 2 to this Act shall have effect for the purpose of supplementing this Part of this Act.
+
+## Part III — Other Provisions about Evidence in Criminal Proceedings
+
+### [^F19]29 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 30 Expert reports.
+
+(1) An expert report shall be admissible as evidence in criminal proceedings, whether or not the person making it attends to give oral evidence in those proceedings.
+
+(2) If it is proposed that the person making the report shall not give oral evidence, the report shall only be admissible with the leave of the court.
+
+(3) For the purpose of determining whether to give leave the court shall have regard—
+
+(a) to the contents of the report;
+
+(b) to the reasons why it is proposed that the person making the report shall not give oral evidence;
+
+(c) to any risk, having regard in particular to whether it is likely to be possible to controvert statements in the report if the person making it does not attend to give oral evidence in the proceedings, that its admission or exclusion will result in unfairness to the accused or, if there is more than one, to any of them; and
+
+(d) to any other circumstances that appear to the court to be relevant.
+
+(4) An expert report, when admitted, shall be evidence of any fact or opinion of which the person making it could have given oral evidence.
+
+[^F20][[^F21]4A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+(5) In this section “expert report” means a written report by a person dealing wholly or mainly with matters on which he is (or would if living be) qualified to give expert evidence.
+
+### 31 Form of evidence and glossaries.
+
+For the purpose of helping members of juries to understand complicated issues of fact or technical terms [[^F22]Criminal Procedure Rules] may make provision—
+
+(a) as to the furnishing of evidence in any form, notwithstanding the existence of admissible material from which the evidence to be given in that form would be derived; and
+
+(b) as to the furnishing of glossaries for such purposes as may be specified;
+
+in any case where the court gives leave for, or requires, evidence or a glossary to be so furnished.
+
+### 32 Evidence through television links [[^F23]when witness abroad: service courts].
+
+[[^F24](A1) This section applies only so far as provided by an order under paragraph 8 of Schedule 13.]
+
+(1) A person other than the accused may give evidence through a live television link [[^F25]in proceedings to which subsection (1A) below applies] if—
+
+(a) the witness is outside the United Kingdom; [^F26]. . .
+
+[^F27]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+but evidence may not be so given without the leave of the court.
+
+[[^F28](1A) This subsection applies—
+
+(a) to trials on indictment, appeals to the criminal division of the Court of Appeal and hearings of references under [[^F29]section 9 of the Criminal Appeal Act 1995]; and
+
+(b) to proceedings in youth courts [[^F30], appeals to the Crown Court arising out of such proceedings and hearings of references under section 11 of the Criminal Appeal Act 1995 so arising].
+
+[^F31]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) A statement made on oath by a witness outside the United Kingdom and given in evidence through a link by virtue of this section shall be treated for the purposes of section 1 of the [^M6]Perjury Act 1911 as having been made in the proceedings in which it is given in evidence.
+
+[^F31]3A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F31]3B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F31]3C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F31]3D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3E) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F31]4 Without prejudice to the generality of any enactment conferring power to make [[^F32]Criminal Procedure Rules], such rules may make such provision as appears to the [[^F33]Criminal Procedure Rule Committee] to be necessary or expedient for the purposes of this section.
+
+[^F34]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F31]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+### 32A Video recordings of testimony from child witnesses.
+
+[^F35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F36]33 Evidence of persons under 14 in committal proceedings.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F37]33A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 34 Abolition of requirement of corroboration for unsworn evidence of children.
+
+[^F38]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Any requirement whereby at a trial on indictment it is obligatory for the court to give the jury a warning about convicting the accused on the uncorroborated evidence of a child is abrogated [^F39]. . ..
+
+(3) Unsworn evidence admitted by virtue of [[^F40] section 56 of the Youth Justice and Criminal Evidence Act 1999] may corroborate evidence (sworn or unsworn) given by any other person.
+
+### [^F41]34A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part IV — Reviews of Sentencing
+
+### 35 Scope of Part IV.
+
+(1) A case to which this Part of this Act applies may be referred to the Court of Appeal under section 36 below [[^F42](for requests for referrals by victims of crime in England and Wales, see section 2(3A) of the Victims and Prisoners Act 2024)].
+
+(2) Subject to Rules of Court, the jurisdiction of the Court of Appeal under section 36 below shall be exercised by the criminal division of the Court, and references to the Court of Appeal in this Part of this Act shall be construed as references to that division.
+
+(3) This Part of this Act applies to any case [[^F43]—
+
+(a) of a description specified in an order under this section; or
+
+(b) in which sentence is passed on a person—
+
+(i) for an offence triable only on indictment; or
+
+(ii) for an offence of a description specified in an order under this section]
+
+(4) The Secretary of State may by order made by statutory instrument provide that this Part of this Act shall apply to any case [[^F44]of a description specified in the order or to any case] in which sentence is passed on a person for an offence triable either way of a description specified in the order.
+
+(5) A statutory instrument containing an order under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(6) In this Part of this Act “sentence” has the same meaning as in the [^M7]Criminal Appeal Act 1968, except that it does not include an interim hospital order under Part III of the [^M8]Mental Health Act 1983, and “sentencing” shall be construed accordingly.
+
+(7) In its application to Northern Ireland, this section shall have effect subject to the modifications set out in subsections (8) to (11).
+
+(8) Subsection (2) shall be omitted.
+
+(9) In this section—
+
+- “offence triable only on indictment” means an offence punishable only on conviction on indictment;
+- “offence triable either way” means an offence punishable on conviction on indictment or on summary conviction.
+
+[[^F45](9A) Any reference in subsection (4) to the Secretary of State must be construed as a reference to the Department of Justice in Northern Ireland.]
+
+(10) For subsection (5) there shall be substituted—
+
+> (5) An order under subsection (4) above shall be a statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (and not a statutory instrument), and any [[^F46]such order shall be subject to negative resolution (within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954)].
+
+.
+
+(11) The references in subsection (6) to the [^M9]Criminal Appeal Act 1968 and Part III of the [^M10]Mental Health Act 1983 shall be respectively construed as references to Part I of the [^M11]Criminal Appeal (Northern Ireland) Act 1980 and Part III of the [^M12]Mental Health (Northern Ireland) Order 1986.
+
+### 36 Reviews of sentencing.
+
+(1) If it appears to the Attorney General—
+
+(a) that the sentencing of a person in a proceeding in the Crown Court has been unduly lenient; and
+
+(b) that the case is one to which this Part of this Act applies,
+
+he may, with the leave of the Court of Appeal, refer the case to them for them to review the sentencing of that person; and on such a reference the Court of Appeal may—
+
+(i) quash any sentence passed on him in the proceeding; and
+
+(ii) in place of it pass such sentence as they think appropriate for the case and as the court below had power to pass when dealing with him.
+
+(2) Without prejudice to the generality of subsection (1) above, the condition specified in paragraph (a) of that subsection may be satisfied if it appears to the Attorney General that the judge
+
+[[^F47](a) erred in law as to his powers of sentencing; or
+
+[[^F48](b) failed to comply with a mandatory sentence requirement that applied as mentioned in section 399(b) or (c) of the Sentencing Code.]]
+
+(3) For the purposes of this Part of this Act any two or more sentences are to be treated as passed in the same proceeding if they would be so treated for the purposes of section [[^F49]11] of the Criminal Appeal Act 1968.
+
+[[^F50](3A) Where a reference under this section relates to [[^F51]a minimum term order made under section 321 of the Sentencing Code[^F52]...], the Court of Appeal shall not, in deciding what order under that section is appropriate for the case, make any allowance for the fact that the person to whom it relates is being sentenced for a second time.]
+
+(4) No judge shall sit as a member of the Court of Appeal on the hearing of, or shall determine any application in proceedings incidental or preliminary to, a reference under this section of a sentence passed by himself.
+
+(5) Where the Court of Appeal have concluded their review of a case referred to them under this section the Attorney General or the person to whose sentencing the reference relates may refer a point of law involved in any sentence passed on that person in the proceeding to [[^F53]the Supreme Court for its opinion] , and [[^F54]the Supreme Court shall consider the point and give its opinion] on it accordingly, and either remit the case to the Court of Appeal to be dealt with or [[^F55]itself deal with the case.]
+
+(6) A reference under subsection (5) above shall be made only with the leave of the Court of Appeal or [[^F56]the Supreme Court] ; and leave shall not be granted unless it is certified by the Court of Appeal that the point of law is of general public importance and it appears to the Court of Appeal or [[^F56]the Supreme Court] (as the case may be) that the point is one which ought to be considered by [[^F56]the Supreme Court] .
+
+(7) For the purpose of dealing with a case under this section the [[^F57]Supreme Court] may exercise any powers of the Court of Appeal.
+
+(8) The supplementary provisions contained in Schedule 3 to this Act shall have effect.
+
+(9) In the application of this section to Northern Ireland—
+
+(a) any reference to the Attorney General shall be construed as a reference to the [[^F58]Director of Public Prosecutions for Northern Ireland ];
+
+[[^F59](aa) subsection (2)(b) shall have effect as if for the words after “failed to” there were substituted
+
+> impose a sentence required by—
+>
+> (i) Article 70(2) of the Firearms (Northern Ireland) Order 2004,
+>
+> (ii) paragraph 2(4) or (5) of Schedule 2 to the Violent Crime Reduction Act 2006,
+>
+> (iii) Article 13 or 14 of the Criminal Justice (Northern Ireland) Order 2008, or
+>
+> (iv) section 7(2) of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015;]
+
+(b) the references to sections [[^F60]11 and 35(1)] of the [^M13]Criminal Appeal Act 1968 shall be construed as references to sections 10(2) and 33(1) of the [^M14]Criminal Appeal (Northern Ireland) Act 1980, respectively.[[^F61], [^F62]and
+
+(c) the reference in subsection (3A) to [[^F63]a minimum term order made under section 321 of the Sentencing Code] shall be construed as a reference to an order under Article 5(1) of the Life Sentences (Northern Ireland) Order 2001] [^F64]...
+
+[^F64]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part V — Jurisdiction, Imprisonment, Fines, Etc.
+
+### Jurisdiction
+
+#### 37 Certain either way offences relating to motor vehicles to be summary offences.
+
+(1) In section 12 of the [^M15]Theft Act 1968 (taking motor vehicle or other conveyance without authority etc.)—
+
+(a) in subsection (2), for the words “on conviction on indictment be liable to imprisonment for a term not exceeding three years." there shall be substituted the words “be liable on summary conviction to a fine not exceeding level 5 on the standard scale, to imprisonment for a term not exceeding six months, or to both."; and
+
+(b) at the end of subsection (4) there shall be added the words “and if he is found guilty of it, he shall be liable as he would have been liable under subsection (2) above on summary conviction.".
+
+(2[^F65)]
+
+#### 38 Criminal damage etc. as summary offences.
+
+(1) In subsection (1) of section 22 of the [^M16]Magistrates’ Courts Act 1980 (under which, where an offence of or related to criminal damage is charged and it appears to a magistrates’ court clear that the value involved does not exceed the relevant sum, the court is required to proceed as if the offence charged were triable only summarily) in the second paragraph (which states the relevant sum) for “£400" there shall be substituted “£2,000".
+
+(2) Subsection (1) above does not apply to an offence charged in respect of an act done before this section comes into force.
+
+(3) The following subsection shall be inserted after subsection (10) of that section—
+
+> (11) Where—
+>
+> (a) the accused is charged on the same occasion with two or more scheduled offences and it appears to the court that they constitute or form part of a series of two or more offences of the same or a similar character; or
+>
+> (b) the offence charged consists in incitement to commit two or more scheduled offences,
+>
+> this section shall have effect as if any reference in it to the value involved were a reference to the aggregate of the values involved.
+
+.
+
+(4) Subsection (3) above does not apply where any of the offences are charged in respect of acts done before this section comes into force.
+
+#### 39 Common assault and battery to be summary offences.
+
+[[^F66](1)] Common assault and battery shall be summary offences and a person guilty of either of them shall be liable to a fine not exceeding level 5 on the standard scale, to imprisonment for a term not exceeding six months, or to both.
+
+[[^F67](2) Subsection (1) is subject to section 1 of the Assaults on Emergency Workers (Offences) Act 2018 (which makes provision for increased sentencing powers for offences of common assault and battery committed against an emergency worker acting in the exercise of functions as such a worker).]
+
+#### 39A [[^F68]Time limit for prosecution of common assault or battery in domestic abuse cases
+
+(1) This section applies to proceedings for an offence of common assault or battery where—
+
+(a) the alleged behaviour of the accused amounts to domestic abuse, and
+
+(b) the condition in subsection (2) or (3) is met.
+
+(2) The condition in this subsection is that—
+
+(a) the complainant has made a witness statement with a view to its possible admission as evidence in the proceedings, and
+
+(b) the complainant has provided the statement to—
+
+(i) a constable of a police force, or
+
+(ii) a person authorised by a constable of a police force to receive the statement.
+
+(3) The condition in this subsection is that—
+
+(a) the complainant has been interviewed by—
+
+(i) a constable of a police force, or
+
+(ii) a person authorised by a constable of a police force to interview the complainant, and
+
+(b) a video recording of the interview has been made with a view to its possible admission as the complainant’s evidence in chief in the proceedings.
+
+(4) Proceedings to which this section applies may be commenced at any time which is both—
+
+(a) within two years from the date of the offence to which the proceedings relate, and
+
+(b) within six months from the first date on which either of the conditions in subsection (2) or (3) was met.
+
+(5) This section has effect despite section 127(1) of the Magistrates’ Court Act 1980 (limitation of time).
+
+(6) In this section—
+
+- “domestic abuse” has the meaning given by section 1 of the Domestic Abuse Act 2021;
+- “police force” has the meaning given by section 3(3) of the Prosecution of Offences Act 1985;
+- “video recording” has the meaning given by section 63(1) of the Youth Justice and Criminal Evidence Act 1999;
+- “witness statement” means a written statement that satisfies the conditions in section 9(2)(a) and (b) of the Criminal Justice Act 1967.
+
+(7) This section does not apply in relation to an offence committed before the coming into force of section 49 of the Police, Crime, Sentencing and Courts Act 2022.]
+
+#### 40 Power to join in indictment count for common assault etc.
+
+(1) A count charging a person with a summary offence to which this section applies may be included in an indictment if the charge—
+
+(a) is founded on the same facts or evidence as a count charging an indictable offence; or
+
+(b) is part of a series of offences of the same or similar character as an indictable offence which is also charged,
+
+but only if (in either case) the facts or evidence relating to the offence [^F69]...[[^F70] are disclosed by material which, in pursuance of regulations made under paragraph 1 of Schedule 3 to the Crime and Disorder Act 1998 (procedure where person sent for trial under section 51 [[^F71]or 51A]), has been served on the person charged].
+
+(2) Where a count charging an offence to which this section applies is included in an indictment, the offence shall be tried in the same manner as if it were an indictable offence; but the Crown Court may only deal with the offender in respect of it in a manner in which a magistrates’ court could have dealt with him.
+
+(3) The offences to which this section applies are—
+
+(a) common assault;
+
+[^F72] [ aa an offence under section 90(1) of the Criminal Justice Act 1991 (assaulting a prisoner custody officer);
+
+(ab) an offence under section 13(1) of the Criminal Justice and Public Order Act 1994 (assaulting a secure training centre custody officer)]
+
+[[^F73](ac) an offence under paragraph 14 or 24 of Schedule 10 to the Criminal Justice and Courts Act 2015 (assaulting secure college custody officer);]
+
+(b) an offence under section 12(1) of the [^M17]Theft Act 1968 (taking motor vehicle or other conveyance without authority etc.);
+
+(c) an offence under [[^F74]section 103(1)(b) of the Road Traffic Act 1988] (driving a motor vehicle while disqualified);
+
+(d) an offence mentioned in the first column of Schedule 2 to the [^M18]Magistrates’ Courts Act 1980 (criminal damage etc.) which would otherwise be triable only summarily by virtue of section 22(2) of that Act; and
+
+(e) any summary offence specified under subsection (4) below.
+
+(4) The Secretary of State may by order made by statutory instrument specify for the purposes of this section any summary offence which is punishable with imprisonment or involves obligatory or discretionary disqualification from driving.
+
+(5) A statutory instrument containing an order under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### [^F75]41 Power of Crown Court to deal with summary offence where person committed for either way offence.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F76]42 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Power of Court of Appeal to order retrial
+
+#### 43 Power of Court of Appeal to order retrial.
+
+(1) The [^M19]Criminal Appeal Act 1968 shall be amended as follows.
+
+(2) In section 7(1), the words “and do so only by reason of evidence received or available to be received by them under section 23 of this Act" shall cease to have effect.
+
+(3) At the end of subsection (1) of section 8 there shall be added the words “but after the end of two months from the date of the order for his retrial he may not be arraigned on an indictment preferred in pursuance of such a direction unless the Court of Appeal give leave."
+
+(4) The following subsections shall be inserted after that subsection—
+
+> (1A) Where a person has been ordered to be retried but may not be arraigned without leave, he may apply to the Court of Appeal to set aside the order for retrial and to direct the court of trial to enter a judgment and verdict of acquittal of the offence for which he was ordered to be retried.
+>
+> (1B) On an application under subsection (1) or (1A) above the Court of Appeal shall have power—
+>
+> (a) to grant leave to arraign; or
+>
+> (b) to direct the entry of a judgment and verdict of acquittal,but shall not give leave to arraign unless they are satisfied—
+>
+> (i) that the prosecution has acted with all due expedition; and
+>
+> (ii) that there is a good and sufficient cause for a retrial in spite of the lapse of time since the order under section 7 of this Act was made.
+
+(5) Nothing in this section applies where notice of appeal or of application for leave to appeal was given before the commencement of this section.
+
+### Imprisonment
+
+#### 44 Firearms offences.
+
+(1) Part 1 of Schedule 6 to the [^M20]Firearms Act 1968 (prosecution and punishment of offences) shall be amended as follows.
+
+(2) For the third and fourth columns of the entries relating to an offence under section 2(1) (possessing, etc. shotgun without shotgun certificate) there shall be substituted—
+
+> |  |  |
+> |---|---|
+> | (a) Summary. | 6 months or the statutory maximum or both. |
+> | (b) On indictment. | 3 years or a fine; or both. |
+
+(3) “Life imprisonment” shall be substituted for “14 years" in the fourth column of the entries relating to offences under—
+
+(a) section 17(2) (possessing firearm or imitation firearm at time of committing or being arrested for certain offences); and
+
+(b) section 18(1) (carrying firearm or imitation firearm with criminal intent).
+
+(4) Nothing in this section shall affect the punishment for an offence committed before this section comes into force.
+
+#### 45 Increase in maximum term of imprisonment for cruelty to children and young persons.
+
+(1) In section 1(1)(a) of the [^M21]Children and Young Persons Act 1933 (under which the maximum term of imprisonment for cruelty to persons under 16 is two years) and in section 12(1)(a) of the [^M22]Children and Young Persons (Scotland) Act 1937 (which makes corresponding provision for Scotland), for “two" there shall be substituted “ten".
+
+(2) Nothing in subsection (1) above shall affect the punishment for an offence committed before this section comes into force.
+
+#### 46 Maximum term of imprisonment on summary conviction under Prevention of Crime Act 1953 and maximum fine under Restriction of Offensive Weapons Act 1959.
+
+(1) In section 1(1)(a) of the [^M23]Prevention of Crime Act 1953 “six months” shall be substituted for “three months".
+
+(2) The maximum fine that may be imposed for an offence under section 1 of the [^M24]Restriction of Offensive Weapons Act 1959 shall be a fine not exceeding level 5 on the standard scale.
+
+(3) This section shall not have effect in relation to anything done before it comes into force.
+
+#### [^F77]47 Corruption.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F78]48 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 49 Repeal of s.134 of Magistrates’ Courts Act 1980.
+
+[^F79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 50 Suspended and partly suspended sentences on certain civilians in courts-martial and Standing Civilian Courts.
+
+[^F80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Maximum fines under subordinate legislation
+
+#### 51 Statutory maximum as penalty on summary conviction for offences triable either way in subordinate legislation.
+
+(1) For any offence triable either way under a subordinate instrument made before the commencement of this section, the maximum fine which may be imposed on summary conviction shall by virtue of this subsection be the statutory maximum unless the offence is one for which by virtue of the instrument a larger maximum fine may be imposed on summary conviction.
+
+(2) Where apart from this section the maximum fine would be one amount in the case of a first conviction and a different amount in the case of a second or subsequent conviction, subsection (1) above shall apply irrespective of whether the conviction is a first, second or subsequent one.
+
+(3) Subsection (1) above shall not affect so much of any instrument as (in whatever words) makes a person liable on summary conviction to a fine not exceeding a specified amount for each period of a specified length during which a continuing offence is continued after conviction or the occurrence of any other specified event.
+
+(4) Where there is under any enactment (however framed or worded) contained in an Act passed before the commencement of this section a power by subordinate instrument to impose penal provisions, being a power which allows the creation of offences triable either way, the maximum fine which may in the exercise of that power be authorised on summary conviction in respect of an offence triable either way shall by virtue of this subsection be the statutory maximum unless some larger maximum fine can be authorised on summary conviction of such an offence by virtue of an enactment contained in an Act passed before the commencement of this section.
+
+(5) Where there is under any enactment (however framed or worded) contained in an Act passed before the commencement of this section a power by subordinate instrument to create offences triable either way, the maximum fine for an offence triable either way so created may be expressed as a fine not exceeding the statutory maximum.
+
+(6) Subsection (5) above has effect in relation to exercises of powers before as well as after the commencement of this section.
+
+(7) Nothing in this section shall affect the punishment for an offence committed before the commencement of this section.
+
+(8) In this section and sections 52, 53, 55, 57 and 59 below “fine” includes a pecuniary penalty but does not include a pecuniary forfeiture or pecuniary compensation.
+
+#### 52 Penalties on conviction for summary offences under subordinate legislation— conversion of references to amounts to references to levels on scale.
+
+(1) Where under a relevant subordinate instrument the maximum fine on conviction of a summary offence specified in the instrument is an amount shown in the second column of the standard scale, the reference in the instrument to the amount of the maximum fine shall be construed as a reference to the level in the first column of the standard scale corresponding to that amount.
+
+(2) In subsection (1) above “relevant subordinate instrument” means any instrument made by virtue of an enactment or instrument after 30th April 1984 and before the commencement of this section.
+
+(3) Subsection (1) above shall not affect so much of any instrument as (in whatever words) makes a person liable on summary conviction to a fine not exceeding a specified amount for each period of a specified length during which a continuing offence is continued after conviction or the occurrence of any other specified event.
+
+(4) Where there is—
+
+(a) under any enactment (however framed or worded) contained in an Act passed before the commencement of this section;
+
+(b) under any instrument (however framed or worded) made by virtue of such an enactment,
+
+a power to provide by subordinate instrument that a person, as regards any summary offence (whether or not created by the instrument) shall be liable on conviction to a fine, a person may be so made liable to a fine not exceeding a specified level on the standard scale.
+
+(5) Subsection (4) above has effect in relation to exercises of powers before as well as after the commencement of this section.
+
+#### 53 Powers to specify maximum fines for summary offences under subordinate instruments— conversion of references to amounts to references to levels on scale—England and Wales.
+
+(1) Where an instrument which was made under an enactment on or after 11th April 1983 but before this section came into force confers on any authority other than a harbour authority a power by subordinate instrument to make a person liable to a fine on conviction of a summary offence of an amount shown in the second column of the standard scale, as that scale had effect when the instrument was made, a reference to the level in the first column of the standard scale which then corresponded to that amount shall be substituted for the reference in the instrument conferring the power to the amount of the fine.
+
+(2) If an order under section 143 of the [^M25]Magistrates’ Courts Act 1980 alters the sums specified in section 37(2) of the [^M26]Criminal Justice Act 1982, the second reference to the standard scale in subsection (1) above is to be construed as a reference to that scale as it has effect by virtue of the order.
+
+(3) This section shall not affect so much of any instrument as (in whatever words) makes a person liable on summary conviction to a maximum fine not exceeding a specified amount for each period of a specified length during which a continuing offence is continued.
+
+#### 54 Fines on summary conviction for offences under subordinate instruments— conversion to references to levels on scale—Scotland.
+
+In the [^M27]Criminal Procedure (Scotland) Act 1975, after section 289GC (which is inserted by section 56 of this Act) there shall be inserted the following section—
+
+> **289GD Fines on summary conviction for offences under subordinate instruments—conversion to references to levels on scale.**
+>
+> (1) Where an instrument which was made under an enactment on or after 11th April 1983 but before the commencement of section 54 of the Criminal Justice Act 1988 confers on any authority other than a harbour authority a power by subordinate instrument to make a person liable on summary conviction to a fine of an amount shown in the second column of the standard scale, as that scale had effect when the instrument was made, a reference to the level in the first column of the standard scale which then corresponded to that amount shall be substituted for the reference in the instrument conferring the power to the amount of the fine.
+>
+> (2) This section shall not affect so much of any instrument as (in whatever words) makes a person liable on summary conviction to a maximum fine not exceeding a specified amount for each period of a specified length during which a continuing offence is continued
+
+.
+
+#### 55 Fines under secondary subordinate instruments— England and Wales.
+
+(1) This section applies to any instrument (however framed or worded) which—
+
+(a) was made before 11th April 1983 (the date of the commencement of sections 35 to 50 of the [^M28]Criminal Justice Act 1982); and
+
+(b) confers on any authority other than a harbour authority a power by subordinate instrument to make a person, as regards any summary offence (whether or not created by the latter instrument), liable on conviction to a maximum fine of a specified amount not exceeding £1,000,
+
+but does not affect so much of any such instrument as (in whatever words) confers a power by subordinate instrument to make a person liable on conviction to a fine for each period of a specified length during which a continuing offence is continued.
+
+(2) The maximum fine to which a subordinate instrument made by virtue of an instrument to which this section applies may provide that a person shall be liable on conviction of a summary offence is—
+
+(a) if the specified amount is less than £25 , level 1 on the standard scale;
+
+(b) if it is £25 or more but less than £50, level 2;
+
+(c) if it is £50 or more but less than £200, level 3;
+
+(d) if it is £200 or more but less than £400, level 4; and
+
+(e) if it is £400 or more, level 5.
+
+(3) Subject to subsection (5) below, where an instrument to which this section applies confers a power by subordinate instrument to make a person, as regards a summary offence, liable on conviction to a fine in respect of a specified quantity or a specified number of things, that fine shall be treated for the purposes of this section as being the maximum fine to which a person may be made liable by virtue of the instrument.
+
+(4) Where an instrument to which this section applies confers a power to provide for different maximum fines in relation to different circumstances or persons of different descriptions, the amounts specified as those maximum fines are to be treated separately for the purposes of this section.
+
+(5) Where an instrument to which this section applies confers a power by subordinate instrument to make a person, as regards a summary offence, liable on conviction to a fine in respect of a specified quantity or a specified number of things but also confers a power by subordinate instrument to make a person, as regards such an offence, liable on conviction to an alternative fine, this section shall have effect in relation—
+
+(a) to the alternative fine; and
+
+(b) to any amount that the instrument specifies as the maximum fine for which a subordinate instrument made in the exercise of the power conferred by it may provide,
+
+as well as in relation to the fine mentioned in subsection (3) above.
+
+(6) Section 36 of the [^M29]Criminal Justice Act 1982 (abolition of enhanced penalties under subordinate instruments) shall have effect as if the references in it to an Act included references to an instrument and the reference in subsection (2) to the coming into force of the section were a reference, in relation to an instrument conferring a power such as is mentioned in subsection (1), to the coming into force of this section.
+
+#### 56 Fines under secondary subordinate instruments: Scotland.
+
+(1) In the [^M30]Criminal Procedure (Scotland) Act 1975, after section 289GB (which was inserted by the [^M31]Criminal Justice (Scotland) Act 1987) there shall be inserted the following section—
+
+> **289GC Fines under secondary subordinate instruments— Scotland.**
+>
+> (1) This section applies to any instrument (however framed or worded) which—
+>
+> (a) was made before 11th April 1983 (the date of commencement of Part IV of the Criminal Justice Act 1982);
+>
+> (b) confers on any authority other than a harbour authority a power by subordinate instrument to make a person, as regards any summary offence (whether or not created by the latter instrument), liable on conviction to a maximum fine of a specified amount not exceeding £1,000,
+>
+> but does not affect so much of any such instrument as (in whatever words) confers a power by subordinate instrument to make a person liable on conviction to a fine for each period of a specified length during which a continuing offence is continued.
+>
+> (2) The maximum fine to which a subordinate instrument made by virtue of an instrument to which this section applies may provide that a person shall be liable on conviction of a summary offence is—
+>
+> (a) if the specified amount is less than £25, level 1 on the standard scale;
+>
+> (b) if it is £25 or more but less than £50, level 2;
+>
+> (c) if it is £50 or more but less than £200, level 3;
+>
+> (d) if it is £200 or more but less than £400, level 4; and
+>
+> (e) if it is £400 or more, level 5.
+>
+> (3) Subject to subsection (5) below, where an instrument to which this section applies confers a power by subordinate instrument to make a person, as regards a summary offence, liable on conviction to a fine in respect of a specified quantity or a specified number of things, that fine shall be treated for the purposes of this section as being the maximum fine to which a person may be made liable by virtue of the instrument.
+>
+> (4) Where an instrument to which this section applies confers a power to provide for different maximum fines in relation to different circumstances or persons of different descriptions, the amount specified as those maximum fines are to be treated separately for the purposes of this section.
+>
+> (5) Where an instrument to which this section applies confers a power by subordinate instrument to make a person, as regards a summary offence, liable on conviction to a fine in respect of a specified quantity or a specified number of things but also confers a power by subordinate instrument to make a person, as regards such an offence, liable on conviction to an alternative fine, this section shall have effect in relation—
+>
+> (a) to the alternative fine; and
+>
+> (b) to any amount that the instrument specifies as the maximum fine for which a subordinate instrument made in the exercise of the power conferred by it may provide,
+>
+> as well as in relation to the fine mentioned in subsection (3) above.
+
+(2) Section 289E of the [^M32]Criminal Procedure (Scotland) Act 1975 (penalties for first and subsequent convictions of summary offences to be the same) shall have effect as if the references in it to an Act included references to an instrument and the reference in subsection (5) to the commencement of the section were a reference, in relation to an instrument conferring a power such as is mentioned in subsection (1), to the coming into force of this section.
+
+#### 57 Powers of harbour authorities to provide for maximum fines up to level 4 on standard scale.
+
+(1) Where a harbour authority is empowered to provide—
+
+(a) in an instrument made by virtue of an enactment; or
+
+(b) in an instrument made by virtue of an instrument made under an enactment,
+
+that a person, as regards any summary offence (whether or not created by the instrument), shall be liable on conviction to a fine not exceeding an amount less than level 4 on the standard scale, the power shall extend by virtue of this section to making him liable to a fine not exceeding level 4.
+
+(2) Where any enactment or instrument (“the enabling legislation") (however expressed) provides that a person who contravenes any provision of an instrument (“a regulatory instrument") made by a harbour authority—
+
+(a) by virtue of the enabling legislation; or
+
+(b) by virtue of an instrument made under the enabling legislation,
+
+shall be guilty of a summary offence and liable on conviction to a fine not exceeding an amount less than level 4 on the standard scale, the power conferred by the enabling legislation shall by virtue of this section enable the harbour authority to provide in a regulatory instrument that a person, as regards any summary offence created by the regulatory instrument, shall be liable on summary conviction to a fine not exceeding level 4.
+
+#### [^F81]58 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Exceptionally high maximum fines
+
+#### 59 Power to alter exceptionally high maximum fines.
+
+(1) The Secretary of State may by order amend an enactment or subordinate instrument specifying a sum to which this subsection applies so as to substitute for that sum such other sum as appears to him—
+
+(a) to be justified by a change in the value of money appearing to him to have taken place since the last occasion on which the sum in question was fixed; or
+
+(b) to be appropriate to take account of an order altering the standard scale which has been made or is proposed to be made.
+
+(2) Subsection (1) above applies to any sum which—
+
+(a) is specified as the maximum fine which may be imposed on conviction of a summary offence; and
+
+(b) is higher than level 5 on the standard scale.
+
+(3) The Secretary of State may by order amend an enactment or subordinate instrument specifying a sum to which this subsection applies so as to substitute for that sum such other sum as appears to him—
+
+(a) to be justified by a change in the value of money appearing to him to have taken place since the last occasion on which the sum in question was fixed; or
+
+(b) to be appropriate to take account of an order made or proposed to be made altering the statutory maximum.
+
+(4) Subsection (3) above applies to any sum which—
+
+(a) is specified as the maximum fine which may be imposed on summary conviction of an offence triable either way; and
+
+(b) is higher than the statutory maximum.
+
+(5) An order under this section—
+
+(a) shall be made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament; and
+
+(b) shall not affect the punishment for an offence committed before it comes into force.
+
+(6) In this section—
+
+- “enactment” includes an enactment contained in an Act passed after this Act; and
+- “subordinate instrument” includes an instrument made after the passing of this Act.
+
+### Default in payment of fines etc.
+
+#### 60 Periods of imprisonment for default.
+
+(1) In the [[^F82]Table in] paragraph 1 of Schedule 4 to the [^M33]Magistrates’ Courts Act 1980, for the entries relating to amounts not exceeding £10,000 there shall be substituted—
+
+> |  |  |
+> |---|---|
+> | An amount not exceeding £50 | 5 days |
+> | An amount exceeding £50 but not exceeding £100 | 7 days |
+> | An amount exceeding £100 but not exceeding £400 | 14 days |
+> | An amount exceeding £400 but not exceeding £1,000 | 30 days |
+> | An amount exceeding £1,000 but not exceeding £2,000 | 45 days |
+> | An amount exceeding £2,000 but not exceeding £5,000 | 3 months |
+> | An amount exceeding £5,000 but not exceeding £10,000 | 6 months |
+
+.
+
+[^F83]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 61 Default – procedure.
+
+(1) The [^M34]Magistrates’ Courts Act 1980 shall be amended as follows.
+
+(2) The following subsections shall be added after section 77(2)—
+
+> (3) A magistrates’ court shall have power at any time to do either or both of the following—
+>
+> (a) to direct that the issue of the warrant of commitment shall be postponed until a time different from that to which it was previously postponed;
+>
+> (b) to vary any of the conditions on which its issue is postponed,
+>
+> but only if it thinks it just to do so having regard to a change of circumstances since the relevant time.
+>
+> (4) In this section “the relevant time” means—
+>
+> (a) where neither of the powers conferred by subsection (3) above has been exercised previously, the date when the issue of the warrant was postponed under subsection (2) above; and
+>
+> (b) in any other case, the date of the exercise or latest exercise of either or both of the powers.
+>
+> (5) Without prejudice to the generality of subsection (3) above, if on an application by a person in respect of whom issue of a warrant has been postponed it appears to a justice of the peace acting for the petty sessions area in which the warrant has been or would have been issued that since the relevant time there has been a change of circumstances which would make it just for the court to exercise one or other or both of the powers conferred by that subsection, he shall refer the application to the court.
+>
+> (6) Where such an application is referred to the court, it shall be the duty of the clerk of the court—
+>
+> (a) to fix a time and place for the application to be heard; and
+>
+> (b) to give the applicant notice of the time and place which he fixes.
+>
+> (7) Where such a notice has been given but the applicant does not appear at the time and place specified in the notice, the court may proceed with the consideration of the application in his absence.
+>
+> (8) If a warrant of commitment in respect of the sum adjudged to be paid has been issued before the hearing of the application, the court shall have power to order that the warrant shall cease to have effect and, if the applicant has been arrested in pursuance of it, to order that he shall be released, but it shall only make an order under this subsection if it is satisfied that the change of circumstances on which the applicant relies was not put before the court when it was determining whether to issue the warrant.
+
+.
+
+(3) The following subsection shall be inserted after subsection (4) of section 82 (restriction on power to impose imprisonment for default)—
+
+> (4A) The methods of enforcing payment mentioned in subsection (4)(b)(ii) above are—
+>
+> (a) a warrant of distress under section 76 above;
+>
+> (b) an application to the High Court or county court for enforcement under section 87 below;
+>
+> (c) an order under section 88 below;
+>
+> (d) an attachment of earnings order; and
+>
+> (e) if the offender is under the age of 21, an order under section 17 of the Criminal Justice Act 1982 (attendance centre orders).
+
+.
+
+(4) The following subsections shall be inserted after subsection (5) of that section—
+
+> (5A) A magistrates’ court may not issue a warrant of commitment under subsection (5) above at a hearing at which the offender is not present unless the clerk of the court has first served on the offender a notice in writing stating that the court intends to hold a hearing to consider whether to issue such a warrant and giving the reason why the court so intends.
+>
+> (5B) Where after the occasion of an offender’s conviction by a magistrates’ court the court holds a hearing for the purpose of considering whether to issue a warrant of commitment for default in paying a sum adjudged to be paid by the conviction, it shall consider such information about the offender’s means as is available to it unless it has previously—
+>
+> (a) inquired into the offender’s means; and
+>
+> (b) postponed the issue of the warrant of commitment under section 77(2) above.
+>
+> (5C) A notice under subsection (5A) above—
+>
+> (a) shall state the time and place appointed for the hearing; and
+>
+> (b) shall inform the offender that, if he considers that there are grounds why the warrant should not be issued, he may make representations to the court in person or in writing,
+>
+> but the court may exercise its powers in relation to the issue of a warrant whether or not he makes representations.
+>
+> (5D) Except as mentioned in subsection (5E) below, the time stated in a notice under subsection (5A) above shall not be earlier than 21 days after the issue of the notice.
+>
+> (5E) Where a magistrates’ court exercises in relation to an offender the power conferred by section 77(2) above and at the same hearing issues a notice under subsection (5A) above in relation to him, the time stated in the notice may be a time on any day following the end of the period for which the issue of the warrant of commitment has been postponed.
+>
+> (5F) A notice under subsection (5A) above to be served on any person shall be deemed to be served on that person if it is sent by registered post or the recorded delivery service addressed to him at his last known address, notwithstanding that the notice is returned as undelivered or is for any other reason not received by that person.
+
+.
+
+(5) The following section shall be substituted for section 85—
+
+> **85 Power to remit fine.**
+>
+> (1) Where a fine has been imposed on conviction of an offender by a magistrates’ court, the court may at any time remit the whole or any part of the fine, but only if it thinks it just to do so having regard to a change of circumstances which has occurred—
+>
+> (a) where the court is considering whether to issue a warrant of commitment after the issue of such a warrant in respect of the fine has been postponed under subsection (2) of section 77 above, since the relevant time as defined in subsection (4) of that section; and
+>
+> (b) in any other case, since the date of the conviction.
+>
+> (2) Where the court remits the whole or part of the fine after a term of imprisonment has been fixed, it shall also reduce the term by an amount which bears the same proportion to the whole term as the amount remitted bears to the whole or, as the case may be, shall remit the whole term.
+>
+> (3) In calculating the reduction in a term of imprisonment required by subsection (2) above any fraction of a day shall be left out of account.
+>
+> (4) Notwithstanding the definition of “fine” in section 150(1) below, references in this section to a fine do not include any other sum adjudged to be paid on conviction, whether as a pecuniary penalty, forfeiture, compensation or otherwise.
+
+.
+
+(6) In section 121(2) (magistrates’ court to consist of at least 2 justices when holding an inquiry into the means of an offender for the purposes of section 82) after the word “above" there shall be inserted the words “or determine under that section at a hearing at which the offender is not present whether to issue a warrant of commitment".
+
+#### 62 Fines on companies.
+
+(1) The following section shall be inserted after section 87 of the [^M35]Magistrates’ Courts Act 1980—
+
+> **87A Fines imposed on companies.**
+>
+> (1) Where—
+>
+> (a) a magistrates’ court has, or is treated by any enactment as having, adjudged a company by a conviction to pay a sum; and
+>
+> (b) the court has issued a warrant of distress under section 76(1) above for the purpose of levying the sum; and
+>
+> (c) it appears on the return to the warrant that the money and goods of the company are insufficient to satisfy the sum with the costs and charges of levying the same,
+>
+> the clerk of the court may make an application in relation to the company under section 9 or 124 of the Insolvency Act 1986 (administration or winding up).
+>
+> (2) Any expenses incurred under subsection (1) above by the clerk of a magistrates’ court shall be treated for the purposes of Part VI of the Justices of the Peace Act 1979 as expenses of the magistrates’ courts committee.
+
+.
+
+(2) The words “ or by the clerk of a magistrates’ court in the exercise of the power conferred by section 87A of the Magistrates’ Courts Act 1980 (enforcement of fines imposed on companies) ” shall be inserted—
+
+[[^F84](a) before the words “or by all" in section 9(1) of the Insolvency Act 1986;]
+
+(b) after the word “contributories" in section 124(1) of that Act.
+
+### Fines and other pecuniary penalties—miscellaneous
+
+#### 63 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F85]
+
+#### 64 Increase of maximum fine under s.32 of the Game Act 1831.
+
+[^F86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F87]65 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 66 Fisheries offences on River Tweed.
+
+(1) Section 38 of the [^M36]Fisheries Act 1981 (which applied certain enactments to so much of the River Tweed as is situated outwith Scotland as if it were situated in Scotland) shall be deemed not to have been excluded from the operation of section 38(1) of the [^M37]Criminal Justice Act 1982 (general increase of fines for summary offences) by paragraph (c) of that subsection (exclusion of offences where fine or maximum fine altered since 29th July 1977).
+
+(2) Nothing in this section shall affect the punishment for an offence committed before this section comes into force.
+
+#### 67 Fines imposed and recognizances forfeited by coroners.
+
+(1) A fine imposed by a coroner, including a fine so imposed before this section comes into force, shall be treated for the purpose of its collection, enforcement and remission as having been imposed by the magistrates’ court for the area in which the coroner’s court was held, and the coroner shall as soon as practicable after imposing the fine give particulars of the fine to the [[^F88]designated officer for] that court.
+
+(2) A coroner shall proceed in the like manner under subsection (1) above in relation to a recognizance forfeited at an inquest held before him, including a recognizance so forfeited before this section comes into force, as if he had imposed a fine upon the person forfeiting that recognizance, and subsection (1) above shall apply accordingly.
+
+#### 68 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F89]
+
+### Forfeiture
+
+#### [^F90]69 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 70 Forfeiture for drug offences.
+
+In section 27(1) of the [^M38]Misuse of Drugs Act 1971 (forfeiture on conviction of an offence under that Act) after the words “under this Act" there shall be inserted the words “or a drug trafficking offence, as defined in section 38(1) of the [^M39]Drug Trafficking Offences Act 1986".
+
+## Part VI — Confiscation of the Proceeds of an Offence
+
+### 71 Confiscation orders.
+
+[^F91]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 72 - Making of confiscation orders.
+
+[^F92]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 72A Postponed determinations.
+
+[^F93]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 72AA Confiscation relating to a course of criminal conduct.
+
+[^F94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 73 Statements, etc. relevant to making confiscation orders.
+
+[^F95]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 73A Provision of information by defendant.
+
+[^F96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 74 Definition of principal terms used.
+
+[^F97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F98]Review and revision of certain questions and determinations]
+
+#### 74A Review of cases where proceeds of crime not assessed.
+
+[^F99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 74B Revision of assessment of proceeds of crime.
+
+[^F100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 74C Revision of assessment of amount to be recovered.
+
+[^F101]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Enforcement, etc. of confiscation orders
+
+#### 75 Application of procedure for enforcing fines.
+
+[^F102]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 75A Interest on sums unpaid under confiscation orders.
+
+[^F103]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 76 Cases in which restraint orders and charging orders may be made.
+
+[^F104]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 77 Restraint orders.
+
+[^F105]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 78 Charging orders in respect of land, securities, etc.
+
+[^F106]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 79 Charging orders: supplementary provisions.
+
+[^F107]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 80 Realisation of property.
+
+[^F108]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 81 Application of proceeds of realisation and other sums.
+
+[^F109]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 82 Exercise of powers by High Court or receiver.
+
+[^F110]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 83 Variation of confiscation orders.
+
+[^F111]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 84 Bankruptcy of defendant etc.
+
+[^F112]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 85 Sequestration in Scotland of defendant etc.
+
+[^F113]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 86 Winding up of company holding realisable property.
+
+[^F114]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 87 Insolvency officers dealing with property subject to restraint order.
+
+[^F115]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 88 Receivers: supplementary provisions.
+
+[^F116]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 89 Compensation.
+
+[^F117]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Enforcement in Scotland
+
+#### [^F118]90 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F119]91 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F120]92 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F121]93 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F122]Money laundering and other offences]
+
+#### 93A Assisting another to retain the benefit of criminal conduct.
+
+[^F123]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 93B Acquisition, possession or use of proceeds of criminal conduct.
+
+[^F124]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 93C Concealing or transferring proceeds of criminal conduct.
+
+[^F125]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 93D Tipping-off.
+
+[^F126]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 93E Application of sections 93A to 93D to Scotland.
+
+[^F127]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 93F Prosecution by order of the Commissioners of Customs and Excise.
+
+[^F128]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 93G Extension of certain offences to Crown servants and exemptions for regulators etc.
+
+[^F129]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F130]Investigations into the proceeds of criminal conduct]
+
+#### 93H Order to make material available.
+
+[^F131]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 93I Authority for search.
+
+[^F132]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 93J Disclosure of information held by government departments.
+
+[^F133]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Enforcement of external orders
+
+#### 94 Enforcement of Northern Ireland orders.
+
+[^F134]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F135]95 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 96 Enforcement of other external orders.
+
+(1) Her Majesty may by Order in Council—
+
+(a) direct in relation to a country or territory outside the United Kingdom designated by the Order (“a designated country") that, subject to such modifications as may be specified, this Part of this Act shall apply to external confiscation orders and to proceedings which have been or are to be instituted in the designated country and may result in an external confiscation order being made there;
+
+(b) make—
+
+(i) such provision in connection with the taking of action in the designated country with a view to satisfying a confiscation order;
+
+(ii) such provision as to evidence or proof of any matter for the purposes of this section and section 97 below; and
+
+(iii) such incidental, consequential and transitional provision,
+
+as appears to Her Majesty to be expedient; and
+
+(c) without prejudice to the generality of this subsection, direct that in such circumstances as may be specified proceeds which arise out of action taken in the designated country with a view to satisfying a confiscation order shall be treated as reducing the amount payable under the order to such extent as may be specified.
+
+(2) In this Part of this Act—
+
+- “external confiscation order” means an order made by a court in a designated country for the purpose—
+
+(a) of recovering—
+
+(i) property obtained as a result of or in connection with conduct corresponding to an offence to which this Part of this Act applies; or
+
+(ii) the value of property so obtained; or
+
+(b) of depriving a person of a pecuniary advantage so obtained; and
+
+“modifications” includes additions, alterations and omissions.
+
+(3) An Order in Council under this section may make different provision for different cases or classes of case.
+
+(4) The power to make an Order in Council under this section includes power to modify this Part of this Act in such a way as to confer power on a person to exercise a discretion.
+
+[[^F136](5) An Order in Council under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.]
+
+#### 97 Registration of external confiscation orders.
+
+(1) On an application made by or on behalf of the government of a designated country, the High Court may register an external confiscation order made there if—
+
+(a) it is satisfied that at the time of registration the order is in force and not subject to appeal;
+
+(b) it is satisfied, where the person against whom the order is made did not appear in the proceedings, that he received notice of the proceedings in sufficient time to enable him to defend them; and
+
+(c) it is of the opinion that enforcing the order in England and Wales would not be contrary to the interests of justice.
+
+(2) In subsection (1) above “appeal” includes—
+
+(a) any proceedings by way of discharging or setting aside a judgment; and
+
+(b) an application for a new trial or a stay of execution.
+
+(3) The High Court shall cancel the registration of an external confiscation order if it appears to the court that the order has been satisfied by payment of the amount due under it or by the person against whom it was made serving imprisonment in default of payment or by any other means.
+
+### Miscellaneous and supplemental
+
+#### [^F137]98 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 99 Authorisation of delay in notifying arrest etc.
+
+[^F138]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 100 Power to inspect Land Register, etc.
+
+[^F139]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 101 Abolition of power to make criminal bankruptcy order.
+
+[^F140]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 102 Part VI— Interpretation.
+
+[^F141]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 103 Amendments of Drug Trafficking Offences Act 1986 and Criminal Justice (Scotland) Act 1987.
+
+[^F142]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part VII — Compensation by Court and Criminal Injuries Compensation Board
+
+### Powers of court
+
+#### [^F143]104 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F144]105 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 106 Discretion of Crown Court to specify extended period of imprisonment in default of payment of compensation.
+
+The following subsections shall be substituted for section 41(8) of the [^M40]Administration of Justice Act 1970—
+
+> (8) Subject to subsection (8A) below, where in thecase specified in paragraph 10 of Schedule 9 to this Act the Crown Court thinks that the period for which the person subject to the order is liable apart from this subsection to be committed to prison for default under the order is insufficient, it may specify a longer period for that purpose; and then, in the case of default—
+>
+> (a) the specified period shall be substituted as the maximum for which the person may be imprisoned under section 76 of the Magistrates’ Courts Act 1980; and
+>
+> (b) paragraph 2 of Schedule 4 to that Act shall apply, with any necessary modifications, for the reduction of the specified period where, at the time of the person’s imprisonment, he has made part payment under the order.
+>
+> (8A) The Crown Court may not specify under subsection (8) above a period of imprisonment longer than that which it could order a person to undergo on imposing on him a fine equal in amount to the sum required to be paid by the order.
+
+.
+
+### Compensation for victim out of forfeited property
+
+#### [^F145]107 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Criminal Injuries Compensation Scheme (prospective)
+
+#### [^F146]108 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (prospective)
+
+#### [^F147]109 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (prospective)
+
+#### [^F148]110 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (prospective)
+
+#### [^F149]111 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (prospective)
+
+#### [^F150]112 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (prospective)
+
+#### [^F151]113 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (prospective)
+
+#### [^F152]114 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (prospective)
+
+#### [^F153]115 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (prospective)
+
+#### [^F154]116 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (prospective)
+
+#### [^F155]117 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (prospective)
+
+## Part VIII — Amendments of Law Relating to Juries
+
+### 118 Abolition of peremptory challenge.
+
+(1) The right to challenge jurors without cause in proceedings for the trial of a person on indictment is abolished.
+
+(2) In addition and without prejudice to any powers which the Crown Court may possess to order the exclusion of the public from any proceedings a judge of the Crown Court may order that the hearing of a challenge for cause shall be in camera or in chambers.
+
+### 119 Persons aged between 65 and 70 to be eligible as jurors.
+
+[^F156]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 120 Discretionary deferral of jury service.
+
+The following section shall be inserted after section 9 of the Juries Act 1974—
+
+> **9A Discretionary deferral.**
+>
+> (1) If any person summoned under this Act shows to the satisfaction of the appropriate officer that there is good reason why his attendance in pursuance of the summons should be deferred, the appropriate officer may defer his attendance, and, if he does so, he shall vary the days on which that person is summoned to attend and the summons shall have effect accordingly.
+>
+> (2) If an application under subsection (1) above has been granted or refused, the powers conferred by that subsection may not be exercised subsequently in relation to the same summons.
+>
+> (3) Crown Court Rules shall provide a right of appeal to the court (or one of the courts) before which the person is summoned to attend against any refusal of the appropriate officer to defer his attendance under subsection (1) above.
+>
+> (4) Without prejudice to the preceding provisions of this section, the court (or any of the courts) before which a person is summoned to attend under this Act may defer his attendance.
+
+.
+
+### 121 Continuation of trials for murder on death or discharge of juror.
+
+In section 16(2) of the [^M41]Juries Act 1974 (cases where trial not to proceed on death or discharge of juror without assent of prosecution and accused) the words “for murder or shall cease to have effect.
+
+### 122 Autrefois acquit and autrefois convict.
+
+Where an accused pleads autrefois acquit or autrefois convict it shall be for the judge, without the presence of a jury, to decide the issue.
+
+## Part IX — Young Offenders
+
+### 123 Custodial sentences for young offenders.
+
+(1) [^F157]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F158]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F158]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F159]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) [^F157]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) The amendments and transitional provisions in Schedule 8 to this Act shall have effect.
+
+### 124 Detention of young offenders in Scotland.
+
+(1) In each of sections 207 and 415 of the [^M42]Criminal Procedure (Scotland) Act 1975 for subsections (5) to (10) there shall be substituted the following subsection—
+
+> (5) A sentence of detention imposed under this section shall be a sentence of detention in a young offenders institution.
+
+.
+
+(2) Subject to subsection (3) below, in any enactment—
+
+(a) for a reference to a detention centre there shall be substituted a reference to a young offenders institution; and
+
+(b) for a reference (however expressed) to a detention centre order there shall be substituted a reference to a sentence of detention in a young offenders institution.
+
+(3) Nothing in subsection (2) above applies—
+
+(a) to section 21 of the [^M43]Firearms Act 1968;
+
+(b) to Part I of Schedule I to the [^M44]Law Reform (Miscellaneous Provisions) (Scotland) Act 1980;
+
+(c) to section 41(2) of the [^M45]Criminal Justice (Scotland) Act 1980.
+
+(4) The amendments and transitional provisions in Schedule 9 to this Act shall have effect.
+
+### 125 Abolition of power of court to commit juvenile to remand centre instead of local authority care. 1969 c. 54.
+
+[^F160]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F161]126 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F162]127 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F163]128 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F164]129 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 130 Computation of sentence—time passed in care of local authority in accommodation provided for restricting liberty. 1967 c. 80.
+
+(1) At the end of section 67(1A) of the Criminal Justice Act 1967 there shall be added the words
+
+> or—
+>
+> (c) any period during which, in connection with the offence for which the sentence was passed, he was in the care of a local authority by virtue of an order under section 23 of the Children and Young Persons Act 1969 and in accommodation provided for the purpose of restricting liberty.
+
+.
+
+(2) This section shall not have effect in relation to any sentence imposed before it comes into force.
+
+## Part X — Probation and the Probation Service, Etc.
+
+### 131 Bail: hostel conditions.
+
+(1) In section 3 of the [^M46]Bail Act 1976 (grant of bail) the following subsection shall be inserted after subsection (6)—
+
+> (6ZA) Where he is required under subsection (6) above to reside in a bail hostel or probation hostel, he may also be required to comply with the rules of the hostel.
+
+.
+
+[^F165]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F166]132 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part XI — Miscellaneous
+
+### Miscarriages of justice
+
+#### 133 Compensation for miscarriages of justice.
+
+(1) Subject to subsection (2) below, when a person has been convicted of a criminal offence and when subsequently his conviction has been reversed or he has been pardoned on the ground that a new or newly discovered fact shows beyond reasonable doubt that there has been a miscarriage of justice, the Secretary of State shall pay compensation for the miscarriage of justice to the person who has suffered punishment as a result of such conviction or, if he is dead, to his personal representatives, unless the non-disclosure of the unknown fact was wholly or partly attributable to the person convicted.
+
+[[^F167](1ZA) For the purposes of subsection (1), there has been a miscarriage of justice in relation to a person convicted of a criminal offence in England and Wales or, in a case where subsection (6H) applies, Northern Ireland, if and only if the new or newly discovered fact shows beyond reasonable doubt that the person did not commit the offence (and references in the rest of this Part to a miscarriage of justice are to be construed accordingly).]
+
+(2) No payment of compensation under this section shall be made unless an application for such compensation has been made to the Secretary of State [[^F168]before the end of the period of 2 years beginning with the date on which the conviction of the person concerned is reversed or he is pardoned.
+
+(2A) But the Secretary of State may direct that an application for compensation made after the end of that period is to be treated as if it had been made within that period if the Secretary of State considers that there are exceptional circumstances which justify doing so.]
+
+(3) The question whether there is a right to compensation under this section shall be determined by the Secretary of State.
+
+(4) If the Secretary of State determines that there is a right to such compensation, the amount of the compensation shall be assessed by an assessor appointed by the Secretary of State.
+
+[[^F169](4A) Section 133A applies in relation to the assessment of the amount of the compensation.]
+
+(5) In this section “reversed” shall be construed as referring to a conviction having been quashed—
+
+(a) on an appeal out of time; or
+
+(b) on a reference—
+
+[[^F170](i) under the Criminal Appeal Act 1995; or]
+
+[[^F171](ii) under section 194B of the Criminal Procedure (Scotland) Act 1995 (c. 46);]
+
+[^F172]iii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [[^F173]or
+
+(c) on an appeal under section 7 of the Terrorism Act 2000;] [[^F174] or
+
+[^F175]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .] [[^F176]; or
+
+(f) on an appeal under Schedule 3 to the Terrorism Prevention and Investigation Measures Act 2011;] [[^F177]or
+
+(g) on an appeal under Schedule 4 to the Counter-Terrorism and Security Act 2015;] [[^F178]or
+
+(h) on an appeal under [[^F179]section 33D or] Schedule 9 to the National Security Act 2023.]
+
+[[^F180](5A) But in a case where—
+
+(a) a person's conviction for an offence is quashed on an appeal out of time, and
+
+(b) the person is to be subject to a retrial,
+
+the conviction is not to be treated for the purposes of this section as “reversed” unless and until the person is acquitted of all offences at the retrial or the prosecution indicates that it has decided not to proceed with the retrial.
+
+(5B) In subsection (5A) above any reference to a retrial includes a reference to proceedings held following the remission of a matter to a magistrates' court by the Crown Court under section 48(2)(b) of the [[^F181]Senior Courts Act 1981].]
+
+(6) For the purposes of this section [[^F182]and section 133A] a person suffers punishment as a result of a conviction when sentence is passed on him for the offence of which he was convicted.
+
+[[^F183](6A) Subject to what follows, in the application of this section in relation to a person (“P”) convicted in Northern Ireland of a criminal offence, in subsections (1) to (4) any reference to the Secretary of State is to be read as a reference to the Department of Justice in Northern Ireland.
+
+(6B) If P is pardoned, subsection (6A) applies only if the pardon is a devolved pardon.
+
+(6C) Subsections (6D) to (6H) apply if—
+
+(a) P’s conviction is reversed or P is given a devolved pardon,
+
+(b) an application for compensation is made in relation to P’s conviction,
+
+(c) the application is made before the end of the period mentioned in subsection (2) or, if it is made after the end of that period, the Department of Justice gives a direction under subsection (2A), and
+
+(d) the Department of Justice has reason to believe that protected information may be relevant to the application (for example, because the court which quashed P’s conviction did not make public (in whole or in part) its reasons for quashing P’s conviction).
+
+(6D) The Department of Justice must refer the application to the Secretary of State who must then take a view as to whether or not any protected information is relevant to the application.
+
+(6E) If the Secretary of State takes the view that no protected information is relevant to the application, the Secretary of State must refer the application back to the Department of Justice to be dealt with by the Department accordingly.
+
+(6F) If the Secretary of State takes the view that protected information is relevant to the application, the Secretary of State must refer the application back to the Department of Justice to be dealt with by the Department accordingly unless the Secretary of State is also of the view that, on the grounds of national security, it is not feasible for the Department (including any assessor appointed by the Department) to be provided with either—
+
+(a) the protected information, or
+
+(b) a summary of the protected information that is sufficiently detailed to enable the Department (including any assessor) to deal properly with the application.
+
+(6G) If the Secretary of State refers the application back to the Department of Justice under subsection (6F), the Secretary of State must provide the Department with either—
+
+(a) the protected information, or
+
+(b) a summary of the protected information that appears to the Secretary of State to be sufficiently detailed to enable the Department (including any assessor) to deal properly with the application.
+
+(6H) If the Secretary of State is not required to refer the application back to the Department of Justice—
+
+(a) subsections (3) and (4) apply to the application ignoring subsection (6A), and
+
+(b) any compensation payable on the application is payable by the Secretary of State.
+
+(6I) In this section “protected information” means information the disclosure of which may be against the interests of national security.
+
+(6J) In this section “devolved pardon” means—
+
+(a) a pardon given after the coming into force of the Northern Ireland Act 1998 (Amendment of Schedule 3) Order 2010 in the exercise of powers under section 23(2) of the Northern Ireland Act 1998;
+
+(b) a pardon given before the coming into force of that Order which, had it been given after the coming into force of that Order, would have had to have been given in the exercise of powers under section 23(2) of the 1998 Act (ignoring article 25(2) of the Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010).
+
+(6K) The pardons covered by subsection (6J)(a) include pardons given in reliance on article 25(2) of the Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010.]
+
+(7) Schedule 12 shall have effect.
+
+#### 133A [[^F184]Miscarriages of justice: amount of compensation
+
+(1) This section applies where an assessor is required to assess the amount of compensation payable to or in respect of a person under section 133 for a miscarriage of justice.
+
+(2) In assessing so much of any compensation payable under section 133 as is attributable to suffering, harm to reputation or similar damage, the assessor must have regard in particular to—
+
+(a) the seriousness of the offence of which the person was convicted and the severity of the punishment suffered as a result of the conviction, and
+
+(b) the conduct of the investigation and prosecution of the offence.
+
+(3) The assessor may make from the total amount of compensation that the assessor would otherwise have assessed as payable under section 133 any deduction or deductions that the assessor considers appropriate by reason of either or both of the following—
+
+(a) any conduct of the person appearing to the assessor to have directly or indirectly caused, or contributed to, the conviction concerned; and
+
+(b) any other convictions of the person and any punishment suffered as a result of them.
+
+(4) If, having had regard to any matters falling within subsection (3)(a) or (b), the assessor considers that there are exceptional circumstances which justify doing so, the assessor may determine that the amount of compensation payable under section 133 is to be a nominal amount only.
+
+(5) The total amount of compensation payable to or in respect of a person under section 133 for a particular miscarriage of justice must not exceed the overall compensation limit. [[^F185]In the case of compensation payable by the Department of Justice in Northern Ireland, that] limit is—
+
+(a) £1 million in a case to which section 133B applies, and
+
+(b) £500,000 in any other case.
+
+[[^F186](5A) In the case of compensation payable by the Secretary of State, the overall compensation limit for the purposes of subsection (5) is—
+
+(a) £1,300,000 in a case to which section 133B applies, and
+
+(b) £650,000 in any other case.]
+
+(6) The total amount of compensation payable under section 133 for a person's loss of earnings or earnings capacity in respect of any one year must not exceed the earnings compensation limit.
+
+That limit is an amount equal to 1.5 times the median annual gross earnings according to the latest figures published by the Office of National Statistics at the time of the assessment.
+
+(7) The Secretary of State may by order made by statutory instrument amend subsection (5) or (6) so as to alter any amount for the time being specified as the overall compensation limit or the earnings compensation limit.
+
+(8) No order may be made under subsection (7) unless a draft of the order has been laid before and approved by a resolution of each House of Parliament.
+
+[[^F187](9) In relation to compensation payable by the Department of Justice in Northern Ireland, the power in subsection (7) is exercisable by the Department (and not by the Secretary of State).
+
+(10) The power of the Department of Justice to make an order under subsection (7) is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 (and not by statutory instrument).
+
+(11) No order may be made by the Department of Justice under subsection (7) unless a draft of the order has been laid before, and approved by a resolution of, the Northern Ireland Assembly (and subsection (8) does not apply).
+
+(12) Section 41(3) of the Interpretation Act (Northern Ireland) 1954 applies for the purposes of subsection (11) in relation to the laying of a draft as it applies in relation to the laying of a statutory document under an enactment.]
+
+#### 133B Cases where person has been detained for at least 10 years
+
+(1) For the purposes of section 133A(5) this section applies to any case where the person concerned (“P”) has been in qualifying detention for a period (or total period) of at least 10 years by the time when—
+
+(a) the conviction is reversed, or
+
+(b) the pardon is given,
+
+as mentioned in section 133(1).
+
+(2) P was “in qualifying detention” at any time when P was detained in a prison, a hospital or at any other place, if P was so detained—
+
+(a) by virtue of a sentence passed in respect of the relevant offence,
+
+(b) under mental health legislation by reason of P's conviction of that offence (disregarding any conditions other than the fact of the conviction that had to be fulfilled in order for P to be so detained), or
+
+(c) as a result of P's having been remanded in custody in connection with the relevant offence or with any other offence the charge for which was founded on the same facts or evidence as that for the relevant offence.
+
+(3) In calculating the period (or total period) during which P has been in qualifying detention as mentioned in subsection (1), no account is to be taken of any period of time during which P was both—
+
+(a) in qualifying detention, and
+
+(b) in excluded concurrent detention.
+
+(4) P was “in excluded concurrent detention” at any time when P was detained in a prison, a hospital or at any other place, if P was so detained—
+
+(a) during the term of a sentence passed in respect of an offence other than the relevant offence,
+
+(b) under mental health legislation by reason of P's conviction of any such other offence (disregarding any conditions other than the fact of the conviction that had to be fulfilled in order for P to be so detained), or
+
+(c) as a result of P's having been remanded in custody in connection with an offence for which P was subsequently convicted other than—
+
+(i) the relevant offence, or
+
+(ii) any other offence the charge for which was founded on the same facts or evidence as that for the relevant offence.
+
+(5) But P was not “in excluded concurrent detention” at any time by virtue of subsection (4)(a), (b) or (c) if P's conviction of the other offence mentioned in that provision was quashed on appeal, or a pardon was given in respect of it.
+
+(6) In this section—
+
+- “ mental health legislation ” means—
+
+  - (a) Part 3 of the Mental Health Act 1983,
+  - (b) Part 3 of the Mental Health (Northern Ireland) Order 1986, or
+  - (c) the provisions of any earlier enactment corresponding to Part 3 of that Act or Part 3 of that Order;
+
+- “ the relevant offence ” means the offence in respect of which the conviction is quashed or the pardon is given (but see subsection (7));
+
+- “ remanded in custody ” is to be read in accordance with subsections (8) and (9);
+
+- “ reversed ” has the same meaning as in section 133 of this Act.
+
+(7) If, as a result of the miscarriage of justice—
+
+(a) two or more convictions are reversed, or
+
+(b) a pardon is given in respect of two or more offences,
+
+“ the relevant offence ” means any of the offences concerned.
+
+(8) In relation to England and Wales, “ remanded in custody ” has the meaning given by section 242(2) of the Criminal Justice Act 2003, but that subsection applies for the purposes of this section as if any reference there to a provision of the Mental Health Act 1983 included a reference to any corresponding provision of any earlier enactment.
+
+(9) In relation to Northern Ireland, “ remanded in custody ” means—
+
+(a) remanded in or committed to custody by an order of a court, or
+
+(b) remanded, admitted or removed to hospital under Article 42, 43, 45 or 54 of the Mental Health (Northern Ireland) Order 1986 or under any corresponding provision of any earlier enactment.]
+
+### Torture
+
+#### 134 Torture.
+
+(1) A public official or person acting in an official capacity, whatever his nationality, commits the offence of torture if in the United Kingdom or elsewhere he intentionally inflicts severe pain or suffering on another in the performance or purported performance of his official duties.
+
+(2) A person not falling within subsection (1) above commits the offence of torture, whatever his nationality, if—
+
+(a) in the United Kingdom or elsewhere he intentionally inflicts severe pain or suffering on another at the instigation or with the consent or acquiescence—
+
+(i) of a public official; or
+
+(ii) of a person acting in an official capacity; and
+
+(b) the official or other person is performing or purporting to perform his official duties when he instigates the commission of the offence or consents to or acquiesces in it.
+
+(3) It is immaterial whether the pain or suffering is physical or mental and whether it is caused by an act or an omission.
+
+(4) It shall be a defence for a person charged with an offence under this section in respect of any conduct of his to prove that he had lawful authority, justification or excuse for that conduct.
+
+(5) For the purposes of this section “lawful authority, justification or excuse” means—
+
+(a) in relation to pain or suffering inflicted in the United Kingdom, lawful authority, justification or excuse under the law of the part of the United Kingdom where it was inflicted;
+
+(b) in relation to pain or suffering inflicted outside the United Kingdom—
+
+(i) if it was inflicted by a United Kingdom official acting under the law of the United Kingdom or by a person acting in an official capacity under that law, lawful authority, justification or excuse under that law;
+
+(ii) if it was inflicted by a United Kingdom official acting under the law of any part of the United Kingdom or by a person acting in an official capacity under such law, lawful authority, justification or excuse under the law of the part of the United Kingdom under whose law he was acting; and
+
+(iii) in any other case, lawful authority, justification or excuse under the law of the place where it was inflicted.
+
+(6) A person who commits the offence of torture shall be liable on conviction on indictment to imprisonment for life.
+
+#### 135 Requirement of Attorney General’s consent for prosecutions.
+
+Proceedings for an offence under section 134 above shall not be begun—
+
+(a) in England and Wales, except by, or with the consent of, the Attorney General; or
+
+(b) in Northern Ireland, except by, or with the consent of, the [[^F188]Advocate General for Northern Ireland].
+
+#### 136 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F189]
+
+#### 138 Application to Channel Islands, Isle of Man and colonies.
+
+(1) Her Majesty may by Order in Council make provision for extending sections 134 and 135 above, with such modifications and exceptions as may be specified in the Order, to any of the Channel Islands, the Isle of Man or any colony.
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F190]
+
+### Articles with blades or points and offensive weapons
+
+#### 139 Offence of having article with blade or point in public place.
+
+(1) Subject to subsections (4) and (5) below, any person who has an article to which this section applies with him in a public place shall be guilty of an offence.
+
+(2) Subject to subsection (3) below, this section applies to any article which has a blade or is sharply pointed except a folding pocketknife.
+
+(3) This section applies to a folding pocketknife if the cutting edge of its blade exceeds 3 inches.
+
+(4) It shall be a defence for a person charged with an offence under this section to prove that he had good reason or lawful authority for having the article with him in a public place.
+
+(5) Without prejudice to the generality of subsection (4) above, it shall be a defence for a person charged with an offence under this section to prove that he had the article with him—
+
+(a) for use at work;
+
+(b) for religious reasons; or
+
+(c) as part of any national costume.
+
+(6) A person guilty of an offence under subsection (1) above shall be liable-
+
+[^F191] [ a on summary conviction, to imprisonment for a term not exceeding six months, or a fine not exceeding the statutory maximum, or both;
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding [[^F192]four] years, or a fine, or both.]
+
+[[^F193](6ZA) See section 315 of the Sentencing Code for provision about the sentence which a court in England and Wales may be required to impose where a person aged 16 or over who has a previous relevant conviction (within the meaning of that section) is convicted of an offence under this section.]
+
+[^F194]6A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F194]6B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F194]6C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F194]6D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F194]6E . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F194]6F . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F194]6G . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) In this section “public place” includes any place to which at the material time the public have or are permitted access, whether on payment or otherwise.
+
+(8) This section shall not have effect in relation to anything done before it comes into force.
+
+#### 139A [^F195] [ Offence of having article with blade or point (or offensive weapon) on [[^F196]education premises].
+
+(1) Any person who has an article to which section 139 of this Act applies with him on school premises [[^F197]or further education premises] shall be guilty of an offence.
+
+(2) Any person who has an offensive weapon within the meaning of section 1 of the [^M47] Prevention of Crime Act 1953 with him on school premises [[^F198]or further education premises] shall be guilty of an offence.
+
+(3) It shall be a defence for a person charged with an offence under subsection (1) or (2) above to prove that he had good reason or lawful authority for having the article or weapon with him on the premises in question.
+
+(4) Without prejudice to the generality of subsection (3) above, it shall be a defence for a person charged with an offence under subsection (1) or (2) above to prove that he had the article or weapon in question with him—
+
+(a) for use at work,
+
+(b) for educational purposes,
+
+(c) for religious reasons, or
+
+(d) as part of any national costume.
+
+[[^F199](5) A person guilty of an offence under subsection (1) or (2) is liable—
+
+(a) on summary conviction in England and Wales, to imprisonment for a term not exceeding [[^F200]the general limit in a magistrates’ court] or to a fine, or to both;
+
+(b) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum, or to both;
+
+(c) on conviction on indictment, to imprisonment for a term not exceeding 4 years or to a fine, or to both.
+
+(5ZA) In relation to an offence committed before the coming into force of section 154(1) of the Criminal Justice Act 2003 (maximum sentence that may be imposed on summary conviction of offence triable either way) the reference in subsection (5)(a) to [[^F201]the general limit in a magistrates’ court] is to be read as a reference to 6 months.]
+
+[^F202]5A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F202]5B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F202]5C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F202]5D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F202]5E . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F202]5F . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F202]5G . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F203](5ZB) See section 315 of the Sentencing Code for provision about the sentence which a court in England and Wales may be required to impose where a person aged 16 or over who has a previous relevant conviction (within the meaning of that section) is convicted of an offence under this section.]
+
+[[^F204](6) In this section and section 139B “school premises” means land used for the purposes of a school, excluding any land occupied solely as a dwelling by a person employed at the school; and “school” has the meaning given by—
+
+(a) in relation to land in England and Wales, section 4 of the Education Act 1996;
+
+(b) in relation to land in Northern Ireland, Article 2(2) of the Education and Libraries (Northern Ireland) Order 1986 (SI 1986/594 (NI 3)).]
+
+[[^F205](6A) In this section and section 139B “further education premises” means—
+
+(a) in relation to England and Wales, land used solely for the purposes of—
+
+(i) an institution within the further education sector (within the meaning of section 91 of the Further and Higher Education Act 1992), or
+
+(ii) a 16 to 19 Academy (within the meaning of section 1B of the Academies Act 2010),
+
+excluding any land occupied solely as a dwelling by a person employed at the institution or the 16 to 19 Academy;
+
+(b) in relation to Northern Ireland, land used solely for the purposes of an institution of further education within the meaning of Article 2 of the Further Education (Northern Ireland) Order 1997 (SI 1997/1772 (NI 15)) excluding any land occupied solely as a dwelling by a person employed at the institution.]
+
+(7) In the application of this section to Northern Ireland—
+
+(a) the reference in subsection (2) above to section 1 of the [^M48] Prevention of Crime Act 1953 is to be construed as a reference to Article 22 of the [^M49] Public Order (Northern Ireland) Order 1987; and
+
+(b) the reference in subsection (6) above to [[^F206] section 4 of the Education Act 1996 ] is to be construed as a reference to Article 2(2) of the [^M50] Education and Libraries (Northern Ireland) Order 1986. ]
+
+#### [^F207]139AZA Offences under sections 139 and 139A: previous relevant convictions
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 139AA [[^F208]Offence of threatening with article with blade or point or offensive weapon
+
+(1) A person is guilty of an offence if that person—
+
+(a) has an article to which this section applies with him or her in a public place or on school premises,
+
+(b) unlawfully and intentionally threatens another person [[^F209](“A”)] with the article, and
+
+(c) does so in such a way that [[^F210]a reasonable person (“B”) who was exposed to the same threat as A would think that there was an immediate risk of physical harm to B.]
+
+[[^F211](1A) A person is guilty of an offence if that person—
+
+(a) has an article to which this section applies with them on further education premises,
+
+(b) unlawfully and intentionally threatens another person (“A”) with the article, and
+
+(c) does so in such a way that a reasonable person (“B”) who was exposed to the same threat as A would think that there was an immediate risk of physical harm to B.]
+
+(2) In relation to a public place this section applies to an article to which section 139 applies.
+
+(3) In relation to school premises this section applies to each of these—
+
+(a) an article to which section 139 applies;
+
+(b) an offensive weapon within the meaning of section 1 of the Prevention of Crime Act 1953.
+
+[[^F212](3A) In relation to further education premises this section applies to each of these—
+
+(a) an article to which section 139 applies;
+
+(b) an offensive weapon within the meaning of section 1 of the Prevention of Crime Act 1953.]
+
+[^F213]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In this section—
+
+- [[^F214]“further education premises” means land used solely for the purposes of—
+
+  - (a) an institution within the further education sector (within the meaning of section 91 of the Further and Higher Education Act 1992), or
+  - (b) a 16 to 19 Academy (within the meaning of section 1B of the Academies Act 2010),
+
+  excluding any land occupied solely as a dwelling by a person employed at the institution or the 16 to 19 Academy;]
+
+- “ public place ” has the same meaning as in section 139;
+
+- [[^F215]“school premises” means land used for the purposes of a school, excluding any land occupied solely as a dwelling by a person employed at the school; and “school” has the meaning given by section 4 of the Education Act 1996.]
+
+(6) A person guilty of an offence under this section is liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding [[^F216]the general limit in a magistrates’ court] or to a fine not exceeding the statutory maximum, or to both;
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding 4 years or to a fine, or to both.
+
+[[^F217](6A) For provision about the sentence which the court may be required to impose where a person aged 16 or over is convicted of an offence under this section, see section 312 of the Sentencing Code.]
+
+[^F218]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F218]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F218]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F219]10 In relation to an offence committed before the commencement of section 154(1) of the Criminal Justice Act 2003, the reference in subsection (6)(a) to [[^F220]the general limit in a magistrates’ court] is to be read as a reference to 6 months.
+
+[^F221]11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12) If on a person's trial for an offence under this section (whether on indictment or not) the person is found not guilty of that offence but it is proved that the person committed an offence under section 139 or 139A, the person may be convicted of the offence under that section.]
+
+#### 139B [^F222] Power of entry to search for articles with a blade or point and offensive weapons.
+
+(1) A constable may enter school premises [[^F223]or further education premises] and search those premises and any person on those premises for—
+
+(a) any article to which section 139 of this Act applies, or
+
+(b) any offensive weapon within the meaning of section 1 of the Prevention of Crime Act 1953,
+
+if he has reasonable grounds for [[^F224]suspecting] that an offence under section 139A[[^F225]or 139AA] of this Act is being, or has been, committed.
+
+(2) If in the course of a search under this section a constable discovers an article or weapon which he has reasonable grounds for suspecting to be an article or weapon of a kind described in subsection (1) above, he may seize and retain it.
+
+(3) The constable may use reasonable force, if necessary, in the exercise of the power of entry conferred by this section.
+
+(4) In the application of this section to Northern Ireland [[^F226]—
+
+(a) the reference in subsection (1)(b) above to section 1 of the Prevention of Crime Act 1953 is to be construed as a reference to Article 22 of the Public Order (Northern Ireland) Order 1987.][[^F227], and
+
+(b) the reference in subsection (1) to section 139AA is omitted.]
+
+#### 140 Extension of constable’s power to stop and search.
+
+(1) In section 1 of the [^M51] Police and Criminal Evidence Act 1984 (powers of constable to stop and search)—
+
+(a) [^F228] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) [^F228] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) the following subsection shall be inserted after subsection (8)—
+
+> (8A) This subsection applies to any article in relation to which a person has committed, or is committing or is going to commit an offence under section 139 of the Criminal Justice Act 1988.
+
+.
+
+(2) In section 5(2)(a)(ii) of that Act (annual reports to contain total numbers of searches for offensive weapons) after the word “weapons" there shall be inserted the words “or articles to which section 1(8A) above applies".
+
+#### 141 Offensive weapons.
+
+(1) Any person who manufactures, sells or hires or offers for sale or hire, exposes or has in his possession for the purpose of sale or hire, or lends or gives to any other person, a weapon to which this section applies shall be guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale or both.
+
+[[^F229](1A) Any person who possesses a weapon to which this section applies in private is guilty of an offence and liable—
+
+(a) on summary conviction in England and Wales, to imprisonment for a term not exceeding 51 weeks, to a fine or to both;
+
+(b) on summary conviction in Scotland, to imprisonment for a term not exceeding 6 months, to a fine not exceeding level 5 on the standard scale or to both;
+
+(c) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 12 months, to a fine not exceeding the statutory maximum or to both;
+
+(d) on conviction on indictment in Northern Ireland, to imprisonment for a term not exceeding 4 years, to a fine or to both.
+
+(1B) In relation to an offence committed before the coming into force of section 281(5) of the Criminal Justice Act 2003, subsection (1A)(a) has effect as if the reference to 51 weeks were to 6 months.
+
+(1C) For the purposes of subsection (1A) as it has effect in relation to England and Wales, a person possesses a weapon to which this section applies in private if the person possesses the weapon in a place other than—
+
+(a) a public place,
+
+(b) school premises,
+
+(c) further education premises, or
+
+(d) a prison.
+
+(1D) For the purposes of subsection (1A) as it has effect in relation to Scotland, a person possesses a weapon to which this section applies in private if the person possesses the weapon on domestic premises.
+
+(1E) For the purposes of subsection (1A) as it has effect in relation to Northern Ireland, a person possesses a weapon to which this section applies in private if the person possesses the weapon in a place other than—
+
+(a) a public place,
+
+(b) school premises, or
+
+(c) further education premises.
+
+(1F) In subsections (1C) to (1E)—
+
+- “domestic premises” means premises occupied as a private dwelling (including any stair, passage, garden, yard, garage, outhouse or other appurtenance of such premises which is not used in common by the occupants of more than one such dwelling);
+
+- “further education premises”, in relation to England and Wales, means land used solely for the purposes of—
+
+  - (a) an institution within the further education sector (within the meaning of section 91 of the Further and Higher Education Act 1992), or
+  - (b) a 16 to 19 Academy (within the meaning of section 1B of the Academies Act 2010),
+
+  excluding any land occupied solely as a dwelling by a person employed at the institution or the 16 to 19 Academy;
+
+- “further education premises”, in relation to Northern Ireland, means land used solely for the purposes of an institution of further education within the meaning of Article 2 of the Further Education (Northern Ireland) Order 1997 (SI 1997/1772 (NI 15)) excluding any land occupied solely as a dwelling by a person employed at the institution;
+
+- “prison” includes—
+
+  - (a) a young offender institution,
+  - (b) a secure training centre, and
+  - (c) a secure college;
+
+- “public place” includes any place to which, at the time in question, the public have or are permitted access, whether on payment or otherwise;
+
+- “school premises” means land used for the purposes of a school, excluding any land occupied solely as a dwelling by a person employed at the school; and “school” has the meaning given by—
+
+  - (a) in relation to land in England and Wales, section 4 of the Education Act 1996;
+  - (b) in relation to land in Northern Ireland, Article 2(2) of the Education and Libraries (Northern Ireland) Order 1986 (SI 1986/594 (NI 3)).]
+
+(2) The Secretary of State may by order made by statutory instrument direct that this section shall apply to any description of weapon specified in the order except—
+
+(a) any weapon subject to the [^M52]Firearms Act 1968; and
+
+(b) crossbows.
+
+[^F230]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The importation of a weapon to which this section applies is hereby prohibited.
+
+(5) It shall be a defence for any person charged in respect of any conduct of his relating to a weapon to which this section applies—
+
+(a) with an offence under subsection (1) [[^F231]or (1A)] above; or
+
+(b) with an offence under section 50(2) or (3) of the [^M53]Customs and Excise Management Act 1979 (improper importation),
+
+to [[^F232]show] that his conduct was only for the purposes of functions carried out on behalf of the Crown or of a visiting force.
+
+(6) In this section the reference to the Crown includes the Crown in right of Her Majesty’s Government in Northern Ireland; and
+
+- “visiting force” means any body, contingent or detachment of the forces of a country—
+
+(a) mentioned in subsection (1)(a) of section 1 of the [^M54]Visiting Forces Act 1952; or
+
+(b) designated for the purposes of any provision of that Act by Order in Council under subsection (2) of that section,
+
+which is present in the United Kingdom (including United Kingdom territorial waters) or in any place to which subsection (7) below applies on the invitation of Her Majesty’s Government in the United Kingdom.
+
+(7) This subsection applies to any place on, under or above an installation in a designated area within the meaning of section 1(7) of the [^M55]Continental Shelf Act 1964 or any waters within 500 metres of such an installation.
+
+[[^F233](7A) It is a defence for a person charged with an offence under subsection (1A) to show that the weapon in question is one of historical importance.]
+
+(8) It shall be a defence for any person charged in respect of any conduct of his relating to a weapon to which this section applies—
+
+(a) with an offence under subsection (1) above; or
+
+(b) with an offence under section 50(2) or (3) of the Customs and Excise Management Act 1979,
+
+to [[^F232]show] that the conduct in question was only for the purposes of making the weapon available to a museum or gallery to which this subsection applies.
+
+[[^F234](8A) It is a defence for a person charged with an offence under subsection (1A) to show that they possessed the weapon in question only in their capacity as the operator of, or as a person acting on behalf of, a museum or gallery.]
+
+(9) [[^F235]If the operator of, or a person acting on behalf of,] a museum or gallery to which subsection (8) above applies is charged with hiring or lending a weapon to which this section applies, it shall be a defence for him to [[^F232]show] that he had reasonable grounds for believing that the person to whom he lent or hired it would use it only for cultural, artistic or educational purposes.
+
+(10) Subsection (8) above applies to a museum or gallery only if it does not distribute profits.
+
+(11) In this section “museum or gallery” includes any institution which has as its purpose, or one of its purposes, the preservation, display and interpretation of material of historical, artistic or scientific interest and gives the public access to it.
+
+[[^F236](11ZA) It is a defence for a person charged with an offence under subsection (1A) to show that they possessed the weapon in question for educational purposes only.]
+
+[[^F237](11A) It shall be a defence for a person charged in respect of conduct of his relating to a weapon to which this section applies—
+
+(a) with an offence under subsection (1) above, or
+
+(b) with an offence under section 50(2) or (3) of the Customs and Excise Management Act 1979,
+
+to show that his conduct was for the purpose only of making the weapon in question available for one or more of the purposes specified in subsection (11B).
+
+[[^F238](11AA) It is a defence for a person charged with an offence under subsection (1A) to show that they possessed the weapon in question only for one or more of the purposes specified in subsection (11B).]
+
+(11B) Those purposes are—
+
+(a) the purposes of theatrical performances and of rehearsals for such performances;
+
+(b) the production of films (within the meaning of Part 1 of the Copyright, Designs and Patents Act 1988 – see section 5B of that Act);
+
+(c) the production of television programmes (within the meaning of the Communications Act 2003 – see section 405(1) of that Act).
+
+(11C) For the purposes of this section a person shall be taken to have shown a matter specified in subsection (5), [[^F239](7A), (8), (8A), (9), (11ZA), (11A) or (11AA)] if—
+
+(a) sufficient evidence of that matter is adduced to raise an issue with respect to it; and
+
+(b) the contrary is not proved beyond a reasonable doubt.
+
+(11D) The Secretary of State may by order made by statutory instrument—
+
+(a) provide for exceptions and exemptions from the offence under subsection (1) [[^F240]or (1A)] above or from the prohibition in subsection (4) above; and
+
+(b) provide for it to be a defence in proceedings for such an offence, or for an offence under section 50(2) or (3) of the Customs and Excise Management Act 1979, to show the matters specified or described in the order.
+
+(11E) A statutory instrument containing an order under this section shall not be made unless a draft of the instrument has been laid before Parliament and approved by a resolution of each House.]
+
+(12) This section shall not have effect in relation to anything done before it comes into force.
+
+[[^F241](12A) An order under this section which has the effect that possession in private of a weapon of a particular description is, or is to become, an offence under subsection (1A) may make provision—
+
+(a) enabling arrangements to be made for the surrender of weapons of that description;
+
+(b) as to the procedure to be followed in relation to the surrender of such weapons;
+
+(c) for the payment of compensation in respect of weapons surrendered in accordance with the arrangements;
+
+(d) as to the requirements that must be met by a person making a claim for compensation;
+
+(e) as to the procedure to be followed in respect of a claim and for the determination of a claim;
+
+(f) enabling a person to exercise a discretion in determining whether to make a payment in response to a claim and the amount of such a payment.]
+
+(13) In the application of this section to Northern Ireland [[^F242]in subsection (2) above the reference to the Secretary of State shall be construed as a reference to the Department of Justice in Northern Ireland and the reference] to the [^M56]Firearms Act 1968 shall be construed as a reference to the [^M57]Firearms (Northern Ireland) Order [[^F243]2004].
+
+#### 141ZA [[^F244]Application of section 141 to swords: further provision
+
+(1) This section applies where the Scottish Ministers make an order under subsection (2) of section 141 directing that the section shall apply to swords.
+
+(2) The Scottish Ministers may include in the order provision for or in connection with modifying section 141 in its application to swords.
+
+(3) The Scottish Ministers may in particular—
+
+(a) provide for defences (including in particular defences relating to religious, cultural or sporting purposes) to offences;
+
+(b) increase the penalties specified in subsection (1) of section 141 (or that subsection as modified) so as to make a person liable—
+
+(i) on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine or both;
+
+(ii) on summary conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding the statutory maximum or both;
+
+(c) create an offence (punishable on summary conviction only and subject to a penalty which is no greater than that mentioned in subsection (6)) relating to the provision, without reasonable excuse, of false information by a person acquiring a sword in circumstances specified in the order.
+
+(4) In making provision under subsection (3)(a) the Scottish Ministers may make provision for or in connection with—
+
+(a) the granting, and revocation, by them of authorisations in relation to the acquisition of swords;
+
+(b) enabling them to specify conditions in such authorisations;
+
+(c) requiring persons to whom authorisations are granted to comply with such conditions;
+
+(d) making it an offence (punishable on summary conviction only and subject to a penalty which is no greater than that mentioned in subsection (6)) to fail to comply with any such conditions.
+
+(5) Defences specified under subsection (3)(a) may relate to swords in general or to a class, or classes, of sword specified in the order.
+
+(6) The penalty is—
+
+(a) imprisonment for a term not exceeding 12 months; or
+
+(b) a fine not exceeding level 5 on the standard scale,
+
+or both.
+
+(7) The power conferred by subsection (2) is without prejudice to the generality of the power conferred by section 141(11G).]
+
+#### [^F246]141ZB [[[^F245][[^F245][^F246][[^F247][[^F248]Importation of offensive weapons: prohibition (prospective)
+
+[^F246]1 [^F246]The importation of an offensive weapon is prohibited, subject to section 141ZC.
+
+[^F246]2 [^F246] In this section “ [^F246]offensive weapon[^F246] ” means a weapon of a description specified in an order made by the Secretary of State for the purposes of this subsection.
+
+[^F246]3 [^F246]The Secretary of State may not specify any of the following under subsection (2)—
+
+[^F246]a [^F246]a weapon subject to the Firearms Act 1968;
+
+[^F246]b [^F246]a crossbow.
+
+[^F246]4 [^F246]Orders under this section are to be made by statutory instrument.
+
+[^F246]5 [^F246]A statutory instrument containing an order under this section may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+[^F246]6 [^F246]In the application of this section to Northern Ireland the reference in subsection (3) to the Firearms Act 1968 is to be construed as a reference to the Firearms (Northern Ireland) Order 2004.
+
+#### [^F246]141ZC [^F246]Prohibition on importation of offensive weapons: exceptions (prospective)
+
+[^F246]1 [^F246]The importation of a weapon is not prohibited by section 141ZB if one of the following exceptions applies.
+
+[^F246]2 [^F246]Exception 1 is that the weapon is imported for the purposes only of functions carried out on behalf of—
+
+[^F246]a [^F246]the Crown, or
+
+[^F246]b [^F246]a visiting force.
+
+[^F246]3 [^F246]Exception 2 is that the weapon is imported for the purposes only of making it available to a museum or gallery which does not distribute profits.
+
+[^F246]4 [^F246]Exception 3 is that the weapon is imported for the purposes only of making it available for one or more of the following—
+
+[^F246]a [^F246]theatrical performances;
+
+[^F246]b [^F246]rehearsals of theatrical performances;
+
+[^F246]c [^F246]the production of films;
+
+[^F246]d [^F246]the production of television programmes.
+
+[^F246]5 [^F246]In subsection (4)—
+
+- [^F246] “ [^F246]films[^F246] ” has the meaning given by section 5B of the Copyright, Designs and Patents Act 1988;
+- [^F246] “ [^F246]television programmes[^F246] ” has the meaning given by section 405 of the Communications Act 2003.
+
+[^F246]6 [^F246]The Secretary of State may by order provide for further exceptions from the prohibition on importation of weapons under section 141ZB.
+
+[^F246]7 [^F246]Orders under this section are to be made by statutory instrument.
+
+[^F246]8 [^F246]A statutory instrument containing an order under this section may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+
+[^F246]9 [^F246]Expressions used in this section and in section 141 have the same meaning in this section as in that section.
+
+#### [^F246]141ZD [^F246]Prohibition on importation of offensive weapons: burdens of proof (prospective)
+
+[^F246]1 [^F246]This section applies for the purposes of proceedings for an offence under the Customs and Excise Management Act 1979 relating to a weapon the importation of which is prohibited by section 141ZB above.
+
+[^F246]2 [^F246]An exception conferred by or under section 141ZC is to be taken not to apply unless sufficient evidence is adduced to raise an issue with respect to the exception.
+
+[^F246]3 [^F246]Where sufficient evidence is adduced to raise an issue with respect to an exception, it is to be taken to apply unless the contrary is proved beyond a reasonable doubt.]]
+
+#### 141A [^F249] [ Sale of knives and certain articles with blade or point to persons under sixteen.
+
+(1) Any person who sells to a person under the age of [[^F250]eighteen] years an article to which this section applies shall be guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding six months, or a fine not exceeding level 5 on the standard scale, or both.
+
+(2) Subject to subsection (3) below, this section applies to—
+
+(a) any knife, knife blade or razor blade,
+
+(b) any axe, and
+
+(c) any other article which has a blade or which is sharply pointed and which is made or adapted for use for causing injury to the person.
+
+(3) This section does not apply to any article described in—
+
+(a) section 1 of the [^M58] Restriction of Offensive Weapons Act 1959, [[^F251]or]
+
+[^F252]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) an order made by the Secretary of State under this section.
+
+(4) [[^F253]Subject to section 141B, it] shall be a defence for a person charged with an offence under subsection (1) above to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
+
+(5) The power to make an order under this section shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.]
+
+#### 141B [[^F254]Limitations on defence to offence under section 141A: England and Wales
+
+(1) This section applies if—
+
+(a) a person (“the seller”) is charged with an offence under section 141A (sale of bladed articles to persons under 18), and
+
+(b) the seller was not in the presence of the person (“the buyer”) to whom the article to which the charge relates was sold at the time of the sale.
+
+(2) For the purposes of subsection (1)(b) the seller was not in the presence of the buyer at the time of the sale if—
+
+(a) where the seller is an individual, the seller or a person acting on the seller's behalf was not in the presence of the buyer at that time;
+
+(b) where the seller is not an individual, a person acting on the seller's behalf was not in the presence of the buyer at that time.
+
+(3) The seller is not to be regarded as having proved that they took all reasonable precautions and exercised all due diligence to avoid the commission of the offence unless, as a minimum, they prove that the following conditions are met.
+
+(4) Condition A is that, at the time the offence is alleged to have been committed—
+
+(a) the seller operated a system for checking that persons who bought articles to which section 141A applied by the same or a similar method of purchase to that used by the buyer were not under the age of 18, and
+
+(b) that system was likely to prevent persons under the age of 18 from buying such articles by that method.
+
+(5) Condition B is that when the package containing the article was dispatched by the seller, it was clearly marked to indicate—
+
+(a) that it contained an article with a blade or which was sharply pointed (as the case may be), and
+
+(b) that, when finally delivered, it should only be delivered into the hands of a person aged 18 or over.
+
+(6) Condition C is that the seller took all reasonable precautions and exercised all due diligence to ensure that, when finally delivered, the package would be delivered into the hands of a person aged 18 or over.
+
+(7) Condition D is that the seller did not deliver the package, or arrange for its delivery, to a locker.
+
+(8) Where the article to which section 141A applied was dispatched by the seller to a place from which it was to be collected by the buyer or a person acting on behalf of the buyer, references in subsections (5) and (6) to the final delivery of the article are to be read as its supply to the buyer or a person acting on behalf of the buyer from that place.
+
+(9) In subsection (7) “locker” means a lockable container to which the package was delivered with a view to its collection by the buyer, or a person acting on behalf of the buyer, in accordance with arrangements made between the seller and the buyer.]
+
+#### 141C [[^F255]Defence to offence under section 141A where remote sale or letting on hire: Scotland
+
+(1) This section applies if—
+
+(a) a person (“the accused”) is charged with an offence under section 141A (sale or letting on hire of bladed articles to persons under 18), and
+
+(b) the accused was not in the presence of the person (“the recipient”) to whom the article to which the charge relates was sold or let on hire at the time of the sale or letting on hire.
+
+(2) For the purposes of subsection (1)(b) the accused was not in the presence of the recipient at the time of the sale or letting on hire if—
+
+(a) where the accused is an individual, the accused or a person acting on the accused's behalf was not in the presence of the recipient at that time;
+
+(b) where the accused is not an individual, a person acting on the accused's behalf was not in the presence of the recipient at that time.
+
+(3) It is a defence for the accused to show that the conditions in subsections (5) to (8) are met.
+
+(4) The accused is to be taken to have shown a matter mentioned in subsections (5) to (8) if—
+
+(a) sufficient evidence of the matter is adduced to raise an issue with respect to it, and
+
+(b) the contrary is not proved beyond reasonable doubt.
+
+(5) Condition A is that, at the time the offence is alleged to have been committed—
+
+(a) the accused operated a system for checking that persons who bought or hired articles to which section 141A applied by the same or a similar method of purchase or hire to that used by the recipient were not under the age of 18, and
+
+(b) that system was likely to prevent persons under the age of 18 from buying or hiring such articles by that method.
+
+(6) Condition B is that when the package containing the article was dispatched by the accused, it was clearly marked to indicate—
+
+(a) that it contained an article with a blade or which was sharply pointed (as the case may be), and
+
+(b) that, when finally delivered, it should only be delivered into the hands of a person aged 18 or over.
+
+(7) Condition C is that the accused took all reasonable precautions and exercised all due diligence to ensure that, when finally delivered, the package would be delivered into the hands of a person aged 18 or over.
+
+(8) Condition D is that the accused did not deliver the package, or arrange for its delivery, to a locker.
+
+(9) Where the article to which section 141A applied was dispatched by the accused to a place from which it was to be collected by the recipient or a person acting on behalf of the recipient, references in subsections (6) and (7) to the final delivery of the article are to be read as its supply to the recipient, or a person acting on behalf of the recipient, from that place.
+
+(10) In subsection (8) “locker” means a lockable container to which the package was delivered with a view to its collection by the recipient, or a person acting on behalf of the recipient, in accordance with arrangements made between the accused and the recipient.]
+
+#### 142 Power of justice of the peace to authorise entry and search of premises for offensive weapons.
+
+(1) If on an application made by a constable a justice of the peace (including, in Scotland, the sheriff) is satisfied that there are reasonable grounds for believing—
+
+(a) that there are on premises specified in the application—
+
+(i) knives such as are mentioned in section 1(1) of the [^M59] Restriction of Offensive Weapons Act 1959; or
+
+(ii) weapons to which section 141 above applies; and
+
+(b) that an offence under section 1 of the Restriction of Offensive Weapons Act 1959 or section 141 above has been or is being committed in relation to them; and
+
+(c) that any of the conditions specified in subsection (3) below applies,
+
+he may issue a warrant authorising a constable to enter and search the premises.
+
+(2) A constable may seize and retain anything for which a search has been authorised under subsection (1) above.
+
+(3) The conditions mentioned in [[^F256]subsection (1)(c)] above are—
+
+(a) that it is not practicable to communicate with any person entitled to grant entry to the premises;
+
+(b) that it is practicable to communicate with a person entitled to grant entry to the premises but it is not practicable to communicate with any person entitled to grant access to the knives or weapons to which the application relates;
+
+(c) that entry to the premises will not be granted unless a warrant is produced;
+
+(d) that the purpose of a search may be frustrated or seriously prejudiced unless a constable arriving at the premises can secure immediate entry to them.
+
+(4) Subsection (1)(a)(i) shall be omitted in the application of this section to Northern Ireland.
+
+### Serious fraud
+
+#### 143 Assistance to Isle of Man and Channel Islands.
+
+In subsection (1) of section 2 of the [^M60]Criminal Justice Act 1987 (investigation powers of Director of Serious Fraud Office) after the word “above," there shall be inserted the words “or, on a request made by the Attorney General of the Isle of Man, Jersey or Guernsey, under legislation corresponding to that section and having effect in the Island whose Attorney General makes the request,".
+
+#### [^F257]144 Transferred charges.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 145 Power to petition for winding-up etc. on information obtained on investigation by Director of Serious Fraud Office.
+
+The words “or section 2 of the Criminal Justice Act 1987” shall be inserted—
+
+[[^F258](a) in section 440 of the [^M61]Companies Act 1985, after the words “that Act";]
+
+(b) in section 8(1) of the [^M62]Company Directors Disqualification Act 1986, after the words “the Financial Services Act 1986", in the second place where they occur; and
+
+[^F259]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Evidence before Service courts
+
+#### 146 Evidence before [[^F260]certain service courts].
+
+Schedule 13 to this Act shall have effect in relation to evidence before [[^F261]certain service courts].
+
+### Amendments of Police and Criminal Evidence Act 1984 etc.
+
+#### 147 Searches of detained persons.
+
+In section 54 of the [^M63]Police and Criminal Evidence Act l984 (searches of detained persons)—
+
+(a) the following paragraph shall be substituted for subsection (1)(b)—
+
+> (b) arrested at the station or detained there under section 47(5) above.
+
+; and
+
+(b) the following subsections shall be inserted after subsection (6)—
+
+> (6A) A person who is in custody at a police station or is in police detention otherwise than at a police station may at any time be searched in order to ascertain whether he has with him anything which he could use for any of the purposes specified in subsection (4)(a) above.
+>
+> (6B) Subject to subsection (6C) below, a constable may seize and retain, or cause to be seized and retained, anything found on such a search.
+>
+> (6C) A constable may only seize clothes and personal effects in the circumstances specified in subsection (4) above.
+
+.
+
+#### [^F262]148 Computer data about fingerprints.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 149 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F263]
+
+### Provisions relating to Customs and Excise
+
+#### 150 Bail for persons in customs detention. (prospective)
+
+At the end of section 114(2)(b) of the [^M64]Police and Criminal Evidence Act 1984 there shall be added the words
+
+> and
+>
+> (c) that in relation to customs detention (as defined in any order made under this subsection) the Bail Act 1976 shall have effect as if references in it to a constable were references to an officer of Customs and Excise of such grade as may be specified in the order.
+
+.
+
+#### 151 Customs and Excise power of arrest.
+
+(1) If—
+
+(a) a person—
+
+(i) has been released on bail in criminal proceedings for an offence falling within subsection (4) below; and
+
+(ii) is under a duty to surrender into customs detention; and
+
+(b) an officer of Customs and Excise has reasonable grounds for believing that that person is not likely to surrender to custody,
+
+he may be arrested without warrant by an officer of Customs and Excise.
+
+(2) A person arrested in pursuance of subsection (1) above shall be brought as soon as practicable and in any event within 24 hours after his arrest before a justice of the peace [^F264]. . . .
+
+(3) In reckoning for the purposes of subsection (2) above any period of 24 hours, no account shall be taken of Christmas Day, Good Friday or any Sunday.
+
+(4) The offences that fall within this subsection are—
+
+(a) an offence against section 5(2) of the [^M65]Misuse of Drugs Act 1971 (possession of controlled drugs);[^F265]. . .
+
+(b) a drug trafficking offence.
+
+[[^F266](c) a money laundering offence;]
+
+(5) In this section and section 152 below “drug trafficking offence” means [[^F267]any offence which is specified in—
+
+(a) paragraph 1 of Schedule 2 to the Proceeds of Crime Act 2002 (drug trafficking offences), or
+
+(b) so far as it relates to that paragraph, paragraph 10 of that Schedule.]
+
+[[^F268](6) In this section “money laundering offence” means any offence which by virtue of section 415 of the Proceeds of Crime Act 2002 is a money laundering offence for the purposes of Part 8 of that Act.]
+
+#### 152 Remands of suspected drug offenders to [^F269]. . . detention.
+
+(1) Subject—
+
+(a) to subsection (2) below; and
+
+(b) to section 4 of the Bail Act 1976,
+
+where—
+
+(i) a person is brought before a magistrates’ court on a charge of an offence against section 5(2) of the Misuse of Drugs Act 1971 or a drug trafficking offence; and
+
+(ii) the court has power to remand him,
+
+it shall have power, if it considers it appropriate to do so, to remand him to customs detention, that is to say, commit him to the custody of a customs officer for a period not exceeding 192 hours.
+
+[[^F270](1A) In subsection (1) the power of a magistrates' court to remand a person to customs detention for a period not exceeding 192 hours includes power to commit the person to the custody of a constable to be detained for such a period.]
+
+(2) This section does not apply where a charge is brought against a person under the age of 17.
+
+(3) In the application of this section to Northern Ireland, for the words from the beginning of subsection (1) above to “1976" there shall be substituted the words “Subject to subsection (2) below,".
+
+[^F271][4 In the application of this section to Northern Ireland, “drug trafficking offence" means][[^F272]any offence which is specified in—
+
+(a) paragraph 1 of Schedule 5 to the Proceeds of Crime Act 2002 (drug trafficking offences), or
+
+(b) so far as it relates to that paragraph, paragraph 10 of that Schedule.]
+
+### Bail and custody
+
+#### 153 Court to give reasons for granting bail to a person accused of serious offence.
+
+The following paragraph shall be inserted after paragraph 9 (decisions as to grant or refusal of bail) of Part I of Schedule 1 to the [^M66]Bail Act 1976—
+
+> **9A**
+>
+> (1) If—
+>
+> (a) the defendant is charged with an offence to which this paragraph applies; and
+>
+> (b) representations are made as to any of the matters mentioned in paragraph 2 of this Part of this Schedule; and
+>
+> (c) the court decides to grant him bail,
+>
+> the court shall state the reasons for its decision and shall cause those reasons to be included in the record of the proceedings.
+>
+> (2) The offences to which this paragraph applies are—
+>
+> (a) murder;
+>
+> (b) manslaughter;
+>
+> (c) rape;
+>
+> (d) attempted murder; and
+>
+> (e) attempted rape.
+
+.
+
+#### 154 Decisions where bail refused on previous hearing.
+
+The following new Part shall be inserted after Part II of Schedule 1 to the Bail Act 1976—
+
+> **Part IIA — Decisions where Bail Refused on Previous Hearing**
+>
+> **1**
+>
+> If the court decides not to grant the defendant bail, it is the court’s duty to consider, at each subsequent hearing while the defendant is a person to whom section 4 above applies and remains in custody, whether he ought to be granted bail.
+>
+> **2**
+>
+> At the first hearing after that at which the court decided not to grant the defendant bail he may support an application for bail with any argument as to fact or law that he desires (whether or not he has advanced that argument previously).
+>
+> **3**
+>
+> At subsequent hearings the court need not hear arguments as to fact or law which it has heard previously.
+
+.
+
+#### 155 Remands in custody for more than eight days.
+
+(1) The following section shall be inserted after section 128 of the [^M67]Magistrates’ Courts Act 1980—
+
+> **128A Remands in custody for more than eight days.**
+>
+> (1) The Secretary of State may by order made by statutory instrument provide that this section shall have effect—
+>
+> (a) in an area specified in the order; or
+>
+> (b) in proceedings of a description so specified,
+>
+> in relation to any accused person (“the accused") who has attained the age of 17.
+>
+> (2) A magistrates’ court may remand the accused in custody for a period exceeding 8 clear days if—
+>
+> (a) it has previously remanded him in custody for the same offence; and
+>
+> (b) he is before the court,
+>
+> but only if, after affording the parties an opportunity to make representations, it has set a date on which it expects that it will be possible for the next stage in the proceedings, other than a hearing relating to a further remand in custody or on bail, to take place, and only—
+>
+> (i) for a period ending not later than that date; or
+>
+> (ii) for a period of 28 clear days,
+>
+> whichever is the less.
+>
+> (3) Nothing in this section affects the right of the accused to apply for bail during the period of the remand.
+>
+> (4) A statutory instrument containing an order under this section shall not be made unless a draft of the instrument has been laid before Parliament and been approved by a resolution of each House.
+
+.
+
+(2) After paragraph 9A of Schedule 1 to the [^M68]Bail Act 1976 there shall be inserted—
+
+> **9B Cases under section 128A of Magistrates’ Courts Act 1980**
+>
+> Where the court is considering exercising the power conferred by section 128A of the Magistrates’ Courts Act 1980 (power to remand in custody for more than 8 clear days), it shall have regard to the total length of time which the accused would spend in custody if it were to exercise the power.
+
+.
+
+### Appeals
+
+#### 156 Appeals to Crown Court.
+
+In paragraph (a) of section 48(2) of the [^M69][[^F273]Senior Courts Act 1981] (which sets out the powers of the Crown Court on the termination of the hearing of an appeal) for the words “the decision appealed against" there shall be substituted the words “any part of the decision appealed against, including a determination not to impose a separate penalty in respect of an offence".
+
+#### 157 Groundless appeals and applications for leave to appeal.
+
+The following section shall be substituted for section 20 of the [^M70]Criminal Appeal Act 1968—
+
+> **20 Disposal of groundless appeal or application for leave to appeal.**
+>
+> If it appears to the registrar that a notice of appeal or application for leave to appeal does not show any substantial ground of appeal, he may refer the appeal or application for leave to the Court for summary determination; and where the case is so referred the Court may, if they consider that the appeal or application for leave is frivolous or vexatious, and can be determined without adjourning it for a full hearing, dismiss the appeal or application for leave summarily, without calling on anyone to attend the hearing or to appear for the Crown thereon.
+
+.
+
+### Reports of criminal proceedings
+
+#### 158 Anonymity in rape etc. cases.
+
+(1) The [^M71]Sexual Offences (Amendment) Act 1976 shall be amended as follows.
+
+(2) The following subsections shall be substituted for subsection (1) of section 4 (anonymity of complainants in rape etc. cases)—
+
+> (1) Except as authorised by a direction given in pursuance of this section—
+>
+> (a) after an allegation that a woman has been the victim of a rape offence has been made by the woman or by any other person, neither the woman’s name nor her address nor a still or moving picture of her shall during her lifetime—
+>
+> (i) be published in England and Wales in a written publication available to the public; or
+>
+> (ii) be broadcast or included in a cable programme in England and Wales,
+>
+> if that is likely to lead members of the public to identify her as an alleged victim of such an offence; and
+>
+> (b) after a person is accused of a rape offence, no matter likely to lead members of the public to identify a woman as the complainant in relation to that accusation shall during her lifetime—
+>
+> (i) be published in England and Wales in a written publication available to the public; or
+>
+> (ii) be broadcast or included in a cable programme in England and Wales;
+>
+> but nothing in this subsection prohibits the publication or broadcasting or inclusion in a cable programme of matter consisting only of a report of criminal proceedings other than proceedings at, or intended to lead to, or on an appeal arising out of, a trial at which the accused is charged with the offence.
+>
+> (1A) In subsection (1) above “picture” includes a likeness however produced.
+
+.
+
+(3) The following subsections shall be inserted after subsection (5) of that section—
+
+> (5A) Where a person is charged with an offence under subsection (5) of this section in respect of the publication or broadcast of any matter or the inclusion of any matter in a cable programme, it shall be a defence, subject to subsection (5B) below, to prove that the publication, broadcast or cable programme in which the matter appeared was one in respect of which the woman had given written consent to the appearance of matter of that description.
+>
+> (5B) Written consent is not a defence if it is proved that any person interfered unreasonably with the woman’s peace or comfort with intent to obtain the consent.
+
+.
+
+(4) In subsection (3) of that section—
+
+(a) the words “before the Crown Court at which a person is charged with a rape offence" and “relating to the complainant" shall cease to have effect; and
+
+(b) for the words “an acquittal of a defendant at" there shall be substituted the words “the outcome of".
+
+(5) Section 6 (anonymity of defendants in rape etc. cases) shall cease to have effect.
+
+(6) In section 7(2), in the definition of a “rape offence" , for the words “and incitement to rape" there shall be substituted the words, “incitement to rape, conspiracy to rape and burglary with intent to rape".
+
+#### 159 Crown Court proceedings— orders restricting or preventing reports or restricting public access.
+
+(1) A person aggrieved may appeal to the Court of Appeal, if that court grants leave, against—
+
+(a) an order under section 4 or 11 of the [^M72]Contempt of Court Act 1981 made in relation to a trial on indictment;
+
+[^F274][aa an order made by the Crown Court under [[^F275]section 39(7) or (8) of the Sentencing Code or] section 58(7) or (8) of the [^M73]Criminal Procedure and Investigations Act 1996 in a case where the Court has convicted a person on a trial on indictment;]
+
+(b) any order restricting the access of the public to the whole or any part of a trial on indictment or to any proceedings ancillary to such a trial; and
+
+(c) any order restricting the publication of any report of the whole or any part of a trial on indictment or any such ancillary proceedings;
+
+and the decision of the Court of Appeal shall be final.
+
+(2) Subject to Rules of Court, the jurisdiction of the Court of Appeal under this section shall be exercised by the criminal division of the Court, and references to the Court of Appeal in this section shall be construed as references to that division.
+
+(3) On an application for leave to appeal under this section a judge shall have power to give such directions as appear to him to be appropriate and, without prejudice to the generality of this subsection, power—
+
+(a) to order the production in court of any transcript or note of proceedings or other document;
+
+(b) to give directions as to persons who are to be parties to the appeal or who may be parties to it if they wish and as to service of documents on any person;
+
+and the Court of Appeal shall have the same powers as the single judge.
+
+(4) Subject to Rules of Court made by virtue of subsection (6) below, any party to an appeal under this section may give evidence before the Court of Appeal orally or in writing.
+
+(5) On the hearing of an appeal under this section the Court of Appeal shall have power—
+
+(a) to stay any proceedings in any other court until after the appeal is disposed of;
+
+(b) to confirm, reverse or vary the order complained of; and
+
+(c) to make such order as to costs as it thinks fit.
+
+(6) [^F276]. . . Rules of Court may make in relation to trials satisfying specified conditions special provision as to the practice and procedure to be followed in relation to hearings in camera and appeals from orders for such hearings and may in particular, but without prejudice to the generality of this subsection, provide that subsection (4) above shall not have effect.
+
+(7) In the application of this section to Northern Ireland—
+
+(a) subsection (2) shall be omitted; and
+
+[[^F277](b) in subsection (6), before “Rules of Court” there shall be inserted Without prejudice to the generality of sections 52 and 55 of the Judicature (Northern Ireland) Act 1978.]
+
+### Possession of indecent photograph of child
+
+#### 160 [[^F278]Possession of indecent photograph of child]
+
+(1) [[^F279]Subject to section 160A,] it is an offence for a person to have any indecent photograph [[^F280]or pseudo-photograph]of a child [^F281]. . . in his possession.
+
+(2) Where a person is charged with an offence under subsection (1) above, it shall be a defence for him to prove—
+
+(a) that he had a legitimate reason for having the photograph [[^F282]or pseudo-photograph] in his possession; or
+
+(b) that he had not himself seen the photograph [[^F282]or pseudo-photograph] and did not know, nor had any cause to suspect, it to be indecent; or
+
+(c) that the photograph [[^F282]or pseudo-photograph] was sent to him without any prior request made by him or on his behalf and that he did not keep it for an unreasonable time.
+
+[[^F283](2A) A person shall be liable on conviction on indictment of an offence under this section to imprisonment for a term not exceeding five years or a fine, or both.]
+
+(3) A person shall be liable on summary conviction of an offence under this section to [[^F284]imprisonment for a term not exceeding six months or] a fine not exceeding level 5 on the standard scale [[^F284], or both].
+
+(4) Sections 1(3), 2(3), 3 and 7 of the [^M74]Protection of Children Act 1978 shall have effect as if any reference in them to that Act included a reference to this section.
+
+[^F285]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 160A [[^F286]Marriage and other relationships
+
+(1) This section applies where, in proceedings for an offence under section 160 relating to an indecent photograph [[^F287]or pseudo-photograph] of a child, the defendant proves that the photograph was of the child aged 16 or over, and that at the time of the offence charged the child and he—
+
+(a) were married [[^F288]or civil partners of each other] , or
+
+(b) lived together as partners in an enduring family relationship.
+
+(2) This section also applies where, in proceedings for an offence under section 160 relating to an indecent photograph [[^F287]or pseudo-photograph] of a child, the defendant proves that the photograph was of the child aged 16 or over, and that at the time when he obtained it the child and he—
+
+(a) were married [[^F288]or civil partners of each other] , or
+
+(b) lived together as partners in an enduring family relationship.
+
+(3) This section applies whether the photograph [[^F287]or pseudo-photograph] showed the child alone or with the defendant, but not if it showed any other person.
+
+(4) If sufficient evidence is adduced to raise an issue as to whether the child consented to the photograph [[^F287]or pseudo-photograph] being in the defendant’s possession, or as to whether the defendant reasonably believed that the child so consented, the defendant is not guilty of the offence unless it is proved that the child did not so consent and that the defendant did not reasonably believe that the child so consented.]
+
+#### 161 Possession of indecent photographs of children: Scotland.
+
+(1) The following section shall be inserted after section 52 of the [^M75]Civic Government (Scotland) Act 1982—
+
+> **52A Possession of indecent photographs of children.**
+>
+> (1) It is an offence for a person to have any indecent photograph of a child (meaning in this section a person under the age of 16) in his possession.
+>
+> (2) Where a person is charged with an offence under subsection (1), it shall be a defence for him to prove—
+>
+> (a) that he had a legitimate reason for having the photograph in his possession; or
+>
+> (b) that he had not himself seen the photograph and did not know, nor had any cause to suspect, it to be indecent; or
+>
+> (c) that the photograph was sent to him without any prior request made by him or on his behalf and that he did not keep it for an unreasonable time.
+>
+> (3) A person shall be liable on summary conviction of an offence under this section to a fine not exceeding level 5 on the standard scale.
+>
+> (4) Subsections (2) and (8) of section 52 of this Act shall have effect for the purposes of this section as they have for the purposes of that section.
+
+.
+
+(2) Section 52A of that Act shall not have effect in relation to anything done before it comes into force.
+
+### Video recordings
+
+#### 162 Enforcement of Video Recordings Act 1984.
+
+The following section shall be inserted after section 16 of the [^M76]Video Recordings Act 1984—
+
+> **16A Enforcement.**
+>
+> (1) The functions of a local weights and measures authority include the enforcement in their area of this Act.
+>
+> (2) The following provisions of the Trade Descriptions Act 1968 apply in relation to the enforcement of this Act by such an authority as in relation to the enforcement of that Act—
+>
+> - section 27 (power to make test purchases),
+> - section 28 (power to enter premises and inspect and seize goods and documents),
+> - section 29 (obstruction of authorised officers), and
+> - section 33 (compensation for loss, &c. of goods seized under s. 28).
+>
+> (3) Nothing in this section shall be taken as authorising a local weights and measures authority in Scotland to initiate proceedings for an offence.
+>
+> (4) Subsection (1) above does not apply in relation to the enforcement of this Act in Northern Ireland, but the functions of the Department of Economic Development include the enforcement of this Act in Northern Ireland.
+>
+> For that purpose the provisions of the Trade Descriptions Act 1968 specified in subsection (2) apply as if for the references to a local weights and measures authority and any officer of such an authority there were substituted references to that Department and any of its officers.
+>
+> (5) Any enactment which authorises the disclosure of information for the purpose of facilitating the enforcement of the Trade Descriptions Act 1968 shall apply as if the provisions of this Act were contained in that Act and as if the functions of any person in relation to the enforcement of this Act were functions under that Act.
+
+.
+
+### Restitution orders
+
+#### [^F289]163 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Magistrates’ courts areas and officers
+
+#### [^F290]164 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F291]165 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Costs and expenses
+
+#### 166 Costs and expenses of prosecution witnesses and other persons.
+
+(1) Section 14 of the [^M77]Prosecution of Offences Act 1985 (control of certain fees and expenses etc. paid by Crown Prosecution Service) shall be amended as follows—
+
+(a) at the end of paragraph (b) of subsection (1) there shall be added the words “and, subject to subsection (1A) below, of any other person who in the opinion of the Service necessarily attends for the purpose of the case otherwise than to give evidence";
+
+(b) the following subsections shall be inserted after that subsection—
+
+> (1A) The power conferred on the Attorney General by subsection (1)(b) above only relates to the costs and expenses of an interpreter if the interpreter is required because of the lack of English of a person attending to give evidence at the instance of the Service.
+>
+> (1B) In subsection (1)(b) above “attending” means attending at the court or elsewhere.
+
+; and
+
+(c) the following subsection shall be inserted after subsection (2)—
+
+> (3) Regulations made under subsection (1)(b) above may provide that scales or rates of costs and expenses shall be determined by the Attorney General with the consent of the Treasury.
+
+.
+
+(2) In paragraph (a) of section 19(3) of that Act (regulations as to payment out of central funds) after the word “proceedings" there shall be inserted the words “, and any other person who in the opinion of the court necessarily attends for the purpose of the proceedings otherwise than to give evidence,".
+
+(3) The following subsection shall be inserted after that subsection—
+
+> (3A) In subsection (3)(a) above “attendance” means attendance at the core elsewhere.
+
+.
+
+(4) The amendments made by subsections (2) and (3) above shall be deemed to have come into force on 1st October 1986.
+
+(5) In Schedule 1 to the [^M78]Criminal Justice Act 1987 (control of certain fees and expenses etc. paid by Serious Fraud Office)—
+
+(a) in sub-paragraph (1)(b) of paragraph 8, for the word “to" in the third place it occurs there shall be substituted the word “of"; and
+
+(b) the following sub-paragraph shall be inserted after sub-paragraph (4) of that paragraph—
+
+> (5) In sub-paragraph (1)(b) above “attends” means attends at the court or elsewhere.
+
+### Acquisition of easements etc.
+
+#### 167 Acquisition of easements etc. under Prison Act 1952.
+
+The power to purchase land conferred on the Secretary of State by section 36 of the [^M79]Prison Act 1952 (acquisition of land for prisons) shall include and be deemed always to have included power to purchase easements and other rights over land, including easements and other rights not previously in existence.
+
+## Part XII — General and Supplementary
+
+### 168 Northern Ireland.
+
+(1) An Order in Council under paragraph 1(1)(b) of Schedule 1 to the [^M80]Northern Ireland Act 1974 (legislation for Northern Ireland in the interim period) which contains a statement that it is made only for purposes corresponding to those of any provision of this Act to which this section applies—
+
+(a) shall not be subject to paragraph 1(4) and (5) of that Schedule (affirmative resolution of both Houses of Parliament); but
+
+(b) shall be subject to annulment in pursuance of a resolution of either House.
+
+(2) The provisions of this Act to which this section applies are—
+
+- sections 23 to 27;
+- section 28;
+- sections 29 to 34;
+- section 44(3) and (4);
+- section 47;
+- section 144;
+- section 160.
+
+### 169 Financial provision.
+
+There shall be paid out of money provided by Parliament—
+
+(a) any expenses incurred under this Act by a Minister of the Crown; and
+
+(b) any increase attributable to the provisions of this Act in the sums payable out of such money under any other Act.
+
+### 170 Minor and consequential amendments and repeals.
+
+(1) The enactments mentioned in Schedule 15 to this Act shall have effect with the amendments there specified (being minor amendments and amendments consequential on the foregoing provisions of this Act).
+
+(2) The enactments mentioned in Schedule 16 to this Act (which include enactments already obsolete or unnecessary) are repealed to the extent specified in the third column of that Schedule but subject to the Notes at the end of the Schedule.
+
+### 171 Commencement.
+
+(1) Subject to the following provisions of this section, this Act shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint and different days may be appointed in pursuance of this subsection for different provisions or different purposes of the same provision.
+
+(2) An order under this section may make such transitional provision as appears to the Secretary of State to be necessary or expedient in connection with any provision thereby brought into force [^F292]. . ..
+
+[[^F293][^F293](3) . . ..]
+
+[[^F293](4) . . ..]
+
+(5) The following provisions shall come into force on the day this Act is passed—
+
+- section 66;
+- section 67;
+- section 103(1), so far as it relates—
+
+(a) to the addition of two subsections at the end of section 8 of the [^M81]Drug Trafficking Offences Act 1986;
+
+(b) to the insertion of a new subsection in section 24 of that Act; and
+
+(c) to the substitution of two new sections for section 26 of that Act;
+
+- section 129;
+
+- section 132, so far as it relates to the [^M82]Local Government Finance Act 1982;
+
+- section 141;
+
+- section 142;
+
+- section 143;
+
+- section 144;
+
+- section 149;
+
+- section 166;
+
+- section 167;
+
+- section 168;
+
+- section 169;
+
+- subsection (1) of section 170, so far as relating to the following—
+
+  - section 112A(1) of the [^M83]Land Registration Act 1925;
+  - the extension of references in the [^M84]Children and Young Persons Act 1933 to the offences mentioned in Schedule 1 to that Act so as to include offences under Part I of the [^M85]Child Abduction Act 1984;
+  - the [^M86]Visiting Forces Act 1952;
+  - section 67(6) of the [^M87]Criminal Justice Act 1967;
+  - section 29 of the [^M88]Children and Young Persons Act 1969;
+  - section 6(1) of the [^M89]Juries Act 1974;
+  - sections 171 and 368 of and Schedule 1 to the [^M90]Criminal Procedure (Scotland) Act 1975;
+  - the [^M91]Child Care Act 1980;
+  - sections 37 and 133 of the [^M92]Magistrates’ Courts Act 1980;
+  - section 52(7) of the [^M93]Civic Government (Scotland) Act 1982;
+  - the [^M94]Criminal Justice Act 1982;
+  - the [^M95]Police and Criminal Evidence Act 1984;
+  - the [^M96]Prosecution of Offences Act 1985;
+  - the [^M97]Criminal Justice Act 1987;
+  - the [^M98]Criminal Justice (Scotland) Act 1987;
+
+- subsection (2) of that section, so far as relating to the following—
+
+  - section 49 of the [^M99]Criminal Justice Act 1967;
+  - section 29 of the [^M100]Children and Young Persons Act 1969;
+  - the Criminal Justice Act 1987;
+
+- this section;
+
+- sections 172 and 173.
+
+(6) The following provisions—
+
+- section 44;
+
+- section 45;
+
+- section 46;
+
+- section 47;
+
+- section 48;
+
+- section 58;
+
+- section 64;
+
+- section 68;
+
+- section 69;
+
+- section 134;
+
+- section 135;
+
+- section 136;
+
+- section 137;
+
+- section 138;
+
+- section 139;
+
+- section 140;
+
+- section 158;
+
+- sections 160 and 161;
+
+- subsection (1) of section 170, so far as relating to the [^M101]Sexual Offences (Amendment) Act [^M102]1976, the Protection of Children Act 1978 and section 6(5) of the Magistrates’ Courts Act 1980;
+
+- subsection (2) of that section, so far as relating to the following—
+
+  - the [^M103]Prevention of Corruption Act 1916;
+  - Schedule 3 to the [^M104]Criminal Justice Act 1967;
+  - section 28(3) of the [^M105]Criminal Justice Act 1972;
+  - the [^M106]Sexual Offences (Amendment) Act 1976;
+  - the [^M107]Protection of Children Act 1978;
+  - the [^M108]Cable and Broadcasting Act 1984;
+  - section 24(2)(e) of the [^M109]Police and Criminal Evidence Act 1984,
+
+  shall come into force at the end of the period of two months beginning with the day this Act is passed.
+
+(7) Section 162 above shall come into force—
+
+(a) on the day appointed under section 23(2) of the [^M110]Video Recordings Act 1984 for the coming into force of the provisions of that Act not in force at the passing of this Act; or
+
+(b) on the passing of this Act,
+
+whichever is the later.
+
+### 172 Extent.
+
+(1) Subject to the following provisions of this section, and to sections 19, 20 and 21 above, this Act extends to England and Wales only.
+
+(2) The following provisions extend also to Scotland—
+
+- Part I;
+- sections 44 to 48;
+- section 50;
+- section 57;
+- section 63;
+- section 68;
+- section 76(3);
+- section 77(10) and (11);
+- section 82;
+- sections 84 to 88;
+- [[^F294]sections 93A to 93D;
+- sections 93F and 93G]
+- section 94;
+- section 102, so far as relating to other provisions of this Act extending to Scotland;
+- [^F295]sections 108 to 115 and 117;
+- section 133;
+- section 134;
+- section 136;
+- section 137;
+- sections 141 [[^F296]141A and 142];
+- section 143;
+- section 145(a) and (b);
+- section 162;
+- section 170;
+- section 171;
+- this section; and
+- section 173.
+
+(3) The following provisions extend also to Northern Ireland—
+
+- Part I;
+- Part IV;
+- section 50;
+- section 133;
+- [[^F297]sections 133 to 133B][[^F298], with the exception of paragraph 5(ba) of Schedule 12 which extends to England and Wales and Scotland only]
+- section 135;
+- section 136;
+- section 137;
+- [[^F299]section 139;
+- section 139A;
+- section 139B;]
+- section 141;
+- section 142;
+- section 143;
+- section 152;
+- section 159;
+- section 162;
+- section 166(5);
+- section 170;
+- section 171;
+- this section; and
+- section 173;
+
+(4) The following provisions—
+
+- section 56;
+- sections 90 to 93;
+- [[^F300]section 93E]
+- section 103(2);
+- [^F301]section 116;
+- section 124;
+- [[^F302]section 141ZA;]
+- [[^F303]section 141C;]
+- section 161;
+
+extend to Scotland only.
+
+(5) Section 95 above extends only to Scotland and Northern Ireland.
+
+(6) Sections 145(c), 149 and 168 [[^F304]and paragraph 5(bb)[[^F305], 5(bc) and 5(bd)] of Schedule 12] above extend to Northern Ireland only.
+
+[[^F306](7) Nothing in subsection (1) above affects the extent of section 146 or Schedule 13.]
+
+(10) Section 158 above extends—
+
+(a) to Scotland, so far as it relates to courts-martial; and
+
+(b) to Northern Ireland, so far as it relates to courts-martial and to such a publication or broadcast or inclusion in a cable programme in Northern Ireland as is mentioned in section 4(1) of the [^M111]Sexual Offences (Amendment) Act 1976 as adapted by section 5(1)(b) of that Act.
+
+(11) The extent of any amendment of an enactment in Schedule 15 to this Act is the same as that of the enactment amended, except that the amendments of the Offences against the [^M112]Person Act 1861 do not extend to Northern Ireland.
+
+(12) The extent of any repeal of an enactment in Schedule 16 to this Act is the same as that of the enactment repealed, subject to the Notes at the end of the Schedule.
+
+### 173 Citation.
+
+This Act may be cited as the Criminal Justice Act 1988.
+
+## SCHEDULE 1 — . . . [^F307]
+
+## [^F308][^F308]SCHEDULE 2
+
+**1** Where a statement is admitted as evidence in criminal proceedings by virtue of Part II of this Act—
+
+(a) any evidence which, if the person making the statement had been called as a witness, would have been admissible as relevant to his credibility as a witness shall be admissible for that purpose in those proceedings;
+
+(b) evidence may, with the leave of the court, be given of any matter which, if that person had been called as a witness, could have been put to him in cross-examination as relevant to his credibility as a witness but of which evidence could not have been adduced by the cross-examining party; and
+
+(c) evidence tending to prove that that person, whether before or after making the statement, made (whether orally or not) some other statement which is inconsistent with it shall be admissible for the purpose of showing that he has contradicted himself.
+
+**2** A statement which is given in evidence by virtue of Part II of this Act shall not be capable of corroborating evidence given by the person making it.
+
+**3** In estimating the weight, if any, to be attached to such a statement regard shall be had to all the circumstances from which any inference can reasonably be drawn as to its accuracy or otherwise.
+
+**4** Without prejudice to the generality of any enactment conferring power to make them[[^F309], Criminal Procedure Rules] may make such provision as appears to the [[^F310]Criminal Procedure Rule Committee] to be necessary or expedient for the purposes of Part II of this Act.
+
+**5** Expressions used in Part II of this Act and in Part I of the [^M113]Civil Evidence Act 1968 are to be construed in Part II of this Act in accordance with section 10 of that Act.
+
+**6** In Part II of this Act “confession has the meaning assigned to it by section 82 of the [^M114]Police and Criminal Evidence Act 1984.
+
+## SCHEDULE 3 — Reviews of Sentencing—Supplementary
+
+*Section 36.*
+
+**1** [[^F311](1)] Notice of an application for leave to refer a case to the Court of Appeal under section 36 above shall be given within 28 days from the day on which the sentence, or the last of the sentences, in the case was passed [[^F312]; but in England and Wales this is subject to sub-paragraphs (2) and (5).]
+
+[[^F313](2) Where—
+
+(a) the Attorney General receives a request to review the sentencing of a person, and
+
+(b) the request is received in the last 14 days of the 28-day period mentioned in sub-paragraph (1),
+
+notice of an application for leave to refer the case in question to the Court of Appeal under section 36 may be given within 14 days from the day on which the request is received.
+
+(3) For the purposes of this Part, a certificate of the Attorney General as to the date on which a request to review the sentencing of a person was received is conclusive evidence of that fact.
+
+(4) Where more than one request to review the sentencing of a person is received, references in sub-paragraphs (2) and (3) to a request are to the first request that is received.]
+
+**2** If the registrar of criminal appeals is given notice of a reference or application to the Court of Appeal under section 36 above, he shall—
+
+(a) take all necessary steps for obtaining a hearing of the reference or application; and
+
+(b) obtain and lay before the Court in proper form all documents, exhibits and other things which appear necessary for the proper determination of the reference or application.
+
+**3** Rules of court may enable a person to whose sentencing such a reference or application relates to obtain from the registrar any documents or things, including copies or reproductions of documents, required for the reference or application and may authorise the registrar to make charges for them in accordance with scales and rates fixed from time to time by the Treasury.
+
+**4** An application to the Court of Appeal for leave to refer a case to the [[^F314]Supreme Court] under section 36(5) above shall be made within the period of 14 days beginning with the date on which the Court of Appeal conclude their review of the case; and an application to the [[^F314]Supreme Court] for leave shall be made within the period of 14 days beginning with the date on which the Court of Appeal conclude their review or refuse leave to refer the case to the [[^F314]Supreme Court] .
+
+**5** The time during which a person whose case has been referred for review under section 36 above is in custody pending its review and pending any reference to the [[^F315]Supreme Court] under subsection (5) of that section shall be reckoned as part of the term of any sentence to which he is for the time being subject.
+
+**6** Except as provided by paragraphs 7 and 8 below, a person whose sentencing is the subject of a reference to the Court of Appeal under section 36 above shall be entitled to be present, if he wishes it, on the hearing of the reference, although he may be in custody.
+
+**7** A person in custody shall not be entitled to be present—
+
+(a) on an application by the Attorney General for leave to refer a case; or
+
+(b) on any proceedings preliminary or incidental to a reference,
+
+unless the Court of Appeal give him leave to be present.
+
+**8** The power of the Court of Appeal to pass sentence on a person may be exercised although he is not present.
+
+**9** A person whose sentencing is the subject of a reference to [[^F316]the Supreme Court] under section 36(5) above and who is detained pending the hearing of that reference shall not be entitled to be present on the hearing of the reference or of any proceeding preliminary or incidental thereto except where an order of [[^F316]the Supreme Court] authorises him to be present, or where the House or the Court of Appeal, as the case may be, give him leave to be present.
+
+**10** The term of any sentence passed by the Court of Appeal or [[^F317]Supreme Court] under section 36 above shall, unless they otherwise direct, begin to run from the time when it would have begun to run if passed in the proceeding in relation to which the reference was made.
+
+**11** [[^F318](1)] Where on a reference to the Court of Appeal under section 36 above or a reference to the [[^F319]the Supreme Court] under subsection (5) of that section the person whose sentencing is the subject of the reference appears by counsel for the purpose of presenting any argument to [[^F320]the Court of Appeal or the Supreme Court] , he shall be entitled [^F321]... to the payment out of central funds of such funds as are reasonably sufficient to compensate him for expenses properly incurred by him for the purpose of being represented on the reference; and any amount recoverable under this paragraph shall be ascertained, as soon as practicable, by the registrar of criminal appeals or, as the case may be, [[^F322]under Supreme Court Rules] .
+
+[[^F323](2) Sub-paragraph (1) has effect subject to—
+
+(a) sub-paragraph (3), and
+
+(b) regulations under section 20(1A)(d) of the Prosecution of Offences Act 1985 (as applied by this paragraph).
+
+(3) A person is not entitled under sub-paragraph (1) to the payment of sums in respect of legal costs (as defined in section 16A of the Prosecution of Offences Act 1985) incurred in proceedings in the Court of Appeal.
+
+(4) Subsections (1A) to (1C) and (3) of section 20 of the Prosecution of Offences Act 1985 (regulations as to amounts ordered to be paid out of central funds) apply in relation to funds payable out of central funds under sub-paragraph (1) as they apply in relation to amounts payable out of central funds in pursuance of costs orders made under section 16 of that Act.]
+
+**12** In the application of this Schedule to Northern Ireland—
+
+(a) any reference to the Attorney General shall be construed as a reference to the [[^F324]Director of Public Prosecutions for Northern Ireland];
+
+(b) any reference (except in paragraph [[^F325]11(1)]) to the registrar of criminal appeals shall be construed as a reference to the Master (Queen’s Bench and Appeals);
+
+(c) the reference in paragraph [[^F325]11(1)] to central funds shall be construed as a reference to money provided by Parliament;
+
+(d) the reference in paragraph [[^F325]11(1)] to the registrar of criminal appeals shall be construed as a reference to the Master (Taxing Office);
+
+[[^F326](da) paragraph 1 has effect as if sub-paragraphs (2) to (5) were omitted;]
+
+[[^F327](e) paragraph 11 has effect as if sub-paragraphs (2) to (4) were omitted.]
+
+## [[^F328]SCHEDULE 4 — Confiscation Orders
+
+*Section 71.*
+
+### [^F329][^F329]Part I — Offences in Respect of which Magistrates’ Courts may make Confiscation Orders
+
+[^F329]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F330][^F330]Part II — Orders Varying List of Offences]
+
+**1** The Secretary of State may by order made by statutory instrument amend Part I of this Schedule by removing any offence from or adding any offence to the offences listed in it.
+
+**2** A statutory instrument containing an order under paragraph 1 above shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## [^F331][^F331]SCHEDULE 5
+
+### [[^F332]Part I]
+
+**1** The [^M115]Drug Trafficking Offences Act 1986 shall be amended as follows.
+
+**2** In section 7 (cases in which restraint orders and charging orders may be made)—
+
+(a) in subsection (2)(a) for the words from “an" to “committed" there shall be substituted the words “whether by the laying of an information or otherwise, a person is to be charged with"; and
+
+(b) in subsection (4), for the words “the proposed proceedings are not instituted" there shall be substituted the words “proceedings in respect of the offence are not instituted (whether by the laying of an information or otherwise)".
+
+**3** (1) The following subsection shall be inserted after subsection (5) of section 8 (restraint orders)—
+
+> (5A) An application for the discharge or variation of a restraint order may be made by any person affected by it.
+
+.
+
+(2) The following subsections shall be added at the end of that section—
+
+> (10) The Land Charges Act 1972 and the Land Registration Act 1925 shall apply—
+>
+> (a) in relation to restraint orders, as they apply in relation to orders affecting land made by the court for the purpose of enforcing judgments or recognisances; and
+>
+> (b) in relation to applications for restraint orders, as they apply in relation to other pending land actions.
+>
+> (11) The prosecutor shall be treated for the purposes of section 57 of the Land Registration Act 1925 (inhibitions) as a person interested in relation to any registered land to which a restraint order or an application for such an order relates.
+
+.
+
+**4** (1) The following paragraphs shall be substituted for subsection (3)(a) and (b) of section 9 (charging orders in respect of land, securities etc.)—
+
+> (a) may be made only on an application by the prosecutor;
+>
+> (b) may be made on an ex parte application to a judge in chambers;
+>
+> (c) shall provide for notice to be given to persons affected by the order; and
+>
+> (d) may be made subject to such conditions as the court thinks fit and, without prejudice to the generality of this paragraph, such conditions as it thinks fit as to the time when the charge is to become effective
+
+.
+
+(2) The following subsection shall be added at the end of that section—
+
+> (8) An application for the discharge or variation of a charging order may be made by any person affected by it.
+
+.
+
+**5** Subsection (1) of section 10 of that Act (charging orders: supplementary provisions) shall cease to have effect.
+
+**6** (1) Section 12 (application of proceeds of realisation and other sums) shall be amended as follows.
+
+(2) In subsection (1), after the word “shall" there shall be inserted the words “first be applied in payment of such expenses incurred by a person acting as an insolvency practitioner as are payable under section 17A(2) of this Act and then shall,".
+
+(3) In subsection (3), for the words from “sum", in the second place where it occurs, to “balance" there shall be substituted the words
+
+> justices’ clerk shall apply the money received for the purposes specified in this section and in the order so specified.
+>
+> (4) The justices’ clerk shall first pay any expenses incurred by a person acting as an insolvency practitioner and payable under section 17A(2) of this Act but not already paid under subsection (1) above.
+>
+> (5) If the money was paid to the justices’ clerk by a receiver appointed under section 8 or 11 of this Act or in pursuance of a charging order the justices’ clerk shall next pay the receiver’s remuneration and expenses.
+>
+> (6) After making—
+>
+> (a) any payment required by subsection (4) above; and
+>
+> (b) in a case to which subsection (5) above applies, any payment required by that subsection,
+>
+> the justices’ clerk shall reimburse any amount paid under section 18(2) of this Act.
+>
+> (7) Any balance in the hands of the justices’ clerk after he has made all payments required by the foregoing provisions of this section
+
+.
+
+**7** In section 15 (bankruptcy of defendant etc.)—
+
+(a) subsection (5)(b) and (c) shall cease to have effect; and
+
+(b) the following paragraph shall be substituted for subsection (7)(d)—
+
+> (d) subsection (2)(b) is omitted.
+
+.
+
+**8** (1) Section 16 (sequestration in Scotland of defendant etc.) shall be amended as follows.
+
+(2) At the end of subsection (2) there shall be inserted the words “and it shall not be competent to submit a claim in relation to the confiscation order to the permanent trustee in accordance with section 48 of that Act".
+
+(3) The following subsection shall be substituted for subsection (5)—
+
+> (5) Where, during the period before sequestration is awarded, an interim trustee stands appointed under the proviso to section 13(1) of that Act and any property in the debtor’s estate is subject to a restraint order, the powers conferred on the trustee by virtue of that Act do not apply to property for the time being subject to the restraint order.
+
+.
+
+**9** In subsection (1) of section 17 (winding up of company holding realisable property) the words from “but" to the end shall cease to have effect.
+
+**10** The following section shall be inserted after that section—
+
+> **Insolvency officers dealing with property subject to restraint order.**
+>
+> **17A** (1) Without prejudice to the generality of any enactment contained in the Insolvency Act 1986 or in any other Act, where—
+>
+> (a) any person acting as an insolvency practitioner seizes or disposes of any property in relation to which his functions are not exercisable because it is for the time being subject to a restraint order; and
+>
+> (b) at the time of the seizure or disposal he believes, and has reasonable grounds for believing, that he is entitled (whether in pursuance of an order of the court or otherwise) to seize or dispose of that property,
+>
+> he shall not be liable to any person in respect of any loss or damage resulting from the seizure or disposal except in so far as the loss or damage is caused by his negligence in so acting; and a person so acting shall have a lien on the property, or the proceeds of its sale, for such of his expenses as were incurred in connection with the liquidation, bankruptcy or other proceedings in relation to which the seizure or disposal purported to take place and for so much of his remuneration as may reasonably be assigned for his acting in connection with those proceedings.
+>
+> (2) Any person who, acting as an insolvency practitioner, incurs expenses—
+>
+> (a) in respect of such property as is mentioned in paragraph (a) of subsection (1) above and in so doing does not know and has no reasonable grounds to believe that the property is for the time being subject to a restraint order; or
+>
+> (b) other than in respect of such property as is so mentioned, being expenses which, but for the effect of a restraint order, might have been met by taking possession of and realising the property,
+>
+> shall be entitled (whether or not he has seized or disposed of that property so as to have a lien under that subsection) to payment of those expenses under section 12(1) or (3)(za) of this Act.
+>
+> (3) In this Act, the expression “acting as an insolvency practitioner” shall be construed in accordance with section 388 (interpretation) of the said Act of 1986 except that for the purposes of such construction the reference in subsection (2)(a) of that section to a permanent or interim trustee in sequestration shall be taken to include a reference to a trustee in sequestration and subsection (5) of that section (which provides that nothing in the section is to apply to anything done by the official receiver) shall be disregarded; and the expression shall also comprehend the official receiver acting as receiver or manager of the property.
+
+.
+
+**11** In subsection (2) of section 18 (receivers: supplementary provisions) for “(3)(a)" there shall be substituted “(3B)".
+
+**12** In section 19 (compensation)—
+
+(a) in paragraph (b)(i) of subsection (1), the words “(and no conviction for any drug trafficking offence is substituted)" shall cease to have effect;
+
+(b) at the end of that subsection there shall be added the words “if, having regard to all the circumstances, it considers it appropriate to make such an order";
+
+(c) in subsection (2)—
+
+(i) the words “and that, but for that default, the proceedings would not have been instituted or continued,"; and
+
+(ii) in paragraph (b), the word “substantial",
+
+shall cease to have effect; and
+
+(d) the following subsection shall be inserted after that subsection—
+
+> (2A) The Court shall not order compensation to be paid in any case where it appears to the Court that the proceedings would have been instituted or continued if the serious default had not occurred.
+
+.
+
+#### [^F333]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13**
+
+**14** (1) The following paragraph shall be substituted for subsection (1)(d) of section 25 (enforcement of Northern Ireland orders)—
+
+> (d) the references to the laying of an information in section 7(2) and (4) of this Act included references to making a complaint under Article 20 of the Magistrates’ Courts (Northern Ireland) Order 1981.
+
+.
+
+(2) In subsection (3) of that section the words “varying or revoking a previous Order in Council" shall cease to have effect.
+
+**15** The following sections shall be substituted for section 26—
+
+> **Enforcement of other external orders.**
+>
+> **26** (1) Her Majesty may by Order in Council—
+>
+> (a) direct in relation to a country or territory outside the United Kingdom designated by the Order (“a designated country") that, subject to such modifications as may be specified, this Act shall apply to external confiscation orders and to proceedings which have been or are to be instituted in the designated country and may result in an external confiscation order being made there;
+>
+> (b) make—
+>
+> (i) such provision in connection with the taking of action in the designated country with a view to satisfying a confiscation order; and
+>
+> (ii) such provision as to evidence or proof of any matter for the purposes of this section and section 26A below; and
+>
+> (iii) such incidental, consequential and transitional provision,
+>
+> as appears to Her Majesty to be expedient; and
+>
+> (c) without prejudice to the generality of this subsection, direct that in such circumstances as may be specified proceeds which arise out of action taken in the designated country with a view to satisfying a confiscation order shall be treated as reducing the amount payable under the order to such extent as may be specified.
+>
+> (2) In this Act—
+>
+> - “external confiscation order” means an order made by a court in a designated country for the purpose of recovering payments or other rewards received in connection with drug trafficking or their value; and
+> - “modifications” includes additions, alterations and omissions.
+>
+> (3) An Order in Council under this section may make different provision for different cases or classes of case.
+>
+> (4) The power to make an Order in Council under this section includes power to modify this Act in such a way as to confer power on a person to exercise a discretion.
+>
+> (5) An Order in Council under this section shall not be made unless a draft of the Order has been laid before Parliament and approved by resolution of each House of Parliament.
+>
+> **Registration of external confiscation orders.**
+>
+> **26A** (1) On an application made by or on behalf of the Government of a designated country, the High Court may register an external confiscation order made there if—
+>
+> (a) it is satisfied that at the time of registration the order is in force and not subject to appeal;
+>
+> (b) it is satisfied, where the person against whom the order is made did not appear in the proceedings, that he received notice of the proceedings in sufficient time to enable him to defend them; and
+>
+> (c) it is of the opinion that enforcing the order in England and Wales would not be contrary to the interests of justice.
+>
+> (2) In subsection (1) above “appeal” includes—
+>
+> (a) any proceedings by way of discharging or setting aside a judgment; and
+>
+> (b) an application for a new trial or a stay of execution.
+>
+> (3) The High Court shall cancel the registration of an external confiscation order if it appears to the court that the order has been satisfied by payment of the amount due under it or by the person against whom it was made serving imprisonment in default of payment or by any other means.
+
+.
+
+**16** The following subsections shall be substituted for subsections (12) and (13) of section 38 (general interpretation)—
+
+> (12) Proceedings for an offence are concluded—
+>
+> (a) when (disregarding any power of a court to grant leave to appeal out of time) there is no further possibility of a confiscation order being made in the proceedings;
+>
+> (b) on the satisfaction of a confiscation order made in the proceedings (whether by payment of the amount due under the order or by the defendant serving imprisonment in default).
+>
+> (13) An order is subject to appeal until (disregarding any power of a court to grant leave to appeal out of time) there is no further possibility of an appeal on which the order could be varied or set aside.
+
+**17** In section 40(4) (effect of Act in Scotland), in paragraph (b), for “17" there shall be substituted “17A".
+
+### Part II — Amendments of Criminal Justice (Scotland) Act 1987
+
+**18** The [^M116]Criminal Justice (Scotland) Act 1987 shall be amended as follows.
+
+**19** In section 1 (confiscation orders) in paragraph (b) of subsection (2) after the words “restriction on importation" there shall be inserted the words “and exportation".
+
+**20** In subsection (6)(a) of section 11 (which applies the provisions of that section to restraint orders under the [^M117]Drug Trafficking Offences Act 1986 registered in Scotland) after the word “information" there shall be inserted the words “in respect of the charge".
+
+**21** In subsection (3) of section 16 (application of proceeds of realisation and other sums) for the words from “sum", in the second place where it occurs, to “applied", in the third place where it occurs, there shall be substituted the words
+
+> sheriff clerk shall apply the money received—
+>
+> (a) first, in payment of any expenses to payment of which a person is entitled under section 37(2) of this Act but which were not paid to him under subsection (1) above;
+>
+> (b) next, in payment of the administrator’s remuneration and expenses;
+>
+> (c) next,
+
+.
+
+**22** In section 34(6)(d) (bankruptcy in England and Wales of person holding realisable property) for the words “subsections (2)(b) and (4) are" there shall be substituted the words “subsection (2)(b) is".
+
+**23** In subsection (5) of section 38 (order to permit entry to premises) after the word “constable" there shall be inserted the words “or person commissioned as aforesaid".
+
+## [[^F334]SCHEDULE 6]
+
+## [[^F335]SCHEDULE 7]
+
+## SCHEDULE 8 — Custodial Sentences for Young Offenders
+
+*Section 123.*
+
+### Part I — Amendments
+
+#### General
+
+**1** In any enactment for a reference to a detention centre or to a youth custody centre or to both there shall be substituted a reference to a young offender institution.
+
+**2** In any enactment except—
+
+(a) section 21 of the [^M118]Firearms Act 1968;
+
+(b) Schedule 1 to the [^M119]Juries Act 1974;
+
+(c) section 5 of the [^M120]Rehabilitation of Offenders Act 1974; and
+
+(d) section 17(3) of the [^M121]Criminal Justice Act 1982,
+
+for a reference (however expressed) to a detention centre order or to a sentence of youth custody or to both there shall be substituted a reference to a sentence of detention in a young offender institution.
+
+**3** (1) In any enactment except—
+
+(a) Part II of Schedule 1 to the [^M122]Juries Act 1974;
+
+(b) section 5 of the [^M123]Rehabilitation of Offenders Act 1974; and
+
+(c) sections [^F336]. . . 17(3) of the [^M124]Criminal Justice Act 1982,
+
+for a reference to a sentence of Borstal training there shall be substituted a reference to a sentence of detention in a young offender institution.
+
+(2) In any enactment for a reference to a Borstal institution there shall be substituted a reference to a young offender institution.
+
+#### Army Act 1955 (c. 18)
+
+#### Air Force Act 1955 (c. 19)
+
+#### Naval Discipline Act 1957 (c. 53)
+
+**4** In subsection (6) –
+
+(a) of section 71AA of the Army Act 1955 and the Air Force Act 1955; and
+
+(b) of section 43AA of the Naval Discipline Act 1957,
+
+(each of which is concerned with the making of custodial orders against young Service offenders) the following paragraph shall be substituted for paragraph (a)—
+
+> (a) where the offender is in or removed to England or Wales, any institution in which a person sentenced to detention in a young offender institution could be detained, section 1C of the Criminal Justice Act 1982 having effect in relation to the offender as it has effect in relation to an offender sentenced to detention in a young offender institution;
+
+**5** In sub-paragraph (6) of paragraph 10—
+
+(a) of Schedule 5A to the Army Act 1955 and the Air Force Act 1955; and
+
+(b) of Schedule 4A to the Naval Discipline Act 1957,
+
+(each of which is concerned with the making of custodial orders against young civilian offenders) the following paragraph shall be substituted for paragraph (a)—
+
+> (a) where the offender is removed to England or Wales, any institution in which a person sentenced to detention in a young offender institution could be detained, section 1C of the Criminal Justice Act 1982 having effect in relation to the offender as it has effect in relation to an offender sentenced to detention in a young offender institution;
+
+#### Firearms Act 1968 (c. 27)
+
+**6** In section 21(1) and (2) of the Firearms Act 1968 (possession of firearms by persons previously convicted of crime) after the words “youth custody" there shall be inserted the words “or detention in a young offender institution".
+
+#### Employment Agencies Act 1973 (c. 35)
+
+**7** In section 13(7)(a)(ii) of the [^M125] Employment Agencies Act 1973 for the words from “prison" to “institution", in the second place where it occurs, there shall be substituted the words “custodial sentence passed by a criminal court in the United Kingdom, the Channel Islands or the Isle of Man;".
+
+#### Juries Act 1974 (c. 23)
+
+**8** [^F337]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Rehabilitation of Offenders Act 1974 (c. 53)
+
+**9** In section 5 of the [^M126] Rehabilitation of Offenders Act 1974 (rehabilitation periods) the words “detention in a young offender institution" shall be inserted—
+
+(a) in subsection (1)(b), after the words “youth custody"; and
+
+[^F338]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Criminal Justice Act 1982 (c. 48)
+
+**10** The following paragraph shall be inserted after paragraph (b) of section 17(3) of the Criminal Justice Act 1982 (restrictions on making attendance centre orders)—
+
+> (bb) to detention in a young offender institution
+
+.
+
+### [^F339][^F339]Part II — Transitional Provisions
+
+#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11** [^F340]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12** [^F341]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13** [^F342]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14** [^F343]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15** [^F344]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16** [^F345]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 9 — Detention of Young Offenders in Scotland
+
+*Section 124.*
+
+### Part I — AMENDMENTS
+
+**1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F346]
+
+#### Army Act 1955 (c. 18)
+
+#### Air Force Act 1955 (c. 19)
+
+#### Naval Discipline Act 1957 (c. 53)
+
+**2** In subsection (6)—
+
+(a) of section 71AA of the Army Act 1955 and the Air Force Act 1955; and
+
+(b) of section 43AA of the Naval Discipline Act 1957,
+
+(each of which is concerned with the making of custodial orders against young Service offenders) the following paragraph shall be substituted for paragraph (b)—
+
+> (b) where the offender is in or removed to Scotland, a young offenders institution;
+
+.
+
+**3** In sub-paragraph (6) of paragraph 10—
+
+(a) of Schedule 5A to the Army Act 1955 and the Air Force Act 1955; and
+
+(b) of Schedule 4A to the Naval Discipline Act 1957,
+
+(each of which is concerned with the making of custodial orders against young civilian offenders) the following paragraph shall be substituted for paragraph (b)—
+
+> (b) where the offender is removed to Scotland, a young offenders institution;
+
+.
+
+#### Law Reform (Miscellaneous Provisions) (Scotland) Act 1980 (c. 55)
+
+**4** In paragraph (b) of Part II (Persons Disqualified) of Schedule I to the Law Reform (Miscellaneous Provisions) (Scotland) Act 1980 in sub-paragraph (i) for the words “or detention" there shall be substituted the words “detention or youth custody".
+
+#### Criminal Justice (Scotland) Act 1980 (c. 62)
+
+**5** In section 41(2)(b)(ii) of the Criminal Justice (Scotland) Act 1980 after the words “detention in a" there shall be inserted the words “young offender institution or.".
+
+### Part II — Transitional Provisions
+
+**6** An Offender who was ordered to be detained in a detention centre on a date before the commencement of section 124(1) of this Act shall, if the order has not expired at the commencement of that section, be treated for all purposes of detention, release and supervision as if he had been sentenced to detention for the like term in a young offenders institution.
+
+**7** A person who at the commencement of section 124 of this Act is detained in a detention centre by virtue of a custodial order—
+
+(a) under section 71 AA of the [^M127] Army Act 1955, section 71AA of the [^M128] Air Force Act 1955 or section 43AA of the Naval Discipline Act 1957; or
+
+(b) under paragraph 10 of Schedule 5A to the Army Act 1955, Schedule 5A to the Air Force Act 1955 or Schedule 4A to the [^M129] Naval Discipline Act 1957,
+
+shall be detained in such young offenders institution as the Secretary of State may direct, and any enactment applying to persons detained in young offenders institutions shall apply to a person so detained under this paragraph.
+
+**8** Section 5 of the [^M130] Rehabilitation of Offenders Act 1974 (rehabilitation periods) shall continue to apply as regards any person who, before the commencement of section 124(1) of this Act, had served a sentence of detention in a detention centre as if the said section 124(1) had not been commenced.
+
+## [^F347]SCHEDULE 10
+
+### Part I — Sections Substituted for Section 12 of [^M131] Children and Young Persons Act 1969
+
+#### Power to include requirements in supervision orders.
+
+**12** (1) A supervision order may require the supervised person to reside with an individual named in the order who agrees to the requirement, but a requirement imposed by a supervision order in pursuance of this subsection shall be subject to any such requirement of the order as is authorised by the following provisions of this section or by section 12A, 12B or 12C below.
+
+(2) Subject to section 19(12) of this Act, a supervision order may require the supervised person to comply with any directions given from time to time by the supervisor and requiring him to do all or any of the following things—
+
+(a) to live at a place or places specified in the directions for a period or periods so specified;
+
+(b) to present himself to a person or persons specified in the directions at a place or places and on a day or days so specified;
+
+(c) to participate in activities specified in the directions on a day or days so specified;
+
+but it shall be for the supervisor to decide whether and to what extent he exercises any power to give directions conferred on him by virtue of this subsection and to decide the form of any directions; and a requirement imposed by a supervision order in pursuance of this subsection shall be subject to any such requirement of the order as is authorised by section 12B(1) of this Act.
+
+(3) The total number of days in respect of which a supervised person may be required to comply with directions given by virtue of paragraph (a), (b) or (c) of subsection (2) above in pursuance of a supervision order shall not exceed 90 or such lesser number, if any, as the order may specify for the purposes of this subsection; and for the purpose of calculating the total number of days in respect of which such directions may be given the supervisor shall be entitled to disregard any day in respect of which directions were previously given in pursuance of the order and on which the directions were not complied with.
+
+#### Young offenders.
+
+**12A** (1) Subject to subsection (2) of this section, this subsection applies to—
+
+(a) any supervision order made under section 7(7) of this Act in respect of a child or young person found guilty as there mentioned; and
+
+(b) any supervision order made in respect of a person under section 21(2) of this Act by a court on discharging a care order made in respect of him under the said section 7(7).
+
+(2) Subsection (1) of this section does not apply to any supervision order which by virtue of section 12(2) above requires the supervised person to comply with directions given by the supervisor.
+
+(3) Subject to the following provisions of this section and to section 19(13) of this Act, a supervision order to which subsection (1) of this section applies may require a supervised person—
+
+(a) to do anything that by virtue of section 12(2) of this Act a supervisor has power, or would but for section 19(12) of this Act have power, to direct a supervised person to do;
+
+(b) to remain for specified periods between 6 p.m. and 6 a.m.—
+
+(i) at a place specified in the order; or
+
+(ii) at one of several places so specified;
+
+(c) to refrain from participating in activities specified in the order—
+
+(i) on a specified day or days during the period for which the supervision order is in force; or
+
+(ii) during the whole of that period or a specified portion of it.
+
+(4) Any power to include a requirement in a supervision order which is exercisable in relation to a person by virtue of this section or the following provisions of this Act may be exercised in relation to him whether or not any other such power is exercised.
+
+(5) The total number of days in respect of which a supervised person may be subject to requirements imposed by virtue of subsection (3)(a) or (b) above shall not exceed 90.
+
+(6) The court may not include requirements under subsection (3) above in a supervision order unless—
+
+(a) it has first consulted the supervisor as to-
+
+(i) the offender’s circumstances; and
+
+(ii) the feasibility of securing compliance with the requirements,
+
+and is satisfied, having regard to the supervisor’s report, that it is feasible to secure compliance with them;
+
+(b) having regard to the circumstances of the case, it considers the requirements necessary for securing the good conduct of the supervised person or for preventing a repetition by him of the same offence or the commission of other offences; and
+
+(c) the supervised person or, if he is a child, his parent or guardian, consents to their inclusion.
+
+(7) The court shall not include in such an order by virtue of subsection (3) above—
+
+(a) any requirement that would involve the co-operation of a person other than the supervisor and the supervised person unless that other person consents to its inclusion; or
+
+(b) any requirement requiring the supervised person to reside with a specified individual; or
+
+(c) any such requirement as is mentioned in section 12B(1) of this Act.
+
+(8) The place, or one of the places, specified in a requirement under subsection (3)(b) above (“a night restriction") shall be the place where the supervised person lives.
+
+(9) A night restriction shall not require the supervised person to remain at a place for longer than 10 hours on any one night.
+
+(10) A night restriction shall not be imposed in respect of any day which falls outside the period of three months beginning with the date when the supervision order is made.
+
+(11) A night restriction shall not be imposed in respect of more than 30 days in all.
+
+(12) A supervised person who is required by a night restriction to remain at a place may leave it if he is accompanied—
+
+(a) by his parent or guardian;
+
+(b) by his supervisor; or
+
+(c) by some other person specified in the supervision order.
+
+(13) A night restriction imposed in respect of a period of time beginning in the evening and ending in the morning shall be treated as imposed only in respect of the day upon which the period begins.
+
+#### Requirements as to mental treatment.
+
+**12B** (1) Where a court which proposes to make a supervision order is satisfied, on the evidence of a medical practitioner approved for the purposes of section 12 of the [^M132] Mental Health Act 1983, that the mental condition of a supervised person is such as requires and may be susceptible to treatment but is not such as to warrant his detention in pursuance of a hospital order under Part III of that Act, the court may include in the supervision order a requirement that the supervised person shall, for a period specified in the order, submit to treatment of one of the following descriptions so specified, that is to say—
+
+(a) treatment by or under the direction of a fully registered medical practitioner specified in the order;
+
+(b) treatment as a non-resident patient at a place specified in the order; or
+
+(c) treatment as a resident patient in a hospital or mental nursing home within the meaning of the said Act of 1983, but not a special hospital within the meaning of that Act.
+
+(2) A requirement shall not be included in a supervision order in pursuance of subsection (1) above—
+
+(a) in any case, unless the court is satisfied that arrangements have been or can be made for the treatment in question and, in the case of treatment as a resident patient, for the reception of the patient;
+
+(b) in the case of an order made or to be made in respect of a person who has attained the age of 14, unless he consents to its inclusion;
+
+and a requirement so included shall not in any case continue in force after the supervised person becomes 18.
+
+#### Requirements as to education.
+
+**12C** (1) Subject to subsection (3) below, a supervision order to which section 12A(1) of this Act applies may require a supervised person, if he is of compulsory school age, to comply, for as long as he is of that age and the order remains in force, with such arrangements for his education as may from time to time be made by his parent, being arrangements for the time being approved by the local education authority.
+
+(2) The court shall not include such a requirement in a supervision order unless it has consulted the local education authority with regard to its proposal to include the requirement and is satisfied that in the view of the local education authority arrangements exist for the child or young person to whom the supervision order will relate to receive efficient full-time education suitable to his age, ability and aptitude and to any special educational need he may have.
+
+(3) Expressions used in subsection (1) above and in the [^M133] Education Act 1944 have the same meaning there as in that Act.
+
+(4) The court may not include a requirement under subsection (1) above unless it has first consulted the supervisor as to the offender’s circumstances and, having regard to the circumstances of the case, it considers the requirement necessary for securing the good conduct of the supervised person or for preventing a repetition by him of the same offence or the commission of other offences.
+
+#### Duty of court to state in certain cases that requirement in place of custodial sentence.
+
+**12D** (1) Where—
+
+(a) in pursuance of section 12A(3)(a) of this Act a court includes a requirement in a supervision order directing the supervised person to participate in specified activities; and
+
+(b) it would have imposed a custodial sentence if it had not made a supervision order including such a requirement,
+
+it shall state in open court—
+
+(i) that it is making the order instead of a custodial sentence;
+
+(ii) that it is satisfied that—
+
+(a) the offender has a history of failure to respond to non-custodial penalties and is unable or unwilling to respond to any non-custodial penalty other than a supervision order including such a requirement; or
+
+(b) only a supervision order including such a requirement or a custodial sentence would be adequate to protect the public from serious harm from him; or
+
+(c) the offence for which he has been convicted or found guilty was so serious that a non-custodial sentence for it other than a supervision order including such a requirement could not be justified; and
+
+(iii) why it is so satisfied.
+
+(2) Where the Crown Court makes such a statement, it shall certify in the supervision order that it has made such a statement.
+
+(3) Where a magistrates’ court makes such a statement, it shall certify in the supervision order that it has made such a statement and shall cause the statement to be entered in the register.
+
+### Part II — Amendments Consequential on Substitution of Sections Set Out in Part 1 for Section 12
+
+The amendments of the [^M134]Children and Young Persons Act 1969 mentioned in section 128(2) above are—
+
+- (a) the substitution of references to section 12A(3) for the references to section 12(3C) in [^F348]. . . section 18(4) and section 19(1)(b) and (13);
+- (b) the substitution of references to section 12B(1) for the references to section 12(4) in [^F348]. . . section 16(6)(c) and (7); and
+- (c) the insertion of “, 12A, 12B or 12C" after “section 12" in [^F348]. . . section 16(5)(b) and (c) and (6)(a).
+
+### [^F349]Part III
+
+#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F350]1**
+
+#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F351]2**
+
+#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F352]3**
+
+### Part IV — Section Inserted After Section 16
+
+> **Application of sections 17 to 19 of Criminal Justice Act 1982.**
+>
+> **16A** (1) The provisions of section 17 of the Criminal Justice Act 1982 (attendance centre orders) shall apply for the purposes of section 15(2A)(b) and (4)(a) of this Act but as if—
+>
+> (a) in subsection (1), for the words from “has power" to “probation order" there were substituted the words “considers it appropriate to make an attendance centre order in respect of any person in pursuance of 1969 c. 54. section 15(2A) or (4) of the Children and Young Persons Act 1969";
+>
+> (b) for references to an offender there were substituted references to a supervised person; and
+>
+> (c) subsection (13) were omitted.
+>
+> (2) Sections 18 and 19 of the Criminal Justice Act 1982 (discharge and variation of attendance centre order and breach of attendance centre orders or attendance centre rules) shall also apply for the purposes of each of those paragraphs but as if—
+>
+> (a) for the references to an offender there were substituted references to the person in respect of whom the attendance centre order has been made; and
+>
+> (b) there were omitted—
+>
+> (i) from subsections (3) and (5) of section 19, the words “ , for the offence in respect of which the order was made," and “for that offence" ; and
+>
+> (ii) from subsection (6), the words “for an offence".
+
+## [^F353]SCHEDULE 11
+
+### Amendments of Schedule 3 to Powers of Criminal Courts Act 1973
+
+**1** Schedule 3 to the [^M135]Powers of Criminal Courts Act 1973 shall be amended as follows.
+
+**2** In paragraph 4—
+
+(a) in sub-paragraph (1), for the word “For" there shall be substituted the words “Subject to sub-paragraph (1A) below, for";
+
+(b) the following sub-paragraph shall be inserted after that sub-paragraph—
+
+> (1A) Where two or more petty sessions areas outside the inner London area form a probation area or part of a probation area, the probation committee, if they think fit, may determine that there shall be one or more joint probation liaison committees for those petty sessions areas; and a joint committee shall consist of not less than three justices appointed by the justices acting for each of the petty sessions areas.
+
+; and
+
+(c) the following sub-paragraph shall be inserted after sub-paragraph (3)—
+
+> (4) A probation liaison committee may delegate all or any of their functions to a sub-committee consisting of members of the committee.
+
+.
+
+**3** The following paragraphs shall be inserted after paragraph 6—
+
+> **6A** Any probation committee may also co-opt one or more justices with experience of sitting as members of the Crown Court, and one or more stipendiary magistrates appointed in a commission area which is the same as or is situated within the probation area.
+>
+> **6B** (1) The Secretary of State may by order provide that the probation committee for any probation area shall co-opt members of the local authority, or any of the local authorities, liable under paragraph 15 below to defray the expenses of the committee.
+>
+> (2) An order under this paragraph may make such consequential, supplementary or transitional provision as appears to the Secretary of State to be necessary or expedient in consequence of the order, including provision for such repeals in or modifications of this Schedule as appear to him to be necessary or expedient in consequence of it.
+>
+> (3) Without prejudice to the generality of sub-paragraph (2) above, an order under this paragraph—
+>
+> (a) may specify, either as a number or as a proportion of the members of the committee, how many persons may be co-opted to a committee and, where two or more authorities are liable to pay the expenses of a committee, how many persons may be co-opted from each of them;
+>
+> (b) may provide for the procedure for co-opting persons to be followed by a committee;
+>
+> (c) may require that such consultations as may be specified in the order shall be carried out before persons are so co-opted; and
+>
+> (d) may disqualify persons of specified descriptions from being co-opted.
+>
+> (4) An order under this paragraph may make different provision for different committees.
+
+.
+
+**4** Paragraph 7 shall cease to have effect.
+
+**5** The following paragraph shall be substituted for paragraph 10(3)(a)—
+
+> (a) to appoint staff;
+
+.
+
+**6** The following paragraph shall be inserted after paragraph 18(1)(a)—
+
+> (aa) limiting the number of staff (other than probation officers) who may be appointed under paragraph 3 or 10 above;
+
+.
+
+### Amendment of Local Government Finance Act 1982
+
+**8** In paragraph (l) of section 12(2) of the [^M136]Local Government Finance Act 1982 (bodies whose accounts are subject to audit by Audit Commission), after the word “committee" there shall be inserted the words “, except the committee for the inner London area.".
+
+## SCHEDULE 12 — Assessors of Compensation for Miscarriages of Justice
+
+*Section 133.*
+
+**1** A person may only be appointed to be an assessor for the purposes of section 133 above if he is—
+
+[[^F354](a) a person who has a 7 year general qualification, within the meaning of section 71 of the Courts and Legal Services Act 1990;
+
+(b) an advocate or solicitor in Scotland;
+
+(c) a member of the Bar of Northern Ireland or [[^F355]solicitor of the Court of Judicature of Northern Ireland] of at least 7 years’ standing;] [[^F356]or]
+
+(d) a person who holds or has held judicial office in any part of the United Kingdom; or
+
+[^F357]e [^F357]a member (whether the chairman or not) of the Criminal Injuries Compensation Board.
+
+**2** A person shall hold and vacate office as an assessor in accordance with the terms of his appointment.
+
+**3** A person shall vacate office as an assessor—
+
+(a) if he ceases to be qualified for appointment as an assessor; or
+
+(b) on attaining the age of 72;
+
+unless the Secretary of State considers that it is in the interests of the efficient operation of section 133 above that he should continue to hold office.
+
+**4** A person may at any time resign his office as an assessor by giving the Secretary of State notice in writing to that effect.
+
+**5** Subject to paragraph 6 below, the Secretary of State may at any time remove a person from office as an assessor if satisfied that—
+
+(a) he has been convicted of a criminal offence;
+
+(b) he has become bankrupt or has had his estate sequestrated or has made an arrangement with, or granted a trust deed for, his creditors;
+
+[[^F358](ba) a debt relief order (under Part 7A of the Insolvency Act 1986) has been made in respect of him;]
+
+[[^F359](bb) he has become the subject of a bankruptcy restrictions order under Schedule 2A to the Insolvency (Northern Ireland) Order 1989]
+
+[[^F360](bc) debt relief order (under Part 7A of the Insolvency (Northern Ireland) Order 1989) has been made in respect of him;
+
+(bd) he has become the subject of a debt relief restrictions order (under Part 7A of the Insolvency (Northern Ireland) Order 1989);]
+
+(c) he is incapacitated by physical or mental illness; or
+
+(d) he is otherwise unable or unfit to perform his duties.
+
+**[[^F361]6** (1) The exercise of the power conferred by paragraph 5 is subject to the following provisions of this paragraph.
+
+(2) In the case of a person who qualifies for appointment under—
+
+(a) paragraph (1)(a), or
+
+(b) paragraph (1)(d) by virtue of holding or having held judicial office in England and Wales,
+
+that power shall only be exercisable with the consent of the Lord Chancellor, which may only be given with the concurrence of the Lord Chief Justice of England and Wales.
+
+(3) In the case of a person who qualifies for appointment under—
+
+(a) paragraph (1)(b), or
+
+(b) paragraph (1)(d) by virtue of holding or having held judicial office in Scotland,
+
+that power shall only be exercisable with the consent of the Lord President of the Court of Session.
+
+(4) In the case of a person who qualifies for appointment under—
+
+(a) paragraph (1)(c), or
+
+(b) paragraph (1)(d) by virtue of holding or having held judicial office in Northern Ireland,
+
+that power shall only be exercisable with the consent of the [^F362]... Lord Chief Justice of Northern Ireland.]
+
+**7** An assessor shall be paid such remuneration and allowances as the Secretary of State may, with the approval of the Treasury, determine.
+
+**[[^F363]8** In relation to an assessor appointed by the Department of Justice in Northern Ireland, in this Schedule—
+
+(a) references to the Secretary of State are to be read as references to the Department of Justice;
+
+(b) references to the Treasury are to be read as references to the Department of Finance and Personnel in Northern Ireland.]
+
+## SCHEDULE 13 — Evidence Before [[^F364]service courts].
+
+*Section 146.*
+
+### Interpretation
+
+**1** In this Schedule—
+
+- “procedural instruments” means—
+
+[[^F365](a) Court Martial rules within the meaning of the Armed Forces Act 2006;
+
+(b) SCC rules within the meaning of that Act; and
+
+(c) rules under section 49 of the Court Martial Appeals Act 1968;]
+
+- “Service courts” means—
+
+[[^F366](a) the Court Martial;
+
+(b) the Service Civilian Court; and
+
+(c) the Court Martial Appeal Court.]
+
+### First-hand hearsay
+
+**2** [^F367]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Documentary evidence
+
+**3** [^F368]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4** [^F369]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5** [^F370]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Letters of request etc.
+
+**6** (1) [[^F371]No application shall be made under [[^F372]section 7 of the Crime (International Co-operation) Act 2003] [^F373]... in relation to any offence which is or is to be the subject of proceedings before a Service court], but the Secretary of State may by order make provision as to [[^F374]requests for assistance in obtaining outside the United Kingdom evidence] for such proceedings.
+
+(2) An order under this paragraph may make different provision for different classes of case.
+
+(3) The power to make an order under this paragraph shall be exercisable by statutory instrument and a statutory instrument containing any such order shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) Without prejudice to the generality of any enactment conferring power to make procedural instruments, procedural instruments may make such provision as appears to the authority making them to be necessary or expedient in relation to [[^F375]requests for assistance in obtaining evidence] for proceedings before a Service court.
+
+### Form of evidence and glossaries
+
+**7** [^F376]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Use of television links
+
+**8** (1) The Secretary of State may by order direct that section 32(1) to (3) above shall have effect in relation—
+
+(a) to proceedings before Service courts; or
+
+(b) to proceedings or proceedings of specified descriptions before Service courts in specified places.
+
+(2) If an order is made under this paragraph—
+
+(a) subsection (1) of section 32 above shall have effect in relation to any court to which the order applies with the substitution of the following paragraph for paragraph (a)—
+
+> (a) the witness is not in the country where the court is sitting; or
+
+[^F377]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) [^F377]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) An order under this paragraph may provide that section 32(1), [^F378]. . . or (3) above shall have effect in relation to any court to which the order applies subject to such modifications as may be specified in the order, in addition to the modifications for which sub-paragraph (2) above provides.
+
+(4) The power to make an order conferred by this paragraph shall be exercisable by statutory instrument and a statutory instrument containing any such order shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(5) Without prejudice to the generality of any enactment conferring power to make procedural instruments, procedural instruments may make such provision as appears to the authority making them to be necessary or expedient for the purposes of section 32(1) to (3) above in their application to proceedings such as are mentioned in sub-paragraph (1) above by virtue of an order under that sub-paragraph.
+
+(6) In this paragraph “modifications” includes additions, omissions and amendments.
+
+### [[^F379] Video recordings of evidence
+
+**9** [^F380]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+### [^F381]Cross -examination of children
+
+**10** [^F382]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F383]SCHEDULE 14
+
+## SCHEDULE 15 — Minor and Consequential Amendments
+
+*Section 170.*
+
+### Criminal Law Act 1826 (c. 64)
+
+**1** Section 30 of the Criminal Law Act 1826 (which enables a court to order payment of compensation to relatives of a man killed in endeavouring to make an arrest) shall cease to have effect.
+
+### Offences against the Person Act 1861 (c. 100)
+
+**2** The Offences against the Person Act 1861 shall be amended as follows.
+
+**3** There shall be omitted from section 44 (certificates as to cases of assault or battery) the word “such", in the first place where it occurs, and the words “under either of the last two preceding sections,".
+
+**4** In section 45 (bars to further proceedings) for the words “in either of the last three preceding sections mentioned" there shall be substituted the words “is mentioned in section 44 of this Act".
+
+### Bankruptcy Act 1914 (c. 59)
+
+**5** Section 28 of the Bankruptcy Act 1914 (effect of order of discharge) shall have effect as if amounts payable under confiscation orders were debts excepted under subsection (1)(a) of that section.
+
+### Land Registration Act 1925 (c. 21)
+
+**6** [^F384]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7** [^F385]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Children and Young Persons Act 1933 (c. 12)
+
+**8** In Schedule 1 to the Children and Young Persons Act 1933 (offences against children and young persons with respect to which special provisions of the Act apply) after the third paragraph there shall be inserted the following paragraph—
+
+> Common assault, or battery.
+
+.
+
+**9** References in that Act to the offences mentioned in Schedule 1 to the Act shall include offences under Part I of the [^M137]Child Abduction Act 1984.
+
+### Administration of Justice (Miscellaneous Provisions) Act 1933 (c. 36)
+
+**[^F386]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Prison Act 1952 (c. 52)
+
+**11** The following paragraph shall be inserted after paragraph (a) of subsection (1) of section 43 of the Prison Act 1952—
+
+> (aa) young offender institutions, that is to say places for the detention of offenders sentenced to detention in a young offender institution;
+
+.
+
+**12** In subsection (3) of that section, for the word “or" there shall be substituted the words “and a person aged 17 years or over may be detained in such a centre".
+
+### Visiting Forces Act 1952 (c. 67)
+
+**13** In section 5 of the Visiting Forces Act l952 (custody of offenders against United Kingdom law)—
+
+(a) for each of the references in subsections (2) and (4) to section 43 of the Magistrates’ [^M138]Courts Act l980 there shall be substituted references to Part IV of the Police and Criminal [^M139]Evidence Act l984; and
+
+(b) the following subsection shall be substituted for subsection (3)—
+
+> (3) In the application of subsection (2) of this section to Scotland,—
+>
+> (a) for the first reference to Part IV of the Police and Criminal Evidence Act 1984 there shall be substituted a reference to section 32(3) of the Criminal Procedure (Scotland) Act 1975; and
+>
+> (b) for the words “in accordance with the said Part IV, be released on bail or" there shall be substituted the words “if not liberated under section 294(2) of that Act, be".
+
+.
+
+**14** (1) In subsection (1) of section 12 of that Act, in the definition of “visiting force", after the words “United Kingdom", in the first place where they occur, there shall be inserted the words “(including United Kingdom territorial waters), or in any place to which subsection (1A) below applies,".
+
+(2) The following subsection shall be inserted after that subsection—
+
+> (1A) This subsection applies to any place on, under or above an installation in a designated area within the meaning of section 1(7) of the Continental Shelf Act 1964 or any waters within 500 metres of such an installation.
+
+.
+
+**15** —In paragraphs 1(a) and 2(a) of the Schedule, after the word “rape," there shall be inserted the word “ , torture".
+
+### Backing of Warrants (Republic of Ireland) Act 1965 (c. 45)
+
+**16** In paragraph 4 of the Schedule to the Backing of Warrants (Republic of Ireland) Act 1965 (powers as to costs and legal aid) for the words from “section 1" to “central funds)" there shall be substituted the words “sections 16(1) and 17(1) of the [^M140]Prosecution of Offences Act 1985".
+
+### Criminal Justice Act 1967 (c. 80)
+
+**17** The Criminal Justice Act 1967 shall be amended as follows.
+
+**[[^F387]18** In section 62—
+
+(a) in subsection (10) (subsequent release of prisoner whose licence has been revoked) for the words “one year" there shall be substituted the words “the specified period"; and
+
+(b) the following subsection shall be inserted after that subsection—
+
+> (10A) In subsection (10) above “the specified period” has the same meaning as in section 60(1) above.
+
+.]
+
+**19** In subsection (6) of section 67 (computation of sentences) for “(1)" there shall be substituted “(1A)".
+
+### Criminal Appeal Act 1968 (c. 19)
+
+**20** The Criminal Appeal Act 1968 shall be amended as follows.
+
+**21** Section 9 shall be renumbered so as to become section 9(1); and at the end of the resulting subsection (1) there shall be added the following subsection—
+
+> (2) A person who on conviction on indictment has also been convicted of a summary offence under section 41 of the Criminal Justice Act 1988 (power of Crown Court to deal with summary offence where person committed for either way offence) may appeal to the Court of Appeal against any sentence passed on him for the summary offence (whether on his conviction or in subsequent proceedings) under subsection (7) of that section.
+
+**22** [^F388]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In subsection (4) of that section, after the word “section" there shall be inserted the words “and section 11 of this Act".
+
+**23** (1) In subsection (2) of section 11 (supplementary provisions as to appeal against sentence) after “9" there shall be inserted “(1)".
+
+(2) The following subsections shall be inserted after that subsection—
+
+> (2A) Where following conviction on indictment a person has been convicted under section 41 of the Criminal Justice Act 1988 of a summary offence an appeal or application for leave to appeal against any sentence for the offence triable either way shall be treated also as an appeal or application in respect of any sentence for the summary offence and an appeal or application for leave to appeal against any sentence for the summary offence shall be treated also as an appeal or application in respect of the offence triable either way.
+>
+> (2B) If the appellant or applicant was convicted on indictment of two or more offences triable either way, the references to the offence triable either way in subsection (2A) above are to be construed, in relation to any summary offence of which he was convicted under section 41 of the Criminal Justice Act 1988 following the conviction on indictment, as references to the offence triable either way specified in the notice relating to that summary offence which was given under subsection (2) of that section.
+
+**24** The following subsection shall be substituted for subsection (4) of that section—
+
+> (4) The power of the Court of Appeal under subsection (3) of this section to pass a sentence which the court below had power to pass for an offence shall, notwithstanding that the court below made no order under section 23(1) of the Powers of Criminal Courts Act 1973 or section 47(4) of the Criminal Law Act 1977 in respect of a suspended or partly suspended sentence previously passed on the appellant for another offence, include power to deal with him in respect of that sentence where the court below made no order in respect of it.
+
+.
+
+**25** The following section shall be inserted after section 18—
+
+> **Appeals in cases of contempt of court.**
+>
+> **18A** (1) A person who wishes to appeal under section 13 of the Administration of Justice Act 1960 from any order or decision of the Crown Court in the exercise of jurisdiction to punish for contempt of court shall give notice of appeal in such manner as may be directed by rules of court.
+>
+> (2) Notice of appeal shall be given within twenty-eight days from the date of the order or decision appealed against.
+>
+> (3) The time for giving notice under this section may be extended, either before or after its expiry, by the Court of Appeal.
+
+.
+
+**26** In subsection (1) of section 19 (bail)—
+
+(a) in paragraph (b), the words “or paragraph (a) above” shall be inserted after “1981"; and
+
+(b) in paragraph (c), the words “either of those paragraphs” shall be substituted for the words “that paragraph".
+
+**27** In section 29(2)(b) (circumstances in which there may not be a direction that time spent in custody is not to be reckoned as part of any sentence) for the words “under section 1 of this Act" there shall be substituted the words
+
+> under—
+>
+> (i) section 1 or 11(1A) of this Act; or
+>
+> (ii) section 81(1B) of the Supreme Court Act 1981
+
+.
+
+**28** The following section shall be substituted for section 30—
+
+> **Restitution of property.**
+>
+> **30** (1) The operation of an order for the restitution of property to a person made by the Crown Court shall, unless the Court direct to the contrary in any case in which, in their opinion, the title to the property is not in dispute, be suspended until (disregarding any power of a court to grant leave to appeal out of time) there is no further possibility of an appeal on which the order could be varied or set aside, and provision may be made by rules of court for the custody of any property in the meantime.
+>
+> (2) The Court of Appeal may by order annul or vary any order made by the court of trial for the restitution of property to any person, although the conviction is not quashed; and the order, if annulled, shall not take effect and, if varied, shall take effect as so varied.
+>
+> (3) Where the House of Lords restores a conviction, it may make any order for the restitution of property which the court of trial could have made.
+
+**29** The following shall be substituted for the words in section 31 from the beginning of subsection (1) to “powers” in subsection (2)—
+
+> (1) There may be exercised by a single judge in the same manner as by the Court of Appeal and subject to the same provisions—
+>
+> (a) the powers of the Court of Appeal under this Part of this Act specified in subsection (2) below;
+>
+> (b) the power to give directions under section 4(4) of the Sexual Offences (Amendment) Act 1976; and
+>
+> (c) the powers to make orders for the payment of costs under sections 16 to 18 of the Prosecution of Offences Act 1985 in proceedings under this Part of this Act.
+>
+> (2) The powers mentioned in subsection (1) (a) above
+
+.
+
+**30** The following subsection shall be inserted after subsection (2A) of that section—
+
+> (2B) The power of the Court of Appeal to grant leave to appeal under section 159 of the Criminal Justice Act 1988 may be exercised by a single judge in the same manner as it may be exercised by the Court
+
+.
+
+**31** The following shall be substituted in the first subsection of section 44 for the words from the beginning to “judge", in the first place where it occurs—
+
+> (1) There may be exercised by a single judge—
+>
+> (a) the powers of the Court of Appeal under this Part of this Act—
+>
+> (i) to extend the time for making an application for leave to appeal;
+>
+> (ii) to make an order for or in relation to bail; and
+>
+> (iii) to give leave for a person to be present at the hearing of any proceedings preliminary or incidental to an appeal; and
+>
+> (b) their powers to make orders for the payment of costs under sections 16 and 17 of the Prosecution of Offences Act 1985 in proceedings under this Part of this Act.
+
+.
+
+**32** [^F389]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Theft Act 1968 (c. 60)
+
+**[^F390]33** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**34** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F391]
+
+### Children and Young Persons Act 1969 (c. 54)
+
+**35** In subsection (1) of section 20A of the Children and Young Persons Act 1969 (power of court to add condition as to charge and control of offender in care), at the end of the first paragraph (b) there shall be inserted the words
+
+> or
+>
+> (c) by virtue of section 15(1) of this Act in a case where—
+>
+> (i) the supervision order for which the care order was substituted was made under section 7(7) of this Act; and
+>
+> (ii) the offence in respect of which the supervision order was made was punishable with imprisonment in the case of a person over 21,
+
+.
+
+**36** In section 29 of that Act (recognisance on release of arrested child or young person) the words “he or" shall cease to have effect.
+
+### Tribunals and Inquiries Act 1971 (c. 62)
+
+**[^F392]37** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Powers of Criminal Courts Act 1973 (c. 62)
+
+**[^F393]38** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F394]39** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F395]40** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F396]41** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F397]42** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Legal Aid Act 1974 (c. 4)
+
+**43** In section 28(7A) of the Legal Aid Act 1974 for the words “the person charged" there shall be substituted “a person to whom the notice relates".
+
+### Juries Act 1974 (c. 23)
+
+**44** In subsection (1) of section 3 of the Juries Act 1974 (electoral register as basis of jury selection) for “sixty five" there shall be substituted “seventy".
+
+**45** In section 6(1) of that Act (summoning of jury in exceptional circumstances) for the word “refusals" there shall be substituted the word “excusals".
+
+**46** In section 20(4) of that Act (offences) after the word “excusal" there shall be inserted the words “or deferral".
+
+### Rehabilitation of Offenders Act 1974 (c. 53)
+
+**47** In section 1(2)(a) of the Rehabilitation of Offenders Act 1974 (failure to pay fines etc. not to prevent a person from becoming rehabilitated) the reference to a fine or other sum adjudged to be paid by or imposed on a conviction does not include a reference to an amount payable under a confiscation order.
+
+### Criminal Procedure (Scotland) Act 1975 (c. 21)
+
+**48** In each of sections 171 and 368 of the Criminal Procedure (Scotland) Act 1975 (which make provision as to the presumption and determination of the ages of children) in subsection (3) for the words “and (d)" there shall be substituted the words “(d) and (e)".
+
+**49** In section 289G of that Act (which creates the standard scale and amends certain enactments accordingly) in subsection (13) (inserted by section 66 of the [^M141]Criminal Justice (Scotland) Act 1987)—
+
+(a) after the word “is" there shall be inserted “(a)";
+
+(b) for the words from “1987" there shall be substituted—
+
+> (b) under any instrument (however framed or worded) made by virtue of such an enactment,
+>
+> a power to provide by subordinate instrument that a person, as regards any summary offence (whether or not created by the instrument) shall be liable on conviction to a fine, a person may be so made liable to a fine not exceeding a specified level on the standard scale.
+
+.
+
+**50** In Schedule 1 to that Act (which lists offences against children under the age of 17 years to which special provisions apply) after paragraph (a) there shall be inserted the following paragraph—
+
+> (aa) any offence under section 80(7) of the Criminal Justice (Scotland) Act 1980 (commission of a homosexual act in certain circumstances).
+
+**51** In the said Schedule 1 after paragraph (d) there shall be inserted the following paragraph—
+
+> (e) any offence involving the use of lewd, indecent or libidinous practice or behaviour towards a child under the age of 17 years.
+
+### Bail Act 1976 (c. 63)
+
+**[^F398]52** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Sexual Offences (Amendment) Act 1976 (c. 82)
+
+**53** (1) The Sexual Offences (Amendment) Act 1976 shall have effect subject to the following amendments (which relate to Northern Ireland).
+
+(2) In section 5(1)(b), for the word “both" there shall be substituted the word “all".
+
+(3) In section 7(6), for the words from “(including" to “6(4)(b))" there shall be substituted the words “and to such a publication or broadcast or inclusion in a cable programme in Northern Ireland as is mentioned in section 4(1) as adapted by section 5(1)(b)".
+
+**54** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F399]
+
+### Judicature (Northern Ireland) Act 1978 (c. 23)
+
+**56** In section 49(6) of the Judicature (Northern Ireland) Act 1978 (variation of sentences) after the word “appeal)" there shall be inserted the words “and for the purposes of paragraph 1 of Schedule 3 to the Criminal Justice Act 1988 (time limit for notice of an application for leave to refer a case under section 36 of that Act.)".
+
+**57** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F400]
+
+### Interpretation Act 1978 (c. 30)
+
+**58** In Schedule 1 to the Interpretation Act l978—
+
+(a) after the definition of “Sheriff" there shall be inserted—
+
+> “The standard scale”, with reference to a fine or penalty for an offence triable only summarily,—
+>
+> (a) in relation to England and Wales, has the meaning given by section 37 of the Criminal Justice Act l982;
+>
+> (b) in relation to Scotland, has the meaning given by section 289G of the Criminal Procedure (Scotland) Act l975;
+>
+> (c) in relation to Northern Ireland, has the meaning given by Article 5 of the Fines and Penalties (Northern Ireland) Order 1984.
+
+;
+
+(b) after the definition of “Statutory declaration" there shall be inserted—
+
+> “Statutory maximum”, with reference to a fine or penalty on summary conviction for an offence,—
+>
+> (a) in relation to England and Wales, means the prescribed sum within the meaning of section 32 of the Magistrates’ Courts Act l980;
+>
+> (b) in relation to Scotland, means the prescribed sum within the meaning of section 289B(6) of the Criminal Procedure (Scotland) Act l975; and
+>
+> (c) in relation to Northern Ireland, means the prescribed sum within the meaning of Article 4 of the Fines and Penalties (Northern Ireland) Order l984.
+
+.
+
+**59** In the definition of “offence triable either way" in that Schedule, after the word “offence", in the second place where it occurs, there shall be inserted the words “, other than an offence triable on indictment only by virtue of Part V of the Criminal Justice Act 1988".
+
+### Protection of Children Act 1978 (c. 37)
+
+**60** The Protection of Children Act 1978 shall be amended as follows.
+
+**61** (1) In subsection (1) of section 4 (entry, search and seizure) for the words from “are" to the end there shall be substituted the words “is an indecent photograph of a child".
+
+(2) In subsection (2) of that section the words from “taken" to the end shall cease to have effect.
+
+**62** [^F401]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Justices of the Peace Act 1979 (c. 55)
+
+**[^F402]63** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Child Care Act 1980 (c. 5)
+
+**64** In section 73(1)(b) of the Child Care Act 1980 (places of safety etc.) for the words “section 38(7)" there shall be substituted the words “section 38(6)".
+
+### Magistrates’ Courts Act 1980 (c. 43)
+
+**65** The Magistrates’ Courts Act 1980 shall be amended as follows.
+
+**[^F403]66** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**67** In subsection (1) of section 37 (committal to Crown Court for sentence), for the words “nor more than 16" there shall be substituted the words “but under 17".
+
+**[[^F404]68** At the end of subsection (8) of section 102 (written statement before examining justices) there shall be added the words “and section 40 of the Criminal Justice Act 1988 (power to join in indictment count for common assault etc.) shall be given a corresponding construction".]
+
+**69** (1) In subsection (3A) of section 128 (remand in custody without accused being brought before court)—
+
+(a) after the word “custody" there shall be inserted the words “and the remand was not a remand under section 128A below for a period exceeding 8 clear days,"; and
+
+(b) after the word “him" there shall be inserted the words “(otherwise than in the exercise of the power conferred by that section)".
+
+(2) In subsection (6) of that section (which lists the cases in which a magistrates’ court may remand a person for a period exceeding 8 clear days) for the word “section", in the first place where it occurs, there shall be substituted the words “sections 128A and".
+
+**70** The following subsection shall be inserted after subsection (2) of section 133 (limit on length of imprisonment or youth custody where consecutive terms are imposed)—
+
+> (2A) In relation to the imposition of terms of detention in a young offender institution subsection (2) above shall have effect as if the reference to an offence triable either way were a reference to such an offence or an offence triable only on indictment.
+
+.
+
+### Criminal Appeal (Northern Ireland) Act 1980 (c. 47)
+
+**71** The Criminal Appeal (Northern Ireland) Act 1980 shall be amended as follows.
+
+**72** The following subsection shall be substituted for subsection (4) of section 10 (supplementary provisions as to appeals against sentence)—
+
+> (4) The power of the Court under section 4(2) of this Act or subsection (3) above to pass a sentence which the Crown Court has power to pass for an offence shall, notwithstanding that the Crown Court made no order under section 19(1) of the Treatment of Offenders Act (Northern Ireland) 1968 in respect of a suspended sentence or order for detention previously passed or made on or in relation to the appellant for another offence, include power to deal with the appellant in respect of that sentence or order for detention where the Crown Court made no order in respect of it.
+
+.
+
+**73** The following section shall be inserted after section 16—
+
+> **Appeals in cases of contempt of court.**
+>
+> **16A** (1) Subject to subsection (2) below, a person who wishes to appeal under section 44 of the 1978 c. 23.Judicature (Northern Ireland) Act 1978 from any order or decision of the Crown Court in the exercise of jurisdiction to punish for contempt of court shall give notice of appeal in the prescribed manner within twenty-eight days from the date of the order or decision appealed against.
+>
+> (2) The time for giving notice under this section may be extended either before or after its expiry by the Court.
+
+.
+
+**74** The following section shall be substituted for section 17—
+
+> **Bail.**
+>
+> **17** (1) The Court of Appeal may, if it thinks fit—
+>
+> (a) grant an appellant bail pending the determination of his appeal; or
+>
+> (b) vary the conditions of bail granted to an appellant in the exercise of the power conferred by paragraph (a) above; or
+>
+> (c) revoke bail granted to an appellant under paragraph (a) above.
+>
+> (2) The powers conferred by subsection (1) above may be exercised—
+>
+> (a) on the application of the appellant; or
+>
+> (b) if it appears to the Master that any of them ought to be exercised, on a reference to the court by him.
+
+.
+
+**75** The following section shall be substituted for section 18—
+
+> **Groundless appeals or applications for leave to appeal.**
+>
+> **18** If it appears to the Master that a notice of appeal or of application for leave to appeal under this Part of this Act does not show any substantial ground of appeal, he may refer the appeal or application for leave to the Court of Appeal for summary determination; and the Court may then, if it considers that the appeal or application for leave is frivolous or vexatious, and can be determined without adjourning the proceedings for a full hearing, dismiss the appeal or application for leave summarily without calling on any one to attend the hearing or to appear for the Crown thereon.
+
+.
+
+**76** (1) In section 44(1) (constitution of Court of Appeal on appeals or references), after the word “Act" there shall be inserted the words “or section 36 of the Criminal Justice Act 1988".
+
+(2) In section 44(4)(b) (judge of the Court of Appeal not to hear or determine applications relating to reference under section 14 or 15 where he was the trial judge), after the word “Act" there shall be inserted the words “or section 36 of the Criminal Justice Act 1988.".
+
+**77** The following paragraph shall be substituted for section 45(2)(d)—
+
+> (d) to exercise the powers conferred by section 17 of this Act;
+
+.
+
+**78** The following subsection shall be inserted after section 45(3)—
+
+> (3A) The power of the Court of Appeal to grant leave to appeal under section 159 of the Criminal Justice Act 1988 may be exercised by a single judge in the same manner as it may be exercised by the Court.
+
+.
+
+### Supreme Court Act 1981 (c. 54)
+
+**[^F405]79** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**80** The following paragraph shall be inserted after subsection (4)(a) of section 55 of [[^F406]the Supreme Court Act 1981] (constitution of criminal division of Court of Appeal)—
+
+> (aa) reviewing sentencing under Part IV of the Criminal Justice Act 1988;
+
+.
+
+**81** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F407]
+
+### Civil Jurisdiction and Judgments Act 1982 (c. 27)
+
+**82** In section 18(4A) of the Civil Jurisdiction and Judgments Act 1982 (exception from provisions regulating the enforcement of UK judgments in other parts of the United Kingdom in respect of the enforcement in Scotland of High Court orders made under the [^M142]Drug Trafficking Offences Act 1986), after “1986" there shall be inserted the words “or Part VI of the Criminal Justice Act 1988 (confiscation of the proceeds of offences)".
+
+**83** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F408]
+
+**85** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F409]
+
+### Civic Government (Scotland) Act 1982 (c. 45)
+
+**[^F410]89** [^F410]In subsection (7) of section 52 of the Civic Government (Scotland) Act 1982 after the word “thereof)" there shall be inserted the words “and in Part III of the Social Work (Scotland) Act 1968 (children in need of compulsory measures of care)".
+
+### Criminal Justice Act 1982 (c. 48)
+
+**90** At the end of section 15(11) of the Criminal Justice Act 1982 (offence of failing to comply with supervision requirements) there shall be added (but not as part of paragraph (b)) the words “but not liable to be dealt with in any other way".
+
+**91** At the end of part II of Schedule 1 to that Act there shall be added—
+
+> CRIMINAL JUSTICE ACT 1988 (c. 33)
+>
+> **30** Section 134 (torture).
+
+**92** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F411]
+
+**95** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F412]
+
+### Police and Criminal Evidence Act 1984 (c. 60)
+
+**97** The Police and Criminal Evidence Act 1984 shall be amended as follows.
+
+**98** [^F413]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**99** In section 55(1) (intimate searches) for the words “such a search" there shall be substituted the words “an intimate search".
+
+**100** In section 65, in the definition of “intimate samples", for the word “orifice" there shall be substituted the word “orifices".
+
+**101** In section 120 (extent) the second of the two subsections numbered as subsection (9) shall be re-numbered as subsection (9A).
+
+**102** [^F414]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Prosecution of Offences Act 1985 (c. 23)
+
+**103** The following paragraph shall be inserted after subsection (4)(a) of section 16 of the Prosecution of Offences Act 1985 (defence costs)—
+
+> (aa) directs under section 8(1B) of the Criminal Appeal Act 1968 the entry of a judgment and verdict of acquittal;
+
+.
+
+**[^F415]104** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Local Government Act 1985 (c. 51)
+
+**[^F416]105** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Bankruptcy (Scotland) Act 1985 (c. 66)
+
+**[^F417]106** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F417]107** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F417]108** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F417]109** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Insolvency Act 1986 (c. 45)
+
+**110** Section 281(4) of the Insolvency Act 1986 (discharge of debtor not to release him from liabilities in respect of fines etc.) shall have effect as if the reference to a fine included a reference to a confiscation order.
+
+### Criminal Justice Act 1987 (c. 38)
+
+### Criminal Justice (Scotland) Act 1987 (c. 41)
+
+**[^F418]111** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Criminal Justice Act 1987 (c. 38)
+
+**112** The Criminal Justice Act 1987 shall be amended as follows.
+
+**113** (1) In subsection (2) of section 2 (Director’s investigation powers), for the words from “attend" to the end there shall be substituted the words “answer questions or otherwise furnish information with respect to any matter relevant to the investigation at a specified place and either at a specified time or forthwith".
+
+(2) In subsection (3) of that section—
+
+(a) for the words “a specified time and place" there shall be substituted the words “such place as may be specified in the notice and either forthwith or at such time as may be so specified,"; and
+
+(b) for the word “class" there shall be substituted the word “description".
+
+**[[^F419]114** (1) In subsection (1) of section 11, for the words from “a report" to “containing" there shall be inserted the words “a report of proceedings to which this section applies which contains".
+
+(2) The following subsection shall be inserted after that subsection—
+
+> (1A) This section applies—
+>
+> (a) to an application under section 6(1) above; and
+>
+> (b) to a preparatory hearing and any appeal or application for leave to appeal relating to such a hearing.
+
+(3) The following subsection shall be substituted for subsection (2)—
+
+> (2) An order that subsection (1) above shall not apply to reports—
+>
+> (a) of an application under section 6(1) above;
+>
+> (b) of a preparatory hearing;
+>
+> (c) of an appeal to the Court of Appeal under section 9(11) above; or
+>
+> (d) of an application for leave to appeal under that subsection,
+>
+> may be made—
+>
+> (i) in a case falling within paragraph (a), (b) or (d) above, by the judge dealing with the matter; and
+>
+> (ii) in a case falling within paragraph (c) above, by the Court of Appeal.
+
+.
+
+(4) The following subsection shall be inserted after subsection (9)—
+
+> (9A) In subsection (9) above “engaged” means engaged under a contract of service or a contract for services.
+
+(5) In subsection (15) the following definition shall be added after the definition of “publish"—
+
+> “relevant time” means a time when events giving rise to the charges to which the proceedings relate occurred.
+
+.]
+
+**115** In section 13(1), for the words “operates only so as to make for Northern Ireland provision corresponding to" there shall be substituted the words “is made only for purposes corresponding to those of".
+
+**116** In paragraph 6(1) of Schedule 1, for “(4)" there shall be substituted “(5)".
+
+### Criminal Justice (Scotland) Act 1987 (c. 41)
+
+**[^F420]117** [^F420](1) Section 52 of the Criminal Justice (Scotland) Act 1987 (Powers of investigation in relation to serious or complex fraud) shall be amended as follows.
+
+[^F420](2) In subsection (1) for the words from “attend" to the end there shall be substituted the words “answer questions or otherwise furnish information with respect to any matter relevant to the investigation at a specified place and either at a specified time or forthwith.":
+
+[^F420](3) In subsection (2)—
+
+- [^F420]for the words “a specified time and place" there shall be substituted the words “such place as may be specified in the notice and either forthwith or at such time as may be so specified,"; and
+- [^F420]for the word “class" there shall be substituted the word “description".
+
+[^F420](4) In subsection (5) after the word “him" there shall be inserted “(a)" and at the end of the subsection there shall be added the words “; or (b)in a prosecution for some other offence where in giving evidence he makes a statement inconsistent with it.”.
+
+### The Public Order (Northern Ireland) Order 1987 S.I. 1987 No. 463 (N.I.7)
+
+**118** (1) In Article 24(2) of the Public Order (Northern Ireland) Order 1987, for the words “or Part IV" there shall be substituted the words “Part IV or section 139 of the Criminal Justice Act 1988".
+
+(2) In Article 26(1) of that Order, for the words “or 22(1)" there shall be substituted the words “22(1) or section 139 of the Criminal Justice Act 1988".
+
+(3) In Article 26(2) (c) of that Order, after the words “Article 22(1)" there shall be inserted the words “or section 139 of the Criminal Justice Act 1988", and after the word “weapon" there shall be inserted the words “or article, as the case may be,".
+
+## SCHEDULE 16 — Repeals
+
+*Section 170.*
+
+|  |  |  |
+|---|---|---|
+| 7 Geo. 4. c. 24. | Criminal Law Act 1826. | Section 30. |
+| 24 & 25 Vict. c. 100. | Offences against the Person Act 1861. | Sections 42 and 43. |
+|  |  | In section 44, the word “such, in the first place where it occurs, and the words “under either of the last two preceding sections. |
+|  |  | Section 46. |
+|  |  | In section 47, the words from “and to the end. |
+| 6 & 7 Geo. 5. c. 64. | Prevention of Corruption Act 1916. | Sections 1 and 3. |
+| 15 & 16 Geo. 5. c. 86. | Criminal Justice Act 1925. | Section 39. |
+| 23 & 24 Geo. 5. c. 12. | Children and Young Persons Act 1933. | Section 1(5) and (6). |
+|  |  | In section 38(1), the proviso. |
+|  |  | In Schedule 1, in the third paragraph, the words “forty-two, forty-three. |
+| 1 Edw. 8. & 1 Geo. 6. c. 37. | Children and Young Persons (Scotland) Act 1937. | Section 12(5) and (6). |
+| 15 & 16 Geo. 6. and 1 Eliz. 2. c. 52. | Prison Act 1952. | Section 43(1)(b) and (c). |
+| 1952 c. 61. | Prisons (Scotland) Act 1952. | In section 31(1), paragraph (b). |
+|  |  | In section 31(3), the words “detention c entre. |
+|  |  | In section 31(4), the words “detention centres wherever they occur. |
+|  |  | In section 34, the words “or a detention centre. |
+|  |  | In section 35(1), the words “detentio n centres. |
+|  |  | In section 37(1), the words “or detention centre. |
+|  |  | In section 37(2), the words “or detention centre wherever they occur. |
+| 9 & 10 Eliz. 2. c. 39. | Criminal Justice Act 1961. | Section 2. |
+| 1967 c. 68. | Fugitive Offenders Act 1967. | In section 8(1) and (2), the words “to custody. |
+|  |  | In section 11(1), the words “in respect of a person in custody thereunder. |
+|  |  | In section 16(1), the words “(except for purposes of the references to the United Kingdom in section 3). |
+|  |  | Schedule 1. |
+| 1967 c. 80. | Criminal Justice Act 1967. | Section 49. |
+|  |  | In Schedule 3, Part I, the entry relating to the Prevention of Corruption Act 1906. |
+| 1968 c. 19. | Criminal Appeal Act 1968. | In section 7(1), the words “and do so only by reason of evidence received or available to be received by them under section 23 of this Act. |
+|  |  | Section 10(3)(d). |
+|  |  | Section 42. |
+| 1968 c. 27. | Firearms Act 1968. | In section 21(2), the words “to borstal training, to corrective training for less than three years or. |
+|  |  | In section 52(1)(a), the words “preventive detention, corrective training, borstal training,. |
+| 1969 c. 12. | Genocide Act 1969. | Section 2(1)(b) and the word “and immediately preceding it. |
+|  |  | In section 3(1), the words “and sections 16 and 17 of the Fugitive Offenders Act 1967. |
+| l969 c. 54. | Children and Young Persons Act l969. | In section 16(10), the words from “and the provisions to the end. |
+|  |  | Section 22(5). |
+|  |  | In section 29, the words “he or. |
+|  |  | Section 34(1)(f) |
+|  |  | In section 60, subsection (1)(b) and the word “and immediately preceding it, and in subsection (2), the words “or section 16(2) or 17 of the said Act of 1967. |
+| [^F421] . . .. | [^F421] . . . | [^F421] . . .. |
+| 1971 c. 40. | Fire Precautions Act 1971. | In section 40(2)(b), the words “detention centre. |
+| 1972 c. 20. | Road Traffic Act 1972. | In section 100, the words “or attempting to drive. |
+| 1972 c. 71. | Criminal Justice Act 1972. | Section 28(3). |
+|  |  | In Schedule 5, the amendment of the Criminal Appeal Act l968. |
+| 1973 c. 14. | Costs in Criminal Cases Act 1973. | In Schedule 1, paragraph 3. |
+| 1973 c. 62. | Powers of Criminal Courts Act 1973. | Section 22(5). |
+|  |  | In section 34A(1)(c), the words “other than an order under section 35 of this Act.' |
+|  |  | Sections 39 and 40. |
+|  |  | In section 57(3), the definition of “detention centre. |
+|  |  | In Schedule 3, paragraph 2(4)(b) and the word “and immediately preceding it, and paragraph 7. |
+|  |  | In Schedule 5, paragraph 29. |
+| 1974 c. 23. | Juries Act 1974. | In section 12(1)(a), the words “not more than three jurors without cause and. |
+|  |  | In section 16(2), the words “for murde r or. |
+| 1976 c. 82. | Sexual Offences (Amendment) Act 1976. | In section 4, in subsection (3), the words “before the Crown Court at which a person is charged with a rape offence and “relating to the complainant, and subsection (7)(a). |
+|  |  | In section 5(6), the words from the beginning to “and, in the second place where it occurs. |
+|  |  | Section 6. |
+|  |  | In section 7, in subsection (4), the words “and 6(4)(b), in subsection (5), the words “and 6 and in subsection (6), the words “and section 6(1) as adapted by section 6(4)(b). |
+| 1977 c. 45. | Criminal Law Act 1977. | Section 43. |
+|  |  | In Schedule 5, paragraph 2, so far as relating to section 99(b) of the Road Traffic Act 1972. |
+|  |  | In Schedule 6, the entry relating to the Offences against the Person Act 1861. |
+|  |  | In Schedule 12, in the entry relating to the Children and Young Persons Act 1969, paragraph 4(b) and (c). |
+| 1978 c. 26. | Suppression of Terrorism Act 1978. | Section 3(2). |
+| 1978 c. 31. | Theft Act 1978. | In section 5(3) the words from “and to the end. |
+| 1978 c. 37. | Protection of Children Act 1978. | In section 1(6), paragraph (b) and the word “and immediately preceding it and the words “and sections 16 and 17 of the 1967 Act. |
+|  |  | In section 4(2), the words from “taken to the end. |
+|  |  | In section 5(2), the words from “taken to “distributed or shown,. |
+| 1980 c. 9. | Reserve Forces Act 1980. | In Schedule 1, paragraph 5(c)(ii) and the word “or immediately preceding it. |
+| 1980 c. 43. | Magistrates’ Courts Act 1980. | Section 22(7). |
+|  |  | Section 32(7). |
+|  |  | Section 134. |
+|  |  | In section 143, subsection (2)(l) to (n), subsections (4) and (5) and in subsection (6) the words “or (4). |
+|  |  | In Schedule 1, in paragraph 5(h), the words “— common assault. |
+| 1982 c. 16. | Civil Aviation Act 1982. | Section 93(3). |
+| 1982 c. 28. | Taking of Hostages Act 1982. | In section 3, subsection (1)(b) and the word “and immediately preceding it and subsections (3) and (5). |
+| 1982 c. 36. | Aviation Security Act 1982. | In section 9, subsection (1)(b) and the word “and immediately preceding it, and subsections (2) and (3). |
+| 1982 c. 48. | Criminal Justice Act 1982. | Sections 4 to 7. |
+|  |  | Section 12(1) to (5), (8) and (9). |
+|  |  | Section 14. |
+|  |  | Section 20(1). |
+|  |  | In section 43, the words from “and, in the case to “thereof and the words from “(but to the end of the section. |
+|  |  | Sections 74 and 75. |
+|  |  | In section 80(1), the words “section 74; section 75;. |
+|  |  | In Schedule 8, paragraphs 3(c) and 7(d). |
+| 1983 c. 18. | Nuclear Material (Offences) Act 1983. | In section 5, subsection (1)(b) and the word “and immediately preceding it, and subsections (2) and (4). |
+| 1984 c. 39. | Video Recordings Act 1984. | Section 15(2), (4) and (5). |
+| 1984 c. 46. | Cable and Broadcasting Act 1984. | In Schedule 5, paragraph 34(6). |
+| 1984 c. 47. | Repatriation of Prisoners Act 1984. | In Schedule 1, paragraph 4. |
+| 1984 c. 60. | Police and Criminal Evidence Act 1984. | Section 24(2)(e). |
+|  |  | In section 65, the word “and befor e “references. |
+|  |  | Section 68. |
+|  |  | In Schedule 3, paragraphs 1 to 7 and paragraph 13. |
+| 1985 c. 13. | Cinemas Act 1985. | In Schedule 2, paragraph 11. |
+| 1985 c. 37. | Prohibition of Female Circumcision Act 1985. | Section 3(1)(b) and the word “and immediately preceding it. |
+| 1985 c. 51. | Local Government Act 1985. | In section 15(5), the words “or 7. |
+| 1985 c. 65. | Insolvency Act 1985. | In Schedule 8, paragraph 24. |
+| 1986 c. 32. | Drug Trafficking Offences Act 1986. | In section 6, in subsection (1), paragraph (b) and the word “and immediately preceding it, in subsection (3), the words “or 9 and subsection (5). |
+|  |  | Section 10(1). |
+|  |  | Section 15(5)(b) and (c). |
+|  |  | In section 17(1), the words from “but to the end. |
+|  |  | In section 19, in subsection (1) (b) (i), the words “(and no conviction for any drug trafficking offence is substituted) and in subsection (2), in paragraph (a), the words “and that, but for that default, the proceedings would not have been instituted or continued, and in paragraph (b), the word “substantial. |
+|  |  | In section 25(3), the words “varying or revoking a previous Order in Council. |
+|  |  | In section 38(11), the words “in England and Wales. |
+| 1986 c. 45. | Insolvency Act 1986. | Section 264(1)(d) and the word “or immediately preceding it. |
+|  |  | Section 266(4). |
+|  |  | Section 267(3). |
+|  |  | Section 277. |
+|  |  | Section 282(2). |
+|  |  | In section 293(1), the words “does not apply where the bankruptcy order was made on a petition under section 264(1)(d) (criminal bankruptcy); and it. |
+|  |  | Section 297(1). |
+|  |  | Section 327. |
+|  |  | Section 341(4) and (5). |
+|  |  | Section 382(1)(c). |
+|  |  | In section 383(1)(a), the words from “(being, to “question). |
+|  |  | In section 385(1), the definition of “criminal bankruptcy order. |
+|  |  | Section 402. |
+| 1987 c. 38. | Criminal Justice Act 1987. | Section 9(3)(a). |
+|  |  | In section 11, in subsection (8)(e), the word “engaged, and subsection (11). |
+|  |  | In Schedule 2, paragraph 1(2). |
+| 1987 c. 41. | Criminal Justice (Scotland) Act 1987. | Section 45(7)(c)(ii) and the word “and immediately preceding it. |
+| 1988 c. 13. | Coroners Act 1988. | In Schedule 3, paragraph 14. |
+
+Notes
+
+**1** The repeals in the Offences against the Person Act 1861 and the Prevention of Corruption Act 1916 do not extend to Northern Ireland.
+
+**2** The repeal in the Road Traffic Act 1972 does not extend to Scotland.
+
+**3** The repeal of sections 74 and 75 of the Criminal Justice Act 1982 and the repeals in sections 80 and 81 of that Act do not affect those sections as they apply—
+
+(a) in any of the Channel Islands; or
+
+(b) in the Isle of Man,
+
+and any Order in Council applying section 74(1) or 75 to any of those Islands shall continue to have effect as if this Act had not been passed.
+
+---
+
+[^F1]: Ss. 1–21 repealed by Extradition Act 1989 (c. 33, SIF 48), s. 37, Sch. 2
+[^M1]: 1978 c. 26.
+[^F2]: Pt. 2 repealed (4.4.2005) by Criminal Justice Act 2003 (c. 44), ss. 136(a), 332, 336, Sch. 37 Pt. 6; S.I. 2005/950, art. 2(1), Sch. 1 paras. 6, 27, 44(3) (subject to art. 2(2), Sch. 2 (as amended by S.I. 2005/2122, art. 2))
+[^F3]: Word in s. 23(1) inserted (14.4.2000) by 1999 c. 23, s. 67, Sch. 4 para.16 (with Sch. 7 para. 5(2)); S.I. 2000/1034, art. 2(b)
+[^M2]: 1968 c. 19.
+[^F4]: S. 23(1)(c) and word preceding it repealed (14.4.2000) by 1999 c. 23, s. 67, Sch. 6 (with Sch. 7 para. 5(2)); S.I. 2000/1034, art. 2(c),Sch.
+[^M3]: 1984 c. 60.
+[^F5]: S. 23(5) inserted (4.7.1996 with effect as mentioned in Sch. 1, Pt. III of the amending Act) by 1996 c. 25, s. 47, Sch. 1 Pt. II para. 28, Pt. III para. 39 (with s. 78(1)); S.I. 1997/683, art. 1(2)
+[^F6]: S. 23(5) repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by Criminal Justice Act 2003 (c. 44), s. 336(3)(4), Sch. 3 para. 60(2), Sch. 37 Pt. 4; S.I. 2012/1320, art. 4(1)(c)(d)(2)(3) (with art. 5) (see S.I. 2012/2574, art. 4(2) and S.I. 2013/1103, art. 4); S.I. 2012/2574, art. 2(2)(3)(c)(d), Sch. (with arts. 3, 4) (as amended (4.11.2012) by S.I. 2012/2761, art. 2) (with S.I. 2013/1103, art. 4); S.I. 2013/1103, art. 2(1)(c)
+[^F7]: Word in s. 24(1) inserted (14.4.2000) by 1999 c. 23, s. 67, Sch. 4 para.16 (with Sch. 7 para. 5(2)); S.I. 2000/1034, art. 2
+[^M4]: 1968 c. 19.
+[^F8]: S. 24(1)(c) and word preceding it repealed (14.4.2000) by 1999 c. 23, s. 67, Sch. 6 (with Sch. 7 para. 5(2)); S.I. 2000/1034, art. 2(c), Sch.
+[^F9]: Words in s. 24(4) substituted (26.4.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91, 94, Sch. 5 para. 14; S.I. 2004/786, art. 3(2) (with S.I. 2004/787, art. 3(3))
+[^F10]: S. 24(5) inserted (4.7.1996 with effect as mentioned in Sch. 1 Pt. III para. 39 of the amending Act) by 1996 c. 25, s. 47, Sch. 1 Pt. II para. 29 (with s. 78(1)); S.I. 1997/683, art. 1(2)
+[^F11]: S. 24(5) repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by Criminal Justice Act 2003 (c. 44), s. 336(3)(4), Sch. 3 para. 60(3), Sch. 37 Pt. 4; S.I. 2012/1320, art. 4(1)(c)(d)(2)(3) (with art. 5) (see S.I. 2012/2574, art. 4(2) and S.I. 2013/1103, art. 4); S.I. 2012/2574, art. 2(2)(3)(c)(d), Sch. (with arts. 3, 4) (as amended (4.11.2012) by S.I. 2012/2761, art. 2) (with S.I. 2013/1103, art. 4); S.I. 2013/1103, art. 2(1)(c)
+[^F12]: Word in s. 25(1)(a)(ii) repealed (4.9.1995) by 1994 c. 33, s. 168(3), Sch.11; S.I. 1995/1957, art.6
+[^M5]: 1987 c. 38.
+[^F13]: S. 25(1)(a)(iv) inserted (3.2.1995) by 1994 c. 33, s. 168(1), Sch. 9 para. 31; S.I. 1995/127, art. 2, Sch. 1, APPENDIX
+[^F14]: Words in s. 26 substituted (26.4.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91, 94, Sch. 5 para. 15; S.I. 2004/786, art. 3(2) (with S.I. 2004/787, art. 3(3))
+[^F15]: Words in s. 26 inserted (4.7.1996 with effect as mentioned in Sch. 1 Pt. III para. 39 of the amending Act) by 1996 c. 25, s. 47, Sch. 1 Pt. II para.30, Pt. III para. 39 (with s. 78(1)); S.I. 1997/683, art. 1(2)
+[^F16]: Words in s. 26 repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by Criminal Justice Act 2003 (c. 44), s. 336(3)(4), Sch. 3 para. 60(4), Sch. 37 Pt. 4; S.I. 2012/1320, art. 4(1)(c)(d)(2)(3) (with art. 5) (see S.I. 2012/2574, art. 4(2) and S.I. 2013/1103, art. 4); S.I. 2012/2574, art. 2(2)(3)(c)(d), Sch. (with arts. 3, 4) (as amended (4.11.2012) by S.I. 2012/2761, art. 2) (with S.I. 2013/1103, art. 4); S.I. 2013/1103, art. 2(1)(c)
+[^F17]: Words in s. 27 inserted (4.7.1996 with effect as mentioned in Sch. 1 Pt. III para. 39 of the amending Act) by 1996 c. 25, s. 47, Sch. 1 Pt. II para. 31, Pt. III para. 39 (with s. 78(1)); S.I. 1997/683, art. 1(2)
+[^F18]: Words in s. 27 repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by Criminal Justice Act 2003 (c. 44), s. 336(3)(4), Sch. 3 para. 60(5), Sch. 37 Pt. 4; S.I. 2012/1320, art. 4(1)(c)(d)(2)(3) (with art. 5) (see S.I. 2012/2574, art. 4(2) and S.I. 2013/1103, art. 4); S.I. 2012/2574, art. 2(2)(3)(c)(d), Sch. (with arts. 3, 4) (as amended (4.11.2012) by S.I. 2012/2761, art. 2) (with S.I. 2013/1103, art. 4); S.I. 2013/1103, art. 2(1)(c)
+[^F19]: S. 29 repealed (10.6.1991) by Criminal Justice (International Co-operation) Act 1990 (c. 5, SIF 39:1), s. 31(3), Sch. 5; S.I. 1991/1072, art. 2(a), Schedule Pt. I
+[^F20]: S. 30(4A) repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by Criminal Justice Act 2003 (c. 44), s. 336(3)(4), Sch. 3 para. 60(6), Sch. 37 Pt. 4; S.I. 2012/1320, art. 4(1)(c)(d)(2)(3) (with art. 5) (see S.I. 2012/2574, art. 4(2) and S.I. 2013/1103, art. 4); S.I. 2012/2574, art. 2(2)(3)(c)(d), Sch. (with arts. 3, 4) (as amended (4.11.2012) by S.I. 2012/2761, art. 2) (with S.I. 2013/1103, art. 4); S.I. 2013/1103, art. 2(1)(c)
+[^F21]: S. 30(4A) inserted (4.7.1996 with effect as mentioned in Sch. 1 Pt. III para. 39 of the amending Act) by 1996 c. 25, s. 47, Sch. 1 Pt. II para.32 (with s. 78(1)); S.I. 1997/683, art. 1(2)
+[^F22]: Words in s. 31 substituted (1.9.2004) by The Courts Act 2003 (Consequential Amendments) Order 2004 (S.I. 2004/2035), art. 3, Sch. para. 25 (with art. 2(2))
+[^F23]: Words in s. 32 heading inserted (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), s. 208(5)(y), Sch. 20 para. 5(a)
+[^F24]: S. 32(A1) inserted (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), s. 208(5)(y), Sch. 20 para. 5(b)
+[^F25]: Words in s. 32(1) substituted (1.10.1992) by Criminal Justice Act 1991 (c. 53, SIF 39:1), s. 55(2)(a); S.I. 1992/333, art. 2(2), Sch. 2.
+[^F26]: S. 32(1)(b) and word preceding it repealed (24.7.2002 for specified purposes and otherwise 6.12.2006) by 1999 c. 23, ss. 67, 68(3), Sch. 6 (with Sch. 7 paras. 3(2), 5(2)); S.I. 2002/1739, art. 2(g)(iii)); S.I. 2006/2885, art. 2(b)(vii)(aa)
+[^F27]: S. 32(1)(b) and word preceding it repealed (24.7.2002 for certain specified purposes otherwise prosp.) by 1999 c. 23, ss. 67, 68(3), Sch. 6 (with Sch. 7 paras. 3(2), 5(2)); S.I. 2002/1739, art. 2(g)(iii)
+[^F28]: S. 32(1A) inserted (1.10.1992) by Criminal Justice Act 1991 (c. 53, SIF 39:1), s. 55(3); S.I. 1992/333, art. 2(2), Sch. 2.
+[^F29]: Words in s. 32(1A)(a) substituted (31.3.1997) by 1995 c. 35, s. 29(1), Sch. 2 , para. 16(2)(a); S.I. 1997/402, art. 3
+[^F30]: Words in s. 32(1A)(b) substituted (31.3.1997) by 1995 c. 35, s. 29(1), Sch. 2 para. 16(2)(b); S.I. 1997/402, art. 3
+[^F31]: S. 32(2)(3A)-(3E)(6) repealed (24.7.2002 for specified purposes and otherwise prosp.) by 1999 c. 23, ss. 67, 68(3), Sch. 6 (with Sch. 7 paras. 3(2), 5(2)); S.I. 2002/1739, art. 2(g)(iii))
+[^M6]: 1911 c. 6.
+[^F32]: Words in s. 32(4) substituted (1.9.2004) by The Courts Act 2003 (Consequential Amendments) Order 2004 (S.I. 2004/2035), art. 3, Sch. para. 26(2)(a) (with art. 2(2))
+[^F33]: Words in s. 32(4) substituted (1.9.2004) by The Courts Act 2003 (Consequential Amendments) Order 2004 (S.I. 2004/2035), art. 3, Sch. para. 26(2)(b) (with art. 2(2))
+[^F34]: S. 32(5) omitted (1.9.2004) by virtue of The Courts Act 2003 (Consequential Amendments) Order 2004 (S.I. 2004/2035), art. 3, Sch. para. 26(3) (with art. 2(2))
+[^F35]: S. 32A repealed (24.7.2002 for certain specified purposes and 6.12.2006 otherwise) by 1999 c. 23, ss. 67, 68(3), Sch. 6 (with Sch. 7 paras. 3(2), 5(2)); S.I. 2002/1739, art. 2(g)(iii); S.I. 2006/2885, art. 2(b)(vii)(bb)
+[^F36]: S. 33 repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by Criminal Justice Act 2003 (c. 44), s. 336(3)(4), Sch. 37 Pt. 4; S.I. 2012/1320, art. 4(1)(d)(2)(3) (with art. 5) (see S.I. 2012/2574, art. 4(2) and S.I. 2013/1103, art. 4); S.I. 2012/2574, art. 2(2)(3)(d), Sch. (with arts. 3, 4) (as amended (4.11.2012) by S.I. 2012/2761, art. 2) (with S.I. 2013/1103, art. 4); S.I. 2013/1103, art. 2(1)(d)
+[^F37]: S. 33A repealed (24.7.2002) by 1999 c. 23, s. 67, Sch. 6 (with Sch. 7 para. 5(2)); S.I. 2002/1739, art. 2(g)(iii)
+[^F38]: S. 34(1) repealed (1.10.1992) by Criminal Justice Act 1991 (c. 53, SIF 39:1), ss. 100, 101(2), Sch. 11 para. 37, Sch. 13; S.I. 1992/333, art. 2(2), Sch. 2.
+[^F39]: Words in s. 34(2) repealed (4.9.1995) by 1994 c. 33, ss. 32(2), 168(3), Sch. 11; S.I. 1995/1957, art. 6
+[^F40]: Words in s. 34(3) substituted (14.4.2000) by 1999 c. 23, s. 67, Sch. 4 para.17 (with Sch. 7 para. 5(2)); S.I. 2000/1034, art. 2(b)
+[^F41]: S. 34A repealed (4.9.2000) by 1999 c. 23, ss. 67, Sch. 6 (with Sch. 7 para. 3(2)); S.I. 2000/2091, art. 2(f) (with art. 3)
+[^F42]: Words in s. 35(1) inserted (29.6.2026) by Victims and Courts Act 2026 (c. 19), ss. 14(4), 18(2)
+[^F43]: S. 35(3)(a)(b)(i)(ii) substituted (9.1.1995) by 1994 c. 33, s. 168(1), Sch. 9 para. 34(a); S.I. 1994/3192, art. 2, Sch.
+[^F44]: Words in s. 35(4) inserted (9.1.1995) by 1994 c. 33, s. 168(1), Sch. 9 para. 34(b); S.I. 1994/3192, art. 2, Sch.
+[^M7]: 1968 c. 19.
+[^M8]: 1983 c. 20.
+[^F45]: S. 35(9A) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1(2), Sch. 14 para. 30(2) (with arts. 28-31)
+[^F46]: Words in s. 35(10) substituted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1(2), Sch. 14 para. 30(3) (with arts. 28-31)
+[^M9]: 1968 c. 19.
+[^M10]: 1983 c. 20.
+[^M11]: 1980 c. 47.
+[^M12]: S.I. 1986/4 (N.I. 4)
+[^F47]: S. 36(2)(a)(b) substituted (4.4.2005) for words in s. 36(2) by Criminal Justice Act 2003 (c. 44), ss. 304, 336, Sch. 32 Pt. 1 para. 46; S.I. 2005/950, art. 2(1), Sch. 1 para. 23, 42(21) (subject to art. 2(2), Sch. 2 (as amended by S.I. 2005/2122, art. 2))
+[^F48]: S. 36(2)(b) substituted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 89(2) (with Sch. 24 para. 447, Sch. 27); S.I. 2020/1236, reg. 2
+[^F49]: Words in s. 36(3) substituted (4.4.2005) by Criminal Justice Act 2003 (c. 44), ss. 331, 336, Sch. 36 Pt. 6 para. 96(a); S.I. 2005/950, art. 2(1), Sch. 1 para. 43(c) (subject to art. 2(2), Sch. 2 (as amended by S.I. 2005/2122, art. 2))
+[^F50]: S. 36(3A) inserted (18.12.2003) by Criminal Justice Act 2003 (c. 44), ss. 272(1), 336(1)(12)
+[^F51]: Words in s. 36(3A) substituted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 89(3) (with Sch. 24 para. 447, Sch. 27); S.I. 2020/1236, reg. 2
+[^F52]: Words in s. 36(3A) omitted by virtue of 2008 c. 4, s. 46(2) (as substituted (1.12.2020) by virtue of Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 267 (with Sch. 24 para. 447, Sch. 27); S.I. 2020/1236, reg. 2)
+[^F53]: Words in s. 36(5) substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), ss. 40, 148, Sch. 9 para. 48(2)(a)(i); S.I. 2009/1604, art. 2
+[^F54]: Words in s. 36(5) substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), ss. 40, 148, Sch. 9 para. 48(2)(a)(ii); S.I. 2009/1604, art. 2
+[^F55]: Words in s. 36(5) substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), ss. 40, 148, Sch. 9 para. 48(2)(a)(iii); S.I. 2009/1604, art. 2
+[^F56]: Words in s. 36(6) substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), ss. 40, 148, Sch. 9 para. 48(2)(b); S.I. 2009/1604, art. 2
+[^F57]: Words in s. 36(7) substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), ss. 40, 148, Sch. 9 para. 48(2)(c); S.I. 2009/1604, art. 2
+[^F58]: Words in s. 36(9)(a) substituted (with application in accordance with s. 41(1) of the amending Act) by Justice (Northern Ireland) Act 2002 (c. 26), ss. 41(5), 87(1); S.R. 2010/113, art. 2, Sch. para. 12
+[^F59]: S. 36(9)(aa) substituted for s. 36(9)(aa)-(ac) (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 89(4)(a) (with Sch. 24 para. 447, Sch. 27); S.I. 2020/1236, reg. 2
+[^F60]: Words in s. 36(9)(b) substituted (4.4.2005) by Criminal Justice Act 2003 (c. 44), ss. 331, 336, Sch. 36 Pt. 6 para. 96(b); S.I. 2005/950, art. 2(1), Sch. 1 para. 43(c) (subject to art. 2(2), Sch. 2 (as amended by S.I. 2005/2122, art. 2))
+[^M13]: 1968 c. 19.
+[^M14]: 1980 c. 47.
+[^F61]: S. 36(9)(c) and preceding word inserted (14.7.2008) by Criminal Justice and Immigration Act 2008 (c. 4), ss. 46(3), 153; S.I. 2008/1586, art. 2, Sch. 1 para. 25
+[^F62]: Word in s. 36(9)(b) omitted (N.I.) (14.1.2015) by virtue of Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2), ss. 7(6), 28(2)
+[^F63]: Words in s. 36(9)(c) substituted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 89(4)(b) (with Sch. 24 para. 447, Sch. 27); S.I. 2020/1236, reg. 2
+[^F64]: S. 36(9)(d) and preceding word omitted (1.12.2020) by virtue of Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 89(4)(c) (with Sch. 24 para. 447, Sch. 27); S.I. 2020/1236, reg. 2
+[^M15]: 1968 c. 60.
+[^F65]: Ss. 37(2), 63, 68 repealed by Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1), ss. 3, 5, Sch. 1, Sch. 4 paras. 1, 2
+[^M16]: 1980 c. 43.
+[^F66]: S. 39 renumbered as s. 39(1) (13.11.2018) by Assaults on Emergency Workers (Offences) Act 2018 (c. 23), ss. 1(5), 4(2) (with s. 1(6))
+[^F67]: S. 39(2) inserted (13.11.2018) by Assaults on Emergency Workers (Offences) Act 2018 (c. 23), ss. 1(5), 4(2) (with s. 1(6))
+[^F68]: S. 39A inserted (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 49, 208(1); S.I. 2022/520, reg. 5(f)
+[^F69]: Words in s. 40(1) repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by Criminal Justice Act 2003 (c. 44), s. 336(3)(4), Sch. 3 para. 60(7)(a), Sch. 37 Pt. 4; S.I. 2012/1320, art. 4(1)(c)(d)(2)(3) (with art. 5) (see S.I. 2012/2574, art. 4(2) and S.I. 2013/1103, art. 4); S.I. 2012/2574, art. 2(2)(3)(c)(d), Sch. (with arts. 3, 4) (as amended (4.11.2012) by S.I. 2012/2761, art. 2) (with S.I. 2013/1103, art. 4); S.I. 2013/1102, art. 2(1)(d)
+[^F70]: Words in s. 40(1) inserted (4.1.1999 for specified purposes and otherwise 15.1.2001) by 1998 c. 37, s. 119, Sch. 8 para. 66; S.I. 1998/2327, art. 4(2)(c); S.I. 2000/3283, art. 2(c)
+[^F71]: Words in s. 40(1) inserted (9.5.2005 for specified purposes, 18.6.2012 for specified purposes, 28.5.2013 for specified purposes) by Criminal Justice Act 2003 (c. 44) , s. 336(3) (4) , Sch. 3 para. 60(7)(b) ; S.I. 2005/1267 , arts. 2(1)(2)(b), Sch. Pt. 2; S.I. 2012/1320 , art. 4(1)(c)(2)(3) (with arts. 3, 5) (see S.I. 2012/2574, art. 4(2) and S.I. 2013/1103 art. 4); S.I. 2013/1103, art. 2(1)(d)
+[^F72]: S. 40(3)(aa)(ab) inserted (3.2.1995) by 1994 c. 33, s. 168(1), Sch. 9 para. 35; S.I. 1995/127, art. Sch. 1, Appendix A
+[^F73]: S. 40(3)(ac) inserted (20.3.2015) by Criminal Justice and Courts Act 2015 (c. 2), s. 95(1), Sch. 10 para. 31; S.I. 2015/778, art. 2(1)(d)
+[^M17]: 1968 c. 60.
+[^F74]: Words substituted by Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 108:1), s. 4, Sch. 3 para. 39
+[^M18]: 1980 c. 43.
+[^F75]: S. 41 repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by Criminal Justice Act 2003 (c. 44), s. 336(3)(4), Sch. 3 para. 60(8), Sch. 37 Pt. 4; S.I. 2012/1320, art. 4(1)(c)(d)(2)(3) (with art. 5) (see S.I. 2012/2574, art. 4(2) and S.I. 2013/1103, art. 4); S.I. 2012/2574, art. 2(2)(3)(c)(d), Sch. (with arts. 3, 4) (as amended (4.11.2012) by S.I. 2012/2761, art. 2) (with S.I. 2013/1103, art. 4); S.I. 2013/1103, art. 2(1)(c)
+[^F76]: S. 42 repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^M19]: 1968 c. 19.
+[^M20]: 1968 c. 27.
+[^M21]: 1933 c. 12.
+[^M22]: 1937 c. 37.
+[^M23]: 1953 c. 14.
+[^M24]: 1959 c. 37.
+[^F77]: S. 47 repealed (1.7.2011) by Bribery Act 2010 (c. 23), s. 19(1), Sch. 2 (with ss. 16, 19(5)); S.I. 2011/1418, art. 2
+[^F78]: S. 48 repealed (15.2.1994) by 1993 c. 36, ss. 78(3), 79(14), Sch. 6 Pt.I; S.I. 1994/71, art. 2,Sch., Appendix
+[^F79]: S. 49 repealed (21.7.2008) by Statute Law (Repeals) Act 2008 (c. 12), s. 1(1), Sch. 1 Pt. 3
+[^F80]: S. 50 repealed (28.3.2009 for certain purposes and otherwise prosp.) by Armed Forces Act 2006 (c. 52), s. 378, 383, Sch. 16 para. 112, Sch. 17; S.I. 2009/812, art. 3 (with transitional provisions in S.I. 2009/1059)
+[^M25]: 1980 c. 43.
+[^M26]: 1982 c. 48.
+[^M27]: 1975 c. 21.
+[^M28]: 1982 c. 48.
+[^M29]: 1982 c. 48.
+[^M30]: 1975 c. 21.
+[^M31]: 1987 c. 41.
+[^M32]: 1975 c. 21.
+[^F81]: S. 58 repealed (18.2.1993) by Environmental Protection Act 1990 (c. 43, SIF 46:4), s. 162(2), Sch. 16 Pt. IX; S.I. 1993/274, art.2
+[^F82]: Words in s. 60(1) substituted (25.8.2000) by 2000 c. 6, ss. 165(1), 168(1), Sch. 9 para. 104
+[^M33]: 1980 c. 43.
+[^F83]: S. 60(2) repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^M34]: 1980 c. 43.
+[^M35]: 1980 c. 43.
+[^F84]: S. 62(2)(a) repealed (15.9.2003) by 2002 c. 40, ss. 278, 279, Sch. 26; S.I. 2003/2093, art. 2(1), Sch. 1 (subject to art. 2(2))
+[^F85]: Ss. 37(2), 63, 68 repealed by Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1), ss. 3, 5, Sch. 1, Sch. 4 paras. 1, 2
+[^F86]: S. 64 repealed (21.7.2008) by Statute Law (Repeals) Act 2008 (c. 12), s. 1(1), Sch. 1 Pt. 3
+[^F87]: S. 65 repealed (8.1.2001) by 1999 c. 22, s. 106, Sch. 15 Pt. V(8) (with Sch. 14 paras. 7(2), 36(9)); S.I. 2000/3280, art. 2(c)(ii) (with art. 3)
+[^M36]: 1981 c. 29.
+[^M37]: 1982 c. 48.
+[^F88]: Words in s. 67(1) substituted (1.4.2005) by Courts Act 2003 (c. 39), ss. 109(1), 110, Sch. 8 para. 304; S.I. 2005/910, art. 3(y)(bb)
+[^F89]: Ss. 37(2), 63, 68 repealed by Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1), ss. 3, 5, Sch. 1, Sch. 4 paras. 1, 2
+[^F90]: S. 69 repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^M38]: 1971 c. 38.
+[^M39]: 1986 c. 32.
+[^F91]: S. 71 repealed (24.3.2003) by 2002 (c. 29), ss. 456, 457, 458(1), Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F92]: S. 72 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458(1), Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F93]: S. 72A repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458(1), Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F94]: S. 72AA repealed ( 24.3.2003) by 2002 c. 29, ss. 456, 467, 458(1), Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F95]: S. 73 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458(1), Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F96]: S. 73A repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F97]: S. 74 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458(1), Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F98]: S. 74A (and the heading immediately preceding it) inserted (1.11.1995) by 1995 c. 11, s. 5; S.I. 1995/2650, art.2
+[^F99]: S. 74A repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458(1), Sch. 11 para. 17(2)(a), Sch. 11; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F100]: S. 74B repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458(1), Sch. 11 para 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F101]: S. 74C repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458(1), Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F102]: S. 75 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458(1), Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F103]: S. 75A repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458(1), Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F104]: S. 76 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458(1), Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F105]: S. 77 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458(1), Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F106]: S. 78 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F107]: S. 79 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F108]: S. 80 repealed ( 24.3.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F109]: S. 81 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F110]: S. 82 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F111]: S. 83 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F112]: S. 84 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F113]: S. 85 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F114]: S. 86 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F115]: S. 87 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F116]: S. 88 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F117]: S. 89 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F118]: S. 90 repealed (31.3.1996) by 1995 c. 20, s. 117, Sch. 6 Pt. II para. 186(5), Sch.7 Pt. II; S.I. 1996/517, art. 3; s. 90 expressed to be repealed (*prosp.*) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12
+[^F119]: S. 91 repealed (31.3.1996) by 1995 c. 20, s. 117, Sch. 6 Pt. II para. 186(5), Sch.7 Pt. II; S.I. 1996/517, art.3; s. 91 expressed to be repealed (*prosp.*) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12
+[^F120]: S. 92 repealed (31.3.1996) by 1995 c. 20, s. 117, Sch. 6 Pt. II para. 186(5), Sch.7 Pt. II; S.I. 1996/517, art.3; s. 92 expressed to be repealed (*prosp.*) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12
+[^F121]: S. 93 repealed (31.3.1996) by 1995 c. 20, s. 117, Sch. 6 Pt. II para. 186(5), Sch.7 Pt. II; S.I. 1996/517, art.3; s. 93 expressed to be repealed (*prosp.*) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12
+[^F122]: S. 93A and cross heading inserted (E.W.S.) (15.2.1994) by 1993 c. 36, s. 29(1); S.I. 1994/71, art. 2, Sch.
+[^F123]: S. 93A repealed (24.2.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/120, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-7 (as amended (24.3.2003) by S.I. 2003/333, art. 14 and S.I. 2003/531, art. 3))
+[^F124]: S. 93B repealed (24.2.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/120, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-7 (as amended (24.3.2003) by S.I. 2003/333, art. 14 and S.I. 2003/531, art. 3))
+[^F125]: S. 93C repealed (24.2.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/120, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-7 (as amended (24.3.2003) by S.I. 2003/333, art. 14 and S.I. 2003/531, art. 3))
+[^F126]: S. 93D repealed (24.2.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/120, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-7 (as amended (24.3.2003) by S.I. 2003/333, art. 14 and S.I. 2003/531, art. 3))
+[^F127]: S. 93E repealed (24.2.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/120, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-7 (as amended (24.3.2003) by S.I. 2003/333, art. 14 and S.I. 2003/531, art. 3))
+[^F128]: S. 93F repealed (24.2.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/120, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-7 (as amended (24.3.2003) by S.I. 2003/333, art. 14 and S.I. 2003/531, art. 3))
+[^F129]: S. 93G repealed (24.2.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/120, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-7 (as amended (24.3.2003) by S.I. 2003/333, art. 14 and S.I. 2003/531, art. 3))
+[^F130]: S. 93H (and the heading immediately preceding it) inserted (1.11.1995) by 1995 c. 11, s.11; S.I. 1995/2650, art.2
+[^F131]: S. 93H repealed (24.2.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/120, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-7 (as amended (24.3.2003) by S.I. 2003/333, art. 14 and S.I. 2003/531, art. 3))
+[^F132]: S. 93I repealed (24.2.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/120, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-7 (as amended (24.3.2003) by S.I. 2003/333, art. 14 and S.I. 2003/531, art. 3))
+[^F133]: S. 93J repealed (24.2.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/120, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-7 (as amended (24.3.2003) by S.I. 2003/333, art. 14 and S.I. 2003/531, art. 3))
+[^F134]: S. 94 repealed (24.2.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/120, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-7 (as amended (24.3.2003) by S.I. 2003/333, art. 14 and S.I. 2003/531, art. 3))
+[^F135]: S. 95 repealed (31.3.1996) by 1995 c. 20, s. 117, Sch. 6 Pt. II para. 186(5), Sch. 7 Pt. II; S.I. 1996/517, art. 3
+[^F136]: S. 96(5) substituted (1.12.1993) by 1993 c. 36, s. 21(3)(g); S.I. 1993/2734, art. 2,Sch.
+[^F137]: S. 98 repealed (15.2.1994) by 1993 c. 36, s. 79(13)(14), Sch. 5 Pt. I para. 14(1), Sch. 6 Pt. I; S.I. 1994/71, art. 2, Sch. Appendix
+[^F138]: S. 99 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458(1), Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F139]: S. 100 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531) and s. 100 repealed (21.7.2008) by Statute Law (Repeals) Act 2008 (c. 12), s. 1(1), Sch. 1 Pt. 3
+[^F140]: S. 101 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F141]: S. 102 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(a), Sch. 12; S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^F142]: S. 103 repealed (21.7.2008) by Statute Law (Repeals) Act 2008 (c. 12), s. 1(1), Sch. 1 Pt. 3
+[^F143]: S. 104 repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^F144]: S. 105 repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^M40]: 1970 c. 31.
+[^F145]: S. 107 repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^F146]: Ss. 108-117 repealed (8.11.1995) by 1995 c. 53, s. 12(1)(7),Sch.
+[^F147]: Ss. 108-117 repealed (8.11.1995) by 1995 c. 53, s. 12(1)(7),Sch.
+[^F148]: Ss. 108-117 repealed (8.11.1995) by 1995 c. 53, s. 12(1)(7),Sch.
+[^F149]: Ss. 108-117 repealed (8.11.1995) by 1995 c. 53, s. 12(1)(7),Sch.
+[^F150]: Ss. 108-117 repealed (8.11.1995) by 1995 c. 53, s. 12(1)(7),Sch.
+[^F151]: Ss. 108-117 repealed (8.11.1995) by 1995 c. 53, s. 12(1)(7),Sch.
+[^F152]: Ss. 108-117 repealed (8.11.1995) by 1995 c. 53, s. 12(1)(7),Sch.
+[^F153]: Ss. 108-117 repealed (8.11.1995) by 1995 c. 53, s. 12(1)(7),Sch.
+[^F154]: Ss. 108-117 repealed (8.11.1995) by 1995 c. 53, s. 12(1)(7),Sch.
+[^F155]: Ss. 108-117 repealed (8.11.1995) by 1995 c. 53, s. 12(1)(7),Sch.
+[^F156]: S. 119 repealed (5.4.2004) by Criminal Justice Act 2003 (c. 44), ss. 332, 336, Sch. 37 Pt. 10; S.I. 2004/829, art. 2(2)(l)(iv) (subject to art. 2(3)-(6))
+[^M41]: 1974 c. 23.
+[^F157]: S. 123(1)(5) repealed (21.7.2008) by Statute Law (Repeals) Act 2008 (c. 12), s. 1(1), Sch. 1 Pt. 3
+[^F158]: S. 123(2)(3) repealed (1.10.1992) by Criminal Justice Act 1991 (c. 53, SIF 39:1), s. 101(2), Sch. 13; S.I. 1992/333, art. 2(2), Sch. 2
+[^F159]: S. 123(4) repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^M42]: 1975 c. 21.
+[^M43]: 1968 c. 27.
+[^M44]: 1980 c. 55.
+[^M45]: 1980 c. 62.
+[^F160]: S. 125 repealed (21.7.2008) by Statute Law (Repeals) Act 2008 (c. 12), s. 1(1), Sch. 1 Pt. 3
+[^F161]: S. 126 repealed (9.1.1995) by 1994 c. 33, s. 168(3), Sch.11; S.I. 1994/3192, art. 2,Sch.
+[^F162]: S. 127 repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^F163]: S. 128 repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^F164]: S. 129 repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^M46]: 1976 c. 63.
+[^F165]: S. 131(2) repealed (1.10.1992) by Criminal Justice Act 1991 (c. 53, SIF 39:1), s. 101(2), Sch.13; S.I. 1992/333, art. 2(2), Sch. 2.
+[^F166]: S. 132 repealed (5.2.1994) by 1993 c. 47, ss. 32, 33(3), Sch.4
+[^F167]: S. 133(1ZA) inserted (13.3.2014) by Anti-social Behaviour, Crime and Policing Act 2014 (c. 12), ss. 175(1), 185(1), (2)(a) (with ss. 21, 33, 42, 58, 75, 93, 175(2))
+[^F168]: S. 133(2A) and preceding words in s. 133(2) inserted (E.W.N.I.) (1.12.2008) by Criminal Justice and Immigration Act 2008 (c. 4), ss. 61(3) , 153 (with Sch. 27 para. 22); S.I. 2008/2993, art. 2(1)(a)
+[^F169]: S. 133(4A) substituted (E.W.N.I.) (1.12.2008) by Criminal Justice and Immigration Act 2008 (c. 4), ss. 61(4) , 153 (with Sch. 27 para. 22); S.I. 2008/2993, art. 2(1)(a)
+[^F170]: S. 133(5)(b)(i) substituted (31.3.1997) by 1995 c. 35, s. 29(1), Sch. 2 para. 16(4); S.I. 1997/402, art. 3(e)
+[^F171]: S. 133(5)(b)(ii) substituted (S.) (23.4.2007) by Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6), ss. 80, 84, Sch. 5 para. 6(1); S.S.I. 2007/250, art. 3(h)(i)
+[^F172]: S. 133(5)(b)(iii) and word repealed (1.1.1996) by 1995 c. 35, s. 29, Sch. 2 para. 16(4), Sch. 3; S.I. 1995/3061, art. 3(i)(vii)
+[^F173]: S. 133(5)(c) and word inserted (19.2.2001) by 2000 c. 11, s. 7(8); S.I. 2001/421, art. 2
+[^F174]: S. 133(5)(d) and word inserted (11.3.2005) by Prevention of Terrorism Act 2005 (c. 2), ss. 12(8), 16
+[^F175]: S. 133(5)(d) omitted (15.12.2011) by virtue of Terrorism Prevention and Investigation Measures Act 2011 (c. 23), s. 31(2), Sch. 7 para. 3(a) (with Sch. 8)
+[^F176]: S. 133(5)(f) and word inserted (15.12.2011) by Terrorism Prevention and Investigation Measures Act 2011 (c. 23), s. 31(2), Sch. 7 para. 3(b) (with Sch. 8)
+[^F177]: S. 133(5)(g) inserted (12.2.2015) by Counter-Terrorism and Security Act 2015 (c. 6), ss. 15(2)(b), 52(5)
+[^F178]: S. 133(5)(h) and word inserted (20.12.2023) by The National Security Act 2023 (Consequential Amendments of Primary Legislation) Regulations 2023 (S.I. 2023/1386), reg. 1(2), Sch. para. 8
+[^F179]: Words in s. 133(5)(h) inserted (8.7.2026) by National Security (State Threats) Act 2026 (c. 24), s. 7(1), Sch. para. 4
+[^F180]: S. 133(5A)(5B) inserted (E.W.N.I.) (1.12.2008) by Criminal Justice and Immigration Act 2008 (c. 4), ss. 61(5) , 153 (with Sch. 27 para. 22); S.I. 2008/2993, art. 2(1)(a)
+[^F181]: Words in s. 133(5B) substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), ss. 59, 148, Sch. 11 para. 1; S.I. 2009/1604, art. 2(d)
+[^F182]: Words in s. 133(6) inserted (E.W.N.I.) (1.12.2008) by Criminal Justice and Immigration Act 2008 (c. 4), ss. 61(6) , 153 (with Sch. 27 para. 22); S.I. 2008/2993, art. 2(1)(a)
+[^F183]: S. 133(6A)-(6K) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1(2), Sch. 6 para. 2(1) (with arts. 28-31, Sch. 6 para. 2(2))
+[^F184]: Ss. 133A, 133B inserted (E.W.N.I) (1.12.2008) by Criminal Justice and Immigration Act 2008 (c. 4), ss. 61(7) , 153 (with Sch. 27 para. 22); S.I. 2008/2993, art. 2(1)(a)
+[^F185]: Words in s. 133A(5) substituted (29.10.2025) by The Compensation for Miscarriages of Justice (Alteration of Overall Compensation Limits) Order 2025 (S.I. 2025/1139), arts. 1(2), 2(2)(a) (with art. 4(1))
+[^F186]: S. 133A(5A) inserted (29.10.2025) by The Compensation for Miscarriages of Justice (Alteration of Overall Compensation Limits) Order 2025 (S.I. 2025/1139), arts. 1(2), 2(2)(b) (with art. 4(1))
+[^F187]: S. 133A(9)-(12) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1(2), Sch. 6 para. 3 (with arts. 28-31)
+[^F188]: Words in s. 135 substituted (12.4.2010) by Justice (Northern Ireland) Act 2002 (c. 26), s. 87(1), Sch. 7 para. 31; S.R. 2010/113, art. 2, Sch. para. 19(e)
+[^F189]: Ss. 136, 137, 138(2)(3) repealed by Extradition Act 1989 (c. 33, SIF 48), s. 37, Sch. 2
+[^F190]: Ss. 136, 137, 138(2)(3) repealed by Extradition Act 1989 (c. 33, SIF 48), s. 37, Sch. 2
+[^F191]: S. 139(6)(a)(b) substituted (4.7.1996) for words by 1996 c. 26, s.3(1) (with s. 3(2))
+[^F192]: Word in s.139(6)(b) substituted (E.W.) (12.2.2007) by Violent Crime Reduction Act 2006 (c.38), ss. 42(1)(a), 66(2); S.I. 2007/74, art. 2(a)
+[^F193]: S. 139(6ZA) inserted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 90 (with Sch. 24 para. 447, Sch. 27); S.I. 2020/1236, reg. 2
+[^F194]: S. 139(6A)-(6G) repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F195]: S. 139A inserted (1.9.1996) by 1996 c. 26, s. 4(1)(4); S.I. 1996/2071, art. 2
+[^F196]: Words in s. 139A heading substituted (6.4.2022 for E.W.) by Offensive Weapons Act 2019 (c. 17), ss. 45(2), 70(1); S.I. 2022/418, reg. 2(b) (with reg. 3)
+[^F197]: Words in s. 139A(1) inserted (6.4.2022 for E.W.) by Offensive Weapons Act 2019 (c. 17), ss. 45(3), 70(1); S.I. 2022/418, reg. 2(b) (with reg. 3)
+[^M47]: 1953 c. 14.
+[^F198]: Words in s. 139A(2) inserted (6.4.2022 for E.W.) by Offensive Weapons Act 2019 (c. 17), ss. 45(4), 70(1); S.I. 2022/418, reg. 2(b) (with reg. 3)
+[^F199]: S. 139A(5)(5ZA) substituted for s. 139A(5) (6.4.2022 for E.W.) by Offensive Weapons Act 2019 (c. 17), ss. 45(5), 70(1); S.I. 2022/418, reg. 2(b) (with reg. 3)
+[^F200]: Words in s. 139A(5)(a) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F201]: Words in s. 139A(5ZA) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F202]: S. 139A(5A)-(5G) repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F203]: S. 139A(5ZB) inserted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 91 (with Sch. 24 para. 447, Sch. 27); S.I. 2020/1236, reg. 2
+[^F204]: S. 139A(6) substituted (6.4.2022 for E.W.) by Offensive Weapons Act 2019 (c. 17), ss. 45(6), 70(1); S.I. 2022/418, reg. 2(b) (with reg. 3)
+[^F205]: S. 139A(6A) inserted (6.4.2022 for E.W.) by Offensive Weapons Act 2019 (c. 17), ss. 45(7), 70(1); S.I. 2022/418, reg. 2(b) (with reg. 3)
+[^M48]: 1953 c. 14.
+[^M49]: S.I. 1987/463 (N.I. 7).
+[^F206]: Words in s. 139A(6)(7) substituted (1.11.1996) by 1996 c. 56, ss. 582(1), 583(2), Sch. 37 Pt. I para.69 (with ss. 1(4), 582(3), Sch. 39)
+[^M50]: S.I. 1986/594 (N.I. 3).
+[^F207]: S. 139AZA repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F208]: S. 139AA inserted (3.12.2012) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), ss. 142(2), 151(1); S.I. 2012/2770, art. 2(a)
+[^F209]: Word in s. 139AA(1)(b) inserted (6.4.2022) by Offensive Weapons Act 2019 (c. 17), ss. 50(5)(a), 70(1); S.I. 2022/418, reg. 2(b) (with reg. 3)
+[^F210]: Words in s. 139AA(1)(c) substituted (6.4.2022) by Offensive Weapons Act 2019 (c. 17), ss. 50(5)(b), 70(1); S.I. 2022/418, reg. 2(b) (with reg. 3)
+[^F211]: S. 139AA(1A) inserted (6.4.2022) by Offensive Weapons Act 2019 (c. 17), ss. 51(2), 70(1); S.I. 2022/418, reg. 2(b) (with reg. 3)
+[^F212]: S. 139AA(3A) inserted (6.4.2022) by Offensive Weapons Act 2019 (c. 17), ss. 51(3), 70(1); S.I. 2022/418, reg. 2(b) (with reg. 3)
+[^F213]: S. 139AA(4) omitted (6.4.2022) by virtue of Offensive Weapons Act 2019 (c. 17), ss. 50(6), 70(1); S.I. 2022/418, reg. 2(b) (with reg. 3)
+[^F214]: Words in s. 139AA(5) inserted (6.4.2022) by Offensive Weapons Act 2019 (c. 17), ss. 51(4)(a), 70(1); S.I. 2022/418, reg. 2(b) (with reg. 3)
+[^F215]: Words in s. 139AA(5) substituted (6.4.2022) by Offensive Weapons Act 2019 (c. 17), ss. 51(4)(b), 70(1); S.I. 2022/418, reg. 2(b) (with reg. 3)
+[^F216]: Words in s. 139AA(6)(a) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F217]: S. 139AA(6A) inserted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 92 (with Sch. 24 para. 447, Sch. 27); S.I. 2020/1236, reg. 2
+[^F218]: S. 139AA(7)-(9) repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F219]: By The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500), regs. 1(2), 5(1), Sch. Pt. 1 it is provided that (28.4.2022) the words “2 May 2022” are substituted for the words “the commencement of paragraph 24(2) of Schedule 22 to the Sentencing Act 2020”
+[^F220]: Words in s. 139AA(10) substituted (7.2.2023 at 12.00 p.m.) by The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149), regs. 1(2), 2(1), Sch. Pt. 1
+[^F221]: S. 139AA(11) repealed (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 28 (with ss. 413(4)(5), 416(7), Sch. 27); S.I. 2020/1236, reg. 2
+[^F222]: S. 139B inserted (1.9.1996) by 1996 c. 26, s. 4(1)(4); S.I. 1996/2071, art.2
+[^F223]: Words in s. 139B(1) inserted (6.4.2022 for E.W.) by Offensive Weapons Act 2019 (c. 17), ss. 45(8), 70(1); S.I. 2022/418, reg. 2(b) (with reg. 3)
+[^F224]: Word in s. 139B(1) substituted (31.5.2007) by Violent Crime Reduction Act 2006 (c. 38), ss. 48, 51, 66(2), Sch. 2 para. 13; S.I. 2007/858, art. 3(c)-(e)
+[^F225]: Words in s. 139B(1) inserted (3.12.2012) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 26 para. 6(2); S.I. 2012/2770, art. 2(f)
+[^F226]: Words in s. 139B(4) renumbered as s. 139B(4)(a) (3.12.2012) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 26 para. 6(3)(a); S.I. 2012/2770, art. 2(f)
+[^F227]: S. 139B(4)(b) and word inserted (3.12.2012) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 26 para. 6(3)(b); S.I. 2012/2770, art. 2(f)
+[^M51]: 1984 c. 60.
+[^F228]: S. 140(1)(a)(b) repealed (1.7.2005) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174, 178, Sch. 17 Pt. 2; S.I. 2005/1521, art. 3(1)(cc)(ee)(i) (subject to art. 3(4)(5))
+[^F229]: S. 141(1A)-(1F) inserted (14.7.2021 for E.W., 27.3.2023 for S.) by Offensive Weapons Act 2019 (c. 17), ss. 46(2), 70(1)(2) (with s. 46(18)(19)); S.I. 2021/819, reg. 2(d); S.S.I. 2023/72, reg. 2(1)(b)
+[^M52]: 1968 c. 27.
+[^F230]: S. 141(3) repealed (S.) (1.11.2007) by Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17), ss. 66(2), 67, Sch. 5; S.S.I. 2007/431, art. 3 Sch.; and repealed (E.W.N.I.) (1.4.2008) by Violent Crime Reduction Act 2006 (c. 38), ss. 65, 66(2), Sch. 5; S.I. 2008/791, arts. 2(e)
+[^F231]: Words in s. 141(5)(a) inserted (14.7.2021 for E.W., 27.3.2023 for S.) by Offensive Weapons Act 2019 (c. 17), ss. 46(3), 70(1)(2); S.I. 2021/819, reg. 2(d); S.S.I. 2023/72, reg. 2(1)(b)
+[^M53]: 1979 c. 2.
+[^F232]: Word in s. 141(5)(8)(9) substituted (S.) (1.11.2007) by Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17), s. 60(1)(a); S.S.I. 2007/431, art. 3, Sch.; and substituted (E.W.N.I.) (6.4.2008) by Violent Crime Reduction Act 2006 (c. 38), ss. 43(3), 51, 66(2), Sch. 2 para. 11(2); S.I. 2008/791, art. 3(a)(c)
+[^M54]: 1952 c. 67.
+[^M55]: 1964 c. 29.
+[^F233]: S. 141(7A) inserted (14.7.2021 for E.W., 27.3.2023 for S.) by Offensive Weapons Act 2019 (c. 17), ss. 46(4), 70(1)(2); S.I. 2021/819, reg. 2(d); S.S.I. 2023/72, reg. 2(1)(b)
+[^F234]: S. 141(8A) inserted (14.7.2021 for E.W., 27.3.2023 for S.) by Offensive Weapons Act 2019 (c. 17), ss. 46(5), 70(1)(2); S.I. 2021/819, reg. 2(d); S.S.I. 2023/72, reg. 2(1)(b)
+[^F235]: Words in s. 141(9) substituted (14.7.2021 for E.W., 27.3.2023 for S.) by Offensive Weapons Act 2019 (c. 17), ss. 46(6), 70(1)(2); S.I. 2021/819, reg. 2(d); S.S.I. 2023/72, reg. 2(1)(b)
+[^F236]: S. 141(11ZA) inserted (14.7.2021 for E.W., 27.3.2023 for S.) by Offensive Weapons Act 2019 (c. 17), ss. 46(7), 70(1)(2); S.I. 2021/819, reg. 2(d); S.S.I. 2023/72, reg. 2(1)(b)
+[^F237]: S. 141(11A)-(11E) inserted (E.W.N.I.) (1.4.2008 for purpose of inserting (11D) and (11E) and 6.4.2008 in so far as not already in force) by Violent Crime Reduction Act 2006 (c. 38), ss. 43(4), 51, 66(2), Sch. 2 para. 11(3); S.I. 2008/791, arts. 2(c), 3(c)
+[^F238]: S. 141(11AA) inserted (E.W.N.I.) (14.7.2021 for E.W.) by Offensive Weapons Act 2019 (c. 17), ss. 46(9), 70(1)(2); S.I. 2021/819, reg. 2(d)
+[^F239]: Words in s. 141(11C) substituted (E.W.N.I.) (14.7.2021 for E.W.) by Offensive Weapons Act 2019 (c. 17), ss. 46(10), 70(1)(2); S.I. 2021/819, reg. 2(d)
+[^F240]: Words in s. 141(11D)(a) inserted (E.W.N.I.) (14.7.2021 for E.W.) by Offensive Weapons Act 2019 (c. 17), ss. 46(11), 70(1)(2); S.I. 2021/819, reg. 2(d)
+[^F241]: S. 141(12A) inserted (1.1.2021 for S.) by Offensive Weapons Act 2019 (c. 17), ss. 46(15), 70(1)(2); S.S.I. 2020/410, reg. 2(g)
+[^F242]: Words in s. 141(13) substituted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1(2), Sch. 14 para. 31(2) (with arts. 28-31)
+[^M56]: 1968 c. 27.
+[^M57]: S.I. 1981/155 (N.I. 2).
+[^F243]: Word in s. 141(13) substituted (1.2.2005) by The Firearms (Northern Ireland) Order 2004 (S.I. 2004/702 (N.I. 3)), arts. 81, 82, Sch. 7 para. 11; S.R. 2005/4, art. 3 (with transitional provisions in arts. 4-7)
+[^F244]: S. 141ZA inserted (S.) (1.11.2007) by Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17), ss. 61(2), 67; S.S.I. 2007/431, art. 3, Sch.
+[^F245]: S. 139A(5)(6) substituted (5.5.2011) by Justice Act (Northern Ireland) 2011 (c. 24), ss. 52, 111(1) (with Sch. 6 para. 4(2))
+[^F246]: S. 139A(7)(b) repealed (N.I.) (5.5.2011) by Justice Act (Northern Ireland) 2011 (c. 24), s. 111(1), Sch. 8 Pt. 5
+[^F247]: Words in s. 139A(6)(7) substituted (1.11.1996) by 1996 c. 56, ss. 582(1), 583(2), Sch. 37 Pt. I para.69 (with ss. 1(4), 582(3), Sch. 39)
+[^F248]: Ss. 141ZB-141ZD inserted (prosp.) by Policing and Crime Act 2009 (c. 26), ss. 102, 116
+[^F249]: S. 141A inserted (1.1.1997) by 1996 c. 26, s. 6(1)(3); S.I. 1996/3063, art.2
+[^F250]: Word in s. 141A(1) substituted (E.W.) (1.10.2007) by Violent Crime Reduction Act 2006 (c. 38), ss. 43(2), 66(2); S.I. 2007/2180, art. 3(j)
+[^M58]: 1959 c. 37.
+[^F251]: Word in s. 141A(3)(a) inserted (1.1.2022 for S., 6.4.2022 for E.W.) by Offensive Weapons Act 2019 (c. 17), ss. 34(1)(a), 70(1)(2); S.S.I. 2020/410, reg. 2(e); S.I. 2022/418, reg. 2(b) (with reg. 3)
+[^F252]: S. 141A(3)(b) and word omitted (1.1.2022 for S., 6.4.2022 for E.W.) by virtue of Offensive Weapons Act 2019 (c. 17), ss. 34(1)(b), 70(1)(2); S.S.I. 2020/410, reg. 2(e); S.I. 2022/418, reg. 2(b) (with reg. 3)
+[^F253]: Words in s. 141A(4) substituted (E.W.) (6.4.2022) by Offensive Weapons Act 2019 (c. 17), ss. 35(2), 70(1); S.I. 2022/418, reg. 2(b) (with reg. 3)
+[^F254]: S. 141B inserted (E.W.) (6.4.2022) by Offensive Weapons Act 2019 (c. 17), ss. 35(3), 70(1); S.I. 2022/418, reg. 2(b) (with reg. 3)
+[^F255]: S. 141C inserted (S.) (1.1.2021) by Offensive Weapons Act 2019 (c. 17), ss. 36(3), 70(2); S.S.I. 2020/410, reg. 2(f)
+[^M59]: 1959 c. 37.
+[^F256]: Words in s. 142(3) substituted (S.) (1.9.2006) by Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10), ss. 101, 104, Sch. 6 para. 2; S.S.I. 2006/432, art. 2(g)(h) and said words substituted (E.W.N.I.) (1.4.2007) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 14 para. 14; S.I. 2007/709, art. 3(o) (subject to arts. 6 and 7)
+[^M60]: 1987 c. 38.
+[^F257]: S. 144 repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by Criminal Justice Act 2003 (c. 44), s. 336(3)(4), Sch. 37 Pt. 4; S.I. 2012/1320, art. 4(1)(d)(2)(3) (with art. 5) (see S.I. 2012/2574, art. 4(2) and S.I. 2013/1103, art. 4); S.I. 2012/2574, art. 2(2)(3)(d), Sch. (with arts. 3, 4) (as amended (4.11.2012) by S.I. 2012/2761, art. 2) (with S.I. 2013/1103, art. 4); S.I. 2013/1103, art. 2(1)(d)
+[^F258]: S. 145(a) repealed (*prosp.*) by Companies Act 1989 (c. 40, SIF 27), ss. 212, 215, Sch. 24
+[^M61]: 1985 c. 6.
+[^M62]: 1986 c. 46.
+[^F259]: S. 145(c) repealed (1. 10. 1991) by S.I. 1990/1504 (N.I. 10), art. 113, Sch. 6; S.R. 1991/438, art. 5(d).
+[^F260]: S. 146: words in sidenote substituted (28.3.2009 for certain purposes and 31.10.2009 insofar as not yet in force) by Armed Forces Act 2006 (c. 52), ss. 378, 383, Sch. 16 para 113(a); S.I. 2009/812, art. 3 (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F261]: Words in s. 146 substituted (28.3.2009 for certain purposes and 31.10.2009 insofar as not yet in force) by Armed Forces Act 2006 (c. 52), ss. 378, 383, Sch. 16 para. 113(b); S.I. 2009/812, art. 3 (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^M63]: 1984 c. 60.
+[^F262]: S. 148 repealed (31.10.2013) by Protection of Freedoms Act 2012 (c. 9), s. 120, Sch. 10 Pt. 1 (with s. 97); S.I. 2013/2104, art. 3(d)
+[^F263]: S. 149 repealed by S.I. 1989/1341 (N.I. 12), art. 90(2), Sch. 7
+[^M64]: 1984 c. 60.
+[^F264]: Words in s. 151(2) omitted (1.4.2005) by virtue of The Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886), art. 2, Sch. para. 45
+[^M65]: 1971 c. 38.
+[^F265]: Word in s. 151(4) repealed (24.2.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(3), Sch. 12; S.I. 2003/120, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-7 (as amended (24.3.2003) by S.I. 2003/333, art. 14 and S.I. 2003/531, art. 3))
+[^F266]: S. 151(4)(c) inserted (24.2.2003) by 2002 c. 29, ss. 456, 458, Sch. 11 para. 17(3); S.I. 2003/120, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-7 (as amended (24.3.2003) by S.I. 2003/333, art. 14 and S.I. 2003/531, art. 3))
+[^F267]: S. 151(5)(a)(b) substituted (24.3.2003) for words by 2002 c. 29, ss. 456, 458, Sch. 11 para. 17(4); S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14 (as amended by S.I. 2003/531, art. 3))
+[^F268]: S. 151(6) inserted (24.2.2003) by 2002 c. 29, ss. 456, 458, Sch. 11 para. 17(5); S.I. 2003/120, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-7 (as amended (24.3.2003) by S.I. 2003/333, art. 14 and S.I. 2003/531, art. 3))
+[^F269]: S. 152: word in title left out (1.1.2006) by Drugs Act 2005 (c. 17), ss. 8(a), 24; S.I. 2005/3053, art. 3(d)
+[^F270]: S. 152(1A) inserted (1.1.2006) by Drugs Act 2005 (c. 17) {ss. 8(b)}, 24; S.I. 2005/3053, art. 3(d)
+[^F271]: S. 152(4) substituted (25.8.1996) by S.I. 1996/1299 (N.I.9), art. 57(1), Sch. 3 para. 7
+[^F272]: S. 152(4)(a)(b) substituted (24.3.2003) for words by 2002 c. 29, ss. 456, 458, Sch. 11 para. 17(6); S.I. 2003/333, art. 2(1), Sch. (subject to transitional provisions and savings in arts. 3-14) (as amended by S.I. 2003/531)
+[^M66]: 1976 c. 63.
+[^M67]: 1980 c. 43.
+[^M68]: 1976 c. 63.
+[^M69]: 1981 c. 54.
+[^F273]: Words in s. 156 substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), ss. 59, 148, Sch. 11 para. 1; S.I. 2009/1604, art. 2(d)
+[^M70]: 1968 c. 19.
+[^M71]: 1976 c. 82.
+[^M72]: 1981 c. 49.
+[^F274]: S. 159(1)(aa) inserted (1.4.1997) by 1996 c. 25, s. 61(6) (with s. 78(1)); SI. 1997/682, art. 2(1)(b)
+[^F275]: Words in s. 159(1)(aa) inserted (1.12.2020) by Sentencing Act 2020 (c. 17), s. 416(1), Sch. 24 para. 93 (with Sch. 24 para. 447, Sch. 27); S.I. 2020/1236, reg. 2
+[^M73]: 1996 c. 25.
+[^F276]: Words in s. 159(6) omitted (1.9.2004) by virtue of The Courts Act 2003 (Consequential Amendments) Order 2004 (S.I. 2004/2035), art. 3, Sch. para. 27(2) (with art. 2(2))
+[^F277]: S. 159(7)(b) substituted (1.9.2004) by The Courts Act 2003 (Consequential Amendments) Order 2004 (S.I. 2004/2035), art. 3, Sch. para. 27(3) (with art. 2(2))
+[^F278]: Sidenote to s. 160 substituted (11.1.2001) by 2000 c. 43, s. 41(3)(b); S.I. 2000/3302, art. 2
+[^F279]: Words in s. 160(1) substituted (8.7.2008) by Criminal Justice and Immigration Act 2008 (c. 4), ss. 148, 153(2)(b), Sch. 26 para. 24
+[^F280]: Words in s. 160(1) inserted (3.2.1995) by 1994 c. 33, s. 84(4)(a); S.I. 1995/127, art. 2(1), Sch. 1
+[^F281]: Words in s. 160(1) omitted (3.2.1995) by virtue of 1994 c. 33, s. 84(4)(a); S.I. 1995/127, art. 2(1), Sch. 1 (and expressed to be repealed (4.9.1995) by 1994 c. 33, s. 168(3), Sch. 11; S.I. 1995/1957, art. 6)
+[^F282]: Words in s. 160(2)(a)-(c) inserted (3.2.1995) by 1994 c. 33, s. 84(4)(b); S.I. 1995/127, art. 2(1), Sch. 1
+[^F283]: S. 160(2A) inserted (11.1.2001) by 2000 c. 43, s. 41(3)(a); S.I. 2000/3302, art. 2
+[^F284]: Words in s. 160(3) inserted (3.2.1995) by 1994 c. 33, s. 86(1); S.I. 1995/127, art. 2(1), Sch. 1
+[^M74]: 1978 c. 37.
+[^F285]: S. 160(5) repealed (4.9.1995) by 1994 c. 33, s. 168(3), Sch. 11; S.I. 1995/1957, art. 6
+[^F286]: S. 160A inserted (1.5.2004) by Sexual Offences Act 2003 (c. 42), ss. 45(4), 141; S.I. 2004/874, art. 2
+[^F287]: Words in s. 160A inserted (6.4.2010) by Coroners and Justice Act 2009 (c. 25), ss. 69(2), 182(5) (with s. 180, Sch. 22); S.I. 2010/816, art. 2, Sch. para. 2
+[^F288]: Words in s. 160A(1)(a)(2)(a) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), ss. 261(1), 263, Sch. 27 para. 127; S.I. 2005/3175, art. 2(1)(2), Sch. 1 (subject to art. 2(3)-(5))
+[^M75]: 1982 c. 45.
+[^M76]: 1984 c. 39.
+[^F289]: S. 163 repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^F290]: S. 164 repealed (19.6.1997) by 1997 c. 25, ss. 73(3), 74(1), Sch. 6 Pt.I
+[^F291]: S. 165 repealed (1.4.1995) by 1994 c. 29, s. 93, Sch. 9 Pt.II; S.I. 1995/685, arts. 4(n), 8(r)
+[^M77]: 1985 c. 23.
+[^M78]: 1987 c. 38.
+[^M79]: 1952 c. 52.
+[^M80]: 1974 c. 28.
+[^F292]: Words in s. 171(2) repealed (E.W.S.)(8.11.1995) by 1995 c. 53, s. 12(7),Sch.
+[^F293]: S. 171(3)(4) repealed (E.W.S.)(8.11.1995) by 1995 c. 53, s. 12(7),Sch.
+[^M81]: 1986 c. 32.
+[^M82]: 1982 c. 32.
+[^M83]: 1925 c. 21.
+[^M84]: 1933 c. 12.
+[^M85]: 1984 c. 37.
+[^M86]: 1952 c. 67.
+[^M87]: 1967 c. 80.
+[^M88]: 1969 c. 54.
+[^M89]: 1974 c. 23.
+[^M90]: 1975 c. 21.
+[^M91]: 1980 c. 5.
+[^M92]: 1980 c. 43.
+[^M93]: 1982 c. 45.
+[^M94]: 1982 c. 48.
+[^M95]: 1984 c. 60.
+[^M96]: 1985 c. 23.
+[^M97]: 1987 c. 38.
+[^M98]: 1987 c. 41.
+[^M99]: 1967 c. 86.
+[^M100]: 1969 c. 54.
+[^M101]: 1976 c. 82.
+[^M102]: 1978 c. 37.
+[^M103]: 1916 c. 64.
+[^M104]: 1967 c. 80.
+[^M105]: 1972 c. 71.
+[^M106]: 1976 c. 82.
+[^M107]: 1978 c. 37.
+[^M108]: 1984 c. 46.
+[^M109]: 1984 c. 60.
+[^M110]: 1984 c. 39.
+[^F294]: Words in s. 172(2) inserted (15.2.1994 so far as it relates to E.W.S.) by 1993 c. 36, ss. 78(3), 79(13), Sch. 5, Pt. I para. 14(2)(a); S.I. 1994/71, art. 2, Sch.
+[^F295]: Words in s. 172(2) repealed (E.W.S.) (8.11.1995) by 1995 c. 53, s. 12(7), Sch.
+[^F296]: Words in s. 172(2) substituted (1.1.1997) by 1996 c. 26, s. 6(2)(3); S.I. 1996/3063, art. 2
+[^F297]: S. 172(3): words substituted (1.12.2008) by Criminal Justice and Immigration Act 2008 (c. 4), ss. 61(8) , 153 (with Sch. 27 para. 22); S.I. 2008/2993, art. 2(1)(a)
+[^F298]: Words in s. 172(3) inserted (1.10.2012) by The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404), art. 1, Sch. 2 para. 24(2) (with art. 5)
+[^F299]: Words in s. 172(3) substituted (3.12.2012) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 26 para. 7; S.I. 2012/2770, art. 2(f)
+[^F300]: Words in s. 172(4) inserted (15.2.1994 so far as it relates to Scotland) by 1993 c. 36, ss. 78(3), 79(13), Sch. 5 Pt. I para. 14(2)(b); S.I. 1994/71, art. 2, Sch.
+[^F301]: Words in s. 172(4) repealed (E.W.S.) (8.11.1995) by 1995 c. 53, s. 12(7), Sch.
+[^F302]: Words in s. 172(4) inserted (S.) (1.11.2007) by Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17), ss. 61(3), 67; S.S.I. 2007/431, art. 3, Sch.
+[^F303]: Words in s. 172(4) inserted (1.1.2021 for S.) by Offensive Weapons Act 2019 (c. 17), ss. 36(4), 70(1)(2); S.S.I. 2020/410, reg. 2(f)
+[^F304]: Words in s. 172(6) inserted (N.I.) (21.4.2015) by The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159), art. 1, Sch. Pt para. 9(2)
+[^F305]: Words in s. 172(6) inserted (N.I.) (7.3.2016) by The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108), art. 1, Sch. para. 12(2)
+[^F306]: S. 172(7) substituted for s. 172(7)-(9) (28.3.2009 for certain purposes and 31.10.2009 insofar as not already in force) by Armed Forces Act 2006 (c. 52), ss. 378, 383, Sch. 16 para. 114; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^M111]: 1976 c. 82.
+[^M112]: 1861 c. 100.
+[^F307]: Sch. 1, Sch. 15 paras. 95, 96 repealed by Extradition Act 1989 (c. 33, SIF 48), s. 37, Sch. 2
+[^F308]: Sch. 2 repealed (4.4.2005) by Criminal Justice Act 2003 (c. 44), ss. 136(a), 332, 336, Sch. 37 Pt. 6; S.I. 2005/950, art. 2(1), Sch. 1 paras. 6, 27, 44(3) (subject to art. 2(2), Sch. 2 (as amended by S.I. 2005/2122, art. 2))
+[^F309]: Sch. 2 para. 4(a)(b)(c) substituted (1.9.2004) for words by The Courts Act 2003 (Consequential Amendments) Order 2004 (S.I. 2004/2035), art. 3, Sch. para. 28(a)
+[^F310]: Words in Sch. 2 para. 4 substituted (1.9.2004) by The Courts Act 2003 (Consequential Amendments) Order 2004 (S.I. 2004/2035), art. 3, Sch. para. 28(b)
+[^M113]: 1968 c. 64.
+[^M114]: 1984 c. 60.
+[^F311]: Sch. 3 para. 1 renumbered as para. 1(1) (29.6.2026) by Victims and Courts Act 2026 (c. 19), ss. 13(2)(a), 18(2)
+[^F312]: Words in Sch. 3 para. 1(1) inserted (29.6.2026) by Victims and Courts Act 2026 (c. 19), ss. 13(2)(b), 18(2)
+[^F313]: Sch. 3 para. 1(2)-(4) inserted (29.6.2026) by Victims and Courts Act 2026 (c. 19), ss. 13(2)(c), 18(2)
+[^F314]: Words in Sch. 3 para. 4 substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), ss. 40, 148, Sch. 9 para. 48(3)(a); S.I. 2009/1604, art. 2
+[^F315]: Words in Sch. 3 para. 5 substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), ss. 40, 148, Sch. 9 para. 48(3)(a); S.I. 2009/1604, art. 2
+[^F316]: Words in Sch. 3 para. 9 substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), ss. 40, 148, Sch. 9 para. 48(3)(b); S.I. 2009/1604, art. 2
+[^F317]: Words in Sch. 3 para. 10 substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), ss. 40, 148, {Sch. 9 para. 48(3)c)}; S.I. 2009/1604, art. 2
+[^F318]: Sch. 3 para. 11(1): Sch. 3 para. 11 renumbered as Sch. 3 para. 11(1) (1.10.2012) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 7 para. 11(2)(a) (with Sch. 7 Pt. 4); S.I. 2012/2412, art. 2(g)
+[^F319]: Words in Sch. 3 para. 11 substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), ss. 40, 148, Sch. 9 para. 48(3)(d)(i); S.I. 2009/1604, art. 2
+[^F320]: Words in Sch. 3 para. 11 substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), ss. 40, 148, Sch. 9 para. 48(3)(d)(ii); S.I. 2009/1604, art. 2
+[^F321]: Words in Sch. 3 para. 11(1) omitted (1.10.2012) by virtue of Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 7 para. 11(2)(b) (with Sch. 7 Pt. 4); S.I. 2012/2412, art. 2(g)
+[^F322]: Words in Sch. 3 para. 11 substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), ss. 40, 148, Sch. 9 para. 48(3)(d)(iii); S.I. 2009/1604, art. 2
+[^F323]: Sch. 3 para. 11(2)-(4) inserted (1.10.2012) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 7 para. 11(2)(c) (with Sch. 7 Pt. 4); S.I. 2012/2412, art. 2(g)
+[^F324]: Words in Sch. 3 para. 12 substituted (12.4.2010) by Justice (Northern Ireland) Act 2002 (c. 26), s. 87(1), Sch. 12 para. 41; S.R. 2010/113, art. 2, Sch. para. 20(b)
+[^F325]: Words in Sch. 3 para. 12 substituted (1.10.2012) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 7 para. 11(3)(a) (with Sch. 7 Pt. 4); S.I. 2012/2412, art. 2(g)
+[^F326]: Sch. 3 para. 12(da) inserted (29.6.2026) by Victims and Courts Act 2026 (c. 19), ss. 13(3), 18(2)
+[^F327]: Sch. 3 para. 12(e) inserted (1.10.2012) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 7 para. 11(3)(b) (with Sch. 7 Pt. 4); S.I. 2012/2412, art. 2(g)
+[^F328]: Sch. 4 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(b), Sch. 12; S.I 2003/333, {art. 2(1)} (as amended by S.I. 2003/531)
+[^F329]: Sch. 4 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(b), Sch. 12; S.I 2003/333, {art. 2(1)}
+[^F330]: Sch. 4 repealed (24.3.2003) by 2002 c. 29, ss. 456, 457, 458, Sch. 11 para. 17(2)(b), Sch. 12; S.I 2003/333, {art. 2(1)}
+[^F331]: Sch. 5 repealed (21.7.2008) by Statute Law (Repeals) Act 2008 (c. 12), s. 1(1), Sch. 1 Pt. 3
+[^F332]: Sch. 5 Pt. I repealed (3.2.1995) by 1994 c. 37, ss. 67, 69(2), Sch.3.
+[^M115]: 1986 c. 32.
+[^F333]: Sch. 5 para. 13 repealed by Police Officers (Central Service) Act 1989 (c. 11, SIF 95), s. 3, Sch.
+[^M116]: 1987 c. 41.
+[^M117]: 1986 c. 22.
+[^F334]: Sch. 6 repealed (8.11.1995) by 1995 c. 53, s. 12(1)(7), Sch.
+[^F335]: Sch. 7 repealed (8.11.1995) by 1995 c. 53, s. 12(1)(7),Sch.
+[^M118]: 1968 c. 27.
+[^M119]: 1974 c. 23.
+[^M120]: 1974 c. 53.
+[^M121]: 1982 c. 48.
+[^M122]: 1974 c. 23.
+[^M123]: 1974 c. 53.
+[^F336]: Words in Sch. 8 para. 3(1)(c) repealed (1.10.1992) by Criminal Justice Act 1991 (c. 53, SIF 39:1), s. 101(2), Sch. 13; S.I. 1992/333, art. 2(2), Sch. 2.
+[^M124]: 1982 c. 48.
+[^M125]: 1973 c. 35.
+[^F337]: Sch. 8 para. 8 repealed (5.4.2004) by Criminal Justice Act 2003 (c. 44), ss. 332, 336, Sch. 37 Pt. 10; S.I. 2004/829, art. 2(2)(l)(iv) (subject to art. 2(3)-(6))
+[^M126]: 1974 c. 53.
+[^F338]: Sch. 8 para. 9(b) repealed (10.3.2014) by Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10), s. 151(1), Sch. 25 Pt. 2 (with s. 141(1)-(6)); S.I. 2014/423, art. 2(c) (with art. 3)
+[^F339]: Sch. 8 Pt. 2 repealed (21.7.2008) by Statute Law (Repeals) Act 2008 (c. 12), s. 1(1), Sch. 1 Pt. 3
+[^F340]: Sch. 8 Pt. 2 repealed (21.7.2008) by Statute Law (Repeals) Act 2008 (c. 12), s. 1(1), Sch. 1 Pt. 3
+[^F341]: Sch. 8 Pt. 2 repealed (21.7.2008) by Statute Law (Repeals) Act 2008 (c. 12), s. 1(1), Sch. 1 Pt. 3
+[^F342]: Sch. 8 Pt. 2 repealed (21.7.2008) by Statute Law (Repeals) Act 2008 (c. 12), s. 1(1), Sch. 1 Pt. 3
+[^F343]: Sch. 8 Pt. 2 repealed (21.7.2008) by Statute Law (Repeals) Act 2008 (c. 12), s. 1(1), Sch. 1 Pt. 3
+[^F344]: Sch. 8 Pt. 2 repealed (21.7.2008) by Statute Law (Repeals) Act 2008 (c. 12), s. 1(1), Sch. 1 Pt. 3
+[^F345]: Sch. 8 Pt. 2 repealed (21.7.2008) by Statute Law (Repeals) Act 2008 (c. 12), s. 1(1), Sch. 1 Pt. 3
+[^F346]: Sch. 9 para. 1 repealed by Prisons (Scotland) Act 1989 (c. 45, SIF 39:1), s. 45(2), Sch. 3
+[^M127]: 1955 c. 18.
+[^M128]: 1955 c. 19.
+[^M129]: 1957 c. 53
+[^M130]: 1974 c. 53.
+[^F347]: Sch. 10 repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^M131]: 1969 c. 54.
+[^M132]: 1983 c. 20.
+[^M133]: 1944 c. 31.
+[^M134]: 1969 c. 54.
+[^F348]: Words in Sch. 10 Pt. II repealed (1.10.1992) by Criminal Justice Act 1991 (c. 53, SIF 39:1), s. 101(2), Sch.13; S.I. 1992/333, art. 2(2), Sch. 2.
+[^F349]: Sch. 10 Pt. III repealed (1.10.1992) by Criminal Justice Act 1991 (c. 53, SIF 39:1), s. 101(2), Sch. 13; S.I. 1992/333, art. 2(2), Sch.2.
+[^F350]: Sch. 10 Pt. III repealed (1.10.1992) by Criminal Justice Act 1991 (c. 53, SIF 39:1), s. 101(2), Sch. 13; S.I. 1992/333, art. 2(2), Sch. 2.
+[^F351]: Sch. 10 Pt. III repealed (1.10.1992) by Criminal Justice Act 1991 (c. 53, SIF 39:1), s. 101(2), Sch. 13; S.I. 1992/333, art. 2(2), Sch. 2.
+[^F352]: Sch. 10 Pt. III repealed (1.10.1992) by Criminal Justice Act 1991 (c. 53, SIF 39:1), s. 101(2), Sch. 13; S.I. 1992/333, art. 2(2), Sch. 2.
+[^F353]: Sch. 11 repealed (5.2.1994) by 1993 c. 47, ss. 32, 33(3), Sch.4 (Sch. 11 para. 8 expressed to be repealed (11.9.1998) by 1998 c. 18, ss. 54(3), 55(2), Sch.5).
+[^M135]: 1973 c. 62.
+[^M136]: 1982 c. 32.
+[^F354]: Sch. 12 para. 1(a)–(c) substituted by Courts and Legal Services Act 1990 (c. 41, SIF 37), s. 71(2), Sch. 10 para. 72(1)
+[^F355]: Words in Sch. 12 para. 2 substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), ss. 59, 148, Sch. 11 para. 5; S.I. 2009/1604, art. 2(d)
+[^F356]: Word in Sch. 12 para. 1 inserted (S.) (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 113(2)(a), 206(1); S.S.I. 2010/413, art. 2, Sch. (with art. 7)
+[^F357]: Sch. 12 para. 1(e) repealed (S.) (13.12.2010) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), ss. 113(2)(b), 206(1); S.S.I. 2010/413, art. 2, Sch. (with art. 7)
+[^F358]: Sch. 12 para. 5(ba) inserted (1.10.2012) by The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404) , art. 1 , Sch. 2 para. 24(3) (with art. 5 )
+[^F359]: Sch. 12 para. 5(bb) inserted (N.I.) (21.4.2015) by The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159) , art. 1 , Sch. Pt para. 9(3)
+[^F360]: Sch. 12 para. 5(bc)(bd) inserted (N.I.) (7.3.2016) by The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108), art. 1, Sch. para. 12(3)
+[^F361]: Sch. 12 para. 6 substituted (3.4.2006) by Constitutional Reform Act 2005 (c. 4), ss. 15(1), 148(1), Sch. 4 para. 196; S.I. 2006/1014, art. 2(a), Sch. 1 paras. 10, 11(r)
+[^F362]: Words Sch. 12 para. 6(4) omitted (12.4.2010) by virtue of The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1(2), Sch. 6 para. 4(2) (with arts. 28-31)
+[^F363]: Sch. 12 para. 8 inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), art. 1(2), Sch. 6 para. 4(3) (with arts. 28-31)
+[^F364]: Sch. 13: words in title substituted (28.3.2009 for certain purposes and 31.10.2009 insofar as not already in force) by Armed Forces Act 2006 (c. 52), ss. 378, 383, Sch. 16 para. 115(2); S.I. 2009/812, art. 3 (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F365]: Words in Sch. 13 para. 1 substituted (28.3.2009 for certain purposes and 31.10.2009 insofar as not already in force) by Armed Forces Act 2006 (c. 52), ss. 378, 383, Sch. 16 para. 115(3)(a); S.I. 2009/812, art. 3 (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F366]: Words in Sch. 13 para. 1 substituted (28.3.2009 for certain purposes and 31.10.2009 insofar as not already in force) by Armed Forces Act 2006 (c. 52), ss. 378, 383, Sch. 16 para. 115(3)(b); S.I. 2009/812, art. 3 (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F367]: Sch. 13 para. 2 repealed (4.4.2005) by Criminal Justice Act 2003 (c. 44), ss. 136(b), 332, 336, Sch. 37 Pt. 6; S.I. 2005/950, art. 2(1), Sch. 1 paras. 6, 27, 44(3) (subject to art. 2(2), Sch. 2 (as amended by S.I. 2005/2122, art. 2))
+[^F368]: Sch. 13 para. 3 repealed (4.4.2005) by Criminal Justice Act 2003 (c. 44), ss. 136(b), 332, 336, Sch. 37 Pt. 6; S.I. 2005/950, art. 2(1), Sch. 1 paras. 6, 27, 44(3) (subject to art. 2(2), Sch. 2 (as amended by S.I. 2005/2122, art. 2))
+[^F369]: Sch. 13 para. 4 repealed (4.4.2005) by Criminal Justice Act 2003 (c. 44), ss. 136(b), 332, 336, Sch. 37 Pt. 6; S.I. 2005/950, art. 2(1), Sch. 1 paras. 6, 27, 44(3) (subject to art. 2(2), Sch. 2 (as amended by S.I. 2005/2122, art. 2))
+[^F370]: Sch. 13 para. 5 repealed (4.4.2005) by Criminal Justice Act 2003 (c. 44), ss. 136(b), 332, 336, Sch. 37 Pt. 6; S.I. 2005/950, art. 2(1), Sch. 1 paras. 6, 27, 44(3) (subject to art. 2(2), Sch. 2 (as amended by S.I. 2005/2122, art. 2))
+[^F371]: Words in Sch. 13 para. 6(1) substituted (10.6.1991) by Criminal Justice (International Co-operation) Act 1990 (c. 5, SIF 39:1), s. 31(1), Sch. 4 para. 6(3); S.I. 1991/1072, art. 2(a), Schedule Pt. I
+[^F372]: Words in Sch. 13 para. 6(1) substituted (26.4.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91, 94, Sch. 5 para. 16(a)(i); S.I. 2004/786, art. 3(2) (with S.I. 2004/787, art. 3(3))
+[^F373]: Words in Sch. 13 para. 6(1) omitted (31.12.2020) by virtue of The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742), regs. 1, 76; 2020 c. 1, Sch. 5 para. 1(1)
+[^F374]: Words in Sch. 13 para. 6(1) substituted (26.4.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91, 94, Sch. 5 para. 16(a)(ii); S.I. 2004/786, art. 3(2) (with S.I. 2004/787, art. 3(3))
+[^F375]: Words in Sch. 13 para. 6(4) substituted (26.4.2004) by Crime (International Co-operation) Act 2003 (c. 32), ss. 91, 94, Sch. 5 para. 16(b); S.I. 2004/786, art. 3(2) (with S.I. 2004/787, art. 3(3))
+[^F376]: Sch. 13 para. 7 repealed (28.3.2009 for certain purposes and otherwise prosp.) by Armed Forces Act 2006 (c. 52), ss. 378, 383, Sch. 16 para. 115(4), Sch. 17; S.I. 2009/812, art. 3 (with transitional provisions in S.I. 2009/1059)
+[^F377]: Sch. 13 para. 8(2)(b) and word preceding it repealed (6.12.2006) by 1999 c. 23, ss. 67, 68(3), Sch. 6 (with Sch. 7 para. 5(2)); S.I. 2006/2885, art. 2(b)(vii)(cc)
+[^F378]: Word in Sch. 13 para. 8(3) repealed (6.12.2006) by 1999 c. 23, ss. 67, 68(3), Sch.6 (with Sch. 7 para. 5(2)); S.I. 2006/2885, art. 2(b)(vii)(cc)
+[^F379]: Sch. 13 paras. 9, 10 added (1.10.1996) by 1996 c. 46, s.7; S.I. 1996/2474, art.2.
+[^F380]: Sch. 13 para. 9 repealed (28.3.2009 for certain purposes and otherwise prosp.) by Armed Forces Act 2006 (c. 52), ss. 378, 383, Sch. 16 para. 115(4), Sch. 17; S.I. 2009/812, art. 3 (with transitional provisions in S.I. 2009/1059)
+[^F381]: Sch. 13 paras. 9, 10 added (1.10.1996) by 1996 c. 46, s.7; S.I. 1996/2474, art.2.
+[^F382]: Sch. 13 para. 10 repealed (28.3.2009 for certain purposes and otherwise prosp.) by Armed Forces Act 2006 (c. 52), ss. 378, 383, Sch. 16 para. 115(4), Sch. 17; S.I. 2009/812, art. 3 (with transitional provisions in S.I. 2009/1059)
+[^F383]: Sch. 14 repealed by S.I. 1989/1341 (N.I. 12), art. 90(2), Sch. 7 Pt. I
+[^F384]: Sch. 15 para. 6 repealed (13.10.2003) by 2002 c. 9, ss. 135, 136, Sch. 13 (with s. 129, Sch. 12 para. 1); S.I. 2003/1725, art. 2(1) (subject to art. 2(2))
+[^F385]: Sch. 15 para. 7 repealed (13.10.2003) by 2002 c. 9, ss. 135, 136, Sch. 13 (with s. 129, Sch. 12 para. 1); S.I. 2003/1725, art. 2(1) (subject to art. 2(2))
+[^M137]: 1984 c. 37.
+[^F386]: Sch. 15 para. 10 repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by Criminal Justice Act 2003 (c. 44), s. 336(3)(4), Sch. 37 Pt. 4; S.I. 2012/1320, art. 4(1)(d)(2)(3) (with art. 5) (see S.I. 2012/2574, art. 4(2) and S.I. 2013/1103, art. 4); S.I. 2012/2574, art. 2(2)(3)(d), Sch. (with arts. 3, 4) (as amended (4.11.2012) by S.I. 2012/2761, art. 2) (with S.I. 2013/1103, art. 4); S.I. 2013/1103, art. 2(1)(d)
+[^M138]: l980 c. 43.
+[^M139]: 1984 c. 60.
+[^M140]: 1985 c. 23.
+[^F387]: Sch. 15 para. 18 repealed (S.) by Prisons (Scotland) Act 1989 (c. 45, SIF 39:1), s. 45(2), Sch. 3
+[^F388]: Sch. 15 para. 22(1) repealed (1.10.1992) by Criminal Justice Act 1991 (c. 53, SIF 39:1), s. 101(2), Sch. 13; S.I. 1992/333, art. 2(2), Sch. 2.
+[^F389]: Sch. 15 para. 32 repealed (4.4.2005) by Criminal Justice Act 2003 (c. 44), ss. 332, 336, Sch. 37 Pt. 6; S.I. 2005/950, art. 2(1), Sch. 1 paras. 27, 44(3) (subject to art. 2(2), Sch. 2 (as amended by S.I. 2005/2122, art. 2))
+[^F390]: Sch. 15 para. 33 repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^F391]: Sch. 15 paras. 34, 54, 55, 57, 81, 83–88 repealed by Extradition Act 1989 (c. 33, SIF 48), s. 37, Sch. 2
+[^F392]: Sch. 15 para. 37 repealed (1.10.1992) by Tribunals and Inquiries Act 1992 (c. 53), ss. 18(2), 19(2), Sch. 4 Pt.I.
+[^F393]: Sch. 15 para. 38 repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^F394]: Sch. 15 para. 39 repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^F395]: Sch. 15 para. 40 repealed (30.9.1998) by 1998 c. 37, ss. 106, 120(2), Sch. 7, para. 39, Sch.10; S.I. 1998/2327, art.2 ( as amended by S.I. 1998/2412 and S.I. 1998/2906).
+[^F396]: Sch. 15 para. 41 repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^F397]: Sch. 15 para. 42 repealed (5.2.1994) by 1993 c. 47, ss. 32, 33(3), Sch.4
+[^M141]: 1987 c. 41.
+[^F398]: Sch. 15 para. 52 repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^F399]: Sch. 15 paras. 34, 54, 55, 57, 81, 83–88 repealed by Extradition Act 1989 (c. 33, SIF 48), s. 37, Sch. 2
+[^F400]: Sch. 15 paras. 34, 54, 55, 57, 81, 83–88 repealed by Extradition Act 1989 (c. 33, SIF 48), s. 37, Sch. 2
+[^F401]: Sch. 15 para. 62 repealed (1.4.2008) by Police and Justice Act 2006 (c. 48), ss. 52, 53, Sch. 15 Pt. 4; S.I. 2008/790, art. 2(e)
+[^F402]: Sch. 15 para. 63 repealed (19.6.1997) by 1997c. 25, ss. 73(3), 74(1), Sch. 6 Pt.I (with Sch. 4 para. 27).
+[^F403]: Sch. 15 para. 66 repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by Criminal Justice Act 2003 (c. 44), s. 336(3)(4), Sch. 37 Pt. 4; S.I. 2012/1320, art. 4(1)(d)(2)(3) (with art. 5) (see S.I. 2012/2574, art. 4(2) and S.I. 2013/1103, art. 4); S.I. 2012/2574, art. 2(2)(3)(d), Sch. (with arts. 3, 4) (as amended (4.11.2012) by S.I. 2012/2761, art. 2) (with S.I. 2013/1103, art. 4); S.I. 2013/1103, art. 2(1)(d)
+[^F404]: Sch. 15, para. 68 repealed (4.7.1996 with effect as mentioned in the note at the end of Sch. 5 para. 10 of the repealing Act) by 1996 c. 25, ss. 47, 80, Sch. 1, Sch. 5 para.10 (with s. 78(1)); S.I. 1997/683, art. 1(2).
+[^F405]: Sch. 15 para. 79 repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^F406]: Words in Sch. 15 para. 80 substituted (25.8.2000) by 2000 c. 6, ss. 165(1), 168(1), Sch. 9 para. 114
+[^F407]: Sch. 15 paras. 34, 54, 55, 57, 81, 83–88 repealed by Extradition Act 1989 (c. 33, SIF 48), s. 37, Sch. 2
+[^M142]: 1986 c. 32.
+[^F408]: Sch. 15 paras. 34, 54, 55, 57, 81, 83–88 repealed by Extradition Act 1989 (c. 33, SIF 48), s. 37, Sch. 2
+[^F409]: Sch. 15 paras. 34, 54, 55, 57, 81, 83–88 repealed by Extradition Act 1989 (c. 33, SIF 48), s. 37, Sch. 2
+[^F410]: Sch. 15 para. 89 repealed (S.) (28.3.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), Sch. 7 para. 18; S.S.I. 2011/178, art. 2, Sch.
+[^F411]: Sch. 15 paras. 92–94 repealed by Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1), ss. 3, 5, Sch. 1, Sch. 4 paras. 1, 2
+[^F412]: Sch. 1, Sch. 15 paras. 95, 96 repealed by Extradition Act 1989 (c. 33, SIF 48), s. 37, Sch. 2
+[^F413]: Sch. 15 para. 98 repealed (1.7.2005) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174, 178, Sch. 17 Pt. 2; S.I. 2005/1521, art. 3(1)(cc)(ee)(i) (subject to art. 3(4)(5))
+[^F414]: Sch. 15 para. 102 repealed (1.7.2005) by Serious Organised Crime and Police Act 2005 (c. 15), ss. 174, 178, Sch. 17 Pt. 2; S.I. 2005/1521, art. 3(1)(cc)(ee)(i) (subject to art. 3(4)(5))
+[^F415]: Sch. 15 para. 104 repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by Criminal Justice Act 2003 (c. 44), s. 336(3)(4), Sch. 37 Pt. 4; S.I. 2012/1320, art. 4(1)(d)(2)(3) (with art. 5) (see S.I. 2012/2574, art. 4(2) and S.I. 2013/1103, art. 4); S.I. 2012/2574, art. 2(2)(3)(d), Sch. (with arts. 3, 4) (as amended (4.11.2012) by S.I. 2012/2761, art. 2) (with S.I. 2013/1103, art. 4); S.I. 2013/1103, art. 2(1)(d)
+[^F416]: Sch. 15 para. 105 repealed (5.2.1994) by 1993 c. 47, ss. 32, 33(3), Sch.4
+[^F417]: Sch. 15 paras. 106-109 repealed (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034), art. 1, Sch. 2 Pt. 1
+[^F418]: Sch. 15 para. 111 repealed (31.1.2013) by Statute Law (Repeals) Act 2013 (c. 2), s. 3(2), Sch. 1 Pt. 2 Group 5
+[^F419]: Sch. 15, para. 114 repealed (E.W.N.I)(4.7.1996 with effect as mentioned in the note at the end of Sch. 5 para. 12 of the repealing Act) by 1996 c. 25, ss. 72, 80, Sch. 3, Sch. 5 para.12 (with s. 78(1)); S.I. 1997/1019, art.2.
+[^F420]: Sch. 15 para. 117 repealed (S.) (28.3.2011) by Criminal Justice and Licensing (Scotland) Act 2010 (asp 13), s. 206(1), Sch. 7 para. 18; S.S.I. 2011/178, art. 2, Sch.
+[^F421]: Sch. 16: Entry relating to s. 41(8) of the Administration of Justice Act 1970 repealed (1.10.1992) by Criminal Justice Act 1991 (c. 53, SIF 39:1), ss. 23(3), 101(2), Sch. 13; S.I. 1992/333, art. 2(2), Sch. 2.

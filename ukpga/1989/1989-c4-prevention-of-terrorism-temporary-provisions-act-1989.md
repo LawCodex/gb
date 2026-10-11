@@ -1,0 +1,3485 @@
+---
+title: "Prevention of Terrorism (Temporary Provisions) Act 1989"
+identifier: "ukpga/1989/4"
+citation: "1989 c. 4"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1989-03-15
+last_amended: 2001-02-19
+version: revised
+status: repealed
+source: "https://www.legislation.gov.uk/ukpga/1989/4"
+source_modified: 2011-05-27
+retrieved: 2026-10-11
+---
+
+# Prevention of Terrorism (Temporary Provisions) Act 1989
+
+**1989 c. 4**
+
+## Part I — Proscribed Organisations
+
+### 1 Proscribed organisations.
+
+(1) Any organisation for the time being specified in Schedule 1 to this Act is a proscribed organisation for the purposes of this Act; and any organisation which passes under a name mentioned in that Schedule shall be treated as proscribed whatever relationship (if any) it has to any other organisation of the same name.
+
+(2) The Secretary of State may by order made by statutory instrument—
+
+(a) add to Schedule 1 to this Act any organisation that appears to him to be concerned in, or in promoting or encouraging, terrorism occurring in the United Kingdom and connected with the affairs of Northern Ireland;
+
+(b) remove an organisation from that Schedule.
+
+(3) No order shall be made under this section unless—
+
+(a) a draft of the order has been laid before and approved by a resolution of each House of Parliament; or
+
+(b) it is declared in the order that it appears to the Secretary of State that by reason of urgency it is necessary to make the order without a draft having been so approved.
+
+(4) An order under this section of which a draft has not been approved under subsection (3) above—
+
+(a) shall be laid before Parliament; and
+
+(b) shall cease to have effect at the end of the period of forty days beginning with the day on which it was made unless, before the end of that period, the order has been approved by a resolution of each House of Parliament, but without prejudice to anything previously done or to the making of a new order.
+
+(5) In reckoning for the purposes of subsection (4) above any period of forty days, no account shall be taken of any period during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days.
+
+(6) In this section “organisation” includes any association or combination of persons.
+
+### 2 Membership, support and meetings.
+
+(1) Subject to subsection (3) below, a person is guilty of an offence if he—
+
+(a) belongs or professes to belong to a proscribed organisation;
+
+(b) solicits or invites support for a proscribed organisation other than support with money or other property; or
+
+(c) arranges or assists in the arrangement or management of, or addresses, any meeting of three or more persons (whether or not it is a meeting to which the public are admitted) knowing that the meeting is—
+
+(i) to support a proscribed organisation;
+
+(ii) to further the activities of such an organisation; or
+
+(iii) to be addressed by a person belonging or professing to belong to such an organisation.
+
+(2) A person guilty of an offence under subsection (1) above is liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding ten years or a fine or both;
+
+(b) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or both.
+
+(3) A person belonging to a proscribed organisation is not guilty of an offence under this section by reason of belonging to the organisation if he shows—
+
+(a) that he became a member when it was not a proscribed organisation under the current legislation; and
+
+(b) that he has not since he became a member taken part in any of its activities at any time while it was a proscribed organisation under that legislation.
+
+(4) In subsection (3) above “the current legislation”, in relation to any time, means whichever of the following was in force at that time—
+
+(a) the [^M1]Prevention of Terrorism (Temporary Provisions) Act 1974;
+
+(b) the [^M2]Prevention of Terrorism (Temporary Provisions) Act 1976;
+
+(c) the [^M3]Prevention of Terrorism (Temporary Provisions) Act 1984; or
+
+(d) this Act.
+
+(5) The reference in subsection (3) above to a person becoming a member of an organisation is a reference to the only or last occasion on which he became a member.
+
+### [[^F1]2A Evidence and inferences.
+
+(1) This section applies where a person is charged with an offence under section 2(1)(a) above; and references here to a specified organisation must be construed in accordance with section 2B below.
+
+(2) Subsection (3) below applies if a police officer of or above the rank of superintendent states in oral evidence that in his opinion the accused—
+
+(a) belongs to an organisation which is specified, or
+
+(b) belonged at a particular time to an organisation which was then specified.
+
+(3) If this subsection applies—
+
+(a) the statement shall be admissible as evidence of the matter stated, but
+
+(b) the accused shall not be committed for trial in England and Wales, or be found to have a case to answer or be convicted, solely on the basis of the statement.
+
+(4) Subsection (6) below applies if evidence is given that—
+
+(a) at any time before being charged with the offence the accused, on being questioned under caution by a constable, failed to mention a fact which is material to the offence and which he could reasonably be expected to mention, and
+
+(b) before being questioned he was permitted to consult a solicitor.
+
+(5) Subsection (6) below also applies if evidence is given that—
+
+(a) on being charged with the offence or informed by a constable that he might be prosecuted for it the accused failed to mention a fact which is material to the offence and which he could reasonably be expected to mention, and
+
+(b) before being charged or informed he was permitted to consult a solicitor.
+
+(6) If this subsection applies—
+
+(a) the court or jury, in considering any question whether the accused belongs or belonged at a particular time to a specified organisation, may draw from the failure inferences relating to that question, but
+
+(b) the accused shall not be committed for trial in England and Wales, or be found to have a case to answer or be convicted, solely on the basis of the inferences.
+
+(7) Subject to any directions by the court, evidence tending to establish the failure may be given before or after evidence tending to establish the fact which the accused is alleged to have failed to mention.
+
+(8) This section does not—
+
+(a) prejudice the admissibility of evidence admissible apart from this section;
+
+(b) preclude the drawing of inferences which could be drawn apart from this section;
+
+(c) prejudice an enactment providing (in whatever words) that an answer or evidence given by a person in specified circumstances is not admissible in evidence against him or some other person in any proceedings or class of proceedings (however described, and whether civil or criminal).
+
+(9) In subsection (8)(c) above the reference to giving evidence is a reference to giving it in any manner (whether by giving information, making discovery or disclosure, producing documents or otherwise).
+
+(10) In any proceedings in Scotland for an offence under section 2(1)(a) above in which the accused is charged with belonging to a specified organisation, where the court or jury draws an inference as mentioned in subsection (6) above any evidence that he belongs or, as the case may be, belonged to the organisation shall be sufficient evidence of that matter.
+
+(11) In this section “police officer” means a member of—
+
+(a) a police force within the meaning of the [^M4]Police Act 1996 or the [^M5]Police (Scotland) Act 1967, or
+
+(b) the Royal Ulster Constabulary.
+
+(12) This section does not apply to a statement made or failure occurring before the day on which the Criminal Justice (Terrorism and Conspiracy) Act 1998 was passed.]
+
+### [[^F2]2B Specified organisations.
+
+(1) For the purposes of section 2A above an organisation is specified at a particular time if at that time—
+
+(a) it is specified under section 3(8) of the [^M6]Northern Ireland (Sentences) Act 1998 or under subsection (2) below, and
+
+(b) it is, or forms part of, an organisation which is proscribed for the purposes of this Act.
+
+(2) If the condition in subsection (3) below is satisfied the Secretary of State may by order specify an organisation which is not specified under section 3(8) of the Northern Ireland (Sentences) Act 1998.
+
+(3) The condition is that the Secretary of State believes that the organisation—
+
+(a) is concerned in terrorism connected with the affairs of Northern Ireland, or in promoting or encouraging it, and
+
+(b) has not established or is not maintaining a complete and unequivocal ceasefire.
+
+(4) An order under this section shall be made by statutory instrument; and no order shall be made unless a draft has been laid before, and approved by resolution of, each House of Parliament.]
+
+### 3 Display of support in public.
+
+(1) Any person who in a public place—
+
+(a) wears any item of dress; or
+
+(b) wears, carries or displays any article,
+
+in such a way or in such circumstances as to arouse reasonable apprehension that he is a member or supporter of a proscribed organisation, is guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding six months or a fine not exceeding level 5 on the standard scale or both.
+
+(2) In Scotland a constable may arrest without warrant anyone whom he has reasonable grounds to suspect of being a person guilty of an offence under this section.
+
+(3) In this section “public place” includes any highway or, in Scotland, any road within the meaning of the [^M7]Roads (Scotland) Act 1984 and any premises to which at the material time the public have, or are permitted to have, access, whether on payment or otherwise.
+
+## [[^F3]Part II — Exclusion Orders]
+
+### 4 Exclusion orders: general.
+
+(1) The Secretary of State may exercise the powers conferred on him by this Part of this Act in such a way as appears to him expedient to prevent acts of terrorism to which this Part of this Act applies.
+
+(2) The acts of terrorism to which this Part of this Act applies are acts of terrorism connected with the affairs of Northern Ireland.
+
+(3) An order under section 5, 6 or 7 below is referred to in this Act as an “exclusion order".
+
+(4) Schedule 2 to this Act shall have effect with respect to the duration of exclusion orders, the giving of notices, the right to make representations, powers of removal and detention and other supplementary matters for this Part of this Act.
+
+(5) The exercise of the detention powers conferred by that Schedule shall be subject to supervision in accordance with Schedule 3 to this Act.
+
+### 5 Orders excluding persons from Great Britain.
+
+(1) If the Secretary of State is satisfied that any person—
+
+(a) is or has been concerned in the commission, preparation or instigation of acts of terrorism to which this Part of this Act applies; or
+
+(b) is attempting or may attempt to enter Great Britain with a view to being concerned in the commission, preparation or instigation of such acts of terrorism,
+
+the Secretary of State may make an exclusion order against him.
+
+(2) An exclusion order under this section is an order prohibiting a person from being in, or entering, Great Britain.
+
+(3) In deciding whether to make an exclusion order under this section against a person who is ordinarily resident in Great Britain, the Secretary of State shall have regard to the question whether that person’s connection with any country or territory outside Great Britain is such as to make it appropriate that such an order should be made.
+
+(4) An exclusion order shall not be made under this section against a person who is a British citizen and who—
+
+(a) is at the time ordinarily resident in Great Britain and has then been ordinarily resident in Great Britain throughout the last three years; or
+
+(b) is at the time subject to an order under section 6 below.
+
+### 6 Orders excluding persons from Northern Ireland.
+
+(1) If the Secretary of State is satisfied that any person—
+
+(a) is or has been concerned in the commission, preparation or instigation of acts of terrorism to which this Part of this Act applies; or
+
+(b) is attempting or may attempt to enter Northern Ireland with a view to being concerned in the commission, preparation or instigation of such acts of terrorism,
+
+the Secretary of State may make an exclusion order against him.
+
+(2) An exclusion order under this section is an order prohibiting a person from being in, or entering, Northern Ireland.
+
+(3) In deciding whether to make an exclusion order under this section against a person who is ordinarily resident in Northern Ireland, the Secretary of State shall have regard to the question whether that person’s connection with any country or territory outside Northern Ireland is such as to make it appropriate that such an order should be made.
+
+(4) An exclusion order shall not be made under this section against a person who is a British citizen and who—
+
+(a) is at the time ordinarily resident in Northern Ireland and has then been ordinarily resident in Northern Ireland throughout the last three years; or
+
+(b) is at the time subject to an order under section 5 above.
+
+### 7 Orders excluding persons from the United Kingdom.
+
+(1) If the Secretary of State is satisfied that any person—
+
+(a) is or has been concerned in the commission, preparation or instigation of acts of terrorism to which this Part of this Act applies; or
+
+(b) is attempting or may attempt to enter Great Britain or Northern Ireland with a view to being concerned in the commission, preparation or instigation of such acts of terrorism,
+
+the Secretary of State may make an exclusion order against him.
+
+(2) An exclusion order under this section is an order prohibiting a person from being in, or entering, the United Kingdom.
+
+(3) In deciding whether to make an exclusion order under this section against a person who is ordinarily resident in the United Kingdom, the Secretary of State shall have regard to the question whether that person’s connection with any country or territory outside the United Kingdom is such as to make it appropriate that such an order should be made.
+
+(4) An exclusion order shall not be made under this section against a person who is a British citizen.
+
+### 8 Offences in respect of exclusion orders.
+
+(1) A person who is subject to an exclusion order is guilty of an offence if he fails to comply with the order at a time after he has been, or has become liable to be, removed under Schedule 2 to this Act.
+
+(2) A person is guilty of an offence—
+
+(a) if he is knowingly concerned in arrangements for securing or facilitating the entry into Great Britain, Northern Ireland or the United Kingdom of a person whom he knows, or has reasonable grounds for believing, to be an excluded person; or
+
+(b) if he knowingly harbours such a person in Great Britain, Northern Ireland or the United Kingdom.
+
+(3) In subsection (2) above “excluded person” means—
+
+(a) in relation to Great Britain, a person subject to an exclusion order made under section 5 above who has been, or has become liable to be, removed from Great Britain under Schedule 2 to this Act;
+
+(b) in relation to Northern Ireland, a person subject to an exclusion order made under section 6 above who has been, or has become liable to be, removed from Northern Ireland under that Schedule; and
+
+(c) in relation to the United Kingdom, a person subject to an exclusion order made under section 7 above who has been, or has become liable to be, removed from the United Kingdom under that Schedule.
+
+(4) A person guilty of an offence under this section is liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding five years or a fine or both;
+
+(b) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or both.
+
+## Part III — Financial Assistance for Terrorism
+
+### 9 Contributions towards acts of terrorism.
+
+(1) A person is guilty of an offence if he—
+
+(a) solicits or invites any other person to give, lend or otherwise make available, whether for consideration or not, any money or other property; [^F4]. . .
+
+(b) receives or accepts from any other person, whether for consideration or not, any money or other property,
+
+[[^F5]or
+
+(c) uses or has possession of, whether for consideration or not, any money or other property,]
+
+intending that it shall be applied or used for the commission of, or in furtherance of or in connection with, acts of terrorism to which this section applies or having reasonable cause to suspect that it may be so used or applied.
+
+(2) A person is guilty of an offence if he—
+
+(a) gives, lends or otherwise makes available to any other person, whether for consideration or not, any money or other property; or
+
+(b) enters into or is otherwise concerned in an arrangement whereby money or other property is or is to be made available to another person,
+
+knowing or having reasonable cause to suspect that it will or may be applied or used as mentioned in subsection (1) above.
+
+(3) The acts of terrorism to which this section applies are—
+
+(a) acts of terrorism connected with the affairs of Northern Ireland; and
+
+(b) subject to subsection (4) below, acts of terrorism of any other description except acts connected solely with the affairs of the United Kingdom or any part of the United Kingdom other than Northern Ireland.
+
+(4) Subsection (3)(b) above does not apply to an act done or to be done outside the United Kingdom unless it constitutes or would constitute an offence triable in the United Kingdom.
+
+(5) In proceedings against a person for an offence under this section in relation to an act within subsection (3)(b) above done or to be done outside the United Kingdom—
+
+(a) the prosecution need not prove that that person knew or had reasonable cause to suspect that the act constituted or would constitute such an offence as is mentioned in subsection (4) above; but
+
+(b) it shall be a defence to prove that he did not know and had no reasonable cause to suspect that the facts were such that the act constituted or would constitute such an offence.
+
+### 10 Contributions to resources of proscribed organisations.
+
+(1) A person is guilty of an offence if he—
+
+(a) solicits or invites any other person to give, lend or otherwise make available, whether for consideration or not, any money or other property for the benefit of a proscribed organisation;
+
+(b) gives, lends or otherwise makes available or receives or accepts [[^F6]or uses or has possession of], whether for consideration or not, any money or other property for the benefit of such an organisation; or
+
+(c) enters into or is otherwise concerned in an arrangement whereby money or other property is or is to be made available for the benefit of such an organisation.
+
+(2) In proceedings against a person for an offence under subsection (1)(b) above it is a defence to prove that he did not know and had no reasonable cause to suspect that the money or property was for the benefit of a proscribed organisation; and in proceedings against a person for an offence under subsection (1)(c) above it is a defence to prove that he did not know and had no reasonable cause to suspect that the arrangement related to a proscribed organisation.
+
+(3) In this section and sections 11 and 13 below “proscribed organisation” includes a proscribed organisation for the purposes of [[^F7]section 30 of the Northern Ireland (Emergency Provisions) Act 1996].
+
+### 11 Assisting in retention or control of terrorist funds.
+
+(1) A person is guilty of an offence if he enters into or is otherwise concerned in an arrangement whereby the retention or control by or on behalf of another person of terrorist funds is facilitated, whether by concealment, removal from the jurisdiction, transfer to nominees or otherwise.
+
+(2) In proceedings against a person for an offence under this section it is a defence to prove that he did not know and had no reasonable cause to suspect that the arrangement related to terrorist funds.
+
+(3) In this section and section 12 below “terrorist funds” means—
+
+(a) funds which may be applied or used for the commission of, or in furtherance of or in connection with, acts of terrorism to which section 9 above applies;
+
+(b) the proceeds of the commission of such acts of terrorism or of activities engaged in in furtherance of or in connection with such acts; and
+
+(c) the resources of a proscribed organisation.
+
+(4) Paragraph (b) of subsection (3) includes any property which in whole or in part directly or indirectly represents such proceeds as are mentioned in that paragraph; and paragraph (c) of that subsection includes any money or other property which is or is to be applied or made available for the benefit of a proscribed organisation.
+
+### 12 Disclosure of information about terrorist funds.
+
+(1) A person may notwithstanding any restriction on the disclosure of information imposed by [[^F8]statute or otherwise]disclose to a constable a suspicion or belief that any money or other property is or is derived from terrorist funds or any matter on which such a suspicion or belief is based.
+
+(2) A person who enters into or is otherwise concerned in any such transaction or arrangement as is mentioned in section 9, 10 or 11 above does not commit an offence under that section if he is acting with the express consent of a constable or if—
+
+(a) he discloses to a constable his suspicion or belief that the money or other property concerned is or is derived from terrorist funds or any matter on which such a suspicion or belief is based; and
+
+(b) the disclosure is made after he enters into or otherwise becomes concerned in the transaction or arrangement in question but is made on his own initiative and as soon as it is reasonable for him to make it,
+
+but paragraphs (a) and (b) above do not apply in a case where, having disclosed any such suspicion, belief or matter to a constable and having been forbidden by a constable to enter into or otherwise be concerned in the transaction or arrangement in question, he nevertheless does so.
+
+[[^F9](2A) For the purposes of subsection (2) above a person who uses or has possession of money or other property shall be taken to be concerned in a transaction or arrangement.]
+
+(3) In proceedings against a person for an offence under section 9(1)(b) [[^F10]or (c)]or (2), 10(1)(b) or (c) or 11 above it is a defence to prove—
+
+(a) that he intended to disclose to a constable such a suspicion, belief or matter as is mentioned in paragraph (a) of subsection (2) above; and
+
+(b) that there is a reasonable excuse for his failure to make the disclosure as mentioned in paragraph (b) of that subsection.
+
+[[^F11](4) In the case of a person who was in employment at the relevant time, subsections (1) to (3) above shall have effect in relation to disclosures, and intended disclosures, to the appropriate person in accordance with the procedure established by his employer for the making of such disclosures as they have effect in relation to disclosures, and intended disclosures, to a constable.
+
+(5) No constable or other person shall be guilty of an offence under section 9(1)(b) or (c) or (2) or 10(1)(b) or (c) above in respect of anything done by him in the course of acting in connection with the enforcement, or intended enforcement, of any provision of this Act or of any other enactment relating to terrorism or the proceeds or resources of terrorism.
+
+(6) For the purposes of subsection (5) above, having possession of any property shall be taken to be doing an act in relation to it.]
+
+### 13 Penalties and forfeiture.
+
+(1) A person guilty of an offence under section 9, 10 or 11 above is liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding fourteen years or a fine or both;
+
+(b) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or both.
+
+(2) Subject to the provisions of this section, the court by or before which a person is convicted of an offence under section 9(1) or (2)(a) above may order the forfeiture of any money or other property—
+
+(a) which, at the time of the offence, he had in his possession or under his control; and
+
+(b) which, at that time—
+
+(i) in the case of an offence under subsection (1) of section 9, he intended should be applied or used, or had reasonable cause to suspect might be applied or used, as mentioned in that subsection;
+
+(ii) in the case of an offence under subsection (2)(a) of that section, he knew or had reasonable cause to suspect would or might be applied or used as mentioned in subsection (1) of that section.
+
+(3) Subject to the provisions of this section, the court by or before which a person is convicted of an offence under section 9(2)(b), 10(1)(c) or 11 above may order the forfeiture of the money or other property to which the arrangement in question related and which, in the case of an offence under section 9(2)(b), he knew or had reasonable cause to suspect would or might be applied or used as mentioned in section 9(1) above.
+
+(4) Subject to the provisions of this section, the court by or before which a person is convicted of an offence under section 10(1)(a) or (b) above may order the forfeiture of any money or other property which, at the time of the offence, he had in his possession or under his control for the use or benefit of a proscribed organisation.
+
+(5) The court shall not under this section make an order forfeiting any money or other property unless the court considers that the money or property may, unless forfeited, be applied or used as mentioned in section 9(1) above but the court may, in the absence of evidence to the contrary, assume that any money or property may be applied or used as there mentioned.
+
+(6) Where a person other than the convicted person claims to be the owner of or otherwise interested in anything which can be forfeited by an order under this section, the court shall, before making such an order in respect of it, give him an opportunity to be heard.
+
+(7) A court in Scotland shall not make an order under subsection (2), (3) or (4) above except on the application of the prosecutor when he moves for sentence; and for the purposes of any appeal or review an order under any of those subsections made by a court in Scotland is a sentence.
+
+(8) Schedule 4 to this Act shall have effect in relation to orders under this section.
+
+## Part IV — [[^F12] Powers of Arrest, Stop and Search, Detention and Control of Entry]
+
+### 14 Arrest and detention of suspected persons.
+
+(1) Subject to subsection (2) below, a constable may arrest without warrant a person whom he has reasonable grounds for suspecting to be—
+
+(a) a person guilty of an offence under section 2, 8, 9, 10 or 11 above [[^F13]or under section 30 of the Northern Ireland (Emergency Provisions) Act 1996;
+
+(b) a person who is or has been concerned in the commission, preparation or instigation of acts of terrorism to which this section applies; or
+
+(c) a person subject to an exclusion order.
+
+(2) The acts of terrorism to which this section applies are—
+
+(a) acts of terrorism connected with the affairs of Northern Ireland; and
+
+(b) acts of terrorism of any other description except acts connected solely with the affairs of the United Kingdom or any part of the United Kingdom other than Northern Ireland.
+
+(3) The power of arrest conferred by subsection (1)(c) above is exercisable only—
+
+(a) in Great Britain if the exclusion order was made under section 5 above; and
+
+(b) in Northern Ireland if it was made under section 6 above.
+
+(4) Subject to subsection (5) below, a person arrested under this section shall not be detained in right of the arrest for more than forty-eight hours after his arrest.
+
+(5) The Secretary of State may, in any particular case, extend the period of forty-eight hours mentioned in subsection (4) above by a period or periods specified by him, but any such further period or periods shall not exceed five days in all and if an application for such an extension is made the person detained shall as soon as practicable be given written notice of that fact and of the time when the application was made.
+
+(6) The exercise of the detention powers conferred by this section shall be subject to supervision in accordance with Schedule 3 to this Act.
+
+(7) The provisions of this section are without prejudice to any power of arrest exercisable apart from this section.
+
+### 15 Provisions supplementary to s.14.
+
+(1) If a justice of the peace is satisfied that there are reasonable grounds for suspecting that a person whom a constable believes to be liable to arrest under section 14(1)(b) above is to be found on any premises he may grant a search warrant authorising any constable to enter those premises for the purpose of searching for and arresting that person.
+
+(2) In Scotland the power to issue a warrant under subsection (1) above shall be exercised by a sheriff or a justice of the peace, an application for such a warrant shall be supported by evidence on oath and a warrant shall not authorise a constable to enter any premises unless he is a constable for the police area in which they are situated.
+
+(3) In any circumstances in which a constable has power under section 14 above to arrest a person, he may also, for the purpose of ascertaining whether he has in his possession any document or other article which may constitute evidence that he is a person liable to arrest, stop that person and search him.
+
+(4) Where a constable has arrested a person under that section for any reason other than the commission of a criminal offence, he, or any other constable, may search him for the purpose of ascertaining whether he has in his possession any document or other article which may constitute evidence that he is a person liable to arrest.
+
+(5) A search of a person under subsection (3) or (4) above may only be carried out by a person of the same sex.
+
+(6) A person detained under section 14 above shall be deemed to be in legal custody at any time when he is so detained and may be detained in such a place as the Secretary of State may from time to time direct.
+
+(7) The following provisions (requirement to bring accused person before the court after his arrest) shall not apply to a person detained in right of an arrest under section 14 above—
+
+[[^F14](a) section 135(3) of the Criminal Procedure (Scotland) Act 1995;
+
+[[^F15](b) Article 47 of the Police and Criminal Evidence (Northern Ireland) Order 1989;
+
+[[^F16](c) Article 8(1) of the Criminal Justice (Children) (Northern Ireland) Order 1998.
+
+(8) [[^F17]Section 22(1) and (3) of the Criminal Procedure (Scotland) Act 1995 (interim liberation by officer in charge of police station) shall not apply to a person detained in right of an arrest under section 14 above.
+
+(9) Where a person is detained under section 14 above, any constable or prison officer, or any other person authorised by the Secretary of State, may take all such steps as may be reasonably necessary for photographing, measuring or otherwise identifying him.
+
+(10) Section 61(1) to (8) of the [^M8]Police and Criminal Evidence Act 1984 (fingerprinting) shall apply to the taking of a person’s fingerprints by a constable under subsection (9) above as if for subsection (4) there were substituted—
+
+> (4) An officer may only give an authorisation under subsection (3)(a) above for the taking of a person’s fingerprints if he is satisfied that it is necessary to do so in order to assist in determining—
+>
+> (a) whether that person is or has been concerned in the commission, preparation or instigation of acts of terrorism to which section 14 of the Prevention of Terrorism (Temporary Provisions) Act 1989 applies; or
+>
+> (b) whether he is subject to an exclusion order under that Act;
+>
+> or if the officer has reasonable grounds for suspecting that person’s involvement in an offence under any of the provisions mentioned in subsection (1)(a) of that section and for believing that his fingerprints will tend to confirm or disprove his involvement.
+
+[[^F18](11) Section 62(1) to (11) of the Police and Criminal Evidence Act 1984 (regulation of taking of intimate samples) shall apply to the taking of an intimate sample from a person under subsection (9) above as if—
+
+(a) for subsection (2) there were substituted—
+
+" An officer may only give an authorisation under subsection (1) or (1A) above for the taking of an intimate sample if he is satisfied that it is necessary to do so in order to assist in determining—
+
+(a) whether that person is or has been concerned in the commission, preparation or instigation of acts of terrorism to which section 14 of the Prevention of Terrorism (Temporary Provisions) Act 1989 applies; or
+
+(b) whether he is subject to an exclusion order under that Act;
+
+or if the officer has reasonable grounds for suspecting that person’s involvement in an offence under any of the provisions mentioned in subsection (1)(a) of that section and for believing that an intimate sample will tend to confirm or disprove his involvement"; and
+
+(b) in subsection (6), after the word “includes", there were inserted the words “where relevant".
+
+(12) In this section, “intimate sample” has the same meaning as in section 65 of the [^M9]Police and Criminal Evidence Act 1984.
+
+(13) Section 63(1) to (9) of the Police and Criminal Evidence Act 1984 (regulation of taking of non-intimate samples) shall apply to the taking of a non-intimate sample from a person by a constable under subsection (9) above as if—
+
+(a) for subsection (4) there were substituted—
+
+“ An officer may only give an authorisation under subsection (3) above for the taking of a non-intimate sample if he is satisfied that it is necessary to do so in order to assist in determining—
+
+(a) whether that person is or has been concerned in the commission, preparation or instigation of acts of terrorism to which section 14 of the Prevention of Terrorism (Temporary Provisions) Act 1989 applies; or
+
+(b) whether he is subject to an exclusion order under that Act;
+
+or if the officer has reasonable grounds for suspecting that person’s involvement in an offence under any of the provisions mentioned in subsection (1)(a) of that section and for believing that a non-intimate sample will tend to confirm or disprove his involvement"; and
+
+(b) in subsection (7), after the word “includes" there were inserted the words “where relevant".
+
+(14) In this section, “non-intimate sample” has the same meaning as in section 65 of the Police and Criminal Evidence Act 1984.
+
+### 16 Port and border controls.
+
+(1) Schedule 5 to this Act shall have effect for conferring powers to examine persons [[^F19]or goods arriving in or leaving Great Britain or Northern Ireland and for connected purposes.
+
+(2) The exercise of the examination and detention powers conferred by paragraphs 2 and 6 of that Schedule shall be subject to supervision in accordance with Schedule 3 to this Act.
+
+(3) The designated ports for the purposes of paragraph 8 of Schedule 5 to this Act shall be those specified in Schedule 6 to this Act but the Secretary of State may by order add any port to, or remove any port from, that Schedule.
+
+(4) Without prejudice to the provisions of Schedule 5 to this Act with respect to persons who enter or leave Northern Ireland by land or who seek to do so, the Secretary of State may by order make such further provision with respect to those persons as appears to him to be expedient.
+
+(5) The power to make orders under this section shall be exercisable by statutory instrument.
+
+(6) An order under subsection (4) above may contain transitional provisions and savings and shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## [[^F20][^F21][^F22]Part IVA — Offences against Public Security]
+
+### [[^F23]16A Possession of articles for suspected terrorist purposes.
+
+(1) A person is guilty of an offence if he has any article in his possession in circumstances giving rise to a reasonable suspicion that the article is in his possession for a purpose connected with the commission, preparation or instigation of acts of terrorism to which this section applies.
+
+(2) The acts of terrorism to which this section applies are—
+
+(a) acts of terrorism connected with the affairs of Northern Ireland; and
+
+(b) acts of terrorism of any other description except acts connected solely with the affairs of the United Kingdom or any part of the United Kingdom other than Northern Ireland.
+
+(3) It is a defence for a person charged with an offence under this section to prove that at the time of the alleged offence the article in question was not in his possession for such a purpose as is mentioned in subsection (1) above.
+
+(4) Where a person is charged with an offence under this section and it is proved that at the time of the alleged offence—
+
+(a) he and that article were both present in any premises; or
+
+(b) the article was in premises of which he was the occupier or which he habitually used otherwise than as a member of the public,
+
+the court may accept the fact proved as sufficient evidence of his possessing that article at that time unless it is further proved that he did not at that time know of its presence in the premises in question, or, if he did know, that he had no control over it.
+
+(5) A person guilty of an offence under this section is liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding ten years or a fine or both;
+
+(b) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or both.
+
+(6) This section applies to vessels, aircraft and vehicles as it applies to premises.]
+
+### [[^F24]16B Unlawful collection, etc. of information.
+
+(1) No person shall, without lawful authority or reasonable excuse (the proof of which lies on him)—
+
+(a) collect or record any information which is of such a nature as is likely to be useful to terrorists in planning or carrying out any act of terrorism to which this section applies; or
+
+(b) have in his possession any record or document containing any such information as is mentioned in paragraph (a) above.
+
+(2) The acts of terrorism to which this section applies are—
+
+(a) acts of terrorism connected with the affairs of Northern Ireland; and
+
+(b) acts of terrorism of any other description except acts connected solely with the affairs of the United Kingdom or any part of the United Kingdom other than Northern Ireland.
+
+(3) In subsection (1) above the reference to recording information includes a reference to recording it by means of photography or by any other means.
+
+(4) Any person who contravenes this section is guilty of an offence and liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding ten years or a fine or both;
+
+(b) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or both.
+
+(5) The court by or before which a person is convicted of an offence under this section may order the forfeiture of any record or document mentioned in subsection (1) above which is found in his possession.]
+
+## [[^F25][^F26][^F27]PART IVB — CORDONS AND PROTECTIVE POWERS]
+
+### [[^F28]16C Power to impose a police cordon.
+
+(1) If it appears to a police officer of at least the rank of superintendent that it is expedient to do so in connection with an investigation into the commission, preparation or instigation of an act of terrorism to which this section applies, he may authorise a cordon to be imposed on an area specified by him in the authorisation.
+
+(2) If it appears to a constable below the rank of superintendent that it is necessary for him to do so as a matter of great urgency, he may exercise the power given to a superintendent by subsection (1) above.
+
+(3) The acts of terrorism to which this section applies are—
+
+(a) acts of terrorism connected with the affairs of Northern Ireland; and
+
+(b) acts of terrorism of any other description except acts connected solely with the affairs of the United Kingdom or any part of the United Kingdom other than Northern Ireland.
+
+(4) The powers that may be exercised within an area on which a cordon has been imposed under this section are set out in Schedule 6A to this Act.
+
+(5) Schedule 6A also makes further provision with respect to cordoned areas.]
+
+### [[^F29]16D Parking prohibitions and restrictions and the removal of vehicles.
+
+(1) If it appears to an appropriate officer that it is expedient to do so in order to prevent acts of terrorism to which section 16C above applies he may give an authorisation for the purposes of this section.
+
+(2) An authorisation—
+
+(a) may be given in writing or orally but if given orally must be confirmed in writing by the person giving it as soon as is reasonably practicable; and
+
+(b) has effect—
+
+(i) in relation to such roads, or parts of roads, as may be specified; and
+
+(ii) for such period, not exceeding 28 days, as may be specified.
+
+(3) Only roads, or parts of roads, which are within the police area of the officer giving the authorisation may be specified.
+
+(4) An authorisation gives any constable power to prohibit or restrict the leaving of vehicles, or their remaining at rest, on any specified road, or part of a road.
+
+(5) The power conferred by subsection (4) above is to be exercised by placing the appropriate traffic sign on, or on any structure which is on, the road or part of the road concerned.
+
+(6) If the driver or other person in charge of a vehicle which has been permitted to remain at rest in contravention of any prohibition or restriction imposed under subsection (4) above fails to move the vehicle when ordered to do so by a constable in uniform, he is guilty of an offence.
+
+(7) A person is guilty of an offence if he leaves a vehicle, or permits a vehicle to remain at rest, on a road in contravention of a prohibition or restriction imposed under this section.
+
+(8) It is a defence for any person charged with an offence under this section to prove that he had lawful authority or some other reasonable excuse for the act or omission in question.
+
+(9) A person guilty of an offence under subsection (6) above is liable on summary conviction to imprisonment for a term not exceeding three months or a fine not exceeding level 4 on the standard scale or both.
+
+(10) A person guilty of an offence under subsection (7) above is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+(11) If it appears to an appropriate officer that the exercise of the powers conferred by this section ought to continue beyond the period for which their exercise has been authorised under this section he may, from time to time, authorise the exercise of those powers for a further period, not exceeding 28 days.
+
+(12) The fact that a person has a current disabled person’s badge does not—
+
+(a) exempt him from any prohibition or restriction imposed under this section; or
+
+(b) constitute lawful authority, or a reasonable excuse, for failing to comply with any order given under this section.
+
+(13) In this section—
+
+- “appropriate officer” means—
+
+  - (a) any police officer of or above the rank of commander of the metropolitan police, as respects the metropolitan police district;
+  - (b) any police officer of or above the rank of commander of the City of London police, as respects the City of London; or
+  - (c) any police officer of or above the rank of assistant chief constable of a force maintained for any other police area;
+
+- “authorisation” means an authorisation given under this section;
+
+- “disabled person’s badge” has the same meaning as in section 142 of the [^M10]Road Traffic Regulation Act 1984;
+
+- “driver” means, in relation to a vehicle which has been left on any road, the person who was driving it when it was left there;
+
+- “road” has the same meaning as in the [^M11]Road Traffic Act 1988;
+
+- “specified” means specified in an authorisation;
+
+- “traffic sign” has the meaning given in section 142(1) of the [^M12]Road Traffic Regulation Act 1984; and
+
+- “vehicle” has the same meaning as in section 99(5) of the Act of 1984.
+
+(14) A constable exercising powers under this section may suspend a parking place; and any such suspension is to be treated for the purposes of section 99 of the Act of 1984 (removal of vehicles illegally parked etc.), and any regulations in force under that section, as a restriction imposed under this section.
+
+(15) The powers conferred by this section are additional to any other powers which a constable has either at common law or under or by virtue of any other enactment and are not to be taken to affect any of those other powers.]
+
+## Part V — Information, Proceedings and Interpretation
+
+### 17 Investigation of terrorist activities.
+
+(1) Schedule 7 to this Act shall have effect for conferring powers to obtain information for the purposes of terrorist investigations, that is to say—
+
+(a) investigations into—
+
+(i) the commission, preparation or instigation of acts of terrorism to which section 14 above applies; or
+
+(ii) any other act which appears to have been done in furtherance of or in connection with such acts of terrorism, including any act which appears to constitute an offence under section 2, 9, 10 [[^F30]11, 18 or 18A of this Act] or [[^F31]section 29 or 30 of the Northern Ireland (Emergency Provisions) Act 1996]; or
+
+(iii) without prejudice to sub-paragraph (ii) above, the resources of a proscribed organisation within the meaning of this Act or a proscribed organisation for the purposes of [[^F32]section 30 of the said Act of 1996]; and
+
+(b) investigations into whether there are grounds justifying the making of an order under section 1(2)(a) above or [[^F33]section 30(3) of the Act of 1996].
+
+[[^F34](2) A person is guilty of an offence if, knowing or having reasonable cause to suspect that a constable is acting, or is proposing to act, in connection with a terrorist investigation which is being, or is about to be, conducted, he—
+
+(a) discloses to any other person information or any other matter which is likely to prejudice the investigation or proposed investigation, or
+
+(b) falsifies, conceals or destroys or otherwise disposes of, or causes or permits the falsification, concealment, destruction or disposal of, material which is or is likely to be relevant to the investigation, or proposed investigation.
+
+(2A) A person is guilty of an offence if, knowing or having reasonable cause to suspect that a disclosure (“the disclosure”) has been made to a constable under section 12, 18 or 18A of this Act [^F35]. . ., he—
+
+(a) discloses to any other person information or any other matter which is likely to prejudice any investigation which might be conducted following the disclosure; or
+
+(b) falsifies, conceals or destroys or otherwise disposes of, or causes or permits the falsification, concealment, destruction or disposal of, material which is or is likely to be relevant to any such investigation.
+
+(2B) A person is guilty of an offence if, knowing or having reasonable cause to suspect that a disclosure (“the disclosure”) of a kind mentioned in section 12(4) or 18A(5) of this Act [^F36]. . . has been made, he—
+
+(a) discloses to any person information or any other matter which is likely to prejudice any investigation which might be conducted following the disclosure; or
+
+(b) falsifies, conceals or destroys or otherwise disposes of, or causes or permits the falsification, concealment, destruction or disposal of, material which is or is likely to be relevant to any such investigation.
+
+(2C) Nothing in subsections (2) to (2B) above makes it an offence for a professional legal adviser to disclose any information or other matter—
+
+(a) to, or to a representative of, a client of his in connection with the giving by the adviser of legal advice to the client; or
+
+(b) to any person—
+
+(i) in contemplation of, or in connection with, legal proceedings; and
+
+(ii) for the purpose of those proceedings.
+
+(2D) Subsection (2C) above does not apply in relation to any information or other matter which is disclosed with a view to furthering any criminal purpose.
+
+(2E) No constable or other person shall be guilty of an offence under this section in respect of anything done by him in the course of acting in connection with the enforcement, or intended enforcement, of any provision of this Act or of any other enactment relating to terrorism or the proceeds or resources of terrorism.]
+
+(3) In proceedings against a person for an offence under subsection (2)(a) above it is a defence to prove—
+
+(a) that he did not know and had no reasonable cause to suspect that the disclosure was likely to prejudice the investigation [[^F37]or proposed investigation]; or
+
+(b) that he had lawful authority or reasonable excuse for making the disclosure.
+
+[[^F38](3A) In proceedings against a person for an offence under subsection (2A)(a) or (2B)(a) above it is a defence to prove—
+
+(a) that he did not know and had no reasonable cause to suspect that his disclosure was likely to prejudice the investigation in question; or
+
+(b) that he had lawful authority or reasonable excuse for making his disclosure.]
+
+(4) In proceedings against a person for an offence under subsection (2)(b) above it is a defence to prove that he had no intention of concealing any information contained in the material in question from [[^F39]any person conducting, or likely to be conducting, the investigation or proposed investigation].
+
+[[^F40](4A) In proceedings against a person for an offence under subsection (2A)(b) or (2B)(b) above, it is a defence to prove that he had no intention of concealing any information contained in the material in question from any person who might carry out the investigation in question.]
+
+(5) A person guilty of an offence under subsection (2) [[^F41](2A) or (2B)] above is liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding five years or a fine or both;
+
+(b) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or both.
+
+[[^F42](6) For the purposes of subsection (1) above, as it applies in relation to any offence under section 18 or 18A below [^F43]. . ., “act” includes omission.]
+
+### 18 Information about acts of terrorism.
+
+(1) A person is guilty of an offence if he has information which he knows or believes might be of material assistance—
+
+(a) in preventing the commission by any other person of an act of terrorism connected with the affairs of Northern Ireland; or
+
+(b) in securing the apprehension, prosecution or conviction of any other person for an offence involving the commission, preparation or instigation of such an act,
+
+and fails without reasonable excuse to disclose that information as soon as reasonably practicable—
+
+(i) in England and Wales, to a constable;
+
+(ii) in Scotland, to a constable or the procurator fiscal; or
+
+(iii) in Northern Ireland, to a constable or a member of Her Majesty’s Forces.
+
+(2) A person guilty of an offence under this section is liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding five years or a fine or both;
+
+(b) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or both.
+
+(3) Proceedings for an offence under this section may be taken, and the offence may for the purposes of those proceedings be treated as having been committed, in any place where the person to be charged is or has at any time been since he first knew or believed that the information might be of material assistance as mentioned in subsection (1) above.
+
+### 18A [[^F44] Failure to disclose knowledge or suspicion of offences under sections 9 to 11.
+
+(1) A person is guilty of an offence if—
+
+(a) he knows, or suspects, that another person is providing financial assistance for terrorism;
+
+(b) the information, or other matter, on which that knowledge or suspicion is based came to his attention in the course of his trade, profession, business or employment; and
+
+(c) he does not disclose the information or other matter to a constable as soon as is reasonably practicable after it comes to his attention.
+
+(2) Subsection (1) above does not make it an offence for a professional legal adviser to fail to disclose any information or other matter which has come to him in privileged circumstances.
+
+(3) It is a defence to a charge of committing an offence under this section that the person charged had a reasonable excuse for not disclosing the information or other matter in question.
+
+(4) Where a person discloses to a constable—
+
+(a) his suspicion or belief that another person is providing financial assistance for terrorism; or
+
+(b) any information or other matter on which that suspicion or belief is based;
+
+the disclosure shall not be treated as a breach of any restriction imposed by statute or otherwise.
+
+(5) Without prejudice to subsection (3) or (4) above, in the case of a person who was in employment at the relevant time, it is a defence to a charge of committing an offence under this section that he disclosed the information or other matter in question to the appropriate person in accordance with the procedure established by his employer for the making of such disclosures.
+
+(6) A disclosure to which subsection (5) above applies shall not be treated as a breach of any restriction imposed by statute or otherwise.
+
+(7) In this section “providing financial assistance for terrorism” means doing any act which constitutes an offence under section 9, 10 or 11 above or, in the case of an act done otherwise than in the United Kingdom, which would constitute such an offence if done in the United Kingdom.
+
+(8) For the purposes of subsection (7) above, having possession of any property shall be taken to be doing an act in relation to it.
+
+(9) For the purposes of this section, any information or other matter comes to a professional legal adviser in privileged circumstances if it is communicated, or given, to him—
+
+(a) by, or by a representative of, a client of his in connection with the giving by the adviser of legal advice to the client;
+
+(b) by, or by a representative of, a person seeking legal advice from the adviser; or
+
+(c) by any person—
+
+(i) in contemplation of, or in connection with, legal proceedings; and
+
+(ii) for the purpose of those proceedings.
+
+(10) No information or other matter shall be treated as coming to a professional legal adviser in privileged circumstances if it is communicated or given with a view to furthering any criminal purpose.
+
+(11) A person guilty of an offence under this section shall be liable—
+
+(a) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or to both; or
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding five years or a fine or to both.]
+
+### 19 Prosecutions and evidence.
+
+(1) Proceedings shall not be instituted—
+
+(a) in England and Wales for an offence under section 2, 3, 8, 9, 10, 11, 17 [[^F45],18 or 18A] ] above or Schedule 7 to this Act except by or with the consent of the Attorney General; or
+
+[[^F46](aa) in England and Wales for an offence under section 13A, [[^F47]13B,]16A [[^F48]16B or 16D or under Schedule 6A] except by or with the consent of the Director of Public Prosecutions;]
+
+(b) in Northern Ireland for an offence under section 8, 9, 10, 11, 17 [[^F45],18 or 18A] above or Schedule 7 to this Act except by or with the consent of the Attorney General for Northern Ireland.
+
+(2) Any document purporting to be an order, notice or direction made or given by the Secretary of State for the purposes of any provision of this Act and to be signed by him or on his behalf shall be received in evidence, and shall, until the contrary is proved, be deemed to be made or given by him.
+
+(3) A document bearing a certificate purporting to be signed by or on behalf of the Secretary of State and stating that the document is a true copy of such an order, notice or direction shall, in any legal proceedings, be evidence, and in Scotland sufficient evidence, of the order, notice or direction.
+
+### 19A [[^F49] Extension of certain offences to Crown servants and exemptions for regulators etc.
+
+(1) The Secretary of State may by regulations provide that, in such circumstances as may be prescribed, sections 9 to 11, 17 and 18A above shall apply to such persons in the public service of the Crown, or such categories of person in that service, as may be prescribed.
+
+(2) Section 18A of this Act shall not apply to—
+
+(a) any person designated by regulations made by the Secretary of State for the purpose of this paragraph; or
+
+(b) in such circumstances as may be prescribed, any person who falls within such category of person as may be prescribed for the purpose of this paragraph.
+
+(3) The Secretary of State may designate, for the purpose of paragraph (a) of subsection (2) above, any person appearing to him to be performing regulatory, supervisory, investigative or registration functions.
+
+(4) The categories of person prescribed by the Secretary of State, for the purpose of paragraph (b) of subsection (2) above, shall be such categories of person connected with the performance by any designated person of regulatory, supervisory, investigative or registration functions as he considers it appropriate to prescribe.
+
+(5) In this section—
+
+- “the Crown” includes the Crown in right of Her Majesty’s Government in Northern Ireland; and
+- “prescribed” means prescribed by regulations made by the Secretary of State.
+
+(6) The power to make regulations under this section shall be exercisable by statutory instrument.
+
+(7) Any such instrument shall be subject to annulment in pursuance of a resolution of either House of Parliament.]
+
+### 20 Interpretation.
+
+(1) In this Act—
+
+- “aircraft” includes hovercraft;
+- “captain” means master of a ship or commander of an aircraft;[^F50]. . .
+- “examining officer” has the meaning given in paragraph 1 of Schedule 5 to this Act;
+- “exclusion order” has the meaning given by section 4(3) above but subject to section 25(3) below;
+- “the Islands” means the Channel Islands or the Isle of Man;
+- “port” includes airport and hoverport;
+- “premises” includes any place and in particular includes—
+
+(a) any vehicle, vessel or aircraft;
+
+(b) any offshore installation as defined in section 1 of the [^M13]Mineral Workings (Offshore Installations) Act 1971; and
+
+(c) any tent or moveable structure;
+
+- “property” includes property wherever situated and whether real or personal, heritable or moveable and things in action and other intangible or incorporeal property;
+- “ship” includes every description of vessel used in navigation;
+- “terrorism” means the use of violence for political ends, and includes any use of violence for the purpose of putting the public or any section of the public in fear;[^F51]. . .
+- “vehicle” includes a train and carriages forming part of a train.
+
+(2) A constable or examining officer may, if necessary, use reasonable force for the purpose of exercising any powers conferred on him under or by virtue of any provision of this Act other than paragraph 2 of Schedule 5; but this subsection is without prejudice to any provision of this Act, or of any instrument made under it, which implies that a person may use reasonable force in connection with that provision.
+
+(3) The powers conferred by Part II and section 16 of, and Schedules 2 and 5 to, this Act shall be exercisable notwithstanding the rights conferred by section 1 of the [^M14]Immigration Act 1971 (general principles regulating entry into and stay in the United Kingdom).
+
+(4) Any reference in a provision of this Act to a person having been concerned in the commission, preparation or instigation of acts of terrorism shall be taken to be a reference to his having been so concerned at any time, whether before or after the passing of this Act.
+
+## Part VI — Further Provisions for Northern Ireland
+
+### [^F52]21 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F53]22 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F54]23 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F55]24 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part VII — Supplementary
+
+### 25 Consequential amendments, repeals and transitional provisions.
+
+(1) The enactments mentioned in Schedule 8 to this Act shall have effect with the amendments there specified, being amendments consequential on the provisions of this Act.
+
+(2) The enactments mentioned in Part I of Schedule 9 to this Act are hereby repealed to the extent specified in the third column of that Schedule; and the Orders mentioned in Part II of that Schedule are hereby revoked.
+
+(3) Any exclusion order in force under any provision of Part II of the [^M15]Prevention of Terrorism (Temporary Provisions) Act 1984 (“the former Act") shall have effect as if made under the corresponding provision of Part II of this Act and references in this Act to an exclusion order shall be construed accordingly.
+
+(4) Any person who immediately before 22nd March 1989 is being detained under any provision of the former Act or of an order made under section 13 of that Act shall be treated as lawfully detained under the corresponding provision of this Act.
+
+(5) Paragraph 2 of Schedule 5 to this Act shall not apply in relation to a person whose examination under any corresponding provision of an order made under section 13 of the former Act has begun but has not been concluded before the coming into force of that paragraph, and that provision shall continue to apply to him but any reference in this Act to examination under that paragraph shall include a reference to examination under that corresponding provision.
+
+(6) The expiry of the former Act and its repeal by this Act shall not affect the operation of any Order in Council extending it to any of the Channel Islands or the Isle of Man; but any such Order may be revoked as if made under section 28(3) below and, notwithstanding anything contained in any such Order, shall continue in operation until revoked.
+
+### 26 Expenses and receipts.
+
+There shall be paid out of money provided by Parliament—
+
+(a) any expenses incurred under this Act by the Secretary of State or the Lord Advocate; and
+
+(b) any increase attributable to this Act in the sums payable out of such money under any other Act;
+
+and any sums received by the Secretary of State under this Act shall be paid into the Consolidated Fund.
+
+### 27 Commencement and duration.
+
+(1) Subject to subsections (2), (3) and (4) below, this Act shall come into force on 22nd March 1989.
+
+[[^F56](2) Sections 22 to 24 shall come into force on the day after that on which this Act is passed.]
+
+(3) Schedule 3 and paragraphs 8 to 10, 18 to 20, 28 to 30 and 34 of Schedule 4 shall come into force on such day as the Secretary of State may appoint by an order made by statutory instrument; and different days may be appointed for different provisions or different purposes and for England and Wales, for Scotland and for Northern Ireland.
+
+(4) The repeal by Schedule 9 of paragraph 9 of Schedule 7 shall come into force on the coming into force of the [^M16]Land Registration Act 1988.
+
+(5) The provisions of Parts I to V of this Act and of subsection (6)(c) below shall remain in force until 22nd March 1990 and shall then expire unless continued in force by an order under subsection (6) below.
+
+(6) The Secretary of State may by order made by statutory instrument provide—
+
+(a) that all or any of those provisions which are for the time being in force (including any in force by virtue of an order under this paragraph or paragraph (c) below) shall continue in force for a period not exceeding twelve months from the coming into operation of the order;
+
+(b) that all or any of those provisions which are for the time being in force shall cease to be in force; or
+
+(c) that all or any of those provisions which are not for the time being in force shall come into force again and remain in force for a period not exceeding twelve months from the coming into operation of the order.
+
+(7) No order shall be made under subsection (6) above unless—
+
+(a) a draft of the order has been laid before and approved by a resolution of each House of Parliament; or
+
+(b) it is declared in the order that it appears to the Secretary of State that by reason of urgency it is necessary to make the order without a draft having been so approved.
+
+(8) An order under that subsection of which a draft has not been approved under section (7) above—
+
+(a) shall be laid before Parliament; and
+
+(b) shall cease to have effect at the end of the period of forty days beginning with the day on which it was made unless, before the end of that period, the order has been approved by a resolution of each House of Parliament, but without prejudice to anything previously done or to the making of a new order.
+
+(9) In reckoning for the purposes of subsection (8) above the period of forty days no account shall be taken of any period during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days.
+
+(10) In subsection (5) above the reference to Parts I to V of this Act does not include a reference to the provisions of Parts III and V so far as they have effect in Northern Ireland and relate to proscribed organisations for the purposes of [[^F57]section 30 of the Northern Ireland (Emergency Provisions) Act 1996] or offences or orders under that section.
+
+[[^F58](11) The provisions excluded by subsection (10) above from subsection (5) shall remain in force until [[^F59]15th June 1999] and then expire but shall be—
+
+(a) included in the provisions to which subsection (3) of section 62 of the said Act of 1996 applies (provisions that can be continued in force, repealed or revived by order); and
+
+(b) treated as part of that Act for the purposes of subsection (10) of that section [[^F60](repeal at end of 24th August 2000)].]
+
+[[^F61](12) The expiry or cesser of sections 22 and 23 above shall not affect the operation of those sections in relation to an offence committed while they where in force.]
+
+### 28 Short title and extent.
+
+(1) This Act may be cited as the Prevention of Terrorism (Temporary Provisions) Act 1989.
+
+(2) This Act extends to the whole of the United Kingdom except that—
+
+(a) Part I [[^F62], sections 13A][[^F63]13B]and 15(1) and [[^F64]Part IVA and IVB] do not extend to Northern Ireland and [[^F65]sections 21 to 24], Part III of Schedule 4 and the repeal in Schedule 9 relating to the Explosives Act 1875 extend only to Northern Ireland;
+
+(b) section 15(10) [[^F66]to (14)], Part I of Schedule 4 [^F67]. . .paragraph 7(6) [[^F66]to (6D)]of Schedule 5 [[^F68], paragraph 7of Schedule 6A and paragraph 2A of Schedule 7] extend only to England and Wales;
+
+(c) Part II of Schedule 4 [[^F69], paragraph 8 of Schedule 6A] and Part II of Schedule 7 extend only to Scotland;
+
+(d) Part I of Schedule 7 [[^F70]except paragraph 2A]extends only to England, Wales and Northern Ireland; and
+
+(e) subject to paragraph (a) above, the amendments and repeals in Schedules 8 and 9 have the same extent as the enactments to which they refer.
+
+(3) Her Majesty may by Order in Council direct that any of the provisions of this Act shall extend, with such exceptions, adaptations and modifications, if any, as may be specified in the Order, to any of the Channel Islands and the Isle of Man.
+
+## SCHEDULE 1 — Proscribed Organisations
+
+*Section 1.*
+
+Irish Republican Army
+
+Irish National Liberation Army
+
+## SCHEDULE 2 — Exclusion Orders
+
+*Section 4(4).*
+
+### Duration
+
+**1** (1) An exclusion order may be revoked at any time by a further order made by the Secretary of State.
+
+(2) An exclusion order shall, unless revoked earlier, expire at the end of the period of three years beginning with the day on which it is made.
+
+(3) The fact that an exclusion order against a person has been revoked or has expired shall not prevent the making of a further exclusion order against him.
+
+[[^F71](4) The fact that the Secretary of State has decided at any time not to make an exclusion order against a person on whom a notice has been served under paragraph 2(1) below shall not prevent the Secretary of State from making an exclusion order against him after a further notice has been served on him under that provision.]
+
+### [[^F72]Notice that exclusion order is being considered]
+
+**[[^F73]2** (1) Where the Secretary of State is considering whether to make an exclusion order against a person—
+
+(a) if the person is in the United Kingdom, notice in writing shall be served on him that the Secretary of State is considering that question; and
+
+(b) if the person is not in the United Kingdom, notice in writing may be served on him that the Secretary of State is considering that question.
+
+(2) A notice under sub-paragraph (1) above shall—
+
+(a) specify whether the order under consideration is an order under section 5, 6 or 7 of this Act; and
+
+(b) set out the rights afforded by paragraph 4 below and specify the manner in which those rights are to be exercised.
+
+(3) Where a person on whom notice is served under sub-paragraph (1) above is not for the time being detained by virtue of this Act, the notice may be served on him by posting it to him at his last known address.]
+
+### [[^F74]Advice]
+
+**[[^F75]3** Where notice is served on a person under paragraph 2(1) above, the matter shall be referred for the advice of one or more persons nominated by the Secretary of State.]
+
+### [[^F76]Representations and interview]
+
+**[[^F77]4** (1) Where a person on whom notice is served under paragraph 2(1) above objects to the making against him of the exclusion order under consideration, he may—
+
+(a) make representations in writing to the Secretary of State setting out the grounds of his objections; and
+
+(b) include in those representations a request for a personal interview with the person or persons nominated by the Secretary of State under paragraph 3 above.
+
+(2) The person on whom the notice is served may exercise the rights conferred by sub-paragraph (1) above—
+
+(a) if he is outside the relevant territory when the notice is served, within fourteen days of the service of the notice;
+
+(b) if he is inside the relevant territory when the notice is served but departs with the Secretary of State’s approval within seven days of the service of the notice, within fourteen days of his departure; and
+
+(c) in any other case, within seven days of the service of the notice.
+
+(3) In sub-paragraph (2) above “the relevant territory" means—
+
+(a) Great Britain if the notice relates to the making of an order under section 5 of this Act;
+
+(b) Northern Ireland if it relates to the making of an order under section 6 of this Act; and
+
+(c) the United Kingdom if it relates to the making of an order under section 7 of this Act.
+
+(4) A person who requests a personal interview under sub-paragraph (1)(b) above shall be granted one unless—
+
+(a) sub-paragraph (2)(a) or (b) above applies to him; and
+
+(b) it appears to the Secretary of State that it is not reasonably practicable to grant him such an interview in an appropriate country or territory within a reasonable period from the date on which he made his representations.
+
+(5) Where, in the case of a person to whom sub-paragraph (2)(a) or (b) above applies, it appears to the Secretary of State that it is reasonably practicable to grant him a personal interview in more than one appropriate country or territory, the Secretary of State may grant him the personal interview in whichever of them he thinks fit.
+
+(6) In sub-paragraphs (4) and (5) above “appropriate country or territory" means—
+
+(a) Northern Ireland or the Republic of Ireland if the notice served on the person under paragraph 2(1) above relates to the making of an order under section 5 of this Act;
+
+(b) Great Britain or the Republic of Ireland if it relates to the making of an order under section 6 of this Act; and
+
+(c) the Republic of Ireland if it relates to the making of an order under section 7 of this Act.
+
+(7) It is for the Secretary of State to determine the place in any country or territory at which a personal interview is to be granted under this paragraph.]
+
+### [[^F78]Making of exclusion order]
+
+**[[^F79]5** (1) In deciding whether to make an exclusion order against any person, the Secretary of State shall take into account everything which appears to him to be relevant; and where a notice has been served on the person concerned under paragraph 2(1) above the Secretary of State shall in particular take account of—
+
+(a) the advice of the person or persons to whom the matter was referred under paragraph 3 above;
+
+(b) any representations made by the person under paragraph 4 above; and
+
+(c) the report of any personal interview granted under that paragraph.
+
+(2) The question whether to make an exclusion order against a person on whom notice has been served under paragraph 2(1) above shall be decided as soon as is reasonably practicable after—
+
+(a) the Secretary of State has received the advice of the person or persons to whom the matter was referred under paragraph 3 above; and
+
+(b) sub-paragraph (3) below is satisfied.
+
+(3) This sub-paragraph is satisfied if—
+
+(a) the Secretary of State has received representations made by the person under paragraph 4 above and the report of any personal interview granted under that paragraph;
+
+(b) the Secretary of State has received from the person a statement in writing that he does not intend to make representations under that paragraph; or
+
+(c) the period during which the person may make representations under that paragraph has expired.
+
+(4) If the Secretary of State—
+
+(a) makes an exclusion order against a person; or
+
+(b) decides not to make an exclusion order against a person on whom notice has been served under paragraph 2(1) above,
+
+notice in writing of the making of the order or the decision not to make an order shall be served on him if it is reasonably practicable to do so.]
+
+### [[^F80]Detention pending decision whether to make exclusion order]
+
+**[[^F81]5A** (1) A person on whom notice has been served under paragraph 2(1) above may be detained under the authority of the Secretary of State until the Secretary of State has either made an exclusion order against him or decided not to make an exclusion order against him.
+
+(2) A person liable to be detained under sub-paragraph (1) above may be arrested without warrant by an examining officer.
+
+(3) The power of detention and the power of arrest conferred by sub-paragraphs (1) and (2) above are exercisable only—
+
+(a) in Great Britain if the notice relates to the making of an order under section 5 of this Act; and
+
+(b) in Northern Ireland if it relates to the making of an order under section 6 of this Act.
+
+(4) A person may be removed from a vehicle for detention under this paragraph.]
+
+### Removal directions
+
+**6** (1) The Secretary of State may in accordance with the following provisions of this paragraph give directions for the removal from the relevant territory of any person subject to an exclusion order; but a person shall not be removed in pursuance of the directions until notice of the making of the order has been served on him [^F82]. . ..
+
+(2) Directions under this paragraph above may be—
+
+(a) directions given to the captain of a ship or aircraft about to leave the relevant territory requiring him to remove the person in question from that territory in that ship or aircraft; or
+
+(b) directions given to the owners or agents of any ship or aircraft requiring them to make arrangements for the removal from the relevant territory of the person in question in a ship or aircraft specified or indicated in the directions; or
+
+(c) directions for the removal from the relevant territory of the person in question in accordance with arrangements to be made by the Secretary of State;
+
+and any such directions shall specify the country or territory to which the person in question is to be removed.
+
+(3) Directions under this paragraph may also be given for the removal of a person by land to the Republic of Ireland; and those directions may be—
+
+(a) directions given to the driver or owner of any vehicle (being, in the case of a private vehicle, one in which that person arrived in Northern Ireland) requiring him to remove the person in question to the Republic of Ireland in a vehicle specified in the directions; or
+
+(b) directions for the removal of the person in question in accordance with arrangements to be made by the Secretary of State.
+
+(4) No directions under this paragraph shall be for the removal of a person to any country or territory other than one—
+
+(a) of which the person in question is a national or citizen;
+
+(b) in which he obtained a passport or other document of identity; or
+
+(c) to which there is reason to believe that he will be admitted;
+
+and no such directions shall be given for the removal of a British citizen, a British Dependent Territories citizen, a British Overseas citizen or a British National (Overseas) to a country or territory outside the United Kingdom unless he is also a national or citizen of, or has indicated that he is willing to be removed to, that country or territory.
+
+(5) Where—
+
+(a) a person is found on examination under Schedule 5 to this Act to be subject to an exclusion order; or
+
+(b) an exclusion order is made against a person following such an examination,
+
+the power to give directions for his removal under any provision of this paragraph except sub-paragraphs (2)(c) and (3)(b) shall be exercisable by an examining officer as well as by the Secretary of State; and where any such person has arrived in a ship or aircraft (including arrival as a transit passenger, member of the crew or other person not seeking to enter Great Britain or Northern Ireland) the countries or territories to which he may be directed to be removed under sub-paragraph (2) above include the country or territory in which he embarked on that ship or aircraft.
+
+(6) A person in respect of whom directions are given under this paragraph may be placed under the authority of the Secretary of State or an examining officer on board any ship or aircraft or, as the case may be, in or on any vehicle in which he is to be removed in accordance with the directions.
+
+(7) The costs of complying with any directions under this paragraph shall be defrayed by the Secretary of State.
+
+(8) Any person who without reasonable excuse fails to comply with directions given to him under this paragraph is guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding three months or a fine not exceeding level 4 on the standard scale or both.
+
+(9) In this paragraph “the relevant territory” means—
+
+(a) in relation to a person subject to an exclusion order made under section 5 of this Act, Great Britain;
+
+(b) in relation to a person subject to an exclusion order made under section 6 of this Act, Northern Ireland; and
+
+(c) in relation to a person subject to an exclusion order made under section 7 of this Act, the United Kingdom.
+
+### Detention pending removal
+
+**7** (1) A person in respect of whom directions for removal may be given under paragraph 6 above may be detained pending the giving of such directions and pending removal in pursuance of the directions under the authority of the Secretary of State or, if the directions are to be or have been given by an examining officer, of such an officer.
+
+(2) A person liable to be detained under this paragraph may be arrested without warrant by an examining officer.
+
+(3) The captain of a ship or aircraft, if so required by an examining officer, shall prevent any person placed on board the ship or aircraft under paragraph 6 above from disembarking in the relevant territory or, before the directions for his removal have been fulfilled, elsewhere.
+
+(4) Where under sub-paragraph (3) above the captain of a ship or aircraft is required to prevent a person from disembarking he may for that purpose detain him in custody on board the ship or aircraft.
+
+(5) The captain of a ship or aircraft who fails to take reasonable steps to comply with a requirement imposed under sub-paragraph (3) above is guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding six months or a fine not exceeding level 4 on the standard scale or both.
+
+(6) A person may be removed from a vehicle for detention under this paragraph.
+
+(7) In this paragraph “therelevant territory” has the same meaning as in paragraph 6 above.
+
+### Detention : supplementary provisions
+
+**8** (1) If a justice of the peace is satisfied that there are reasonable grounds for suspecting that a person liable to be arrested under paragraph [[^F83]5A(2) or] 7(2) above is to be found on any premises he may grant a search warrant authorising any constable to enter those premises for the purpose of searching for and arresting that person.
+
+(2) In Scotland the power to issue a warrant under sub-paragraph (1) above shall be exercised by a sheriff or a justice of the peace, an application for such a warrant shall be supported by evidence on oath and a warrant shall not authorise a constable to enter any premises unless he is a constable for the police area in which they are situated.
+
+(3) In Northern Ireland an application for a warrant under sub-paragraph (1) above shall be made by a complaint on oath.
+
+(4) A person detained under this Schedule shall be deemed to be in legal custody at any time when he is so detained and, if detained otherwise than on board a ship or aircraft, may be detained in such a place as the Secretary of State may from time to time direct.
+
+(5) Where a person is detained under this Schedule, any examining officer, constable or prison officer, or any other person authorised by the Secretary of State, may take all such steps as may be reasonably necessary for photographing, measuring or otherwise identifying him.
+
+(6) Any person detained under this Schedule may be taken in the custody of a constable or an examining officer, or of any person acting under the authority of an examining officer, to and from any place where his attendance is required for the purpose of establishing his nationality or citizenship or for making arrangements for his admission to a country or territory outside the United Kingdom or where he is required to be for any other purpose connected with the operation of this Act.
+
+### Exemption from exclusion orders
+
+**9** (1) When any question arises under this Act whether a person is exempted from the provisions of section 5, 6 or 7 of this Act it shall be for the person asserting that he is exempt to prove it.
+
+(2) A person is not to be treated as ordinarily resident in Great Britain for the purposes of the exemption in section 5(4)(a) of this Act or in Northern Ireland for the purpose of the exemption in section 6(4)(a) of this Act at a time when he is there in breach of—
+
+(a) an exclusion order; or
+
+(b) the [^M17]Immigration Act 1971 or any law for purposes similar to that Act in force in the United Kingdom after the passing of this Act.
+
+(3) In each of those exemptions “the last three years” is to be taken as a period amounting in total to three years exclusive of any time during which the person claiming exemption was undergoing imprisonment or detention for a period of six months or more by virtue of a sentence passed for an offence on a conviction in the United Kingdom or in any of the Islands.
+
+(4) In sub-paragraph (3) above—
+
+(a) “sentence” includes any order made on conviction of an offence;
+
+(b) two or more sentences for consecutive (or partly consecutive) terms shall be treated as a single sentence;
+
+(c) a person shall be deemed to be detained by virtue of a sentence—
+
+(i) at any time when he is liable to imprisonment or detention by virtue of the sentence but is unlawfully at large; and
+
+(ii) during any period of custody by which under any relevant enactment the term to be served under the sentence is reduced.
+
+(5) In sub-paragraph (4)(c)(ii) above “relevant enactment” means section 67 of the [^M18]Criminal Justice Act 1967 and any similar enactment which is for the time being or has (before or after the passing of this Act) been in force in any part of the United Kingdom or in any of the Islands.
+
+## SCHEDULE 3 — Supervision of Detention and Examination Powers
+
+*Sections 4(5), 14(6) and 16(2).*
+
+### Detention pending removal
+
+**1** (1) Where a person is detained under paragraph 7 of Schedule 2 to this Act under the authority of an examining officer his detention shall be periodically reviewed in accordance with this paragraph by a review officer and shall not continue unless that officer has authorised it to continue.
+
+(2) The reviews shall be carried out as follows—
+
+(a) the first review shall be as soon as practicable after the beginning of the detention; and
+
+(b) the subsequent reviews shall be at intervals of not more than twelve hours.
+
+(3) On any such review the review officer shall authorise the continued detention of the person in question if, and only if, he is satisfied that steps for giving directions for his removal or for removing him in pursuance of the directions are being taken diligently and expeditiously.
+
+### Examination without detention
+
+**2** (1) Where a person has been required by a notice under paragraph 2(4) of Schedule 5 to this Act to submit to further examination but is not detained under paragraph 6 of that Schedule his further examination shall be reviewed by a review officer not later than twelve hours after the beginning of the examination and shall not continue unless that officer has authorised it to continue.
+
+(2) The review officer shall authorise the examination to continue if, and only if, he is satisfied that the enquiries necessary to complete the examination are being carried out diligently and expeditiously.
+
+### Detention for examination or as suspected person
+
+**3** (1) Where a person is detained under section 14 of this Act or under paragraph 6 of Schedule 5 to this Act his detention shall be periodically reviewed in accordance with this paragraph by a review officer and shall not continue unless—
+
+(a) that officer has authorised it to continue; or
+
+(b) an application has been made to the Secretary of State for an extension of the period of detention under subsection (5) of that section or sub-paragraph (3) of that paragraph.
+
+(2) The reviews shall be carried out as follows—
+
+(a) the first review shall be as soon as practicable after the beginning of the detention; and
+
+(b) the subsequent reviews shall be at intervals of not more than twelve hours;
+
+and no review shall be carried out after such an application as is mentioned in sub-paragraph (1)(b) above has been made.
+
+(3) Subject to sub-paragraph (4) below, on any such review the review officer shall authorise the continued detention of the person in question if, and only if, he is satisfied—
+
+(a) that his continued detention is necessary in order to obtain (whether by questioning him or otherwise) or to preserve evidence which—
+
+(i) relates to an offence under section 2, 8, 9, 10 or 11 of this Act [[^F84]or under section 30 of the Northern Ireland (Emergency Provisions) Act 1996 (in the case of detention under section 14 of this Act) or under section 8 of this Act](in the case of detention under paragraph 6 of Schedule 5);
+
+(ii) indicates that he is or has been concerned in the commission, preparation or instigation of acts of terrorism to which section 14 of this Act applies; or
+
+(iii) indicates that he is subject to an exclusion order; and
+
+(b) that the investigation in connection with which that person is detained is being conducted diligently and expeditiously.
+
+(4) The review officer may also authorise the continued detention of the person in question—
+
+(a) pending consideration of the question whether he is subject to an exclusion order;
+
+(b) pending consideration by the Secretary of State whether [^F85]. . .to serve him with notice of a decision to make a deportation order under the [^M19]Immigration Act 1971;
+
+(c) pending a decision by the Director of Public Prosecutions or Attorney General or, as the case may be, the Lord Advocate or the Director of Public Prosecutions or Attorney General for Northern Ireland whether proceedings for an offence should be instituted against him; or
+
+(d) if he is satisfied as to the matters specified in sub-paragraph (5) below.
+
+(5) The matters referred to in sub-paragraph (4)(d) above are—
+
+(a) that the continued detention of the person in question is necessary—
+
+(i) pending a decision whether to apply to the Secretary of State for an exclusion order to be made in respect of him or for notice of a decision to make a deportation order under the Immigration Act 1971 to be served on him; or
+
+(ii) pending the making of such an application; and
+
+(b) that consideration of that question is being undertaken, or preparation of the application is being proceeded with, diligently and expeditiously.
+
+### The review officer
+
+**4** The review officer shall be an officer who has not been directly involved in the matter in connection with which the person in question is detained or examined and—
+
+(a) in the case of a review carried out within twenty-four hours of the beginning of that person’s detention or in the case of a review under paragraph 2 above, shall be an officer of at least the rank of inspector;
+
+(b) in the case of any other review, shall be an officer of at least the rank of superintendent.
+
+### Postponement of reviews
+
+**5** (1) A review may be postponed—
+
+(a) if, having regard to all the circumstances prevailing at the latest time specified in paragraph 1(2), 2(1) or 3(2) above, it is not practicable to carry out the review at that time;
+
+(b) without prejudice to the generality of paragraph (a) above—
+
+(i) if at that time the person in detention or being examined is being questioned by a police officer or an examining officer and the review officer is satisfied that an interruption of the questioning for the purpose of carrying out the review would prejudice the investigation in connection with which the person is being detained or examined; or
+
+(ii) if at that time no review officer is readily available.
+
+(2) If a review is postponed under this paragraph it shall be carried out as soon as practicable after the latest time specified for it under the relevant provision mentioned in sub-paragraph (1)(a) above.
+
+(3) If a review is carried out after postponement under this paragraph, the fact that it was so carried out shall not affect any requirement of this Schedule as to the time at which any subsequent review is to be carried out.
+
+### Representations about detention
+
+**6** (1) Before determining whether to authorise a person’s continued detention the review officer shall give—
+
+(a) that person (unless he is asleep); or
+
+(b) any solicitor representing him who is available at the time of the review,
+
+an opportunity to make representations to him about the detention.
+
+(2) Subject to sub-paragraph (3) below, the person whose detention is under review or his solicitor may make representations under this paragraph either orally or in writing.
+
+(3) The review officer may refuse to hear oral representations from the person whose detention is under review if he considers that he is unfit to make such representations by reason of his condition or behaviour.
+
+### Rights of detained persons
+
+**7** (1) Where the review officer authorises a person’s continued detention and at that time that person has not yet exercised a right conferred on him by section 56 or 58 of the [^M20]Police and Criminal Evidence Act 1984 (right of arrested person to have someone informed and to have access to legal advice) the review officer shall inform him of that right and, if its exercise is being delayed in accordance with the provisions of the section in question, that it is being so delayed.
+
+(2) Where a review of a person’s detention is carried out under paragraph 1 or 3 above at a time when his exercise of a right conferred by either of those sections is being delayed—
+
+(a) the review officer shall consider whether the reason or reasons for which the delay was authorised continue to subsist; and
+
+(b) if he is not himself the officer who authorised the delay and is of the opinion that the reason or reasons have ceased to subsist, he shall inform that officer of his opinion.
+
+(3) In the application of this paragraph to Scotland for the references to sections 56 and 58 of the said Act of 1984 there shall be substituted a reference to section 3A of the [^M21]Criminal Justice (Scotland) Act 1980.
+
+(4) In the application of this paragraph to Northern Ireland for the references to sections 56 and 58 of the said Act of 1984 there shall be substituted references to [[^F86]sections 46 and 47of the Northern Ireland (Emergency Provisions) Act 1996].
+
+### Records of review
+
+**8** (1) The review officer carrying out a review under this Schedule shall make a written record of the outcome of the review, including, where the continued detention or examination of the person in question is authorised, the grounds for authorisation and, where a review is postponed, the reason for the postponement.
+
+(2) The record required by this paragraph shall be made in the presence of the person detained or examined and, where his continued detention or examination is authorised, he shall at that time be told the grounds for the authorisation.
+
+(3) Sub-paragraph (2) above shall not apply where the person detained or examined is, at the time when the written record is made—
+
+(a) incapable of understanding what is said to him;
+
+(b) violent or likely to become violent; or
+
+(c) in urgent need of medical attention.
+
+(4) Where the review officer informs a detained person of the matters mentioned in sub-paragraph (1) of paragraph 7 above he shall make a written record of the fact that he has done so.
+
+(5) The review officer shall also make a written record of his conclusion on the matter which he is required to consider under sub-paragraph (2)(a) of that paragraph, and, if he has taken action in accordance with sub-paragraph (2)(b) of that paragraph, of the fact that he has done so.
+
+### Intervention by superior officer
+
+**9** Where the review officer is of a rank lower than superintendent and—
+
+(a) an officer of higher rank than the review officer gives directions relating to the person detained or examined; and
+
+(b) the directions are at variance—
+
+(i) with any decision made or action taken by the review officer in the performance of a duty imposed on him by this Schedule; or
+
+(ii) with any decision or action which would but for the directions have been made or taken by him in the performance of that duty,
+
+the review officer shall refer the matter at once to an officer of the rank of superintendent or above.
+
+## SCHEDULE 4 — Forfeiture Orders
+
+*Section 13(8).*
+
+### Part I — England and Wales
+
+#### Implementation of forfeiture orders
+
+**1** (1) Where a court in England and Wales makes an order under section 13(2), (3) or (4) of this Act (in this Part of this Schedule referred to as a “forfeiture order") it may make an order—
+
+(a) requiring any money or other property to which the forfeiture order applies to be paid or handed over to the proper officer or to a constable designated for the purpose by the chief officer of police of a police force specified in the order;
+
+(b) directing any such property other than money or land to be sold or otherwise disposed of in such manner as the court may direct and the proceeds to be paid to the proper officer;
+
+(c) appointing a receiver to take possession, subject to such conditions and exceptions as may be specified by the court, of any such property which is land, to realise it in such manner as the court may direct and to pay the proceeds to the proper officer;
+
+(d) directing a specified part of any money, or of the proceeds of the sale, disposal or realisation of any property, to which the forfeiture order applies to be paid by the proper officer to or for a specified person falling within section 13(6) of this Act;
+
+(e) making such other provision as appears to the court to be necessary for giving effect to the forfeiture order or to any order made by virtue of paragraph (a), (b), (c) or (d) above.
+
+(2) A forfeiture order shall not come into force until (disregarding any power of a court to grant leave to appeal out of time) there is no further possibility of the order being set aside.
+
+(3) Any balance in the hands of the proper officer after making any payment required under sub-paragraph (1)(d) above or paragraph 2 below shall be treated for the purposes of [[^F87]section 60 of the Justices of the Peace Act 1997] (application of fines etc.) as if it were a fine imposed by a magistrates’ court.
+
+(4) The proper officer shall, on the application of the prosecutor or defendant in the proceedings in which a forfeiture order is made, certify in writing the extent (if any) to which, at the date of the certificate, effect has been given to the order in respect of the money or other property to which it applies.
+
+(5) In this paragraph “the proper officer” means, where the forfeiture order is made by a magistrates’ court, the clerk of that court and, where the order is made by the Crown Court —
+
+(a) the clerk of the magistrates’ court by which the defendant was committed to the Crown Court; or
+
+(b) if the proceedings were instituted by a bill of indictment preferred by virtue of section 2(2)(b) of the [^M22]Administration of Justice (Miscellaneous Provisions) Act 1933, the clerk of the magistrates’ court for the place where the trial took place;
+
+and in this sub-paragraph references to the clerk of a magistrates’ court shall be construed in accordance with section 141 of the [^M23]Magistrates’ Courts Act 1980 taking references to that Act as references to this Act.
+
+(6) In this paragraph references to the proceeds of the sale, disposal or realisation of property are references to the proceeds after deduction of the costs of sale, disposal or realisation.
+
+(7) This paragraph has effect to the exclusion of section 140 of the said Act of 1980.
+
+**2** (1) Where a receiver appointed under paragraph 1 above takes any action—
+
+(a) in relation to property which is not subject to forfeiture, being action which he would be entitled to take if it were such property;
+
+(b) believing, and having reasonable grounds for believing, that he is entitled to take that action in relation to that property,
+
+he shall not be liable to any person in respect of any loss or damage resulting from his action except in so far as the loss or damage is caused by his negligence.
+
+(2) A receiver appointed under paragraph 1 above shall be entitled to be paid his remuneration and expenses out of the proceeds of the property realised by him or, if and so far as those proceeds are insufficient, by the prosecutor.
+
+#### Restraint orders
+
+**3** (1) The High Court may in accordance with this paragraph by an order (referred to in this Part of this Schedule as a “restraint order") prohibit any person, subject to such conditions and exceptions as may be specified in the order, from dealing with any property liable to forfeiture, that is to say, any property in respect of which a forfeiture order has been made or in respect of which such an order could be made in the proceedings referred to in sub-paragraph (2) or (3) below.
+
+(2) A restraint order may be made where—
+
+(a) proceedings have been instituted against a defendant in England or Wales for an offence under Part III of this Act;
+
+(b) the proceedings have not been concluded; and
+
+(c) either a forfeiture order has been made or it appears to the court that there are reasonable grounds for thinking that a forfeiture order may be made in those proceedings.
+
+(3) A restraint order may also be made where—
+
+(a) the court is satisfied that, whether by the laying of an information or otherwise, a person is to be charged in England and Wales with an offence under Part III of this Act; and
+
+(b) it appears to the court that a forfeiture order may be made in proceedings for the offence.
+
+(4) In the application of the provisions of this Part of this Schedule at a time when a restraint order may be made by virtue of sub-paragraph (3) above references to the prosecutor shall be construed as references to the person who the High Court is satisfied is to have the conduct of the proposed proceedings.
+
+(5) Where the court has made an order under this paragraph by virtue of sub-paragraph (3) above the court may discharge the order if proceedings in respect of the offence are not instituted (whether by the laying of an information or otherwise) within such time as the court considers reasonable.
+
+(6) For the purposes of this paragraph, dealing with property includes, without prejudice to the generality of that expression—
+
+(a) where a debt is owed to the person concerned, making a payment to any person in reduction of the amount of the debt; and
+
+(b) removing the property from the jurisdiction of the High Court.
+
+(7) In exercising the powers conferred by this paragraph the court shall not take account of any obligations of any person having an interest in the property subject to the restraint order which might frustrate the making of a forfeiture order.
+
+(8) For the purposes of this paragraph proceedings for an offence are instituted—
+
+(a) when a justice of the peace issues a summons or warrant under section 1 of the [^M24]Magistrates’ Courts Act 1980 in respect of that offence;
+
+(b) when a person is charged with the offence after being taken into custody without a warrant;
+
+(c) when a bill of indictment is preferred by virtue of section 2(2)(b) of the [^M25]Administration of Justice (Miscellaneous Provisions) Act 1933;
+
+and where the application of this sub-paragraph would result in there being more than one time for the institution of proceedings they shall be taken to be instituted at the earliest of those times.
+
+(9) For the purposes of this paragraph and paragraph 4 below proceedings are concluded—
+
+(a) when a forfeiture order has been made in those proceedings and effect has been given to it in respect of all the money or other property to which it applies; or
+
+(b) when (disregarding any power of a court to grant leave to appeal out of time) there is no further possibility of a forfeiture order being made in the proceedings.
+
+**4** (1) A restraint order—
+
+(a) may be made only on an application by the prosecutor;
+
+(b) may be made on an ex parte application to a judge in chambers; and
+
+(c) shall provide for notice to be given to persons affected by the order.
+
+(2) A restraint order—
+
+(a) may be discharged or varied in relation to any property; and
+
+(b) shall be discharged when proceedings for the offence are concluded.
+
+(3) An application for the discharge or variation of a restraint order may be made by any person affected by it.
+
+**5** (1) Where the High Court has made a restraint order a constable may for the purpose of preventing any property subject to the order being removed from the jurisdiction of the court seize that property.
+
+(2) Property seized under this paragraph shall be dealt with in accordance with the court’s directions.
+
+**6** (1) The [^M26]Land Charges Act 1972 and the [^M27]Land Registration Act 1925 shall apply—
+
+(a) in relation to restraint orders as they apply in relation to orders affecting land made by the court for the purpose of enforcing judgments or recognizances; and
+
+(b) in relation to applications for restraint orders as they apply in relation to other pending land actions.
+
+(2) The prosecutor shall be treated for the purposes of section 57 of the Land Registration Act 1925 (inhibitions) as a person interested in relation to any registered land to which a restraint order or an application for such an order relates.
+
+#### Compensation
+
+**7** (1) If proceedings are instituted against a person for an offence under Part III of this Act and either—
+
+(a) the proceedings do not result in his conviction for any such offence; or
+
+(b) where he is convicted of one or more such offences—
+
+(i) the conviction or convictions concerned are quashed; or
+
+(ii) he is pardoned by Her Majesty in respect of the conviction or convictions concerned,
+
+the High Court may, on an application by a person who had an interest in any property which was subject to a forfeiture or restraint order made in or in relation to those proceedings, order compensation to be paid to the applicant if, having regard to all the circumstances, it considers it appropriate to do so.
+
+(2) The High Court shall not order compensation to be paid in any case unless it is satisfied—
+
+(a) that there is some serious default on the part of a person concerned in the investigation or prosecution of the offence concerned, being a person mentioned in sub-paragraph (5) below; and
+
+(b) that the applicant has suffered loss in consequence of anything done in relation to the property by or in pursuance of an order under this Part of this Schedule.
+
+(3) The court shall not order compensation to be paid in any case where it appears to it that the proceedings would have been instituted even if the serious default had not occurred.
+
+(4) The amount of compensation to be paid under this paragraph shall be such as the High Court thinks just in all the circumstances of the case.
+
+(5) Compensation payable under this paragraph shall be paid—
+
+(a) where the person in default was or was acting as a member of a police force, out of the police fund out of which the expenses of that police force are met;
+
+(b) where the person in default was a member of the Crown Prosecution Service or acting on behalf of the Service, by the Director of Public Prosecutions.
+
+(6) Sub-paragraph (8) of paragraph 3 above applies for the purposes of this paragraph as it applies for the purposes of that paragraph.
+
+#### Enforcement of orders made elsewhere in the British Islands
+
+**8** (1) In the following provisions of this Part of this Schedule—
+
+- “a Scottish order” means—
+
+(a) an order made in Scotland under section 13(2), (3) or (4) of this Act (“a Scottish forfeiture order");
+
+(b) an order made under paragraph 13 below (“a Scottish restraint order"); or
+
+(c) an order made under any other provision of Part II of this Schedule in relation to a Scottish forfeiture or restraint order;
+
+- “a Northern Ireland” order means—
+
+(a) an order made in Northern Ireland under section 13(2), (3) or (4) of this Act (“a Northern Ireland forfeiture order");
+
+[[^F88](b) an order made under paragraph 23 or 25A below (“a Northern Ireland restraint order"); or]
+
+(c) an order made under any other provision of Part III of this Schedule in relation to a Northern Ireland forfeiture or restraint order;
+
+- “an Islands order” means—
+
+(a) an order made in any of the Islands under section 13(2), (3) or (4) of this Act as extended to that Island under section 28(3) of this Act (“an Islands forfeiture order");
+
+(b) an order under paragraph 3 above as so extended (“an Islands restraint order"); or
+
+(c) an order made under any other provision of this Part of this Schedule as so extended in relation to an Islands forfeiture or restraint order.
+
+(2) In paragraphs (a), (b) and (c) of the definition of “an Islands order" the reference to a provision of this Act as extended to an Island under section 28(3) of this Act includes a reference to any other provision of the law of that Island for purposes corresponding to that provision.
+
+**9** (1) A Scottish order, Northern Ireland order or Islands order shall, subject to the provisions of this paragraph, have effect in the law of England and Wales but shall be enforced in England and Wales only in accordance with the provisions of this paragraph and any provision made by rules of court as to the manner in which and the conditions subject to which such orders are to be enforced there.
+
+(2) The High Court shall, on an application made to it in accordance with rules of court for registration of a Scottish order, Northern Ireland order or Islands order, direct that the order shall, in accordance with such rules, be registered in that court.
+
+(3) Rules of court shall also make provision—
+
+(a) for cancelling or varying the registration of a Scottish, Northern Ireland or Islands forfeiture order when effect has been given to it (whether in England and Wales or elsewhere) in respect of all or, as the case may be, part of the money or other property to which the order applies;
+
+(b) for cancelling or varying the registration of a Scottish, Northern Ireland or Islands restraint order which has been discharged or varied by the court by which it was made.
+
+(4) If a Scottish, Northern Ireland or Islands forfeiture order is registered under this paragraph the High Court shall have, in relation to that order, the same powers as a court has under paragraph 1(1) above in relation to a forfeiture order made by it (and paragraph 2 above applies accordingly) but any functions of the clerk of a magistrates’ court shall be exercised by the appropriate officer of the High Court.
+
+(5) After making any payment required by virtue of paragraph 1(1)(d) or 2 above, the balance of any sums received by the appropriate officer of the High Court by virtue of an order made under sub-paragraph (4) above shall be paid by him to the Secretary of State.
+
+(6) Paragraphs 3(7), 5 and 6 above shall apply to a registered Scottish, Northern Ireland or Islands restraint order as they apply to a restraint order and the High Court shall have the like power to make an order under section 33 of the [^M28]Supreme Court Act 1981 (extended power to order inspection of property etc.) in relation to proceedings brought or likely to be brought for a Scottish, Northern Ireland or Islands restraint order as if those proceedings had been brought or were likely to be brought in the High Court.
+
+(7) Without prejudice to the foregoing provisions, if a Scottish order, Northern Ireland order or Islands order is registered under this paragraph—
+
+(a) the High Court shall have, in relation to its enforcement, the same power;
+
+(b) proceedings for or with respect to its enforcement may be taken; and
+
+(c) proceedings for or with respect to any contravention of such an order (whether before or after such registration) may be taken,
+
+as if the order had originally been made in the High Court.
+
+(8) The High Court may, additionally, for the purpose of—
+
+(a) assisting the achievement in England and Wales of the purposes of a Scottish order, Northern Ireland order or Islands order; or
+
+(b) assisting any receiver or other person directed by any such order to sell or otherwise dispose of property,
+
+make such orders or do otherwise as seems to it appropriate.
+
+(9) A document purporting to be a copy of a Scottish order, Northern Ireland order or Islands order and to be certified as such by a proper officer of the court by which it was made or purporting to be a certificate for purposes corresponding to those of paragraph 1(4) above and to be certified by a proper officer of the court concerned shall, in England and Wales, be received in evidence without further proof.
+
+#### Enforcement of orders made in designated countries
+
+**10** (1) Her Majesty may by Order in Council make such provision as appears to Her Majesty to be appropriate for the purpose of enabling the enforcement in England and Wales of orders to which this paragraph applies.
+
+(2) This paragraph applies to any order (“an external order") which is made in a country or territory designated for the purposes of this paragraph by the Order in Council and—
+
+(a) provides for the forfeiture of terrorist funds within the meaning of section 11(3)(a) or (b) of this Act (“an external forfeiture order"); or
+
+(b) makes provision prohibiting dealing with property which is subject to an external forfeiture order or in respect of which such an order could be made in proceedings which have been or are to be instituted in that country or territory (“an external restraint order").
+
+[[^F89](2A) Without prejudice to the generality of sub-paragraph (1) above, the provision that may be made by virtue of that sub-paragraph includes provision which, for the purpose of facilitating the enforcement of any external order that may be made, has effect at times before there is an external order to be enforced.]
+
+(3) Without prejudice to the generality of sub-paragraph (1) above, an Order in Council under this paragraph may make provision for matters corresponding to those for which provision is made by, or can be made under, paragraph 9(1) to (8) above in relation to the orders to which that paragraph applies and for the proof of any matter relevant for the purposes of anything falling to be done in pursuance of the Order in Council.
+
+(4) An Order in Council under this paragraph may also make such provision as appears to Her Majesty to be appropriate with respect to anything falling to be done on behalf of the United Kingdom in a designated country or territory in relation to proceedings in that country or territory for or in connection with the making of an external order.
+
+(5) An Order under this paragraph may make different provision for different cases.
+
+(6) No Order shall be made under this paragraph unless a draft of it has been laid before and approved by a resolution of each House of Parliament.
+
+### Part II — Scotland
+
+#### Implementation of forfeiture orders
+
+**11** (1) Where a court in Scotland makes an order under section 13(2), (3) or (4) of this Act (in this Part of this Schedule referred to as a “forfeiture order") it may make an order—
+
+(a) directing any property to which the forfeiture order applies other than money or land to be sold or otherwise disposed of in such manner as the court may direct;
+
+(b) appointing an administrator to take possession, subject to such conditions and exceptions as may be specified by the court, of any such property which is land and to realise it in such manner as the court may direct;
+
+(c) directing a specified part of any money, or of the proceeds of the sale, disposal or realisation of any property, to which the forfeiture order applies to be paid to or for a specified person falling within section 13(6) of this Act;
+
+(d) making such other provision as appears to the court to be necessary for giving effect to the forfeiture order or to any order made by virtue of paragraph (a), (b) or (c) above.
+
+(2) The Court of Session may by rules of court prescribe the powers and duties of an administrator appointed under sub-paragraph (1)(b) above.
+
+(3) A forfeiture order shall not come into force so long as an appeal is pending against the order or against the conviction on which it was made; and for this purpose where an appeal is competent but has not been brought it shall be treated as pending until the expiry of a period of fourteen days from the date when the order was made.
+
+(4) Any balance remaining after making any payment required under sub-paragraph (1)(c) above or paragraph 12 below shall be treated for the purposes of section 203 of the [^M29]Criminal Procedure (Scotland) Act 1975 (fines payable to HM Exchequer) as if it were a fine imposed in the High Court.
+
+(5) The clerk of court shall, on the application of the prosecutor or defender in the proceedings in which a forfeiture order is made, certify in writing the extent (if any) to which, at the date of the certificate, effect has been given to the order in respect of the money or other property to which it applies.
+
+(6) In this paragraph references to the proceeds of the sale, disposal or realisation of property are references to the proceeds after deduction of the costs of sale, disposal or realisation.
+
+**12** (1) Where an administrator appointed under paragraph 11 above takes any action—
+
+(a) in relation to property which is not subject to forfeiture, being action which he would be entitled to take if it were such property;
+
+(b) believing, and having reasonable grounds for believing, that he is entitled to take that action in relation to that property,
+
+he shall not be liable to any person in respect of any loss or damage resulting from his action except in so far as the loss or damage is caused by his negligence.
+
+(2) An administrator appointed under paragraph 11 above shall be entitled to be paid his remuneration and expenses out of the proceeds of the property realised by him or, if and so far as those proceeds are insufficient, by the Lord Advocate.
+
+(3) The accountant of court shall supervise an administrator appointed under paragraph 11 above in the exercise of the powers conferred, and discharge of the duties imposed, on him under or by virtue of that paragraph.
+
+#### Restraint orders
+
+**13** (1) The Court of Session may in accordance with this paragraph by an order (referred to in this Part of this Schedule as a “restraint order") prohibit any person specified in the order, subject to such conditions and exceptions as may be so specified, from dealing with any property liable to forfeiture, that is to say, any property in respect of which a forfeiture order has been made or in respect of which such an order could be made in the proceedings referred to in sub-paragraph (2) or (3) below.
+
+(2) A restraint order may be made in respect of a person where—
+
+(a) proceedings have been instituted against him in Scotland for an offence under Part III of this Act;
+
+(b) the proceedings have not been concluded; and
+
+(c) either a forfeiture order has been made or it appears to the court that there are reasonable grounds for thinking that a forfeiture order may be made in those proceedings.
+
+(3) A restraint order may also be made where—
+
+(a) the court is satisfied that a procurator fiscal proposes to apply for a warrant to arrest and commit a person suspected of an offence under Part III of this Act or to charge such a person with such an offence and that in either case the suspicion is reasonable; and
+
+(b) it appears to the court that a forfeiture order may be made in proceedings for the offence.
+
+(4) Where the court has made an order under this paragraph by virtue of sub-paragraph (3) above the court may discharge the order if proceedings in respect of the offence are not instituted within such time as the court considers reasonable.
+
+(5) For the purposes of this paragraph, dealing with property includes, without prejudice to the generality of that expression—
+
+(a) where a debt is owed to the person concerned, making a payment to any person in reduction of the amount of the debt; and
+
+(b) removing the property from the jurisdiction of the Court of Session.
+
+(6) In exercising the powers conferred by this paragraph the court shall not take account of any obligations of any person having an interest in the property subject to the restraint order which might frustrate the making of a forfeiture order.
+
+(7) For the purposes of this paragraph proceedings for an offence are instituted—
+
+(a) when warrant to arrest a person suspected of or charged with such an offence is granted;
+
+(b) when a person is charged with the offence after being taken into custody without a warrant;
+
+(c) when a person is charged with the offence without being arrested,
+
+and where the application of this sub-paragraph would result in there being more than one time for the institution of proceedings they shall be taken to be instituted at the earliest of those times.
+
+(8) For the purposes of this paragraph and paragraph 14 below proceedings are concluded—
+
+(a) when a forfeiture order has been made in those proceedings and effect has been given to it in respect of all the money or other property to which it applies; or
+
+(b) when (disregarding any power of a court to extend the period within which an appeal may be made) there is no further possibility of a forfeiture order being made in the proceedings.
+
+**14** (1) A restraint order—
+
+(a) may be made only on an application by the Lord Advocate;
+
+(b) may be made on an ex parte application which shall be heard in chambers; and
+
+(c) shall provide for notice to be given to persons affected by the order.
+
+(2) On an application made by any person affected by a restraint order, the order—
+
+(a) may be recalled or varied in relation to any property; and
+
+(b) shall be recalled when proceedings for the offence are concluded.
+
+(3) Where proceedings for the offence are concluded the Lord Advocate shall forthwith apply to the court for recall of the order and the court shall grant the application.
+
+**15** (1) Where the Court of Session has made a restraint order a constable may for the purpose of preventing any property subject to the order being removed from the jurisdiction of the court seize that property.
+
+(2) Property seized under this paragraph shall be dealt with in accordance with the court’s directions.
+
+**16** (1) On the application of the Lord Advocate, the Court of Session may, in respect of—
+
+(a) heritable property in Scotland affected by a restraint order (whether such property generally or particular such property) grant warrant for inhibition against any person interdicted by the order; and
+
+[^F90]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Subject to the provisions of this Part of this Schedule, a warrant under sub-paragraph (1) above—
+
+(a) shall have effect as if granted on the dependence of an action for debt at the instance of the Lord Advocate against the person and may be executed, recalled, loosed or restricted accordingly;
+
+(b) [^F91]. . ., shall have the effect of letters of inhibition and shall forthwith be registered by the Lord Advocate in the register of inhibitions and adjudications.
+
+(3) Section 155 of the Titles to Land Consolidation (Scotland) Act 1868 (effective date of inhibition) shall apply in relation to an inhibition for which warrant has been granted under sub-paragraph (1)(a) above as that section applies to an inhibition by separate letters or contained in a summons.
+
+(4) In the application of section 158 of the said Act of 1868 (recall of inhibition) to such inhibition as is mentioned in sub-paragraph (3) above, references in that section to a particular Lord Ordinary shall be construed as references to any Lord Ordinary.
+
+(5) That an inhibition [^F92]. . .has been executed under sub-paragraph (2) above in respect of property shall not prejudice the exercise of an administrator’s powers under or for the purposes of this Part of this Schedule in respect of that property.
+
+(6) No inhibition [^F92]. . . executed under sub-paragraph (2) above shall have effect once, or in so far as, the restraint order affecting the property in respect of which the warrant for such inhibition [^F92]. . .has been granted has ceased to have effect in respect of that property, and the Lord Advocate shall—
+
+(a) apply for the recall, or as the case may be restriction, of the inhibition or arrestment accordingly; and
+
+(b) ensure that recall, or restriction, of an inhibition on such application is reflected in the register of inhibitions and adjudications.
+
+**[[^F93]16A** (1) On the application of the prosecutor, the court may, in respect of moveable property affected by a restraint order (whether such property generally or particular such property), grant warrant for arrestment if the property would be arrestable if the person entitled to it were a debtor.
+
+(2) A warrant under sub-paragraph (1) above shall have effect as if granted on the dependence of an action for debt at the instance of the prosecutor against the person and may be executed, recalled, loosed or restricted accordingly.
+
+(3) The fact that an arrestment has been executed under sub-paragraph (2) above in respect of property shall not prejudice the exercise of an administrator’s powers under or for the purposes of this Part of this Schedule in respect of that property.
+
+(4) No arrestment executed under sub-paragraph (2) above shall have effect once, or in so far as, the restraint order affecting the property in respect of which the warrant for such arrestment has been granted has ceased to have effect in respect of that property; and the prosecutor shall apply to the court for an order recalling, or as the case may be, restricting the arrestment accordingly.]
+
+#### Compensation
+
+**17** (1) If proceedings are instituted against a person for an offence under Part III of this Act and either—
+
+(a) the proceedings do not result in his conviction for any such offence; or
+
+(b) where he is convicted of one or more such offences—
+
+(i) the conviction or convictions concerned are quashed; or
+
+(ii) he is pardoned by Her Majesty in respect of the conviction or convictions concerned,
+
+the Court of Session may, on an application by a person who had an interest in any property which was subject to a forfeiture or restraint order made in or in relation to those proceedings, order compensation to be paid to the applicant if, having regard to all the circumstances, it considers it appropriate to do so.
+
+(2) Sub-paragraph (1) above is without prejudice to any right which may otherwise exist to institute proceedings in respect of delictual liability disclosed by such circumstances as are mentioned in paragraphs (a) and (b) of that sub-paragraph.
+
+(3) The court shall not order compensation to be paid in any case unless it is satisfied—
+
+(a) that there is some serious default on the part of a person concerned in the investigation or prosecution of the offence concerned, being a person mentioned in sub-paragraph (6) below; and
+
+(b) that the applicant has suffered loss in consequence of anything done in relation to the property by or in pursuance of an order under this Part of this Schedule.
+
+(4) The court shall not order compensation to be paid in any case where it appears to it that the proceedings would have been instituted even if the serious default had not occurred.
+
+(5) The amount of compensation to be paid under this paragraph shall be such as the court thinks just in all the circumstances of the case.
+
+(6) Compensation payable under this paragraph shall be paid—
+
+(a) where the person in default was a constable of a police force, out of the police fund out of which the expenses of that police force are met;
+
+(b) where the person in default was a constable other than is mentioned in paragraph (a) above, but with the powers of such a constable, by the body under whose authority he acts; and
+
+(c) where the person in default was a procurator fiscal or was acting on behalf of the Lord Advocate, by the Lord Advocate.
+
+(7) Sub-paragraph (7) of paragraph 13 above applies for the purposes of this paragraph as it applies for the purposes of that paragraph.
+
+#### Enforcement of orders made elsewhere in the British Islands
+
+**18** (1) In the following provisions of this Part of this Schedule—
+
+- “an England and Wales order” means—
+
+(a) an order made in England and Wales under section 13(2), (3) or (4) of this Act (“an England and Wales forfeiture order");
+
+(b) an order made under paragraph 3 above (“an England and Wales restraint order"); or
+
+(c) an order made under any other provision of Part I of this Schedule in relation to an England and Wales forfeiture or restraint order;
+
+- “a Northern Ireland order” means—
+
+  - (a) an order made in Northern Ireland under section 13(2), (3) or (4) of this Act (“a Northern Ireland forfeiture order");
+  - (b) [[^F94]an order made under paragraph 23 or 25A below (“a Northern Ireland restraint order"); or]
+  - (c) an order made under any other provision of Part III of this Schedule in relation to a Northern Ireland forfeiture or restraint order;
+
+  - “an Islands order” means—
+
+  - (a) an order made in any of the Islands under section 13(2), (3) or (4) of this Act as extended to that Island under section 28(3) of this Act (“an Islands forfeiture order");
+  - (b) an order under paragraph 3 above as so extended (“an Islands restraint order"); or
+  - (c) an order made under any other provision of Part I of this Schedule as so extended in relation to an Islands forfeiture or restraint order.
+
+(2) In paragraphs (a), (b) and (c) of the definition of “an Islands order" the reference to a provision of this Act as extended to an Island under section 28(3) of this Act includes a reference to any other provision of the law of that Island for purposes corresponding to that provision.
+
+**19** (1) An England and Wales order, Northern Ireland order or Islands order shall, subject to the provisions of this paragraph, have effect in the law of Scotland but shall be enforced in Scotland only in accordance with the provisions of this paragraph and any provision made by rules of court as to the manner in which and the conditions subject to which such orders are to be enforced there.
+
+(2) The Court of Session shall, on an application made to it in accordance with rules of court for registration of an England and Wales order, Northern Ireland order or Islands order, direct that the order shall, in accordance with such rules, be registered in that court.
+
+(3) Rules of court shall also make provision—
+
+(a) for cancelling or varying the registration of an England and Wales, Northern Ireland or Islands forfeiture order when effect has been given to it (whether in Scotland or elsewhere) in respect of all or, as the case may be, part of the money or other property to which the order applies;
+
+(b) for cancelling or varying the registration of an England and Wales, Northern Ireland or Islands restraint order which has been discharged or varied by the court by which it was made.
+
+(4) If an England and Wales, Northern Ireland or Islands forfeiture order is registered under this paragraph the Court of Session shall have, in relation to that order, the same powers as a court has under paragraph 11(1) above in relation to a forfeiture order made by it and paragraphs 11(4) to (6) and 12 above apply accordingly.
+
+(5) Paragraphs 13(6), 15 [[^F95], 16 and (subject to sub-paragraph (5A) below) 16A] above shall apply to a registered England and Wales, Northern Ireland or Islands restraint order as they apply to a restraint order and the Court of Session shall have the like power to make an order under section 1 of the [^M30]Administration of Justice (Scotland) Act 1972 (extended power to order inspection of documents etc.) in relation to proceedings brought or likely to be brought for an England and Wales, Northern Ireland or Islands restraint order as if those proceedings had been brought or were likely to be brought in the Court of Session.
+
+[[^F96](5A) In its application by virtue of sub-paragraph (5) above paragraph 16A above shall have effect with the following modifications—
+
+(a) for the references to the prosecutor there shall be substituted references to the Lord Advocate; and
+
+(b) for the references to the court there shall be substituted references to the Court of Session.]
+
+(6) Without prejudice to the foregoing provisions, if an England and Wales order, Northern Ireland order or Islands order is registered under this paragraph—
+
+(a) the Court of Session shall have, in relation to its enforcement, the same power;
+
+(b) proceedings for or with respect to its enforcement may be taken; and
+
+(c) proceedings for or with respect to any contravention of such an order (whether before or after such registration) may be taken,
+
+as if the order had originally been made in the Court of Session.
+
+(7) The Court of Session may, additionally, for the purpose of—
+
+(a) assisting the achievement in Scotland of the purposes of an England and Wales order, Northern Ireland order or Islands order; or
+
+(b) assisting any receiver or other person directed by any such order to sell or otherwise dispose of property,
+
+make such orders or do otherwise as seems to it appropriate.
+
+(8) A document purporting to be a copy of an England and Wales order, Northern Ireland order or Islands order and to be certified as such by a proper officer of the court by which it was made or purporting to be a certificate for purposes corresponding to those of paragraph 11(5) above and to be certified by a proper officer of the court concerned shall, in Scotland, be sufficient evidence of the order.
+
+(9) Nothing in any England and Wales order, Northern Ireland order or Islands order prejudices any enactment or rule of law in respect of the recording of deeds relating to heritable property in Scotland or the registration of interests in such property.
+
+#### Enforcement of orders made in designated countries
+
+**20** (1) Her Majesty may by Order in Council make such provision as appears to Her Majesty to be appropriate for the purpose of enabling the enforcement in Scotland of orders to which this paragraph applies.
+
+(2) This paragraph applies to an order (“an external order") which is made in a country or territory designated for the purposes of this paragraph by the Order in Council and—
+
+(a) provides for the forfeiture of terrorist funds within the meaning of section 11(3)(a) or (b) of this Act (“an external forfeiture order"); or
+
+(b) makes provision prohibiting dealing with property which is subject to an external forfeiture order or in respect of which such an order could be made in proceedings which have been or are to be instituted in that country or territory (“an external restraint order").
+
+[[^F97](2A) Without prejudice to the generality of sub-paragraph (1) above, the provision that may be made by virtue of that sub-paragraph includes provision which, for the purpose of facilitating the enforcement of any external order that may be made, has effect at times before there is an external order to be enforced.]
+
+(3) Without prejudice to the generality of sub-paragraph (1) above, an Order in Council under this paragraph may make provision for matters corresponding to those for which provision is made by, or can be made under, paragraph 19(1) to (7) above in relation to the orders to which that paragraph applies and for the proof of any matter relevant for the purposes of anything falling to be done in pursuance of the Order in Council.
+
+(4) An Order in Council under this paragraph may also make such provision as appears to Her Majesty to be appropriate with respect to anything falling to be done on behalf of the United Kingdom in a designated country or territory in relation to proceedings in that country or territory for or in connection with the making of an external order.
+
+(5) An Order under this paragraph may make different provision for different cases.
+
+(6) No Order shall be made under this paragraph unless a draft of it has been laid before and approved by a resolution of each House of Parliament.
+
+### Part III — Northern Ireland
+
+#### Implementation of forfeiture orders
+
+**21** (1) Where a court in Northern Ireland makes an order under section 13(2), (3) or (4) of this Act (in this Part of this Schedule referred to as a “forfeiture order") it may make an order—
+
+(a) requiring any money or other property to which the forfeiture order applies to be paid or handed over to the proper officer or to a member of the Royal Ulster Constabulary designated for the purpose by the Chief Constable;
+
+(b) directing any such property other than money or land to be sold or otherwise disposed of in such manner as the court may direct and the proceeds to be paid to the proper officer;
+
+(c) appointing a receiver to take possession, subject to such conditions and exceptions as may be specified by the court, of any such property which is land, to realise it in such manner as the court may direct and to pay the proceeds to the proper officer;
+
+(d) directing a specified part of any money, or of the proceeds of the sale, disposal or realisation of any property, to which the forfeiture order applies to be paid by the proper officer to or for a specified person falling within section 13(6) of this Act;
+
+(e) making such other provision (including provision as to the manner of conveyance or transfer of property which is land) as appears to the court to be necessary for giving effect to the forfeiture order or to any order made by virtue of paragraph (a), (b), (c) or (d) above.
+
+(2) A forfeiture order shall not come into force until (disregarding any power of a court to grant leave to appeal out of time) there is no further possibility of the order being set aside.
+
+(3) Any balance in the hands of the proper officer after making any payment required under sub-paragraph (1)(d) above or paragraph 22 below shall be treated for the purposes of section 20 of the [^M31]Administration of Justice (Northern Ireland) Act 1954 (application of fines etc.) as if it were a fine.
+
+(4) The proper officer shall, on the application of the prosecution or defendant in the proceedings in which a forfeiture order is made, certify in writing the extent (if any) to which, at the date of the certificate, effect has been given to the order in respect of the money or other property to which it applies.
+
+(5) In this paragraph “the proper officer” means, where the forfeiture order is made by a court of summary jurisdiction, the clerk of petty sessions and, where the order is made by the Crown Court, the appropriate officer of the Crown Court.
+
+(6) In this paragraph references to the proceeds of the sale, disposal or realisation of property are references to the proceeds after deduction of the costs of sale, disposal or realisation.
+
+(7) This paragraph has effect to the exclusion of Article 58 of the [^M32]Magistrates’ Courts (Northern Ireland) Order 1981.
+
+**22** (1) Where a receiver appointed under paragraph 21 above takes any action—
+
+(a) in relation to property which is not subject to forfeiture, being action which he would be entitled to take if it were such property;
+
+(b) believing, and having reasonable grounds for believing, that he is entitled to take that action in relation to that property,
+
+he shall not be liable to any person in respect of any loss or damage resulting from his action except in so far as the loss or damage is caused by his negligence.
+
+(2) A receiver appointed under paragraph 21 above shall be entitled to be paid his remuneration and expenses out of the proceeds of the property realised by him or, if and so far as those proceeds are insufficient, by the prosecution.
+
+#### Restraint orders
+
+**23** (1) The High Court may in accordance with this paragraph by an order (referred to in this Part of this Schedule as a “restraint order") prohibit any person, subject to such conditions and exceptions as may be specified in the order, from dealing with any property liable to forfeiture, that is to say, any property in respect of which a forfeiture order has been made or in respect of which such an order could be made in the proceedings referred to in sub-paragraph (2) or (3) below.
+
+(2) A restraint order may be made where—
+
+(a) proceedings have been instituted against a defendant in Northern Ireland for an offence under Part III of this Act;
+
+(b) the proceedings have not been concluded; and
+
+(c) either a forfeiture order has been made or it appears to the court that there are reasonable grounds for thinking that a forfeiture order may be made in those proceedings.
+
+(3) A restraint order may also be made where—
+
+(a) the High Court is satisfied that, whether by the making of a complaint or otherwise, a person is to be charged in Northern Ireland with an offence under Part III of this Act; and
+
+(b) it appears to the court that a forfeiture order may be made in proceedings for the offence.
+
+(4) In the application of the provisions of this Part of this Schedule at a time when a restraint order may be made by virtue of sub-paragraph (3) above references to the prosecution shall be construed as references to the person who the High Court is satisfied is to have the conduct of the proposed proceedings.
+
+(5) Where the High Court has made an order under this paragraph by virtue of sub-paragraph (3) above the court may discharge the order if proceedings in respect of the offence are not instituted (whether by the making of a complaint or otherwise) within such time as the court considers reasonable.
+
+(6) For the purposes of this paragraph, dealing with property includes, without prejudice to the generality of that expression—
+
+(a) where a debt is owed to the person concerned, making a payment to any person in reduction of the amount of the debt; and
+
+(b) removing the property from the jurisdiction of the High Court.
+
+(7) In exercising the powers conferred by this paragraph the High Court shall not take account of any obligations of any person having an interest in the property subject to the restraint order which might frustrate the making of a forfeiture order.
+
+(8) For the purposes of this paragraph proceedings for an offence are instituted—
+
+(a) when a summons or a warrant is issued under Article 20 of the [^M33]Magistrates’ Courts (Northern Ireland) Order 1981 in respect of that offence;
+
+(b) when a person is charged with the offence after being taken into custody without a warrant;
+
+(c) when an indictment is presented under section 2(2)(c), (e) or (f) of the [^M34]Grand Jury (Abolition) Act (Northern Ireland) 1969;
+
+and where the application of this sub-paragraph would result in there being more than one time for the institution of proceedings they shall be taken to be instituted at the earliest of those times.
+
+(9) For the purposes of this paragraph and paragraph 24 below proceedings are concluded—
+
+(a) when a forfeiture order has been made in those proceedings and effect has been given to it in respect of all the money or other property to which it applies; or
+
+(b) when (disregarding any power of a court to grant leave to appeal out of time) there is no further possibility of a forfeiture order being made in the proceedings.
+
+**24** (1) A restraint order—
+
+(a) may be made only on an application by the prosecution;
+
+(b) may be made on an ex parte application to a judge in chambers; and
+
+(c) shall provide for notice to be given to persons affected by the order.
+
+(2) A restraint order—
+
+(a) may be discharged or varied in relation to any property; and
+
+(b) shall be discharged when proceedings for the offence are concluded.
+
+(3) An application for the discharge or variation of a restraint order may be made by any person affected by it.
+
+**25** (1) Where the High Court has made a restraint order a constable may for the purpose of preventing any property subject to the order being removed from the jurisdiction of the court seize that property.
+
+(2) Property seized under this paragraph shall be dealt with in accordance with the court’s directions.
+
+**[[^F98]25A** (1) The power to make a restraint order under the provisions of paragraphs 23 and 24 above shall be exercisable by the Secretary of State in any case in which it appears to him that the information which it would be necessary to provide in support of an application to the High Court or a judge under those provisions would, if disclosed, be likely to place any person in danger or prejudice the capability of members of the Royal Ulster Constabulary or a person authorised under section 57 of the Northern Ireland (Emergency Provisions) Act 1991 to investigate an offence under Part III of this Act.
+
+(2) In their application by virtue of sub-paragraph (1) above paragraphs 23 to 25 above shall have effect with the necessary modifications and as if references to the High Court were references to the Secretary of State.
+
+(3) An order made by the Secretary of State by virtue of this paragraph may be varied or discharged by the High Court under paragraph 23(5) or 24(2) above.]
+
+**[[^F99]25B** (1) A person who, without lawful authority or reasonable excuse (the proof of which lies on him), contravenes a restraint order is guilty of an offence and liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding fourteen years or a fine or both;
+
+(b) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or both.
+
+(2) Nothing in sub-paragraph (1) above shall be taken to prejudice any power of the High Court to deal with the contravention of a restraint order as a contempt of court.]
+
+**26** (1) The prosecution shall be treated for the purposes of section 66 of the [^M35]Land Registration Act (Northern Ireland) 1970 (cautions) as a person interested in relation to any registered land to which a restraint order or an application for such an order relates.
+
+(2) On the application of the prosecution, the Registrar of Titles shall, in respect of any registered land to which a restraint order or an application for such an order relates, make an entry inhibiting any dealing with the land without the consent of the High Court.
+
+(3) Subsections (2) and (4) of section 67 of the Land Registration Act (Northern Ireland) 1970 (inhibitions) shall apply to an entry made on the application of the prosecution under sub-paragraph (2) above as they apply to an entry made on the application of any person interested in the registered land under subsection (1) of that section.
+
+(4) In this paragraph—
+
+- “registered land” has the meaning assigned to it by section 45(1)(a) of the [^M36]Interpretation Act (Northern Ireland) 1954; and
+- “Registrar of Titles” and “entry” have the same meanings as in the Land Registration Act (Northern Ireland) 1970.
+
+#### Compensation
+
+**27** (1) If proceedings are instituted against a person for an offence under Part III of this Act and either—
+
+(a) the proceedings do not result in his conviction for any such offence; or
+
+(b) where he is convicted of one or more such offences—
+
+(i) the conviction or convictions concerned are quashed; or
+
+(ii) he is pardoned by Her Majesty in respect of the conviction or convictions concerned,
+
+the High Court may, on an application by a person who had an interest in any property which was subject to a forfeiture or restraint order made in or in relation to those proceedings order compensation to be paid to the applicant if, having regard to all the circumstances, it considers it appropriate to do so.
+
+(2) The High Court shall not order compensation to be paid in any case unless it is satisfied—
+
+(a) that there is some serious default on the part of a person concerned in the investigation or prosecution of the offence concerned, being a person mentioned in sub-paragraph (5) below; and
+
+(b) that the applicant has suffered loss in consequence of anything done in relation to the property by or in pursuance of an order under this Part of this Schedule.
+
+(3) The High Court shall not order compensation to be paid in any case where it appears to it that the proceedings would have been instituted even if the serious default had not occurred.
+
+(4) The amount of compensation to be paid under this paragraph shall be such as the High Court thinks just in all the circumstances of the case.
+
+(5) Compensation payable under this paragraph shall be paid—
+
+(a) where the person in default was or was acting as a member of the Royal Ulster Constabulary, by the Police Authority for Northern Ireland;
+
+(b) where the person in default was a member of the Office of the Director of Public Prosecutions for Northern Ireland, by the Director of Public Prosecutions for Northern Ireland.
+
+(6) Sub-paragraph (8) of paragraph 23 above applies for the purposes of this paragraph as it applies for the purposes of that paragraph.
+
+#### Enforcement of orders made elsewhere in the British Islands
+
+**28** (1) In the following provisions of this Part of this Schedule—
+
+- “an England and Wales order” means—
+
+(a) an order made in England and Wales under section 13(2), (3), or (4) of this Act (“an England and Wales forfeiture order");
+
+(b) an order made under paragraph 3 above (“an England and Wales restraint order"); or
+
+(c) an order made under any other provision of Part I of this Schedule in relation to an England and Wales forfeiture or restraint order;
+
+- “a Scottish order” means—
+
+(a) an order made in Scotland under section 13(2), (3) or (4) of this Act (“a Scottish forfeiture order");
+
+(b) an order made under paragraph 13 above (“a Scottish restraint order"); or
+
+(c) an order made under any other provision of Part II of this Schedule in relation to a Scottish forfeiture or restraint order;
+
+- “an Islands order” means—
+
+(a) an order made in any of the Islands under section 13(2), (3) or (4) of this Act as extended to that Island under section 28(3) of this Act (“an Islands forfeiture order");
+
+(b) an order under paragraph 3 above as so extended (“an Islands restraint order"); or
+
+(c) an order made under any other provision of Part I of this Schedule as so extended in relation to an Islands forfeiture or restraint order.
+
+(2) In paragraphs (a), (b) and (c) of the definition of “an Islands order" the reference to a provision of this Act as extended to an Island under section 28(3) of this Act includes a reference to any other provision of the law of that Island for purposes corresponding to that provision.
+
+**29** (1) An England and Wales order, Scottish order or Islands order shall, subject to the provisions of this paragraph, have effect in the law of Northern Ireland but shall be enforced in Northern Ireland only in accordance with the provisions of this paragraph and any provision made by rules of court as to the manner in which and the conditions subject to which such orders are to be enforced there.
+
+(2) The High Court shall, on an application made to it in accordance with rules of court for registration of an England and Wales order, Scottish order or Islands order, direct that the order shall, in accordance with such rules, be registered in that court.
+
+(3) Rules of court shall also make provision—
+
+(a) for cancelling or varying the registration of an England and Wales, Scottish or Islands forfeiture order when effect has been given to it (whether in Northern Ireland or elsewhere) in respect of all or, as the case may be, part of the money or other property to which the order applies;
+
+(b) for cancelling or varying the registration of an England and Wales, Scottish or Islands restraint order which has been discharged or varied by the court by which it was made.
+
+(4) If an England and Wales, Scottish or Islands forfeiture order is registered under this paragraph the High Court shall have, in relation to that order, the same powers as a court has under paragraph 21(1) above in relation to a forfeiture order made by it (and paragraph 22 above applies accordingly) but any functions of the clerk of petty sessions or the appropriate officer of the Crown Court shall be exercised by the appropriate officer of the High Court.
+
+(5) After making any payment required by virtue of paragraph 21(1)(d) or 22 above, the balance of any sums received by the appropriate officer of the High Court by virtue of an order made under sub-paragraph (4) above shall be paid into or disposed for the benefit of the Consolidated Fund.
+
+(6) Paragraphs 23(7), 25 and 26 above and the [^M37]Land Registration Act (Northern Ireland) 1970 and the [^M38]Registration of Deeds Act (Northern Ireland) 1970 shall apply to a registered England and Wales, Scottish or Islands restraint order as they apply to a restraint order and the High Court shall have the like power to make an order under section 21 of the [^M39]Administration of Justice Act 1969 (extended power to order inspection of property etc.) in relation to proceedings brought or likely to be brought for an England and Wales, Scottish or Islands restraint order as if those proceedings had been brought or were likely to be brought in the High Court.
+
+(7) Without prejudice to the foregoing provisions, if an England and Wales order, Scottish order or Islands order is registered under this paragraph—
+
+(a) the High Court shall have, in relation to its enforcement, the same power;
+
+(b) proceedings for or with respect to its enforcement may be taken; and
+
+(c) proceedings for or with respect to any contravention of such an order (whether before or after such registration) may be taken,
+
+as if the order had originally been made in the High Court.
+
+(8) The High Court may, additionally, for the purpose of—
+
+(a) assisting the achievement in Northern Ireland of the purposes of an England and Wales order, Scottish order or Islands order; or
+
+(b) assisting any receiver or other person directed by any such order to sell or otherwise dispose of property,
+
+make such orders or do otherwise as seems to it appropriate.
+
+(9) A document purporting to be a copy of an England and Wales order, Scottish order or Islands order and to be certified as such by a proper officer of the court by which it was made or purporting to be a certificate for purposes corresponding to those of paragraph 21(4) above and to be certified by a proper officer of the court concerned shall, in Northern Ireland, be received in evidence without further proof.
+
+#### Enforcement of orders made in designated countries
+
+**30** (1) Her Majesty may by Order in Council make such provision as appears to Her Majesty to be appropriate for the purpose of enabling the enforcement in Northern Ireland of orders to which this paragraph applies.
+
+(2) This paragraph applies to any order (“an external order") which is made in a country or territory designated for the purposes of this paragraph by the Order in Council and—
+
+(a) provides for the forfeiture of terrorist funds within the meaning of section 11(3)(a) or (b) of this Act (“an external forfeiture order"); or
+
+(b) makes provision prohibiting dealing with property which is subject to an external forfeiture order in respect of which such an order could be made in proceedings which have been or are to be instituted in that country or territory (“an external restraint order").
+
+[[^F100](2A) Without prejudice to the generality of sub-paragraph (1) above, the provision that may be made by virtue of that sub-paragraph includes provision which, for the purpose of facilitating the enforcement of any external order that may be made, has effect at times before there is an external order to be enforced.]
+
+(3) Without prejudice to the generality of sub-paragraph (1) above, an Order in Council under this paragraph may make provision for matters corresponding to those for which provision is made by, or can be made under, paragraph 29(1) to (8) above in relation to the orders to which that paragraph applies and for the proof of any matter relevant for the purposes of anything falling to be done in pursuance of the Order in Council.
+
+(4) An Order in Council under this paragraph may also make such provision as appears to Her Majesty to be appropriate with respect to anything falling to be done on behalf of the United Kingdom in a designated country or territory in relation to proceedings in that country or territory for or in connection with the making of an external order.
+
+(5) An Order under this paragraph may make different provision for different cases.
+
+(6) No Order shall be made under this paragraph unless a draft of it has been laid before and approved by a resolution of each House of Parliament.
+
+### Part IV — Insolvency: United Kingdom Provisions
+
+#### Protection of creditors against forfeiture
+
+**31** (1) During the period of six months following the making of a forfeiture order no money which is subject to the order, or which represents any property subject to it, shall be finally disposed of under this Schedule.
+
+(2) If, in a case where any money or other property is subject to a forfeiture order—
+
+(a) the commencement of an insolvency occurs, or has occurred, in the course of any qualifying insolvency proceedings,
+
+(b) any functions in relation to that property would (apart from the forfeiture order) be exercisable by an insolvency practitioner acting in those proceedings, and
+
+(c) during the period of six months following the making of the forfeiture order any such insolvency practitioner gives written notice to the relevant officer of the matters referred to in paragraphs (a) and (b) above,
+
+then sub-paragraph (3) below shall apply in relation to the property in question.
+
+(3) Where this sub-paragraph applies then, subject to the following provisions of this Part of this Schedule, the property in question or, if it has been sold, the proceeds of sale—
+
+(a) shall cease to be subject to the forfeiture order and any ancillary order; and
+
+(b) shall fall to be dealt with in the insolvency proceedings as if the forfeiture order had never been made.
+
+(4) In any case where—
+
+(a) sub-paragraph (3) above would, apart from this sub-paragraph, apply in relation to any property, but
+
+(b) the relevant officer, or any person acting in pursuance of an ancillary order, has entered into a contract for the sale of that property or has incurred any other obligations in relation to it,
+
+that sub-paragraph shall not take effect in relation to that property, or its proceeds of sale, unless and until those obligations have been discharged.
+
+(5) Where in consequence of sub-paragraph (3) above any money or other property falls to be dealt with in insolvency proceedings, the Secretary of State shall be taken to be a creditor in those proceedings to the amount or value of that property but, notwithstanding any provision contained in or made under any other enactment—
+
+(a) except in sequestration proceedings, his debt shall rank after the debts of all other creditors and shall not be paid until they have been paid in full with interest under section 189(2) or, as the case may be, section 328(4) of the 1986 Act or [[^F101]Article 160(2) or, as the case may be, Article 300(4) of the Insolvency (Northern Ireland) Order 1989]; and
+
+(b) in sequestration proceedings, his debt shall rank after all the debts mentioned in section 51(1) of the [^M40]Bankruptcy (Scotland) Act 1985 and shall not be paid until they have been paid in full.
+
+(6) In any case where—
+
+(a) by virtue of sub-paragraph (3) above any property ceases to be subject to a forfeiture order in consequence of the making of a bankruptcy order or an award of sequestration, and
+
+(b) subsequently the bankruptcy order is annulled or the award of sequestration is recalled or reduced,
+
+the property shall again become subject to the forfeiture order and, if applicable, any ancillary orders.
+
+(7) If any of the property referred to in sub-paragraph (6) above is money, or has been converted into money, then—
+
+(a) the court which ordered the annulment, or which recalled or reduced the award of sequestration, shall make an order specifying, for the purposes of paragraph (b) below, property comprised in the estate of the bankrupt or debtor to the amount or value of the property in question; and
+
+(b) the property so specified shall become subject to the forfeiture order, and any applicable ancillary orders, in place of the property in question.
+
+(8) In this paragraph—
+
+- “the commencement of an insolvency” means—
+
+(a) the making of a bankruptcy order;
+
+(b) the date of sequestration of a person’s estate, within the meaning of section 12(4) of the [^M41]Bankruptcy (Scotland) Act 1985;
+
+(c) in England and Wales [[^F102]or in Northern Ireland], in the case of the insolvent estate of a deceased person, the making of an insolvency administration order;
+
+(d) in the case of a company—
+
+(i) the passing of a resolution for its winding up; or
+
+(ii) the making of an order by the court for the winding up of the company where no such resolution has been passed;
+
+- “final disposal under this Schedule”, in relation to any money, means—
+
+(a) in England and Wales, its payment to the Secretary of State in accordance with paragraph 1(3) or 9(5) above;
+
+(b) in Scotland, its payment to the proper officer in Exchequer under section 203 of the [^M42]Criminal Procedure (Scotland) Act 1975;
+
+(c) in Northern Ireland, its payment into, or its disposal for the benefit of, the Consolidated Fund in accordance with paragraph 21(3) or 29(5) above;
+
+and “finally dispose” shall be construed accordingly.
+
+#### Expenses incurred in connection with the forfeiture
+
+**32** (1) Where any money or other property would, apart from this paragraph, fall to be dealt with in accordance with paragraph 31(3) above, the relevant officer may—
+
+(a) deduct from that money any allowable forfeiture expenses; or
+
+(b) retain so much of that property as he considers necessary for the purpose of realising it and deducting any such expenses from the proceeds of realisation;
+
+and paragraph 31(3) above shall apply only in relation to any balance remaining after making provision for those expenses.
+
+(2) If any money or other property is delivered up in pursuance of paragraph 31(3) above and provision has not been made for any allowable forfeiture expenses, then—
+
+(a) the person who incurred them shall have a claim to their value in the insolvency proceedings; and
+
+(b) the expenses in question shall be treated for the purposes of the insolvency proceedings as if they were expenses of those proceedings.
+
+(3) In this paragraph “allowable forfeiture expenses”—
+
+(a) means any expenses incurred in relation to property subject to the forfeiture order—
+
+(i) by the relevant officer;
+
+(ii) by any receiver, administrator or other person appointed by the relevant officer; or
+
+(iii) by any person appointed or directed to deal with any property by an order under paragraph 11(1) above; and
+
+(b) includes any amount paid, or required to be paid, under paragraph 1(1)(d), 11(1)(c) or 21(1)(d) above.
+
+#### Protection of insolvency practitioners
+
+**33** (1) In any case where—
+
+(a) an insolvency practitioner seizes or disposes of any property in relation to which his functions are not exercisable because it is for the time being subject to a forfeiture or restraint order, and
+
+(b) at the time of the seizure or disposal he believes and has reasonable grounds for believing that he is entitled (whether in pursuance of a court order or otherwise) to seize or dispose of that property,
+
+he shall not be liable to any person in respect of any loss or damage resulting from the seizure or disposal except in so far as the loss or damage is caused by his negligence in so acting.
+
+(2) An insolvency practitioner shall have a lien on the property mentioned in sub-paragraph (1) above or the proceeds of its sale—
+
+(a) for such of his expenses as were incurred in connection with insolvency proceedings in relation to which the seizure or disposal purported to take place; and
+
+(b) for so much of his remuneration as may reasonably be assigned for his acting in connection with those proceedings.
+
+(3) Sub-paragraphs (1) and (2) above are without prejudice to the generality of any provision contained in the 1986 Act or the [^M43]Bankruptcy (Scotland) Act 1985 or any other Act or the [[^F103]Insolvency (Northern Ireland) Order 1989].
+
+(4) In this paragraph “insolvency practitioner", in any part of the United Kingdom, means a person acting as an insolvency practitioner in that or any other part of the United Kingdom; and for this purpose—
+
+(a) any question whether a person is acting as an insolvency practitioner in England and Wales or in Scotland shall be determined in accordance with section 388 of the 1986 Act, except that—
+
+(i) the reference in subsection (2)(a) to a permanent or interim trustee in a sequestration shall be taken to include a reference to a trustee in sequestration;
+
+(ii) subsection (5) shall be disregarded; and
+
+(iii) the expression shall also include the Official Receiver acting as receiver or manager of property; and
+
+[[^F104](b) any question whether a person is acting as an insolvency practitioner in Northern Ireland shall be determined in accordance with Article 3 of the Insolvency (Northern Ireland) Order 1989, except that—
+
+(i) paragraph (5) shall be disregarded; and
+
+(ii) the expression shall also include the official receiver acting as receiver or manager of property.]
+
+#### Insolvency practitioners in the Islands and designated countries
+
+**34** (1) The Secretary of State may by order make provision for securing that an Islands or external insolvency practitioner has, with such modifications as may be specified in the order, the same rights under this Part of this Schedule in relation to property situated in any part of the United Kingdom as he would have if he were an insolvency practitioner in that or any other part of the United Kingdom.
+
+(2) An order under this paragraph may make provision as to the manner in which, and the conditions subject to which, an Islands or external insolvency practitioner may exercise the rights conferred under sub-paragraph (1) above; and any such order may, in particular, make provision—
+
+(a) for requiring him to obtain leave of a court as a condition of exercising any such rights; and
+
+(b) for empowering a court granting any such leave to impose such conditions as it thinks fit.
+
+(3) An order under this paragraph may make different provision for different cases.
+
+(4) The power to make an order under this paragraph shall be exercisable by statutory instrument and, in relation to property situated in England and Wales, shall be so exercisable with the concurrence of the Lord Chancellor.
+
+(5) A statutory instrument containing an order under this paragraph shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(6) In this paragraph—
+
+- “Islands or external insolvency practitioner” means a person exercising under the insolvency law of a relevant country or territory functions corresponding to those exercised by insolvency practitioners under the insolvency law of any part of the United Kingdom;
+- “insolvency law” has the meaning given by section 426(10) of the 1986 Act, except that the reference to a relevant country or territory shall be construed in accordance with this paragraph;
+- “relevant country or territory” means—
+
+(a) any of the Channel Islands or the Isle of Man; or
+
+(b) any country or territory designated as mentioned in paragraph 10, 20 or 30 above.
+
+[[^F105](7) In the application of this paragraph to Northern Ireland—
+
+(a) for any reference to the Secretary of State there is substituted a reference to the Department of Economic Development in Northern Ireland;
+
+(b) in sub-paragraph (1) for the words “any part of the United Kingdom" and the words “that or any other part of the United Kingdom" there is substituted the words “Northern Ireland";
+
+(c) for sub-paragraph (4) there is substituted the following sub-paragraph— “ (4) An order made under this paragraph by the Department of Economic Development in Northern Ireland shall be a statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 and shall be subject to negative resolution within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954. ”;
+
+(d) in paragraph 35(1) in the definition of “qualifying insolvency proceedings"—
+
+(i) in head (*a*) for “Companies (Northern Ireland) Order 1986" substitute “Insolvency (Northern Ireland) Order 1989" and for “Part XX" substitute “Part V";
+
+(ii) in head (*b*) after “Wales" insert “or in Northern Ireland" and after “1986 Act" insert “or Article 364 of the Insolvency (Northern Ireland) Order 1989";
+
+(iii) in head (*d*) after “Wales" insert “or in Northern Ireland" and after “1986 Act" insert “or Article 365 of the Insolvency (Northern Ireland) Order 1989".]
+
+#### Interpretation of Part IV
+
+**35** (1) In this Part of this Schedule—
+
+- “the 1986 Act” means the [^M44]Insolvency Act 1986;
+- “ancillary order” means any order made in connection with the forfeiture in question, other than the forfeiture order;
+- “forfeiture or restraint order” means a forfeiture or restraint order, as the case may be, of any of the descriptions referred to in Parts I to III of this Schedule;
+- “insolvency practitioner”, except in paragraph 33 above, means a person acting in any qualifying insolvency proceedings in any part of the United Kingdom as—
+
+(a) a liquidator of a company or partnership;
+
+(b) a trustee in bankruptcy;
+
+(c) an interim or permanent trustee in sequestration;
+
+(d) an administrator of the insolvent estate of a deceased person;
+
+(e) a receiver or manager of any property;
+
+- “qualifying insolvency proceedings” means—
+
+(a) any proceedings under the [^M45]1986 Act or the Companies (Northern Ireland) Order 1986 for the winding up of a company or an unregistered company and includes any voluntary winding up of a company under Part IV of that Act or Part XX of that Order;
+
+(b) any proceedings in England and Wales under or by virtue of section 420 of the 1986 Act for the winding up of an insolvent partnership;
+
+(c) any proceedings in bankruptcy or, in Scotland, any sequestration proceedings;
+
+(d) any proceedings in England and Wales under or by virtue of section 421 of the 1986 Act in relation to the insolvent estate of a deceased person;
+
+- “the relevant officer” means—
+
+(a) in Scotland—
+
+(i) where the forfeiture order in question is made by a court in Scotland, the clerk of that court;
+
+(ii) in any other case, the Principal Clerk of Session and Justiciary;
+
+(b) in any other part of the United Kingdom—
+
+(i) where the forfeiture order in question is made by a court in that part, the proper officer within the meaning of paragraph 1 or, as the case may be, paragraph 21 above;
+
+(ii) in any other case, the appropriate officer of the High Court.
+
+(2) Any reference in this Part of this Schedule to the proceeds of the sale or realisation of any property are references to those proceeds after deduction of the costs of sale or realisation.
+
+## SCHEDULE 5 — Port and Border Control
+
+*Section 16(1), (3) and (4).*
+
+### Examining officers
+
+**1** (1) The following shall be examining officers for the purposes of this Act—
+
+(a) constables;
+
+(b) immigration officers appointed for the purposes of the [^M46]Immigration Act 1971 under paragraph 1 of Schedule 2 to that Act; and
+
+(c) officers of customs and excise who are the subject of arrangements for their employment as immigration officers made under that paragraph by the Secretary of State.
+
+(2) In Northern Ireland members of Her Majesty’s Forces may perform such functions conferred on examining officers as the Secretary of State may by order specify.
+
+(3) The power to make orders under sub-paragraph (2) above shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(4) Examining officers shall exercise their functions under this Act in accordance with such instructions as may from time to time be given to them by the Secretary of State.
+
+### Examination on arrival or departure
+
+**2** (1) Any person who has arrived in, or is seeking to leave, Great Britain or Northern Ireland by ship or aircraft [^F106]. . . may be examined by an examining officer for the purpose of determining—
+
+(a) whether that person appears to be a person who is or has been concerned in the commission, preparation or instigation of acts of terrorism to which this paragraph applies; or
+
+(b) whether any such person is subject to an exclusion order [[^F107]or has been served with a noticeunder paragraph 2(1) of Schedule 2 to this Act]; or
+
+(c) whether there are grounds for suspecting that any such person has committed an offence under section 8 of this Act.
+
+(2) This paragraph applies to—
+
+(a) acts of terrorism connected with the affairs of Northern Ireland; and
+
+(b) acts of terrorism of any other description except acts connected solely with the affairs of the United Kingdom or any part of the United Kingdom other than Northern Ireland.
+
+(3) An examining officer may—
+
+(a) examine any person who is entering or seeking to enter or leave Northern Ireland by land from, or to go to, the Republic of Ireland for the purpose of determining whether that person is such a person as is mentioned in any of paragraphs (a) to (c) of sub-paragraph (1) above;
+
+(b) examine any person found in Northern Ireland within a distance of one mile from the border with the Republic of Ireland for the purpose of ascertaining whether he is in the course of entering or leaving Northern Ireland by land;
+
+(c) examine any person entering Northern Ireland by train when he arrives at the first place where the train is scheduled to stop for the purpose of allowing passengers to alight.
+
+(4) The period of a person’s examination under this paragraph shall not exceed twenty-four hours unless he is detained under paragraph 6 below, and may only exceed twelve hours if an examining officer—
+
+(a) has reasonable grounds for suspecting that the person examined is or has been concerned in the commission, preparation or instigation of acts of terrorism to which this paragraph applies; and
+
+(b) gives him a notice in writing requiring him to submit to further examination.
+
+(5) In sub-paragraph (1) above the reference to arrival by ship or aircraft includes a reference to arrival as a transit passenger, member of the crew or other person not seeking to enter Great Britain or Northern Ireland.
+
+### Production of information and documents
+
+**3** (1) It shall be the duty of any person examined under paragraph 2 above to furnish to the person carrying out the examination all such information in his possession as that person may require for the purpose of his functions under that paragraph.
+
+(2) A person on his examination under paragraph 2 above by an examining officer shall, if so required by the examining officer—
+
+(a) produce either a valid passport with photograph or some other document satisfactorily establishing his identity and nationality or citizenship; and
+
+(b) declare whether or not he is carrying or conveying documents of any relevant description specified by the examining officer, and produce any documents of that description which he is carrying or conveying.
+
+(3) In sub-paragraph (2)(b) above “relevant description” means any description appearing to the examining officer to be relevant for the purposes of the examination.
+
+### Powers of search, etc.
+
+**4** (1) An examining officer may, for the purpose of satisfying himself whether there are persons he may wish to examine under paragraph 2 above, search any ship, [[^F108]or aircraft]and anything on board it or anything taken off or about to be taken aboard a ship, [[^F108]or aircraft].
+
+(2) An examining officer who examines any person under paragraph 2 above may, for the purpose of determining whether he is such a person as is mentioned in any of paragraphs (a) to (c) of sub-paragraph (1) of that paragraph, search that person and any baggage belonging to him or any ship [[^F108]or aircraft]and anything on board it or anything taken off or about to be taken aboard a ship [[^F108]or aircraft].
+
+(3) Without prejudice to sub-paragraphs (1) and (2) above, an examining officer who examines any person in Northern Ireland under paragraph 2 above may, for the purpose mentioned in sub-paragraph (2) above, search any vehicle and anything in or on it or anything taken out of or off it or about to be placed in or on it.
+
+(4) An examining officer may detain for the purpose of examining it anything produced pursuant to paragraph 3(2)(b) above or found on a search under this paragraph for a period not exceeding seven days; and if on examination of anything so produced or found the examining officer is of the opinion that it may be needed—
+
+(a) in connection with the taking of a decision by the Secretary of State as to whether or not to make an exclusion order or a deportation order under the [^M47]Immigration Act 1971; or
+
+(b) for use as evidence in criminal proceedings,
+
+he may detain it until he is satisfied that it will not be so needed.
+
+(5) A search of a person under this paragraph may only be carried out by a person of the same sex.
+
+(6) An examining officer may board any ship or aircraft or enter any vehicle for the purpose of exercising any of his functions under this Act.
+
+(7) Where an examining officer has power to search under this paragraph, he may, instead, authorise the search to be carried out on his behalf by a person who is not an examining officer.
+
+(8) Where a person who is not an examining officer carries out a search in accordance with sub-paragraph (7) above, he may—
+
+(a) for that purpose, board any ship or aircraft or enter any vehicle; and
+
+(b) exercise the power of detaining articles conferred by sub-paragraph (4) above;
+
+and he may, if necessary, use reasonable force for the purpose of carrying out his functions under this paragraph.
+
+(9) In Scotland any person employed by a police authority for the assistance of constables under section 9 of the [^M48]Police (Scotland) Act 1967 may perform any functions conferred on examining officers by this paragraph, and may, if necessary, use reasonable force for the purpose of performing those functions.
+
+### [[^F109] Powers to search goods]
+
+**[[^F110]4A** (1) For the purpose of determining whether they are or have been involved in the commission, preparation or instigation of acts of terrorism to which paragraph 2 above applies, an examining officer may search any goods which have arrived in or are about to leave Great Britain or Northern Ireland on any ship, aircraft or vehicle.
+
+(2) An examining officer may board any ship or aircraft or enter any vehicle for the purpose of determining whether there are goods on the ship, aircraft or vehicle in respect of which he may wish to exercise his power of search.
+
+(3) Where an examining officer has power to search under this paragraph, he may, instead, authorise a search to be carried out on his behalf by a person who is not an examining officer.
+
+(4) Where a person who is not an examining officer is authorised to carry out a search in accordance with sub-paragraph (3) above he may—
+
+(a) board any ship or aircraft or enter any vehicle for the purpose of determining whether there are goods on the ship, aircraft or vehicle in respect of which he may wish to exercise his power of search; and
+
+(b) if necessary, use reasonable force for the purpose of carrying out his functions under this paragraph.
+
+(5) In Scotland any person employed by a police authority for the assistance of constables under section 9 of the [^M49]Police (Scotland) Act 1967 may perform any functions conferred on examining officers by this paragraph, and may, if necessary, use reasonable force for the purpose of performing those functions.
+
+(6) Any person carrying out a search under this paragraph may, for the purpose of examining it, detain for a period not exceeding seven days anything found on the search.
+
+(7) If, on examining anything so found, the person examining it is of the opinion that it may be needed for use as evidence in criminal proceedings he may detain it until he is satisfied that it will not be so needed.
+
+(8) In this paragraph “goods” includes—
+
+(a) stores,
+
+(b) baggage,
+
+(c) substances, whether natural or manufactured, and whether or not incorporated in or mixed with other goods, and
+
+(d) in relation to Scotland, also all corporeal moveables,
+
+and any transport container or other container in which goods may be placed.]
+
+### Landing, embarkation, entry and departure cards
+
+**5** (1) Subject to sub-paragraph (2) below, any person who disembarks from, or embarks on—
+
+(a) a ship or aircraft in Great Britain which has come from, or is going to, the Republic of Ireland, Northern Ireland or any of the Islands; or
+
+(b) a ship or aircraft in Northern Ireland which has come from, or is going to Great Britain, the Republic of Ireland or any of the Islands,
+
+shall, if so required by an examining officer, complete and produce to that officer a landing or, as the case may be, an embarkation card in such form as the Secretary of State may direct, which, where the ship or aircraft is employed to carry passengers for reward, shall be supplied for the purpose to that person by the owners or agents of that ship or aircraft.
+
+(2) Sub-paragraph (1) above shall not apply to a person disembarking from a ship or aircraft coming from the Republic of Ireland if that person is required to produce a landing card under any order for the time being in force under paragraph 5 of Schedule 2 to the [^M50]Immigration Act 1971.
+
+(3) Any person who may be examined under paragraph 2(3)(a) or (c) above shall, if so required by an examining officer, complete and produce to that officer an entry or, as the case may be, a departure card in such form as the Secretary of State may direct.
+
+### Detention pending examination etc.
+
+**6** (1) A person who is examined under this Schedule may be detained under the authority of an examining officer—
+
+(a) pending conclusion of his examination;
+
+[^F111]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) pending a decision by the Director of Public Prosecutions or Attorney General or, as the case may be, the Lord Advocate or the Director of Public Prosecutions or Attorney General for Northern Ireland whether proceedings for an offence should be instituted against him.
+
+(2) Subject to sub-paragraph (3) below, a person shall not be detained under sub-paragraph (1) above for more than forty-eight hours from the time when he is first examined.
+
+(3) The Secretary of State may, in any particular case, extend the period of forty-eight hours mentioned in sub-paragraph (2) above by a period or periods specified by him, but any such further period or periods shall not exceed five days in all and if an application for such an extension is made the person detained shall as soon as practicable be given written notice of that fact and of the time when the application was made.
+
+(4) A person liable to be detained under this paragraph may be arrested without warrant by an examining officer.
+
+(5) A person on board a ship or aircraft may, under the authority of an examining officer, be removed from the ship or aircraft for detention under this paragraph; but if an examining officer so requires, the captain of the ship or aircraft shall prevent from disembarking in the relevant territory any person who has arrived in the ship or aircraft if the examining officer notifies him either that that person is the subject of an exclusion order or that consideration is being given by the Secretary of State to the making of an exclusion order against that person.
+
+(6) Where under sub-paragraph (5) above the captain of a ship or aircraft is required to prevent a person from disembarking he may for that purpose detain him in custody on board the ship or aircraft.
+
+(7) A person may be removed from a vehicle for detention under this paragraph.
+
+(8) In sub-paragraph (5) above “the relevant territory” has the same meaning as in paragraph 6 of Schedule 2 to this Act.
+
+### Detention: supplementary provisions
+
+**7** (1) If a justice of the peace is satisfied that there are reasonable grounds for suspecting that a person liable to be arrested under paragraph 6(4) above is to be found on any premises he may grant a search warrant authorising any constable to enter those premises for the purpose of searching for and arresting that person.
+
+(2) In Scotland the power to issue a warrant under sub-paragraph (1) above shall be exercised by a sheriff or a justice of the peace, an application for such a warrant shall be supported by evidence on oath and a warrant shall not authorise a constable to enter any premises unless he is a constable for the police area in which they are situated.
+
+(3) In Northern Ireland an application for a warrant under sub-paragraph (1) above shall be made by a complaint on oath.
+
+(4) A person detained under this Schedule shall be deemed to be in legal custody at any time when he is so detained and, if detained otherwise than on board a ship or aircraft, may be detained in such a place as the Secretary of State may from time to time direct.
+
+(5) Where a person is detained under this Schedule, any examining officer, constable or prison officer, or any other person authorised by the Secretary of State, may take all such steps as may be reasonably necessary for photographing, measuring or otherwise identifying him.
+
+(6) Section 61(1) to (8) of the [^M51]Police and Criminal Evidence Act 1984 (finger-printing) shall apply to the taking of a person’s fingerprints by a constable under sub-paragraph (5) above as if for subsection (4) there were substituted—
+
+> (4) An officer may only give an authorisation under subsection (3)(a) above for the taking of a person’s fingerprints if he is satisfied that it is necessary to do so in order to assist in determining—
+>
+> (a) whether that person is or has been concerned in the commission, preparation or instigation of acts of terrorism to which paragraph 2 of Schedule 5 to the Prevention of Terrorism (Temporary Provisions) Act 1989 applies;
+>
+> (b) whether he is subject to an exclusion order under that Act; or
+>
+> (c) whether there are grounds for suspecting that he has committed an offence under section 8 of that Act.
+
+[[^F112](6A) Section 62(1) to (11) of the Police and Criminal Evidence Act 1984 (regulation of taking of intimate samples) shall apply to the taking of an intimate sample from a person under sub-paragraph (5) above as if—
+
+(a) for subsection (2) there were substituted—
+
+“ An officer may only give an authorisation under subsection (1) or (1A) above for the taking of an intimate sample if he is satisfied that it is necessary to do so in order to assist in determining—
+
+(a) whether that person is or has been concerned in the commission, preparation or instigation of acts of terrorism to which paragraph 2 of Schedule 5 to the Prevention of Terrorism (Temporary Provisions) Act 1989 applies; or
+
+(b) whether he is subject to an exclusion order under that Act; or
+
+(c) whether there are grounds for suspecting that he has committed an offence under section 8 of that Act"; and
+
+(b) in subsection (6), after the word “includes", there were inserted the words “where relevant".
+
+(6B) In this paragraph, “intimate sample” has the same meaning as in section 65 of the Police and Criminal Evidence Act 1984.
+
+(6C) Section 63 (1) to (9) of the Police and Criminal Evidence Act 1984 (regulation of taking of non-intimate samples) shall apply to the taking of a non-intimate sample from a person by a constable under sub-paragraph (5) above as if—
+
+(a) for subsection (4) there were substituted—
+
+“ An officer may only give an authorisation under subsection (3) above for the taking of a non-intimate sample if he is satisfied that it is necessary to do so in order to assist in determining—
+
+(a) whether that person is or has been concerned in the commission, preparation or instigation of acts of terrorism to which paragraph 2 of Schedule 5 to the Prevention of Terrorism (Temporary Provisions) Act 1989 applies;
+
+(b) whether he is subject to an exclusion order under that Act; or
+
+(c) whether there are grounds for suspecting that he has committed an offence under section 8 of that Act"; and
+
+(b) in subsection (7), after the word “includes", there were inserted the words “where relevant".
+
+(6D) In this paragraph, “non-intimate sample” has the same meaning as in section 65 of the Police and Criminal Evidence Act 1984.]
+
+(7) Any person detained under this Schedule may be taken in the custody of an examining officer, or of any person acting under the authority of such an officer, to and from any place where his attendance is required for the purpose of establishing his nationality or citizenship or for making arrangements for his admission to a country or territory outside the United Kingdom or where he is required to be for any other purpose connected with the operation of this Act.
+
+### Designated ports
+
+**8** (1) The owners or agents of a ship or aircraft employed to carry passengers for reward and coming to Great Britain from the Republic of Ireland, Northern Ireland or any of the Islands or going from Great Britain to any other of those places shall not, without the approval of an examining officer, arrange for the ship or aircraft to call at a port in Great Britain other than a designated port for the purpose of disembarking or embarking passengers.
+
+(2) The captain of an aircraft not employed to carry passengers for reward and coming to Great Britain from the Republic of Ireland, Northern Ireland or any of the Islands or going from Great Britain to any other of those places shall not, without the approval of an examining officer, permit the aircraft to call at or leave a port in Great Britain other than a designated port.
+
+(3) The owners or agents of a ship or aircraft employed to carry passengers for reward and coming to Northern Ireland from Great Britain, the Republic of Ireland or any of the Islands or going from Northern Ireland to any other of those places shall not, without the approval of an examining officer, arrange for the ship or aircraft to call at a port in Northern Ireland other than a designated port for the purpose of disembarking or embarking passengers.
+
+(4) The captain of an aircraft not employed to carry passengers for reward and coming to Northern Ireland from Great Britain, the Republic of Ireland or any of the Islands or going from Northern Ireland to any other of those places shall not, without the approval of an examining officer, permit the aircraft to call at or leave a port in Northern Ireland other than a designated port.
+
+### Control areas
+
+**9** (1) The Secretary of State may from time to time give written notice to the owners or agents of any ships or aircraft designating control areas for the disembarkation or embarkation of passengers in any port in the United Kingdom and specifying the conditions and restrictions (if any) to be observed in any control area; and where by notice given to any owners or agents a control area is for the time being so designated at any port, the owners or agents shall take all reasonable steps to ensure that, in the case of their ships or aircraft, passengers do not disembark or, as the case may be, embark at the port outside the control area and that any conditions or restrictions notified to them are observed.
+
+(2) The Secretary of State may also from time to time give to any persons concerned with the management of a port in the United Kingdom written notice designating control areas in the port and specifying facilities to be provided and conditions and restrictions to be observed in any control area; and any such person shall take all reasonable steps to secure that any facilities, conditions or restrictions notified to him are provided or observed.
+
+[^F113]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Requirements with respect to embarkation and disembarkation of passengers and crew
+
+**10** (1) The captain of a ship or aircraft employed to carry passengers for reward arriving in Great Britain from the Republic of Ireland, Northern Ireland or any of the Islands or arriving in Northern Ireland from Great Britain, the Republic of Ireland or any of the Islands—
+
+(a) shall, except so far as he may be otherwise required to do so under paragraph 27(1) of Schedule 2 to the [^M52]Immigration Act 1971, take such steps as may be necessary to secure that passengers on board and members of the crew do not disembark there unless either they have been examined by an examining officer or they disembark in accordance with arrangements approved by an examining officer; and
+
+(b) where any examination of persons on board is to be carried out on the ship or aircraft, shall take such steps as may be necessary to secure that those to be examined are presented for the purpose in an orderly manner.
+
+(2) The captain of a ship or aircraft employed to carry passengers for reward going from Great Britain to the Republic of Ireland, Northern Ireland or any of the Islands or going from Northern Ireland to Great Britain, the Republic of Ireland or any of the Islands shall take such steps as may be necessary to secure that—
+
+(a) passengers and members of the crew do not embark except in accordance with arrangements approved by an examining officer; and
+
+(b) if persons embarking are to be examined on board the ship or aircraft, they are presented for the purpose in an orderly manner.
+
+(3) Sub-paragraphs (1) and (2) above apply also to aircraft not employed to carry passengers for reward.
+
+(4) The captain of a ship or aircraft arriving in Great Britain from the Republic of Ireland, Northern Ireland or any of the Islands or arriving in Northern Ireland from Great Britain, the Republic of Ireland or any of the Islands shall, unless he is subject to the requirements of an order under paragraph 27(2) of Schedule 2 to the Immigration Act 1971 and subject to sub-paragraph (6) below, comply with the requirements of sub-paragraph (5) below with respect to the furnishing to the examining officer of the particulars of the passengers on and crew of the ship or aircraft.
+
+(5) The requirements referred to in sub-paragraph (4) above are—
+
+(a) in the case of a ship employed to carry passengers for reward or an aircraft, to furnish to the examining officer, as soon as reasonably practicable after the arrival of the ship or aircraft, a list of the names and of the dates and places of birth of all passengers and members of the crew arriving on the ship or aircraft; and
+
+(b) in the case of a ship not employed to carry passengers for reward, to furnish to the examining officer, within twelve hours of the arrival of the ship, a list of the names, the dates and places of birth and the addresses of the destinations in Great Britain or Northern Ireland of all passengers and members of the crew arriving on the ship.
+
+(6) An examining officer may dispense with all, or any, of the requirements of sub-paragraph (5) above either generally or in respect of such classes of persons as he may specify.
+
+(7) Any passenger on a ship or aircraft shall furnish to the captain of the ship or aircraft, as the case may be, any information required by him for the purpose of complying with the provisions of sub-paragraph (5) above.
+
+### Offences
+
+**11** A person who knowingly contravenes any prohibition or fails to comply with any duty or requirement imposed by or under this Schedule [[^F114], or otherwise wilfully obstructs, or seeks to frustrate the object of, a search under this Schedule,] is guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding three months or a fine not exceeding level 4 on the standard scale or both.
+
+## SCHEDULE 6 — Designated Ports
+
+*Section 16(3).*
+
+### Part I — Great Britain
+
+|  |  |
+|---|---|
+| Seaports | Airports |
+| Ardrossan | Aberdeen |
+| [[^F115]Campbeltown] | Biggin Hill |
+| Cairnryan | Birmingham |
+| Fishguard | Blackpool |
+| Fleetwood | Bournemouth (Hurn) |
+| Heysham | Bristol |
+| Holyhead | Cambridge |
+| Pembroke Dock | Cardiff |
+| Plymouth | Carlisle |
+| Port of Liverpool | Coventry |
+| Poole Harbour | East Midlands |
+| Portsmouth Continental Ferry Port | Edinburgh |
+| [^F116] . . . | Exeter |
+| [[^F117]Southampton] | Glasgow |
+| Stranraer | Gloucester/Cheltenham (Staverton) |
+| Swansea | Humberside |
+| [^F118]. . . | Leeds/Bradford |
+| [[^F119] Torquay] | Liverpool |
+| [[^F120] Troon] | London-City |
+| Weymouth | London-Gatwick |
+|  | London-Heathrow |
+|  | Luton |
+|  | Lydd |
+|  | Manchester |
+|  | Manston |
+|  | Newcastle |
+|  | Norwich |
+|  | Plymouth |
+|  | Prestwick |
+|  | [[^F121]Sheffield City] |
+|  | Southampton |
+|  | Southend |
+|  | Stansted |
+|  | Teesside |
+
+### Part II — Northern Ireland
+
+|  |  |
+|---|---|
+| Belfast | Aldergrove |
+| Larne | Sydenham |
+| Warrenpoint |  |
+
+## [[^F122]SCHEDULE 6A — Police Cordons]
+
+**1** In this Schedule—
+
+- “authorisation” means an authorisation given under section 16C of this Act;
+- “cordoned area” means an area on which a cordon has been imposed by an authorisation which remains in force;
+- “police tape” means any plastic or other tape which is generally used by the police force concerned to indicate an area to which members of the public should not attempt to gain access;
+- “terrorist investigation” means any investigation to which section 17(1) of this Act applies.
+
+### Authorisation
+
+**2** (1) Authorisation may be given in writing or orally but if given orally must be confirmed in writing by the person giving it as soon as is reasonably practicable.
+
+(2) A constable who gives an authorisation by virtue of section 16C(2) above must, as soon as is reasonably practicable—
+
+(a) make a written record of the time at which he gave it; and
+
+(b) cause a police officer of at least the rank of superintendent to be informed that it was given.
+
+(3) An officer to whom such a report is made may give a direction in writing—
+
+(a) confirming the authorisation; or
+
+(b) if he considers that it should not be confirmed, cancelling it.
+
+(4) If a direction is given under sub-paragraph (3)(b), the officer giving it must record in writing—
+
+(a) the fact that the authorisation was given; and
+
+(b) the reason for giving it.
+
+### Area on which cordon is imposed
+
+**3** (1) An authorisation must specify the area on which the cordon is being imposed.
+
+(2) That area must be within the police area of the person giving the authorisation.
+
+### Period for which cordon is imposed
+
+**4** (1) An authorisation must specify the period for which it will be in force.
+
+(2) The period initially specified must not exceed 14 days.
+
+(3) The specified period may be extended by one or more written variations made by an officer of at least the rank of superintendent.
+
+(4) The overall period for which an authorisation is in force must not exceed 28 days.
+
+### Marking the area
+
+**5** The area on which a cordon is imposed must, so far as is reasonably practicable, be indicated by means of police tape or in such other manner as appears to the police officer responsible for carrying out the arrangements for applying the cordon to be appropriate.
+
+### Police powers in cordoned area
+
+**6** (1) A person who is in a cordoned area must immediately leave the area if ordered to do so by a constable in uniform.
+
+(2) A person who is on any premises which abut or are wholly or partly within a cordoned area must immediately leave the premises if ordered to do so by a constable in uniform.
+
+(3) The driver or other person in charge of a vehicle which is in a cordoned area must immediately move the vehicle from the area if ordered to do so by a constable in uniform.
+
+(4) A constable may—
+
+(a) remove from a cordoned area any vehicle which is in that area; or
+
+(b) move any such vehicle to another place within that area.
+
+(5) A constable in uniform may prohibit or restrict any vehicular or pedestrian access to a cordoned area.
+
+### Powers of search in cordoned area: England and Wales
+
+**7** (1) If a police officer of at least the rank of superintendent has reasonable grounds for believing—
+
+(a) that there is material which is likely to be of substantial value (whether by itself or together with other material) to a terrorist investigation to be found on premises which are wholly or partly within a cordoned area, and
+
+(b) that the material does not consist of or include items subject to legal privilege, excluded material or special procedure material,
+
+he may give written authority for a search of the premises.
+
+(2) If written authority is given under this paragraph, a constable may enter the premises specified in the authority, search the premises and any person found there and seize and retain anything found there or on any such person, other than items subject to legal privilege, if he has reasonable grounds for believing—
+
+(a) that it is likely to be of substantial value (whether by itself or together with other material) to the investigation; and
+
+(b) that it is necessary to seize it in order to prevent it being concealed, lost, damaged, altered or destroyed.
+
+(3) Entry and search under an authority given under this paragraph may be at any time (and on more than one occasion) while the area concerned is a cordoned area.
+
+(4) Nothing in this paragraph authorises a constable to require a person to remove any of his clothing in public other than any headgear, footwear, outer coat, jacket or gloves.
+
+(5) Any power of seizure conferred by this Schedule is without prejudice to the powers conferred by section 19 of the [^M53]Police and Criminal Evidence Act 1984 and for the purposes of sections 21 and 22 of that Act (access to, and copying and retention of, seized material), a terrorist investigation is to be treated as an investigation of or in connection with an offence.
+
+(6) In this paragraph “items subject to legal privilege”, “excluded material” and “special procedure material” have the meaning given in sections 10 to 14 of the [^M54]Police and Criminal Evidence Act 1984.
+
+### Powers of search in cordoned areas: Scotland
+
+**8** (1) If a police officer of at least the rank of superintendent has reasonable grounds for believing that there is material which is likely to be of substantial value (whether by itself or together with other material) to a terrorist investigation to be found on premises which are wholly or partly within a cordoned area, he may give written authority for a search of the premises.
+
+(2) If written authority is given under this paragraph, a constable may enter the premises specified in the authority, search the premises and any person found there and seize and retain anything found there or on any such person if he has reasonable grounds for believing that it is such material as is mentioned in sub-paragraph (1) above and that it is necessary to seize it in order to prevent it being concealed, lost, damaged, altered or destroyed.
+
+(3) Under an authority given under this paragraph a constable may—
+
+(a) enter and search the premises specified in the authority at any time (and on more than one occasion) while the area concerned is a cordoned area; and
+
+(b) if necessary, for the purpose of the exercise of his powers under sub-paragraph (2) above, open lockfast places on such premises.
+
+(4) Nothing in this paragraph authorises a constable to require a person to remove any of his clothing in public other than any headgear, footwear, outer coat, jacket or gloves.
+
+(5) Nothing in this paragraph shall prejudice any rule of law whereby—
+
+(a) communications between a professional legal adviser and his client, or
+
+(b) communications made in connection with or in contemplation of legal proceedings and for the purpose of those proceedings,
+
+are in legal proceedings protected from disclosure on grounds of confidentiality.
+
+### Offences
+
+**9** (1) A person who—
+
+(a) fails to comply with an order given under paragraph 6(1), (2) or (3) above,
+
+(b) contravenes a prohibition or restriction imposed under paragraph 6(5) above, or
+
+(c) wilfully obstructs a constable in the execution of his duty under paragraph 6 above,
+
+is guilty of an offence.
+
+(2) A person who wilfully obstructs, or seeks to frustrate the object of, a search under paragraph 7 or 8 above, is guilty of an offence.
+
+(3) It is a defence for a person charged with an offence under sub-paragraph (1)(a) or (b) above to prove that he had lawful authority or some other reasonable excuse for the failure or contravention.
+
+(4) A person who is guilty of an offence under this paragraph is liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding level 4 on the standard scale or both.
+
+### Powers to be in addition to other powers
+
+**10** The powers conferred by this Schedule are additional to any other powers which a constable has either at common law or under or by virtue of any other enactment and are not to be taken to affect any of those other powers.
+
+## SCHEDULE 7 — Terrorist Investigations
+
+*Section 17.*
+
+### Part I — England, Wales and Northern Ireland
+
+#### Interpretation
+
+**1** In this Part of this Schedule a “terrorist investigation” means any investigation to which section 17(1) of this Act applies and “items subject to legal privilege”, “excluded material” and “special procedure material” have the meanings given in sections 10 to 14 of the [^M55]Police and Criminal Evidence Act 1984.
+
+#### Search for material other than excluded or special procedure material
+
+**2** (1) A justice of the peace may, on an application made by a constable, issue a warrant under this paragraph if satisfied that a terrorist investigation is being carried out and that there are reasonable grounds for believing—
+
+(a) that there is material on premises specified in the application which is likely to be of substantial value (whether by itself or together with other material) to the investigation;
+
+(b) that the material does not consist of or include items subject to legal privilege, excluded material or special procedure material; and
+
+(c) that any of the conditions in sub-paragraph (2) below are fulfilled.
+
+(2) The conditions referred to in sub-paragraph (1)(c) above are—
+
+(a) that it is not practicable to communicate with any person entitled to grant entry to the premises;
+
+(b) that it is practicable to communicate with a person entitled to grant entry to the premises but it is not practicable to communicate with any person entitled to grant access to the material;
+
+(c) that entry to the premises will not be granted unless a warrant is produced;
+
+(d) that the purpose of a search may be frustrated or seriously prejudiced unless a constable arriving at the premises can secure immediate entry to them.
+
+(3) A warrant under this paragraph shall authorise a constable to enter the premises specified in the warrant and to search the premises and any person found there and to seize and retain anything found there or on any such person, other than items subject to legal privilege, if he has reasonable grounds for believing—
+
+(a) that it is likely to be of substantial value (whether by itself or together with other material) to the investigation; and
+
+(b) that it is necessary to seize it in order to prevent it being concealed, lost, damaged, altered or destroyed.
+
+(4) In Northern Ireland an application for a warrant under this paragraph shall be made by a complaint on oath.
+
+#### [[^F123] Search of non-residential premises]
+
+**[^F124]2A** (1) A justice of the peace may, on an application made by a police officer of at least the rank of superintendent, issue a warrant under this paragraph if satisfied that a terrorist investigation is being carried out and that there are reasonable grounds for believing—
+
+(a) that there is material which is likely to be of substantial value (whether by itself or together with other material) to the investigation to be found on one or more of the premises specified in the application; and
+
+(b) that the material does not consist of or include items subject to legal privilege, excluded material or special procedure material.
+
+(2) The officer making an application under this paragraph may not include in the premises specified in the application any which he has reasonable cause to believe are used wholly or mainly as a dwelling.
+
+(3) A warrant under this paragraph shall authorise a constable to enter any of the premises specified in the warrant and to search the premises and any person found there and to seize and retain anything found there or on any such person, other than an item subject to legal privilege, if he has reasonable grounds for believing—
+
+(a) that it is likely to be of substantial value (whether by itself or together with other material) to the investigation; and
+
+(b) that it is necessary to seize it in order to prevent it from being concealed, lost, damaged, altered or destroyed.
+
+(4) Entry and search under a warrant issued under this paragraph must be within 24 hours from the time when the warrant is issued.
+
+#### Order for production of excluded or special procedure material
+
+**3** (1) A constable may, for the purposes of a terrorist investigation, apply to a Circuit judge for an order under sub-paragraph (2) below in relation to particular material or material of a particular description, being material consisting of or including excluded material or special procedure material.
+
+(2) If on such an application the judge is satisfied that the material consists of or includes such material as is mentioned in sub-paragraph (1) above, that it does not include items subject to legal privilege and that the conditions in sub-paragraph (5) below are fulfilled, [[^F125]he may order a person who appears to him to have in his possession, custody or power any of the material to which the application relates, to—]
+
+(a) produce it to a constable for him to take away; or
+
+(b) give a constable access to it,
+
+within such period as the order may specify and if the material is not in that person’s possession [[^F126], custody or power] (and will not come into his possession [[^F126], custody or power] within that period) to state to the best of his knowledge and belief where it is.
+
+(3) An order under sub-paragraph (2) above may relate to material of a particular description which is expected to come into existence or become available to the person concerned in the period of twenty-eight days beginning with the date of the order; and an order made in relation to such material shall require that person to notify a named constable as soon as possible after the material comes into existence or becomes available to that person.
+
+(4) The period to be specified in an order under sub-paragraph (2) above shall be seven days from the date of the order or, in the case of an order made by virtue of sub-paragraph (3) above, from the notification to the constable unless it appears to the judge that a longer or shorter period would be appropriate in the particular circumstances of the application.
+
+(5) The conditions referred to in sub-paragraph (2) above are—
+
+(a) that a terrorist investigation is being carried out and that there are reasonable grounds for believing that the material is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purposes of which the application is made; and
+
+(b) that there are reasonable grounds for believing that it is in the public interest, having regard—
+
+(i) to the benefit likely to accrue to the investigation if the material is obtained; and
+
+(ii) to the circumstances under which the person [[^F127]has the material in his possession, custody or power]
+
+that the material should be produced or that access to it should be given.
+
+(6) Where the judge makes an order under sub-paragraph (2)(b) above in relation to material on any premises he may, on the application of a constable, order any person who appears to him to be entitled to grant entry to the premises to allow a constable to enter the premises to obtain access to the material.
+
+(7) In Northern Ireland the power to make an order under this paragraph shall be exercised by a county court judge.
+
+**4** (1) Provision may be made by Crown Court Rules as to—
+
+(a) the discharge and variation of orders under paragraph 3 above; and
+
+(b) proceedings relating to such orders.
+
+(2) The following provisions shall have effect pending the coming into force of Crown Court Rules under sub-paragraph (1) above—
+
+(a) an order under paragraph 3 above may be discharged or varied by a Circuit judge on a written application made to the appropriate officer of the Crown Court by any person subject to the order;
+
+(b) unless a Circuit judge otherwise directs on grounds of urgency, the applicant shall, not less than forty-eight hours before making the application, send a copy of it and a notice in writing of the time and place where the application is to be made to the constable on whose application the order to be discharged or varied was made or on any other constable serving in the same police station.
+
+(3) An order of a Circuit judge under paragraph 3 above shall have effect as if it were an order of the Crown Court.
+
+(4) Where the material to which an application under that paragraph relates consists of information contained in a computer—
+
+(a) an order under sub-paragraph (2)(a) of that paragraph shall have effect as an order to produce the material in a form in which it can be taken away and in which it is visible and legible; and
+
+(b) an order under sub-paragraph (2)(b) of that paragraph shall have effect as an order to give access to the material in a form in which it is visible and legible.
+
+(5) An order under paragraph 3 above—
+
+(a) shall not confer any right to production of, or access to, items subject to legal privilege;
+
+(b) shall have effect notwithstanding any obligation as to secrecy or other restriction on the disclosure of information imposed by statute or otherwise.
+
+(6) An order may be made under paragraph 3 above in relation to material in the possession [[^F128], custody or power] of a government department which is an authorised government department for the purposes of the [^M56]Crown Proceedings Act 1947; and any such order (which shall be served as if the proceedings were civil proceedings against the department) may require any officer of the department, whether named in the order or not, who may for the time being [[^F129]have in his possession , custody or power]the material concerned to comply with it.
+
+(7) In the application of this paragraph to Northern Ireland for references to a Circuit judge there shall be substituted references to a county court judge and for references to a government department or authorised government department there shall be substituted references to a Northern Ireland department or authorised Northern Ireland department.
+
+#### Search for excluded or special procedure material
+
+**5** (1) A constable may apply to a Circuit judge for a warrant under this paragraph in relation to specified premises.
+
+(2) On such an application the judge may issue a warrant under this paragraph if satisfied—
+
+(a) that an order made under paragraph 3 above in relation to material on the premises has not been complied with; or
+
+(b) that there are reasonable grounds for believing that there is on the premises material consisting of or including excluded material or special procedure material, that it does not include items subject to legal privilege and that the conditions in sub-paragraph (5) of that paragraph and the condition in sub-paragraph (3) below are fulfilled in respect of that material.
+
+(3) The condition referred to in sub-paragraph (2)(b) above is that it would not be appropriate to make an order under paragraph 3 above in relation to the material because—
+
+(a) it is not practicable to communicate with any person entitled to produce the material; or
+
+(b) it is not practicable to communicate with any person entitled to grant access to the material or entitled to grant entry to the premises on which the material is situated; or
+
+(c) the investigation for the purposes of which the application is made might be seriously prejudiced unless a constable could secure immediate access to the material.
+
+(4) A warrant under this paragraph shall authorise a constable to enter the premises specified in the warrant and to search the premises and any person found there and to seize and retain anything found there or on any such person, other than items subject to legal privilege, if he has reasonable grounds for believing that it is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purposes of which the application was made.
+
+(5) In Northern Ireland the power to issue a warrant under this paragraph shall be exercised by a county court judge.
+
+#### Explanation of seized or produced material
+
+**6** (1) A Circuit judge may, on an application made by a constable, order any person specified in the order to provide an explanation of any material seized in pursuance of a warrant under paragraph 2 [[^F130], 2A] or 5 above or produced or made available to a constable under paragraph 3 above.
+
+(2) A person shall not under this paragraph be required to disclose any information which he would be entitled to refuse to disclose on grounds of legal professional privilege in proceedings in the High Court, except that a lawyer may be required to furnish the name and address of his client.
+
+(3) A statement by a person in response to a requirement imposed by virtue of this paragraph may only be used in evidence against him—
+
+(a) on a prosecution for an offence under sub-paragraph (4) below; or
+
+(b) on a prosecution for some other offence where in giving evidence he makes a statement inconsistent with it.
+
+(4) A person who, in purported compliance with a requirement under this paragraph—
+
+(a) makes a statement which he knows to be false or misleading in a material particular; or
+
+(b) recklessly makes a statement which is false or misleading in a material particular,
+
+is guilty of an offence.
+
+(5) A person guilty of an offence under sub-paragraph (4) above is liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine or both;
+
+(b) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or both.
+
+(6) In Northern Ireland the power to make an order under this paragraph shall be exercised by a county court judge.
+
+(7) Paragraph 4(1), (2), (3) and (6) above shall apply to orders under this paragraph as they apply to orders under paragraph 3.
+
+#### Urgent cases
+
+**7** (1) If a police officer of at least the rank of superintendent has reasonable grounds for believing that the case is one of great emergency and that in the interests of the State immediate action is necessary, he may by a written order signed by him give to any constable the authority which may be given by a search warrant under paragraph 2 [[^F131], 2A] or 5 above.
+
+(2) Where an authority is given under this paragraph particulars of the case shall be notified as soon as may be to the Secretary of State.
+
+(3) An order under this paragraph may not authorise a search for items subject to legal privilege.
+
+(4) If such a police officer as is mentioned in sub-paragraph (1) above has reasonable grounds for believing that the case is such as is there mentioned he may by a notice in writing signed by him require any person specified in the notice to provide an explanation of any material seized in pursuance of an order under this paragraph.
+
+(5) Any person who without reasonable excuse fails to comply with a notice under sub-paragraph (4) above is guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding six months or a fine not exceeding level 5 on the standard scale or both.
+
+(6) Sub-paragraphs (2) to (5) of paragraph 6 above shall apply to a requirement imposed under sub-paragraph (4) above as they apply to a requirement under that paragraph.
+
+#### Orders by Secretary of State in relation to certain investigations
+
+**8** (1) This paragraph has effect in relation to a terrorist investigation concerning any act which appears to the Secretary of State to constitute an offence under Part III of this Act [[^F132]or an offence under section 29 of the Northern Ireland (Emergency Provisions) Act 1996].
+
+(2) Without prejudice to the foregoing provisions of this Part of this Schedule, the Secretary of State may by a written order signed by him or on his behalf give to any constable in Northern Ireland the authority which may be given by a search warrant under paragraph 2 or 5 above or impose on any person in Northern Ireland any such requirement as may be imposed by an order under paragraph 3 above if—
+
+(a) he is satisfied as to the matters specified in those paragraphs respectively for the issue of a warrant by a justice of the peace or the making of an order by a county court judge; and
+
+(b) it appears to him that the disclosure of information that would be necessary for an application under those provisions would be likely to prejudice the capability of members of the Royal Ulster Constabulary in relation to the investigation of offences under Part III of this Act or otherwise prejudice the safety of, or of persons in, Northern Ireland.
+
+(3) A person who disobeys an order under this paragraph which corresponds to an order under paragraph 3 above (a “Secretary of State’s production order”) is liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine or both;
+
+(b) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or both.
+
+(4) A Secretary of State’s production order may be varied or revoked by the Secretary of State and references in paragraphs 4(4), (5) and (6) and 5 above to an order under paragraph 3 above shall include references to a Secretary of State’s production order.
+
+(5) The Secretary of State may by a written order signed by him or on his behalf require any person in Northern Ireland to provide an explanation of any material seized or produced in pursuance of an order under the foregoing provisions of this paragraph; and paragraphs 6(2) to (5) and 7(5) above shall apply to an order under this sub-paragraph as they apply to an order or notice under those paragraphs.
+
+#### Access to Land Register
+
+##### [^F133]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9**
+
+#### Supplementary
+
+**10** (1) Any power of seizure conferred by this Schedule is without prejudice to the powers conferred by section 19 of the [^M57]Police and Criminal Evidence Act 1984 and for the purposes of sections 21 and 22 of that Act (access to, and copying and retention of, seized material)—
+
+(a) a terrorist investigation shall be treated as an investigation of or in connection with an offence; and
+
+(b) material produced in pursuance of an order under paragraph 3 or 8 above shall be treated as if it were material seized by a constable.
+
+(2) A search of a person under this Part of this Schedule may only be carried out by a person of the same sex.
+
+### Part II — Scotland
+
+#### Interpretation
+
+**11** In this Part of this Schedule a “terrorist investigation” means any investigation to which section 17(1) of this Act applies.
+
+#### [[^F134] Search of non-residential premises]
+
+**[^F135]11A** (1) A procurator fiscal may, for the purposes of a terrorist investigation, apply to a sheriff for a warrant under this paragraph in relation to two or more premises specified in the application.
+
+(2) A procurator fiscal making an application under this paragraph may not include in the premises so specified any which he has reasonable cause to believe are used wholly or mainly as a dwelling.
+
+(3) On such an application a sheriff may issue a warrant authorising a constable to enter and search the premises specified in the application if the sheriff is satisfied that—
+
+(a) a terrorist investigation is being carried out; and
+
+(b) there are reasonable grounds for believing that there is material which is likely to be of substantial value (whether by itself or together with other material) to the investigation to be found on one or more of those premises.
+
+(4) A warrant under this paragraph shall authorise a constable to enter any of the premises specified in the warrant and to search those premises and any person found there and to seize and retain any material found there or on any such person, if he has reasonable grounds for believing that—
+
+(a) it is likely to be of substantial value (whether by itself or together with any other material) to the investigation; and
+
+(b) it is necessary to seize it in order to prevent it being concealed, lost, damaged, altered or destroyed.
+
+(5) Entry and search under a warrant issued under this paragraph must be within 24 hours from the time when the warrant is issued.
+
+(6) A warrant issued under this paragraph may authorise persons named in the warrant to accompany a constable who is executing it.
+
+#### Order for production of material
+
+**12** (1) A procurator fiscal may, for the purpose of a terrorist investigation, apply to a sheriff for an order under sub-paragraph (2) below in relation to particular material or material of a particular description.
+
+(2) If on such an application the sheriff is satisfied that the conditions in sub-paragraph (5) below are fulfilled, [[^F136]he may order a person who appears to him to have in his possession, custody or power any of the material to which the application relates, to—]
+
+(a) produce it to a constable for him to take away; or
+
+(b) give a constable access to it,
+
+within such period as the order may specify and if the material is not in that person’s possession [[^F137], custody or power] (and will not come into his possession [[^F137], custody or power] within that period) to state to the best of his knowledge and belief where it is.
+
+(3) An order under sub-paragraph (2) above may relate to material of a particular description which is expected to come into existence or become available to the person concerned in the period of twenty-eight days beginning with the date of the order; and an order made in relation to such material shall require that person to notify a named constable as soon as possible after the material comes into existence or becomes available to that person.
+
+(4) The period to be specified in an order under sub-paragraph (2) above shall be seven days from the date of the order or, in the case of an order made by virtue of sub-paragraph (3) above, from the notification to the constable unless it appears to the sheriff that a longer or shorter period would be appropriate in the particular circumstances of the application.
+
+(5) The conditions referred to in sub-paragraph (2) above are—
+
+(a) that a terrorist investigation is being carried out and that there are reasonable grounds for believing that the material to which the application relates is likely to be of substantial value (whether by itself or together with other material) to the investigation; and
+
+(b) that there are reasonable grounds for believing that it is in the public interest, having regard—
+
+(i) to the benefit likely to accrue to the investigation if the material is obtained; and
+
+(ii) to the circumstances under which the person [[^F138]has the material in his possession, custody or power]
+
+that the material should be produced or that access to it should be given.
+
+(6) Where the sheriff makes an order under sub-paragraph (2)(b) above in relation to material on any premises he may, on the application of the procurator fiscal, order any person who appears to him to be entitled to grant entry to the premises to allow a constable to enter the premises to obtain access to the material.
+
+**13** (1) Provision may be made by Act of Adjournal as to—
+
+(a) the discharge and variation of orders under paragraph 12 above; and
+
+(b) proceedings relating to such orders.
+
+(2) The following provisions shall have effect pending the coming into force of an Act of Adjournal under sub-paragraph (1) above—
+
+(a) an order under paragraph 12 above may be discharged or varied by a sheriff on a written application made to him by any person subject to the order;
+
+(b) unless the sheriff otherwise directs on grounds of urgency, the applicant shall, not less than forty-eight hours before making the application, send a copy of it and a notice in writing of the time and place where the application is to be made to the procurator fiscal on whose application the order to be discharged or varied was made.
+
+(3) Where the material to which an application under paragraph 12 above relates consists of information contained in a computer—
+
+(a) an order under sub-paragraph (2)(a) of that paragraph shall have effect as an order to produce the material in a form in which it can be taken away and in which it is visible and legible; and
+
+(b) an order under sub-paragraph (2)(b) of that paragraph shall have effect as an order to give access to the material in a form in which it is visible and legible;
+
+(4) Subject to paragraph 17(1)(b) below, an order under paragraph 12 above shall have effect notwithstanding any obligation as to secrecy or other restriction on the disclosure of information imposed by statute or otherwise.
+
+(5) An order may be made under paragraph 12 above in relation to material in the possession [[^F139], custody or power] of a government department which is an authorised government department for the purposes of the [^M58]Crown Proceedings Act 1947; and any such order (which shall be served as if the proceedings were civil proceedings against the department) may require any officer of the department, whether named in the order or not, who may for the time being [[^F140]have in his possession , custody or power] the material concerned to comply with such order.
+
+#### Warrant for search of premises
+
+**14** (1) A procurator fiscal may, for the purpose of a terrorist investigation, apply to a sheriff for a warrant under this paragraph in relation to specified premises.
+
+(2) On such application the sheriff may issue a warrant authorising a constable to enter and search the premises if the sheriff is satisfied—
+
+(a) that an order made under paragraph 12 above in relation to material on the premises has not been complied with; or
+
+(b) that the conditions in sub-paragraph (3) below are fulfilled.
+
+(3) The conditions referred to in sub-paragraph (2)(b) above are—
+
+(a) that there are reasonable grounds for believing that there is material on the premises specified in the application in respect of which the conditions in sub-paragraph (5) of paragraph 12 above are fulfilled; and
+
+(b) that it would not be appropriate to make an order under that paragraph in relation to the material because—
+
+(i) it is not practicable to communicate with any person entitled to produce the material; or
+
+(ii) it is not practicable to communicate with any person entitled to grant access to the material or entitled to grant entry to the premises on which the material is situated; or
+
+(iii) the investigation for the purposes of which the application is made may be seriously prejudiced unless a constable can secure immediate access to the material.
+
+(4) A warrant under this paragraph shall authorise a constable to enter the premises specified in the warrant and to search the premises and any persons found there and to seize and retain any material found there or on any such person, if he has reasonable grounds for believing that it is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purpose of which the warrant was issued.
+
+(5) A warrant under this paragraph may authorise persons named in the warrant to accompany a constable who is executing it.
+
+#### Explanation of seized or produced material
+
+**15** (1) A sheriff may, on an application made by a procurator fiscal, order any person specified in the order to provide an explanation of any material produced or made available to a constable under paragraph 12 above or seized in pursuance of a warrant under paragraph [[^F141]11A or] 14 above.
+
+(2) A person shall not under this paragraph be required to disclose any information which he would be entitled to refuse to disclose on grounds of confidentiality in legal proceedings as being—
+
+(a) communications between a professional legal adviser and his client, or
+
+(b) communications made in connection with or in contemplation of legal proceedings and for the purposes of those proceedings,
+
+except that a lawyer may be required to furnish the name and address of his client.
+
+(3) A statement by a person in response to a requirement imposed by virtue of this section may only be used in evidence against him—
+
+(a) on a prosecution for an offence under section 2 of the [^M59]False Oaths (Scotland) Act 1933; or
+
+(b) on a prosecution for some other offence where in giving evidence he makes a statement inconsistent with it.
+
+(4) Sub-paragraphs (1), (2) and (5) of paragraph 13 above shall apply to orders under this paragraph as they apply to orders under paragraph 12 above.
+
+#### Urgent cases
+
+**16** (1) If a police officer of at least the rank of superintendent has reasonable grounds for believing that the case is one of great emergency and that in the interests of the State immediate action is necessary, he may by a written order signed by him give to any constable the authority which may be given by a search warrant under paragraph [[^F142]11A or] 14 above.
+
+(2) Where an authority is given under this paragraph particulars of the case shall be notified as soon as may be to the Secretary of State.
+
+(3) If such a police officer as is mentioned in sub-paragraph (1) above has reasonable grounds for believing that the case is such as is there mentioned he may by a notice in writing signed by him require any person specified in the notice to provide an explanation of any materials seized in pursuance of an order under this paragraph.
+
+(4) Any person who without reasonable excuse fails to comply with a notice under sub-paragraph (3) above is guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding six months or a fine not exceeding level 5 on the standard scale or both.
+
+(5) Sub-paragraphs (2) and (3) of paragraph 15 above shall apply to a requirement under sub-paragraph (3) above as they apply to an order under that paragraph.
+
+#### Supplementary
+
+**17** (1) This Part of this Schedule is without prejudice to—
+
+(a) any power of entry or search or any power to seize or retain property which is otherwise exercisable by a constable;
+
+(b) any rule of law whereby—
+
+(i) communications between a professional legal adviser and his client, or
+
+(ii) communications made in connection with or in contemplation of legal proceedings and for the purposes of those proceedings,
+
+are in legal proceedings protected from disclosure on the ground of confidentiality.
+
+(2) For the purpose of exercising any powers conferred on him under this Part of this Schedule a constable may, if necessary, open lockfast places on premises specified in an order under paragraph 12 or 16 above or a warrant under paragraph [[^F143]11A or] 14 above.
+
+(3) A search of a person under this Part of this Schedule may only be carried out by a person of the same sex.
+
+## SCHEDULE 8 — Consequential Amendments
+
+*Section 25(1).*
+
+### [^F144]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**1**
+
+### The Criminal Justice Act 1967 (c. 80)
+
+**2** In section 67(7)(b) of the Criminal Justice Act 1967 for the words “section 12 of the Prevention of Terrorism (Temporary Provisions) Act 1984" there shall be substituted the words “section 14 of the Prevention of Terrorism (Temporary Provisions) Act 1989".
+
+### The Northern Ireland (Emergency Provisions) Act 1978 (c. 5)
+
+#### [^F145]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3**
+
+### The Suppression of Terrorism Act 1978 (c. 26)
+
+**4** In Schedule 1 to the Suppression of Terrorism Act 1978 after paragraph 19 there shall be inserted—
+
+> **Financing terrorism**
+>
+> **19A** An offence under Part III of the Prevention of Terrorism (Temporary Provisions) Act 1989.
+
+### The Criminal Justice (Scotland) Act 1980 (c. 62)
+
+**5** In section 3D(1) of the Criminal Justice (Scotland) Act 1980 for paragraph (a) there shall be substituted—
+
+> (a) “terrorism provisions” means section 14(1) of the Prevention of Terrorism (Temporary Provisions) Act 1989 and any provision of Schedule 2 or 5 to that Act conferring a power of arrest or detention;
+
+.
+
+### The Police and Criminal Evidence Act 1984 (c. 60)
+
+**6** (1) The Police and Criminal Evidence Act 1984 shall be amended as follows.
+
+(2) In section 30(12) for paragraph (c) there shall be substituted—
+
+> (c) section 15(6) and (9) of the Prevention of Terrorism (Temporary Provisions) Act 1989 and paragraphs 7(4) and 8(4) and (5) of Schedule 2 and paragraphs 6(6) and 7(4) and (5) of Schedule 5 to that Act.
+
+(3) In section 32(10) for the words “paragraph 6 of Schedule 3 to the Prevention of Terrorism (Temporary Provisions) Act 1984" there shall be substituted the words “section 15(3), (4) and (5) of the Prevention of Terrorism (Temporary Provisions) Act 1989".
+
+(4) In section 51(b) for the words “section 12 or 13 of the Prevention of Terrorism (Temporary Provisions) Act 1984" there shall be substituted the words “section 14 of the Prevention of Terrorism (Temporary Provisions) Act 1989 or Schedule 2 or 5 to that Act".
+
+(5) In section 61(9)(b) after “(b)" there shall be inserted the words “except as provided in section 15(10) of, and paragraph 7(6) of Schedule 5 to, the Prevention of Terrorism (Temporary Provisions) Act 1989,".
+
+(6) In section 65 for the definition of “the terrorism provisions" and “terrorism" there shall be substituted respectively—
+
+> “the terrorism provisions” means section 14(1) of the Prevention of Terrorism (Temporary Provisions) Act 1989 and any provision of Schedule 2 or 5 to that Act conferring a power of arrest or detention; and
+>
+> “terrorism” has the meaning assigned to it by section 20(1) of that Act.
+
+(7) In section 116(5) for the words “section 1, 9 or 10 of the Prevention of Terrorism (Temporary Provisions) Act 1984" there shall be substituted the words “section 2, 8, 9, 10 or 11 of the Prevention of Terrorism (Temporary Provisions) Act 1989".
+
+(8) In section 118(2)(a) after the word “offence" there shall be inserted the words “or after being arrested under section 14 of the Prevention of Terrorism (Temporary Provisions) Act 1989 or under paragraph 6 of Schedule 5 to that Act by an examining officer who is a constable".
+
+### The Drug Trafficking Offences Act 1986 (c. 32)
+
+**7** In section 5(2) of the Drug Trafficking Offences Act 1986 the word “or" at the end of paragraph (b) shall be omitted and at the end of paragraph (c) there shall be inserted the words
+
+> , or
+>
+> (d) an order under section 13(2), (3) or (4) of the Prevention of Terrorism (Temporary Provisions) Act 1989 (forfeiture orders),
+
+.
+
+### The Northern Ireland (Emergency Provisions) Act 1987 (c. 30)
+
+#### [^F146]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8**
+
+### The Criminal Justice (Scotland) Act 1987 (c. 41)
+
+**9** In section 5(3)(b) of the Criminal Justice (Scotland) Act 1987 at the end of sub-paragraph (iii) there shall be inserted the words
+
+> or
+>
+> (iiia) section 13(2), (3) or (4) of the Prevention of Terrorism (Temporary Provisions) Act 1989 (forfeiture orders),
+
+.
+
+### The Criminal Justice Act 1988 (c. 33)
+
+**10** (1) The Criminal Justice Act 1988 shall be amended as follows.
+
+(2) In section 71(9)(c) after the words “other than a drug trafficking offence" there shall be inserted the words “or an offence under Part III of the Prevention of Terrorism (Temporary Provisions) Act 1989".
+
+(3) In section 74(2) the word “or" at the end of paragraph (b) shall be omitted and at the end of paragraph (c) there shall be inserted the words
+
+> ; or
+>
+> (d) an order under section 13(2), (3) or (4) of the Prevention of Terrorism (Temporary Provisions) Act 1989 (forfeiture orders),
+
+.
+
+(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F147]
+
+## SCHEDULE 9 — Repeals and Revocations
+
+*Section 25(2).*
+
+### Part I — Enactments
+
+|  |  |  |
+|---|---|---|
+| 38 and 39 Vict. c.17. | The Explosives Act 1875. | In section 7, the paragraph beginning “Upon the hearing of the application". |
+| 1978 c. 5. | The Northern Ireland (Emergency Provisions) Act 1978. | Section 21(2). |
+| 1984 c. 8. | The Prevention of Terrorism (Temporary Provisions) Act 1984. | The whole Act. |
+| 1984 c. 54. | The Roads (Scotland) Act 1984. | In Schedule 9, paragraph 91. |
+| 1984 c. 60. | The Police and Criminal Evidence Act 1984. | Section 53(2). |
+|  |  | In Schedule 2, the entry relating to the Prevention of Terrorism (Temporary Provisions) Act 1984. |
+|  |  | In Schedule 6, paragraph 27. |
+| 1989 c. 4. | The Prevention of Terrorism (Temporary Provisions) Act 1989. | In Schedule 7, paragraph 9. |
+
+### Part II — Orders
+
+|  |  |
+|---|---|
+| S.I. 1984/417. | The Prevention of Terrorism (Supplemental Temporary Provisions) (Northern Ireland) Order 1984. |
+| S.I. 1984/418. | The Prevention of Terrorism (Supplemental Temporary Provisions) Order 1984. |
+| S.I. 1987/119. | The Prevention of Terrorism (Supplemental Temporary Provisions) (Amendment) Order 1987. |
+| S.I. 1987/1209. | The Prevention of Terrorism (Supplemental Temporary Provisions) (Amendment No. 2) Order 1987. |
+
+---
+
+[^M1]: 1974 c. 56.
+[^M2]: 1976 c. 8.
+[^M3]: 1984 c. 8.
+[^F1]: Ss. 2A, 2B inserted (4.9.1998) by 1998 c. 40, s. 1(1)
+[^M4]: 1996 c. 16.
+[^M5]: 1967 c. 77.
+[^F2]: Ss. 2A, 2B inserted (4.9.1998) by 1998 c. 40, s. 1(1)
+[^M6]: 1998 c. 35.
+[^M7]: 1984 c. 54.
+[^F3]: Pt. II: the provisions of Pt. II shall cease to be in force on 22.3.1998 by virtue of S.I. 1998/768, art. 3
+[^F4]: Word in s. 9(1) repealed (15.2.1994) by 1993 c. 36, s. 79(14), Sch. 6 Pt.I; S.I. 1994/71, arts. 2, 3, Sch. Appendix
+[^F5]: Words in s. 9(1) inserted (15.2.1994) by 1993 c. 36, s. 49(1); S.I. 1994/71, arts. 2, 3, Sch.
+[^F6]: Words in s. 10(1)(b) inserted (15.2.1994) by 1993 c. 36, s. 49(2); S.I. 1994/71, arts. 2, 3, Sch.
+[^F7]: Words in s. 10(3) substituted (25.8.1996) by 1996 c. 22, ss. 62(1), 63(6), Sch. 6 para. 5 (which 1996 Act is repealed (N.I.) as from the end of 24.8.2000 by 1996 c. 22, s. 62(10) (as substituted by 1998 c. 9, s. 1(3)))
+[^F8]: Words in s. 12(1) substituted (15.2.1994) by 1993 c. 36, s. 49(3); S.I. 1994/71, arts. 2, 3, Sch.
+[^F9]: S. 12(2A) inserted (15.2.1994) by 1993 c. 36, s. 49(4); S.I. 1994/71, arts. 2, 3, Sch.
+[^F10]: Words in s. 12(3) inserted (15.2.1994) by 1993 c. 36, s. 49(5); S.I. 1994/71, arts. 2, 3, Sch.
+[^F11]: S. 12(4)-(6) added (15.2.1994) by 1993 c. 36, s. 49(6); S.I. 1994/71, arts. 2, 3, Sch.
+[^F12]: Words of the title of Part IV substituted (3.11.1994) by 1994 c. 33, s. 81(2)(3)
+[^F13]: Words in s. 14(1)(a) inserted (4.9.1998 with application as mentioned in s. 3(2) of the amending Act) by 1998 c. 40, s. 3(1)
+[^F14]: S. 15(7)(a) substituted (1.4.1996) by 1995 c. 40, s. 5, Sch. 4 para. 72(2)(a)
+[^F15]: S. 15(7)(b) substituted by S.I. 1989/1341 (N.I. 12), art. 90(1), Sch. 6 para. 18
+[^F16]: S. 15(7)(c) substituted (N.I.) (31.1.1999) by S.I. 1998/1504 (N.I. 9), arts. 1(2), 65(1), Sch. 5 para. 39; S.R. 1999/25, art. 2(a)(c)
+[^F17]: Words in s. 15(8) substituted (1.4.1996) by 1995 c. 40, s. 5, Sch. 4 para. 72(2)(b)
+[^M8]: 1984 c. 60.
+[^F18]: S. 15(11)-(14) inserted (E.W.) (10.4.1995) by 1994 c. 33, s. 168(2), Sch. 10 para. 62(2); S.I. 1995/721, art. 2, Sch. Appendix A
+[^M9]: 1984 c. 60.
+[^F19]: Words inserted in s. 16(1) (3.4.1996) by 1996 c. 7, s. 3(3)
+[^F20]: Pt. IVA (Ss. 16A-16B) inserted (3.1.1995) by 1994 c. 33, s. 82(1)(2)(3)
+[^F21]: Pt. IVA expired (22.3.1998) by virtue of 1989 c. 4, s. 27(5)
+[^F22]: Pt. IVA revived (25.6.1999) (*temp.* until end of 21.3.2000) by S.I. 1999/1813, art. 2
+[^F23]: S. 16A inserted (3.1.1995) by 1994 c. 33, s. 82(1)(2)(3)
+[^F24]: S. 16B inserted (3.1.1995) by 1994 c. 33, s. 82(1)(2)(3)
+[^F25]: Part IVB heading and s. 16C inserted (3.4.1996) by 1996 c. 7, s. 4
+[^F26]: Part IVB expired (22.3.1998) by virtue of 1989 c. 4, s. 27(5)
+[^F27]: Part IVB revived (25.6.1999) (*temp.* until end of 21.3.2000) by S.I. 1999/1813, art. 2
+[^F28]: Part IVB heading and s. 16C inserted (3.4.1996) by 1996 c. 7, s. 4
+[^F29]: S. 16D inserted (3.4.1996) by 1996 c. 7, s. 5
+[^M10]: 1984 c. 27.
+[^M11]: 1988 c. 52.
+[^M12]: 1984 c. 27.
+[^F30]: Words in s. 17(1)(a)(ii) substituted (1.4.1994) by 1993 c. 36, s. 50(2); S.I. 1994/700, arts. 2, 3, Sch.
+[^F31]: Words in s. 17(1)(a)(ii) substituted (25.8.1996) by 1996 c. 22, ss. 62(1), 63(6), Sch. 6 para. 6(2) (which 1996 Act is repealed (N.I.) as from the end of 24.8.2000 by 1996 c. 22, s. 62(10) (as substituted by 1998 c. 9, s. 1(3)))
+[^F32]: Words in s. 17(1)(a)(iii) substituted (25.8.1996) by 1996 c. 22, ss. 62(1), 63(6), Sch. 6 para. 6(3) (which 1996 Act is repealed (N.I.) as from the end of 24.8.2000 by 1996 c. 22, s. 62(10) (as substituted by 1998 c. 9, s. 1(3)))
+[^F33]: Words in s. 17(1)(b) substituted (25.8.1996) by 1996 c. 22, ss. 62(1), 63(6), Sch. 6 para. 6(4) (which 1996 Act is repealed (N.I.) as from the end of 24.8.2000 by 1996 c. 22, s. 62(10) (as substituted by 1998 c. 9, s. 1(3)))
+[^F34]: S. 17(2)(2A)-(2E) substituted (1.4.1994) for subsection (2) by 1993 c. 36, s. 50(3); S.I. 1994/700, arts. 2, 3, Sch.
+[^F35]: Words in s. 17(2A) repealed (25.8.1996) by 1996 c. 22, ss. 62(1), 63(6)(7), Sch. 6 para. 6(5), Sch. 7 Pt. I (which 1996 Act is repealed (N.I.) as from the end of 24.8.2000 by 1996 c. 22, s. 62(10) (as substituted by 1998 c. 9, s. 1(3)))
+[^F36]: Words in s. 17(2B) repealed (25.8.1996) by 1996 c. 22, ss. 62(1), 63(6)(7), Sch. 6 para. 6(6), Sch. 7 Pt. I (which 1996 Act is repealed (N.I.) as from the end of 24.8.2000 by 1996 c. 22, s. 62(10) (as substituted by 1998 c. 9, s. 1(3)))
+[^F37]: Words in s. 17(3) inserted (1.4.1994) by 1993 c. 36, s. 50(4); S.I. 1994/700, arts. 2, 3, Sch.
+[^F38]: S. 17(3A) added (1.4.1994) by 1993 c. 36, s. 50(5); S.I. 1994/700, arts. 2, 3, Sch.
+[^F39]: Words in s. 17(4) substituted (1.4.1994) by 1993 c. 36, s. 50(6); S.I. 1994/700, arts. 2, 3, Sch.
+[^F40]: S. 17(4A) inserted (1.4.1994) by 1993 c. 36, s. 50(7); S.I. 1994/700, arts. 2, 3, Sch.
+[^F41]: Words in s. 17(5) inserted (1.4.1994) by 1993 c. 36, s. 50(8); S.I. 1994/700, arts. 2, 3, Sch.
+[^F42]: S. 17(6) added (1.4.1994) by 1993 c. 36, s. 50(9); S.I. 1994/700, arts. 2, 3, Sch.
+[^F43]: Words in s. 17(6) repealed (25.8.1996) by 1996 c. 22, ss. 62(1), 63(6)(7), Sch. 6 para. 6(7), Sch. 7 Pt. I (which 1996 Act is repealed (N.I.) as from the end of 24.8.2000 by 1996 c. 22, s. 62(10) (as substituted by 1998 c. 9, s. 1(3)))
+[^F44]: S. 18A inserted (1.4.1994) by 1993 c. 36, s. 51; S.I. 1994/700, arts. 2, 3, Sch.
+[^F45]: Words in s. 19(1) substituted (1.4.1994) by 1993 c. 36, s. 79(13), Sch. 5 Pt. I para. 15; S.I. 1994/700, arts. 2, 3, Sch.
+[^F46]: S. 19(1)(aa) inserted (3.11.1994) by 1994 c. 33, ss. 168(2), 172(6), Sch. 10 para. 63(3)
+[^F47]: Words inserted in s. 19(1)(aa) (3.4.1996) by 1996 c. 7, s. 6(a)
+[^F48]: Words in s. 19(1)(aa) substituted (3.4.1996) by 1996 c. 7, s. 6(b)
+[^F49]: S. 19A inserted (1.4.1994) by 1993 c. 36, s. 77, Sch. 4 para. 4; S.I. 1994/700, arts. 2, 3, Sch.
+[^F50]: Definition of 'Concessionaires' in s. 21(1) repealed (*2.8.1993*) by S.I. 1993/1813, art. 9(1), Sch. 6 Pt.I(Foreign Office Library)
+[^M13]: 1971 c. 61.
+[^F51]: Definition of 'the tunnel system' in s. 21(1) repealed (*2.8.1993*) by S.I. 1993/1813, art. 9(1), Sch. 6 Pt. I(Foreign Office Library)
+[^M14]: 1971 c. 77.
+[^F52]: S. 21 repealed by Northern Ireland (Emergency Provisions) Act 1991 (c. 24, SIF 39:1), s. 70(4), Sch. 8 Pt.I.
+[^F53]: S. 22 repealed by Northern Ireland (Emergency Provisions) Act 1991 (c. 24, SIF 39:1), s. 70(4), Sch. 8 Pt.I
+[^F54]: S. 23 repealed by Northern Ireland (Emergency Provisions) Act 1991 (c. 24, SIF 39:1), s. 70(4), Sch. 8 Pt.I
+[^F55]: S. 24 repealed by Northern Ireland (Emergency Provisions) Act 1991 (c. 24, SIF 39:1), s. 70(4), Sch. 8 Pt.I.
+[^M15]: 1984 c. 8.
+[^F56]: S. 27(2) repealed (27.8.1991) by Northern Ireland (Emergency Provisions) Act 1991 (c. 24, SIF 39:1), ss. 69(1), 70(4), Sch. 8 Pt. I
+[^M16]: 1988 c. 3.
+[^F57]: Words in s. 27(10) substituted (25.8.1996) by 1996 c. 22, ss. 62(1), 63(6), Sch. 6 para. 7(2) (which 1996 Act was repealed (N.I.) as from 24.8.2000 by 1996 c. 22, s. 62(10) (as amended by 1998 c. 9, s. 1(3))
+[^F58]: S. 27(11) substituted (25.8.1996) by 1996 c. 22, ss. 62(1), 63(6), Sch. 6 para. 7(3) (which 1996 Act was repealed (N.I.) as from 24.8.2000 by 1996 c. 22, s. 62(10) (as amended by 1998 c. 9, s. 1(3))
+[^F59]: Words in s. 27(11) substituted (8.4.1998) by 1998 c. 9, s. 7(1), Sch. 1 para. 1(a)
+[^F60]: Words in s. 27(11) substituted (8.4.1998) by 1998 c. 9, s. 7(1), Sch. 1 para. 1(b)
+[^F61]: S. 27(12) repealed (N.I.) by Northern Ireland (Emergency Provisions) Act 1991 (c. 24, SIF 39:1), ss. 69(1), 70(4), Sch. 8 Pt. I
+[^F62]: Words in s. 28(2)(a) substituted (3.11.1994) by 1994 c. 33, s. 168(2), Sch. 10 para. 63(4)
+[^F63]: Word in s. 28(2)(a) inserted (3.4.1996) by 1996 c. 7, s. 7(7)(a)(i)
+[^F64]: Words in s. 28(2)(a) substituted (3.4.1996) by 1996 c. 7, s. 7(7)(a)(ii)
+[^F65]: Words in s. 28(2)(a) repealed (N.I.) by Northern Ireland (Emergency Provisions) Act 1991 (c. 24, SIF 39:1), s. 70(4), Sch. 8 Pt. I.
+[^F66]: Words in s. 28(2) inserted (10.4.1995) by 1994 c. 33, s. 168(2), Sch. 10 para. 62(4)(c); S.I. 1995/721, art. 2, Sch. Appendix A
+[^F67]: Word in s. 28(2)(b) repealed (3.4.1996) by 1996 c. 7, s. 7(7)(b)
+[^F68]: Words in s. 28(2)(b) inserted (3.4.1996) by 1996 c. 7, s. 7(7)(b)
+[^F69]: Words in s. 28(2)(c) inserted (3.4.1996) by 1996 c. 7, s. 7(7)(c)
+[^F70]: Words in s. 28(2)(d) 1nserted (3.4.1996) by 1996 c. 7, s. 7(7)(d)
+[^F71]: Sch. 2 para. 1(4) inserted (25.3.1996) by S.I. 1996/892, regs. 1, 3(2)(a)
+[^F72]: Sch. 2 paras. 2-5A substituted for Sch. 2 paras. 2-5 (25.3.1996) by S.I. 1996/892, reg. 2
+[^F73]: Sch. 2 paras. 2-5A substituted for Sch. 2 paras. 2-5 (25.3.1996) by S.I. 1996/892, reg. 2
+[^F74]: Sch. 2 paras. 2-5A substituted for Sch. 2 paras. 2-5 (25.3.1996) by S.I. 1996/892, reg. 2
+[^F75]: Sch. 2 paras. 2-5A substituted for Sch. 2 paras. 2-5 (25.3.1996) by S.I. 1996/892, reg. 2
+[^F76]: Sch. 2 paras. 2-5A substituted for Sch. 2 paras. 2-5 (25.3.1996) by S.I. 1996/892, reg. 2
+[^F77]: Sch. 2 paras. 2-5A substituted for Sch. 2 paras. 2-5 (25.3.1996) by S.I. 1996/892, reg. 2
+[^F78]: Sch. 2 paras. 2-5A substituted for Sch. 2 paras. 2-5 (25.3.1996) by S.I. 1996/892, reg. 2
+[^F79]: Sch. 2 paras. 2-5A substituted for Sch. 2 paras. 2-5 (25.3.1996) by S.I. 1996/892, reg. 2
+[^F80]: Sch. 2 paras. 2-5A substituted for Sch. 2 paras. 2-5 (25.3.1996) by S.I. 1996/892, reg. 2
+[^F81]: Sch. 2 paras. 2-5A substituted for Sch. 2 paras. 2-5 (25.3.1996) by S.I. 1996/892, reg. 2
+[^F82]: Words in Sch. 2 para. 6(1) omitted (25.3.1996) by virtue of S.I. 1996/892, regs. 1, 3(2)(b)
+[^F83]: Words in Sch. 2 para. 8(1) inserted (25.3.1996) by S.I. 1996/892, regs. 1, 3(2)(d)
+[^M17]: 1971 c. 77.
+[^M18]: 1967 c. 80.
+[^F84]: Words in Sch. 3 para. 3(3)(a)(i) substituted (4.9.1998) by 1998 c. 40, s. 9(1), Sch. 1 Pt. I para. 2
+[^F85]: Words in Sch. 3 para. 3(4)(b) omitted (25.3.1996) by virtue of S.I. 1996/892, regs. 1, 3(3)
+[^M19]: 1971 c. 77.
+[^M20]: 1984 c. 60.
+[^M21]: 1980 c. 62.
+[^F86]: Words in Sch. 3 para. 7(4) substituted (25.8.1996) by 1996 c. 22, ss. 62(1), 63(6), Sch. 6 para. 8 (which 1996 Act is repealed (N.I.) as from the end of 24.8.2000 by 1996 c. 22, s. 62(10) (as substituted by 1998 c. 9, s. 1(3)))
+[^F87]: Words in Sch. 4 para. 1(3) substituted (19.6.1997) by 1997 c. 25, ss. 73(2), 74(1), Sch. 5 para. 26 (with Sch. 4 para. 27)
+[^M22]: 1933 c. 36.
+[^M23]: 1980 c. 43.
+[^M24]: 1980 c. 43.
+[^M25]: 1933 c. 36.
+[^M26]: 1972 c. 61.
+[^M27]: 1925 c. 21.
+[^F88]: Sch. 4 para. 8(1): para. (b) of definition substituted (25.8.1996) by 1996 c. 22, ss. 62(1), 63(6), Sch. 6 para. 9(2) (which 1996 Act is repealed (N.I.) as from the end of 24.8.2000 by 1996 c. 22, s. 62(10) (as substituted by 1998 c. 9, s. 1(3)))
+[^M28]: 1981 c. 54.
+[^F89]: Sch. 4 para. 10(2A) inserted (28.6.1995) by 1995 c. 11, s. 14(1)(a)(2)
+[^M29]: 1975 c. 21.
+[^F90]: Sch. 4 para. 16(1)(b) repealed (31.3.1996) by 1995 c. 20, s. 117, Sch. 6 para. 189(2)(a), Sch. 7 Pt. II; S.I. 1996/517, art. 3(2) (subject to transitional provisions and savings in arts. 4-6, Sch. 2)
+[^F91]: Words in Sch. 4 para. 16(2)(b) repealed (31.3.1996) by 1995 c. 20, s. 117, Sch. 6 para. 189(2)(b), Sch. 7 Pt. II; S.I. 1996/517, art. 3(2) (subject to transitional provisions and savings in arts. 4-6, Sch. 2)
+[^F92]: Words in Sch. 4 para. 16(5)(6) repealed (31.3.1996) by 1995 c. 20, s. 117, Sch. 6 para. 189(2)(c), Sch. 7 Pt. II; S.I. 1996/517, art. 3(2) (subject to transitional provisions and savings in arts. 4-6, Sch. 2)
+[^F93]: S. 16A inserted (31.3.1996) by 1995 c. 20, s. 117(1), Sch. 6 para. 189(3); S.I. 1996/517, art. 3(2) (subject to transitional provisions and savings in arts. 4-6, Sch. 2) (which 1995 Act was repealed (1.4.1996) by 1995 c. 40, ss. 6, 7(2), Sch. 5 (with Sch. 3 para. 16)) and the same s. 16A inserted (1.4.1996) by 1995 c. 40, ss. 5, 7(2), Sch. 4 para. 72(3)(b)
+[^F94]: Sch. 4 para. 18(1): para. (b) of the definition “a Northern Ireland Order” substituted (25.8.1996) by 1996 c. 22, ss. 62(1), 63(6), Sch. 6 para. 9(3) (which 1996 Act is repealed (N.I.) as from the end of 24.8.2000 by 1996 c. 22, s. 62(10) (as substituted by 1998 c. 9, s. 1(3)))
+[^F95]: Words in Sch. 4 para. 19(5) substituted (31.3.1996) by 1995 c. 20, s. 117(1), Sch. 6 Pt. II para. 189(4)(a); S.I. 1996/517, art. 3(2) (subject to transitional provisions and savings in arts. 4-6, Sch. 2) (which 1995 Act was repealed (1.4.1996) by 1995 c. 40, ss. 6, 7(2), Sch. 5 (with Sch. 3 para. 16)) and the same words in Sch. 4 para. 19(5) substituted (1.4.1996) by 1995 c. 40, ss. 5, 7(2), Sch. 4 para. 72(3)(c)(i)
+[^M30]: 1972 c. 59.
+[^F96]: Sch. 4 para. 19(5A) inserted (31.3.1996) by 1995 c. 20, s. 117(1), Sch. 6 Pt. II para. 189(4)(b); S.I. 1996/517, art. 3(2) (subject to transitional provisions and savings in arts. 4-6, Sch. 2) (which 1995 Act was repealed (1.4.1996) by 1995 c. 40, ss. 6, 7(2), Sch. 5 (with Sch. 3 para. 16)) and the same Sch. 4 para. 19(5A) inserted (1.4.1996) by 1995 c. 40, ss. 5, 7(2), Sch. 4 para. 72(3)(c)(ii)
+[^F97]: Sch. 4 para. 20(2A) inserted (28.6.1995) by 1995 c. 11, s. 14(1)(b)(2)
+[^M31]: 1954 c. 9 (N.I.).
+[^M32]: S.I. 1981/1675 (N.I.26).
+[^M33]: S.I. 1981/1675 (N.I.26).
+[^M34]: 1969 c. 15 (N.I).
+[^F98]: Sch. 4 para. 25A inserted by Northern Ireland (Emergency Provisions) Act 1991 (c. 24, SIF 39:1), s. 70(3), Sch. 7 para. 5(9).(which insertion fell (25.8.1996) by reason of the repeal of 1991 c. 24 by 1996 c. 22, s. 63(7), Sch. 7 Pt. I (with s. 63(3)); Sch. 4 para. 25A inserted (25.8.1996) by 1996 c. 22, ss. 62(1), 63(6), Sch. 6 para. 9(4) (which 1996 Act is repealed as from the end of 24.8.2000 by 1996 c. 22, s. 62(10) (as substituted by 1998 c. 9, s. 1(3)))
+[^F99]: Sch. 4 para. 25B inserted by Northern Ireland (Emergency Provisions) Act 1991 (c. 24, SIF 39:1), s. 70(3), Sch. 7 para. 5(9) (which insertion fell (25.8.1996) by reason of the repeal of 1991 c. 24 by 1996 c. 22, s. 63(7), Sch. 7 Pt. I (with s. 63(3); Sch. 4 para. 25B inserted (25.8.1996) by 1996 c. 22, ss. 62(1), 63(6), Sch. 6 para. 9(4) (which 1996 Act is repealed (N.I.) as from the end of 24.8.2000 by 1996 c. 22, s. 62(10) (as substituted by 1998 c. 9, s. 1(3)))
+[^M35]: 1970 c. 18 (N.I).
+[^M36]: 1954 c. 33 (N.I).
+[^M37]: 1970 c. 18 (N.I).
+[^M38]: 1970 c. 25. (N.I).
+[^M39]: 1969 c. 58.
+[^F100]: Sch. 4 para. 30(2A) inserted (28.6.1995) by 1995 c. 11, s. 14(1)(c)(2)
+[^F101]: Words in Sch. 4 para. 31(5)(a) substituted (1.10.1991) by S.I. 1989/2405 (N.I. 19), arts. 1(2), 381, Sch. 9 para. 62(*a*)(i); S.R. 1991/411, art.2.
+[^M40]: 1985 c. 66.
+[^M41]: 1985 c. 66.
+[^F102]: Words inserted (1.10.1991) by S.I. 1989/2405 (N.I. 19), arts. 1(2), 381, Sch. 9 para. 62(*a*)(ii); S.R.1991/411 art.2.
+[^M42]: 1975 c. 21.
+[^M43]: 1985 c. 66.
+[^F103]: Words in Sch. 4 para. 33(3) substituted (01.10.1991) by S.I. 1989/2405 (N.I. 19), arts. 1(2), 381, Sch. 9 para. 62(*b*)(i); S.R. 1991/411, art.2.
+[^F104]: Sch. 4 para. 33(4)(b) substituted (01.10.1991) by S.I. 1989/2405 (N.I. 19), arts. 1(2), 381, Sch. 9 para. 62(*b*)(ii); S.R. 1991/411, art.2.
+[^F105]: Sch. 4 para. 34(7) inserted (01.10.1991) by S.I. 1989/2405 (N.I. 19), arts. 1(2), 381, Sch. 9 para. 62(*c*); S.R. 1991/411, art.2.
+[^M44]: 1986 c. 45.
+[^M45]: S.I. 1986/1032 (N.I.6).
+[^M46]: 1971 c. 77.
+[^F106]: Words inserted in Sch. 5 para. 2(1) by S.I. 1990/2227, art. 4, Sch. 2, para. 2 repealed (*2.8.1993*) by S.I. 1993/1813, art. 9(1), Sch. 6 Pt. I (Foreign Office Library)
+[^F107]: Words in Sch. 5 para. 2(1)(b) inserted (25.3.1996) by S.I. 1996/892, regs. 1, 3(4)(a)
+[^F108]: Words in Sch. 5 para. 4(1)(2) substituted by S.I. 1990/2227, art. 4, Sch. 2, para. 3 substituted (*2.8.1993*) by S.I. 1993/1813, art. 8(1), Sch. 5, para.3 (Foriegn Office Library)
+[^M47]: 1971 c. 77.
+[^M48]: 1967 c. 77.
+[^F109]: Cross-heading inserted (3.4.1996) by 1996 c. 7, s. 3(1)
+[^F110]: Sch. 5 para. 4A inserted (3.4.1996) by 1996 c. 7, s. 3(1)
+[^M49]: 1967 c. 77.
+[^M50]: 1971 c. 77.
+[^F111]: Sch. 5 para. 6(1)(b) omitted (25.3.1996) by virtue of S.I. 1996/892, regs. 1, 3(4)(b)
+[^M51]: 1984 c. 60.
+[^F112]: Sch. 5 para. 7(6A)-(6D) inserted (E.W.) (10.4.1995) by 1994 c. 33, s. 168(2), Sch. 10 para. 62(3); S.I. 1995/721, art. 2, Sch. Appendix A
+[^F113]: Sch. 5 para. 9(3) added by S.I. 1990/2227, art. 4, Sch. 2 para. 4, repealed (*2.8.1993*) by S.I. 1993/1813, art. 9(1), Sch. 6 Pt.I (Foreign Office Library)
+[^M52]: 1971 c. 77.
+[^F114]: Words in Sch. 5 para. 11 inserted (3.4.1996) by 1996 c. 7, s. 3(2)
+[^F115]: Word in Sch. 6 Pt. I inserted (22.11.1999) by S.I. 1999/2877, art. 2
+[^F116]: Word repealed by S.I. 1990/1579, art. 2
+[^F117]: Word in Sch. 6 Pt. I inserted (22.11.1999) by S.I. 1999/2877, art. 2
+[^F118]: Word repealed (02.12.1991) by S.I. 1991/2649, art.2.
+[^F119]: Word in Sch. 6 Pt. I inserted (22.11.1999) by S.I. 1999/2877, art. 2
+[^F120]: Word in Sch. 6 Pt. I inserted (22.11.1999) by S.I. 1999/2877, art. 2
+[^F121]: Word in Sch. 6 Pt. I inserted (22.11.1999) by S.I. 1999/2877, art. 2
+[^F122]: Sch. 6A inserted (3.4.1996) by 1996 c. 7, s. 4(2), Sch.
+[^M53]: 1984 c. 60.
+[^M54]: 1984 c. 60.
+[^M55]: 1984 c. 60.
+[^F123]: Cross-heading inserted (3.4.1996) by 1996 c. 7, s. 2(2)
+[^F124]: Sch. 7 para. 2A inserted (3.4.1996) by 1996 c. 7, s. 2(2)
+[^F125]: Words in Sch. 7 para. 3(2) substituted (3.11.1994) by 1994 c. 33, s. 83(1)(a)(i)
+[^F126]: Words in Sch. 7 para. 3(2) inserted (3.11.1994) by 1994 c. 33, s. 83(1)(a)(i)
+[^F127]: Words in Sch. 7 para. 3(5)(b)(ii) substituted (3.11.1994) by 1994 c. 33, s. 83(1)(a)(ii)
+[^F128]: Words in Sch. 7 para. 4(6) inserted (3.11.1994) by 1994 c. 33, s. 83(1)(b)(i)
+[^M56]: 1947 c. 42.
+[^F129]: Words in Sch. 7 para. 4(6) substituted (3.11.1994) by 1994 c. 33, s. 83(1)(b)(ii)
+[^F130]: Words in Sch. 7 para. 6(1) inserted (E.W.) (3.4.1996) by 1996 c. 7, s. 2(3)
+[^F131]: Words in Sch. 7 para. 7(1) inserted (E.W.) (3.4.1996) by 1996 c. 7, s. 2(4)
+[^F132]: Words in Sch. 7 para. 8(1) substituted (25.8.1996) by 1996 c. 22, ss. 62(1), 63(6), Sch. 6 para. 10 (which 1996 Act is repealed (N.I.) as from the end of 24.8.2000 by 1996 c. 22, s. 62(10) (as substituted by 1998 c. 9, s. 1(3)))
+[^F133]: Sch. 7 para. 9 repealed by Prevention of Terrorism (Temporary Provisions) Act 1989 (c. 4, SIF 39:2), s. 25(2), Sch. 9
+[^M57]: 1984 c. 60.
+[^F134]: Sch. 7 para. 11A inserted (3.4.1996) by 1996 c. 7, s. 2(5)
+[^F135]: Sch. 7 para. 11A inserted (3.4.1996) by 1996 c. 7, s. 2(5)
+[^F136]: Words in Sch. 7 para. 12(2) substituted (3.11.1994) by 1994 c. 33, s. 83(2)(a)(i)
+[^F137]: Words in Sch. 7 para. 12(2) inserted (3.11.1994) by 1994 c. 33, s. 83(2)(a)(i)
+[^F138]: Words in Sch. 7 para. 12(5)(b)(ii) substituted (3.11.1994) by 1994 c. 33, s. 83(2)(a)(ii)
+[^F139]: Words in Sch. 7 para. 13(5) inserted (3.11.1994) by 1994 c. 33, s. 83(2)(b)(i)
+[^M58]: 1947 c. 42.
+[^F140]: Words in Sch. 7 para. 13(5) substituted (3.11.1994) by 1994 c. 33, s. 83(2)(b)(ii)
+[^F141]: Words in Sch. 7 para. 15(1) inserted (3.4.1996) by 1996 c. 7, s. 2(6)
+[^M59]: 1933 c. 20.
+[^F142]: Words in Sch. 7 para. 16(1) inserted (3.4.1996) by 1996 c. 7, s. 2(7)
+[^F143]: Words in Sch. 7 para. 17(2) inserted (3.4.1996) by 1996 c. 7, s. 2(8)
+[^F144]: Sch. 8 para. 1 repealed by Extradition Act 1989 (c. 33, SIF 48), s. 37, Sch. 2
+[^F145]: Sch. 8 para. 3 repealed by Northern Ireland (Emergency Provisions) Act 1991 (c. 24, SIF 39:1), s. 70(4), Sch. 8 Pt. I
+[^F146]: Sch. 8 para. 8 repealed by Northern Ireland (Emergency Provisions) Act 1991 (c. 24, SIF 39:1), s. 70(4), Sch. 8 Pt. I
+[^F147]: Sch. 8 para. 10(4) repealed by S.I. 1989/1341 (N.I. 12), art. 90(2), Sch. 7

@@ -1,0 +1,689 @@
+---
+title: "Farriers (Registration) Act 1975"
+identifier: "ukpga/1975/35"
+citation: "1975 c.35"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S"
+date: 1975-05-22
+last_amended: 2020-12-31
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1975/35"
+source_modified: 2021-11-19
+retrieved: 2026-10-11
+---
+
+# Farriers (Registration) Act 1975
+
+**1975 c.35**
+
+An Act to prevent and avoid suffering by and cruelty to horses arising from the shoeing of horses by unskilled persons; to promote the proper shoeing of horses; to promote the training of farriers and shoeing smiths; to provide for the establishment of a Farriers Registration Council to register persons engaged in farriery and the shoeing of horses; to prohibit the shoeing of horses by unqualified persons; and for purposes connected therewith.
+
+[22nd May 1975]
+
+## 1 Functions of Farriers Company.
+
+The Worshipful Company of Farriers (hereinafter referred to as “the Company”) shall have the general function of securing adequate standards of competence and conduct among persons engaged in the shoeing of horses (hereinafter referred to as “farriers”) and shall promote, encourage and advance the art and science of farriery and education in connection with the said art and science.
+
+## 2 Farriers Registration Council.
+
+(1) There shall be established a body called the Farriers Registration Council (hereinafter referred to as “the Council”) which shall be a body corporate with perpetual succession and a common seal and shall have the general function of carrying out the powers and duties conferred upon it by this Act.
+
+(2) The provisions of Schedule 1 to this Act shall have effect for determining the constitution and powers of the Council and for regulating its proceedings.
+
+## 3 Register of farriers.
+
+(1) The registrar appointed by the Council in accordance with the provisions of Schedule 1 to this Act shall establish and maintain a register which shall be divided into Parts as hereinafter provided.
+
+(2) The registrar shall cause to be entered in the appropriate Part of the register the name and prescribed particulars of every person who, being qualified for registration, has applied in the prescribed manner for registration and has paid the prescribed fee.
+
+[^F1]2A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The register shall be kept at the offices of the Council and shall be made available for public inspection at all reasonable times without charge.
+
+(4) The Council shall cause the register to be printed and published as often as it thinks fit.
+
+## 4 Rules with respect to register.
+
+(1) The Council may make rules with respect to the form and keeping of the register, the making of entries therein and the removal of entries therefrom and, in particular—
+
+(a) prescribing a fee to be charged on the entry of a name in the register or on the restoration of any entry to the register;
+
+(b) prescribing a fee to be charged in respect of the retention in the register of the name of a person in any year subsequent to the year in which he was first registered;
+
+(c) authorising the registrar, notwithstanding anything in this Act, to refuse to make in, or restore to, the register any entry until a fee prescribed by rules under this section has been paid.
+
+(2) Rules under this section may authorise the registrar to remove from the register the name of a person who, after such notices and warning as may be prescribed by the rules, fails to pay a fee prescribed under paragraph (b) of the foregoing subsection.
+
+(3) If, within such period as may be prescribed by rules under this section, any person whose name has been removed from the register in accordance with rules made by virtue of the last foregoing subsection pays the fee due from him, together with such additional sum (if any) as may be so prescribed, his name shall be restored to the register and, if the Council so directs, shall be deemed for all purposes not to have been removed therefrom.
+
+(4) Rules under this section prescribing fees may provide for the charging of different fees in different cases and may provide that fees shall not be chargeable in prescribed cases.
+
+[^F2]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5 Fraudulent entries in the register.
+
+If any person wilfully procures or attempts to procure the entry of his name in the register by making or producing or causing to be made or produced any false or fraudulent representation or declaration, either orally or in writing, he shall be guilty of an offence and liable on summary conviction to a fine not exceeding [[^F3]level 3 on the standard scale].
+
+## 6 Removal of names from register.
+
+The registrar shall remove from the register the names of—
+
+(a) every deceased person;
+
+(b) every person who has applied for his name to be removed; and
+
+(c) every person whose name has been ordered to be removed under section 15 of this Act.
+
+## [[^F4]7 Qualifications for registration.
+
+(1) Subject to section 15, a person is entitled to be registered in Part I of the register if he applies for registration and satisfies the Council—
+
+(a) that on the 1<sup>st</sup> January 1976 his name was registered in the Register of Farriers kept by the Company;
+
+(b) that he has satisfied such conditions as to apprenticeship or training or both as the Council may prescribe and has passed a prescribed examination;
+
+(c) that he has completed a course of training as a farrier in Her Majesty’s Army and has passed a prescribed examination;
+
+(d) that he is or has been registered in Part II or in Part IV of the register and has passed a prescribed examination; [[^F5]or]
+
+(e) that he holds a qualification—
+
+(i) granted otherwise than in [[^F6]Great Britain]; and
+
+(ii) for the time being accepted for the purposes of this subsection by the Council,
+
+and that during any period of two years subsequent to the date when he obtained his qualifications he has been regularly and gainfully engaged in the shoeing of horses;
+
+[^F7]f . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F8]g . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) Subject to section 15, a person is entitled to be registered in Part II of the register if he applies for registration before such date as may be prescribed and satisfies the Council that during any period of two years before the date of his application or such shorter period as the Council may approve he was—
+
+(a) otherwise than as an apprentice or while undergoing a course of training, regularly engaged in the shoeing of horses in a business which consists exclusively of such shoeing or is the business of a blacksmith or general smith of which the shoeing of horses forms a part; or
+
+(b) practising as a farrier in Her Majesty’s Army.
+
+(3) Subject to section 15, a person is entitled to be registered in Part III of the register if he applies for registration before such date as may be prescribed and satisfies the Council by means of a certificate by a practising veterinary surgeon, which shall be in the prescribed form, or by such other evidence as the Council may in his case consider appropriate, that during any period of two years before the date of his application for registration he has regularly and competently—
+
+(a) carried out the shoeing of horses belonging to himself; or
+
+(b) otherwise than by way of trade or for reward, carried out the shoeing of horses belonging to other persons.
+
+(4) Subject to section 15, a person is entitled to be registered in Part IV of the register if—
+
+(a) being a person who is not otherwise entitled to be registered under this Act he applies for registration before such date as may be prescribed and satisfies the Council that during any period of two years before the date of his application for registration or such shorter period as the Council may approve he has been regularly and gainfully engaged in the shoeing of horses otherwise than as an apprentice or while undergoing a course of training; or
+
+(b) being a person who has not passed a prescribed examination he applies for registration before the date prescribed pursuant to paragraph (a) and satisfies the Council that he has complied with—
+
+(i) the conditions as to apprenticeship or training prescribed by the Council in accordance with paragraph (b) of subsection (1), and
+
+(ii) such additional conditions, if any, as to further apprenticeship or training as the Council may require in his case.
+
+(5) In any case in which it appears to the Council that a person has for sufficient reason failed to make an application under subsection (2), (3) or (4) before such dates as the Council may have respectively prescribed for the purposes of those subsections, the Council may direct that he is entitled to apply within such period as may be specified in that direction.
+
+[^F9]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F9]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F9]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F9]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8 The Company’s Register.
+
+For the purposes of section 7(1)(a), the Company shall make available its Register of Farriers and permit the Council to make copies of it and to take extracts from it.
+
+## 9 Appeals in relation to registration
+
+(1) Where an application for registration under section 7(1), (2), (3) or (4) is refused, or the registrar fails to enter the name of the applicant in the appropriate Part of the register, the applicant may appeal to the Disciplinary Committee (which is established under section 14).
+
+[^F10]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F10]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F10]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F10]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Where a person appeals under subsection (1), [^F11]... the Disciplinary Committee may direct that the person’s name be entered in the appropriate Part of the register.
+
+(7) Where the Disciplinary Committee decides an appeal under subsection (1), [^F12]... the person who made that appeal may, within twenty-eight days after the person is notified of the Disciplinary Committee’s decision, appeal against that decision to the High Court or, in Scotland, to the Court of Session.
+
+(8) Subsections (4) and (5) of section 15 apply to an appeal under subsection (7) of this section as they apply to an appeal under subsection (1) of that section.]
+
+## 10 Certificate of registration etc.
+
+(1) The registrar shall issue—
+
+(a) to a person registered in Part I or Part II of the register a certificate of registration in the prescribed form;
+
+(b) to a person registered in Part III [[^F13]or Part 4] of the register an acknowledgement of such registration in the prescribed form.
+
+(2) The Council shall make rules as to the surrender of certificates and acknowledgements issued under subsection (1) of this section.
+
+## 11 Approval of courses, qualifications and institutions.
+
+(1) Subject to the provisions of this section the Council may approve for the purposes of this Act [[^F14]or of rules made by the Council thereunder]—
+
+(a) any course of training which the Council considers is designed to confer on persons completing it sufficient knowledge and skill for carrying out the shoeing of horses;
+
+(b) any qualification which, as the result of an examination taken in conjunction with a course of training approved by the Council under this section, is granted to candidates reaching a standard at the examination indicating, in the opinion of the Council, that they have sufficient knowledge and skill to carry out the shoeing of horses;
+
+(c) any qualification which, as a result of an examination taken by a person whose name has been registered in Part II of the register, is granted to candidates reaching such standards as is mentioned in paragraph (b) hereof;
+
+(d) any institution which the Council considers is properly organised and equipped for conducting the whole or any part of a course of training approved by the Council under this section;
+
+and may refuse its approval under this section or withdraw such an approval previously given; and notice of the giving, refusal or withdrawal of such an approval shall be served by the Council on the body or person affected.
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F15]
+
+(3) The withdrawal of an approval under this section shall not prejudice the registration or entitlement to registration of any person who was registered or entitled to registration by virtue of that approval immediately before it was withdrawn.
+
+(4) Any reference in this section to a body or person affected, in relation to an approval, is a reference to the body or person who applied for approval.
+
+## 12 Supervision of approved institutions and examinations.
+
+It shall be the duty of the Council to keep itself informed of the nature of the instruction given at institutions approved under the last foregoing section of this Act to persons attending courses approved under that section and of the examinations in the carrying out of farriery the passing of which may be prescribed by the Council as being a condition of registration under this Act.
+
+## 13 The Investigating Committee.
+
+(1) The Council shall set up a committee [^F16]... to be known as the Investigating Committee, for the preliminary investigation of cases (hereinafter referred to as “disciplinary cases”) in which it is alleged that a person is liable to have his name erased from the register on any grounds specified in section 15 of this Act.
+
+(2) It shall be the function of the Investigating Committee to decide whether a disciplinary case ought to be referred to the Disciplinary Committee, set up under the next following section, to be dealt with by it in accordance with the following provisions of this Act.
+
+(3) The provisions of Schedule 2 to this Act shall have effect with respect to the constitution of the Investigating Committee.
+
+## 14 The Disciplinary Committee.
+
+(1) The Council shall set up a committee [^F17]... to be known as the Disciplinary Committee, for the consideration and determination of disciplinary cases referred to it under the last foregoing section and of any other cases of which they have cognizance under section 9 or any of the following provisions of this Act.
+
+(2) The provisions of Schedule 3 to this Act shall have effect with respect to the constitution [[^F18]of, and proceedings before,] the Disciplinary Committee.
+
+## 15 Removal of names from register.
+
+(1) Where—
+
+(a) a person who is registered by the Council is judged by the Disciplinary Committee to be guilty of serious misconduct in any professional respect; or
+
+(b) the Disciplinary Committee is satisfied that such a person was not qualified for registration at the time he was registered; or
+
+(c) such a person has been convicted of an offence involving cruelty to animals; [^F19]...
+
+[^F19]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+the Committee may, if it thinks fit, direct that the person’s name shall be removed from the register or that his registration therein shall be suspended, that is to say, it shall not have effect during a period specified in the direction:
+
+Provided that, in any case falling within paragraph (b) of this subsection, where the application for registration was referred to the Disciplinary Committee under section 9 of this Act, the Committee shall not direct that a person’s name shall be removed from the register except upon evidence which was not before the Committee when it considered the application.
+
+(2) When the Disciplinary Committee directs that a person’s name shall be removed from the register, the Committee shall cause notice of the direction to be served on that person.
+
+(3) A person in respect of whom a direction is made under subsection (1) of this section may, within twenty-eight days after notice of the direction was given to him, appeal against the direction to the High Court, or, in Scotland, to the Court of Session.
+
+(4) The Council may appear as respondent on any such appeal, and for the purpose of enabling directions to be given as to costs of any such appeal the Council shall be deemed to be a party thereto, whether it appears on the hearing of the appeal or not.
+
+(5) On the hearing of the appeal the Court may make such order as it thinks fit, and its order shall be final.
+
+(6) A direction made under subsection (1) of this section shall not take effect before the expiration of the time limited for appealing against it, and where an appeal is lodged the direction shall not take effect before the appeal is disposed of or withdrawn or fails for want of prosecution.
+
+(7) A person whose name is removed from the register in pursuance of a direction of the Disciplinary Committee under this section shall not be entitled to be registered in the register again except in pursuance of a direction in that behalf given by the Committee on the application of that person; and a direction under this section for the removal of a person’s name from the register may prohibit an application under this subsection by that person until the expiration of such period from the date of the direction (and where he has duly made such an application, from the date of his last application) as may be specified in the direction.
+
+## 15A [[^F20] Restriction on use of style.
+
+(1) It shall be unlawful for a person who is not registered in the register to use or adopt the style, title or description “farrier” or “shoeing smith” or any other style, title or description which is likely to cause any other person to believe that such first mentioned person is so registered:
+
+Provided that this subsection shall not apply to a person—
+
+- (i) who, having had his name removed from the register, has not yet been given notice by the registrar of its removal; or
+- (ii) who, having applied for registration in the register, has not had his application finally determined ; [^F21]...
+- (iii) [^F21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) A person who contravenes this section shall be liable on summary conviction to a fine not exceeding £100.]
+
+## 16 Offences by unregistered persons.
+
+(1) Subject to the provisions of this section it shall be unlawful—
+
+(a) for a person who is not registered in the register to carry out any farriery; or
+
+(b) for a person who is registered in Part III of the register to carry out farriery by way of trade or for reward; or
+
+[^F22]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Provided that this subsection shall not apply to the carrying out of farriery by—
+
+(i) a person serving under articles of apprenticeship which satisfy the prescribed terms and conditions, if carried out in the course of his apprenticeship;
+
+(ii) a person attending a course of training approved by the Council under section 11 of this Act conducted at an institution so approved if carried out in the course of his training;
+
+(iii) a veterinary surgeon or veterinary practitioner;
+
+(iv) a person undergoing training as a veterinary surgeon in respect of any farriery carried out by him under the supervision of a veterinary surgeon, veterinary practitioner or a person registered under this Act; or
+
+(v) a person rendering first-aid in case of emergency to a horse.
+
+(2) Subsection (1) of this section shall not apply to a person—
+
+(a) who, having had his name removed from the register has not yet been given notice by the registrar of its removal; or
+
+[[^F23](b) who, having applied for registration in the register, has not had his application finally determined]; [^F24]...
+
+[^F24]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) A person who contravenes this section shall be liable on summary conviction to a fine not exceeding [[^F25]level 3 on the standard scale].
+
+[^F26]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 17 Service of documents.
+
+Any notice or other document authorised or required to be given under this Act may, without prejudice to any other method of service but subject to any provision to the contrary in rules under this Act, be served by post; and for the purposes of the application to this section of [[^F27]section 7 of the [^M1]Interpretation Act 1978] (which relates to service by post) the proper address of a person to whose registration such a document relates shall be his address in the register.
+
+## 17A [[^F28]Power to change constitution of Council and its committees
+
+(1) The Secretary of State may by regulations amend or replace—
+
+(a) Part 1 of Schedule 1 (constitution of the Council);
+
+(b) Schedule 2 (constitution of the Investigating Committee);
+
+(c) Part 1 of Schedule 3 (constitution of the Disciplinary Committee).
+
+(2) Before making regulations under this section, the Secretary of State must obtain the consent of—
+
+(a) the Scottish Ministers, and
+
+(b) the Welsh Ministers.
+
+(3) Before making regulations under this section, the Secretary of State must consult—
+
+(a) the Council, and
+
+(b) any other persons the Secretary of State considers appropriate.
+
+(4) Regulations under this section—
+
+(a) are to be made by statutory instrument;
+
+(b) may include incidental, supplementary, consequential, transitional, transitory or saving provision.
+
+(5) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.]
+
+## 18 Interpretation.
+
+In this Act, unless the context otherwise requires—
+
+- “appointed day” in relation to any provision means the day appointed under section 19 of this Act for the commencement of that provision;
+- “the Company” means The Worshipful Company of Farriers being The Livery Company of the City of London bearing that name and incorporated by Royal Charter dated the seventeenth day of January 1674 granted by His late Majesty King Charles II;
+- “the Council” means the Farriers Registration Council established pursuant to secton 2 of this Act;
+- “farriery” means any work in connection with the preparation or treatment of the foot of a horse for the immediate reception of a shoe thereon, the fitting by nailing or otherwise of a shoe to the foot or the finishing off of such work to the foot;
+- “horse” includes pony, mule, donkey or other equine animal;
+- “notice” means notice in writing;
+- “prescribed” means prescribed by rules drawn up by the Council;
+- “register” means the register maintained pursuant to section 3 of this Act;
+- [[^F29]“registered person” means a person who is registered in the register;]
+- “registrar” means the registrar of the Council; and
+- “shoeing” has the same meaning as farriery.
+- [[^F29]“veterinary practitioner” means a person registered in the supplementary veterinary register kept under the Veterinary Surgeons Act 1966;]
+- [[^F29]“veterinary surgeon” means a person registered in the register of veterinary surgeons kept under that Act.]
+
+## 19 Short title and commencement.
+
+(1) This Act may be cited as the Farriers (Registration) Act 1975.
+
+(2) This Act, except section 16, shall come into force on such day as the Secretary of State may by order appoint.
+
+(3) The provisions of section 16 of this Act shall come into force on such day as the Secretary of State may by order appoint and different days may be appointed under this section for the coming into force of those provisions in different areas.
+
+(4) The power of the Secretary of State to make orders under this section shall be exercisable by statutory instrument.
+
+(5) This Act shall not extend to Northern Ireland.
+
+## SCHEDULE 1 — The Farriers Registration Council
+
+*Section 2.*
+
+### [[^F30]Part 1
+
+#### Constitution
+
+##### Membership
+
+**1** (1) The Council is to consist of the following members—
+
+(a) three persons appointed by the Company, at least one of whom must be a practising farrier,
+
+(b) four practising farriers appointed in accordance with a scheme made by the Council,
+
+(c) two registered persons appointed by the National Association of Farriers, Blacksmiths and Agricultural Engineers,
+
+(d) two veterinary surgeons appointed by the Royal College of Veterinary Surgeons, and
+
+(e) one lay person appointed by each of the persons mentioned in sub-paragraph (2).
+
+(2) Those persons are—
+
+(a) the British Horseracing Authority Limited,
+
+(b) the Royal Society for the Prevention of Cruelty to Animals,
+
+(c) Lantra (the company registered in England and Wales with the company registration number 2823181),
+
+(d) Scottish Enterprise, and
+
+(e) the British Equestrian Federation.
+
+(3) A scheme made by the Council under sub-paragraph (1)(b)—
+
+(a) may, in particular, provide for elections to be held for the purpose of determining the persons to be appointed;
+
+(b) may be amended or replaced by the Council.
+
+(4) In making a scheme under sub-paragraph (1)(b), the Council must have due regard to the desirability of securing that the Council includes persons representative of all parts of Great Britain.
+
+(5) In this paragraph—
+
+- “lay person” means a person other than—
+
+  - (a) a registered person,
+  - (b) a person who, in the opinion of the person making the appointment, is qualified to be a registered person,
+  - (c) a veterinary surgeon, or
+  - (d) a veterinary practitioner;
+
+- “practising farrier” means a registered person who carries out farriery.
+
+##### Term of office
+
+**2** (1) Appointment as a member of the Council is for a term of 4 years.
+
+(2) A person may not be appointed as a member more than twice.
+
+(3) A member may resign at any time by notice given to the registrar.
+
+(4) A member may be removed from office if the member fails to satisfy any conditions about fitness to be a member that are determined by the Council.
+
+(5) The procedure for removal of a member from office is to be determined by the Council.
+
+##### Casual vacancies
+
+**3** (1) Where a vacancy occurs among the members of the Council otherwise than by the expiry of a member's term of office, a person must be appointed to fill the vacancy.
+
+(2) So far as practicable, the appointment must be made so as to enable the person appointed to assume office at the time the vacancy arises.
+
+(3) The appointment is for a term expiring on the date on which the term of office of the member whose vacancy the person fills would have expired.
+
+(4) The appointment does not count as an appointment for the purposes of paragraph 2(2) (limit on number of times a person may be appointed as a member of the Council).
+
+##### Procedure
+
+**4** (1) The quorum for a meeting of the Council is—
+
+(a) seven, or
+
+(b) another number determined by the Council.
+
+(2) The Council must elect one of its members to act as chair of the Council.
+
+(3) The Council may make rules governing its meetings and procedure.
+
+(4) The rules may in particular provide—
+
+(a) for a member of the Council to act as its chair in the absence of the member mentioned in sub-paragraph (2);
+
+(b) for a member acting as chair to have an additional casting vote.
+
+##### Validity of acts
+
+**5** The validity of anything done by the Council is not affected by—
+
+(a) a vacancy among its members, or
+
+(b) a defect in the appointment (or election) of a member.]
+
+### Part II
+
+#### Supplementary provisions
+
+**[^F31]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F32]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9** [[^F33](1)] In addition to the Investigating Committee and the Disciplinary Committee authorised by this Act, the Council may set up one or more additional committees of the Council or one or more area councils for any particular part or parts of Great Britain to carry out, on behalf of the Council, such of its functions as the Council may determine, not being functions required by this Act to be carried out by the Council itself.
+
+[[^F34](2) The Council may make rules governing the meetings and procedure of an additional committee or area council.
+
+(3) The rules may in particular provide—
+
+(a) for a member of the additional committee or area council to act as its chair;
+
+(b) for a member acting as chair to have an additional casting vote.]
+
+**10** The Council shall appoint a registrar of the Council and such other officers and servants as it may determine.
+
+**11** The Council shall keep proper accounts of all sums received or paid by it, and proper records in relation to those accounts.
+
+**12** (1) The Council shall appoint auditors of the Council and shall cause its accounts to be audited annually by them and as soon as is practicable after the accounts for any period have been audited the Council shall cause them to be published.
+
+[^F35][2 A person shall not be appointed an auditor of the Council unless he is eligible for appointment as a [[^F36]statutory auditor under Part 42 of the Companies Act 2006].]
+
+(3) None of the following persons shall be qualified to be an auditor of the Council—
+
+(a) an officer or servant of the Council;
+
+(b) a person who is a partner of or in the employment of an officer or servant of the Council;
+
+[^F37]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F37] . . .
+
+References in this sub-paragraph to an officer or servant shall be construed as not including references to an auditor.
+
+## [[^F38]SCHEDULE 2 — Constitution of the Investigating Committee
+
+*Section 13*
+
+### Membership
+
+**1** (1) The Investigating Committee is to consist of six members appointed by the Council.
+
+(2) At least two of the members must be registered persons.
+
+(3) None of the members may be—
+
+(a) a member of the Council,
+
+(b) an officer or servant of the Council, or
+
+(c) a member of the Disciplinary Committee.
+
+(4) The Council must designate a member of the Investigating Committee to act as its chair.
+
+(5) The Council may delegate its function under sub-paragraph (1) to any extent.
+
+### Term of office
+
+**2** (1) Appointment as a member of the Investigating Committee is for a term determined by the Council.
+
+(2) A member may resign at any time by notice given to the registrar.
+
+(3) A member may be removed from office if the member fails to satisfy any conditions about fitness to be a member that are determined by the Council.
+
+(4) The procedure for removal of a member from office is to be determined by the Council.
+
+### Procedure
+
+**3** (1) The quorum for a meeting of the Investigating Committee is three, of whom one must be a registered person.
+
+(2) The Council may make rules governing the Committee's meetings and procedure.
+
+(3) The rules may in particular provide—
+
+(a) for a member of the Committee to act as its chair in the absence of the member designated under paragraph 1(4);
+
+(b) for a member acting as chair to have an additional casting vote.
+
+### Validity of acts
+
+**4** The validity of anything done by the Investigating Committee is not affected by—
+
+(a) a vacancy among its members, or
+
+(b) a defect in the appointment of a member.]
+
+## SCHEDULE 3 — The Disciplinary Committee
+
+*Section 1.*
+
+### [[^F39]Part 1
+
+#### Constitution of Disciplinary Committee
+
+##### Membership
+
+**1** (1) The Disciplinary Committee is to consist of nine members appointed by the Council.
+
+(2) At least three of the members must be registered persons.
+
+(3) None of the members may be—
+
+(a) a member of the Council,
+
+(b) an officer or servant of the Council, or
+
+(c) a member of the Investigating Committee.
+
+(4) The Council must designate a member of the Disciplinary Committee to act as its chair.
+
+(5) The Council may delegate its function under sub-paragraph (1) to any extent.
+
+##### Term of office
+
+**2** (1) Appointment as a member of the Disciplinary Committee is for a term determined by the Council.
+
+(2) A member may resign at any time by notice given to the registrar.
+
+(3) A member may be removed from office if the member fails to satisfy any conditions about fitness to be a member that are determined by the Council.
+
+(4) The procedure for removal of a member from office is to be determined by the Council.
+
+##### Procedure
+
+**3** (1) The quorum for a meeting of the Disciplinary Committee is five, of whom one must be a registered person.
+
+(2) A person who has acted in relation to a case as a member of the Investigating Committee may not act in relation to the case as a member of the Disciplinary Committee.
+
+(3) The Council may make rules governing the Disciplinary Committee's meetings and procedure.
+
+(4) The rules may in particular provide for a member of the Committee to act as its chair in the absence of the member designated under paragraph 1(4).
+
+(5) But the power to make rules under this paragraph may not be used to make provision that could be made by rules under paragraph 4.
+
+##### Validity of acts
+
+**3A** The validity of anything done by the Disciplinary Committee is not affected by—
+
+(a) a vacancy among its members, or
+
+(b) a defect in the appointment of a member.]
+
+### Part II
+
+#### [[^F40]Proceedings before] Disciplinary Committee
+
+**4** (1) For the purpose of any proceedings under this Act before the Disciplinary Committee in England and Wales (whether relating to disciplinary cases or otherwise) the Disciplinary Committee may administer oaths, and, any party to the proceedings may sue out writs of subpoena ad testificandum and duces tecum, but no person shall be compelled under any such writ to produce any document which he could not be compelled to produce on the trial of an action.
+
+(2) Section [[^F41]36 of the [[^F42]Senior Courts Act 1981]] (which provides a special procedure for the issue of such writs so as to be in force throughout the United Kingdom) shall apply in relation to any such proceedings as aforesaid as it applies in relation to causes or matters in the High Court.
+
+(3) For the purpose of any proceedings under this Act before the Disciplinary Committee in Scotland (whether relating to disciplinary cases or otherwise) the Disciplinary Committee may administer oaths and the Court of Session shall on the application of any party to the proceedings have the like power as in any action in that court to grant warrant for the citation of witnesses and havers to give evidence or to produce documents before the Disciplinary Committee and for the issue of letters of second diligence against any witness or haver failing to appear after due citation, to grant warrant for the recovery of documents, and to grant commissions to persons to take the evidence of witnesses or to examine havers and receive their exhibits and productions.
+
+(4) The Council shall make rules as to the procedure to be followed and the rules of evidence to be observed in proceedings before the Disciplinary Committee, and in particular—
+
+(a) for securing that notice that the proceedings are to be brought shall be given, at such time and in such manner as may be specified in the rules, to the person alleged to be liable to have his name erased from the registers;
+
+(b) for securing that any party to the proceedings shall, if he so requires, be entitled to be heard by the Disciplinary Committee;
+
+(c) for enabling any party to the proceedings to be represented by counsel or solicitor or (if the rules so provide and the party so elects) by a person of such other description as may be specified in the rules;
+
+(d) for requiring in any case where it is alleged that a person registered under this Act has been guilty of serious misconduct in any professional respect and where the Disciplinary Committee judge that the allegation has not been proved, that they shall record a finding that the person is not guilty of such misconduct in respect of the matter to which the allegation relates;
+
+(e) for ensuring that persons likely to be affected by any finding of the Committee are duly notified of that finding:
+
+Provided that, as respects proceedings for the restoration of names to the register or appeals against the refusal of an application for registration the Council shall have power to make rules with respect to all or any of the matters aforesaid, but shall not be required to do so, and separate rules under this paragraph may be made as respects such proceedings and as respects such appeals.
+
+(5) Before making rules under this paragraph the Council shall consult such organisations as appear to the Council to be representative of the interests of farriers or of persons employing farriers.
+
+(6) Rules under this paragraph shall not come into force until approved by the Lord Chancellor, and the Lord Chancellor may approve rules under this paragraph either as submitted to him or subject to such modification as appears to him requisite: Provided that where the Lord Chancellor proposes to approve such rules subject to modifications he shall notify to the Council the modifications he proposes to make and shall consider the observations of the Council thereon.
+
+**5** (1) For the purpose of advising the Disciplinary Committee on questions of law arising in proceedings before them there shall be in all such proceedings an assessor to the Disciplinary Committee who shall be
+
+[[^F43](a) a person who has a 10 year general qualification, within the meaning of section 71 of the Courts and Legal Services Act 1990; or
+
+(b) an advocate or solicitor in Scotland of at least 10 years’ standing.]
+
+(2) The power of appointing assessors under this paragraph shall be exercisable by the Council, but if no assessor appointed by it is available to act at any particular proceedings the Disciplinary Committee may appoint an assessor under this paragraph to act at these proceedings.
+
+(3) The Lord Chancellor may make rules as to the functions of assessors appointed under this paragraph, and in particular, rules under this paragraph may contain such provisions for securing—
+
+(a) that where an assessor advises the Disciplinary Committee on any question of law as to evidence, procedure or any other matters specified in the rules, he shall do so in the presence of every party, or person representing a party, to the proceedings who appears thereat or, if the advice is tendered after the Disciplinary Committee have begun to deliberate as to its findings, that every such party or person as aforesaid shall be informed what advice the assessor has tendered;
+
+(b) that every such party or person as aforesaid shall be informed if in any case the Committee does not accept the advice of the assessor on any such question as aforesaid;
+
+and such incidental and supplementary provisions, as appear to the Lord Chancellor expedient.
+
+(4) Subject to the provisions of this paragraph an assessor under this paragraph may be appointed either generally or for any particular proceedings or class of proceedings, and shall hold and vacate office in accordance with the terms of the instrument under which he is appointed.
+
+(5) Any remuneration paid by the Council to persons appointed to act as assessors shall be at such rates as the Lord Chancellor may approve.
+
+**6** The power to make or approve rules conferred on the Lord Chancellor by this Part of this Schedule shall be exercisable by statutory instrument.
+
+**7** In the application of this Part of this Schedule to Scotland, for the references to the Lord Chancellor there shall be substituted references to the Lord Advocate.
+
+---
+
+[^F1]: S. 3(2A) omitted (31.12.2020) by virtue of The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457), regs. 1(1), 2(2) (with regs. 3-4A) (as amended by S.I. 2020/1038, regs. 1(3), 6); 2020 c. 1, Sch. 5 para. 1(1)
+[^F2]: S. 4(5) omitted (31.12.2020) by virtue of The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457), regs. 1(1), 2(2) (with regs. 3-4A) (as amended by S.I. 2020/1038, regs. 1(3), 6); 2020 c. 1, Sch. 5 para. 1(1)
+[^F3]: Words substituted by virtue of (E.W.) Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 38, 46 and (S.) Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1), ss. 289F, 289G
+[^F4]: Ss. 7-9 substituted (31.3.2008) by Farriers’ Qualifications (European Recognition) Regulations 2008 (S.I. 2008/646), regs. 1, 5
+[^F5]: Word in s. 7(1)(d) inserted (31.12.2020) by The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457), regs. 1(1), 2(3)(a)(i) (with regs. 3-4A) (as amended by S.I. 2020/1038, regs. 1(3), 6); 2020 c. 1, Sch. 5 para. 1(1)
+[^F6]: Words in s. 7(1)(e)(i) substituted (31.12.2020) by The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457), regs. 1(1), 2(3)(a)(ii) (with regs. 3-4A) (as amended by S.I. 2020/1038, regs. 1(3), 6); 2020 c. 1, Sch. 5 para. 1(1)
+[^F7]: S. 7(1)(f) omitted (31.12.2020) by virtue of The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457), regs. 1(1), 2(3)(a)(iii) (with regs. 3-4A) (as amended by S.I. 2020/1038, regs. 1(3), 6); 2020 c. 1, Sch. 5 para. 1(1)
+[^F8]: S. 7(1)(g) omitted (31.12.2020) by virtue of The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457), regs. 1(1), 2(3)(a)(iii) (with regs. 3-4A) (as amended by S.I. 2020/1038, regs. 1(3), 6); 2020 c. 1, Sch. 5 para. 1(1)
+[^F9]: S. 7(6)-(9) omitted (31.12.2020) by virtue of The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457), regs. 1(1), 2(3)(b) (with regs. 3-4A) (as amended by S.I. 2020/1038, regs. 1(3), 6); 2020 c. 1, Sch. 5 para. 1(1)
+[^F10]: S. 9(2)-(5) omitted (31.12.2020) by virtue of The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457), regs. 1(1), 2(4)(a) (with regs. 3-4A) (as amended by S.I. 2020/1038, regs. 1(3), 6); 2020 c. 1, Sch. 5 para. 1(1)
+[^F11]: Words in s. 9(6) omitted (31.12.2020) by virtue of The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457), regs. 1(1), 2(4)(b) (with regs. 3-4A) (as amended by S.I. 2020/1038, regs. 1(3), 6); 2020 c. 1, Sch. 5 para. 1(1)
+[^F12]: Words in s. 9(7) omitted (31.12.2020) by virtue of The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457), regs. 1(1), 2(4)(b) (with regs. 3-4A) (as amended by S.I. 2020/1038, regs. 1(3), 6); 2020 c. 1, Sch. 5 para. 1(1)
+[^F13]: Words in s. 10(1)(b) substituted (31.12.2020) by The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457), regs. 1(1), 2(5) (with regs. 3-4A) (as amended by S.I. 2020/1038, regs. 1(3), 6); 2020 c. 1, Sch. 5 para. 1(1)
+[^F14]: Words inserted by Farriers (Registration) (Amendment) Act 1977 (c. 31), Sch. para. 4
+[^F15]: Ss. 11(2), 16(4) repealed by Farriers (Registration) (Amendment) Act 1977 (c. 31), s. 1(2)
+[^F16]: Words in s. 13(1) omitted (15.9.2017) by virtue of Farriers (Registration) Act 2017 (c. 28), s. 3(2), Sch. para. 4; S.I. 2017/921, reg. 2
+[^F17]: Words in s. 14(1) omitted (15.9.2017) by virtue of Farriers (Registration) Act 2017 (c. 28), s. 3(2), Sch. para. 6(a); S.I. 2017/921, reg. 2
+[^F18]: Words in s. 14(2) substituted (15.9.2017) by Farriers (Registration) Act 2017 (c. 28), s. 3(2), Sch. para. 6(b); S.I. 2017/921, reg. 2
+[^F19]: S. 15(1)(d) and word omitted (31.12.2020) by virtue of The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457), regs. 1(1), 2(6) (with regs. 3-4A) (as amended by S.I. 2020/1038, regs. 1(3), 6); 2020 c. 1, Sch. 5 para. 1(1)
+[^F20]: S. 15A inserted by Farriers (Registration) (Amendment) Act 1977 (c. 31), Sch. para. 5
+[^F21]: S. 15A(1)(iii) and word omitted (31.12.2020) by virtue of The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457), regs. 1(1), 2(7) (with regs. 3-4A) (as amended by S.I. 2020/1038, regs. 1(3), 6); 2020 c. 1, Sch. 5 para. 1(1)
+[^F22]: S. 16(1)(c) repealed by Farriers (Registration) (Amendment) Act 1977 (c. 31), s. 1(2)
+[^F23]: S. 16(2)(b) substituted by Farriers (Registration) (Amendment) Act 1977 (c. 31), Sch. para. 6
+[^F24]: S. 16(2)(c) and word omitted (31.12.2020) by virtue of The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457), regs. 1(1), 2(8) (with regs. 3-4A) (as amended by S.I. 2020/1038, regs. 1(3), 6); 2020 c. 1, Sch. 5 para. 1(1)
+[^F25]: Words substituted by virtue of (E.W.) Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 38, 46 and (S.) Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1), ss. 289F, 289G
+[^F26]: Ss. 11(2), 16(4) repealed by Farriers (Registration) (Amendment) Act 1977 (c. 31), s. 1(2)
+[^F27]: Words substituted by virtue of Interpretation Act 1978 (c. 30), s. 25(2)
+[^M1]: 1978 c. 30.
+[^F28]: S. 17A inserted (15.9.2017) by Farriers (Registration) Act 2017 (c. 28), ss. 2, 3(2); S.I. 2017/921, reg. 2
+[^F29]: Words in s. 18 inserted (15.9.2017) by Farriers (Registration) Act 2017 (c. 28), s. 3(2), Sch. para. 3; S.I. 2017/921, reg. 2
+[^F30]: Sch. 1 Pt. I substituted (15.9.2017) by Farriers (Registration) Act 2017 (c. 28), s. 3(2), Sch. para. 1; S.I. 2017/921, reg. 2
+[^F31]: Sch. 1 para. 7 omitted (15.9.2017) by virtue of Farriers (Registration) Act 2017 (c. 28), s. 3(2), Sch. para. 2(2); S.I. 2017/921, reg. 2
+[^F32]: Sch. 1 para. 8 omitted (15.9.2017) by virtue of Farriers (Registration) Act 2017 (c. 28), s. 3(2), Sch. para. 2(2); S.I. 2017/921, reg. 2
+[^F33]: Sch. 1 para. 9(1): Sch. 1 para. 9 renumbered as Sch. 1 para. 9(1) (15.9.2017) by Farriers (Registration) Act 2017 (c. 28), s. 3(2), Sch. para. 2(3)(a); S.I. 2017/921, reg. 2
+[^F34]: Sch. 1 para. 9(2)(3) inserted (15.9.2017) by Farriers (Registration) Act 2017 (c. 28), s. 3(2), Sch. para. 2(3)(b); S.I. 2017/921, reg. 2
+[^F35]: Sch. 1 para. 12(2) substituted (1.10.1991) by S.I. 1991/1997, reg. 2, Sch. para.25
+[^F36]: Words in Sch. 1 para. 12(2) substituted (6.4.2008) by The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948), art. 2(2), Sch. 1 para. 1(o) (with arts. 6, 11, 12)
+[^F37]: Words in Sch. 1 para. 12(3) omitted (1.10.1991) by virtue of S.I. 1991/1997, reg. 2, Sch. para.25
+[^F38]: Sch. 2 substituted (15.9.2017) by Farriers (Registration) Act 2017 (c. 28), s. 3(2), Sch. para. 5; S.I. 2017/921, reg. 2
+[^F39]: Sch. 3 Pt. I substituted (15.9.2017) by Farriers (Registration) Act 2017 (c. 28), s. 3(2), Sch. para. 7; S.I. 2017/921, reg. 2
+[^F40]: Words in Sch. 3 Pt. II heading substituted (15.9.2017) by Farriers (Registration) Act 2017 (c. 28), s. 3(2), Sch. para. 8; S.I. 2017/921, reg. 2
+[^F41]: Words substituted by Supreme Court Act 1981 (c. 54, SIF 37), s. 152(1), Sch. 5
+[^F42]: Words in Act substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), s. 148(1), Sch. 11 para. 1(2); S.I. 2009/1604, art. 2(d)
+[^F43]: Sch. 3 Pt. II para. 5(1)(a)(b) substituted by Courts and Legal Services Act 1990 (c. 41, SIF 37), s. 71(2), Sch. 10 para. 38

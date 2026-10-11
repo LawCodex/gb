@@ -1,0 +1,956 @@
+---
+title: "Road Traffic (Consequential Provisions) Act 1988"
+identifier: "ukpga/1988/54"
+citation: "1988 c. 54"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1988-11-15
+last_amended: 2010-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1988/54"
+source_modified: 2017-11-13
+retrieved: 2026-10-11
+---
+
+# Road Traffic (Consequential Provisions) Act 1988
+
+**1988 c. 54**
+
+An Act to make provision for repeals (including a repeal to give effect to a recommendation of the Law Commission and the Scottish Law Commission), consequential amendments, transitional and transitory matters and savings in connection with the consolidation of enactments in the Road Traffic Act 1988 and the Road Traffic Offenders Act 1988.
+
+[15th November 1988]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1 Meaning of “the Road Traffic Acts”, “the repealed enactments”, etc.
+
+(1) In this Act—
+
+- “the Road Traffic Acts” means the [^M1]Road Traffic Act 1988, the [^M2]Road Traffic Offenders Act 1988 and, so far as it reproduces the effect of the repealed enactments, this Act, and
+- “the repealed enactments” means the enactments repealed or revoked by this Act.
+
+(2) Expressions used in this Act and in the Road Traffic Act 1988 have the same meaning as in that Act.
+
+## 2 Continuity, and construction of references to old and new law.
+
+(1) The substitution of the Road Traffic Acts for the repealed enactments does not affect the continuity of the law.
+
+(2) Anything done or having effect as if done under or for the purposes of a provision of the repealed enactments has effect, if it could have been done under or for the purposes of the corresponding provision of the Road Traffic Acts, as if done under or for the purposes of that corresponding provision.
+
+(3) Any reference, whether express or implied, in the Road Traffic Acts or any other enactment, instrument or document to a provision of the Road Traffic Acts is to be read, in relation to the times, circumstances or purposes in relation to which the corresponding provision of the repealed enactments had effect and so far as the nature of the reference permits, as including a reference to that corresponding provision.
+
+(4) Any reference, whether express or implied, in any enactment, instrument or document to a provision of the repealed enactments is to be read, in relation to the times, circumstances or purposes in relation to which the corresponding provision of the Road Traffic Acts has effect and so far as the nature of the reference permits, as including a reference to that corresponding provision.
+
+## 3 Repeals.
+
+(1) The enactments specified in Part I of Schedule 1 to this Act are repealed to the extent specified in the third column.
+
+(2) Those repeals include the repeal, in accordance with Recommendations of the Law Commission and the Scottish Law Commission, of section 34 of the [^M3]Road Traffic Act 1972 (requirements as to employment of persons to attend to locomotives and trailers) as no longer of practical utility.
+
+(3) The subordinate legislation specified in Part II of that Schedule is revoked to the extent specified in the third column.
+
+## 4 Prospective and consequential amendments.
+
+Schedule 2 to this Act (which re-enacts or makes consequential amendments of provisions which made prospective amendments of the repealed and other enactments, so that the re-enacted or amended provisions prospectively amend the Road Traffic Acts and other enactments) and Schedule 3 to this Act (which makes other consequential amendments) shall have effect.
+
+## 5 Transitional provisions and savings.
+
+(1) Schedule 4 to this Act (which makes certain transitional provisions and contains savings in connection with the repeals made by this Act) shall have effect.
+
+(2) Nothing in that Schedule affects the general operation of section 16 of the [^M4]Interpretation Act 1978 (general savings implied on a repeal).
+
+## 6
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7 Saving for law of nuisance.
+
+Nothing in the Road Traffic Acts authorises a person to use on a road a vehicle so constructed or used as to cause a public or private nuisance, or in Scotland a nuisance, or affects the liability, whether under statute or common law, of the driver or owner so using such a vehicle.
+
+## 8 Short title, commencement and extent.
+
+(1) This Act may be cited as the Road Traffic (Consequential Provisions) Act 1988.
+
+(2) This Act, except those provisions that may be brought into force in accordance with subsection (3) below, shall come into force at the end of the period of six months beginning with the day on which it is passed.
+
+(3) [[^F1]Paragraphs 15 to 20 of Schedule 2 to this Act] shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint, and different days may be so appointed for different provisions and for different purposes.
+
+(4) An order under subsection (3) above bringing any provision of Part I of Schedule 2 to this Act (wholly or partly) into force may contain such transitional provisions and savings (whether or not involving the modification of any provision contained in an Act or in subordinate legislation within the meaning of the [^M5]Interpretation Act 1978) as appear to the Secretary of State necessary or expedient in connection with that provision.
+
+(5) This Act does not extend to Northern Ireland except so far as it affects other enactments extending to Northern Ireland.
+
+## SCHEDULE 1 — Repeals and Revocations
+
+*Section 3*
+
+### Part I — Enactments Repealed
+
+|  |  |  |
+|---|---|---|
+| Chapter or Number | Short Title | Extent of Repeal |
+| 1968 c. 73. | Transport Act 1968. | In Schedule 11, the entry for section 244 of the Road Traffic Act 1960. |
+| 1972 c. 20. | Road Traffic Act 1972. | The whole Act. |
+| 1972 c. 27. | Road Traffic (Foreign Vehicles) Act 1972. | Section 1(6)(a)(ii). |
+|  |  | In Schedule 2, the entry relating to sections 68 to 73 and 76 to 79 of the Road Traffic Act 1972 and regulations made under those sections. |
+| 1972 c. 70. | Local Government Act 1972. | In section 186(1), the words from the beginning to first “and”. |
+|  |  | Schedule 19. |
+| 1973 c. 44. | Heavy Commercial Vehicles (Controls and Regulations) Act 1973. | The whole Act. |
+| 1973 c. 62. | Powers of Criminal Courts Act 1973. | In Schedule 5, paragraph 43. |
+| 1973 c. 65. | Local Government (Scotland) Act 1973. | In Schedule 14, paragraphs 82 to 86. |
+| 1974 c. 50. | Road Traffic Act 1974. | Sections 6 to 15. |
+|  |  | Sections 20 to 22. |
+|  |  | Schedule 2. |
+|  |  | Schedule 3. |
+|  |  | Schedule 5. |
+|  |  | In Schedule 6, paragraphs 12 to 24. |
+| 1975 c. 21. | Criminal Procedure (Scotland) Act 1975. | In Schedule 7D, the entries relating to the Road Traffic Act 1972. |
+| 1975 c. 46. | International Road Haulage Permits Act 1975. | In section 3, subsections (2) to (5). |
+| 1976 c. 3. | Road Traffic (Drivers’ Ages and Hours of Work) Act 1976. | Section 1. |
+|  |  | Section 4(2)(b). |
+|  |  | Schedules 1 and 2. |
+| 1976 c. 57. | Local Government (Miscellaneous Provisions) Act 1976. | In section 80(1), the definition of “the Act of 1972”. |
+| 1976 c. 62. | Motor-Cycle Crash Helmets (Religious Exemption) Act 1976. | The whole Act. |
+| 1977 c. 45. | Criminal Law Act 1977. | Section 50. |
+|  |  | In Schedule 1, the entries relating to the Road Traffic Act 1972. |
+|  |  | In Schedule 5, paragraph 2. |
+|  |  | In Schedule 6, the entry relating to the Road Traffic Act 1972. |
+|  |  | In Schedule 12, the amendments of the Road Traffic Act 1972. |
+| 1977 c. 49. | National Health Service Act 1977. | In Schedule 15, paragraph 56. |
+| 1978 c. 55. | Transport Act 1978. | In section 9, in subsection (1) the words from the beginning to third “and” and subsection (2). |
+|  |  | In section 24(2), the definition of “the 1972 Act”. |
+|  |  | In Schedule 3, Part A. |
+| 1980 c. 34. | Transport Act 1980. | Section 37(4). |
+|  |  | Section 61. |
+|  |  | Section 63. |
+| 1980 c. 43. | Magistrates’ Courts Act 1980. | In Schedule 7, paragraphs 111 and 112. |
+| 1980 c. 53. | Health Services Act 1980. | In Schedule 1, paragraph 21. |
+| 1980 c. 62. | Criminal Justice (Scotland) Act 1980. | Section 7(2). |
+|  |  | Section 26(8). |
+|  |  | Section 55. |
+|  |  | In Schedule 7, paragraph 23. |
+| 1980 c. 66. | Highways Act 1980. | In Schedule 24, paragraph 21. |
+| 1981 c. 14. | Public Passenger Vehicles Act 1981. | In Schedule 7, paragraphs 12 to 15. |
+| 1981 c. 31. | Insurance Companies Act 1981. | In Schedule 4, paragraph 22. |
+| 1981 c. 45. | Forgery and Counterfeiting Act 1981. | In section 12, the words “section 169(3) of the Road Traffic Act 1972”. |
+| 1981 c. 56. | Transport Act 1981. | Part IV. |
+|  |  | Schedules 7 and 8. |
+|  |  | In Schedule 9, Part I. |
+| 1982 c. 48. | Criminal Justice Act 1982. | In section 39, subsection (1)(b)(i). |
+|  |  | In Schedule 2, the entry relating to the Road Traffic Act 1972. |
+|  |  | In Schedule 3, the entries relating to the Road Traffic Act 1972. |
+|  |  | In Schedule 6, the entries relating to the Road Traffic Act 1972. |
+|  |  | In Schedule 15, paragraph 16. |
+| 1982 c. 49. | Transport Act 1982. | Section 16. |
+|  |  | In section 17, subsection (3) and, in subsection (4), the words from “and in subsection (4)(a) of that section” to the end. |
+|  |  | In section 24, the last column of the entries made by subsection (3)(b). |
+|  |  | Part III. |
+|  |  | Sections 56 to 60. |
+|  |  | Sections 63 and 64. |
+|  |  | Section 73(3). |
+|  |  | Schedules 1, 2 and 3. |
+|  |  | In Schedule 5, paragraphs 7 to 16, 17(1), 25 and 26. |
+| 1982 c. 50. | Insurance Companies Act 1982. | In Schedule 5, paragraph 12. |
+| 1983 c. 43. | Road Traffic (Driving Licences) Act 1983. | Section 1. |
+|  |  | In section 2, subsections (1) and (2). |
+| 1984 c. 13. | Road Traffic (Driving Instruction) Act 1984. | The whole Act. |
+| 1984 c. 27. | Road Traffic Regulation Act 1984. | Section 35(8). |
+|  |  | Section 47(7). |
+|  |  | In section 52(2), the words “and subsection (7)”. |
+|  |  | Section 53(7). |
+|  |  | Section 78. |
+|  |  | Section 90. |
+|  |  | Section 98. |
+|  |  | Sections 113 and 114. |
+|  |  | Section 118. |
+|  |  | Sections 120 and 121. |
+|  |  | Section 130(2)(c), (4) and (5). |
+|  |  | In section 145(2), the words “Section 90 and”. |
+|  |  | Schedule 7. |
+|  |  | In Schedule 10, paragraph 12. |
+|  |  | In Schedule 13, paragraphs 13 to 28, 50, 51 and 54 to 56. |
+| 1984 c. 32. | London Regional Transport Act 1984. | In Schedule 6, paragraph 10. |
+| 1984 c. 38. | Cycle Tracks Act 1984. | Section 2. |
+| 1984 c. 54. | Roads (Scotland) Act 1984. | In Schedule 9, paragraphs 68, 88(2) and 93(39). |
+| 1984 c. 60. | Police and Criminal Evidence Act 1984. | In Schedule 2, the entry relating to the Road Traffic Act 1972. |
+|  |  | In Schedule 5, in Part II the entry relating to the Road Traffic Act 1972. |
+| 1985 c. 28. | Motor-Cycle Crash-Helmets (Restriction of Liability) Act 1985. | The whole Act. |
+| 1985 c. 34. | Road Traffic (Production of Documents) Act 1985. | The whole Act. |
+| 1985 c. 51. | Local Government Act 1985. | In Schedule 5, paragraphs 2 and 4(21). |
+|  |  | In Schedule 14, paragraph 49. |
+| 1985 c. 66. | Bankruptcy (Scotland) Act 1985. | In Schedule 7, paragraph 10. |
+| 1985 c. 67. | Transport Act 1985. | In Schedule 2, in Part II paragraph 3. |
+| 1985 c. 73. | Law Reform (Miscellaneous Provisions)(Scotland) Act 1985. | Section 38. |
+|  |  | In Schedule 2, paragraphs 26 and 27. |
+|  |  | In Schedule 3, paragraph 2. |
+| 1986 c. 45. | Insolvency Act 1986. | In Schedule 14, the entry relating to the Road Traffic Act 1972. |
+| 1987 c. 41. | Criminal Justice (Scotland) Act 1987. | In Schedule 1, paragraph 3. |
+| 1988 c. 23. | Motor Vehicles (Wearing of Rear Seat Belts by Children) Act 1988. | Section 1. |
+|  |  | Section 3(2) and (3). |
+| 1988 c. 33. | Criminal Justice Act 1988. | Section 37(2). |
+|  |  | Section 63. |
+|  |  | Section 68. |
+|  |  | In Schedule 15, paragraphs 92 to 94. |
+
+### Part II — Subordinate Legislation Revoked
+
+|  |  |  |
+|---|---|---|
+| Chapter or Number | Short Title | Extent of Revocation |
+| S.I.1973/2143. | Motor Vehicles (Compulsory Insurance) ( No. 2) Regulations 1973. | Regulations 3, 4 and 9. |
+| S.I.1977/1043. | Motor Cars (Driving Instruction) Regulations 1977. | Regulation 4. |
+| S.I.1981/160. | Road Traffic (Northern Ireland Consequential Amendments) Order 1981. | Article 2. |
+| S.I.1981/1692. | Passenger and Goods Vehicles (Recording Equipment) Regulations 1981. | All the Regulations. |
+| S.I.1982/1550. | Motor Vehicles (Tests) (Extension) Order 1982. | The whole Order. |
+| S.I. 1982/1555. | Driving Licences (Community Driving Licence) Regulations 1982. | Regulations 2, 3 and 5. |
+| S.I.1986/368. | Road Traffic Accidents (Payments for Treatment) (England and Wales) Order 1986. | The whole Order. |
+| S.I.1986/408. | Road Traffic Accidents (Payments for Treatment) (Scotland) Order 1986. | The whole Order. |
+| S.I. 1986/555. | Fixed Penalty (Increase) (Scotland) (No. 2) Order 1986. | The whole Order. |
+| S.I.1986/1078. | Road Vehicles (Construction and Use) Regulations 1986. | Regulation 91. |
+| S.I.1986/1327. | Fixed Penalty (Increase) Order 1986. | The whole Order. |
+| S.I.1987/353. | Road Traffic Accidents (Payments for Treatment) Order 1987. | The whole Order. |
+| S.I.1987/2171. | Motor Vehicles (Compulsory Insurance) Regulations 1987. | Regulations 2 to 4. |
+
+## SCHEDULE 2 — Re-enactment or Amendment of Certain Enactments not Brought Into Force
+
+*Section 4.*
+
+### Part I — Testing, Marking and Approval of Vehicles
+
+**[^F2]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2** Part II of the [^M6]Transport Act 1982 is amended as shown in paragraphs 3 to 14 below.
+
+**3** (1) In section 9, for the cross-heading “Functions under the 1972 Act” there is substituted “ Functions under the 1988 Act ” and in the paragraphs under that cross-heading—
+
+- for “section 40” there is substituted “ section 41 ”,
+- for “section 43” there is substituted “ section 45 ”,
+- for “section 44(10A)” there is substituted “ section 48(4) ”,
+- for “section 45” there is substituted “ section 49 ”,
+- for “section 46(5)(b)” there is substituted “ section 53(5)(b) ”,
+- for “section 50” (in both places) there is substituted “ section 61 ”,
+- [^F3]. . .
+- for “ sections 57 and 58” there is substituted “ sections 69, 70 and 72 ”,
+- for “section 57(7)” there is substituted “ section 70(2) ”.
+
+(2) In section 9, in the paragraph under the cross-heading “Functions under the Road Traffic (Foreign Vehicles) Act 1972”, for “the 1972 Act” there is substituted “ the 1988 Act ”.
+
+**4** (1) In section 10(2)—
+
+(a) for “section 43 of the 1972 Act” there is substituted “sections 45 and 46 of the 1988 Act”,
+
+(b) for “section 45” there is substituted “section 49”,
+
+(c) for paragraph (a) there is substituted—
+
+> (a) in section 45(3) (persons who may carry out examinations under that section), after paragraph (a) there is inserted—
+>
+> “(aa) any authorised inspector”,
+
+(d) in paragraph (b), for “subsection (6)(g)” there is substituted “section 46(g)”, and
+
+(e) in paragraph (c), for “subsection (6)(h)” there is substituted “section 46(h)”.
+
+[^F4]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 10(6), for “section 56(2) of the 1972 Act” there is substituted “section 68(3) of the 1988 Act”.
+
+(4) In section 10(7)—
+
+(a) for “section 45(6)(a)(ii) and (d) of the 1972 Act” there is substituted “section 51(1)(a)(ii) and (d) of the 1988 Act”,
+
+(b) for “section 46(3)” there is substituted “section 53(3)” and for “section 45” there is substituted “section 49”,
+
+(c) for “section 51(3)” there is substituted “section 63(3)” and for “section 48” there is substituted “section 59”,
+
+(d) for “subsections (2), (3) and (4) of section 48” there is substituted “section 59(1), (2) and (3)”.
+
+(5) In section 10(11), for paragraph (a) there is substituted—
+
+> (a) section 45, section 49 or section 61 of the 1988 Act; or
+
+.
+
+(6) In section 10(12), for “section 43 or 45 of the 1972 Act” there is substituted “sections 45 or 49 of the 1988 Act”.
+
+**5** In section 13(9), for “section 45(9) of the 1972 Act” there is substituted “ section 52(2) of the 1988 Act ”.
+
+**6** (1) In section 17(1)—
+
+(a) for “section 47 of the 1972 Act” there is substituted “ sections 55 and 57 of the 1988 Act ”,
+
+(b) for “subsections (6), (7)(b) and (10)(a)” there is substituted “ sections 57(2) and (3)(b) and 55(6)(a) ” and
+
+(c) for “subsection (6)” there is substituted “ section 57(2) ”.
+
+(2) In section 17(2)—
+
+(a) for “section 49 of the 1972 Act” there is substituted “ section 60 of the 1988 Act ”,
+
+(b) in the first line of the inserted section, for “49” there is substituted “ 60 ”,
+
+(c) in subsection (1) of the inserted section, for “section 47 or 48” there is substituted “ sections 54 to 59 ”,
+
+(d) at the end of subsection (2) of the inserted section there is inserted—
+
+> This subsection does not apply in relation to vehicle parts.
+
+(3) Section 17(3) is omitted.
+
+(4) In section 17(4)—
+
+(a) for “section 50” there is substituted “ section 61 ”,
+
+(b) for “sections 47 to 49A” (in both places) there is substituted “ sections 54 to 60 ”,
+
+(c) for “section 47(8)” there is substituted “ section 58(2) ”, and
+
+(d) the words from “and in subsection (4)(a) of that section” to the end are omitted.
+
+**7** In section 18, for “section 51 of the 1972 Act” there is substituted “ section 63 of the 1988 Act ” and, in the inserted section—
+
+(a) in the first line, for “51A” there is substituted “ 63A ”,
+
+(b) for “section 45 or 50” there is substituted “ section 49 or 61 ”,
+
+(c) for “section 45(6)” there is substituted “ section 51(1) ” and for “subsection (3) of that section” there is substituted “ section 50(1) ”, and
+
+(d) for “section 47” there is substituted “ section 57 or 58 ”.
+
+**[^F5]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F6]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10** In section 21—
+
+(a) in subsection (1), for “section 43(4) of the 1972 Act” there is substituted “ section 45(4) of the 1988 Act ” and for “that subsection” there is substituted “ section 45(5) of that Act ”,
+
+[^F7]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11** In section 22—
+
+(a) in subsection (1), for “section 45(6) of the 1972 Act” there is substituted “ section 51(1) of the 1988 Act ”, and
+
+(b) in subsection (2), for “section 50(1)” there is substituted “ section 61(2) ”, for “section 48” there is substituted “ section 59 ” and for “section 45(6)” (in both places) there is substituted “ section 51(1) ”.
+
+**12** In section 23(3), for “section 169 of the 1972 Act” there is substituted “ section 173 of the 1988 Act ” and for “section 57” there is substituted “ section 69 or 70 ”.
+
+**13** In section 24—
+
+(a) in subsection (1), for “section 171 of the 1972 Act” there is substituted “ section 175 of the 1988 Act ” and in the inserted section—
+
+(i) in the first line, for “171” there is substituted “ 175 ”,
+
+(ii) in subsection (1), for “section 170(6)” there is substituted “ section 174(5) ”, for “section 44(10A) or 46(5)(b)” there is substituted “ section 48(4) or 53(5)(b) ” and for “section 57” there is substituted “ section 69 or 70 ”,
+
+(b) in subsection (2)—
+
+(i) for “section 173(2)” there is substituted “ section 176 ”,
+
+[^F8]ii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(iii) in paragraph (b), at the beginning there is inserted “ in subsection (5) ” and for “section 57” there is substituted “ section 69 or 70 ”, and
+
+(c) in subsection (3)—
+
+(i) for “Part I of Schedule 4 to the 1972 Act” there is substituted “ Part I of Schedule 2 to the Road Traffic Offenders Act 1988 ”,
+
+(ii) in paragraph (a), for the first “171” there is substituted “ 175 of the 1988 Act ” and for “171” (in the other two places) there is substituted “ 175 ”,
+
+(iii) in paragraph (b), for “171(2)” there is substituted “ 175(2) ” and the words in the last column are omitted, and
+
+(iv) at the end of that subsection there is added— “ and in Schedule 1 to the Road Traffic Offenders Act 1988, in the entry for section 175 of the Road Traffic Act 1988 there is added to the words in column 2 “falsely amending certificate of conformity” ””.
+
+**14** In section 26—
+
+(a) after the definition of “the 1981 Act” there is inserted—
+
+> “the 1988 Act” means the Road Traffic Act 1988
+
+,
+
+(b) for “section 196 of the 1972 Act” there is substituted “ section 192 of the 1988 Act ”, and
+
+(c) for “section 56(1) of the 1972 Act” there is substituted “ section 68(2) of the 1988 Act ”.
+
+**15** In section 61(2) of the [^M7]Road Traffic Act 1988—
+
+(a) at the end of paragraph (a) there is inserted “ or designated under section 10(12) of the Transport Act 1982 ”, [^F9]. . .
+
+(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16** In section 84(4) of the [^M8]Road Traffic Act 1988, for “ 72(9)” there is substituted “ 72 ”.
+
+**17** In section 85 of the Road Traffic Act 1988—
+
+(a) at the end of the definition of “official testing station” there is added “ or premises designated by him under section 10(12) of the [^M9]Transport Act 1982 ”,
+
+(b) following the definition of “prescribed” there is inserted—
+
+> “prescribed testing authority” means such approved testing authority as may be prescribed
+
+, and
+
+(c) at the end of that section there is added—
+
+> (2) References in any provision of this Part of this Act to an authorised inspector are references to a person authorised by the Secretary of State under section 8 of the Transport Act 1982 to exercise the function to which that provision relates.
+
+**18** In section 183 of the Road Traffic Act 1988—
+
+(a) in subsection (2), for “ 63” there is substituted “ 63A ”, and
+
+(b) in subsection (3), at the end of paragraph (a) there is inserted “ or of authorised inspectors under section 8 of the Transport Act 1982 ”, and paragraph (b) is omitted.
+
+**19** In section 192(1) of the Road Traffic Act 1988, before the definition of “bridleway” there is inserted—
+
+> “approved testing authority” means a person authorised by the Secretary of State under section 8 of the Transport Act 1982 to carry on a vehicle testing business within the meaning of Part II of that Act
+
+.
+
+**20** In section 13(1) of the [^M10]Road Traffic Offenders Act 1988—
+
+(a) after “vehicles” there is inserted “ or of any records maintained with respect to vehicles by an approved testing authority in connection with the exercise by that authority of any functions conferred on such authorities, or on that authority as such an authority, by or under any enactment ”, and
+
+(b) at the end of that subsection there is inserted “ or (as the case may be) the approved testing authority ”.
+
+### [[^F10]Part II]
+
+**[^F11]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F12]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F13]Part III]
+
+**[^F14]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F15]24** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F16]25** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F17]26** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F18]27** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F19]28** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F20]29** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F21]30** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [[^F22]Part IV]
+
+**[^F23]31** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F24]32** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F25]33** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — Consequential Amendments
+
+*Section 4.*
+
+### The Thames Embankment Act 1862 (c. 93.)
+
+**1** Section 41 of the Thames Embankment Act 1862 does not apply to motor tractors, heavy motor cars, motor cars, motor cycles or invalid carriages but, subject to that, nothing in the Traffic Acts affects the provisions of that section.
+
+### The Road Traffic Act 1960 (c. 16.)
+
+**2** [^F26]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In section 244 of that Act, for the words from “this Act” to “may be brought” there is substituted “ or an offence under section 235 of this Act or an offence under section 99(5) of the Transport Act 1968 may be brought ”.
+
+(3) For section 247(2) of that Act there is substituted—
+
+> (2) There shall be paid into the Consolidated Fund all fines imposed in respect of offences committed in Scotland under the foregoing provisions of this Act or the regulations thereunder.
+
+### The Criminal Justice Act 1967 (c. 80.)
+
+**[^F27]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Criminal Appeal Act 1968 (c. 19.)
+
+**4** (1) In section 31(2A) of the Criminal Appeal Act 1968, for “section 94A(2) of the Road Traffic Act 1972” there is substituted “ section 40(2) of the Road Traffic Offenders Act 1988 ”.
+
+(2) In section 44(2) of that Act, for “section 94A(3) of the Road Traffic Act 1972” there is substituted “ section 40(3) of the Road Traffic Offenders Act 1988 ”.
+
+### The Countryside Act 1968 (c. 41.)
+
+**5** In section 30(5) of the Countryside Act 1968 for “the Road Traffic Act 1972” there is substituted “ the Road Traffic Act 1988 ”.
+
+### The Transport Act 1968 (c. 73.)
+
+**6** [^F28]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F28]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F29]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F30]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F29]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) For section 102(3) of that Act there is substituted—
+
+> (3) Where an offence under this Part of this Act is alleged to have been committed in connection with a vehicle in the public service of the Crown, proceedings may be brought in respect of the offence against a person nominated for the purpose on behalf of the Crown; and, subject to subsection (3A) below, where any such offence is committed any person so nominated shall also be guilty of the offence as well as any person actually responsible for the offence (but without prejudice to proceedings against any person so responsible).
+>
+> (3A) Where a person is convicted of an offence by virtue of subsection (3) above—
+>
+> (a) no order may be made on his conviction save an order imposing a fine,
+>
+> (b) payment of any fine imposed on him in respect of that offence may not be enforced against him, and
+>
+> (c) apart from the imposition of any such fine, the conviction shall be disregarded for all purposes other than any appeal (whether by way of case stated or otherwise).
+
+(7) After section 102 of that Act there is inserted—
+
+> **Exclusion of application to tramcars and trolley vehicles.**
+>
+> **102A** (1) This Part of this Act and section 255 of the Road Traffic Act 1960 in its application thereto shall not apply to tramcars or trolley vehicles operated under statutory powers.
+>
+> (2) In this section “operated under statutory powers” means, in relation to tramcars or trolley vehicles, that their use is authorised or regulated by special Act of Parliament or by an order having the force of an Act.
+>
+> (3) Subsection (1) above shall have effect subject to any such Act or order as is mentioned in subsection (2) above, and any such Act or order may apply to tramcars or trolley vehicles to which it relates any of the provisions excluded by the said subsection (1).
+
+(8) In the definition of “plated weight” in section 159(1) of that Act, for “section 40 of the Road Traffic Act 1972 or required to be so marked by section 47 of that Act” there is substituted “ section 41 of the Road Traffic Act 1988 or required to be so marked by section 57 or 58 of that Act. ”
+
+### The Chronically Sick and Disabled Persons Act 1970 (c. 44.)
+
+**7** In section 20(1) of the Chronically Sick and Disabled Persons Act 1970—
+
+(a) in paragraph (b), for “the Road Traffic Act 1972” there is substituted “ the Road Traffic Act 1988 and the Road Traffic Offenders Act 1988 ”, and
+
+(b) in paragraph (c), for “the sections 68 to 81 of the said Act of 1972” there is substituted “ section 83 of the Road Traffic Act 1988 ”.
+
+### The Vehicles (Excise) Act 1971 (c. 10.)
+
+**8** [^F31]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In section 5(3) of that Act—
+
+[^F32]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F32]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) [^F33]. . . [^F34]. . .
+
+[^F34]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F35]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F36]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Road Traffic (Foreign Vehicles) Act 1972 (c. 27.)
+
+**9** (1) In section 1 of the Road Traffic (Foreign Vehicles) Act 1972—
+
+(a) in subsection (1)(b), for “section 160 of the Road Traffic Act 1972” there is substituted “ sections 78 and 79 of the Road Traffic Act 1988 ”,
+
+(b) in subsection (3)—
+
+(i) in paragraph (a), for “the said section 160” there is substituted “ the said sections 78 and 79 ” and for “that section” there is substituted “ those sections ”,
+
+(ii) in paragraph (b), for “section 40 of the Road Traffic Act 1972” there is substituted “ section 41 of the Road Traffic Act 1988, [^F37]. . . ”
+
+[^F37]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In section 2(3B) of that Act, for “section 58(5A) of the Road Traffic Act 1972” there is substituted “ section 72(9) of the Road Traffic Act 1988 ”.
+
+(3) In section 7(1) of that Act—
+
+(a) in the definition of “authorised person”, for “section 160 of the Road Traffic Act 1972” there is substituted “ section 78 of the Road Traffic Act 1988 ”,
+
+[^F38]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) in the definition of “official testing station”, for “section 58(5) of the Road Traffic Act 1972” there is substituted “ section 72(8) of the Road Traffic Act 1988 ”.
+
+(4) In Schedule 1 to that Act, for “Section 53 of the Road Traffic Act 1972” there is substituted “Section 67 of the Road Traffic Act 1988” and for “Section 56 of the Road Traffic Act 1972” there is substituted “ Section 68 of the Road Traffic Act 1988 ”.
+
+(5) In Schedule 2 to that Act, for “Regulations under section 40 of the Road Traffic Act 1972” there is substituted “ Regulations under section 41 of the Road Traffic Act 1988 ”.
+
+### The Criminal Justice Act 1972 (c. 71.)
+
+**10** In section 24(3) of the Criminal Justice Act 1972—
+
+(a) in paragraph (a), for “section 101(4) of the Road Traffic Act 1972” there is substituted “ section 27(3) of the Road Traffic Offenders Act 1988 ”, and
+
+(b) in paragraph (b), for “section 95” there is substituted “ section 42 ” and for “subsection (4)” there is substituted “ subsection (5) ” and for “section 105(5) of that Act” there is substituted “ section 47(4) of that Act ”.
+
+### The Powers of Criminal Courts Act 1973 (c. 62.)
+
+**[^F39]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Greater London Council (General Powers) Act 1974 (c. xxiv.)
+
+**12** In section 15 of the Greater London Council (General Powers) Act 1974—
+
+(a) in subsection (2)(b), for “sections 168, 181 and 183 (which relate to the admissibility of certain evidence) of the Road Traffic Act 1972” there is substituted “ section 172 of the Road Traffic Act 1988 and sections 11 and 12 of the Road Traffic Offenders Act 1988 (duty to give information about drivers and admissibility of certain evidence) ”, and
+
+(b) in the definition of “vehicle” in subsection (12), for “section 36A (which relates to the parking of heavy commercial vehicles) of the Road Traffic Act 1972” there is substituted “ section 19 of the Road Traffic Act 1988 (heavy commercial vehicles) ”.
+
+### The International Road Haulage Permits Act 1975 (c. 46.)
+
+**13** In section 1(9) of the International Road Haulage Permits Act 1975—
+
+(a) after “section 56(1) of the Road Traffic Act 1972” there is inserted “ or section 68(1) of the Road Traffic Act 1988 ”, and
+
+(b) for “in the Road Traffic Act 1972” there is substituted “ in the Road Traffic Act 1988 ”.
+
+### The Policyholders Protection Act 1975 (c. 75.)
+
+**14** (1) In section 6(1)(c) and (2) of the Policyholders Protection Act 1975, for “Part VI of the Road Traffic Act 1972” there is substituted “ Part VI of the Road Traffic Act 1988 ”.
+
+(2) In section 7(a) of that Act, after “section 149 of the Road Traffic Act 1972” there is inserted “ or section 151 of the Road Traffic Act 1988 ”.
+
+(3) In section 9(3) of that Act, after “section 149 of the Road Traffic Act 1972” there is inserted “ section 151 of the Road Traffic Act 1988 ”.
+
+### The Finance Act 1976 (c. 40.)
+
+**[^F40]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Local Government (Miscellaneous Provisions) Act 1976 (c. 57.)
+
+**16** (1) In section 48(1)(b) of the Local Government (Miscellaneous Provisions) Act 1976, for “Part VI of the Act of 1972” there is substituted “ Part VI of the Road Traffic Act 1988 ”.
+
+(2) In section 50 of that Act—
+
+(a) in subsection (3), for “section 25 of the Act of 1972” there is substituted “ section 170 of the Road Traffic Act 1988 ”, and
+
+(b) in subsection (4), for “Part VI of the Act of 1972” there is substituted “ Part VI of the Road Traffic Act 1988 ”.
+
+(3) In section 51(1)(b) of that Act, for “Part III of the Act of 1972” there is substituted “ Part III of the Road Traffic Act 1972 or Part III of the Road Traffic Act 1988 ”.
+
+(4) In section 59(1)(b) of that Act, for “Part III of the Act of 1972” there is substituted “ Part III of the Road Traffic Act 1972 or Part III of the Road Traffic Act 1988 ”.
+
+### The Energy Act 1976 (c. 76.)
+
+**17** In Schedule 1 to the Energy Act 1976—
+
+(a) in paragraph 1(2), for “made under section 40 of the Road Traffic Act 1972” there is substituted “ made or having effect as if made under section 41 of the Road Traffic Act 1988 ”,
+
+(b) in paragraph 4(1), for “section 143 of the Road Traffic Act 1972” there is substituted “ section 143 of the Road Traffic Act 1988 ” and for “Part VI of the 1972 Act” there is substituted “ Part VI of the 1988 Act ”, and
+
+(c) in paragraph 4(2), for “section 162 or 166 of the Road Traffic Act 1972” there is substituted “ section 165 or 170 of the Road Traffic Act 1988 ”.
+
+### The National Health Service Act 1977 (c. 49.)
+
+**[^F41]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Competition Act 1980 (c. 21.)
+
+**[^F42]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Magistrates’ Courts Act 1980 (c. 43.)
+
+**[^F43]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Highways Act 1980 (c. 66.)
+
+**21** (1) In the definition of “motor vehicle” in section 115(8) of the Highways Act 1980, for “the Road Traffic Act 1972” there is substituted “ the Road Traffic Act 1988 ”.
+
+(2) In the definition of “cycle track” in section 329(1) of that Act, for “the Road Traffic Act 1972” there is substituted “ the Road Traffic Act 1988 ”.
+
+(3) In Schedule 4 to that Act—
+
+(a) for “section 40 of the Road Traffic Act 1972” there is substituted “ section 41 of the Road Traffic Act 1988 ”,
+
+(b) for “section 42(1) of the Road Traffic Act 1972” (in the first and second places where it appears) there is substituted “ section 44(1) of the Road Traffic Act 1988 ”,
+
+(c) for “order under section 42(1) of the Road Traffic Act 1972” there is substituted “ order made, or having effect as if made, under section 44(1) of the Road Traffic Act 1988 ”, and
+
+(d) for “the Road Traffic Act 1972” (in the last place where it appears) there is substituted “ the Road Traffic Act 1988 ”.
+
+### The Public Passenger Vehicles Act 1981 (c. 14.)
+
+**[^F44]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Criminal Attempts Act 1981 (c. 47.)
+
+**23** In section 9(5) of the Criminal Attempts Act 1981, for “section 190(1) of the Road Traffic Act 1972” there is substituted “ section 185(1) of the Road Traffic Act 1988 ”.
+
+### The Criminal Justice Act 1982 (c. 48.)
+
+**24** In Schedule 1 to the Criminal Justice Act 1982, at the end of Part II there is inserted—
+
+> **The Road Traffic Act 1988 (c. 52)**
+>
+> Section 1 (causing death by reckless driving).
+
+### The Road Traffic Regulation Act 1984 (c. 27.)
+
+**25** (1) In section 21(1) of the Road Traffic Regulation Act 1984, for “section 40 of the Road Traffic Act 1972” there is substituted “ section 41 of the Road Traffic Act 1988 ”.
+
+(2) In section 61(3) of that Act, for “section 196(1) of the Road Traffic Act 1972” there is substituted “ section 192(1) of the Road Traffic Act 1988 ”.
+
+(3) In section 64(5) of that Act, for “section 22 of the Road Traffic Act 1972” there is substituted “ section 36 of the Road Traffic Act 1988 ”.
+
+(4) In section 66(1)(b) of that Act, for “section 20(4) of the Road Traffic Act 1972” there is substituted “ section 31(4) of the Road Traffic Act 1988 ”.
+
+(5) In section 67(2) of that Act, for “section 22 of the Road Traffic Act 1972” there is substituted “ section 36 of the Road Traffic Act 1988 ”.
+
+(6) In section 96(2) of that Act, for “the Road Traffic Act 1972” there is substituted “ the Road Traffic Act 1988 ”, and—
+
+(a) in paragraph (c)(i) for “sections 22 and 23” there is substituted “ sections 35(1), 36 and 37 ”,
+
+(b) in paragraph (c)(ii) for “section 159” there is substituted “ section 163 ”,
+
+(c) in paragraph (c)(iii) for “section 161(1) and (4)” there is substituted “ section 164(1), (2) and (6) ” and at the end there is inserted “ and ”,
+
+(d) in paragraph (c)(iv) for “sections 162 and 165” there is substituted “ sections 165 and 169 ”, and
+
+(e) for paragraph (c)(v) and (d) there is substituted—
+
+> (d) section 11 of the Road Traffic Offenders Act 1988
+
+.
+
+(7) In section 96(3) of that Act—
+
+(a) for “the Road Traffic Act 1972, namely, sections 159, 161(1) and (4) and 162” there is substituted “ the Road Traffic Act 1988, namely, sections 163, 164(1), (2) and (6) and 165 ”,
+
+(b) in subsection (3)(b) for “section 162 of the Road Traffic Act 1972” there is substituted “ section 165 of the Road Traffic Act 1988 ”, and
+
+(c) in subsection (3)(c) for “section 159 of that Act” there is substituted “ section 163 of the Road Traffic Act 1988 ”.
+
+(8) In section 138(3) of that Act, for “section 40 of the Road Traffic Act 1972” there is substituted “ section 41 of the Road Traffic Act 1988 ”.
+
+(9) In section 140(1)(b) of that Act, for “section 193 of the Road Traffic Act 1972” there is substituted “ section 189 of the Road Traffic Act 1988 ”.
+
+(10) In paragraph 2 of Part IV of Schedule 6 to that Act—
+
+(a) in the definition of “construction and use requirements” for “section 40(7) of the Road Traffic Act 1972” there is substituted “ section 41(7) of the Road Traffic Act 1988 ”, and
+
+(b) in the definition of “goods vehicle” for “section 196(1) of the Road Traffic Act 1972” there is substituted “ section 192(1) of the Road Traffic Act 1988 ”.
+
+(11) In paragraph 2(2) of Schedule 12 to that Act—
+
+(a) in paragraph (a) for “(as defined by section 82 of the Road Traffic Act 1972)” there is substituted “ (that is, the time between half-an-hour after sunset and half-an-hour before sunrise) ”, and
+
+(b) in paragraph (e) for “section 40(5) of the Road Traffic Act 1972” there is substituted “ section 42(1) of the Road Traffic Act 1988 ” and for “Part III of that Act” there is substituted “ the Road Traffic Offenders Act 1988 ”.
+
+### The Cycle Tracks Act 1984 (c. 38.)
+
+**26** In the definition of “motor vehicle” in section 8(1) of the Cycle Tracks Act 1984, for “the Road Traffic Act 1972” there is substituted “ the Road Traffic Act 1988 ”.
+
+### The Police and Criminal Evidence Act 1984 (c. 60.)
+
+**27** (1) In section 4(2) of the Police and Criminal Evidence Act 1984, for “section 159 of the Road Traffic Act 1972” there is substituted “ section 163 of the Road Traffic Act 1988. ”
+
+(2) In section 34(6) of that Act, for “section 7(5) of the Road Traffic Act 1972” there is substituted “ section 6(5) of the Road Traffic Act 1988 ”.
+
+(3) In section 36(6)(d) of that Act, for “section 8 of the Road Traffic Act 1972” there is substituted “ sections 7 and 8 of the Road Traffic Act 1988 ”.
+
+(4) In section 62(11) of that Act, for “sections 5 to 12 of the Road Traffic Act 1972” there is substituted “ sections 4 to 11 of the Road Traffic Act 1988 ”.
+
+[^F45]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Elections (Northern Ireland) Act 1985 (c. 2.)
+
+**28** In section 1(1E)(a) of the Elections (Northern Ireland) Act 1985, after “Part III of the Road Traffic Act 1972” there is inserted “ or Part III of the Road Traffic Act 1988 ”.
+
+### The Sexual Offences Act 1985 (c. 44.)
+
+**[^F46]29** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Local Government Act 1985 (c. 51.)
+
+**30** In paragraph 20 of Schedule 13 to the Local Government Act 1985, for “section 144(2)(a) of the Road Traffic Act 1972” there is substituted “ section 144(2)(a) of the Road Traffic Act 1988 ”.
+
+### The Transport Act 1985 (c. 67.)
+
+**31** In paragraph 3(a) of Schedule 7 to the Transport Act 1985, for “section 43 of the Road Traffic Act 1972” there is substituted “ section 45 of the Road Traffic Act 1988 ”.
+
+### The Finance Act 1986 (c. 41.)
+
+**[^F47]32** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Motor Cycle Noise Act 1987 (c. 34.)
+
+**33** In section 1(2)(a) of the Motor Cycle Noise Act 1987, for “made under section 40 of the Road Traffic Act 1972” there is substituted “ made or having effect as if made under section 41 of the Road Traffic Act 1988 ”.
+
+### The Criminal Justice (Scotland) Act 1987 (c. 41.)
+
+**[^F48]34** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Consumer Protection Act 1987 (c. 43.)
+
+**35** In the definition of “motor vehicle” in section 45 of the Consumer Protection Act 1987, for “the Road Traffic Act 1972” there is substituted “ the Road Traffic Act 1988 ”.
+
+### The Norfolk and Suffolk Broads Act 1988 (c. 4.)
+
+**36** In paragraph 9 of Schedule 6 to the Norfolk and Suffolk Broads Act 1988, for “section 144 of the Road Traffic Act 1972” there is substituted “ section 144 of the Road Traffic Act 1988 ”.
+
+### The Coroners Act 1988 (c. 13.)
+
+**37** [^F49]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F49]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) In section 18(3) of that Act, for “section 27 of the Road Traffic Act 1972” there is substituted “ section 182 of the Road Traffic Act 1988 ”.
+
+### The Motor Vehicles (Wearing of Rear Seat Belts by Children) Act 1988(c. 23.)
+
+**38** In section 2 of the Motor Vehicles (Wearing of Rear Seat Belts by Children) Act 1988, for “this Act” there is substituted “ section 15(3) of the Road Traffic Act 1988 ”.
+
+### The Criminal Justice Act 1988 (c. 33.)
+
+**39** In section 40 of the Criminal Justice Act 1988, in subsection 3(c) for “section 99(b) of the Road Traffic Act 1972” there is substituted “ section 103(1)(b) of the Road Traffic Act 1988 ”.
+
+## SCHEDULE 4 — Transitional Provisions and Savings
+
+*Section 5.*
+
+### General rules for old savings and transitional provisions
+
+**1** (1) The repeal by this Act of an enactment previously repealed subject to savings does not affect the continued operation of those savings.
+
+(2) The repeal by this Act of a saving made on the previous repeal of an enactment does not affect the operation of the saving in so far as it is not specifically reproduced in the Road Traffic Acts but remains capable of having effect.
+
+(3) Where the purpose of a repealed enactment was to secure that the substitution of the provisions of the Act containing that enactment for provisions repealed by that Act did not affect the continuity of the law, the repealed enactment, so far is it is not specifically reproduced in the Road Traffic Acts, shall continue to have effect, so far is it capable of doing so, for the purposes of the Road Traffic Acts.
+
+### Old offences
+
+**2** The Road Traffic Acts (including this Act so far as not included in that expression) do not affect the operation of the repealed enactments in relation to offences committed before the commencement of those Acts or to appeals against or suspension of disqualification by virtue of convictions for offences so committed or against orders made in consequence of such convictions.
+
+### Road Traffic Act 1974 (c. 3.)
+
+**3** (1) Any provision contained in an enactment passed or instrument made before 31 July 1974 which was not repealed by the Road Traffic Act 1974 and in which any expression was given the same meaning as in, or was otherwise to be construed by reference to, any provision of sections 68 to 82 of the [^M11]Road Traffic Act 1972 which was repealed by that Act shall continue to be construed as if that provision had not been so repealed.
+
+(2) The Secretary of State may by regulations made by statutory instrument make such amendments as he considers appropriate to take account of section 9 of the Road Traffic Act 1974—
+
+(a) in any enactment passed or instrument made before 31 July 1974 which refers (whether directly or by virtue of the [^M12]Interpretation Act 1978 or otherwise) to any provision of sections 68 to 82 of the Road Traffic Act 1972 which was repealed by the Road Traffic Act 1974,
+
+(b) in the reference in paragraph 4 of Schedule 4 to the Road Traffic Act 1988 to section 83 of that Act, and
+
+(c) in the definition of “hours of darkness” in paragraph 2(2)(a) of Schedule 12 to the [^M13]Road Traffic Regulation Act 1984.
+
+(3) A statutory instrument containing regulations under sub-paragraph (2) above shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### Road Traffic (Drivers’ Ages and Hours of Work) Act 1976 (c. 3.)
+
+**4** (1) Subject to sub-paragraph (2) below, a person who, immediately before 1st January 1976, fulfilled any of the conditions in paragraph 2(1) of Schedule 2 to the Road Traffic (Drivers’ Ages and Hours of Work) Act 1976 shall not, by reason only of the provisions of section 101 of the [^M14]Road Traffic Act 1988, be disqualified for holding or obtaining a licence authorising him to drive motor vehicles falling within the class described in paragraph 5 or 6 of the Table set out in section 101(1) of that Act.
+
+(2) A person shall not be treated, by virtue of sub-paragraph (1) above, as entitled to the grant of a licence authorising him to drive a goods vehicle the permissible maximum weight of which exceeds 10 tonnes or a motor vehicle constructed solely for the carriage of passengers and their effects which is adapted to carry more than fifteen passengers inclusive of the driver.
+
+### Road Traffic Regulation Act 1984 (c. 27.)
+
+**5** (1) Notwithstanding the repeal by this Act of the provisions of section 98 of and Schedule 7 to the [^M15]Road Traffic Regulation Act 1984 (prosecution of offences), those provisions shall, in relation to the interim period (within the meaning of Schedule 12 to that Act), continue to have effect in relation to offences under Schedule 12 to that Act.
+
+(2) To the extent that section 135 of that Act (application to Isles of Scilly) applied to the repealed enactments, it shall continue to apply to the corresponding provisions of the Road Traffic Acts.
+
+### Payments for traffic casualties
+
+**6** Where an accident giving rise to death or bodily injury in respect of which a payment is made under section 157 of the [^M16]Road Traffic Act 1988, or claimed under section 158 of that Act, occurred before 1st April 1987, the amount payable shall not exceed the amount that would have been payable under the corresponding repealed enactment.
+
+### Licences, disqualification and endorsement
+
+**7** (1) For the purposes of section 92(4)(a) of the Road Traffic Act 1988, a person to whom a licence was granted after the making of a declaration under paragraph (c) of the proviso to section 5(2) of the [^M17]Road Traffic Act 1930 (which contained transitional provisions with respect to certain disabilities) shall be treated as having passed, at the time of the declaration, a relevant test in respect of vehicles of the classes to which the licence related.
+
+(2) The references in sections 125(3)(d), 127(3)(d), 128(2)(b) and 130(2)(b) of the [^M18]Road Traffic Act 1988 to section 34 or 36 of the Road Traffic Offenders Act 1988 and to Part III of the Road Traffic Act 1988 include a reference—
+
+(a) to section 93 of the [^M19]Road Traffic Act 1972 and to Part III of that Act, and
+
+(b) to section 5 of the [^M20]Road Traffic Act 1962 and Part II of the [^M21]Road Traffic Act 1960, (but not to section 104 of the 1960 Act).
+
+(3) For the purposes of section 29 of the Road Traffic Offenders Act 1988, an order for endorsement which was made before the commencement of section 19 of the [^M22]Transport Act 1981 counts as an order made in pursuance of section 44 of the Road Traffic Offenders Act 1988 for the endorsement of three penalty points, unless a disqualification was imposed on the offender on that or any subsequent occasion.
+
+(4) For the purposes of section 2 of this Act as it has effect for the purposes of section 34(3) of the Road Traffic Offenders Act 1988—
+
+(a) a previous conviction of an offence under section 6(1) of the Road Traffic Act 1972, as it had effect immediately before the substitution of a new section 6(1) by the Transport Act 1981, shall be treated as a conviction of an offence under section 5(1)(a) of the Road Traffic Act 1988, and
+
+(b) a previous conviction of an offence under section 9(3) of the 1972 Act, as it had effect immediately before the substitution of a new section 8(7) by the 1981 Act, shall be treated as a conviction of an offence under section 7(6) of the Road Traffic Act 1988.
+
+(5) The references in sections 36(4), 37(3) and 42(6) of the [^M23]Road Traffic Offenders Act 1988 to an order under subsection (1) of section 36 include a reference to an order under section 93(7) of the [^M24]Road Traffic Act 1972, section 5(7) of the [^M25]Road Traffic Act 1962 or section 104(3) of the [^M26]Road Traffic Act 1960.
+
+(6) Where, in pursuance of section 93(5) of the Road Traffic Act 1972, a period of disqualification was imposed on an offender in addition to any other period or periods then, for the purpose of determining whether an application may be made under section 42 of the Road Traffic Offenders Act 1988 for the removal of either or any of the disqualifications the periods shall be treated as one continuous period of disqualification.
+
+### Hovercraft
+
+**8** For the purposes of the [^M27]Hovercraft Act 1968 (under which enactments and instruments relating, amongst other things, to motor vehicles may, if passed before the commencement of that Act, be applied to hovercraft) any enactment contained in the Road Traffic Acts, being an enactment derived from an enactment so passed, and any instrument made or having effect as if made under such an enactment, shall be treated as included among the enactments and instruments which can be so applied.
+
+## [[^F50]SCHEDULE 5]
+
+**[^F51]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+---
+
+[^M1]: 1988 c. 52.
+[^M2]: 1988 c. 53.
+[^M3]: 1972 c. 20.
+[^M4]: 1978 c. 30.
+[^F1]: Words in s. 8(3) substituted (1.7.1992) for words from the beginning to the end of paragraph (c) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 48, Sch. 4, para.114; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^M5]: 1978 c. 30.
+[^F2]: Sch. 2, Pt. I, para. 1 repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^M6]: 1982 c. 49.
+[^F3]: Entry in Sch. 2, Pt. I, para. 3(1) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F4]: Sch. 2, Pt. I, para. 4(2) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F5]: Sch. 2, Pt. I, para. 8 repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F6]: Sch. 2, Pt. I, para. 9 repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F7]: Sch. 2, Pt. I, para. 10(b) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F8]: Sch. 2, Pt. I, para. 13(b)(ii) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^M7]: 1988 c. 52.
+[^F9]: Sch. 2, Pt. I, para. 15(b) and the word "and" immediately preceding it repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch.(as amended by S.I. 1992/1410, art. 2)
+[^M8]: 1988 c. 52.
+[^M9]: 1982 c. 49.
+[^M10]: 1988 c. 53.
+[^F10]: Sch. 2, Pt. II (paras. 21-22) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 49, 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F11]: Sch. 2, Pt. II (paras. 21-22) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 49, 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F12]: Sch. 2, Pt. II (paras. 21-22) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 49, 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F13]: Sch. 2, Pt. III (paras. 23-30) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 49, 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F14]: Sch. 2, Pt. III (paras. 23-30) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 49, 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F15]: Sch. 2, Pt. III (paras. 23-30) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 49, 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F16]: Sch. 2, Pt. III (paras. 23-30) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 49, 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F17]: Sch. 2, Pt. III (paras. 23-30) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 49, 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F18]: Sch. 2, Pt. III (paras. 23-30) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 49, 83, Sch.8; S.I. 1992/1286, art.2, Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F19]: Sch. 2, Pt. III (paras. 23-30) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 49, 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F20]: Sch. 2, Pt. III (paras. 23-30) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 49, 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F21]: Sch. 2, Pt. III (paras. 23-30) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 49, 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F22]: Sch. 2, Pt. IV (paras. 31-33) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 49, 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F23]: Sch. 2, Pt. IV (paras. 31-33) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 49, 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F24]: Sch. 2, Pt. IV (paras. 31-33) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 49, 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F25]: Sch. 2, Pt. IV (paras. 31-33) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 49, 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F26]: Sch. 3 para. 2(1) repealed (1.1.1996) by 1995 c. 23, s. 60(2), Sch. 8 Pt. I (with ss. 54, 55); S.I. 1995/2181, arts. 2, 3
+[^F27]: Sch. 3 para. 3 repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^F28]: Sch. 3 paras. 6(1)(2) repealed (1.1.1996) by 1995 c. 23, s. 60(2), Sch. 8 Pt. I (with ss. 54, 55); S.I. 1995/2181, arts. 2, 3
+[^F29]: Sch. 3, para. 6(3)(5) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch. 8; S.I. 1992/1286, art. 2, Sch.
+[^F30]: Sch. 3 para. 6(4) repealed (1.1.1996) by 1995 c. 23, s. 60(2), Sch. 8 Pt. I (with ss. 54, 55); S.I. 1995/2181, arts. 2, 3 and expressed to be repealed by 1994 c. 40, s. 81, Sch. 17; S.I. 1995/2835, arts. 2, 3
+[^F31]: Sch. 3, para. 8(1) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), ss. 83, 84(1), Sch. 8; S.I. 1992/1286, art. 2, Sch.
+[^F32]: Sch. 3 para. 8(2)(a)(b) repealed (1.9.1994) by 1994 c. 22, ss. 65, 66(1), Sch. 5 Pt. I (with s. 57(4))
+[^F33]: Words in Sch. 3 para. 8(2)(c) repealed (1.9.1994) by 1994 c. 22, ss. 65, 66(1), Sch. 5 Pt. I (with s. 57(4))
+[^F34]: Sch. 3, para. 8(2)(d) and the word "and" immediately preceding it repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch. 8; S.I. 1992/1286, art. 2, Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F35]: Sch. 3 para. 8(3) repealed (1.9.1994) by 1994 c. 22, ss. 65, 66(1), Sch. 5 Pt. I (with s. 57(4))
+[^F36]: Sch. 3 para. 8(4) repealed (1.9.1994) by 1994 c. 22, ss. 65, 66(1), Sch. 5 Pt. I (with s. 57(4))
+[^F37]: Sch. 3, para. 9(1)(c) and the word "and" immediately preceding it repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F38]: Sch. 3, para. 9(3)(b) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F39]: Sch. 3 para. 11 repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^F40]: Sch. 3 para. 15 repealed (3.5.1994) by 1994 c. 9, s. 258, Sch. 26 Pt. I
+[^F41]: Sch. 3 para. 18 repealed (1.3.2007 immediately before the National Health Service Act 2006 comes into force) by The National Health Service (Pre-consolidation Amendments) Order 2006 (S.I. 2006/1407), art. 1(1), Sch. 2 (with art. 4)
+[^F42]: Sch. 3 para. 19 repealed (1.3.2000) by 1998 c. 41, s. 74(1)(3), Sch. 12 para. 12, Sch. 14 Pt. I; S.I. 2000/344, art. 2, Sch.
+[^F43]: Sch. 3 para. 20 repealed (25.8.2000) by 2000 c. 6, ss. 165(4), 168(1), Sch. 12 Pt. I (with Sch. 11 paras. 1, 2)
+[^F44]: Sch. 3 para. 22 omitted (29.4.2009) by virtue of The Road Vehicles (Approval) (Consequential Amendments) Regulations 2009 (S.I. 2009/818), regs. 1, 4(a)
+[^F45]: Sch. 3 para. 27(5) repealed (1.1.2006) by Serious Organised Crime and Police Act 2005 (c. 15), s. 178(8), Sch. 17 Pt. 2; S.I. 2005/3495, art. 2(1)(u)
+[^F46]: Sch. 3 para. 29 repealed (1.4.2010) by Policing and Crime Act 2009 (c. 26), s. 116(1), Sch. 8 Pt. 2; S.I. 2010/507, art. 5(x)
+[^F47]: Sch. 3 para. 32 repealed (1.9.1994) by 1994 c. 23, ss. 100(2), 101(1), Sch. 15
+[^F48]: Sch. 3 para. 34 repealed (S.) (1.4.1996) by 1995 c. 40, ss. 6, 7(2), Sch. 5 (with Sch. 3 paras. 1, 3)
+[^F49]: Sch. 3, para. 37(1)(2) repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^M11]: 1972 c. 20.
+[^M12]: 1978 c. 30.
+[^M13]: 1984 c. 27.
+[^M14]: 1988 c. 52.
+[^M15]: 1984 c. 27.
+[^M16]: 1988 c. 52.
+[^M17]: 1930 c. 43.
+[^M18]: 1988 c. 53.
+[^M19]: 1972 c. 20.
+[^M20]: 1962 c. 59.
+[^M21]: 1960 c. 16.
+[^M22]: 1981 c. 56.
+[^M23]: 1988 c.53.
+[^M24]: 1972 c. 20.
+[^M25]: 1962 c. 59.
+[^M26]: 1960 c. 16.
+[^M27]: 1968 c. 59.
+[^F50]: Sch. 5 repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)
+[^F51]: Sch. 5 repealed (1.7.1992) by Road Traffic Act 1991 (c. 40, SIF 107:1), s. 83, Sch.8; S.I. 1992/1286, art. 2,Sch. (as amended by S.I. 1992/1410, art. 2)

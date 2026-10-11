@@ -1,0 +1,5935 @@
+---
+title: "Debtors (Scotland) Act 1987"
+identifier: "ukpga/1987/18"
+citation: "1987 c. 18"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "S"
+date: 1987-05-15
+last_amended: 2025-04-06
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1987/18"
+source_modified: 2025-04-24
+retrieved: 2026-10-11
+---
+
+# Debtors (Scotland) Act 1987
+
+**1987 c. 18**
+
+An Act to make new provision with regard to Scotland for an extension of time for payment of debts; to amend the law relating to certain diligences; to make provision in respect of messengers-at-arms and sheriff officers; and for connected purposes.
+
+[15th May 1987]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## PART I — EXTENSION OF TIME TO PAY DEBTS
+
+### Time to pay directions on granting decree
+
+#### 1 Time to pay directions.
+
+(1) Subject to subsections (3) to (5) below and to section 14 of this Act, [[^F1]on an application by the debtor,] the court [[^F2]or the First-tier Tribunal], on granting decree for payment of any principal sum of money[[^F3], shall, if satisfied that it is reasonable in all the circumstances to do so, and having regard in particular to the matters mentioned in subsection (1A) below,] direct that any sum decerned for in the decree (including any interest claimed in pursuance of subsections (6) and (7) below) or any expenses in relation to which the decree contains a finding as to liability or both such sum and such expenses shall be paid—
+
+(a) by such instalments, commencing at such time after the date of intimation by the creditor to the debtor of an extract of the decree containing the direction, payable at such intervals; or
+
+(b) as a lump sum at the end of such period following intimation as mentioned in paragraph (a) above,
+
+as the court [[^F2]or the First-tier Tribunal] may specify in the direction.
+
+[[^F4](1A) The matters referred to in subsection (1) above are—
+
+(a) the nature of and reasons for the debt in relation to which decree is granted;
+
+(b) any action taken by the creditor to assist the debtor in paying that debt;
+
+(c) the debtor's financial position;
+
+(d) the reasonableness of any proposal by the debtor to pay that debt; and
+
+(e) the reasonableness of any refusal by the creditor of, or any objection by the creditor to, any proposal by the debtor to pay that debt.]
+
+(2) A direction under subsection (1) above shall be known as a “time to pay direction”.
+
+(3) Where a court [[^F5]or the First-tier Tribunal] grants a decree which contains a finding as to liability for expenses but does not at the same time make a time to pay direction, then (whether or not the decree also decerns for payment of the expenses), it shall not at any time thereafter be competent for the court [[^F5]or the First-tier Tribunal] to make a time to pay direction in relation to those expenses.
+
+(4) Where a court [[^F6]or the First-tier Tribunal] grants a decree which contains a finding as to liability for expenses and makes a time to pay direction in relation to those expenses but—
+
+(a) does not decern for payment of the expenses; or
+
+(b) decerns for payment of the expenses as taxed by the auditor of court [[^F7]or auditor of the Court of Session] but does not specify the amount of those expenses,
+
+in relation to so much of the time to pay direction as relates to the expenses, the reference in subsection (1) above to the date of intimation of an extract of the decree containing the direction shall be treated as a reference to the date of intimation of an extract of a decree decerning for payment of the expenses, being an extract specifying their amount.
+
+(5) It shall not be competent for the court [[^F8]or the First-tier Tribunal] to make a time to pay direction—
+
+(a) where the sum of money (exclusive of any interest and expenses) decerned for exceeds £10,000 or such amount as may be prescribed in regulations made by the Lord Advocate;
+
+(b) where the decree contains an award of a capital sum on divorce or on the granting of a declarator of nullity of marriage;
+
+(c) in connection with a maintenance order;
+
+[^F9][cc in connection with a liability order within the meaning of the Child Support Act 1991;]
+
+(d) in an action by or on behalf of [[^F10]the Commissioners for Her Majesty’s Revenue and Customs] for payment of any sum recoverable [[^F11]under or by virtue of any enactment or under a contract settlement];
+
+[[^F12](da) in an action by or on behalf of Revenue Scotland for payment of any sum recoverable under or by virtue of the Revenue Scotland and Tax Powers Act 2014 (asp 16) or any other enactment in respect of a devolved tax, under a contract settlement or under a settlement agreement,]
+
+[^F13]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(f) in an action for payment of—
+
+[^F14]i . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(ii) car tax due under the [^M1]Car Tax Act 1983 [^F15];. . .
+
+[^F16]iii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F17]iv . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) Without prejudice to section 2(5) of this Act, interest payable under a decree containing a time to pay direction (other than interest awarded as a specific sum in the decree) shall not be recoverable by the creditor except in accordance with subsection (7) below.
+
+(7) A creditor who wishes to recover interest to which subsection (6) above applies shall serve a notice on the debtor, not later than the date prescribed by Act of Sederunt [[^F18]or the First-tier Tribunal for Scotland Housing and Property Chamber (Procedure) Regulations 2017] occurring—
+
+(a) in the case of a direction under subsection (1)(a) above, before the date when the last instalment of the debt concerned (other than such interest) is payable under the direction;
+
+(b) in the case of a direction under subsection (1)(b) above, before the end of the period specified in the direction,
+
+stating that he is claiming such interest and specifying the amount of the interest claimed.
+
+(8) Any sum paid by a debtor under a time to pay direction shall not be ascribed to interest claimed in pursuance of subsections (6) and (7) above until the debt concerned (other than such interest) has been discharged.
+
+[[^F19](8A) In paragraph (d) of subsection (5) above, “contract settlement” means an agreement made in connection with any person's liability to make a payment to the Commissioners for Her Majesty's Revenue and Customs under or by virtue of any enactment.]
+
+[[^F20](8B) In paragraph (da) of subsection (5)—
+
+- “contract settlement” means any agreement made in connection with any person's liability to make a payment to Revenue Scotland under or by virtue of the Revenue Scotland and Tax Powers Act 2014 (asp 16) or any other enactment in respect of a devolved tax,
+- “devolved tax” has the meaning given by section 80A(4) of the Scotland Act 2012 (c. 46),
+- “settlement agreement” has the meaning given by section 246(1) of the Revenue Scotland and Tax Powers Act 2014 (asp 16).]
+
+[^F21]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 2 Effect of time to pay direction on diligence.
+
+(1) While a time to pay direction is in effect, it shall not be competent—
+
+(a) to serve a charge for payment; or
+
+(b) to commence or execute any of the following diligences—
+
+(i) an arrestment and action of furthcoming or sale;
+
+[[^F22](ii) an attachment;]
+
+(iii) an earnings arrestment;
+
+(iv) an adjudication for debt,
+
+[[^F23](v) a money attachment;
+
+(vi) a land attachment;
+
+(vii) a residual attachment,]
+
+to enforce payment of the debt concerned.
+
+(2) While a time to pay direction is in effect an arrestment used on the dependence of the action or in security of the debt concerned shall remain in effect—
+
+(a) if it has not been recalled; and
+
+(b) to the extent that it has not been restricted under subsection (3) below,
+
+but, while the direction is in effect, it shall not be competent to commence an action of furthcoming or sale following on such an arrestment.
+
+[[^F24](2A) Where the arrestment which remains in effect as mentioned in subsection (2) above is an arrestment such as is mentioned in subsection (1) of section 73J of this Act, while the time to pay direction is in effect—
+
+(a) it shall not be competent to release funds under subsection (2) of that section; and
+
+(b) the period during which the direction is in effect shall be disregarded for the purposes of determining whether the period mentioned in subsection (3) of that section has expired.
+
+(2B) While a time to pay direction is in effect an interim attachment shall remain in effect—
+
+(a) if it has not been recalled; or
+
+(b) to the extent that it has not been restricted under subsection (3) below.]
+
+(3) The court [[^F25]or the First-tier Tribunal] may, on making a time to pay direction, recall or restrict [[^F26]an interim attachment or] an arrestment of the kind described in subsection (2) above.
+
+(4) If [[^F27]an interim attachment or] an arrestment of the kind described in subsection (2) above is in effect, the court [[^F28]or the First-tier Tribunal] may order that the making of a time to pay direction and the recall or restriction of the [[^F29]interim attachment or] arrestment shall be subject to the fulfilment by the debtor of such conditions within such period as the court [[^F28]or the First-tier Tribunal] thinks fit; and, where the court [[^F28]or the First-tier Tribunal] so orders, it shall postpone granting decree until such fulfilment or the end of that period, whichever is the earlier.
+
+(5) Where a time to pay direction is recalled or ceases to have effect, otherwise than—
+
+(a) under section 12(2)(a) of this Act; or
+
+(b) by reason of the debt concerned being paid or otherwise extinguished,
+
+the debt in so far as it remains outstanding and interest thereon, whether or not awarded as a specific sum in the decree, shall, subject to any enactment or rule of law to the contrary, become enforceable by any diligence mentioned in subsection (1)(b) above.
+
+[[^F30](5A) Where—
+
+(a) a time to pay direction is recalled or ceases to have effect as mentioned in subsection (5) above; and
+
+(b) an arrestment such as is mentioned in section 73J(1) of this Act is in effect,
+
+the clerk of court[[^F31], sheriff clerk or, in relation to time to pay directions made by the First-tier Tribunal, a member of administration staff of the First-tier Tribunal] shall intimate the fact of that recall or cessation to the arrestee.]
+
+#### 3 Variation and recall of time to pay direction and arrestment.
+
+(1) The court which granted a decree[[^F32], or the First-tier Tribunal, where it has made an order,] containing a time to pay direction may, on an application by the debtor or the creditor—
+
+(a) vary or recall the direction if it is satisfied that it is reasonable [[^F33]in all the circumstances] to do so; or
+
+(b) if [[^F34]an interim attachment or] an arrestment in respect of the debt concerned is in effect, recall or restrict the [[^F35]interim attachment or] arrestment.
+
+(2) If [[^F36]an interim attachment or] an arrestment in respect of the debt concerned is in effect, the court [[^F37]or the First-tier Tribunal] may order that any variation, recall or restriction under subsection (1) above shall be subject to the fulfilment by the debtor of such conditions as the court [[^F37]or the First-tier Tribunal] thinks fit.
+
+(3) The clerk of court[[^F38], sheriff clerk or, in relation to time to pay directions made by the First-tier Tribunal, a member of administration staff of the First-tier Tribunal] shall as soon as is reasonably practicable intimate a variation under subsection (1) above to the debtor and to the creditor, and the variation shall come into effect on the date of such intimation.
+
+#### 4 Lapse of time to pay direction.
+
+(1) If, on the day on which an instalment payable under a time to pay direction becomes due, there remains unpaid a sum, due under previous instalments, of not less than the aggregate of 2 instalments, the direction shall cease to have effect.
+
+(2) If at the end of the period of 3 weeks immediately following the day on which the last instalment payable under a time to pay direction becomes due, any part of the debt concerned remains outstanding, the direction shall cease to have effect.
+
+(3) If any sum payable under a time to pay direction under section 1(1)(b) of this Act remains unpaid 24 hours after the end of the period specified in the direction, the direction shall cease to have effect.
+
+(4) Where—
+
+(a) a decree for payment of a principal sum of money contains a finding as to liability for expenses and decree for payment of the expenses is subsequently granted; and
+
+(b) a time to pay direction is made in relation to both the principal sum and the expenses,
+
+if under subsections (1) to (3) above the direction ceases to have effect in relation to the sum payable under either of the decrees, the direction shall also cease to have effect in relation to the sum payable under the other decree.
+
+### Time to pay orders following charge or diligence
+
+#### 5 Time to pay orders.
+
+(1) Subject to section 14 of this Act, this section applies to a debtdue under a decree or other document in respect of which —
+
+(a) a charge for payment has been served on the debtor;
+
+(b) an arrestment has been executed; or
+
+(c) an action of adjudication for debt has been commenced.
+
+(2) Subject to subsections (4) and (5) below, the sheriff [[^F39]or the First-tier Tribunal][[^F40], on an application by the debtor, shall, if satisfied that it is reasonable in all the circumstances to do so, and having regard in particular to the matters mentioned in subsection (2A) below,] make an order that a debt to which this section applies (including any interest claimed in pursuance of subsections (6) and (7) below) so far as outstanding, shall be paid—
+
+(a) by such instalments, commencing at such time after the date of intimation in accordance with section 7(4) of this Act [^F41]... to the debtor of the order under this subsection, payable at such intervals; or
+
+(b) as a lump sum at the end of such period following intimation as mentioned in paragraph (a) above,
+
+as the sheriff may specify in the order.
+
+[[^F42](2A) The matters referred to in subsection (2) above are—
+
+(a) the nature of and reasons for the debt in relation to which the order is sought;
+
+(b) any action taken by the creditor to assist the debtor in paying that debt;
+
+(c) the debtor's financial position;
+
+(d) the reasonableness of any proposal by the debtor to pay that debt; and
+
+(e) the reasonableness of the objection by the creditor to the offer by the debtor to pay that debt.]
+
+(3) An order under subsection (2) above shall be known as a “time to pay order”.
+
+(4) It shall not be competent for the sheriff [[^F43]or the First-tier Tribunal] to make a time to pay order—
+
+(a) where the amount of the debt outstanding at the date of the making of the application under subsection (2) above (exclusive of any interest) exceeds £10,000 or such amount as may be prescribed in regulations made by the Lord Advocate;
+
+(b) where, in relation to the debt, a time to pay direction or a time to pay order has previously been made (whether such direction or order is in effect or not);
+
+[^F44]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(d) in relation to a debt including any sum recoverable by or on behalf of [[^F45]the Commissioners for Her Majesty’s Revenue and Customs] [[^F46]under or by virtue of any enactment or under a contract settlement];
+
+[[^F47](da) in relation to a debt including any sum recoverable by or on behalf of Revenue Scotland under or by virtue of the Revenue Scotland and Tax Powers Act 2014 (asp 16) or any other enactment in respect of a devolved tax, under a contract settlement or under a settlement agreement,]
+
+[^F48]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(f) in relation to a debt including—
+
+[^F49]i . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(ii) car tax due under the [^M2]Car Tax Act 1983; [^F50]. . .
+
+[^F51]iii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F52]iv . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Where in respect of a debt to which this section applies—
+
+(a) [^F53]there has been a poinding of articles belonging to the debtor and a warrant of sale has been granted in respect of them but has not been executed;
+
+[[^F53]articles belonging to the debtor have been attached and notice of an auction given under section 27(4) of the Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17) but no auction has yet taken place;
+
+(aa) money owned by the debtor has been attached and removed;]
+
+(b) moveable property of the debtor has been arrested and in respect of the arrested property—
+
+(i) a decree in an action of furthcoming has been granted but has not been enforced; or
+
+(ii) a warrant of sale has been granted but the warrant has not been executed; or
+
+(c) [^F54]a decree in an action of adjudication for debt has been granted and the creditor has, with the debtor’s consent or acquiescence, entered into possession of any property adjudged by the decree or has obtained a decree of maills and duties, or a decree of removing or ejection, in relation to any such property,
+
+[[^F54]land owned by the debtor has been attached and an order under section 97(2) of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3) (in this Part, the “2007 Act”) granting warrant for sale of the land has been made but that warrant has not yet been executed; or
+
+(d) property owned by the debtor has been attached by residual attachment and a satisfaction order under section 136(2) of the 2007 Act has been made but not yet executed,]
+
+it shall not be competent for the sheriff [[^F55]or the First-tier Tribunal] to make a time to pay order in respect of that debt until the diligence has been completed or has otherwise ceased to have effect.
+
+[[^F56](5A) Where, in respect of a debt to which this section applies, an arrestment such as is mentioned in subsection (1) of section 73J of this Act has been executed, the sheriff [[^F57]or the First-tier Tribunal] may make a time to pay order in respect of that debt only if less than 8 weeks of the period mentioned in subsection (3) of that section have expired.]
+
+(6) Without prejudice to section 9(12) of this Act, interest payable under a decree for payment of a debt in respect of which a time to pay order has been made (other than interest awarded as a specific sum in the decree) shall not be recoverable by the creditor except in accordance with subsection (7) below.
+
+(7) A creditor who wishes to recover interest to which subsection (6) above applies shall serve a notice on the debtor not later than the date prescribed by Act of Sederunt [[^F58]or by rules made under section 68 or paragraph 4 of schedule 9 of the Tribunals (Scotland) Act 2014] occurring—
+
+(a) in the case of an order under subsection (2)(a) above, before the date when the last instalment of the debt (other than such interest) is payable under the order;
+
+(b) in the case of an order under subsection (2)(b) above, before the end of the period specified in the order,
+
+stating that he is claiming such interest and specifying the amount of the interest claimed.
+
+(8) Any sum paid by a debtor under a time to pay order shall not be ascribed to interest claimed in pursuance of subsections (6) and (7) above until the debt concerned (other than such interest) has been discharged.
+
+[[^F59](8A) In paragraph (d) of subsection (4) above, “contract settlement” means an agreement made in connection with any person's liability to make a payment to the Commissioners for Her Majesty's Revenue and Customs under or by virtue of any enactment.]
+
+[[^F60](8B) In paragraph (da) of subsection (4)—
+
+- “contract settlement” means any agreement made in connection with any person's liability to make a payment to Revenue Scotland under or by virtue of the Revenue Scotland and Tax Powers Act 2014 (asp 16) or any other enactment in respect of a devolved tax,
+- “devolved tax” has the meaning given by section 80A(4) of the Scotland Act 2012 (c. 46),
+- “settlement agreement” has the meaning given by section 246(1) of the Revenue Scotland and Tax Powers Act 2014 (asp 16).]
+
+[^F61]9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6 Application for time to pay order.
+
+(1) An application for a time to pay order shall specify, to the best of the debtor’s knowledge, the amount of the debt outstanding as at the date of the making of the application and shall include an offer to pay it—
+
+(a) by specified instalments, payable at specified intervals; or
+
+(b) as a lump sum at the end of a specified period.
+
+(2) The [^F62]... duty under section 96(2)(b) of this Act [[^F63]on the sheriff clerk or, in relation to time to pay directions made by the First-tier Tribunal, a member of administration staff of the First-tier Tribunal] to assist the debtor in the completion of certain forms shall, in relation to a form of application for a time to pay order, consist of a duty to assist him in the completion of the form in accordance with proposals for payment made by the debtor.
+
+(3) On receipt of an application for a time to pay order, the sheriff [[^F64]or the First-tier Tribunal] shall, if the application is properly made and unless it appears [^F65]...that the making of a time to pay order would not be competent, make an interim order sisting diligence as provided for in section 8(1) of this Act.
+
+(4) The sheriff may [[^F64]or the First-tier Tribunal], where the debtor is unable to furnish the necessary information, make an order requiring the creditor, within such period as may be specified therein, to furnish to the sheriff [[^F64]or the First-tier Tribunal] such particulars of the decree or other document under which the debt is payable as may be prescribed by Act of Sederunt [[^F66]or rules made under section 68 or paragraph 4 of schedule 9 of the Tribunals (Scotland) Act 2014].
+
+(5) If a creditor fails to comply with an order under subsection (4) above the sheriff [[^F64]or the First-tier Tribunal] may, after giving the creditor an opportunity to make representations, make an order recalling or extinguishing any existing diligence, and interdicting the creditor from executing diligence, for the recovery of the debt.
+
+(6) Where the sheriff [[^F67]or the First-tier Tribunal] makes an interim order under subsection (3) above, the sheriff clerk [[^F68]or, in relation to time to pay directions made by the First-tier Tribunal, a member of administration staff of the First-tier Tribunal] shall as soon as is reasonably practicable—
+
+(a) serve a copy of the application for the time to pay order on the creditor informing him that he may object to the granting of the application within a period of 14 days after the date of service;
+
+[[^F69](b) serve on—
+
+(i) the creditor; and
+
+(ii) where an arrestment such as is mentioned in section 73J(1) of this Act is in effect, the arrestee,
+
+a copy of the interim order; and
+
+(c) serve on the creditor a copy of any order under subsection (4) above.]
+
+#### 7 Disposal of application.
+
+(1) If no objection is made in pursuance of section 6(6)(a) of this Act, the sheriff [[^F70]or the First-tier Tribunal] shall make a time to pay order in accordance with the application.
+
+(2) If such an objection is made, the sheriff [[^F70]or the First-tier Tribunal] shall not dispose of the application without first—
+
+(a) giving the debtor an opportunity to make representations; and
+
+(b) if agreement is not reached as to whether a time to pay order should be made or as to its terms, giving the parties an opportunity to be heard.
+
+(3) Where the sheriff [[^F70]or the First-tier Tribunal] refuses to make a time to pay order, he shall recall any interim order under section 6(3) of this Act.
+
+(4) The sheriff clerk [[^F71]or, in relation to time to pay directions made by the First-tier Tribunal, a member of administration staff of the First-tier Tribunal] shall as soon as is reasonably practicable—
+
+(a) intimate the decision of the sheriff [[^F72]or the First-tier Tribunal] on an application for a time to pay order (including any recall of an interim order under subsection (3) above) to the debtor [[^F73], the creditor and, where an arrestment such as is mentioned in section 73J(1) of this Act is in effect, the arrestee]; and
+
+(b) if the sheriff [[^F74]or the First-tier Tribunal] has made a time to pay order, inform the creditor of the date when he intimated that fact to the debtor.
+
+#### 8 Effect of interim order on diligence.
+
+(1) While an interim order under section 6(3) of this Act is in effect it shall not be competent in respect of the debt—
+
+[[^F75](za) to attach in execution of the decree any articles which have been attached by interim attachment;]
+
+[[^F76](a) to [[^F77]give, in relation to any articles which have been attached, notice of an auction under section 27(4) of the Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17)];]
+
+[[^F78](aa) to execute a money attachment;]
+
+(b) to execute an earnings arrestment;
+
+(c) [[^F79]subject to subsection (1A) below,] where an arrestment of property belonging to the debtor (other than an arrestment of earnings in the hands of his employer) has been executed before or after the making of the interim order, to commence an action of furthcoming or sale, or to grant decree in any such action which has already been commenced, in pursuance of that arrestment;
+
+(d) to commence an action of adjudication for debt or, if such an action has already been commenced, to take any steps other than the registration of a notice of litigiosity in connection with the action, the obtaining and extracting of a decree in the action, the registration of an abbreviate of adjudication and the completion of title to property adjudged by the decree.
+
+[[^F80](1A) Where the arrestment mentioned in subsection (1)(c) above is an arrestment such as is mentioned in subsection (1) of section 73J of this Act, while the interim order is in effect—
+
+(a) it shall not be competent to release funds under subsection (2) of that section; and
+
+(b) the period during which the order is in effect shall be disregarded for the purposes of determining whether the period mentioned in subsection (3) of that section has expired.
+
+(1B) Where, before the interim order is made—
+
+(a) a notice of land attachment is registered, it shall not be competent to take any steps other than—
+
+(i) serving, under subsection (5) of section 83 of the 2007 Act, a copy of that notice; and
+
+(ii) registering, under subsection (6) of that section, a certificate of service; or
+
+(b) a land attachment is created, it shall not be competent to make, under section 97(2) of the 2007 Act, an order granting a warrant for sale of the attached land.
+
+(1C) Where, before the interim order is made, a residual attachment order has been made, it shall not be competent—
+
+(a) to take any steps other than serving, under section 133(1) of the 2007 Act, a schedule of residual attachment; or
+
+(b) to make, under section 136(2) of the 2007 Act, a satisfaction order.]
+
+(2) An interim order under section 6(3) of this Act shall come into effect on intimation to the creditor under section 6(6)(b) of this Act and shall remain in effect until intimation of the sheriff’s [[^F81]or the First-tier Tribunal’s] decision on the application for a time to pay order is made to the debtor and the creditor under section 7(4)(a) of this Act.
+
+[^F82]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 9 Effect of time to pay order on diligence.
+
+(1) While a time to pay order is in effect, it shall not be competent—
+
+(a) to serve a charge for payment; or
+
+(b) to commence or execute any of the following diligences—
+
+(i) an arrestment and action of furthcoming or sale;
+
+[[^F83](ii) an attachment;]
+
+(iii) an earnings arrestment;
+
+(iv) an adjudication for debt,
+
+[[^F84](v) a money attachment;
+
+(vi) a land attachment;
+
+(vii) a residual attachment,]
+
+to enforce payment of the debt concerned.
+
+(2) On making a time to pay order, the sheriff in respect of the debt—
+
+(a) shall make an order recalling any existing earnings arrestment;
+
+(b) where the debt is being enforced by a conjoined arrestment order, shall—
+
+(i) if he, or another sheriff sitting in the same sheriff court, made the conjoined arrestment order, vary it so as to exclude the debt or, where no other debt or maintenance is being enforced by the order, recall the order;
+
+(ii) if a sheriff sitting in another sheriff court made the conjoined arrestment order, require intimation of the time to pay order to be made to a sheriff sitting there who shall so vary or, as the case may be, recall the conjoined arrestment order;
+
+(c) [^F85]where an action of adjudication for debt has been commenced, shall make an order prohibiting the taking of any steps other than the registration of a notice of litigiosity in connection with the action, the obtaining and extracting of a decree in the action, the registration of an abbreviate of adjudication and the completion of title to property adjudged by the decree;
+
+[[^F85]where a notice of land attachment has been registered under section 83(1)(c) of the 2007 Act, shall make an order prohibiting the taking of any steps other than—
+
+(i) the serving, under subsection (5) of that section, of a copy of the notice; and
+
+(ii) the registration, under subsection (6) of that section, of a certificate of service;
+
+(ca) where a residual attachment order has been made under section 132(2) of the 2007 Act, shall make an order prohibiting the taking of any steps other than the serving, under section 133(1) of the 2007 Act, of a schedule of residual attachment;
+
+(cb) may make an order recalling an interim attachment;]
+
+(d) may make an order recalling [[^F86]an attachment];
+
+(e) may make an order recalling or restricting any arrestment other than an arrestment of the debtor’s earnings in the hands of his employer.
+
+[[^F87](2A) On making a time to pay order, the First-tier Tribunal in respect of the debt—
+
+(a) must make an order recalling any existing earnings arrestment,
+
+(b) where the debt is being enforced by a conjoined arrestment order, must—
+
+(i) if the First-tier Tribunal Housing and Property Chamber made the conjoined arrestment order, vary it so as to exclude the debt or, where no other debt or maintenance is being enforced by the order, recall the order,
+
+(ii) if either—
+
+(aa) another Chamber of the First-tier Tribunal, or
+
+(bb) a sheriff sitting in the sheriff court,
+
+made the conjoined arrestment order, require intimation of the time to pay order to be made to the other Chamber or to the sheriff who must so vary or, as the case may be, recall the conjoined arrestment order,
+
+(c) where a notice of land attachment has been registered under section 83(1)(c) of the 2007 Act, must make an order prohibiting the taking of any steps other than—
+
+(i) the serving, under subsection (5) of that section, of a copy of the notice, and
+
+(ii) the registration, under subsection (6) of that section, of a certificate of service,
+
+(d) where a residual attachment order has been made under section 132(2) of the 2007 Act, must make an order prohibiting the taking of any steps other than the serving, under section 133(1) of the 2007 Act, of a schedule of residual attachment,
+
+(e) may make an order recalling an interim attachment,
+
+(f) may make an order recalling an attachment,
+
+(g) may make an order recalling or restricting any arrestment other than an arrestment of the debtor’s earnings in the hands of the debtor’s employer.]
+
+(3) If [[^F88]an interim attachment,] [[^F89]an attachment] or such an arrestment as is mentioned in subsection (2)(e) above is in effect, the sheriff [[^F90]or the First-tier Tribunal] may order that the making of a time to pay order[[^F91], the recall of the interim attachment or] [[^F92]the attachment] or the recall or restriction of the arrestment shall be subject to the fulfilment by the debtor of such conditions as the sheriff [[^F90]or the First-tier Tribunal] thinks fit.
+
+(4) [[^F93]Subject to subsection (4A) below,] where the sheriff [[^F94]or the First-tier Tribunal] does not exercise the powers conferred [^F95]... by subsection [[^F96](2)(cb), (d) or (e)] above to recall a diligence, [[^F97]the sheriff or the First-tier Tribunal] shall order that no further steps shall be taken by the creditor in the diligence concerned other than, in the case of [[^F98]an attachment, making a report of attachment under section 17 of the Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17) or applying for an order under section 20(1) of that Act.]
+
+[[^F99](4A) Where, in relation to an arrestment such as is mentioned in subsection (1) of section 73J of this Act, the sheriff [[^F100]or the First-tier Tribunal] does not exercise the power conferred [^F101]... by subsection (2)(e) above to recall that arrestment, [[^F102]the sheriff or that tribunal] shall make an order—
+
+(a) prohibiting, while the time to pay order is in effect, the release of funds under subsection (2) of section 73J of this Act; and
+
+(b) providing that the period during which the time to pay order is in effect shall be disregarded for the purposes of determining whether the period mentioned in subsection (3) of that section has expired.]
+
+(5) Any order made under subsection (2) or (4) above shall specify the diligence in relation to which it is made.
+
+(6) The sheriff [[^F103]or the First-tier Tribunal] shall not make an order under subsection [[^F104](2)(cb), (d) or (e)] above without first giving the creditor an opportunity to make representations.
+
+(7) The sheriff clerk [[^F105]or, in relation to time to pay directions made by the First-tier Tribunal, a member of administration staff of the First-tier Tribunal] shall, at the same time as [[^F106]intimation is made] under section 7(4)(a) of this Act—
+
+(a) intimate any order under subsection (2) or (4) above to the debtor and the creditor and the order shall come into effect on such intimation being made to the creditor;
+
+(b) intimate any order under subsection (2)(a) or (b) above to the employer[[^F107]; and
+
+(c) where any order under subsection (4A) above is made in relation to an arrestment such as is mentioned in section 73J(1) of this Act is in effect, intimate that order to the arrestee.]
+
+(8) While an order under subsection (4) above is in effect it shall not be competent [^F108]...—
+
+[[^F109](a) to sell articles which have been attached (other than by virtue of section 20(1) or 22(3) of the Debt Arrangement and Attachment (Scotland) Act (asp 17);]
+
+(b) [[^F110]to grant] a decree of furthcoming or sale of arrested property.
+
+(9) For the purposes of section [[^F111]24 of the Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17)], the period during which an order under subsection (4) above is in effect shall be disregarded in calculating the period during which [[^F112]an attachment] to which the order applies remains in effect.
+
+(10) Where, before the making of a time to pay order in respect of a debt, a charge to pay that debt has been served—
+
+(a) if the period for payment specified in the charge has not expired, the charge shall lapse on the making of the order;
+
+(b) if that period has expired, nothing in the time to pay order nor in any order under this section shall affect retrospectively the effect of the charge in the constitution of apparent insolvency within the meaning of section [[^F113]16 of the Bankruptcy (Scotland) Act 2016].
+
+(11) If, when a time to pay order in relation to a debt is made, any diligence enforcing it is in effect which is not specified in an order under subsection (2) or (4) above, the diligence shall remain in effect unless and until it is recalled under section 10(4) of this Act.
+
+(12) Where a time to pay order is recalled or ceases to have effect, otherwise than—
+
+(a) under section 12(2)(a) of this Act; or
+
+(b) by the debt payable under the order being paid or otherwise extinguished,
+
+the debt in so far as it remains outstanding (including interest thereon, whether or not awarded as a specific sum in the decree) shall, subject to any enactment or rule of law to the contrary, become enforceable by any diligence mentioned in subsection (1)(b) above; and, notwithstanding section [[^F114]25 of the Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17)], in this subsection “diligence” includes, where the debt was, immediately before the time to pay order was made, being enforced by [[^F115]an attachment] in any premises, [[^F116]another attachment] in those premises.
+
+#### 10 Variation and recall of time to pay order and arrestment.
+
+(1) The sheriff [[^F117]or the First-tier Tribunal] may, on an application by the debtor or the creditor—
+
+(a) vary or recall a time to pay order if [[^F118]the sheriff or the Tribunal] is satisfied that it is reasonable [[^F119]in all the circumstances] to do so; or
+
+(b) if [[^F120]an interim attachment,] [[^F121]an attachment] or an arrestment in respect of the debt is in effect, recall [[^F122]the attachment] or recall or restrict the arrestment.
+
+(2) If [[^F123]an interim attachment,] [[^F124]an attachment] or an arrestment in respect of the debt is in effect, the sheriff [[^F125]or the First-tier Tribunal] may order that any variation, recall or restriction under subsection (1) above shall be subject to the fulfilment by the debtor of such conditions as the sheriff [[^F125]or the First-tier Tribunal] thinks fit.
+
+(3) The sheriff clerk [[^F126]or, in relation to time to pay directions made by the First-tier Tribunal, a member of administration staff of the First-tier Tribunal] shall as soon as is reasonably practicable intimate a variation under subsection (1) above to the debtor and to the creditor, and the variation shall come into effect on the date of such intimation.
+
+(4) Where, after a time to pay order has been made, it comes to the knowledge of the sheriff [[^F127]or the First-tier Tribunal] that the debt to which the order applies is being enforced by any of the diligences mentioned in section 9(1)(b) of this Act which was in effect when the time to pay order was made, the sheriff [[^F127]or the First-tier Tribunal], after giving all interested parties an opportunity to be heard, may make—
+
+(a) an order recalling the time to pay order; or
+
+(b) any of the orders mentioned in subsection (2) or (4) of section 9 of this Act; and that section shall, subject to any necessary modifications, apply for the purposes of an order made under this paragraph as it applies for the purposes of an order made under either of those subsections.
+
+#### 11 Lapse of time to pay order.
+
+(1) If, on the day on which an instalment payable under a time to pay order becomes due, there remains unpaid a sum, due under previous instalments, of not less than the aggregate of 2 instalments, the order shall cease to have effect.
+
+(2) If at the end of the period of 3 weeks immediately following the day on which the last instalment payable under a time to pay order becomes due, any part of the debt payable under the order remains outstanding, the order shall cease to have effect.
+
+(3) If any sum payable under a time to pay order under section 5(2)(b) of this Act remains unpaid 24 hours after the end of the period specified in the order, the order shall cease to have effect.
+
+### Miscellaneous
+
+#### 12 Sequestration and insolvency.
+
+(1) While a time to pay direction or a time to pay order is in effect, the creditor shall not be entitled to found on the debt concerned in presenting, or in concurring in the presentation of, a petition for the sequestration of the debtor’s estate.
+
+(2) A time to pay direction or a time to pay order shall cease to have effect—
+
+(a) on the granting of an award of sequestration of the debtor’s estate;
+
+(b) on the granting by the debtor of a voluntary trust deed whereby his estate is conveyed to a trustee for the benefit of his creditors generally; or
+
+(c) on the entering by the debtor into a composition contract with his creditors.
+
+#### 13 Saving of creditor’s rights and remedies.
+
+(1) No right or remedy of a creditor to enforce his debt shall be affected by—
+
+(a) a time to pay direction;
+
+(b) a time to pay order; or
+
+(c) an interim order under section 6(3) of this Act,
+
+except as expressly provided in this Part of this Act.
+
+(2) The recall—
+
+(a) on the making of a time to pay direction or an order under section 3(1) of this Act, of an arrestment; or
+
+(b) on the making of a time to pay order or an order under section 10(1) of this Act, of an arrestment or [[^F128]an attachment] ,
+
+shall not prevent the creditor therein from being ranked by virtue of that arrestment or [[^F129]attachment] pari passu under paragraph [[^F130]1 of schedule 7 of the Bankruptcy (Scotland) Act 2016] on the proceeds of any other arrestment or [[^F129]attachment] .
+
+#### 14 Circumstances where direction or order not competent or no longer effective.
+
+(1) It shall be competent to make a time to pay direction or a time to pay order only in relation to a debtor who is an individual and only if, and to the extent that, the debtor is liable for payment of the debt concerned in either or both of the following capacities—
+
+(a) personally;
+
+(b) as a tutor of an individual or as a judicial factor loco tutoris, curator bonis or judicial factor loco absentis on an individual’s estate.
+
+(2) A time to pay direction or a time to pay order shall cease to have effect on the death of the debtor or on the transmission of the obligation to pay the debt concerned during his lifetime to another person.
+
+(3) Where a time order for the payment by instalments of a sum owed under a regulated agreement or a security has been made under section 129(2)(a) of the [^M3]Consumer Credit Act 1974 it shall not thereafter be competent to make a time to pay direction or a time to pay order in relation to that sum.
+
+#### 15 Interpretation of Part I.
+
+(1) In this Part of this Act—
+
+- [[^F131]“2007 Act” means the Bankruptcy and Diligence etc. (Scotland) Act 2007,]
+
+- “adjudication for debt” does not include—
+
+  - (a) an adjudication on a debitum fundi; [^F132]...
+  - (b) [^F132]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- [[^F133]“the First-tier Tribunal” means the First-tier Tribunal for Scotland Housing and Property Chamber.]
+
+- [^F134]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In sections 1 to 4 of this Act—
+
+- “the court” means the Court of Session or the sheriff;
+- “the debt concerned” means the sum or expenses in respect of which a time to pay direction is made.
+- [[^F135]“decree”, where the context requires or permits, includes an order made by the First-tier Tribunal.]
+
+(3) In sections 5 to 14 of this Act—
+
+- “debt” means the sum due by a debtor under a decree or other document (including any interest thereon and any expenses decerned for), and any expenses of diligence used to recover such sum which are chargeable against the debtor, but does not include—
+
+  - (a) any sum due under an order of court in criminal proceedings;
+  
+  - (b) maintenance, whether due at the date of application for the time to pay order or not, or any capital sum awarded on divorce or on the granting of a declarator of nullity of marriage or any other sum due under a decree awarding maintenance or such a capital sum; or
+  
+  - (c) any fine imposed—
+  
+    - (i) for contempt of court;
+    - (ii) under any enactment, for professional misconduct; or
+    - (iii) for failure to implement an order under section 91 of the [^M4]Court of Session Act 1868 (orders for specific performance of statutory duty);
+
+- “decree or other document” means—
+
+  - (a) a decree of the Court of Session or the sheriff;
+  - (aa) [[^F136]a summary warrant;]
+  - (b) an extract of a document which is registered for execution in the Books of Council and Session or the sheriff court books;
+  - (c) an order or determination which by virtue of any enactment is enforceable as if it were an extract registered decree arbitral bearing a warrant for execution issued by the sheriff;
+  - (d) a civil judgment granted outside Scotland by a court, tribunal or arbiter which by virtue of any enactment or rule of law is enforceable in Scotland; and
+  - (e) a document or settlement which by virtue of an Order in Council made under section 13 of the [^M5]Civil Jurisdiction and Judgments Act 1982 is enforceable in Scotland,
+
+  but does not include a maintenance order [[^F137], a liability order within the meaning of the Child Support Act 1991] [^F138]...;
+
+- “sheriff”—
+
+  - (a) in relation to a debt constituted by decree granted by a sheriff, means that sheriff or another sheriff sitting in the same sheriff court;
+  
+  - (b) in any other case, means the sheriff having jurisdiction—
+  
+    - (i) in the place where the debtor is domiciled;
+    - (ii) if the debtor is not domiciled in Scotland, in a place in Scotland where he carries on business; or
+    - (iii) if the debtor does not carry on business in Scotland, in a place where he has property which is not exempt from diligence;
+  
+    and, for the purposes of sub-paragraphs (i) and (ii) above, the debtor’s domicile shall be determined in accordance with section 41 of the Civil Jurisdiction and Judgments Act 1982.
+
+## [^F139][[^F139]Part 1A — Diligence on the dependence
+
+### Availability of diligence on the dependence
+
+#### 15A Diligence on the dependence of action
+
+(1) Subject to subsection (2) below and to sections 15C to 15F of this Act, the Court of Session or the sheriff may grant warrant for diligence by—
+
+(a) arrestment; or
+
+(b) inhibition,
+
+on the dependence of an action.
+
+(2) Warrant for—
+
+(a) arrestment on the dependence of an action is competent only where the action contains a conclusion for payment of a sum other than by way of expenses; and
+
+(b) inhibition on the dependence is competent only where the action contains—
+
+(i) such a conclusion; or
+
+(ii) a conclusion for specific implement of an obligation to convey heritable property to the creditor or to grant in the creditor's favour a real right in security, or some other right, over such property.
+
+(3) In this Part of this Act, “action” includes, in the sheriff court—
+
+(a) a summary cause;
+
+[[^F140](b) a simple procedure case (within the meaning of section 72(9) of the Courts Reform (Scotland) Act 2014); and]
+
+(c) a summary application,
+
+and references to “summons”, “conclusion” and to cognate expressions shall be construed accordingly.
+
+#### 15B Diligence on the dependence of petition
+
+(1) Subject to subsection (2) below and to sections 15C to 15F of this Act, the Court of Session may grant warrant for diligence by—
+
+(a) arrestment; or
+
+(b) inhibition,
+
+on the dependence of a petition.
+
+(2) Warrant for—
+
+(a) arrestment on the dependence of a petition is competent only where the petition contains a prayer for payment of a sum other than by way of expenses; and
+
+(b) inhibition on the dependence is competent only where the petition contains—
+
+(i) such a prayer; or
+
+(ii) a prayer for specific implement of an obligation to convey heritable property to the creditor or to grant in the creditor's favour a real right in security, or some other right, over such property.
+
+(3) The provisions of this Act (other than section 15A), of any other enactment and of any rule of law relating to diligence on the dependence of actions shall, in so far as is practicable and unless the contrary intention appears, apply to petitions in relation to which it is competent to grant warrant for such diligence and to the parties to them as they apply to actions and to parties to them.
+
+#### 15C Diligence on the dependence to secure future or contingent debts
+
+(1) It shall be competent for the court to grant warrant for diligence on the dependence where the sum concluded for is a future or contingent debt.
+
+(2) In this section and in sections 15D to 15M of this Act, the “court” means the court before which the action is depending.
+
+### Application for diligence on the dependence
+
+#### 15D Application for diligence on the dependence
+
+(1) A creditor may, at any time during which an action is in dependence, apply to the court for warrant for diligence by—
+
+(a) arrestment; or
+
+(b) inhibition,
+
+on the dependence of the action.
+
+(2) An application under subsection (1) above shall—
+
+(a) be in (or as nearly as may be in) the form prescribed by Act of Sederunt;
+
+(b) subject to subsection (3) below, be intimated to and provide details of—
+
+(i) the debtor; and
+
+(ii) any other person having an interest;
+
+(c) state whether the creditor is seeking the grant, under section 15E(1) of this Act, of warrant for diligence on the dependence in advance of a hearing on the application under section 15F of this Act; and
+
+(d) contain such other information as the Scottish Ministers may by regulations prescribe.
+
+(3) An application under subsection (1) above need not be intimated where the creditor is seeking the grant, under section 15E(1) of this Act, of warrant in advance of a hearing on the application under section 15F of this Act.
+
+(4) The court, on receiving an application under subsection (1) above, shall—
+
+(a) subject to section 15E of this Act, fix a date for a hearing on the application under section 15F of this Act; and
+
+(b) order the creditor to intimate that date to—
+
+(i) the debtor; and
+
+(ii) any other person appearing to the court to have an interest.
+
+#### 15E Grant of warrant without a hearing
+
+(1) The court may, if satisfied as to the matters mentioned in subsection (2) below, make an order granting warrant for diligence on the dependence without a hearing on the application under section 15F of this Act.
+
+(2) The matters referred to in subsection (1) above are—
+
+(a) that the creditor has a prima facie case on the merits of the action;
+
+(b) that there is a real and substantial risk enforcement of any decree in the action in favour of the creditor would be defeated or prejudiced by reason of—
+
+(i) the debtor being insolvent or verging on insolvency; or
+
+(ii) the likelihood of the debtor removing, disposing of, burdening, concealing or otherwise dealing with all or some of the debtor's assets,
+
+were warrant for diligence on the dependence not granted in advance of such a hearing; and
+
+(c) that it is reasonable in all the circumstances, including the effect granting warrant may have on any person having an interest, to do so.
+
+(3) The onus shall be on the creditor to satisfy the court that the order granting warrant should be made.
+
+(4) Where the court makes an order granting warrant for diligence on the dependence without a hearing on the application under section 15F of this Act, the court shall—
+
+(a) fix a date for a hearing under section 15K of this Act; and
+
+(b) order the creditor to intimate that date to—
+
+(i) the debtor; and
+
+(ii) any other person appearing to the court to have an interest.
+
+(5) Where a hearing is fixed under subsection (4)(a) above, section 15K of this Act shall apply as if an application had been made to the court for an order under that section.
+
+(6) Where the court refuses to make an order granting a warrant without a hearing under section 15F of this Act and the creditor insists in the application, the court shall—
+
+(a) fix a date for such a hearing on the application; and
+
+(b) order the creditor to intimate that date to—
+
+(i) the debtor; and
+
+(ii) any other person appearing to the court to have an interest.
+
+#### 15F Hearing on application
+
+(1) At the hearing on an application for warrant for diligence on the dependence, the court shall not make any order without first giving—
+
+(a) any person to whom intimation of the date of the hearing was made; and
+
+(b) any other person the court is satisfied has an interest,
+
+an opportunity to be heard.
+
+(2) The court may, if satisfied as to the matters mentioned in subsection (3) below, make an order granting warrant for diligence on the dependence.
+
+(3) The matters referred to in subsection (2) above are—
+
+(a) that the creditor has a prima facie case on the merits of the action;
+
+(b) that there is a real and substantial risk enforcement of any decree in the action in favour of the creditor would be defeated or prejudiced by reason of—
+
+(i) the debtor being insolvent or verging on insolvency; or
+
+(ii) the likelihood of the debtor removing, disposing of, burdening, concealing or otherwise dealing with all or some of the debtor's assets,
+
+were warrant for diligence on the dependence not granted; [^F141]...
+
+(c) that it is reasonable in all the circumstances, including the effect granting warrant may have on any person having an interest, to do so [[^F142]; and
+
+(d) where the debtor is an individual, that the creditor has provided the debtor with a debt advice and information package.]
+
+(4) The onus shall be on the creditor to satisfy the court that the order granting warrant should be made.
+
+(5) Where the court makes an order granting or, as the case may be, refusing warrant for diligence on the dependence, the court shall order the creditor to intimate that order to—
+
+(a) the debtor; and
+
+(b) any other person appearing to the court to have an interest.
+
+(6) Where the court makes an order refusing warrant for diligence on the dependence, the court may impose such conditions (if any) as it thinks fit.
+
+(7) Without prejudice to the generality of subsection (6) above, those conditions may require the debtor—
+
+(a) to consign into court such sum; or
+
+(b) to find caution or to give such other security,
+
+as the court thinks fit.
+
+[[^F143](8) In this section and in section 15K, “debt advice and information package” means the debt advice and information package referred to in section 10(5) of the Debt Arrangement and Attachment (Scotland) Act 2002.]
+
+### Execution before service
+
+#### 15G Execution of diligence before service of summons
+
+(1) This section applies where diligence by—
+
+(a) arrestment; or
+
+(b) inhibition,
+
+on the dependence of an action is executed before service of the summons on the debtor.
+
+(2) Subject to subsection (3) below, if the summons is not served on the debtor before the end of the period of 21 days beginning with the day on which the diligence is executed, the diligence shall cease to have effect.
+
+(3) The court may, on the application of the creditor, make an order extending the period referred to in subsection (2) above.
+
+(4) In determining whether to make such an order the court shall have regard to—
+
+(a) the efforts of the creditor to serve the summons within the period of 21 days; and
+
+(b) any special circumstances preventing or obstructing service within that period.
+
+### Restriction on property attached
+
+#### 15H Sum attached by arrestment on dependence
+
+(1) The court may, subject to subsection (2) below, when granting warrant for arrestment on the dependence, limit the sum which may be attached to funds not exceeding such amount as the court may specify.
+
+(2) The maximum amount which the court may specify under subsection (1) above shall be the aggregate of—
+
+(a) the principal sum concluded for;
+
+(b) a sum equal to 20 per cent of that sum or such other percentage as the Scottish Ministers may, by regulations, prescribe;
+
+(c) a sum equal to 1 year's interest on the principal sum at the judicial rate; and
+
+(d) any sum prescribed under subsection (3) below.
+
+(3) The Scottish Ministers may, by regulations, prescribe a sum which appears to them to be reasonable having regard to the expenses likely to be—
+
+(a) incurred by a creditor; and
+
+(b) chargeable against a debtor,
+
+in executing an arrestment on the dependence.
+
+(4) For the avoidance of doubt, section 73F of this Act applies to any sum attached under this section.
+
+#### 15J Property affected by inhibition on dependence
+
+Where the court grants warrant for diligence by inhibition on the dependence—
+
+(a) in a case where the action is brought for specific implement of an obligation—
+
+(i) to convey heritable property to the creditor;
+
+(ii) to grant in the creditor's favour a real right in security over such property; or
+
+(iii) to grant some other right over such property,
+
+the court shall limit the property inhibited to that particular property; and
+
+(b) in any other case, the court may limit the property inhibited to such property as the court may specify.
+
+### Recall etc. of diligence on the dependence.
+
+#### 15K Recall or restriction of diligence on dependence
+
+(1) This section applies where warrant is granted for diligence on the dependence.
+
+(2) The debtor and any person having an interest may apply to the court for an order—
+
+(a) recalling the warrant;
+
+(b) restricting the warrant;
+
+(c) if an arrestment or inhibition has been executed in pursuance of the warrant—
+
+(i) recalling; or
+
+(ii) restricting,
+
+that arrestment or inhibition;
+
+(d) determining any question relating to the validity, effect or operation of the warrant; or
+
+(e) ancillary to any order mentioned in paragraphs (a) to (d) above.
+
+(3) An application under subsection (2) above shall—
+
+(a) be in (or as nearly as may be in) the form prescribed by Act of Sederunt; and
+
+(b) be intimated to—
+
+(i) the creditor; and
+
+(ii) any other person having an interest.
+
+(4) At the hearing on the application under subsection (2) above, the court shall not make any order without first giving—
+
+(a) any person to whom intimation of the application was made; and
+
+(b) any other person the court is satisfied has an interest,
+
+an opportunity to be heard.
+
+(5) Where the court is satisfied that the warrant is invalid it—
+
+(a) shall make an order—
+
+(i) recalling the warrant; and
+
+(ii) if an arrestment or inhibition has been executed in pursuance of the warrant, recalling that arrestment or inhibition; and
+
+(b) may make an order ancillary to any order mentioned in paragraph (a) above.
+
+[[^F144](5A) Where subsection (5B) applies and the court is satisfied that the creditor has not provided the debtor with a debt advice and information package it—
+
+(a) must make an order—
+
+(i) recalling the warrant, and
+
+(ii) if an arrestment or inhibition has been executed in pursuance of the warrant, recalling that arrestment or inhibition, and
+
+(b) may make an order ancillary to any order mentioned in paragraph (a).
+
+(5B) This subsection applies where—
+
+(a) the debtor is an individual, and
+
+(b) the hearing is a hearing fixed under section 15E(4)(a).]
+
+(6) Where the court is satisfied that an arrestment or inhibition executed in pursuance of the warrant is incompetent, it—
+
+(a) shall make an order recalling that arrestment or inhibition; and
+
+(b) may make an order ancillary to any such order.
+
+(7) Subject to subsection (8) below, where the court is satisfied that the warrant is valid but that—
+
+(a) an arrestment or inhibition executed in pursuance of it is irregular or ineffective; or
+
+(b) it is reasonable in all the circumstances, including the effect granting warrant may have had on any person having an interest, to do so,
+
+the court may make any order such as is mentioned in subsection (2) above.
+
+(8) If no longer satisfied as to the matters mentioned in subsection (9) below, the court—
+
+(a) shall make an order such as is mentioned in subsection (5)(a) above; and
+
+(b) may make an order such as is mentioned in subsection (5)(b) above.
+
+(9) The matters referred to in subsection (8) above are—
+
+(a) that the creditor has a prima facie case on the merits of the action;
+
+(b) that there is a real and substantial risk enforcement of any decree in the action in favour of the creditor would be defeated or prejudiced by reason of—
+
+(i) the debtor being insolvent or verging on insolvency; or
+
+(ii) the likelihood of the debtor removing, disposing of, burdening, concealing or otherwise dealing with all or some of the debtor's assets; and
+
+(c) that it is reasonable in all the circumstances, including the effect granting warrant may have had on any person having an interest, for the warrant or, as the case may be, any arrestment or inhibition executed in pursuance of it to continue to have effect.
+
+(10) The onus shall be on the creditor to satisfy the court that no order under subsection (5), [[^F145](5A),] (6), (7) or (8) above should be made.
+
+(11) In granting an application under subsection (2) above, the court may impose such conditions (if any) as it thinks fit.
+
+(12) Without prejudice to the generality of subsection (11) above, the court may impose conditions which require the debtor—
+
+(a) to consign into court such sum; or
+
+(b) to find such caution or to give such other security,
+
+as the court thinks fit.
+
+(13) Where the court makes an order under this section, the court shall order the debtor to intimate that order to—
+
+(a) the creditor; and
+
+(b) any other person appearing to the court to have an interest.
+
+(14) This section applies irrespective of whether warrant for diligence on the dependence is obtained, or executed, before this section comes into force.
+
+#### 15L Variation of orders and variation or recall of conditions
+
+(1) Where—
+
+(a) an order restricting warrant for diligence on the dependence is made under section 15K(7); or
+
+(b) a condition is imposed by virtue of—
+
+(i) section 15F(6); or
+
+(ii) section 15K(11),
+
+of this Act, the debtor may apply to the court for variation of the order or, as the case may be, variation or removal of the condition.
+
+(2) An application under subsection (1) above shall—
+
+(a) be in (or as nearly as may be in) the form prescribed by Act of Sederunt; and
+
+(b) be intimated to—
+
+(i) the creditor; and
+
+(ii) any other person having an interest.
+
+(3) At the hearing on the application under subsection (1) above, the court shall not make any order without first giving—
+
+(a) any person to whom intimation of the application was made; and
+
+(b) any other person the court is satisfied has an interest,
+
+an opportunity to be heard.
+
+(4) On an application under subsection (1) above, the court may if it thinks fit—
+
+(a) vary the order; or
+
+(b) vary or remove the condition.
+
+(5) Where the court makes an order varying the order or, as the case may be, varying or removing the condition, the court shall order the debtor to intimate that order to—
+
+(a) the creditor; and
+
+(b) any other person appearing to the court to have an interest.
+
+### General and miscellaneous
+
+#### 15M Expenses of diligence on the dependence
+
+(1) Subject to subsection (3)(a) below, a creditor shall be entitled to such expenses as the creditor incurs—
+
+(a) in obtaining warrant for diligence on the dependence; and
+
+(b) where an arrestment or inhibition is executed in pursuance of the warrant, in so executing the arrestment or inhibition.
+
+(2) Subject to subsection (3)(b) below, a debtor shall be entitled, where—
+
+(a) warrant for diligence on the dependence is granted; and
+
+(b) the court is satisfied that the creditor was acting unreasonably in applying for it,
+
+to the expenses incurred in opposing that warrant.
+
+(3) The court may modify or refuse—
+
+(a) such expenses as are mentioned in subsection (1) above if it is satisfied that—
+
+(i) the creditor was acting unreasonably in applying for the warrant; or
+
+(ii) such modification or refusal is reasonable in all the circumstances and having regard to the outcome of the action; and
+
+(b) such expenses as are mentioned in subsection (2) above if it is satisfied as to the matter mentioned in paragraph (a)(ii) above.
+
+(4) Subject to subsections (1) to (3) above, the court may make such finding as it thinks fit in relation to such expenses as are mentioned in subsections (1) and (2) above.
+
+(5) Expenses incurred as mentioned in subsection (1) and (2) above in obtaining or, as the case may be, opposing an application for warrant shall be expenses of process.
+
+(6) Subsections (1) to (5) above are without prejudice to any enactment or rule of law as to the recovery of expenses chargeable against a debtor as are incurred in executing an arrestment or inhibition on the dependence of an action.
+
+#### 15N Application of this Part to admiralty actions
+
+This Part of this Act (other than sections 15H, 15J and 15M) shall apply, in so far as not inconsistent with the provisions of Part V of the Administration of Justice Act 1956 (c. 46) (admiralty jurisdiction and arrestment of ships), to an arrestment on the dependence of an admiralty action as it applies to any other arrestment on the dependence.]
+
+## [^F146]PART II — POINDINGS AND WARRANT SALES
+
+### Poinding
+
+#### 16 Articles exempt from poinding.
+
+(1) The following articles belonging to a debtor shall be exempt from poinding at the instance of a creditor in respect of a debt due to him by the debtor—
+
+(a) clothing reasonably required for the use of the debtor or any member of his household;
+
+(b) implements, tools of trade, books or other equipment reasonably required for the use of the debtor or any member of his household in the practice of the debtor’s or such member’s profession, trade or business, not exceeding in aggregate value £500 or such amount as may be prescribed in regulations made by the Lord Advocate;
+
+(c) medical aids or medical equipment reasonably required for the use of the debtor or any member of his household;
+
+(d) books or other articles reasonably required for the education or training of the debtor or any member of his household not exceeding in aggregate value £500 or such amount as may be prescribed in regulations made by the Lord Advocate;
+
+(e) toys for the use of any child who is a member of the debtor’s household;
+
+(f) articles reasonably required for the care or upbringing of a child who is a member of the debtor’s household.
+
+(2) The following articles belonging to a debtor shall be exempt from poinding if they are at the time of the poinding in a dwellinghouse and are reasonably required for the use in the dwellinghouse of the person residing there or a member of his household—
+
+(a) beds or bedding;
+
+(b) household linen;
+
+(c) chairs or settees;
+
+(d) tables;
+
+(e) food;
+
+(f) lights or light fittings;
+
+(g) heating appliances;
+
+(h) curtains;
+
+(j) floor coverings;
+
+(k) furniture, equipment or utensils used for cooking, storing or eating food;
+
+(l) refrigerators;
+
+(m) articles used for cleaning, mending, or pressing clothes;
+
+(n) articles used for cleaning the dwellinghouse;
+
+(o) furniture used for storing—
+
+(i) clothing, bedding or household linen;
+
+(ii) articles used for cleaning the dwellinghouse; or
+
+(iii) utensils used for cooking or eating food;
+
+(p) articles used for safety in the dwellinghouse;
+
+(q) tools used for maintenance or repair of the dwellinghouse or of household articles.
+
+[[^F147](r) computers and accessory equipment;
+
+(s) microwave ovens;
+
+(t) radios;
+
+(u) telephones;
+
+(v) televisions.]
+
+(3) The Lord Advocate may by regulations add to the list set out in subsection (2) above, or delete or vary any of the items contained in that list.
+
+(4) If, on an application made within 14 days after the date of the execution of the poinding—
+
+(a) by the debtor or any person who owns a poinded article in common with the debtor; or
+
+(b) by any person in possession of a poinded article,
+
+the sheriff is satisfied that the article is exempt from poinding under this section, he shall make an order releasing the article from the poinding.
+
+#### 17 Restrictions on times when poinding may be executed.
+
+(1) No poinding shall be executed on Sunday, Christmas Day, New Year’s Day, Good Friday or such other day as may be prescribed by Act of Sederunt.
+
+(2) The execution of a poinding shall not—
+
+(a) be commenced before 8 a.m. or after 8 p.m.; or
+
+(b) be continued after 8 p.m.,
+
+unless the officer of court has obtained prior authority from the sheriff for such commencement or continuation; and any rule of law which prohibits poindings outwith the hours of daylight shall cease to have effect.
+
+#### 18 Power of entry for execution of poinding.
+
+(1) Subject to subsection (2) below, notwithstanding any warrant authorising him to open shut and lockfast places, an officer of court shall not enter a dwellinghouse to execute a poinding if, at the time of his intended entry, there appears to him to be nobody, or only children under the age of 16 years, present there unless, at least 4 days before the date of his intended entry, he has served notice on the debtor specifying that date.
+
+(2) If it appears to the sheriff, on an application made to him by the officer of court (which shall not require to be intimated to the debtor), that the requirement of service under this section would be likely to prejudice the execution of the poinding he may dispense with such service.
+
+#### 19 Value of articles which may be poinded and presumption as to ownership.
+
+(1) The officer of court shall be entitled to poind articles only to the extent necessary to ensure that the sum recoverable at the time of the sale would be realised if they were sold at the values fixed under section 20(4) of this Act.
+
+(2) In executing a poinding, an officer of court shall be entitled to proceed on the assumption that any article in the possession of the debtor is owned by him unless the officer of court knows or ought to know that the contrary is the case.
+
+(3) The officer of court shall not be precluded from relying on the assumption mentioned in subsection (2) above by reason only of one or both of the following circumstances—
+
+(a) that the article belongs to a class which is commonly held under a hire, hire-purchase or conditional sale agreement or on some other limited title of possession;
+
+(b) that an assertion has been made that the article is not owned by the debtor.
+
+#### 20 Poinding procedure.
+
+(1) The procedure in a poinding shall be in accordance with this section and section 21 of this Act.
+
+(2) Before executing the poinding, the officer of court shall—
+
+(a) exhibit to any person present the warrant to poind and the certificate of execution of the charge relating thereto;
+
+(b) demand payment of the sum recoverable from the debtor, if he is present, or any person present appearing to the officer of court to be authorised to act for the debtor; and
+
+(c) make enquiry of any person present as to the ownership of the articles proposed to be poinded, and in particular whether there are any persons who own any articles in common with the debtor,
+
+but it shall not be necessary for the officer of court to make public proclamation of the poinding or to read publicly the extract decree containing the warrant to poind and the execution of the charge relating thereto.
+
+(3) The officer of court shall be accompanied at the poinding by one witness.
+
+(4) The poinded articles shall be valued by the officer of court according to the price which they would be likely to fetch if sold on the open market unless he considers that the articles are such that a valuation by a professional valuer or other suitably skilled person is advisable, in which case he may arrange for such a valuation.
+
+(5) The officer of court shall prepare a schedule (referred to in this Part of this Act as “the poinding schedule”), in the form prescribed by Act of Sederunt, which shall specify—
+
+(a) the identity of the creditor and of the debtor;
+
+(b) the articles poinded, and their respective values;
+
+(c) the sum recoverable; and
+
+(d) the place where the poinding was executed.
+
+(6) On completion of the valuation the officer of court shall—
+
+(a) along with the witness sign the poinding schedule;
+
+(b) deliver the poinding schedule to any person in possession of the articles or—
+
+(i) where the poinding was executed in a dwellinghouse or other premises, leave it in the premises; or
+
+(ii) in any other case, deliver it to premises occupied by that person;
+
+(c) if the person in possession of the articles is not the debtor and it is reasonably practicable, serve a copy of it by post on the debtor;
+
+(d) inform the debtor (if present) of his right to redeem poinded articles under section 21(4) of this Act;
+
+(e) inform any person present who owns any poinded article in common with the debtor of his right to redeem poinded articles under section 41(2) and (3)(a) of this Act; and
+
+(f) inform the debtor (if present) and any person present who owns any poinded article in common with the debtor, or who is in possession of any poinded article, of his right to apply for an order releasing articles from poinding under section 16(4), 23(1) or 41(3)(b) of this Act.
+
+(7) The officer of court shall leave poinded articles at the place where they were poinded, except that where that place is not a dwellinghouse or other premises, if he considers it necessary for their security or the preservation of their value and there is insufficient time to obtain an order under section 21(1)(a) of this Act, he shall remove them at the creditor’s expense—
+
+(a) to the nearest convenient premises belonging to the debtor or to the person in possession of the articles; or
+
+(b) if no such premises are available, to the nearest suitable secure premises.
+
+#### 21 Poinding procedure - further provisions.
+
+(1) The sheriff, on an application by the creditor, the officer of court or the debtor intimated in accordance with subsection (2) below, may at any time after the execution of a poinding make an order—
+
+(a) for the security of any of the poinded articles; or
+
+(b) in relation to any of the articles which are of a perishable nature or which are likely to deteriorate substantially and rapidly in condition or value, for their immediate disposal and, in the event of their disposal by sale, for payment of the proceeds of sale to the creditor or for consignation of the proceeds in court until the diligence is completed or otherwise ceases to have effect,
+
+and a decision of the sheriff under paragraph (b) above for the immediate disposal of articles shall not be subject to appeal.
+
+(2) An application for an order under subsection (1)(b) above—
+
+(a) by the creditor or the officer of court, shall be intimated by him to the debtor;
+
+(b) by the debtor, shall be intimated to the creditor or the officer of court,
+
+at the time when it is made.
+
+(3) It shall not be competent for an officer of court in executing a poinding to examine a person on oath as to the ownership of any article.
+
+(4) Subject to subsection (1)(b) above, the debtor shall be entitled, within 14 days after the date of execution of the poinding, to redeem any poinded article at the value fixed under section 20(4) of this Act; and the officer of court shall mention any such redemption in his report under section 22 of this Act or, if he has already made that report, shall report the redemption as soon as is reasonably practicable to the sheriff.
+
+(5) The officer of court shall, on receiving payment from the debtor for the redemption under subsection (4) above of a poinded article, grant a receipt in the form prescribed by Act of Sederunt to the debtor; and the receipt shall operate as a release of the article from the poinding.
+
+(6) Subject to section 29(2)(b) of this Act, the revaluation in the same poinding of an article which has been valued under section 20(4) of this Act shall not be competent.
+
+(7) A poinding shall be deemed to have been executed on the date when the poinding schedule has been delivered, or left on the premises, in pursuance of section 20(6)(b) of this Act.
+
+(8) Subject to subsection (9) below, at any time before the execution of a poinding on behalf of a creditor, an officer of court shall, if requested to do so by any other creditor who has delivered to him a warrant to poind, conjoin that creditor in the poinding.
+
+(9) It shall not be competent for an officer of court to conjoin a creditor in a poinding in respect of a debt for which the creditor holds a summary warrant.
+
+#### 22 Report of execution of poinding.
+
+(1) The officer of court shall, within a period of 14 days after the date of execution of the poinding (or such longer period as the sheriff on cause shown may allow on an application by the officer of court) make to the sheriff in the form prescribed by Act of Sederunt a report of the execution of the poinding which shall be signed by the officer of court and the witness who attended the poinding.
+
+(2) The officer of court shall note in the report under subsection (1) above any assertion made before the submission of the report that any poinded article does not belong to the debtor.
+
+(3) The sheriff may refuse to receive a report on the ground that it has not been made and signed in accordance with subsection (1) above, and if the sheriff refuses to receive a report on that ground the poinding shall cease to have effect.
+
+(4) The sheriff clerk shall intimate a refusal under subsection (3) above—
+
+(a) to the debtor; and
+
+(b) if he is a different person from the debtor, to the person in possession of the poinded articles.
+
+(5) Any rule of law whereby the sheriff may refuse to receive a report of the execution of a poinding on a ground other than one specified in subsection (3) above shall cease to have effect.
+
+#### 23 Release of poinded article on ground of undue harshness.
+
+(1) The sheriff may, on an application made within 14 days after the date of execution of a poinding by the debtor or any person in possession of a poinded article, make an order releasing an article from the poinding if it appears to the sheriff that its continued inclusion in the poinding or its sale under warrant of sale would be unduly harsh in the circumstances.
+
+(2) Where the sheriff has made an order under subsection (1) above he may, notwithstanding section 25 of this Act, on an application by the creditor or by an officer of court on his behalf, authorise the poinding of other articles belonging to the debtor on the same premises.
+
+#### 24 Invalidity, cessation and recall of poinding.
+
+(1) If, at any time before the sale of the poinded articles, the sheriff is satisfied that the poinding is invalid or has ceased to have effect he shall, on his own initiative or on an application by the debtor, make an order declaring that to be the case, and may make such consequential order as appears to him to be necessary in the circumstances.
+
+(2) Without prejudice to section 16(4) of this Act, it shall not be competent for the sheriff to make an order under subsection (1) above on the ground that any poinded article is exempt from poinding under that section.
+
+(3) At any time before an application is made under section 30 of this Act for a warrant of sale, the sheriff may, on an application by the debtor, recall a poinding on any of the following grounds—
+
+(a) that it would be unduly harsh in the circumstances for a warrant of sale of the poinded articles to be granted;
+
+(b) that the aggregate of the values of the poinded articles fixed under section 20(4) of this Act was substantially below the aggregate of the prices which they would have been likely to fetch if sold on the open market; or
+
+(c) that the likely aggregate proceeds of sale of the poinded articles would not exceed the expenses likely to be incurred in the application for warrant of sale and in any steps required to be taken under this Part of this Act in execution of such a warrant, on the assumption that that application and such steps are unopposed.
+
+(4) The sheriff shall not grant an application on the ground mentioned in subsection (3)(c) above if an order for further poinding of articles belonging to the debtor has been authorised under section 23(2), 28(6) or 29(2), or has become competent by reason of section 9(12), 28(2), 40(5) or 41(6), of this Act.
+
+(5) The sheriff shall not make an order under subsection (1) above, recall a poinding or refuse an application under this section without first giving the debtor and the creditor—
+
+(a) an opportunity to make representations; and
+
+(b) if either party wishes to be heard, an opportunity to be heard.
+
+(6) The sheriff clerk shall intimate to the debtor any order made under subsection (1) above by the sheriff on his own initiative.
+
+#### 25 Second poinding in same premises.
+
+Subject to sections 9(12), 23(2), 28(2) and (6), 29(2), 40(5) and 41(6) of this Act, where articles are poinded in any premises (whether or not the poinding is valid), another poinding in those premises to enforce the same debt shall not be competent except in relation to articles which have been brought on to the premises since the execution of the first poinding.
+
+#### 26 Sist of proceedings in poinding of mobile homes.
+
+(1) Where a caravan, houseboat or other moveable structure which is the only or principal residence of the debtor or another person has been poinded the sheriff, on an application by the debtor or that other person made at any time after the execution of the poinding and before the granting of a warrant of sale, may order that for such period as he shall specify no further steps shall be taken in the poinding.
+
+(2) In calculating under section 27(1) or (2) of this Act the period during which a poinding in respect of which an order has been made under subsection (1) above shall remain effective, there shall be disregarded the period specified in the order.
+
+#### 27 Duration of poinding.
+
+(1) Subject to subsections (2), (3) and (5)(a) below, a poinding shall cease to have effect on the expiry of a period of one year after the date of execution of the poinding, unless before such expiry an application has been made under section 30(1) of this Act for a warrant of sale in relation to the poinded articles.
+
+(2) The sheriff, on an application by the creditor or by an officer of court on his behalf made before the expiry of the period mentioned in subsection (1) above and before an application has been made under section 30(1) of this Act, may extend that period—
+
+(a) where he considers that, if the said period is extended, the debtor is likely to comply with an agreement between the creditor and the debtor for the payment of the sum recoverable by instalments or otherwise; or
+
+(b) to enable further proceedings to be taken in the diligence where the termination of the poinding would prejudice the creditor and the creditor cannot be held responsible for the circumstances giving rise to the need for the extension,
+
+for such further period as he considers reasonable in the circumstances.
+
+(3) The sheriff may grant further extensions under subsection (2) above, on application being made to him before the expiry of the previously extended period.
+
+(4) The decision of the sheriff under subsection (2) above shall not be subject to appeal, and shall be intimated to the debtor by the sheriff clerk.
+
+(5) Where, within the period mentioned in subsection (1) above or within that period as extended under subsection (2) above, an application is made—
+
+(a) under subsection (2) above—
+
+(i) if the application is made on the ground referred to in paragraph (a) of that subsection, the poinding shall, if the date of disposal of the application is later than 14 days before the poinding is due to expire, continue to have effect until 14 days after that disposal;
+
+(ii) in any other case, the poinding shall continue to have effect until the disposal of the application;
+
+(b) under section 30 of this Act for a warrant of sale, the poinding shall, if the sheriff refuses to grant a warrant of sale, continue to have effect—
+
+(i) until the period for leave to appeal has expired without an application for leave having been made;
+
+(ii) where an application for leave to appeal is made, until leave has been refused or the application has been abandoned;
+
+(iii) where leave to appeal has been granted, until the period for an appeal has expired without an appeal being made; or
+
+(iv) where an appeal against the decision is made, until the matter has been finally determined or the appeal has been abandoned; or
+
+(c) under section 30 of this Act for a warrant of sale, the poinding shall, if the sheriff grants a warrant of sale, continue to have effect—
+
+(i) if the articles are sold, or ownership passes to the creditor under section 37(6) of this Act, until the date of such sale or such ownership passing; or
+
+(ii) if the articles are not sold, or ownership does not pass to the creditor, until the expiry of the period specified for the warrant sale in the warrant of sale.
+
+(6) Without prejudice to subsection (7) below, if a report has been made to the sheriff under section 36(2) of this Act, the poinding shall continue to have effect for a period of 6 months after the date when the latest such report was made.
+
+(7) Where, within the period specified for the warrant sale in the warrant of sale, or within the period mentioned in subsection (6) above, an application is made under section 35 of this Act for a variation of the warrant of sale, the poinding shall cease to have effect—
+
+(a) if the sheriff refuses to grant a variation—
+
+(i) when the period for leave to appeal has expired without an application for leave having been made;
+
+(ii) where an application for leave to appeal is made, when leave has been refused or the application has been abandoned;
+
+(iii) where leave to appeal has been granted, when the period for an appeal has expired without an appeal being made; or
+
+(iv) where an appeal against the decision is made, when the matter has been finally determined in favour of the sheriff’s decision or the appeal has been abandoned,
+
+or on such later date as the sheriff may direct;
+
+(b) if the sheriff grants a variation—
+
+(i) where the articles are sold, or ownership passes to the creditor under section 37(6) of this Act in the period specified for the warrant sale in the warrant of sale as so varied, on the date of the warrant sale or of ownership so passing;
+
+(ii) where the articles are not sold and ownership does not pass to the creditor within that period, on the expiry of that period.
+
+### Removal, damage or destruction of poinded articles
+
+#### 28 Removal of poinded articles.
+
+(1) The debtor or the person in possession of poinded articles may move them to another location if—
+
+(a) the creditor or an officer of court on behalf of the creditor has consented in writing to their removal; or
+
+(b) the sheriff, on an application by the debtor or the person in possession, has authorised their removal.
+
+(2) Where poinded articles have been removed under subsection (1) above, an officer of court may, under the same warrant to poind, again poind any of the articles so removed and, notwithstanding section 25 of this Act, any articles which were not so removed, whether or not they were previously poinded; and, on the execution of any such further poinding, the original poinding shall be deemed to have been abandoned.
+
+(3) The removal, except in accordance with this Part of this Act, from any premises of poinded articles by—
+
+(a) the debtor; or
+
+(b) any person, other than the creditor or an officer of court, who knows that the articles have been poinded,
+
+shall be a breach of the poinding and may be dealt with as a contempt of court.
+
+(4) Where articles have been removed from premises otherwise than in accordance with this Part of this Act, the sheriff, on an application by the creditor—
+
+(a) may, subject to subsection (5) below, make an order requiring the person in possession of the articles to restore them to the premises from which they were removed within a period specified in the order; and
+
+(b) if an order under paragraph (a) above is not complied with, and it appears to the sheriff that the articles are likely to be found in premises specified in the application, may grant a warrant to officers of court—
+
+(i) to search for the articles in those premises; and
+
+(ii) to restore the articles to the premises from which they were removed or to make such other arrangements for their security as the sheriff may direct,
+
+and such a warrant shall be authority to open shut and lockfast places for the purpose of its execution.
+
+(5) Where it appears to the sheriff, on an application made to him by any person having an interest, that any article which has been removed from premises otherwise than in accordance with this Part of this Act has been acquired for value and without knowledge of the poinding, he shall—
+
+(a) refuse an order under subsection (4)(a) above relating to that article;
+
+(b) recall any such order which he has already made; and
+
+(c) make an order releasing the article from the poinding.
+
+(6) Where articles have been removed from premises otherwise than in accordance with this Part of this Act in circumstances in which the debtor is at fault the sheriff, on an application by the creditor or by an officer of court on his behalf, may, notwithstanding section 25 of this Act, authorise the poinding of other articles belonging to the debtor in the same premises.
+
+(7) The removal of poinded articles to another location shall not have the effect of releasing the articles from the poinding.
+
+#### 29 Unlawful acts relating to poinded articles.
+
+(1) The wilful damage or destruction of poinded articles by—
+
+(a) the debtor; or
+
+(b) any person, other than the creditor or an officer of court, who knows that the articles have been poinded,
+
+shall be a breach of the poinding and may be dealt with as a contempt of court.
+
+(2) Where poinded articles have been damaged or destroyed the sheriff, on an application by the creditor or by the officer of court on his behalf, may—
+
+(a) where the debtor has been at fault, authorise the poinding of other articles belonging to the debtor in the premises in which the original poinding took place; and
+
+(b) in any case, authorise the revaluation of any damaged article in accordance with section 20(4) of this Act.
+
+(3) Where a third party, knowing that an article has been poinded—
+
+(a) wilfully damages or destroys it; or
+
+(b) removes it from premises in breach of a poinding, and—
+
+(i) it is damaged, destroyed, lost or stolen; or
+
+(ii) it is acquired from or through him by another person without knowledge of the poinding and for value,
+
+the sheriff may order the third party to consign the sum mentioned in subsection (4) below in court until the completion of the sale or until the poinding otherwise ceases to have effect.
+
+(4) The sum to be consigned in court under subsection (3) above shall be—
+
+(a) where the article has been damaged but not so damaged as to make it worthless, a sum equal to the difference between the value of the article fixed under section 20(4) of this Act and the value of the article as so damaged;
+
+(b) in any other case, a sum equal to the value fixed under that section.
+
+(5) Any sum consigned in court under subsection (3) above shall, on the completion of the sale or on the poinding otherwise ceasing to have effect, be paid to the creditor to the extent necessary to meet the sum recoverable, any surplus thereof being paid to the debtor.
+
+### Warrant sales
+
+#### 30 Application for warrant of sale.
+
+(1) A creditor shall not be entitled to sell articles poinded by him unless, on an application by him or by an officer of court on his behalf, the sheriff has granted a warrant under this section (referred to in this Act as a “warrant of sale”).
+
+(2) The sheriff may refuse to grant a warrant of sale—
+
+(a) on his own initiative or on an objection by the debtor—
+
+(i) on the ground that the poinding is invalid or has ceased to have effect;
+
+(ii) on a ground mentioned in section 24(3)(b) or (c) of this Act;
+
+(b) on an objection by the debtor, on the ground that the granting of the application would be unduly harsh in the circumstances.
+
+(3) The creditor or officer of court, when making an application under subsection (1) above, shall serve a copy thereof on the debtor together with a notice in the form prescribed by Act of Sederunt informing him—
+
+(a) that he may object to the application within 14 days after the date when it was made; and
+
+(b) of his right to redeem poinded articles under section 33(2) of this Act.
+
+(4) The sheriff shall not—
+
+(a) refuse to grant a warrant of sale on his own initiative; or
+
+(b) dispose of an application under subsection (1) above where the debtor has objected thereto in accordance with subsection (3)(a) above,
+
+without first giving the parties an opportunity to be heard.
+
+(5) It shall not be competent for the sheriff to refuse to grant a warrant of sale on the ground that any poinded article is exempt from poinding under section 16 of this Act.
+
+(6) Where the sheriff refuses to grant a warrant of sale, the sheriff clerk shall intimate that refusal to the debtor and, if he is a different person from the debtor, to the person in possession of the poinded articles.
+
+(7) A sale under a warrant of sale shall be known as a “warrant sale”.
+
+#### 31 Provisions of warrant of sale.
+
+(1) Every warrant of sale shall provide that the warrant sale shall be by public auction and shall specify the location of the sale in accordance with section 32 of this Act.
+
+(2) A warrant of sale shall—
+
+(a) appoint an officer of court to make arrangements for the warrant sale in accordance with the warrant;
+
+(b) specify a period within which the warrant sale shall take place; and
+
+(c) empower the officer of court to open shut and lockfast places for the purpose of executing the warrant.
+
+(3) Where the warrant of sale provides for the sale to be held in premises other than an auction room, it shall appoint to conduct the warrant sale—
+
+(a) if the aggregate of the values of the poinded articles fixed under section 20(4) of this Act exceeds £1,000 or such other sum as may be prescribed by Act of Sederunt and a person who carries on business as an auctioneer is available, that person;
+
+(b) in any other case, the officer of court appointed under subsection (2) above or another suitable person.
+
+(4) A warrant of sale which provides for the warrant sale to be held in premises other than where the poinded articles are situated shall also empower the officer of court appointed by the warrant to remove the poinded articles to such premises for the sale.
+
+#### 32 Location of sale.
+
+(1) The warrant of sale shall not provide for the warrant sale to be held in a dwellinghouse except with the consent in writing, in a form to be prescribed by Act of Sederunt, of the occupier thereof and, if he is not the occupier, of the debtor.
+
+(2) Subject to subsection (3) below, where articles are poinded in a dwellinghouse and any consent required under subsection (1) above is not given, the warrant of sale shall provide for the warrant sale to be held in an auction room specified in the warrant.
+
+(3) Where—
+
+(a) articles are poinded in a dwellinghouse and any consent required under subsection (1) above is not given; and
+
+(b) it appears to the sheriff that, if the sale were to be held in an auction room, the likely proceeds of the warrant sale would not exceed the expenses of the application for warrant of sale and the expenses likely to be incurred in any steps required to be taken under this Part of this Act in the execution of the warrant on the assumption that that application and any such steps are unopposed,
+
+if the creditor is able to offer suitable premises in which the warrant sale could be held, the warrant of sale shall, subject to subsection (1) above and subsections (4) and (5) below, provide for the sale to be held in those premises, but otherwise the sheriff shall refuse to grant a warrant of sale.
+
+(4) Subject to subsection (5) below, the warrant of sale shall not provide for the sale to be held in premises (other than a dwellinghouse or an auction room) which are occupied by a person other than the debtor or the creditor except with the consent in writing, in a form to be prescribed by Act of Sederunt, of the occupier thereof.
+
+(5) Where the occupier of premises (other than a dwellinghouse or an auction room) where poinded articles are situated does not give his consent under subsection (4) above to the holding of the warrant sale in those premises, the warrant of sale may, if the sheriff considers that it would be unduly costly to require the removal of the poinded articles to other premises for sale, nevertheless provide that the warrant sale shall be held in the premises where they are situated.
+
+(6) In this section “occupier”, in relation to premises where there are 2 or more occupiers, means each of them.
+
+#### 33 Release or redemption of poinded articles after warrant.
+
+(1) Where a warrant sale is to be held in premises other than where the poinded articles are situated, the officer of court may, in pursuance of section 31(4) of this Act, remove to those premises only such poinded articles as, if sold at their values fixed under section 20(4) of this Act, would realise in total the sum recoverable at the time of the sale; and shall release the remaining poinded articles from the poinding.
+
+(2) Subject to section 21(1) of this Act, the debtor may, within 7 days after the date when a copy of an application for warrant of sale has been served on him, redeem any poinded article by paying to the officer of court a sum equal to its value fixed under section 20(4) of this Act.
+
+(3) The officer of court shall, on receiving payment from the debtor under subsection (2) above, grant a receipt in the form prescribed by Act of Sederunt to the debtor; and the receipt shall operate as a release of the article from the poinding.
+
+(4) The creditor and the debtor may by agreement release articles from the poinding.
+
+(5) Any release or redemption of poinded articles under this section—
+
+(a) shall be mentioned in the next subsequent application (if any) which is made for warrant of sale or for variation of warrant of sale; or
+
+(b) if it takes place after an application for warrant of sale (or variation thereof) has been made and before it has been disposed of, shall be reported as soon as is reasonably practicable by the officer of court to the sheriff; or
+
+(c) in any other case, shall be mentioned in any report of sale.
+
+#### 34 Intimation and publication of sale.
+
+(1) The officer of court appointed under section 31(2)(a) of this Act to make arrangements for the warrant sale shall—
+
+(a) as soon as is reasonably practicable intimate to the debtor and, if the person in possession of the poinded articles is not the debtor, to that person, the date arranged for the warrant sale; and
+
+(b) not later than the date of intimation under paragraph (a) above, serve a copy of the warrant of sale on the debtor and any such person.
+
+(2) Where the warrant sale is not to be held in the premises where the poinded articles are situated, the officer of court referred to in subsection (1) above shall, not less than 7 days before the date arranged for the removal of the poinded articles from those premises, intimate to the debtor and, if he is not the debtor, to the person in possession of the poinded articles—
+
+(a) the place where the sale is to be held; and
+
+(b) the date arranged for the removal.
+
+(3) The sheriff clerk shall arrange for such particulars of the warrant of sale as are prescribed by Act of Sederunt to be displayed on the walls of court.
+
+(4) The warrant sale shall be advertised by public notice and, where the sale is to be held otherwise than in an auction room, the public notice shall be as directed by the warrant of sale.
+
+(5) Where the warrant sale is to be held in premises not belonging to the debtor, the public notice under subsection (4) above shall not name him or disclose that the articles for sale are poinded articles.
+
+(6) Where the warrant sale is to be held in premises other than the debtor’s premises or an auction room, any public notice of the sale shall state that the articles to be sold do not belong to the occupier of the premises where the sale is to be held.
+
+#### 35 Alteration of arrangements for sale.
+
+(1) Where, for any reason for which neither the creditor nor the officer of court is responsible, the arrangements made for the warrant sale cannot be implemented in accordance with the provisions of the warrant of sale, the sheriff may, on an application by the creditor or by the officer of court on his behalf, grant a variation of the warrant of sale.
+
+(2) Subject to subsection (3) below, the sheriff may, on his own initiative or on an objection by the debtor, refuse to grant an application under subsection (1) above on the ground that—
+
+(a) the poinding is invalid or has ceased to have effect; or
+
+(b) the proposed variation is unsuitable.
+
+(3) It shall not be competent for the sheriff to refuse to grant an application under subsection (1) above on the ground that any poinded article is exempt from poinding under section 16 of this Act.
+
+(4) Section 32 of this Act shall apply to a warrant of sale as varied under this section.
+
+(5) A creditor or officer of court who makes an application under subsection (1) above shall at the same time—
+
+(a) serve on the debtor a copy thereof together with a notice in the form prescribed by Act of Sederunt, informing him that he may object to the application within 7 days after the date of such service; and
+
+(b) serve on any other person in possession of the poinded articles a copy of the application.
+
+(6) The sheriff shall not—
+
+(a) refuse to grant a variation under subsection (1) above on his own initiative; or
+
+(b) dispose of an application under that subsection where the debtor has objected thereto in accordance with subsection (5) above,
+
+without first giving the parties an opportunity to be heard.
+
+(7) On granting a variation under subsection (1) above, the sheriff may make such consequential orders as he thinks fit including, where appropriate—
+
+(a) an order requiring service on the debtor, and on any other person in possession of the poinded articles, of the warrant of sale as varied;
+
+(b) the retaking of any steps in the diligence which have already been taken.
+
+(8) Where the sheriff refuses to grant a variation under subsection (1) above, the sheriff clerk shall intimate that refusal to the debtor and to any other person in possession of the poinded articles.
+
+(9) Subject to subsection (10) below and without prejudice to section 36(3) of this Act, after intimation has been given under section 34 of this Act to the debtor of the date arranged for the warrant sale or for the removal for sale of the poinded articles from the premises where they are situated, the creditor or officer of court shall not be entitled to arrange a new date for the sale or for such removal.
+
+(10) Where, for any reason for which neither the creditor nor the officer of court is responsible, it is not possible for the warrant sale or, as the case may be, the removal for sale of the poinded articles from the premises where they are situated, to take place on the date arranged for it, the creditor may instruct the officer of court to arrange a new date in accordance with subsection (11) below, and the officer of court shall intimate the new date to the debtor and to any other person in possession of the poinded articles.
+
+(11) The new date arranged under subsection (10) above—
+
+(a) shall not in any case be less than 7 days after the date of intimation under that subsection; and
+
+(b) in the case of a new date arranged for a warrant sale, shall be a date within the period specified in the warrant of sale as the period within which the sale is required to be held.
+
+#### 36 Payment agreements after warrant of sale.
+
+(1) Without prejudice to section 35(1) and (10) of this Act, in order to enable the sum recoverable to be paid by instalments or otherwise in accordance with an agreement between the creditor and the debtor, the creditor may, after the granting of a warrant of sale, cancel the arrangements for the warrant sale on not more than 2 occasions.
+
+(2) The creditor or the officer of court on his behalf shall as soon as is reasonably practicable after any agreement of the kind referred to in subsection (1) above has been entered into make a report of the agreement to the sheriff.
+
+(3) Where, following cancellation of the warrant sale in pursuance of subsection (1) above, the debtor is in breach of the agreement—
+
+(a) if the provisions of the original warrant of sale still allow, the creditor may instruct the officer of court to make arrangements for the warrant sale in accordance with those provisions;
+
+(b) if, for any reason for which neither the creditor nor the officer of court is responsible, arrangements for the warrant sale cannot be implemented in accordance with the provisions of the original warrant of sale, the sheriff may, on an application by the creditor or by the officer of court on his behalf made within 6 months after the date when the report was made under subsection (2) above, grant a variation of the warrant of sale under section 35(1) of this Act.
+
+(4) For the purposes of subsection (3) above, the original warrant of sale shall be deemed to have specified that the sale is required to be held within the period of 6 months after the date when the latest report was made under subsection (2) above.
+
+#### 37 The warrant sale.
+
+(1) Where the warrant of sale does not appoint as auctioneer the officer of court appointed under section 31(2)(a) of this Act to conduct the warrant sale, that officer—
+
+(a) shall attend the sale and keep a record of any articles which are sold and the amount for which they are sold and of any articles whose ownership passes to the creditor under subsection (6) below; and
+
+(b) if the sale is to be held in premises other than an auction room, shall supervise the sale.
+
+(2) Where the officer of court appointed under section 31(2)(a) of this Act is appointed as auctioneer to conduct the sale, he shall be attended at the sale by one witness.
+
+(3) In the warrant sale there shall be no reserve price unless the creditor chooses to have one and, if he does so choose, it shall not exceed the value of the article fixed under section 20(4) of this Act.
+
+(4) The value of a poinded article fixed under section 20(4) of this Act and the reserve price, if any, fixed by the creditor under subsection (3) above need not be disclosed to any person bidding for the article.
+
+(5) In the warrant sale any poinded article exposed for sale may be purchased by—
+
+(a) any creditor, including the creditor on whose behalf the poinding was executed; or
+
+(b) a person who owns the article in common with the debtor.
+
+(6) Subject to subsection (7) below and without prejudice to the rights of any third party, where the sum recoverable has not been realised by the warrant sale, ownership of a poinded article which remains unsold after being exposed for sale shall pass to the creditor.
+
+(7) Without prejudice to the rights of any third party, where the warrant sale is held in premises belonging to the debtor, the ownership of a poinded article which has passed to the creditor under subsection (6) above shall revert to the debtor unless the creditor uplifts the article by 8 p.m. (or such other time as may be prescribed by Act of Sederunt)—
+
+(a) if the premises are a dwellinghouse in which the debtor is residing, on the day when the sale is completed;
+
+(b) in any other case, on the third working day following that day,
+
+and the officer of court may remain on or re-enter any premises (whether open, shut or lockfast) for the purpose of enabling the creditor to uplift any such article.
+
+(8) For the purposes of subsection (7) above “working day” means a day which is not—
+
+- Saturday;
+- Sunday;
+- 1st or 2nd January;
+- Good Friday;
+- Easter Monday;
+- 25th or 26th December;
+- a public holiday in the area in which the premises are situated.
+
+(9) Subject to subsection (10) below, where at the warrant sale any article is unsold or is sold at a price below the value fixed under section 20(4) of this Act, the debtor shall be credited with an amount equal to that valuation.
+
+(10) Where—
+
+(a) any damaged article has been revalued under section 20(4) of this Act on the authority of the sheriff given under section 29(2) of this Act;
+
+(b) the damage was not caused by the fault of the debtor; and
+
+(c) no order has been made under section 29(3) of this Act requiring a third party to consign a sum in respect of the article, or such an order has been made but has not been complied with,
+
+the amount credited to the debtor under subsection (9) above shall be an amount equal to the original valuation and not the revaluation referred to in paragraph (a) above.
+
+#### 38 Disposal of proceeds of sale.
+
+The officer of court appointed under section 31(2)(a) of this Act shall dispose of the proceeds of the warrant sale—
+
+(a) by paying to the creditor the proceeds so far as necessary to meet the sum recoverable (subject to any agreement between the officer of court and the creditor relating to the fees or outlays of the officer of court) or, if the sheriff so directs, by consigning such proceeds in court; and
+
+(b) by paying to the debtor any surplus remaining after the sum recoverable has been paid or, if the debtor cannot be found, by consigning such surplus in court.
+
+#### 39 Report of warrant sale.
+
+(1) The officer of court appointed under section 31(2)(a) of this Act shall within a period of 14 days after the date of completion of the warrant sale make to the sheriff a report in the form prescribed by Act of Sederunt (referred to in this Part of this Act as “the report of sale”) setting out—
+
+(a) any articles which have been sold and the amount for which they have been sold;
+
+(b) any articles which remain unsold;
+
+(c) the expenses chargeable against the debtor under Schedule 1 to this Act;
+
+(d) any surplus paid to the debtor; and
+
+(e) any balance due by or to the debtor.
+
+(2) The report of sale shall be signed by the officer of court and, if a witness was required to attend at the sale under section 37(2) of this Act, by that witness.
+
+(3) If an officer of court—
+
+(a) without reasonable excuse makes a report of sale after the expiry of the period mentioned in subsection (1) above; or
+
+(b) wilfully refuses or delays to make a report of sale after the expiry of that period,
+
+the sheriff may, without prejudice to his right to report the matter to the Court of Session or the sheriff principal under section 79(1)(b) of this Act, make an order that the officer of court shall be liable for the expenses chargeable against the debtor under Schedule 1 to this Act, either in whole or in part.
+
+(4) The report of sale shall be remitted by the sheriff to the auditor of court who shall—
+
+(a) tax the expenses chargeable against the debtor under Schedule 1 to this Act;
+
+(b) certify the balance due by or to the debtor following the poinding and sale; and
+
+(c) make a report to the sheriff,
+
+but shall not alter the amount of the expenses or of the balance referred to in paragraph (b) above without first giving all interested persons an opportunity to make representations.
+
+(5) On receipt of the auditor’s report, the sheriff may make an order—
+
+(a) declaring the balance due by or to the debtor, as certified by the auditor;
+
+(b) declaring such a balance after making modifications to the balance as so certified; or
+
+(c) if he is satisfied that there has been a substantial irregularity in the poinding and sale (other than the making of the report of sale after the expiry of the period mentioned in subsection (1) above), declaring the poinding and sale to be void, in which case (subject to subsection (9) below) he may make such consequential order as appears to him to be necessary in the circumstances,
+
+and the sheriff clerk shall intimate the sheriff’s order under this subsection to the debtor.
+
+(6) The sheriff shall not make an order under subsection (5)(b) or (c) above without first giving all interested persons an opportunity to be heard.
+
+(7) The auditor of court shall not be entitled to charge a fee in respect of his report.
+
+(8) The report of sale and the auditor’s report shall be retained by the sheriff clerk for the period prescribed by Act of Sederunt and during that period they shall be open for inspection in the sheriff clerk’s office by any interested person on payment of such fee as may be prescribed in an order made under section 2 of the [^M6]Courts of Law Fees (Scotland) Act 1895.
+
+(9) An order under subsection (5)(c) above shall not affect the title of a person to any article acquired by him at the warrant sale, or subsequently, in good faith and for value.
+
+(10) Any rule of law whereby the sheriff may refuse to receive the report of sale shall cease to have effect.
+
+### Articles belonging to third parties or in common ownership
+
+#### 40 Release from poinding of articles belonging to third party.
+
+(1) An officer of court may, at any time after the execution of a poinding and before the warrant sale, release an article from the poinding if—
+
+(a) he is satisfied that the article belongs to a third party; and
+
+(b) the debtor or other person in possession of the article does not deny that it belongs to the third party.
+
+(2) Where, on an application made to him by a third party, at any time after the execution of a poinding and before the warrant sale, the sheriff is satisfied that a poinded article belongs to that third party, he shall make an order releasing it from the poinding.
+
+(3) The making of an application under subsection (2) above shall not prejudice the taking of any other proceedings by the third party for the recovery of a poinded article belonging to him, and an order of the sheriff under that subsection shall not be binding in any other proceedings.
+
+(4) The release of a poinded article under subsection (1) above—
+
+(a) shall be mentioned in the next subsequent application (if any) which is made for warrant of sale or for variation of warrant of sale; or
+
+(b) if it takes place after an application for warrant of sale (or variation thereof) has been made and before it has been disposed of, shall be reported as soon as is reasonably practicable by the officer of court to the sheriff; or
+
+(c) in any other case, shall be mentioned in any report of sale.
+
+(5) Where an article has been released from a poinding under this section, an officer of court may, notwithstanding section 25 of this Act, poind other articles belonging to the debtor in the same premises.
+
+#### 41 Poinding and sale of articles in common ownership.
+
+(1) Articles which are owned in common by a debtor and a third party may be poinded and disposed of in accordance with this Part of this Act in satisfaction of the debts of that debtor.
+
+(2) Where, at any time after the execution of a poinding and before the warrant sale, a third party—
+
+(a) claims that a poinded article is owned in common by the debtor and himself; and
+
+(b) pays to the officer of court a sum equal to the value of the debtor’s interest in the article,
+
+the officer of court may, unless the debtor (or the person in possession of the article, if not the debtor) denies the claim, release the article from the poinding.
+
+(3) If, on an application made by a third party, at any time after the execution of a poinding and before the warrant sale, the sheriff is satisfied that a poinded article is owned in common by the debtor and that third party and either—
+
+(a) the third party undertakes to pay to the officer of court a sum equal to the value of the debtor’s interest in the article; or
+
+(b) the sheriff is satisfied that the continued poinding of that article or its sale under warrant of sale would be unduly harsh to the third party in the circumstances,
+
+he shall make an order releasing the article from the poinding.
+
+(4) A release under subsection (2) above or where subsection (3)(a) above applies shall not become effective until the granting by the officer of court of a receipt for payment in accordance therewith, when the debtor’s interest in the released article shall be transferred to the third party.
+
+(5) A release of a poinded article under subsection (2) above—
+
+(a) shall be mentioned in the next subsequent application (if any) which is made for warrant of sale or for variation of warrant of sale; or
+
+(b) if it takes place after an application for warrant of sale (or variation thereof) has been made and before it has been disposed of, shall be reported as soon as is reasonably practicable by the officer of court to the sheriff; or
+
+(c) in any other case, shall be mentioned in any report of sale.
+
+(6) Where an article is released in pursuance of subsection (3)(b) above from a poinding, an officer of court may, notwithstanding section 25 of this Act, poind other articles belonging to the debtor in the same premises.
+
+(7) This subsection applies where, at any time after the execution of a poinding, a third party claims that any of the poinded articles is owned in common by the debtor and himself but does not seek release of the article from the poinding, and either—
+
+(a) the claim is admitted by the creditor and the debtor; or
+
+(b) the claim is not admitted by both the creditor and the debtor, but the sheriff, on an application made to him, is satisfied that the claim is valid.
+
+(8) Where subsection (7) above applies, the creditor shall pay to the third party—
+
+(a) if the article is sold, the fraction of the proceeds of sale (or of the value of that article fixed under section 20(4) of this Act, whichever is the greater) which corresponds to the third party’s interest in the article;
+
+(b) if ownership of the article passes to the creditor in default of sale, the fraction of the value of the article fixed under section 20(4) of this Act which corresponds to the third party’s interest in the article.
+
+### Supplementary
+
+#### 42 Certain proceedings under Part II to postpone further steps in the diligence.
+
+(1) Where an application under any of the provisions of this Act listed in subsection (3) below has been made, it shall be not be competent during a relevant period to grant a warrant of sale in respect of the poinded articles, to remove them for sale or to hold a warrant sale.
+
+(2) Where subsection (1) above applies, a relevant period shall be disregarded in calculating—
+
+(a) the period within which a warrant sale is required to be held under section 31(2)(b) of this Act; or
+
+(b) the period on the expiry of which the poinding ceases to have effect under section 27 of this Act.
+
+(3) The provisions referred to in subsection (1) above are—
+
+(a) section 16(4), 23(1), 40(2) or 41(3) (release of poinded articles);
+
+(b) section 24(1) or (3) (invalidity, cessation or recall of poinding);
+
+(c) section 26(1) (sist of proceedings in poinding of mobile homes);
+
+(d) section 28(4) (restoration of articles removed without consent or authority);
+
+(e) section 28(5) (recall of order under section 28(4)).
+
+(4) In subsections (1) and (2) above “a relevant period” means—
+
+(a) the period while the application is pending;
+
+(b) where the application has been disposed of by the sheriff—
+
+(i) the period during which an application for leave to appeal may be made;
+
+(ii) where an application for leave to appeal is made, the period until leave has been refused or the application has been abandoned;
+
+(iii) where leave to appeal has been granted, the period during which an appeal may be made; or
+
+(iv) where an appeal against the decision is made, the period until the matter has been finally determined or the appeal has been abandoned.
+
+#### 43 Conjoining of further poinding with original poinding.
+
+(1) Subject to subsection (2) below, where a report of a further poinding by the same creditor to enforce the same debt executed in pursuance of section 9(12), 23(2), 28(2) or (6), 29(2), 40(5) or 41(6) of this Act has been received under section 22 of this Act, the sheriff shall, on an application made to him by the creditor or by an officer of court on his behalf, make an order conjoining the further poinding with the original poinding.
+
+(2) It shall not be competent for the sheriff to make an order under subsection (1) above—
+
+(a) where a warrant of sale has been granted in respect of the original poinding or the further poinding;
+
+(b) until 14 days after the date of execution of the further poinding; or
+
+(c) while an application under this Part of this Act in relation to the further poinding is pending or, where such an application has been disposed of by the sheriff—
+
+(i) until the period for leave to appeal has expired without an application for leave having been made;
+
+(ii) where an application for leave to appeal is made, until leave has been refused or the application has been abandoned;
+
+(iii) where leave to appeal has been granted, until the period for an appeal has expired without an appeal being made; or
+
+(iv) where an appeal against the decision is made, until the matter has been finally determined or the appeal has been abandoned.
+
+(3) Where the sheriff makes an order under subsection (1) above, it shall not thereafter be competent for him to grant any application for warrant of sale relating to the original poinding which is pending when the order is made.
+
+(4) The effect of an order under subsection (1) above shall be that thereafter the further poinding shall be treated for all purposes as if it were part of the original poinding, except that the references to a poinding being invalid or having ceased to have effect in sections 24(1), 30(2)(a)(i) and 35(2)(a) of this Act shall be construed as references to either poinding being invalid or having ceased to have effect.
+
+(5) The decision of the sheriff under subsection (1) above shall not be subject to appeal.
+
+#### 44 Expenses of poinding and sale.
+
+Schedule 1 to this Act shall have effect for the purposes of determining the liability, as between the creditor and the debtor, for expenses incurred in serving a charge and in the process of poinding and warrant sale.
+
+#### 45 Interpretation of Part II.
+
+In this Part of this Act—
+
+- “dwellinghouse” includes a caravan, a houseboat and any structure adapted for use as a residence;
+- “the poinding schedule” means the schedule provided for in section 20(5) of this Act;
+- “the report of sale” means the report provided for in section 39(1) of this Act;
+- “the sum recoverable” means the total of—
+
+(a) the amount outstanding of the sum due by the debtor under the decree or other document on which the diligence proceeds (including any interest thereon and any expenses decerned for);
+
+(b) any sum due under section 93(5) of this Act; and
+
+(c) any expenses which have been incurred in serving a charge and in the process of poinding and sale which are chargeable against the debtor under Schedule 1 to this Act.
+
+## PART III — DILIGENCE AGAINST EARNINGS
+
+### Introduction
+
+#### 46 New diligences against earnings.
+
+(1) The following diligences against earnings of a debtor in the hands of his employer shall replace the diligence of arrestment and action of furthcoming against such earnings—
+
+(a) a diligence, to be known as an “earnings arrestment”, to enforce the payment of any ordinary debt which is due as at the date of execution of the diligence;
+
+(b) a diligence, to be known as a “current maintenance arrestment”, to enforce the payment of current maintenance;
+
+(c) an order, to be known as a “conjoined arrestment order”, to enforce the payment of two or more debts owed to different creditors against the same earnings.
+
+(2) Any rule of law whereby there is exempted from arrestment of earnings of a debtor in the hands of his employer a reasonable amount for the subsistence of the debtor and his dependants shall cease to have effect.
+
+### Earnings arrestments
+
+#### 47 General effect of earnings arrestment.
+
+(1) Subject to section 69 of this Act, an earnings arrestment shall have the effect of requiring the employer of a debtor, while the arrestment is in effect, to deduct a sum calculated in accordance with section 49 [[^F148]or 49A] of this Act from the debtor’s net earnings on every pay-day and, as soon as is reasonably practicable, to pay any sum so deducted to the creditor.
+
+(2) Subject to sections 59 (priority among arrestments), 62 (relationship of conjoined arrestment order with certain other arrestments) and 90 (provisions relating to charges for payment) of this Act, an earnings arrestment—
+
+(a) shall[[^F149], subject to subsection (3) below,] come into effect on the date of its execution, being the date on which a schedule in the form prescribed by Act of Sederunt (to be known as an “earnings arrestment schedule”) is served on the employer; and
+
+(b) shall remain in effect until the debt recoverable has been paid or otherwise extinguished, the debtor has ceased to be employed by the employer, or the arrestment has been recalled or abandoned by the creditor or has for any other reason ceased to have effect.
+
+[[^F150](3) An earnings arrestment shall not come into effect unless, no earlier than 12 weeks before the date on which the earnings arrestment schedule is served, the creditor has provided the debtor with a debt advice and information package.
+
+(4) In this section and in sections 51(2A) and 60(3A) of this Act, “debt advice and information package” means the debt advice and information package referred to in section 10(5) of the Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17).]
+
+#### 48 Debt recoverable by earnings arrestment.
+
+(1) Subject to subsections (2) and (3) below, the debt recoverable by an earnings arrestment shall consist of the following sums, in so far as outstanding—
+
+(a) any ordinary debt and any expenses due under the decree or other document on which the earnings arrestment proceeds;
+
+(b) any interest on those sums which has accrued at the date of execution of the earnings arrestment; and
+
+(c) the expenses incurred in executing the earnings arrestment and the charge which preceded it.
+
+(2) In relation to arrears of maintenance, the ordinary debt referred to in subsection (1)(a) above shall be the amount of those arrears less any sum which the debtor is entitled to deduct from that amount under any enactment in respect of income tax.
+
+(3) Any sum mentioned in subsection (1) above shall be included in the debt recoverable only if, and to the extent that, it is specified in the earnings arrestment schedule.
+
+(4) It shall be competent for a creditor to enforce payment of more than one debt payable to him by the same debtor by means of a single earnings arrestment, whether the arrestment is executed in pursuance of the same warrant or of 2 or more different warrants authorising diligence.
+
+#### 49 Deductions from net earnings to be made by employer.
+
+(1) [[^F151]Subject to section 49A of this Act,] the sum to be deducted under section 47 of this Act on any pay-day shall be—
+
+(a) where the debtor’s earnings are payable weekly, the sum specified in column 2 of Table A in Schedule 2 to this Act opposite the band in column 1 of that Table within which his net earnings payable on that pay-day fall;
+
+(b) where his earnings are payable monthly, the sum specified in column 2 of Table B in that Schedule opposite the band in column 1 of that Table within which his net earnings payable on that pay-day fall;
+
+(c) where his earnings are payable at regular intervals of a whole number of weeks or months, the sum arrived at by—
+
+(i) calculating what would be his weekly or monthly net earnings by dividing the net earnings payable to him on the pay-day by that whole number (of weeks or months, as the case may be);
+
+(ii) ascertaining the sum specified in column 2 of Table A (if the whole number is of weeks) or of Table B (if the whole number is of months) in Schedule 2 to this Act opposite the band in column 1 of that Table within which the notional net earnings calculated under sub-paragraph (i) above fall; and
+
+(iii) multiplying that sum by the whole number (of weeks or months, as the case may be).
+
+(2) Where the debtor’s earnings are payable at regular intervals other than at intervals to which subsection (1) above applies, the sum to be deducted on any pay-day under section 47 of this Act shall be arrived at by—
+
+(a) calculating what would be his daily net earnings by dividing the net earnings payable to him on the pay-day by the number of days in the interval;
+
+(b) ascertaining the sum specified in column 2 of Table C in Schedule 2 to this Act opposite the band in column 1 of that Table within which the notional net earnings calculated under paragraph (a) above fall; and
+
+(c) multiplying that sum by the number of days in the interval.
+
+(3) Where the debtor’s earnings are payable at irregular intervals, the sum to be deducted on any pay-day under section 47 of this Act shall be arrived at by—
+
+(a) calculating what would be his daily net earnings by dividing the net earnings payable to him on the pay-day—
+
+(i) by the number of days since earnings were last paid to him; or
+
+(ii) if the earnings are the first earnings to be paid to him by the employer, by the number of days since he commenced his employment with the employer;
+
+(b) taking the sum specified in column 2 of Table C in Schedule 2 to this Act opposite the band in column 1 of that Table within which the notional net earnings calculated under paragraph (a) above fall; and
+
+(c) multiplying that sum by the number of days mentioned in paragraph (a) above.
+
+(4) Where on the same pay-day there are paid to the debtor both earnings payable at regular intervals and earnings which are not payable at regular intervals, for the purpose of arriving at the sum to be deducted on that pay-day under section 47 of this Act, all those earnings shall be aggregated and treated as earnings payable at the regular interval.
+
+(5) Where earnings payable to a debtor at regular intervals are paid to him on one pay-day and earnings which are not payable at regular intervals are paid to him on a different pay-day, the sum to be deducted on each of those pay-days under section 47 of this Act in respect of those earnings which are not paid at regular intervals shall be 20 per cent. of the net earnings paid to him on that pay-day.
+
+(6) Where earnings are paid to a debtor by 2 or more series of payments at regular intervals—
+
+(a) if the intervals are of different lengths—
+
+(i) for the purpose of arriving at the sum to be deducted under section 47 of this Act, whichever of subsections (1) and (2) above is appropriate shall apply to the series with the shortest interval; and
+
+(ii) in relation to the earnings paid in any other series, the said sum shall be 20 per cent. of the net earnings;
+
+(b) if the intervals are of the same length and payments in more than one series are payable on the same day—
+
+(i) the payments in those series shall be aggregated and whichever of subsections (1) and (2) above is appropriate shall apply to the aggregate; and
+
+(ii) paragraph (a)(ii) above shall apply to every other series;
+
+(c) if the intervals are of the same length and no 2 payments are payable on the same day paragraph (a)(i) above shall apply to such series as the employer may choose, and paragraph (a)(ii) above shall apply to every other series.
+
+(7) The Lord Advocate may, by regulations, vary—
+
+(a) Tables A, B and C of Schedule 2 to this Act;
+
+(b) the percentage specified in subsections (5) and (6)(a)(ii) above,
+
+and such regulations may make different provision for different cases.
+
+(8) Subject to section 69(1) and (2) of this Act, regulations under subsection (7) above shall not apply in relation to an existing earnings arrestment unless and until the creditor or the debtor intimates the making of the regulations to the employer in the form prescribed by Act of Sederunt.
+
+#### 49A [[^F152]Deductions where net earnings include holiday pay
+
+(1) This section applies where—
+
+(a) the debtor's earnings are paid at regular intervals; and
+
+(b) on one pay-day (in this section, the “normal pay-day”) there are paid to the debtor both—
+
+(i) earnings normally payable on that pay-day (in this section, “normal earnings”); and
+
+(ii) earnings such as are mentioned in subsection (2) below (in this section, “holiday pay”).
+
+(2) Holiday pay is earnings which—
+
+(a) are paid in respect of a period of annual leave or public holiday; and
+
+(b) would, were they not paid in respect of such leave or holiday, have been paid on a pay-day other than the normal pay-day.
+
+(3) In arriving at the sum to be deducted under section 47 of this Act on the normal pay-day, subsections (4) to (8) below shall apply.
+
+(4) Calculate in accordance with section 49 of this Act the sum, if any, which would be deducted from the normal earnings if the holiday pay had not been paid on the normal pay-day.
+
+(5) Where—
+
+(a) the debtor's normal earnings are payable weekly, monthly or at regular intervals of a whole number of weeks or months; and
+
+(b) all of the holiday pay relates to a whole number of weeks or months,
+
+the sum, if any, to be deducted from the holiday pay shall be the sum arrived at by applying sub-paragraphs (i) to (iii) of section 49(1)(c) of this Act to the holiday pay as if it were the net earnings mentioned in that sub-paragraph (i).
+
+(6) Where the debtor's normal earnings are payable weekly, monthly or at regular intervals of a whole number of weeks or months but part of the holiday pay relates to a whole number of weeks or months and part does not, the sum, if any, to be deducted from the holiday pay shall be the sum arrived at by—
+
+(a) in relation to the part of the holiday pay which relates to a whole number of weeks or months, applying subsection (5) above to that part;
+
+(b) in relation to the part of the holiday pay which does not relate to a whole number of weeks or months, applying paragraphs (a) to (c) of section 49(2) of this Act to that part of the holiday pay as if it were the net earnings mentioned in that paragraph (a); and
+
+(c) aggregating the sums arrived at as mentioned in paragraphs (a) and (b) above.
+
+(7) Where—
+
+(a) the debtor's normal earnings are payable weekly, monthly or at regular intervals of a whole number of weeks or months but none of the holiday relates to such a whole number of weeks or months; or
+
+(b) the debtor's normal earnings are payable at regular intervals other than at intervals to which paragraph (a) above applies,
+
+the sum, if any, to be deducted from the holiday pay shall be arrived at by applying paragraph (b) of subsection (6) above to the holiday pay.
+
+(8) Aggregate—
+
+(a) the deduction, if any, calculated under subsection (4) above; and
+
+(b) the deduction, if any, calculated under subsection (5), (6) or, as the case may be, (7) above.]
+
+#### 50 Review of earnings arrestment.
+
+(1) If the sheriff is satisfied that an earnings arrestment is invalid or has ceased to have effect he shall, on an application by the debtor or the person on whom the earnings arrestment schedule was served, make an order declaring that to be the case, and may make such consequential order as appears to him to be necessary in the circumstances; and the sheriff clerk shall intimate any order under this subsection to the debtor, the creditor and the person on whom the earnings arrestment schedule was served.
+
+(2) An order under subsection (1) above declaring that an arrestment is invalid or has ceased to have effect shall not be subject to appeal.
+
+(3) The sheriff, on an application by the debtor, the creditor or the employer, may make an order determining any dispute as to the operation of an earnings arrestment.
+
+(4) Without prejudice to section 57(5) of this Act, the sheriff, when making an order under subsection (3) above, may order—
+
+(a) the reimbursement of any payment made in the operation of the arrestment which ought not to have been made; or
+
+(b) the payment of any sum which ought to have been paid in the operation of the arrestment but which has not been paid.
+
+(5) An order under subsection (4) above shall require the person against whom it is made to pay interest on the sum to be paid by him under the order at the specified rate from such date as the sheriff shall specify in the order.
+
+### Current maintenance arrestments
+
+#### 51 General effect of current maintenance arrestment.
+
+(1) Subject to sections 58(2) and 69 of this Act, a current maintenance arrestment shall have the effect of requiring the employer of the debtor while the arrestment is in effect to deduct a sum calculated in accordance with section 53 of this Act from the debtor’s net earnings on every pay-day and as soon as is reasonably practicable to pay any sum so deducted to the creditor.
+
+(2) Subject to sections 59 and 62 of this Act, a current maintenance arrestment—
+
+(a) shall[[^F153], subject to subsection (2A) below,] come into effect on the date of its execution, being the date on which a schedule in the form prescribed by Act of Sederunt (to be known as a “current maintenance arrestment schedule”) is served on the employer of the debtor; and
+
+(b) shall remain in effect until the debtor has ceased to be employed by the employer concerned, or the arrestment has been recalled or abandoned by the creditor or has ceased to have effect under section 55(8) of this Act or for any other reason.
+
+[[^F154](2A) A current maintenance arrestment shall not come into effect unless, no earlier than 12 weeks before the date on which the current maintenance arrestment schedule is served, the creditor has provided the debtor with a debt advice and information package.]
+
+(3) The expenses incurred in executing a current maintenance arrestment shall be recoverable from the debtor as an ordinary debt.
+
+(4) Subject to section 52(2)(b) of this Act, a current maintenance arrestment schedule shall specify the maintenance payable by the debtor expressed as a daily rate.
+
+(5) For the purposes of subsection (4) above the daily rate shall be arrived at—
+
+(a) where the maintenance is paid monthly, by multiplying the monthly rate by 12 and dividing it by 365;
+
+(b) where it is paid quarterly, by multiplying the quarterly rate by 4 and dividing it by 365.
+
+(6) No interest shall accrue on any arrears of the maintenance which arise while a current maintenance arrestment is in effect.
+
+#### 52 Enforcement of 2 or more obligations to pay maintenance.
+
+(1) This section applies where one or more maintenance orders are in effect which provide for the payment by the same debtor to the same person (whether for his own benefit or for another person’s) of maintenance in respect of more than one individual.
+
+(2) Where this section applies—
+
+(a) all or any of the obligations to pay maintenance may be enforced by a single current maintenance arrestment against the same earnings; and
+
+(b) in that case, the current maintenance arrestment schedule shall specify one daily rate of maintenance, being the aggregate of the daily rates calculated in accordance with section 51(5) of this Act.
+
+#### 53 Deductions from net earnings to be made by employer.
+
+(1) The sum to be deducted from a debtor’s net earnings on a pay-day under section 51 of this Act shall be whichever is the lesser of the amounts mentioned in paragraphs (a) and (b) of subsection (2) below, less any sum which the debtor is entitled to deduct under any enactment in respect of income tax.
+
+(2) The amounts referred to in subsection (1) above are—
+
+(a) subject to subsections (3) and (5) below, a sum arrived at by multiplying the daily rate of maintenance (as specified in the current maintenance arrestment schedule) by the number of days—
+
+(i) since the last pay-day when a deduction was made in respect of the arrestment; or
+
+(ii) if there was no such pay-day, since the date of execution of the arrestment; or
+
+(b) any net earnings in so far as they exceed the sum of £[[^F155]24.66] per day for the number of days mentioned in paragraph (a) above.
+
+(3) The sum specified in subsection (2)(b) above may be varied by regulations made by the Lord Advocate and such regulations may make different provision for different cases.
+
+(4) Subject to section 69(1) and (2) of this Act, regulations under subsection (3) above shall not apply to an existing current maintenance arrestment unless and until the creditor or the debtor intimates the making of the regulations to the employer in the form prescribed by Act of Sederunt.
+
+(5) An employer operating a current maintenance arrestment shall be entitled, but shall not be required, to apply a change in the small maintenance payments limits before the creditor or the debtor intimates the change to the employer in the form prescribed by Act of Sederunt.
+
+(6) For the purposes of subsection (5) above, the small maintenance payment limits are the rates mentioned in section [[^F156]351(2)] of the [^M7]Income and Corporation Taxes Act [[^F156]1988].
+
+#### 54 Current maintenance arrestment to be preceded by default.
+
+(1) Subject to subsections (2) and (3) below, a current maintenance arrestment schedule may be served in pursuance of a maintenance order which is subsisting at the date of such service only if—
+
+(a) the creditor has intimated to the debtor in the manner prescribed by Act of Sederunt—
+
+(i) in the case of an order mentioned in paragraph (a) [^F157]... or (b) of the definition of “maintenance order” in section 106 of this Act, the making of the order;
+
+(ii) in the case of an order mentioned in paragraph (c), (e), (f), (g) [^F158]... [[^F159], (h) or (k)] thereof, the registration mentioned in the paragraph concerned;
+
+(iii) in the case of an order mentioned in paragraph (d) thereof, the confirmation of the order mentioned in that paragraph;
+
+(b) at least 4 weeks have elapsed since the date of intimation under paragraph (a) above; and
+
+(c) except where section 56 of this Act applies, at the time when it is proposed to serve the schedule, a sum not less than [[^F160]one instalment] of maintenance remains unpaid.
+
+(2) Subsection (1) above shall not apply where—
+
+(a) the maintenance order is one that has been registered in Scotland as mentioned in paragraph (c), (e), (f) [[^F161], (g)[^F162][[^F163]... or (k)]] of the said definition; and
+
+(b) a certificate of arrears (within the meaning of section 21 of the [^M8]Maintenance Orders (Reciprocal Enforcement) Act 1972) was produced to the court in Scotland which registered the order to the effect that at the time at which the certificate was issued the debtor was in arrears in his payment of instalments under the order.
+
+(3) Where a current maintenance arrestment which was validly executed has ceased to have effect otherwise than by virtue of its recall under section 55(2) of this Act, the creditor may within 3 months after the date when the arrestment ceased to have effect execute another current maintenance arrestment without complying with subsection (1) above.
+
+[[^F164](4) In subsections (1) and (2), “order” includes decision, settlement and instrument.
+
+[^F165]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+#### 55 Review and termination of current maintenance arrestment.
+
+(1) If the sheriff is satisfied, on an application by the debtor or the person on whom the current maintenance arrestment schedule was served, that a current maintenance arrestment is invalid or has ceased to have effect, he shall make an order declaring that to be the case, and may make such consequential order as appears to him to be necessary in the circumstances.
+
+(2) If the sheriff is satisfied, on an application by the debtor, that the debtor is unlikely to default again in paying maintenance, he may make an order recalling a current maintenance arrestment.
+
+(3) The sheriff clerk shall intimate any order made under subsection (1) or (2) above to the debtor, the creditor and the person on whom the current maintenance arrestment schedule was served.
+
+(4) An order under subsection (1) above declaring that an arrestment is invalid or has ceased to have effect or under subsection (2) above shall not be subject to appeal.
+
+(5) The sheriff, on an application by the debtor, the creditor or the employer, may make an order determining any dispute as to the operation of a current maintenance arrestment.
+
+(6) Without prejudice to section 57(5) of this Act, the sheriff, when making an order under subsection (5) above, may order—
+
+(a) the reimbursement of any payment made in the operation of the arrestment which ought not to have been made;
+
+(b) the payment of any sum which ought to have been paid in the operation of the arrestment but which has not been paid.
+
+(7) An order under subsection (6) above shall require the person against whom it is made to pay interest on the sum to be paid by him under the order at the specified rate, and such interest shall be payable as from such date as the sheriff shall specify in the order.
+
+(8) A current maintenance arrestment shall cease to have effect—
+
+(a) on the coming into effect of an order or decree which varies, supersedes or recalls a maintenance order which is being enforced by the arrestment;
+
+(b) on an obligation to pay maintenance under a maintenance order being so enforced ceasing or ceasing to be enforceable in Scotland.
+
+(9) In the case of an order mentioned in paragraph (c), (e), (f) [[^F166], (g)[[^F167][^F168]... or (k)]] of the definition of “maintenance order” in section 106 of this Act, the reference in subsection (8)(a) above to the coming into effect of an order or decree shall be construed as a reference to the registration of the order in Scotland.
+
+[[^F169](10) In subsections (8)(a) and (9), “order” includes decision, settlement and instrument.]
+
+#### 56 Effect of new maintenance order on current maintenance arrestment.
+
+(1) Where a maintenance order (referred to in this section as “the earlier order”) which is being enforced by a current maintenance arrestment is varied or superseded by an order or decree granted by a court in Scotland (referred to in this section as “the later order”), the later order may include a condition that it shall not come into effect until the earlier of—
+
+(a) the expiry of such period specified in the later order as the court considers necessary to allow notice to be given to the employer that the earlier order has been varied or superseded; or
+
+(b) the service of a new current maintenance arrestment schedule in pursuance of the later order.
+
+(2) Subsection (1) above shall not apply where the earlier order includes an order for the payment of aliment for the benefit of a spouse and the later order includes an order for the payment of a periodical allowance on divorce or on the granting of a declarator of nullity of marriage for the benefit of that spouse.
+
+### General
+
+#### 57 Failure to comply with arrestment, manner of payment and creditor’s duty when arrestment ceases to have effect.
+
+(1) Subject to section 69(4) of this Act, where an employer fails to comply with an earnings arrestment or a current maintenance arrestment—
+
+(a) he shall be liable to pay to the creditor any sum which he would have paid to him under section 47(1) or 51(1) of this Act if he had so complied; and
+
+(b) he shall not be entitled to recover any sum which he has paid to the debtor in contravention of the arrestment.
+
+(2) Subject to subsection (3) below, a creditor shall not be entitled to refuse to accept payment under section 47(1) or 51(1) of this Act which is tendered by cheque or by such other method as may be prescribed by Act of Sederunt.
+
+(3) If a cheque tendered in payment under section 47(1) or 51(1) of this Act is dishonoured or for any other reason the method of payment used by the employer is ineffectual, the creditor may insist that the payment concerned and any future payment under that provision shall be tendered in cash.
+
+(4) Where—
+
+(a) the debt recoverable under an earnings arrestment is paid or otherwise extinguished;
+
+(b) a current maintenance arrestment ceases to have effect under section 55(8) above; or
+
+(c) the debt being enforced by an earnings arrestment ceases to be enforceable by diligence,
+
+the creditor shall, as soon as is reasonably practicable, intimate that fact to the employer.
+
+(5) Where an event mentioned in subsection (4) above occurs, any sum paid by an employer—
+
+(a) under an earnings arrestment, in excess of the debt recoverable; or
+
+(b) under a current maintenance arrestment, in excess of the sum to be deducted under section 51(1) of this Act,
+
+shall be recoverable by the debtor from the creditor with interest on that sum at the specified rate.
+
+(6) Without prejudice to subsection (5) above, where a creditor has failed to comply with subsection (4) above the sheriff, on an application by the debtor, may make an order requiring the creditor to pay to the debtor an amount not exceeding twice the amount recoverable by the debtor under the said subsection (5).
+
+#### 58 Simultaneous operation of earnings and current maintenance arrestment.
+
+(1) Subject to subsection (2) below, one earnings arrestment and one current maintenance arrestment may be in effect simultaneously against earnings payable to the same debtor by the same employer.
+
+[[^F170](2) If on any pay-day N is less than S, the employer shall operate both the earnings arrestment and the current maintenance arrestment in accordance with subsection (3) below.
+
+(3) The employer shall—
+
+(a) for the purposes of section 47(1) of this Act, deduct the sum equal to—
+
+N × (E)/(S)
+
+; and
+
+(b) for the purposes of section 51(1) of this Act, deduct the sum equal to—
+
+N × (C)/(S)
+
+.
+
+(4) In subsections (2) and (3) above—
+
+- N is the amount of any net earnings in so far as they exceed the sum mentioned in subsection (2)(b) of section 53 of this Act for the number of days mentioned in subsection (2)(a) of that section;
+- E is the sum which the employer is required to deduct under section 47(1) of this Act;
+- C is the sum which the employer is required to deduct under section 51(1) of this Act; and
+- S is the total of E and C.]
+
+#### 59 Priority among arrestments.
+
+(1) While an earnings arrestment is in effect, any other earnings arrestment against the earnings of the same debtor payable by the same employer shall not be competent.
+
+(2) While a current maintenance arrestment is in effect, any other current maintenance arrestment against the earnings of the same debtor payable by the same employer shall not be competent.
+
+(3) Where an employer receives on the same day 2 or more earnings arrestment schedules or 2 or more current maintenance arrestment schedules relating to earnings payable by him to the same debtor—
+
+(a) if the employer receives the schedules at different times and he is aware of the respective times of receipt, only the earnings arrestment or, as the case may be, the current maintenance arrestment to which the first schedule he received relates shall have effect;
+
+(b) in any other case, only such one of the earnings arrestments or, as the case may be, current maintenance arrestments as he shall choose shall have effect.
+
+(4) Where a creditor (referred to in this section as “the second creditor”) serves on an employer an earnings arrestment schedule or, as the case may be, a current maintenance arrestment schedule and, by virtue of this section, the arrestment to which that schedule relates does not come into effect, the employer shall as soon as is reasonably practicable give the following information to the second creditor regarding any other earnings arrestment or current maintenance arrestment in effect against the earnings of the same debtor payable by the same employer—
+
+(a) the name and address of the creditor;
+
+(b) the date and place of execution; and
+
+(c) the debt recoverable specified in the earnings arrestment schedule or, as the case may be, the daily rate of maintenance specified in the current maintenance arrestment schedule.
+
+(5) If the employer fails without reasonable excuse to give information to the second creditor under subsection (4) above, the sheriff, on an application by the second creditor, may order the employer to give the required information to the second creditor.
+
+### Conjoined arrestment orders
+
+#### 60 Conjoined arrestment orders: general provision.
+
+(1) This section applies where at the date of an application under subsection (2) below—
+
+(a) there is in effect against the earnings of a debtor in the hands of a single employer an earnings arrestment or a current maintenance arrestment or (under section 58 of this Act) both; and
+
+(b) a creditor, who may be a creditor already enforcing a debt by an arrestment mentioned above, (referred to in this section as “a qualified creditor”) would be entitled, but for section 59(1) or (2) of this Act, to enforce his debt by executing an earnings arrestment or a current maintenance arrestment.
+
+(2) Subject to subsection (4) below, where this section applies the sheriff, on an application made by a qualified creditor, shall make a conjoined arrestment order.
+
+(3) A conjoined arrestment order shall—
+
+(a) recall any arrestment mentioned in subsection (1)(a) above so that it shall cease to have effect on the coming into effect of the order; and
+
+(b) require the employer concerned, while the order is in effect, to deduct a sum calculated in accordance with section 63 of this Act from the debtor’s net earnings on any pay-day and to pay it as soon as is reasonably practicable to the sheriff clerk.
+
+[[^F171](3A) It shall not be competent to make a conjoined arrestment order unless, no earlier than 12 weeks before the date of the application under subsection (2) above, the creditor has provided the debtor with a debt advice and information package.]
+
+(4) It shall not be competent to make a conjoined arrestment order—
+
+(a) where all the debts concerned are maintenance payable by the same debtor to the same person (whether for his own benefit or for another person’s) so that, if the existing current maintenance arrestment were abandoned, they could all be enforced under section 52(2)(a) of this Act; or
+
+(b) where there are only 2 debts, one an ordinary debt and one maintenance, so that they could be enforced under section 58(1) of this Act (one earnings arrestment and one current maintenance arrestment); or
+
+(c) where the same person is the creditor or person to whom any maintenance is payable (as described in paragraph (a) above) in relation to all the debts sought to be enforced by the order.
+
+(5) A conjoined arrestment order—
+
+(a) shall come into effect 7 days after a copy of it has been served on the employer under subsection (7) below; and
+
+(b) shall remain in effect until a copy of an order recalling the conjoined arrestment order has been served on the employer under section 66(7) of this Act or the debtor ceases to be employed by him.
+
+(6) A conjoined arrestment order shall be in the form prescribed by Act of Sederunt, and—
+
+(a) where an ordinary debt is to be enforced, the order shall specify the amount recoverable in respect of the debt under the order; and
+
+(b) where current maintenance is to be enforced, the order shall specify the maintenance expressed as a daily rate or, as the case may be, as an aggregate of the daily rates; and subsection (5) of section 51 of this Act shall apply for the purposes of this paragraph as it applies for the purposes of subsection (4) of that section.
+
+(7) The sheriff clerk shall as soon as is reasonably practicable serve a copy of the conjoined arrestment order on the employer and the debtor, and on the creditor in every arrestment mentioned in subsection (1)(a) above.
+
+(8) A decision of the sheriff making a conjoined arrestment order shall not be subject to appeal.
+
+(9) Subject to section 69(4) of this Act, where an employer fails to comply with a conjoined arrestment order—
+
+(a) the employer shall be liable to pay to the sheriff clerk any sum which he would have paid if he had so complied;
+
+(b) the employer shall not be entitled to recover any sum which he has paid to the debtor in contravention of the order; and
+
+(c) the sheriff, on an application by the sheriff clerk, may grant warrant for diligence against the employer for recovery of the sums which appear to the sheriff to be due.
+
+#### 61 Amount recoverable under conjoined arrestment order.
+
+(1) Subject to subsection (2) below, the amount recoverable under any conjoined arrestment order in respect of an ordinary debt shall consist of the following sums, in so far as outstanding—
+
+(a) any sum (including expenses) due under the decree or other document on which the creditor founds or, as the case may be, under section 51(3) of this Act;
+
+(b) any interest on that sum which had accrued at the date of execution of the arrestment or, where no arrestment was executed, at the date of the making of the conjoined arrestment order; and
+
+(c) where an earnings arrestment has been executed, the expenses of executing it and the charge which preceded it.
+
+(2) Any sum mentioned in subsection (1) above shall be recoverable only if and to the extent that—
+
+(a) it was specified in an earnings arrestment schedule in respect of an arrestment which is recalled under subsection (3)(a) of section 60 of this Act; or
+
+(b) it is specified in the application under subsection (2) of that section.
+
+(3) Where an obligation to pay maintenance is enforced by a conjoined arrestment order, no interest shall accrue on any arrears of maintenance which arise while the order is in effect.
+
+(4) Subject to subsection (5) below, a creditor who makes an application under section 60(2) of this Act shall be entitled to recover as an ordinary debt under any conjoined arrestment order which is made his expenses in connection with the application to the extent that they are specified in the application.
+
+(5) There shall not be recoverable under subsection (4) above any expenses incurred in serving an earnings arrestment schedule or a current maintenance arrestment schedule on the employer after the date of the application.
+
+#### 62 Relationship of conjoined arrestment order with earnings and current maintenance arrestments.
+
+(1) While a conjoined arrestment order is in effect, it shall not be competent to execute any earnings arrestment or current maintenance arrestment or for the sheriff to grant any other conjoined arrestment order against the earnings of the same debtor payable by the same employer.
+
+(2) If, while a conjoined arrestment order is in effect, a creditor whose debt is not being enforced by it serves an earnings arrestment schedule or a current maintenance arrestment schedule, against earnings payable to the debtor, on the employer, the employer shall as soon as is reasonably practicable inform that creditor which court made the order.
+
+(3) If, after an application is made under section 60(2) of this Act for a conjoined arrestment order and before any such order comes into effect, an earnings arrestment or a current maintenance arrestment against earnings payable by the employer to the debtor comes into effect under section 58(1) of this Act—
+
+(a) the arrestment shall cease to have effect when the conjoined arrestment order comes into effect; and
+
+(b) the employer shall, as soon as is reasonably practicable after the service of a copy of the conjoined arrestment order on him under section 60(7) of this Act, inform the creditor on whose behalf the arrestment was executed which court made the order.
+
+(4) If an employer fails without reasonable excuse to give information to a creditor under subsection (2) or (3) above, the sheriff, on an application by the creditor, may order the employer to give the required information to the creditor.
+
+(5) Where a conjoined arrestment order is in effect, the sheriff, on an application made by a creditor whose debt is not being enforced by the order and who, but for the order, would be entitled to enforce his debt by an earnings arrestment or a current maintenance arrestment, shall make an order varying the conjoined arrestment order so that the creditor’s debt is included among the debts enforced by the conjoined arrestment order; and section 61(1), (2), (4) and (5) of this Act shall apply in relation to an application under this subsection as it applies in relation to an application under section 60 of this Act.
+
+(6) The sheriff clerk shall as soon as is reasonably practicable serve a copy of an order under subsection (5) above on the debtor, the employer and the other creditors whose debts are being enforced by the conjoined arrestment order.
+
+(7) Subject to section 69(2) of this Act, an order under subsection (5) above shall come into effect 7 days after a copy of it has been served on the employer under subsection (6) above.
+
+(8) Section 60(6) of this Act shall apply to a conjoined arrestment order as varied under subsection (5) above as it applies to a conjoined arrestment order mentioned in that section.
+
+(9) A decision of the sheriff under subsection (5) above shall not be subject to appeal.
+
+#### 63 Sum payable by employer under conjoined arrestment order.
+
+(1) Subject to section 69(3) of this Act, this section shall have effect for the purpose of determining the sum to be deducted on a pay-day and paid to the sheriff clerk under a conjoined arrestment order.
+
+(2) Where all the debts are ordinary debts, the said sum shall be the sum which the employer would pay under section 47(1) of this Act if the debts were one debt being enforced on the pay-day by an earnings arrestment.
+
+(3) Where all the debts are current maintenance, the sum shall be whichever is the lesser of the amounts mentioned in paragraphs (a) and (b) of subsection (4) below, less any sum which the debtor is entitled to deduct under any enactment in respect of income tax.
+
+(4) The amounts referred to in subsection (3) above are—
+
+(a) the aggregate of the sums arrived at by multiplying each of the daily rates of maintenance (as specified in the conjoined arrestment order) by the number of days—
+
+(i) since the last pay-day when a deduction from earnings was made by the employer under section 51(1) or 60(3)(b) of this Act in respect of the maintenance obligation; or
+
+(ii) if there was no such previous pay-day, since the date when the conjoined arrestment order or any order under section 62(5) of this Act varying it came into effect; or
+
+(b) any net earnings in so far as they exceed the sum of £[[^F172]21.56] per day for the number of days mentioned in paragraph (a) above.
+
+(5) Where one or more of the debts are ordinary debts, and one or more are current maintenance, the sum shall be the aggregate of the following—
+
+(a) the sum which the employer would pay under section 47(1) of this Act if the ordinary debt was being enforced on the pay-day by an earnings arrestment (where there is more than one ordinary debt, treating the aggregate amount of them as if it were one debt); and
+
+(b) in relation to the debts which are current maintenance, the sum which would be payable under subsection (3) above if [[^F173]the only debts were the current maintenance debts] and so much of the debtor’s net earnings as are left after deduction of the sum provided for in paragraph (a) above were his whole net earnings.
+
+(6) The sum specified in subsection (4)(b) above may be varied by regulations made by the Lord Advocate and such regulations may make different provision for different cases.
+
+(7) The sheriff clerk shall intimate to the employer operating a conjoined arrestment order, in the form prescribed by Act of Sederunt, the making of regulations under section 49(7) of this Act or subsection (6) above; and, subject to section 69(1) and (2) of this Act, such regulations shall not apply to the conjoined arrestment order until such intimation.
+
+(8) An employer operating a conjoined arrestment order in relation to current maintenance shall be entitled, but shall not be required, to apply a change in the small maintenance payments limits before the sheriff clerk intimates the change to the employer in the form prescribed by Act of Sederunt.
+
+(9) For the purposes of subsection (8) above, the small maintenance payment limits are the rates mentioned in section [[^F174]351(2)] of the [^M9]Income and Corporation Taxes Act [[^F174]1988].
+
+(10) Subject to subsection (11) below, the sheriff clerk shall not be entitled to refuse to accept payment by the employer under section 60(3)(b) of this Act which is tendered by cheque or by such other method as may be prescribed by Act of Sederunt.
+
+(11) If a cheque tendered in payment under section 60(3)(b) of this Act is dishonoured or for any other reason the method of payment used is ineffectual, the sheriff clerk may insist that the payment for which the cheque was tendered and any future payment by the employer under the conjoined arrestment order shall be tendered in cash.
+
+#### 64 Disbursement by sheriff clerk of sums received from employer.
+
+Sums paid to the sheriff clerk under section 60(3)(b) of this Act shall be disbursed by him to the creditors whose debts are being enforced by the conjoined arrestment order in accordance with Schedule 3 to this Act.
+
+#### 65 Operation of conjoined arrestment order.
+
+(1) The sheriff may make an order determining any dispute as to the operation of a conjoined arrestment order, on an application by—
+
+(a) the debtor;
+
+(b) a creditor whose debt is being enforced by the order;
+
+(c) the employer; or
+
+(d) the sheriff clerk.
+
+(2) Without prejudice to subsection (6) below, the sheriff, when making an order under subsection (1) above, may order—
+
+(a) the reimbursement of any payment made in the operation of the conjoined arrestment order which ought not to have been made; or
+
+(b) the payment of any sum which ought to have been paid in the operation of the conjoined arrestment order but which has not been paid.
+
+(3) An order under subsection (2) above shall require the person against whom it is made to pay interest on the sum to be paid by him under the order at the specified rate from such date as the sheriff shall specify in the order.
+
+(4) Where an ordinary debt is being enforced by a conjoined arrestment order, the creditor shall, as soon as is reasonably practicable after the debt recoverable has been paid or otherwise extinguished, or the debt has ceased to be enforceable by diligence, intimate that fact to the sheriff clerk.
+
+(5) Where current maintenance is being enforced by a conjoined arrestment order, the creditor shall, as soon as is reasonably practicable after any obligation to pay such maintenance has ceased or has ceased to be enforceable by diligence, intimate that fact to the sheriff clerk.
+
+(6) Any sum received by a creditor under a conjoined arrestment order in respect of—
+
+(a) an ordinary debt, after the debt has been paid or otherwise extinguished or has ceased to be enforceable by diligence; or
+
+(b) current maintenance after the obligation to pay such maintenance has ceased or has ceased to be enforceable by diligence;
+
+shall be recoverable by the sheriff clerk from the creditor with interest on that sum at the specified rate.
+
+(7) Without prejudice to subsection (6) above, where the creditor has failed to comply with subsection (4) or (5) above the sheriff may, on an application by the debtor, make an order requiring the creditor to pay to the debtor an amount not exceeding twice the amount recoverable by the sheriff clerk under subsection (6) above.
+
+(8) Any amount recovered from a creditor by the sheriff clerk under subsection (6) above shall be disbursed by him to the creditors whose debts are being enforced by the conjoined arrestment order in accordance with Schedule 3 to this Act or, if there are no such creditors, shall be paid to the debtor.
+
+#### 66 Recall and variation of conjoined arrestment order.
+
+(1) The sheriff shall make an order recalling a conjoined arrestment order—
+
+(a) on an application by any of the persons mentioned in subsection (2) below, if he is satisfied—
+
+(i) that the conjoined arrestment order is invalid;
+
+(ii) that all the ordinary debts being enforced by the order have been paid or otherwise extinguished or have ceased to be enforceable by diligence and that all the obligations to pay current maintenance being so enforced have ceased or have ceased to be enforceable by diligence; or
+
+(iii) that the debtor’s estate has been sequestrated; or
+
+(b) on an application for recall of the order by all the creditors whose debts are being enforced by the order.
+
+(2) The persons referred to in subsection (1)(a) above are—
+
+(a) the debtor;
+
+(b) any creditor whose debt is being enforced by the order;
+
+(c) the person on whom a copy of the order or an order varying the order was served under section 60(7) or 62(6) of this Act;
+
+(d) the sheriff clerk;
+
+(e) if the debtor’s estate has been sequestrated, the interim trustee appointed under section [[^F175]55 of the Bankruptcy (Scotland) Act 2016 or the] trustee in the sequestration.
+
+(3) Where the sheriff recalls a conjoined arrestment order under subsection (1) above, he may make such consequential order as appears to him to be necessary in the circumstances.
+
+(4) Where—
+
+(a) any ordinary debt being enforced by a conjoined arrestment order is paid or otherwise extinguished or ceases to be enforceable by diligence; or
+
+(b) current maintenance is being so enforced and—
+
+(i) an order or decree comes into effect which varies, supersedes or recalls the maintenance order which is being enforced; or
+
+(ii) the obligation to pay maintenance has ceased or has ceased to be enforceable in Scotland,
+
+the sheriff, on an application by the debtor, any creditor whose debt is being enforced by the conjoined arrestment order, the employer or the sheriff clerk, may make an order varying the conjoined arrestment order appropriately.
+
+(5) In the case of an order mentioned in paragraph (c), (e), (f) [[^F176], (g)[[^F177][^F178]...) or (k)]] of the definition of “maintenance order” in section 106 of this Act, the reference in subsection (4)(b)(i) above to the coming into effect of an order shall be construed as a reference to the registration of the order in Scotland.
+
+(6) The sheriff may vary a conjoined arrestment order to give effect to a request by a creditor whose debt is being enforced by the order that it should cease to be so enforced.
+
+(7) The sheriff clerk shall as soon as is reasonably practicable serve a copy of any order under subsection (1), (3), (4) or (6) above on the debtor, the employer (or, where he is not the employer, the person mentioned in subsection (2)(c) above), any creditor whose debt is being enforced by the conjoined arrestment order and, if the conjoined arrestment order has been recalled on the ground of the sequestration of the debtor’s estate, the interim trustee or [^F179]... trustee in the sequestration, if known to the sheriff clerk.
+
+(8) Subject to section 103(6) of this Act, an order under subsection (3) above shall not come into effect until a copy of the order has been served on the employer under subsection (7) above.
+
+(9) An order under subsection (1) above shall not come into effect until a copy of the order has been served on the employer under subsection (7) above and shall not be subject to appeal.
+
+(10) An order under subsection (4) or (6) above shall come into effect 7 days after a copy of the order has been served on the employer under subsection (7) above.
+
+[[^F180](11) In subsections (4)(b) and (5), “order” includes decision, settlement and instrument.]
+
+### Supplementary provisions
+
+#### 67 Equalisation of diligences not to apply.
+
+Paragraph [[^F181]1 of schedule 7 of the Bankruptcy (Scotland) Act 2016] (equalisation of arrestments and poindings used within 60 days before, and 4 months after, apparent insolvency) shall not apply in relation to an earnings arrestment, a current maintenance arrestment or a conjoined arrestment order.
+
+#### [^F182]68 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 69 Restriction on liability of employer in operating diligence against earnings.
+
+(1) An employer operating an earnings arrestment or a current maintenance arrestment or a conjoined arrestment order shall be entitled to apply regulations made under section 49(7), 53(3) or 63(6) of this Act before receiving intimation under section 49(8), 53(4) or 63(7) of this Act of the making of the regulations.
+
+(2) Where a pay-day occurs within a period of 7 days after the date of—
+
+(a) service on the employer of an earnings arrestment schedule or a current maintenance arrestment schedule or a copy of a conjoined arrestment order or of a variation thereof; or
+
+(b) intimation under section 49(8), 53(4) or 63(7) of this Act to the employer of the making of regulations,
+
+the employer shall be entitled, but shall not be required, on that day to operate the arrestment or order or, as the case may be, to give effect to the regulations.
+
+(3) Where, in accordance with subsection (2) above, the employer on a pay-day (referred to below as “the previous pay-day”)—
+
+(a) does not operate an earnings arrestment, current maintenance arrestment or conjoined arrestment order; or
+
+(b) does not give effect to regulations,
+
+he shall not include in any sum deducted from the net earnings of the debtor on a subsequent pay-day under the arrestment or order any sum in respect of the debtor’s net earnings on the previous pay-day.
+
+(4) No claim may be made by—
+
+(a) the debtor or the creditor against the employer in respect of any deduction which has, or ought to have, been made by the employer from the debtor’s net earnings, or any payment which has been, or ought to have been, made by him, under an earnings arrestment or a current maintenance arrestment; or
+
+(b) the debtor, the sheriff clerk or any creditor against the employer in respect of any such deduction or payment which has been, or ought to have been, made under a conjoined arrestment order,
+
+more than one year after the date when the deduction or payment has, or ought to have, been made.
+
+(5) The employer shall not be liable to the debtor for any deduction made by him from the debtor’s net earnings—
+
+(a) under an earnings arrestment unless and until he receives intimation—
+
+(i) from the creditor under section 57(4) of this Act that the debt recoverable has been paid or otherwise extinguished or has ceased to be enforceable by diligence;
+
+(ii) from the sheriff clerk under section 9(7)(b) or 50(1) of this Act that an order has been made recalling the arrestment or, as the case may be, declaring that it is invalid or has ceased to have effect;
+
+(iii) that the debtor’s estate has been sequestrated; or
+
+(iv) from the creditor that he has abandoned the arrestment;
+
+(b) under a current maintenance arrestment unless and until he receives intimation—
+
+(i) from the creditor under section 57(4) of this Act that the arrestment has ceased to have effect;
+
+(ii) from the sheriff clerk under section 55(3) of this Act that an order has been made recalling the arrestment or declaring that the arrestment is invalid or has ceased to have effect;
+
+(iii) that the debtor’s estate has been sequestrated; or
+
+(iv) from the creditor that he has abandoned the arrestment.
+
+#### [^F183]70 Execution and intimation of copies.
+
+(1) When an officer of court serves an earnings arrestment schedule or a current maintenance arrestment schedule on the employer of the debtor he shall [[^F184]take all reasonably practicable steps to] intimate a copy of the schedule to the debtor.
+
+(2) Failure to intimate a copy of the schedule to the debtor shall not by itself render the arrestment invalid.
+
+(3) Service of any such schedule shall be by registered or recorded delivery letter or, if such a letter cannot be delivered, by any other competent mode of service.
+
+(4) The certificate of execution of an earnings arrestment or a current maintenance arrestment shall be signed by the officer of court who effected the service.
+
+[[^F185](4A) An employer on whom an earnings arrestment schedule or a current maintenance arrestment schedule is served shall, as soon as is reasonably practicable—
+
+(a) intimate a copy of it to the debtor; and
+
+(b) notify the debtor of—
+
+(i) the date on which the first deduction is made; and
+
+(ii) the sum so deducted.
+
+(4B) An employer on whom a copy of a conjoined arrestment order is served shall, as soon as is reasonably practicable, notify the debtor of the matters mentioned in sub-paragraphs (i) and (ii) of subsection (4A)(b) above.]
+
+(5) Section 17(1) of this Act shall apply to the service of an earnings arrestment schedule, a current maintenance arrestment schedule or a conjoined arrestment order as it applies to the execution of a poinding except where such service is by post.
+
+#### 70A [[^F186]Employer's duty to provide information
+
+(1) Where an employer receives, in relation to a debtor—
+
+(a) an earnings arrestment schedule;
+
+(b) a current maintenance arrestment schedule; or
+
+(c) a copy of a conjoined arrestment order,
+
+the employer shall, as soon as is reasonably practicable, send to the creditor or, in the case of a conjoined arrestment order, the sheriff clerk, the information mentioned in subsection (3) below.
+
+(2) The employer shall, provided the debt has not been extinguished, send, on or as soon as is reasonably practicable after the dates mentioned in subsection (4) below, to the creditor or, as the case may be, the sheriff clerk the information mentioned in subsection (3) below.
+
+(3) The information referred to in subsection (1) above is—
+
+(a) how the debtor is paid (whether weekly, monthly or otherwise);
+
+(b) the date of the debtor's pay-day next following—
+
+(i) where subsection (1) above applies, receipt of the schedule or order; or
+
+(ii) where subsection (2) above applies, the date mentioned in subsection (4) below;
+
+(c) the sum deducted on that pay-day and the net earnings from which it is so deducted; and
+
+(d) any other information which the Scottish Ministers may, by regulations, prescribe.
+
+(4) The dates referred to in subsection (2) above are—
+
+(a) the later of—
+
+(i) 6 April next following receipt of the schedule or order; or
+
+(ii) the day falling 6 months after receiving the schedule or order; and
+
+(b) each 6 April thereafter.
+
+(5) Notwithstanding subsections (1) and (2) above, the employer shall, if the debtor ceases for whatever reason to be employed by the employer, give notice, as soon as is reasonably practicable, to the creditor or, as the case may be, the sheriff clerk—
+
+(a) of that fact; and
+
+(b) in so far as is known to the employer, the name and address of any new employer of the debtor.
+
+(6) Where an employer sends information under subsection (1) or (2) above or gives notice under subsection (5) above, the employer shall, as soon as is reasonably practicable, send a copy of that information or notice to the debtor.
+
+#### 70B Failure to give notice under section 70A(5)
+
+(1) Where an employer fails without reasonable excuse to give notice under section 70A(5) of this Act, the sheriff may, on the application of any creditor, make an order requiring the employer—
+
+(a) to provide such information as is known to the employer as to the debtor's employment after ceasing to be employed by that employer;
+
+(b) to pay to the creditor an amount not exceeding twice the sum which the employer would have been required to deduct on the debtor's next pay-day had the debtor still been employed by that employer.
+
+(2) Where a sum is paid by virtue of an order under subsection (1)(b) above—
+
+(a) the debt owed by the debtor to the creditor shall be reduced by that sum; and
+
+(b) the employer shall not be entitled to recover that sum from the debtor.
+
+(3) An employer aggrieved by an order under subsection (1) above may, before the expiry of the period of 14 days beginning with the day on which the order is made, appeal, on point of law only, to the sheriff principal, whose decision shall be final.
+
+#### 70C Creditor's duty to provide information
+
+(1) A creditor who is receiving payment from a debtor by virtue of—
+
+(a) an earnings arrestment;
+
+(b) a current maintenance arrestment; or
+
+(c) a conjoined arrestment order,
+
+shall, provided the debt has not been extinguished, send, on or as soon as is reasonably practicable after the dates mentioned in subsection (2) below, to the employer or, in the case of a conjoined arrestment order, the sheriff clerk the information mentioned in subsection (3) below.
+
+(2) The dates referred to in subsection (1) above are—
+
+(a) the later of—
+
+(i) 6 April next following service of the schedule of arrestment or, as the case may be, order; or
+
+(ii) the day falling 6 months after the service of the schedule or order; and
+
+(b) each 6 April thereafter.
+
+(3) The information referred to in subsection (1) above is—
+
+(a) the sum owed by the debtor to the creditor;
+
+(b) the amounts received by the creditor by virtue of the arrestment or order; and
+
+(c) the dates of payment of those amounts.
+
+#### 70D Debtor's duty to provide information
+
+Where a debtor ceases to be employed by an employer who is deducting sums under this Part of this Act, the debtor shall give notice to the creditor or, where those sums are being deducted by virtue of a conjoined arrestment order, the sheriff clerk—
+
+(a) of that fact; and
+
+(b) of the name and address of any new employer.]
+
+#### 71 Employer’s fee for operating diligence against earnings.
+
+On any occasion on which an employer makes a payment to a creditor under an earnings arrestment or a current maintenance arrestment or to the sheriff clerk under a conjoined arrestment order, he may charge the debtor a fee of 50 pence or such other sum as may be prescribed in regulations made by the Lord Advocate which shall be deductible from the amount of the debtor’s net earnings after any deduction has been made from them under section 47, 51 or 60 of this Act.
+
+#### 72 Effect of sequestration on diligence against earnings.
+
+(1) This section shall have effect where a debtor’s estate is sequestrated.
+
+(2) Any existing earnings arrestment, current maintenance arrestment or, subject to subsection(3) below, conjoined arrestment order [[^F187]or deduction from earnings order under the Child Support Act 1991] shall cease to have effect on the date of sequestration.
+
+(3) Any sum paid by the employer to the sheriff clerk under a conjoined arrestment order on a pay-day occurring before the date of sequestration shall be disbursed by the sheriff clerk under section 64 of this Act notwithstanding that the date of disbursement is after the date of sequestration.
+
+[[^F188](3A) Any sum deducted by the employer under such a deduction from earnings order made before the date of sequestration shall be paid to the Secretary of State, notwithstanding that the date of payment will be after the date of sequestration.]
+
+(4) The execution of an earnings arrestment or the making of a conjoined arrestment order shall not be competent after the date of sequestration to enforce a debt in respect of which the creditor is entitled to make a claim in the sequestration.
+
+[[^F189](4A) A deduction from earnings order under the said Act shall not be competent after the date of sequestration to secure the payment of any amount due by the debtor under a [^F190]maintenance assessment [[^F190]maintenance calculation] within the meaning of that Act in respect of which a claim could be made in the sequestration.]
+
+(5) In this section “date of sequestration” has the same meaning as in section [[^F191]22(7) of the Bankruptcy (Scotland) Act 2016].
+
+#### 73 Interpretation of Part III.
+
+(1) In this Part of this Act—
+
+- “creditor”,in relation to maintenance, means the payee specified in the maintenance order or orders or anyone deriving title from the payee;
+
+- “current maintenance” means maintenance being deducted from earnings in accordance with section 53(1) or 63(3) or (5) of this Act;
+
+- [[^F192]“debt advice and information package” has the meaning given by section 47(4) of this Act;]
+
+- “debt recoverable” has the meaning given in section 48(1) of this Act;
+
+- “decree or other document” means —
+
+  - (a) a decree of the Court of Session or the sheriff or a document registered for execution in the Books of Council and Session or the sheriff court books;
+  - (b) a summary warrant, a warrant for the civil diligence or a bill protested for non-payment by a notary public;
+  - (c) an order or determination which by virtue of any enactment is enforceable as if it were an extract registered decree arbital bearing a warrant for execution issued by the sheriff;
+  - (d) a civil judgment granted outside Scotland by a court, tribunal or arbiter which by virtue of any enactment or rule of law is enforceable in Scotland; [^F193]...
+  - (e) [^M10]a document or settlement which by virtue of an Order in Council made under section 13 of the Civil Jurisdiction and Judgements Act 1982 is enforceable in Scotland,
+  - (f) [^F194]...
+  - (g) [[^F195]a maintenance arrangement (within the meaning of Article 3(e) of the Hague Convention) which is registered in the sheriff court under the Hague Convention,]
+
+  on which, or on an extract of which, an earnings arrestment, a current maintenance arrestment or a conjoined arrestment order is founded;
+
+- “earnings” has the meaning given in subsection (2) below;
+
+- “employer” means any person who pays earnings to a debtor under a contract of service or apprenticeship, but—
+
+  - (a) in relation to any sum payable as a pension within the meaning of subsection (2)(c) below, means the person paying that sum; and
+  - (b) where the employee is an officer of the Crown, means, subject to subsection (5) below, the chief officer in Scotland of the department or other body concerned,
+
+  and “employee”, “employed” and “employment” shall be construed accordingly;
+
+- “net earnings” means the earnings which remain payable to the debtor after the employer has deducted any sum which he is required to deduct in respect of—
+
+  - (a) income tax;
+  
+  - (b) [^M11]primary class 1 contributions under Part I of the Social Security Act 1975;
+  
+  - (c) amounts deductible under any enactment, or in pursuance of a request in writing by the debtor, for the purposes of a superannuation scheme [[^F196] , namely any enactment, rules, deed or other instrument providing for the payment of annuities or lump sums—
+  
+    - (i) to the persons with respect to whom the instrument has effect on their retirement at a specified age or on becoming incapacitated at some earlier age, or
+    - (ii) to the personal representatives or the widows, relatives or dependants of such persons on their death or otherwise,
+
+  whether with or without any further or other benefit;]
+
+  - (d) [^F197][any amount deductible by virtue of a deduction from earnings order which, in terms of regulations made under section 32(4)(c) of the Child Support Act 1991, is to have priority over diligences against earnings.]
+
+  - “ordinary debt” means any debt (including a fine or any sum due under an order of court in criminal proceedings in respect of which a warrant for civil diligence has been issued, arrears of maintenance and the expenses of current maintenance arrestments) other than current maintenance;
+  - “pay-day” means a day on which the employer of a debtor pays earnings to the debtor;
+  - “sheriff”, in relation to an application—
+
+  - (a) under section 50(1) or (3), 55(1), (2) or (5) or 57(6) of this Act, means the sheriff having jurisdiction—
+  
+    - (i) over the place where the earnings arrestment or the current maintenance arrestment to which the application relates was executed; or
+    - (ii) if that place is unknown to the applicant, over an established place of business of the debtor’s employer;
+  
+  - (b) under section 59(5) or 62(4), means the sheriff having jurisdiction over the place where a creditor serves an earnings arrestment or a current maintenance arrestment schedule in relation to an arrestment which is not competent by reason of section 59 or 62 of this Act;
+  
+  - (c) under section 60(2), means the sheriff having jurisdiction over
+  
+    - [[^F198]the place where the debtor is principally employed;
+    - where that place is outside Scotland, any other place where the debtor is employed; or
+    - where neither sub-paragraph (i) nor sub-paragraph (ii) above applies, the place where the debtor is domiciled.]
+  
+  - (d) under section 60(9)(c), 62(5), 65 or 66 means the sheriff who made the conjoined arrestment order;
+
+  - “specified rate”, in relation to interest—
+
+  - (a) [^M12]included in a decree, order or extract, means the rate specified in such decree, order or extract (or deemed to be so specified by virtue of section 9 of the Sheriff Courts (Scotland) Extracts Act 1892);
+  - (b) not included in a decree, order or extract, means the rate for the time being specified by virtue of that section.
+
+(2) Subject to subsection (3) below, in this Part of this Act “earnings” means any sums payable to the debtor—
+
+(a) as wages or salary;
+
+(b) as fees, bonuses, commission or other emoluments payable under a contract of service or apprenticeship;
+
+(c) as a pension, including a pension declared to be alimentary, an annuity in respect of past services, (whether or not the services were rendered to the person paying the annuity), and any periodical payments of compensation for the loss, abolition, relinquishment, or diminution in earnings of any office or employment; or
+
+(d) as statutory sick pay.
+
+(3) The following shall not be treated as earnings—
+
+(a) a pension or allowance payable in respect of disablement or disability;
+
+(b) any sum the assignation of which is precluded by [[^F199]section 356 of the Armed Forces Act 2006] [[^F200]unless it is a sum consisting of pay or allowance payable by his employer to him as a special member of a reserve force (within the meaning of the Reserve Forces Act 1996)];
+
+[^F201]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(d) any occupational pension payable under any enactment which precludes the assignation of the pension or exempts it from diligence;
+
+[[^F202](da) a tax credit (within the meaning of the Tax Credits Act 2002);]
+
+(e) a pension, allowance or benefit payable under any enactment relating to social security;
+
+(f) a guaranteed minimum pension within the meaning of the [^M13]Social Security Pensions Act 1975;
+
+(g) a redundancy payment within the meaning of [[^F203]the Employment Rights Act 1996].
+
+[^F204]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) Any question arising as to who is the chief officer in Scotland of a department or body referred to in paragraph (b) of the definition of “employer” in subsection (1) above shall be referred to and determined by the Minister for the Civil Service, and a document purporting to set out a determination of the Minister and signed by an official of the Minister shall be sufficient evidence of that determination.
+
+## [^F205][[^F205]Part 3A — Arrestment and action of furthcoming
+
+### 73A Arrestment and action of furthcoming to proceed only on decree or document of debt
+
+(1) Arrestment and action of furthcoming or sale shall be competent only in execution of—
+
+(a) subject to subsection (2) below, a decree; or
+
+(b) a document of debt.
+
+(2) Arrestment and action of furthcoming or sale in execution of a summary warrant shall be competent only if—
+
+(a) the debtor has been charged to pay the debt due by virtue of the summary warrant; and
+
+(b) the period for payment specified in the charge has expired without payment being made.
+
+(3) Any rule of law, having effect immediately before the coming into force of this section, as to the decrees or documents on which arrestment and action of furthcoming or sale can proceed shall, in so far as inconsistent with this section, cease to have effect.
+
+(4) In this Part of this Act—
+
+- “decree” means—
+
+  - (a) a decree of the Court of Session, of the High Court of Justiciary or of the sheriff;
+  - (b) a decree of the Court of Teinds;
+  - (c) a summary warrant;
+  - (d) a civil judgment granted outside Scotland by a court, tribunal or arbiter which by virtue of any enactment or rule of law is enforceable in Scotland;
+  - (da) [^F206]...
+  - (e) an order or determination which by virtue of any enactment is enforceable as if it were an extract registered decree arbitral bearing a warrant for execution issued by the sheriff;
+  - (f) a warrant granted, in criminal proceedings, for enforcement by civil diligence; or
+  - (g) a liability order within the meaning of section 33(2) of the Child Support Act 1991 (c. 48),
+
+  being a decree, warrant, judgment, order or determination which, or an extract of which, authorises arrestment and action of furthcoming or sale; and
+
+- “document of debt” means—
+
+  - (a) a document registered for execution in the Books of Council and Session or the sheriff court books; [^F207]...
+  - (b) a document or settlement which by virtue of an Order in Council under section 13 of the Civil Jurisdiction and Judgments Act 1982 (c. 27) is enforceable in Scotland,
+  - (c) [^F208]...
+  - (d) [[^F209]a maintenance arrangement (within the meaning of Article 3(e) of the Hague Convention) which is registered in the sheriff court under the Hague Convention,]
+
+  [[^F210]being a document, settlement, instrument or arrangement] which, or an extract of which, authorises arrestment and action of furthcoming or sale.
+
+(5) The Scottish Ministers may, by order, modify the definitions of “decree” and “document of debt” in subsection (4) above so as to—
+
+(a) add or remove types of decree or document to or, as the case may be, from those referred to in that provision; or
+
+(b) vary any of the descriptions of the types of decree or document there referred to.
+
+### 73B Schedule of arrestment to be in prescribed form
+
+(1) This section applies where a creditor arrests in execution of —
+
+(a) a decree and the creditor has not executed an arrestment on the dependence of the action; or
+
+(b) a document of debt.
+
+(2) The schedule of arrestment used in executing the arrestment shall be in (or as nearly as may be in) the form prescribed by the Scottish Ministers by regulations.
+
+### 73C Arrestment on the dependence followed by decree
+
+(1) This section applies where a creditor obtains a decree (in this Part of this Act referred to as a “final decree”) in an action on the dependence of which the creditor has executed an arrestment.
+
+(2) The creditor shall, as soon as reasonably practicable, serve a copy of that final decree, in (or as nearly as may be in) the form prescribed by Act of Sederunt, on the arrestee.
+
+### 73D [^F205]Debt advice and information
+
+(1) This section applies where—
+
+(a) a creditor—
+
+(i) obtains a final decree in an action on the dependence of which the creditor has executed an arrestment; or
+
+(ii) arrests in execution of a decree or document of debt; and
+
+(b) the debtor is an individual.
+
+(2) The creditor shall, during the period of 48 hours beginning with the time at which the copy of the final decree is served under section 73C(2) of this Act or, as the case may be, the time at which the schedule of arrestment is served, provide the debtor with a debt advice and information package.
+
+(3) Where the creditor fails to comply with subsection (2) above, the arrestment shall cease to have effect or, as the case may be, shall be incompetent.
+
+(4) In this section, “debt advice and information package” has the meaning given by section 47(4) of this Act.
+
+### 73E Funds attached
+
+(1) Subsections (2) to (5) below apply—
+
+(a) where a creditor arrests in execution of —
+
+(i) a decree and the creditor has not executed an arrestment on the dependence of the action; or
+
+(ii) a document of debt; and
+
+(b) only to the extent that the arrestee holds funds due to the debtor the value of which, at the time the arrestment is executed, is or can be ascertained (whether or not that arrestee also holds other moveable property of the debtor).
+
+(2) Subject to subsection (4) below and to section 73F of this Act, the funds mentioned in subsection (1)(b) above attached by the arrestment shall be the lesser of—
+
+(a) the sum due by the arrestee to the debtor; or
+
+(b) the aggregate of—
+
+(i) the principal sum, in relation to which the decree or document is executed, owed by the debtor to the creditor;
+
+(ii) any judicial expenses chargeable against the debtor by virtue of the decree;
+
+(iii) the expenses of executing the arrestment;
+
+(iv) interest on the principal sum up to and including the date of service of the schedule of arrestment;
+
+(v) the interest on the principal sum which would be accrued in the period of 1 year beginning with the day after the date mentioned in sub-paragraph (iv) above;
+
+(vi) any interest on the expenses of executing the arrestment which is chargeable against the debtor; and
+
+(vii) any sum prescribed under subsection (3) below.
+
+(3) The Scottish Ministers may, by regulations, prescribe a sum which appears to them to be reasonable having regard to the average expenses likely to be incurred and chargeable against a debtor in a typical action of furthcoming.
+
+(4) Where—
+
+(a) the arrestee holds both funds due to and other moveable property of the debtor; and
+
+(b) the sum mentioned in paragraph (b) of subsection (2) above exceeds the sum mentioned in paragraph (a) of that subsection,
+
+the arrestment shall, in addition to the funds equal to the sum mentioned in that paragraph (a), attach the whole moveable property so held.
+
+(5) Except as provided for in subsection (4) above, an arrestment to which this section applies shall not attach any moveable property of the debtor other than the sum attached under subsection (2) above.
+
+(6) Where, in a case to which subsections (2) to (5) above apply—
+
+(a) in addition to the funds mentioned in subsection (1)(b) above, the arrestee holds funds due to the debtor the value of which is not or cannot be ascertained; and
+
+(b) the sum mentioned in paragraph (a) of subsection (2) above exceeds the sum mentioned in paragraph (b) of that subsection,
+
+the arrestment shall not attach any of the funds mentioned in paragraph (a) above.
+
+### 73F Protection of minimum balance in certain bank accounts
+
+(1) Subject to subsection (2) below, this section applies where—
+
+(a) a creditor arrests—
+
+(i) in pursuance of a warrant granted for diligence on the dependence of an action; or
+
+(ii) in execution of a decree or document of debt;
+
+(b) the arrestment attaches funds standing to the credit of a debtor in an account held by a bank or other financial institution; and
+
+(c) the debtor is an individual.
+
+(2) This section does not apply where the account is—
+
+(a) held in the name of a company, a limited liability partnership, a partnership or an unincorporated association; or
+
+(b) operated by the debtor as a trading account.
+
+(3) The arrestment shall—
+
+(a) in a case where the sum standing to the credit of the debtor exceeds the sum [[^F211]of £1,000], attach only the balance above that sum; and
+
+(b) in any other case, attach no funds.
+
+[^F212]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In subsection (1) above, “bank or other financial institution” means—
+
+(a) the Bank of England;
+
+(b) a person who has permission under [[^F213]Part 4A] of the Financial Services and Markets Act 2000 (c. 8) to accept deposits;
+
+(c) an EEA firm of the kind mentioned in paragraph 5(b) of Schedule 3 to that Act which has permission under paragraph 15 of that schedule (as a result of qualifying for authorisation under paragraph 12 of that schedule) to accept deposits; or
+
+(d) a person who is exempt from the general prohibition in respect of accepting deposits as a result of an exemption order made under section 38(1) of that Act,
+
+and the expressions in this definition shall be read with section 22 of that Act, any relevant order made under that section and Schedule 2 to that Act.
+
+(6) The Scottish Ministers may, by regulations—
+
+(a) modify subsection (2) above so as to—
+
+(i) add or remove types of account to or, as the case may be, from those referred to in that paragraph; or
+
+(ii) vary any of the descriptions of the types of account there referred to; [^F214]...
+
+[[^F215](aa) vary the protected minimum sum mentioned in subsection (3)(a), and]
+
+(b) modify the definition of “bank or other financial institution” in subsection (5) above so as to—
+
+(i) add or remove types of financial institution to or, as the case may be, from those referred to in that provision; or
+
+(ii) vary any of the descriptions of the types of institution there referred to.
+
+### 73G [^F205]Arrestee's duty of disclosure
+
+(1) This section applies where a creditor arrests—
+
+(a) in pursuance of a warrant granted for diligence on the dependence of an action; or
+
+(b) in execution of a decree or document of debt.
+
+(2) The arrestee shall, before the expiry of the period mentioned in subsection (3) below, send to the creditor in (or as nearly as may be in) the form prescribed by the Scottish Ministers by regulations, the information mentioned in subsection (4) below.
+
+(3) The period referred to in subsection (2) above is the period of 3 weeks beginning with the day on which the arrestment is executed.
+
+(4) The information referred to in subsection (2) above is—
+
+(a) where any property, other than funds due to the debtor, is attached—
+
+(i) the nature of that property; and
+
+(ii) the value of it in so far as known to the arrestee; and
+
+(b) where any such funds are attached, the nature and value of those funds.
+
+(5) The arrestee shall, at the same time as sending, under subsection (2) above, the information to the creditor, send a copy of it to—
+
+(a) the debtor; and
+
+(b) in so far as known to the arrestee, any person—
+
+(i) who owns or claims to own attached property; or
+
+(ii) to whom attached funds are or are claimed to be due,
+
+solely or in common with the debtor.
+
+### 73H Failure to disclose information
+
+(1) Where an arrestee fails without reasonable excuse to send the prescribed form under section 73G(2) of this Act, the sheriff may, on the application of the creditor, make an order requiring the arrestee to pay to the creditor—
+
+(a) the sum due to the creditor by the debtor; or
+
+(b) the sum mentioned in section 73F(4) of this Act,
+
+whichever is the lesser.
+
+(2) Where the arrestee fails to send the prescribed form in relation to an arrestment on the dependence of an action, the sheriff—
+
+(a) may not make an order under subsection (1) above until the creditor has served a copy of the final decree under section 73C(2) above; and
+
+(b) may deal with the failure as a contempt of court.
+
+(3) Where a sum is paid by virtue of an order under subsection (1) above—
+
+(a) the debt owed by the debtor to the creditor shall be reduced by that sum; and
+
+(b) the arrestee shall not be entitled to recover that sum from the debtor.
+
+(4) An arrestee aggrieved by an order under subsection (1) above may, before the expiry of the period of 2 weeks beginning with the day on which the order is made, appeal, on point of law only, to the sheriff principal, whose decision shall be final.
+
+### 73J [^F205]Automatic release of arrested funds
+
+(1) This section applies where—
+
+(a) a creditor—
+
+(i) obtains a final decree in an action on the dependence of which the creditor has executed an arrestment; or
+
+(ii) arrests in execution of a decree or document of debt; and
+
+(b) the arrestment attaches funds which are due to the debtor (whether or not it also attaches other moveable property of the debtor).
+
+(2) Subject to section 73L of this Act, the arrestee—
+
+(a) shall, on the expiry of the period mentioned in subsection (3) below, release to the creditor, from the attached funds, a sum calculated in accordance with section 73K of this Act; and
+
+(b) may, where a mandate authorises the arrestee to do so, release that sum before the expiry of that period.
+
+(3) The period referred to in subsection (2) above is the period of 14 weeks beginning with the date of service of a copy of the final decree under section 73C(2) of this Act or, as the case may be, the date of service of the schedule of arrestment.
+
+(4) In this section and in sections 73K to 73P of this Act, references to funds or sums due to or by any person do not include references to funds or sums due in respect of future or contingent debts.
+
+### 73K Sum released under section 73J(2)
+
+The sum released under section 73J(2) of this Act is the lowest of—
+
+(a) the sum attached by the arrestment;
+
+(b) the sum due by the arrestee to the debtor; or
+
+(c) the aggregate of—
+
+(i) the principal sum, in relation to which the decree or document is executed or, as the case may be, which is decerned for in the final decree, owed by the debtor to the creditor;
+
+(ii) any judicial expenses chargeable against the debtor by virtue of the decree or final decree;
+
+(iii) the expenses of executing the arrestment;
+
+(iv) interest on the principal sum up to and including the date of service of the schedule of arrestment or, as the case may be, the date of the final decree;
+
+(v) the interest on the principal sum which would be accrued in the period beginning with the day after the date mentioned in sub-paragraph (iv) above and ending on the day on which the funds are released under section 73J(2) of this Act; and
+
+(vi) any interest on the expenses of executing the arrestment which is chargeable against the debtor.
+
+### 73L Circumstances preventing automatic release
+
+(1) No funds may be released under section 73J(2) of this Act where—
+
+(a) a person mentioned in subsection (2) below applies, by notice of objection, to the sheriff under section 73M(1) of this Act;
+
+(b) the debtor applies to the sheriff under section 73Q(2) of this Act;
+
+(c) an action of multiplepoinding is raised in relation to the funds attached by the arrestment; or
+
+(d) the arrestment is—
+
+(i) recalled;
+
+(ii) restricted; or
+
+(iii) otherwise ceases to have effect.
+
+(2) The persons referred to in subsection (1)(a) above are—
+
+(a) the debtor;
+
+(b) the arrestee; and
+
+(c) any other person to whom the funds are due solely or in common with the debtor (in this section and in sections 73M and 73N of this Act, the “third party”).
+
+### 73M Notice of objection
+
+(1) Where section 73J of this Act applies—
+
+(a) the debtor;
+
+(b) the arrestee; or
+
+(c) a third party,
+
+may, by notice of objection, apply to the sheriff for an order recalling or restricting the arrestment.
+
+(2) The notice of objection referred to in subsection (1) above shall—
+
+(a) be in (or as nearly as may be in) the form prescribed by Act of Sederunt;
+
+(b) be given to the persons mentioned in subsection (3) below before the expiry of the period of 4 weeks beginning with the date of service of a copy of the final decree under section 73C(2) of this Act or, as the case may be, the date of service of the schedule of arrestment; and
+
+(c) specify one or more of the grounds of objection mentioned in subsection (4) below.
+
+(3) The persons referred to in subsection (2)(b) above are—
+
+(a) the creditor;
+
+(b) the sheriff clerk;
+
+(c) the debtor or, as the case may be, the arrestee; and
+
+(d) in so far as known to the person objecting, any third party.
+
+(4) The grounds of objection referred to in subsection (2)(c) above are—
+
+(a) the warrant in execution of which the arrestment was executed is invalid;
+
+(b) the arrestment has been executed incompetently or irregularly;
+
+(c) the funds attached are due to the third party solely or in common with the debtor.
+
+(5) Where a person applies by notice of objection under subsection (1) above, that person may not, subject to subsection (6) below, raise—
+
+(a) an action of multiplepoinding; or
+
+(b) subject to subsection (7) below, any other proceedings,
+
+in relation to the funds attached.
+
+(6) Subsection (5) above is without prejudice to the right of the person—
+
+(a) to enter any such action or proceedings raised by any other person; and
+
+(b) to raise such an action or proceedings where the sheriff makes, under section 73N(5) of this Act, an order sisting the proceedings on the objection.
+
+(7) A debtor who applies by notice of objection under subsection (1) above may apply to the sheriff under section 73Q(2) of this Act and, in such a case, the sheriff may deal with both applications at one hearing.
+
+### 73N Hearings following notice of objection
+
+(1) Subject to subsection (5) below, before the expiry of the period of 8 weeks beginning with the day on which an application by notice of objection is made under section 73M(1) of this Act, the sheriff shall hold a hearing to determine the objection.
+
+(2) At the hearing under subsection (1) above, the sheriff shall not make any order without first giving—
+
+(a) the creditor;
+
+(b) the arrestee;
+
+(c) the debtor; and
+
+(d) any third party,
+
+an opportunity to be heard.
+
+(3) Where the sheriff upholds the objection, the sheriff may make an order recalling or restricting the arrestment.
+
+(4) Where the sheriff rejects the objection, the sheriff may make an order requiring a sum determined in the order to be released to the creditor—
+
+(a) in a case where the period mentioned in section 73J(3) of this Act has not expired, on the expiry of that period; or
+
+(b) in any other case, as soon as reasonably practicable after the date on which the order is made.
+
+(5) Where—
+
+(a) the sheriff is satisfied that it is more appropriate for the matters raised at the hearing to be dealt with by—
+
+(i) an action of multiplepoinding; or
+
+(ii) other proceedings,
+
+raised in relation to the funds attached; or
+
+(b) at any time before a decision is made under subsections (3) or (4) above, such an action is or other proceedings are raised,
+
+the sheriff shall make an order sisting the proceedings on the objection.
+
+(6) The sheriff may make such other order as the sheriff thinks fit.
+
+(7) Where the sheriff makes an order under this section, the sheriff shall order the person who objected to intimate that order to such of the persons mentioned in subsection (2) above as the sheriff thinks fit.
+
+(8) A person aggrieved by a decision of the sheriff under this section may, before the expiry of the period of 14 days beginning with the day on which the decision is made, appeal, on point of law only, to the sheriff principal, whose decision shall be final.
+
+### 73P Arrestee not liable for funds released in good faith
+
+Where an arrestee releases funds under section 73J(2) of this Act in good faith but—
+
+(a) the warrant in execution of which the arrestment was executed is invalid; or
+
+(b) the arrestment was incompetently or irregularly executed,
+
+the arrestee is not liable to the debtor or to any other person having an interest in the funds for damages for patrimonial loss caused by the release of funds.
+
+### 73Q Application for release of property where arrestment unduly harsh
+
+(1) This section applies where—
+
+(a) a creditor—
+
+(i) obtains final decree in an action on the dependence of which the creditor executed an arrestment; or
+
+(ii) arrests in execution of a decree or document of debt; and
+
+(b) the arrestment attaches funds due to or other moveable property of the debtor.
+
+(2) The debtor may apply to the sheriff for an order—
+
+(a) providing that the arrestment ceases to have effect in relation to—
+
+(i) the funds or other property attached; or
+
+(ii) so much of those funds or that property as the sheriff specifies; and
+
+(b) requiring the arrestee to release the funds or property to the debtor.
+
+(3) An application under subsection (2) above shall be—
+
+(a) in (or as nearly as may be in) the form prescribed by Act of Sederunt;
+
+(b) made at any time during which the arrestment has effect; and
+
+(c) intimated to—
+
+(i) the creditor;
+
+(ii) the arrestee; and
+
+(iii) any other person appearing to have an interest.
+
+### 73R Hearing on application under section 73Q for release of property
+
+(1) At the hearing on an application under section 73Q(2) of this Act, the sheriff shall not make any order without first giving—
+
+(a) the creditor;
+
+(b) the arrestee; and
+
+(c) any other person appearing to the court to have an interest,
+
+an opportunity to be heard.
+
+(2) Subject to subsection (3) below, if the sheriff is satisfied that the arrestment is unduly harsh—
+
+(a) to the debtor; or
+
+(b) where the debtor is an individual, to any person such as is mentioned in subsection (4) below,
+
+the sheriff shall make an order such as is mentioned in section 73Q(2) of this Act.
+
+(3) Before making an order under subsection (2) above the sheriff shall have regard to all the circumstances including, in a case where the debtor is an individual and funds are attached—
+
+(a) the source of those funds; and
+
+(b) where the source of those funds is or includes earnings, whether an earnings arrestment, current maintenance arrestment or conjoined arrestment order is in effect in relation to those earnings.
+
+(4) The persons referred to in subsection (2)(b) above are—
+
+(a) a spouse of the debtor;
+
+(b) a person living together with the debtor as husband and wife;
+
+(c) a civil partner of the debtor;
+
+(d) a person living with the debtor in a relationship which has the characteristics of the relationship between a husband and wife except that the person and the debtor are of the same sex;
+
+(e) a child of the debtor under the age of 16 years, including—
+
+(i) a stepchild; and
+
+(ii) any child brought up or treated by the debtor or any person mentioned in paragraph (b), (c) or (d) above as a child of the debtor or, as the case may be, that person.
+
+(5) Where the sheriff refuses to make an order under subsection (2) above, the sheriff may, in a case where funds are attached, make an order requiring a sum determined in the order to be released to the creditor—
+
+(a) in a case where the period mentioned in section 73J(3) of this Act has not expired, on the expiry of that period; or
+
+(b) in any other case, as soon as reasonably practicable after the date on which the order is made.
+
+(6) Where the sheriff makes an order under this section, the sheriff shall order the debtor to intimate that order to the persons mentioned in subsection (1) above.
+
+(7) A person aggrieved by a decision of the sheriff under this section may, before the expiry of the period of 14 days beginning with the day on which the decision is made, appeal, on point of law only, to the sheriff principal, whose decision shall be final.
+
+### 73S Mandate to be in prescribed form
+
+(1) A mandate authorising an arrestee to pay over any funds or hand over other property attached by an arrestment shall be in (or as nearly as may be in) the form prescribed by the Scottish Ministers by regulations.
+
+(2) A mandate which is not in (or as nearly as may be in) the prescribed form is invalid.
+
+(3) Where—
+
+(a) a mandate is invalid by virtue of subsection (2) above; but
+
+(b) the arrestee pays over funds or hands over other property in accordance with that mandate,
+
+the arrestee is not liable to the debtor or to any other person having an interest in the funds or property for damages for patrimonial loss caused by paying over the funds or handing over the property provided the arrestee acted in good faith.
+
+### 73T Arrestment of ships etc.
+
+For the avoidance of doubt, this Part of this Act does not apply to the arrestment of a ship, cargo or other maritime property.]
+
+## PART IV — RECOVERY OF RATES AND TAXES ETC.
+
+### 74 Recovery of rates and taxes etc.
+
+(1) The enactments mentioned in Schedule 4 to this Act shall have effect subject to the amendments specified therein.
+
+(2) [^F216]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) No person shall be imprisoned for failure to pay rates or any tax.
+
+(4) Section 248 of the [^M14]Local Government (Scotland) Act 1947 (priority of claims for rates over other claims) is hereby repealed.
+
+(5) The following provisions of the [^M15]Exchequer Court (Scotland) Act 1856 are hereby repealed—
+
+(a) in section 28 (extracts of exchequer decrees), the words from “except that” to the end;
+
+(b) sections 29 to 34 (special modes of diligence for the enforcement of Crown debts);
+
+(c) section 36 (effects of deceased Crown debtor may be attached by arrestment or poinding);
+
+(d) section 42 (preference of Crown over other creditors).
+
+## PART V — MESSENGERS-AT-ARMS AND SHERIFF OFFICERS
+
+### 75 Regulation of organisation, training, conduct and procedure.
+
+(1) The Court of Session may, by Act of Sederunt, in respect of officers of court—
+
+(a) regulate their organisation;
+
+(b) regulate their training and the qualifications required to obtain a commission as messenger-at-arms or sheriff officer;
+
+(c) regulate their conduct in exercising their official functions;
+
+(d) regulate the scope of their official functions;
+
+(e) make provision prohibiting the undertaking by them of activities other than their official functions (referred to in this Part of this Act as “extra-official activities”) which appear to the Court to be incompatible with their official functions;
+
+(f) make provision permitting the undertaking by them for remuneration of other extra-official activities, not appearing to the Court to be incompatible as aforesaid, and the Act of Sederunt may attach conditions to any such permission;
+
+[[^F217](fa) regulate their conduct in exercising their extra-official functions;]
+
+(g) prescribe the procedure in respect of applications for a commission as messenger-at-arms under section 77 of this Act or as sheriff officer;
+
+(h) prescribe the procedure in disciplinary proceedings against them under section 79 of this Act, and provide for the remit of any such proceedings from the Court of Session to a sheriff principal, from one sheriff principal to another sheriff principal and from a sheriff principal to the Court of Session;
+
+[[^F218](ha) prescribe the procedure in relation to an appeal under section 82 of this Act;]
+
+(j) make provision [[^F219]about their accounts and finances including the keeping and] auditing of those accounts;
+
+(k) make provision for the keeping of records by them and the inspection of those records;
+
+(l) make provision in respect of the finding of caution by them;
+
+(m) make such other provision as may appear to the Court to be [[^F220]appropriate].
+
+(2) No extra-official activity (not being an activity prohibited or regulated by an Act of Sederunt made under subsection (1)(e) or (f) above) may be undertaken by an officer of court for remuneration unless the officer of court obtains the permission of the sheriff principal from whom he holds a commission to his undertaking the activity, but the sheriff principal shall not withhold such permission unless it appears to him that the undertaking by the officer of court of the activity would be incompatible with the officer of court’s official functions.
+
+(3) The sheriff principal may attach conditions to [[^F221], or revoke,] any permission granted by him under subsection (2) above.
+
+### 76 Advisory Council.
+
+(1) There shall be a body, (to be known as “the Advisory Council on Messengers-at-Arms and Sheriff Officers” and in this section referred to as “the Advisory Council”) whose duties shall be to advise the Court of Session on the making of Acts of Sederunt under section 75 of this Act and generally to keep under review all matters relating to officers of court.
+
+(2) The Advisory Council shall consist of—
+
+(a) the following persons appointed by the Lord President of the Court of Session—
+
+(i) a judge of the Court of Session who shall act as chairman;
+
+(ii) 2 sheriffs principal;
+
+(iii) 2 officers of court; [^F222]...
+
+(iv) 2 solicitors[[^F223]; and
+
+(v) such other persons (not falling within sub-paragraphs (i) to (iv) above) as the Lord President considers appropriate.]
+
+(b) one person appointed by the Lord Advocate; and
+
+(c) the Lord Lyon King of Arms.
+
+(3) The secretary of the Advisory Council shall be appointed by the Secretary of State.
+
+(4) Subject to subsections (5) and (6) below, the members of the Advisory Council appointed under paragraphs (a) and (b) of subsection (2) above shall hold office for 3 years and be eligible for reappointment.
+
+(5) Subsection (4) above applies to members of the Advisory Council appointed under [[^F224]sub-paragraphs (i) to (iv) of] paragraph (a) of subsection (2) above only so long as they respectively retain the offices or, as the case may be, qualification specified in [[^F225]those sub-paragraphs.]
+
+(6) If the Lord President or, as the case may be, the Lord Advocate is satisfied that a person appointed by him under subsection (2) above has ceased to be a fit and proper person to hold the appointment, he may terminate that person’s appointment.
+
+(7) Where a member of the Advisory Council appointed under [[^F226]subsection (2)(a)(i) to (iv)] or (b) above ceases to be a member (whether by resignation or otherwise) prior to the expiry of 3 years after the date of his appointment or reappointment, the vacancy shall be filled by appointment of another person holding the same office or, as the case may be, possessing the same qualification.
+
+(8) Subject to subsection (6) above, any person appointed in pursuance of subsection (7) above to fill a vacancy shall remain a member of the Advisory Council only until the expiry of 3 years after the date of the appointment or reappointment of the member whom he succeeded, but shall be eligible for reappointment.
+
+(9) The Advisory Council shall have power to regulate the summoning of its meetings and the procedure at such meetings; and at any such meetings 3 members shall be a quorum.
+
+### 77 Appointment of messenger-at-arms.
+
+(1) The Court of Session, on an application made under this section by a sheriff officer, may find the applicant suitable to be appointed as a messenger-at-arms and recommend such appointment to the Lord Lyon King of Arms; and, on receipt of such a recommendation, the Lord Lyon King of Arms may grant the applicant a commission as a messenger-at-arms.
+
+(2) A messenger-at-arms shall not be authorised by his commission as messenger-at-arms to execute a warrant granted by a sheriff or sheriff clerk.
+
+(3) A messenger-at-arms shall cease to be entitled to hold a commission as messenger-at-arms if he no longer holds a commission as a sheriff officer.
+
+(4) Any rule of law and any other enactment regulating the appointment of messengers-at-arms shall cease to have effect.
+
+### [^F227]... Inspection of work.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 79 Investigation of alleged misconduct.
+
+(1) This section applies where—
+
+(a) a report under section [[^F228]66(3) of the Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3) (in this Part “the 2007 Act”)] discloses that any officer of court may have been guilty of misconduct;
+
+(b) a report by a sheriff or a complaint by any other person is made—
+
+(i) to the Court of Session alleging misconduct by a messenger-at-arms;
+
+(ii) to the sheriff principal from whom a sheriff officer holds a commission alleging misconduct by the officer;[^F229]...
+
+[[^F230](ba) details of a complaint about an officer of court are sent to the Lord President of the Court of Session or a sheriff principal under section 64 of the 2007 Act;]
+
+(c) any judge of the Court of Session, or a sheriff principal, has reason to believe that an officer of court may have been guilty of misconduct[[^F231]; or
+
+(d) any judge of the Court of Session, or a sheriff principal—
+
+(i) becomes aware (whether by notification under subsection (1) of section 62 of the 2007 Act or otherwise) that an event mentioned in subsection (2) of that section has occurred in respect of an officer of court; and
+
+(ii) considers that the occurrence of that event or the circumstances surrounding it, although falling short of misconduct and not involving the commission of an offence, gives rise to concerns about the officer, the officer's exercise of official functions or the officer's undertaking of extra-official activities.]
+
+(2) Where this section applies, a judge nominated by the Lord President of the Court of Session, or the sheriff principal, after giving the officer of court an opportunity to admit or deny the misconduct or to give an explanation of the matter, may appoint a solicitor to investigate the matter unless the officer of court—
+
+(a) admits the misconduct in writing, or
+
+(b) gives a satisfactory explanation of the matter.
+
+(3) Where the solicitor after carrying out an investigation in pursuance of subsection (2) above is of the opinion—
+
+(a) that there is a probable case of misconduct and that there is evidence sufficient to justify proceedings, disciplinary proceedings shall be brought at his instance against the officer of court before the relevant court;
+
+(b) that there is not a probable case of misconduct or that there is insufficient evidence to justify proceedings, he shall report that fact to the relevant court.
+
+(4) The solicitor shall be entitled to a fee, and to payment of his outlays incurred, in connection with an investigation, and any disciplinary proceedings brought by him, under this section.
+
+(5) The relevant court may award expenses in any disciplinary proceedings brought under this section in favour of or against either party to the proceedings; and for the purposes of this subsection and section 45 of the [^M16]Crown Proceedings Act 1947 the party bringing the proceedings shall be deemed to be the Lord Advocate.
+
+(6) Where expenses are awarded under subsection (5) above in favour of—
+
+(a) the officer of court, the expenses shall be recoverable by him from the Lord Advocate;
+
+(b) the Lord Advocate, the expenses shall be recoverable from the officer of court by the Lord Advocate.
+
+[^F232]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) In this section “the relevant court” means whichever of the Court of Session or the sheriff principal made the appointment under subsection (2) above.
+
+(9) In this section and section 80 of this Act “misconduct” includes
+
+[[^F233](a)] conduct tending to bring the office of messenger-at-arms or sheriff officer into disrepute;
+
+[[^F234](b) failure to notify the Lord President of the Court of Session or the sheriff principal under subsection (1) of section 62 of the 2007 Act of the occurrence of an event mentioned in subsection (2) of that section;
+
+(c) failure to provide information mentioned in subsection (1A) of section 63 of that Act required by virtue of regulations made under subsection (1) of that section;
+
+(d) failure to comply with any code of practice or revised code of practice published under section 63A of that Act; and
+
+(e) where a fee is due by virtue of rules made under subsection (1) of section 65A of that Act and a date as mentioned in subsection (2)(a) of that section has been specified by the rules, failure to pay the fee within 3 months of that date.]
+
+### 80 Courts’ powers in relation to offences or misconduct.
+
+(1) Where the Court of Session becomes aware that a messenger-at-arms has been convicted by a court of any offence, it may make
+
+[[^F235](a)] an order finding that the messenger-at-arms should be suspended from practice for such period as may be specified in the order, or deprived of office;
+
+[[^F236](b) an order mentioned in paragraph (aa) or (c) of subsection (5) below.]
+
+(2) Where the sheriff principal from whom a sheriff officer holds a commission becomes aware that the sheriff officer has been convicted by a court of any offence, the sheriff principal may make
+
+[[^F237](a)] an order suspending the sheriff officer from practice for such period as may be specified in the order, or depriving him of office, in that sheriffdom;
+
+[[^F238](b) an order in relation to the sheriff officer of a kind mentioned in paragraph (aa) or (c) of subsection (5) below.]
+
+(3) Subsections (1) and (2) above are without prejudice to section 4(3)(b) of the [^M17]Rehabilitation of Offenders Act 1974; and in those subsections “offence” means any offence of which the officer of court has been convicted before or after he was granted a commission as an officer of court, other than any offence disclosed in his application for such a commission.
+
+[[^F239](3A) Where—
+
+(a) a solicitor is appointed to investigate a matter in respect of a messenger-at-arms under section 79(2) of this Act; or
+
+(b) the Court of Session becomes aware that a messenger-at-arms has been charged with an offence,
+
+the Court of Session may make an order finding that the messenger-at-arms should be suspended from practice for such period as may be specified in the order or in an order extending such period.
+
+(3B) Where—
+
+(a) a solicitor is appointed to investigate a matter in respect of a sheriff officer under section 79(2) of this Act; or
+
+(b) the sheriff principal from whom a sheriff officer holds a commission becomes aware that the sheriff officer has been charged with an offence,
+
+the sheriff principal may make an order suspending the officer from practice for such period as may be specified in the order or in an order extending such period in that sheriffdom.]
+
+(4) Where—
+
+(a) a messenger-at-arms admits in writing that he is guilty of misconduct; or
+
+(b) the Court of Session at the end of disciplinary proceedings under section 79(3)(a) of this Act is satisfied that a messenger-at-arms is guilty of misconduct,
+
+the Court of Session may make one or more of the orders specified in subsection (5) below.
+
+[[^F240](4A) Where the Court of Session at the end of disciplinary proceedings brought under subsection (3) of section 79 of this Act is satisfied that a concern mentioned in subsection (1)(d)(ii) of that section in relation to a messenger-at-arms is founded, the Court of Session may make an order under paragraph (a) or (aa) of subsection (5) below.]
+
+(5) The orders referred to in subsection (4) above are—
+
+(a) an order finding that the messenger-at-arms should be suspended from practice for such period as may be specified in the order, or deprived of office;
+
+[[^F241](aa) an order restricting—
+
+(i) the functions which the messenger-at-arms may exercise; or
+
+(ii) the activities which the messenger-at-arms may undertake,
+
+for such period as may be specified in the order;]
+
+(b) an order imposing a fine on the messenger-at-arms not exceeding £2,500 or such sum as may be prescribed in regulations made by the Lord Advocate;
+
+(c) an order censuring the messenger-at-arms;
+
+(d) if the misconduct consists of, or includes, the charging of excessive fees or outlays, an order decerning for repayment by the messenger-at-arms of the fees or outlays, to the extent that they were excessive, to the person who paid them.
+
+(6) Where—
+
+(a) a sheriff officer admits in writing that he is guilty of misconduct; or
+
+(b) the sheriff principal at the end of disciplinary proceedings under section 79(3)(a) of this Act is satisfied that a sheriff officer is guilty of misconduct,
+
+the sheriff principal may make one or more of the orders specified in subsection (7) below.
+
+[[^F242](6A) Where the sheriff principal at the end of disciplinary proceedings brought under subsection (3) of section 79 of this Act is satisfied that a concern mentioned in subsection (1)(d)(ii) of that section in relation to a sheriff officer is founded, the sheriff principal may make, in relation to the sheriff officer, an order—
+
+(a) of a kind mentioned in paragraph (aa) of subsection (5) above; or
+
+(b) under paragraph (a) of subsection (7) below.]
+
+(7) The orders referred to in subsection (6) above are—
+
+(a) an order suspending the sheriff officer from practice for such period as may be specified in the order, or depriving him of office, in that sheriffdom;
+
+(b) an order in relation to the sheriff officer of a kind mentioned in [[^F243]subsection (5)(aa), (b),] (c) or (d) above.
+
+(8) Where an officer of court fails to comply with an order under this section imposing a fine on him, the Court of Session or, as the case may be, the sheriff principal may make an order—
+
+(a) decerning for payment of the fine, and an extract of any such order shall contain a warrant in the form prescribed by Act of Sederunt which shall have the same effect as an extract of a decree for payment of money pronounced by the Court of Session; or
+
+(b) of the kind specified in subsection (5)(a) or, as the case may be, (7)(a) above.
+
+(9) Any fine imposed under this section shall be recoverable by the Lord Advocate.
+
+### 81 Provisions supplementary to section 80.
+
+(1) The Court of Session shall cause intimation to be made of any order of the Court of Session under [[^F244]section 80(1)(a), (3A), (4), (4A)] or (8)(b) of this Act to—
+
+(a) every sheriff principal from whom the messenger-at-arms holds a commission as a sheriff officer;
+
+(b) the Lord Lyon King of Arms;
+
+[[^F245](c) the professional association designated under section 63(1) of the 2007 Act.]
+
+(2) The sheriff principal shall cause intimation to be made of any order made by him under [[^F246]section 80(2)(a), (3B), (6), (6A)] or (8)(b) of this Act—
+
+(a) to every other sheriff principal from whom the sheriff officer holds a commission as a sheriff officer; [^F247]...
+
+(b) if the sheriff officer is a messenger-at-arms, to the Court of Session and the Lord Lyon King of Arms[[^F248], and
+
+(c) the professional association designated under section 63(1) of the 2007 Act.]
+
+(3) On intimation under this section of an order under [[^F249]section 80(1)(a), (2)(a), (3A), (3B)] or (8)(b) of this Act or of an order under subsection (4) or (6) of that section specified respectively in subsection (5)(a) or (7)(a) thereof [[^F250]or of an order under subsection (4A) or (6A) of that section specified respectively in subsection (5)(a) or (7)(a) thereof]—
+
+(a) to a sheriff principal, he shall make an order suspending the sheriff officer concerned from practice until the expiry of the period for which he has been suspended by the order so intimated, or (as the case may be) depriving him of office, in the sheriffdom;
+
+(b) to the Lord Lyon King of Arms, he shall—
+
+(i) in the case of an order intimated under subsection (1) above, suspend the messenger-at-arms concerned from practice for the period specified in the order or (as the case may be) deprive him of office; or
+
+(ii) in the case of an order intimated under subsection (2) above, suspend the messenger-at-arms from practice until the expiry of the period for which he has been suspended by the order so intimated or (as the case may be) deprive him of office.
+
+(4) It shall not be competent for the Lord Lyon King of Arms to discipline a messenger-at-arms or suspend him from practice or deprive him of office except in accordance with subsection (3)(b) above.
+
+### 82 Appeals from decisions under sections [[^F251] 77, 79 and 80].
+
+[^F252]...
+
+[[^F253](1)] An appeal to the Inner House of the Court of Session may be made against any decision of a Lord Ordinary or a sheriff principal under[[^F254]section 77(1),] section 79(5) or section 80(1), (2), [[^F255](3A), (3B), (4), (4A), (6), (6A) or (8)(b)] of this Act
+
+[[^F256](2) The decision of the Inner House on an appeal under subsection (1) shall be final.]
+
+### [^F257]83 Service of charge and execution of diligence or warrant void where officer of court has interest.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 84 Collection of statistics from officers of court.
+
+(1) The Lord Advocate may require any officer of court to provide information, in such form and at such times as he may specify, regarding the officer of court’s official functions.
+
+(2) Subject to subsection (3) below, the Lord Advocate may publish, in such form as he thinks fit, information provided under subsection (1) above.
+
+(3) Information published under subsection (2) above shall not be in a form which identifies or enables the identification of officers of court or persons against whom diligence has been executed.
+
+### 85 Measure of damages payable by officer of court for negligence or other fault.
+
+There shall cease to have effect any rule of law whereby, if an officer of court has been found liable to a creditor for negligent delay or failure to execute diligence, or for other fault in the execution of diligence, the damages payable by the officer of court are determined solely by reference to the amount of the debt.
+
+### 86 Official identity card.
+
+(1) An official identity card shall be issued to every officer of court by or on behalf of the person from whom he holds his commission.
+
+(2) When carrying out his official functions an officer of court shall exhibit his identity card on being requested to do so.
+
+### 86A [[^F258]Electronic communications
+
+In this Part, any reference to an admission in writing includes a reference to that admission being an electronic communication (within the meaning given by section 15(1) of the Electronic Communications Act 2000 (c. 7)).]
+
+## PART VI — WARRANTS FOR DILIGENCE AND CHARGES FOR PAYMENT
+
+### 87 Effect of warrants for diligence in extract decrees and other documents.
+
+(1) Every extract of a decree for the payment of money, or among other things for the payment of money, which is pronounced by—
+
+(a) the Court of Session;
+
+(b) the High Court of Justiciary; or
+
+(c) the Court of Teinds,
+
+shall contain a warrant in the form prescribed by Act of Sederunt or, as the case may be, by Act of Adjournal.
+
+(2) The warrant referred to in subsection (1) above shall have the effect of authorising—
+
+(a) in relation to an ordinary debt, the charging of the debtor to pay to the creditor within the period specified in the charge the sum specified in the extract and any interest accrued on the sum and, in the event of failure to make such payment within that period, the execution of an earnings arrestment [[^F259], a land attachment, a residual attachment, a money attachment] and the [[^F260]attachment] of articles belonging to the debtor and, if necessary for the purpose of executing the [[^F261]land attachment, residual attachment, money attachment or] [[^F260]attachment], the opening of shut and lockfast places;
+
+(b) in relation to an ordinary debt, an arrestment other than an arrestment of the debtor’s earnings in the hands of his employer; and
+
+[[^F262](ba) in relation to an ordinary debt, inhibition against the debtor;]
+
+(c) if the decree consists of or includes a maintenance order, a current maintenance arrestment in accordance with Part III of this Act.
+
+(3) In section 7(1) of the [^M18]Sheriff Courts (Scotland) Extracts Act 1892 (import of the warrant for execution), for the words from “it shall” to the end there shall be substituted the following words—
+
+> the said warrant shall have the effect of authorising—
+>
+> (a) in relation to an ordinary debt within the meaning of the Debtors (Scotland) Act 1987, the charging of the debtor to pay to the creditor within the period specified in the charge the sum specified in the extract and any interest accrued on the sum and, in the event of failure to make such payment within that period, the execution of an earnings arrestment and the poinding of articles belonging to the debtor and, if necessary for the purpose of executing the poinding, the opening of shut and lockfast places;
+>
+> (b) in relation to an ordinary debt within the meaning of the Debtors (Scotland) Act 1987, an arrestment other than an arrestment of the debtor’s earnings in the hands of his employer; and
+>
+> (c) if the decree consists of or includes a maintenance order within the meaning of the Debtors (Scotland) Act 1987, a current maintenance arrestment in accordance with Part III of that Act.
+
+.
+
+(4) For section 3 of the [^M19]Writs Execution (Scotland) Act 1877 there shall be substituted the following section—
+
+> **3 Power to execute diligence by virtue of warrant.**
+>
+> The warrant inserted in an extract of a document registered in the Books of Council and Session or in sheriff court books which contains an obligation to pay a sum of money shall have the effect of authorising—
+>
+> (a) in relation to an ordinary debt within the meaning of the Debtors (Scotland) Act 1987, the charging of the debtor to pay to the creditor within the period specified in the charge the sum specified in the extract and any interest accrued on the sum and, in the event of failure to make such payment within that period, the execution of an earnings arrestment and the poinding of articles belonging to the debtor and, if necessary for the purpose of executing the poinding, the opening of shut and lockfast places;
+>
+> (b) in relation to an ordinary debt within the meaning of the Debtors (Scotland) Act 1987, an arrestment other than an arrestment of the debtor’s earnings in the hands of his employer; and
+>
+> (c) if the document is a maintenance order within the meaning of the Debtors (Scotland) Act 1987, a current maintenance arrestment in accordance with Part III of that Act.
+
+.
+
+(5) An extract of a decree in an action of poinding of the ground shall contain a warrant in the form prescribed by Act of Sederunt which shall have the effect of authorising a poinding of the ground.
+
+### 88 Warrants for diligence: special cases.
+
+(1) This section applies where a creditor has acquired by assignation intimated to the debtor, confirmation as executor, or otherwise a right to—
+
+(a) a decree;
+
+(b) an obligation contained in a document an extract of which, after the document has been registered in the Books of Council and Session or in sheriff court books, may be obtained containing warrant for execution;
+
+(c) an order or determination which by virtue of any enactment is enforceable as if it were an extract registered decree arbitral bearing a warrant for execution issued by a sheriff,
+
+either directly or through a third party from a person in whose favour the decree, order or determination was granted or who was the creditor in the obligation contained in the document.
+
+(2) Where this section applies, the creditor who has acquired a right as mentioned in subsection (1) above may apply to the appropriate clerk for a warrant having the effect of authorising the execution at the instance of that creditor of any diligence authorised by an extract of the decree or document or by the order or determination, as the case may be.
+
+(3) The applicant under subsection (2) above shall submit to the appropriate clerk—
+
+(a) an extract of the decree or of the document registered as mentioned in subsection (1)(b) above or a certified copy of the order or determination; and
+
+(b) the assignation (along with evidence of its intimation to the debtor), confirmation as executor or other document establishing the applicant’s right.
+
+(4) The appropriate clerk shall grant the warrant applied for under subsection (2) above if he is satisfied that the applicant’s right is established.
+
+(5) Where—
+
+(a) a charge has already been served in pursuance of the decree, order, determination or registered document; and
+
+(b) the applicant under subsection (2) above submits with his application the certificate of execution of the charge in addition to the documents mentioned in subsection (3) above,
+
+a warrant granted under subsection (4) above shall authorise the execution at the instance of the applicant of diligence in pursuance of that charge.
+
+(6) For the purposes of this section, “the appropriate clerk” shall be—
+
+(a) in the case of a decree granted by the Court of Session or a document registered (whether before or after such acquisition) in the Books of Council and Session, a clerk of court of the Court of Session;
+
+(b) in the case of a decree granted by the High Court of Justiciary, a clerk of Justiciary;
+
+(c) in the case of a decree granted by a sheriff or a document registered (whether before or after such acquisition) in the books of a sheriff court, the sheriff clerk of that sheriff court;
+
+(d) in the case of such an order or determination as is mentioned in subsection (1)(c) above, any sheriff clerk.
+
+### 89 Abolition of letters of horning, horning and poinding, poinding, and caption.
+
+The granting of letters of horning, letters of horning and poinding, letters of poinding and letters of caption shall cease to be competent.
+
+### 90 Provisions relating to charges for payment.
+
+(1) [^F263]... The execution of [^F263]... an earnings arrestment shall not be competent unless a charge for payment has been served on the debtor and the period for payment specified in the charge has expired without payment being made.
+
+[[^F264](1A) The following subsections of this section apply to any case where it is competent to execute diligence only if a charge for payment has been served on the debtor.]
+
+[^F265]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The period for payment specified in any charge for payment served in pursuance of a warrant for execution shall be 14 days if the person on whom it is served is within the United Kingdom and 28 days if he is outside the United Kingdom or his whereabouts are unknown.
+
+(4) Any such charge shall be in the form prescribed by Act of Sederunt or Act of Adjournal.
+
+(5) Subject to subsection (6) below, where any such charge has been served, it shall not be competent to execute [[^F266]diligence] by virtue of that charge more than 2 years after the date of such service.
+
+(6) A creditor may reconstitute his right to execute [[^F267]diligence] by the service of a further charge for payment.
+
+(7) No expenses incurred in the service of a further charge for payment within the period of 2 years after service of the first charge shall be chargeable against the debtor.
+
+(8) Registration of certificates of execution of charges for payment in a register of hornings shall cease to be competent.
+
+### 91 Enforcement of certain warrants and precepts of sheriff anywhere in Scotland.
+
+(1) The following may be executed anywhere in Scotland—
+
+(a) a warrant for execution contained in an extract of a decree granted by a sheriff;
+
+(b) a warrant for execution inserted in an extract of a document registered in sheriff court books;
+
+(c) a summary warrant;
+
+(d) a warrant of a sheriff for arrestment on the dependence of an action or in security;
+
+(e) a precept (issued by a sheriff clerk) of arrestment in security of a liquid debt the term of payment of which has not arrived.
+
+(2) A warrant or precept mentioned in subsection (1) above may be executed by a sheriff officer of—
+
+(a) the court which granted it; or
+
+(b) the sheriff court district in which it is to be executed.
+
+## PART VII — MISCELLANEOUS AND GENERAL
+
+### 92 General provision relating to liability for expenses in court proceedings.
+
+(1) Subject to subsection (2) below, a debtor shall not be liable to a creditor, nor a creditor to a debtor, for any expenses incurred by the other party in connection with an application, any objections to an application, or a hearing, under any provision of this Act.
+
+(2) If—
+
+(a) an application under any provision of this Act is frivolous;
+
+(b) such an application is opposed on frivolous grounds; or
+
+(c) a party requires a hearing under any provision of this Act to be held on frivolous grounds,
+
+the sheriff may award a sum of expenses, not exceeding £25 or such amount as may be prescribed in regulations made by the Lord Advocate, against the party acting frivolously in favour of the other party.
+
+(3) Subsections (1) and (2) above do not apply to—
+
+(a) expenses of poinding and sale for which provision is made in Schedule 1 to this Act or paragraphs 25 to 34 of Schedule 5 to this Act; or
+
+(b) expenses incurred—
+
+(i) under section 1 of this Act;
+
+(ii) in connection with an appeal under any provision of this Act; or
+
+(iii) by or against a person other than the debtor or a creditor in connection with an application under any provision of this Act.
+
+### 93 Recovery from debtor of expenses of certain diligences.
+
+(1) Subject to subsections (3) and (5) below, any expenses chargeable against the debtor which are incurred in—
+
+(a) [^F268]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) the service of an earnings arrestment schedule (including the service of the charge preceding it);
+
+(c) an application for, or for inclusion in, a conjoined arrestment order under section 60(2) or 62(5) of this Act,
+
+shall be recoverable from the debtor by the diligence concerned but not by any other legal process, and any such expenses which have not been recovered by the time the diligence is completed or otherwise ceases to have effect shall cease to be chargeable against the debtor.
+
+(2) Subject to subsection (5) below, any expenses chargeable against the debtor which are incurred in the service of a schedule of arrestment and in an action of furthcoming or sale shall be recoverable from the debtor out of the arrested property; and the court shall grant a decree in the action of furthcoming for payment of the balance of any expenses not so recovered.
+
+(3) [^F269]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Subsection (5) below applies where any diligence mentioned in subsection (1) or (2) above is—
+
+(a) recalled under section 9(2)(a), (d) or (e) of this Act in relation to a time to pay order;
+
+(b) in effect immediately before the date of sequestration (within the meaning of the Bankruptcy (Scotland) Act [[^F270]2016]) of the debtor’s estate;
+
+(c) in effect immediately before the presentation of a petition for an administration order under Part II of[[^F271], or the appointment of an administrator under paragraph 14 or 22 of Schedule B1 to,] the [^M20]Insolvency Act 1986;
+
+(d) in effect against property of the debtor immediately before a floating charge attaches to all or part of that property under section 53(7) or 54(6) of that Act;
+
+(e) in effect immediately before the commencement of the winding up, under Part IV or V of that Act, of the debtor;
+
+(f) rendered unenforceable by virtue of the creditor entering into a composition contract or acceding to a trust deed for creditors or by virtue of the subsistence of a protected trust deed within the meaning of [[^F272]schedule 4 of the Bankruptcy (Scotland) Act 2016]; or
+
+(g) recalled by a conjoined arrestment order.
+
+(5) Where this subsection applies—
+
+(a) the expenses of the diligence which were chargeable against the debtor shall remain so chargeable; and
+
+(b) if the debtor’s obligation to pay the expenses is not discharged under or by virtue of the time to pay order, sequestration, [[^F273]administration], receivership, winding up, composition contract, trust deed for creditors or conjoined arrestment order, those expenses shall be recoverable by further diligence in pursuance of the warrant which authorised the original diligence.
+
+(6) The expenses incurred in the execution of a current maintenance arrestment shall be recoverable by any diligence other than a current maintenance arrestment, and shall be so recoverable in pursuance of the warrant which authorised the current maintenance arrestment.
+
+### 94 Ascription of sums recovered by diligence or while diligence is in effect.
+
+(1) This section applies to any sums recovered by any of the following diligences—
+
+(a) [^F274]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) an earnings arrestment;
+
+(c) an arrestment and action of furthcoming or sale; or
+
+(d) a conjoined arrestment order in so far as it enforces an ordinary debt,
+
+or paid to account of the sums recoverable by the diligence while the diligence is in effect.
+
+(2) A sum to which this section applies shall be ascribed to the following in the order in which they are mentioned—
+
+(a) the expenses already incurred in respect of—
+
+(i) the diligence;
+
+(ii) any previous diligence the expenses of which are chargeable against and recoverable from the debtor under section 93(5) of this Act;
+
+(iii) the execution of a current maintenance arrestment;
+
+(b) any interest, due under the decree or other document on which the diligence proceeds, which has accrued at the date of execution of the [^F275]. . . earnings arrestment or arrestment, or in the case of an ordinary debt included in a conjoined arrestment order which has accrued at the date of application under section 60(2) or 62(5) of this Act;
+
+(c) any sum (including any expenses) due under the decree or other document, other than any expenses or interest mentioned in paragraphs (a) and (b) above.
+
+### 95 Certain diligences terminated by payment or tender of full amount owing.
+
+(1) Any of the following diligences—
+
+(a) [^F276]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) an earnings arrestment;
+
+(c) an arrestment and action of furthcoming or sale,
+
+shall cease to have effect if the full amount recoverable thereby is paid to the creditor, an officer of court, or any other person who has authority to receive payment on behalf of the creditor, or is tendered to any of those persons and the tender is not accepted within a reasonable time.
+
+(2) Any rule of law whereby any diligence mentioned in subsection (1) above ceases to have effect on payment or tender of the sum due under the decree or other document is hereby abolished.
+
+### 95A [[^F277]Prescription of arrestment
+
+(1) Subject to subsection (2) below, an arrestment which is not insisted in prescribes—
+
+(a) where it is on the dependence of an action, at the end of the period of 3 years beginning with the day on which a final interlocutor is obtained by the creditor for payment of all or part of a principal sum concluded for; or
+
+(b) where it is in execution of an extract decree or other extract registered document relating to a due debt, at the end of the period of 3 years beginning with the day on which the arrestment is executed.
+
+(2) Where the arrestment secures or enforces a future or contingent debt due to the creditor, it prescribes, if not insisted in, at the end of the period of 3 years beginning on the day on which the debt becomes due.
+
+(3) In a case where—
+
+(a) a time to pay direction;
+
+(b) an interim order under section 6(3) of this Act; or
+
+(c) a time to pay order,
+
+has been made, there shall be disregarded, in computing the period at the end of which the arrestment prescribes, the period during which the time to pay direction, interim order or time to pay order is in effect.
+
+(4) Nothing in this section shall apply to an earnings arrestment, a current maintenance arrestment or a conjoined arrestment order.
+
+(5) Subsections (1) to (3) above apply irrespective of whether the arrestment is executed, or warrant for it obtained, before this section comes into force.
+
+(6) For the purposes of subsection (1)(a) above, a final interlocutor is obtained when an interlocutor cannot be recalled or altered and is not subject to review.]
+
+### 96 Provisions to assist debtor in proceedings under Act.
+
+(1) No fees shall be payable by a debtor in connection with—
+
+(a) any application by him;
+
+(b) objections by him to an application by any other person; or
+
+(c) a hearing held,
+
+under any provision of this Act, to any officer of any office or department connected with the Court of Session or the sheriff court the expenses of which are paid wholly or partly out of the Consolidated Fund or out of money provided by Parliament.
+
+(2) The sheriff clerk [[^F278]or a member of administration staff of the First-tier Tribunal for Scotland (in relation to time to pay directions made by it)] shall, if requested by the debtor—
+
+(a) provide him with information as to the procedures available to him under this Act; and
+
+(b) without prejudice to subsection (2) of section 6 of this Act, assist him in the completion of any form required in connection with any proceedings under this Act,
+
+but the sheriff clerk [[^F278]or a member of administration staff of the First-tier Tribunal for Scotland (in relation to time to pay directions made by it)] shall not be liable for any error or omission [[^F279]when performing the duties imposed] by this subsection or that subsection.
+
+### 97
+
+In relation to any proceedings before the sheriff under any provision of this Act, the power conferred on the Court of Session by section 32 of the [^M21]Sheriff Courts (Scotland) Act 1971 (power of Court of Session to regulate civil procedure in sheriff court) shall extend to the making of rules permitting a party to such proceedings, in such circumstances as may be specified in the rules, to be represented by a person who is neither an advocate nor a solicitor.
+
+### 98
+
+At the end of Part II of Schedule 2 to the [^M22]Legal Aid (Scotland) Act 1986 (proceedings for which civil legal aid shall not be available) there shall be added the following paragraphs—
+
+> **4**
+>
+> Subject to paragraph 5 below, civil legal aid shall not be available in relation to proceedings at first instance under the Debtors (Scotland) Act 1987, other than proceedings in connection with an application under section 1(1) or 3(1) of that Act to a Lord Ordinary or to the sheriff in an ordinary cause.
+>
+> **5**
+>
+> Nothing in paragraph 4 above shall preclude any third party to proceedings under the Debtors (Scotland) Act 1987 from obtaining legal aid in connection with those proceedings.
+
+.
+
+### 99 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F280]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 100
+
+(1) An obligation ad factum praestandum which is contained in a document registered in the Books of Council and Session or in sheriff court books shall not by virtue of that registration be enforceable by imprisonment.
+
+(2) A charge for the purpose of enforcing an obligation ad factum praestandum which is contained in an extract of a decree or of a document registered as aforesaid shall not be competent.
+
+### 101
+
+It shall not be competent for a creditor to bring an action of adjudication for debt [^F281]... to enforce a debt payable under a liquid document of debt unless—
+
+(a) the debt has been constituted by decree; or
+
+(b) the debt is a debitum fundi; or
+
+(c) the document of debt or, if the document is a bill of exchange or a promissory note, a protest of the bill or note, has been registered for execution in the Books of Council and Session or in sheriff court books.
+
+### 102 Procedure in diligence proceeding on extract of registered document etc.
+
+(1) The Court of Session may by Act of Sederunt—
+
+(a) regulate and prescribe the procedure and practice in; and
+
+(b) prescribe the form of any document to be used in, or for the purposes of,
+
+diligence of a kind specified in subsection (2) below.
+
+(2) The diligences referred to in subsection (1) above are diligences proceeding—
+
+(a) on an extract of a document which has been registered for execution in the Books of Council and Session or in sheriff court books; or
+
+(b) on an order or a determination which by virtue of any enactment is to be treated as if it were so registered.
+
+### 103 Appeals.
+
+(1) Subject to subsection (9) below and sections [^F282]. . . , 50(2), 55(4), 60(8), 62(9) and 66(9) of this Act [^F282]. . . , an appeal may be made against any decision of the sheriff under this Act but only on a question of law and with the leave of the sheriff; and section 38 of the [^M23]Sheriff Courts (Scotland) Act 1971 (appeal in summary causes) [[^F283]and section 82 of the Courts Reform (Scotland) Act 2014 (appeals from simple procedure cases)] shall not apply to any appeal or any further appeal taken under this Act.
+
+(2) Any appeal against a decision of the sheriff under subsection (1) above must be made within a period of 14 days from the date when leave to appeal against the decision was granted.
+
+(3) An appeal may be made against any decision of the Lord Ordinary on an application under section 1(1) or 3(1) of this Act but only on a question of law and with the leave of the Lord Ordinary.
+
+(4) Subject to subsections (6) and (7) below, any decision of the sheriff or of the Lord Ordinary under this Act shall take effect as soon as it is made and shall remain in effect unless and until it is reversed on appeal and either—
+
+(a) the period allowed for further appeal has expired without an appeal being made; or
+
+(b) if such a further appeal has been made, the matter has been finally determined in favour of the reversal of the sheriff’s or Lord Ordinary’s decision.
+
+(5) No decision reversing a decision of the sheriff or Lord Ordinary under this Act shall have retrospective effect.
+
+(6) A decision or order of the sheriff under any provision of this Act mentioned in subsection (7) below shall not take effect—
+
+(a) until the period for leave to appeal specified in rules of court has expired without an application for leave having been made;
+
+(b) where an application for leave to appeal is made, until leave has been refused or the application has been abandoned;
+
+(c) where leave to appeal has been granted, until the period for an appeal has expired without an appeal being made; or
+
+(d) where an appeal against the decision is made, until the matter has been finally determined or the appeal has been abandoned.
+
+(7) The provisions of this Act referred to in subsection (6) above are—
+
+(a) [^F284]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) [^F284]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) [^F284]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(d) [^F285]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(e) [^F285]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(f) [^F285]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(g) [^F286]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(h) [^F286]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(j) [^F286]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(k) section 50(1) except in so far as it relates to orders declaring that an arrestment is invalid or has ceased to have effect;
+
+(l) section 50(4);
+
+(m) section 55(1) except in so far as it relates to orders declaring that an arrestment is invalid or has ceased to have effect;
+
+(n) section 55(6);
+
+(o) section 65(2);
+
+(p) section 66(3);
+
+(q) [^F287]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) A court to which an appeal under this Act or a further appeal is made may—
+
+(a) before it disposes of the appeal, make such interim order; and
+
+(b) on determining the appeal, make such supplementary order,
+
+as it thinks necessary or reasonable in the circumstances.
+
+(9) This section does not apply to any decision of a court under Part V of this Act.
+
+### 104 Regulations.
+
+(1) Regulations [[^F288]and orders] under this Act shall be made by statutory instrument and shall, [^F289]. . . , be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(2) [^F290]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 105 Application to Crown.
+
+[[^F291](1)] Without prejudice to the [^M24]Crown Proceedings Act 1947 [[^F292]and subject to subsection (2) below], this Act shall bind the Crown acting in its capacity as a creditor or employer.
+
+[[^F293](2) Section 70B of this Act does not affect Her Majesty in Her private capacity as an employer.]
+
+### 106 Interpretation.
+
+In this Act—
+
+- [^F294]...
+
+- “current maintenance” has the meaning given to it in section 73(1) of this Act;
+
+- [[^F295]“debt advice and information package” has the meaning given to it in section 47(4) of this Act;]
+
+- “earnings” has the meaning given to it in section 73(2) of this Act;
+
+- “employer” has the meaning given to it in section 73(1) of this Act;
+
+- [[^F296]“enactment” includes an Act of the Scottish Parliament and any enactment comprised in subordinate legislation under such an Act;]
+
+- [[^F297]“the Hague Convention” means the Convention on the International Recovery of Child Support and other forms of Family Maintenance done at The Hague on 23rd November 2007;]
+
+- [^F298]. . .
+
+- “maintenance” means periodical sums payable under a maintenance order;
+
+- “maintenance order” means—
+
+  - (a) an order granted by a court in Scotland for payment of a periodical allowance on divorce [[^F299]or on dissolution of a civil partnership] or on the granting of a declarator of nullity of marriage [[^F300]or of nullity of a civil partnership], or for aliment;
+  
+  - (aa) [^F301]...
+  
+  - (b) an order under section 43 or 44 of the [^M25]National Assistance Act 1948, section 23 or 24 of the [^M26]Ministry of Social Security Act 1966, section 80 or 81 of the [^M27]Social Work (Scotland) Act 1968, section 11(3) of the [^M28]Guardianship Act 1973, section 18 or 19 of the [^M29]Supplementary Benefits Act 1976, section 50 or 51 of the [^M30]Child Care Act 1980 or section 24 or 25 of the [^M31]Social Security Act 1986;
+  
+  - (c) an order of a court in England and Wales or Northern Ireland registered in Scotland under Part II of the [^M32]Maintenance Orders Act 1950;
+  
+  - (d) a provisional order of a reciprocating country which is confirmed by a court in Scotland under Part I of the [^M33]Maintenance Orders (Reciprocal Enforcement) Act 1972;
+  
+  - (e) an order of a reciprocating country which is registered in Scotland under that Part of that Act;
+  
+  - (f) an order registered in Scotland under Part II, or under an Order in Council made in pursuance of Part III, of that Act;
+  
+  - (g) an order registered in Scotland under section 5 of the [^M34]Civil Jurisdiction and Judgments Act 1982; [^F302]. . .
+  
+  - (ga) [^F303]...
+  
+  - (h) an alimentary bond or agreement (including a document providing for the maintenance of one party to a marriage by the other after the marriage has been dissolved or annulled)—
+  
+    - (i) registered for execution in the Books of Council and Session or sheriff court books; or
+    - (ii) registered in Scotland under an Order in Council made under section 13 of the Civil Jurisdiction and Judgments Act 1982; [^F304][[^F305]...
+  
+  - (j) a [^F306]maintenance assessment [[^F306]maintenance calculation] within the meaning of the Child Support Act 1991] [[^F307]; or
+  
+  - (k) a maintenance decision (within the meaning of regulation 2 of the International Recovery of Maintenance (Hague Convention 2007) (Scotland) Regulations 2012 (S.S.I. 2012/301) or maintenance arrangement (within the meaning of Article 3(e) of the Hague Convention) which is registered in the sheriff court under the Hague Convention.]
+
+- [^F308]...
+
+- “net earnings” has the meaning given to it in section 73(1) of this Act;
+
+- “officer of court” means a messenger-at-arms or a sheriff officer;
+
+- “ordinary debt” has the meaning given to it in section 73(1) of this Act;
+
+- [[^F309]“summary warrant” means a summary warrant granted under or, as the case may be, by virtue of—
+
+  - (a) paragraph 7 of Schedule 2 to the Abolition of Domestic Rates Etc. (Scotland) Act 1987;
+  - (b) paragraph 2 of Schedule 8 to the [^M35]Local Government Finance Act 1992;
+  - (c) paragraph 2 of Schedule 10 to the Local Government etc. (Scotland) Act 1994; or
+  - (cc) [^F310]...
+  - (cca) [[^F311]paragraph 2 of schedule 4 to the Water Industry (Scotland) Act 2002 (asp 3);]
+  - (d) [[^F312]the enactments (other than the Taxes Management Act 1970)] mentioned in Schedule 4 to this Act;
+  - (e) [[^F313]section 128 of the Finance Act 2008.]]
+  - (f) [[^F314]section 225 of the Revenue Scotland and Tax Powers Act 2014 (asp 16).]
+
+- [^F315]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 107 Financial provisions.
+
+(1) Any sums recovered by the Lord Advocate under section 79(6)(b) or 80(9) of this Act shall be paid by him into the Consolidated Fund.
+
+(2) There shall be paid out of money provided by Parliament—
+
+(a) any fees or outlays payable under section 78(4) or 79(4) of this Act;
+
+(b) any expenses payable by the Lord Advocate under section 79(6)(a) of this Act; and
+
+(c) any increase attributable to this Act in the sums payable out of money so provided under any other Act.
+
+### 108 Minor and consequential amendments, transitional provisions and repeals.
+
+(1) The amendments specified in Schedule 6 to this Act, being minor amendments or amendments consequential on the provisions of this Act, shall have effect.
+
+(2) The transitional provisions contained in Schedule 7 to this Act shall have effect.
+
+(3) The enactments mentioned in columns 1 and 2 of Schedule 8 to this Act are repealed to the extent specified in column 3 thereof.
+
+### 109 Short title, commencement and extent.
+
+(1) This Act may be cited as the Debtors (Scotland) Act 1987.
+
+(2) This Act (except this section) shall come into force on such day as the Lord Advocate may by order made by statutory instrument appoint, and different days may be so appointed for different purposes and for different provisions.
+
+(3) This Act extends to Scotland only.
+
+## [^F316]SCHEDULE 1 — EXPENSES OF POINDING AND SALE
+
+*Section 44.*
+
+### Expenses chargeable against the debtor
+
+**1** (1) Subject to paragraphs 2, 3 and 5 to 7 below, there shall be chargeable against the debtor any expenses incurred—
+
+(a) subject to section 90(7) of this Act, in serving a charge;
+
+(b) in serving a notice under section 18 of this Act before entering a dwellinghouse for the purpose of executing a poinding;
+
+(c) in executing a poinding under section 20 of this Act;
+
+(d) in making a report under section 21(4) of this Act of the redemption by the debtor of any poinded article;
+
+(e) in granting a receipt under section 21(5) of this Act for payment for redemption under subsection (4) of that section;
+
+(f) in making a report under section 22 of this Act of the execution of a poinding, but not in applying for an extension of time for the making of such a report;
+
+(g) in applying for a warrant of sale under section 30(1) of this Act;
+
+(h) in granting a receipt under section 33(3) of this Act for payment for the redemption of any poinded article;
+
+(j) in making a report under section 33(5)(b) of this Act of the release or redemption of poinded articles;
+
+(k) in making intimation, serving a copy of the warrant of sale and giving public notice under section 34 of this Act;
+
+(l) in removing any articles for sale in pursuance of a warrant of sale;
+
+(m) in making arrangements for, conducting and supervising a warrant sale;
+
+(n) where the arrangements for a sale have been cancelled under section 36(1) of this Act, in returning poinded articles to any premises from which they have been removed for sale;
+
+(o) in making a report of an agreement under section 36(2) of this Act;
+
+(p) subject to section 39(3) of this Act, in making a report of sale under that section;
+
+(q) in granting a receipt under section 41(4) of this Act for payment for the release from a poinding of any article which is owned in common;
+
+(r) in making a report under section 41(5)(b) of this Act of the release of any such article;
+
+(s) in opening shut and lockfast places in the execution of the diligence;
+
+(t) by a solicitor in instructing an officer of court to take any of the steps specified in this sub-paragraph.
+
+(2) The Lord Advocate may by regulations add to, delete or vary any of the steps specified in sub-paragraph (1) above.
+
+**2** Where a warrant of sale is varied under section 35 of this Act, there shall be chargeable against the debtor the expenses incurred in the application for the variation and the execution of the warrant of sale as varied but, subject to paragraph 4 below, not in the application for, and the execution of, the original warrant of sale.
+
+**3** Where arrangements for a sale are cancelled under subsection (1) of section 36 of this Act, if new arrangements are made for the sale in the circumstances mentioned in subsection (3)(a) of that section, there shall be chargeable against the debtor the expenses incurred in the making of the new arrangements but not in the making of the arrangements which have been cancelled.
+
+**4** Where a warrant of sale is varied under section 35 of this Act and the sheriff has awarded an additional sum of expenses under paragraph 9 below in the application for the original warrant of sale, that sum shall be chargeable against the debtor.
+
+**5** Subject to paragraph 6 below, where any such further poinding as is mentioned in section 28(2) of this Act has been executed, there shall be chargeable against the debtor the expenses incurred in that poinding but not the expenses incurred in the original poinding.
+
+**6** Where any such further poinding as is mentioned in subsection (2) of section 28 of this Act has been executed and—
+
+(a) the creditor has, as a condition of his consenting to the removal of the poinded articles under subsection (1)(a) of that section, required the debtor to undertake liability for the expenses incurred in the original poinding; or
+
+(b) the sheriff has, when authorising the removal of the poinded articles under subsection (1)(b) of that section, directed that the debtor shall be liable for those expenses,
+
+there shall be chargeable against the debtor the expenses incurred in both poindings.
+
+**7** Where a new date is arranged under section 35(10) of this Act for the holding of a warrant sale or for the removal of poinded articles for sale, there shall be chargeable against the debtor the expenses incurred in connection with arranging the new date but not those incurred in connection with arranging the original date.
+
+### Circumstances where liability for expenses is at the discretion of the sheriff
+
+**8** The liability for any expenses incurred by the creditor or the debtor—
+
+(a) in an application by the creditor or an officer of court to the sheriff under any provision of Part II of this Act, other than an application for a warrant of sale under section 30(1) of this Act or an application for variation of a warrant of sale under section 35(1) of this Act; or
+
+(b) in implementing an order under—
+
+(i) section 21(1) of this Act (order for security or immediate disposal of poinded articles); or
+
+(ii) section 28(4) to (6) or 29 of this Act (orders dealing with unauthorised removal, damage or destruction of poinded articles),
+
+shall be as determined by the sheriff.
+
+### Calculation of amount chargeable against debtor under the foregoing provisions
+
+**9** Expenses—
+
+(a) chargeable against the debtor by virtue of any of paragraphs 1 to 6 above in respect of an application under Part II of this Act; or
+
+(b) awarded by the sheriff against the debtor in favour of the creditor in a determination under paragraph 8 above in respect of an application other than an application under section 28(4) to (6) or 29 of this Act,
+
+shall be calculated, whether or not the application is opposed by the debtor, as if it were unopposed, except that, if the debtor opposes the application on grounds which appear to the sheriff to be frivolous, the sheriff may award an additional sum of expenses, not exceeding £25 or such amount as may be prescribed in regulations made by the Lord Advocate, against the debtor.
+
+### Circumstances where no expenses are due to or by either party
+
+**10** Subject to paragraph 11 below, the debtor shall not be liable to the creditor nor the creditor to the debtor for any expenses incurred by the other party in connection with—
+
+(a) an application by the debtor to the sheriff under any provision of Part II of this Act;
+
+(b) any objections to such an application;
+
+(c) a hearing held by virtue of section 24(5), 30(4), 35(6) or 39(6) of this Act.
+
+**11** If—
+
+(a) an application mentioned in paragraph 10(a) above is frivolous;
+
+(b) such an application is opposed on frivolous grounds; or
+
+(c) a party requires a hearing held by virtue of any of the provisions mentioned in paragraph 10(c) above to be held on frivolous grounds,
+
+the sheriff may award a sum of expenses, not exceeding £25 or such amount as may be prescribed in regulations made by the Lord Advocate, against the party acting frivolously in favour of the other party.
+
+### Supplementary
+
+**12** Any expenses chargeable against the debtor by virtue of any provision of this Schedule shall be recoverable out of the proceeds of sale.
+
+## SCHEDULE 2 — ARRESTMENT
+
+*Section 49.*
+
+<table>
+<thead>
+<tr><th>Net earnings</th><th>Deduction [^n1]</th></tr>
+</thead>
+<tbody>
+<tr><td>Not exceeding £172.61</td><td>Nil</td></tr>
+<tr><td>Exceeding £172.61 but not exceeding £345.22</td><td>£2.30 or 15% of earnings exceeding £172.61, whichever is the greater</td></tr>
+<tr><td>Exceeding £345.22 but not exceeding £575.37</td><td>£25.89 plus 20% of earnings exceeding £345.22</td></tr>
+<tr><td>Exceeding £575.37 but not exceeding £863.06</td><td>£71.92 plus 25% of earnings exceeding £575.37</td></tr>
+<tr><td>Exceeding £863.06</td><td>£143.84 plus 50% of earnings exceeding £863.06</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2"></td></tr>
+</tfoot>
+</table>
+
+<table>
+<thead>
+<tr><th>Net earnings</th><th>Deduction [^n2]</th></tr>
+</thead>
+<tbody>
+<tr><td>Not exceeding £750.00</td><td>Nil</td></tr>
+<tr><td>Exceeding £750.00 but not exceeding £1,500.00</td><td>£10.00 or 15% of earnings exceeding £750.00, whichever is the greater</td></tr>
+<tr><td>Exceeding £1,500.00 but not exceeding £2,500.00</td><td>£112.50 plus 20% of earnings exceeding £1,500.00</td></tr>
+<tr><td>Exceeding £2,500.00 but not exceeding £3,750.00</td><td>£312.50 plus 25% of earnings exceeding £2,500.00</td></tr>
+<tr><td>Exceeding £3,750.00</td><td>£625.00 plus 50% of earnings exceeding £3,750.00</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2"></td></tr>
+</tfoot>
+</table>
+
+<table>
+<thead>
+<tr><th>Net earnings</th><th>Deduction [^n3]</th></tr>
+</thead>
+<tbody>
+<tr><td>Not exceeding £24.66</td><td>Nil</td></tr>
+<tr><td>Exceeding £24.66 but not exceeding £49.32</td><td>£0.33 or 15% of earnings exceeding £24.66, whichever is the greater</td></tr>
+<tr><td>Exceeding £49.32 but not exceeding £82.19</td><td>£3.70 plus 20% of earnings exceeding £49.32</td></tr>
+<tr><td>Exceeding £82.19 but not exceeding £123.29</td><td>£10.27 plus 25% of earnings exceeding £82.19</td></tr>
+<tr><td>Exceeding £123.29</td><td>£20.55 plus 50% of earnings exceeding £123.29</td></tr>
+</tbody>
+<tfoot>
+<tr><td colspan="2"></td></tr>
+</tfoot>
+</table>
+
+## SCHEDULE 3 — DISBURSEMENTS BY SHERIFF CLERKS UNDER CONJOINED ARRESTMENT ORDER
+
+*Section 64.*
+
+**1** Where all the debts are ordinary debts, in every disbursement by the sheriff clerk each creditor shall be paid the same proportion of the amount of his debt.
+
+**2** Where all the debts are current maintenance, then, in any such disbursement, if the sum available for disbursement is—
+
+(a) sufficient to satisfy every creditor in respect of the amount of maintenance to be deducted in respect of his debt on that pay-day, each creditor shall be paid that amount;
+
+(b) insufficient to satisfy every creditor in respect of the amount of maintenance specified in paragraph (a) above, each creditor shall be paid the same proportion of that amount.
+
+**3** Subject to paragraph 4 below, where the debts comprise both ordinary debts and current maintenance, then, in any such disbursement—
+
+(a) if only one of the debts is an ordinary debt, the creditor in that debt shall be paid the sum which would be payable to him if the debt were being enforced by an earnings arrestment;
+
+(b) if more than one of the debts is an ordinary debt, each of the creditors in those debts, out of the sum which would be payable to a creditor if the debt were a single debt being enforced by an earnings arrestment, shall be paid the same proportion of the amount of his debt;
+
+(c) if only one of the debts is current maintenance, the creditor in that debt shall be paid the sum which would be payable to him under section 51 of this Act if the debt were being enforced by a current maintenance arrestment;
+
+(d) if more than one of the debts is current maintenance, each of the creditors in those debts shall receive a payment in accordance with paragraph 2 of this Schedule.
+
+**4** If the sum available for any disbursement is insufficient to enable the provisions of paragraph 3 above to operate both in relation to the ordinary debts and the current maintenance, [[^F317]disbursement shall be in accordance with paragraph 4A below.]
+
+**[[^F318]4A** Where—
+
+(a) only one of the debts is an ordinary debt, the creditor in that debt shall be paid the sum equal to—
+
+D × (E)/(S)
+
+;
+
+(b) more than one of the debts is an ordinary debt, each of the creditors in those debts, out of the sum mentioned in sub-paragraph (a) above, shall be paid the same proportion of the amount of that creditor's debt;
+
+(c) only one of the debts is current maintenance, the creditor in that debt shall be paid the sum equal to—
+
+D × (C)/(S)
+
+;
+
+(d) more than one of the debts is current maintenance, each of the creditors in those debts, out of the sum mentioned in sub-paragraph (c) above, shall be paid the same proportion of the amount of that creditor's debt,
+
+where—
+
+- D is the sum deducted under subsection (5) of section 63 of this Act;
+- E is the sum deducted under paragraph (a) of that subsection;
+- C is the sum which would, if the only debts were the current maintenance debts, be deducted under subsection (3) of that section; and
+- S is the total of E and C.]
+
+**5** For the purposes of this Schedule, the amount of an ordinary debt—
+
+(a) of a creditor whose debt was being enforced by an earnings arrestment which was recalled under section 60(3) of this Act, shall be the amount specified in the earnings arrestment schedule;
+
+(b) of any other creditor, shall be the amount specified in the conjoined arrestment order or the order under section 62(5) of this Act.
+
+## SCHEDULE 4 — RECOVERY OF RATES AND TAXES ETC.
+
+*Section 74(1).*
+
+### The Local Government (Scotland) Act 1947 (c. 43.)
+
+**1** (1) For section 247 there shall be substituted the following sections—
+
+> **Recovery of rates.**
+>
+> **247** (1) Subject to subsections (4) and (5) below, arrears of rates may be recovered by a rating authority by diligence—
+>
+> (a) authorised by a summary warrant granted under subsection (2) below; or
+>
+> (b) in pursuance of a decree granted in an action for payment.
+>
+> (2) Subject to subsection (4) below, the sheriff, on an application by the rating authority accompanied by a certificate by the rating authority—
+>
+> (a) stating that none of the persons specified in the application has paid the rates due by him;
+>
+> (b) stating that the authority has given written notice to each such person requiring him to make payment of the amount due by him within a period of 14 days after the date of the giving of the notice;
+>
+> (c) stating that the said period of 14 days has expired without payment of the said amount; and
+>
+> (d) specifying the amount due and unpaid by each such person,
+>
+> shall grant a summary warrant in a form prescribed by Act of Sederunt authorising the recovery by any of the diligences mentioned in subsection (3) below of the amount remaining due and unpaid along with a surcharge of 10 per cent. (or such percentage as may be prescribed) of that amount.
+>
+> (3) The diligences referred to in subsection (2) above are—
+>
+> (a) a poinding and sale in accordance with Schedule 5 to the Debtors (Scotland) Act 1987;
+>
+> (b) an earnings arrestment;
+>
+> (c) an arrestment and action of furthcoming or sale.
+>
+> (4) It shall not be competent for the sheriff to grant a summary warrant under subsection (2) above in respect of rates due by a debtor if an action has already been commenced for the recovery of those rates; and, without prejudice to subsection (5) below, on the commencing of an action for the recovery of rates, any existing summary warrant in so far as it relates to the recovery of those rates shall cease to have effect.
+>
+> (5) It shall not be competent to commence an action for the recovery of rates if, in pursuance of a summary warrant, any of the diligences mentioned in subsection (3) above for the recovery of those rates has been executed.
+>
+> (6) In any proceedings for the recovery of rates, whether by summary warrant or otherwise, no person shall be entitled to found upon failure of the rating authority or any other authority to comply with any provision of this Part of this Act relating to the date by which something shall be done, not being a provision in this section or a provision regulating the diligence.
+>
+> (7) Regulations under subsection (2) above shall be made by statutory instrument and shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> **Sheriff officer’s fees and outlays.**
+>
+> **247A** (1) Subject to subsection (2) below and without prejudice to paragraphs 25 to 34 of Schedule 5 to the Debtors (Scotland) Act 1987 (expenses of poinding and sale), the sheriff officer’s fees, together with the outlays necessarily incurred by him, in connection with the execution of a summary warrant shall be chargeable against the debtor.
+>
+> (2) No fee shall be chargeable by the sheriff officer against the debtor for collecting, and accounting to the rating authority for, sums paid to him by the debtor in respect of the amount owing.
+
+.
+
+(2) In section 250, for the words from “warrant” to “in payment” where third occurring there shall be substituted the words—
+
+> a summary warrant in a form prescribed by Act of Sederunt authorising the recovery by any of the diligences mentioned in section 247(3) of this Act of the amount remaining due and unpaid
+
+.
+
+### The Taxes Management Act 1970 (c. 9.)
+
+**2** For section 63 there shall be substituted the following sections—
+
+> **Recovery of tax in Scotland.**
+>
+> **63** (1) Subject to subsection (3) below, in Scotland, where any tax is due and has not been paid, the sheriff, on an application by the collector accompanied by a certificate by the collector—
+>
+> (a) stating that none of the persons specified in the application has paid the tax due by him;
+>
+> (b) stating that the collector has demanded payment under section 60 of this Act from each such person of the amount due by him;
+>
+> (c) stating that 14 days have elapsed since the date of such demand without payment of the said amount; and
+>
+> (d) specifying the amount due and unpaid by each such person,
+>
+> shall grant a summary warrant in a form prescribed by Act of Sederunt authorising the recovery, by any of the diligences mentioned in subsection (2) below, of the amount remaining due and unpaid.
+>
+> (2) The diligences referred to in subsection (1) above are—
+>
+> (a) a poinding and sale in accordance with Schedule 5 to the Debtors (Scotland) Act 1987;
+>
+> (b) an earnings arrestment;
+>
+> (c) an arrestment and action of furthcoming or sale.
+>
+> (3) Paragraph (c) of subsection (1) above shall not apply to an application under that subsection which relates to tax deducted from the emoluments of an office or employment by virtue of regulations under section 204 of the principal Act.
+>
+> **Sheriff officer’s fees and outlays.**
+>
+> **63A** (1) Subject to subsection (2) below and without prejudice to paragraphs 25 to 34 of Schedule 5 to the Debtors (Scotland) Act 1987 (expenses of poinding and sale), the sheriff officer’s fees, together with the outlays necessarily incurred by him, in connection with the execution of a summary warrant shall be chargeable against the debtor.
+>
+> (2) No fee shall be chargeable by the sheriff officer against the debtor for collecting, and accounting to the collector for, sums paid to him by the debtor in respect of the amount owing.
+
+.
+
+### The Car Tax Act 1983 (c. 53.)
+
+**[^F319]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Value Added Tax Act 1983 (c. 55.)
+
+**[^F320]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F321] SCHEDULE 5 — POINDINGS AND SALES IN PURSUANCE OF SUMMARY WARRANTS
+
+*Section 74.*
+
+### Articles exempt from poinding
+
+**1** (1) The following articles belonging to a debtor shall be exempt from poinding at the instance of a creditor in respect of a debt due to him by the debtor—
+
+(a) clothing reasonably required for the use of the debtor or any member of his household;
+
+(b) implements, tools of trade, books or other equipment reasonably required for the use of the debtor or any member of his household in the practice of the debtor’s or such member’s profession, trade or business, not exceeding in aggregate value £500 or such amount as may be prescribed in regulations made by the Lord Advocate;
+
+(c) medical aids or medical equipment reasonably required for the use of the debtor or any member of his household;
+
+(d) books or other articles reasonably required for the education or training of the debtor or any member of his household not exceeding in aggregate value £500 or such amount as may be prescribed in regulations made by the Lord Advocate;
+
+(e) toys for the use of any child who is a member of the debtor’s household;
+
+(f) articles reasonably required for the care or upbringing of a child who is a member of the debtor’s household.
+
+(2) The following articles belonging to a debtor shall be exempt from poinding if they are at the time of the poinding in a dwellinghouse and are reasonably required for the use in the dwellinghouse of the person residing there or a member of his household—
+
+(a) beds or bedding;
+
+(b) household linen;
+
+(c) chairs or settees;
+
+(d) tables;
+
+(e) food;
+
+(f) lights or light fittings;
+
+(g) heating appliances;
+
+(h) curtains;
+
+(j) floor coverings;
+
+(k) furniture, equipment or utensils used for cooking, storing or eating food;
+
+(l) refrigerators;
+
+(m) articles used for cleaning, mending, or pressing clothes;
+
+(n) articles used for cleaning the dwellinghouse;
+
+(o) furniture used for storing—
+
+(i) clothing, bedding or household linen;
+
+(ii) articles used for cleaning the dwellinghouse; or
+
+(iii) utensils used for cooking or eating food;
+
+(p) articles used for safety in the dwellinghouse;
+
+[[^F322](r) computers and accessory equipment;
+
+(s) microwave ovens;
+
+(t) radios;
+
+(u) telephones;
+
+(v) televisions.]
+
+(q) tools used for maintenance or repair of the dwellinghouse or of household articles.
+
+(3) The Lord Advocate may by regulations add to the list set out in sub-paragraph (2) above, or delete or vary any of the items contained in that list.
+
+(4) If, on an application made within 14 days after the date of the execution of the poinding—
+
+(a) by the debtor or any person who owns a poinded article in common with the debtor; or
+
+(b) by any person in possession of a poinded article,
+
+the sheriff is satisfied that the article is exempt from poinding under this paragraph, he shall make an order releasing the article from the poinding.
+
+### Restrictions on time when poinding may be executed
+
+**2** (1) No poinding shall be executed on Sunday, Christmas Day, New Year’s Day, Good Friday or such other day as may be prescribed by Act of Sederunt.
+
+(2) The execution of a poinding shall not—
+
+(a) be commenced before 8 a.m. or after 8 p.m.; or
+
+(b) be continued after 8 p.m.,
+
+unless the sheriff officer has obtained prior authority from the sheriff for such commencement or continuation; and any rule of law which prohibits poindings outwith the hours of daylight shall cease to have effect.
+
+### Power of entry for execution of poinding
+
+**3** (1) Subject to sub-paragraph (2) below, notwithstanding any warrant authorising him to open shut and lockfast places, a sheriff officer shall not enter a dwellinghouse to execute a poinding if, at the time of his intended entry, there appears to him to be nobody, or only children under the age of 16 years, present there unless, at least 4 days before the date of his intended entry, he has served notice on the debtor specifying that date.
+
+(2) If it appears to the sheriff, on an application made to him by the sheriff officer (which shall not require to be intimated to the debtor), that the requirement of service under this paragraph would be likely to prejudice the execution of the poinding he may dispense with such service.
+
+### Value of articles which may be poinded and presumption as to ownership
+
+**4** (1) The sheriff officer shall be entitled to poind articles only to the extent necessary to ensure that the sum recoverable and the likely expenses chargeable against the debtor under paragraphs 25 to 34 below would be realised if they were sold at the value fixed under paragraph 5(4) below.
+
+(2) In executing a poinding, a sheriff officer shall be entitled to proceed on the assumption that any article in the possession of the debtor is owned by him unless the sheriff officer knows or ought to know that the contrary is the case.
+
+(3) The sheriff officer shall not be precluded from relying on the assumption mentioned in sub-paragraph (2) above by reason only of one or both of the following circumstances—
+
+(a) that the article belongs to a class which is commonly held under a hire, hire-purchase or conditional sale agreement or on some other limited title of possession;
+
+(b) that an assertion has been made that the article is not owned by the debtor.
+
+### Poinding procedure
+
+**5** (1) The procedure in a poinding shall be in accordance with this paragraph and paragraph 6 below.
+
+(2) Before executing the poinding, the sheriff officer shall—
+
+(a) exhibit to any person present the summary warrant or, if the warrant does not identify the debtor, a certified copy of the warrant together with a statement certified by the creditor that the summary warrant applies to the debtor;
+
+(b) demand payment of the sum recoverable from the debtor, if he is present, or any person present appearing to the sheriff officer to be authorised to act for the debtor; and
+
+(c) make enquiry of any person present as to the ownership of the articles proposed to be poinded, and in particular whether there are any persons who own any articles in common with the debtor.
+
+(3) The sheriff officer shall be accompanied at the poinding by one witness.
+
+(4) The poinded articles shall be valued by the sheriff officer according to the price which they would be likely to fetch if sold on the open market unless he considers that the articles are such that a valuation by a professional valuer or other suitably skilled person is advisable, in which case he may arrange for such a valuation.
+
+(5) The sheriff officer shall prepare a schedule (referred to in this Schedule as “the poinding schedule”), in the form prescribed by Act of Sederunt, which shall specify—
+
+(a) the identity of the creditor and of the debtor;
+
+(b) the articles poinded, and their respective values;
+
+(c) the sum recoverable; and
+
+(d) the place where the poinding was executed.
+
+(6) On completion of the valuation the sheriff officer shall—
+
+(a) along with the witness sign the poinding schedule;
+
+(b) deliver the poinding schedule to any person in possession of the articles or—
+
+(i) where the poinding was executed in a dwellinghouse or other premises, leave it in the premises; or
+
+(ii) in any other case, deliver it to premises occupied by that person;
+
+(c) if the person in possession of the articles is not the debtor and it is reasonably practicable, serve a copy of it by post on the debtor;
+
+(d) inform the debtor (if present) of his right to redeem poinded articles under paragraph 6(4) below;
+
+(e) inform any person present who owns any poinded article in common with the debtor of his right to redeem poinded articles under paragraph 22(2) and (3) below; and
+
+(f) inform the debtor (if present) and any person present who owns any poinded article in common with the debtor, or who is in possession of any poinded article, of his right to apply for an order releasing articles from poinding under paragraph 1(4) above or paragraph 7(1) or 22(3)(b) below.
+
+(7) The sheriff officer shall leave poinded articles at the place where they were poinded, except that where that place is not a dwellinghouse or other premises, if he considers it necessary for their security or the preservation of their value and there is insufficient time to obtain an order under paragraph 6(1)(a) below, he shall remove them at the creditor’s expense—
+
+(a) to the nearest convenient premises belonging to the debtor or to the person in possession of the articles; or
+
+(b) if no such premises are available, to the nearest suitable secure premises.
+
+**6** (1) The sheriff, on an application by the creditor, the sheriff officer or the debtor intimated in accordance with sub-paragraph (2) below, may at any time after the execution of a poinding make an order—
+
+(a) for the security of any of the poinded articles; or
+
+(b) in relation to any of the articles which are of a perishable nature or which are likely to deteriorate substantially and rapidly in condition or value, for their immediate disposal and, in the event of their disposal by sale, for payment of the proceeds of sale to the creditor or for consignation of the proceeds in court until the diligence is completed or otherwise ceases to have effect,
+
+and a decision of the sheriff under paragraph (b) above for the immediate disposal of articles shall not be subject to appeal.
+
+(2) An application for an order under sub-paragraph (1)(b) above—
+
+(a) by the creditor or the sheriff officer, shall be intimated by him to the debtor;
+
+(b) by the debtor, shall be intimated to the creditor or the officer of court,
+
+at the time when it is made.
+
+(3) It shall not be competent for a sheriff officer in executing a poinding to examine a person on oath as to the ownership of any article.
+
+(4) Subject to sub-paragraph (1)(b) above, the debtor shall be entitled, within 14 days after the date of execution of the poinding, to redeem any poinded article at the value fixed under paragraph 5(4) above.
+
+(5) The sheriff officer shall, on receiving payment from the debtor for the redemption under sub-paragraph (4) above of a poinded article, grant a receipt in the form prescribed by Act of Sederunt to the debtor; and the receipt shall operate as a release of the article from the poinding.
+
+(6) Subject to paragraph 13(2)(b) below, the revaluation in the same poinding of an article which has been valued under paragraph 5(4) above shall not be competent.
+
+(7) A poinding shall be deemed to have been executed on the date when the poinding schedule has been delivered, or left on the premises, in pursuance of paragraph 5(6)(b) above.
+
+(8) At any time before the execution of a poinding on behalf of a creditor, a sheriff officer shall, if requested to do so by any other creditor who has exhibited to him a summary warrant authorising the poinding of articles belonging to the debtor, conjoin that creditor in the poinding.
+
+### Release of poinded article on ground of undue harshness
+
+**7** (1) The sheriff may, on an application made within 14 days after the date of execution of a poinding by the debtor or any person in possession of a poinded article, make an order releasing an article from the poinding if it appears to the sheriff that its continued inclusion in the poinding or its sale under the summary warrant would be unduly harsh in the circumstances.
+
+(2) Where the sheriff has made an order under subsection (1) above he may, notwithstanding paragraph 9 below, on an application by the creditor or by a sheriff officer on his behalf, authorise the poinding of other articles belonging to the debtor on the same premises.
+
+### Invalidity, cessation and recall of poinding
+
+**8** (1) If, at any time before the sale of the poinded articles, the sheriff is satisfied that the poinding is invalid or has ceased to have effect he shall, on his own initiative or on an application by the debtor, make an order declaring the poinding to be void, and may make such consequential order as appears to him to be necessary in the circumstances.
+
+(2) Without prejudice to paragraph 1(4) above, it shall not be competent for the sheriff to make an order under sub-paragraph (1) above on the ground that any poinded article is exempt from poinding under that paragraph.
+
+(3) At any time before intimation is given to the debtor under paragraph 16 below of the date arranged for the removal of the poinded articles for sale or, if the articles are to be sold in the premises where they are situated, the date arranged for the sale, the sheriff may, on an application by the debtor, recall a poinding on any of the following grounds—
+
+(a) that it would be unduly harsh in the circumstances for the poinded articles to be sold under the summary warrant;
+
+(b) that the aggregate of the values of the poinded articles fixed under paragraph 5(4) above was substantially below the aggregate of the prices which they would have been likely to fetch if sold on the open market; or
+
+(c) that the likely aggregate proceeds of sale of the poinded articles would not exceed the expenses likely to be incurred in the taking of further steps in the diligence, on the assumption that such steps are unopposed.
+
+(4) The sheriff shall not grant an application on the ground mentioned in sub-paragraph (3)(c) above if an order for further poinding of articles belonging to the debtor has been authorised under paragraph 7(2) above or paragraphs 12(6) or 13(2) below, or has become competent by reason of paragraph 12(2), 21(4) or 22(5) below.
+
+(5) The sheriff shall not make an order under sub-paragraph (1) above, recall a poinding or refuse an application under this paragraph without first giving the debtor and the creditor—
+
+(a) an opportunity to make representations; and
+
+(b) if either party wishes to be heard, an opportunity to be heard.
+
+(6) The sheriff clerk shall intimate to the debtor any order made under sub-paragraph (1) above by the sheriff on his own initiative.
+
+### Second poinding in same premises
+
+**9** Subject to paragraph 7(2) above and paragraphs 12(2) and (6), 13(2), 21(4) and 22(5) below, where articles are poinded in any premises (whether or not the poinding is valid), another poinding in those premises to enforce the same debt shall not be competent except in relation to articles which have been brought on to the premises since the execution of the first poinding.
+
+### Sist of proceedings in poinding of mobile homes
+
+**10** (1) Where a caravan, houseboat or other moveable structure which is the only or principal residence of the debtor or another person has been poinded the sheriff, on an application by the debtor or that other person made at any time after the execution of the poinding and before intimation is given to the debtor under paragraph 16 below of the date arranged for the removal of the poinded articles for sale or, if the articles are to be sold in the premises where they are situated, the date arranged for the sale, may order that for such period as he shall specify no further steps shall be taken in the poinding.
+
+(2) In calculating under paragraph 11(1) or (2) below the period during which a poinding in respect of which an order has been made under sub-paragraph (1) above shall remain effective, there shall be disregarded the period specified in the order.
+
+### Duration of poinding
+
+**11** (1) Subject to sub-paragraphs (2), (3) and (5) below, a poinding shall cease to have effect on the expiry of a period of one year after the date of execution of the poinding.
+
+(2) The sheriff, on an application by the creditor or by a sheriff officer on his behalf made before the expiry of the period mentioned in sub-paragraph (1) above, may extend that period—
+
+(a) where he considers that, if the said period is extended, the debtor is likely to comply with an agreement between the creditor and the debtor for the payment of the sum recoverable by instalments or otherwise; or
+
+(b) to enable further proceedings to be taken in the diligence where the termination of the poinding would prejudice the creditor and the creditor cannot be held responsible for the circumstances giving rise to the need for the extension,
+
+for such further period as he considers reasonable in the circumstances.
+
+(3) The sheriff may grant further extensions under sub-paragraph (2) above, on application being made to him before the expiry of the previously extended period.
+
+(4) The decision of the sheriff under sub-paragraph (2) above shall not be subject to appeal, and shall be intimated to the debtor by the sheriff clerk.
+
+(5) Where, within the period mentioned in sub-paragraph (1) above or within that period as extended under sub-paragraph (2) above, an application is made under sub-paragraph (2) above, the poinding shall continue to have effect until the disposal of the application.
+
+### Removal, damage or destruction of poinded articles
+
+**12** (1) The debtor or the person in possession of poinded articles may move them to another location if—
+
+(a) the creditor or a sheriff officer on behalf of the creditor has consented in writing to their removal; or
+
+(b) the sheriff, on an application by the debtor or the person in possession, has authorised their removal.
+
+(2) Where poinded articles have been removed under sub-paragraph (1) above, a sheriff officer may, under the same warrant to poind, again poind any of the articles so removed and, notwithstanding paragraph 9 above, any articles which were not so removed, whether or not they were previously poinded; and, on the execution of any such further poinding, the original poinding shall be deemed to have been abandoned.
+
+(3) The removal, except in accordance with this Schedule, from any premises of poinded articles by—
+
+(a) the debtor; or
+
+(b) any person, other than the creditor or a sheriff officer, who knows that the articles have been poinded,
+
+shall be a breach of the poinding and may be dealt with as a contempt of court.
+
+(4) Where articles have been removed from premises otherwise than in accordance with this Schedule, the sheriff, on an application by the creditor—
+
+(a) may, subject to sub-paragraph (5) below, make an order requiring the person in possession of the articles to restore them to the premises from which they were removed within a period specified in the order; and
+
+(b) if an order under paragraph (a) above is not complied with, and it appears to the sheriff that the articles are likely to be found in premises specified in the application, may grant a warrant to sheriff officers—
+
+(i) to search for the articles in those premises; and
+
+(ii) to restore the articles to the premises from which they were removed or to make such other arrangements for their security as the sheriff may direct,
+
+and such a warrant shall be authority to open shut and lockfast places for the purpose of its execution.
+
+(5) Where it appears to the sheriff, on an application made to him by any person having an interest, that any article which has been removed from premises otherwise than in accordance with this Schedule has been acquired for value and without knowledge of the poinding, he shall—
+
+(a) refuse an order under sub-paragraph (4)(a) above relating to that article;
+
+(b) recall any such order which he has already made; and
+
+(c) make an order releasing the article from the poinding.
+
+(6) Where articles have been removed from premises otherwise than in accordance with this Schedule in circumstances in which the debtor is at fault the sheriff, on an application by the creditor or by a sheriff officer on his behalf, may, notwithstanding paragraph 9 above, authorise the poinding of other articles belonging to the debtor in the same premises.
+
+(7) The removal of poinded articles to another location shall not have the effect of releasing the articles from the poinding.
+
+**13** (1) The wilful damage or destruction of poinded articles by—
+
+(a) the debtor; or
+
+(b) any person, other than the creditor or a sheriff officer, who knows that the articles have been poinded,
+
+shall be a breach of the poinding and may be dealt with as a contempt of court.
+
+(2) Where poinded articles have been damaged or destroyed the sheriff, on an application by the creditor or by the sheriff officer on his behalf, may—
+
+(a) where the debtor has been at fault, authorise the poinding of other articles belonging to the debtor in the premises in which the original poinding took place; and
+
+(b) in any case, authorise the revaluation of any damaged article in accordance with paragraph 5(4) above.
+
+(3) Where a third party, knowing that an article has been poinded—
+
+(a) wilfully damages or destroys it; or
+
+(b) removes it from premises in breach of a poinding, and—
+
+(i) it is damaged, destroyed, lost or stolen; or
+
+(ii) it is acquired from or through him by another person without knowledge of the poinding and for value,
+
+the sheriff may order the third party to consign the sum mentioned in sub-paragraph (4) below in court until the completion of the sale or until the poinding otherwise ceases to have effect.
+
+(4) The sum to be consigned in court under sub-paragraph (3) above shall be—
+
+(a) where the article has been damaged but not so damaged as to make it worthless, a sum equal to the difference between the value of the article fixed under paragraph 5(4) above and the value of the article as so damaged;
+
+(b) in any other case, a sum equal to the value fixed under that paragraph.
+
+(5) Any sum consigned in court under sub-paragraph (3) above shall, on the completion of the sale or on the poinding otherwise ceasing to have effect, be paid to the creditor to the extent necessary to meet the sum recoverable, any surplus thereof being paid to the debtor.
+
+### Arrangements for sale
+
+**14** (1) A sale in pursuance of a summary warrant shall be by public auction.
+
+(2) A sale in pursuance of a summary warrant shall not be held in a dwellinghouse except with the consent in writing, in a form to be prescribed by Act of Sederunt, of the occupier thereof and, if he is not the occupier, of the debtor.
+
+(3) Subject to sub-paragraph (4) below, the sale shall not be held in premises (other than a dwellinghouse or an auction room) which are occupied by a person other than the debtor or the creditor except with the consent in writing, in a form to be prescribed by Act of Sederunt, of the occupier thereof.
+
+(4) Where the occupier of premises (other than a dwellinghouse or an auction room) where poinded articles are situated does not give his consent under sub-paragraph (3) above to the holding of the sale in those premises, the sheriff may, if on an application by the creditor or the sheriff officer he considers that it would be unduly costly to require the removal of the poinded articles to other premises for sale, nevertheless order that the sale shall be held in the premises where they are situated.
+
+(5) The decision of the sheriff under sub-paragraph (4) above shall not be subject to appeal.
+
+(6) In this paragraph “occupier”, in relation to premises where there are 2 or more occupiers, means each of them.
+
+### Release or redemption of poinded articles
+
+**15** (1) Where a sale of poinded articles is to be held in premises other than where the poinded articles are situated, the sheriff officer may remove to those premises only such poinded articles as, if sold at their values fixed under paragraph 5(4) above, would realise in total the sum recoverable and the likely expenses chargeable against the debtor under paragraphs 25 to 34 below; and shall release the remaining poinded articles from the poinding.
+
+(2) Subject to paragraph 6(1) above, the debtor may, within 7 days after the date when intimation is given to him under paragraph 16 below of the date arranged for the removal of the poinded articles for sale or, if the articles are to be sold in the premises where they are situated, the date arranged for the sale, redeem any poinded article by paying to the officer of court a sum equal to its value fixed under paragraph 5(4) above.
+
+(3) The sheriff officer shall, on receiving payment from the debtor under sub-paragraph (2) above, grant a receipt in the form prescribed by Act of Sederunt to the debtor; and the receipt shall operate as a release of the article from the poinding.
+
+(4) The creditor and the debtor may by agreement release articles from the poinding.
+
+### Intimation and publication of sale
+
+**16** (1) The sheriff officer who makes arrangements for the sale of the poinded articles shall—
+
+(a) as soon as is reasonably practicable intimate to the debtor and, if the person in possession of the poinded articles is not the debtor, to that person, the date and place arranged for the sale; and
+
+(b) where the sale is not to be held in the premises where the poinded articles are situated, intimate to the debtor and, if he is not the debtor, to the person in possession of the poinded articles, not less than 14 days before the date arranged for the removal of the poinded articles from those premises, the date arranged for the removal.
+
+(2) The sheriff officer shall, at the same time as he intimates the date arranged for the sale under sub-paragraph (1) above, send such particulars of the arrangements for the sale as are prescribed by Act of Sederunt to the sheriff clerk of the sheriff court within whose jurisdiction the articles were poinded; and the sheriff clerk shall arrange for those particulars to be displayed on the walls of court.
+
+(3) The sale shall be advertised by public notice.
+
+(4) Where the sale is to be held in premises not belonging to the debtor, the public notice under sub-paragraph (3) above shall not name him or disclose that the articles for sale are poinded articles.
+
+(5) Where the sale is to be held in premises other than the debtor’s premises or an auction room, any public notice of the sale shall state that the articles to be sold do not belong to the occupier of the premises where the sale is to be held.
+
+### Alteration of arrangements for sale
+
+**17** (1) Subject to sub-paragraph (2) below and without prejudice to sub-paragraph (5) below, after intimation has been given under paragraph 16(1) above to the debtor of the date arranged for the sale or for the removal for sale of the poinded articles from the premises where they are situated, the creditor or sheriff officer shall not be entitled to arrange a new date for the sale or for such removal.
+
+(2) Where, for any reason for which neither the creditor nor the sheriff officer is responsible, it is not possible for the sale or, as the case may be, the removal for sale of the poinded articles from the premises where they are situated, to take place on the date arranged for it, the creditor may instruct the sheriff officer to arrange a new date in accordance with sub-paragraph (3) below, and the sheriff officer shall intimate the new date to the debtor and to any other person in possession of the poinded articles.
+
+(3) The new date arranged under sub-paragraph (2) above shall not be less than 7 days after the date of intimation under that sub-paragraph.
+
+(4) Without prejudice to sub-paragraph (2) above, in order to enable the sum recoverable to be paid by instalments or otherwise in accordance with an agreement between the creditor and the debtor, the creditor may, after intimation has been given under paragraph 16 above of the date arranged for the sale, cancel the arrangements for the sale on not more than 2 occasions.
+
+(5) Where, following cancellation of the sale in pursuance of sub-paragraph (4) above, the debtor is in breach of the agreement, the creditor may instruct the sheriff officer to make arrangements for the sale of the poinded articles at any time while they remain poinded.
+
+### The sale
+
+**18** (1) In the sale there shall be no reserve price unless the creditor chooses to have one and, if he does so choose, it shall not exceed the value of the article fixed under paragraph 5(4) above.
+
+(2) The value of a poinded article fixed under paragraph 5(4) above and the reserve price, if any, fixed by the creditor under sub-paragraph (1) above need not be disclosed to any person bidding for the article.
+
+(3) In the sale any poinded article exposed for sale may be purchased by—
+
+(a) any creditor, including the creditor on whose behalf the poinding was executed; or
+
+(b) a person who owns the article in common with the debtor.
+
+(4) Subject to sub-paragraph (5) below and without prejudice to the rights of any third party, where the sum recoverable has not been realised by the sale, ownership of a poinded article which remains unsold after being exposed for sale shall pass to the creditor.
+
+(5) Without prejudice to the rights of any third party, where the sale is held in premises belonging to the debtor, the ownership of a poinded article which has passed to the creditor under sub-paragraph (4) above shall revert to the debtor unless the creditor uplifts the article by 8 p.m. (or such other time as may be prescribed by Act of Sederunt)—
+
+(a) if the premises are a dwellinghouse in which the debtor is residing, on the day when the sale is completed;
+
+(b) in any other case, on the third working day following that day,
+
+and the sheriff officer may remain on or re-enter any premises (whether open, shut or lockfast) for the purpose of enabling the creditor to uplift any such article.
+
+(6) For the purposes of sub-paragraph (5) above “working day” means a day which is not—
+
+- Saturday;
+- Sunday;
+- 1st or 2nd January;
+- Good Friday;
+- Easter Monday;
+- 25th or 26th December;
+- a public holiday in the area in which the premises are situated.
+
+(7) Subject to sub-paragraph (8) below, where at the sale any article is unsold or is sold at a price below the value fixed under paragraph 5(4) above, the debtor shall be credited with an amount equal to that valuation.
+
+(8) Where—
+
+(a) any damaged article has been revalued under paragraph 5(4) above on the authority of the sheriff given under pargraph 13(2) above;
+
+(b) the damage was not caused by the fault of the debtor; and
+
+(c) no order has been made under paragraph 13(3) above requiring a third party to consign a sum in respect of the article, or such an order has been made but has not been complied with,
+
+the amount credited to the debtor under sub-paragraph (7) above shall be an amount equal to the original valuation and not the revaluation referred to in paragraph (a) above.
+
+### Disposal of proceeds of sale
+
+**19** The sheriff officer who arranges the sale shall dispose of the proceeds of the sale—
+
+(a) by paying to the creditor the proceeds so far as necessary to meet the sum recoverable (subject to any agreement between the sheriff officer and the creditor relating to the fees or outlays of the officer of court); and
+
+(b) by paying to the debtor any surplus remaining after the sum recoverable has been paid or, if the debtor cannot be found, by consigning such surplus in court.
+
+### Report of sale
+
+**20** (1) The sheriff officer who arranged the sale shall within a period of 14 days after the date of completion of the sale send to the creditor a report of the sale in the form prescribed by Act of Sederunt setting out—
+
+(a) any articles which have been sold and the amount for which they have been sold;
+
+(b) any articles which remain unsold;
+
+(c) the expenses of the diligence chargeable against the debtor;
+
+(d) any surplus paid to the debtor; and
+
+(e) any balance due by or to the debtor;
+
+and the sheriff officer shall, within the same period, send a copy of the report to the debtor.
+
+(2) The report of sale shall be signed by the sheriff officer.
+
+(3) The creditor and the debtor may have the report of sale taxed by the auditor of court of the sheriff court within whose jurisdiction the articles were poinded.
+
+### Articles belonging to third parties or in common ownership
+
+**21** (1) A sheriff officer may, at any time after the execution of a poinding and before the sale of the poinded articles, release an article from the poinding if—
+
+(a) he is satisfied that the article belongs to a third party; and
+
+(b) the debtor or other person in possession of the article does not deny that it belongs to the third party.
+
+(2) Where, on an application made to him by a third party, at any time after the execution of a poinding and before the sale of the poinded articles, the sheriff is satisfied that a poinded article belongs to that third party, he shall make an order releasing it from the poinding.
+
+(3) The making of an application under sub-paragraph (2) above shall not prejudice the taking of any other proceedings by the third party for the recovery of a poinded article belonging to him, and an order of the sheriff under that sub-paragraph shall not be binding in any other proceedings.
+
+(4) Where an article has been released from a poinding under this paragraph, a sheriff officer may, notwithstanding paragraph 9 above, poind other articles belonging to the debtor in the same premises.
+
+**22** (1) Articles which are owned in common by a debtor and a third party may be poinded and disposed of in accordance with this Schedule in satisfaction of the debts of that debtor.
+
+(2) Where, at any time after the execution of a poinding and before the sale of the poinded articles, a third party—
+
+(a) claims that a poinded article is owned in common by the debtor and himself; and
+
+(b) pays to the sheriff officer a sum equal to the value of the debtor’s interest in the article,
+
+the sheriff officer may, unless the debtor (or the person in possession of the article, if not the debtor) denies the claim, release the article from the poinding.
+
+(3) If, on an application made by a third party, at any time after the execution of a poinding and before the sale of the poinded articles, the sheriff is satisfied that a poinded article is owned in common by the debtor and that third party and either—
+
+(a) the third party undertakes to pay to the sheriff officer a sum equal to the value of the debtor’s interest in the article; or
+
+(b) the sheriff is satisfied that the continued poinding of that article or its sale under summary warrant would be unduly harsh to the third party in the circumstances,
+
+he shall make an order releasing the article from the poinding.
+
+(4) A release under sub-paragraph (2) above or where sub-paragraph (3)(a) above applies shall not become effective until the granting by the sheriff officer of a receipt for payment in accordance therewith, when the debtor’s interest in the released article shall be transferred to the third party.
+
+(5) Where an article is released in pursuance of sub-paragraph (3)(b) above from a poinding, a sheriff officer may, notwithstanding paragraph 9 above, poind other articles belonging to the debtor in the same premises.
+
+(6) This sub-paragraph applies where, at any time after the execution of a poinding, a third party claims that any of the poinded articles is owned in common by the debtor and himself but does not seek release of the article from the poinding, and either—
+
+(a) the claim is admitted by the creditor and the debtor; or
+
+(b) the claim is not admitted by both the creditor and the debtor, but the sheriff, on an application made to him, is satisfied that the claim is valid.
+
+(7) Where sub-paragraph (6) above applies, the creditor shall pay to the third party—
+
+(a) if the article is sold, the fraction of the proceeds of sale (or of the value of that article fixed under paragraph 5(4) above, whichever is the greater) which corresponds to the third party’s interest in the article;
+
+(b) if ownership of the article passes to the creditor in default of sale, the fraction of the value of the article fixed under paragraph 5(4) above which corresponds to the third party’s interest in the article.
+
+### Certain proceedings under this Schedule to postpone further steps in the diligence
+
+**23** (1) Where an application under any of the provisions of this Schedule listed in sub-paragraph (2) below has been made—
+
+(a) it shall be not be competent during a relevant period to remove the poinded articles for sale or to hold a sale;
+
+(b) a relevant period shall be disregarded in calculating the period on the expiry of which the poinding ceases to have effect under paragraph 11 above.
+
+(2) The provisions referred to in sub-paragraph (1) above are—
+
+(a) paragraph 1(4), 7(1), 21(2) or 22(3) (release of poinded articles);
+
+(b) paragraph 8(1) or (3) (invalidity, cessation or recall of poinding);
+
+(c) paragraph 10(1) (sist of proceedings in poinding of mobile homes);
+
+(d) paragraph 12(4) (restoration of articles removed without consent or authority);
+
+(e) paragraph 12(5) (recall of order under paragraph 12(4)).
+
+(3) In sub-paragraph (1) above “a relevant period” means—
+
+(a) the period while the application is pending;
+
+(b) where the application has been disposed of by the sheriff—
+
+(i) the period during which an application for leave to appeal may be made;
+
+(ii) where an application for leave to appeal is made, the period until leave has been refused or the application has been abandoned;
+
+(iii) where leave to appeal has been granted, the period during which an appeal may be made; or
+
+(iv) where an appeal against the decision is made, the period until the matter has been finally determined or the appeal has been abandoned.
+
+### Power to enter premises and open shut and lockfast places
+
+**24** A summary warrant shall contain a warrant authorising a sheriff officer to enter premises in the occupancy of the debtor in order to execute the poinding or the sale, or the removal and sale of the poinded articles and, for any of those purposes, to open shut and lockfast places.
+
+### Expenses chargeable against the debtor
+
+**25** (1) Subject to paragraphs 26 to 29 below, there shall be chargeable against the debtor any expenses incurred—
+
+(a) in serving a notice under paragraph 3 above before entering a dwellinghouse for the purpose of executing a poinding;
+
+(b) in executing a poinding under paragraph 5 above;
+
+(c) in granting a receipt under sub-paragraph (5) of paragraph 6 above for payment for redemption under sub-paragraph (4) thereof;
+
+(d) in granting a receipt under paragraph 15(3) above for payment for the redemption of any poinded article;
+
+(e) in making intimation, sending particulars of the arrangements for the sale to the sheriff clerk and giving public notice under paragraph 16 above;
+
+(f) in removing any poinded articles for sale;
+
+(g) in making arrangements for and conducting a sale;
+
+(h) where the arrangements for a sale have been cancelled under paragraph 17(4) above, in returning poinded articles to any premises from which they have been removed for sale;
+
+(j) in making a report of sale under paragraph 20 above;
+
+(k) in granting a receipt under paragraph 22(4) above for payment for the release from a poinding of any article which is owned in common;
+
+(l) in opening shut and lockfast places in the execution of the diligence;
+
+(m) by a solicitor in instructing a sheriff officer to take any of the steps specified in this sub-paragraph.
+
+(2) The Lord Advocate may by regulations add to, delete or vary any of the steps specified in sub-paragraph (1) above.
+
+**26** Where arrangements for a sale are cancelled under sub-paragraph (4) of paragraph 17 above, if new arrangements are made for the sale in the circumstances mentioned in sub-paragraph (5) thereof, there shall be chargeable against the debtor the expenses incurred in the making of the new arrangements but not in the making of the arrangements which have been cancelled.
+
+**27** Subject to paragraph 28 below, where any such further poinding as is mentioned in paragraph 12(2) above has been executed, there shall be chargeable against the debtor the expenses incurred in that poinding but not the expenses incurred in the original poinding.
+
+**28** Where any such further poinding as is mentioned in sub-paragraph (2) of paragraph 12 above has been executed and—
+
+(a) the creditor has, as a condition of his consenting to the removal of the poinded articles under sub-paragraph (1)(a) of that paragraph, required the debtor to undertake liability for the expenses incurred in the original poinding; or
+
+(b) the sheriff has, when authorising the removal of the poinded articles under sub-paragraph (1)(b) of that paragraph, directed that the debtor shall be liable for those expenses,
+
+there shall be chargeable against the debtor the expenses incurred in both poindings.
+
+**29** Where a new date is arranged under paragraph 17(2) above for the holding of a sale or for the removal of poinded articles for sale, there shall be chargeable against the debtor the expenses incurred in connection with arranging the new date but not those incurred in connection with arranging the original date.
+
+### Circumstances where liability for expenses is at the discretion of the sheriff
+
+**30** The liability for any expenses incurred by the creditor or the debtor—
+
+(a) in an application by the creditor or a sheriff officer to the sheriff under any provision of this Schedule; or
+
+(b) in implementing an order under—
+
+(i) paragraph 6(1) above (order for security or immediate disposal of poinded articles); or
+
+(ii) paragraph 12(4) to (6) or 13 above (orders dealing with unauthorised removal, damage or destruction of poinded articles),
+
+shall be as determined by the sheriff.
+
+### Calculation of amount chargeable against debtor under the foregoing provisions
+
+**31** Expenses awarded by the sheriff against the debtor in favour of the creditor in a determination under paragraph 30 above in respect of an application other than an application under paragraph 12(4) to (6) or 13 above shall be calculated, whether or not the application is opposed by the debtor, as if it were unopposed, except that, if the debtor opposes the application on grounds which appear to the sheriff to be frivolous, the sheriff may award an additional sum of expenses, not exceeding £25 or such amount as may be prescribed in regulations made by the Lord Advocate, against the debtor.
+
+### Circumstances where no expenses are due to or by either party
+
+**32** Subject to paragraph 33 below, the debtor shall not be liable to the creditor nor the creditor to the debtor for any expenses incurred by the other party in connection with—
+
+(a) an application by the debtor to the sheriff under any provision of this Schedule;
+
+(b) any objections to such an application;
+
+(c) a hearing held by virtue of paragraph 8(5) above.
+
+**33** If—
+
+(a) an application mentioned in paragraph 32(a) above is frivolous;
+
+(b) such an application is opposed on frivolous grounds; or
+
+(c) a party requires a hearing mentioned in paragraph 32(c) above to be held on frivolous grounds,
+
+the sheriff may award a sum of expenses, not exceeding £25 or such amount as may be prescribed in regulations made by the Lord Advocate, against the party acting frivolously in favour of the other party.
+
+### Supplementary
+
+**34** Any expenses chargeable against the debtor by virtue of any provision of this Schedule shall be recoverable out of the proceeds of sale.
+
+**35** In this Schedule—
+
+- “creditor” means—
+
+(a) for the purposes of section 247 of the [^M36]Local Government (Scotland) Act 1947, a rating authority;
+
+(b) for the purposes of section 63 of the [^M37]Taxes Management Act 1970, any collector of taxes;
+
+(c) for the purposes of paragraph 3 of Schedule 1 to the [^M38]Car Tax Act 1983 and paragraph 6 of Schedule 7 to the [^M39]Value Added Tax Act 1983, the Commisioners of Customs and Excise;
+
+[[^F323](d) for the purposes of—
+
+(i) paragraph 7 of Schedule 2 to the Abolition of Domestic Rates Etc. (Scotland) Act 1987, the levying authority;
+
+(ii) that paragraph as read with section 17(10) or (11) of that Act, the regional or islands council.]
+
+[[^F324](dd) for the purposes of section 121B of the Social Security Administration Act 1992, the [[^F325]Commissioners of Inland Revenue];]
+
+[^F326][e for the purposes of paragraph 2 of Schedule 8 to the Local Government Finance Act 1992, the levying authority.][[^F327]; and
+
+(f) for the purposes of paragraph 2 of Schedule 10 to the Local Government etc. (Scotland) Act 1994, the collecting authority (within the meaning of section 79 of that Act).]
+
+- “dwellinghouse” includes a caravan, a houseboat and any structure adapted for use as a residence;
+- “the poinding schedule” means the schedule provided for in paragraph 5(5) above;
+- “the sum recoverable”—
+
+(a) for the purposes of the said section 247, includes the surcharge recoverable thereunder but excludes interest;
+
+(b) for the purposes of the said section 63, includes interest.
+
+## SCHEDULE 6 — MINOR AND CONSEQUENTIAL AMENDMENTS
+
+*Section 108(1).*
+
+### General amendment
+
+**1** Any reference in any enactment to an order being enforceable in like manner as a recorded decree arbitral shall be construed as a reference to such an order being enforceable in like manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland.
+
+### Specific amendments
+
+### The Bank Notes (Scotland) Act 1765 (c. 49.)
+
+**[^F328]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Debtors (Scotland) Act 1838 (c. 114.)
+
+**[^F329]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Harbours, Docks, and Piers Clauses Act 1847 (c. 27.)
+
+**4** In section 57 (unserviceable vessels to be altogether removed from harbour), for the word “poinding” there shall be substituted the word “ arrestment ”.
+
+### The Lyon King of Arms Act 1867 (c.17)
+
+**5** In section 2 (admittance to office of messengers-at-arms), for the words “according to the present law and practice” there shall be substituted the words “ in accordance with Part V of the Debtors (Scotland) Act 1987 and any Act of Sederunt made thereunder ”.
+
+### The Court of Session Act 1868 (c. 100)
+
+**6** At the end of section 14 (induciae of summonses and other writs passing the signet), there shall be added the following subsection—
+
+> (2) Nothing in this section shall apply to a charge for payment.
+
+.
+
+### The Titles to Land Consolidation (Scotland) Act 1868 (c. 101)
+
+**7** In section 138 (import of short clauses of consent to registration), for the words from “letters of horning” to the end there shall be substituted the words “ , upon the issue of an extract containing a warrant for execution, all lawful execution shall pass thereon ”.
+
+### The Debtors (Scotland) Act 1880 (c. 34)
+
+**8** In section 4 (abolition of imprisonment for debt, with certain exceptions), for paragraph 1 there shall be substituted the following paragraph—
+
+> **1** Fines imposed for contempt of court or under section 91 of the Court of Session Act 1868.
+
+.
+
+### The Sea Fisheries Act 1883 (c. 22.)
+
+**[^F330]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Merchant Shipping Act 1894 (c. 60.)
+
+**10** In section 693 (sums ordered to be leviable by poinding and sale of ship), for the word “poinding” there shall be substituted the word “ arrestment ”.
+
+### The Execution of Diligence (Scotland) Act 1926 (c. 16)
+
+**11** In section 1 (sheriff officer to have the powers of a messenger-at-arms in certain places), for the word “county” in both places where it occurs there shall be substituted the words “ sheriff court district ”.
+
+**12** In section 2(1)(b) (execution of arrestment or charge by registered letter in certain cases), for the word “county” there shall be substituted the words “ sheriff court district ”.
+
+### The Sea Fisheries Act 1968 (c. 77.)
+
+**13** In section 12(2)(a) (recovery of fines imposed on master, etc. or crew), for the word “poinding” there shall be substituted the word “ arrestment ”.
+
+### The Prevention of Oil Pollution Act 1971 (c. 60.)
+
+**14** In section 20(1) (enforcement and application of fines), for the word “poinding” there shall be substituted the word “ arrestment ”.
+
+### The Town and Country Planning (Scotland) Act 1972 (c. 52)
+
+**[^F331]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The Consumer Credit Act 1974 (c. 69)
+
+**16** After section 93 there shall be inserted the following section—
+
+> **Summary diligence not competent in Scotland.**
+>
+> **93A** Summary diligence shall not be competent in Scotland to enforce payment of a debt due under a regulated agreement or under any security related thereto.
+
+.
+
+**17** In section 129 (time orders)—
+
+(a) at the beginning of subsection (1) there shall be added the words “ Subject to subsection (3) below, ”;
+
+(b) at the end there shall be added the following subsection—
+
+> (3) Where in Scotland a time to pay direction or a time to pay order has been made in relation to a debt, it shall not thereafter be competent to make a time order in relation to the same debt.
+
+.
+
+### The Criminal Procedure (Scotland) Act 1975 (c. 21)
+
+**18** In section 411 (recovery by civil diligence), in subsection (1) for the words from “the words” to “14 days” there shall be substituted the words
+
+> a warrant for civil diligence in a form prescribed by Act of Adjournal which shall have the effect of authorising—
+>
+> (a) the charging of the person who has been fined to pay the fine within the period specified in the charge and, in the event of failure to make such payment within that period, the execution of an earnings arrestment and the poinding of articles belonging to him and, if necessary for the purpose of executing the poinding, the opening of shut and lockfast places;
+>
+> (b) an arrestment other than an arrestment of earnings in the hands of his employer;
+
+.
+
+### The Crofting Reform (Scotland) Act 1976 (c. 21)
+
+**19** In section 17(1) (extension of powers of Land Court), for the words from “as if” to “to be enforced” there shall be substituted the words “ in like manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland ”.
+
+### The Patents Act 1977 (c. 37)
+
+**20** In section 93(b) and 107(3) (orders for expenses), for the words “a recorded decree arbitral” there shall be substituted the words “ an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland. ”.
+
+### The Customs and Excise Management Act 1979 (c. 2)
+
+**21** In section 117 (execution and diligence against revenue traders), for subsection (9) there shall be substituted the following subsections—
+
+> (9) This section shall apply to Scotland subject to the following modifications—
+>
+> (a) in subsection (3) for the words from “issue” to the end there shall be substituted the words “ granting of a warrant for the recovery of a sum owing by the revenue trader, those goods shall not be liable to be taken in execution under this section. ”;
+>
+> (b) in subsection (4) for the word “seized” in both places where it occurs there shall be substituted the words “ taken in execution ”;
+>
+> (c) subsection (10) below shall apply in place of subsection (5);
+>
+> (d) in subsection (6) for the word “distrained” in both places where it occurs there shall be substituted the words “ taken into possession ”;
+>
+> (e) in subsection (7) for the words “of the distress and sale” there shall be substituted the words “ incurred in the taking into possession and sale of the things under that subsection ”;
+>
+> (f) in subsection (7A) for the words “distress is levied” there shall be substituted the words “ things are taken into possession ” and for the word “distress” where second occurring there shall be substituted the words “ taking into possession ”.
+>
+> (10) The sheriff, on an application by the proper officer accompanied by a certificate by him that relevant excise duty payable by a revenue trader remains unpaid after the time within which it is payable, may grant a warrant authorising a sheriff officer—
+>
+> (a) to take into possession, by force if necessary, anything liable to be taken in execution under this section and for that purpose to open shut and lockfast places; and
+>
+> (b) to sell anything so taken into possession by public auction after giving 6 days notice of the sale.
+
+.
+
+### The Education (Scotland) Act 1980 (c. 44)
+
+**22** In paragraph 8 of Schedule 1 (local inquiries), for the words “a recorded decree arbitral” there shall be substituted the words “ an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland. ”.
+
+### The Betting and Gaming Duties Act 1981 (c. 63)
+
+**[^F332]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### The British Fishing Boats Act 1983 (c. 8.)
+
+**24** In section 5(2)(a) (recovery of fines), for the word “poinding” there shall be substituted the word “ arrestment ”.
+
+### The Inshore Fishing (Scotland) Act 1984 (c. 26.)
+
+**25** In section 8(2)(a) (recovery of fines), for the word “poinding” there shall be substituted the word “ arrestment ”.
+
+### The Rent (Scotland) Act 1984 (c. 58.)
+
+**26** For section 110 (restriction on diligence), there shall be substituted the following section—
+
+> **Restriction on sequestration for rent.**
+>
+> **110** At any stage before the grant of a warrant of sale in an action of sequestration for payment, or in security, of rent of any dwelling-house let on a protected tenancy or subject to a statutory tenancy, the sheriff may sist the proceedings or adjourn them for such period or periods as he thinks fit, in order to enable the tenant to pay the rent in such manner as the sheriff may determine (whether by instalments or otherwise).
+
+.
+
+### The Bankruptcy (Scotland) Act 1985 (c. 66)
+
+**[^F333]27** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F333]28** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 7 — TRANSITIONAL PROVISIONS
+
+*Section 108(2).*
+
+**1** Notwithstanding the repeal by this Act of subsection (4) of section 36 of the Sheriff Courts (Scotland) Act 1971—
+
+(a) any direction made under that subsection which is in force immediately before the commencement of that repeal shall continue in force; and
+
+(b) any summary cause action for payment which is pending immediately before such commencement shall proceed and be disposed of,
+
+as if this Act had not been passed.
+
+**2** The sheriff may refuse to make a time to pay order if, on an objection being duly made in pursuance of section 6(6)(a) of this Act, he is satisfied that a direction has been made under section 36(4) of the said Act of 1971 whereby the debt concerned was payable by instalments, but the right to pay by instalments has ceased by reason of failure to pay an instalment.
+
+**3** Without prejudice to paragraphs 4 to 6 of this Schedule, a warrant issued before the commencement of Part VI of this Act, for the enforcement by diligence of an obligation to pay money, contained in an extract of a decree of the Court of Session or the sheriff court or of a document which has been registered in the Books of Council and Session or in sheriff court books shall be treated as if it were a warrant contained in such a decree granted after the commencement of that Part.
+
+**4** [^F334]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5** Nothing in this Act shall affect an arrestment of earnings in the hands of an employer which has been executed before the commencement of Part III of this Act nor preclude the bringing of an action of furthcoming in pursuance of such an arrestment or the granting of a decree in any such action.
+
+**6** Where an arrestment of a debtor’s earnings in the hands of an employer which has been executed before the commencement of Part III of this Act has effect in relation to earnings payable on the first pay-day occurring after such commencement, the execution of an earnings arrestment or a current maintenance arrestment against earnings payable to the debtor by the employer shall not be competent until after that pay-day.
+
+**7** (1) Subject to sub-paragraph (2) below, a summary warrant granted before the commencement of Schedules 4 and 5 to this Act under or by virtue of any of the enactments to which this paragraph applies shall be deemed to authorise only the following diligences—
+
+(a) [^F335]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) an earnings arrestment; and
+
+(c) an arrestment other than an arrestment of the debtor’s earnings in the hands of his employer.
+
+(2) If at the commencement of those Schedules diligence executed in pursuance of a warrant referred to in sub-paragraph (1) above is in effect, that diligence shall proceed as if this Act had not been passed.
+
+(3) This paragraph applies to the following enactments—
+
+(a) section 247 of the [^M40]Local Government (Scotland) Act 1947;
+
+(b) section 63 of the [^M41]Taxes Management Act 1970;
+
+(c) section 33 of the [^M42]Finance Act 1972;
+
+(d) paragraph 16(2) of Schedule 7 to the Finance Act 1972;
+
+(e) paragraph 3 of Schedule 1 to the [^M43]Car Tax Act 1983;
+
+(f) paragraph 6 of Schedule 7 to the [^M44]Value Added Tax Act 1983.
+
+**8** (1) Where before the commencement of paragraphs 21 and 23 of Schedule 6 to this Act—
+
+(a) a warrant has been granted under any of the enactments to which this paragraph applies; and
+
+(b) no diligence has been executed in pursuance of the warrant,
+
+the warrant shall cease to have effect.
+
+(2) Where before the commencement of the said paragraphs 21 and 23—
+
+(a) a warrant has been granted under any of the enactments to which this paragraph applies; and
+
+(b) diligence has been executed in pursuance of the warrant,
+
+the diligence shall proceed as if this Act had not been passed.
+
+(3) This paragraph applies to the following enactments—
+
+(a) section 253 of the [^M45]Customs and Excise Act 1952;
+
+(b) paragraph 10 of Schedule 2 to the [^M46]Betting and Gaming Duties Act 1972;
+
+(c) section 117 of the [^M47]Customs and Excise Management Act 1979;
+
+(d) section 29 of the [^M48]Betting and Gaming Duties Act 1981.
+
+**9** (1) The provisions of this Act relating to the liability for the expenses of a diligence shall not apply in relation to a diligence to which this paragraph applies.
+
+(2) Section 93(1) or (2) of this Act shall not prevent a creditor taking proceedings in court to recover any expenses of a diligence to which this paragraph applies which are chargeable against the debtor.
+
+(3) Notwithstanding section 95 of this Act, a diligence to which this paragraph applies shall cease to have effect on payment or tender of the sum due under the decree or other document.
+
+(4) This paragraph applies to the following diligences—
+
+(a) [^F336]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) an arrestment and action of furthcoming or sale;
+
+in effect at the commencement of sections 93 and 95 of this Act.
+
+**10** Until the commencement of the repeal of the [^M49]Supplementary Benefits Act 1976 by Schedule 11 to the [^M50]Social Security Act 1986 the said Act of 1976 shall have effect as if there were inserted after section 18 of that Act the new section set out in section 68 of this Act with the following modifications—
+
+(a) for “25A” there shall be substituted “18A”; and
+
+(b) for references to income support there shall be substituted references to supplementary benefit.
+
+## SCHEDULE 8 — REPEALS
+
+*Section 108.*
+
+|  |  |  |
+|---|---|---|
+| 1503 c. 45. | The Diligence Act 1503. | The whole Act. |
+| 1579 c. 13. | The Registration Act 1579. | The whole Act. |
+| 1579 c. 45. | The Hornings Act 1579. | The whole Act. |
+| 1581 c. 26. | The Convention of Burghs Act 1581. | The whole Act. |
+| 1584 c. 15. | The Execution of Decrees Act 1584. | The whole Act. |
+| 1587 c. 30. | The Officers of Arms Act 1587. | The whole Act. |
+| 1592 c. 29. | The Lyon King of Arms Act 1592. | In section (3) the words “messingeris and”, the words “and messingeris” and the words from “With power” to the end. |
+|  |  | In section (5) the words “and incarceratioun” and the words from “under the pane” to the end. |
+| 1593 c. 34. | The Hornings Act 1593. | The whole Act. |
+| 1600 c. 22. | The Hornings Act 1600. | The whole Act. |
+| 1607 c. 13. | The Convention of Burghs Act 1607. | The whole Act. |
+| 1621 c. 20. | The Hornings Act 1621. | The whole Act. |
+| 1661 c. 218. | The Poinding Act 1661. | The whole Act. |
+| 1669 c. 5. | The Poinding Act 1669. | The whole Act. |
+| 1669 c. 95. | The Lyon King of Arms Act 1669. | The words from “the fourtie sext” to “Together also with”. |
+| 1672 c. 47. | The Lyon King of Arms Act 1672. | The words from “are judges” to “office and”. |
+| 1681 c. 5. | The Subscription of Deeds Act 1681. | The word “hornings”. |
+| 1681 c. 86. | The Bills of Exchange Act 1681. | The words from “Letters of horning” to “and other”. |
+| 20 Geo. 2 c. 43. | The Heritable Jurisdictions (Scotland) Act 1746. | Section 28. |
+| 20 Geo. 2 c. 50. | The Tenures Abolition Act 1746. | Sections 12 and 13. |
+| 5 Geo. 3 c. 49. | The Bank Notes (Scotland) Act 1765. | In section 6 the words from “issuing” to “all other”. |
+| 12 Geo. 3 c. 72. | The Bills of Exchange (Scotland) Act 1772. | In section 42 the words “by horning or other diligence”. |
+|  |  | In section 43 the words “by horning or other diligence”. |
+| 1 & 2 Vict. c. 114. | The Debtors (Scotland) Act 1838. | Sections 2 to 15. |
+|  |  | Sections 23 to 31. |
+|  |  | In section 32 the words “excepting in the case of poindings”. |
+|  |  | Section 35. |
+|  |  | All the Schedules. |
+| 9 & 10 Vict. c. 67. | The Citations (Scotland) Act 1846. | In section 1 the words “excepting only in cases of poinding as aforesaid”. |
+| 19 & 20 Vict. c. 56. | The Exchequer Court (Scotland) Act 1856. | In section 28 the words from “except that” to the end. |
+|  |  | Sections 29 to 34. |
+|  |  | Section 36. |
+|  |  | Section 42. |
+|  |  | Schedules G to K. |
+| 19 & 20 Vict. c. 91. | The Debts Securities (Scotland) Act 1856. | In section 6 the words “of hornings”. |
+| 33 & 34 Vict. c. 63. | The Wages Arrestment Limitation (Scotland) Act 1870. | The whole Act. |
+| 43 & 44 Vict. c. 34. | The Debtors (Scotland) Act 1880. | In section 4, the proviso, the words from “a warrant” to “or under” and the words “or obligation”. |
+| 45 & 46 Vict. c. 42. | The Civil Imprisonment (Scotland) Act 1882. | Section 5. |
+| 55 & 56 Vict. c. 17. | The Sheriff Courts (Scotland) Extracts Act 1892. | Section 7(6). |
+| 10 & 11 Geo. 6 c. 43. | The Local Government (Scotland) Act 1947. | Sections 248 and 249. |
+|  |  | In section 250, the words from “together with” to “goods and effects” where second occurring. |
+|  |  | Sections 251 and 252. |
+| 10 & 11 Geo. 6 c. 44. | The Crown Proceedings Act 1947. | In section 46, proviso (a). |
+| 8 & 9 Eliz. 2 c. 21. | The Wages Arrestment Limitation Amendment (Scotland) Act 1960. | The whole Act. |
+| 1966 c. 19. | The Law Reform (Miscellaneous Provisions) (Scotland) Act 1966. | Sections 2 and 3. |
+| 1968 c. 49. | The Social Work (Scotland) Act 1968. | In section 80, subsections (2) and (3). |
+| 1970 c. 36. | The Merchant Shipping Act 1970. | In section 11(1)(a), the words “or arrestment”. |
+| 1971 c. 58. | The Sheriff Courts (Scotland) Act 1971. | Section 36(4). |
+| 1973 c. 22. | The Law Reform (Diligence) (Scotland) Act 1973. | The whole Act. |
+| 1979 c. 39. | The Merchant Shipping Act 1979. | In section 39, subsection (2) and in subsection (3) the words “or arrestment” and the words from “and, as” to the end. |
+| 1979 c. 54. | The Sale of Goods Act 1979. | Section 40. |
+| 1984 c. 43. | The Finance Act 1984. | Section 16. |
+
+---
+
+[^F1]: Words in s. 1(1) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 210(2)(a)(i), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(g) (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F2]: Words in s. 1(1) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(2)(a)
+[^F3]: Words in s. 1(1) substituted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 210(2)(a)(ii), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(g) (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F4]: S. 1(1A) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 210(2)(b), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(g) (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F5]: Words in s. 1(3) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(2)(a)
+[^F6]: Words in s. 1(4) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(2)(b)(i)
+[^F7]: Words in s. 1(4) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(2)(b)(ii)
+[^F8]: Words in s. 1(5) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(2)(a)
+[^F9]: S. 1(5)(cc) inserted (5.4.1993) by Child Support Act 1991 (c. 48, SIF 20), s. 58(13), Sch. 5 para. 8(2) (with s. 9(2)); S.I. 1992/2644, art. 2.
+[^F10]: Words in s. 1(5)(d) substituted (18.4.2005) by Commissioners for Revenue and Customs Act 2005 (c. 11), s. 53(1), Sch. 4 para. 33; S.I. 2005/1126, art. 2(2)(h)
+[^F11]: Words in s. 1(5)(d) substituted (23.11.2009) by Finance Act 2008 (c. 9), s. 129(4), Sch. 43 para. 13(1)(a); S.I. 2009/3024, art. 3 (with art. 5)
+[^F12]: S. 1(5)(da) inserted (1.4.2015) by Revenue Scotland and Tax Powers Act 2014 (asp 16), s. 260(2), sch. 4 para. 1(2)(a) (with ss. 257-259); S.S.I. 2015/110, art. 2(1)
+[^F13]: S. 1(5)(e) repealed (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 209(2)(a), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(g) (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F14]: S. 1(5)(f)(i) omitted (23.11.2009) by virtue of Finance Act 2008 (c. 9), s. 129(4), Sch. 43 para. 13(1)(b); S.I. 2009/3024, art. 3 (with art. 5)
+[^M1]: 1983 c. 53.
+[^F15]: Word in s. 1(5)(f) ceased to have effect (6.4.1999) by virtue of 1998 c. 14, s. 86(1), Sch. 7 para. 12(a); S.I. 1999/526, art. 2(3)(4)(b) and repealed (1.6.1999) by 1998 c. 14, s. 86(2), Sch. 8; S.I. 1999/1510, art. 2(f)(ii)
+[^F16]: S. 1(5)(f)(iii) omitted (23.11.2009) by virtue of Finance Act 2008 (c. 9), s. 129(4), Sch. 43 para. 13(1)(b); S.I. 2009/3024, art. 3 (with art. 5)
+[^F17]: S. 1(5)(f)(iv) omitted (23.11.2009) by virtue of Finance Act 2008 (c. 9), s. 129(4), Sch. 43 para. 13(1)(b); S.I. 2009/3024, art. 3 (with art. 5)
+[^F18]: Words in s. 1(7) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(2)(c)
+[^F19]: S. 1(8A) inserted (23.11.2009) by Finance Act 2008 (c. 9), s. 129(4), Sch. 43 para. 13(1)(c); S.I. 2009/3024, art. 3 (with art. 5)
+[^F20]: S. 1(8B) inserted (1.4.2015) by Revenue Scotland and Tax Powers Act 2014 (asp 16), s. 260(2), sch. 4 para. 1(2)(b) (with ss. 257-259); S.S.I. 2015/110, art. 2(1)
+[^F21]: S. 1(9) repealed (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 209(2)(b), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(g) (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F22]: S. 2(1)(b)(ii) substituted (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(2) (with s. 63)
+[^F23]: S. 2(1)(b)(v)-(vii) inserted (23.11.2009 for specified purposes) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(2)(a) (with s. 223); S.S.I. 2009/369, art. 3(2)(3), sch. (with art. 4) (which transitional provisions in art. 4 are revoked (31.1.2011) by S.S.I. 2011/31, art. 5(c))
+[^F24]: S. 2(2A)(2B) inserted (1.4.2008 for specified purposes, 22.4.2009 in so far as not already in force) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(2)(c) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3); S.S.I. 2009/67, art. 3(2)(3), sch. 1 (with arts. 4-6) (as amended (31.1.2011) by S.S.I. 2011/31, art. 5(b))
+[^F25]: Words in s. 2(3) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(3)(a)
+[^F26]: Words in s. 2(3) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(2)(d) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F27]: Words in s. 2(4) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(2)(e)(i) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F28]: Words in s. 2(4) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(3)(a)
+[^F29]: Words in s. 2(4) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(2)(e)(ii) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F30]: S. 2(5A) inserted (22.4.2009) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(2)(f) (with s. 223); S.S.I. 2009/67, art. 3(2)(3), sch. 1 (with arts. 4-6) (as amended (31.1.2011) by S.S.I. 2011/31, art. 5(b))
+[^F31]: Words in s. 2(5A) substituted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(3)(b)
+[^F32]: Words in s. 3(1) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(4)(a)
+[^F33]: Words in s. 3(1)(a) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(3)(a) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F34]: Words in s. 3(1)(b) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(3)(b)(i) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F35]: Words in s. 3(1)(b) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(3)(b)(ii) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F36]: Words in s. 3(2) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(3)(c) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F37]: Words in s. 3(2) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(4)(b)
+[^F38]: Words in s. 3(3) substituted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(4)(c)
+[^F39]: Words in s. 5(2) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(5)(a)(i)
+[^F40]: Words in s. 5(2) substituted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 210(3)(a), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(g) (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F41]: Words in s. 5(2) omitted (6.3.2019) by virtue of The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(5)(a)(ii)
+[^F42]: S. 5(2A) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 210(3)(b), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(g) (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F43]: Words in s. 5(4) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(5)(b)
+[^F44]: S. 5(4)(c) repealed (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 209(3)(a), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(g) (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F45]: Words in s. 5(4)(d) substituted (18.4.2005) by Commissioners for Revenue and Customs Act 2005 (c. 11), s. 53(1), Sch. 4 para. 34; S.I. 2005/1126, art. 2(2)(h)
+[^F46]: Words in s. 5(4)(d) substituted (23.11.2009) by Finance Act 2008 (c. 9), s. 129(4), Sch. 43 para. 13(2)(a); S.I. 2009/3024, art. 3 (with art. 5)
+[^F47]: S. 5(4)(da) inserted (1.4.2015) by Revenue Scotland and Tax Powers Act 2014 (asp 16), s. 260(2), sch. 4 para. 1(3)(a) (with ss. 257-259); S.S.I. 2015/110, art. 2(1)
+[^F48]: S. 5(4)(e) repealed (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 209(3)(a), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(g) (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F49]: S. 5(4)(f)(i) omitted (23.11.2009) by virtue of Finance Act 2008 (c. 9), s. 129(4), Sch. 43 para. 13(2)(b); S.I. 2009/3024, art. 3 (with art. 5)
+[^M2]: 1983 c. 53.
+[^F50]: Word in s. 5(4)(f) ceased to have effect (6.4.1999) by virtue of 1998 c. 14, s. 86(1), Sch. 7 para. 12; S.I. 1999/526, art. 2(3)(4) and repealed (1.6.1999) by 1999 c. 14, s. 86(2), Sch. 8; 1999/1510, art. 2(f)(ii)
+[^F51]: S. 5(4)(f)(iii) omitted (23.11.2009) by virtue of Finance Act 2008 (c. 9), s. 129(4), Sch. 43 para. 13(2)(b); S.I. 2009/3024, art. 3 (with art. 5)
+[^F52]: S. 5(4)(f)(iv) omitted (23.11.2009) by virtue of Finance Act 2008 (c. 9), s. 129(4), Sch. 43 para. 13(2)(b); S.I. 2009/3024, art. 3 (with art. 5)
+[^F53]: S. 5(5)(a)(aa) substituted for s. 5(5)(a) (1.4.2008 for specified purposes, 23.11.2009 in so far as not already in force) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(4)(a) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3); S.S.I. 2009/369, art. 3(2)(3), sch. (with art. 4) (which transitional provisions in art. 4 are revoked (31.1.2011) by S.S.I. 2011/31, art. 5(c))
+[^F54]: S. 5(5)(c)(d) substituted for s. 5(5)(c) (23.11.2009 for specified purposes) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(4)(b) (with s. 223); S.S.I. 2009/369, art. 3(2)(3), sch. (with art. 4) (which transitional provisions in art. 4 are revoked (31.1.2011) by S.S.I. 2011/31, art. 5(c))
+[^F55]: Words in s. 5(5) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(5)(b)
+[^F56]: S. 5(5A) inserted (22.4.2009) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(4)(c) (with s. 223); S.S.I. 2009/67, art. 3(2)(3), sch. 1 (with arts. 4-6) (as amended (31.1.2011) by S.S.I. 2011/31, art. 5(b)); S.S.I. 2009/369, art. 3(2)(3), sch. (with art. 4) (which transitional provisions in art. 4 are revoked (31.1.2011) by S.S.I. 2011/31, art. 5(c))
+[^F57]: Words in s. 5(5A) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(5)(b)
+[^F58]: Words in s. 5(7) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(5)(c)
+[^F59]: S. 5(8A) inserted (23.11.2009) by Finance Act 2008 (c. 9), s. 129(4), Sch. 43 para. 13(2)(c); S.I. 2009/3024, art. 3 (with art. 5)
+[^F60]: S. 5(8B) inserted (1.4.2015) by Revenue Scotland and Tax Powers Act 2014 (asp 16), s. 260(2), sch. 4 para. 1(3)(b) (with ss. 257-259); S.S.I. 2015/110, art. 2(1)
+[^F61]: S. 5(9) repealed (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 209(3)(b), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(g) (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F62]: Words in s. 6(2) omitted (6.3.2019) by virtue of The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(6)(a)(i)
+[^F63]: Words in s. 6(2) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(6)(a)(ii)
+[^F64]: Words in s. 6(3)-(5) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(6)(c)
+[^F65]: Words in s. 6(3) omitted (6.3.2019) by virtue of The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(6)(b)
+[^F66]: Words in s. 6(4) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(6)(d)
+[^F67]: Words in s. 6(6) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(6)(e)(i)
+[^F68]: Words in s. 6(6) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(6)(e)(ii)
+[^F69]: S. 6(6)(b)(c) substituted for s. 6(6)(b) and word (22.4.2009) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(5) (with s. 223); S.S.I. 2009/67, art. 3(2)(3), sch. 1 (with arts. 4-6) (as amended (31.1.2011) by S.S.I. 2011/31, art. 5(b))
+[^F70]: Words in s. 7(1)-(3) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(7)(a)
+[^F71]: Words in s. 7(4) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(7)(b)(i)
+[^F72]: Words in s. 7(4)(a) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(7)(b)(ii)
+[^F73]: Words in s. 7(4)(a) substituted (22.4.2009) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(6) (with s. 223); S.S.I. 2009/67, art. 3(2)(3), sch. 1 (with arts. 4-6) (as amended (31.1.2011) by S.S.I. 2011/31, art. 5(b))
+[^F74]: Words in s. 7(4)(b) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(7)(b)(ii)
+[^F75]: S. 8(1)(za) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(7)(a)(i) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F76]: S. 8(1)(a) substituted (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(3) (with s. 63)
+[^F77]: Words in s. 8(1)(a) substituted (22.4.2009) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(7)(a)(ii) (with s. 223); S.S.I. 2009/67, art. 3(2)(3), sch. 1 (with arts. 4-6) (as amended (31.1.2011) by S.S.I. 2011/31, art. 5(b))
+[^F78]: S. 8(1)(aa) inserted (23.11.2009) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(7)(a)(iii) (with s. 223); S.S.I. 2009/369, art. 3(2)(3), sch. (with art. 4) (which transitional provisions in art. 4 are revoked (31.1.2011) by S.S.I. 2011/31, art. 5(c))
+[^F79]: Words in s. 8(1)(c) inserted (22.4.2009) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(7)(a)(iv) (with s. 223); S.S.I. 2009/67, art. 3(2)(3), sch. 1 (with arts. 4-6) (as amended (31.1.2011) by S.S.I. 2011/31, art. 5(b))
+[^F80]: S. 8(1A)-(1C) inserted (22.4.2009) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(7)(b) (with s. 223); S.S.I. 2009/67, art. 3(2)(3), sch. 1 (with arts. 4-6) (as amended (31.1.2011) by S.S.I. 2011/31, art. 5(b))
+[^F81]: Words in s. 8(2) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(8)
+[^F82]: S. 8(3) repealed (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 6 Pt. 1 (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 2 (with arts. 4-6, 9, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F83]: S. 9(1)(b)(ii) substituted (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(4)(a) (with s. 63)
+[^F84]: S. 9(1)(b)(v)-(vii) inserted (23.11.2009 for specified purposes) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(8)(a) (with s. 223); S.S.I. 2009/369, art. 3(2)(3), sch. (with art. 4) (which transitional provisions in art. 4 are revoked (31.1.2011) by S.S.I. 2011/31, art. 5(c))
+[^F85]: S. 9(2)(c)-(cb) substituted for s. 9(2)(c) (1.4.2008 for specified purposes) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(8)(b) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F86]: Words in s. 9(2)(d) substituted (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(4)(b) (with s. 63)
+[^F87]: S. 9(2A) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(9)(a)
+[^F88]: Words in s. 9(3) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(8)(d)(i) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F89]: Words in s. 9(3) substituted (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, {Sch. 3 Pt. 1 para. 17(4(c)(i)} (with s. 63)
+[^F90]: Words in s. 9(3) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(9)(b)
+[^F91]: Words in s. 9(3) substituted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(8)(d)(ii) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F92]: Words in s. 9(3) substituted (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(4)(c)(ii) (with s. 63)
+[^F93]: Words in s. 9(4) inserted (22.4.2009) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(8)(e)(i) (with s. 223); S.S.I. 2009/67, art. 3(2)(3), sch. 1 (with arts. 4-6) (as amended (31.1.2011) by S.S.I. 2011/31, art. 5(b))
+[^F94]: Words in s. 9(4) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(9)(c)(i)
+[^F95]: Words in s. 9(4) omitted (6.3.2019) by virtue of The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(9)(c)(ii)
+[^F96]: Words in s. 9(4) substituted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(8)(e)(ii) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F97]: Words in s. 9(4) substituted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(9)(c)(iii)
+[^F98]: Words in s. 9(4) substituted (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(4)(d) (with s. 63)
+[^F99]: S. 9(4A) inserted (22.4.2009) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(8)(f) (with s. 223); S.S.I. 2009/67, art. 3(2)(3), sch. 1 (with arts. 4-6) (as amended (31.1.2011) by S.S.I. 2011/31, art. 5(b))
+[^F100]: Words in s. 9(4A) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(9)(d)(i)
+[^F101]: Words in s. 9(4A) omitted (6.3.2019) by virtue of The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(9)(d)(ii)
+[^F102]: Words in s. 9(4A) substituted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(9)(d)(iii)
+[^F103]: Words in s. 9(6) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(9)(b)
+[^F104]: Words in s. 9(6) substituted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(8)(g) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F105]: Words in s. 9(7) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(9)(e)(i)
+[^F106]: Words in s. 9(7) substituted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(9)(e)(ii)
+[^F107]: S. 9(7)(c) and word inserted (22.4.2009) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(8)(h) (with s. 223); S.S.I. 2009/67, art. 3(2)(3), sch. 1 (with arts. 4-6) (as amended (31.1.2011) by S.S.I. 2011/31, art. 5(b))
+[^F108]: Words in s. 9(8) repealed (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 6 Pt. 1 (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 2 (with arts. 4-6, 9, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F109]: S. 9(8)(a) substituted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(8)(i)(i) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F110]: Words in s. 9(8)(b) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(8)(i)(ii) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F111]: Words in s. 9(9) substituted (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(4)(f)(i) (with s. 63)
+[^F112]: Words in s. 9(9) substituted (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(4)(f)(ii) (with s. 63)
+[^F113]: Words in s. 9(10)(b) substituted (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 8 para. 11(2) (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F114]: Words in s. 9(12) substituted (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(4)(g)(i) (with s. 63)
+[^F115]: Words in s. 9(12) substituted (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(4)(g)(ii) (with s. 63)
+[^F116]: Words in s. 9(12) substituted (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(4)(g)(iii) (with s. 63)
+[^F117]: Words in s. 10(1) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(10)(a)
+[^F118]: Words in s. 10(1)(a) substituted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(10)(b)
+[^F119]: Words in s. 10(1)(a) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(9)(a) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F120]: Words in s. 10(1)(b) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(9)(b) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F121]: Words in s. 10(1)(b) substituted (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(5)(a)(i) (with s. 63)
+[^F122]: Words in s. 10(1)(b) substituted (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(5)(a)(ii) (with s. 63)
+[^F123]: Words in s. 10(2) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(9)(c) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F124]: Words in s. 10(2) substituted (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(5)(b) (with s. 63)
+[^F125]: Words in s. 10(2) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(10)(a)
+[^F126]: Words in s. 10(3) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(10)(c)
+[^F127]: Words in s. 10(4) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(10)(a)
+[^F128]: Words in s. 13(2)(b) substituted (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(6)(a) (with s. 63)
+[^F129]: Word in s. 13(2) substituted (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(6)(b) (with s. 63)
+[^F130]: Words in s. 13(2) substituted (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 8 para. 11(3) (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^M3]: 1974 c. 39.
+[^F131]: Words in s. 15(1) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(11)(a)(i)
+[^F132]: Words in s. 15(1) repealed (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F133]: Words in s. 15(1) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(11)(a)(ii)
+[^F134]: S. 15(1): definition of "poinding" repealed (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(7) (with s. 63)
+[^F135]: Words in s. 15(2) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(11)(b)
+[^M4]: 1868 c. 100.
+[^F136]: Words in s. 15(3) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 209(4)(a), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(g) (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^M5]: 1982 c. 27.
+[^F137]: Words in s. 15(3) inserted (5.4.1993) by Child Support Act 1991 (c. 48, SIF 20), s. 58(13), Sch. 5 para. 8(3) (with s. 9(2)); S.I. 1992/2644, art. 2.
+[^F138]: Words in s. 15(3) repealed (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 209(4)(b), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(g) (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F139]: Pt. 1A inserted (1.4.2008 except for the insertion of s. 15H(4), 22.4.2009 in so far as not already in force) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 169, 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(b)(i) (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3); S.S.I. 2009/67, art. 3(1)(c) (with arts. 4-6) (as amended (31.1.2011) by S.S.I. 2011/31, art. 5(b))
+[^F140]: S. 15A(3)(b) substituted (28.11.2016) by The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387), art. 1, sch. 1 para. 2(2) (with art. 4(1))
+[^F141]: Word in s. 15F(3) repealed (20.1.2025) by Bankruptcy and Diligence (Scotland) Act 2024 (asp 9), ss. 17(2)(a)(i), 22(2); S.S.I. 2024/373, reg. 2 (with regs. 3, 5)
+[^F142]: S. 15F(3)(d) and word inserted (20.1.2025) by Bankruptcy and Diligence (Scotland) Act 2024 (asp 9), ss. 17(2)(a)(ii), 22(2); S.S.I. 2024/373, reg. 2 (with regs. 3, 5)
+[^F143]: S. 15F(8) inserted (20.1.2025) by Bankruptcy and Diligence (Scotland) Act 2024 (asp 9), ss. 17(2)(b), 22(2); S.S.I. 2024/373, reg. 2 (with regs. 3, 5)
+[^F144]: S. 15K(5A)(5B) inserted (20.1.2025) by Bankruptcy and Diligence (Scotland) Act 2024 (asp 9), ss. 17(3)(a), 22(2); S.S.I. 2024/373, reg. 2 (with regs. 3, 5)
+[^F145]: Word in s. 15K(10) inserted (20.1.2025) by Bankruptcy and Diligence (Scotland) Act 2024 (asp 9), ss. 17(3)(b), 22(2); S.S.I. 2024/373, reg. 2 (with regs. 3, 5)
+[^F146]: Part II (ss. 16-45) repealed (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 58(2)(a) (with ss. 59, 63)
+[^F147]: S. 16(2)(r)-(v) inserted (10.7.2000) by S.S.I. 2000/189, reg. 3(2)
+[^M6]: 1895 c. 14.
+[^F148]: Words in s. 47(1) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 200(1), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(d) (with arts. 4-6, 10, 13, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F149]: Words in s. 47(2)(a) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 201(1)(a), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(d) (with arts. 4-6, 10, 14, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F150]: S. 47(3)(4) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 201(1)(b), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(d) (with arts. 4-6, 10, 14, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F151]: Words in s. 49(1) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 200(2), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(d) (with arts. 4-6, 10, 13, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F152]: S. 49A inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 200(3), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(d) (with arts. 4-6, 10, 13, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F153]: Words in s. 51(2)(a) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 201(2)(a), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(d) (with arts. 4-6, 10, 14, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F154]: S. 51(2A) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 201(2)(b), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(d) (with arts. 4-6, 10, 14, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F155]: Sum in s. 53(2)(b) substituted (6.4.2025) by The Diligence against Earnings (Variation) (Scotland) Regulations 2024 (S.S.I. 2024/293), regs. 1, 2(a)
+[^F156]: Words substituted by Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1), s. 844, Sch. 29
+[^M7]: 1988 c. 1
+[^F157]: Words in s. 54(1)(a)(i) omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 16(2)(a) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F158]: Words in s. 54(1)(a)(ii) omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 16(2)(b) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F159]: Words in s. 54(1)(a)(ii) substituted (1.8.2014 as notified in the Edinburgh Gazette dated 27.6.2014 (Issue 27425)) by The International Recovery of Maintenance (Hague Convention 2007) (Scotland) Regulations 2012 (S.S.I. 2012/301), reg. 1(b), sch. para. 1(2)(a)
+[^F160]: Words in s. 54(1)(c) substituted (5.4.1993) by Child Support Act 1991 (c. 48, SIF 20), s. 58(13), Sch. 5 para. 8(4) (with s. 9(2)); S.I. 1992/2644, art.2.
+[^F161]: Words in s. 54(2)(a) substituted (18.6.2011) by The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484), reg. 1(1), Sch. 7 para. 11(2)(c)
+[^F162]: Words in s. 54(2)(a) omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 16(2)(c) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F163]: Words in s. 54(2)(a) substituted (1.8.2014 as notified in the Edinburgh Gazette dated 27.6.2014 (Issue 27425)) by The International Recovery of Maintenance (Hague Convention 2007) (Scotland) Regulations 2012 (S.S.I. 2012/301), reg. 1(b), sch. para. 1(2)(b)
+[^M8]: 1972 c.18
+[^F164]: S. 54(4)(5) inserted (18.6.2011) by The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484), reg. 1(1), Sch. 7 para. 11(2)(d)
+[^F165]: S. 54(5) omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 16(2)(d) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F166]: Words in s. 55(9) substituted (18.6.2011) by The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484), reg. 1(1), Sch. 7 para. 11(3)(a)
+[^F167]: Words in s. 55(9) substituted (1.8.2014 as notified in the Edinburgh Gazette dated 27.6.2014 (Issue 27425)) by The International Recovery of Maintenance (Hague Convention 2007) (Scotland) Regulations 2012 (S.S.I. 2012/301), reg. 1(b), sch. para. 1(3)
+[^F168]: Words in s. 55(9) omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 16(3) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F169]: S. 55(10) inserted (18.6.2011) by The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484), reg. 1(1), Sch. 7 para. 11(3)(b)
+[^F170]: S. 58(2)-(4) substituted for s. 58(2) (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 199(1), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(d) (with arts. 4-6, 10, 13, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F171]: S. 60(3A) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 201(3), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(d) (with arts. 4-6, 10, 14, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F172]: Sum in s. 63(4)(b) substituted (6.4.2023) by The Diligence against Earnings (Variation) (Scotland) Regulations 2023 (S.S.I. 2023/27), regs. 1, 2(a)
+[^F173]: Words in s. 63(5)(b) substituted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 199(2), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(d) (with arts. 4-6, 10, 13, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F174]: Figure substituted by Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1), s. 844, Sch. 29
+[^M9]: 1988 c. 1
+[^F175]: Words in s. 66(2)(e) substituted (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 8 para. 11(4)(a) (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F176]: Words in s. 66(5) substituted (18.6.2011) by The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484), reg. 1(1), Sch. 7 para. 11(4)(a)
+[^F177]: Words in s. 66(5) substituted (1.8.2014 as notified in the Edinburgh Gazette dated 27.6.2014 (Issue 27425)) by The International Recovery of Maintenance (Hague Convention 2007) (Scotland) Regulations 2012 (S.S.I. 2012/301), reg. 1(b), sch. para. 1(4)
+[^F178]: Words in s. 66(5) omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 16(4) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F179]: Words in s. 66(7) omitted (30.11.2016) by virtue of Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 8 para. 11(4)(b) (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F180]: S. 66(11) inserted (18.6.2011) by The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484), reg. 1(1), Sch. 7 para. 11(4)(b)
+[^F181]: Words in s. 67 substituted (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 8 para. 11(5) (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F182]: S. 68 repealed (1.7.1992) by Social Security (Consequential Provisions) Act 1992 (c. 6), ss. 3, 7(2), Sch.1 (subject as mentioned (6.3.1992) in Local Government Finance Act 1992 (c. 14), s. 118(5)(7)).
+[^F183]: S. 70: by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(8) (with s. 63), it is provided (30.12.2002) that: "In section 70(1)(b) (which stipulates the dates on which an earnings arrestment schedule, current maintenance arrestment schedule or conjoined arrestment order may not be served), for "17(1) of this Act" there is substituted "12(1) of the Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17)"."
+[^F184]: Words in s. 70(1) substituted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 202(2), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(d) (with arts. 4-6, 10, 11, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F185]: S. 70(4A)(4B) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 202(3), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(d) (with arts. 4-6, 10, 11, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F186]: Ss. 70A-70D inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 203, 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(d) (with arts. 4-6, 10, 12, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F187]: Words in s. 72(2) inserted (5.4.1993) by Child Support Act 1991 (c. 48, SIF 20), s. 58(13), Sch. 5 para. 8(5)(a) (with s. 9(2)); S.I. 1992/2644, art. 2.
+[^F188]: S. 72(3A) inserted (5.4.1993) by Child Support Act 1991 (c. 48, SIF 20), s. 58(13), Sch. 5 para. 8(5)(b) (with s. 9(2)); S.I. 1992/2644, art. 2.
+[^F189]: S. 72(4A) inserted (5.4.1993) by Child Support Act 1991 (c. 48, SIF 20), s. 58(13), Sch. 5 para. 8(5)(c) (with s. 9(2)); S.I. 1992/2644, art.2.
+[^F190]: Words in s. 72(4A) substituted (3.3.2003 for specified purposes) by Child Support, Pensions and Social Security Act 2000 (c. 19), s. 86(1)(a)(2), Sch. 3 para. 7(2) (with s. 83(6)); S.I. 2003/192, art. 3, Sch.
+[^F191]: Words in s. 72(5) substituted (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 8 para. 11(6) (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F192]: Words in s. 73(1) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 201(4), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(d) (with arts. 4-6, 10, 14, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F193]: Word in s. 73(1) omitted (1.8.2014 as notified in the Edinburgh Gazette dated 27.6.2014 (Issue 27425)) by virtue of The International Recovery of Maintenance (Hague Convention 2007) (Scotland) Regulations 2012 (S.S.I. 2012/301), reg. 1(b), sch. para. 1(5)(a)
+[^M10]: 1982 c. 27
+[^F194]: Words in s. 73(1) omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 16(5) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F195]: Words in s. 73(1) inserted (1.8.2014 as notified in the Edinburgh Gazette dated 27.6.2014 (Issue 27425)) by The International Recovery of Maintenance (Hague Convention 2007) (Scotland) Regulations 2012 (S.S.I. 2012/301), reg. 1(b), sch. para. 1(5)(b)
+[^M11]: 1975 c. 14
+[^F196]: Words in s. 73(1) (definition of "net earnings", para. (c)) substituted (5.4.1993) by Child Support Act 1991 (c. 48, SIF 20), s. 58(13), Sch. 5 para. 8(6)(a) (with s. 9(2)); S.I. 1992/2644, art. 2.
+[^F197]: In s. 73(1) (definition of "net earnings"), para. (d) added (5.4.1993) by Child Support Act 1991 (c. 48, SIF 20), s. 58(13), Sch. 5 para. 8(6)(b) (with s. 9(2)); S.I. 1992/2644, art. 2.
+[^F198]: Words in s. 73(1) substituted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 204, 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(d) (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^M12]: 1892 c. 17.
+[^F199]: Words in s. 73(3)(b) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 16 para. 109; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F200]: Words in s. 73(3) inserted (1.1.1999) by S.I. 1998/3086, reg. 6(2)
+[^F201]: S. 73(3)(c) repealed (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 205, 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(d) (with arts. 4-6, 10, 13, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F202]: S. 73(3)(da) inserted (6.4.2003) by Tax Credits Act 2002 (c. 21), s. 61, Sch. 3 para. 13; S.I. 2003/962, art. 2(3)(d)(iii)
+[^M13]: 1975 c. 60.
+[^F203]: Words in s. 73(3)(g) substituted (22.8.1996) by 1996 c. 18, ss. 240, 243, Sch. 1 para. 31 (with ss. 191-195, 202)
+[^F204]: S. 73(4) repealed (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 205, 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(d) (with arts. 4-6, 10, 13, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F205]: Pt. 3A inserted (1.4.2008 for the insertion of ss. 73A(5), 73B(2), 73C(2), 73E(3), 73F(6), 73G(2), 73H(1)(2), 73M(2)(a), 73Q(3)(a), 73S(1)(2) for specified purposes and for the insertion of s. 73A(2), 22.4.2009 otherwise except for the insertion of s. 73D) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 206, 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(e)(4), sch. 3 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3); S.S.I. 2009/67, art. 3(1)(b) (with arts. 4-6) (as amended (31.1.2011) by S.S.I. 2011/31, art. 5(b))
+[^F206]: Words in s. 73A(4) omitted (1.8.2014 as notified in the Edinburgh Gazette dated 27.6.2014 (Issue 27425)) by virtue of The International Recovery of Maintenance (Hague Convention 2007) (Scotland) Regulations 2012 (S.S.I. 2012/301), reg. 1(b), sch. para. 1(6)(a)
+[^F207]: Word in s. 73A(4) omitted (1.8.2014 as notified in the Edinburgh Gazette dated 27.6.2014 (Issue 27425)) by virtue of The International Recovery of Maintenance (Hague Convention 2007) (Scotland) Regulations 2012 (S.S.I. 2012/301), reg. 1(b), sch. para. 1(6)(b)(i)
+[^F208]: Words in s. 73A(4) omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 16(6) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F209]: Words in s. 73A(4) inserted (1.8.2014 as notified in the Edinburgh Gazette dated 27.6.2014 (Issue 27425)) by The International Recovery of Maintenance (Hague Convention 2007) (Scotland) Regulations 2012 (S.S.I. 2012/301), reg. 1(b), sch. para. 1(6)(b)(ii)
+[^F210]: Words in s. 73A(4) substituted (1.8.2014 as notified in the Edinburgh Gazette dated 27.6.2014 (Issue 27425)) by The International Recovery of Maintenance (Hague Convention 2007) (Scotland) Regulations 2012 (S.S.I. 2012/301), reg. 1(b), sch. para. 1(6)(b)(iii)
+[^F211]: Words in s. 73F(3) substituted (1.11.2022) by Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8), ss. 22(2)(a), 59(1) (with s. 22(3))
+[^F212]: S. 73F(4) repealed (1.11.2022) by Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8), ss. 22(2)(b), 59(1) (with s. 22(3))
+[^F213]: Words in s. 73F(5)(b) substituted (1.4.2013) by Financial Services Act 2012 (c. 21), s. 122(3), Sch. 18 para. 56 (with Sch. 20); S.I. 2013/423, art. 3, Sch.
+[^F214]: Word in s. 73F(6)(a)(ii) repealed (1.11.2022) by Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8), ss. 22(2)(c)(i), 59(1) (with s. 22(3))
+[^F215]: S. 73F(6)(aa) inserted (1.11.2022) by Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8), ss. 22(2)(c)(ii), 59(1) (with s. 22(3))
+[^F216]: S. 74(2) repealed (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 58(2)(b) (with ss. 59, 63)
+[^M14]: 1947 c. 43.
+[^M15]: 1856 c. 56.
+[^F217]: S. 75(1)(fa) inserted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 2(a)(i); S.S.I. 2011/30, art. 3(1)(3), sch. 1
+[^F218]: S. 75(1)(ha) inserted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 2(a)(ii); S.S.I. 2011/30, art. 3(1)(3), sch. 1
+[^F219]: Words in s. 75(1)(j) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 2(a)(iii); S.S.I. 2011/30, art. 3(1)(3), sch. 1
+[^F220]: Word in s. 75(1)(m) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 2(a)(iv); S.S.I. 2011/30, art. 3(1)(3), sch. 1
+[^F221]: Words in s. 75(3) inserted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 2(b); S.S.I. 2011/30, art. 3(1)(3), sch. 1
+[^F222]: Word in s. 76(2)(a) repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 3(a)(i); S.S.I. 2011/30, art. 3(1)(3), sch. 1
+[^F223]: S. 76(2)(a)(v) and word added (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 3(a)(ii); S.S.I. 2011/30, art. 3(1)(3), sch. 1
+[^F224]: Words in s. 76(5) inserted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 3(b)(i); S.S.I. 2011/30, art. 3(1)(3), sch. 1
+[^F225]: Words in s. 76(5) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 3(b)(ii); S.S.I. 2011/30, art. 3(1)(3), sch. 1
+[^F226]: Words in s. 76(7) substituted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 3(c); S.S.I. 2011/30, art. 3(1)(3), sch. 1
+[^F227]: S. 78 repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), sch. 1
+[^F228]: Words in s. 79(1)(a) substituted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 4(a)(i); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F229]: Word in s. 79(1) repealed (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 4(a)(ii); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F230]: S. 79(1)(ba) inserted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 4(a)(iii); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F231]: S. 79(1)(d) and word added (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 4(a)(iv); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^M16]: 1947 c. 44.
+[^F232]: S. 79(7) repealed (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 4(b); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F233]: S. 79(9)(a): words in s. 79(9) renumbered as s. 79(9)(a) (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 4(c)(i); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F234]: S. 79(9)(b)-(e) added (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 4(c)(ii); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F235]: S. 80(1)(a): words in s. 80(1) renumbered as s. 80(1)(a) (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 5(a)(i); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F236]: S. 80(1)(b) added (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 5(a)(ii); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F237]: S. 80(2)(a): words in s. 80(2) renumbered as s. 80(2)(a) (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 5(b)(i); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F238]: S. 80(2)(b) added (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 5(b)(ii); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^M17]: 1974 c. 53.
+[^F239]: S. 80(3A)(3B) inserted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 5(c); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F240]: S. 80(4A) inserted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 5(d); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F241]: S. 80(5)(aa) inserted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 5(e); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F242]: S. 80(6A) inserted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 5(f); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F243]: Words in s. 80(7)(b) substituted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 5(g); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F244]: Words in s. 81(1) substituted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 6(a)(i); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F245]: S. 81(1)(c) added (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 6(a)(ii); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F246]: Words in s. 81(2) substituted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 6(b)(i); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F247]: Word in s. 81(2) repealed (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 6(b)(ii); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F248]: S. 81(2)(c) and word added (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 6(b)(iii); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F249]: Words in s. 81(3) substituted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 6(c)(i); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F250]: Words in s. 81(3) inserted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 6(c)(ii); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F251]: Words in s. 82 sidenote substituted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 7(2); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F252]: Words in s. 82 repealed (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 7(1)(d); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F253]: S. 82(1): words in s. 82 renumbered as s. 82(1) (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 7(1)(a); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F254]: Words in s. 82(1) inserted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 7(1)(b); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F255]: Words in s. 82(1) substituted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 7(1)(c); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F256]: S. 82(2) inserted (1.4.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 7(1)(e); S.S.I. 2011/30, art. 3(2)(3), sch. 2
+[^F257]: S. 83 repealed (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 Pt. 2; S.S.I. 2011/30, art. 3(1)(3), sch. 1
+[^F258]: S. 86A inserted (31.1.2011) by Public Services Reform (Scotland) Act 2010 (asp 8), s. 134(7), sch. 4 para. 8; S.S.I. 2011/30, art. 3(1)(3), sch. 1
+[^F259]: Words in s. 87(2)(a) inserted (23.11.2009 for specified purposes) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(11)(a) (with s. 223); S.S.I. 2009/369, art. 3(2)(3), sch. (with art. 4) (which transitional provisions in art. 4 are revoked (31.1.2011) by S.S.I. 2011/31, art. 5(c))
+[^F260]: Word in s. 87(2)(a) substituted (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(9) (with s. 63)
+[^F261]: Words in s. 87(2)(a) inserted (23.11.2009 for specified purposes) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(11)(b) (with s. 223); S.S.I. 2009/369, art. 3(2)(3), sch. (with art. 4) (which transitional provisions in art. 4 are revoked (31.1.2011) by S.S.I. 2011/31, art. 5(c))
+[^F262]: S. 87(2)(ba) inserted (22.4.2009) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 146(5), 227(3) (with s. 223); S.S.I. 2009/67, art. 3(1)(a) (with arts. 4-6) (as amended (31.1.2011) by S.S.I. 2011/31, art. 5(b))
+[^M18]: 1892 c. 17.
+[^M19]: 1877 c. 40.
+[^F263]: Words in s. 90(1) repealed (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 209(5)(a), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(g) (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F264]: S. 90(1A) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 209(5)(b), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(g) (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F265]: S. 90(2) repealed (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 209(5)(c), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(g) (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F266]: Word in s. 90(5) substituted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 209(5)(d), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(g) (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F267]: Word in s. 90(6) substituted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 209(5)(e), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(g) (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F268]: S. 93(1)(a) repealed (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(11)(a) (with s. 63)
+[^F269]: S. 93(3) repealed (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(11)(b) (with s. 63)
+[^F270]: Word in s. 93(4)(b) substituted (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 8 para. 11(7)(a) (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F271]: Words in s. 93(4)(c) inserted (15.9.2003) by The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096), art. 1(1), Sch. para. 13(a) (with art. 6)
+[^M20]: 1986 c. 45.
+[^F272]: Words in s. 93(4)(f) substituted (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 8 para. 11(7)(b) (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F273]: Word in s. 93(5)(b) substituted (15.9.2003) by The Enterprise Act 2002 (Insolvency) Order 2003 (S.I. 2003/2096), art. 1(1), Sch. para. 13(b) (with art. 6)
+[^F274]: S. 94(1)(a) repealed (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(12)(a) (with s. 63)
+[^F275]: Word in s. 94(2)(b) repealed (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(12)(b) (with s. 63)
+[^F276]: S. 95(1)(a) repealed (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(13) (with s. 63)
+[^F277]: S. 95A inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 170, 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(b)(ii) (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F278]: Words in s. 96(2) inserted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(12)(a)
+[^F279]: Words in s. 96(2) substituted (6.3.2019) by The First-tier Tribunal for Scotland Housing and Property Chamber (Incidental Provisions) Regulations 2019 (S.S.I. 2019/51), regs. 1, 2(12)(b)
+[^M21]: 1971 c. 58.
+[^M22]: 1986 c. 47.
+[^F280]: S. 99 repealed (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(14) (with s. 63)
+[^F281]: Words in s. 101 repealed (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F282]: Words in s. 103(1) repealed (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp17), s. 61, {Sch. 3 Pt. 1 para. 17(15)(a)} (with s. 63)
+[^M23]: 1971 c. 58.
+[^F283]: Words in s. 103(1) inserted (28.11.2016) by The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387), art. 1, sch. 1 para. 2(3) (with art. 4(1))
+[^F284]: S. 103(7)(a)-(j) repealed (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp17), s. 61, {Sch. 3 Pt. 1 para. 17(15)(b)} (with s. 63)
+[^F285]: S. 103(7)(a)-(j) repealed (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para 17(15)(b) (with s. 63)
+[^F286]: S. 103(7)(a)-(j) repealed (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(15)(b) (with s. 63)
+[^F287]: S. 103(7)(q) repealed (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(5)(b) (with s. 63)
+[^F288]: Words in s. 104 inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(12) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F289]: Words in s. 104(1) repealed (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt 1 para. 17(16)(a) (with s. 63)
+[^F290]: S. 104(2) repealed (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(16)(b) (with s. 63)
+[^F291]: Words in s. 105 renumbered as s. 105(1) (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(13)(a) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^M24]: 1947 c. 44.
+[^F292]: Words in s. 105(1) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(13)(b) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F293]: S. 105(2) inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(13)(c) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F294]: Words in s. 106 omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 16(7)(a) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F295]: Words in s. 106 inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(14)(a) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F296]: Words in s. 106 inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 5 para. 16(14)(b) (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 1 (with arts. 4-6, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F297]: Words in s. 106 inserted (1.8.2014 as notified in the Edinburgh Gazette dated 27.6.2014 (Issue 27425)) by The International Recovery of Maintenance (Hague Convention 2007) (Scotland) Regulations 2012 (S.S.I. 2012/301), reg. 1(b), sch. para. 1(7)(b)
+[^F298]: S. 106 (definition of levying authority) repealed (1.4.1993) by Local Government Finance Act 1992 (c. 14), s. 117, Sch. 13 para. 55(a), Sch. 14; S.I. 1993/575, art. 2(c).
+[^F299]: Words in s. 106 inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(10)(c), Sch. 28 para. 53(a); S.S.I. 2005/604, arts. 2(c), 4
+[^F300]: Words in s. 106 inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(10)(c), Sch. 28 para. 53(b); S.S.I. 2005/604, arts. 2(c), 4
+[^F301]: Words in s. 106 omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 16(7)(b)(i) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^M25]: 1948 c. 29.
+[^M26]: 1966 c. 20.
+[^M27]: 1968 c. 49.
+[^M28]: 1973 c. 29.
+[^M29]: 1976 c. 71.
+[^M30]: 1980 c. 5.
+[^M31]: 1986 c. 50.
+[^M32]: 1950 c. 37.
+[^M33]: 1972 c. 18.
+[^M34]: 1982 c. 27.
+[^F302]: Word in s. 106 omitted (5.4.1993) by virtue of Child Support Act 1991 (c. 48, SIF 20), s. 58(13), Sch. 5 para. 8(7)(a) (with s. 9(2)); S.I. 1992/2644, art. 2.
+[^F303]: Words in s. 106 omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 16(7)(b)(ii) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F304]: Word in s. 106 omitted (1.8.2014 as notified in the Edinburgh Gazette dated 27.6.2014 (Issue 27425)) by virtue of The International Recovery of Maintenance (Hague Convention 2007) (Scotland) Regulations 2012 (S.S.I. 2012/301), reg. 1(b), sch. para. 1(7)(c)(iii)
+[^F305]: In s. 106, word and para. (j) in the definition of "maintenance order" inserted (5.4.1993) by Child Support Act 1991 (c. 48, SIF 20), s. 58(13), Sch. 5 para. 8(7)(b) (with s. 9(2)); S.I. 1992/2644, art. 2.
+[^F306]: Words in s. 106 substituted (3.3.2003 for specified purposes) by Child Support, Pensions and Social Security Act 2000 (c. 19), s. 86(1)(a)(2), Sch. 3 para. 7(3) (with s. 83(6)); S.I. 2003/192, art. 3, Sch.
+[^F307]: Words in s. 106 inserted (1.8.2014 as notified in the Edinburgh Gazette dated 27.6.2014 (Issue 27425)) by The International Recovery of Maintenance (Hague Convention 2007) (Scotland) Regulations 2012 (S.S.I. 2012/301), reg. 1(b), sch. para. 1(7)(c)(iv)
+[^F308]: Words in s. 106 omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 16(7)(c) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F309]: Definition of “summary warrant” in s. 106 substituted (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 151(3); S.I. 1996/323, art. 4(1)(c)
+[^M35]: 1992 c. 14.
+[^F310]: Words in s. 106 omitted (23.11.2009) by virtue of Finance Act 2008 (c. 9), s. 129(4), Sch. 43 para. 13(3)(a); S.I. 2009/3024, art. 3 (with art. 5)
+[^F311]: S. 106: in definition of "summary warrant" para. (cca) inserted (1.4.2002) by Water Industry (Scotland) Act 2002 (asp 3), s. 71(2), Sch. 7 para. 17(3) (with s. 67); S.S.I. 2002/118, art. 2(3)
+[^F312]: Words in s. 106 substituted (23.11.2009) by Finance Act 2008 (c. 9), s. 129(4), Sch. 43 para. 13(3)(b); S.I. 2009/3024, art. 3 (with art. 5)
+[^F313]: Words in s. 106 inserted (23.11.2009) by Finance Act 2008 (c. 9), s. 129(4), Sch. 43 para. 13(3)(c); S.I. 2009/3024, art. 3 (with art. 5)
+[^F314]: Words in s. 106 inserted (1.4.2015) by Revenue Scotland and Tax Powers Act 2014 (asp 16), s. 260(2), sch. 4 para. 1(4) (with ss. 257-259); S.S.I. 2015/110, art. 2(1)
+[^F315]: S. 106: definition of "warrant of sale" repealed (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(17)
+[^F316]: Sch. 1 repealed (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 58(2)(c) (with ss. 59, 63)
+[^n1]: When applying a percentage the calculation should be done to two decimal places of a penny and the result rounded to the nearest whole penny, with an exact half penny being rounded down.]
+[^n2]: When applying a percentage the calculation should be done to two decimal places of a penny and the result rounded to the nearest whole penny, with an exact half penny being rounded down.]
+[^n3]: When applying a percentage the calculation should be done to two decimal places of a penny and the result rounded to the nearest whole penny, with an exact half penny being rounded down.]
+[^F317]: Words in Sch. 3 para. 4 substituted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 199(3)(a), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(d) (with arts. 4-6, 10, 13, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F318]: Sch. 3 para. 4A inserted (1.4.2008) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), ss. 199(3)(b), 227(3) (with s. 223); S.S.I. 2008/115, art. 3(1)(d) (with arts. 4-6, 10, 13, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3)
+[^F319]: Sch. 4 para. 3 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 9 Group 5
+[^F320]: Sch. 4 para. 4 repealed (1.9.1994) by 1994 c. 23, ss. 100(2), 101(1), Sch. 15
+[^F321]: Sch. 5 repealed (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 58(2)(d) (with ss. 59, 63)
+[^F322]: Sch. 5 para. 1(2)(r)-(v) inserted (10.7.2000) by S.S.I. 2000/189, reg. 3
+[^M36]: 1947 c. 43.
+[^M37]: 1970 c. 9.
+[^M38]: 1983 c. 53.
+[^M39]: 1983 c. 55.
+[^F323]: Para. (d) in definition of “creditor” inserted by Abolition of Domestic Rates Etc. (Scotland) Act 1987 (c. 47, SIF 81:2), s. 33(d)
+[^F324]: Sch.5 para. 35(dd) in definition of “creditor” inserted (6.4.1999) by 1998 c. 14, s. 86(1), Sch. 7 para. 14, S.I. 1999/526, art. 2(3)(4)
+[^F325]: Words in Sch. 5 para. 35(dd) substituted (6.4.1999) by 1999 c. 2, s. 26(2), Sch. 9 para. 2, S.I. 1999/527, art. 2, Sch. 3
+[^F326]: Sch. 5 para. 35: in the definition of "creditor", subpara. (e) inserted (1.4.1993) by Local Government Finance Act 1992 (c. 14), s. 117(1), Sch. 13 para. 56; S.I. 1993/575, art. 2(c).
+[^F327]: Sch. 5: Word and (f) inserted (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 151(4); S.I. 1996/323, art. 4(1)(c)
+[^F328]: Sch. 6 para. 2 repealed (5.11.1993) by 1993 c. 50, s. 1(1), Sch. 1 Pt. IX Group1.
+[^F329]: Sch. 6 para. 3 repealed (1.4.2008 for specified purposes, 22.4.2009 in so far as not already in force) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 6 Pt. 1 (with s. 223); S.S.I. 2008/115, art. 3(2)(3), sch. 2 (with arts. 4-6, 9, 10, 15) (as amended: (23.2.2009) by S.S.I. 2009/67, art. 7; (31.1.2011) by S.S.I. 2011/31, art. 5(a); and (4.10.2014) by S.S.I. 2014/173, arts. 1(2), 3); S.S.I. 2009/67, art. 3(2)(3), sch. 2 (with arts. 4-6) (as amended (31.1.2011) by S.S.I. 2011/31, art. 5(b))
+[^F330]: Sch. 6 para. 9 repealed (19.11.1998) by 1998 c. 43, s. 1(1), Sch. 1 Pt. X, Gp. 2
+[^F331]: Sch. 6 para. 15 repealed (27.5.1997) by 1997 c. 11, ss. 3, 6(2), Sch. 1, Pt. X Gp. 2 (with s. 5, Sch. 3)
+[^F332]: Sch. 6 para. 23 repealed (1.7.1997) by 1997 c. 16, s. 113, Sch. 18, Pt. V(2); S.I. 1997/1433, art. 2
+[^F333]: Sch. 6 paras. 27, 28 repealed (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 9 Pt. 1 (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F334]: Sch. 7 para. 4 repealed (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(18) (with s. 63)
+[^F335]: Sch. 7 para. 7(1)(a) repealed (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(18) (with s. 63)
+[^M40]: 1947 c. 43.
+[^M41]: 1970 c. 9.
+[^M42]: 1972 c. 41.
+[^M43]: 1983 c. 53.
+[^M44]: 1983 c. 55.
+[^M45]: 1952 c. 44.
+[^M46]: 1972 c. 25.
+[^M47]: 1979 c. 2.
+[^M48]: 1981 c. 63.
+[^F336]: Sch. 7 para. 9(4)(a) repealed (30.12.2002) by Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17), s. 61, Sch. 3 Pt. 1 para. 17(18) (with s. 63)
+[^M49]: 1976 c. 71.
+[^M50]: 1986 c. 50.

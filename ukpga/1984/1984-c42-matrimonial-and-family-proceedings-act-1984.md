@@ -1,0 +1,1944 @@
+---
+title: "Matrimonial and Family Proceedings Act 1984"
+identifier: "ukpga/1984/42"
+citation: "1984 c. 42"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1984-07-12
+last_amended: 2026-10-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1984/42"
+source_modified: 2026-10-01
+retrieved: 2026-10-11
+---
+
+# Matrimonial and Family Proceedings Act 1984
+
+**1984 c. 42**
+
+An Act to amend the Matrimonial Causes Act 1973 so far as it restricts the time within which proceedings for divorce or nullity of marriage can be instituted; to amend that Act, the Domestic Proceedings and Magistrates’ Courts Act 1978 and the Magistrates’ Courts Act 1980 so far as they relate to the exercise of the jurisdiction of courts in England and Wales to make provision for financial relief or to exercise related powers in matrimonial and certain other family proceedings; to make provision for financial relief to be available where a marriage has been dissolved or annulled, or the parties to a marriage have been legally separated, in a country overseas; to make related amendments in the Maintenance Orders (Reciprocal Enforcement) Act 1972 and the Inheritance (Provision for Family and Dependents) Act 1975; to make provision for the distribution and transfer between the High Court and county courts of, and the exercise in those courts of jurisdiction in, family business and family proceedings and to repeal and re-enact with amendments certain provisions conferring on designated county courts jurisdiction in matrimonial proceedings; to impose a duty to notify changes of address on persons liable to make payments under maintenance orders enforceable under Part II of the Maintenance Orders Act 1950 or Part I of the Maintenance Orders Act 1958; and for connected purposes.
+
+[12th July 1984]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — Time Restrictions on Presentation of Petitions for Divorce or Nullity of Marriage
+
+### 1 Bar on petitions for divorce within one year of marriage.
+
+For section 3 of the [^M1]Matrimonial Causes Act 1973 (in this Part referred to as “the 1973 Act”) (which provides that no petition for divorce shall be presented within three years of marriage unless the leave of the court has been obtained) there shall be substituted the following section—
+
+> **3 Bar on petitions for divorce within one year of marriage.**
+>
+> (1) No petition for divorce shall be presented to the court before the expiration of the period of one year from the date of marriage.
+>
+> (2) Nothing in this section shall prohibit the presentation of a petition based on matters which occurred before the expiration of that period.
+
+### 2 Extension of period for proceedings for decree of nullity in respect of voidable marriage.
+
+(1) Section 13 of the 1973 Act (which imposes restrictions on the institution of proceedings for a decree of nullity in respect of a voidable marriage) shall be amended as follows.
+
+(2) For subsection (2) of section 13 there shall be substituted the following subsection—
+
+> (2) Without prejudice to subsection (1) above, the court shall not grant a decree of nullity by virtue of section 12 above on the grounds mentioned in paragraph (c), (d), (e) or (f) of that section unless—
+>
+> (a) it is satisfied that proceedings were instituted within the period of three years from the date of the marriage, or
+>
+> (b) leave for the institution of proceedings after the expiration of that period has been granted under subsection (4) below.
+
+(3) At the end of section 13 there shall be added the following subsections—
+
+> (4) In the case of proceedings for the grant of a decree of nullity by virtue of section 12 above on the grounds mentioned in paragraph (c), (d), (e) or (f) of that section, a judge of the court may, on an application made to him, grant leave for the institution of proceedings after the expiration of the period of three years from the date of the marriage if—
+>
+> (a) he is satisfied that the petitioner has at some time during that period suffered from mental disorder within the meaning of the Mental Health Act 1983, and
+>
+> (b) he considers that in all the circumstances of the case it would be just to grant leave for the institution of proceedings.
+>
+> (5) An application for leave under subsection (4) above may be made after the expiration of the period of three years from the date of the marriage.
+
+## Part II — Financial Relief in Matrimonial Proceedings
+
+### Provisions relating to powers of the High Court and county courts
+
+#### 3 Orders for financial relief after divorce etc.
+
+For section 25 of the [^M2]Matrimonial Causes Act 1973 (in this Part referred to as “the 1973 Act”) there shall be substituted the following sections—
+
+> **25 Matters to which court is to have regard in deciding how to exercise its powers under ss. 23, 24 and 24A.**
+>
+> (1) It shall be the duty of the court in deciding whether to exercise its powers under section 23, 24 or 24A above and, if so, in what manner, to have regard to all the circumstances of the case, first consideration being given to the welfare while a minor or any child of the family who has not attained the age of eighteen.
+>
+> (2) As regards the exercise of the powers of the court under section 23(1)(a), (b) or (c), 24 or 24A above in relation to a party to the marriage, the court shall in particular have regard to the following matters—
+>
+> (a) the income, earning capacity, property and other financial resources which each of the parties to the marriage has or is likely to have in the foreseeable future, including in the case of earning capacity any increase in that capacity which it would in the opinion of the court be reasonable to expect a party to the marriage to take steps to acquire;
+>
+> (b) the financial needs, obligations and responsibilities which each of the parties to the marriage has or is likely to have in the foreseeable future;
+>
+> (c) the standard of living enjoyed by the family before the breakdown of the marriage;
+>
+> (d) the age of each party to the marriage and the duration of the marriage;
+>
+> (e) any physical or mental disability of either of the parties to the marriage;
+>
+> (f) the contributions which each of the parties has made or is likely in the foreseeable future to make to the welfare of the family, including any contribution by looking after the home or caring for the family;
+>
+> (g) the conduct of each of the parties, if that conduct is such that it would in the opinion of the court be inequitable to disregard it;
+>
+> (h) in the case of proceedings for divorce or nullity of marriage, the value to each of the parties to the marriage of any benefit (for example, a pension) which, by reason of the dissolution or annulment of the marriage, that party will lose the chance of acquiring.
+>
+> (3) As regards the exercise of the powers of the court under section 23(1)(d), (e) or (f), (2) or (4), 24 or 24A above in relation to a child of the family, the court shall in particular have regard to the following matters—
+>
+> (a) the financial needs of the child;
+>
+> (b) the income, earning capacity (if any), property and other financial resources of the child;
+>
+> (c) any physical or mental disability of the child;
+>
+> (d) the manner in which he was being and in which the parties to the marriage expected him to be educated or trained;
+>
+> (e) the considerations mentioned in relation to the parties to the marriage in paragraphs (a), (b), (c) and (e) of subsection (2) above.
+>
+> (4) As regards the exercise of the powers of the court under section 23(1)(d), (e) or (f), (2) or (4), 24 or 24A above against a party to a marriage in favour of a child of the family who is not the child of that party, the court shall also have regard—
+>
+> (a) to whether that party assumed any responsibility for the child’s maintenance, and, if so, to the extent to which, and the basis upon which, that party assumed such responsibility and to the length of time for which that party discharged such responsibility;
+>
+> (b) to whether in assuming and discharging such responsibility that party did so knowing that the child was not his or her own;
+>
+> (c) to the liability of any other person to maintain the child.
+>
+> **25A Exercise of court’s powers in favour of party to marriage on decree of divorce or nullity of marriage.**
+>
+> (1) Where on or after the grant of a decree of divorce or nullity of marriage the court decides to exercise its powers under section 23(1)(a), (b) or (c), 24 or 24A above in favour of a party to the marriage, it shall be the duty of the court to consider whether it would be appropriate so to exercise those powers that the financial obligations of each party towards the other will be terminated as soon after the grant of the decree as the court considers just and reasonable.
+>
+> (2) Where the court decides in such a case to make a periodical payments or secured periodical payments order in favour of a party to the marriage, the court shall in particular consider whether it would be appropriate to require those payments to be made or secured only for such term as would in the opinion of the court be sufficient to enable the party in whose favour the order is made to adjust without undue hardship to the termination of his or her financial dependence on the other party.
+>
+> (3) Where on or after the grant of a decree of divorce or nullity of marriage an application is made by a party to the marriage for a periodical payments or secured periodical payments order in his or her favour, then, if the court considers that no continuing obligation should be imposed on either party to make or secure periodical payments in favour of the other, the court may dismiss the application with a direction that the applicant shall not be entitled to make any further application in relation to that marriage for an order under section 23(1)(a) or (b) above.
+
+#### 4 Orders for financial relief in case of neglect to maintain.
+
+In section 27 of the 1973 Act (financial provision in case of neglect to maintain) for subsection (3) there shall be substituted the following subsection—
+
+> (3) Where an application under this section is made on the ground mentioned in subsection (1)(a) above, then, in deciding—
+>
+> (a) whether the respondent has failed to provide reasonable maintenance for the applicant, and
+>
+> (b) what order, if any, to make under this section in favour of the applicant,
+>
+> the court shall have regard to all the circumstances of the case including the matters mentioned in section 25(2) above, and where an application is also made under this section in respect of a child of the family who has not attained the age of eighteen, first consideration shall be given to the welfare of the child while a minor.
+
+#### 5 Duration of orders for periodical payments and effect of remarriage.
+
+(1) In section 28(1) of the 1973 Act (duration of continuing financial provision orders in favour of party to a marriage), for the words from the beginning to “the following limits” there shall be substituted the words “Subject in the case of an order made on or after the grant of a decree of divorce or nullity of marriage to the provisions of sections 25A(2) above and 31(7) below, the term to be specified in a periodical payments or secured periodical payments order in favour of a party to a marriage shall be such term as the court thinks fit, except that the term shall not begin before or extend beyond the following limits”.
+
+(2) After subsection (1) of the said section 28 there shall be inserted the following subsection—
+
+> (1A) Where a periodical payments or secured periodical payments order in favour of a party to a marriage is made on or after the grant of a decree of divorce or nullity of marriage, the court may direct that that party shall not be entitled to apply under section 31 below for the extension of the term specified in the order
+
+.
+
+(3) In subsection (3) of the said section 28 (effect of remarriage on financial provision orders), after the word “remarries” there shall be inserted the words “whether at any time before or after the commencement of this Act”.
+
+(4) In section 29(2) of the 1973 Act (duration of continuing financial provision orders in favour of children), in paragraph (a), for the words “unless the court thinks it right in the circumstances of the case to specify a later date” there shall be substituted the words “unless the court considers that in the circumstances of the case the welfare of the child requires that it should extend to a later date”.
+
+#### 6 Variation and discharge of orders for periodical payments.
+
+(1) Section 31 of the 1973 Act (variation and discharge of orders) shall be amended as follows.
+
+(2) In subsection (1) after the words “subject to the provisions of this section” there shall be inserted the words “and of section 28(1A) above”.
+
+(3) For subsection (7) there shall be substituted the following subsection—
+
+> (7) In exercising the powers conferred by this section the court shall have regard to all the circumstances of the case, first consideration being given to the welfare while a minor of any child of the family who has not attained the age of eighteen, and the circumstances of the case shall include any change in any of the matters to which the court was required to have regard when making the order to which the application relates, and—
+>
+> (a) in the case of a periodical payments or secured periodical payments order made on or after the grant of a decree of divorce or nullity of marriage, the court shall consider whether in all the circumstances and after having regard to any such change it would be appropriate to vary the order so that payments under the order are required to be made or secured only for such further period as will in the opinion of the court be sufficient to enable the party in whose favour the order was made to adjust without undue hardship to the termination of those payments;
+>
+> (b) in a case where the party against whom the order was made has died, the circumstances of the case shall also include the changed circumstances resulting from his or her death.
+
+(4) After subsection (9) there shall be inserted the following subsection—
+
+> (10) Where the court, in exercise of its powers under this section, decides to vary or discharge a periodical payments or secured periodical payments order, then, subject to section 28(1) and (2) above, the court shall have power to direct that the variation or discharge shall not take effect until the expiration of such period as may be specified in the order.
+
+#### 7 Consent orders for financial provision or property adjustment.
+
+The following section shall be inserted after section 33 of the 1973 Act—
+
+> **Consent orders**
+>
+> **33A Consent orders for financial provision or property adjustment.**
+>
+> (1) Notwithstanding anything in the preceding provisions of this Part of this Act, on an application for a consent order for financial relief the court may, unless it has reason to think that there are other circumstances into which it ought to inquire, make an order in the terms agreed on the basis only of the prescribed information furnished with the application.
+>
+> (2) Subsection (1) above applies to an application for a consent order varying or discharging an order for financial relief as it applies to an application for an order for financial relief.
+>
+> (3) In this section—
+>
+> - “consent order”, in relation to an application for an order, means an order in the terms applied for to which the respondent agrees;
+> - “order for financial relief” means an order under any of sections 23, 24, 24A or 27 above; and
+> - “prescribed” means prescribed by rules of court.
+
+#### 8 Restrictions imposed in divorce proceedings etc., on applications under Inheritance (Provision for Family and Dependants) Act 1975.
+
+(1) For subsection (1) of section 15 of the [^M3]Inheritance (Provision for Family and Dependants) Act 1975 (under which the court on the grant of a decree of divorce, nullity or judicial separation has power, if the parties to the marriage agree, to order that one party shall not on the death of the other party be entitled to apply for an order under section 2 of that Act) there shall be substituted the following subsection—
+
+> (1) On the grant of a decree of divorce, a decree of nullity of marriage or a decree of judicial separation or at any time thereafter the court, if it considers it just to do so, may, on the application of either party to the marriage, order that the other party to the marriage shall not on the death of the applicant be entitled to apply for an order under section 2 of this Act.
+>
+> In this subsection “the court” means the High Court or, where a county court has jurisdiction by virtue of Part V of the Matrimonial and Family Proceedings Act 1984, a county court.
+
+(2) In section 25(1) of that Act (interpretation), in the definition of “the court” after the word “means” there shall be inserted the words “unless the context otherwise requires”.
+
+### Provisions relating to the powers of magistrates’ courts
+
+#### 9 Orders for financial relief made by magistrates’ courts in matrimonial proceedings.
+
+(1) For section 3 of the [^M4]Domestic Proceedings and Magistrates’ Courts Act 1978 there shall be substituted the following section—
+
+> **3 Matters to which court is to have regard in exercising its powers under s.2.**
+>
+> (1) Where an application is made for an order under section 2 of this Act, it shall be the duty of the court, in deciding whether to exercise its powers under that section and, if so, in what manner, to have regard to all the circumstances of the case, first consideration being given to the welfare while a minor of any child of the family who has not attained the age of eighteen.
+>
+> (2) As regards the exercise of its powers under subsection (1)(a) or (b) of section 2, the court shall in particular have regard to the following matters—
+>
+> (a) the income, earning capacity, property and other financial resources which each of the parties to the marriage has or is likely to have in the foreseeable future, including in the case of earning capacity any increase in that capacity which it would in the opinion of the court be reasonable to expect a party to the marriage to take steps to acquire;
+>
+> (b) the financial needs, obligations and responsibilities which each of the parties to the marriage has or is likely to have in the foreseeable future;
+>
+> (c) the standard of living enjoyed by the parties to the marriage before the occurrence of the conduct which is alleged as the ground of the application;
+>
+> (d) the age of each party to the marriage and the duration of the marriage;
+>
+> (e) any physical or mental disability of either of the parties to the marriage;
+>
+> (f) the contributions which each of the parties has made or is likely in the foreseeable future to make to the welfare of the family, including any contribution by looking after the home or caring for the family;
+>
+> (g) the conduct of each of the parties, if that conduct is such that it would in the opinion of the court be inequitable to disregard it.
+>
+> (3) As regards the exercise of its powers under subsection (1)(c) or (d) of section 2, the court shall in particular have regard to the following matters—
+>
+> (a) the financial needs of the child;
+>
+> (b) the income, earning capacity (if any), property and other financial resources of the child;
+>
+> (c) any physical or mental disability of the child;
+>
+> (d) the standard of living enjoyed by the family before the occurrence of the conduct which is alleged as the ground of the application;
+>
+> (e) the manner in which the child was being and in which the parties to the marriage expected him to be educated or trained;
+>
+> (f) the matters mentioned in relation to the parties to the marriage in paragraphs (a) and (b) of subsection (2) above.
+>
+> (4) As regards the exercise of its powers under section 2 in favour of a child of the family who is not the child of the respondent, the court shall also have regard—
+>
+> (a) to whether the respondent has assumed any responsibility for the child’s maintenance and, if he did, to the extent to which, and the basis on which, he assumed that responsibility and to the length of time during which he discharged that responsibility;
+>
+> (b) to whether in assuming and discharging that responsibility the respondent did so knowing that the child was not his own child;
+>
+> (c) to the liability of any other person to maintain the child.
+
+(2) In section 5(2) of that Act (duration of periodical payments orders in favour of children), in paragraph (a), for the words “unless the court thinks it right in the circumstances of the case to specify a later date” there shall be substituted the words “unless the court considers that in the circumstances of the case the welfare of the child requires that it should extend to a later date”.
+
+(3) In section 20(11) of that Act (variation and revocation of orders for periodical payments) for the words “including any change” there shall be substituted the words “first consideration being given to the welfare while a minor of any child of the family who has not attained the age of eighteen, and the circumstances of the case shall include any change”.
+
+#### 10 Orders for payments which have been agreed by the parties.
+
+For section 6 of the [^M5]Domestic Proceedings and Magistrates’ Courts Act 1978 there shall be substituted the following section—
+
+> **6 Orders for payments which have been agreed by the parties.**
+>
+> (1) Either party to a marriage may apply to a magistrates’ court for an order under this section on the ground that either the party making the application or the other party to the marriage has agreed to make such financial provision as may be specified in the application and, subject to subsection (3) below, the court on such an application may, if—
+>
+> (a) it is satisfied that the applicant or the respondent, as the case may be, has agreed to make that provision, and
+>
+> (b) it has no reason to think that it would be contrary to the interests of justice to exercise its powers hereunder,
+>
+> order that the applicant or the respondent, as the case may be, shall make the financial provision specified in the application.
+>
+> (2) In this section “financial provision” means the provision mentioned in any one or more of the following paragraphs, that is to say—
+>
+> (a) the making of periodical payments by one party to the other,
+>
+> (b) the payment of a lump sum by one party to the other,
+>
+> (c) the making of periodical payments by one party to a child of the family or to the other party for the benefit of such a child,
+>
+> (d) the payment by one party of a lump sum to a child of the family or to the other party for the benefit of such a child,
+>
+> and any reference in this section to the financial provision specified in an application made under subsection (1) above or specified by the court under subsection (5) below is a reference to the type of provision specified in the application or by the court, as the case may be, to the amount so specified as the amount of any payment to be made thereunder and, in the case of periodical payments, to the term so specified as the term for which the payments are to be made.
+>
+> (3) Where the financial provision specified in an application under subsection (1) above includes or consists of provision in respect of a child of the family, the court shall not make an order under that subsection unless it considers that the provision which the applicant or the respondent, as the case may be, has agreed to make in respect of that child provides for, or makes a proper contribution towards, the financial needs of the child.
+>
+> (4) A party to a marriage who has applied for an order under section 2 of this Act shall not be precluded at any time before the determination of that application from applying for an order under this section; but if an order is made under this section on the application of either party and either of them has also made an application for an order under section 2 of this Act, the application made for the order under section 2 shall be treated as if it had been withdrawn.
+>
+> (5) Where on an application under subsection (1) above the court decides—
+>
+> (a) that it would be contrary to the interests of justice to make an order for the making of the financial provision specified in the application, or
+>
+> (b) that any financial provision which the applicant or the respondent, as the case may be, has agreed to make in respect of a child of the family does not provide for, or make a proper contribution towards, the financial needs of that child,
+>
+> but is of the opinion—
+>
+> (i) that it would not be contrary to the interests of justice to make an order for the making of some other financial provision specified by the court, and
+>
+> (ii) that, in so far as that other financial provision contains any provision for a child of the family, it provides for, or makes a proper contribution towards, the financial needs of that child,
+>
+> then if both the parties agree, the court may order that the applicant or the respondent, as the case may be, shall make that other financial provision.
+>
+> (6) Subject to subsection (8) below, the provisions of section 4 of this Act shall apply in relation to an order under this section which requires periodical payments to be made to a party to a marriage for his own benefit as they apply in relation to an order under section 2(1)(a) of this Act.
+>
+> (7) Subject to subsection (8) below, the provisions of section 5 of this Act shall apply in relation to an order under this section for the making of financial provision in respect of a child of the family as they apply in relation to an order under section 2(1)(c) or (d) of this Act.
+>
+> (8) Where the court makes an order under this section which contains provision for the making of periodical payments and, by virtue of subsection (4) above, an application for an order under section 2 of this Act is treated as if it had been withdrawn, then the term which may be specified as the term for which the payments are to be made may begin with the date of the making of the application for the order under section 2 or any later date.
+>
+> (9) Where the respondent is not present or represented by counsel or solicitor at the hearing of an application for an order under subsection (1) above, the court shall not make an order under this section unless there is produced to the court such evidence as may be prescribed by rules of—
+>
+> (a) the consent of the respondent to the making of the order,
+>
+> (b) the financial resources of the respondent, and
+>
+> (c) in a case where the financial provision specified in the application includes or consists of provision in respect of a child of the family to be made by the applicant to the respondent for the benefit of the child or to the child, the financial resources of the child.
+
+#### 11 Variation of consent orders by magistrates’ courts.
+
+For section 20(2) of the [^M6]Domestic Proceedings and Magistrates’ Courts Act 1978 (under which the court can vary a consent order by ordering the payment of a lump sum if the consent order provided for the payment of a lump sum) there shall be substituted the following subsection—
+
+> (2) Where a magistrates’ court has made an order under section 6 of this Act for the making of periodical payments by a party to a marriage the court shall have power, on an application made under this section, to vary or revoke that order and also to make an order for the payment of a lump sum by that party either—
+>
+> (a) to the other party to the marriage, or
+>
+> (b) to a child of the family or to that other party for the benefit of that child.
+
+## Part III — Financial Relief in England and Wales After Overseas Divorce etc.
+
+### Applications for financial relief
+
+#### 12 Applica tions for financial relief after overseas divorce etc.
+
+(1) Where—
+
+(a) a marriage has been dissolved or annulled, or the parties to a marriage have been legally separated, by means of judicial or other proceedings in an overseas country, and
+
+(b) the divorce, annulment or legal separation is entitled to be recognised as valid in England and Wales,
+
+either party to the marriage may apply to the court in the manner prescribed by rules of court for an order for financial relief under this Part of this Act.
+
+(2) If after a marraige has been dissolved or annulled in an overseas country one of the parties to the marriage [[^F1]forms a subsequent marriage or civil partnership,] that party shall not be entitled to make an application in relation to that marriage.
+
+[[^F2](3) The reference in subsection (2) above to the forming of a subsequent marriage or civil partnership includes a reference to the forming of a marriage or civil partnership which is by law void or voidable.]
+
+(4) In this Part of this Act except sections 19, 23, and 24 “order for financial relief” means an order under section 17 or 22 below of a description referred to in that section.
+
+#### 13 Leave of the court required for applications for financial relief.
+
+(1) No application for an order for financial relief shall be made under this Part of this Act unless the leave of the court has been obtained in accordance with rules of court; and the court shall not grant leave unless it considers that there is substantial ground for the making of an application for such an order.
+
+(2) The court may grant leave under this section notwithstanding that an order has been made by a court in a country outside England and Wales requiring the other party to the marriage to make any payment or transfer any property to the applicant or a child of the family.
+
+(3) Leave under this section may be granted subject to such conditions as the court thinks fit.
+
+#### 14 Interim orders for maintenance.
+
+(1) Where leave is granted under section 13 above for the making of an application for an order for financial relief and it appears to the court that the applicant or any child of the family is in immediate need of financial assistance, the court may make an interim order for maintenance, that is to say, an order requiring the other party to the marriage to make to the applicant or to the child such periodical payments, and for such term, being a term beginning not earlier than the date of the grant of leave and ending with the date of the determination of the application for an order for financial relief, as the court thinks reasonable.
+
+(2) If it appears to the court that the court has jurisdiction to entertain the application for an order for financial relief by reason only of paragraph (c) of section 15(1) below the court shall not make an interim order under this section.
+
+(3) An interim order under subsection (1) above may be made subject to such conditions as the court thinks fit.
+
+#### 15 Jurisdiction of the court.
+
+(1) Subject to [[^F3]subsection (1A)] below, the court shall have jurisdiction to entertain an application for an order for financial relief if any of the following jurisdictional requirements are satisfied, that is to say—
+
+(a) either of the parties to the marriage was domiciled in England and Wales on the date of the application for leave under section 13 above or was so domiciled on the date on which the divorce, annulment or legal separation obtained in the overseas country took effect in that country; or
+
+(b) either of the parties to the marriage was habitually resident in England and Wales throughout the period of one year ending with the date of the application for leave or was so resident throughout the period of one year ending with the date on which the divorce, annulment or legal separation obtained in the overseas country took effect in that country; or
+
+(c) either or both of the parties to the marriage had at the date of the application for leave a beneficial interest in possession in a dwelling-house situated in England or Wales which was at some time during the marriage a matrimonial home of the parties to the marriage.
+
+[[^F4](1A) If an application or part of an application relates to a matter [[^F5]in relation to which Article 18 of the 2007 Hague Convention applies, the court may not entertain the application or that part of it except where permitted by Article 18.]]
+
+[^F6]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F7](3) In this section, [[^F8]“the 2007 Hague Convention” means the Convention on the International Recovery of Child Support and Other Forms of Family Maintenance concluded on 23 November 2007 at The Hague.]]
+
+#### 16 Duty of the court to consider whether England and Wales is appropriate venue for application.
+
+(1) [^F9]... Before making an order for financial relief the court shall consider whether in all the circumstances of the case it would be appropriate for such an order to be made by a court in England and Wales, and if the court is not satisfied that it would be appropriate, the court shall dismiss the application.
+
+(2) The court shall in particular have regard to the following matters—
+
+(a) the connection which the parties to the marriage have with England and Wales;
+
+(b) the connection which those parties have with the country in which the marriage was dissolved or annulled or in which they were legally separated;
+
+(c) the connection which those parties have with any other country outside England and Wales;
+
+(d) any financial benefit which the applicant or a child of the family has received, or is likely to receive, in consequence of the divorce, annulment or legal separation, by virtue of any agreement or the operation of the law of a country outside England and Wales;
+
+(e) in a case where an order has been made by a court in a country outside England and Wales requiring the other party to the marriage to make any payment or transfer any property for the benefit of the applicant or a child of the family, the financial relief given by the order and the extent to which the order has been complied with or is likely to be complied with;
+
+(f) any right which the applicant has, or has had, to apply for financial relief from the other party to the marriage under the law of any country outside England and Wales and if the applicant has omitted to exercise that right the reason for that omission;
+
+(g) the availability in England and Wales of any property in respect of which an order under this Part of this Act in favour of the applicant could be made;
+
+(h) the extent to which any order made under this Part of this Act is likely to be enforceable;
+
+(i) the length of time which has elapsed since the date of the divorce, annulment or legal separation.
+
+[^F10]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F11]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Orders for financial provision and property adjustment
+
+#### 17 Orders for financial provision and property adjustment.
+
+[[^F12](1) Subject to section 20 below, on an application by a party to a marriage for an order for financial relief under this section, the court may—
+
+(a) make any one or more of the orders which it could make under Part II of the 1973 Act if a [[^F13]divorce order, nullity of marriage order or judicial separation order in respect of the marriage had been made] in England and Wales, that is to say—
+
+(i) any order mentioned in section 23(1) of the 1973 Act (financial provision orders); and
+
+(ii) any order mentioned in section 24(1) of that Act (property adjustment orders); and
+
+(b) if the marriage has been dissolved or annulled, make one or more orders each of which would, within the meaning of that Part of that Act, be a pension sharing order in relation to the marriage.
+
+[[^F14](c) if the marriage has been dissolved or annulled, make an order which would, within the meaning of that Part of that Act, be a pension compensation sharing order in relation to the marriage.]]
+
+(2) Subject to section 20 below, where the court makes a secured periodical payments order, an order for the payment of a lump sum or a property adjustment order under subsection (1) above, then, on making that order or at any time thereafter, the court may make any order mentioned in section 24A(1) of the 1973 Act (orders for sale of property) which the court would have power to make if the order under subsection (1) above had been made under Part II of the 1973 Act.
+
+#### 18 Matters to which the court is to have regard in exercising its powers under s. 17.
+
+(1) In deciding whether to exercise its powers under section 17 above and, if so, in what manner the court shall act in accordance with this section.
+
+(2) The court shall have regard to all the circumstances of the case, first consideration being given to the welfare while a minor of any child of the family who has not attained the age of eighteen.
+
+(3) As regards the exercise of those powers in relation to a party to the marriage, the court shall in particular have regard to the matters mentioned in section 25(2)(a) to (h) of the 1973 Act and shall be under duties corresponding with those imposed by section 25A(1) and (2) of the 1973 Act where it decides to exercise under section 17 above powers corresponding with the powers referred to in those subsections.
+
+[[^F15](3A) The matters to which the court is to have regard under subsection (3) above—
+
+(a) so far as relating to paragraph (a) of section 25(2) of the 1973 Act, include any benefits under a pension arrangement which a party to the marriage has or is likely to have [[^F16]and any PPF compensation to which a party to the marriage is or is likely to be entitled,] (whether or not in the foreseeable future), and
+
+(b) so far as relating to paragraph (h) of that provision, include [[^F17]—
+
+(i)] any benefits under a pension arrangement which, by reason of the dissolution or annulment of the marriage, a party to the marriage will lose the chance of acquiring [[^F18], and
+
+(ii) any PPF compensation which, by reason of the dissolution or annulment of the marriage, a party to the marriage will lose the chance of acquiring entitlement to].]
+
+(4) As regards the exercise of those powers in relation to a child of the family, the court shall in particular have regard to the matters mentioned in section 25(3)(a) to (e) of the 1973 Act.
+
+(5) As regards the exercise of those powers against a party to the marriage in favour of a child of the family who is not the child of that party, the court shall also have regard to the matters mentioned in section 25(4)(a) to (c) of the 1973 Act.
+
+(6) Where an order has been made by a court outside England and Wales for the making of payments or the transfer of property by a party to the marriage, the court in considering in accordance with this section the financial resources of the other party to the marriage or a child of the family shall have regard to the extent to which that order has been complied with or is likely to be complied with.
+
+[[^F19](7) In this section—
+
+(a) “pension arrangement” has the meaning given by section 25D(3) of the 1973 Act, and
+
+(b) references to benefits under a pension arrangement include any benefits by way of pension, whether under a pension arrangement or not [[^F20], and
+
+[[^F21](c) “PPF compensation” means compensation payable under—
+
+(i) Chapter 3 of Part 2 of the Pensions Act 2004 (pension protection) or any regulations or order made under it,
+
+(ii) Chapter 1 of Part 3 of the Pensions Act 2008 (pension compensation sharing) or any regulations or order made under it, or
+
+(iii) any provision corresponding to the provisions mentioned in sub-paragraph (i) or (ii) in force in Northern Ireland.]]]
+
+#### 19 Consent orders for financial provision or property adjustment.
+
+(1) Notwithstanding anything in section 18 above, on an application for a consent order for financial relief the court may, unless it has reason to think that there are other circumstances into which it ought to inquire, make an order in the terms agreed on the basis only of the prescribed information furnished with the application.
+
+(2) Subsection (1) above applies to an application for a consent order varying or discharging an order for financial relief as it applies to an application for an order for financial relief.
+
+(3) In this section—
+
+- “consent order”, in relation to an application for an order, means an order in the terms applied for to which the respondent agrees;
+- “order for financial relief” means an order under section 17 above; and
+- “prescribed” means prescribed by rules of court.
+
+#### 20 Restriction of powers of court where jurisdiction depends on matrimonial home in England or Wales.
+
+(1) Where the court has jurisdiction to entertain an application for an order for financial relief by reason only of the situation in England or Wales of a dwelling-house which was a matrimonial home of the parties, the court may make under section 17 above any one or more of the following orders (but no other)—
+
+(a) an order that either party to the marriage shall pay to the other such lump sum as may be specified in the order;
+
+(b) an order that a party to the marriage shall pay to such person as may be so specified for the benefit of a child of the family, or to such a child, such lump sum as may be so specified;
+
+(c) an order that a party to the marriage shall transfer to the other party, to any child of the family or to such person as may be so specified for the benefit of such a child, the interest of the first-mentioned party in the dwelling-house, or such part of that interest as may be so specified;
+
+(d) an order that a settlement of the interest of a party to the marriage in the dwelling-house, or such part of that interest as may be so specified, be made to the satisfaction of the court for the benefit of the other party to the marriage and of the children of the family or either or any of them;
+
+(e) an order varying for the benefit of the parties to the marriage and of the children of the family or either or any of them any ante-nuptial or post-nuptial settlement (including such a settlement made by will or codicil) made on the parties to the marriage so far as that settlement relates to an interest in the dwelling-house;
+
+(f) an order extinguishing or reducing the interest of either of the parties to the marriage under any such settlement so far as that interest is an interest in the dwelling-house;
+
+(g) an order for the sale of the interest of a party to the marriage in the dwelling-house.
+
+(2) Where, in the circumstances mentioned in subsection (1) above, the court makes an order for the payment of a lump sum by a party to the marriage, the amount of the lump sum shall not exceed, or where more than one such order is made the total amount of the lump sums shall not exceed in aggregate, the following amount, that is to say—
+
+(a) if the interest of that party in the dwelling-house is sold in pursuance of an order made under subsection (1)(g) above, the amount of the proceeds of the sale of that interest after deducting therefrom any costs incurred in the sale thereof;
+
+(b) if the interest of that party is not so sold, the amount which in the opinion of the court represents the value of that interest.
+
+(3) Where the interest of a party to the marriage in the dwelling-house is held jointly or in common with any other person or persons—
+
+(a) the reference in subsection (1)(g) above to the interest of a party to the marriage shall be construed as including a reference to the interest of that other person, or the interest of those other persons, in the dwelling-house, and
+
+(b) the reference in subsection (2)(a) above to the amount of the proceeds of a sale ordered under subsection (1)(g) above shall be construed as a reference to that part of those proceeds which is attributable to the interest of that party to the marriage in the dwelling-house.
+
+#### 21 Application to orders under ss. 14 and 17 of certain provisions of Part II of Matrimonial Causes Act 1973.
+
+[[^F22](1)] The following provisions of Part II of the 1973 Act (financial relief for parties to marriage and children of family) shall apply in relation to an order [^F23]... under section 14 or 17 above as they apply in relation to a like order [^F23]... under that Part of that Act, that is to say—
+
+(a) section 23(3) (provisions as to lump sums);
+
+(b) section 24A(2), (4), (5) and (6) (provisions as to orders for sale);
+
+[[^F24](ba) section 24B(3) to (5) (provisions about pension sharing orders in relation to divorce and nullity);
+
+(bb) section 24C (duty to stay pension sharing orders);
+
+(bc) section 24D (apportionment of pension sharing charges);]
+
+[[^F25](bca) section 24E(3) to (10) (provisions about pension compensation orders in relation to divorce and nullity);
+
+(bcb) section 24F (duty to stay pension compensation sharing orders);
+
+(bcc) section 24G (apportionment of pension compensation sharing charges);]
+
+[[^F26](bd) section 25B(3) to (7B) (power, by financial provision order, to attach payments under a pension arrangement, or to require the exercise of a right of commutation under such an arrangement);
+
+(be) section 25C (extension of lump sum powers in relation to death benefits under a pension arrangement);]
+
+[[^F27](bf) section 25E(2) to (10) (the Pension Protection Fund);]
+
+[[^F28](bg) section 25F (power, by financial provision order, to attach pension compensation payments, or to require the exercise of a right of commutation of pension compensation);]
+
+(c) section 28(1) and (2) (duration of continuing financial provision orders in favour of party to marriage);
+
+(d) section 29 (duration of continuing financial provision orders in favour of children, and age limit on making certain orders in their favour);
+
+(e) section 30 (direction for settlement of instrument for securing payments or effecting property adjustment), except paragraph (b);
+
+(f) section 31 (variation, discharge etc. of certain orders for financial relief), except subsection (2)(e) and subsection (4);
+
+(g) section 32 (payment of certain arrears unenforceable without the leave of the court);
+
+(h) section 33 (orders for repayment of sums paid under certain orders);
+
+(i) section 38 (orders for repayment of sums paid after cessation of order by reason of remarriage);
+
+(j) section 39 (settlements etc. made in compliance with a property adjustment order may be avoided on bankruptcy of settlor); and
+
+(k) section 40 (payments etc. under order made in favour of person suffering from mental disorder).
+
+[[^F29](l) section 40A (appeals relating to pension sharing orders which have taken effect).]
+
+[[^F30](m) section 40B (appeals relating to pension compensation sharing orders which have taken effect).]
+
+[[^F31](2) Subsection (1)(bd) [[^F32], (be) and (bg)] above shall not apply where the court has jurisdiction to entertain an application for an order for financial relief by reason only of the situation in England or Wales of a dwelling-house which was a matrimonial home of the parties.
+
+(3) Section 25D(1) of the 1973 Act (effect of transfers on orders relating to rights under a pension arrangement) shall apply in relation to an order made under section 17 above by virtue of subsection (1)(bd) or (be) above as it applies in relation to an order made under section 23 of that Act by virtue of section 25B or 25C of the 1973 Act.
+
+(4) The Lord Chancellor may by regulations make for the purposes of this Part of this Act provision corresponding to any provision which may be made by him under subsections (2) to (2B) of section 25D of the 1973 Act [[^F33]or under subsections (1) to (3) of section 25G of that Act].
+
+(5) Power to make regulations under this section shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.]
+
+### Orders for transfer of tenancies
+
+#### [[^F34]22 Powers of court in relation to certain tenancies of dwelling-houses.
+
+(1) This section applies if—
+
+(a) an application is made by a party to a marriage for an order for financial relief; and
+
+(b) one of the parties is entitled, either in his own right or jointly with the other party, to occupy a dwelling-house situated in England or Wales by virtue of a tenancy which is a relevant tenancy within the meaning of Schedule 7 to the Family Law Act 1996 (certain statutory tenancies).
+
+(2) The court may make in relation to that dwelling-house any order which it could make under Part II of that Schedule [[^F35]if a [[^F36]divorce order, nullity of marriage order or judicial separation order had been made]] in England and Wales in respect of the marriage.
+
+(3) The provisions of paragraphs 10, 11 and 14(1) in Part III of that Schedule apply in relation to any order under this section as they apply to any order under Part II of that Schedule.]
+
+### Avoidance of transactions intended to prevent or reduce financial relief
+
+#### 23 Avoidance of transactions intended to defeat applications for financial relief.
+
+(1) For the purposes of this section “financial relief” means relief under section 14 or 17 above and any reference to defeating a claim by a party to a marriage for financial relief is a reference to preventing financial relief from being granted or reducing the amount of relief which might be granted, or frustrating or impeding the enforcement of any order which might be or has been made under either of those provisions at the instance of that party.
+
+(2) Where leave is granted under section 13 above for the making by a party to a marriage of an application for an order for financial relief under section 17 above, the court may, on an application by that party—
+
+(a) if it is satisfied that the other party to the marriage is, with the intention of defeating the claim for financial relief, about to make any disposition or to transfer out of the jurisdiction or otherwise deal with any property, make such order as it thinks fit for restraining the other party from so doing or otherwise for protecting the claim;
+
+(b) if it is satisfied that the other party has, with that intention, made a reviewable disposition and that if the disposition were set aside financial relief or different financial relief would be granted to the applicant, make an order setting aside the disposition.
+
+(3) Where an order for financial relief under section 14 or 17 above has been made by the court at the instance of a party to a marriage, then, on an application made by that party, the court may, if it is satisfied that the other party to the marriage has, with the intention of defeating the claim for financial relief, made a reviewable disposition, make an order setting aside the disposition.
+
+(4) Where the court has jurisdiction to entertain the application for an order for financial relief by reason only of paragraph (c) of section 15(1) above, it shall not make any order under subsection (2) or (3) above in respect of any property other than the dwelling-house concerned.
+
+(5) Where the court makes an order under subsection (2)(b) or (3) above setting aside a disposition it shall give such consequential directions as it thinks fit for giving effect to the order (including directions requiring the making of any payments or the disposal of any property).
+
+(6) Any disposition made by the other party to the marriage (whether before or after the commencement of the application) is a reviewable disposition for the purposes of subsections (2)(b) and (3) above unless it was made for valuable consideration (other than marriage) to a person who, at the time of the disposition, acted in relation to it in good faith and without notice of any intention on the part of the other party to defeat the applicant’s claim for financial relief.
+
+(7) Where an application is made under subsection (2) or (3) above with respect to a disposition which took place less than three years before the date of the application or with respect to a disposition or other dealing with property which is about to take place and the court is satisfied—
+
+(a) in a case falling within subsection (2)(a) or (b) above, that the disposition or other dealing would (apart from this section) have the consequence, or
+
+(b) in a case falling within subsection (3) above, that the disposition has had the consequence,
+
+of defeating a claim by the applicant for financial relief, it shall be presumed, unless the contrary is shown, that the person who disposed of or is about to dispose of or deal with the property did so or, as the case may be, is about to do so, with the intention of defeating the applicant’s claim for financial relief.
+
+(8) In this section “disposition” does not include any provision contained in a will or codicil but, with that exception, includes any conveyance, assurance or gift of property of any description, whether made by an instrument or otherwise.
+
+(9) The preceding provisions of this section are without prejudice to any power of the High Court to grant injunctions under section 37 of the [[^F37]Senior Courts Act 1981].
+
+#### 24 Prevention of transactions intended to defeat prospective applications for financial relief.
+
+(1) Where, on an application by a party to a marriage, it appears to the court—
+
+(a) that the marriage has been dissolved or annulled, or that the parties to the marriage have been legally separated, by means of judicial or other proceedings in an overseas country; and
+
+(b) that the applicant intends to apply for leave to make an application for an order for financial relief under section 17 above as soon as he or she has been habitually resident in England and Wales for a period of one year; and
+
+(c) that the other party to the marriage is, with the intention of defeating a claim for financial relief, about to make any disposition or to transfer out of the jurisdiction or otherwise deal with any property,
+
+the court may make such order as it thinks fit for restraining the other party from taking such action as is mentioned in paragraph (c) above.
+
+(2) For the purposes of an application under subsection (1) above—
+
+(a) the reference to defeating a claim for financial relief shall be construed in accordance with subsection (1) of section 23 above (omitting the reference to any order which has been made); and
+
+(b) subsections (7) and (8) of section 23 above shall apply as they apply for the purposes of an application under that section.
+
+(3) The preceding provisions of this section are without prejudice to any power of the High Court to grant injunctions under section 37 of the [[^F37]Senior Courts Act 1981].
+
+### Financial provision out of estate of deceased party to marriage
+
+#### 25 Extension of powers under Inheritance (Provision for Family and Dependants) Act 1975 in respect of former spouses.
+
+(1) The [^M7]Inheritance (Provision for Family and Dependants) Act 1975 shall have effect with the following amendments, being amendments designed to give to persons whose marriages are dissolved or annulled overseas the same rights to apply for provision under that Act (as amended by section 8 of this Act) as persons whose marriages are dissolved or annulled under the 1973 Act.
+
+(2) In section 25(1), for the definition of “former wife” and “former husband” there shall be substituted the following definition—
+
+> “former wife” or “former husband” means a person whose marriage with the deceased was during the lifetime of the deceased either—
+>
+> (a) dissolved or annulled by a decree of divorce or a decree of nullity of marriage granted under the law of any part of the British Islands, or
+>
+> (b) dissolved or annulled in any country or territory outside the British Islands by a divorce or annulment which is entitled to be recognised as valid by the law of England and Wales;
+
+.
+
+(3) After section 15 (restriction in divorce proceedings etc. of applications under the Act) there shall be inserted the following section—
+
+> **15A Restriction imposed in proceedings under Matrimonial and Family Proceedings Act 1984 on application under this Act.**
+>
+> (1) On making an order under section 17 of the Matrimonial and Family Proceedings Act 1984 (orders for financial provision and property adjustment following overseas divorces, etc.) the court, if it considers it just to do so, may, on the application of either party to the marriage, order that the other party to the marriage shall not on the death of the applicant be entitled to apply for an order under section 2 of this Act.
+>
+> In this subsection “the court” means the High Court or, where a county court has jurisdiction by virtue of Part V of the Matrimonial and Family Proceedings Act 1984, a county court.
+>
+> (2) Where an order under subsection (1) above has been made with respect to a party to a marriage which has been dissolved or annulled, then, on the death of the other party to that marriage, the court shall not entertain an application under section 2 of this Act made by the first-mentioned party.
+>
+> (3) Where an order under subsection (1) above has been made with respect to a party to a marriage the parties to which have been legally separated, then, if the other party to the marriage dies while the legal separation is in force, the court shall not entertain an application under section 2 of this Act made by the first-mentioned party.
+
+### Recovery of maintenance in magistrates’ courts after overseas divorce etc.
+
+#### [^F38]26 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Interpretation
+
+#### 27 Interpretation of Part III.
+
+In this Part of this Act—
+
+- “the 1973 Act” means the Matrimonial Causes Act 1973;
+- “child of the family” has the same meaning as in section 52(1) of the 1973 Act;
+- “the court” means the High Court or [[^F39]the family court];
+- “dwelling-house” includes any building or part thereof which is occupied as a dwelling, and any yard, garden, garage or outhouse belonging to the dwelling-house and occupied therewith;
+- “order for financial relief” has the meaning given by section 12(4) above;
+- “overseas country” means a country or territory outside the British Islands;
+- “possession” includes receipt of, or the right to receive, rents and profits;
+- “property adjustment order” means such an order as is specified in section 24(1)(a), (b), (c) or (d) of the 1973 Act;
+- “rent” does not include mortgage interest;
+- “secured periodical payments order” means such an order as is specified in section 23(1)(b) or (e) of the 1973 Act.
+
+## Part IV — Financial Provision in Scotland After Overseas Divorce Etc.
+
+### 28 Circumstances in which a Scottish court may entertain application for financial provision.
+
+(1) Where parties to a marriage have been divorced in an overseas country, then, subject to [[^F40]subsection (3A)] below, if the jurisdiction requirements and the conditions set out in subsections (2) and (3) below respectively are satisfied, the court may entertain an application by one of the parties for an order for financial provision.
+
+(2) The jurisdictional requirements mentioned in subsection (1) above are that—
+
+(a) the applicant was domiciled or habitually resident in Scotland on the date when the application was made; and
+
+(b) the other party to the marriage—
+
+(i) was domiciled or habitually resident in Scotland on the date when the application was made; or
+
+(ii) was domiciled or habitually resident in Scotland when the parties last lived together as husband and wife; or
+
+(iii) on the date when the application was made, was an owner or tenant of, or had a beneficial interest in, property in Scotland which had at some time been a matrimonial home of the parties; and
+
+(c) where the court is the sheriff court, either—
+
+(i) one of the parties was, on the date when the application was made, habitually resident in the sheriffdom; or
+
+(ii) paragraph (b)(iii) above is satisfied in respect of property wholly or partially within the sheriffdom.
+
+(3) The conditions mentioned in subsection (1) above are that—
+
+(a) the divorce falls to be recognised in Scotland;
+
+(b) the other party to the marriage initiated the proceedings for divorce;
+
+(c) the application was made within five years after the date when the divorce took effect;
+
+(d) a court in Scotland would have had jurisdiction to entertain an action for divorce between the parties if such an action had been brought in Scotland immediately before the foreign divorce took effect;
+
+(e) the marriage had a substantial connection with Scotland; and
+
+(f) both parties are living at the time of the application.
+
+[[^F41](3A) If an application or part of an application relates to a matter [[^F42]in relation to which Article 18 of the 2007 Hague Convention applies, the court may not entertain the application or that part of it except where permitted by Article 18.]
+
+[^F43]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F44](5) “The 2007 Hague Convention” means the Convention on the International Recovery of Child Support and Other Forms of Family Maintenance concluded on 23 November 2007 at The Hague.]]
+
+### 29 Disposal of application in Scotland.
+
+(1) Subject to subsections (2) to (5) below, Scots law shall apply, with any necessary modifications, in relation to an application under section 28 above as it would apply if the application were being made in an action for divorce in Scotland.
+
+(2) In disposing of an application entertained by it under the said section 28, the court shall exercise its powers so as to place the parties, in so far as it is reasonable and practicable to do so, in the financial position in which they would have been if the application had been disposed of, in an action for divorce in Scotland, on the date on which the foreign divorce took effect.
+
+(3) In determining what is reasonable and practicable for the purposes of subsection (2) above, the court shall have regard in particular to—
+
+(a) the parties’ resources, present and foreseeable at the date of disposal of the application;
+
+(b) any order made by a foreign court in or in connection with the divorce proceedings for the making of financial provision in whatever form, or the transfer of property, by one of the parties to the other; and
+
+(c) subsection (5) below.
+
+(4) Except where subsection (5) below applies, the court may make an order for an interim award of a periodical allowance where—
+
+(a) it appears from the applicant’s averments that in the disposal of the application an order for financial provision is likely to be made; and
+
+(b) the court considers that such an interim award is necessary to avoid hardship to the applicant.
+
+(5) Where but for section 28(2)(b)(iii) above the court would not have jurisdiction to entertain the application, the court may make an order—
+
+(a) relating to the former matrimonial home or its furniture and plenishings; or
+
+(b) that the other party to the marriage shall pay to the applicant a capital sum not exceeding the value of that other party’s interest in the former matrimonial home and its furniture and plenishings,
+
+but shall not be entitled to make any other order for financial provision.
+
+### [[^F45]29A Application of Part IV to annulled marriages.
+
+This Part of this Act shall apply to an annulment, of whatever nature, of a purported marriage, as it applies to a divorce, and references to marriage and divorce shall be construed accordingly.]
+
+### 30 Interpretation of Part IV.
+
+(1) In the foregoing provisions of this Part of this Act unless the context otherwise requires—
+
+- “the court” means the Court of Session or the sheriff court:
+- “furniture and plenishings” has the meaning assigned by section 22 of the [^M8]Matrimonial Homes (Family Protection) (Scotland) Act 1981;
+- “matrimonial home” has the meaning assigned by the said section 22;
+- “order for financial provision” means any one or more of the orders specified in [[^F46]section 8(1) of the Family Law (Scotland) Act 1985] (financial provision) or an order under section 13 of the Matrimonial Homes (Family Protection) (Scotland) Act 1981 (transfer of tenancy of matrimonial home);
+- “overseas country” means a country or territory outside the British Islands; and
+- “tenant” has the meaning assigned by the said section 22.
+
+(2) Any reference in the foregoing provisions of this Part of this Act to a party to a marriage shall include a reference to a party to a marriage which has been terminated.
+
+### 31 Extension of s. 31 of Maintenance Orders (Reciprocal Enforcement) Act 1972.
+
+(1) Section 31(4) of the [^M9]Maintenance Orders (Reciprocal Enforcement) Act 1972 (recovery of maintenance in Scotland from former spouse on order made in convention country) shall have effect with the following amendments.
+
+(2) In paragraph (i), for the words “granted in a convention country” there shall be substituted the words “obtained in a country or territory outside the United Kingdom”.
+
+(3) For paragraph (ii) there shall be substituted the following paragraphs—
+
+> (ii) an order for the payment of maintenance for the benefit of the applicant as a divorced person has, in or by reason of, or subsequent to, the divorce proceedings, been made by a court in a convention country;
+>
+> (iia) in a case where the order mentioned in paragraph (ii) above was made by a court of a different country from that in which the divorce was obtained, either the applicant or the said former spouse was resident in that different country at the time the application for the order so mentioned was made; and
+
+.
+
+## [[^F47]Part 4A — The Family Court
+
+### 31A Establishment of the family court
+
+(1) There is to be a court in England and Wales, called the family court, for the purpose of exercising the jurisdiction and powers conferred on it—
+
+(a) by or under this or any other Act, or
+
+(b) by or under any Act, or Measure, of the National Assembly for Wales.
+
+(2) The family court is to be a court of record and have a seal.]
+
+### 31B [[^F48]Sittings
+
+(1) Sittings of the family court may be held, and any other business of the family court may be conducted, at any place in England and Wales.
+
+(2) Sittings of the family court at any place may be continuous or intermittent or occasional.
+
+(3) Sittings of the family court may be held simultaneously to take any number of different cases in the same place or different places, and the court may adjourn cases from place to place at any time.
+
+(4) The places at which the family court sits, and the days and times at which it sits in any place, are to be determined in accordance with directions given by the Lord Chancellor after consulting the Lord Chief Justice.
+
+(5) The Lord Chief Justice may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise functions of the Lord Chief Justice under this section.
+
+### 31C Judges
+
+(1) A person is a judge of the family court if the person—
+
+(a) is the Lord Chief Justice,
+
+(b) is the Master of the Rolls,
+
+(c) is the President of the Queen's Bench Division,
+
+(d) is the President of the Family Division,
+
+(e) is the [[^F49]President of the Business and Property Division],
+
+(f) is an ordinary judge of the Court of Appeal (including the vice-president, if any, of either division of that court),
+
+(g) is the Senior President of Tribunals,
+
+(h) is a puisne judge of the High Court,
+
+(i) is a deputy judge of the High Court,
+
+(j) is a Circuit judge,
+
+(k) is the Judge Advocate General,
+
+(l) is a Recorder,
+
+(m) holds an office listed—
+
+(i) in the first column of the table in section 89(3C) of the Senior Courts Act 1981 (senior High Court Masters etc), or
+
+(ii) in column 1 of Part 2 of Schedule 2 to that Act (High Court Masters etc),
+
+(n) is a district judge (which, by virtue of section 8(1C) of the County Courts Act 1984, here includes a deputy district judge appointed under section 8 of that Act),
+
+(o) is a deputy district judge appointed under section 102 of the Senior Courts Act 1981,
+
+(p) is a Chamber President, or a Deputy Chamber President, of a chamber of the Upper Tribunal or of a chamber of the First-tier Tribunal,
+
+(q) is a judge of the Upper Tribunal by virtue of appointment under paragraph 1(1) of Schedule 3 to the Tribunals, Courts and Enforcement Act 2007,
+
+(r) is a transferred-in judge of the Upper Tribunal (see section 31(2) of that Act),
+
+(s) is a deputy judge of the Upper Tribunal (whether under paragraph 7 of Schedule 3 to, or section 31(2) of, that Act),
+
+(t) is a judge of the First-tier Tribunal by virtue of appointment under paragraph 1(1) of Schedule 2 to that Act,
+
+(u) is a transferred-in judge of the First-tier Tribunal (see section 31(2) of that Act),
+
+(v) is a member of a panel of Employment Judges established for England and Wales or for Scotland,
+
+(w) is a person appointed under section 30(1)(a) or (b) of the Courts-Martial (Appeals) Act 1951 (assistants to the Judge Advocate General),
+
+(x) is a District Judge (Magistrates' Courts), or
+
+(y) is a justice of the peace who is not a District Judge (Magistrates' Courts),
+
+[^F50]...
+
+(2) A decision of the family court, if made by or by persons who include—
+
+(a) a judge within subsection (1)(a) to (i),
+
+(b) a person who has been a judge of the Court of Appeal, or
+
+(c) a person who has been a puisne judge of the High Court,
+
+is (so far as relevant) to be followed by a judge within subsection (1)(j) to (y), and by a [[^F51]person authorised under section 67B(2) of the Courts Act 2003,] when carrying out functions of the family court unless doing so with a person within paragraphs (a) to (c) of this subsection.
+
+(3) A fee-paid, or unsalaried, part-time judge of the family court may not act as a judge of the court in relation to any proceedings in the court in which the judge, or a partner or employer of the judge, or a body of which the judge is a member or officer, or a body of whose governing body the judge is a member, is directly or indirectly engaged as legal representative or agent for any party.
+
+(4) In this section “legal representative” means a person who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation (within the meaning of that Act).
+
+### 31D Composition of the court and distribution of its business
+
+(1) Rules may be made in accordance with Part 1 of Schedule 1 to the Constitutional Reform Act 2005 (process for making designated rules) about—
+
+(a) the composition of the family court, and
+
+(b) the distribution of business of the family court among judges of the court.
+
+(2) Rules about the composition of the family court may in particular—
+
+(a) provide for the court to be constituted differently for the purpose of deciding different matters;
+
+(b) make provision about who is to preside where the court is composed of more than one judge.
+
+(3) Rules about the distribution of business of the family court may in particular—
+
+(a) prohibit specified judges from conducting specified business;
+
+(b) prohibit judges from conducting specified business unless authorised to do so by a specified judicial office holder;
+
+(c) prohibit specified judges from conducting business, or specified business, unless authorised to do so by a specified judicial office holder;
+
+(d) prohibit specified judges from exercising specified powers of the court.
+
+(4) In subsection (3)—
+
+- “judge” does not include a judge within section 31C(1)(a) to (i);
+- “specified” means specified in, or of a description specified in, rules under this section.
+
+(5) Rules under this section—
+
+(a) may confer powers on the Lord Chief Justice or on a judicial office holder;
+
+(b) may be made only after consultation with the Family Procedure Rule Committee.
+
+(6) Family Procedure Rules are subject to rules under this section.
+
+(7) The Lord Chief Justice's power under paragraph 2(2)(b) of Schedule 1 to the Constitutional Reform Act 2005 to nominate a judicial office holder to make rules under this section includes power to nominate different judicial office holders to make rules under this section for different purposes.
+
+(8) Paragraph 5 of that Schedule (duty to make rules to achieve purpose specified by Lord Chancellor) does not apply in relation to rules under this section.
+
+(9) In this section “judicial office holder” has the meaning given by section 109(4) of that Act.
+
+(10) No proceedings in the family court are to be with a jury.
+
+### 31E Family court has High Court and county court powers
+
+(1) In any proceedings in the family court, the court may make any order—
+
+(a) which could be made by the High Court if the proceedings were in the High Court, or
+
+(b) which could be made by the county court if the proceedings were in the county court.
+
+(2) In its application to a power of the High Court to issue a writ directed to an enforcement officer, subsection (1)(a) gives the family court power to issue a warrant, directed to an officer of the family court, containing provision corresponding to any that might be contained in the writ.
+
+(3) Subsection (1) is subject to section 38(3) of the County Courts Act 1984.
+
+(4) Subsection (1) is without prejudice to, and not limited by, any other powers of the family court.
+
+(5) The Lord Chancellor may by regulations make provision, about or in connection with the effect or execution of warrants issued by the family court for enforcing any order or judgment enforceable by the court, that corresponds to any provision applying in relation to the effect or execution of writs issued by the High Court, or warrants issued by the county court, for the purpose of enforcing any order or judgment enforceable by that court.
+
+### 31F Proceedings and decisions
+
+(1) The family court may adjourn a hearing, and may do so at any time including a time before the hearing has begun.
+
+(2) Any order made by the family court—
+
+(a) may be absolute or conditional;
+
+(b) may be final or interim;
+
+(c) may, subject to rules of court, be made without taking evidence.
+
+(3) Every judgment and order of the family court is, except as provided by this or any other Act or by rules of court, final and conclusive between the parties.
+
+(4) Where the family court has power to require the doing of anything other than the payment of money, or to prohibit the doing of anything, an order of the court made in exercising the power may contain provision—
+
+(a) as to the manner in which anything is to be done,
+
+(b) as to the time within which anything is to be done,
+
+(c) as to the time during which anything is not to be done, and
+
+(d) generally for giving effect to the order.
+
+(5) Where the family court has power to require the payment of money, an order of the court made in exercising the power may allow time for payment or order payment by instalments; and where the court has ordered payment by instalments and default is made in the payment of any one instalment, proceedings may be taken as if the default had been made in the payment of all the instalments then unpaid.
+
+(6) The family court has power to vary, suspend, rescind or revive any order made by it, including—
+
+(a) power to rescind an order and re-list the application on which it was made,
+
+(b) power to replace an order which for any reason appears to be invalid by another which the court has power to make, and
+
+(c) power to vary an order with effect from when it was originally made.
+
+(7) Subject to rules of court, the family court may proceed in the absence of one, some or all of the parties.
+
+(8) The family court has the same power to enforce an undertaking given by a solicitor in relation to any proceedings in that court as the High Court has to enforce an undertaking given by a solicitor in relation to any proceedings in the High Court.
+
+(9) In any case not expressly provided for by or in pursuance of this or any other Act, the general principles of practice in the High Court may be adopted and applied to proceedings in the family court.
+
+### 31G Witnesses and evidence
+
+(1) Subsection (2) applies where the family court is satisfied that a person in England and Wales is likely to be able to give material evidence, or produce any document or thing likely to be material evidence, in proceedings in the court.
+
+(2) The court may, if it is satisfied that it is in the interests of justice to do so, issue a summons—
+
+(a) requiring the person to attend before the court, at the time and place specified in the summons, to give evidence,
+
+(b) requiring the person to attend before the court, at the time and place specified in the summons, to produce the document or thing, or
+
+(c) requiring the person to produce the document or thing to the court.
+
+(3) Subsection (4) applies where without just excuse—
+
+(a) a person fails to attend before the court in answer to a summons under subsection (2)(a) or (b),
+
+(b) a person fails to produce a document or thing in answer to a summons under subsection (2)(b) or (c), or
+
+(c) a person attending before the court, whether or not in answer to a summons under subsection (2), refuses to be sworn or give evidence.
+
+(4) The court may—
+
+(a) commit the person to custody until the expiry of a period not exceeding one month specified by the court or until the person sooner gives evidence or produces the document or thing, or
+
+(b) impose on the person a fine not exceeding £2,500, or
+
+(c) both.
+
+(5) A fine imposed under subsection (4) is deemed, for the purposes of any enactment, to be a sum adjudged to be paid by a conviction of a magistrates' court.
+
+(6) Where in any proceedings in the family court it appears to the court that any party to the proceedings who is not legally represented is unable to examine or cross-examine a witness effectively, the court is to—
+
+(a) ascertain from that party the matters about which the witness may be able to depose or on which the witness ought to be cross-examined, and
+
+(b) put, or cause to be put, to the witness such questions in the interests of that party as may appear to the court to be proper.
+
+(7) Subject to the provisions of any Act or instrument made under an Act or rule of law authorising the reception of unsworn evidence, evidence given before the family court is to be given on oath.
+
+(8) An affidavit to be used in the family court may be sworn before—
+
+(a) a judge of the court, or
+
+(b) an officer of the court appointed by a judge of the court for the purpose,
+
+as well as before a commissioner for oaths or any other person authorised to take affidavits under the Commissioners for Oaths Acts 1889 and 1891.
+
+(9) An affidavit sworn before any such judge or officer may be sworn without the payment of any fee.
+
+### 31H Contempt of court: power to limit court's powers
+
+(1) The Lord Chancellor may by regulations made after consulting the Lord Chief Justice make provision limiting or removing, in circumstances specified in the regulations, any of the powers exercisable by the family court when dealing with a person for contempt of court.
+
+(2) The Lord Chief Justice may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise functions of the Lord Chief Justice under this section.
+
+### 31I Powers of the High Court in respect of family court proceedings
+
+(1) If the High Court, at any stage in proceedings in the family court, thinks it desirable that the proceedings, or any part of them, should be transferred to the High Court, it may order the transfer to the High Court of the proceedings or part.
+
+(2) The power given by subsection (1) is without prejudice to section 29 of the Senior Courts Act 1981, and is to be exercised—
+
+(a) in accordance with any directions given as to the distribution or transfer of proceedings, and
+
+(b) subject to any provision made under section 1 of the Courts and Legal Services Act 1990 or made by or under any other enactment.
+
+### 31J Overview of certain powers of the court under other Acts
+
+The powers of the family court include its powers under—
+
+(a) section 33 of the Senior Courts Act 1981 (powers exercisable before commencement of action);
+
+(b) section 34 of that Act (power to order disclosure or inspection of documents or property of non-party);
+
+(c) section 37 of that Act (power to grant injunction or appoint receiver);
+
+(d) section 39 of that Act (power to order documents to be executed or indorsed by nominated person);
+
+(e) section 70(1) and (2) of that Act (assessors);
+
+(f) section 57 of the County Courts Act 1984 (evidence of prisoners);
+
+(g) section 71 of that Act (powers as to payment of costs).
+
+### 31K Appeals
+
+(1) Subject to any order made under section 56(1) of the Access to Justice Act 1999 (power to provide for appeals to be made instead to the High Court or county court, or to the family court itself), if any party to any proceedings in the family court is dissatisfied with the decision of the court, that party may appeal from it to the Court of Appeal in such manner and subject to such conditions as may be provided by Family Procedure Rules.
+
+(2) Subsection (1) does not—
+
+(a) confer any right of appeal from any decision where a right of appeal is conferred by some other enactment, or
+
+(b) take away any right of appeal from any decision where a right of appeal is so conferred,
+
+and has effect subject to any enactment other than this Part; and in this subsection “enactment” means an enactment whenever passed.
+
+(3) The Lord Chancellor may, after consulting the Lord Chief Justice, by order make provision as to the circumstances in which appeals may be made against decisions taken by courts or judges on questions arising in connection with the transfer, or proposed transfer, of proceedings from or to the family court.
+
+(4) Except to the extent provided for in any order made under subsection (3), no appeal may be made against any decision of a kind mentioned in that subsection.
+
+(5) At the hearing of any proceedings in the family court in which there is a right of appeal or from which an appeal may be brought with permission, the judge, if requested to do so by any party, is to make a note—
+
+(a) of any question of law raised at the hearing,
+
+(b) of the facts in evidence in relation to any such question, and
+
+(c) of the court's decision on any such question and of the court's determination of the proceedings.
+
+(6) Where such a note is made, and whether or not an appeal has been made, the court—
+
+(a) on the application of any party to the proceedings, and
+
+(b) on payment of the fee (if any) prescribed under section 92 of the Courts Act 2003,
+
+is to provide that party with a copy of the note signed by the judge, and the copy so signed is to be used at the hearing of any appeal.
+
+(7) Section 81 of the County Courts Act 1984 (powers of Court of Appeal on appeal from county court) applies to appeals from the family court to the Court of Appeal as it applies to appeals from the county court to the Court of Appeal.
+
+(8) The Lord Chief Justice may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise functions of the Lord Chief Justice under subsection (3).
+
+### 31L Enforcement
+
+(1) Payment of a fine or penalty imposed by the family court may be enforced upon the order of the court in like manner as a judgment of the court for the payment of money.
+
+(2) Rules of court may, in relation to cases where under two or more orders made by or registered in the family court the same person is required to make periodical payments to the same recipient, make provision—
+
+(a) for recovery of payments under more than one of the orders to be dealt with in the same proceedings;
+
+(b) for apportioning, between some or all of the orders, payments made by the person required to make payments under the orders.
+
+(3) Subsection (4) applies where—
+
+(a) periodical payments are required to be made, or a lump sum is required to be paid, to a child under an order made by the family court, or
+
+(b) periodical payments are required to be made to a child under an order registered in the family court.
+
+(4) Any sum required under the order to be paid to the child may be paid to the person who looks after the child, and that person may proceed in that person's own name for—
+
+(a) the variation, revival or revocation of the order, or
+
+(b) the recovery of any sum required to be paid under the order.
+
+(5) Where a child has a right under any Act or instrument made under an Act to apply for the revival of an order made by the family court which provided for the making of periodical payments to or for the benefit of the child, the person who looks after the child may proceed in the person's own name for the revival of the order.
+
+(6) Where any person by whom periodical payments are required to be paid to a child under an order made by or registered in the family court applies for the variation or revocation of the order, the person who looks after the child may answer the application in the person's own name.
+
+(7) Nothing in subsections (4) and (5) affects any right of a child to proceed in the child's own name for the variation, revival or revocation of an order or for the recovery of a sum payable under an order.
+
+(8) In this section—
+
+(a) a reference to the person who looks after a child is—
+
+(i) in the case of a child who is being looked after by a local authority (within the meaning of section 22 of the Children Act 1989 [[^F52]or section 74 of the Social Services and Well-being (Wales) Act 2014]), a reference to that local authority, and
+
+(ii) in any other case, a reference to the person who, disregarding any absence of the child at a hospital or boarding school and any other temporary absence, has care of the child;
+
+(b) “child” means a person under the age of 18;
+
+(c) a reference to an order registered in the family court is a reference to an order registered in the court under the Maintenance Orders (Facilities for Enforcement) Act 1920, Part 2 of the Maintenance Orders Act 1950, Part 1 of the Maintenance Orders Act [[^F53]1958 or] the Maintenance Orders (Reciprocal Enforcement) Act 1972 [^F54]....
+
+### 31M Records of proceedings
+
+(1) The Lord Chancellor may by regulations provide for the keeping of records of and in relation to proceedings of the family court.
+
+(2) Any entry in a book or other document required to be kept by regulations under subsection (1), or a copy of any such entry or document purporting to be signed and certified as a true copy by a judge of the family court, is at all times without further proof to be admitted in any court or place as evidence of the entry and of the proceeding referred to by it and of the regularity of that proceeding.
+
+(3) The Lord Chancellor must consult the Lord Chief Justice before making regulations under this section.
+
+(4) The Lord Chief Justice may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise functions of the Lord Chief Justice under this section.
+
+### 31N Summonses and other documents
+
+(1) Where any summons or other process issued from the family court is served by an officer of the court, the service may be proved by a certificate in a prescribed form showing the fact and mode of the service.
+
+(2) Section 133(2) of the County Courts Act 1984 (offence and punishment) applies in relation to any officer of the family court wilfully and corruptly giving a false certificate under subsection (1) as it applies in relation to any officer of the county court wilfully and corruptly giving a false certificate under section 133(1) of that Act.
+
+(3) Sections 135 and 136 of that Act (offences of pretending to have court's authority etc) apply in relation to the family court as they apply in relation to the county court.
+
+### 31O [[^F55]Function of giving legal advice to judges
+
+(1) The Lord Chief Justice may authorise a person—
+
+(a) to give advice to judges of the family court about matters of law (including procedure and practice) on questions arising in connection with the discharge by them of functions conferred on them or the court, including questions arising when the person is not personally attending on them, and
+
+(b) to bring to the attention of judges of the family court, at any time when the person thinks appropriate, any point of law (including procedure and practice) that is or may be involved in any question so arising.
+
+(2) The Lord Chief Justice may authorise a person under subsection (1) only if the person—
+
+(a) is appointed under section 2(1) of the Courts Act 2003 or section 40(1) of the Tribunals, Courts and Enforcement Act 2007, and
+
+(b) has such qualifications as may be prescribed by regulations made by the Lord Chancellor with the agreement of the Lord Chief Justice.
+
+(3) An authorisation under subsection (1)—
+
+(a) may be subject to conditions, and
+
+(b) may be varied or revoked by the Lord Chief Justice at any time.
+
+(4) The Lord Chief Justice may give directions to a person authorised to exercise functions under subsection (1).
+
+(5) Apart from such directions, a person authorised to exercise functions under subsection (1) is not subject to the direction of the Lord Chancellor or any other person when exercising the functions.
+
+(6) The Lord Chief Justice may nominate one or more of the following to exercise the Lord Chief Justice's functions under the preceding provisions of this section—
+
+(a) a judicial office holder;
+
+(b) a person appointed under section 2(1) of the Courts Act 2003 or section 40(1) of the Tribunals, Courts and Enforcement Act 2007.
+
+(7) A person nominated under subsection (6)(b) to exercise functions of the Lord Chief Justice is not subject to the direction of any person other than—
+
+(a) the Lord Chief Justice, or
+
+(b) a judicial office holder nominated by the Lord Chief Justice,
+
+when exercising the functions.
+
+(8) In this section “judicial office holder” has the meaning given by section 109(4) of the Constitutional Reform Act 2005.]
+
+### 31P Orders, regulations and rules under Part 4A
+
+(1) Any power of the Lord Chancellor to make an order, regulations or rules under this Part—
+
+(a) is exercisable by statutory instrument,
+
+(b) includes power to make different provision for different purposes, and
+
+(c) includes power to make supplementary, incidental, consequential, transitional, transitory or saving provision.
+
+[^F56]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) A statutory instrument that—
+
+(a) contains an order, regulations or rules made under this Part by the Lord Chancellor other than regulations under section 31M, and
+
+(b) is not subject to any requirement that a draft of the instrument be laid before, and approved by a resolution of, each House of Parliament,
+
+is subject to annulment in pursuance of a resolution of either House of Parliament.]
+
+## [[^F57]PART 4B — Family proceedings: prohibition of cross-examination in person
+
+### 31Q Prohibition of cross-examination in person: introductory
+
+In this Part—
+
+- “family proceedings” means—
+
+  - (a) proceedings in the family court,
+  - (b) proceedings in the Family Division of the High Court which are business assigned, by or under section 61 of (and Schedule 1 to) the Senior Courts Act 1981, to that Division of the High Court and no other, and
+  - (c) proceedings in the civil division of the Court of Appeal arising out of proceedings within paragraph (a) or (b);
+
+- “witness”, in relation to any proceedings, includes a party to the proceedings.
+
+### 31R Prohibition of cross-examination in person: victims of offences
+
+(1) In family proceedings, no party to the proceedings who has been convicted of or given a caution for, or is charged with, a specified offence may cross-examine in person a witness who is the victim, or alleged victim, of that offence.
+
+(2) In family proceedings, no party to the proceedings who is the victim, or alleged victim, of a specified offence may cross-examine in person a witness who has been convicted of or given a caution for, or is charged with, that offence.
+
+(3) Subsections (1) and (2) do not apply to a conviction or caution that is spent for the purposes of the Rehabilitation of Offenders Act 1974, unless evidence in relation to the conviction or caution is admissible in, or may be required in, the proceedings by virtue of section 7(2), (3) or (4) of that Act.
+
+(4) Cross-examination in breach of subsection (1) or (2) does not affect the validity of a decision of the court in the proceedings if the court was not aware of the conviction, caution or charge when the cross-examination took place.
+
+(5) In this section—
+
+- “caution” means—
+
+  - (a) in the case of England and Wales—
+  
+    - (i) a conditional caution given under section 22 of the Criminal Justice Act 2003,
+    - (ii) a youth conditional caution given under section 66A of the Crime and Disorder Act 1998, or
+    - (iii) any other caution given to a person in England and Wales in respect of an offence which, at the time the caution is given, the person has admitted;
+  
+  - (b) in the case of Scotland, anything corresponding to a caution falling within paragraph (a) (however described) which is given to a person in respect of an offence under the law of Scotland;
+  
+  - (c) in the case of Northern Ireland—
+  
+    - (i) a conditional caution given under section 71 of the Justice Act (Northern Ireland) 2011, or
+    - (ii) any other caution given to a person in Northern Ireland in respect of an offence which, at the time the caution is given, the person has admitted;
+
+- “conviction” means—
+
+  - (a) a conviction by or before a court in England and Wales, Scotland or Northern Ireland;
+  
+  - (b) a conviction in service disciplinary proceedings (in England and Wales, Scotland, Northern Ireland, or elsewhere), including—
+  
+    - (i) in the case of proceedings in respect of a service offence, anything that under section 376(1) and (2) of the Armed Forces Act 2006 (which relates to summary hearings and the Summary Appeal Court) is to be treated as a conviction for the purposes of that Act, and
+    - (ii) in the case of any other service disciplinary proceedings, a finding of guilt in those proceedings;
+  
+  - (c) a finding in any criminal proceedings (including a finding linked with a finding of insanity) that the person concerned has committed an offence or done the act or made the omission charged;
+
+  and “convicted” is to be read accordingly;
+
+- “service disciplinary proceedings” means—
+
+  - (a) any proceedings (whether or not before a court) in respect of a service offence (except proceedings before a civilian court within the meaning of the Armed Forces Act 2006);
+  - (b) any proceedings under the Army Act 1955, the Air Force Act 1955, or the Naval Discipline Act 1957 (whether before a court-martial or before any other court or person authorised under any of those Acts to award a punishment in respect of an offence);
+  - (c) any proceedings before a Standing Civilian Court established under the Armed Forces Act 1976;
+
+- “service offence” means—
+
+  - (a) a service offence within the meaning of the Armed Forces Act 2006, or
+  - (b) an SDA offence within the meaning of the Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059);
+
+- “specified offence” means an offence which is specified, or of a description specified, in regulations made by the Lord Chancellor.
+
+(6) The following provisions (which deem a conviction of a person discharged not to be a conviction) do not apply for the purposes of this section to a conviction of a person for an offence in respect of which an order has been made discharging the person absolutely or conditionally—
+
+(a) section 14 of the Powers of Criminal Courts (Sentencing) Act 2000;
+
+(b) section 82 of the Sentencing Code;
+
+(c) section 187 of the Armed Forces Act 2006 or any corresponding earlier enactment.
+
+(7) For the purposes of this section “offence” includes an offence under a law that is no longer in force.
+
+### 31S Prohibition of cross-examination in person: persons protected by injunctions etc
+
+(1) In family proceedings, no party to the proceedings against whom an on-notice protective injunction is in force may cross-examine in person a witness who is protected by the injunction.
+
+(2) In family proceedings, no party to the proceedings who is protected by an on-notice protective injunction may cross-examine in person a witness against whom the injunction is in force.
+
+(3) Cross-examination in breach of subsection (1) or (2) does not affect the validity of a decision of the court in the proceedings if the court was not aware of the protective injunction when the cross-examination took place.
+
+(4) In this section “protective injunction” means an order, injunction or interdict specified, or of a description specified, in regulations made by the Lord Chancellor.
+
+(5) For the purposes of this section, a protective injunction is an “on-notice” protective injunction if—
+
+(a) the court is satisfied that there has been a hearing at which the person against whom the protective injunction is in force asked, or could have asked, for the injunction to be set aside or varied, or
+
+(b) the protective injunction was made at a hearing of which the court is satisfied that both the person who applied for it and the person against whom it is in force had notice.
+
+### 31T Prohibition of cross-examination in person: evidence of domestic abuse
+
+(1) In family proceedings, where specified evidence is adduced that a person who is a witness has been the victim of domestic abuse carried out by a party to the proceedings, that party to the proceedings may not cross-examine the witness in person.
+
+(2) In family proceedings, where specified evidence is adduced that a person who is a party to the proceedings has been the victim of domestic abuse carried out by a witness, that party may not cross-examine the witness in person.
+
+(3) In this section—
+
+- “domestic abuse” has the meaning given by section 1 of the Domestic Abuse Act 2021;
+- “specified evidence” means evidence specified, or of a description specified, in regulations made by the Lord Chancellor.
+
+(4) Regulations under subsection (3) may provide that any evidence which satisfies the court that domestic abuse, or domestic abuse of a specified description, has occurred is specified evidence for the purposes of this section.
+
+### 31U Direction for prohibition of cross-examination in person: other cases
+
+(1) In family proceedings, the court may give a direction prohibiting a party to the proceedings from cross-examining (or continuing to cross-examine) a witness in person if—
+
+(a) none of sections 31R to 31T operates to prevent the party from cross-examining the witness, and
+
+(b) it appears to the court that—
+
+(i) the quality condition or the significant distress condition is met, and
+
+(ii) it would not be contrary to the interests of justice to give the direction.
+
+(2) The “quality condition” is met if the quality of evidence given by the witness on cross-examination—
+
+(a) is likely to be diminished if the cross-examination (or continued cross-examination) is conducted by the party in person, and
+
+(b) would be likely to be improved if a direction were given under this section.
+
+(3) The “significant distress condition” is met if—
+
+(a) the cross-examination (or continued cross-examination) of the witness by the party in person would be likely to cause significant distress to the witness or the party, and
+
+(b) that distress is likely to be more significant than would be the case if the witness were cross-examined other than by the party in person.
+
+(4) A direction under this section may be made by the court—
+
+(a) on an application made by a party to the proceedings, or
+
+(b) of its own motion.
+
+(5) In determining whether the quality condition or the significant distress condition is met in the case of a witness or party, the court must have regard to, among other things—
+
+(a) any views expressed by the witness as to whether or not the witness is content to be cross-examined by the party in person;
+
+(b) any views expressed by the party as to whether or not the party is content to cross-examine the witness in person;
+
+(c) the nature of the questions likely to be asked, having regard to the issues in the proceedings;
+
+(d) any behaviour by the party in relation to the witness in respect of which the court is aware that a finding of fact has been made in the proceedings or in any other proceedings;
+
+(e) any behaviour by the witness in relation to the party in respect of which the court is aware that a finding of fact has been made in the proceedings or in any other proceedings;
+
+(f) any behaviour by the party at any stage of the proceedings, both generally and in relation to the witness;
+
+(g) any behaviour by the witness at any stage of the proceedings, both generally and in relation to the party;
+
+(h) any relationship (of whatever nature) between the witness and the party.
+
+(6) Any reference in this section to the quality of a witness's evidence is to its quality in terms of completeness, coherence and accuracy.
+
+(7) For this purpose “coherence” refers to a witness's ability in giving evidence to give answers which—
+
+(a) address the questions put to the witness, and
+
+(b) can be understood, both individually and collectively.
+
+### 31V Directions under section 31U: supplementary
+
+(1) A direction under section 31U has binding effect from the time it is made until the witness in relation to whom it applies is discharged.
+
+(2) But the court may revoke a direction under section 31U before the witness is discharged, if it appears to the court to be in the interests of justice to do so, either—
+
+(a) on an application made by a party to the proceedings, or
+
+(b) of its own motion.
+
+(3) The court may revoke a direction under section 31U on an application made by a party to the proceedings only if there has been a material change of circumstances since—
+
+(a) the direction was given, or
+
+(b) if a previous application has been made by a party to the proceedings, the application (or the last application) was determined.
+
+(4) The court must state its reasons for—
+
+(a) giving a direction under section 31U;
+
+(b) refusing an application for a direction under section 31U;
+
+(c) revoking a direction under section 31U;
+
+(d) refusing an application for the revocation of a direction under section 31U.
+
+### 31W Alternatives to cross-examination in person
+
+(1) This section applies where a party to family proceedings is prevented from cross-examining a witness in person by virtue of any of sections 31R to 31U.
+
+(2) The court must consider whether (ignoring this section) there is a satisfactory alternative means—
+
+(a) for the witness to be cross-examined in the proceedings, or
+
+(b) of obtaining evidence that the witness might have given under cross-examination in the proceedings.
+
+(3) If the court decides that there is not, the court must—
+
+(a) invite the party to the proceedings to arrange for a qualified legal representative to act for the party for the purpose of cross-examining the witness, and
+
+(b) require the party to the proceedings to notify the court, by the end of a period specified by the court, of whether a qualified legal representative is to act for the party for that purpose.
+
+(4) Subsection (5) applies if, by the end of the period specified under subsection (3)(b), either—
+
+(a) the party has notified the court that no qualified legal representative is to act for the party for the purpose of cross-examining the witness, or
+
+(b) no notification has been received by the court and it appears to the court that no qualified legal representative is to act for the party for the purpose of cross-examining the witness.
+
+(5) The court must consider whether it is necessary in the interests of justice for the witness to be cross-examined by a qualified legal representative appointed by the court to represent the interests of the party.
+
+(6) If the court decides that it is, the court must appoint a qualified legal representative (chosen by the court) to cross-examine the witness in the interests of the party.
+
+(7) A qualified legal representative appointed by the court under subsection (6) is not responsible to the party.
+
+(8) For the purposes of this section—
+
+(a) a reference to cross-examination includes a reference to continuing to conduct cross-examination;
+
+(b) “qualified legal representative” means a person who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which constitutes the exercise of a right of audience (within the meaning of that Act) in family proceedings.
+
+### 31X Costs of legal representatives appointed under section 31W(6)
+
+(1) The Lord Chancellor may by regulations make provision for the payment out of central funds of sums in respect of—
+
+(a) fees or costs properly incurred by a qualified legal representative appointed under section 31W(6), and
+
+(b) expenses properly incurred in providing such a person with evidence or other material in connection with the appointment.
+
+(2) The regulations may provide for sums payable under subsection (1) to be determined by the Lord Chancellor or such other person as the regulations may specify.
+
+(3) The regulations may provide for sums payable under subsection (1)—
+
+(a) to be such amounts as are specified in the regulations;
+
+(b) to be calculated in accordance with—
+
+(i) a rate or scale specified in the regulations, or
+
+(ii) other provision made by or under the regulations.
+
+### 31Y Guidance for legal representatives appointed under section 31W(6)
+
+(1) The Lord Chancellor may issue guidance in connection with the role which a qualified legal representative appointed under section 31W(6) in connection with any family proceedings is to play in the proceedings, including (among other things) guidance about the effect of section 31W(7).
+
+(2) A qualified legal representative appointed under section 31W(6) must have regard to any guidance issued under this section.
+
+(3) The Lord Chancellor may from time to time revise any guidance issued under this section.
+
+(4) The Lord Chancellor must publish—
+
+(a) any guidance issued under this section, and
+
+(b) any revisions of that guidance.
+
+### 31Z Regulations under Part 4B
+
+(1) Any power of the Lord Chancellor to make regulations under this Part—
+
+(a) is exercisable by statutory instrument,
+
+(b) includes power to make different provision for different purposes, and
+
+(c) includes power to make supplementary, incidental, consequential, transitional, transitory or saving provision.
+
+(2) A statutory instrument containing regulations under this Part is subject to annulment in pursuance of a resolution of either House of Parliament.]
+
+## Part V — Family Business: Distribution and Transfer
+
+### Preliminary
+
+#### 32 What is family business.
+
+In this Part of this Act—
+
+- “family business” means business of any description which in the High Court is for the time being assigned to the Family Division and to no other Division by or under section 61 of (and Schedule 1 to) the [[^F37]Senior Courts Act 1981];
+- “family proceedings” means proceedings which are family business;
+- [^F58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “matrimonial cause” means an action for divorce, nullity or marriage, [[^F59]or judicial separation];
+
+[^F58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Jurisdiction of county courts in matrimonial causes and matters
+
+#### [^F60]33 Jurisdiction of county courts in matrimonial causes.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F60]34 Jurisdiction of divorce county courts as respects financial relief and protection of children.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F60]35 Consideration of agreements or arrangements.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F60]36 Assignment of Circuit judges to matrimonial proceedings.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Jurisdiction of county courts in civil partnership causes and matters
+
+#### [^F60]36A Jurisdiction of county courts in civil partnership causes
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F60]36B Jurisdiction of civil partnership proceedings county courts as respects financial relief and protection of children
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F60]36C Consideration of agreements or arrangements
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F60]36D Assignment of circuit judges to civil partnership proceedings
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Distribution and transfer of family business and proceedings
+
+#### 37 Directions as to distribution and transfer of family business and proceedings.
+
+The President of the Family Division may, with the concurrence of the Lord Chancellor, give directions with respect to the distribution and transfer between the High Court and [[^F61]the family court] of family business and family proceedings.
+
+#### 38 Transfer of family proceedings from High Court [^F62]....
+
+(1) At any stage in any family proceedings in the High Court the High Court may, if the proceedings are transferable under this section, either of its own motion or on the application of any party to the proceedings, order the transfer of the whole or any part of the proceedings to [[^F63]the family court].
+
+(2) The following family proceedings are transferable [[^F64]to the family court] under this section, namely—
+
+(a) all family proceedings commenced in the High Court which are within the jurisdiction of [[^F65]the family court];
+
+(b) wardship proceedings, except applications for an order that a minor be made, or cease to be, a ward of court [[^F66]or any other proceedings which relate to the exercise of the inherent jurisdiction of the High Court with respect to minors]; and
+
+(c) all family proceedings transferred [^F67]... to the High Court under section 39 below or section 41 of the [^M10]County Courts Act 1984 (transfer to High Court by order of High Court); [[^F68]and
+
+(d) all matrimonial causes and matters transferred from the family court or a county court otherwise than as mentioned in paragraph (c) above.]
+
+[^F69]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F69]3A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F69]3B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) The transfer shall not affect any right of appeal from the order directing the transfer, or the right to enforce in the High Court any judgment signed, or order made, in that Court before the transfer.
+
+(5) Where proceedings are transferred to [[^F70]the family court under this section, the family court—]
+
+(a) if it has no jurisdiction apart from this paragraph, shall have jurisdiction to hear and determine those proceedings;
+
+(b) shall have jurisdiction to award any relief which could have been awarded by the High Court.
+
+#### 39 Transfer of family proceedings to High Court [^F71]....
+
+(1) At any stage in any family proceedings in [[^F72]the family court, the family court may,] if the proceedings are transferable under this section, either of its own motion or on the application of any party to the proceedings, order the transfer of the whole or any part of the proceedings to the High Court.
+
+(2) The following family proceedings are transferable to the High Court under this section, namely—
+
+[[^F73](a) all family proceedings commenced in the family court which are within the jurisdiction of the High Court, and
+
+(b) all family proceedings transferred from the High Court under section 38 above.]
+
+### Rules of court and fees
+
+#### [^F74]40 Family proceedings rules.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F75]40A Process for making rules of court under section 40
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F75]40B Rules to be made if required by Lord Chancellor
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F76]41 Fees in family proceedings.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### County court proceedings in principal registry
+
+#### [^F77]42 County court proceedings in principal registry of Family Division.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Distribution of business: proceedings under s. 17 of Married Women’s Property Act 1882
+
+#### 43 Distribution of business: proceedings under s. 17 of Married Women’s Property Act 1882.
+
+In section 17 of the [^M11]Married Women’s Property Act 1882 (which provides for the summary determination of property disputes between spouses and, as extended, former spouses and former engaged couples) for the words after “in a summary way” there shall be substituted the words
+
+> to the High Court or such county court as may be prescribed and the court may, on such an application (which may be heard in private), make such order with respect to the property as it thinks fit.
+>
+> In this section “prescribed” means prescribed by rules of court and rules made for the purposes of this section may confer jurisdiction on county courts whatever the situation or value of the property in dispute.
+
+.
+
+### Magistrates’ courts’ domestic jurisdiction
+
+#### [^F78]44 Family proceedings in magistrates’ courts to include applications to alter maintenance agreements.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part VI — Miscellaneous and General
+
+### [^F79]45 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 46 Amendments, transitional provisions and repeals.
+
+(1) The enactments specified in Schedule 1 to this Act shall have effect subject to the amendments specified in that Schedule, being amendments consequential on the provisions of this Act or minor amendments relating to the enforcement of maintenance orders, the area of jurisdiction of magistrates’ courts for purposes of altering maintenance agreements and the variation by magistrates’ courts of certain existing maintenance, affiliation and other orders.
+
+(2) The transitional provisions contained in Schedule 2 to this Act shall have effect.
+
+(3) The enactments specified in Schedule 3 to this Act (which include some which are spent) are hereby repealed to the extent specified in the third column of that Schedule.
+
+### 47 Commencement.
+
+(1) The provisions of this Act other than this section and section 48 below shall come into force as follows—
+
+(a) with the exception of section 10, Parts I and II and paragraphs 1 and 2 of Schedule 2 shall come into force at the expiry of the period of three months beginning with the day on which this Act is passed and that section shall come into force on such day as the Lord Chancellor appoints;
+
+(b) Part III shall come into force on such day as the Lord Chancellor appoints;
+
+(c) Schedule 1, except paragraphs 1(b), 6, 7 and 28 shall come into force on such day or days as the Lord Chancellor appoints;
+
+(d) Part IV and paragraphs 1(b), 6, 7 and 28 of Schedule 1 shall come into force on such day as the Lord Advocate appoints; and
+
+(e) Part V, section 45 above and paragraph 3 of Schedule 2 and the repeals specified in Schedule 3 shall come into force on such day or days as the Lord Chancellor appoints.
+
+(2) The power to appoint days for the coming into force of provisions of this Act shall be exercised by order made by statutory instrument.
+
+### 48 Short title and extent.
+
+(1) This Act may be cited as the Matrimonial and Family Proceedings Act 1984.
+
+(2) Parts I to III and V and Schedules 2 and 3 extend to England and Wales only, Part IV extends to Scotland only [^F80]. . .
+
+(3) Where any enactment amended by Schedule 1 extends to any part of the United Kingdom, the amendment extends to that part.
+
+## SCHEDULE 1 — Minor and Consequential Amendments
+
+*Section 46(1).*
+
+### Maintenance Orders Act 1950 (c. 37)
+
+**1** In section 16(2) of the Maintenance Orders Act 1950—
+
+(a) at the end of paragraph (a)(i) there shall be added the words “and section 14 or 17 of the Matrimonial and Family Proceedings Act 1984”; and
+
+(b) at the end of paragraph (b)(i) there shall be added the words “or section 29 of the Matrimonial and Family Proceedings Act 1984”.
+
+**2** In section 18 of that Act, after subsection (2), there shall be inserted the following subsection—
+
+> (2A) Any person under an obligation to make payments under a maintenance order registered under this Part of this Act in a court of summary jurisdiction in England shall give notice of any change of address to the clerk of the court; and any person who without reasonable excuse fails to give such a notice shall be liable on summary conviction to a fine not exceeding level 2 on the standard scale (as defined in section 75 of the Criminal Justice Act 1982).
+
+### Matrimonial Causes (Property and Maintenance) Act 1958 (c. 35)
+
+**3** In section 7 of the Matrimonial Causes (Property and Maintenance) Act 1958, for subsection (6), there shall be substituted the following subsection—
+
+> (6) Any power of a judge which is exercisable on an application under the said section seventeen shall be exercisable in relation to an application made under that section as extended by this section.
+
+### Maintenance Orders Act 1958 (c. 39)
+
+**[^F81]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5** In section 4 of that Act, after subsection (6A) there shall be inserted the following subsection—
+
+> (6B) No application for any variation of a registered order shall be made to any court in respect of an order for periodical or other payments made under Part III of the Matrimonial and Family Proceedings Act 1984.
+
+### Succession (Scotland) Act 1964 (c. 41)
+
+**6** In section 33(2) of the Succession (Scotland) Act 1964, at the end there shall be added the words “or section 29 of the Matrimonial and Family Proceedings Act 1984”.
+
+### Law Reform (Miscellaneous Provisions) (Scotland) Act 1966 (c. 19)
+
+**7** In section 8(1)(c) of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1966, at the end there shall be added the words “or section 29 of the Matrimonial and Family Proceedings 1984”.
+
+### Administration of Justice Act 1970 (c. 31)
+
+**8** In Schedule 8 to the Administration of Justice Act 1970 there shall be inserted at the end the following paragraph—
+
+> **14** An order for periodical or other payments made under Part III of the Matrimonial and Family Proceedings Act 1984.
+
+### Maintenance Orders (Reciprocal Enforcement) Act 1972 (c. 18)
+
+**[^F82]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Matrimonial Causes Act 1973 (c. 18)
+
+**10** In section 1(4) of the Matrimonial Causes Act 1973 for the words “sections 3(3) and 5” there shall be substituted the words “section 5”.
+
+**11** In section 24A of that Act there shall be added at the end the following subsection—
+
+> (6) Where a party to a marriage has a beneficial interest in any property, or in the proceeds of sale thereof, and some other person who is not a party to the marriage also has a beneficial interest in that property or in the proceeds of sale thereof, then, before deciding whether to make an order under this section in relation to that property, it shall be the duty of the court to give that other person an opportunity to make representations with respect to the order; and any representations made by that other person shall be included among the circumstances to which the court is required to have regard under section 25(1) below.
+
+.
+
+**12** In section 27 of that Act—
+
+(a) in subsection (3A) for the words “section 25(1)(a) and (b) and (2)(a) to (e)” there shall be substituted the words “section 25(3)(a) to (e)” and for the words “section 25(3)” there shall be substituted the words “section 25(4)”;
+
+(b) in subsection (3B) for the words “section 25(1)(c)” there shall be substituted the words “section 25(2)(c) above” and for the words “section 25(2)(d)” there shall be substituted the words “section 25(2)(c) above (as it applies by virtue of section 25(3)(e) above)”.
+
+**13** In section 35 of that Act—
+
+(a) in subsection (2) for the words “section 25(3)” there shall be substituted the words “section 25(4)”;
+
+[^F83]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F84]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15** In section 47(2) of that Act after paragraph (d) there shall be inserted the following paragraph—
+
+> (dd) an order under Part III of the Matrimonial and Family Proceedings Act 1984;
+
+.
+
+**[^F85]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Domicile and Matrimonial Proceedings Act 1973 (c. 45)
+
+**17** In section 5(1) of the Domicile and Matrimonial Proceedings Act 1973, for the words “the Matrimonial Causes Act 1967” there shall be substituted the words “Part V of the Matrimonial and Family Proceedings Act 1984”.
+
+**[^F86]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Children Act 1975 (c. 72)
+
+**[[^F87]19** In section 100 of the Children Act 1975—
+
+(a) in subsection (2)(c) for the words “section 75 of the County Courts Act 1984” there shall be substituted the words “section 9(3) of the 1958 Act or section 40 of the Matrimonial and Family Proceedings Act 1984”; and
+
+(b) after subsection (9) there shall be inserted the following subsection—
+
+> (10) Any court to which the proceedings on an application are transferred under any enactment is, as regards the transferred proceedings, an authorised court if it is not an authorised court under the preceding provisions of this section.]
+
+### Adoption Act 1976 (c. 36)
+
+**[^F88]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Domestic Proceedings and Magistrates’ Courts Act 1978 (c. 22)
+
+**21** In section 1 of the Domestic Proceedings and Magistrates’ Courts Act 1978 the words “(in this Part of this Act referred to as “the respondent”)” shall be omitted.
+
+**22** In section 7(5) of that Act, for the words “subsection (1)” there shall be substituted the words “subsection (2)(c)”.
+
+**[^F89]23** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**24** In section 19 of that Act, after subsection (3), there shall be inserted the following subsection—
+
+> (3A) Where an application is made for an order under section 6 of this Act by the party to the marriage who has agreed to make the financial provision specified in the application—
+>
+> (a) subsection (1) shall apply as if the reference in paragraph (i) to the respondent were a reference to the applicant and the references to the applicant were references to the respondent; and
+>
+> (b) subsections (2) and (3) shall apply accordingly.
+
+**25** In section 20(8) of that Act, after the word “respondent” there shall be inserted the words “or the applicant, as the case may be,”.
+
+**[^F90]26** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**27** In Schedule 1 to that Act—
+
+(a) in paragraph 2, after sub-paragraph (b), there shall be inserted the following sub-paragraph—
+
+> (bb) on a complaint after the coming into force of paragraph 27 of Schedule 1 to the Matrimonial and Family Proceedings Act 1984 for the variation, revival or revocation of the order, the court, in exercising its powers under the said section 8 in relation to any provision of the order requiring the payment of money, shall have power to order that payments required to be made for the maintenance of a child of the family shall be made to the child himself.
+
+; and
+
+(b) in paragraph 3, at the end, there shall be added the words “but as respects enactments amended by this Act in their application in relation to orders made or decisions on applications for orders or for the variation, revival or revocation of orders made or having effect as if made under other Acts those enactments shall apply as amended by this Act”.
+
+### Land Registration (Scotland) Act 1979 (c. 33)
+
+**[^F91]28** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### County Courts Act 1984 (c. 28)
+
+**[^F92]29** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**30** In section 41 of that Act there shall be added at the end of subsection (2) the words “but shall be exercised in relation to family proceedings (within the meaning of Part V of the Matrimonial and Family Proceedings Act 1984) in accordance with any directions given under section 37 of that Act (directions as to distribution and transfer of family business and proceedings).”
+
+**[^F93]31** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Transitional Provisions
+
+*Section 46(2)*
+
+### Time restrictions on petitions for divorce
+
+**1** (1) Where at the coming into force of section 1 of this Act—
+
+(a) leave has been granted under section 3 of the [^M12]Matrimonial Causes Act 1973 for the presentation of a petition for divorce or proceedings on an application for leave under that section are pending, and
+
+(b) the period of one year from the date of the marriage has not expired.
+
+nothing in section 1 of this Act shall prohibit the presentation of a petition for divorce before the expiration of that period; and in relation to such a case sections 1(4) and 3 of that Act of 1973 as in force immediately before the coming into force of section 1 of this Act shall continue to apply.
+
+(2) Where at the coming into force of section 1 of this Act—
+
+(a) proceedings on an application for leave under section 3 of the Matrimonial Causes Act 1973 are pending, and
+
+(b) the period of one year from the date of the marriage has expired,
+
+the proceedings shall abate but without prejudice to the powers of the court as to costs.
+
+### Time restrictions on petitions for nullity
+
+**2** An application for leave under section 13(4) of the Matrimonial Causes Act 1973 to institute proceedings after the expiration of the period of three years from the date of the marriage may be made where that period expired before as well as where it expires after the coming into force of section 2 of this Act.
+
+### Scope of “matrimonial cause” for Part V purposes (prospective)
+
+**3** For the purposes of Part V of this Act “matrimonial cause” shall, until the expiration of one year from the coming into force of section 1 of this Act, include an application under section 3 of the Matrimonial Causes Act 1973.
+
+## SCHEDULE 3 — Repeals
+
+*Section 46(3)*
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1967 c. 56. | Matrimonial Causes Act 1967. | The whole Act. |
+| 1971 c. 3. | Guardianship of Minors Act 1971. | Section 16(1). |
+| 1971 c. 23. | Courts Acts 1971. | Section 45. |
+| 1973 c. 18. | Matrimonial Causes Act 1973. | Section 43(9). |
+|  |  | Section 44(6). |
+|  |  | Section 45(3). |
+|  |  | Sections 50 and 51. |
+|  |  | In Schedule 2, paragraphs 6 and 12. |
+| 1973 c. 45. | Domicile and Matrimonial Proceedings Act 1973. | Section 6(4)(a). |
+| 1975 c. 72. | Children Act 1975. | Section 101(1). |
+| 1976 c. 36. | Adoption Act 1976. | Section 63(1). |
+| 1978 c. 22. | Domestic Proceedings and Magistrates’ Courts Act 1978. | In Schedule 2, paragraph 49. |
+| 1981 c. 24. | Matrimonial Homes and Property Act 1981. | Section 8(1). |
+| 1983 c. 19. | Matrimonial Homes Act 1983. | In Schedule 1, paragraph 8(3) and (4), and in paragraph 10(1), the definitions of “divorce county court” and “divorce registry”. |
+| 1984 c. 28. | County Courts Act 1984. | In section 147(1), the definition of “matrimonial cause”. |
+
+---
+
+[^M1]: 1973 c. 18.
+[^M2]: 1973 c. 18.
+[^M3]: 1975 c. 63.
+[^M4]: 1978 c. 22.
+[^M5]: 1978 c. 22.
+[^M6]: 1978 c. 22.
+[^F1]: Words in s. 12(2) substituted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(10)(b), Sch. 27 para. 90(2); S.I. 2005/3175, art. 2(2)
+[^F2]: S. 12(3) substituted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(10)(b), Sch. 27 para. 90(3); S.I. 2005/3175, art. 2(2)
+[^F3]: Words in s. 15(1) substituted (31.12.2020) by S.I. 2019/519, Sch. para. 13(2)(a) (as substituted by The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574), regs. 1, 5(3)(e)(i))
+[^F4]: S. 15(1A) inserted (18.6.2011) by The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484), reg. 1(1), Sch. 7 para. 10(2)(b)
+[^F5]: Words in s. 15(1A) substituted (31.12.2020) by S.I. 2019/519, Sch. para. 13(2)(b) (as substituted by The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574), regs. 1, 5(3)(e)(i))
+[^F6]: S. 15(2) omitted (31.12.2020) by virtue of The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479), regs. 1(1), 63(a) (with regs. 92-95) (as amended by S.I. 2020/1493, regs. 1(1), 5(2)-(5)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F7]: S. 15(3) inserted (18.6.2011) by The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484), reg. 1(1), Sch. 7 para. 10(2)(d)
+[^F8]: Words in s. 15(3) substituted (31.12.2020) by S.I. 2019/519, Sch. para. 13(2)(c) (as substituted by The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574), regs. 1, 5(3)(e)(i))
+[^F9]: Words in s. 16(1) omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 13(3)(a) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F10]: S. 16(3) omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 13(3)(b) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F11]: S. 16(4) omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 13(3)(c) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F12]: S. 17(1) substituted (1.12.2000) by 1999 c. 30, s. 84, Sch. 12 para. 3; S.I. 2000/1116, art. 2(b)
+[^F13]: Words in s. 17(1)(a) substituted (6.4.2022) by Divorce, Dissolution and Separation Act 2020 (c. 11), s. 8(1)(8), Sch. para. 48(2); S.I. 2022/283, reg. 2
+[^F14]: S. 17(1)(c) added (6.4.2011) by Pensions Act 2008 (c. 30), s. 149(1), Sch. 6 para. 11; S.I. 2011/664, art. 2(3), Sch. Pt. 2
+[^F15]: S. 18(3A) inserted (1.12.2000) by 1999 c. 30, s. 22(2); S.I. 2000/1116, art. 2(a)
+[^F16]: Words in s. 18(3A)(a) inserted (1.1.2006) by Pensions Act 2004 (c. 35), s. 322(1), Sch. 12 para. 4(2)(a)(i); S.I. 2005/3331, art. 2(3), Sch. Pt. 3
+[^F17]: Word in s. 18(3A)(b) inserted (1.1.2006) by Pensions Act 2004 (c. 35), s. 322(1), Sch. 12 para. 4(2)(a)(ii); S.I. 2005/3331, art. 2(3), Sch. Pt. 3
+[^F18]: S. 18(3A)(b)(ii) and word inserted (1.1.2006) by Pensions Act 2004 (c. 35), s. 322(1), Sch. 12 para. 4(2)(a)(iii); S.I. 2005/3331, art. 2(3), Sch. Pt. 3
+[^F19]: S. 18(7) added (1.12.2000) by 1999 c. 30, s. 22(3); S.I. 2000/1116, art. 2(a)
+[^F20]: S. 18(7)(c) and word inserted (1.1.2006) by Pensions Act 2004 (c. 35), s. 322(1), Sch. 12 para. 4(2)(b); S.I. 2005/3331, art. 2(3), Sch. Pt. 3
+[^F21]: S. 18(7)(c) substituted (6.4.2011) by Pensions Act 2008 (c. 30), s. 149(1), Sch. 6 para. 12; S.I. 2011/664, art. 2(3), Sch. Pt. 2
+[^F22]: S. 21 renumbered as s. 21(1) (1.12.2000) by 1999 c. 30, s. 22(4); S.I. 2000/1116, art. 2(a)
+[^F23]: Words in s. 21 repealed (1.12.2000) by 1999 c. 30, ss. 84(1), 88, Sch. 12 para. 4(a), Sch. 13 Pt. II; S.I. 2000/1116, art. 2(b)(d)(g)
+[^F24]: S. 21(ba)(bb)(bc) inserted (1.12.2000) by 1999 c. 30, s. 84(1), Sch. 12 para. 4(b); S.I. 2000/1116, art. 2(b)
+[^F25]: S. 21(1)(bca)-(bcc) inserted (6.4.2011) by Pensions Act 2008 (c. 30), s. 149(1), Sch. 6 para. 13(2); S.I. 2011/664, art. 2(3), Sch. Pt. 2
+[^F26]: S. 21(1)(bd)(be) inserted (1.12.2000) by 1999 c. 30, s. 22(4); S.I. 2000/1116, art. 2(a)
+[^F27]: S. 21(1)(bf) inserted (1.1.2006) by Pensions Act 2004 (c. 35), s. 322(1), Sch. 12 para. 4(3); S.I. 2005/3331, art. 2(3), Sch. Pt. 3
+[^F28]: S. 21(1)(bg) inserted (6.4.2011) by Pensions Act 2008 (c. 30), s. 149(1), Sch. 6 para. 13(3); S.I. 2011/664, art. 2(3), Sch. Pt. 2
+[^F29]: S. 21(1)(l) inserted (1.12.2000) by 1999 c. 30, s. 84(1), Sch. 12 para. 4(c); S.I. 2000/1116, art. 2(b)
+[^F30]: S. 21(1)(m) added (6.4.2011) by Pensions Act 2008 (c. 30), s. 149(1), Sch. 6 para. 13(4); S.I. 2011/664, art. 2(3), Sch. Pt. 2
+[^F31]: S. 21(2)-(5) inserted (1.12.2000) by 1999 c. 30, s. 22(5); S.I. 2000/1116, art. 2(a)
+[^F32]: Words in s. 21(2) substituted (6.4.2011) by Pensions Act 2008 (c. 30), s. 149(1), Sch. 6 para. 13(5); S.I. 2011/664, art. 2(3), Sch. Pt. 2
+[^F33]: Words in s. 21(4) added (6.3.2011 for specified purposes, 6.4.2011 in so far as not already in force) by Pensions Act 2008 (c. 30), s. 149(1), Sch. 6 para. 13(6); S.I. 2011/664, art. 2(2)(3), Sch. Pts. 1, 2
+[^F34]: S. 22 substituted (1.10.1997) by 1996 c. 27, s. 66(1), Sch. 8 para. 52 (with Sch. 9 paras. 8-10); S.I. 1997/1892, art. 3(1)(b)
+[^F35]: Words in s. 22(2) substituted (13.5.2014) by Children and Families Act 2014 (c. 6), ss. 18(7)(a), 139(4) (with s. 18(6))
+[^F36]: Words in s. 22(2) substituted (6.4.2022) by Divorce, Dissolution and Separation Act 2020 (c. 11), s. 8(1)(8), Sch. para. 48(3); S.I. 2022/283, reg. 2
+[^F37]: Words in Act substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), s. 148(1), Sch. 11 para. 1(2); S.I. 2009/1604, art. 2(d)
+[^M7]: 1975 c. 63.
+[^F38]: S. 26 repealed (5.4.1993) by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56), s. 2(2), Sch. 3; S.I. 1993/618, art. 2
+[^F39]: Words in s. 27 substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 88; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F40]: Words in s. 28(1) substituted (31.12.2020) by S.I. 2019/519, Sch. para. 13(4)(a) (as substituted by The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574), regs. 1, 5(3)(e)(ii))
+[^F41]: S. 28(3A) inserted (18.6.2011) by The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484), reg. 1(1), Sch. 7 para. 10(4)(b)
+[^F42]: Words in s. 28(3A) substituted (31.12.2020) by S.I. 2019/519, Sch. para. 13(4)(b) (as substituted by The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574), regs. 1, 5(3)(e)(ii))
+[^F43]: S. 28(4) omitted (31.12.2020) by virtue of The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479), regs. 1(1), 63(b) (with regs. 92-95) (as amended by S.I. 2020/1493, regs. 1(1), 5(2)-(5)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F44]: Words in s. 28(5) substituted (31.12.2020) by S.I. 2019/519, Sch. para. 13(4)(c) (as substituted by The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574), regs. 1, 5(3)(e)(ii))
+[^F45]: S. 29A inserted by Family Law (Scotland) Act 1985 (c. 37, SIF 49:3), ss. 28(1), 29(4), Sch. 1 para. 12
+[^M8]: 1981 c. 59.
+[^F46]: Words substituted by Family Law (Scotland) Act 1985 (c. 37, SIF 49:3), ss. 28(1), 29(4), Sch. 1 para. 13
+[^M9]: 1972 c. 18.
+[^F47]: S. 31A and Pt. 4A heading inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), ss. 17(3), 61(3); S.I. 2014/954, art. 2(a) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F48]: Ss. 31B-31P inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 10 para. 1; S.I. 2014/954, art. 2(d) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F49]: Words in s. 31C(1)(e) substituted (1.10.2026) by The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723), art. 1(2), Sch. 1 para. 14
+[^F50]: Words in s. 31C(1) omitted (10.3.2022 for specified purposes, 1.10.2022 in so far as not already in force) by virtue of Public Service Pensions and Judicial Offices Act 2022 (c. 7), s. 131(1)(4)(c), Sch. 4 para. 7; S.I. 2022/1014, reg. 2(d) (with reg. 3)
+[^F51]: Words in s. 31C(2) substituted (6.4.2020) by Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33), s. 4(3), Sch. para. 13; S.I. 2020/24, reg. 3(b)
+[^F52]: Words in s. 31L(8)(a)(i) inserted (6.4.2016) by The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413), regs. 2(1), 42
+[^F53]: Words in s. 31L(8)(c) substituted (31.12.2020) by The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479), regs. 1(1), 63(c)(i) (with regs. 92-95) (as amended by S.I. 2020/1493, regs. 1(1), 5(2)-(5)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F54]: Words in s. 31L(8)(c) omitted (31.12.2020) by virtue of The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479), regs. 1(1), 63(c)(ii) (with regs. 92-95) (as amended by S.I. 2020/1493, regs. 1(1), 5(2)-(5)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F55]: S. 31O substituted (10.1.2020 for specified purposes, 6.4.2020 in so far as not already in force) by Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33), s. 4(3), Sch. para. 14; S.I. 2020/24, regs. 2(b)(i), 3(b)
+[^F56]: S. 31P(2) omitted (10.1.2020 for specified purposes, 6.4.2020 in so far as not already in force) by virtue of Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33), s. 4(3), Sch. para. 15; S.I. 2020/24, regs. 2(b)(i), 3(b)
+[^F57]: Pt. 4B inserted (21.7.2022) by Domestic Abuse Act 2021 (c. 17), ss. 65, 90(6); S.I. 2022/840, regs. 1(2), 2(a) (with reg. 3)
+[^F58]: Words in s. 32 omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 89; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F59]: Words substituted by Family Law Act 1986 (c. 55, SIF 49:3), ss. 68(1), 69(5), Sch. 1 para. 27
+[^F60]: Ss. 33-36D repealed (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 90; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F61]: Words in s. 37 substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 91; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F62]: Words in s. 38 heading omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 92(6); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F63]: Words in s. 38(1) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 92(2); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F64]: Words in s. 38(2) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 92(3)(a); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F65]: Words in s. 38(2)(a) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 92(3)(b); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F66]: Words in s. 38(2)(b) inserted (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch. 13 para. 51 (with Sch. 14 para. 1(1)); S.I. 1991/828, art. 3(2)
+[^F67]: Words in s. 38(2)(c) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 92(3)(c); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^M10]: 1984 c. 28.
+[^F68]: S. 38(2)(d) and word inserted by virtue of Matrimonial Proceedings (Transfers) Act 1988 (c. 18, SIF 49:3), s. 1(1) (as amended (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 101; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11))
+[^F69]: S. 38(3)-(3B) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 92(4); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F70]: Words in s. 38(5) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 92(5); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F71]: Words in s. 39 heading omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 93(4); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F72]: Words in s. 39(1) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 93(2); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F73]: S. 39(2)(a)(b) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 93(3); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F74]: S. 40 repealed (6.4.2011) by Courts Act 2003 (c. 39), s. 110(1), Sch. 8 para. 278(a), Sch. 10; S.I. 2010/2921, art. 3(b)
+[^F75]: Ss. 40A, 40B inserted (temp. from 3.4.2006 until the repeal of s. 40 comes into force on 6.4.2011) by Constitutional Reform Act 2005 (c. 4), s. 148(1), Sch. 4 para. 381 (with Sch. 4 para. 361); S.I. 2006/1014, art. 2(a), Sch. 1 para. 11(cc)
+[^F76]: S. 41 repealed (4.1.2005) by Courts Act 2003 (c. 39), s. 110(1), Sch. 8 para. 278(b), Sch. 10; S.I. 2004/3123, art. 2(b)(iv)(c)(iv) (with art. 3)
+[^F77]: S. 42 repealed (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 94; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^M11]: 1882 c. 75.
+[^F78]: S. 44 repealed (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 10 para. 99 Table; S.I. 2014/954, art. 2(d) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F79]: S. 45 repealed (4.11.1996) by S.I. 1995/755, art. 185(2), Sch. 10 (with Sch. 8 para. 23(4)); S.R. 1996/297, art. 2(2)
+[^F80]: Words in s. 48(2) repealed (4.11.1996) by S.I. 1995/755, art. 185(2), Sch. 10 (with Sch. 8 para. 23(4)); S.R. 1996/297, art. 2(2)
+[^F81]: Sch. 1 para. 4 repealed (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 10 para. 99 Table; S.I. 2014/954, art. 2(d) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F82]: Sch. 1 para. 9 repealed (5.4.1993) by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56), s. 2(2), Sch. 3; S.I. 1993/618, art. 2
+[^F83]: Sch. 1 para. 13(b) repealed (1.4.2005) by Courts Act 2003 (c. 39), s. 110(1), Sch. 10; S.I. 2005/910, art. 3(aa)
+[^F84]: Sch. 1 para. 14 repealed by Family Law Act 1986 (c. 55, SIF 49:3), ss. 68(2), 69(5)(6)(7), Sch. 2
+[^F85]: Sch. 1 para. 16 repealed (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 210 Table; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F86]: Sch. 1 para. 18 repealed by Legal Aid Act 1988 (c. 34, SIF 77:1), s. 45, Sch. 6
+[^F87]: Sch. 1 para. 19 repealed (E.W.) (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch. 15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F88]: Sch. 1 para. 20 repealed (30.12.2005) by Adoption and Children Act 2002 (c. 38), s. 148(1), Sch. 5 (with Sch. 4 paras. 2, 6-8); S.I. 2005/2897, art. 2(b)
+[^F89]: Sch. 1 para. 23 repealed (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch. 15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2)
+[^F90]: Sch. 1 para. 26 repealed (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 210 Table; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F91]: Sch. 1 para. 28 repealed (S.) (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), Sch. 5 para 27; S.S.I. 2014/127, art. 2
+[^F92]: Sch. 1 paras. 29, 31 repealed (14.10.1991) by Courts and Legal Services Act 1990 (c. 41, SIF 76:1), s. 125(7), Sch. 20; S.I. 1991/1883, art. 3, Sch.
+[^F93]: Sch. 1 paras. 29, 31 repealed (14.10.1991) by Courts and Legal Services Act 1990 (c. 41, SIF 76:1), s. 125(7), Sch. 20; S.I. 1991/1883, art. 3, Sch.
+[^M12]: 1973 c. 18.

@@ -1,0 +1,169 @@
+---
+title: "Wildlife and Countryside (Amendment) Act 1985"
+identifier: "ukpga/1985/31"
+citation: "1985 c. 31"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S"
+date: 1985-06-26
+last_amended: 2001-01-30
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1985/31"
+source_modified: 2011-05-27
+retrieved: 2026-10-11
+---
+
+# Wildlife and Countryside (Amendment) Act 1985
+
+**1985 c. 31**
+
+An Act to amend sections 28 and 43 of the Wildlife and Countryside Act 1981, sections 1 and 2 of the Badgers Act 1973 and section 1 of the Forestry Act 1967.
+
+[26th June 1985]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## [^F1]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [[^F2]2 Notification of areas of special scientific interest.
+
+(1) Section 28 of the principal Act (notification of areas of special scientific interest) shall be amended as follows.
+
+(2) For subsection (2) (preliminary notices) there shall be substituted—
+
+> (2) A notification under subsection (1) shall specify the time (not being less than three months from the date of the giving of the notification) within which, and the manner in which, representations or objections with respect thereto may be made; and the Council shall consider any representation or objection duly made.
+
+.
+
+(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F3]
+
+(4) After subsection (4) there shall be inserted—
+
+> (4A) Where a notification under subsection (1) has been given, the Council may within the period of nine months beginning with the date on which the notification was served on the Secretary of State either—
+>
+> (a) give notice to the persons mentioned in subsection (1) withdrawing the notification; or
+>
+> (b) give notice to those person confirming the notification (with or without modifications);
+>
+> and the notification shall cease to have effect—
+>
+> (i) on the giving of notice of its withdrawal under paragraph (a) of this subsection to any of the persons mentioned in subsection (1), or
+>
+> (ii) if not withdrawn or confirmed by notice under paragraph (a) or (b) of this subsection within the said period of nine months, at the end of that period.
+>
+> (4B) The Council’s power under subsection (4A)(b) to confirm a notification under subsection (1) with modification shall not be exercised so as to add to the operations specified in the notification or extend the area to which it applies.
+>
+> (4C) As from the time when there is served on the owner or occupier of any land which has been notified under subsection (1)(b) a notice under subsection (4A) confirming the notification with modifications, the notification shall have effect in its modified form in relation to so much (if any) of that land as remains subject to it.
+
+.
+
+(5) In subsection (5) (restrictions on carrying out operations specified in notification)—
+
+(a) after “shall not” there shall be inserted “while the notification remains in force”;
+
+(b) in paragraph (a) (notice by owner or occupier of proposed operations), for “after the commencement date” there shall be substituted “after service on him of the notification”.
+
+(6) In subsection (6)(c) (which specifies as one of the conditions referred to in subsection (5)(b) that three months have expired from the giving of the notice under subsection (5)), for “three months” there shall be substituted “four months”.
+
+(7) After subsection (6) there shall be inserted—
+
+> (6A) If before the expiry of the four months referred to in subsection (6)(c) the relevant person agrees with the Council in writing that, subject to subsection (6B), the condition specified in paragraph (c) of subsection (6) shall not apply in relation to the operation mentioned in subsection (5)(a), then subject to subsection (6B), subsection (5) shall as from the date of the agreement have effect in relation to the operation in question (as regards both the owner and the occupier of the land) as if paragraph (c) of subsection (6) were omitted.
+>
+> (6B) If after an agreement has been made with the Council under subsection (6A) the relevant person (whether a party to the agreement or not) gives the Council written notice that he wishes to terminate the agreement, then as from the giving of the notice subsection (5) shall have effect in relation to the operation in question (as regards both the owner and the occupier of the land) as if paragraph (c) of subsection (6) specified the condition that one month or, if the notice under this subsection specifies a longer period, that longer period has expired from the giving of the notice under this subsection.
+>
+> (6C) In subsections (6A) and (6B) “the relevant person”—
+>
+> (a) in a case where the notice under subsection (5) was given by the owner of the land in question, means the owner of that land;
+>
+> (b) in a case where that notice was given by the occupier of that land, means the occupier of that land.
+
+.
+
+(8) For subsection (12) there shall be substituted—
+
+> (12) The Council shall compile and maintain a register of notifications in respect of each local planning authority in Scotland.
+>
+> (12A) There shall be included in any such register as is mentioned in subsection (12)—
+>
+> (a) copies of all notifications given under subsection (1) which relate wholly or partly to land situated within the district of the authority;
+>
+> (b) copies of all plans referred to in any such notification; and
+>
+> (c) copies of all notices served under subsection (4A) which relate to any such notification.
+>
+> (12B) Each local planning authority in Scotland shall keep a copy of the register relating to their district available at their principal office for free public inspection, and may similarly keep, at such of their other offices as they think fit, a copy of such part of the register as appears to them to relate to the area in which the office is situated.
+
+.
+
+(9) Subsection (14) (disapplication of subsection (2) in certain cases) shall be omitted.
+
+(10) The amendments made by subsections (2) to (4) and (9) above shall not apply in relation to—
+
+(a) notifications under subsection (1) of the said section 28 given before the commencement of this Act;
+
+(b) any such notification given after the commencement of this Act which was preceded by a notice under subsection (2) of that section (as originally enacted) given during the six months immediately preceding that commencement; or
+
+(c) any such notification given after the commencement of this Act which, by virtue of subsection (13) of that section, has effect as if given under subsection (1)(a) of that section.
+
+(11) The amendments made by subsections (5) to (7) above shall apply in relation to all notices under subsection (5) of the said section 28 given after the commencement of this Act, whether the land in question was notified under subsection (1)(b) before or after that commencement.]
+
+## 3 Maps of National Parks.
+
+(1) Section 43 of the principal Act (maps of National Parks showing certain areas of moor or heath) shall be amended as follows.
+
+(2) In subsection (1)(a)—
+
+(a) for “the commencement date” there shall be substituted “the relevant date”;
+
+(b) for the words from “of moor” to “which” there shall be substituted “to which this section applies whose natural beauty”.
+
+(3) In subsection (1)(b), for the words from “at” to “year),” there shall be substituted “at intervals of not more than five years”.
+
+(4) After subsection (1) there shall be inserted—
+
+> (1A) In considering under subsection (1) whether any area to which this section applies is one whose natural beauty it is particularly important to conserve, a county planning authority shall act in accordance with the guidelines from time to time issued by the Countryside Commission under subsection (1B).
+>
+> (1B) The Countryside Commission shall issue guidelines for the guidance of country planning authorities in considering as mentioned in subsection (1A), and may from time to time revise any guidelines so issued.
+>
+> (1C) Before issuing or revising any guidelines under subsection (1B) the Commission shall consult such bodies as appear to them to represent interests concerned; and before preparing or revising any map under subsection (1) a county planning authority shall consult such bodies as appear to the authority to represent interests concerned with matters affecting the Park or part of the Park in question.
+
+.
+
+(5) After subsection (2) there shall be added—
+
+> (3) This section applies to any area of mountain, moor, heath, woodland, down, cliff or foreshore (including any bank, barrier, dune, beach, flat or other land adjacent to the foreshore); and in this section ”the relevant date’ means the date of issue of the first guidelines under subsection (1B).
+
+.
+
+## 4 Amendment of Forestry Act 1967 s. 1.
+
+In section 1 of the [^M1]Forestry Act 1967 (general duties of Forestry Commissioners), after subsection (3) there shall be inserted—
+
+> (3A) In discharging their functions under the Forestry Acts 1967 to 1979 the Commissioners shall, so far as may be consistent with the proper discharge of those functions, endeavour to achieve a reasonable balance between—
+>
+> (a) the development of afforestation, the management of forests and the production and supply of timber, and
+>
+> (b) the conservation and enhancement of natural beauty and the conservation of flora, fauna and geological or physiographical features of special interest.
+
+.
+
+## 5 Short title, interpretation, commencement and extent.
+
+(1) This Act may be cited as the Wildlife and Countryside (Amendment) Act 1985.
+
+(2) In this Act references to the principal Act are references to the [^M2]Wildlife and Countryside Act 1981.
+
+(3) This Act shall come into force at the end of the period of two months beginning with the day on which it is passed.
+
+(4) This Act does not extend to Northern Ireland.
+
+---
+
+[^F1]: S. 1 repealed (16.10.1992) by Protection of Badgers Act 1992 (c. 51), s. 15(2)(3),Sch.
+[^F2]: S. 2 repealed (E.W.) (30.1.2001) by 2000 c. 37, ss. 102, 103(2), Sch. 16 Pt. III
+[^F3]: S. 2(3) repealed by Wildlife and Countryside (Service of Notices) Act 1985 (c. 59, SIF 4:5), s. 1(2)
+[^M1]: 1967 c. 10.
+[^M2]: 1981 c. 69.

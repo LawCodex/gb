@@ -1,0 +1,1685 @@
+---
+title: "Conveyancing and Feudal Reform (Scotland) Act 1970"
+identifier: "ukpga/1970/35"
+citation: "1970 c.35"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "S"
+date: 1970-05-29
+last_amended: 2016-11-30
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1970/35"
+source_modified: 2024-10-11
+retrieved: 2026-10-11
+---
+
+# Conveyancing and Feudal Reform (Scotland) Act 1970
+
+**1970 c.35**
+
+An Act to provide as respects Scotland for the variation and discharge of certain obligations relating to land; to facilitate the allocation of feuduties and ground annuals; to reduce the period of positive prescription of 20 years to 10 years; to provide for a new form of heritable security; to make certain amendments to the existing law relating to heritable securities; to make certain other amendments to the law relating to conveyancing; to abolish the rights of pre-emption of heritors in respect of glebes; to amend the Lands Tribunal Act 1949; and for connected purposes.
+
+[29th May 1970]
+
+## PART I — Feudal Reform
+
+### Variation and discharge of land obligations
+
+#### 1 Variation and discharge of land obligations.
+
+[^F1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 2 Provisions supplementary to section 1.
+
+[^F2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Allocation of feuduties, etc.
+
+#### 3 Allocation of feuduties.
+
+[^F3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4 Applications to Lands Tribunal regarding allocation of feuduties.
+
+[^F4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 5 Provisions supplementary to sections 3 and 4.
+
+[^F5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6 Allocation of ground annuals.
+
+[^F6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Provisions for contracting out of sections 1 to 6 to be void
+
+#### 7 Provisions for contracting out of sections 1 to 6 void.
+
+[^F7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Reduction of period of positive prescription
+
+#### [^F8]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part II — The Standard Security
+
+### 9 The standard security.
+
+(1) The provisions of this Part of this Act shall have effect for the purpose of enabling a new form of heritable security to be created to be known as a standard security.
+
+(2) It shall be competent to [[^F9]grant and register in the Land Register of Scotland or to] grant and record in the Register of Sasines a standard security over any [[^F10]land or real right in land,] to be expressed in conformity with one of the forms prescribed in Schedule 2 to this Act.
+
+[[^F11](2B) It shall not be competent to grant a standard security over a personal pre-emption burden or personal redemption burden (both within the meaning of Part 4 of the Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5) [[^F12]or as the case may be of section 23 of the Long Leases (Scotland) Act 2012 (asp 9))].]
+
+(3) A grant of any right over [[^F10]land or a real right] in land for the purpose of securing any debt by way of a heritable security shall only be capable of being effected at law if it is embodied in a standard security.
+
+(4) Where for the purpose last-mentioned any deed which is not in the form of a standard security contains a disposition or assignation [[^F10]of land or of a real right] in land, it shall to that extent be void and unenforceable, and where that deed has been duly [[^F13]registered or] recorded the creditor in the purported security may be required, by any person having an interest, to grant any deed which may be appropriate to clear [[^F14]the Land Register of Scotland or] the Register of Sasines of that security.
+
+(5) A standard security may be used for any other purpose for which a heritable security may be used if any of the said forms is appropriate to that purpose, and for the purpose of any enactment affecting heritable securities a standard security, if so used, or if used as is required by this Act instead of a heritable security as defined therein, shall be a heritable security for the purposes of that enactment.
+
+(6) The [^M1]Bankruptcy Act 1696, in so far as it renders a heritable security of no effect in relation to a debt contracted after the recording of that security, and any rule of law which requires that a real burden for money may only be created in respect of a sum specified in the deed of creation, shall not apply in relation to a standard security.
+
+[^F15]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(8) For the purposes of this Part of this Act—
+
+(a) “heritable security (except in subsection (5) of this section if the context otherwise requires) means any security capable of being constituted over any [[^F10]land or real right] in land by disposition or assignation of that [[^F10]land or real right] in security of any debt and of being [[^F16]registered in the Land Register of Scotland or] recorded in the Register of Sasines;
+
+(b) [[^F17]“real right in land” means any such right, other than ownership or a real burden, which is capable of being held separately and to which a title may be [[^F18]registered in the Land Register of Scotland or] recorded in the Register of Sasines;]
+
+(c) “debt” means any obligation due, or which will or may become due, to repay or pay money, including any such obligation arising from a transaction or part of a transaction in the course of any trade, business or profession, and any obligation to pay an annuity or*ad factum praestandum*, but does not include an obligation to pay any [[^F19]feuduty, ground annual,] rent or other periodical sum payable in respect of land, and “creditor” and “debtor”, in relation to a standard security, shall be construed accordingly.
+
+### 10 Import of forms of, and certain clauses in, standard security.
+
+(1) The import of the clause relating to the personal obligation contained in Form A of Schedule 2 to this Act expressed in any standard security shall, unless specially qualified, be as follows—
+
+(a) where the security is for a fixed amount advanced or payable at, or prior to, the delivery of the deed, the clause undertaking to make payment to the creditor shall import an acknowledgment of receipt by the debtor of the principal sum advanced or an acknowledgment by the debtor of liability to pay that sum and a personal obligation undertaken by the debtor to repay or pay to the creditor on demand in writing at any time after the date of delivery of the standard security the said sum, with interest at the rate stated payable on the dates specified, together with all expenses for which the debtor is liable by virtue of the deed or of this Part of this Act;
+
+(b) where the security is for a fluctuating amount, whether subject to a maximum amount or not and whether advanced or due partly before and partly after delivery of the deed or whether to be advanced or to become due wholly after such delivery, the clause undertaking to make payment to the creditor shall import a personal obligation by the debtor to repay or pay to the creditor on demand in writing the amount, not being greater than the maximum amount, if any, specified in the deed, advanced or due and outstanding at the time of demand, with interest on each advance from the date when it was made until repayment thereof, or on each sum payable from the date on which it became due until payment thereof, and at the rate stated payable on the dates specified, together with all expenses for which the debtor is liable by virtue of the deed or of this Part of this Act.
+
+(2) The clause of warrandice in the forms of standard security contained in Schedule 2 to this Act expressed in any standard security shall, unless specially qualified, import absolute warrandice as regards the [[^F20]land or real right] in land over which the security is granted and the title deeds thereof, and warrandice from fact and deed as regards the rents thereof.
+
+(3) The clause relating to consent to registration for execution contained in Form A of Schedule 2 to this Act expressed in any standard security shall, unless specially qualified, import a consent to registration in the Books of Council and Session, or, as the case may be, in the books of the appropriate sheriff court, for execution.
+
+(4) The forms of standard security contained in Schedule 2 to this Act shall, unless specially qualified, import an assignation to the creditor of the title deeds, including searches, and all conveyances not duly [[^F21]registered or] recorded, affecting the security subjects or any part thereof, with power to the creditor in the event of a sale under the powers conferred by the security, but subject to the rights of any person holding prior rights to possession of those title deeds, to deliver them, so far as in the creditor’s possession, to the purchaser, and to assign to the purchaser any right he may possess to have the title deeds made forthcoming.
+
+### 11 Effect of [[^F22]registered or] recorded standard security, and incorporation of standard conditions.
+
+(1) Where a standard security is duly [[^F23]registered or] recorded, it shall operate to vest [[^F24]in the grantee a real right in security] for the performance of the contract to which the security relates.
+
+(2) Subject to the provisions of this Part of this Act, the conditions set out in Schedule 3 to this Act, either as so set out or with such variations as have been agreed by the parties in the exercise of the powers conferred by the said Part (which conditions are hereinafter in this Act referred to as “the standard conditions”), shall regulate every standard security.
+
+(3) Subject to the provisions of this Part of this Act, the creditor and debtor in a standard security may vary any of the standard conditions, other than [[^F25]standard condition 11 (procedure on redemption) and] the provisions of Schedule 3 to this Act relating to the powers of sale, . . . [^F26] and foreclosure and to the exercise of those powers, but no condition capable of being varied shall be varied in a manner inconsistent with any condition which may not be varied by virtue of this subsection.
+
+(4) In this Part of this Act—
+
+(a) any reference to a variation of the standard conditions shall include a reference to the inclusion of an additional condition and to the exclusion of a standard condition;
+
+(b) any purported variation of a standard condition which contravenes the provisions of subsection (3) of this section shall be void and unenforceable.
+
+### 12 Standard security may be granted by person uninfeft.
+
+[[^F27](1) Notwithstanding any rule of law, a standard security may be granted over land or a real right in land by a person whose title thereto has not been completed by being duly registered or recorded.
+
+(1A) If the deed expressing the security is to be recorded in the Register of Sasines, the grantor must, in that deed, deduce his title to the land or real right from the person who appears in the Register of Sasines as having the last recorded title thereto.]
+
+(2) A deduction of title in a deed for the purposes of the foregoing subsection shall be expressed in the form prescribed by Note 2 or 3 of Schedule 2 to this Act, and on [[^F28]a deed expressing the security being registered or] recorded as aforesaid the title of the grantee shall, for the purposes of the rights and obligations between the grantor and the grantee thereof and those deriving right from them, but for no other purpose, in all respects be of the same effect as if the title of the grantor of the deed to the [[^F29]land or real right in land] [^F30]... had been duly completed; and any references to a proprietor or to a person [[^F29]having the last [[^F31]registered or] recorded title] shall in this Part of this Act be construed accordingly.
+
+(3) There may be specified for the purposes of any deduction of title in pursuance of any provision of this Part of this Act any writing which it is competent to specify as a title, midcouple, or link in title for the purposes of section 5 of the [^M2]Conveyancing (Scotland) Act 1924 (deduction of title).
+
+### 13 Ranking of standard securities.
+
+(1) Where the creditor in a standard security duly [[^F32]registered or] recorded has received notice of the creation of a subsequent security over the same [[^F33]land or real right in land or over any part thereof, or of the subsequent assignation or conveyance of that land or real right,] in whole or in part, being a security, assignation or conveyance so [[^F34]registered or] recorded, the preference in ranking of the security of that creditor shall be restricted to security for
+
+[[^F35](a) the present debt incurred (whenever payable); and
+
+(b) any future debt which, under the contract to which the security relates, he is required to allow the debtor in the security to incur,]
+
+and interest present or future due thereon (including any such interest which has accrued or may accrue) and for any expenses or outlays (including interest thereon) which may be, or may have been, reasonably incurred in the exercise of any power conferred on any creditor by the deed expressing the existing security.
+
+(2) For the purposes of the foregoing subsection—
+
+(a) a creditor in an existing standard security duly [[^F36]registered or] recorded shall not be held to have had any notice referred to in that subsection, by reason only of the subsequent [[^F37]registration or] recording of the relevant deed in the [[^F38]Land Register of Scotland or] Register of Sasines;
+
+(b) any assignation, conveyance or vesting in favour of or in any other person of the interest of the debtor in the security subjects or in any part thereof resulting from any judicial decree, or otherwise by operation of law, shall constitute sufficient notice thereof to the creditor.
+
+(3) Nothing in the foregoing provisions of this section shall affect—
+
+(a) any preference in ranking enjoyed by the Crown; and
+
+(b) any powers of the creditor and debtor in any heritable security to regulate the preference to be enjoyed by creditors in such manner as they may think fit.
+
+[[^F39](4) An agreement as to the ranking among themselves of two or more standard securities which are granted over the same land or the same real right in land may be registered in the Land Register of Scotland.]
+
+### 14 Assignation of standard security.
+
+(1) Any standard security duly [[^F40]registered or] recorded may be transferred, in whole or in part, by the creditor by an assignation in conformity with Form A or B of Schedule 4 to this Act, and upon such an assignation being duly [[^F40]registered or] recorded, the security, or, as the case may be, part thereof, shall be vested in the assignee as effectually as if the security or the part had been granted in his favour.
+
+(2) An assignation of a standard security shall, except so far as otherwise therein stated, be deemed to convey to the grantee all rights competent to the grantor to the writs, and shall have the effect *inter alia* of vesting in the assignee—
+
+(a) the full benefit of all corroborative or substitutional obligations for the debt, or any part thereof, whether those obligations are contained in any deed or arise by operation of law or otherwise,
+
+(b) the right to recover payment from the debtor of all expenses properly incurred by the creditor in connection with the security, and
+
+(c) the entitlement to the benefit of any notices served and of all procedure instituted by the creditor in respect of the security to the effect that the grantee may proceed as if he had originally served or instituted such notices or procedure.
+
+### 15 Restriction of standard security.
+
+(1) The security constituted by any standard security duly [[^F41]registered or] recorded may be restricted, as regards any part of the [[^F42]land or real right] in land burdened by the security, by a deed of restriction in conformity with Form C of Schedule 4 to this Act, and, upon that deed being duly [[^F41]registered or] recorded, the security shall be restricted [[^F43]to the land or real right contained in the standard security other than the part of that land or real right disburdened by the deed; and the land or real right] thereby disburdened shall be released from the security wholly or to the extent specified in the deed.
+
+(2) A partial discharge and deed of restriction of a standard security, which has been duly [[^F44]registered or] recorded, may be combined in one deed, which shall be in conformity with Form D of the said Schedule 4.
+
+### 16 Variation of standard security.
+
+(1) Any alteration in the provisions (including any standard condition) of a standard security duly [[^F45]registered or] recorded, other than an alteration which may appropriately be effected by an assignation, discharge or restriction of that standard security, or an alteration which involves an addition to, or an extension of, the [[^F46]land or real right] in land mentioned therein, may be effected by a variation endorsed on the standard security in conformity with Form E of Schedule 4 to this Act, or by a variation contained in a separate deed in a form appropriate for that purpose, duly [[^F45]registered or recorded in either case.
+
+(2) Where a standard security has been duly [[^F47]registered or] recorded, but the personal obligation or any other provision (including any standard condition) relating to the security has been created or specified in a deed which has not been so [[^F48]registered or] recorded, nothing contained in this section shall prevent any alteration in that personal obligation or provision, other than an alteration which may be appropriately effected by an assignation, discharge or restriction of the standard security, or an alteration which involves an addition to, or an extension of, the [[^F46]land or real right] in land mentioned therein, by a variation contained in any form of deed appropriate for that purpose, and such a variation shall not require to be [[^F49]registered in the Land Register of Scotland or] recorded in the Register of Sasines.
+
+[^F50]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Any variation effected in accordance with this section shall not prejudice any other security or right over the same [[^F51]land or real right in land, or over] any part thereof, effectively constituted before the variation is [[^F52]registered or] recorded, or, where the variation is effected by an [[^F53]unregistered or] unrecorded deed, before that deed is executed, as the case may be.]
+
+### 17 Discharge of standard security.
+
+A standard security duly [[^F54]registered or] recorded may be discharged, and the [[^F55]land or real right] in land burdened by that security may be disburdened thereof, in whole or in part, by a discharge in conformity with Form F of Schedule 4 to this Act, duly [[^F54]registered or] recorded.
+
+### 18 Redemption of standard security.
+
+(1) [[^F56]Subject to the provisions of subsection (1A) of this section,] The debtor in a standard security or, where the debtor is not the proprietor, the proprietor of the security subjects shall be entitled to redeem the security [[^F56]on giving two months’ notice of his intention so to do, and] in conformity with the terms of standard condition 11 and the appropriate Forms of Schedule 5 to this Act.
+
+[[^F57](1A) [[^F58]Without prejudice to section 11 of the Land Tenure Reform (Scotland) Act 1974] the provisions of the foregoing subsection shall be subject to any agreement to the contrary, but any right to redeem the security shall be exercisable in conformity with the terms and Forms referred to in that subsection.]
+
+(2) Where owing to the death or absence of the creditor, or to any other cause, the debtor in a standard security or, as the case may be, the proprietor of the security subjects [[^F59](being in either case a person entitled to redeem the security)] is unable to obtain a discharge under the [[^F60]foregoing provisions of this section] may—
+
+(a) where the security was granted in respect of any obligation to repay or pay money, consign in any bank in Scotland, incorporated by or under Act of Parliament or by Royal Charter, the whole amount due to the creditor on redemption, other than any unascertained expenses of the creditor, for the person appearing to have the best right thereto, and
+
+(b) in any other case, apply to the court for declarator that the whole obligations under the contract to which the security relates have been performed.
+
+(3) On consignation, or on the court granting declarator as aforesaid, a certificate to that effect may be expede by a solicitor in the appropriate form prescribed by Form D of Schedule 5 to this Act, which on being duly [[^F61]registered or] recorded shall disburden the [[^F62]land or real right] in land, to which the standard security relates, of that security.
+
+(4) For the purposes of this section, “whole amount due” means the debt to which the security relates, so far as outstanding, and any other sums due thereunder by way of interest or otherwise.
+
+### 19 Calling-up of standard security.
+
+(1) Where a creditor in a standard security intends to require discharge of the debt thereby secured and, failing that discharge, to exercise any power conferred by the security to sell any subjects of the security or any other power which he may appropriately exercise on the default of the debtor within the meaning of standard condition 9(1)(a), he shall serve a notice calling-up the security in conformity with Form A of Schedule 6 to this Act (hereinafter in this Act referred to as a “calling-up notice”), in accordance with the following provisions of this section.
+
+(2) Subject to the following provisions of this section, a calling-up notice shall be served on the person [[^F63]having the last [[^F64]registered or] recorded title to] the security subjects and appearing [[^F65]in the Land Register of Scotland or] on the record [[^F66]of the Register of Sasines] as the proprietor, and should the proprietor of those subjects, or any part thereof, be dead then on his representative or the person entitled to the subjects in terms of the last [[^F64]registered or] recorded title thereto, notwithstanding any alteration of the succession not appearing in the [[^F67]Land Register of Scotland or] Register of Sasines.
+
+(3) Where the person [[^F68]having the last [[^F69]registered or] recorded title to] the security subjects was an incorporated company which has been removed from the Register of Companies, or a person deceased who has left no representatives, a calling-up notice shall be served on the Lord Advocate and, where the estates of the person [[^F68]having the last [[^F69]registered or] recorded title have] been sequestrated under the Bankruptcy (Scotland) Act [[^F70]2016], the notice shall be served on the trustee in the sequestration (unless such trustee has been discharged) as well as on the bankrupt.
+
+(4) If the proprietor be a body of trustees, it shall be sufficient if the notice is served on a majority of the trustees [[^F71]having title to] the security subjects.
+
+(5) It shall be an obligation on the creditor to serve a copy of the calling-up notice on any other person against whom he wishes to preserve any right of recourse in respect of the debt.
+
+(6) For the purposes of the foregoing provisions of this section, the service of a calling-up notice may be made by delivery to the person on whom it is desired to be served or the notice may be sent by registered post or by the recorded delivery service to him at his last known address, or, in the case of the Lord Advocate, at the Crown Office, Edinburgh, and an acknowledgment, signed by the person on whom service has been made, in conformity with Form C of Schedule 6 to this Act, or, as the case may be, a certificate in conformity with Form D of that Schedule, accompanied by the postal receipt shall be sufficient evidence of the service of that notice; and if the address of the person on whom the notice is desired to be served is not known, or if it is not known whether that person is still alive, or if the packet containing a calling-up notice is returned to the creditor with an intimation that it could not be delivered, that notice shall be sent to the Extractor of the Court of Session, and shall be equivalent to the service of a calling-up notice on the person on whom it is desired to be served.
+
+(7) For the purposes of the last foregoing subsection, an acknowledgment of receipt by the said Extractor on a copy of a calling-up notice shall be sufficient evidence of the receipt by him of that notice.
+
+(8) A calling-up notice served by post shall be held to have been served on the next day after the day of posting.
+
+(9) Where a creditor in a standard security has indicated in a calling-up notice that any sum and any interest thereon due under the contract may be subject to adjustment in amount, he shall, if the person on whom notice has been served so requests, furnish the debtor with a statement of the amount as finally determined within a period of one month from the date of service of the calling-up notice, and a failure by the creditor to comply with the provisions of this subsection shall cause the calling-up notice to be of no-effect.
+
+(10) The period of notice mentioned in the calling-up notice may be effectively dispensed with or shortened by the person on whom it is served, with the consent of the creditors, if any, holding securities*pari passu*with, or postponed to, the security held by the creditor serving the calling-up notice, by a minute written or endorsed upon the said notice, or a copy thereof, in conformity with Form C of Schedule 6 to this Act.
+
+[[^F72]Provided that, without prejudice to the foregoing generality, if the standard security is over a matrimonial home as defined in section 22 of the Matrimonial Homes (Family Protection) (Scotland) Act 1981, the spouse on whom the calling-up notice has been served may not dispense with or shorten the said period without the consent in writing of the other spouse.]
+
+[[^F73](10A) Subsection (10B) below applies where the calling-up notice relates to a standard security over land or a real right in land used to any extent for residential purposes.
+
+(10B) The period of notice mentioned in the calling-up notice may be shortened under subsection (10) above only with the consent in writing (in addition to any other consent required by that subsection) of—
+
+(a) any person entitled to make an application under section 24B(1) of this Act as an entitled resident falling within paragraph (d), (e) or (f) of section 24C(1), and
+
+(b) where the debtor in the standard security is not the proprietor—
+
+(i) the debtor, and
+
+(ii) if the standard security is over a matrimonial home or a family home (within the definitions in section 23A(3)), the debtor's spouse or civil partner.]
+
+(11) [[^F74]Subject to subsection (12) below,] a calling-up notice shall cease to have effect for the purpose of a sale in the exercise of any power conferred by the security on the expiration of a period of five years, which period shall run—
+
+(a) in the case where the subjects of the security, or any part thereof, have not been offered for or exposed to sale, from the date of the notice,
+
+(b) in the case where there has been such an offer or exposure, from the date of the last offer or exposure.
+
+[[^F75](12) A calling-up notice calling up a standard security over land or a real right in land used to any extent for residential purposes ceases to have effect on the expiration of a period of 5 years from the date of the notice.]
+
+### 19A [[^F76] Notice to occupier of calling-up
+
+(1) Where a creditor in a standard security over [[^F77]land or a real right] in land used to any extent for residential purposes serves a calling-up notice, he shall serve a notice in conformity with Form BB (notice to occupier) of Schedule 6 to this Act together with a copy of the calling-up notice.
+
+(2) Notices under subsection (1) above shall be sent by recorded delivery letter addressed to “The Occupier” at the security subjects.
+
+(3) If a creditor fails to comply with subsections (1) and (2) above, the calling-up notice shall be of no effect.]
+
+### 19B [[^F78]Notice to local authority of calling-up
+
+(1) Where a creditor in a standard security over an interest in land used to any extent for residential purposes serves a calling-up notice, the creditor shall give notice of that fact to the local authority in whose area the security subjects are situated, unless the creditor is that local authority.
+
+(2) Notice under subsection (1) shall be given in the form and manner prescribed under section 11(3) of the Homelessness etc. (Scotland) Act 2003 (asp 10).]
+
+### 20 Exercise of rights of creditor on default of debtor in complying with a calling-up notice.
+
+(1) Where the debtor in a standard security is in default within the meaning of standard condition 9(1)(a), the creditor may exercise such of his rights under the security as he may consider appropriate, and any such right shall be in addition to and not in derogation from any other remedy arising from the contract to which the security relates or from any right conferred by any enactment or by any rule of law on the creditor in a heritable security.
+
+(2) Where the debtor is in default as aforesaid, the creditor shall have the right to sell the security subjects, or any part thereof, in accordance with the provisions of this Part of this Act.
+
+[[^F79](2A) Where the standard security is over land or a real right in land used to any extent for residential purposes, the creditor is entitled to exercise the rights specified in standard condition 10(2) and (3) (and mentioned in subsections (1) and (2) above) only—
+
+(a) where the conditions in section 23A of this Act are satisfied, or
+
+(b) with the warrant of the court, granted on an application under section 24 of this Act.]
+
+(3) A creditor in a standard security who is in lawful possession of the security subjects may let the security subjects, or any part thereof, for any period not exceeding seven years, or may make application to the court for warrant to let those subjects, or any part thereof, for a period exceeding seven years, and the application shall state the proposed tenant, and the duration and conditions of the proposed lease, and shall be served on the proprietor of the subjects and on any other heritable creditor having interest as such a creditor in the subjects.
+
+(4) The court, on such an application as aforesaid and after such inquiry and such further intimation of the application as it may think fit, may grant the application as submitted, or subject to such variation as it may consider reasonable in all the circumstances of the case, or may refuse the application.
+
+(5) There shall be deemed to be assigned to a creditor who is in lawful possession of the security subjects all rights and obligations of the proprietor relating to—
+
+(a) leases, or any permission or right of occupancy, granted in respect of those subjects or any part thereof, and
+
+(b) the management and maintenance of the subjects and the effecting of any reconstruction, alteration or improvement reasonably required for the purpose of maintaining the market value of the subjects.
+
+### 21 Notice of default.
+
+(1) Where the debtor in a standard security is in default within the meaning of standard condition 9(1)(b), and the default is remediable, the creditor may, without prejudice to any other powers he may have by virtue of this Act or otherwise, proceed in accordance with the provisions of this section to call on the debtor and on the proprietor, where he is not the debtor, to purge the default.
+
+(2) For the aforesaid purpose the creditor may serve on the debtor and, as the case may be, on the proprietor a notice in conformity with Form B of Schedule 6 to this Act (hereinafter in this Act referred to as a “notice of default”) which shall be served in the like manner and with the like requirements as to proof of service as a calling-up notice.
+
+[[^F80](2A) [[^F81] Sections 19A and 19B of this Act apply ]where the creditor serves a notice of default as [[^F82]they apply] where he serves a calling-up notice.]
+
+(3) For the purpose of dispensing with, or shortening, the period of notice mentioned in a notice of default, [[^F83]subsections (10) and (10B) of section 19 of this Act shall apply as they apply] in relation to a calling-up notice.
+
+(4) Notwithstanding the failure to comply with any requirement contained in the notice, a notice of default shall cease to be authority for the exercise of the rights mentioned in section 23(2) of this Act on the expiration of a period of five years from the date of the notice.
+
+### 22 Objections to notice of default.
+
+(1) Where a person on whom a notice of default has been served considers himself aggrieved by any requirement of that notice he may, within a period of fourteen days of the service of the notice, object to the notice by way of application to the court; and the applicant shall, not later than the lodging of that application, serve a copy of his application on the creditor, and on any other party on whom the notice has been served by the creditor.
+
+(2) On any such application the court, after hearing the parties and making such inquiry as it may think fit, may order the notice appealed against to be set aside, in whole or in part, or otherwise to be varied, or to be upheld.
+
+(3) The respondent in any such application may make a counter-application craving for any of the remedies conferred on him by this Act or by any other enactment relating to heritable securities, and the court may grant any such remedy as aforesaid as it may think proper.
+
+(4) For the purposes of such a counter-application as aforesaid, a certificate which conforms with the requirements of Schedule 7 to this Act may be lodged in court by the creditor, and that certificate shall be *prima facie* evidence of the facts directed by the said Schedule to be contained therein.
+
+### 23 Rights and duties of parties after service of notice of default to which objection is not taken, or where the notice is not set aside.
+
+(1) Where a person does not object to a notice of default in accordance with the provisions of the last foregoing section, or where he has so objected and the notice has been upheld or varied under that section, it shall be his duty to comply with any requirement, due to be performed or fulfilled by him, contained in the notice or, as the case may be, in the notice as so varied.
+
+(2) Subject to the provisions of section 21(4) of this Act [[^F84]and subsection (4) below], where a person fails to comply as aforesaid, the creditor, subject to the next following subsection, may proceed to exercise such of his rights on default under standard condition 10(2), (6) and (7) as he may consider appropriate.
+
+(3) At any time after the expiry of the period stated in a notice of default, or in a notice varied as aforesaid, but before the conclusion of any enforceable contract to sell the security subjects, or any part thereof, by virtue of the last foregoing subsection, the debtor or proprietor [[^F85](being in either case a person entitled to redeem the security)] may, subject to any agreement to the contrary, redeem the security without the necessity of observance of any requirement as to notice.
+
+[[^F86](4) Where the standard security is over land or a real right in land used to any extent for residential purposes—
+
+(a) the creditor is entitled to exercise the right specified in standard condition 10(2) only—
+
+(i) where the conditions in section 23A of this Act are satisfied, or
+
+(ii) with the warrant of the court, granted on an application under section 24 of this Act, and
+
+(b) subsection (3) above has effect as if the reference to the last foregoing subsection were a reference to section 24 of this Act.]
+
+### 23A [[^F87]Voluntary surrender of residential property following calling-up notice or notice of default
+
+(1) The conditions referred to in sections 20(2A)(a) and 23(4)(a)(i) are that—
+
+(a) the security subjects are unoccupied; and
+
+(b) each of the persons specified in subsection (2) below has, in writing—
+
+(i) certified that that person does not occupy the security subjects and is not aware of the security subjects being occupied by any other person;
+
+(ii) consented to the exercise by the creditor of the creditor's rights on default; and
+
+(iii) certified that the consent is given freely and without coercion of any kind.
+
+(2) Those persons are—
+
+(a) the debtor;
+
+(b) the proprietor of the security subjects (where the proprietor is not the debtor);
+
+(c) the non-entitled spouse of the debtor or the proprietor of security subjects which are (in whole or in part) a matrimonial home;
+
+(d) the non-entitled civil partner of the debtor or the proprietor of security subjects which are (in whole or in part) a family home; and
+
+(e) a person who has occupancy rights in the security subjects by virtue of an order under section 18(1) (occupancy rights of cohabiting couples) of the Matrimonial Homes (Family Protection) (Scotland) Act 1981.
+
+(3) In this section—
+
+- “family home” has the meaning given by section 135(1) of the Civil Partnership Act 2004;
+- “matrimonial home” has the meaning given by section 22 of the Matrimonial Homes (Family Protection) (Scotland) Act 1981;
+- “non-entitled civil partner” has the same meaning as “non-entitled partner” in section 101(1) of the Civil Partnership Act 2004;
+- “non-entitled spouse” has the meaning given by section 1 of the Matrimonial Homes (Family Protection) (Scotland) Act 1981.]
+
+### 24 Application by creditor to court for remedies on default.
+
+(1) Without prejudice to his proceeding by way of notice of default in respect of a default within the meaning of standard condition 9(1)(b), a creditor in a standard security, where the debtor is in default within the meaning of that standard condition or standard condition 9(1)(c), may apply to the court for warrant to exercise any of the remedies which he is entitled to exercise on a default within the meaning of standard condition 9(1)(a).
+
+[[^F88](1A) Subsection (1) above does not apply in relation to a creditor in a standard security over land or a real right in land used to any extent for residential purposes.
+
+(1B) A creditor in a standard security of that kind may, where the debtor is in default within the meaning of paragraph (a), (b) or (c) of standard condition 9(1), apply to the court for warrant to exercise any of the remedies which the creditor is entitled to exercise on a default within the meaning of standard condition 9(1)(a).
+
+(1C) Before making an application under subsection (1B) above the creditor must comply with the pre-action requirements imposed by section 24A of this Act.
+
+(1D) An application under subsection (1B) above is to be made by summary application (regardless of whether it includes a crave for any other remedy).]
+
+(2) For the purposes of [[^F89]an application under subsection (1) or (1B)] in respect of a default within the meaning of standard condition 9(1)(b), a certificate which conforms with the requirements of Schedule 7 to this Act may be lodged in court by the creditor, and that certificate shall be *prima facie* evidence of the facts directed by the said Schedule to be contained therein.
+
+[[^F90](3) Where the creditor applies to the court under [[^F91]subsection (1B)] above, he shall, [^F92]. . . —
+
+(a) serve on the debtor and (where the proprietor is not the debtor) on the proprietor a notice in conformity with Form E of Schedule 6 to this Act, [^F93]. . .
+
+(b) serve on the occupier of the security subjects a notice in conformity with Form F of that Schedule[[^F94], and
+
+(c) give notice of the application to the local authority in whose area the security subjects are situated, unless the creditor is that local authority.]
+
+(4) Notices under subsection [[^F95](3)(a) or (b)] above shall be sent by recorded delivery letter addressed—
+
+(a) in the case of a notice under subsection (3)(a), to the debtor or, as the case may be, the proprietor at his last known address,
+
+(b) in the case of a notice under subsection (3)(b), to “The Occupier” at the security subjects.]
+
+[[^F96](4A) Notice under subsection (3)(c) above shall be given in the form and manner prescribed under section 11(3) of the Homelessness etc. (Scotland) Act 2003 (asp 10).]
+
+[[^F97](5) The court may, on an application under subsection (1B) above, continue the proceedings or make any other order that it thinks fit; but it may not grant the application unless it is satisfied that—
+
+(a) the creditor has complied with subsection (1C) above; and
+
+(b) it is reasonable in the circumstances of the case to do so.
+
+(6) In considering an application under subsection (1B) above where the debtor appears or is represented, the court is to have regard in particular to the matters set out in subsection (7) below.
+
+(7) Those matters are—
+
+(a) the nature of and reasons for the default;
+
+(b) the ability of the debtor to fulfil within a reasonable time the obligations under the standard security in respect of which the debtor is in default;
+
+(c) any action taken by the creditor to assist the debtor to fulfil those obligations;
+
+(d) where appropriate, participation by the debtor in a debt payment programme approved under Part 1 of the Debt Arrangement and Attachment (Scotland) Act 2002; and
+
+(e) the ability of the debtor and any other person residing at the security subjects to secure reasonable alternative accommodation.
+
+(8) Subsections (5) and (6) above do not affect—
+
+(a) any power that the court may have; or
+
+(b) any rights that the debtor may have,
+
+by virtue of any other enactment or rule of law.
+
+(9) Where—
+
+(a) the default in respect of which an application is made under subsection (1B) above is a default within the meaning of paragraph (a) or (b) of standard condition 9(1); and
+
+(b) before a decree is granted on the application, the obligations under the standard security in respect of which the debtor is in default are fulfilled,
+
+the standard security has effect as if the default had not occurred.]
+
+[[^F98](10) For the avoidance of doubt, a decree granted on an application under subsection (1B) above is not an order for possession of a house let on an assured tenancy (within the meaning of Part II of the Housing (Scotland) Act 1988 (c.43)).]
+
+### 24A [[^F99]Section 24(1B) proceedings: pre-action requirements
+
+(1) The pre-action requirements referred to in section 24(1C) of this Act are set out in subsections (2) to (6) below.
+
+(2) The creditor must provide the debtor with clear information about—
+
+(a) the terms of the standard security;
+
+(b) the amount due to the creditor under the standard security, including any arrears and any charges in respect of late payment or redemption; and
+
+(c) any other obligation under the standard security in respect of which the debtor is in default.
+
+(3) The creditor must make reasonable efforts to agree with the debtor proposals in respect of future payments to the creditor under the standard security and the fulfilment of any other obligation under the standard security in respect of which the debtor is in default.
+
+(4) The creditor must not make an application under section 24(1B) of this Act if the debtor is taking steps which are likely to result in—
+
+(a) the payment to the creditor within a reasonable time of any arrears, or the whole amount, due to the creditor under the standard security; and
+
+(b) fulfilment by the debtor within a reasonable time of any other obligation under the standard security in respect of which the debtor is in default.
+
+(5) The creditor must provide the debtor with information about sources of advice and assistance in relation to management of debt.
+
+(6) The creditor must encourage the debtor to contact the local authority in whose area the security subjects are situated.
+
+(7) In complying with the pre-action requirements the creditor must have regard to any guidance issued by the Scottish Ministers.
+
+(8) The Scottish Ministers may by order made by statutory instrument make further provision about the pre-action requirements, including provision—
+
+(a) specifying particular steps to be taken, or not to be taken, by a creditor in complying with any requirement;
+
+(b) modifying or removing any requirement;
+
+(c) making different provision for different circumstances.
+
+(9) A statutory instrument containing an order under subsection (8) above is not to be made unless a draft of the instrument has been laid before, and approved by resolution of, the Scottish Parliament.]
+
+### 24B [[^F100]Section 24(1B) applications: application to court by entitled residents
+
+(1) An entitled resident may, in proceedings on an application under section 24(1B) of this Act, apply to the court to continue the proceedings or make any other order that the court thinks fit, despite not being called as a defender in the application.
+
+(2) In determining an application under subsection (1) above the court is to have regard in particular to the matters set out in subsection (7) of section 24, reading the first reference to the debtor in paragraph (b) as including a reference to the entitled resident.
+
+(3) Subsection (2) above does not affect—
+
+(a) any power that the court may have; or
+
+(b) any rights that an entitled resident may have,
+
+under any other enactment or rule of law.
+
+### 24C Entitled residents: definition
+
+(1) For the purposes of sections 24B, 24D and 24E, an entitled resident is a person whose sole or main residence is the security subjects (in whole or in part) and who is—
+
+(a) the proprietor of the security subjects (where the proprietor is not the debtor in the standard security);
+
+(b) the non-entitled spouse of the debtor or the proprietor of security subjects which are (in whole or in part) a matrimonial home;
+
+(c) the non-entitled civil partner of the debtor or the proprietor of security subjects which are (in whole or in part) a family home;
+
+(d) a person living together with the debtor or the proprietor as husband and wife;
+
+(e) a person living together with the debtor or the proprietor in a relationship which has the characteristics of the relationship between civil partners;
+
+(f) a person who lived together with the debtor or the proprietor in a relationship described in paragraph (d) or (e) if—
+
+(i) the security subjects (in whole or in part) are not the sole or main residence of the debtor or the proprietor;
+
+(ii) the person lived together with the debtor or the proprietor throughout the period of 6 months ending with the date on which the security subjects ceased to be the sole or main residence of the debtor or the proprietor; and
+
+(iii) the security subjects (in whole or in part) are the sole or main residence of a child aged under 16 who is a child of both parties in that relationship.
+
+(2) In this section—
+
+- “child” includes a stepchild and any person brought up, or treated, by both parties to the relationship as their child;
+- “family home” has the meaning given by section 135(1) of the Civil Partnership Act 2004;
+- “matrimonial home” has the meaning given by section 22 of the Matrimonial Homes (Family Protection) (Scotland) Act 1981;
+- “non-entitled civil partner” has the same meaning as “non-entitled partner” in section 101(1) of the Civil Partnership Act 2004;
+- “non-entitled spouse” has the meaning given by section 1 of the Matrimonial Homes (Family Protection) (Scotland) Act 1981.]
+
+### 24D [[^F101]Section 24(1B) proceedings: recall of decree
+
+(1) A person mentioned in subsection (2) below may apply to the court for recall of a decree granted on an application under section 24(1B) of this Act.
+
+(2) Those persons are—
+
+(a) the creditor;
+
+(b) the debtor, but only if the debtor did not appear and was not represented in the proceedings on the application under section 24(1B);
+
+(c) an entitled resident, but only if the entitled resident did not make an application under section 24B(1) in the proceedings.
+
+(3) An application under subsection (1) may be made at any time before the decree has been fully implemented.
+
+(4) An application by any person under subsection (1) above is not competent if an application under that subsection has already been made by that person in relation to the application under section 24(1B).
+
+(5) An applicant under subsection (1) above must give notice of the application to—
+
+(a) the creditor (unless the applicant is the creditor);
+
+(b) the debtor (unless the applicant is the debtor);
+
+(c) every entitled resident (or, if the applicant is an entitled resident, every other entitled resident).]
+
+### 24E [[^F102]Lay representation in section 24(1B) proceedings etc.
+
+(1) In proceedings under sections 24(1B) and 24D(1) of this Act, the debtor and any entitled resident may be represented by an approved lay representative except in prescribed circumstances.
+
+(2) An approved lay representative must throughout the proceedings satisfy the sheriff that the representative is a suitable person to represent the debtor or entitled resident and is authorised by the debtor or entitled resident to do so.
+
+(3) References in this section to an approved lay representative are to an individual (other than an advocate or solicitor) approved for the purposes of this section by a person or body prescribed, or of a description prescribed, by the Scottish Ministers by order made by statutory instrument.
+
+(4) An order under subsection (3) above may—
+
+(a) prescribe persons or bodies, or descriptions of persons or bodies, for the purposes of that subsection;
+
+(b) make provision about the procedure for, and form and manner of—
+
+(i) approval,
+
+(ii) withdrawal of approval,
+
+of an individual for the purposes of this section;
+
+(c) make provision requiring a prescribed person or body, or a person or body of a prescribed description, to provide information to the Scottish Ministers about approvals and withdrawals of approval;
+
+(d) prescribe circumstances in which an approved lay representative may not represent a debtor or entitled resident.
+
+(5) Before making an order under subsection (3) above the Scottish Ministers must consult the Lord President of the Court of Session.
+
+(6) A statutory instrument containing an order under subsection (3) above is subject to annulment in pursuance of a resolution of the Scottish Parliament.]
+
+### 25 Exercise of power of sale.
+
+A creditor in a standard security having right to sell the security subjects may [[^F103], subject to sections 37(5)(e) or 40(1) of the Land Reform (Scotland) Act 2003 (asp 2) (prohibition of transfer of land registered under that Act except in accordance with its provisions),] exercise that right either by private bargain or by exposure to sale, and in either event it shall be the duty of the creditor to advertise the sale and to take all reasonable steps to ensure that the price at which all or any of the subjects are sold is the best that can be reasonably obtained.
+
+### 26 Disposition by creditor on sale.
+
+(1) Where a creditor in a standard security has effected a sale of the security subjects, or any part thereof, and grants to the purchaser or his nominee a disposition of the subjects sold thereby, which bears to be in implement of the sale, then, on that disposition being duly [[^F104]registered or] recorded, those subjects shall be disburdened of the standard security and of all other heritable securities and diligences ranking*pari passu*with, or postponed to that security.
+
+(2) Where on a sale as aforesaid the security subjects remain subject to a prior security, the [[^F105]registration or] recording of a disposition under the foregoing subsection shall not affect the rights of the creditor in that security, but the creditor who has effected the sale shall have the like right as the debtor to redeem the security.
+
+### 27 Application of proceeds of sale.
+
+(1) The money which is received by the creditor in a standard security, arising from any sale by him of the security subjects, shall be held by him in trust to be applied by him in accordance with the following order of priority—
+
+(a) first, in payment of all expenses properly incurred by him in connection with the sale, or any attempted sale;
+
+(b) secondly, in payment of the whole amount due under any prior security to which the sale is not made subject;
+
+(c) thirdly, in payment of the whole amount due under the standard security, and in payment, in due proportion, of the whole amount due under a security, if any, ranking *pari passu* with his own security, which has been duly [[^F106]registered or] recorded;
+
+(d) fourthly, in payment of any amounts due under any securities with a ranking postponed to that of his own security, according to their ranking,
+
+and any residue of the money so received shall be paid to the person entitled to the security subjects at the time of sale, or to any person authorised to give receipts for the proceeds of the sale thereof.
+
+(2) Where owing to the death or absence of any other creditor, or to any other cause, a creditor is unable to obtain a receipt or discharge for any payment he is required to make under the provisions of the foregoing subsection, he may, without prejudice to his liability to account therefor, consign the amount due (so far as ascertainable) in the sheriff court for the person appearing to have the best right thereto; and where consignation is so made, the creditor shall lodge in court a statement of the amount consigned.
+
+(3) A consignation made in pursuance of the last foregoing subsection shall operate as a discharge of the payment of the amount due, and a certificate under the hand of the sheriff clerk shall be sufficient evidence thereof.
+
+### 28 Foreclosure.
+
+(1) Where the creditor in a standard security has exposed the security subjects to sale at a price not exceeding the amount due under the security and under any security ranking prior to, or *pari passu* with, the security, and has failed to find a purchaser, or where, having so failed, he has succeeded in selling only a part of the subjects at a price which is less than the amount due as aforesaid, he may, on the expiration of a period of two months from the date of the first exposure to sale, apply to the court for a decree of foreclosure.
+
+(2) In any application under the last foregoing subsection the creditor shall lodge a statement setting out the whole amount due under the security but, without prejudice to the right of the debtor or of the proprietor to challenge that statement, it shall be sufficient for the purposes of the application for the creditor to establish to the satisfaction of the court that the amount so stated is not less than the price at which the security subjects have been exposed to sale or sold, where part of the subjects has been sold as aforesaid.
+
+(3) Any application under subsection (1) of this section shall be served on the debtor in the standard security, the proprietor of the security subjects (if he is a person other than the debtor) and the creditor in any other heritable security affecting the security subjects as disclosed by a search of the Register of Sasines for a period of twenty years immediately preceding the last date to which the appropriate Minute Book of the said Register has been completed at the time when the application is made [[^F107]or by an examination of the title sheet of the security subjects in the Land Register of Scotland.]
+
+(4) The court may order such intimation and inquiry as it thinks fit and may in its discretion allow the debtor or the proprietor of the security subjects a period not exceeding three months in which to pay the whole amount due under the security and, subject to any such allowance, may—
+
+(a) appoint the security subjects or the unsold part thereof to be re-exposed to sale at a price to be fixed by the court, in which event the creditor in the security may bid and purchase at the sale, or
+
+(b) grant a decree of foreclosure in conformity with the provisions of the next following subsection.
+
+(5) A decree of foreclosure shall contain a declaration that on the extract of the decree being duly [[^F108]registered or] recorded, [[^F109]any right to redeem the security] has been extinguished and that the creditor has right to the security subjects or the unsold part thereof, described by means of a particular description or by reference to a description thereof as in Schedule D to the [^M3]Conveyancing (Scotland) Act 1924 or in Schedule G to the [^M4]Titles to Land Consolidation (Scotland) Act 1868, including a reference to any conditions or clauses affecting the subjects or the unsold part thereof [[^F110]or in accordance with [[^F111]the Land Registration etc. (Scotland) Act 2012 (asp 5)]] , at the price at which the said subjects were last exposed to sale under deduction of the price received for any part thereof sold, and shall also contain a warrant [[^F112]for registering the extract of the decree in the Land Register of Scotland or] for recording the extract of the decree in the Register of Sasines.
+
+(6) Upon an extract of the decree of foreclosure being duly [[^F113]registered or] recorded, the following provisions of this subsection shall have effect in relation to the security subjects to which the decree relates—
+
+(a) [[^F109]any right to redeem the security] shall be extinguished, and the creditor shall have right to, and be vested in, the subjects as if he had received an irredeemable disposition thereof duly [[^F113]registered or] recorded from the proprietor of the subjects at the date [[^F114]of the registration or] of the recording of the extract of the decree;
+
+(b) the subjects shall be disburdened of the standard security and all securities and diligences postponed thereto;
+
+(c) the creditor who has obtained the decree shall have the like right as the debtor to redeem any security prior to, or*pari passu*with, his own security.
+
+(7) Notwithstanding the due [[^F115]registration or] recording of an extract of a decree of foreclosure, any personal obligation of the debtor under the standard security shall remain in full force and effect so far as not extinguished by the price at which the security subjects have been acquired and the price for which any part thereof has been sold.
+
+(8) Where the security subjects or any part thereof have been acquired by a creditor in the security by virtue of a decree of foreclosure under the provisions of this section, the title thereto of the creditor shall not be challengeable on the ground of any irregularity in the proceedings for foreclosure or on calling-up or default which preceded it; but nothing in the provisions of this subsection shall affect the competency of any claim for damages in respect of such proceedings against the creditor.
+
+### 29 Procedure.
+
+(1) The court for the purposes of this Part of this Act, and for the operation of section 11 of the [^M5]Heritable Securities (Scotland) Act 1894 (application by *pari passu* creditor to sell), in relation to a standard security, shall be the sheriff having jurisdiction over any part of the security subjects, and the sheriff shall be deemed to have such jurisdiction whatever the value of the subjects.
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F116]
+
+### 30 Interpretation of Part II.
+
+(1) In this Part of this Act, unless the context otherwise requires, the following expressions have the meanings hereby respectively assigned to them, that is to say—
+
+- “creditor” and “debtor” shall include any successor in title, assignee or representative of a creditor or debtor;
+- “debt” and “creditor” and “debtor”, in relation to a standard security, have the meanings assigned to them by section 9(8) of this Act;
+- [[^F117]“duly registered or recorded” means registered in the Land Register of Scotland or recorded in the Register of Sasines;]
+- “exposure to sale” means exposure to sale by public roup, and exposed or re-exposed to sale shall be construed accordingly;
+- “heritable security” has the meaning assigned to it by the said section 9(8);
+- [[^F118]“real right in land” has the meaning assigned to it by the said section 9(8);]
+- [[^F119]“recorded” means recorded in the Register of Sasines;]
+- “Register of Sasines” means the appropriate division of the General Register of Sasines;
+- [[^F120]“registered” means registered in the Land Register of Scotland;]
+- “the standard conditions” are the conditions (whether varied or not) referred to in section 11(2) of this Act;
+- “whole amount due” has the meaning assigned to it by section 18(4) of this Act.
+
+(2) For the purpose of construing this Part of this Act in relation to the creation of a security over a registered lease and to any subsequent transactions connected with that security, the following expressions shall have the meanings hereby respectively assigned to them, that is to say—
+
+- “conveyance” or “disposition” means assignation;
+- “convey” or “dispone” means assign;
+- [^F121]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “proprietor” means lessee;
+- “security subjects” means a registered lease subject to a security.
+
+### 31 Saving.
+
+Nothing in the provisions of this Part of this Act shall affect the validity of any heritable security within the meaning of this Part which has been duly recorded before the commencement of this Act, and any such security may be dealt with, and shall be as capable of being enforced, as if this Part had not been passed.
+
+### 32 Application of enactments.
+
+The provisions of any enactment relating to a bond and disposition or assignation in security shall apply to a standard security, except in so far as such provisions are inconsistent with the provisions of this Part of this Act, but, without prejudice to the generality of that exception, the enactments specified in Schedule 8 to this Act shall not so apply.
+
+## Part III — Provisions as to Heritable Securities
+
+### 33 Form of notice calling-up heritable security.
+
+[^F122]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 34 Amendment of s. 34 of Act of 1924.
+
+[^F123]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 35 Power of creditor in bond and disposition in security to sell to include power to sell by private bargain.
+
+[^F124]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 36 Alteration of periods during which sale of land held in security is to be advertised.
+
+For section 38 of the Act of 1924 there shall be substituted the following section—
+
+> **38 Periods during which, and newspapers in which, advertisement required.**
+>
+> (1) An advertisement for the purposes of an exposure to sale shall be inserted at least once weekly during a period of not less than three consecutive weeks in accordance with the provisions of this section, and the exposure to sale so advertised shall take place within a period of fourteen days beginning with the day following the day of the publication of the third advertisement required under this subsection.
+>
+> (2) An advertisement for the purposes of an offer for sale by privat bargain shall be inserted in like manner during a period of not less than two consecutive weeks, and it shall be a requirement of a competent sale that an enforceable contract to sell shall be concluded within a period of twenty-eight days beginning with the day following the day of the publication of the second advertisement required under this subsection.
+>
+> (3) Insertion of an advertisement for the purposes of the two foregoing subsections shall be as follows, that is to say—
+>
+> (a) in the case of land situated in the county of Midlothian, in at least one daily newspaper published in Edinburgh;
+>
+> (b) in the case of land situated in the county of Lanark, in at least one daily newspaper published in Glasgow;
+>
+> (c) in the case of land situated elsewhere in Scotland, in at least one daily newspaper published in Scotland circulating in the district where the land or the main part thereof is situated and in at least one newspaper (if any) circulating as aforesaid and published either in the county in which the land, or any part thereof, is situated or in a county (being a county in Scotland) adjacent to that county.
+>
+> (4) A copy of an advertisement required by this section shall, when supported by a certificate of publication by the publisher, printer, or editor of the newspaper in which that advertisement is inserted, be sufficient evidence of the insertion and publication thereof.
+>
+> (5) For the purposes of this section—
+>
+> (a) “a week”means the period between midnight on Saturday night and midnight on the succeeding Saturday night, and
+>
+> (b) “exposure to sale” and “offer for sale” respectively include re-exposure to sale and re-offer for sale.
+
+### 37 Amendment of s. 40 of Act of Act of 1924.
+
+Section 40 of the Act of 1924 (exposure in lots and apportionment of feu-duty etc.) shall be amended as follows—
+
+(a) for the words from the beginning to the words “price or prices and,” there shall be substituted the words—
+
+> (1) The land, or any part thereof, may be exposed to, or offered for, sale either in whole or in lots, and in the former case at such upset price or prices as the creditor may think proper, and in the latter case at the best price that can be reasonably obtained,
+
+and
+
+(b) at the end there shall be added the following subsections—
+
+> (2) Where there is a sale as aforesaid in lots, the creditor shall have power to create such rights and impose such duties and conditions as he considers may be reasonably required for the proper management, maintenance and use of any part of the land to be held in common by the owners for the time being of the lots.
+>
+> (3) For the purpose of exercising the power conferred by the last foregoing subsection, a creditor shall have the like right as has a proprietor by virtue of section 32 of the [^M6]Conveyancing (Scotland) Act 1874 to execute and record to the like effect a deed of declaration of conditions in the manner prescribed by that section.
+
+.
+
+### 38 Amendment of s. 41 of Act of 1924.
+
+For subsection (2) of section 41 of the Act of 1924 (protection of purchasers) there shall be substituted the following subsection—
+
+> (2) Where a disposition of land is duly recorded in the appropriate Register of Sasines and that disposition bears to be granted in the exercise of a power of sale contained in a deed granting a bond and disposition in security, and the exercise of that power was*ex facie*regular, the title of a*bona fide*purchaser of the land for value shall not be challengeable on the ground that the debt had ceased to exist, unless that fact appeared in the said Register, or was known to the purchaser prior to the payment of the price, or on the ground of any irregularity relating to the sale or in any preliminary procedure thereto; but nothing in the provisions of this subsection shall affect the competency of any claim for damages in respect of the sale of the land against the person exercising the said power.
+
+;
+
+but in relation to a disposition duly recorded before the commencement of this Act the said subsection shall continue to have effect as originally enacted.
+
+### 39 Amendment of s. 8 of Act of 1894.
+
+[^F125]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 40 Discharge of heritable security constituted byex facieabsolute conveyance.
+
+(1) Where land is held in security by virtue of a heritable security constituted by*ex facie*absolute conveyance, whether qualified by a back letter or not, a discharge by the creditor in security in conformity with Schedule 9 to this Act, either as a separate deed or as a deed endorsed on the conveyance, shall, as from the date on which that discharge is duly recorded, discharge that heritable security, disburden the land to the extent that it is the subject of the security, and vest that land in the person entitled thereto in like manner and to the like effect as if a conveyance containing a clause of warrandice from fact and deed only and all other usual and necessary clauses had been granted by the creditor to that person and duly recorded.
+
+(2) Nothing in the provisions of the foregoing subsection shall affect any method of granting a discharge in existence at the commencement of this Act.
+
+### 41 Restriction on effect of reduction of certain discharges of securities.
+
+(1) Where the discharge, in whole or in part, of a security over land is duly recorded, whether before or after the commencement of this Act, and that discharge bears to be granted by a person entitled so to do, the title of a person [[^F126]who subsequently acquires the land or a real right in or over it] *bona fide* and for value, shall not be challengeable, after the expiration of a period of five years commencing with the date of the recording of the discharge, by reason only of the recording of an extract of a decree of reduction of the discharge, whether or not the date of that decree was before or after the date on which the acquisition [^F127]. . . was duly recorded.
+
+(2) Section 46 of the Act of 1924 (which requires extract decrees of reduction of certain deeds to be recorded) shall cease to apply in relation to a decree of reduction of a discharge of a security where that discharge has been duly recorded for a period of five years or more, but the provisions of this subsection shall not preclude the recording of such a decree of reduction as provided for in the said section 46.
+
+(3) Nothing in the provisions of this section shall affect any rights of a creditor in a security as against the debtor therein.
+
+(4) The provisions of this section shall not be pleadable to any effect in any action begun, whether before or after the date of the commencement of this Act, before the expiry of a period of two years beginning with that date.
+
+[[^F128](5) This section shall apply to an order under section 8 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 rectifying a discharge as it applies to a decree of reduction of a discharge]
+
+### 42 Extension of s. 13 to certain existing forms of heritable securities.
+
+Section 13 of this Act shall apply, in relation to the effect on the preference in ranking of any heritable security, constituted by *ex facie* absolute disposition or assignation, as it applies to the preference in ranking of a standard security.
+
+### 43 Interpretation of Part III.
+
+(1) In this Part of this Act, unless the context otherwise requires, the following expressions have the meanings hereby respectively assigned to them, that is to say—
+
+- [^F129]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “the Act of 1924” means the [^M7]Conveyancing (Scotland) Act 1924;
+- “land” has the meaning assigned to it by section 2(1) of the Act of 1924.
+
+(2) For the purpose of construing this Part of this Act in relation to the creation of a security over a registered lease and to any subsequent transactions connected with that security, section 30(2) shall apply as it applies to Part II of this Act, and any reference to a security over land, however expressed, shall be construed as a reference to a registered lease subject to a security, and “land” shall be construed accordingly.
+
+## Part IV — Other Conveyancing Reforms
+
+### 44 [^F130] Alteration of rules as to probative deeds.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 45 Status of sasine extracts.
+
+An extract, whether issued before or after the commencement of this Act, of a conveyance, deed, instrument or other document bearing to have been recorded in the Register of Sasines shall be accepted for all purposes as sufficient evidence of the contents of the original so recorded and of any matter relating thereto appearing on the extract.
+
+### 46 Effect of conditions as to pre-emption.
+
+(1) For the avoidance of doubt, in section 9 of the [^M8]Conveyance Amendment (Scotland) Act 1938 (which limits the effect of conditions as to pre-emption), subsection (1) shall have effect subject to the following amendments—
+
+(a) by inserting after the words “by the proprietor of the feu” the words “(whether or not that right purports to be exercisable on more than one occasion)”; and
+
+(b) by substituting for the words “intimate his intention to exercise such right of pre-emption” the words “accept the offer.”.
+
+(2) In the said subsection, for the reference to forty days there shall be substituted a reference to twenty-one days.
+
+### 47 Abolition of requirement to specify granter’s title in certain deeds.
+
+The provisions of Part I of Schedule 10 and Part I of Schedule 11 to this Act shall apply for the purpose of abolishing the requirement that in certain cases the granter of a deed who has a duly recorded title must specify his title in the deed.
+
+### 48 Abolition of forms of assignation of unrecorded conveyances, etc., and of completion of title by recording of such assignations.
+
+The provisions of Part II of Schedule 11 to this Act shall apply for the purpose of repealing certain provisions for the assignation of unrecorded conveyances, deeds and leases and for the completion of title by assignees under such assignations by the recording of the conveyance, deed or lease together with the assignation.
+
+## Part V — Miscellaneous
+
+### 49 Abolition of heritor’s right of pre-emption of glebe.
+
+[^F131]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 50 Amendment of Lands Tribunal Act 1949.
+
+(1) [^F132]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(2) In section 3 of the principal Act (procedure, appeals costs and fees), for paragraphs (a), (b) and (c) of subsection (12) there shall be substituted the following paragraphs:—
+
+> (a) for subsection (4) of this section there shall be substituted the following subsection:—
+>
+> “ Section 9 of the [^M9] Tribunals and Inquiries Act 1958 (appeals from certain tribunals) shall apply, subject to the modifications specified in subsection (6) of that section, to proceedings before the Lands Tribunal as it applies to proceedings before the tribunals referred to in subsection (1) of that section.”;
+>
+> (b) for paragraph (c) of subsection (6) of this section there shall be substituted the following paragraph:—
+>
+> “ provide for requiring persons to attend to give evidence and produce documents, and for authorising the administration of oaths and witnesses, and for granting to any person such recovery of documents as might be granted by the Court of Session. ”;
+>
+> (c) any person who without reasonable excuse fails to comply with any requirement imposed by rules under this section in accordance with paragraph (c) of subsection (6) of thsi section shall be guilty of an offence and liable on summary conviction to a fine not exceeding £50 or imprisonment for a term not exceeding three months or both;
+>
+> (d) any order of the Tribunal may be recorded for execution in the Books of Council and session and shall be enforceable accordingly;
+>
+> (e) the rule-making authority for the purposes of this Act shall be the Secretary of State.
+
+.
+
+## Part VI — General
+
+### 51 Application to Crown.
+
+This Act shall, subject to any exceptions stated therein, apply to land [[^F133]owned by the Crown or by] the Prince and Steward of Scotland, and to land in which there is any other interest belonging to Her Majesty in right of the Crown or to a Government department, or held on behalf of Her Majesty for the purposes of a Government department, in like manner as it applies to other land.
+
+### 52 Saving, amendment and repeal.
+
+(1) Any procedure, notice, advertisement, certificate or warrant instituted, given or granted, or any other thing done under any enactment amended or disapplied by this Act, shall not be invalidated by the coming into force of that amendment or disapplication, but it and any sale or other proceedings dependent thereon shall have effect as if this Act had not come into operation.
+
+(2) The enactments specified in Schedule 10 to this Act shall have effect subject to the amendments specified in that Schedule, being minor amendments and amendments consequential on the provisions of this Act.
+
+(3) The enactments specified in Schedule 11 to this Act are hereby repealed to the extent specified in relation thereto in that Schedule.
+
+### 53 Interpretation.
+
+(1) It shall be sufficient compliance with any provisions in this Act which require any deed, notice, certificate or procedure to be in conformity with a Form or Note, or other requirement of this Act, that that deed, notice, certificate or procedure so conforms as closely as may be, and nothing in this Act shall preclude the inclusion of any additional matter which the person granting the deed or giving or serving the notice or giving the certificate or adopting the procedure may consider relevant.
+
+(2) In any Form prescribed by Schedules 2,4,5,6 and 9 to this Act, and in any Note to those Schedules, the expression “Register for” means the Register of Sasines appropriate for.
+
+(3) Any reference in this Act to any other enactment is a reference thereto as amended, and includes a reference thereto as extended or applied, by or under any other enactment, including this Act.
+
+(4) In this Act, except Part II, unless the context otherwise requires—
+
+- “conveyance”, “deed” and “instrument” have the meanings assigned to them in section 3 of the [^M10]Titles to Land Consolidation (Scotland) Act 1868, section 3 of the [^M11]Conveyancing (Scotland) Act 1874, and section 2 of the [^M12]Conveyancing (Scotland) Act 1924;
+- [[^F134]“duly registered or recorded” means registered in the Land Register of Scotland or recorded in the Register of Sasines;]
+- “Lands Tribunal” means the Lands Tribunal for Scotland;
+- [^F135]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “Register of Sasines” has the meaning assigned to it in section 2 of the Conveyancing (Scotland) Act 1924.
+
+### 54 Short title, commencement and extent.
+
+(1) This Act may be cited as the Conveyancing and Feudal Reform (Scotland) Act 1970
+
+(2) This Act shall come into operation—
+
+(a) except as respects sections 1 to 6, section 50, sections 51 to 53 in so far as they relate to those sections, and this section, at the expiration of a period of six months beginning with the date on which it is passed,
+
+(b) as respects sections 1 to 6 and sections 51 to 53 in so far as they relate to those sections, on such date as the Secretary of State may by order made by statutory instrument appoint, and different days may be appointed for different provisions,
+
+(c) as respects section 50, sections 51 to 53 in so far as they relate thereto, and this section, on the passing of this Act;
+
+and any reference in any provision of this Act to the commencement of this Act shall, unless otherwise provided by any such order, be construed as a reference to the date on which that provision comes into operation.
+
+(3) This Act shall extend to Scotland only.
+
+## [^F136][^F136]SCHEDULE 1
+
+**1** An obligation to pay feuduty, ground annual, rent, skat, dry multure, teind, stipend, standard charge or other payment of a like nature, or an obligation of relief relating to any such payment.
+
+**2** An obligation, however constituted, relating to the right to work minerals or to any ancillary right in relation to minerals within the meaning of section 2 of the [^M13]Mines (Working Facilities and Support) Act 1966.
+
+**3** An obligation imposed by or on behalf of the Crown for the protection of any royal park, garden or palace.
+
+**4** An obligation created or imposed—
+
+(i) for naval, military or air force purposes;
+
+(ii) for civil aviation purposes under the powers conferred by section 19 or 23 of the [^M14]Civil Aviation Act 1949 or any enactment replaced thereby:
+
+Provided that this paragraph—
+
+(i) shall exclude the application of section 1 of this Act to an obligation falling within sub-paragraph (i) above, and not created or imposed in connection with the use of any land as an aerodrome, only so long as the obligation is enforceable by or on behalf of the Crown; and
+
+(ii) shall exclude the application of section 1 of this Act to an obligation falling within sub-paragraph (ii) above, or created or imposed in connection with the use of any land as an aerodrome, only so long as the obligation is enforceable by or on behalf of the Crown or any public or international authority.
+
+**5** An obligation created or imposed in or in relation to a lease [^F137]. . . —
+
+[[^F138](a) constituting a 1991 Act tenancy, within the meaning of the Agricultural Holdings (Scotland) Act 2003 (asp 11);
+
+(aa) constituting a short limited duration tenancy or a limited duration tenancy, within the meaning of that Act;]
+
+(b) [[^F139]of] a holding, within the meaning of the Small Landholders (Scotland) Acts 1886 to 1931; or
+
+(c) [[^F139]of] a croft, within the meaning of the [^M15]Crofters (Scotland) Act 1955.
+
+## SCHEDULE 2 — Forms of Standard Security
+
+*Sections 9 and 10.*
+
+### Form A
+
+[To be used where the personal obligation is included in the deed]
+
+I, A.B. (*designation*), hereby undertake to pay to C.D. (*designation*), the sum of £ (*or* a maximum sum of £ ) (*or* all sums due and that may become due by me to the said C.D. in respect of ......... (*here specify the matter for which the undertaking is granted*)) with interest from ........................ (*or* from the respective times of advance) at ............ per centum per annum (*or otherwise as the case may be*) (annually, half-yearly, *or otherwise as the case may be*) on ..................... in each year commencing on .....................; For which I grant a standard security in favour of the said C.D. over All and Whole (*here describe the security subjects as indicated in* Note 1 hereto): The standard conditions specified in Schedule 3 to the Conveyancing and Feudal Reform (Scotland) Act 1970, and any lawful variation thereof operative for the time being, shall apply: And I grant warrandice: And I consent to registration for execution.
+
+[[^F140]Testing clause+]
+
+### Form B
+
+[To be used where the personal obligation is constituted in a separate instrument or instruments]
+
+I, A.B. (*designation*) hereby in security of (*here specify the nature of the debt or obligation in respect of which the security is given and the instrument(s) by which it is constituted in such manner as will identify these instruments*) grant a standard security in favour of C.D. (*designation*) over All and Whole (*here describe the security subjects as indicated in Note 1 hereto*): The standard conditions specified in Schedule 3 to the Conveyancing and Feudal Reform (Scotland) Act 1970, and any lawful variation thereof operative for the time being, shall apply: And I grant warrandice.
+
+[[^F141]Testing clause+]
+
+### NOTES TO SCHEDULE 2
+
+.
+
+*[[^F142]Note 1*.—The security subjects shall be described sufficiently to identify them; but this note is without prejudice to any additional requirement imposed as respects any register.]
+
+*Note 2*.—Where the grantor has not a recorded title to the security subjects [[^F143]and the deed is to be recorded in the Register of Sasines] , insert after the description thereof a clause of deduction of title as follows:—*Which subjects*(or [^F144]. . . *lease* (or *tack*) or, as the case may be) *were last vested* (or *are part of the subjects last vested*) *in E.F. whose title thereto was recorded in the Register for ........................*(or *the said Register of Sasines*) on ..................... (or, if the last [[^F145]recorded title] has already been mentioned, say *in the said E.F. as aforesaid*), *and from whom I acquired right by* (there specify shortly the writ or writs by which that right was so acquired).
+
+*Note 3*.—Where the grantor of a standard security [[^F146]to be recorded in the Register of Sasines] has granted a conveyance *ex facie* absolute of the security subjects, or any part thereof, that conveyance shall be referred to in accordance with Note 5 to this Schedule. In any such case:—(a) where the grantor [[^F147]has a recorded title to] the security subjects, no clause of deduction of title is required in the standard security (b) where the grantor [[^F147]does not have a recorded title to] the security subjects but has right thereto by virtue of an unrecorded title insert in the standard security after the description of the security subjects a clause of deduction of title as follows.—*Which subjects* (or [^F148]. . . *lease* (or *tack*) or, as the case may be) *were formerly vested in* (or *are part of the subjects formerly vested in*) (give name of person [[^F147]who last had a recorded title to] the subjects before the grantor acquired right thereto)*whose title thereto was recorded in the Register for ........................*(or *the said Register of Sasines*) on ........................ (or if such [[^F147]recorded title] has already been mentioned say*in the said .................. as aforesaid*) *and from whom I acquired right by* (here specify shortly the writ or writs by which that right was so acquired).
+
+*Note 4*.—Where it is desired to vary any of the standard conditions contained in Schedule 3 to this Act, such variations shall be effected either by an instrument or instruments other than the standard security, and any such instrument shall not require to be [[^F149]registered in the Land Register of Scotland or] recorded in the Register of Sasines or by inserting in the standard security after the description of the security subjects (and after the clause of deduction of title, if any) *And I agree that the standard conditions shall be varied to the effect that* (here insert particulars of the variations desired).
+
+(As regards future variations, see section 16 of, and Form E and Notes 5 and 6 in Schedule 4 to, this Act).
+
+*Note 5*.—Where the security subjects are burdened by any other standard security or heritable security, or by any security by way of *ex facie* absolute conveyance which ranks prior to the standard security which is being granted, insert immediately before the clause of warrandice the following:—*But the security hereby granted is subject to*(here specify any deed by which such preferable rights were created and any deed modifying or altering such rights), and amend the clause of warrandice to read *And, subject as aforesaid, I grant warrandice.* Where the standard security is to rank prior or postponed to, or*pari passu*with any other existing heritable security or any other standard security, a ranking clause may be inserted in appropriate terms immediately prior to the warrandice clause, and the warrandice clause shall, where necessary, be qualified accordingly.
+
+*Note 6*.—Where a standard security is granted in Form A for a fluctuating or uncertain amount, provisions for ascertaining the amount due at any time may be inserted immediately prior to the clause of granting of the security, and the registration clause shall, where necessary, be amended accordingly.
+
+*Note 7*.—In the case of a standard security for a non-monetary obligation, the forms in this Schedule shall be adapted as appropriate.
+
+[[^F150]+Note 8— [[^F151]In the case of a traditional document, subscription of it by the granter] will be sufficient for the document to be formally valid, but witnessing of it may be necessary or desirable for other purposes (see the Requirements of Writing (Scotland) Act 1995 [[^F152], which also makes provision as regards the authentication of an electronic document]).]
+
+## SCHEDULE 3 — The Standard Conditions
+
+*Section 11.*
+
+### Maintenance and repair.
+
+**1** It shall be an obligation on the debtor—
+
+(a) to maintain the security subjects in good and sufficient repair to the reasonable satisfaction of the creditor;
+
+(b) to permit, after seven clear days notice in writing, the creditor or his agent to enter upon the security subjects at all reasonable times to examine the condition thereof;
+
+(c) to make all necessary repairs and make good all defects in pursuance of his obligation under head (a) of this condition within such reasonable period as the creditor may require by notice in writing.
+
+### Completion of buildings etc. and prohibition of alterations etc.
+
+**2** It shall be an obligation on the debtor—
+
+(a) to complete, as soon as may be practicable, any unfinished buildings and works forming part of the security subjects to the reasonable satisfaction of the creditor;
+
+(b) not to demolish, alter or add to any buildings or works forming part of the security subjects, except in accordance with the terms of a prior written consent of the creditor and in compliance with any consent, licence or approval required by law;
+
+(c) to exhibit to the creditor at his request evidence of that consent, licence or approval.
+
+### Observance of conditions in title, payment of duties, charges, etc., and general compliance with requirements of law relating to security subjects.
+
+**3** It shall be an obligation on the debtor—
+
+(a) to observe any condition or perform any obligation in respect of the security subjects lawfully binding on him in relation to the security subjects;
+
+(b) to make due and punctual payment of any ground burden, teind, stipend, or standard charge, and any rates, taxes and other public burdens, and any other payments exigible in respect of the security subjects;
+
+(c) to comply with any requirement imposed upon him in relation to the security subjects by virtue of any enactment.
+
+### Planning notices, etc.
+
+**4** It shall be an obligation on the debtor—
+
+(a) where he has received any notice or order, issued or made by virtue of the Town and Country Planning (Scotland) Acts 1947 to 1969 or any amendment thereof, or any proposal so made for the making or issuing of any such notice or order, or any other notice or document affecting or likely to affect the security subjects, to give to the creditor, within fourteen days of the receipt of that notice, order or proposal, full particulars thereof;
+
+(b) to take, as soon as practicable, all reasonable or necessary steps to comply with such a notice or order or, as the case may be, duly to object thereto;
+
+(c) in the event of the creditor so requiring, to object or to join with the creditor in objecting to any such notice or order or in making representations against any proposal therefor.
+
+### Insurance.
+
+**5** It shall be an obligation on the debtor—
+
+(a) to insure the security subjects or, at the option of the creditor, to permit the creditor to insure the security subjects in the names of the creditor and the debtor to the extent of the market value thereof against the risk of fire and such other risks as the creditor may reasonably require;
+
+(b) to deposit any policy of insurance effected by the debtor for the aforesaid purpose with the creditor;
+
+(c) to pay any premium due in respect of any such policy, and, where the creditor so requests, to exhibit a receipt therefor not later than the fourteenth day after the renewal date of the policy;
+
+(d) to intimate to the creditor, within fourteen days of the occurrence, any occurrence which may give rise to a claim under the policy, and to authorise the creditor to negotiate the settlement of the claim;
+
+(e) without prejudice to any obligation to the contrary enforceable against him, to comply with any reasonable requirement of the creditor as to the application of any sum received in respect of such a claim;
+
+(f) to refrain from any act or omission which would invalidate the policy.
+
+### Restriction on letting.
+
+**6** It shall be an obligation on the debtor not to let, or agree to let, the security subjects, or any part thereof, without the prior consent in writing of the creditor, and “to let” in this condition includes to sub-let.
+
+### General power of creditor to perform obligations etc. on failure of debtor and power to charge debtor.
+
+**7** (1) The creditor shall be entitled to perform any obligation imposed by the standard conditions on the debtor, which the debtor has failed to perform.
+
+(2) Where it is necessary for the performance of any obligation as aforesaid, the creditor may, after giving seven clear days notice in writing to the debtor, enter upon the security subjects at all reasonable times.
+
+(3) All expenses and charges (including any interest thereon), reasonably incurred by the creditor in the exercise of a right conferred by this condition, shall be recoverable from the debtor and shall be deemed to be secured by the security subjects under the standard security, and the rate of any such interest shall be the rate in force at the relevant time in respect of advances secured by the security, or, where no such rate is prescribed, shall be the bank rate in force at the relevant time.
+
+### Calling-up.
+
+**8** The creditor shall be entitled, subject to the terms of the security and to any requirement of law, to call-up a standard security in the manner prescribed by section 19 of this Act.
+
+### Default.
+
+**9** (1) The debtor shall be held to be in default in any of the following circumstances, that is to say—
+
+(a) where a calling-up notice in respect of the security has been served and has not been complied with;
+
+(b) where there has been a failure to comply with any other requirement arising out of the security;
+
+(c) where the proprietor of the security subjects has become insolvent.
+
+(2) For the purposes of this condition, the proprietor shall be taken to be insolvent if—
+
+(a) he has become notour bankrupt, or he has executed a trust deed for behoof of, or has made a composition contract or arrangement with, his creditors;
+
+(b) he has died and a judicial factor has been appointed under section [[^F153]11A of the Judicial Factors (Scotland) Act 1889] to divide his insolvent estate among his creditors, [[^F154]or his estate falls to be administered in accordance with an order under section [[^F155]421 of the Insolvency Act 1986]];
+
+(c) where the proprietor is a company, a winding-up order has been made with respect to it, or a resolution for voluntary winding-up (other than a members’ voluntary winding-up) has been passed with respect to it, or a receiver or manager of its undertaking has been duly appointed, or possession has been taken, by or on behalf of the holders of any debentures secured by a floating charge, of any property of the company comprised in or subject to the charge.
+
+### Rights of creditor on default.
+
+**10** (1) Where the debtor is in default, the creditor may, without prejudice to his exercising any other remedy arising from the contract to which the standard security relates, exercise, in accordance with the provisions of Part II of this Act and of any other enactment applying to standard securities, such of the remedies specified in the following sub-paragraphs of this standard condition as he may consider appropriate.
+
+(2) He may proceed to sell the security subjects or any part thereof.
+
+(3) He may enter into possession of the security subjects and may receive or recover [^F156]. . . the rents of those subjects or any part thereof.
+
+(4) Where he has entered into possession as aforesaid, he may let the security subjects or any part thereof.
+
+(5) Where he has entered into possession as aforesaid there shall be transferred to him all the rights of the debtor in relation to the granting of leases or rights of occupancy over the security subjects and to the management and maintenance of those subjects.
+
+(6) He may effect all such repairs and may make good such defects as are necessary to maintain the security subjects in good and sufficient repair, and may effect such reconstruction, alteration and improvement on the subjects as would be expected of a prudent proprietor to maintain the market value of the subjects, and for the aforesaid purposes may enter on the subjects at all reasonable times.
+
+(7) He may apply to the court for a decree of foreclosure.
+
+### Exercise of right of redemption.
+
+**11** (1) The debtor shall be entitled to exercise his [[^F157]right (if any) to redeem the security on giving notice] of his intention so to do, being a notice in writing (hereinafter referred to as a “notice of redemption”).
+
+(2) Nothing in the provisions of [[^F157]this Act] shall preclude a creditor from waiving the necessity for a notice of redemption, or from agreeing to a period of notice of less than [[^F157]that to which he is entitled.]
+
+(3) (a) A notice of redemption may be delivered to the creditor or sent by registered post or recorded delivery to him at his last known address, and an acknowledgment signed by the creditor or his agent or a certificate of postage by the person giving the notice accompanied by the postal receipt shall be sufficient evidence of such notice having been given.
+
+(b) If the address of the creditor is not known, or if the packet containing the notice of redemption is returned to the sender with intimation that it could not be delivered, a notice of redemption may be sent to the Extractor of the Court of Session and an acknowledgment of receipt by him shall be sufficient evidence of such notice having been given.
+
+(c) A notice of redemption sent by post shall be held to have been given on the day next after the day of posting.
+
+(4) When a notice of redemption states that a specified amount will be repaid, and it is subsequently ascertained that the whole amount due to be repaid is more or less than the amount specified in the notice, the notice shall nevertheless be effective as a notice of repayment of the amount due as subsequently ascertained.
+
+(5) [[^F157]Where the debtor has exercised a right to redeem, and has made payment] of the whole amount due, or [[^F157]has performed] the whole obligations of the debtor under the contract to which the security relates, the creditor shall grant a discharge in the terms prescribed in section 17 of this Act.
+
+**12** The debtor shall be personally liable to the creditor for the whole expenses of the preparation and execution of the standard security and any variation, restriction and discharge thereof and, where any of those deeds are [[^F158]registered or] recorded, the [[^F159]registration or] recording thereof, and all expenses reasonably incurred by the creditor in calling-up the security and realising or attempting to realise the security subjects, or any part thereof, and exercising any other powers conferred upon him by the security.
+
+### Interpretation
+
+In this Schedule, where the debtor is not the proprietor of the security subjects, “debtor” means “proprietor”, except
+
+(a) in standard conditions 9(1), 10(1) and 12, and
+
+(b) in standard condition 11, where “debtor” includes the proprietor.
+
+## SCHEDULE 4 — Forms of Deeds of Assignation, Restriction, &c.
+
+*Sections 14, 15, 16 and 17.*
+
+### FORM A — Assignation of Standard Security
+
+#### Separate
+
+I, A.B. (*designation*), in consideration of £ hereby assign to C.D. (*designation*) a standard security for £ (*or* a maximum sum of £ , to the extent of £ being the amount now due thereunder; *in other cases describe as indicated in Note 2 to this Schedule*) by E.F. in my favour (*or* in favour of G.H.) [[^F160]registered in the Land Register of Scotland on…..over title number…..(*or* recorded in the Register for……on…….)] (*adding if necessary*, but only to the extent of £ of principal);
+
+With interest from ........................ [[^F161]Testing clause+]
+
+### FORM B
+
+[To be endorsed on the standard security]
+
+*As above save that instead of the words “a standard security for £” (or otherwise, as the case may be) insert* “the foregoing standard security” *Where the security is a fluctuating amount whether subject to a maximum or not, add* “to the extent of £ being the amount now due thereunder”.
+
+### FORM C — Restriction of Standard Security
+
+I, A.B. (*designation*), in consideration of (*specify consideration, if any*) hereby disburden of a standard security for £ (*or* a maximum sum of £; *in other cases, describe as indicated in Note 2 to this Schedule*) by C.D. in my favour (*or* in favour of E.F.) [[^F162]registered in the Land Register of Scotland on…..over title number…..(*or* recorded in the Register for……on…….)] (*adding if necessary*, but only to the extent of £ of principal) ALL and WHOLE (*describe the subjects disburdened in the same way as directed in Note 1 to Schedule 2 to this Act in the case of a description of security subjects*).
+
+[[^F163]Testing clause+]
+
+### FORM D — Combined Partial Discharge and Deed of Restriction of Standard Security
+
+I, A.B. (*designation*) in consideration of £ paid by C.D. (*designation) (or, as the case may be*), hereby discharge a standard security for £ (*or* a maximum sum of £; *in other cases, describe as indicated in Note 2 to this Schedule*) by the said C.D. (*or* by E.F.) in my favour (*or* in favour of G.H.) [[^F164]registered in the Land Register of Scotland on…..over title number…..(*or* recorded in the Register for……on…….)] , but only to the extent of £ of principal; And I disburden of the said standard security (*adding if necessary*, but only to the extent of £ of principal) ALL and WHOLE (*describe the subjects disburdened in the same way as directed in Note 1 to Schedule 2 to this Act in the case of a description of security subjects*).
+
+[[^F165]Testing clause+]
+
+### FORM E — Variation of Standard Security
+
+[To be endorsed on the standard security]
+
+I, A.B. (*designation*), agree that the foregoing standard security granted by me (*or* by C,D.) in favour of E.F. [[^F166]registered in the Land Register of Scotland on…..over title number…..(*or* recorded in the Register for……on…….)] (*if there have been previous variations insert* “as varied”) shall with effect from .................. be varied so that (*here insert particulars of the variation agreed); And I, E.F. (designation) (or if the creditor is not the person in whose favour the standard security was granted say* G.H. (*designation*) the creditor now in right of the said standard security) consent to the variation hereby effected.
+
+[[^F167]Testing clause+]
+
+### FORM F — Discharge of Standard Security
+
+#### Separate
+
+I, A.B. (*designation*), in consideration of £ (*where the security is in respect of a maximum sum or of all sums due or to become due or is in respect of a personal obligation constituted in an instrument or instruments other than the standard security add* being the whole amount secured by the standard security aftermentioned) paid by C.D., (*designation*) (*or, as the case may be*) hereby discharge a standard security for £ (or a maximum sum of £*in other cases describe as indicated in Note 2 to this Schedule*)by the said C.D. (or by E.F.) in my favour (*or* in favour of G.H.) [[^F168]registered in the Land Register of Scotland on…..over title number…..(*or* recorded in the Register for……on…….] (*adding if necessary,*but only to the extent of £ of principal).
+
+[[^F169]Testing clause+]
+
+[*To be endorsed on the standard security*]
+
+*As above save that instead of the words* “a standard security for £ (*or* a maximum sum of £ *in other cases describe as indicated in Note 2 to this Schedule*)” *insert* “the foregoing standard security.”
+
+### NOTES TO SCHEDULE 4
+
+#### General
+
+Note 1.—Where the grantor of an assignation, discharge or deed of restriction of a standard security, or the creditor consenting to a variation of a standard security, is not the original creditor and has not a recorded title [[^F170]and the deed is to be recorded in the Register of Sasines], insert at the end of the deed a clause of deduction of title as follows: *Which standard security* (adding, if necessary, *to the extent aforesaid* or, as the case may be) *was last vested in the said* (give name of original creditor) *as aforesaid* (or where the last recorded title to the standard security was in favour of a person other than the original creditor say *in J.K. whose title thereto was recorded in the said Register of Sasines on ..................) and from whom I acquired right by* (here specify shortly the writ or writs by which right was so acquired).
+
+Where the grantor of an assignation, discharge or deed of restriction of a standard security, or the creditor consenting to a variation of a standard security, although not the original creditor, has a [[^F171]registered or] recorded title, no specification of the title of the grantor or creditor is required.
+
+Note 2.—In an assignation, discharge or deed of restriction, (1) a standard security in respect of an uncertain amount may be described by specifying shortly the nature of the debt or obligation (e.g., all sums due or to become due) for which the security was granted, adding in the case of an assignation,*to the extent of £ being the amount now due thereunder*and (2) a standard security in respect of a personal obligation constituted in an instrument or instruments other than the standard security itself may be described by specifying shortly the nature of the debt or obligation and referring to the other instrument or instruments by which it is constituted in such manner as will be sufficient identification thereof.
+
+Note 3.—If the original [[^F172]title to a standard security has been completed] otherwise than by [[^F173]registration of the security in the Land Register of Scotland or] recording the security in the Register of Sasines, insert immediately after the word “[[^F174]“registered (or recorded)]” the words *along with notice of title thereon* (adding, if such notice is not in favour of the original creditor, the name of the person in whose favour it is drawn).
+
+Note 4.—If part of the security subjects has already been disburdened, there may be inserted in an assignation, after the specification of the standard security assigned, a reference to the previous partial discharge or deed of restriction.
+
+Note 5.—The variation docket Form E of this Schedule shall be used only when the personal obligation or other matter to which the variation relates was contained in the standard security, or in a variation thereof which has been duly [[^F175]registered or] recorded. Variations in a personal obligation or other matter constituted in an instrument or instruments which have not been so [[^F175]registered or] recorded may be altered by an instrument in appropriate terms which shall not be required to be [[^F176]registered in the Land Register of Scotland or] recorded in the Register of Sasines.
+
+Note 6.—Where the grantor of a variation docket does not have a recorded title to the security subjects [[^F177]and the deed is to be recorded in the Register of Sasines], insert at the end of the variation and immediately before the consent by the creditor a clause of deduction of title as follows:*the security subjects to which the said standard security relates being last vested in* (give the name of the person in whom the security subjects were last vested) *whose title thereto was recorded in the said Register of Sasines on .................. and from whom I acquired right by* (here specify the writ or writs by which such right was so acquired).
+
+[[^F178]+Note 7— [[^F179]In the case of a traditional document, subscription of it by the granter], or in the case of form E the granter and the consenter to the variation, will be sufficient for the document to be formally valid, but witnessing of it may be necessary or desirable for other purposes (see the Requirements of Writing (Scotland) Act 1995[[^F180], which also makes provision as regards the authentication of an electronic document]).]
+
+## SCHEDULE 5 — Procedures as to Redemption
+
+*Section 18.*
+
+### FORM A — NOTICE OF REDEMPTION OF STANDARD SECURITY
+
+To A.B. (*address*)
+
+TAKE NOTICE that on .................. (*state date of repayment*) C.D. (*designation*), will repay the sum of £ (*or* the whole amount due) secured by a standard security by the said C.D. (*or* by E.F.) in your favour (*or* in favour of G.H.) [[^F181]recorded in the Register for……on…….)] Dated this .................. day of ........................
+
+(*To be signed by the debtor, or proprietor, or by his agent, who will add his designation and the words* Agent of the said C.D.)
+
+In the case of a standard security for a non-monetary obligation this Form shall be adapted accordingly.
+
+### FORM B
+
+I, A.B., above named, hereby acknowledge receipt of the Notice of Redemption of which the foregoing is a copy. Dated this ............ day of ........................
+
+(*To be signed by the creditor, or by his agent, who will add his designation and the words* Agent of the said A.B.)
+
+### FORM C
+
+Notice of Redemption, of which the foregoing is a copy, was posted (*or otherwise, as the case may be*) to A.B. above named on the .................. day of ........................
+
+(*To be signed by the debtor, or proprietor, or by his agent, who will add his designation and the words*Agent of the said C.D.*and if posted the postal receipt to be attached*.)
+
+### FORM D
+
+#### No. 1 — Certificate of Consignation on Redemption of Standard Security where Discharge cannot be Obtained
+
+I, A.B. (*designation*) (solicitor) certify that consignation of the whole amount due under the standard security aftermentioned was made as after stated and was necessitated by reason of a discharge being unobtainable after due notice of redemption had been given.
+
+STANDARD SECURITY for £ (*or* a maximum of £; *in other cases describe as indicated in Note 2 to Schedule 4 to this Act*) by C.D. in favour of E.F. [[^F182]registered in the Land Register of Scotland on…..over title number…..(*or* recorded in the Register for……on…….)]
+
+AMOUNT CONSIGNED £, being £ of principal, £ of interest and £ in respect of ascertained expenses.
+
+BANK IN WHICH CONSIGNED (*specify bank or branch of bank with address, in which above amount consigned*) conform to deposit receipt dated .................. in name of the person appearing to have the best right thereto (*specifying his name and designation if known) (or if he is only a partial creditor say*to the extent of £ ).
+
+[[^F183]Testing clause+]
+
+[[^F184]+Note— [[^F185]In the case of a traditional document, subscription of it by the granter] will be sufficient for the document to be formally valid, but witnessing of it may be necessary or desirable for other purposes (see the Requirements of Writing (Scotland) Act 1995 [[^F186], which also makes provision as regards the authentication of an electronic document]).]
+
+#### No. 2 — Certificate of Declarator of Performance of Debtor’s Obligations under Standard Security where Discharge cannot be obtained
+
+I, A.B. (*designation*) (solicitor) certify that a decree of declarator of performance of the obligations of the debtor under the standard security aftermentioned was pronounced as after stated and was necessitated by reason of a discharge being unobtainable after due notice of redemption had been given.
+
+STANDARD SECURITY by C.D. in favour of E.F. [[^F182]registered in the Land Register of Scotland on…..over title number…..(*or* recorded in the Register for……on…….)]
+
+DECREE OF DECLARATOR by the Sheriff of .................. at .................. in the application of the said C.D. (*or* J.K. (*designation*), who is now the debtor (*or* the proprietor of the interest in land contained) in the said standard security.)
+
+[[^F187]Testing clause+]
+
+[[^F188]+Note— [[^F185]In the case of a traditional document, subscription of it by the granter] will be sufficient for the document to be formally valid, but witnessing of it may be necessary or desirable for other purposes (see the Requirements of Writing (Scotland) Act 1995 [[^F186], which also makes provision as regards the authentication of an electronic document] ).]
+
+## SCHEDULE 6 — [^F189] Procedures as to Calling-up and Default
+
+*Sections 19 and 21.*
+
+![image](http://www.legislation.gov.uk/ukpga/1970/35/images/ukpga_19700035_en_sld_001)
+
+![image](http://www.legislation.gov.uk/ukpga/1970/35/images/ukpga_19700035_en_sld_002)
+
+![image](http://www.legislation.gov.uk/ukpga/1970/35/images/ukpga_19700035_en_sld_003)
+
+![image](http://www.legislation.gov.uk/ukpga/1970/35/images/ukpga_19700035_en_sld_004)
+
+![image](http://www.legislation.gov.uk/ukpga/1970/35/images/ukpga_19700035_en_sld_005)
+
+### [^X1][[^F190]FORM BB — NOTICE TO OCCUPIER
+
+To the Occupier (*address*)
+
+A Notice of Calling-up of a standard security/ Default under a standard security (*delete as appropriate*) has been served by C.D. on A.B. in relation to (*address of subjects*). A copy of the notice is attached.
+
+If you are a tenant of A.B., in certain circumstances C.D. cannot take possession of the property without a court order. You should obtain legal advice about your rights as a tenant. You may be eligible for legal aid depending on your circumstances, and you can get information about legal aid from a solicitor. You may also be able to get advice from any Citizens Advice Bureau or from other advice agencies.
+
+If you are the spouse or partner of A.B., the Mortgage Rights (Scotland) Act 2001 gives you the right in certain circumstances to apply to the court to suspend the rights of C.D. You have two months (which may be shortened only with your consent) to make an application. The court will have regard in particular to—
+
+(*for a Notice of Calling-up*) the circumstances giving rise to the service of the Notice of Calling-up, your ability to comply with the notice, any action taken by C.D. to assist the debtor in the standard security to fulfil the obligations under it and the ability of you and anyone else residing at the property to find reasonable alternative accommodation.
+
+(*for a Notice of Default*) the nature of and reasons for the default, your ability to fulfil the obligations under the standard security, any action taken by C.D. to assist the debtor in the standard security to fulfil those obligations and the ability of you and anyone else residing at the property to find reasonable alternative accommodation.
+
+(*delete as appropriate*)
+
+If you wish to make such an application, you should consult a solicitor. You may be eligible for legal aid depending on your circumstances, and you can get information about legal aid from a solicitor. You may also be able to get advice, including advice about how to manage debt, from any Citizens Advice Bureau or from other advice agencies.
+
+Dated
+
+(*Signature of C.D., or signature and designation of C.D.’s agent followed by the words* Agent of C.D.)]
+
+### FORM C
+
+I, A.B., above named, hereby acknowledge receipt of the foregoing Notice of (Calling-up), (Default) of which the foregoing is a copy of the notice *adding where appropriate* “and I agree to the period of notice being dispensed with (*or* shortened to ..................).”
+
+Dated this .................. day of ........................
+
+(*To be signed by the person on whom notice is served, or by his agent, who will add his designation and the words* Agent of the said A.B.).
+
+### FORM D
+
+Notice of (Calling-up) (Default), of which the foregoing is a copy, was posted (*or otherwise, as the case may be*) to A.B. above named on the .................. day of ........................
+
+(*To be signed by the creditor, or by his agent, who will add his designation and the words*Agent of the said C.D.*and if posted the postal receipt to be attached.*)
+
+![image](http://www.legislation.gov.uk/ukpga/1970/35/images/ukpga_19700035_en_sld_006)
+
+![image](http://www.legislation.gov.uk/ukpga/1970/35/images/ukpga_19700035_en_sld_007)
+
+![image](http://www.legislation.gov.uk/ukpga/1970/35/images/ukpga_19700035_en_sld_008)
+
+![image](http://www.legislation.gov.uk/ukpga/1970/35/images/ukpga_19700035_en_sld_009)
+
+### [^X2][[^F191]FORM F
+
+To the Occupier (*address*)
+
+C.D. (*designation*) has applied to the court under section 24 of the Conveyancing and Feudal Reform (Scotland) Act 1970 for warrant to exercise in relation to (*address of security subjects*) remedies to which he is entitled on the default of A.B. (*designation*) in the performance of his obligations under a standard security over (*address of subjects*). A copy of the application is attached.
+
+If you are a tenant of A.B. (*or, if A.B. is not the proprietor of the subjects*, of E.F. (*being the proprietor*)), in certain circumstances C.D. cannot take possession of the property without a court order. You should obtain legal advice about your rights as a tenant. You may be eligible for legal aid depending on your circumstances, and you can get information about legal aid from a solicitor. You may also be able to get advice from any Citizens Advice Bureau or from other advice agencies.
+
+If you are the spouse or partner of A.B., the Mortgage Rights (Scotland) Act 2001 gives you the right in certain circumstances to apply to the court to suspend the rights of C.D. The court will have regard in particular to the nature of and reasons for the default, your ability to fulfil the obligations under the standard security, any action taken by C.D. to assist the debtor in the standard security to fulfil those obligations and the ability of you and anyone else residing at the property to find reasonable alternative accommodation. If you wish to make such an application, you should consult a solicitor. You may be eligible for legal aid depending on your circumstances, and you can get information about legal aid from a solicitor. You may also be able to get advice, including advice about how to manage debt, from any Citizens Advice Bureau or from other advice agencies.
+
+Dated
+
+(*Signature of C.D., or signature and designation of C.D.’s agent followed by the words* Agent of C.D.)]
+
+## SCHEDULE 7 — Contents of Certificate Stating a Default
+
+*Sections 22 and 24.*
+
+**1** A certificate which is lodged in court by the creditor for the purposes of section 22 or 24 of this Act shall contain the information required by the following provisions of this Schedule.
+
+**2** A certificate shall state—
+
+(i) the name and address of the creditor and shall specify the standard security in respect of which the default is alleged to have occurred by reference to the original creditor and debtor therein and to the particulars of its registration;
+
+(ii) the nature of the default with full details thereof.
+
+**3** The certificate shall be signed by the creditor or his solicitor, and a certificate which does not comply w1th the foregoing requirements of this Schedule shall not be received in evidence for the purposes ofthe said section 22 or 24.
+
+## SCHEDULE 8 — Excluded Enactments
+
+*Section 32.*
+
+### The [^M16]Debts Securities (Scotland) Act 1856
+
+**1** Section 7 (Securities for cash accounts or credits).
+
+### [^M17]Registration of Long Leases (Scotland) Act 1857
+
+**2** [^F192]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3** [^F193]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4** Section 6 (Translation of assignations in security and creditor’s entry on possession in default of payment), so far as relating to such a translation.
+
+**5** Section 13 (Renunciations and discharges to be recorded) so far as affecting discharges.
+
+**6** Section 20 (Interpretation of clauses in Schedules).
+
+### The [^M18]Titles to Land Consolidation (Scotland) Act 1868
+
+**7** [^F194]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8** [^F195]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9** [^F196]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10** [^F197]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11** [^F198]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12** [^F199]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13** [^F200]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14** [^F201]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15** Section 138 (Use of short clauses of consent to registration).
+
+### [^M19]Conveyancing (Scotland) Act 1874
+
+**16** [^F202]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17** [^F203]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^M20]The Heritable Securities (Scotland) Act 1894
+
+**18** [^F204]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19** [^F205]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**20** [^F206]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**21** [^F207]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**22** [^F208]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**23** [^F209]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**24** [^F210]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Section 15 (Jurisdiction of sheriff).
+
+### [^M21]The Conveyancing (Scotland) Act 1924
+
+**25** Section 24 (Assimilation of forms for registered leases).
+
+**26** [^F211]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**27** [^F212]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**28** [^F213]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**29** [^F214]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**30** [^F215]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**31** Section 42 (Mode of disburdening land sold by creditor under power of sale).
+
+## SCHEDULE 9 — Discharge of Heritable Security Constituted by Ex Facie Absolute Conveyance
+
+*Section 40.*
+
+I, A.B., (*designation*) hereby acknowledge that [the disposition (*or assignation*) granted by C.D., (*designation*) (*or* by E.F., (designation) with consent of C.D., (*designation*)) in my favour (*or* in favour of G.H., (*designation of original creditor*)) recorded in the Register for ........................ on ........................] [*or, where endorsed on the disposition or assignation,*the foregoing disposition (or assignation)] [*describe security discharged by reference to the parties thereto and to the details of its recording*] although in its terms *ex facie* absolute was truly in security of an advance of £ (*or* a maximum amount of £ *in other cases describe as indicated in Note 2 to Schedule 4 to this Act*), and that all moneys intended to be secured thereby have been fully paid.
+
+[[^F216]Testing clause+]
+
+### NOTES TO SCHEDULE 9
+
+Note 1.—The discharge may be separate or endorsed on the *ex facie* absolute disposition or assignation.
+
+Note 2.—Where the grantor of the discharge is not the original creditor, the separate form of discharge shall be used.
+
+Note 3.—Where the grantor of the discharge is not the original creditor but has a recorded title, no specification of the grantor’s title is required. Where the grantor of the discharge is not the original creditor and has not a recorded title, insert at the end of the discharge a clause of deduction of title as follows:
+
+*The subjects conveyed by the said disposition* (or otherwise, as the case may be)*were last vested in the said G.H. as aforesaid* (or, where the last recorded title to the subjects was in favour of a person other than the original creditor, say *in J.K. whose title thereto was recorded in the said Register of Sasines on ..................) and from whom I acquired right by* (here specify shortly the writ or writs by which right was so acquired).
+
+[[^F217]+Note 4— [[^F218]In the case of a traditional document, subscription of it by the granter] will be sufficient for the document to be formally valid, but witnessing of it may be necessary or desirable for other purposes (see the Requirements of Writing (Scotland) Act 1995 [[^F219], which also makes provision as regards the authentication of an electronic document]).]
+
+## SCHEDULE 10 — Minor and Consequential Amendments
+
+*Sections 47 and 52.*
+
+### Part I — Amendments Affecting Specification of Title
+
+#### [^M22]The Registration of Leases (Scotland) Act 1857
+
+**1** In Schedule (H), in the footnote, for the words “here state his title and date of recording the same” there shall be substituted the words “ name and design original creditor ”.
+
+#### [^M23]The Conveyancing (Scotland) Act 1924
+
+**2** In Schedule J, in Note 2, for the words from “insert” to the end there shall be substituted the words “ no specification of the granter’s title is required. ”.
+
+**3** In Schedule K, in Note 2, for the words from “insert” to “say” (where the word first occurs) there shall be substituted the words “ no specification of the granter’s title is required; or if such granter has not a recorded title, insert at the end of the deed*Which bond and disposition in security* (adding, if necessary,*to the extent aforesaid* or as the case may be) ”.
+
+### Part II — Other Amendments
+
+#### The Conveyancing (Scotland) Act 1924
+
+**4** In Schedule I, in the note, before the words “the prior pages thereof” there shall be inserted the words “ (in the case of a will or other testamentary writing) ”.
+
+#### [^M24]The Land Compensation (Scotland) Act 1963
+
+**5** In section 10, for the words “Lord President of the Court of Session” there shall be substituted the words “ Secretary of State ”.
+
+## SCHEDULE 11 — Enactments Repealed
+
+*Section 47, 48 and 52.*
+
+### Part I — Repeals affecting specification of title
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of Repeal |
+| 1857 c.26. | The Registration of Leases (Scotland) Act 1857. | In Schedule (A), the words “[and ( *when the assigner is not the grantee in the lease* ) my title to which is recorded in the said register, of date ]”. |
+|  |  | In Schedule (B), the words “and [ *where cedent not the original lessee* ] my title to which is registered therein [ *date of recording* ]”. |
+|  |  | In Schedule (D), the words “[and ( *if the granter is not the assignee in said bond* ) my title to which bond and assignation in security is recorded in the said register( *date of recording* ]”. |
+|  |  | In Schedule (G), the words “and [ *where the party renouncing not the original lessee* ] my title to which is recorded in the said register on [ *date* ]”. |
+
+### Part II — Repeals relating to assignations of unrecorded conveyances etc.
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short Title | Extent of Repeal |
+| 1868 c.101. | The Titles to Land Consolidation (Scotland)Act 1868. | Section 22. Schedule (M). |
+| 1924 c.27. | The Conveyancing (Scotland) Act 1924. | Section 7. In section 10(4), the words “along with a separate assignation or separate assignations, or” and the words “on such separate assignation or on the last in date of such separate assignations or”. |
+|  |  | In section 24, in paragraph (1), the words in brackets. |
+|  |  | In Schedule B, Note 5. Schedule C. |
+|  |  | In Schedule F, Note 4, and in Note 5, the words “(with the assignation or assignations, if any, endorsed thereon)”, the words “a separate assignation or separate assignations, or along with”, the words “such separate assignation or on the last date of such separate assignations or on”, and the words “adding, if required, *and assignation (or assignations)* ”. |
+
+### Part III — Other repeals
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short Title | Extent of Repeal |
+| 1857 c. 26. | The Registration of Leases (Scotland) Act 1857. | In section 15, the words from “and extracts of all such writs” to the end of the section. |
+| 1868 c. 101. | The Titles to Land Consolidation (Scotland) Act 1868. | In section 142, the words from “and extracts of all such conveyances” to the end of the section. |
+| 1924 c. 27. | The Conveyancing (Scotland) Act 1924. | In section 16, subsections (3) and (4). |
+| 1925 c. 33. | The Church of Scotland (Property and Endowments) Act 1925. | In section 37, the words from “Provided that” to “either party”. |
+| 1949 c. 42. | The Lands Tribunal Act 1949. | In section 8(3), the words from “and the Statutory Instruments Act 1946” to the end of the subsection. |
+| 1966 c. 49. | The Housing (Scotland) Act 1966. | Section 189. |
+
+---
+
+[^F1]: S. 1 repealed (28.11.2004) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 122(1), 128(2), 129(2), sch. 15 (with ss. 119, 121); S.S.I. 2003/456, art. 2
+[^F2]: S. 2 repealed (28.11.2004) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 122(1), 128(2), 129(2), sch. 15 (with ss. 119, 121); S.S.I. 2003/456, art. 2
+[^F3]: S. 3 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(4), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F4]: S. 4 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(4), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F5]: S. 5 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(4), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F6]: S. 6 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(4), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F7]: S. 7 repealed (28.11.2004) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 122(1), 128(2), 129(2), sch. 15 (with ss. 119, 121); S.S.I. 2003/456, art. 2
+[^F8]: S. 8 repealed by Prescription and Limitation (Scotland) Act 1973 (c. 52, SIF 97), s. 16(2), Sch. 5 Pt I
+[^F9]: Words in s. 9(2) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(2)(a) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F10]: Words in s. 9(2)-(4)(8)(a) substituted (28.11.2004) by 2000 asp 5, ss. 76(1), 77(2)(c) {sch. 12 Pt. 1 para. 30(6)(a)-(d)(i)} (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F11]: S. 9(2B) inserted "after subsection (2A)" (28.11.2004) by virtue of Title Conditions (Scotland) Act 2003 (asp 9), ss. 122(1), 128(1), 129(2), sch. 14 para. 4(2)(a) (with ss. 119, 121); S.S.I. 2003/456, art. 2
+[^F12]: Words in s. 9(2B) inserted (21.2.2014) by Long Leases (Scotland) Act 2012 (asp 9), s. 83(2)(3), sch. para. 1; S.S.I. 2013/322, art. 3(i)
+[^F13]: Words in s. 9(4) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(2)(b)(i) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F14]: Words in s. 9(4) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(2)(b)(ii) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^M1]: Act of the Parliament of Scotland 1696, cap. 5.
+[^F15]: S. 9(7) repealed by Tenants' Rights, Etc. (Scotland) Act 1980 (c. 52, SIF 61), Sch. 5
+[^F16]: Words in s. 9(8)(a) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(2)(c)(i) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F17]: S. 9(8)(b): definition of "real right in land" substituted (28.11.2004) by virtue of Title Conditions (Scotland) Act 2003 (asp 9), ss. 122(1), 128(1), 129(2), sch. 14 para. 4(2)(b) (with ss. 119, 121); S.S.I. 2003/456, art. 2
+[^F18]: Words in s. 9(8)(b) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(2)(c)(ii) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F19]: Words in s. 9(8)(c) repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(6)(d)(iii), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F20]: Words in s. 10(2) substituted (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(7) (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F21]: Words in s. 10(4) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(3) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F22]: Words in s. 11 title inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(5) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F23]: Words in s. 11(1) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(4) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F24]: Words in s. 11(1) substituted (28.11.2004) by 2000 asp 5, ss. 76(1), 77(2)(c), sch. 12 Pt. 1 para. 30(8) (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F25]: Words inserted by Redemption of Standard Securities (Scotland) Act 1971 (c. 45), s. 1(a)
+[^F26]: Words repealed by Redemption of Standard Securities (Scotland) Act 1971 (c. 45), s. 1(a)
+[^F27]: S. 12(1)(1A) substituted for s. 12(1) (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(6)(a) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F28]: Words in s. 12(2) substituted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(6)(b)(i) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F29]: Words in s. 12(2) substituted (28.11.2004) by 2000 asp 5, ss. 76(1), 77(2)(c), sch. 12 Pt. 1 para. 30(9)(b)(i)(ii) (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F30]: Words in s. 12(2) repealed (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(6)(b)(ii) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F31]: Words in s. 12(2) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(6)(b)(iii) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^M2]: 1924 c. 27.
+[^F32]: Words in s. 13(1) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(7)(a)(i) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F33]: Words in s. 13(1) substituted (28.11.2004) by 2000 asp 5, ss. 76(1), 77(2)(c), sch. 12 Pt. 1 para. 30(10) (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F34]: Words in s. 13(1) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(7)(a)(ii) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F35]: Words in s. 13(1) substituted (4.4.2003) by Title Conditions (Scotland) Act 2003 (asp 9), ss. {111}, 129(3) (with ss. 119, 121)
+[^F36]: Words in s. 13(2)(a) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(7)(b)(i) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F37]: Words in s. 13(2)(a) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(7)(b)(ii) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F38]: Words in s. 13(2)(a) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(7)(b)(iii) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F39]: S. 13(4) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(7)(c) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F40]: Words in s. 14(1) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(8) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F41]: Words in s. 15(1) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(9)(a) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F42]: Words in s. 15(1) substituted (28.11.2004) by 2000 asp 5, ss. 76(1), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(11) (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F43]: Words in s. 15(1) substituted (28.11.2004) by 2000 asp 5, ss. 76(1), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(11) (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F44]: Words in s. 15(2) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(9)(b) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F45]: Words in s. 16(1) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(10)(a) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F46]: Words in s. 16(1)(2) substituted (28.11.2004) by 2000 asp 5, ss. 76(1), 77(2)(c), sch. 12 Pt. 1 para. 30(12)(a) (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F47]: Words in s. 16(2) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(10)(b)(i) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F48]: Words in s. 16(2) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(10)(b)(ii) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F49]: Words in s. 16(2) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(10)(b)(iii) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F50]: S. 16(3) repealed by Finance Act 1971 (c. 68), Sch. 14, pt. VI
+[^F51]: Words in s. 16(4) substituted (28.11.2004) by 2000 asp 5, ss. 76(1), 77(2)(c), sch. 12 Pt. 1 para. 30(12)(b) (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F52]: Words in s. 16(4) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(10)(c)(i) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F53]: Words in s. 16(4) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(10)(c)(ii) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F54]: Words in s. 17 inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(11) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F55]: Words in s. 17 substituted (28.11.2004) by 2000 asp 5, ss. 76(1), 77(2)(c), sch. 12 Pt. 1 para. 30(13) (with ss. 58, 62, 75); S.S.I. 2003/465, art. 2
+[^F56]: Words inserted by Redemption of Standard Securities (Scotland) Act 1971 (c. 45), s. 1(b)
+[^F57]: S. 18(1A) added by Redemption of Standard Securities (Scotland) Act 1971 (c. 45), s. 1(c)
+[^F58]: Words inserted by Land Tenure Reform (Scotland) Act 1974 (c. 38, SIF 74:1), s. 11(6)
+[^F59]: Words inserted by Redemption of Standard Securities (Scotland) Act 1971 (c. 45), s. 1(d)
+[^F60]: Words substituted by Redemption of Standard Securities (Scotland) Act 1971 (c. 45), s. 1(d)
+[^F61]: Words in s. 18(3) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(12) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F62]: Words in s. 18(3) substituted (28.11.2004) by 2000 asp 5, ss. 76(1), 77(2)(c), sch. 12 Pt. 1 para. 30(14) (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F63]: Words in s. 19(2) substituted (28.11.2004) by 2000 asp 5, ss. 76(1), 77(2)(c), sch. 12 Pt. 1 para. 30(15)(a) (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F64]: Words in s. 19(2) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(13)(a)(i) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F65]: Words in s. 19(2) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(13)(a)(ii) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F66]: Words in s. 19(2) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(13)(a)(iii) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F67]: Words in s. 19(3) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(13)(a)(iv) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F68]: Words in s. 19(3) substituted (28.11.2004) by 2000 asp 5, ss. 76(1), 77(2)(c), sch. 12 Pt. 1 para. 30(15)(b) (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F69]: Words in s. 19(3) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(13)(b) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F70]: Word in s. 19(3) substituted (30.11.2016) by Bankruptcy (Scotland) Act 2016 (asp 21), s. 237(2), sch. 8 para. 5 (with ss. 232, 234(3), 235, 236); S.S.I. 2016/294, reg. 2
+[^F71]: Words in s. 19(4) substituted (28.11.2004) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 128(1), 129(2), sch. 14 para. 4(3) (with ss. 119, 121); S.S.I. 2003/456, art. 2
+[^F72]: Proviso added by Matrimonial Homes (Family Protection) (Scotland) Act 1981 (c. 59, SIF 49:6), s. 20
+[^F73]: S. 19(10A)(10B) inserted (30.9.2010) by Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6), ss. 8(1)(a), 17(3) (with s. 14); S.S.I. 2010/314, art. 3 (subject to transitional and saving provisions in S.S.I. 2010/316, arts. 4-7)
+[^F74]: Words in s. 19(11) inserted (30.9.2010) by Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6), ss. 8(1)(b), 17(3) (with s. 14); S.S.I. 2010/314, art. 3 (subject to transitional and saving provisions in S.S.I. 2010/316, arts. 4-7)
+[^F75]: S. 19(12) inserted (30.9.2010) by Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6), ss. 8(1)(c), 17(3) (with s. 14); S.S.I. 2010/314, art. 3 (subject to transitional and saving provisions in S.S.I. 2010/316, arts. 4-7)
+[^F76]: S. 19A inserted (3.12.2001) by 2001 asp 11, s. 4(1) (with s. 5); S.S.I. 2001/418, art. 2 (with transitional provision in art. 3)
+[^F77]: Words in s. 19A(1) substituted (28.11.2004) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 122(1), 128(1), 129(2), sch. 14 para. 4(4) (with ss. 119, 121); S.S.I. 2003/456, art. 2
+[^F78]: S. 19B inserted (2.10.2008 for specified purposes and 1.4.2009 otherwise) by Homelessness etc. (Scotland) Act 2003 (asp 10), ss. 11(2), 14(1), sch. para. 1(2); S.S.I. 2008/313, art. 2
+[^F79]: S. 20(2A) inserted (30.9.2010) by Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6), ss. 1(1), 17(3) (with s. 14); S.S.I. 2010/314, art. 3 (subject to transitional and saving provisions in S.S.I. 2010/316, arts. 4-7)
+[^F80]: S. 21(2A) inserted (3.12.2001) by 2001 asp 11, s. 4(2) (with s. 5); S.S.I. 2001/418, art. 2 (with transitional provision in art. 3)
+[^F81]: Words in s. 21(2A) substituted (2.10.2008 for specified purposes and 1.4.2009 otherwise) by Homelessness etc. (Scotland) Act 2003 (asp 10), ss. 11(2), 14(1), sch. para. 1(3); S.S.I. 2008/313, art. 2
+[^F82]: Words in s. 21(2A) substituted (2.10.2008 for specified purposes and 1.4.2009 otherwise) by Homelessness etc. (Scotland) Act 2003 (asp 10), ss. 11(2), 14(1), sch. para. 1(3); S.S.I. 2008/313, art. 2
+[^F83]: Words in s. 21(3) substituted (30.9.2010) by Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6), ss. 8(2), 17(3) (with s. 14); S.S.I. 2010/314, art. 3 (subject to transitional and saving provisions in S.S.I. 2010/316, arts. 4-7)
+[^F84]: Words in s. 23(2) inserted (30.9.2010) by Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6), ss. 8(3), 17(3) (with s. 14); S.S.I. 2010/314, art. 3 (subject to transitional and saving provisions in S.S.I. 2010/316, arts. 4-7)
+[^F85]: Words inserted by Redemption of Standard Securities (Scotland) Act 1971 (c. 45), s. 1(e)
+[^F86]: S. 23(4) inserted (30.9.2010) by Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6), ss. 1(2), 17(3) (with s. 14); S.S.I. 2010/314, art. 3 (subject to transitional and saving provisions in S.S.I. 2010/316, arts. 4-7)
+[^F87]: S. 23A inserted (30.9.2010) by Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6), ss. 1(3), 17(3) (with s. 14); S.S.I. 2010/314, art. 3 (subject to transitional and saving provisions in S.S.I. 2010/316, arts. 4-7)
+[^F88]: S. 24(1A)-(1D) inserted (30.9.2010) by Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6), ss. 2(2), 17(3) (with s. 14); S.S.I. 2010/314, art. 3 (subject to transitional and saving provisions in S.S.I. 2010/316, arts. 4-7)
+[^F89]: Words in s. 24(2) substituted (30.9.2010) by Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6), ss. 2(3), 17(3) (with s. 14); S.S.I. 2010/314, art. 3 (subject to transitional and saving provisions in S.S.I. 2010/316, arts. 4-7)
+[^F90]: S. 24(3)(4) inserted (3.12.2001) by 2001 asp 11, s. 4(3) (with s. 5); S.S.I. 2001/418, art. 2 (with transitional provision in art. 3)
+[^F91]: Words in s. 24(3) substituted (30.9.2010) by Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6), ss. 2(4), 17(3) (with s. 14); S.S.I. 2010/314, art. 3 (subject to transitional and saving provisions in S.S.I. 2010/316, arts. 4-7)
+[^F92]: Words in s. 24(3) repealed (30.9.2010) by Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6), ss. 2(4), 17(3) (with s. 14); S.S.I. 2010/314, art. 3 (subject to transitional and saving provisions in S.S.I. 2010/316, arts. 4-7)
+[^F93]: Word in s. 24(3)(a) repealed (2.10.2008 for specified purposes and 1.4.2009 otherwise) by Homelessness etc. (Scotland) Act 2003 (asp 10), ss. 11(2), 14(1), sch. para. 1(4)(a)(i); S.S.I. 2008/313, art. 2
+[^F94]: S. 24(3)(c) and preceding word inserted (2.10.2008 for specified purposes and 1.4.2009 otherwise) by Homelessness etc. (Scotland) Act 2003 (asp 10), ss. 11(2), 14(1), sch. para. 1(4)(a)(ii); S.S.I. 2008/313, art. 2
+[^F95]: Words in s. 24(4) substituted (2.10.2008 for specified purposes and 1.4.2009 otherwise) by Homelessness etc. (Scotland) Act 2003 (asp 10), ss. 11(2), 14(1), sch. para. 1(4)(b); S.S.I. 2008/313, art. 2
+[^F96]: S. 24(4A) inserted (2.10.2008 for specified purposes and 1.4.2009 otherwise) by Homelessness etc. (Scotland) Act 2003 (asp 10), ss. 11(2), 14(1), sch. para. 1(4)(c); S.S.I. 2008/313, art. 2
+[^F97]: S. 24(5)-(9) inserted (30.9.2010) by Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6), ss. 2(5), 17(3) (with s. 14); S.S.I. 2010/314, art. 3 (subject to transitional and saving provisions in S.S.I. 2010/316, arts. 4-7)
+[^F98]: S. 24(10) inserted (1.3.2011) by Housing (Scotland) Act 2010 (asp 17), ss. 152(2), 166; S.S.I. 2011/96, art. 2, sch. (with arts. 3-5)
+[^F99]: S. 24A inserted (30.9.2010) by Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6), ss. 4(1), 17(3) (with s. 14); S.S.I. 2010/314, art. 3 (subject to transitional and saving provisions in S.S.I. 2010/316, arts. 4-7)
+[^F100]: Ss. 24B, 24C inserted (30.9.2010) by Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6), ss. 5(1), 17(3) (with s. 14); S.S.I. 2010/314, art. 3 (subject to transitional and saving provisions in S.S.I. 2010/316, arts. 4-7)
+[^F101]: S. 24D inserted (30.9.2010) by Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6), ss. 6(1), 17(3) (with s. 14); S.S.I. 2010/314, art. 3 (subject to transitional and saving provisions in S.S.I. 2010/316, arts. 4-7)
+[^F102]: S. 24E inserted (3.10.2010) by Home Owner and Debtor Protection (Scotland) Act 2010 (asp 6), ss. 7(1), 17(3) (with s. 14); S.S.I. 2010/314, art. 4 (subject to transitional and saving provisions in S.S.I. 2010/316, arts. 4-7)
+[^F103]: Words in s. 25 inserted (14.6.2004) by Land Reform (Scotland) Act 2003 (asp 2), ss. 40(6), 100(3) (with ss. 65(3), 100(2)); S.S.I. 2004/247, art. 2(a)
+[^F104]: Words in s. 26(1) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(14)(a) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F105]: Words in s. 26(2) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(14)(b) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F106]: Words in s. 27(1)(c) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(15) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F107]: Words inserted by Land Registration (Scotland) Act 1979 (c. 33, SIF 31:3), Sch. 2 para. 4(*a*)
+[^F108]: Words in s. 28(5) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(16)(a)(i) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F109]: Words substituted by Redemption of Standard Securities (Scotland) Act 1971 (c. 45), s. 1(f)
+[^M3]: 1924 c. 27.
+[^M4]: 1868 c. 101.
+[^F110]: Words inserted by Land Registration (Scotland) Act 1979 (c. 33, SIF 31:3), Sch. 2 para. 4(*b*)
+[^F111]: Words in s. 28(5) substituted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(16)(a)(ii) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F112]: Words in s. 28(5) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(16)(a)(iii) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F113]: Words in s. 28(6) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(16)(b)(i) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F114]: Words in s. 28(6)(a) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(16)(b)(ii) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F115]: Words in s. 28(7) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(16)(c) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^M5]: 1894 c. 44.
+[^F116]: S. 29(2)(3) repealed by S.I. 1990/661, para. 5
+[^F117]: Words in s. 30(1) substituted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(17)(a) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F118]: S. 30(1): definition of "real right in land" substituted (28.11.2004) for "interest in land" by 2000 asp 5, ss. 76(1), 77(2)(c), sch. 12 Pt. 1 para. 30(16)(a) (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F119]: Words in s. 30(1) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(17)(b) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F120]: Words in s. 30(1) inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(17)(c) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F121]: S. 30(2): definition of "infeft" repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(16)(b), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F122]: S. 33 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(17), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F123]: S. 33 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(17), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F124]: S. 35 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(17), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^M6]: 1874 c.94.
+[^F125]: S. 39 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(17), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F126]: Words in s. 41(1) substituted (28.11.2004) by 2000 asp 5, ss. 76(1), 77(2)(c), sch. 12 Pt. 1 para. 30(18)(a) (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F127]: Words in s. 41(1) repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(18)(b), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F128]: S. 41(5) inserted by Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 61:1), s. 59, Sch. 2 para. 11
+[^F129]: S. 43(1): definition of "the Act of 1894" repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(19), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^M7]: 1924 c. 27.
+[^F130]: S. 44 repealed (1.8.1995) by 1995 c. 7, ss. 14(2), 15(2), Sch. 5 (with ss. 9(3)(5)(7), 13, 14(3))
+[^M8]: 1938 c. 24.
+[^F131]: S. 49 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(20), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F132]: S. 50(1) repealed (1.6.2009) by The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307), art. 5(5), Sch. 4 (with Sch. 5)
+[^M9]: 1958 c.66.
+[^F133]: Words in s. 51 substituted (28.11.2004) by 2000 asp 5, ss. 76(1), 77(2)(c), sch. 12 Pt. 1 para. 30(21) (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^M10]: 1868 c. 101.
+[^M11]: 1874 c. 94.
+[^M12]: 1924 c. 27.
+[^F134]: Words in s. 53(4) substituted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(18) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F135]: S. 53(4): definition of "prescribed" repealed (28.11.2004) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 122(1), 128(2), 129(2), sch. 15 (with ss. 119, 121); S.S.I. 2003/456, art. 2
+[^F136]: Sch. 1 repealed (28.11.2004) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 122(1), 128(2), 129(2), sch. 15 (with ss. 119, 121); S.S.I. 2003/456, art. 2
+[^M13]: 1966 c. 4.
+[^M14]: 1949 c. 67.
+[^F137]: Word in Sch. 1 para. 5 repealed (27.11.2003) by Agricultural Holdings (Scotland) Act 2003 (asp 11), ss. 94, 95(3), sch. para. 3(a) (with s. 95(1)); S.S.I. 2003/548, art. 2(i) (with Sch.)
+[^F138]: Sch. 1 para. 5(a)(aa) substituted for Sch. 1 para. 5(a) (27.11.2003) by Agricultural Holdings (Scotland) Act 2003 (asp 11), ss. 94, 95(3), sch. para. 3(b) (with s. 95(1)); S.S.I. 2003/548, art. 2(i) (with Sch.)
+[^F139]: Word in Sch. 1 para. 5(b)(c) inserted (27.11.2003) by Agricultural Holdings (Scotland) Act 2003 (asp 11), ss. 94, 95(3), sch. para. 3(c) (with s. 95(1)); S.S.I. 2003/548, art. 2(i) (with Sch.)
+[^M15]: 1955 c. 21.
+[^F140]: Words in Sch. 2 Form A substituted (1.8.1995) by 1995 c. 7, ss. 14(1), 15(2), Sch. 4 para. 44(a)(with ss. 9(3)(5)(7), 13, 14(3))
+[^F141]: Words in Sch. 2 Form B substituted (1.8.1995) by 1995 c. 7, ss. 14(1), 15(2), Sch. 4 para. 44(a) (with ss. 9(3)(5)(7), 13, 14(3))
+[^F142]: Sch. 2 Note 1 substituted (28.11.2004) by 2000 asp 5, ss. 76(1), 77(2)(c), sch. 12 Pt. 1 para. 30(23)(a) (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F143]: Words in Sch. 2 Note 2 inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(19)(a) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F144]: Words in Sch. 2 Note 2 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(23)(b)(i), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F145]: Words in Sch. 2 Note 2 substituted (28.11.2004) by 2000 asp 5, ss. 76(1), 77(2)(c), sch. 12 Pt. 1 para. 30(23)(b)(ii) (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F146]: Words in Sch. 2 Note 3 inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(19)(b) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F147]: Words in Sch. 2 Note 3 substituted (28.11.2004) by 2000 asp 5, ss. 76(1), 77(2)(c), sch. 12 Pt. 1 para. 30(23)(c)(i)(ii)(iv)(v) (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F148]: Words in Sch. 2 Note 3 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(23)(c)(iii), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F149]: Words in Sch. 2 Note 4 inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(19)(c) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F150]: Schedule 2, Note 8 added (1.8.1995) by 1995 c. 7, ss. 14(1), 15(2), Sch. 4 para. 44(b) (with ss. 9(3)(5)(7), 13, 14(3))
+[^F151]: Words in Sch. 2 Note 8 substituted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(19)(d)(i) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F152]: Words in Sch. 2 Note 8 inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(19)(d)(ii) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F153]: Words substituted by Bankruptcy (Scotland) Act 1985 (c. 66, SIF 11:2), s. 75(1), Sch. 7 para. 8
+[^F154]: Words from “or his estate” to “Act 1986” substituted by virtue of Insolvency Act 1985 (c. 65, SIF 11:1), Sch. 8 para. 18
+[^F155]: Words substituted by virtue of Insolvency Act 1986 (c. 45, SIF 66), s. 443, Sch. 14
+[^F156]: Words in Sch. 3 condition 10(3) repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(24), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F157]: Words substituted by Redemption of Standard Securities (Scotland) Act 1971 (c. 45), s. 1(g)
+[^F158]: Words in Sch. 3 para. 12 inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(20)(a) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F159]: Words in Sch. 3 para. 12 inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(20)(b) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F160]: Words in Sch. 4 Form A substituted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(21) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F161]: Words in Sch. 4 Form A substituted (1.8.1995) by 1995 c. 7, ss. 14(1), 15(2), Sch. 4 para. 45(a) (with ss. 9(3)(5)(7), 13, 14(3))
+[^F162]: Words in Sch. 4 Form C substituted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(21) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F163]: Words in Sch. 4 Form C substituted (1.8.1995) by 1995 c. 7, ss. 14(1), 15(2), Sch. 4 para. 45(a) (with ss. 9(3)(5)(7), 13, 14(3))
+[^F164]: Words in Sch. 4 Form D substituted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(21) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F165]: Words in Sch. 4 Form D substituted (1.8.1995) by 1995 c. 7, ss. 14(1), 15(2), Sch. 4 para. 45(a) (with ss. 9(3)(5)(7), 13, 14(3))
+[^F166]: Words in Sch. 4 Form E substituted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(21) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F167]: Words in Sch. 4 Form E substituted (1.8.1995) by 1995 c. 7, ss. 14(1), 15(2), Sch. 4 para. 45(a) (with ss. 9(3)(5)(7), 13, 14(3))
+[^F168]: Words in Sch. 4 Form F substituted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(21) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F169]: Words in Sch. 4 Form F substituted (1.8.1995) by 1995 c. 7, ss. 14(1), 15(2), Sch. 4 para. 45(a) (with ss. 9(3)(5)(7), 13, 14(3))
+[^F170]: Words in Sch. 4 Note 1 inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(22)(a)(i) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F171]: Words in Sch. 4 Note 1 inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(22)(a)(ii) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F172]: Words in Sch. 4 Note 3 substituted (28.11.2004) by 2000 asp 5, ss. 76(1), 77(2)(c), sch. 12 Pt. 1 para. 30(25) (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F173]: Words in Sch. 4 Note 3 inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(22)(b)(i) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F174]: Words in Sch. 4 Note 3 substituted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(22)(b)(ii) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F175]: Words in Sch. 4 Note 5 inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(22)(c)(i) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F176]: Words in Sch. 4 Note 5 inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(22)(c)(ii) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F177]: Words in Sch. 4 Note 6 inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(22)(d) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F178]: Sch. 4 Note 7 added (1.8.1995) by 1995 c. 7, ss. 14(1), 15(2), Sch. 4, para. 45(b) (with ss. 9(3)(5)(7), 13, 14(3))
+[^F179]: Words in Sch. 4 Note 7 substituted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(22)(e)(i) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F180]: Words in Sch. 4 Note 7 inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(22)(e)(ii) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F181]: Words in Sch. 5 Form A substituted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(23)(a) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F182]: Words in Sch. 5 Form D Nos. 1 and 2 substituted by virtue of (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(23)(b) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F183]: Words in Sch. 5 Form D No. 1 substituted (1.8.1995) by 1995 c. 7, ss. 14(1), 15(2), Sch. 4, para. 46(a) (with ss. 9(3)(5)(7), 13, 14(3))
+[^F184]: Note for Sch. 5 Form D Nos. 1 and 2 added (1.8.1995) by 1995 c. 7, ss. 14(1), 15(2), Sch. 4, para. 46(b) (with ss. 9(3)(5)(7), 13, 14(3))
+[^F185]: Words in Sch. 5 Form D Nos. 1 and 2 Notes substituted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(23)(c)(i) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F186]: Words in Sch. 5 Form D Nos. 1 and 2 Notes inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(23)(c)(ii) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F187]: Words in Sch. 5 Form D No. 2 substituted (1.8.1995) by 1995 c. 7, ss. 14(1), 15(2), Sch. 4 para. 46(a) (with ss. 9(3)(5)(7), 13, 14(3))
+[^F188]: Note for Sch. 5 Form D Nos. 1 and 2 added (1.8.1995) by 1995 c. 7, ss. 14(1), 15(2), Sch. 4 para. 46(b) (with ss. 9(3)(5)(7), 13, 14(3))
+[^F189]: Sch. 6: in each of forms A and B, the words “registered in the Land Register of Scotland on … over title number … (or recorded in the Register for … on …)” are substituted (8.12.2014) for the words “recorded in the register for … on …” by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(24) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^X1]: Sch. 6: Forms A-BB were substituted (30.9.2010) by The Home Owner and Debtor Protection (Scotland) Act 2010 (Consequential Provisions) Order 2010 (S.S.I. 2010/318), art. 2, Sch. Pt. 1 para. 2; from that date, Forms B and BB are represented as a single 'image' viewable by accessing Form B.
+[^F190]: Sch. Form BB inserted (3.12.2001) by 2001 asp 11, s. 4, Sch. Pt. 1 para. 4 (with s. 5); S.S.I. 2001/418, art. 2 (with transitional provision in art. 3)
+[^X2]: Sch. 6: Forms E, F were substituted (30.9.2010) by The Home Owner and Debtor Protection (Scotland) Act 2010 (Consequential Provisions) Order 2010 (S.S.I. 2010/318), art. 2, Sch. Pt. 1 para. 3; from that date, Forms E and F are represented as a single 'image' viewable by accessing Form E
+[^F191]: Sch. 6 Form F inserted (3.12.2001) by 2001 asp 11, s. 4, Sch. Pt. 1 para. 5 (with transitional provision in art. 3)
+[^M16]: 1856 c. 91.
+[^M17]: 1857 c. 26.
+[^F192]: Sch. 8 paras. 2, 3, 7-14, 16, 17, 18-22, 24, 26-30 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(26), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F193]: Sch. 8 paras. 2, 3, 7-14, 16, 17, 18-22, 24, 26-30 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(26), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^M18]: 1868 c. 101.
+[^F194]: Sch. 8 paras. 2, 3, 7-14, 16, 17, 18-22, 24, 26-30 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(26), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F195]: Sch. 8 paras. 2, 3, 7-14, 16, 17, 18-22, 24, 26-30 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(26), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F196]: Sch. 8 paras. 2, 3, 7-14, 16, 17, 18-22, 24, 26-30 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(26), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F197]: Sch. 8 paras. 2, 3, 7-14, 16, 17, 18-22, 24, 26-30 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(26), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F198]: Sch. 8 paras. 2, 3, 7-14, 16, 17, 18-22, 24, 26-30 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(26), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F199]: Sch. 8 paras. 2, 3, 7-14, 16, 17, 18-22, 24, 26-30 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(26), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F200]: Sch. 8 paras. 2, 3, 7-14, 16, 17, 18-22, 24, 26-30 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(26), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F201]: Sch. 8 paras. 2, 3, 7-14, 16, 17, 18-22, 24, 26-30 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(26), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^M19]: 1874 c. 94.
+[^F202]: Sch. 8 paras. 2, 3, 7-14, 16, 17, 18-22, 24, 26-30 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(26), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F203]: Sch. 8 paras. 2, 3, 7-14, 16, 17, 18-22, 24, 26-30 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(26), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^M20]: 1894 c. 44.
+[^F204]: Sch. 8 paras. 2, 3, 7-14, 16, 17, 18-22, 24, 26-30 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(26), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F205]: Sch. 8 paras. 2, 3, 7-14, 16, 17, 18-22, 24, 26-30 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(26), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F206]: Sch. 8 paras. 2, 3, 7-14, 16, 17, 18-22, 24, 26-30 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(26), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F207]: Sch. 8 paras. 2, 3, 7-14, 16, 17, 18-22, 24, 26-30 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(26), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F208]: Sch. 8 paras. 2, 3, 7-14, 16, 17, 18-22, 24, 26-30 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(26), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F209]: Sch. 8 para. 23 repealed (28.11.2004) by 2000 asp 5, ss. 76(2), 77(2)(d), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F210]: Sch. 8 paras. 2, 3, 7-14, 16, 17, 18-22, 24, 26-30 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(26), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^M21]: 1924 c. 27.
+[^F211]: Sch. 8 paras. 2, 3, 7-14, 16, 17, 18-22, 24, 26-30 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(26), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F212]: Sch. 8 paras. 2, 3, 7-14, 16, 17, 18-22, 24, 26-30 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(26), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F213]: Sch. 8 paras. 2, 3, 7-14, 16, 17, 18-22, 24, 26-30 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(26), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F214]: Sch. 8 paras. 2, 3, 7-14, 16, 17, 18-22, 24, 26-30 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(26), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F215]: Sch. 8 paras. 2, 3, 7-14, 16, 17, 18-22, 24, 26-30 repealed (28.11.2004) by 2000 asp 5, ss. 76(1)(2), 77(2)(c)(d), sch. 12 Pt. 1 para. 30(26), sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F216]: Words in Sch. 9 substituted (1.8.1995) by 1995 c. 7, ss. 14(1), 15(2), Sch. 4 para. 47(a) (with ss. 9(3)(5)(7), 13, 14(3))
+[^F217]: Sch. 9 Note 4 added (1.8.1995) by 1995 c. 7, ss. 14(1), 15(2), Sch. 4, para. 47(b) (with ss. 9(3)(5)(7), 13, 14(3))
+[^F218]: Words in Sch. 9 Note 4 substituted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(25)(a) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^F219]: Words in Sch. 9 Note 4 inserted (8.12.2014) by Land Registration etc. (Scotland) Act 2012 (asp 5), ss. 122, 123, sch. 5 para. 17(25)(b) (with s. 121, sch. 4 paras. 13, 16); S.S.I. 2014/127, art. 2
+[^M22]: 1857 c. 26.
+[^M23]: 1924 c. 27.
+[^M24]: 1963 c. 51.

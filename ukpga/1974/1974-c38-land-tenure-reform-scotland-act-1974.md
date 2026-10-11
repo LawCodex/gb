@@ -1,0 +1,545 @@
+---
+title: "Land Tenure Reform (Scotland) Act 1974"
+identifier: "ukpga/1974/38"
+citation: "1974 c.38"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "S"
+date: 1974-07-31
+last_amended: 2017-12-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1974/38"
+source_modified: 2018-02-20
+retrieved: 2026-10-11
+---
+
+# Land Tenure Reform (Scotland) Act 1974
+
+**1974 c.38**
+
+An Act to provide, as respects Scotland, for the prohibition of new feuduties and other periodical payments from land; for the right to redeem feuduties and other such perpetual payments on a term day; for the redemption by law of feuduties and other such payments on transfer of land; for limitations on the residential use of property subject to long lease and other rights of occupancy; for the variation of heritable securities in the event of residential use of the security subjects; for restrictions on certain rights of reversion, redemption and pre-emption; for limitation of the right to raise an action of irritancy for non-payment of feuduty; for abolition of the right to create leasehold casualties; for the recognition of interposed leases; for amendment of the law relating to registration of leases; for abolition of the registration and recording of documents in the Office of Chancery; and for related matters.
+
+[31st July 1974]
+
+## Part I — Prohibition of Future Feuduties, and Redemption of Feuduties, Etc.
+
+### [^F1]1 Prohibition of new feuduties.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 2 Prohibition of new ground annuals and other periodical payments from land.
+
+(1) No deed executed after the commencement of this Act shall impose ground annual, skat or any other periodical payment [^F2]... in respect of the tenure or use of land or under a [[^F3]title condition], not being a payment in respect of a lease, liferent or other right of occupancy, [^F2]... a payment in defrayal of or contribution towards some continuing cost related to the land, or a payment under a heritable security.
+
+(2) A provision in a deed executed after such commencement which purports to impose any payment to which subsection (1) above applies shall not render the deed void or unenforceable, but the deed shall have effect only to the extent (if any) that it would have had effect under the law in force before such commencement if it had not imposed any such payment.
+
+[[^F4](3) In subsection (1) above, “ title condition ” has the meaning given by section 122(1) of the Title Conditions (Scotland) Act 2003 (asp 9). ]
+
+### [^F1]3 Charters of novodamus, etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]4 Right to redeem feuduty, ground annual, etc. on a term day.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]5 Redemption by law of feuduty, ground annual, etc. on transfer of land for valuable consideration.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]6 Redemption by law of feuduty, ground annual, etc. on acquisition of land by authority possessing compulsory purchase powers.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F1]7 Transitional and supplementary provisions relative to Part I.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part II — Limitations on Residential Use of Property Let Under Future Long Leases
+
+### 8 Property let under future long lease, etc. not to be used as private dwelling-house.
+
+(1) It shall be a condition of every long lease executed after the commencement of this Act that, subject to the provisions of this Part of this Act, no part of the property which is subject to the lease shall be used as or as part of a private dwelling-house.
+
+(2) For the purposes of this Part of this Act, any garden, yard, garage, outhouse or pertinent used along with any dwelling-house shall be deemed to form part of a dwelling-house, and use as a dwelling-house shall not include use as the site of a caravan.
+
+(3) The use as or as part of a private dwelling-house of part of a property which is subject to a long lease shall not constitute a breach of the condition contained in subsection (1) above if such use is ancillary to the use of the remainder of the property otherwise than as or as part of a private dwelling-house and it would be detrimental to the efficient exercise of the use last-mentioned if the said ancillary use did not occur on that property.
+
+[[^F5](3ZA) The condition contained in subsection (1) above does not apply in relation to a private residential tenancy as defined in the Private Housing (Tenancies) (Scotland) Act 2016.]
+
+[[^F6](3A) The condition contained in subsection (1) above does not apply to a long lease executed after the commencement of section 138 of the Housing (Scotland) Act 2010 (asp 17) where at the time the lease is executed the lessee is—
+
+(a) a social landlord (within the meaning of section 165 of the Housing (Scotland) Act 2010);
+
+(b) a body connected to a social landlord (within the meaning of section 164 of the Housing (Scotland) Act 2010); [^F7] ...
+
+(c) a rural housing body (within the meaning of section 122(1) of the Title Conditions (Scotland) Act 2003)][[^F8]; or
+
+(d) a body prescribed, or of a type prescribed, by the Scottish Ministers by order made by statutory instrument.]
+
+[[^F9](3B) An order under subsection (3A)(d) may—
+
+(a) prescribe a body or type of body subject to conditions or restrictions,
+
+(b) prescribe conditions which a body or type of body must meet for the purposes of subsection (3A),
+
+(c) restrict the application of subsection (3A) to specified leases, or leases of specified descriptions,
+
+(d) prescribe circumstances in which subsection (3A) is to apply or cease to apply in relation to a body or type of body or any lease,
+
+(e) make provision about the consequences, in relation to any lease, of—
+
+(i) a breach of any condition or restriction prescribed by the order, or
+
+(ii) subsection (3A) otherwise ceasing to apply in relation to a body or type of body or the lease.
+
+(3C) Provision made by virtue of subsection (3B)(e) may, in particular, include provision for the protection of the interests of tenants or occupiers of any dwelling-houses on the property which is subject to the lease.
+
+(3D) An order under subsection (3A)(d)—
+
+(a) may modify any enactment, and
+
+(b) is not to be made unless a draft of the statutory instrument containing the order has been laid before, and approved by resolution of, the Scottish Parliament.]
+
+(4) For the purposes of this Part of this Act—
+
+- “lessor” and “lessee” mean any person holding for the time being the interest of lessor or lessee (as the case may be); and
+- “long lease” means any grant of—
+
+(a) a lease, or
+
+(b) a liferent or other right of occupancy granted for payment (other than payment in defrayal of or contribution towards some continuing cost related to such liferent use or such occupancy, as the case may be),
+
+which is either—
+
+(i) subject to a duration, whether definite or indefinite, which could (in terms of the grant and without any subsequent agreement, express or implied, between the persons holding the interests of the grantor and the grantee) extend for more than 20 years, or
+
+(ii) subject to any provision whereby any person holding the interest of the grantor or the grantee is under a future obligation, if so requested by the other, to renew the grant so that the total duration could so extend for more than 20 years, or whereby, if he does not so renew it, he will be liable to make some payment or to perform some other obligation [[^F10]but, in relation to a lease granted before 1st September 1974, does not include its renewal (whether before or after the commencement of section 1 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985) in implement of an obligation in or under it.]
+
+(5) This Part of this Act shall not apply in relation to the use of property for the time being forming part or deemed to form part of—
+
+[[^F11](a) the land comprised in a lease constituting a 1991 Act tenancy, within the meaning of the Agricultural Holdings (Scotland) Act 2003 (asp 11);
+
+(aa) the land comprised in a lease constituting a short limited duration tenancy [[^F12], a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy], within the meaning of that Act;]
+
+(b) a holding, within the meaning of the Small Landholders (Scotland) Acts 1886 to 1931;
+
+(c) a croft, within the meaning of the [^M1] Crofters (Scotland) Acts 1955 and 1961.
+
+(6) Nothing in this Part of this Act shall affect the right of the lessor to terminate the lease and recover possession of the property subject thereto on the ground of breach of a conventional condition of the lease which has the effect of prohibiting such use of the property as constitutes a breach of the condition contained in subsection (1) above.
+
+(7) Nothing in this Part of this Act shall prevent a tenancy from being or becoming a protected or statutory tenancy within the meaning of the Rent (Scotland) Act [[^F13]1984 or a [[^F14]Scottish secure tenancy within the meaning of the Housing (Scotland) Act 2001 (asp 10)]], but nothing in [[^F15]either of those Acts] restricting the power of a court to make an order for possession of a dwelling-house shall prevent the granting of a decree of removing under section 9(1) of this Act.
+
+### 9 Consequences of use as dwelling-house of property subject to long lease.
+
+(1) A breach of the condition of a long lease executed after the commencement of this Act, contained in section 8(1) of this Act, shall not render the lease void or unenforceable, but, subject to the provisions of this section and of section 10 of this Act, where such a breach occurs, the lessor shall be entitled to give to the lessee notice to terminate the use constituting the breach within 28 days from the date of the notice; and, if the lessee shall fail to terminate that use within that period, the lessor shall be entitled to raise an action of removing against the lessee concluding for his removal from such part of the property as is subject to the use at the expiry of 28 days after the decree of removing is extracted, and the court may decern for the termination of the lease in respect of such part and the removal of the lessee therefrom and, failing such removal, for his ejection therefrom on expiry of the 28 days last mentioned.
+
+(2) A notice under subsection (1) above shall be in or as nearly as may be in the form contained in Schedule 5 to this Act.
+
+(3) It shall be a defence to an action under subsection (1) above that the breach of condition constituting the ground of action has ceased.
+
+(4) Subject to section 10(3) of this Act, in an action under subsection (1) above, if it is proved that the use of the property constituting the ground of action has at any time been approved by the person holding at that time the interest of the lessor in the lease, either expressly or by his actings, and the said use has not subsequently been discontinued, the court shall not decern in terms of that subsection, but—
+
+(a) where the lease is subject to a duration expiring in a year more than 20 years after the year in which the notice under subsection (1) above relative to the breach was given, the court shall decern that the lease shall, in respect of such part of the property as is subject to the use, have effect as if for the year of expiry there were substituted the year 20 years after the year in which the said notice was given;
+
+(b) where the lease is subject to a duration expiring in a year less than 20 years after that year, the lease shall continue in force according to its terms;
+
+and the said part of the property subject to the lease (and, during the remaining period of the lease as determined by reference to this subsection, any over-lease, insofar as it relates to that part) shall cease to be subject to the condition contained in section 8(1) of this Act.
+
+(5) Where the breach of condition constituting the ground of action under subsection (1) above relates to part only of the property subject to the lease, any decree granted to the pursuer in the action under subsection (1) or (4)(a) above shall contain a particular description or a description by reference (in accordance with the provisions of the [^M2]Conveyancing (Scotland) Act 1874 and the [^M3]Conveyancing (Scotland) Act 1924) of such part; and in such a case the court shall decern for such adjustment (if any) as it thinks fit (to take effect on the termination of the lease of such part in terms of the decree) in the rent of the remaining part of the property and in the conditions of the lease, including the addition of new conditions, but not including any provision for the payment of money.
+
+(6) Subject to the provisions of this Part of this Act and of section 37(1) of the [^M4]Sheriff Courts (Scotland) Act 1971, and notwithstanding section 35(1)(c) of that Act, the procedure in an action of removing under this section shall be that in an ordinary cause; and on the granting of a decree to the pursuer in such an action, or at any time before the decree is extracted, the court may sist extract of the decree for such period or periods as it thinks fit to enable any facts to be established which (if the action were still pending) would constitute a defence thereto, and if the court is satisfied that any such facts are established it may vary or rescind the decree, subject to such conditions (if any) with regard to payment of arrears of rent and otherwise as the court thinks fit.
+
+(7) Notwithstanding [^M5]the provisions of section 24 of the Court of Session Act 1868, Rule 63(b) of the Rules of Court 1965 or Rule 25 of Schedule 1 to the Sheriff Courts (Scotland) Act 1907, a decree granted in an action under this section shall, as in a question with third parties who have acted onerously and in good faith in reliance on the records, be final and not subject to challenge when an extract thereof shall have been recorded in the Register of Sasines.
+
+(8) The provisions of this section and of section 10 of this Act shall apply in relation to a grant (not being a lease) mentioned in section 8(4) of this Act as they apply in relation to a lease, and any reference to a lease, over-lease or sub-lease, to the parties thereto, or to rent, shall be construed accordingly.
+
+### 10 Modification of s. 9 where lease subject to sub-lease or heritable security.
+
+(1) For the avoidance of doubt, it is hereby declared that (subject to the provisions of this section) sections 8 and 9 of this Act shall apply, as between the parties to any over-lease or sub-lease executed after the commencement of this Act, as they apply as between the parties to any other lease so executed.
+
+(2) The pursuer in an action under section 9 of this Act shall give such intimation thereof as the court may direct—
+
+(a) to every person appearing, from a search in the Register of Sasines for a period of 20 years immediately prior to the raising of the action, to hold for the time being the interest of creditor in a heritable security over the lease which is the subject of the action; and
+
+(b) where the said lease is, in relation to any part of the property which is subject to the use constituting the ground of action, subject to any sub-lease, to every person appearing from such a search and from examination of the valuation roll or otherwise to be the lessee in any such sub-lease (of whatever duration) or the creditor in a heritable security over any such sub-lease;
+
+and any such creditor or lessee as aforesaid shall, subject to the provisions of this section, be entitled to plead in the action any defence which could be pleaded by the defender in the action.
+
+(3) The defence provided under section 9(4) of this Act shall not be available to the lessee in a lease in respect of the use of property subject to a sub-lease derived from that lease.
+
+(4) A sub-lessee, provided that he could have pleaded the defence provided by section 9(4) of this Act in an action by the lessor in the sub-lease, may, on being sisted to an action under the said section 9 by the lessor in any over-lease, plead that defence in relation to the approval by the lessor in that over-lease or in any sub-lease under that over-lease of property which is subject to the use constituting the ground of action; and the court, on being satisfied that the defence is established to that effect, shall be entitled to decern in terms of the said section 9(4) as if the action had been brought by the lessor in the sub-lease first mentioned.
+
+(5) The right provided by subsection (4) above shall be available to a sub-lessee whose lease is not a long lease to the same extent as if it had been a long lease.
+
+## Part III — Miscellaneous
+
+### 11 Right to redeem heritable security after 20 years where security subjects used as private dwelling-house.
+
+(1) The provisions of this section shall apply in relation to a heritable security executed after the commencement of this Act, including a heritable security in relation to a debenture described in [[^F16] section 739 of the Companies Act 2006 (perpetual debentures) ].
+
+(2) The debtor in a heritable security to which this section applies, or, where the debtor is not the proprietor, the proprietor of the security subjects shall, subject to the provisions of this section, be entitled, on giving two months, notice of his intention so to do, to redeem the security at any time not less than 20 years after the execution thereof, if, at the time when he gives such notice, the security subjects or any part thereof are used as or as part of a private dwelling-house.
+
+In determining for the purposes of this section whether such use has occurred, subsection (2) of section 8 of this Act shall apply as it applies for the purposes of that section, and the ancillary use described in subsection (3) of that section shall not render the security subjects subject to the provisions of this section.
+
+(3) The right to redeem a heritable security conferred by this section shall not apply where the use of the security subjects which is purported to constitute the ground of the right, in terms of subsection (2) above, was, at the time of the notice aforesaid, in contravention of a conventional condition of or relating to the security, unless the person in right of the creditor at any time had approved that use expressly or by his actings, and the said use had not subsequently been discontinued.
+
+[[^F17](3A) The right to redeem a heritable security conferred by this section does not apply to a heritable security where—
+
+(a) the debtor (or where the debtor is not the proprietor, the proprietor of the security subjects) has in writing renounced the right to redeem conferred by this section; and
+
+(b) at the time of doing so that body is—
+
+(i) a social landlord (within the meaning of section 165 of the Housing (Scotland) Act 2010);
+
+(ii) a body connected to a social landlord (within the meaning of section 164 of the Housing (Scotland) Act 2010) [^F18] ...
+
+(iii) a rural housing body (within the meaning of section 122(1) of the Title Conditions (Scotland) Act 2003)][[^F19]; or
+
+(iv) a body prescribed, or of a type prescribed, by the Scottish Ministers by order made by statutory instrument.]
+
+[[^F20](3B) An order under subsection (3A)(b)(iv) may—
+
+(a) prescribe a body or type of body subject to conditions or restrictions,
+
+(b) prescribe conditions which a body or type of body must meet for the purposes of subsection (3A),
+
+(c) restrict the application of subsection (3A) to specified heritable securities, or heritable securities of specified descriptions,
+
+(d) prescribe circumstances in which subsection (3A) is to apply or cease to apply in relation to a body or type of body or any heritable security.
+
+(3C) A statutory instrument containing an order under subsection (3A)(b)(iv) is subject to annulment in pursuance of a resolution of the Scottish Parliament.]
+
+[[^F21](3D) The right to redeem a heritable security conferred by this section does not apply to a heritable security which is in security of a debt of a description specified in an order made by the Scottish Ministers.
+
+(3E) An order under subsection (3D) may—
+
+(a) disapply the right to redeem conferred by this section subject to conditions or restrictions,
+
+(b) restrict the disapplication of the right to redeem conferred by this section to—
+
+(i) specified descriptions of debt,
+
+(ii) specified creditors, or creditors of specified descriptions,
+
+(ii) specified heritable securities, or heritable securities of specified descriptions,
+
+(c) prescribe circumstances in which the disapplication of the right to redeem conferred by this section is to apply or cease to apply.
+
+(3F) An order under subsection (3D) is subject to the negative procedure.]
+
+(4) Subject to the provisions of subsection (5) below, the whole amount due to the creditor in a heritable security on redemption under this section, including any sums due thereunder by way of interest or otherwise, shall not exceed the amount remaining unredeemed of—
+
+(a) where the security constituted to any extent (whether expressly or otherwise) the consideration for the acquisition of the security subjects by the debtor or proprietor or his predecessor in title, any excess of the value of the security subjects at the date of the execution of the security over the amount of money paid for the subjects, and
+
+(b) any money advanced under the security to the debtor or proprietor and his predecessors in title, and
+
+(c) any expense or charge reasonably incurred by the creditor in the exercise of a right to perform any obligation imposed on the debtor, which the debtor has failed to perform, and which was reasonably necessary for the protection of the security,
+
+together with interest outstanding at the date of the said notice of redemption and interest due for the period between the date of that notice and the date of redemption, at the rate applicable in terms of the security immediately before that date.
+
+(5) In the application of paragraph (a) of subsection (4) above to security subjects which are burdened with two or more heritable securities to which this section applies, the maximum amount determined in accordance with that paragraph shall be apportioned among the securities according to the rights and preferences of the creditors in the securities; and the amount so apportioned in respect of each of the securities shall, on the redemption of any of the securities, be the maximum amount due in terms of that paragraph on the redemption at any time of all such securities.
+
+(6) In section 18 of the Conveyancing and Feudal Reform (Scotland) Act 1970 [^M6] (as amended by the Redemption of Standard Securities (Scotland) Act 1971 [^M7]), in subsection (1A), at the beginning there shall be inserted the words “ Without prejudice to section 11 of the Land Tenure Reform (Scotland) Act 1974 ”.
+
+### 12 Restriction to 20 years of period within which certain rights of redemption and reversion are exercisable.
+
+A right of redemption or reversion of land (other than the right of a lessor to the reversion of a lease), created in a deed executed after the commencement of this Act, which purports to be exercisable on the happening of an event which is bound to occur, or the occurrence of which is within the control of the person for the time being entitled to exercise the right or of a third party, shall be exercisable only within 20 years of the date of its creation.
+
+### 13 Restriction on rights of preemption to apply in every case.
+
+In section 9 of the Conveyancing Amendment (Scotland) Act 1938 [^M8] (limitation of effect of conditions as to pre-emption) there shall be added the following subsection—
+
+> (3) the provisions of this section shall apply in the case of any right of pre-emption, created in a deed or other writing executed after 1st September 1974, in favour of any person, of an interest in land in the event of a sale thereof or of any part thereof by the proprietor for the time being, as they apply in the case of such a right vested in the superior of a feu : and in the application of this section in such a case,
+>
+> (a) “superior”, “proprietor”, “feu” and “charter” shall be construed accordingly ;
+>
+> (b) in subsection (1) of this section, for the words “person in right of the superiority (whether or not his title thereto is complete)” there shall be substituted the words “ person in whom the right is vested ” ;
+>
+> (c) in subsection (2) of this section, the words “in use to receive and discharge the feuduty in respect of the feu” shall not apply.
+
+### [^F22]14 Amendment of s.17 of Crofters (Scotland) Act 1955.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F23]15 Limitation of right of irritancy for non-payment of feuduty. 1597 c. 240(S.).
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 16 No casualties in future leases.
+
+In leases executed after the commencement of this Act, it shall not be lawful to stipulate for the payment of any casualty, but this provision shall be without prejudice to the right to stipulate for review of rent or for a permanent or periodical variation of rent in accordance with any condition of or relating to the lease.
+
+### 17 Interposed leases.
+
+(1) It shall be competent, and shall be deemed always to have been competent, for the person in right of the lessor of a lease to grant, during the subsistence of that lease, a lease of or including his interest in the whole or part of the land subject to the lease first mentioned, and whether longer or shorter than or of the same duration as that lease, and the said grant shall be effectual (or, as the case may be, shall be deemed to have been effectual) for all purposes as a lease of land; and the grantee or person in his right shall be deemed (whether before or after the commencement of this Act) to have entered into the possession of the land leased under the grant at the date of that grant: Provided that, in the case of a lease which is registrable under the [^M9]Registration of Leases (Scotland) Act 1857, or which (being a lease granted before the commencement of this Act) would have been so registrable if this Act had been in force, the rights of parties shall be determined by reference to that Act, as amended by any other enactment, including this Act.
+
+(2) Subject to any agreement to the contrary, as from the date of the grant of a lease in terms of subsection (1) above, the lessee under the lease so granted shall become (or, as the case may be, shall be deemed to have become) the lessor of the lessee in the subsisting lease, on the same terms and conditions as if the subsisting lease had, in respect of the property subject to the lease granted as aforesaid, been assigned to the grantee of the lease so granted; and, on the determination, for any reason, of the lease so granted, any remaining rights and obligations of the person in right of the said grantee, in relation to the said subsisting lease, shall vest (or as the case may be, shall be deemed to have vested) in the person in right of the grantor of the lease granted as aforesaid, on the same terms and conditions as if that lease had not been granted.
+
+### 18 Amendment of law relating to registration of leases.
+
+The Registration of Leases (Scotland) Act 1857 and the [^M10]Long Leases (Scotland) Act 1954 shall have effect subject to the provisions of Schedule 6 to this Act.
+
+### 19 Recording of extract orders of Land Tribunal.
+
+Section 3(1)(*d*) of the Lands Tribunal Act 1949 [^M11] (as inserted by section 50(2) of the Conveyancing and Feudal Reform (Scotland) Act 1970 [^M12]) [^F24]... shall have effect, and shall be deemed always to have had effect, with the substitution, [^F24]... for the word “order”, of the words “extract of an order”.
+
+### 20 Abolition of registration and recording, etc., of documents in Office of Chancery.
+
+It shall cease to be competent to register or record in the books kept in the Office of Chancery in Scotland any of the documents directed to be so registered or recorded by section 7 of the [^M13]Crown Lands (Scotland) Act 1833, or to enter in the minute book of that Office a minute or memorandum of any such document directed to be so entered by section 7 of the [^M14]Commissioners of Works Act 1852; and accordingly the said sections shall cease to have effect, and, in paragraph 2(b) of Schedule 2 to the [^M15]Crown Estate Act 1961 (continuation in force of sections 7 and 8 of the said Act of 1833), for the words from “sections” onwards there shall be substituted the words “ section eight (which relates to the effect in Scotland of certain documents) ”.
+
+## Part IV — General
+
+### 21 Provisions for contracting out to be void.
+
+Subject to the provisions of [[^F25] sections 8(3A), 8(6), 11(3) [[^F26], 11(3A) and 11(3D) ]] of this Act, any agreement or other provision, however constituted, which is made after the commencement of this Act, shall be void in so far as it purports to exclude or limit the operation of any enactment contained in this Act.
+
+### 22 Application to Crown.
+
+This Act shall apply to land [^F27]... belonging to Her Majesty in right of the Crown or to a Government department, or held on behalf of Her Majesty for the purposes of a Government department, in like manner as it applies to other land.
+
+### 23 Interpretation and repeals.
+
+(1) In this Act, unless the context otherwise requires—
+
+- “deed” has the meaning assigned to it in section 3 of the [^M16]Titles to Land Consolidation (Scotland) Act 1868, section 3 of the [^M17]Conveyancing (Scotland) Act 1874 and section 2 of the [^M18]Conveyancing (Scotland) Act 1924;
+- “heritable security” (except in relation to sections 4(5), 5(10) and 10(2)) does not include any security for the purpose of securing the payment of a [^F28]... periodical sum payable in respect of land, and “heritable creditors” shall be construed accordingly;
+- “land” has the meaning assigned to it in section 2 of the said Act of 1924.
+
+(2) Unless the context otherwise requires, any reference in this Act to any other enactment is a reference thereto as amended, and includes a reference thereto as extended or applied, by or under any other enactment, including this Act.
+
+(3) The enactments specified in Schedule 7 to this Act are hereby repealed to the extent specified in relation thereto in that Schedule.
+
+### 24 Short title, commencement and extent.
+
+(1) This Act may be cited as the Land Tenure Reform (Scotland) Act 1974.
+
+(2) This Act shall come into operation on 1st September 1974.
+
+(3) This Act shall extend to Scotland only.
+
+## SCHEDULE 1 — Forms Prescribed under section 4
+
+*Section 4.*
+
+### [^F29]... — [^F29]...
+
+[^F29]...
+
+[^F29]...
+
+[^F29]...
+
+[^F29]...
+
+[^F29]...
+
+[^F29]...
+
+[^F29]...
+
+[^F29]...
+
+### [^F29]... — [^F29]...
+
+[^F29]...
+
+[^F29]...
+
+[^F29]...
+
+[^F29]...
+
+[^F29]...
+
+## SCHEDULE 2 — Form of Notice Prescribed under Section 5
+
+*Section 5.*
+
+[^F29]...
+
+[^F29]...
+
+[^F29]...
+
+[^F29]...
+
+[^F29]...
+
+[^F29]...
+
+[^F29]...
+
+[^F29]...
+
+## SCHEDULE 3 — Form of Notice Prescribed under Section 6
+
+*Section 6.*
+
+[^F29]...
+
+[^F29]...
+
+[^F29]...
+
+[^F29]...
+
+[^F29]...
+
+[^F29]...
+
+## SCHEDULE 4 — Statement Referred to in Section 7(1)(b)
+
+*Section 7.*
+
+[^F29]...
+
+[^F29]...
+
+[^F29]...
+
+[^F29]...
+
+## SCHEDULE 5 — Form of Notice Prescribed under Section 9
+
+*Section 9.*
+
+“Notice
+
+under subsection (1) of section 9 of the Land Tenure Reform (Scotland) Act 1974 (consequences of use as dwelling-house of property subject to long lease, etc.)
+
+To Terminate Use as or as part of Private Dwelling-House of Property subject to [Lease]
+
+[Liferent]
+
+[Right of Occupancy]
+
+[*Address of person sending notice, and Date*]
+
+To [*name and address of addressee*]
+
+You are required to terminate the use as or as part of a private dwelling-house of [*give sufficient identification of the property by reference to the lease, etc. or otherwise: if the notice relates to the use of part only of the property subject to the lease, etc., the identification should be a particular description or a description by reference of that part, in terms of section 9(5) of this Act*] within 28 days from the date of this notice, under pain of action of removing in terms of section 9 of the Land Tenure Reform (Scotland) Act 1974.
+
+(Signed) AB.
+
+*or*CD,
+
+Agent for AB.”
+
+*Note to be appended to Notice*
+
+”The reason for giving this notice is contravention of the condition contained in subsection (1) of section 8 of the Land Tenure Reform (Scotland) Act 1974 (property let under long lease, etc. not to be used as private dwelling-house).
+
+Without prejudice to any other rights, obligations or defences which you may have under section 8, 9 or 10 of the said Act or otherwise, your attention is directed to the following provisions of the Act:—
+
+Section 9(3):
+
+[*Here quote the subsection verbatim*]
+
+Section 9(4):
+
+[*Here quote the subsection verbatim*]
+
+Section 10(3):
+
+[*Here quote the subsection verbatim*]
+
+If you are in doubt about your position in law you should obtain legal advice promptly.”
+
+## SCHEDULE 6 — Amendment of Law Relating to Registration of Leases
+
+*Section 18.*
+
+*The Registration of Leases (Scotland) Act 1857 [^M19].*
+
+**1** In section 1 (long leases, and assignations thereof, registrable in register of sasines), for the words “of thirty-one years, and for any greater number of years that shall be stipulated” there shall be substituted the words “ exceeding twenty years ”.
+
+**2** In section (recorded leases effectual against singular successors in the lands let), the words “at or subsequent to the date of entry therein stipulated” shall cease to have effect.
+
+**3** Section 16 (registration equivalent to possession) shall be renumbered as subsection (1) of that section, and at the end there shall be added the following subsection—
+
+> (2) The registration of any such lease or other writ as aforesaid, in manner herein provided, on or after 1st September 1974, shall, without prejudice to the foregoing provisions of this section and to the provisions of section 2 of the Prescription and limitation (Scotland) Act 1973 [^M20], complete the right under the same to the effect of establishing in virtue thereof such a preference as aforesaid over the right of any party to any such lease or writ, or of any party in his right, granted after that date and not registered in manner herein provided at the time of the registration of the lease or writ first mentioned
+
+.
+
+**4** In section 17 (leases with obligation to renew, registrable), for the words “of thirty-one years or upwards” there shall be substituted the words “ exceeding twenty years ”.
+
+**5** Section 18 (which provides that certain leases are not to be registrable where the name and extent of the lands is not given or where they exceed 50 acres) shall cease to have effect.
+
+**6** In section 19 (extracts registrable where leases recorded in Court of Session or sheriff court books), the words “before the passing thereof” shall cease to have effect.
+
+*The Long Leases (Scotland) Act 1954 [^M21]*
+
+**7** In section 27 (amendment of section 18 of the Registration of Leases (Scotland) Act 1857), subsection (1) and, in subsection (2), the words after “1924” shall cease to have effect.
+
+NOTES
+
+**1** The amendments made in accordance with this Schedule to sections 1, 2 and 17 of the [^M22]Registration of Leases (Scotland) Act 1857 shall have effect in relation to leases executed before the commencement of this Act as they have effect in relation to those executed thereafter.
+
+**2** Section 19 of the Registration of Leases (Scotland) Act 1857 shall be deemed always to have had effect subject to the amendment thereto made in accordance with this Schedule.
+
+**3** Section 27(1) of the [^M23]Long Leases (Scotland) Act 1954 (which is repealed by this Act) shall be deemed always to have had effect subject to the substitution, before the words “there is endorsed”, for the word “and”, of the words “or (as the case may be)”.
+
+## SCHEDULE 7 — Repeals.
+
+*Section 23.*
+
+![image](http://www.legislation.gov.uk/ukpga/1974/38/images/ukpga_19740038_en_sld_001)
+
+---
+
+[^F1]: Pt. I repealed (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 13 Pts. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F2]: Words in s. 2 repealed (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F3]: Words in s. 2(1) substituted (28.11.2004) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 122(1), 129(2), Sch. 14 para. 6(a) (with ss. 119, 121) (see S.S.I. 2003/456, art. 2)
+[^F4]: S. 2(3) added (28.11.2004) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 122(1), 129(2), Sch. 14 para. 6(b) (with ss. 119, 121) (see S.S.I. 2003/456, art. 2)
+[^F5]: S. 8(3ZA) inserted (1.12.2017) by Private Housing (Tenancies) (Scotland) Act 2016 (asp 19), s. 79(2), sch. 4 para. 1; S.S.I. 2017/346, reg. 2, sch.
+[^F6]: S. 8(3A) inserted (1.3.2011) by Housing (Scotland) Act 2010 (asp 17), ss. 138, 166(2); S.S.I. 2011/96, art. 2, Sch.
+[^F7]: Word in s. 8(3A)(b) repealed (31.8.2011) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 36(2)(a), 41(3); S.S.I. 2011/270, art. 2, Sch.
+[^F8]: S. 8(3A)(d) and preceding word inserted (31.8.2011) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 36(2)(b), 41(3); S.S.I. 2011/270, art. 2, Sch.
+[^F9]: S. 8(3B) - (3D) inserted (31.8.2011) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 36(3), 41(3); S.S.I. 2011/270, art. 2, Sch.
+[^F10]: Words inserted by Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 75:2), s. 1
+[^F11]: S. 8(5)(a)(aa) substituted for s. 8(5)(a) (27.11.2003) by Agricultural Holdings (Scotland) Act 2003 (asp 11), s. 95(3)(4), Sch. para. 4 (with s. 95(2)); S.S.I. 2003/548, art. 2(i) (with Sch.)
+[^F12]: Words in s. 8(5)(aa) substituted (30.11.2017) by The Land Reform (Scotland) Act 2016 (Supplementary, Consequential, Transitory and Saving Provisions) Regulations 2017 (S.S.I. 2017/416), reg. 1(1), sch. 1 para. 3(2) (with sch. 2 para. 3)
+[^M1]: 1961 c. 58.
+[^F13]: Words substituted by Housing (Scotland) Act 1986 (c. 65, SIF 61), s. 25(1), Sch. 2 para. 3(*a*)
+[^F14]: Words in s. 8(7) substituted (30.9.2002) by 2001 asp 10, s. 112, Sch. 10 para. 4; S.S.I. 2002/321, art. 2, Sch. (subject to transitional provisions in arts. 3-5)
+[^F15]: Words substituted by Housing (Scotland) Act 1986 (c. 65, SIF 61), s. 25(1), Sch. 2 para. 3(*b*)
+[^M2]: 1874 c. 94.
+[^M3]: 1924 c. 27.
+[^M4]: 1971 c. 58.
+[^M5]: 1868 c. 100. S.I. 1965 No. 321. 1907 c. 51.
+[^F16]: Words in s. 11(1) substituted (6.4.2008) by The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948), art. 2(2), Sch. 1 para. 44 (with arts. 6, 11, 12)
+[^F17]: S. 11(3A) inserted (1.3.2011) by Housing (Scotland) Act 2010 (asp 17), ss. 139, 166(2); S.S.I. 2011/96, art. 2, Sch.
+[^F18]: Word in s. 11(3A)(b)(ii) repealed (31.8.2011) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 37(2)(a), 41(3); S.S.I. 2011/270, art. 2, Sch.
+[^F19]: S. 11(3A)(iv) and preceding word inserted (31.8.2011) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 37(2)(b), 41(3); S.S.I. 2011/270, art. 2, Sch.
+[^F20]: S. 11(3B)(3C) inserted (31.8.2011) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 37(3), 41(3); S.S.I. 2011/270, art. 2, Sch.
+[^F21]: S. 11(3D) - (3F) inserted (1.10.2014) by Housing (Scotland) Act 2014 (asp 14), ss. 93(1), 104(2)
+[^M6]: 1970 c.35
+[^M7]: 1971 c.45
+[^M8]: 1938 c.24
+[^F22]: S. 14 repealed (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F23]: S. 15 repealed (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^M9]: 1857 c. 26.
+[^M10]: 1954 c. 49.
+[^M11]: 1949 c.42
+[^M12]: 1970 c.35
+[^F24]: Words in s. 19 repealed (28.11.2004) by Title Conditions (Scotland) Act 2003 (asp 9), ss. 122(1), 129(2), Sch. 15 (with ss. 119, 121) (see S.S.I. 2003/456, art. 2)
+[^M13]: 1833 c. 69.
+[^M14]: 1852 c. 28.
+[^M15]: 1961 c. 55.
+[^F25]: Words in s. 21 substituted (1.3.2011) by Housing (Scotland) Act 2010 (asp 17), s. 166(2), Sch. 2 para. 2; S.S.I. 2011/96, art. 2, Sch.
+[^F26]: Words in s. 21 substituted (1.10.2014) by Housing (Scotland) Act 2014 (asp 14), ss. 93(2), 104(2)
+[^F27]: Words in s. 22 repealed (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^M16]: 1868 c. 101.
+[^M17]: 1874 c. 94.
+[^M18]: 1924 c. 27.
+[^F28]: Words in s. 23(1) repealed (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F29]: Schs. 1-4 repealed (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 13 Pts. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^M19]: 1857 c.26
+[^M20]: 1973 c.52
+[^M21]: 1954 c.49
+[^M22]: 1857 c. 26.
+[^M23]: 1954 c. 49.

@@ -1,0 +1,1960 @@
+---
+title: "Maintenance Orders (Reciprocal Enforcement) Act 1972"
+identifier: "ukpga/1972/18"
+citation: "1972 c. 18"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1972-03-23
+last_amended: 2020-12-31
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1972/18"
+source_modified: 2024-05-17
+retrieved: 2026-10-11
+---
+
+# Maintenance Orders (Reciprocal Enforcement) Act 1972
+
+**1972 c. 18**
+
+An Act to make new provision, applying throughout the United Kingdom, in place of the Maintenance Orders (Facilities for Enforcement) Act 1920; to make provision with a view to the accession by the United Kingdom to the United Nations Convention on the Recovery Abroad of Maintenance done at New York on 20th June 1956; to make other provision for facilitating the recovery of maintenance by or from persons in the United Kingdom from or by persons in other countries; to extend the jurisdiction of magistrates’ courts to hear complaints by or against persons outside England and Wales; and for purposes connected with the matters aforesaid.
+
+[23rd March 1972]
+
+## Part I — Reciprocal Enforcement of Maintenance Orders made in United Kingdom or Reciprocating Country
+
+### Designation of reciprocating countries
+
+#### 1 Orders in Council designating reciprocating countries.
+
+(1) Her Majesty, if satisfied that, in the event of the benefits conferred by this Part of this Act being applied to, or to particular classes of, maintenance orders made by the courts of any country or territory outside the United Kingdom, similar benefits will in that country or territory be applied to, or to those classes of, maintenance orders made by the courts of the United Kingdom, may by Order in Council designate that country or territory as a reciprocating country for the purposes of this Part of this Act; and, subject to subsection (2) below, in this Part of this Act “reciprocating country” means a country or territory that is for the time being so designated.
+
+(2) A country or territory may be designated under subsection (1) above as a reciprocating country either as regards maintenance orders generally, or as regards maintenance orders other than those of any specified class, or as regards maintenance orders of one or more specified classes only; and a country or territory which is for the time being so designated otherwise than as regards maintenance orders generally shall for the purposes of this Part of this Act be taken to be a reciprocating country only as regards maintenance orders of the class to which the designation extends.
+
+### Orders made by courts in the United Kingdom
+
+#### 2 Transmission of maintenance order made in United Kingdom for enforcement in reciprocating country.
+
+(1) Subject to subsection (2) below, where the payer under a maintenance order made, whether before or after the commencement of this Part of this Act, by a court in the United Kingdom is residing [[^F1]or has assets] in a reciprocating country, the payee under the order may apply for the order to be sent to that country for enforcement.
+
+(2) Subsection (1) above shall not have effect in relation to a provisional order or to an order made by virtue of a provision of Part II of this Act.
+
+(3) Every application under this section shall be made in the prescribed manner to the prescribed officer of the court which made the maintenance order to which the application relates.
+
+(4) If, on an application duly made under this section to the prescribed officer of a court in the United Kingdom, that officer is satisfied that the payer under the maintenance order to which the application relates is residing [[^F1]or has assets] in a reciprocating country, the following documents, that is to say—
+
+(a) a certified copy of the maintenance order;
+
+(b) a certificate signed by that officer certifying that the order is enforceable in the United Kingdom;
+
+(c) a certificate of arrears so signed;
+
+(d) a statement giving such information as the officer possesses as to the whereabouts of the payer [[^F2]and the nature and location of his assets in that country];
+
+(e) a statement giving such information as the officer possesses for facilitating the identification of the payer; and
+
+(f) where available, a photograph of the payer;
+
+shall be sent by that officer to the Secretary of State with a view to their being transmitted by the Secretary of State to the responsible authority in the reciprocating country if he is satisfied that the statement relating to the whereabouts of the payer [[^F2]and the nature and location of his assets in that country] gives sufficient information to justify that being done.
+
+(5) Nothing in this section shall be taken as affecting any jurisdiction of a court in the United Kingdom with respect to a maintenance order to which this section applies, and any such order may be enforced, varied or revoked accordingly.
+
+#### 3 Power of [^F3]... court to make provisional maintenance order against person residing in reciprocating country.
+
+[[^F4](1) Where an application is made to [[^F5]the family court] for a maintenance order against a person residing in a reciprocating country and the court would have jurisdiction to determine the application under the Domestic Proceedings and Magistrates’ Courts Act 1978 or the Children Act 1989 if that person—
+
+(a) were [[^F6]habitually resident] in England and Wales, and
+
+(b) received reasonable notice of the date of the hearing of the application,
+
+the court shall (subject to subsection (2) below) have jurisdiction to determine the application.]
+
+(2) A maintenance order made by virtue of this section shall be a provisional order.
+
+[[^F7](3) If the court hearing a complaint to which subsection (1) above applies is satisfied—
+
+(a) that there are grounds on which a maintenance order containing a provision requiring the making of payments for the maintenance of a child may be made on that complaint, but
+
+(b) that it has no jurisdiction to make that order unless it also makes an order providing for the legal custody of that child,
+
+then, for the purpose of enabling the court to make the maintenance order, the complainant shall be deemed to be the person to whom the legal custody of that child has been committed by an order of the court which is for the time being in force.]
+
+[[^F8](4) No enactment (or provision made under an enactment) requiring or enabling—
+
+[[^F9](za) a court to transfer proceedings from the family court to the High Court,]
+
+(a) a court to transfer proceedings from a magistrates’ court [[^F10]in Northern Ireland] to a county court or the High Court [[^F11]of Justice in Northern Ireland], or
+
+(b) a magistrates’ court [[^F10]in Northern Ireland] to refuse to make an order on an application on the ground that any matter in question is one that would be more conveniently dealt with by the High Court [[^F11]of Justice in Northern Ireland],
+
+shall apply in relation to an application to which subsection (1) above applies.]
+
+(5) Where a court makes a maintenance order which is by virtue of this section a provisional order, the following documents, that is to say—
+
+(a) a certified copy of the maintenance order;
+
+(b) a document, authenticated in the prescribed manner, setting out or summarising the evidence given in the proceedings;
+
+(c) a certificate signed by the prescribed officer of the court certifying that the grounds stated in the certificate are the grounds on which the making of the order might have been opposed by the payer under the order;
+
+(d) a statement giving such information as was available to the court as to the whereabouts of the payer;
+
+(e) a statement giving such information as the officer possesses for facilitating the identification of the payer; and
+
+(f) where available, a photograph of the payer;
+
+shall be sent by that officer to the Secretary of State with a view to their being transmitted by the Secretary of State to the responsible authority in the reciprocating country in which the payer is residing if he is satisfied that the statement relating to the whereabouts of the payer gives sufficient information to justify that being done.
+
+(6) A maintenance order made by virtue of this section which has been confirmed by a competent court in a reciprocating country shall be treated for all purposes as if the [^F12]... court which made the order had made it in the form in which it was confirmed and as if the order had never been a provisional order, and subject to section 5 of this Act, any such order may be enforced, varied or revoked accordingly.
+
+[[^F13](7) In the application of this section to Northern Ireland—
+
+(a) for subsection (1) there shall be substituted—
+
+> (1) Where an application is made to a magistrates’ court against a person residing in a reciprocating country and the court would have jurisdiction to determine the application under the Domestic Proceedings (Northern Ireland) Order 1980 or the Children (Northern Ireland) Order 1995 if that person—
+>
+> (a) were [[^F14]habitually resident] in Northern Ireland, and
+>
+> (b) received reasonable notice of the date of the hearing of the application,
+>
+> the court shall (subject to subsection (2) below) have jurisdiction to determine the application.
+
+[^F15]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ]
+
+#### 4 Power of sheriff to make provisional maintenance order against person residing in reciprocating country.
+
+[[^F16](1) In any action where the sheriff has jurisdiction by virtue of subsection (2) and the defender resides in a reciprocating country, any maintenance order granted by the sheriff shall be a provisional order.]
+
+[[^F17](2) In matters relating to maintenance, a person may be sued in the courts for the place where the pursuer is domiciled or habitually resident or, if the matter is ancillary to proceedings concerning the status of a person, in the court which has jurisdiction to entertain those proceedings, provided than an action of affiliation and aliment shall be treated as a matter relating to maintenance which is not ancillary to proceedings concerning the status of a person.]
+
+[^F18]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) In any action [referred to in] subsection (1) above—
+
+(a) it shall not be necessary for the pursuer to obtain a warrant for the citation of any person, and the action may commence and proceed without such citation;
+
+(b) no decree shall be granted in favour of the pursuer unless the grounds of action have been substantiated by sufficient evidence, and section 36(3) of the [^M1]Sheriff Courts (Scotland) Act 1971 shall not apply in relation to any such action which is a summary cause.
+
+(5) No enactment empowering the sheriff to remit an action to the Court of Session shall apply in relation to proceedings [referred to in] subsection (1) above.
+
+(6) Section 3(5) and (6) of this Act shall apply for the purposes of this section as they apply for the purposes of that section, with the substitution, for references to [[^F19]a court that are references to the family court or] a magistrates’ court, of references to the sheriff.
+
+[^F20]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 5 Variation and revocation of maintenance order made in United Kingdom.
+
+(1) This section applies to a maintenance order a certified copy of which has been sent to a reciprocating country in pursuance of section 2 of this Act and to a maintenance order made by virtue of section 3 or 4 thereof which has been confirmed by a competent court in such a country.
+
+(2) A court in the United Kingdom having power to vary a maintenance order to which this section applies shall have power to vary that order by a provisional order.
+
+(3) Where the court hearing an application for the variation of a maintenance order to which this section applies proposes to vary it by increasing the rate of the payments under the order then, unless either—
+
+(a) both the payer and the payee under the order appear in the proceedings, or
+
+(b) the applicant appears and the appropriate process has been duly served on the other party,
+
+the order varying the order shall be a provisional order.
+
+[^F21]3A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F22](3B) Where paragraph (1) of Article 86 of the Magistrates’ Courts (Northern Ireland) Order 1981 applies in relation to a maintenance order to which this section applies, that paragraph shall have effect as if for the words “by order on complaint,” there were substituted “on an application being made, by order”.]
+
+(4) Where a court in the United Kingdom makes a provisional order varying a maintenance order to which this section applies, the prescribed officer of the court shall send in the prescribed manner to the court in a reciprocating country having power to confirm the provisional order a certified copy of the provisional order together with a document, authenticated in the prescribed manner, setting out or summarising the evidence given in the proceedings.
+
+(5) Where a certified copy of a provisional order made by a court in a reciprocating country, being an order varying or revoking a maintenance order to which this section applies, together with a document, duly authenticated, setting out or summarising the evidence given in the proceedings in which the provisional order was made, is received by the court in the United Kingdom which made the maintenance order, that court may confirm or refuse to confirm the provisional order and, if that order is an order varying the maintenance order, confirm it either without alteration or with such alterations as it thinks reasonable.
+
+(6) For the purpose of determining whether a provisional order should be confirmed under subsection (5) above, the court shall proceed as if an application for the variation or revocation, as the case may be, of the maintenance order in question had been made to it.
+
+(7) Where a maintenance order to which this section applies has been varied by an order (including a provisional order which has been confirmed) made by a court in the United Kingdom or by a competent court in a reciprocating country, the maintenance order shall, as from [[^F23]the date on which under the provisions of the order the variation is to take effect], have effect as varied by that order and, where that order was a provisional order, as if that order had been made in the form in which it was confirmed and as if it had never been a provisional order.
+
+(8) Where a maintenance order to which this section applies has been revoked by an order made by a court in the United Kingdom or by a competent court in a reciprocating country, including a provisional order made by the last-mentioned court which has been confirmed by a court in the United Kingdom, the maintenance order shall, as from [[^F24]the date on which under the provisions of the order the revocation is to take effect], be deemed to have ceased to have effect except as respects any arrears due under the maintenance order at that date.
+
+(9) Where before a maintenance order made by virtue of section 3 or 4 of this Act is confirmed a document, duly authenticated, setting out or summarising evidence taken in a reciprocating country for the purpose of proceedings relating to the confirmation of the order is received by the court in the United Kingdom which made the order, or that court, in compliance with a request made to it by a court in such a country, takes the evidence of a person residing in the United Kingdom for the purpose of such proceedings, the court in the United Kingdom which made the order shall consider that evidence and if, having done so, it appears to it that the order ought not to have been made—
+
+(a) it shall, in such manner as may be prescribed, give to the person on whose application the maintenance order was made an opportunity to consider that evidence, to make representations with respect to it and to adduce further evidence; and
+
+(b) after considering all the evidence and any representations made by that person, it may revoke the maintenance order.
+
+(10) In the application of this section to Scotland—
+
+(a) for subsection (3) there shall be substituted the following subsections:—
+
+> (3) Where the payer under a maintenance order to which this section applies is for the time being residing in a reciprocating country, the court shall not, on an application made by the payee under the order for the variation of the order, vary the order by increasing the rate of the payments thereunder otherwise than by a provisional order.
+>
+> (3A) It shall not be necessary for the payee under a maintenance order to which this section applies to intimate to any person the making by him of an application for a provisional order varying the said maintenance order by increasing the rate of the payments thereunder;
+
+(b) for subsection (6) there shall be substituted the following subsection:—
+
+> (6) Where a certified copy of a provisional order varying or revoking a maintenance order to which this section applies is received by a court as mentioned in subsection (5) above, the prescribed officer of that court shall intimate to the payee under the maintenance order, in the prescribed manner, that the provisional order has been received as aforesaid and that, unless the payee enters appearance within the prescribed period, the court will confirm the provisional order under this section.
+
+### Orders made by courts in reciprocating countries
+
+#### 6 Registration in United Kingdom court of maintenance order made in reciprocating country.
+
+(1) This section applies to a maintenance order made, whether before or after the commencement of this Part of this Act, by a court in a reciprocating country, including such an order made by such a court which has been confirmed by a court in another reciprocating country but excluding a provisional order which has not been confirmed.
+
+(2) Where a certified copy of an order to which this section applies is received by the Secretary of State from the responsible authority in a reciprocating country, and it appears to the Secretary of State that the payer under the order is residing [[^F25]or has assets] in the United Kingdom, he shall send the copy of the order to the prescribed officer of the appropriate court.
+
+(3) Where the prescribed officer of the appropriate court receives from the Secretary of State a certified copy of an order to which this section applies, he shall, subject to subsection (4) below, register the order in the prescribed manner in that court.
+
+(4) Before registering an order under this section an officer of a court shall take such steps as he thinks fit for the purpose of ascertaining whether the payer under the order is residing [[^F26]or has assets] within the jurisdiction of the court, and if after taking those steps he is satisfied that the payer is not [[^F27]residing and has no assets within the jurisdiction of the court] he shall return the certified copy of the order to the Secretary of State with a statement giving such information as he possesses as to the whereabouts of the payer [[^F28]and the nature and location of his assets].
+
+#### 7 Confirmation by United Kingdom court of provisional maintenance order made in reciprocating country.
+
+(1) This section applies to a maintenance order made, whether before or after the commencement of this Part of this Act, by a court in a reciprocating country being a provisional order.
+
+(2) Where a certified copy of an order to which this section applies together with—
+
+(a) a document, duly authenticated, setting out or summarising the evidence given in the proceedings in which the order was made; and
+
+(b) a statement of the grounds on which the making of the order might have been opposed by the payer under the order,
+
+is received by the Secretary of State from the responsible authority in a reciprocating country, and it appears to the Secretary of State that the payer under the order is residing in the United Kingdom, he shall send the copy of the order and documents which accompanied it to the prescribed officer of the appropriate court, and that court shall—
+
+(i) if the payer under the order establishes [[^F29]any grounds on which he might have opposed the making of the order] in the proceedings in which the order was made, refuse to confirm the order; and
+
+(ii) in any other case, confirm the order either without alteration or with such alterations as it thinks reasonable.
+
+(3) In any proceedings for the confirmation under this section of a provisional order, the statement received from the court which made the order of the grounds on which the making of the order might have been opposed by the payer under the order shall be conclusive evidence that the payer might have [[^F30]opposed the making of the order on any of those grounds.].
+
+(4) For the purpose of determining whether a provisional order should be confirmed under this section [[^F31]a magistrates’ court in Northern Ireland] shall proceed as if an application for a maintenance order against the payer under the provisional order had been made to it.
+
+(5) The prescribed officer of a court having power under this section to confirm a provisional order shall, if the court confirms the order, register the order in the prescribed manner in that court, and shall, if the court refuses to confirm the order, return the certified copy of the order and the documents which accompanied it to the Secretary of State.
+
+[[^F32](5A) Where [[^F33]the family court] confirms a provisional order under this section, it [[^F34]may] at the same time exercise one of its powers under subsection (5B) below.
+
+(5B) The powers of the court are—
+
+(a) the power to order that payments under the order be made directly to [[^F35]the court];
+
+(b) the power to order that payments under the order be made to [[^F35]the court], by such method of payment falling within section [[^F36]1(5) of the Maintenance Enforcement Act 1991] (standing order, etc.) as may be specified;
+
+(c) the power to make an attachment of earnings order under the Attachment of Earnings Act 1971 to secure payments under the order.
+
+(5C) In deciding [[^F37]whether to exercise any of its] powers under subsection (5B) above [^F38]... , the court shall have regard to any representations made by the payer under the order.
+
+(5D) [[^F39]Subsection (6) of section 1 of the Maintenance Enforcement Act 1991] (power of court to require debtor to open account) shall apply for the purposes of subsection (5B) above as it applies for the purposes of that section but as if for paragraph (a) there were substituted—
+
+> (a) the court proposes to exercise its power under paragraph (b) of section 7(5B) of the Maintenance Orders (Reciprocal Enforcement ) Act 1972, and]
+
+.
+
+[[^F40](5E) Where a court of summary jurisdiction in Northern Ireland confirms a provisional order under this section, it shall at the same time exercise one of its powers under subsection (5F) below.
+
+(5F) The powers of the court are—
+
+(a) the power to order that payments under the order be made directly to the collecting officer;
+
+(b) the power to order that payments under the order be made to the collecting officer, by such method of payment falling within Article 85(7) of the Magistrates’ Courts (Northern Ireland) Order 1981 (standing order, etc. ) as may be specified;
+
+(c) the power to make an attachment of earnings order under Part IX of the Order of 1981 to secure payments under the order;
+
+and in this subsection “collecting officer” means the officer mentioned in Article 85(4) of the Order of 1981.
+
+(5G) In deciding which of the powers under subsection (5F) above it is to exercise, the court shall have regard to any representations made by the payer under the order.
+
+(5H) Paragraph (5) of Article 85 of the Magistrates’ Courts (Northern Ireland) Order 1981 (power of court to require debtor to open account) shall apply for the purposes of subsection (5F) above as it applies for the purposes of that Article but as if for sub-paragraph (a) there were substituted—
+
+> (a) the court proposes to exercise its power under paragraph (b) of section 7(5F) of the Maintenance Orders (Reciprocal Enforcement) Act 1972, and]
+
+(6) If [[^F41]notice of] the proceedings for the confirmation of the provisional order cannot be duly served on the payer under that order the officer by whom the certified copy of the order was received shall return that copy and the documents which accompanied it to the Secretary of State with a statement giving such information as he possesses as to the whereabouts of the payer.
+
+(7) This section shall apply to Scotland subject to the following modifications:—
+
+(a) for subsection (4) there shall be substituted the following subsection:—
+
+> (4) On receiving a certified copy of a provisional order sent to him in pursuance of subsection (2) above the prescribed officer of the appropriate court shall intimate to the payer under the order, in the prescribed manner, that the order has been received as aforesaid and that, unless the payer enters appearance within the prescribed period, the court will confirm the order under this section.
+
+;
+
+(b) in subsection (6), for the words from the beginning to “that order” there shall be substituted the words “ If such intimation as is mentioned in subsection (4) above cannot be given to the payer under a provisional order in pursuance of that subsection”; and
+
+(c) in any proceedings for the confirmation under this section of a provisional order made by a court in a reciprocating country, the sheriff shall apply the law in force in that country with respect to the sufficiency of evidence.
+
+[[^F42](8) In the application of this section to Northern Ireland—
+
+(a) in subsection (2)(i), for the words from “any grounds” to “making of the order” there shall be substituted “any such defence as he might have raised”,
+
+(b) in subsection (3), for the words from “opposed the making” to the end there shall be substituted “raised a defence on any of those grounds in the proceedings in which the order was made.”, and
+
+(c) in subsection (6), for the words “notice of” there shall be substituted “a summons to appear in”.]
+
+#### 8 Enforcement of maintenance order registered in United Kingdom court.
+
+(1) Subject to subsection (2) below, a registered order may be enforced in the United Kingdom as if it had been made by the registering court and as if that court had had jurisdiction to make it; and proceedings for or with respect to the enforcement of any such order may be taken accordingly.
+
+(2) Subsection (1) above does not apply to an order which is for the time being registered [^F43]... in the High Court of Justice in Northern Ireland under Part II of the [^M2]Maintenance and Affiliation Orders Act (Northern Ireland) 1966.
+
+(3) Any person for the time being under an obligation to make payments in pursuance of [[^F44]an order registered in a court in Northern Ireland] shall give notice of any change of address to the [[^F45]clerk of that] court, and any person failing without reasonable excuse to give such a notice shall be liable on summary conviction to a fine not exceeding [[^F46]£50].
+
+[^F47]3A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) [^F48]An order which by virtue of this section is enforceable by a magistrates’ court shall [^F48][[^F49]subject to the modifications of Article 98 of the Magistrates’ Courts (Northern Ireland) Order 1981 specified in subsection (4C) below][^F48] be enforceable as [^F48][[^F50]an order made by that court to which that Article applies]
+
+[^F51]4A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F51]4B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F52](4C) Article 98 of the Magistrates’ Courts (Northern Ireland) Order 1981 (enforcement of sums adjudged to be paid) shall have effect—
+
+(a) as if for paragraph (7)(a) there were substituted the following paragraph—
+
+> (a) if the court is of the opinion that it is appropriate—
+>
+> (i) to make an attachment of earnings order; or
+>
+> (ii) to exercise its power under paragraph (8C)(b)
+
+(b) as if for paragraphs (8B) to (8D) there were substituted the following paragraphs—
+
+> (8B) Upon the appearance of a person or proof of service of the summons on him as mentioned in paragraph (4) for the enforcement of an order to which this Article applies, the court or resident magistrate may vary the order by exercising one of the powers under paragraph (8C).
+>
+> (8C) The powers mentioned in paragraph (8B) are—
+>
+> (a) the power to order that payments under the order be made directly to the collecting officer;
+>
+> (b) the power to order that payments under the order be made to the collecting officer, by such method of payment falling within Article 85(7) (standing order, etc.) as may be specified;
+>
+> (c) the power to make an attachment of earnings order under Part IX to secure payments under the order.
+>
+> (8D) In deciding which of the powers under paragraph (8C) is to be exercised, the court or, as the case may be, a resident magistrate shall have regard to any representations made by the debtor (within the meaning of Article 85).
+>
+> (8E) Paragraph (5) of Article 85 (power of court to require debtor to open account) shall apply for the purposes of paragraph (8C) as it applies for the purposes of that Article but as if for sub-paragraph (a) there were substituted—
+>
+> > (a) the court proposes to exercise its power under sub-paragraph (b) of Article 98(8C), and]
+
+(5) [[^F53]A magistrates' court in Northern Ireland] by which an order is enforceable by virtue of this section, and the officers thereof, shall take all such steps for enforcing [[^F54]or facilitating the enforcement of] the order as may be prescribed.
+
+(6) In any proceedings for or with respect to the enforcement of an order which is for the time being registered in any court under this Part of this Act a certificate of arrears sent to the prescribed officer of the court shall be evidence of the facts stated therein.
+
+(7) Subject to subsection (8) below, sums of money payable under a registered order shall be payable in accordance with the order as from [[^F55]the date on which they are required to be paid under the provisions of the order].
+
+(8) The court having power under section 7 of this Act to confirm a provisional order may, if it decides to confirm the order, direct that the sums of money payable under it shall be deemed to have been payable in accordance with the order as from [[^F56]the date on which they are required to be paid under the provisions of the order or such later date], as it may specify; and subject to any such direction, a maintenance order registered under the said section 7 shall be treated as if it had been made in the form in which it was confirmed and as if it had never been a provisional order.
+
+(9) In the application of this section to Scotland—
+
+(a) subsections (2) to (5) shall be omitted; and
+
+(b) in subsection (6), for the word “evidence” there shall be substituted the words “sufficient evidence”.
+
+[^F57]10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 9 Variation and revocation of maintenance order registered in United Kingdom court.
+
+(1) Subject to the provisions of this section, the registering court—
+
+(a) shall have the like power, on an application made by the payer or payee under a registered order, to vary or revoke the order as if it had been made by the registering court as if that court had had jurisdiction to make it; and
+
+(b) shall have power to vary or revoke a registered order by a provisional order.
+
+[^F58]1ZA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F59](1ZB) Where the registering court is a court of summary jurisdiction in Northern Ireland, Article 86 of the Magistrates’ Courts (Northern Ireland) Order 1981 (revocation, variation etc., of orders for periodical payment) shall have effect in relation to the registered order—
+
+[^F60][za as if in paragraph (1) for the words “by order on complaint,” there were substituted “on an application being made, by order”;]
+
+(a) as if in paragraph (3) for the words “sub-paragraphs (a) to (d) of Article 85(3)” there were substituted “ paragraph (3A) ” and after that paragraph there were inserted—
+
+> (3A) The powers of the court are—
+>
+> (a) the power to order that payments under the order be made directly to the collecting officer;
+>
+> (b) the power to order that payments under the order be made to the collecting officer by such method of payment falling within Article 85(7) (standing order, etc.) as may be specified;
+>
+> (c) the power to make an attachment of earnings order under Part IX to secure payments under the order.
+
+;
+
+(b) as if in paragraph (4) for sub-paragraph (b) there were substituted—
+
+> (b) payments under the order are required to be made to the collecting officer by any method of payment falling within Article 85(7) (standing order, etc.)
+
+; [^F61]...
+
+(c) as if in paragraph (5) for the words “to the collecting officer” there were substituted “ in accordance with sub-paragraph (a) of paragraph (3A) ” ;
+
+(d) as if in paragraph (7), sub-paragraph (c) and the word “and” immediately preceding it were omitted;
+
+(e) as if in paragraph (8) for the words “sub-paragraphs (a) to (d) of Article 85(3)” there were substituted “ paragraph (3A) ” ;
+
+(f) as if for paragraphs (9) and (10) there were substituted the following paragraphs—
+
+> (9) In deciding, for the purposes of paragraphs (3) and (8), which of the powers under paragraph (3A) it is to exercise, the court shall have regard to any representations made by the debtor.
+>
+> (10) Paragraph (5) of Article 85 (power of court to require debtor to open account) shall apply for the purposes of paragraph (3A) as it applies for the purposes of that Article but as if for sub-paragraph (a) there were substituted—
+>
+> > (a) the court proposes to exercise its power under sub-paragraph (b) of Article 86(3A),and]
+
+[[^F62](1A) The powers conferred by subsection (1) above are not exercisable in relation to so much of a registered order as provides for the payment of a lump sum.]
+
+[[^F63](1B) The registering court shall not vary or revoke a registered order if neither the payer nor the payee under the order is resident in the United Kingdom.]
+
+(2) The registering court shall not vary a registered order otherwise than by a provisional order unless—
+
+(a) both the payer and the payee under the registered order are for the time being residing in the United Kingdom; or
+
+(b) the application is made by the payee under the registered order; or
+
+(c) the variation consists of a reduction in the rate of the payments under the registered order and is made solely on the ground that there has been a change in the financial circumstances of the payer since the registered order was made or, in the case of an order registered under section 7 of this Act, since the registered order was confirmed, and the courts in the reciprocating country in which the maintenance order in question was made do not have power, according to the law in force in that country, to confirm provisional orders varying maintenance orders.
+
+(3) The registering court shall not revoke a registered order otherwise than by a provisional order unless both the payer and the payee under the registered order are for the time being residing in the United Kingdom.
+
+(4) On an application for the revocation of a registered order the registering court shall, unless both the payer and the payee under the registered order are for the time being residing in the United Kingdom, apply the law applied by the reciprocating country in which the registered order was made; but where by virtue of this subsection the registering court is required to apply that law, that court may make a provisional order if it has reason to believe that the ground on which the application is made is a ground on which the order could be revoked according to the law applied by the reciprocating country, notwithstanding that it has not been established that it is such a ground.
+
+(5) Where the registering court makes a provisional order varying or revoking a registered order the prescribed officer of the court shall send in the prescribed manner to the court in the reciprocating country which made the registered order a certified copy of the provisional order together with a document, authenticated in the prescribed manner, setting out or summarising the evidence given in the proceedings.
+
+(6) Where a certified copy of a provisional order made by a court in a reciprocating country, being an order varying a registered order, together with a document, duly authenticated, setting out or summarising the evidence given in the proceedings in which the provisional order was made, is received by the registering court, that court may confirm the order either without alteration or with such alterations as it thinks reasonable or refuse to confirm the order.
+
+(7) For the purpose of determining whether a provisional order should be confirmed under subsection (6) above the court shall proceed as if an application for the variation of the registered order had been made to it.
+
+(8) Where a registered order has been varied by an order (including a provisional order which has been confirmed) made by a court in the United Kingdom or by a competent court in a reciprocating country, the registered order shall, as from [[^F64]the date on which under the provisions of the order the variation is to take effect], have effect as varied by that order and, where that order was a provisional order, as if that order had been made in the form in which it was confirmed and as if it had never been a provisional order.
+
+(9) Where a registered order has been revoked by an order made by a court in the United Kingdom or by a competent court in a reciprocating country, including a provisional order made by the first-mentioned court which has been confirmed by a competent court in a reciprocating country, the registered order shall, as from [[^F65]the date on which under the provisions of the order the revocation is to take effect], be deemed to have ceased to have effect except as respects any arrears due under the registered order at that date.
+
+(10) The prescribed officer of the registering court shall register in the prescribed manner any order varying a registered order other than a provisional order which is not confirmed.
+
+(11) In the application of this section to Scotland—
+
+(a) after subsection (4) there shall be inserted the following subsection:—
+
+> (4A) It shall not be necessary for the payer under a registered order to intimate to any person the making by him of an application for a provisional order varying or revoking the registered order.
+
+; and
+
+(b) for subsection (7) there shall be substituted the following subsection:—
+
+> (7) Where a certified copy of a provisional order varying a registered order is received by the registering court as mentioned in subsection (6) above, the prescribed officer of that court shall intimate to the payer under the registered order, in the prescribed manner, that the provisional order has been received as aforesaid and that, unless the payer enters appearance within the prescribed period, the court will confirm the provisional order under this section.
+
+#### 10 Cancellation of registration and transfer of order.
+
+(1) Where—
+
+(a) a registered order is revoked by an order made by the registering court; or
+
+(b) a registered order is revoked by a provisional order made by that court which has been confirmed by a court in a reciprocating country and notice of the confirmation is received by the registering court; or
+
+(c) a registered order is revoked by an order made by a court in such a country and notice of the revocation is received by the registering court,
+
+the prescribed officer of the registering court shall cancel the registration; but any arrears due under the registered order at the date when its registration is cancelled by virtue of this subsection shall continue to be recoverable as if the registration had not been cancelled.
+
+(2) Where the prescribed officer of the registering court is of opinion that the payer under a registered order, [[^F66]is not residing within the jurisdiction of that court and has no assets within that jurisdiction against which the order can be effectively enforced,] he shall cancel the registration of the order and, subject to subsection (3) below, shall send the certified copy of the order to the Secretary of State.
+
+(3) Where the prescribed officer of the registering court, being a magistrates’ court [[^F67]in Northern Ireland], is of opinion that the payer is residing [[^F68]or has assets] within the jurisdiction of another magistrates’ court in [[^F69]Northern Ireland], he shall transfer the order to that other court by sending the certified copy of the order to the prescribed officer of that other court.
+
+(4) On the transfer of an order under subsection (3) above the prescribed officer of the court to which it is transferred shall, subject to subsection (6) below, register the order in the prescribed manner in that court.
+
+(5) Where the certified copy of an order is received by the Secretary of State under this section and it appears to him that the payer under the order is [[^F70]residing or has assets] in the United Kingdom, he shall transfer the order to the appropriate court by sending the certified copy of the order together with the related documents to the prescribed officer of the appropriate court and, subject to subsection (6) below, that officer shall register the order in the prescribed manner in that court.
+
+(6) Before registering an order in pursuance of subsection (4) or (5) above an officer of a court shall take such steps as he thinks fit for the purpose of ascertaining whether the payer is residing [[^F71]or has assets] within the jurisdiction of the court, and if after taking those steps he is satisfied that the payer is not [[^F72]residing and has no assets within the jurisdiction of the court] he shall send the certified copy of the order to the Secretary of State.
+
+(7) The officer of a court who is required by any of the foregoing provisions of this section to send to the Secretary of State or to the prescribed officer of another court the certified copy of an order shall send with that copy—
+
+(a) a certificate of arrears signed by him;
+
+(b) a statement giving such information as he possesses as to the whereabouts of the payer [[^F73]and the nature and location of his assets]; and
+
+(c) any relevant documents in his possession relating to the case.
+
+(8) In the application of this section to Scotland—
+
+(a) in subsection (2), for the words “within the jurisdiction of that court” there shall be substituted the words “in Scotland”; and
+
+(b) subsections (3) and (4) shall be omitted.
+
+#### 11 Steps to be taken by Secretary of State where payer under certain orders is not residing in the United Kingdom.
+
+(1) If [[^F74]at any time] it appears to the Secretary of State that the payer under a maintenance order, a certified copy of which has been received by him from a reciprocating country, is not residing [[^F75]and has no assets in the United Kingdom,] he shall send to the responsible authority in that country or, if having regard to all the circumstances he thinks it proper to do so, to the responsible authority in another reciprocating country—
+
+(a) the certified copy of the order in question and a certified copy of any order varying that order;
+
+(b) if the order has at any time been a registered order, a certificate of arrears signed by the prescribed officer;
+
+(c) a statement giving such information as the Secretary of State possesses as to the whereabouts of the payer [[^F76]and the nature and location of his assets]; and
+
+(d) any other relevant documents in his possession relating to the case.
+
+(2) Where the documents mentioned in subsection (1) above are sent to the responsible authority in a reciprocating country other than that in which the order in question was made, the Secretary of State shall inform the responsible authority in the reciprocating country in which that order was made of what he has done.
+
+### Appeals
+
+#### 12 Appeals.
+
+(1) No appeal shall lie from a provisional order made in pursuance of any provision of this Part of this Act by a court in the United Kingdom.
+
+(2) Where in pursuance of any such provision any such court confirms or refuses to confirm a provisional order made by a court in a reciprocating country, whether a maintenance order or an order varying or revoking a maintenance order, the payer or payee under the maintenance order shall have the like right of appeal (if any) from the confirmation of, or refusal to confirm, the provisional order as he would have if that order were not a provisional order and the court which confirmed or refused to confirm it had made or, as the case may be, refused to make it.
+
+(3) Where in pursuance of any such provision any such court makes, or refuses to make, an order varying or revoking a maintenance order made by a court in a reciprocating country, then, subject to subsection (1) above, the payer or payee under the maintenance order shall have the like right of appeal (if any) from that order or from the refusal to make it as he would have if the maintenance order had been made by the first-mentioned court.
+
+(4) Nothing in this section (except subsection (1)) shall be construed as affecting any right of appeal conferred by any other enactment.
+
+### Evidence
+
+#### 13 Admissibility of evidence given in reciprocating country.
+
+(1) A statement contained in—
+
+(a) a document, duly authenticated, which purports to set out or summarise evidence given in proceedings in a court in a reciprocating country; or
+
+(b) a document, duly authenticated, which purports to set out or summarise evidence taken in such a country for the purpose of proceedings in a court in the United Kingdom under this Part of this Act, whether in response to a request made by such a court or otherwise; or
+
+(c) a document, duly authenticated, which purports to have been received in evidence in proceedings in a court in such a country or to be a copy of a document so received,
+
+shall in any proceedings in a court in the United Kingdom relating to a maintenance order to which this Part of this Act applies be admissible as evidence of any fact stated therein to the same extent as oral evidence of that fact is admissible in those proceedings.
+
+(2) A document purporting to set out or summarise evidence given as mentioned in subsection (1)(a) above, or taken as mentioned in subsection (1)(b) above, shall be deemed to be duly authenticated for the purposes of that subsection if the document purports to be certified by the judge, magistrate or other person before whom the evidence was given, or, as the case may be, by whom it was taken, to be the original document containing or recording, or, as the case may be, summarising, that evidence or a true copy of that document.
+
+(3) A document purporting to have been received in evidence as mentioned in subsection (1)(c) above, or to be a copy of a document so received, shall be deemed to be duly authenticated for the purposes of that subsection if the document purports to be certified by a judge, magistrate or officer of the court in question to have been, or to be a true copy of a document which has been, so received.
+
+(4) It shall not be necessary in any such proceedings to prove the signature or official position of the person appearing to have given such a certificate.
+
+(5) Nothing in this section shall prejudice the admission in evidence of any document which is admissible in evidence apart from this section.
+
+#### 14 Obtaining of evidence needed for purpose of certain proceedings.
+
+(1) Where for the purpose of any proceedings in a court in a reciprocating country relating to a maintenance order to which this Part of this Act applies a request is made by or on behalf of that court for the taking in the United Kingdom of the evidence of a person residing therein relating to matters specified in the request, such court in the United Kingdom as may be prescribed shall have power to take that evidence and, after giving notice of the time and place at which the evidence is to be taken to such persons and in such manner as it thinks fit, shall take the evidence in such manner as may be prescribed.
+
+Evidence taken in compliance with such a request shall be sent in the prescribed manner by the prescribed officer of the court to the court in the reciprocating country by or on behalf of which the request was made.
+
+(2) Where any person, not being the payer or the payee under the maintenance order to which the proceedings in question relate, is required by virtue of this section to give evidence before a court in the United Kingdom, the court may order that there shall be paid—
+
+(a) if the court is a court in England, Wales or Scotland, out of moneys provided by Parliament; and
+
+(b) if the court is a court in Northern Ireland, out of moneys provided by [[^F77]the Northern Ireland Assembly],
+
+such sums as appear to the court reasonably sufficient to compensate that person for the expense, trouble or loss of time properly incurred in or incidental to his attendance.
+
+(3) [[^F78]Articles 118(1), (3) and (4), 119 and 120 of the Magistrates' Courts (Northern Ireland) Order 1981] (which provide for compelling the attendance of witnesses, etc.) shall apply in relation to a magistrates’ court [[^F79]in Northern Ireland] having power under subsection (1) above to take the evidence of any person as if the proceedings in the court in a reciprocating country for the purpose of which a request for the taking of the evidence has been made were proceedings in the magistrates’ court and had been begun by complaint.
+
+(4) Paragraphs 71 and 73 of Schedule 1 to the [^M3]Sheriff Courts (Scotland) Act 1907 (which provide for the citation of witnesses, etc.) shall apply in relation to a sheriff having power under subsection (1) above to take the evidence of any person as if the proceedings in the court in a reciprocating country for the purpose of which a request for the taking of the evidence has been made were proceedings in the sheriff court.
+
+(5) A court in the United Kingdom may for the purpose of any proceedings in that court under this Part of this Act relating to a maintenance order to which this Part of this Act applies request a court in a reciprocating country to take or provide evidence relating to such matters as may be specified in the request and may remit the case to that court for that purpose.
+
+[^F80]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 15 Order, etc. made abroad need not be proved.
+
+For the purposes of this Part of this Act, unless the contrary is shown—
+
+(a) any order made by a court in a reciprocating country purporting to bear the seal of that court or to be signed by any person in his capacity as a judge, magistrate or officer of the court, shall be deemed without further proof to have been duly sealed or, as the case may be, to have been signed by that person;
+
+(b) the person by whom the order was signed shall be deemed without further proof to have been a judge, magistrate or officer, as the case may be, of that court when he signed it and, in the case of an officer, to have been authorised to sign it; and
+
+(c) a document purporting to be a certified copy of an order made by a court in a reciprocating country shall be deemed without further proof to be such a copy.
+
+### Supplemental
+
+#### 16 Payment of sums under orders made abroad: conversion of currency.
+
+(1) Payment of sums due under a registered order shall, while the order is registered in a court in England, Wales or Northern Ireland, be made in such manner and to such person as may be prescribed.
+
+(2) Where the sums required to be paid under a registered order are expressed in a currency other than the currency of the United Kingdom, then, as from the relevant date, the order shall be treated as if it were an order requiring the payment of such sums in the currency of the United Kingdom as, on the basis of the rate of exchange prevailing at that date, are equivalent to the sums so required to be paid.
+
+(3) Where the sum specified in any statement, being a statement of the amount of any arrears due under a maintenance order made by a court in a reciprocating country, is expressed in a currency other than the currency of the United Kingdom, that sum shall be deemed to be such sum in the currency of the United Kingdom as, on the basis of the rate of exchange prevailing at the relevant date, is equivalent to the sum so specified.
+
+(4) For the purposes of this section a written certificate purporting to be signed by an officer of any bank in the United Kingdom certifying that a specified rate of exchange prevailed between currencies at a specified date and that at such rate a specified sum in the currency of the United Kingdom is equivalent to a specified sum in another specified currency shall be evidence of the rate of exchange so prevailing on that date and of the equivalent sums in terms of the respective currencies.
+
+(5) In this section “the relevant date” means—
+
+(a) in relation to a registered order or to a statement of arrears due under a maintenance order made by a court in a reciprocating country, the date on which the order first becomes a registered order (if earlier) the date on which it is confirmed by a court in the United Kingdom;
+
+(b) in relation to a registered order which has been varied, the date on which the last order varying that order is registered in a court in the United Kingdom or (if earlier) the date on which the last order varying that order is confirmed by such a court.
+
+(6) In the application of this section to Scotland:—
+
+(a) subsection (1) shall not apply;
+
+(b) in subsection (4), for the word “evidence” there shall be substituted the words “sufficient evidence”.
+
+#### 17 Proceedings in [[^F81]the family court in England and Wales or in magistrates’ courts in Northern Ireland]
+
+[^F82]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F83]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F84]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F85](5A) Where the respondent to an application for the variation or revocation of—
+
+(a) a maintenance order made by [[^F86]the family court], being an order to which section 5 of this Act applies; or
+
+(b) a registered order which is registered in [[^F86]the family court],
+
+is residing in a reciprocating country, [[^F86]the family court] shall have jurisdiction to hear the application (where it would not have such jurisdiction apart from this subsection) if it would have had jurisdiction to hear it had the respondent been [[^F87]habitually resident] in England and Wales.]
+
+[[^F88](6) Where the respondent to an application for the variation or revocation of—
+
+(a) a maintenance order made by a magistrates’ court in Northern Ireland, being an order to which section 5 of this Act applies; or
+
+(b) a registered order which is registered in such a court,
+
+is residing in a reciprocating country, a magistrates’ court in Northern Ireland shall have jurisdiction to hear the application (where it would not have jurisdiction apart from this subsection) if it would have had jurisdiction to hear it had the respondent been [[^F89]habitually resident] in Northern Ireland.]
+
+(7) Where the [[^F90]respondent] to [[^F91]an application] for the variation or revocation—
+
+(a) of a maintenance order made by [[^F92]the family court in England and Wales or a magistrates' court in Northern Ireland], being an order to which section 5 of this Act applies; or
+
+(b) of a registered order registered in [[^F92]the family court in England and Wales or a magistrates' court in Northern Ireland],
+
+does not appear at the time and place appointed for the hearing of [[^F91]the application], but the court is satisfied that the [[^F90]respondent] is residing in a reciprocating country, the court may proceed to hear and determine [[^F91]the application] at the time and place appointed for the hearing or for any adjourned hearing in like manner as if the [[^F90]respondent] had appeared at that time and place.
+
+[[^F93](7A) In the application of this section to Northern Ireland, in subsection (7)—
+
+(a) for the word “respondent”, in each place where it occurs, there shall be substituted “defendant”; and
+
+(b) for the words “an application” and “the application”, in each place where they occur, there shall be substituted “a complaint” and “the complaint” respectively.]
+
+[^F94]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 18 [[^F95]Rules of court]
+
+[[^F96](A1) Rules of court may make provision with respect to the matters that would be mentioned in any of paragraphs (b), (c), (e) and (f) of subsection (1) if references in those paragraphs to a magistrates' court, or to magistrates' courts, were references to the family court.]
+
+(1) [[^F97]The matters referred to in subsections (A1) and (2) are—]
+
+(a) the circumstances in which anything authorised or required by this Part of this Act to be done by, to or before a magistrates’ court acting [[^F98]in a particular [[^F99]petty sessions district]] or by, to or before an officer of that court may be done by, to or before a magistrates’ court acting [[^F98]in such other [[^F99]petty sessions district]] as the rules may provide or by, to or before an officer of that court;
+
+(b) the orders made, or other things done, by a magistrates’ court, or an officer of such a court, under this Part of this Act, or by a court in a reciprocating country, notice of which is to be given to such persons as the rules may provide and the manner in which such notice shall be given;
+
+(c) the cases and manner in which courts in reciprocating countries are to be informed of orders made, or other things done, by a magistrates’ court under this Part of this Act;
+
+(d) the cases and manner in which a justices’ clerk may take evidence needed for the purpose of proceedings in a court in a reciprocating country relating to a maintenance order to which this Part of this Act applies;
+
+(e) the circumstances and manner in which cases may be remitted by magistrates’ courts to courts in reciprocating countries;
+
+(f) the circumstances and manner in which magistrates’ courts may for the purposes of this Part of this Act communicate with courts in reciprocating countries.
+
+[[^F100](1A) For the purpose of giving effect to this Part of this Act, [[^F101]rules of court] may make, in relation to any proceedings brought under or by virtue of this Part of this Act, any provision not covered by subsection [[^F102](A1)] above which—
+
+(a) falls within subsection (2) of section 93 of the Children Act 1989, and
+
+(b) may be made in relation to relevant proceedings under that section.]
+
+(2) Rules with respect to the matters mentioned in subsection (1) above [[^F103](other than paragraph (a))] may be made in accordance with [[^F104]Article 13 of the Magistrates’ Courts (Northern Ireland) Order 1981] in relation to proceedings or matters in magistrates’ courts in Northern Ireland under this Part of this Act.
+
+[^F105][2A For the purpose of giving effect to this Part of this Act, rules made in accordance with Article 13 of the Magistrates’ Courts (Northern Ireland) Order 1981 may make, in relation to any proceedings brought under or by virtue of this Part of this Act, any provision not covered by subsection (2) above which—
+
+(a) falls within paragraph (2) of Article 165 of the Children (Northern Ireland) Order 1995, and
+
+(b) may be made in relation to relevant proceedings under that Article.]
+
+#### 19 Rules for sheriff court.
+
+Without prejudice to the generality of the powers conferred on the Court of Session by section 32 of the [^M4]Sheriff Courts (Scotland) Act 1971 to regulate by act of sederunt the procedure of the sheriff court, the said powers shall include power—
+
+(a) to prescribe the cases and manner in which courts in by the sheriff, or an officer of the sheriff court, under this Part of this Act, or by a court in a reciprocating country, notice of which is to be given to such persons as the act of sederunt may provide and the manner in which such notice shall be given;
+
+(b) to provide that evidence needed for the purpose of proceedings in a court in a reciprocating country relating to a maintenance order to which this Part of this Act applies may, in such cases and manner as the act of sederunt may provide, be taken by a sheriff clerk or sheriff clerk depute;
+
+(c) to prescribe the cases and manner in which courts in reciprocating countries are to be informed of decrees granted, or other things done, by the sheriff under this Part of this Act;
+
+(d) to prescribe the circumstances and manner in which cases may be remitted by the sheriff to courts in reciprocating countries;
+
+(e) to prescribe the circumstances and manner in which the sheriff may for the purposes of this Part of this Act communicate with courts in reciprocating countries.
+
+#### 20 Restriction on enforcement of arrears under maintenance order registered in Scotland.
+
+Where a maintenance order is for the time being registered in the sheriff court under this Part of this Act, a person shall not be entitled, except with the leave of the sheriff, to enforce, whether by diligence or otherwise, the payment of any arrears due under the order, if either—
+
+(a) the sheriff has made a provisional order under section 9 of this Act revoking the said maintenance order and the arrears accrued after the making of the said provisional order, or
+
+(b) the arrears accrued before the commencement of this Part of this Act;
+
+and on any application for leave to enforce the payment of any such arrears, the sheriff may refuse leave, or may grant leave subject to such restrictions and conditions (including conditions as to the allowing of time for payment or the making of payment by instalments) as he thinks appropriate, or may remit the payment of such arrears or of any part thereof.
+
+#### 21 Interpretation of Part I.
+
+(1) In this Part of this Act—
+
+- “affiliation order” means an order (however described) adjudging, finding or declaring a person to be the father of a child, whether or not it also provides for the maintenance of the child;
+
+- “the appropriate court”[[^F106]—]
+
+  - in relation to a person residing [[^F107]or having assets] in England and [[^F108]Wales means the family court; and
+  - in relation to a person residing or having assets] in Northern Ireland means a magistrates’ court, and in relation to a person residing [[^F107]or having assets] in Scotland means [[^F109]a sheriff court], within the jurisdiction of which that person is residing [[^F110]or has assets];
+
+- “certificate of arrears”, in relation to a maintenance order, means a certificate certifying that the sum specified in the certificate is to the best of the information or belief of the officer giving the certificate the amount of the arrears due under the order at the date of the certificate or, as the case may be, that to the best of his information or belief there are no arrears due thereunder at that date;
+
+- “certified copy”, in relation to an order of a court, means a copy of the order certified by the proper officer of the court to be a true copy;
+
+- “court” includes any tribunal or person having power to make, confirm, enforce, vary or revoke a maintenance order;
+
+- [^F111]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- “maintenance order” means an order (however described) of any of the following descriptions, that is to say—
+
+  - an order (including an affiliation order or order consequent upon an affiliation order) which provides for the [[^F112]payment of a lump sum or the making of periodical payments] towards the maintenance of any person, being a person whom the person liable to make payments under the order is, according to the law applied in the place where the order was made, liable to maintain;
+  - (aa) [[^F113]an order which has been made in Scotland, on or after the granting of a decree of divorce, for the payment of a periodical allowance by one party to the marriage to the other party;] and
+  - an affiliation order or order consequent upon an affiliation order, being an order which provides for the payment by a person adjudged, found or declared to be a child’s father of expenses incidental to the child’s birth or, where the child has died, of his funeral expenses,
+
+  and, in the case of a maintenance order which has been varied, means that order as varied;
+
+- “order”, as respects Scotland, includes any interlocutor, and any decree or provision contained in an interlocutor;
+- “payee”, in relation to a maintenance order, means the person entitled to the payments for which the order provides;
+- “payer”, in relation to a maintenance order, means the person liable to make payments under the order;
+- “prescribed”, in relation to a magistrates’ court [^F114]... in Northern Ireland, means prescribed [^F115]... by rules made in accordance with [[^F116]Article 13 of the Magistrates’ Courts (Northern Ireland) Order 1981], [^F117]... and in relation to any other court means prescribed by rules of court;
+- “provisional order” means (according to the context)—
+
+(a) an order made by a court in the United Kingdom which is provisional only and has no effect unless and until confirmed, with or without alteration, by a competent court in a reciprocating country; or
+
+(b) an order made by a court in a reciprocating country which is provisional only and has no effect unless and until confirmed, with or without alteration, by a court in the United Kingdom having power under this Part of this Act to confirm it;
+
+- “reciprocating country” has the meaning assigned to it by section 1 of this Act;
+- “registered order” means a maintenance order which is for the time being registered in a court in the United Kingdom under this Part of this Act;
+- “registering court”, in relation to a registered order, means the court in which that order is for the time being registered under this Part of this Act;
+- “the responsible authority”, in relation to a reciprocating country, means any person who in that country has functions similar to those of the Secretary of State under this Part of this Act.
+- [[^F118]“revoke” and “revocation” include discharge.]
+
+(2) For the purposes of this Part of this Act an order shall be taken to be a maintenance order so far (but only so far) as it relates to the [[^F119]payment of a lump sum or the making of periodical payments] as mentioned in paragraph (a) of the definition of “maintenance order” in subsection (1) above [[^F120], to the payment of a periodical allowance as mentioned in paragraph (aa) of that definition], or to the payment by a person adjudged, found or declared to be a child’s father of any such expenses as are mentioned in paragraph (b) of that definition.
+
+(3) Any reference in this Part of this Act to the payment of money for the maintenance of a child shall be construed as including a reference to the payment of money for the child’s education.
+
+### Amendments, repeals and transitional provisions
+
+#### 22 Amendments and repeals. [^X1]
+
+(1) The enactments mentioned in the Schedule to this Act shall have effect subject to the minor and consequential amendments specified therein.
+
+(2) The following are hereby repealed—
+
+(a) [^M5] the maintenance orders (Facilities for Enforcement) Act 1920;
+
+(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F121]
+
+(c) in [^M6] the Maintenance Orders Act 1958, section 19 and in section 23(2), the words “section nineteen”;
+
+[^F122]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 23 Maintenance order registered in High Court under the Maintenance Orders etc. Act 1920.
+
+(1) Where a country or territory, being a country or territory to which at the commencement of section 1 of this Act the [^M7]Maintenance Orders (Facilities for Enforcement) Act 1920 extended, becomes a reciprocating country, then, if immediately before the Order in Council made under section 12 of that Act extending that Act to that country or territory was revoked any maintenance order made by a court in that country or territory was registered in the High Court [[^F123]or the High Court of Justice in Northern Ireland] under section 1 of that Act, [[^F124]subsection (1A) applies in relation to the order.
+
+(1A) Where the order was at that time registered in the High Court, that court may, on an application by the payer or the payee under the order or of its own motion, transfer the order to the family court, with a view to the order being registered in the family court under this Part of this Act; and where the order was at that time registered in the High Court of Justice in Northern Ireland, that court] may, on an application by the payer or the payee under the order or of its own motion, transfer the order to such magistrates’ court [[^F125]in Northern Ireland] as having regard to the place where the payer is residing and to all the circumstances it thinks most appropriate, with a view to the order being registered in that [[^F126]magistrates’] court under this Part of this Act.
+
+[[^F127](1B) Where the High Court transfers an order to the family court under this section it shall—
+
+(a) cause a certified copy of the order to be sent to an officer of the family court, and
+
+(b) cancel the registration of the order in the High Court.]
+
+(2) Where the High Court [[^F128]of Justice in Northern Ireland] transfers an order to a magistrates’ court under this section it shall—
+
+(a) cause a certified copy of the order to be sent to the [[^F129]appropriate officer] of that court, and
+
+(b) cancel the registration of the order in the High Court.
+
+(3) The [^F130][[^F129]... officer] of the court who receives a certified copy of an order sent to him under this section shall register the order in the prescribed manner in that court.
+
+(4) On registering a maintenance order in [[^F131]a] court by virtue of this section the [[^F132]officer registering it] shall, if the order is registered in that court under Part I of the [^M8]Maintenance Orders Act 1958, cancel that registration.
+
+[^F133]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F134](6) In this section “appropriate officer”[[^F135], in relation to a magistrates' court in Northern Ireland, means the clerk of the court.]]
+
+#### 24 Application of Part I to certain orders and proceedings under the Maintenance Orders etc. Act 1920.
+
+Where Her Majesty proposes by an Order in Council under section 1 of this Act to designate as a reciprocating country a country or territory to which at the commencement of that section the [^M9]Maintenance Orders (Facilities for Enforcement) Act 1920 extended, that Order in Council may contain such provisions as Her Majesty considers expedient for the purpose of securing—
+
+(a) that the provisions of this Part of this Act apply, subject to such modifications as may be specified in the Order, to maintenance orders, or maintenance orders of a specified class—
+
+(i) made by a court in England, Wales or Northern Ireland against a person residing [[^F136]or having assets] in that country or territory, or
+
+(ii) made by a court in that country or territory against a person residing [[^F136]or having assets] in England, Wales or Northern Ireland,
+
+being orders to which immediately before the date of the coming into operation of the Order in Council the said Act of 1920 applied, except any order which immediately before that date is registered in the High Court or the High Court of Justice in Northern Ireland under section 1 of that Act;
+
+(b) that any maintenance order, or maintenance order of a specified class, made by a court in that country or territory which has been confirmed by a court in England, Wales or Northern Ireland under section 4 of the said Act of 1920 and is in force immediately before that date is registered under section 7 of this Act;
+
+(c) that any proceedings brought under or by virtue of a provision of the said Act of 1920 in a court in England, Wales or Northern Ireland which are pending at that date, being proceedings affecting a person resident in that country or territory, are continued as if they had been brought under or by virtue of the corresponding provision of this Part of this Act.
+
+## Part II — Reciprocal Enforcement of Claims for the Recovery of Maintenance
+
+### Convention countries
+
+#### 25 Convention countries.
+
+(1) Her Majesty may by Order in Council declare that any country or territory specified in the Order, being a country or territory outside the United Kingdom to which the Maintenance Convention extends, is a convention country for the purposes of this Part of this Act.
+
+(2) In this section “the Maintenance Convention” means the United Nations Convention on the Recovery Abroad of Maintenance done at New York on 20th June 1956.
+
+### Application by person in the United Kingdom for recovery, etc. of maintenance in convention country
+
+#### 26 Application by person in United Kingdom for recovery, etc. of maintenance in convention country.
+
+(1) Where a person in the United Kingdom (“the applicant”) claims to be entitled to recover in a convention country maintenance from another person, and that other person is for the time being subject to the jurisdiction of that country, the applicant may apply to the Secretary of State, in accordance with the provisions of this section, to have his claim for the recovery of maintenance from that other person transmitted to that country.
+
+(2) Where the applicant seeks to vary any provision made in a convention country for the payment by any other person of maintenance to the applicant, and that other person is for the time being subject to the jurisdiction of that country, the applicant may apply to the Secretary of State, in accordance with the provisions of this section, to have his application for the variation of that provision transmitted to that country.
+
+(3) An application to the Secretary of State under subsection (1) or (2) above shall be made through the appropriate officer, and that officer shall assist the applicant in completing an application which will comply with the requirements of the law applied by the convention country and shall send the application to the Secretary of State, together with such other documents, if any, as are required by that law.
+
+[[^F137](3A) An application under subsection (1) or (2) above, for the purpose of recovering maintenance from a person in a specified State within the meaning of the Recovery of Maintenance (United States of America) Order 1993, and a certificate signed by a justice of the peace or, where the applicant is residing in Scotland, the sheriff, to the effect that the application sets forthfacts from which it may be determined that the repondent owes a duty to maintain the applicant and any other person named in the application and that a court in the specified State may obtain jurisdiction of the respondent or his property, shall be registered in the court in the prescribed manner by the appropriate officer or, in Scotland, by the sheriff clerk in the Maintenance Orders (Reciprocal Enforcement) Act 1972 register.]
+
+(4) On receiving an application from the appropriate officer the Secretary of State shall transmit it, together with any accompanying documents, to the appropriate authority in the convention country, unless he is satisfied that the application is not made in good faith or that it does not comply with the requirements of the law applied by that country.
+
+(5) The Secretary of State may request the appropriate officer to obtain from the court of which he is an officer such information relating to the application as may be specified in the request, and it shall be the duty of the court to furnish the Secretary of State with the information he requires.
+
+[[^F138](6) The appropriate officer for the purposes of this section is—
+
+(a) where the applicant is residing in England and Wales, [[^F139]an officer of the family court ];
+
+(b) where the applicant is residing in Northern Ireland, the clerk [[^F140]of petty sessions] ; and
+
+(c) where the applicant is residing in Scotland, the sheriff clerk or sheriff clerk depute of the sheriff court within the jurisdiction of which the applicant is residing.]
+
+### Application by person in convention country for recovery of maintenance in England, Wales or Northern Ireland
+
+#### 27A [[^F141] Applications for recovery of maintenance in England and Wales.
+
+(1) This section applies to any application which—
+
+(a) is received by the Lord Chancellor from the appropriate authority in a convention country, and
+
+(b) is an application by a person in that country for the recovery of maintenance from another person who is for the time being residing in England and Wales.
+
+(2) Subject to sections 27B to 28B of this Act, an application to which this section applies shall be treated for the purposes of any enactment as if it were an application for a maintenance order under the relevant Act, made at the time when the application was received by the Lord Chancellor.
+
+[[^F142]This subsection does not confer jurisdiction on a court in England and Wales that it would not otherwise have.]
+
+(3) In the case of an application for maintenance for a child (or children) alone, the relevant Act is the Children Act 1989.
+
+(4) In any other case, the relevant Act is the Domestic Proceedings and Magistrates’ Courts Act 1978.
+
+(5) In subsection (3) above, “child” means the same as in Schedule 1 to the Children Act 1989.]
+
+#### [^F144]27B Sending application to the [[^F143]family] court.
+
+(1) On receipt of an application to which section 27A of this Act applies, the Lord Chancellor shall send it, together with any accompanying documents, to the [[^F145]family court].
+
+(2) [[^F146]If] notice of the hearing of the application by [[^F147]the family court] cannot be duly served on the respondent, the [[^F148]family] court shall return the application and the accompanying documents to the Lord Chancellor with a statement giving such information as [[^F149]the family court] possesses as to the whereabouts of the respondent.
+
+(3) If the application is returned to the Lord Chancellor under subsection (2) above, then, unless he is satisfied that the respondent is not residing in the United Kingdom, he shall deal with it in accordance with subsection (1) above or section [[^F150]28D(1)] of this Act or send it to the Secretary of State to be dealt with in accordance with section 31 of this Act (as the circumstances of the case require).
+
+[^F151]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F151]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F152]27C Applications to which section 27A applies: general.
+
+(1) This section applies where [[^F153]the family] court makes an order on an application to which section 27A of this Act applies.
+
+[^F154]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The court [[^F155]may], at the same time that it makes the order, exercise one of its powers under subsection (4) below.
+
+(4) Those powers are—
+
+(a) the power to order that payments under the order be made directly to [[^F156]the court];
+
+(b) the power to order that payments under the order be made to [[^F156]the court], by such method of payment falling within section [[^F157]1(5) of the Maintenance Enforcement Act 1991] (standing order, etc.) as may be specified;
+
+(c) the power to make an attachment of earnings order under the Attachment of Earnings Act 1971 to secure payments under the order.
+
+(5) In deciding [[^F158]whether to exercise any of its] powers under subsection (4) above [^F159]... , the court shall have regard to any representations made by the person liable to make payments under the order.
+
+(6) [[^F160]Subsection (6) of section 1 of the Maintenance Enforcement Act 1991] (power of court to require debtor to open account) shall apply for the purposes of subsection (4) above as it applies for the purposes of that section, but as if for paragraph (a) there were substituted—
+
+” the court proposes to exercise its power under paragraph (b) of section 27C(4) of the Maintenance Orders (Reciprocal Enforcement) Act 1972, and”.
+
+(7) The [^F161]... court shall register the order in the prescribed manner [^F162]... .
+
+#### [^F163]28 Applications by spouses under the Domestic Proceedings and Magistrates’ Courts Act 1978.
+
+(1) [[^F164]On] hearing an application which by virtue of section 27A of this Act is to be treated as if it were an application for a maintenance order under the Domestic Proceedings and Magistrates’ Courts Act 1978[[^F165], the family court] may make any order on the application which it has power to make under section 2 or 19(1) of that Act.
+
+(2) Part I of that Act shall apply in relation to such an application, and to any order made on such an application, with the following modifications—
+
+(a) sections 6 to 8, 16 to 18, 20ZA, 25[[^F166], 26] and 28(2) shall be omitted,
+
+(b) [^F167]... and
+
+(c) section 32(2) shall be omitted.
+
+(3) Subsections (1) and (2) above do not apply where section 28A of this Act applies.
+
+#### [^F168]28A Applications by former spouses under the Domestic Proceedings and Magistrates’ Courts Act 1978.
+
+(1) This section applies where in the case of any application which by virtue of section 27A of this Act is to be treated as if it were an application for a maintenance order under the Domestic Proceedings and Magistrates’ Courts Act 1978 (“the 1978 Act”)—
+
+(a) the applicant and respondent were formerly married,
+
+(b) their marriage was dissolved or annulled in a country or territory outside the United Kingdom by a divorce or annulment which is recognised as valid by the law of England and Wales,
+
+(c) an order for the payment of maintenance for the benefit of the applicant or a child of the family has, by reason of the divorce or annulment, been made by a court in a convention country, and
+
+(d) where the order for the payment of maintenance was made by a court of a different country from that in which the divorce or annulment was obtained, either the applicant or the respondent was resident in the convention country whose court made that order at the time that order was applied for.
+
+(2) [[^F169]The family court shall have jurisdiction to hear the application] notwithstanding the dissolution or annulment of the marriage.
+
+(3) If the [[^F170]family court] is satisfied that the respondent has failed to comply with the provisions of any order such as is mentioned in subsection (1)(c) above, it may (subject to subsections (4) and (5) below) make any order which it has power to make under section 2 or 19(1) of the 1978 Act.
+
+(4) The court shall not make an order for the making of periodical payments for the benefit of the applicant or any child of the family unless the order made in the convention country provides for the making of periodical payments for the benefit of the applicant or, as the case may be, that child.
+
+(5) The court shall not make an order for the payment of a lump sum for the benefit of the applicant or any child of the family unless the order made in the convention country provides for the payment of a lump sum to the applicant or, as the case may be, to that child.
+
+(6) Part I of the 1978 Act shall apply in relation to the application, and to any order made on the application, with the following modifications—
+
+(a) section 1 shall be omitted,
+
+(b) for the reference in section 2(1) to any ground mentioned in section 1 of that Act there shall be substituted a reference to non-compliance with any such order as is mentioned in subsection (1)(c) of this section,
+
+(c) for the references in section 3(2) and (3) to the occurrence of the conduct which is alleged as the ground of the application there shall be substituted references to the breakdown of the marriage,
+
+(d) the reference in section 4(2) to the subsequent dissolution or annulment of the marriage of the parties affected by the order shall be omitted,
+
+(e) sections 6 to 8, 16 to 18, 20ZA [[^F171]25, 26 and 28] shall be omitted,
+
+(f) [^F172]... and
+
+(g) section 32(2) shall be omitted.
+
+(7) A divorce or annulment obtained in a country or territory outside the United Kingdom shall be presumed for the purposes of this section to be one the validity of which is recognised by the law of England and Wales, unless the contrary is proved by the respondent.
+
+(8) In this section, “child of the family” has the meaning given in section 88 of the 1978 Act.
+
+#### [^F173]28B Applications under the Children Act 1989.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F174]28C [ Applications for recovery of maintenance in Northern Ireland.
+
+(1) This section applies to any application which—
+
+(a) is received by the Lord Chancellor from the appropriate authority in a convention country, and
+
+(b) is an application by a person in that country for the recovery of maintenance from another person who is for the time being residing in Northern Ireland.
+
+(2) Subject to sections 28D to 29B of this Act, an application to which this section applies shall be treated for the purposes of any enactment as if it were an application for a maintenance order under the relevant Order, made at the time when the application was received by the Lord Chancellor.
+
+[[^F175]This subsection does not confer jurisdiction on a court in Northern Ireland that it would not otherwise have.]
+
+(3) In the case of an application for maintenance for a child (or children) alone, the relevant Order is the Children (Northern Ireland) Order 1995.
+
+(4) In any other case, the relevant Order is the Domestic Proceedings (Northern Ireland) Order 1980.
+
+(5) In subsection (3) above, “child” means the same as in Schedule 1 to the Children (Northern Ireland) Order 1995.]
+
+#### [^F176]28D [ Sending application to the appropriate magistrates’ court.
+
+(1) On receipt of an application to which section 28C of this Act applies, the Lord Chancellor shall send it, together with any accompanying documents, to the clerk of a magistrates’ court [^F177]....
+
+(2) Subject to subsection (4) below, if notice of the hearing of the application by a magistrates’ court having jurisdiction to hear it cannot be duly served on the respondent, the clerk of the court shall return the application and the accompanying documents to the Lord Chancellor with a statement giving such information as he possesses as to the whereabouts of the respondent.
+
+(3) If the application is returned to the Lord Chancellor under subsection (2) above, then, unless he is satisfied that the respondent is not residing in the United Kingdom, he shall deal with it in accordance with subsection (1) above or section 27B of this Act or send it to the Secretary of State to be dealt with in accordance with section 31 of this Act (as the circumstances of the case require).
+
+[^F178]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F178]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+#### [^F179]28E [ Applications to which section 28C applies: general.
+
+(1) This section applies where a magistrates’ court makes an order on an application to which section 28C of this Act applies.
+
+(2) Article 85 of the Magistrates’ Courts (Northern Ireland) Order 1981 (“the 1981 Order”) (orders for periodical payment: means of payment) shall not apply.
+
+(3) The court shall, at the same time that it makes the order, exercise one of its powers under subsection (4) below.
+
+(4) Those powers are—
+
+(a) the power to order that payments under the order be made directly to the collecting officer;
+
+(b) the power to order that payments under the order be made to the collecting officer, by such method of payment falling within Article 85(7) of the 1981 Order (standing order, etc.) as may be specified;
+
+(c) the power to make an attachment of earnings order under Part IX of the 1981 Order to secure payments under the order;
+
+and in this subsection “collecting officer” means the officer mentioned in Article 85(4) of the 1981 Order.
+
+(5) In deciding which of the powers under subsection (4) above it is to exercise, the court shall have regard to any representations made by the person liable to make payments under the order.
+
+(6) Paragraph (5) of Article 85 of the 1981 Order (power of court to require debtor to open account) shall apply for the purposes of subsection (4) above as it applies for the purposes of that Article, but as if for sub-paragraph (a) there were substituted—
+
+(a) the court proposes to exercise its power under paragraph (b) of section 28E(4) of the Maintenance Orders (Reciprocal Enforcement) Act 1972, and.
+
+(7) The clerk of the court shall register the order in the prescribed manner in the court.]
+
+#### [^F180]29 [ Applications by spouses under the Domestic Proceedings (Northern Ireland) Order 1980.
+
+(1) The magistrates’ court hearing an application which by virtue of section 28C of this Act is to be treated as if it were an application for a maintenance order under the Domestic Proceedings (Northern Ireland) Order 1980 may make any order on the application which it has power to make under Article 4 or 20(1) of that Order.
+
+(2) That Order shall apply in relation to such an application, and to any order made on such an application, with the following omissions—
+
+(a) Articles 8 to 10, 18, 19, 21, 22A, 25(1), 27 to 29 and 30(1A),
+
+(b) in Article 32(1) the words “either the applicant or”, and
+
+(c) Article 36(1).
+
+(3) Subsections (1) and (2) above do not apply where section 29A of this Act applies.]
+
+#### [^F181]29A [ Applications by former spouses under the Domestic Proceedings (Northern Ireland) Order 1980.
+
+(1) This section applies where in the case of any application which by virtue of section 28C of this Act is to be treated as if it were an application for a maintenance order under the Domestic Proceedings (Northern Ireland) Order 1980 (“the 1980 Order”)—
+
+(a) the applicant and respondent were formerly married,
+
+(b) their marriage was dissolved or annulled in a country or territory outside the United Kingdom by a divorce or annulment which is recognised as valid by the law of Northern Ireland;
+
+(c) an order for the payment of maintenance for the benefit of the applicant or a child of the family has, by reason of the divorce or annulment, been made by a court in a convention country, and
+
+(d) where the order for the payment of maintenance was made by a court of a different country from that in which the divorce or annulment was obtained, either the applicant or the respondent was resident in the convention country whose court made that order at the time that order was applied for.
+
+(2) Any magistrates’ court that would have jurisdiction to hear the application under Article 32 of the 1980 Order (as modified in accordance with subsection (6) below) if the applicant and the respondent were still married shall have jurisdiction to hear it notwithstanding the dissolution or annulment of the marriage.
+
+(3) If the magistrates’ court hearing the application is satisfied that the respondent has failed to comply with the provisions of any order such as is mentioned in subsection (1)(c) above, it may (subject to subsections (4) and (5) below) make any order which it has power to make under Article 4 or 20(1) of the 1980 Order.
+
+(4) The court shall not make an order for the making of periodical payments for the benefit of the applicant or any child of the family unless the order made in the convention country provides for the making of periodical payments for the benefit of the applicant or, as the case may be, that child.
+
+(5) The court shall not make an order for the payment of a lump sum for the benefit of the applicant or any child of the family unless the order made in the convention country provides for the payment of a lump sum to the applicant or, as the case may be, to that child.
+
+(6) The 1980 Order shall apply in relation to the application, and to any order made on the application, with the following modifications—
+
+(a) Article 3 shall be omitted,
+
+(b) for the reference in Article 4(1) to any ground mentioned in Article 3 there shall be substituted a reference to non-compliance with any such order as is mentioned in subsection (1)(c) of this section,
+
+(c) for the references in Article 5(2) and (3) to the occurrence of the conduct which is alleged as the ground of the application there shall be substituted references to the breakdown of the marriage,
+
+(d) the reference in Article 6(2) to the subsequent dissolution or annulment of the marriage of the parties affected by the order shall be omitted,
+
+(e) Articles 8 to 10, 18, 19, 21, 22A, 25(1) and 27 to 30 shall be omitted,
+
+(f) in Article 32(1), the words “either the applicant or” shall be omitted, and
+
+(g) Article 36(1) shall be omitted.
+
+(7) A divorce or annulment obtained in a country or territory outside the United Kingdom shall be presumed for the purposes of this section to be one the validity of which is recognised by the law of Northern Ireland, unless the contrary is proved by the respondent.
+
+(8) In this section “child of the family” has the meaning given in Article 2(2) of the 1980 Order.]
+
+#### [^F182]29B [ Applications under the Children (Northern Ireland) Order 1995.
+
+No provision of an order made under Schedule 7 to the Children (Northern Ireland) Order 1995 requiring or enabling a court to transfer proceedings from a magistrates’ court to a county court or the High Court shall apply in relation to an application which by virtue of section 28C of this Act is to be treated as if it were an application for a maintenance order under that Order.]
+
+#### 30 Further provisions relating to recovery in England, Wales and Northern Ireland of maintenance for children
+
+.
+
+[^F183]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F183]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F184]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F184]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F184]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F183]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Application by person in convention country for recovery of maintenance in Scotland
+
+#### 31 Application by person in convention country for recovery of maintenance in Scotland.
+
+(1) Where the Secretary of State receives from the appropriate authority in a convention country an application by a person in that country for the recovery of maintenance from another person who is for the time being residing in Scotland, he shall send the application, together with any accompanying documents, to the [[^F185]Secretary of the Law Society of Scotland who shall send the application and any accompanying documents to a solicitor practising in the sheriff court within the jurisdiction of which that other person resides or to such other solicitor practising in Scotland as appears to the Secretary to be appropriate, for the purposes of enabling the solicitor to take] on behalf of the applicant such steps as appear to the solicitor appropriate in respect of the application.
+
+[[^F186](1A) Proceedings arising out of an application under subsection (1) above shall be treated as an action for aliment within the meaning of the Family Law (Scotland) Act 1985 and, subject to subsections (1B) to (1D) below, the provisions of that Act relating to aliment shall apply in relation to claims for maintenance in such proceedings and decrees therein.
+
+(1B) Without prejudice to subsection (2) below, any proceedings mentioned in subsection (1A) above shall be brought in the sheriff court.
+
+(1C) In its application to proceedings mentioned in subsection (1A) above, section 5 of the said Act of 1985 (power to vary or recall decree of aliment) shall be subject to section 34(1) of this Act.
+
+(1D) Where an application under subsection (1) above is for the recovery of maintenance from a person who is a former spouse of the applicant—
+
+(a) then, for the purposes of the said Act of 1985, there shall be assumed to be an obligation of aliment within the meaning of that Act owed by the former spouse to the applicant;
+
+(b) section 2(7) and (8) of that Act shall not apply; and
+
+(c) an order for payment of maintenance in proceedings arising out of the application—
+
+(i) shall, if subsisting at the death of the party making the payment, continue to operate against that party’s estate, but without prejudice to the power of the court to vary or recall the order; and
+
+(ii) shall cease to have effect on the remarriage or death of the party receiving payment, except in relation to any arrears due under it]
+
+(2) Where in any proceedings arising out of such an application as aforesaid the sheriff [[^F187],or (on appeal or remit) the Court of Session,] makes an order containing a provision requiring the payment of maintenance, [[^F188]the order shall be registered forthwith in the prescribed manner in the appropriate sheriff court by the sheriff clerk or sheriff clerk depute of that sheriff court; and where an order of the Court of Session varies or revokes a registered order of the sheriff, the said sheriff clerk or sheriff clerk depute shall amend the register accordingly.]
+
+[[^F189](2A)In subsection (2) above “the appropriate sheriff court” means the sheriff court making the order or (where the order is an order of the Court of Session) from which the remit or appeal has come.]
+
+(3) Without prejudice to the generality of the powers conferred on the Court of Session by section 32 of the [^M10]Sheriff Courts (Scotland) Act 1971 to regulate by act of sederunt the procedure of the sheriff court, the said powers shall include power to prescribe the decrees granted, or other things done, by the sheriff, or an officer of the sheriff court, under this Part of this Act, notice of which is to be given to such persons as the act of sederunt may provide and the manner in which such notice shall be given.
+
+[[^F190](4) Where an application under subsection (1) above is for the recovery of maintenance from a person who is a former spouse of the applicant an order containing a provision requiring the payment of such maintenance for the benefit of the applicant shall not be made in respect of that application unless—
+
+(i) the marriage between the applicant and the said former spouse has been dissolved by a divorce which has been [[^F191]granted in a convention country][[^F191]obtained in a convention country or territory outside the United Kingdom] and which is recognised as valid by the law of Scotland;
+
+[[^F192](ii) an order for the payment of maintenance for the benefit of the applicant has, in or by reason of the divorce proceedings in the convention country, been made by the court which granted the divorce or by any other court in that country; and]
+
+[[^F192](ii) an order for the payment of maintenance for the benefit of the applicant as a divorced person has, in or by reason of, or subsequent to, the divorce proceedings, been made by a court in a convention country;
+
+(iia) in a case where the order mentioned in paragraph (ii) above was made by a court of a different country from that in which the divorce was obtained, either the applicant or the said former spouse was resident in that different country at the time the application for the order so mentioned was made; and]
+
+(iii) the court making the order under this section is satisfied that the former spouse of the applicant has failed to comply with the order mentioned in paragraph (ii) above.
+
+[[^F193](4A) In subsection (4)(i) above the reference to the dissolution of a marriage by divorce shall be construed as including a reference to the annulment of a purported marriage and any reference to a marriage, a divorce, a divorced person, a former spouse or divorce proceedings shall be construed accordingly.]
+
+(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F194]
+
+(6) Section 8 of the [^M11]Law Reform (Miscellaneous Provisions) (Scotland) Act 1966 (which relates to the variation and recall by the sheriff of certain orders made by the Court of Session) shall not apply to an order of the Court of Session registered under subsection (2) above.]
+
+### Transfer, enforcement, variation and revocation of registered orders
+
+#### 32 Transfer of orders.
+
+(1) Where the prescribed officer of the registering court is of opinion that the payer under a registered order has ceased to reside within the jurisdiction of that court, then, unless he is of opinion that the payer has ceased to reside in the United Kingdom, he shall, subject to subsection (2) below, send a certified copy of the order and the related documents to the Secretary of State, and if he is of opinion that the payer has ceased to reside in the United Kingdom he shall send a notice to that effect to the Secretary of State.
+
+(2) Where [[^F195]the clerk] of the registering court, being a magistrates’ court [[^F196]in Northern Ireland], is of opinion that the payer is residing within the jurisdiction of another magistrates’ court in [[^F197]Northern Ireland], he shall transfer the order to that other court by sending a certified copy of the order and the related documents to [[^F195]the clerk] of that other court and, subject to subsection (4) below, [[^F198]that clerk] shall register the order in the prescribed manner in that court.
+
+[^F199]2A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Where a certified copy of an order is received by the Secretary of State under this section and it appears to him that the payer under the order is still residing in the United Kingdom, he shall transfer the order to the appropriate court by sending the copy of the order and the related documents to the prescribed officer of the appropriate court and, subject to subsection (4) below, that officer shall register the order in the prescribed manner in that court.
+
+(4) Before registering an order in pursuance of subsection (2) or (3) above an officer of a court shall take such steps as he thinks fit for the purpose of ascertaining whether the payer under the order is residing within the jurisdiction of the court, and if after taking those steps he is satisfied that the payer is not so residing he shall return the certified copy of the order and the related documents to the officer of the court or the Secretary of State, as the case may be, from whom he received them, together with a statement giving such information as he possesses as to the whereabouts of the payer.
+
+(5) Where a certified copy of an order is received by the Secretary of State under this section and it appears to him that the payer under the order has ceased to reside in the United Kingdom he shall return the copy of the order and the related documents to the registering court.
+
+(6) An officer of a court on registering an order in the court in pursuance of subsection (2) or (3) above shall give notice of the registration in the prescribed manner to the prescribed officer of the court in which immediately before its registration under this section the order was registered.
+
+(7) The officer to whom notice is given under subsection (6) above shall on receiving the notice cancel the registration of the order in that court.
+
+[[^F200](7A) The Secretary of State on receiving notice under subsection (6) above shall send a copy of the registered order and of the related documents to the Secretary of the Law Society of Scotland who shall send the copy of the order and of the related documents to a solicitor practising in the registering court or to such other solicitor practising in Scotland as appears to the Secretary to be appropriate for the purpose of enabling the solicitor to take, on behalf of the person entitled to the payments for which the order provides, such steps as appear to the solicitor appropriate to enforce the order.
+
+(7B) Where an order is registered in the sheriff court by virtue of subsection (3) above, any provision of the order by virtue of which the payments for which the order provides are required to be made through or to any officer or person on behalf of the person entitled thereto shall be of no effect so long as the order is so registered.]
+
+(8) In this section—
+
+- “the appropriate court” [[^F201]—]
+
+  - in relation to a person residing in England and [[^F202]Wales, means the family court; and
+  - in relation to a person residing] in Northern Ireland, means a magistrates’ court within the jurisdiction of which that person is residing;
+
+- “certificate of arrears” and “certified copy” have the same meanings respectively as in Part I of this Act;
+
+- “payer”, in relation to a registered order, means the person liable to make payments under the order; and
+
+- “related documents” means—
+
+(a) the application on which the order was made;
+
+(b) a certificate of arrears signed by the prescribed officer of the registering court;
+
+(c) a statement giving such information as he possesses as to the whereabouts of the payer; and
+
+(d) any relevant documents in his possession relating to the case.
+
+(9) In the application of this section to Scotland—
+
+(a) in subsection (1), for the words “within the jurisdiction of that court” there shall be substituted the words “in Scotland”;
+
+(b) subsection (2) shall be omitted;
+
+(c) in subsection (4), for the words “the officer of the court or the Secretary of State, as the case may be, from whom he received them” there shall be substituted the words “the Secretary of State”;
+
+(d) at the end of subsection (6) there shall be inserted the words “and to the Secretary of State”;
+
+[[^F203](e) after subsection (7) there shall be inserted the following subsections:—
+
+> (7A) The Secretary of State on receiving notice under subsection (6) above shall send a copy of the registered order and of the related documents to the secretary of the committee mentioned in section 31(1) of this Act, and the secretary shall thereupon send the copy of the order and of the related documents to a solicitor practising in the registering court, with a view to the solicitor’s taking on behalf of the person entitled to the payments for which the order provides such steps as appear to the solicitor appropriate to enforce the order.
+>
+> (7B) Where an order is registered in the sheriff court by virtue of subsection (3) above, any provision of the order by virtue of which the payments for which the order provides are required to be made through or to any officer or person on behalf of the person entitled thereto shall be of no effect so long as the order is so registered
+
+;]
+
+(f) “appropriate court”, in relation to a person residing in Scotland, means the sheriff court within the jurisdiction of which that person is residing.
+
+#### 33 Enforcement of orders.
+
+(1) Subject to subsection (2) below, a registered order which is registered in a court other than the court by which the order was made may be enforced as if it had been made by the registering court and as if that court had had jurisdiction to make it; and proceedings for or with respect to the enforcement of any such order may be taken in accordance with this subsection but not otherwise.
+
+(2) Subsection (1) above does not apply to an order which is for the time being registered [^F204]... in the High Court of Justice in Northern Ireland under Part II of the [^M12]Maintenance and Affiliation Orders Act (Northern Ireland) 1966.
+
+(3) [^F205]An order which by virtue of subsection (1) above is enforceable by a magistrates’ court [^F205][[^F206]shall, subject to the modifications of Article 98 of the Magistrates’ Courts (Northern Ireland) Order 1981 (enforcement of sums adjudged to be paid and complaint for arrears) specified in subsection (4C) of section 8 of this Act, be enforceable][^F205] as [^F205][[^F207]an order made by that court to which that Article applies][^F205].
+
+[^F208]3A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F209](3B) Where, by virtue of being registered in the court of summary jurisdiction [[^F210]in Northern Ireland] in which it was made, a registered order is enforceable as a maintenance order made by a court of summary jurisdiction, Article 98 of the Magistrates’ Courts (Northern Ireland) Order 1981 shall have effect subject to the modifications specified in subsection (4C) of section 8 of this Act.]
+
+(4) A magistrates’ court [[^F211]in Northern Ireland] in which an order is registered under this Part of this Act, and the officers thereof, shall take all such steps for enforcing the order as may be prescribed.
+
+(5) In any proceedings for or with respect to the enforcement of an order which is for the time being registered in any court under this Part of this Act a certificate of arrears sent under section 32 of this Act to the prescribed officer of the court shall be evidence of the facts stated therein.
+
+(6) Part II of the [^M13]Maintenance Orders Act 1950 (enforcement of certain orders throughout the United Kingdom) shall not apply to a registered order.
+
+(7) In the application of this section to Scotland—
+
+(a) subsections (2) to (4) shall be omitted; and
+
+(b) in subsection (5), for the word “evidence” there shall be substituted the words “sufficient evidence”.
+
+#### 34 Variation and revocation of orders.
+
+(1) [[^F212]Subject to [[^F213]subsection (3B) below and] section 34B of this Act][[^F214]Subject to [^F215]... section 34A of this Act] where a registered order is registered in a court other than the court by which the order was made, the registering court shall have the like power to vary or revoke the order as if it had been made by the registering court and as if that court had had jurisdiction to make it; and no court other than the registering court shall have power to vary or revoke a registered order.
+
+(2) Where the registering court revokes a registered order it shall cancel the registration.
+
+(3) Where the Secretary of State receives from the appropriate authority in a convention country an application by a person in that country for the variation of a registered order, he [[^F216]shall—
+
+(a) if the registering court is the family court, send the application together with any documents accompanying it to that court;
+
+(b) if the registering court is a magistrates' court in Northern Ireland, send the application together with any documents accompanying it to the clerk of that court.]
+
+[^F217]3A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F218](3B) Where paragraph (1) of Article 86 of the Magistrates’ Courts (Northern Ireland) Order 1981 (revocation, variation etc. of orders for periodical payment) applies in relation to a registered order, that paragraph shall have effect as if for the words “by order on complaint,” there were substituted “on an application being made, by order”. ]
+
+(4) Where a court in a part of the United Kingdom makes, or refuses to make, an order varying or revoking a registered order made by a court in another part thereof, any person shall have the like right of appeal (if any) against the order or refusal as he would have if the registered order had been made by the first-mentioned court.
+
+(5) In the application of this section to Scotland—
+
+[[^F219](a) the words “and no court other than the registering court shall have power to vary or revoke a registered order ” in subsection (1) above are subject to any power of the Court of Session on appeal; and ]
+
+[[^F220](b) for subsection (3) there shall be substituted the following subsection—
+
+> (3) Where the Secretary of State receives from the appropriate authority in a convention country an application by a person in that country for the variation of a registered order, he shall, if the registering court is a sheriff court, send the application, together with any documents accompanying it, to the Secretary of the Law Society of Scotland who shall send the application and any accompanying documents to a solicitor practising in the registering court or to such other solicitor practising in Scotland as appears to the Secretary to be appropriate, for the purpose of enabling the solicitor to take on behalf of the applicant such steps as appear to the solicitor appropriate in respect of the application.]
+
+#### 34A [[^F221] Variation of orders by [[^F222]the family court] in England and Wales.
+
+(1) The provisions of this section shall have effect in relation to a registered order which is registered in [[^F223]the family court] (whether or not the court made the order) in place of the following enactments, that is to say—
+
+[[^F224](a) section 1(3A) of the Maintenance Enforcement Act 1991;]
+
+(b) section 20ZA of the [^M14] Domestic Proceedings and Magistrates’ Courts Act 1978; and
+
+(c) paragraph 6A of Schedule 1 to the [^M15] Children Act 1989.
+
+(2) The power of [[^F225]the family court] to vary a registered order shall include power, if the court is satisfied that payment has not been made in accordance with the order, to exercise one of its powers under subsection (3) below.
+
+(3) The powers of the court are—
+
+(a) the power to order that payments under the order be made directly to [[^F226]the court];
+
+(b) the power to order that payments under the order be made to [[^F226]the court], by such method of payment falling within section [[^F227]1(5) of the Maintenance Enforcement Act 1991] (standing order, etc.) as may be specified;
+
+(c) the power to make an attachment of earnings order under the [^M16]Attachment of Earnings Act 1971 to secure payments under the order.
+
+[^F228]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F228]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F228]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F228]7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F228]8 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(9) In deciding, for the purposes of [[^F229]subsection (2)] above, [[^F230]whether to exercise any of its] powers under subsection (3) above [^F231]... , the court shall have regard to any representations made by the debtor [[^F232]or the creditor].
+
+(10) [[^F233]Subsection (6) of section 1 of the Maintenance Enforcement Act 1991] (power of court to require debtor to open account) shall apply for the purposes of subsection (3) above as it applies for the purposes of that section but as if for paragraph (a) there were substituted—
+
+(a) the court proposes to exercise its power under paragraph (b) of section 34A(3) of the [^M17]Maintenance Orders (Reciprocal Enforcement) Act 1972, and
+
+(11) In this section “creditor” and “debtor” have the same meaning as they have in [[^F234]section 1 of the Maintenance Enforcement Act 1991].]
+
+#### 34B [[^F235] Variation of orders by courts of summary jurisdiction in Northern Ireland.
+
+(1) The provisions of this section shall have effect in relation to a registered order which is registered in a court of summary jurisdiction in Northern Ireland (whether or not the court made the order) in place of the following enactments, that is to say—
+
+(a) paragraphs (3) to (11) of Article 86 of the Magistrates’ Courts (Northern Ireland) Order 1981; and
+
+(b) Article 22A of the Domestic Proceedings (Northern Ireland) Order 1980.
+
+(2) The power of a court of summary jurisdiction in Northern Ireland to vary a registered order shall include power, if the court is satisfied that payment has not been made in accordance with the order, to exercise one of its powers under subsection (3) below.
+
+(3) The powers of the court are—
+
+(a) the power to order that payments under the order be made directly to the collecting officer;
+
+(b) the power to order that payments under the order be made to the collecting officer by such method of payment falling within Article 85(7) of the Magistrates’ Courts (Northern Ireland) Order 1981 (standing order, etc.) as may be specified;
+
+(c) the power to make an attachment of earnings order under Part IX of the Order of 1981 to secure payments under the order;
+
+and in this subsection “collecting officer” means the officer mentioned in Article 85(4) of the Order of 1981.
+
+(4) In any case where—
+
+(a) a registered order is registered in a court of summary jurisdiction in Northern Ireland, and
+
+(b) payments under the order are required to be made to the collecting officer in Northern Ireland, by any method of payment falling within Article 85(7) of the Magistrates’ Courts (Northern Ireland) Order 1981 (standing order, etc.),
+
+an interested party may apply in writing to the clerk of petty sessions in which the order is registered for the order to be varied as mentioned in subsection (5) below.
+
+(5) Subject to subsection (8) below, where an application has been made under subsection (4) above, the clerk, after giving written notice (by post or otherwise) of the application to any other interested party and allowing that party, within the period of 14 days beginning with the date of the giving of that notice, and opportunity to make written representations, may vary the order to provide that payments under the order shall be made in accordance with paragraph (a) of subsection (3) above.
+
+(6) The clerk may proceed with an application under subsection (4) above notwithstanding that any such interested party as is referred to in subsection (5) above has not received written notice of the application.
+
+(7) In subsections (4) to (6) above “interested party”, in relation to an order, means the debtor or the creditor.
+
+(8) Where an application has been made under subsection (4) above, the clerk may, if he considers it inappropriate to exercise his power under subsection (5) above, refer the matter to the court which may vary the order by exercising one of its powers under subsection (3) above.
+
+(9) In deciding, for the purposes of subsections (2) and (8) above, which of the powers under subsection (3) above it is to exercise, the court shall have regard to any representations made by the debtor.
+
+(10) Paragraph (5) of Article 85 of the Magistrates’ Courts (Northern Ireland) Order 1981 (power of court to require debtor to open account) shall apply for the purposes of subsection (3) above as it applies for the purposes of that Article but as if for sub-paragraph (a) there were substituted—
+
+> (a) the court proposes to exercise its power under paragraph (b) of section 34B(3) of the Maintenance Orders (Reciprocal Enforcement) Act 1972, and]
+
+#### 35 [[^F236] Further provisions with respect to variation etc. of orders by [[^F237]the family court] in England and Wales.
+
+[[^F238](1) Subsection (1A) applies in relation to an application for the variation or revocation of a registered order registered in [[^F239]the family court] (“the registering court”) made—
+
+(a) by the person against whom or on whose application the registered order was made, and
+
+(b) in circumstances where the person by or against whom the application is made is residing outside England and Wales.
+
+(1A) The registering court has jurisdiction to hear the application even though—
+
+(a) a party to the application is residing outside England and Wales, [^F240]...
+
+[^F240]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F241]1B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+(2) None of the powers of the court [^F242]... under section 34A of this Act shall be exercisable in relation to such an application.
+
+(3) Where the respondent to an application for the variation or revocation of a registered order which is registered in [[^F243]the family court] does not appear at the time and place appointed for the hearing of the application, but the court is satisfied—
+
+(a) that the respondent is residing outside England and Wales, and
+
+(b) that the prescribed notice of the making of the application and of the time and place appointed for the hearing has been given to the respondent in the prescribed manner,
+
+the court may proceed to hear and determine the application at the time and place appointed for the hearing or for any adjourned hearing in like manner as if the respondent had appeared at that time and place.
+
+[^F244]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+#### [^F245]35A [ Further provisions with respect to variation etc. of orders by magistrates’ courts in Northern Ireland.
+
+[[^F246](1) Subsection (1A) applies in relation to an application for the variation or revocation of a registered order registered in a magistrates’ court in Northern Ireland (“the registering court”) made—
+
+(a) by the person against whom or on whose application the registered order was made, and
+
+(b) in circumstances where the person by or against whom the application is made is residing outside Northern Ireland.
+
+(1A) The registering court has jurisdiction to hear the application even though—
+
+(a) a party to the application is residing outside England and Wales, and
+
+(b) the requirement in Article 32 of the Domestic Proceedings (Northern Ireland) Order 1980, as applied by section 29(2) or 29A(6) of this Act, is not satisfied.
+
+[^F247]1B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+(2) None of the powers of the court, or of the clerk, under section 34B of this Act shall be exercisable in relation to such an application.
+
+(3) Where the respondent to an application for the variation or revocation of a registered order which is registered in a magistrates’ court in Northern Ireland does not appear at the time and place appointed for the hearing of the application, but the court is satisfied—
+
+(a) that the respondent is residing outside Northern Ireland, and
+
+(b) that the prescribed notice of the making of the application and of the time and place appointed for the hearing has been given to the respondent in the prescribed manner,
+
+the court may proceed to hear and determine the application at the time and place appointed for the hearing or for any adjourned hearing in like manner as if the respondent had appeared at that time and place.
+
+[^F248]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .]
+
+### Supplemental
+
+#### 36 Admissibility of evidence given in convention country.
+
+[[^F249](A1) A statement contained in a document mentioned in subsection (1) shall—
+
+(a) in any proceedings in the family court arising out of an application to which section 27A(1) of this Act applies or an application made by any person for the variation or revocation of a registered order, or
+
+(b) in proceedings on appeal from proceedings within paragraph (a),
+
+be admissible as evidence of any fact stated to the same extent as oral evidence of that fact is admissible in those proceedings.]
+
+(1) [[^F250]The documents referred to in subsections (A1) and (1A) are—]
+
+(a) a document, duly authenticated, which purports to set out or summarise evidence given in proceedings in a court in a convention country; [^F251]...
+
+(b) a document, duly authenticated, which purports to set out or summarise evidence taken in such a country for the purpose of proceedings in a court in the United Kingdom under this Part of this Act, whether in response to a request made on behalf of such a court or otherwise; [^F251]...
+
+(c) a document, duly authenticated, which purports to have been received in evidence in proceedings in a court in such a country, or to be a copy of a document so received,
+
+[[^F252](1A) A statement contained in a document mentioned in subsection (1)] shall, in any proceedings in a magistrates’ court [[^F253]in Northern Ireland] or [[^F254]in, or remitted from, a] sheriff court arising out of [^F255]... [[^F256]an application [[^F257]to which section 28C(1) of this Act applies], an application received by the Secretary of State as mentioned in section 31(1) of this Act or] an application made by any person for the variation or revocation of a registered order or in proceedings on appeal from any such proceedings, be admissible as evidence of any fact stated therein to the same extent as oral evidence of that fact is admissible in those proceedings.
+
+(2) A document purporting to set out or summarise evidence given as mentioned in subsection (1)(a) above, or taken as mentioned in subsection (1)(b) above, shall be deemed to be duly authenticated for the purposes of that subsection if the document purports to be certified by the judge, magistrate or other person before whom the evidence was given or, as the case may be, by whom it was taken, to be the original document containing or recording, or, as the case may be, summarising, that evidence or a true copy of that document.
+
+(3) A document purporting to have been received in evidence as mentioned in subsection (1)(c) above, or to be a copy of a document so received, shall be deemed to be duly authenticated for the purposes of that subsection if the document purports to be certified by a judge, magistrate or officer of the court in question to have been, or to be a true copy of a document which has been, so received.
+
+(4) It shall not be necessary in any such proceedings to prove the signature or official position of the person appearing to have given such a certificate.
+
+(5) Nothing in this section shall prejudice the admission in evidence of any document which is admissible in evidence apart from this section.
+
+#### 37 Obtaining of evidence for purpose of proceedings in United Kingdom court.
+
+(1) A court in the United Kingdom may for the purpose of any proceedings in that court under this Part of this Act arising out of an application received by the Secretary of State from a convention country request the Secretary of State to make to the appropriate authority or court in the convention country a request for the taking in that country of the evidence of a person residing therein relating to matters connected with the application.
+
+(2) A request made by a court under this section shall—
+
+(a) give details of the application in question;
+
+(b) state the name and address of the person whose evidence is to be taken; and
+
+(c) specify the matters relating to which the evidence of that person is required.
+
+(3) If the Secretary of State is satisfied that a request made to him under this section contains sufficient information to enable the evidence of the person named in the request relating to the matters specified therein to be taken by a court or person in the convention country, he shall transmit the request to the appropriate authority or court in that country.
+
+#### 38 Taking of evidence at request of court in convention country.
+
+(1) Where a request is made to the Secretary of State by or on behalf of a court in a convention country to obtain the evidence of a person residing in the United Kingdom relating to matters connected with an application to which section 26 of this Act applies, the Secretary of State shall request such court, or such officer of a court, as he may determine to take the evidence of that person relating to such matters connected with that application as may be specified in the request.
+
+(2) The court by which or officer by whom a request under subsection (1) above is received from the Secretary of State shall have power to take the evidence and, after giving notice of the time and place at which the evidence is to be taken to such persons and in such manner as it or he thinks fit, shall take the evidence of the person named in the request relating to the matters specified therein in such manner as may be prescribed; and the evidence so taken shall be sent in the prescribed manner by the prescribed officer to the court in the convention country by or on behalf of which the request referred to in subsection (1) above was made.
+
+(3) Where any person, not being the person by whom the application mentioned in subsection (1) above was made, is required by virtue of this section to give evidence before a court in the United Kingdom, the court may order that there shall be paid—
+
+(a) if the court is a court in England, Wales or Scotland, out of moneys provided by Parliament; and
+
+(b) if the court is a court in Northern Ireland, out of moneys provided by [[^F258]the Northern Ireland Assembly],
+
+such sums as appear to the court reasonably sufficient to compensate that person for the expense, trouble or loss of time properly incurred in or incidental to his attendance.
+
+(4) [[^F259]Articles 118(1), (3) and (4), 119 and 120 of the Magistrates' Courts (Northern Ireland) Order 1981] (which provide for compelling the attendance of witnesses, etc.) shall apply in relation to a magistrates’ court [[^F260]in Northern Ireland] to which a request under subsection (1) above is made as if the application to which the request relates were a complaint to be heard by that court.
+
+(5) Paragraphs 71 and 73 of Schedule 1 to the [^M18]Sheriff Courts (Scotland) Act 1907 (which provide for the citation of witnesses, etc.) shall apply in relation to a sheriff court to which a request under subsection (1) above is made as if the application to which the request relates were proceedings in that court.
+
+[^F261]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 38A [[^F262][[^F263]Rules of court]
+
+(1) [[^F264]Rules of court] may make provision with respect to the orders made or other things done by [[^F265]the family court or] a magistrates’ court, or an officer of such a court, by virtue of this Part of this Act, notice of which is to be given to such persons as the rules may provide and the manner in which such notice shall be given.
+
+(2) For the purpose of giving effect to this Part of this Act, [[^F266]rules of court] may make, in relation to any proceedings brought under or by virtue of this Part of this Act, any provision not covered by subsection (1) above which—
+
+(a) falls within subsection (2) of section 93 of the Children Act 1989, and
+
+(b) may be made in relation to relevant proceedings under that section.
+
+[^F267]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F268][4 For the purpose of giving effect to this Part of this Act, rules made under Article 13 of the Magistrates’ Courts (Northern Ireland) Order 1981 may make, in relation to any proceedings brought under or by virtue of this Part of this Act, any provision not covered by subsection (1) above which—
+
+(a) falls within paragraph (2) of Article 165 of the Children (Northern Ireland Order) 1995, and
+
+(b) may be made in relation to relevant proceedings under that Article.]]
+
+#### 39 Interpretation of Part II.
+
+In this Part of this Act—
+
+- “maintenance”, as respects Scotland, [[^F269]includes aliment and any sums which are payable, following divorce, [[^F270]by one former spouse for the support of the other]];
+- [[^F271]“maintenance order” has the same meaning as in Part I of this Act;]
+- “order”, as respects Scotland, includes any interlocutor, and any decree or provision contained in an interlocutor;
+- “prescribed” has the same meaning as in Part I of this Act;
+- “registered order” means an order which is for the time being registered in a court in the United Kingdom under this Part of this Act;
+- “registering court”, in relation to a registered order, means the court in which that order is for the time being registered under this Part of this Act.
+- [[^F272]“revoke” and “revocation” include discharge.]
+
+## Part III — Miscellaneous and Supplemental
+
+### Further provisions relating to enforcement of maintenance orders and to applications for recovery of maintenance
+
+#### 40 Power to apply Act to maintenance orders and applications for recovery of maintenance made in certain countries.
+
+Where Her Majesty is satisfied—
+
+(a) that arrangements have been or will be made in a country or territory outside the United Kingdom to ensure that maintenance orders made by courts in the United Kingdom . . . [^F273] can be enforced in that country or territory or that applications by persons in the United Kingdom for the recovery of maintenance from persons in that country or territory can be entertained by courts in that country or territory; and
+
+(b) that in the interest of reciprocity it is desirable to ensure that maintenance orders made by courts in that country or territory . . . [^F274] can be enforced in the United Kingdom or, as the case may be, that applications by persons in that country or territory for the recovery of maintenance from persons in the United Kingdom can be entertained by courts in the United Kingdom,
+
+Her Majesty may by Order in Council make provision for applying the provisions of this Act, with such exceptions, adaptations and modifications as may be specified in the Order, to such orders or applications as are referred to in paragraphs (a) and (b) above and to maintenance and other orders made in connection with such applications by courts in the United Kingdom or in that country or territory.
+
+### Provisions with respect to certain orders of magistrates’ courts
+
+#### [[^F275]41 Complaint for variation, etc. of certain orders by or against persons outside England and Wales.
+
+(1) The jurisdiction to revoke, revive or vary an order for the periodical payment of money conferred on magistrates’ courts by [[^F276]section 60 of the [^M19]Magistrates’ Courts Act 1980] shall, in the case of [[^F277]an affiliation order] be exercisable notwithstanding that the proceedings for the revocation, revival or variation, as the case may be, of the order are brought by or against a person residing outside England and Wales.
+
+[[^F278](2) The jurisdiction to revoke or vary an order for the periodical payment of money conferred on magistrates’ courts by sections 9, 10 or 11 of the [^M20]Guardianship of Minors Act 1971 shall be exercisable notwithstanding that the proceedings for the revocation or variation of the order are brought by or against a person residing outside England and Wales.
+
+(2A) Subject to subsection (2B) below, a magistrates’ court may, if it is satisfied that the respondent has been outside the United Kingdom during such period as may be prescribed by rules made under [[^F276]section 144 of the [^M21]Magistrates’ Courts Act 1980], proceed on—
+
+(a) an application made under [[^F276]section 60 of the Magistrates’ Courts Act 1980] for the revocation, revival or variation of an affiliation order, or
+
+(b) an application made under section 9, 10, 11 or 12C(5) of the Guardianship of Minors Act 1971 for the revocation, revival or variation of an order for the periodical payment of money made under the said section 9, 10 or 11,
+
+notwithstanding that the respondent has not been served with the summons; and rules may prescribe any other matters as to which the court is to be satisfied before proceeding in such a case.
+
+(2B) A magistrates’ court shall not—
+
+(a) exercise its powers under [[^F276]section 60 of the Magistrates’ Courts Act 1980] so as to increase the amount of any periodical payments required to be made by any person under an affiliation order; or
+
+(b) exercise its powers under section 9, 10 or 11 of the Guardianship of Minors Act 1971 so as to increase the amount of any periodical payments required to be made by any person by an order under one of those sections,
+
+unless those powers are exercised at a hearing at which the person required to make the periodical payment appears or the requirements of [[^F276]section 55(3) of the Magistrates’ Courts Act 1980] with respect to proof of service of summons or appearance on a previous occasion are satisfied in respect of that person.]
+
+[^X2]3 In section 15(1) of the [^M22] Maintenance Orders Act 1950 (service of process on a person residing in Scotland or Northern Ireland), after the words “Act 1971” there shall be inserted the words “or section 41 of the Maintenance Orders (Reciprocal Enforcement) Act 1972”.
+
+[^X2]4 Section 3(3) of the said Act of 1950 (jurisdiction in proceedings by or against a person residing in Scotland or Northern Ireland for the revocation, etc., of an affiliation order) is hereby repealed.]
+
+#### 42 Provisional order for maintenance of party to marriage made by [^F279]... court to cease to have effect on remarriage of party.
+
+(1) Where a [^F280]... court has, by virtue of section 3 of this Act, made a provisional maintenance order consisting of, or including, a provision such as is mentioned in [[^F281]section 2(1)(a) of the [^M23]Domestic Proceedings and Magistrates’ Courts Act 1978 (making of periodical payments by husband or wife)] [[^F282]or Article 4(1)(a) of the [^M24]Domestic Proceedings (Northern Ireland) Order 1980] and the order has been confirmed by a competent court in a reciprocating country, then, if after the making of that order the marriage of the parties to the proceedings in which the order was made is dissolved or annulled but the order continues in force, that order or, as the case may be, that provision thereof shall cease to have effect on the remarriage of the party in whose favour it was made, except in relation to any arrears due under it on the date of such remarriage and shall not be capable of being revived.
+
+(2) For the avoidance of doubt it is hereby declared that references in this section to remarriage include references to a marriage which is by law void or voidable.
+
+[^X3]3 In section 30(2) of the [^M25] Matrimonial Proceedings and Property Act 1970 (which makes, in relation to such an order as is referred to in subsection (1) above which was confirmed in accordance with section 3 of the [^M26]Maintenance Orders (Facilities for Enforcement) Act 1920, provision to the like effect as that subsection) the words from “but with the modification” to the end are hereby repealed.
+
+### Supplemental provisions
+
+#### 43
+
+(1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F283]
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F284]
+
+#### 43A [[^F285] Eligibility for Legal Aid in Scotland.
+
+(1) In connection with proceedings under Part I of this Act in relation to a maintenance order made by a court in a reciprocating country, where there is produced a certificate from the responsible authority in that country to the effect that the payee would, in that country, be financially eligible for complete or partial—
+
+(i) legal aid; or
+
+(ii) exemption from costs or expenses, in proceedings there in relation to that maintenance order, [[^F286]section 2(1) and (6)(c), 3 and 4 of the [^M27]Legal Aid (Scotland) Act 1967][[^F286]sections 15 and 17 of the Legal Aid (Scotland) Act 1986] shall not apply in respect of the payee and, subject to the other provisions of that Act. legal aid shall under that Act be available to the payee without inquiry into the payee’s resources.
+
+(2) In connection with proceedings under Part II of this Act—
+
+(a) arising out of an application received from a convention country for the recovery of maintenance; or
+
+(b) relating to an order made in respect of such an application,
+
+where there is produced a certificate from the appropriate authority in that county to the effect that the applicant would, in that country, be financially eligible for complete or partial—
+
+(i) legal aid; or
+
+(ii) exemption from costs or expenses, in proceedings there for the recovery of maintenance, [[^F287]sections 2(1) and (6)(c), 3 and 4 of the said Act of 1967][[^F287]sections 15 and 17 of the said Act of 1986] shall not apply in respect of the applicant and, subject to the other provisions of that Act, legal aid shall under that Act be available to the applicant without inquiry into the applicant’s resources.
+
+(3) Where, in connection with proceedings under Part I or II of this Act, a person has received legal aid by virtue of subsection (1) or (2) above, [[^F288]legal advice and assistance under the [^M28]Legal Advice and Assistance Act 1972 shall, notwithstanding—
+
+(i) any finanacial conditions imposed by, or by virtue of sections 1 and 4(2), (3) and (4); and
+
+(ii) in relation to the effect of subsections (1) to (4) and (7) of section 4 of the said Act of 1967, the provisions of section 6(1)(b), of the said Act of 1972 (but subject otherwise to the provisions of the said Act of 1972)][[^F288]advice and assistance under the said Act of 1986, shall, notwithstanding any financial conditions or requirements to make contributions imposed by sections 8 and 11 of that Act,], be available in Scotland for that person, without inquiry into his resources, in connection with any matter incidental to, or arising out of, those proceedings.
+
+(4) In subsection (1) above “maintenance order”, “reciprocating country”, “responsible authority” and “payee” have the same meanings respectively as in Part I of this Act; and in subsection (2) above “convention country” means a country or territory specified in an Order in Council under section 25(1) of this Act, “maintenance” has the same meaning as in Part II of this Act, and “appropriate authority” means the authority from which the Secretary of State received the application.]
+
+#### 44 Exclusion of certain enactments relating to evidence.
+
+(1) Section 20 of the [^M29]Family Law Reform Act 1969 (power of court hearing certain proceedings to require use of blood tests to determine paternity) and any corresponding enactment of the Parliament of Northern Ireland shall not apply to any proceedings under this Act, but the foregoing provision is without prejudice to the power of a court to allow the the report of any person who has carried out such tests to be given in evidence in those proceedings.
+
+(2) [[^F289]The [^M30]Evidence (Proceedings in Other Jurisdictions) Act 1975] shall not apply to the taking of evidence in the United Kingdom for the taking of which section 14 or section 38 of this Act provides.
+
+#### 45 Orders in Council.
+
+(1) An Order in Council under section 1, section 25 or section 40 of this Act may be varied or revoked by a subsequent Order in Council thereunder, and an Order made by virtue of this section may contain such incidental, consequential and transitional provisions as Her Majesty considers expedient for the purposes of that section.
+
+(2) An Order in Council made under the said section 1 or the said section 40 shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### 46 Financial provisions.
+
+There shall be paid out of moneys provided by Parliament—
+
+(a) any sums ordered by a court under section 14(2) or 38(3) of this Act to be paid out of moneys so provided; and
+
+(b) any increase attributable to the provisions of this Act in the sums payable under [[^F290]the [^M31]Legal Aid Act 1974] or the [^M32]Legal Aid (Scotland) Act 1967 out of moneys so provided.
+
+#### 47 Interpretation: general.
+
+(1) In this Act—
+
+- “enactment” includes an enactment of the Parliament of Northern Ireland;
+- “magistrates’ court”, in relation to Northern Ireland, means a court of summary jurisdiction within the meaning of [[^F291]Article 2(2)(*a*) of the Magistrates’ Courts (Northern Ireland) Order 1981].
+
+(2) References in this Act to a part of the United Kingdom are references to England and Wales, to Scotland, or to Northern Ireland.
+
+[^F292]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Any reference in this Act to any other enactment is a reference thereto as amended, and includes a reference thereto as extended or applied, by or under any other enactment.
+
+#### 48 Special provisions relating to Northern Ireland.
+
+[^F293]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F294]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) Any reference in this Act to an enactment of the Parliament of Northern Ireland or to an enactment which that Parliament has power to amend, shall be construed, in relation to Northern Ireland, as a reference to that enactment as amended or extended by any Act of that Parliament, whether passed before or after this Act, and to any enactment of that Parliament passed after this Act and re-enacting the said enactment with or without modifications.
+
+(4) If the Parliament of Northern Ireland passes any enactment for purposes similar to those of any enactment in force in England and Wales which is referred to in this Act, Her Majesty may by Order in Council direct that this Act shall have effect subject to such modifications or adaptations as may be specified in the Order for the purpose of ensuring the continued operation of this Act in, or in relation to, Northern Ireland.
+
+(5) Section 45 of this Act shall apply in relation to an Order in Council under subsection (4) above as it applies in relation to an Order in Council under section 1 or 40 of this Act.
+
+[[^F295](6) In the application of this Act to Northern Ireland, for any reference to the Lord Chancellor (including any reference which is treated as a reference to the Lord Chancellor, but not including any such reference in section 49(2)) there shall be substituted a reference to the Department of Justice in Northern Ireland.]
+
+#### 49 Short title and commencement.
+
+(1) This Act may be cited as the Maintenance Orders (Reciprocal Enforcement) Act 1972.
+
+(2) This Act shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint, and different days may be so appointed for different provisions of this Act, or for different purposes.
+
+## [^X4]SCHEDULE — Consequential and Minor Amendments
+
+*Section 22.*
+
+**1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F296]
+
+### [^M33]The Army Act 1955 and the Air Force Act 1955
+
+**2** Section 150 of the [^M34]Army Act 1955 and section 150 of the Air Force Act 1955 (enforcement of maintenance, etc. orders by deduction from pay) shall each be amended by the insertion, in subsection (5), at the end of the first paragraph of the words “ and to an order registered in such a court under Part I of the Maintenance Orders (Reciprocal Enforcement) Act 1972 ”.
+
+### [^M35] The Naval Discipline Act 1957
+
+**3** In section 101 of the Naval Discipline Act 1957 (service of process in proceedings for maintenance, etc.) in subsection (5), after the words “Act, 1920” there shall be inserted the words “ or registered in such a court under Part I of the Maintenance Orders (Reciprocal Enforcement) Act 1972 ”.
+
+**4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F297]
+
+### [^M36]The Maintenance and Affiliation Orders Act (Northern Ireland) 1966
+
+**5** In section 10 of the Maintenance and Affiliation Orders Act (Northern Ireland) 1966 (orders to which Part II of that Act applies)—
+
+(a) in subsection (2), after the word “means” there shall be inserted the words “ an order made outside the United Kingdom and registered in a court of summary jurisdiction in Northern Ireland under Part I of the Maintenance Orders (Reciprocal Enforcement) Act 1972 or ”; and
+
+(b) at the end there shall be inserted the following subsection:—
+
+> (5) For the purposes of this Part an order made outside the United Kingdom and registered in a court of summary jurisdiction in Northern Ireland under Part I of the Maintenance Orders (Reciprocal Enforcement) Act 1972 shall be deemed to be a maintenance order made by that court
+
+### [^M37]The Administration of Justice Act 1970
+
+**6** At the end of Schedule 8 to the Administration of Justice Act 1970 (maintenance orders to which Part I of the Maintenance Orders Act 1958 applies) there shall be inserted the following paragraph:—
+
+> **11** A maintenance order within the meaning of Part I of the Maintenance Orders (Reciprocal Enforcement) Act 1972 registered in a magistrates’ court under the said Part I.
+
+### [^M38]The Attachment of Earnings Act 1971
+
+**7** At the end of Schedule 1 to the Attachment of Earnings Act 1971 (maintenance orders to which that Act applies) there shall be inserted the following paragraph:—
+
+> **11** A maintenance order within the meaning of Part I of the Maintenance Orders (Reciprocal Enforcement) Act 1972 registered in a magistrates’ court under the said Part I.
+
+---
+
+[^F1]: Words inserted by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), 52, Sch. 11 Pt. III para. 9(*a*)
+[^F2]: Words inserted by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), 52, Sch. 11 Pt. III para. 9(*b*)
+[^F3]: Word in s. 3 heading omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 30(6); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F4]: S. 3(1) substituted (5.4.1993) by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56), s. 1, Sch. 1 Pt. II para. 6(2); S.I. 1993/618, art. 2
+[^F5]: Words in s. 3(1) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 30(2); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F6]: Words in s. 3(1)(a) substituted (7.12.2012) by The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012 (S.I. 2012/2814), reg. 1(2), Sch. 5 para. 2(2)(a)
+[^F7]: S. 3(3) repealed (E.W.) by Family Law Reform Act 1987 (c. 42, SIF 49:7), s. 33(4), Sch. 4 and (N.I.) (4.11.1996) by S.I. 1995/755 (N.I. 2), art. 185(2), Sch. 10 (with Sch. 8 paras. 1(1), 23(4)); S.R. 1996/297, art. 2(2)
+[^F8]: S. 3(4) substituted (5.4.1993) by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56), s. 1, Sch. 1 Pt. II para. 6(3); S.I. 1993/618, art. 2
+[^F9]: S. 3(4)(za) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 30(3)(a); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F10]: Words in s. 3(4)(a)(b) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 30(3)(b); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F11]: Words in s. 3(4)(a)(b) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 30(3)(c); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F12]: Word in s. 3(6) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 30(4); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F13]: S. 3(7) substituted (N.I.) (4.11.1996) by S.I. 1995/755 (N.I. 2), art. 185(1), Sch. 9 para. 66 (with Sch. 8 para. 1(1)); S.R. 1996/297, art. 2(2)
+[^F14]: Words in s. 3(7)(a) substituted (7.12.2012) by The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012 (S.I. 2012/2814), reg. 1(2), Sch. 5 para. 2(2)(b)
+[^F15]: S. 3(7)(b) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 30(5); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F16]: S. 4(1) substituted (31.12.2020) by The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 5(2)(a) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F17]: S. 4(2) inserted (31.12.2020) by The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 5(2)(b) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)(3)(a)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F18]: S. 4(3) repealed (1.11.1996) by 1995 c. 36, s. 105(5), Sch. 5 (with s. 103(1)); S.I. 1996/2203, art. 3(3), Sch. Table
+[^M1]: 1971 c. 58.
+[^F19]: Words in s. 4(6) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 31; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F20]: S. 4(7) omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 5(2)(c) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F21]: S. 5(3A) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 32; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F22]: S. 5(3B) inserted (N.I.) (4.11.1996) by 1995/755 (N.I. 2), art. 185(1), Sch. 9 para. 67 (with Sch. 8 para. 1(1)); S.R. 1996/297, art. 2(2)
+[^F23]: Words substituted by Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22), ss. 54(a), 89
+[^F24]: Words substituted by Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22), ss. 54(b), 89
+[^F25]: Words inserted by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), 52, Sch. 11 Pt. III para. 10(*a*)
+[^F26]: Words inserted by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), 52, Sch. 11 Pt. III para. 10(*b*)(i)
+[^F27]: Words substituted by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), 52, Sch. 11 Pt. III para. 10(*b*)(ii)
+[^F28]: Words inserted by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), 52, Sch. 11 Pt. III para. 10(*b*)(iii)
+[^F29]: Words in s. 7(2)(i) substituted (5.4.1993) by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56) , s. 1 , Sch. 1 Pt. II para. 8(2) ; S.I. 1993/618 , art. 2
+[^F30]: Words in s. 7(3) substituted (5.4.1993) by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56) , s. 1 , Sch. 1 Pt. II , para. 8(3) ; S.I. 1993/618 , art. 2
+[^F31]: Words in s. 7(4) substituted (5.4.1993) by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56) , s. 1 , Sch. 1 Pt. II para. 8(4) ; S.I. 1993/618 , art. 2
+[^F32]: S. 7(5A)-(5D) inserted (E.W.)(1.4.1992) by Maintenance Enforcement Act 1991 (c. 17, SIF 49:3) , s. 10 , Sch. 1 para. 12 , S.I . 1992/455, art. 2
+[^F33]: Words in s. 7(5A) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 33(a)(i); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F34]: Word in s. 7(5A) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 33(a)(ii); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F35]: Words in s. 7(5B)(a)(b) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 33(b)(i); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F36]: Words in s. 7(5B)(b) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 33(b)(ii); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F37]: Words in s. 7(5C) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 33(c)(i); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F38]: Words in s. 7(5C) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 33(c)(ii); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F39]: Words in s. 7(5D) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 33(d); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F40]: S. 7(5E)-(5H) inserted (N.I.) (4.11.1996) by S.I. 1993/1576 (N.I. 6) , art. 11 , Sch. 1 para. 7 ; S.R. 1996/454 , art. 3
+[^F41]: Words in s. 7(6) substituted (5.4.1993) by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56) , s. 1 , Sch. 1 Pt. II para. 8(5) ; S.I. 1993/618 , art. 2
+[^F42]: S. 7(8) added (5.4.1993) by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56) , s. 1 , Sch. 1 Pt. II para. 8(6) ; S.I. 1993/618 , art. 2 ; and repealed (N.I.) (4.11.1996) by S.I. 1995/755 (N.I. 2) , art. 185(2) , Sch. 10 (with Sch. 8 paras. 1(1) , 23(4) ); S.R. 1996/297 , art. 2(2)
+[^F43]: Words in s. 8(2) omitted (22.4.2014) by virtue of The Crime and Courts Act 2013 (Family Court: Consequential Provision) Order 2014 (S.I. 2014/605), arts. 1, 7
+[^M2]: 1966 c. 35(N.I.)
+[^F44]: Words in s. 8(3) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 34(a)(i); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F45]: Words in s. 8(3) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 34(a)(ii); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F46]: Words substituted by Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22), s. 89, Sch. 2 para. 33
+[^F47]: S. 8(3A) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 34(b); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F48]: S. 8(4) omitted (E.W.) (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 34(c) (with s. 61(13)(f)); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F49]: Words in s. 8(4) inserted (N.I.) (4.11.1996) by S.I. 1993/1576 (N.I. 6), art. 11, Sch. 1 para. 8(a); S.R. 1996/454, art. 3
+[^F50]: Words in s. 8(4) substituted (N.I.) (4.11.1996) by S.I. 1995/755 (N.I. 2), art. 185(1), Sch. 9 para. 68 (with Sch. 8 para. 1(1)); S.R. 1996/297, art. 2(2)
+[^F51]: S. 8(4A)(4B) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 34(c); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F52]: S. 8(4C) inserted (4.11.1996) by S.I. 1993/1576 (N.I. 6), art. 11, Sch. 1 para. 8(b); S.R. 1996/454, art. 3
+[^F53]: Words in s. 8(5) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 34(d); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F54]: Words inserted by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), 52, Sch. 11 Pt. III para. 11
+[^F55]: Words substituted by Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22), ss. 54(c), 89
+[^F56]: Words substituted by Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22), ss. 54(d), 89
+[^F57]: S. 8(10) repealed by S.I. 1981/1675 (N.I. 26), Sch. 7
+[^F58]: S. 9(1ZA) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 35; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F59]: S. 9(1ZB) inserted (N.I.) (4.11.1996) by S.I. 1993/1576 (N.I. 6), art. 11, Sch. 1 para. 9; S.R. 1996/454, art. 3
+[^F60]: S. 9(1ZB)(za) inserted (N.I.) (4.11.1996) by S.I. 1995/755 (N.I. 2), art. 185(1), Sch. 9 para. 69 (with Sch. 8 para. 1(1)); S.R. 1996/297, art. 2(2)
+[^F61]: Words in s. 9(1ZB)(b) repealed (N.I.) (31.10.2016) by Justice Act (Northern Ireland) 2015 (c. 9), s. 106(2), Sch. 1 para. 66(1), Sch. 9 Pt. 1 (with Sch. 8 para. 1); S.R. 2016/387, art. 2(k)(m) (with art. 3)
+[^F62]: S. 9(1A) inserted by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 23(1)(c), 37(1), 52, Sch. 11 Pt. I para. 4(1)
+[^F63]: S. 9(1B) inserted by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 23(1)(c), 37(1), 52, Sch. 11 Pt. III para. 12
+[^F64]: Words substituted by Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22), ss. 54(e), 89
+[^F65]: Words substituted by Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22), ss. 54(f), 89
+[^F66]: Words substituted by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), 52, Sch. 11 Pt. III para. 13(2)
+[^F67]: Words in s. 10(3) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 36(a); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F68]: Words inserted by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), Sch. 11 Pt. III para. 13(3)
+[^F69]: Words in s. 10(3) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 36(b); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F70]: Words substituted by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), 52, Sch. 11 Pt. III para. 13(4)
+[^F71]: Words inserted by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), 52, Sch. 11 Pt. III para. 13(5)(*a*)
+[^F72]: By Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), 52, Sch. 11 Pt. III para. 13(5)(b) it is provided that for “so residing” there is inserted “residing and has no assets within the jurisdiction of the court”.
+[^F73]: Words inserted by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), 52, Sch. 11 Pt. III para. 13(6)
+[^F74]: Words inserted by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), 52, Sch. 11 para. 14(*a*)
+[^F75]: Words substituted by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), 52, Sch. 11 Pt. III para. 14(*b*)
+[^F76]: Words inserted by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), 52, Sch. 11 Pt. III para. 14(*c*)
+[^F77]: Words in s. 14(2)(b) substituted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 18 para. 5 (with arts. 28-31)
+[^F78]: Words in s. 14(3) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 37(1)(a); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F79]: Words in s. 14(3) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 37(1)(b); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^M3]: 1907 c. 51.
+[^F80]: S. 14(6) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 37(2); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F81]: Words in s. 17 heading substituted (22.4.2014) by The Crime and Courts Act 2013 (Family Court: Consequential Provision) Order 2014 (S.I. 2014/605), arts. 1, 8
+[^F82]: S. 17(1)–(3) repealed by Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22), s. 89, Sch. 3
+[^F83]: S. 17(4) repealed (N.I.) (31.10.2016) by Justice Act (Northern Ireland) 2015 (c. 9), s. 106(2), Sch. 1 para. 66(2), Sch. 9 Pt. 1 (with Sch. 8 para. 1); S.R. 2016/387, art. 2(k)(m) (with art. 3)
+[^F84]: S. 17(5) repealed (N.I.) (4.11.1996) by S.I. 1995/755 (N.I. 2), art. 185(2), Sch. 10 (with Sch. 8 paras. 1(1), 23(4)); S.R. 1996/297, art. 2(2)
+[^F85]: S. 17(5A) inserted (5.4.1993) by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56), s. 1, Sch. 1 Pt. II para. 10(3); S.I. 1993/618, art. 2
+[^F86]: Words in s. 17(5A) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 38(b); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F87]: Words in s. 17(5A) substituted (7.12.2012) by The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012 (S.I. 2012/2814), reg. 1(2), Sch. 5 para. 2(3)(a)
+[^F88]: S. 17(6) substituted (N.I.) (4.11.1996) by S.I. 1995/755 (N.I. 2), art. 185(1), Sch. 9 para. 70 (with Sch. 8 para. 1(1)); S.R. 1996/297, art. 2(2)
+[^F89]: Words in s. 17(6) substituted (7.12.2012) by The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012 (S.I. 2012/2814), reg. 1(2), Sch. 5 para. 2(3)(b)
+[^F90]: Words in s. 17(7) substituted (5.4.1993) by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56), s. 1, Sch. 1 Pt. II para. 10(4)(a); S.I. 1993/618, art. 2
+[^F91]: Words in s. 17(7) substituted (5.4.1993) by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56), s. 1, Sch. 1 Pt. II para. 10(4)(b); S.I. 1993/618, art. 2
+[^F92]: Words in s. 17(7) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 38(c); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F93]: S. 17(7A) added (5.4.1993) by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56), s. 1, Sch. 1 Pt. II para. 10(5); S.I. 1993/618, art. 2; and repealed (N.I.) (4.11.1996) by S.I. 1995/755 (N.I. 2), art. 185(2), Sch. 10 (with Sch. 8 paras. 1(1), 23(4)); S.R. 1996/297, art. 2(2)
+[^F94]: S. 17(8) repealed by S.I. 1981/1675 (N.I. 26), Sch. 7
+[^F95]: S. 18 heading substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 39(5); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F96]: S. 18(A1) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 39(2); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F97]: Words in s. 18(1) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 39(3)(a); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F98]: Words in s. 18(1)(a) substituted (1.4.2005) by Courts Act 2003 (c. 39), s. 110(1), Sch. 8 para. 155(2)(b); S.I. 2005/910, art. 3(y)
+[^F99]: Words in s. 18(1)(a) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 39(3)(b); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F100]: S. 18(1A) inserted (5.4.1993) by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56), s. 1, Sch. 1 Pt. II para. 11; S.I. 1993/618, art. 2
+[^F101]: Words in s. 18(1A) substituted (1.4.2005) by Courts Act 2003 (c. 39), s. 110(1), Sch. 8 para. 155(3); S.I. 2005/910, art. 3(y)
+[^F102]: Word in s. 18(1A) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 39(4); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F103]: Words in s. 18(2) inserted (N.I.) (31.10.2016) by Justice Act (Northern Ireland) 2015 (c. 9), s. 106(2), Sch. 1 para. 66(3) (with Sch. 8 para. 1); S.R. 2016/387, art. 2(k) (with art. 3)
+[^F104]: Words substituted by S.I. 1981/1675 (N.I. 26), Sch. 6 Pt. I para. 22
+[^F105]: S. 18(2A) inserted (N.I.) (4.11.1996) by S.I. 1995/755 (N.I. 2), art. 185(1), Sch. 9 para. 71 (with Sch. 8 para. 1(1)); S.R. 1996/297, art. 2(2)
+[^M4]: 1971 c. 58.
+[^F106]: Word in s. 21(1) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 40(a); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F107]: Words inserted by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), 52, Sch. 11 Pt. III para. 15(i)
+[^F108]: Words in s. 21(1) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 40(b); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F109]: Words substituted by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), 52, Sch. 11 Pt. III para. 15(ii)
+[^F110]: Words inserted by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), 52, Sch. 11 Pt. III para. 15(iii)
+[^F111]: Definition repealed by Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22), ss.55(a)(i), 89
+[^F112]: Words substituted by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), 52, Sch. 11 Pt. I para. 4(2)(*a*)
+[^F113]: Para. (aa) inserted by Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22), ss. 55(a)(ii), 89
+[^F114]: Words in s. 21(1) repealed (1.4.2005) by Courts Act 2003 (c. 39), s. 110(1), Sch. 8 para. 156(a), Sch. 10; S.I. 2005/910, art. 3(y)
+[^F115]: Words in s. 21(1) repealed (1.4.2005) by Courts Act 2003 (c. 39), s. 110(1), Sch. 8 para. 156(b), Sch. 10; S.I. 2005/910, art. 3(y)
+[^F116]: Words substituted by S.I. 1981/1675 (N.I. 26), Sch. 6 Pt. I para. 23
+[^F117]: Words in s. 21(1) repealed (1.4.2005) by Courts Act 2003 (c. 39), s. 110(1), Sch. 8 para. 156(c), Sch. 10; S.I. 2005/910, art. 3(y)
+[^F118]: Words in s. 21(1) added (5.4.1993) by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56), s. 1, Sch. 1 Pt. II para.12; S.I. 1993/618, art.2
+[^F119]: Words substituted by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), 52, Sch. 11 Pt. I para. 4(2)(*b*)
+[^F120]: Words inserted by Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22), ss. 55(b), 89
+[^X1]: The text of s. 22 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+[^M5]: 1920 c. 33.
+[^F121]: S. 22(2)(*b*) repealed by Magistrates' Courts Act 1980 (c. 43), s. 154, Sch. 9
+[^M6]: 1958 c. 39.
+[^F122]: S. 22(2)(d) repealed (23.3.1995) by 1995 c. 3, s. 1, Sch. para. 7(2)
+[^M7]: 1920 c. 33.
+[^F123]: Words in s. 23(1) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 41(2)(a); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F124]: Words in s. 23(1)(1A) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 41(2)(b); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F125]: Words in s. 23(1A) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 41(2)(c); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F126]: Word in s. 23(1A) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 41(2)(d); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F127]: S. 23(1B) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 41(3); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F128]: Words in s. 23(2) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 41(4); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F129]: Words in s. 23(2)(3)(4) substituted (1.4.2001) by 1999 c. 22, s. 90, Sch. 13 para. 75 (with s. 107, Sch. 14 para. 7(2)); S.I. 2001/916, art. 2(a)(ii)
+[^F130]: Word in s. 23(3) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 41(5); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F131]: Word in s. 23(4) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 41(6)(a); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F132]: Words in s. 23(4) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 41(6)(b); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^M8]: 1958 c. 39.
+[^F133]: S. 23(5) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 41(7); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F134]: S. 23(6) inserted (1.4.2001) by 1999 c. 22, s. 90, Sch. 13 para. 75 (with Sch. 14 para. 7(2)); S.I. 2001/916, art. 2(a)(ii)
+[^F135]: Words in s. 23(6) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 41(8); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^M9]: 1920 c. 33.
+[^F136]: Words inserted by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), 52, Sch. 11 Pt. III para. 16
+[^F137]: S. 26(3A) inserted (5.4.1993) by virtue of S.I. 1993/591, arts. 3(2), 4(a)
+[^F138]: S. 26(6) substituted for s. 26(6)(7) (1.4.2001) by 1999 c. 22, s. 90, Sch 13 para. 76 (Sch. 14 para 7(2)); S.I. 2001/916, art. 2(a)(ii)
+[^F139]: Words in s. 26(6)(a) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 42; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F140]: Words in s. 26(6)(b) substituted (N.I.) (31.10.2016) by Justice Act (Northern Ireland) 2015 (c. 9), s. 106(2), Sch. 1 para. 66(4) (with Sch. 8 para. 1); S.R. 2016/387, art. 2(k) (with art. 3)
+[^F141]: Ss. 27A-28C substituted (5.4.1993) for ss. 27, 28, 28A by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56), s. 1, Sch. 1 Pt. II para.13; S.I. 1993/618, art.2
+[^F142]: Words in s. 27A(2) inserted (7.12.2012) by The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012 (S.I. 2012/2814), reg. 1(2), Sch. 5 para. 2(4)
+[^F143]: Word in s. 27B heading substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 43(d); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F144]: Ss. 27A-28C substituted (5.4.1993) for ss. 27, 28, 28A by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56), s. 1, Sch. 1 Pt. II para. 13; S.I. 1993/618, art. 2
+[^F145]: Words in s. 27B(1) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 43(a); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F146]: Word in s. 27B(2) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 43(b)(i); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F147]: Words in s. 27B(2) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 43(b)(ii); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F148]: Word in s. 27B(2) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 43(b)(iii); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F149]: Words in s. 27B(2) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 43(b)(iv); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F150]: Word in s. 27B(3) substituted (4.11.1996) by S.I. 1995/756, art. 8; S.R. 1996/297, art. 3
+[^F151]: S. 27B(4)(5) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 43(c); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F152]: Ss. 27A-28C substituted (5.4.1993) for ss. 27, 28, 28A by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56), s. 1, Sch. 1 Pt. II para. 13; S.I. 1993/618, art. 2
+[^F153]: Words in s. 27C(1) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 44(a); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F154]: S. 27C(2) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 44(b); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F155]: Word in s. 27C(3) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 44(c); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F156]: Words in s. 27C(4)(a)(b) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 44(d)(i); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F157]: Words in s. 27C(4)(b) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 44(d)(ii); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F158]: Words in s. 27C(5) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 44(e)(i); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F159]: Words in s. 27C(5) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 44(e)(ii); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F160]: Words in s. 27C(6) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 44(f); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F161]: Words in s. 27C(7) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 44(g)(i); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F162]: Words in s. 27C(7) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 44(g)(ii); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F163]: Ss. 27A-28C substituted (5.4.1993) for ss. 27, 28, 28A by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56), s.1, Sch. 1 Pt. II para.13, S.I. 1993/618, art.2
+[^F164]: Word in s. 28(1) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 45(a)(i); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F165]: Words in s. 28(1) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 45(a)(ii); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F166]: Word in s. 28(2)(a) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 45(b)(i); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F167]: S. 28(2)(b) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 45(b)(ii); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F168]: Ss. 27A-28C substituted (5.4.1993) for ss. 27, 28, 28A by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56), s. 1, Sch. 1 Pt. II para.13; S.I. 1993/618, art.2
+[^F169]: Words in s. 28A(2) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 46(a); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F170]: Words in s. 28A(3) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 46(b); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F171]: Words in s. 28A(6)(e) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 46(c)(i); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F172]: S. 28A(6)(f) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 46(c)(ii); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F173]: S. 28B repealed (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 47; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F174]: Ss. 28C, 28D, 28E, 29, 29A, 29B substituted for ss. 28C, 29, 29A (N.I.) (4.11.1996) by S.I. 1995/755 (N.I. 2), art. 185(1), Sch. 9 para. 72 (with Sch. 8 para. 1(1)); S.R. 1996/297, art. 2(2)
+[^F175]: Words in s. 28C(2) inserted (7.12.2012) by The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012 (S.I. 2012/2814), reg. 1(2), Sch. 5 para. 2(5)
+[^F176]: Ss. 28C, 28D, 28E, 29, 29A, 29B substituted for ss. 28C, 29, 29A (N.I.) (4.11.1996) by S.I. 1995/755 (N.I. 2), art. 185(1), Sch. 9 para. 72 (with Sch. 8 para. 1(1)); S.R. 1996/297, art. 2(2)
+[^F177]: Words in s. 28D(1) repealed (31.10.2016) by Justice Act (Northern Ireland) 2015 (c. 9), s. 106(2), Sch. 1 para. 66(5)(a), Sch. 9 Pt. 1 (with Sch. 8 para. 1); S.R. 2016/387, art. 2(k)(m) (with art. 3)
+[^F178]: S. 28D(4)(5) repealed (31.10.2016) by Justice Act (Northern Ireland) 2015 (c. 9), s. 106(2), Sch. 1 para. 66(5)(b), Sch. 9 Pt. 1 (with Sch. 8 para. 1); S.R. 2016/387, art. 2(k)(m) (with art. 3)
+[^F179]: Ss. 28C, 28D, 28E, 29, 29A, 29B substituted for ss. 28C, 29, 29A (N.I.) (4.11.1996) by S.I. 1995/755 (N.I. 2), art. 185(1), Sch. 9 para. 72 (with Sch. 8 para. 1(1)); S.R. 1996/297, art. 2(2)
+[^F180]: Ss. 28C, 28D, 28E, 29, 29A, 29B substituted for ss. 28C, 29, 29A (N.I.) (4.11.1996) by S.I. 1995/755 (N.I. 2), art. 185(1), Sch. 9 para. 72 (with Sch. 8 para. 1(1)); S.R. 1996/297, art. 2(2)
+[^F181]: Ss. 28C, 28D, 28E, 29, 29A, 29B substituted for ss. 28C, 29, 29A (N.I.) (4.11.1996) by S.I. 1995/755 (N.I. 2), art. 185(1), Sch. 9 para. 72 (with Sch. 8 para. 1(1)); S.R. 1996/297, art. 2(2)
+[^F182]: Ss. 28C, 28D, 28E, 29, 29A, 29B substituted for ss. 28C, 29, 29A (N.I.) (4.11.1996) by S.I. 1995/755 (N.I. 2), art. 185(1), Sch. 9 para. 72 (with Sch. 8 para. 1(1)); S.R. 1996/297, art. 2(2)
+[^F183]: S. 30(1)(2)(6) repealed (14.10.1991) by Courts and Legal Services Act 1990 (c. 41, SIF 76:1), ss. 116, 125(7), Sch. 16 para. 39(3), Sch. 20; S.I. 1991/1883, art. 3, Sch.
+[^F184]: S. 30(3)(4)(5) repealed (N.I.) (4.11.1996) by S.I. 1995/755 (N.I. 2), art. 185(2), Sch. 10 (with Sch. 8 paras. 1(1), 23(4)); S.R. 1996/297, art. 2(2)
+[^F185]: Words substituted by Legal Aid (Scotland) Act 1986 (c. 47, SIF 77:2), ss. 45, 46(4), Sch. 3 para. 1(1)
+[^F186]: S. 31(1A)–(1D) substituted for subsection (1A) by Family Law (Scotland) Act 1985 (c. 37, SIF 49:3), ss. 28(1), 29(4), Sch. 1 para. 6
+[^F187]: Words inserted by Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22), ss. 60(1)(b)(i), 89
+[^F188]: Words substituted by Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22), ss. 60(1)(b)(ii),89
+[^F189]: S. 31(2A) inserted by Domestic Proceedings and Magistrates' Courts Act 1978 (c.22), ss. 60(1)(c), 89
+[^M10]: 1971 c. 58.
+[^F190]: S. 31(4)-(6) inserted by Domestic Proceedings and Magiastrates' Courts Act 1978 (c. 22), ss. 60(1)(d), 89
+[^F191]: Words commencing “obtained in a” substituted (S.) for words commencing “granted in a” by Matrimonial and Family Proceedings Act 1984 (c. 42, SIF 49:3), ss. 31(2), 48(2)
+[^F192]: S. 31(4)(ii)(iia) substituted (S.) for para. (ii) by Matrimonial and Family Proceedings Act 1984 (c. 42, SIF 49:3), s. 31(3)
+[^F193]: S. 31(4A) inserted by Family Law (Scotland) Act 1985 (c. 37, SIF 49:3), ss. 28(1), 29(4), Sch. 1 para. 6(*b*)
+[^F194]: S. 31(5) repealed by Family Law (Scotland) Act 1985 (c. 37, SIF 49:3), ss. 28(1)(2), 29(4), Sch. 1 para. 6(*c*), Sch. 2
+[^M11]: 1966 c. 19.
+[^F195]: Words in s. 32(2) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 48(2)(a); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F196]: Words in s. 32(2) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 48(2)(b); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F197]: Words in s. 32(2) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 48(2)(c); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F198]: Words in s. 32(2) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 48(2)(d); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F199]: S. 32(2A) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 48(3); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F200]: S. 32(7A)(7B) inserted (S.) by Legal Aid (Scotland) Act 1986 (c. 47, SIF 77:2) , ss. 45 , 46(4) , Sch. 3 para. 1(2) ( *a* )
+[^F201]: Words in s. 32(8) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 48(4)(a); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F202]: Words in s. 32(8) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 48(4)(b); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F203]: S. 32(9)( *e* ) repealed (S.) by Legal Aid (Scotland) Act 1986 (c. 47, SIF 77:2) , ss. 45 , 46(4) , Sch. 3 para. 1(2) ( *b* ), Sch. 5
+[^F204]: Words in s. 33(2) omitted (22.4.2014) by virtue of The Crime and Courts Act 2013 (Family Court: Consequential Provision) Order 2014 (S.I. 2014/605), arts. 1, 9
+[^M12]: 1966 c. 35 (N.I.)
+[^F205]: S. 33(3) omitted (E.W.) (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 49(a) (with s. 61(13)(f)); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F206]: Words in s. 33(3) substituted (N.I.) (4.11.1996) by S.I. 1993/1576 (N.I. 6), art. 11, Sch. 1 para. 13(a); S.R. 1996/454, art. 3
+[^F207]: Words in s. 33(3) substituted (N.I.) (4.11.1996) by S.I. 1995/755 (N.I. 2), art. 185(1), Sch. 9 para. 73 (with Sch. 8 para. 1(1)); S.R. 1996/297, art. 2(2)
+[^F208]: S. 33(3A) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 49(a); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F209]: S. 33(3B) inserted (N.I.) (4.11.1996) by S.I. 1993/1576 (N.I. 6), art. 11, Sch. 1 para. 13(b); S.R. 1996/454, art. 3
+[^F210]: Words in s. 33(3B) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 49(b); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F211]: Words in s. 33(4) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 49(c); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^M13]: 1950 c. 37.
+[^F212]: Words in s. 34(1) inserted (N.I.) (4.11.1996) by S.I. 1993/1576 (N.I. 6), art. 11, Sch. 1 para. 14(a); S.R. 1996/454, art. 3
+[^F213]: Words in s. 34(1) inserted (N.I.) (4.11.1996) by S.I. 1995/755 (N.I. 2), art. 185(1), Sch. 9 para. 74(1) (with Sch. 8 para. 1(1)); S.R. 1996/297, art. 2(2)
+[^F214]: Words in s. 34(1) inserted (E.W.) (1.4.1992) by Maintenance Enforcement Act 1991 (c. 17), s. 10, Sch. 1 para. 19(1), S.I. 1992/455, art. 2
+[^F215]: Words in s. 34(1) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 50(a); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F216]: Words in s. 34(3) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 50(b); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F217]: S. 34(3A) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 50(c); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F218]: S. 34(3B) inserted (N.I.) (4.11.1996) by S.I. 1995/755 (N.I. 2), art. 185(1), Sch. 9 para. 74(2) (with Sch. 8 para. 1(1)); S.R. 1996/297, art. 2(2)
+[^F219]: Words inserted by Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22), ss. 60(2), 89
+[^F220]: S. 34(5)(b) substituted (S.) by Legal Aid (Scotland) Act 1986 (c. 47, SIF 77:2), ss. 45, 46(4), Sch. 3 para. 1(3)
+[^F221]: S. 34A inserted (1.4.1992) by Maintenance Enforcement Act 1991 (c. 17), s. 10, Sch. 1 para. 19(2); S.I. 1992/455, art. 2
+[^F222]: Words in s. 34A heading substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 51(9); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F223]: Words in s. 34A(1) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 51(2)(a); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F224]: S. 34A(1)(a) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 51(2)(b); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^M14]: 1978 c. 22.
+[^M15]: 1989 c. 41.
+[^F225]: Words in s. 34A(2) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 51(3); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F226]: Words in s. 34A(3)(a)(b) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 51(4)(a); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F227]: Words in s. 34A(3)(b) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 51(4)(b); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^M16]: 1971 c. 32.
+[^F228]: Ss. 34A(4)-(8) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 51(5); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F229]: Words in s. 34A(9) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 51(6)(a); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F230]: Words in s. 34A(9) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 51(6)(b); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F231]: Words in s. 34A(9) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 51(6)(c); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F232]: Words in s. 34A(9) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 51(6)(d); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F233]: Words in s. 34A(10) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 51(7); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^M17]: 1972 c. 18.
+[^F234]: Words in s. 34A(11) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 51(8); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F235]: S. 34B inserted (N.I.) (4.11.1996) by S.I. 1993/1576 (N.I. 6), art. 11, Sch. 1 para. 14(b); S.R. 1996/454, art. 3
+[^F236]: Ss. 35, 35A substituted (5.4.1993) for s. 35 by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56), ss. 1, 3, Sch. 1 Pt. II, para. 16; S.I. 1993/618, art. 2
+[^F237]: Words in s. 35 heading substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 52(d); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F238]: S. 35(1)-(1B) substituted for s. 35(1) (7.12.2012) by The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012 (S.I. 2012/2814), reg. 1(2), Sch. 5 para. 2(6)(a)
+[^F239]: Words in s. 35(1) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 52(a); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F240]: S. 35(1A)(b) and preceding word omitted (22.4.2014) by virtue of The Crime and Courts Act 2013 (Family Court: Consequential Provision) Order 2014 (S.I. 2014/605), arts. 1, 10
+[^F241]: S. 35(1B) omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 5(3)(a) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F242]: Words in s. 35(2) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 52(b); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F243]: Words in s. 35(3) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 52(c); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F244]: S. 35(4) omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 5(3)(b) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F245]: S. 35A substituted (N.I.) (4.11.1996) by S.I. 1995/755 (N.I. 2), art. 185(1), Sch. 9 para. 75 (with Sch. 8 para. 1(1)); S.R. 1996/297, art. 2(2)
+[^F246]: Ss. 35A(1)-(1B) substituted for s. 35A(1) (7.12.2012) by The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012 (S.I. 2012/2814), reg. 1(2), Sch. 5 para. 2(7)(a)
+[^F247]: S. 35A(1B) omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 5(4)(a) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F248]: S. 35A(4) omitted (31.12.2020) by virtue of The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519), reg. 1(1), Sch. para. 5(4)(b) (with reg. 8) (as amended by S.I. 2020/1574, regs. 1, 5(2)); 2020 c. 1, Sch. 5 para. 1(1)
+[^F249]: S. 36(A1) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 53(2); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F250]: Words in s. 36(1) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 53(3)(a); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F251]: Words in s. 36(1) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 53(3)(b); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F252]: Words in s. 36(1A) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 53(3)(c); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F253]: Words in s. 36(1A) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 53(3)(d); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F254]: Words inserted by Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22), ss. 60(3), 89
+[^F255]: Words in s. 36(1A) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 53(3)(e); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F256]: Words substituted (5.4.1993) by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56), s. 1, Sch. 1 Pt. II para. 17; S.I. 1993/618, art. 2
+[^F257]: Words substituted (N.I.) (4.11.1996) by S.I. 1995/755 (N.I. 2), art. 185(1), Sch. 9 para. 76 (with Sch. 8 para. 1(1)); S.R. 1996/297, art. 2(2)
+[^F258]: Words in s. 38(3)(b) substituted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 18 para. 5 (with arts. 28-31)
+[^F259]: Words in s. 38(4) substituted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 54(a); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F260]: Words in s. 38(4) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 54(b); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^M18]: 1907 c. 51.
+[^F261]: S. 38(6) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 54(c); S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F262]: S. 38A inserted (5.4.1993) by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56), s. 1, Sch. 1 Pt. II para. 18; S.I. 1993/618, art. 2
+[^F263]: Words in s. 38A heading substituted (1.9.2004) by Courts Act 2003 (Consequential Amendments) Order 2004 (S.I. 2004/2035), art. 2(1), Sch. para. 2(5) (with art. 2(2))
+[^F264]: Words in s. 38A(1) substituted (1.9.2004) by Courts Act 2003 (Consequential Amendments) Order 2004 (S.I. 2004/2035), art. 2(1), Sch. para. 2(2) (with art. 2(2))
+[^F265]: Words in s. 38A(1) inserted (22.4.2014) by Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 55; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F266]: Words in s. 38A(2) substituted (1.9.2004) by Courts Act 2003 (Consequential Amendments) Order 2004 (S.I. 2004/2035), art. 2(1), Sch. para. 2(3) (with art. 2(2))
+[^F267]: S. 38A(3) omitted (1.9.2004) by virtue of Courts Act 2003 (Consequential Amendments) Order 2004 (S.I. 2004/2035), art. 2(1), Sch. para. 2(4) (with art. 2(2))
+[^F268]: S. 38A(4) inserted (N.I.) (4.11.1996) by S.I. 1995/755 (N.I. 2), art. 185(1), Sch. 9 para. 78(1) (with Sch. 8 para. 1(1)); S.R. 1996/297, art. 2(2)
+[^F269]: Words substituted by Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22). ss. 60(4), 89
+[^F270]: Words substituted by Family Law (Scotland) Act 1985 (c. 37, SIF 49:3), ss. 28(1), 29(4), Sch. 1 para. 7
+[^F271]: Definition in s. 39 inserted (5.4.1993) by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56), s. 1, Sch. 1 Pt. II para.19; S.I. 1993/618, art.2
+[^F272]: Definition in s. 39 added (5.4.1993) by Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56), s. 1, Sch. 1 Pt. II para.19; S.I. 1993/618, art.2
+[^F273]: Words repealed by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), 52, 54, Sch. 11 Pt. III para. 17(*a*), Sch. 14
+[^F274]: Words repealed by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 37(1), 52, 54, Sch. 11 Pt. III para. 17(*b*), Sch. 14
+[^F275]: S. 41 repealed (E.W.) (14.10.1991) by Children Act 1989 (c. 41, SIF 20), s. 108, Sch.15 (with Sch. 14 paras. 1(1), 27(4)); S.I. 1991/828, art. 3(2).
+[^F276]: Words substituted by Magistrates' Courts Act 1980 (c. 43), s. 154, Sch. 7 para. 110
+[^M19]: 1980 c. 43.
+[^F277]: Words substituted for s. 41(1)(a)(b) by Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22), s. 89, Sch. 2 para. 36(a)
+[^F278]: S. 41(2)(2A)(2B) substituted for s. 41(2) by Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22), s. 89, Sch. 2 para. 36(b)
+[^M20]: 1971 c. 3.
+[^M21]: 1980 c. 34.
+[^X2]: The text of ss. 41(3)(4), 42(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+[^M22]: 1950 c. 37.
+[^F279]: Word in s. 42 heading omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 56; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F280]: Word in s. 42(1) omitted (22.4.2014) by virtue of Crime and Courts Act 2013 (c. 22), s. 61(3), Sch. 11 para. 56; S.I. 2014/954, art. 2(e) (with art. 3) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^F281]: Words substituted by Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22), s. 89, Sch. 2 para. 37
+[^M23]: 1978 c. 22.
+[^F282]: Words inserted by S.I. 1980/564, art. 4(6)
+[^M24]: S.I. 1980/563 (N.I. 15).
+[^X3]: The text of ss. 41(3)(4), 42(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+[^M25]: 1970 c. 45.
+[^M26]: 1920 c. 33.
+[^F283]: S. 43(1) repealed by Legal Aid Act 1974 (c. 4), Sch. 5 Pt. I
+[^F284]: S. 43(2)(3) repealed by S.I. 1981/228 (N.I. 8), Sch. 4
+[^F285]: S. 43A inserted by Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22), ss. 61, 89
+[^F286]: Words substituted (S.) by Legal Aid (Scotland) Act 1986 (c. 47, SIF 77:2), ss. 45, 46(4), Sch. 3 para. 2(2)
+[^M27]: 1967 c. 43.
+[^F287]: Words substituted (S.) by Legal Aid (Scotland) Act 1986 (c. 47, SIF 77:2), ss. 45, 46(4), Sch. 3 para. 2(3)
+[^F288]: Words substituted (S.) by Legal Aid (Scotland) Act 1986 (c. 47, SIF 77:2), ss. 45, 46(4), Sch. 3 para. 2(4)
+[^M28]: 1972 c. 50
+[^M29]: 1969 c. 48.
+[^F289]: Words substituted by Evidence (Proceedings in Other Jurisdictions) Act 1975 (c. 34), Sch. 1
+[^M30]: 1975 c. 34.
+[^F290]: Words substituted by virtue of Legal Aid Act 1974 (c. 4), s. 42(3)
+[^M31]: 1974 c. 4.
+[^M32]: 1967 c. 43.
+[^F291]: Words substituted by S.I. 1981/1675 (N.I. 26), Sch. 6 Pt. I para. 26
+[^F292]: S. 47(3) repealed (N.I.) (31.10.2016) by Justice Act (Northern Ireland) 2015 (c. 9), s. 106(2), Sch. 1 para. 66(6), Sch. 9 Pt. 1 (with Sch. 8 para. 1); S.R. 2016/387, art. 2(k)(m) (with art. 3)
+[^F293]: S. 48(1) omitted (12.4.2010) by virtue of The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 18 para. 6(2) (with arts. 28-31)
+[^F294]: S. 48(2) repealed by Northern Ireland Constitution Act 1973 (c. 36), Sch. 6 Pt. I
+[^F295]: S. 48(6) inserted (12.4.2010) by The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976), Sch. 18 para. 6(3) (with arts. 28-31)
+[^X4]: The text of the Schedule is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
+[^F296]: Sch. para. 1 repealed by Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22), s. 89, Sch. 3
+[^M33]: 1955 c. 18.
+[^M34]: 1955 c. 19.
+[^M35]: 1957 c. 53.
+[^F297]: Sch. para. 4 repealed by Civil Jurisdiction and Judgments Act 1982 (c. 27, SIF 45:3), ss. 52, 54, Sch. 14
+[^M36]: 1966 c. 35 (N.I.).
+[^M37]: 1970 c. 31.
+[^M38]: 1971 c. 32.

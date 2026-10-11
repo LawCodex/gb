@@ -1,0 +1,220 @@
+---
+title: "Perpetuities and Accumulations Act 1964"
+identifier: "ukpga/1964/55"
+citation: "1964 c.55"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+N.I."
+date: 1964-07-16
+last_amended: 2010-04-06
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1964/55"
+source_modified: 2015-03-18
+retrieved: 2026-10-11
+---
+
+# Perpetuities and Accumulations Act 1964
+
+**1964 c.55**
+
+An Act to modify the law of England and Wales relating to the avoidance of future interests in property on grounds of remoteness and governing accumulations of income from property.
+
+[16th July 1964]
+
+## Perpetuities
+
+### 1 Power to specify perpetuity period.
+
+(1) Subject to section 9(2) of this Act and subsection (2) below, where the instrument by which any disposition is made so provides, the perpetuity period applicable to the disposition under the rule against perpetuities, instead of being of any other duration, shall be of a duration equal to such number of years not exceeding eighty as is specified in that behalf in the instrument.
+
+(2) Subsection (1) above shall not have effect where the disposition is made in exercise of a special power of appointment, but where a period is specified under that subsection in the instrument creating such a power the period shall apply in relation to any disposition under the power as it applies in relation to the power itself.
+
+### 2 Presumptions and evidence as to future parenthood.
+
+(1) Where in any proceedings there arises on the rule against perpetuities a question which turns on the ability of a person to have a child at some future time, then—
+
+(a) subject to paragraph (*b*) below, it shall be presumed that a male can have a child at the age of fourteen years or over, but not under that age, and that a female can have a child at the age of twelve years or over, but not under that age or over the age of fifty-five years; but
+
+(b) in the case of a living person evidence may be given to show that he or she will or will not be able to have a child at the time in question.
+
+(2) Where any such question is decided by treating a person as unable to have a child at a particular time, and he or she does so, the High Court may make such order as it thinks fit for placing the persons interested in the property comprised in the disposition, so far as may be just, in the position they would have held if the question had not been so decided.
+
+(3) Subject to subsection (2) above, where any such question is decided in relation to a disposition by treating a person as able or unable to have a child at a particular time, then he or she shall be so treated for the purpose of any question which may arise on the rule against perpetuities in relation to the same disposition in any subsequent proceedings.
+
+(4) In the foregoing provisions of this section references to having a child are references to begetting or giving birth to a child, but those provisions (except subsection (1)(*b*)) shall apply in relation to the possibility that a person will at any time have a child by adoption, legitimation or other means as they apply to his or her ability at that time to beget or give birth to a child.
+
+### 3 Uncertainty as to remoteness.
+
+(1) Where, apart from the provisions of this section and sections 4 and 5 of this Act, a disposition would be void on the ground that the interest disposed of might not become vested until too remote a time, the disposition shall be treated, until such time (if any) as it becomes established that the vesting must occur, if at all, after the end of the perpetuity period, as if the disposition were not subject to the rule against perpetuities; and its becoming so established shall not affect the validity of anything previously done in relation to the interest disposed of by way of advancement, application of intermediate income or otherwise.
+
+(2) Where, apart from the said provisions, a disposition consisting of the conferring of a general power of appointment would be void on the ground that the power might not become exercisable until too remote a time, the disposition shall be treated, until such time (if any) as it becomes established that the power will not be exercisable within the perpetuity period, as if the disposition were not subject to the rule against perpetuities.
+
+(3) Where, apart from the said provisions, a disposition consisting of the conferring of any power, option or other right would be void on the ground that the right might be exercised at too remote a time, the disposition shall be treated as regards any exercise of the right within the perpetuity period as if it were not subject to the rule against perpetuities and, subject to the said provisions, shall be treated as void for remoteness only if, and so far as, the right is not fully exercised within that period.
+
+(4) Where this section applies to a disposition and the duration of the perpetuity period is not determined by virtue of section 1 or 9(2) of this Act, it shall be determined as follows:—
+
+(a) where any persons falling within subsection (5) below are individuals in being and ascertainable at the commencement of the perpetuity period the duration of the period shall be determined by reference to their lives and no others, but so that the lives of any description of persons falling within paragraph (*b*) or (*c*) of that subsection shall be disregarded if the number of persons of that description is such as to render it impracticable to ascertain the date of death of the survivor;
+
+(b) where there are no lives under paragraph (*a*) above the period shall be twenty-one years.
+
+(5) The said persons are as follows:—
+
+(a) the person by whom the disposition was made;
+
+(b) a person to whom or in whose favour the disposition was made, that is to say—
+
+(i) in the case of a disposition to a class of persons, any member or potential member of the class;
+
+(ii) in the case of an individual disposition to a person taking only on certain conditions being satisfied, any person as to whom some of the conditions are satisfied and the remainder may in time be satisfied;
+
+(iii) in the case of a special power of appointment exercisable in favour of members of a class, any member or potential member of the class;
+
+(iv) in the case of a special power of appointment exercisable in favour of one person only, that person or, where the object of the power is ascertainable only on certain conditions being satisfied, any person as to whom some of the conditions are satisfied and the remainder may in time be satisfied;
+
+(v) in the case of any power, option or other right, the person on whom the right is conferred;
+
+(c) a person having a child or grandchild within sub-paragraphs (i) to (iv) of paragraph (*b*) above, or any of whose children or grandchildren, if subsequently born, would by virtue of his or her descent fall within those sub-paragraphs;
+
+(d) any person on the failure or determination of whose prior interest the disposition is limited to take effect.
+
+### 4 Reduction of age and exclusion of class members to avoid remoteness.
+
+(1) Where a disposition is limited by reference to the attainment by any person or persons of a specified age exceeding twenty-one years, and it is apparent at the time the disposition is made or becomes apparent at a subsequent time—
+
+(a) that the disposition would, apart from this section, be void for remoteness, but
+
+(b) that it would not be so void if the specified age had been twenty-one years,
+
+the disposition shall be treated for all purposes as if, instead of being limited by reference to the age in fact specified, it had been limited by reference to the age nearest to that age which would, if specified instead, have prevented the disposition from being so void.
+
+(2) Where in the case of any disposition different ages exceeding twenty-one years are specified in relation to different persons—
+
+(a) the reference in paragraph (*b*) of subsection (1) above to the specified age shall be construed as a reference to all the specified ages, and
+
+(b) that subsection shall operate to reduce each such age so far as is necessary to save the disposition from being void for remoteness.
+
+(3) Where the inclusion of any persons, being potential members of a class or unborn persons who at birth would become members or potential members of the class, prevents the foregoing provisions of this section from operating to save a disposition from being void for remoteness, those persons shall thenceforth be deemed for all the purposes of the disposition to be excluded from the class, and the said provisions shall thereupon have effect accordingly.
+
+(4) Where, in the case of a disposition to which subsection (3) above does not apply, it is apparent at the time the disposition is made or becomes apparent at a subsequent time that, apart from this subsection, the inclusion of any persons, being potential members of a class or unborn persons who at birth would become members or potential members of the class, would cause the disposition to be treated as void for remoteness, those persons shall, unless their exclusion would exhaust the class, thenceforth be deemed for all the purposes of the disposition to be excluded from the class.
+
+(5) Where this section has effect in relation to a disposition to which section 3 above applies, the operation of this section shall not affect the validity of anything previously done in relation to the interest disposed of by way of advancement, application of intermediate income or otherwise.
+
+(6) Section 163 of the Law of Property Act 1925 (which saves a disposition from remoteness arising out of a condition requiring the attainment of an age exceeding twenty-one years) is herby repealed.
+
+### 5 Condition relating to death of surviving spouse.
+
+Where a disposition is limited by reference to the time of death of the survivor of a person in being at the commencement of the perpetuity period and any spouse of that person, and that time has not arrived at the end of the perpetuity period, the disposition shall be treated for all purposes, where to do so would save it from being void for remoteness, as if it had instead been limited by reference to the time immediately before the end of that period.
+
+### 6 Saving and acceleration of expectant interests.
+
+A disposition shall not be treated as void for remoteness by reason only that the interest disposed of is ulterior to and dependent upon an interest under a disposition which is so void, and the vesting of an interest shall not be prevented from being accelerated on the failure of a prior interest by reason only that the failure arises because of remoteness.
+
+### 7 Powers of appointment.
+
+For the purposes of the rule against perpetuities, a power of appointment shall be treated as a special power unless—
+
+(a) in the instrument creating the power it is expressed to be exercisable by one person only, and
+
+(b) it could, at all times during its currency when that person is of full age and capacity, be exercised by him so as immediately to transfer to himself the whole of the interest governed by the power without the consent of any other person or compliance with any other condition, not being a formal condition relating only to the mode of exercise of the power:
+
+Provided that for the purpose of determining whether a disposition made under a power of appointment exercisable by will only is void for remoteness, the power shall be treated as a general power where it would have fallen to be so treated if exercisable by deed.
+
+### 8 Administrative powers of trustees.
+
+(1) The rule against perpetuities shall not operate to invalidate a power conferred on trustees or other persons to sell, lease, exchange or otherwise dispose of any property for full consideration, or to do any other act in the administration (as opposed to the distribution) of any property, and shall not prevent the payment to trustees or other persons of reasonable remuneration for their services.
+
+(2) Subsection (1) above shall apply for the purpose of enabling a power to be exercised at any time after the commencement of this Act notwithstanding that the power is conferred by an instrument which took effect before that commencement.
+
+### 9 Options relating to land.
+
+(1) The rule against perpetuities shall not apply to a disposition consisting of the conferring of an option to acquire for valuable consideration an interest reversionary (whether directly or indirectly) on the term of a lease if—
+
+(a) the option is exercisable only by the lessee or his successors in title, and
+
+(b) it ceases to be exercisable at or before the expiration of one year following the determination of the lease.
+
+This subsection shall apply in relation to an agreement for a lease as it applies in relation to a lease, and “lessee” shall be construed accordingly.
+
+(2) In the case of a disposition consisting of the conferring of an option to acquire for valuable consideration any interest in land, the perpetuity period under the rule against perpetuities shall be twenty-one years, and section 1 of this Act shall not apply:
+
+provided that this subsection shall not apply to a right of pre-emption conferred on a public or local authority in respect of land used or to be used for religious purposes where the right becomes exercisable only if the land ceases to be used for such purposes.
+
+### 10 Avoidance of contractual and other rights in cases of remoteness.
+
+Where a disposition inter vivos would fall to be treated as void for remoteness if the rights and duties thereunder were capable of transmission to persons other than the original parties and had been so transmitted, it shall be treated as void as between the person by whom it was made and the person to whom or in whose favour it was made or any successor of his, and no remedy shall lie in contract or otherwise for giving effect to it or making restitution for its lack of effect.
+
+### 11 Rights for enforcement of rentcharges.
+
+(1) The rule against perpetuities shall not apply to any powers or remedies for recovering or compelling the payment of an annual sum to which section 121 or 122 of the [^M1]Law of Property Act 1925 applies, or otherwise becoming exercisable or enforceable on the breach of any condition or other requirement relating to that sum.
+
+(2) In section 121(6) of the Law of Property Act 1925 the words from “norto the same” onwards are hereby repealed.
+
+### 12 Possibilities of reverter, conditions subsequent, exceptions and reservations.
+
+(1) In the case of—
+
+(a) a possibility of reverter on the determination of a determinable fee simple, or
+
+(b) a possibility of a resulting trust on the determination of any other determinable interest in property,
+
+the rule against perpetuities shall apply in relation to the provision causing the interest to be determinable as it would apply if that provision were expressed in the form of a condition subsequent giving rise, on breach thereof, to a right of re-entry or an equivalent right in the case of property other than land, and where the provision falls to be treated as void for remoteness the determinable interest shall become an absolute interest.
+
+(2) Where a disposition is subject to any such provision, or to any such condition subsequent, or to any exception or reservation, the disposition shall be treated for the purposes of this Act as including a separate disposition of any rights arising by virtue of the provision, condition subsequent, exception or reservation.
+
+## Accumulations
+
+### [^F1]13 Amendment of s. 164 of Law of Property Act 1925.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14 Right to stop accumulations.
+
+Section 2 above shall apply to any question as to the right of beneficiaries to put an end to accumulations of income under any disposition as it applies to questions arising on the rule against perpetuities.
+
+## Supplemental
+
+### 15 Short title, interpretation and extent.
+
+(1) This Act may be cited as the Perpetuities and Accumulations Act 1964.
+
+(2) In this Act—
+
+- “disposition” includes the conferring of a power of appointment and any other disposition of an interest in or right over property, and references to the interest disposed of shall be construed accordingly;
+- “in being” means living or en ventre sa mere;
+- “power of appointment” includes any discretionary power to transfer a beneficial interest in property without the furnishing of valuable consideration;
+- “will” includes a codicil;
+
+and for the purposes of this Act a disposition contained in a will shall be deemed to be made at the death of the testator.
+
+(3) For the purposes of this Act a person shall be treated as a member of a class if in his case all the conditions identifying a member of the class are satisfied, and shall be treated as a potential member if in his case some only of those conditions are satisfied but there is a possibility that the remainder will in time be satisfied.
+
+(4) Nothing in this Act shall affect the operation of the rule of law rendering void for remoteness certain dispositions under which property is limited to be applied for purposes other than the benefit of any person or class of persons in cases where the property may be so applied after the end of the perpetuity period.
+
+(5) The foregoing sections of this Act shall apply (except as provided in section 8(2) above) only in relation to instruments taking effect after the commencement of this Act, and in the case of an instrument made in the exercise of a special power of appointment shall apply only where the instrument creating the power takes effect after that commencement:
+
+Provided that section 7 above shall apply in all cases for construing the foregoing reference to a special power of appointment.
+
+[[^F2](5A) The foregoing sections of this Act shall not apply in relation to an instrument taking effect on or after the day appointed under section 22(2) of the Perpetuities and Accumulations Act 2009 (commencement), but this shall not prevent those sections applying in relation to an instrument so taking effect if—
+
+(a) it is a will executed before that day, or
+
+(b) it is an instrument made in the exercise of a special power of appointment, and the instrument creating the power took effect before that day.
+
+(5B) Subsection (5A) above shall not affect the operation of sections 4(6) and 11(2) above.]
+
+(6) This Act shall apply in relation to a disposition made otherwise than by an instrument as if the disposition had been contained in an instrument taking effect when the disposition was made.
+
+(7) This Act binds the Crown.
+
+(8) Except in so far as the contrary intention appears, any enactment of the Parliament of Northern Ireland passed for purposes similar to the purposes of this Act shall bind the Crown.
+
+(9) This Act shall not extend to Scotland or (apart from subsection (8) above) to Northern Ireland.
+
+---
+
+[^M1]: 1925 c. 20.
+[^F1]: S. 13 repealed (6.4.2010) by Perpetuities and Accumulations Act 2009 (c. 18), ss. 13(b), 22(2), Sch. (with s. 15(1)(4), 17, 18); S.I. 2010/37, art. 2
+[^F2]: S. 15(5A)(5B) inserted (6.4.2010) by Perpetuities and Accumulations Act 2009 (c. 18), ss. 16, 22(2) (with ss. 17, 18); S.I. 2010/37, art. 2

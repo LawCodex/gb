@@ -1,0 +1,647 @@
+---
+title: "Reserve Forces (Safeguard of Employment) Act 1985"
+identifier: "ukpga/1985/17"
+citation: "1985 c. 17"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1985-05-09
+last_amended: 2022-03-10
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1985/17"
+source_modified: 2022-07-08
+retrieved: 2026-10-11
+---
+
+# Reserve Forces (Safeguard of Employment) Act 1985
+
+**1985 c. 17**
+
+An Act to consolidate certain enactments as to the reinstatement in civil employment of members of the reserve and auxiliary forces who have been called into whole-time service in the armed forces of the Crown, and for the protection of the employment of those liable to be called into such service.
+
+[9th May 1985]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Reinstatement in civil employment after whole-time service
+
+### 1 Obligation to reinstate.
+
+[[^F1](1) This section applies to any person who is in permanent service under—
+
+(a) Part IV (special agreements for call out) or Part V (special members) of the Reserve Forces Act 1996;
+
+(b) a call-out order under Part VI of that Act (orders authorising general call out of members of reserve forces); or
+
+(c) a recall order under section 68 (recall of officers and former servicemen) of that Act.
+
+(1A) In this Act “whole-time service” means permanent service to which this section applies.]
+
+(2) Where such a person applies to his former employer to be taken into his employment, the former employer shall, so long as the application remains in force, be obliged to take the applicant into his employment—
+
+(a) in the occupation in which the applicant was last employed by the former employer before the beginning of his whole-time service and on terms and conditions not less favourable to him than those which would have been applicable to him in that occupation had he not entered on such service; or
+
+(b) if it is not reasonable and practicable that the applicant should be taken into employment in that occupation and on those terms and conditions, in the most favourable occupation and on the most favourable terms and conditions which are reasonable and practicable in his case.
+
+(3) That obligation is to take the applicant into employment as mentioned above at the first opportunity (if any) at which it is reasonable and practicable for the former employer so to do on or after such date as may be notified to him in accordance with section 4 as the date on which the applicant will be available for employment.
+
+(4) A former employer’s obligation is discharged if after giving reasonable notice to the applicant he makes such employment available to him at that first opportunity, except that—
+
+(a) an opportunity for taking the applicant into his former employer’s employment shall not be deemed for the purposes of subsection (3) and this subsection to have arisen if—
+
+(i) the former employer makes employment available to the applicant, but the applicant has, or reasonably believes that he has, reasonable cause for not taking it; and
+
+(ii) the facts on which the applicant relies as constituting the reasonable cause are notified in writing to the former employer by him or by some person acting with his authority as soon as may be after he has been notified by the former employer that the employment is being made available to him; and
+
+(b) in no case shall the former employer be under any obligation under this section to take the applicant into his employment after six months have elapsed from the end of the applicant’s whole-time service.
+
+(5) Any notice to be given under subsection (4) by the former employer to the applicant shall (without prejudice to any other mode for the giving of such notice) be deemed to have been duly given if it is sent to the applicant addressed to him—
+
+(a) at such address as may be provided by him for the purpose; or
+
+(b) if no such address is so provided, at his last known place of abode.
+
+### 2 “Former employer”.
+
+(1) In relation to a person who has entered on a period of whole-time service, in this Act “former employer” means the employer by whom he was last employed within the period of four weeks immediately preceding the beginning of his whole-time service.
+
+(2) The additional provisions contained in Schedule 1 have effect in relation to a former employer.
+
+### 3 Application for reinstatement.
+
+(1) An application under section 1—
+
+(a) is of no effect unless it is made in writing;
+
+(b) may be made by the applicant or by some person acting with his authority.
+
+(2) Such application is of no effect unless it is made during the period—
+
+(a) beginning with the end of the applicant’s whole-time service, and
+
+(b) ending with the third Monday after the end of the applicant’s whole-time service,
+
+subject to subsection (3).
+
+(3) Such an application made after the end of that period is not invalid because of subsection (2) if—
+
+(a) the applicant was prevented from making it within that period by his sickness or other reasonable cause; and
+
+(b) the application was made as soon as reasonably may be after the expiry of that period.
+
+(4) Such an application ceases to have effect on the expiry of thirteen weeks from the date of its making, except that—
+
+(a) while the application is still in force it may from time to time be renewed in writing by the applicant or by some person acting with his authority, and, if it is so renewed, does not cease to have effect by virtue of this subsection until thirteen weeks from the date of the renewal, and
+
+(b) if, at the time when the application would otherwise cease to have effect, proceedings for the determination of any question affecting the application are pending under this Act, the application does not cease to have effect by virtue of this subsection until fourteen days after those proceedings have ceased to be pending,
+
+and for the purposes of paragraph (b) proceedings shall not be treated as having ceased to be pending until the time for appealing has expired or, where an appeal is brought, until the appeal is decided or withdrawn.
+
+(5) An application under section 1 or any renewal of such an application may be made either—
+
+(a) directly to the former employer, or
+
+(b) in the prescribed manner, at any such local office as may be appointed by the Secretary of State, or, in Northern Ireland, by the Department of Economic Development,
+
+and where any application or renewal is so made or given at such a local office it is the duty of the Secretary of State, or, in Northern Ireland, of the Department of Economic Development, to take such steps as may be practicable to forward it to the former employer.
+
+### 4 Applicant’s availability.
+
+(1) Where an application is made under section 1, the applicant or some person acting with his authority shall, at or after the time of making the application, but not later than 21 days from the latest date allowed by section 3 for its making, notify to the former employer in writing a date, not later than the expiry of the 21 days, on which the applicant will be available for employment.
+
+(2) If, owing to his sickness or other reasonable cause, the applicant is not available for employment until after the expiry of the 21 days, the date to be so notified may be a date as soon as reasonably may be after the expiry of the 21 days, and accordingly the notification shall not be invalid by reason only that it is given after the expiry of the 21 days.
+
+(3) Subsection (5) of section 3 applies to any notification under this section as it applies to an application under section 1.
+
+### 5 Priorities.
+
+(1) It shall not be treated for the purposes of the foregoing provisions of this Act as reasonable and practicable for the former employer to take the applicant into his employment, or to employ him as provided by section 7, either at all or in any particular occupation or on particular terms and conditions, if it can only be done by discharging some other person who—
+
+(a) was employed by the former employer before the relevant date, and
+
+(b) had been so employed before the relevant date for a longer period than the applicant, and
+
+(c) was so employed in employment of a kind that was not less permanent in character than the applicant’s employment,
+
+or by refusing to take into employment, in accordance with section 1, some such other person as mentioned above who has entered upon a period of whole-time service and has duly made an application under section 1; and in this subsection “the relevant date” means the beginning of the applicant’s whole-time service, or, where the other person as well as the applicant has entered on a period of whole-time service, the beginning of the other person’s whole-time service, whichever is the earlier.
+
+(2) It shall not be treated for the purposes of the foregoing provisions of this Act as otherwise than reasonable and practicable for the former employer to take the applicant into his employment, or to employ him as provided by section 7, either at all or in any particular occupation, or on particular terms and conditions, by reason only that it can only be done by discharging some other person who is not such a person as is mentioned in paragraphs (a), (b) and (c) of subsection (1).
+
+### 6 Waivers.
+
+(1) The provisions of this Act requiring a person who has entered upon a period of whole-time service, as a condition of obtaining his rights under this Act—
+
+(a) to make and renew an application to his former employer to be taken into employment, and
+
+(b) to notify a date on which he will be available for employment,
+
+are for the protection of the former employer, and accordingly can be waived or dispensed with by the former employer, either in whole or in part and either expressly or by conduct, subject to subsection (2).
+
+(2) Except where the applicant has in fact been taken into the employment of his former employer since the end of his whole-time service, any requirement that anything should be done in writing shall not be deemed to be capable of being waived or dispensed with by the former employer otherwise than in writing.
+
+(3) Where—
+
+(a) a person who has entered upon a period of whole-time service has made an application under section 1 to be taken into the employment of his former employer and is so taken into employment before that application has expired, or
+
+(b) a person who has entered upon such service is taken into the employment of his former employer under such circumstances that the application has been waived or dispensed with,
+
+and in either case the employment is not such as is specified in section 1(2), the rights of that person against his former employer shall not be less than they would have been if the employment into which he is taken were such employment.
+
+### 7 Obligation after reinstatement.
+
+(1) Where an applicant has been taken into the employment of his former employer in pursuance of section 1, the former employer is under an obligation to employ the applicant for the following 26 weeks, subject to subsection (2), of for so much of that time as is reasonable and practicable—
+
+(a) in an occupation not less favourable to him than that in which, and on terms and conditions not less favourable to him than those on which, the applicant is so taken into employment; or
+
+(b) if, at any time during the period for which he has under this section to be employed, it ceases to be reasonable and practicable for the applicant to be employed in that occupation and on those terms and conditions, in the most favourable occupation and on the most favourable terms and conditions which are for the time being reasonable and practicable in his case.
+
+(2) If, when the applicant last ceased to be employed by his former employer before the beginning of his whole-time service, he had been in the continuous employment of that former employer—
+
+(a) for a consecutive period of not less than 52 weeks, then subsection (1) has effect as if 52 weeks were substituted for 26;
+
+(b) for a consecutive period of less than 13 weeks, then subsection (1) has effect as if 13 weeks were substituted for 26.
+
+(3) In computing the period of continuous employment for the purposes of this section—
+
+(a) where the employment is in an undertaking, and any change has taken place in the person carrying on that undertaking or any other undertaking has become comprised in that undertaking, periods in the employment of the person for the time being carrying on the undertaking or the other undertaking, as the case may be, shall be treated as periods of employment by the former employer;
+
+(b) a person shall not be treated as otherwise than continuously employed by reason of any temporary absence from work.
+
+## Applications to Reinstatement Committees, and appeals
+
+### 8 Applications to Reinstatement Committees.
+
+(1) A person—
+
+(a) who has, or claims to have, entered upon a period of whole-time service, and
+
+(b) who claims that he has rights under sections 1, 3, 4, 5 and 7 (the “relevant sections”) which are being or have been denied him,
+
+may, within the prescribed time, apply to a Reinstatement Committee for the determination of any question relating to his rights, if any, under the relevant sections, and the Reinstatement Committee shall determine that question.
+
+(2) Where the Reinstatement Committee are satisfied that default has been made by the applicant’s former employer in the discharge of his obligations under the relevant sections, the Reinstatement Committee may make either or both of the following orders as is in their opinion appropriate, having regard to all the circumstances of the case and the nature and extent of the default—
+
+(a) an order requiring employment to be made available to the applicant by his former employer on such date, in such occupation, on such terms and conditions and at such place as may be specified in the order, being employment which, in the Reinstatement Committee’s opinion is such as is required by the relevant sections to be made available to the applicant;
+
+(a) an order requiring that there shall be paid to the applicant by way of compensation for any loss suffered or likely to be suffered by him by reason of the default a sum specified in the order, not exceeding in any event the amount of the remuneration which, in the Reinstatement Committee’s opinion, the applicant would, if the obligations imposed by the relevant sections in relation to him had been duly discharged, have been entitled to receive from his former employer in respect of the period during which under the relevant sections he has to be employed by his former employer.
+
+(3) Schedule 2 has effect as to Reinstatement Committees and the umpire and deputy umpires, and Schedule 3 as to the orders of Reinstatement Committees.
+
+### 9 Appeals.
+
+(1) An appeal may, within the prescribed time, be brought from any determination or order of a Reinstatement Committee under section 8, or from the refusal of a Reinstatement Committee to make an order, to the umpire or a deputy umpire at the instance—
+
+(a) of an organisation of employers of which the employer concerned was a member on the date on which the application was made to the Reinstatement Committee,
+
+(b) of an association of employed persons of which the applicant was a member on that date,
+
+(c) either of the employer concerned or of the applicant—
+
+(i) without leave in any case in which the decision of the Reinstatement Committee is not unanimous, and
+
+(ii) with the leave of the Reinstatement Committee, or, if the Reinstatement Committee refuse leave and an application for leave is made within the prescribed time to the umpire or a deputy umpire, with the leave of the umpire or a deputy umpire,
+
+and in this subsection “the employer” includes, in a case where different persons have at different periods been the applicant’s former employer, any person against whom an order was made by the Reinstatement Committee.
+
+(2) The umpire or deputy umpire may on any such appeal make any determination or order which a Reinstatement Committee might make under section 8, or may dismiss the appeal, and his decision shall be final.
+
+(3) In considering how to exercise his powers under subsection (2), the umpire or deputy umpire shall, where there has been any change in the relevant facts since the date of the hearing before the Reinstatement Committee, have regard to the facts existing on the date of the hearing before him.
+
+(4) When considering an appeal under this section the umpire or deputy umpire shall sit with two assessors appointed by the Secretary of State, but where one or both of the assessors so appointed is or are absent, then, with the consent in writing of the parties, the appeal may be considered and determined without him or them, as the case may be.
+
+## Enforcement and recovery
+
+### 10 Enforcement.
+
+(1) Where—
+
+(a) an order has been made by a Reinstatement Committee, or by the umpire or a deputy umpire on appeal, that employment shall be made available to a person on a specified day, and
+
+(b) employment is not made available to him on that day in accordance with the order,
+
+the person against whom the order was made is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(2) Where a person is found guilty under subsection (1)—
+
+(a) the court by whom he is found guilty may order him to pay to the person to whom the employment should have been made available, by way of compensation for any loss suffered or likely to be suffered by him by reason of the offence, a sum specified in the order; and
+
+(b) that sum shall not exceed in any event the amount of the remuneration which, in the court’s opinion, that person would have been entitled to receive from his former employer if there had been compliance with the order referred to in paragraph (a) of subsection (1), and the obligation as to subsequent employment resulting from that order.
+
+### 11 Summary recovery.
+
+(1) Where an order has been made by a Reinstatement Committee or by the umpire or a deputy umpire on appeal for the payment to a person of any sum, that sum may, without prejudice to any other means for its recovery, be recovered from the person against whom the order is made summarily as a civil debt; but proceedings shall not be brought, whether summarily or otherwise, for the recovery of any such sum—
+
+(a) until the time allowed for appealing against the order has expired; or,
+
+(b) where an appeal is brought, until the appeal is decided or withdrawn.
+
+(2) Any officer authorised in that behalf by special or general directions of the Secretary of State—
+
+(a) may institute on behalf of and in the name of any person who has entered upon a period of whole-time service civil proceedings for the recovery of any such sum as is mentioned in subsection (1), and
+
+(b) in any such proceedings the court may make an order for the payment of costs by the officer as if he were a party to the proceedings,
+
+but the powers conferred by this subsection are not in derogation of any right of that person himself to recover such sums by civil proceedings.
+
+### 12 Restrictions on proceedings.
+
+(1) Proceedings shall not be brought against any person for failure to comply with an order of a Reinstatement Committee—
+
+(a) until the time allowed for appealing against the order has expired; or
+
+(b) where an appeal is brought, until the appeal is decided or withdrawn.
+
+(2) Where the person against whom the order was made is no longer the applicant’s former employer at the date of the failure to comply with the order, it is a defence for him to prove that he took all reasonable steps to secure compliance with the order.
+
+(3) Except as provided in sections 10 and 11, no proceedings, whether civil or criminal, shall be brought against any person in respect of a failure to discharge an obligation imposed on him by or under the foregoing provisions of this Act.
+
+### 13 [[^F2] Employer’s bankruptcy.
+
+There shall be included among the debts which under—
+
+(a) section 33 of the [^M1]Bankruptcy Act 1914 are to be paid in priority to all other debts in the distribution of the property of a bankrupt or person dying insolvent, or,
+
+(b) in Scotland, section 118 of the [^M2]Bankruptcy (Scotland) Act 1913 are to be paid in priority to all other debts in the division of a bankrupt’s estate,
+
+any sum ordered under the foregoing provisions of this Act to be paid by way of compensation where the default by reason of which the order for compensation was made occurred—
+
+(i) before the receiving order or death, or,
+
+(ii) in Scotland, before the date mentioned in section 118(4) of the Act of 1913,
+
+whether or not the order for compensation was made before that receiving order or death or, as the case may be, before that date; but the sum to which priority is to be given under this section shall not in the case of any one claimant exceed £50.]
+
+## Evidence
+
+### 14 Certificates.
+
+(1) A certificate of the Defence Council or of an officer designated by the Defence Council as to the duration of a person’s whole-time service is conclusive for the purposes of any proceedings before, or on appeal from, a Reinstatement Committee.
+
+(2) Every document purporting to be such a certificate, or any other certificate authorised by this Act and to be signed by or on behalf of—
+
+(a) the Secretary of State, or
+
+(b) in Northern Ireland, the Department of Economic Development, or
+
+(c) the Defence Council or an officer designated by the Defence Council,
+
+shall be received in evidence, and shall, until the contrary is proved, be deemed to be such a certificate of the Secretary of State, or of the Department of Economic Development, or of the Defence Council, as the case may be.
+
+(3) In any proceedings before, or on appeal from, a Reinstatement Committee, the production of a document—
+
+(a) which purports to be certified by or on behalf of—
+
+(i) the Secretary of State, or
+
+(ii) in Northern Ireland, the Department of Economic Development, or
+
+(iii) the Defence Council, and
+
+(b) which purports to be a true copy of any such certificate as is mentioned in subsection (2),
+
+shall, unless the contrary is proved, be sufficient evidence of the certificate.
+
+### 15 Determinations and orders.
+
+The production in any civil or criminal proceedings of a document purporting to be certified by the chairman of a Reinstatement Committee, or by the umpire or a deputy umpire, to be a true record of a determination or order of the committee, or of the umpire or deputy umpire on appeal, as the case may be, shall, unless the contrary is proved, be sufficient evidence of the determination or order.
+
+### 16 Proof of identity.
+
+Where—
+
+(a) civil or criminal proceedings are brought under this Act against a person for failure to comply with an order of a Reinstatement Committee, or of the umpire or a deputy umpire on appeal, and
+
+(b) proof is given of such an order against a person bearing the name in which the person against whom the proceedings are brought is charged or appears in the proceedings.
+
+then that order shall, unless the contrary is proved, be deemed to be an order against the person against whom the proceedings are brought.
+
+## Prohibition of dismissal for liability to whole-time service
+
+### 17 Dismissal prohibited.
+
+[[^F3](1) If the employer of a person who may be required to enter upon a period of whole-time service—
+
+(a) terminates that person’s employment without his consent at any time when he is not in that service, and
+
+(b) does so solely or mainly by reason of any duties or liabilities which that person may be liable to perform or discharge—
+
+(i) if required to report at any time or place with a view to entering into whole-time service; or
+
+(ii) if he enters upon a period of whole-time service,
+
+the employer is guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.]
+
+(2) If in any proceedings under this section the court is of opinion that there is reasonable cause to believe that the duties or liabilities mentioned in subsection (1) caused or contributed to the termination of the employment, the employment shall be deemed to have been terminated by reason of those duties or liabilities, unless the employer proves that the termination was for a reason not connected with them.
+
+### 18 Compensation.
+
+The court by which an employer is convicted under section 17 may also order him to pay to the person whose employment has been terminated, as compensation for any loss suffered or likely to be suffered by reason of the termination, a sum not exceeding an amount equal to five weeks’ remuneration at the rate at which his remuneration was last payable to him by the employer.
+
+## Supplemental
+
+### 19 Regulations.
+
+(1) The Secretary of State may make regulations—
+
+(a) regulating the procedure to be followed in connection with applications to Reinstatement Committees and appeals to the umpire or a deputy umpire, fixing the quorum of such committees, and regulating the circumstances and the manner in which assessors are to be or may be summoned to assist such committees;
+
+(b) prescribing any other thing which by this Act is required or authorised to be prescribed.
+
+(2) The power to make regulations conferred by this Act on the Secretary of State is exercisable by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 20 Interpretation.
+
+(1) In this Act, unless the context otherwise requires—
+
+- “former employer” has the meaning given by section 2;
+- [^F4]. . .
+- “prescribed” means prescribed by regulations made under section 19;
+- [^F5]. . .
+- [^F5]. . .
+- [^F5]. . .
+- “umpire” and “deputy umpire” mean a person appointed as such under paragraph 5 of Schedule 2;
+- “undertaking” includes any business, whether carried on by way of trade or not, and the activities of any body of persons, whether corporate or unincorporated;
+- “whole-time service” means whole-time service in the armed forces of the Crown in the circumstances mentioned in paragraphs (a) and (b) of section 1(1).
+
+(2) Any reference in this Act to the performing of services shall be construed as including a reference to the undergoing of training.
+
+[[^F6](3) A period of whole time service shall not be regarded as having ceased by reason of any absence on leave (including sick leave or maternity leave) before release from service or discharge.] shall not be treated as having entered upon a period of whole-time service until he reports for duty; and any period before he is required for duty during which he is required to attend for purposes connected with his entry upon a period of whole-time service shall be disregarded.
+
+(5) For the purposes of this Act, a person who is required to report for the purpose of being released, demobilised or discharged shall not, on reporting for that purpose, be treated as having entered upon a period of whole-time service under this Act.
+
+## Operation
+
+### 21 Saving, consequential amendments and repeals.
+
+(1) Regulations made under the [^M3]Reinstatement in Civil Employment Act 1944 for the purposes of that Act continue to have effect for the purposes of the provisions of this Act as if those regulations had been made under section 19 of this Act.
+
+(2) In this Act—
+
+(a) the enactments specified in Schedule 4 have effect subject to the amendments consequent on this Act specified in that Schedule, and
+
+(b) the enactments specified in Schedule 5 (which include enactments which were spent before the passing of this Act) are repealed to the extent specified in the third column of that Schedule,
+
+but nothing in this Act shall be taken as prejudicing the operation of sections 16 and 17 of the [^M4]Interpretation Act 1978 (which relate to the effect of repeals).
+
+### 22 Isle of Man.
+
+Her Majesty may by Order in Council direct that this Act shall extend to the Isle of Man, subject to such adaptations and modifications as may be specified in the Order.
+
+### 23 Citation, extent and commencement.
+
+(1) This Act may be cited as the Reserve Forces (Safeguard of Employment) Act 1985.
+
+(2) This Act extends to Northern Ireland.
+
+(3) This Act comes into force at the end of the period of three months beginning with the day on which it is passed.
+
+## SCHEDULE 1 — Additional Provisions as to “Former Employer”
+
+**1** Where—
+
+(a) a person who has entered on a period of whole-time service was last employed within the period of four weeks immediately preceding the beginning of that service in any undertaking, and
+
+(b) any change (whether before or after the commencement of this Act) takes place in the person carrying on that undertaking or that undertaking becomes comprised in any other undertaking,
+
+references in this Act to the former employer of that person shall be construed as references to the person for the time being carrying on that undertaking or that other undertaking, as the case may be.
+
+**2** Where the person in question was last employed as mentioned above in a branch or part of an undertaking which (whether before or after the commencement of this Act) becomes, or becomes part of, some other undertaking, and either—
+
+(a) he has as a consequence become employed in that other undertaking; or
+
+(b) it is reasonable to suppose that he would as a consequence have become employed in that other undertaking if his employment had not been interrupted by his whole-time service,
+
+paragraph 1 has effect as if that branch or part were itself an undertaking.
+
+**3** Where—
+
+(a) by virtue of any provision made by or under any Act, employers of any class are required, in taking persons of any class into their employment (whether in all cases or not and whether absolutely or subject to exceptions), to restrict themselves to, or to give preference to, persons for the time being included in a specified pool or register, and
+
+(b) under that provision, all persons included in that pool or register are in the employment of a specified body when not otherwise employed, and
+
+(c) the occupation in which a person who has entered on a period of whole-time service was last employed before the beginning of that service is such that the taking of him into employment by the person who, but for the provisions of this paragraph, would be his former employer is affected by that provision,
+
+that body shall, for the purposes of this Act, be deemed to be the former employer of that person.
+
+## SCHEDULE 2 — Reinstatement Committees and Umpires
+
+**1** The Secretary of State shall appoint such number of committees (“Reinstatement Committees”) as he may decide for the determination of the questions and the making of the orders specified in section 8.
+
+**2** [^F7][1] Every Reinstatement Committee shall consist of—
+
+(a) a chairman selected by the Secretary of State from a panel of persons appointed by the Lord Chancellor, and
+
+(b) one person selected by the Secretary of State from a panel constituted by him for the purposes of this provision of persons chosen to represent employers, and
+
+(c) one person selected by the Secretary of State from a panel so constituted of persons chosen to represent employed persons,
+
+but where a Reinstatement Committee sits in Scotland the panel of persons referred to in paragraph (a) shall be appointed by the Lord President of the Court of Session, and in Northern Ireland, by the [[^F8]Northern Ireland Judicial Appointments Commission].
+
+[^F9][2 A member of the panel of persons referred to in sub-paragraph (1)(a) shall vacate his office on the day on which he attains the age of [[^F10]75].]
+
+**3** The Secretary of State may appoint such number of persons as he thinks fit as assessors to be available to Reinstatement Committees.
+
+**4** Those assessors shall be persons who in the Secretary of State’s opinion have expert knowledge to any matters which are likely to fall to be considered by those committees in the exercise of their jurisdiction under this Act; but an assessor shall not vote or otherwise be a party to any determination or order of a Reinstatement Committee.
+
+**5** For the purpose of hearing appeals from Reinstatement Committees under section 9, Her Majesty may appoint an umpire and one or more deputy umpires; and a person shall not be qualified to be so appointed [[^F11]unless—
+
+[[^F12](a) he satisfies the judicial-appointment eligibility condition on a 7-year basis;]
+
+(b) he is an advocate or solicitor in Scotland of at least [[^F13]7] years’ standing; or
+
+(c) he is a member of the Bar of Northern Ireland or [[^F14]solicitor of the Court of Judicature of Northern Ireland] of at least [[^F15]7] years’ standing.]
+
+**6** The Secretary of State may pay—
+
+(a) to members of Reinstatement Committees, to the umpire and the deputy umpires, to persons appointed to sit as assessors and to any of his officers and servants employed for the purposes of this Act, such remuneration and allowances as he may, with the Treasury’s approval, determine;
+
+(b) to persons attending as parties or witnesses before Reinstatement Committees or the umpire or any deputy umpire, allowances in accordance with such scales as he may, with the Treasury’s approval, determine.
+
+## SCHEDULE 3 — Orders of Reinstatement Committees
+
+*Section 8.*
+
+### Orders requiring employment to be made available
+
+**1** An order requiring that employment shall be made available to the applicant by his former employer may be made notwithstanding—
+
+(a) that more than six months have elapsed since the end of the applicant’s whole-time service; and
+
+(b) that the date on which the employment is to be made available to the applicant is more than six months after the end of the applicant’s whole-time service.
+
+**2** Any such order shall be made against the person who is the applicant’s former employer at the time of the making of the order, and accordingly it is his duty to secure compliance with that order.
+
+**3** (1) Where the applicant is taken into the employment of his former employer in pursuance of any such order, the provisions of this Act have effect in relation to the applicant as if he had been taken into employment in pursuance of the obligation imposed on his former employer by section 1.
+
+(2) Where the applicant has already been in the employment of his former employer for any period since the end of his whole-time service, the period of 26, 52 or 13 weeks for which, under section 7 as applied by this paragraph, the applicant has to be employed shall be correspondingly reduced.
+
+**4** (1) Where—
+
+(a) in pursuance of any such order the applicant’s former employer makes employment available to the applicant on the date specified in the order, but
+
+(b) the applicant is prevented from taking it by sickness or other reasonable cause,the former employer is under the like obligation as he would have been under if the employment had been made available in pursuance of the obligation imposed by section 1.
+
+(2) Where the date specified in the order as the date on which employment is to be made available is more than six months from the end of the applicant’s whole-time service, so much of section 1 as provides that in no case shall the former employer be under an obligation to take the applicant into his employment after six months after the end of the applicant’s whole-time service shall have effect as if for the reference to the end of the applicant’s whole-time service there were substituted a reference to the date so specified.
+
+### Orders for compensation
+
+**5** An order for the payment of money by way of compensation shall—
+
+(a) in so far as the compensation is in respect of a period subsequent to the order, be made against the person who is the applicant’s former employer at the date of the order, and
+
+(b) in so far as the compensation is in respect of a period before the order, be made against the person who was the former employer during the period of default by reason of which the order was made,
+
+and where different persons have been at different times the applicant’s former employer, the sum payable under the order shall be apportioned by the order between those persons, and references in this Act to the person against whom such an order is made shall be construed accordingly.
+
+## SCHEDULE 4 — Consequential Amendments
+
+*Section 21.*
+
+### Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951 [^M5]
+
+**1** In paragraph 1 (i) of Schedule 1 to the Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951, for “the [^M6]Reinstatement in Civil Employment Act 1950” substitute “ section 1(1) of the Reserve Forces (Safeguard of Employment) Act 1985 ”.
+
+**2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F16]
+
+### Tribunals and Inquiries Act 1971 [^M7]
+
+**[^F17]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### House of Commons Disqualification Act 1975 [^M8]
+
+**4** In Part I of Schedule 1 to the House of Commons Disqualification Act 1975, for “Umpire or Deputy Umpire appointed for the purposes of section 43 of the National Service Act 1948” substitute “ Umpire or a Deputy Umpire appointed for the purposes of section 9 of the Reserve Forces (Safeguard of Employment) Act 1985 ”.
+
+### Northern Ireland Assembly Disqualification Act 1975 [^M9]
+
+**5** In Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975—
+
+(a) in Part I, for “Umpire or Deputy Umpire appointed for the purposes of section 43 of the National Service Act 1948” substitute “ Umpire or Deputy Umpire appointed under Schedule 2 to the Reserve Forces (Safeguard of Employment) Act 1985 for the purposes of section 9 of that Act ”; and
+
+(b) in Part II, for “A Panel of Chairmen of Reinstatement Committees constituted under section 41 of the [^M10]National Service Act 1948” substitute “ A panel of Chairmen of Reinstatement Committees constituted under Schedule 2 to the Reserve Forces (Safeguard of Employment) Act 1985 for the purposes of section 8 of that Act ”.
+
+### Employment Protection (Consolidation) Act 1978 [^M11]
+
+**[^F18]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Reserve Forces Act 1980 [^M12]
+
+**[^F19]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Bankruptcy Amendment (Northern Ireland) Order 1980 [^M13]
+
+**8** In Article 19(f) of the Bankruptcy Amendment (Northern Ireland) Order 1980, for “Reinstatement in Civil Employment Act 1944 [^M14], Part II of the National Service Act 1948 or the Reinstatement in Civil Employment Act 1950” substitute “ Reserve Forces (Safeguard of Employment) Act 1985 ”.
+
+## SCHEDULE 5 — Repeals
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 11 & 12 Geo. 6 c. 64. | National Service Act 1948. | The whole Act. |
+| 14 & 15 Geo. 6 c. 10. | Reinstatement in Civil Employment Act 1950. | The whole Act. |
+| 1971 c. 62. | Tribunals and Inquiries Act 1971. | Section 9. |
+| 1978 c. 44. | Employment Protection (Consolidation) Act 1978. | In Schedule 13, paragraph 16(2). |
+
+<table>
+<tbody>
+<tr><th>Provision</th><th>Derivation</th></tr>
+<tr><td>1(1)</td><td>1950 ss. 1, 8(1).</td></tr>
+<tr><td>(2)</td><td>1948 s. 35(1).</td></tr>
+<tr><td>(3), (4)</td><td>1948 s. 35(2).</td></tr>
+<tr><td>(5)</td><td>1948 s. 35(3).</td></tr>
+<tr><td>2(1)</td><td>1948 s. 46(1).</td></tr>
+<tr><td>(2)</td><td>[Drafting.]</td></tr>
+<tr><td>3(1)</td><td>1948 s. 36(1).</td></tr>
+<tr><td>(2)</td><td>1948 s. 36(2); 1950 s. 5(1).</td></tr>
+<tr><td>(3)</td><td>1948 s. 36(2).</td></tr>
+<tr><td>(4)</td><td>1948 s. 36(3).</td></tr>
+<tr><td>(5)</td><td>1948 s. 36(4).</td></tr>
+<tr><td>4(1), (2)</td><td>1948 s. 37(1); 1950 s. 5(1).</td></tr>
+<tr><td>(3)</td><td>1948 s. 37(2).</td></tr>
+<tr><td>5(1), (2)</td><td>1948 s. 39(1), (2).</td></tr>
+<tr><td>6(1), (2)</td><td>1948 s. 45(1).</td></tr>
+<tr><td>(3)</td><td>1948 s. 45(2).</td></tr>
+<tr><td>7(1), (2)</td><td>1948 s. 38(1).</td></tr>
+<tr><td>(3)</td><td>1948 s. 38(2).</td></tr>
+<tr><td>8(1)-(3)</td><td>1948 s. 42(1) (3).</td></tr>
+<tr><td>9(1)</td><td>1948 s. 43(1).</td></tr>
+<tr><td>(2), (3)</td><td>1948 s. 43(2).</td></tr>
+<tr><td>(4)</td><td>1948 s. 43(3).</td></tr>
+<tr><td>10(1)</td><td>1948 s. 44(1); Criminal Procedure (Scotland) Act 1975 c. 21 ss. 289G, 289F; Criminal Justice Act 1982 c. 48 ss. 37, 38; S.I. 1984/703 (N.I. 3).</td></tr>
+<tr><td>(2)</td><td>1948 s. 44(1).</td></tr>
+<tr><td>11(1)</td><td>1948 s. 44(2).</td></tr>
+<tr><td>(2)</td><td>1948 s. 44(4).</td></tr>
+<tr><td>12(1), (2)</td><td>1948 s. 44(1).</td></tr>
+<tr><td>(3)</td><td>1948 s. 44(3).</td></tr>
+<tr><td>13</td><td>1948 ss. 44, 56(b); 1950 s. 8(2).</td></tr>
+<tr><td>14(1)</td><td>1948 s. 47(1); Defence (Transfer of Functions) Act 1964 c. 15 s. 1(3).</td></tr>
+<tr><td>(2), (3)</td><td>1948 s. 47(2); 1964 c. 15 <i>ibid.</i></td></tr>
+<tr><td>15</td><td>1948 s. 47(3).</td></tr>
+<tr><td>16</td><td>1948 s. 47(4).</td></tr>
+<tr><td>17(1)</td><td>1948 s. 50(1); 1950 s. 5(2); Criminal Procedure (Scotland) Act 1975 c. 21 ss. 289G, 289F; Criminal Justice Act 1982 c. 48 ss. 37, 38; S.I. 1984/703 (N.I. 3).</td></tr>
+<tr><td>(2)</td><td>1948 s. 50(2).</td></tr>
+<tr><td>18</td><td>1948 s. 50(1).</td></tr>
+<tr><td>19(1), (2)</td><td>1948 s. 53(1), (2).</td></tr>
+<tr><td>20(1)</td><td>1948 s. 54(1); 1950 ss. 1, 8(1); Reserve Forces Act 1980 c. 9 s. 156(1).</td></tr>
+<tr><td>(2)</td><td>1948 s. 54(3).</td></tr>
+<tr><td>(3)</td><td>1948 s. 54(4).</td></tr>
+<tr><td>(4)</td><td>1948 s. 54(5); 1950 s. 5(3).</td></tr>
+<tr><td>(5)</td><td>1948 s. 54(6).</td></tr>
+<tr><td>21(1)</td><td>1950 s. 5(4).</td></tr>
+<tr><td>(2)</td><td>[Consequential amendments and repeals.]</td></tr>
+<tr><td>22</td><td>1948 s. 58(1); 1950 s. 9(1).</td></tr>
+<tr><td>23(1)</td><td>[Short title.]</td></tr>
+<tr><td>(2)</td><td>[Extent.]</td></tr>
+<tr><td>(3)</td><td>[Commencement.]</td></tr>
+<tr><td colspan="2">Sch. 1</td></tr>
+<tr><td>para. 1, 2</td><td>1948 s. 46(2).</td></tr>
+<tr><td>para. 3</td><td>1948 s. 46(3).</td></tr>
+<tr><td colspan="2">Sch. 2</td></tr>
+<tr><td>para. 1</td><td>1948 s. 41(1).</td></tr>
+<tr><td>para. 2</td><td>1948 s. 41(2); Tribunals and Inquiries Act 1971 c. 62 s. 7(1), (7), (8), Sch. 1 para. 19.</td></tr>
+<tr><td>para. 3, 4</td><td>1948, s. 41(3)</td></tr>
+<tr><td>para. 5</td><td>1948 s. 41(4); Tribunals and Inquiries Act 1971 c. 62 s. 9.</td></tr>
+<tr><td>para. 6</td><td>1948, s. 49.</td></tr>
+<tr><td>Sch. 3</td><td>1948 Sch. 5.</td></tr>
+<tr><td>Sch. 4</td><td>[Consequential amendments.]</td></tr>
+<tr><td>Sch. 5</td><td>[Repeals.]</td></tr>
+</tbody>
+</table>
+
+---
+
+[^F1]: S. 1(1) substituted (1.4.1997) by 1996 c. 14, ss. 122(2)(6) (with s. 72(5)); S.I. 1997/305, art. 2
+[^F2]: S. 13 repealed (E.W.S.) by Insolvency Act 1985 (c. 65, SIF 66), s. 235, Sch. 9 para. 11(2), Sch. 10 Pt. IV
+[^M1]: 1914 c. 59
+[^M2]: 1913 c. 20.
+[^F3]: S. 17(1) substituted (1.4.1997) by 1996 c. 14, s. 122(3)(6)(with s. 72(5)); S.I. 1997/305. art. 2
+[^F4]: Definition of "permanent service" in s. 20(1) omitted (1.1.1999) by virtue of S.I. 1998/3086, reg. 10(4)
+[^F5]: Definition in s. 20(1) repealed (1.4.1997) by 1996 c. 14, s. 131(2), Sch. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F6]: S. 20(3) substituted (1.4.1997) for s. 20(3) and (4) by 1996 c. 14, s. 122(5)(6)(with s. 72(5)); S.I. 1997/305, art. 2
+[^M3]: 1944 c. 15
+[^M4]: 1978 c. 30.
+[^F7]: Sch. 2 para. 2 renumbered (31.3.1995) by 1993 c. 8 , s. 26 , Sch. 6 para. 60 (with Sch. 7 paras. 2(2) , 3(2) , 4 ); S.I. 1995/631 , art. 2
+[^F8]: Words in Sch. 2 para. 2(1) substituted (12.4.2010) by Northern Ireland Act 2009 (c. 3), s. 5(7), Sch. 4 para. 19 (with Sch. 5 para. 16); S.I. 2010/812, art. 2
+[^F9]: Sch. 2 para. 2(2) added (31.3.1995) by 1993 c. 8 , s. 26 , Sch. 6 para.60 (with Sch. 7 paras. 2(2) , 3(2) , 4 ); S.I. 1995/631 , art. 2
+[^F10]: Word in Sch. 2 para. 2(2) substituted (10.3.2022) by Public Service Pensions and Judicial Offices Act 2022 (c. 7), s. 131(1)(4)(a), Sch. 1 para. 20 (with Sch. 1 para. 43)
+[^F11]: Words substituted by Courts and Legal Services Act 1990 (c. 41, SIF 37) s. 71(2), Sch. 10 para. 59
+[^F12]: Sch. 2 para. 5(a) substituted (21.7.2008) by Tribunals, Courts and Enforcement Act 2007 (c. 15), s. 148, Sch. 10 para. 16(2); S.I. 2008/1653, art. 2(d) (with arts. 3, 4)
+[^F13]: Word in Sch. 2 para. 5(b) substituted (21.7.2008) by Tribunals, Courts and Enforcement Act 2007 (c. 15), s. 148, Sch. 10 para. 16(3); S.I. 2008/1653, art. 2(d) (with arts. 3, 4)
+[^F14]: Words in Act substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), s. 148(1), Sch. 11 para. 5; S.I. 2009/1604, art. 2(d)
+[^F15]: Word in Sch. 2 para. 5(c) substituted (21.7.2008) by Tribunals, Courts and Enforcement Act 2007 (c. 15), s. 148, Sch. 10 para. 16(3); S.I. 2008/1653, art. 2(d) (with arts. 3, 4)
+[^M5]: 1951 c. 65
+[^M6]: 1950 c. 10.
+[^F16]: Sch. 4 para. 2 repealed by S.I. 1986/1035 (N.I. 9), art. 24, Sch. 2
+[^M7]: 1971 c. 62.
+[^F17]: Sch. 4 para. 3 repealed (1. 10. 1992) by Tribunals and Inquiries Act 1992 (c. 53), ss. 18(2), 19(2), Sch. 4 Pt.I.
+[^M8]: 1975 c. 24.
+[^M9]: 1975 c. 25.
+[^M10]: 1948 c. 64
+[^M11]: 1978 c. 44.
+[^F18]: SCh. 4 para. 6 repealed (22.8.1996) by 1996 c. 18, ss. 242, 243, Sch. 3 Pt. I (with ss. 191-200, 202)
+[^M12]: 1980 c. 9.
+[^F19]: SCh. 4 para. 7 repealed (1.4.1997) by 1996 c. 14, s. 131(2), SCh. 11 (with s. 72(5)); S.I. 1997/305, art. 2
+[^M13]: S.I. 1980/561 (N.I.4).
+[^M14]: 1944 c. 15

@@ -1,0 +1,1699 @@
+---
+title: "Oil Taxation Act 1983"
+identifier: "ukpga/1983/56"
+citation: "1983 c. 56"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1983-12-01
+last_amended: 2010-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1983/56"
+source_modified: 2024-05-03
+retrieved: 2026-10-11
+---
+
+# Oil Taxation Act 1983
+
+**1983 c. 56**
+
+An Act to vary the reliefs available for certain expenditure incurred in connection with assets used or to be used in connection with oil fields; to bring into charge to petroleum revenue tax certain sums received or receivable in respect of such assets and of certain other assets situated in the United Kingdom, the territorial sea thereof or a designated area, within the meaning of the Continental Shelf Act 1964; to amend Part II of the Oil Taxation Act 1975 in relation to sums so received or receivable; and for connected purposes.
+
+[1st December 1983]
+
+[^X1]Most Gracious Sovereign,WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United Kingdom in Parliament assembled, towards raising the necessary supplies to defray Your Majesty’s public expenses, and making an addition to the public revenue, have freely and voluntarily resolved to make the provision hereinafter mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Reliefs for expenditure
+
+### 1 Expenditure incurred on non-dedicated mobile assets.
+
+(1) Subject to subsection (3) below, with respect to expenditure which is or was incurred after 30th June 1982 in acquiring, bringing into existence or enhancing the value of an asset, section 4 of the principal Act (allowance of expenditure on long-term assets) shall apply only where—
+
+(a) the asset is a mobile asset which is not dedicated to the oil field referred to in subsection (1) of that section; or
+
+(b) the expenditure is incurred as mentioned in section 13(1)(b) below.
+
+(2) Where section 4 of the principal Act applies as mentioned in subsection (1)(a) above, it shall so apply with the following modifications:—
+
+(a) in subsection (1), after the words “subsection (13) below” there shall be inserted the words “and section 1 of the Oil Taxation Act 1983” and for the words from “whose useful life” to “used” there shall be substituted the words “which, at the end of the first relevant claim period, is or is expected to be a long-term asset as defined in section 3(8) of the Oil Taxation Act 1983”;
+
+(b) subsections (3) and (4) shall be omitted;
+
+(c) in subsection (5), paragraph (a) and the words “in any other case” in paragraph (b) shall be omitted and, in paragraph (b), for the words “that connection” there shall be substituted the words “connection with the field”;
+
+(d) subsection (6) shall be omitted;
+
+(e) in subsection (7), for the words from the beginning to “each subsequent claim period” there shall be substituted the words “For each claim period subsequent to the first relevant claim period and” and for the words “subsections (5) and (6)” there shall be substituted the words “subsection (5)”; and
+
+(f) in subsection (11) for the words from “subsections (5)” to “they apply” there shall be substituted the words “subsection (5) above (including that subsection as it applies”.
+
+(3) If the asset referred to in subsection (1)(a) above becomes dedicated to the oil field referred to in subsection (1) of section 4 of the principal Act or is or becomes dedicated to another oil field,—
+
+(a) expenditure incurred as mentioned in subsection (1) above shall not be allowable under section 4 of the principal Act for a claim period for which it is allowable under section 3 below nor, subject to paragraph (b) below, for a claim period which falls wholly or partly within a claim period of another field to which the asset is or becomes dedicated, being a claim period for which the expenditure is allowable; and
+
+(b) where expenditure incurred in relation to the asset becomes allowable under section 3 below, no part of that expenditure shall be allowable under section 4 of the principal Act for any claim period ending less than six months before the end of a claim period for which the expenditure is allowable under section 3 below.
+
+(4) Paragraph 4 of Schedule 4 to the principal Act (reduction of allowable expenditure on disposal of long-term asset formerly used in connection with an oil field) does not apply to any disposal of an asset after 30th June 1982 unless the asset is a mobile asset which is not dedicated to the oil field referred to in section 4(1) of the principal Act.
+
+### 2 Dedicated mobile assets.
+
+(1) For the purposes of this Act and Part I of the principal Act a mobile asset becomes dedicated to a particular oil field in a claim period if—
+
+(a) the asset is used in connection with that field during the whole or part of that claim period; and
+
+(b) the asset was not, at the beginning of that period, already dedicated to that field; and
+
+(c) at the end of that period it is reasonable to make the assumptions in subsection (2) below.
+
+(2) The assumptions referred to in paragraph (c) of subsection (1) above are—
+
+(a) that during the whole or substantially the whole of the relevant period, the asset will be used in connection with the field referred to in that subsection (whether or not that use will be exclusive to that field); and
+
+(b) that the main use of the asset during the whole of the relevant period will be in connection with that field or with two or more oil fields of which that field is one.
+
+(3) In any case where—
+
+(a) at or before the time when he is a participator in an oil field, a person incurs expenditure in bringing into existence a mobile asset, and
+
+(b) that expenditure is so incurred in a claim period for that field which is earlier than that in which the asset is first used by that person in connection with that field, and
+
+(c) at the end of that claim period, it is reasonable to make the assumptions in subsection (2) above, and
+
+(d) the circumstances are such that the asset is not a brought-in asset, as defined in section 4(12)(a) of the principal Act,
+
+then, as respects any claim for the allowance of the expenditure referred to in paragraph (a) above which is made before the asset is first used as mentioned in paragraph (b) above, the asset shall be regarded for the purposes of this Act and Part I of the principal Act as becoming dedicated to the oil field in question in the claim period referred to in paragraphs (b) and (c) above.
+
+(4) In subsection (2) above “the relevant period” means the period beginning at the end of the claim period referred to in subsection (1) above or, where subsection (3) above applies, at the end of the claim period in which it can reasonably be expected that the asset will be first used, and ending—
+
+(a) at the end of the useful life of the asset, or
+
+(b) when the winning of oil from the field in question permanently ceases,
+
+whichever first occurs.
+
+(5) If, in the case of a mobile asset which would not be dedicated to a particular oil field but for the provisions of subsection (3) above, it becomes apparent at any time that it is no longer reasonable to make the assumptions in subsection (2) above, then the asset concerned shall be regarded for the purposes of this Act and Part I of the principal Act as never having been dedicated to that field; and the provisions of paragraph 9 of Schedule 5 to the principal Act (variations of decisions on claims for allowable expenditure) shall have effect accordingly.
+
+### 3 Expenditure incurred on long-term assets other than non-dedicated mobile assets.
+
+(1) Subject to section 13 below, this section applies to expenditure (whether or not of a capital nature) which is or was incurred by a person after 30th June 1982 and at or before the time when he is or was a participator in an oil field, being expenditure incurred, subject to subsection (2) below, in acquiring, bringing into existence, or enhancing the value of an asset—
+
+(a) which, at the end of the relevant claim period, is being or is expected to be used in connection with the field; and
+
+(b) which, at the end of the relevant claim period, is or is expected to be a long-term asset; and
+
+(c) which either is not a mobile asset or is a mobile asset which became dedicated to that field in the relevant claim period or in any earlier claim period.
+
+(2) This section does not apply to expenditure incurred as mentioned in subsection (1) above in any case where the Board consider that its application to that expenditure would have only a negligible effect on the total expenditure allowable under Part I of the principal Act for the field and so notify the responsible person.
+
+(3) Part I of Schedule 1 to this Act shall have effect for the purpose of allowing relief for certain expenditure which would not otherwise fall within this section or, as the case may be, section 3 of the principal Act.
+
+(4) Except as provided by subsections (6) and (7) and [[^F1]sections 3A and 4] below and Part II of Schedule 1 to this Act, the whole of any expenditure to which this section applies shall be allowable on a claim under Schedule 5 or Schedule 6 to the principal Act for the relevant claim period.
+
+(5) The relevant claim period referred to in subsections (1) and (4) above is—
+
+(a) the claim period which is appropriate under paragraph 2 of Schedule 5 or, as the case may be, paragraph 1 of Schedule 6 to the principal Act; or
+
+(b) if the asset is a brought-in asset, as defined in section 4(12)(a) of the principal Act, and the expenditure has not already been allowable for an earlier claim period by virtue of paragraph (a) above, the claim period in which the asset is first used in connection with the field in question, discounting, in the case of a mobile asset, any claim period in which it was not dedicated to that field; or
+
+(c) if the asset is a mobile asset and paragraph (b) above does not apply and the expenditure has not already been allowable for an earlier claim period by virtue of paragraph (a) above, the claim period in which the asset became dedicated to the field in question.
+
+(6) Subsections (3) to (5A) of section 3 of the principal Act apply for the purposes of this section and Schedule 1 to this Act as they apply for the purposes of that section; and, except in so far as section 5 below provides to the contrary, any reference to section 4 of the principal Act (but not a reference to any specific provision of that section) in—
+
+(a) Part I of that Act,
+
+(b) any enactment, other than this Act, which is to be construed as one with that Part, or
+
+(c) section 107 of the [^M1]Finance Act 1980 (transmedian fields), shall be construed as including a reference to this section, section 4 below and Schedule 1 to this Act.
+
+(7) Section 4(13) of the principal Act (interests in assets) applies to the preceding provisions of this section and the provisions of Schedule 1 to this Act; and those provisions are subject to paragraph 2 of Schedule 4 and to Schedules 5 and 6 to the principal Act.
+
+(8) In this section “long-term asset” means an asset the useful life of which continues after the end of the claim period in which it is first used in connection with the oil field in question.
+
+### 3A [[^F2]Exclusion from section 3(4) of expenditure on assets giving rise to tax-exempt tariffing receipts
+
+(1) This section applies where—
+
+(a) expenditure incurred on or after 1st January 2004 falls within section 3 (1) above, but
+
+(b) some of the use (or expected use) of the asset in relation to which the expenditure was incurred is use in a way that gives rise to tax-exempt tariffing receipts (see section 6A(2) below).
+
+(2) In any such case, such part of the expenditure as it is just and reasonable to apportion to the use mentioned in subsection (1)(b) above shall be excluded from the expenditure which is allowable as mentioned in section 3(4) above.]
+
+### 4 Expenditure related to exempt gas and deballasting.
+
+(1) In any case where expenditure falls within section 3(1) above, but by reason of section 10(2) of the principal Act (exempt gas) some of the use (or expected use) of the asset is not use in connection with an oil field, such part of that expenditure as it is just and reasonable to apportion to that use (or expected use) shall be excluded from the expenditure which is allowable as mentioned in section 3(4) above.
+
+(2) In any case where expenditure—
+
+(a) falls within section 3(1) above, or
+
+(b) by virtue of any provision of Part I of Schedule 1 to this Act, falls within section 3 of the principal Act,
+
+but some of the use (or expected use) of the asset is use for deballasting, such part of that expenditure as it is just and reasonable to apportion to that use (or expected use) shall be excluded from the expenditure which is allowable as mentioned in section 3(4) above or, as the case may be, from the expenditure which is allowable under section 3 of the principal Act.
+
+(3) In any case where—
+
+(a) expenditure does not fall within section 3(1) above or section 3 of the principal Act by reason only of section 10(2) of that Act (exempt gas), but
+
+(b) the asset in relation to which the expenditure was incurred is or is expected to be used in a way which gives rise to tariff receipts,
+
+then, so far as relates to so much of that expenditure as it is just and reasonable to apportion to the use referred to in paragraph (b) above, that use of the asset shall be treated for the purposes of section 3 above, Schedule 1 to this Act and section 3 of the principal Act as use in connection with the field from which the excluded oil, within the meaning of section 10 of that Act, is won.
+
+(4) References in subsection (3) above to the use of an asset (other than the final reference to use in connection with a field) include references to the provision, in connection with the use of the asset, of services or other business facilities of any kind.
+
+(5) In any case where—
+
+(a) expenditure is incurred in enhancing the value of an asset with a view to the subsequent disposal of it or of an interest in it, and
+
+(b) by reason only of section 10(2) of the principal Act (exempt gas), the expenditure does not fall within section 3(1) above or section 3 of that Act, and
+
+(c) the subsequent disposal of, or of an interest in, the asset gives or is expected to give rise to disposal receipts,
+
+then, such part of the use of the asset as it is just and reasonable to apportion to the expenditure referred to in paragraph (a) above shall be treated for the purposes of section 3 above, Schedule 1 to this Act and section 3 of the principal Act as use in connection with the field from which the excluded oil, within the meaning of section 10 of that Act, is won.
+
+[[^F3](6) But where—
+
+(a) expenditure would (apart from this subsection) fall within paragraph (a) of subsection (5) above, and
+
+(b) the asset has, at any time in the period of 6 years ending with the date on which the expenditure was incurred, been used in a way that gives rise to tax-exempt tariffing receipts,
+
+the expenditure shall not be regarded for the purposes of that subsection as expenditure incurred in enhancing the value of the asset with a view to the subsequent disposal of the asset, or of an interest in it, to the extent that the amount of the expenditure falls to be reduced in accordance with subsection (7) below.
+
+(7) The reduction is to be made by applying section 7A below in relation to the expenditure as it applies in relation to disposal receipts in respect of a disposal, but with the substitution—
+
+(a) for references to the disponor, of references to the person incurring the expenditure (“the relevant participator”),
+
+(b) for references to the amount or value (apart from that section) of any disposal receipts of the disponor in respect of the disposal, of references to the amount which would, apart from subsection (6) above, be the amount of the expenditure incurred by the relevant participator with a view to the subsequent disposal of the asset or of an interest in it,
+
+(c) for references to the interest disposed of, of references to the asset or interest whose subsequent disposal gives or is expected to give rise to disposal receipts,
+
+(d) for references to the date of the disposal, of references to the date on which the expenditure was incurred,
+
+and taking the reference in subsection (6)(b) of that section to a reduction made by virtue of that section as a reference to a reduction made by virtue of that section for the purposes of section 7(9) of this Act.]
+
+### 5 Miscellaneous amendments relating to reliefs.
+
+(1) In section 3 of the principal Act (allowance of expenditure otherwise than on long-term assets etc.)—
+
+(a) in subsection (1) after the words “to the extent” and in subsection (6) after the word “shall” there shall in each case be inserted the words “subject to subsection (7) below”; and
+
+(b) at the beginning of subsection (5) there shall be inserted the words “Subject to subsection (5A) below”.
+
+(2) After subsection (5) of that section there shall be inserted the following subsection:—
+
+> (5A) Where expenditure incurred in relation to an asset is incurred—
+>
+> (a) in part for one of the purposes specified in subsection (5) above (or for what would be one of those purposes if section 10(2) below were disregarded), and
+>
+> (b) in part for the purpose of enabling the asset to be used in a way giving rise to tariff receipts within the meaning of the Oil Taxation Act 1983,
+>
+> then, to the extent that the expenditure is incurred for the purpose mentioned in paragraph (b) above, it shall be treated for the purposes of this Part of this Act as incurred for one of the purposes specified in subsection (5) above.
+
+(3) At the end of section 3 of the principal Act there shall be added the following subsections:—
+
+> (7) In any case where—
+>
+> (a) expenditure which is incurred by any person as mentioned in subsection (6) above is so incurred in connection with a long-term asset, and
+>
+> (b) the long-term asset gives rise to receipts which, for the purpose of the Oil Taxation Act 1983, are tariff receipts of that person attributable to the field for which any of that expenditure is so allowable,
+>
+> then, so far as relates to that field, in making in accordance with subsection (6) above any apportionment for the purposes of either or both of subsections (1) and (5) above, the whole of the relevant expenditure shall be apportioned to one or more of the purposes mentioned in that subsection or, as the case may be, those subsections.
+>
+> (8) In subsection (7) above—
+>
+> (a) “long-term asset” means an asset whose useful life continues after the end of the claim period for which a claim is first made for an allowance in respect of expenditure incurred in connection with the asset; and
+>
+> (b) “relevant expenditure” means that portion of the expenditure in connection with the asset which is reasonably attributable to the use of the asset which gives rise to the receipts referred to in subsection (7)(b) above.
+
+(4) Paragraph 1 of Schedule 4 to the principal Act (expenditure not allowable under section 3 or section 4 of that Act if relief already allowable for another person) does not apply to any expenditure which—
+
+(a) consists of a payment made to a participator or a person connected with him; and
+
+(b) constitutes a tariff receipt or disposal receipt of the participator.
+
+(5) Subsections (1) to (4) above apply with respect to expenditure which is or was incurred after 30th June 1982.
+
+(6) In relation to expenditure incurred in the acquisition of an asset on or after 1st April 1983, paragraph 2 of Schedule 4 to the principal Act shall have effect subject to the following modifications—
+
+(a) in sub-paragraph (1), the words from “by another person” to “that asset” shall be omitted and at the end there shall be added the words “in acquiring, bringing into existence or enhancing the value of that asset”; and
+
+(b) for sub-paragraph (3) of that paragraph there shall be substituted the following sub-paragraph:—
+
+> (3) The preceding provisions of this paragraph have effect (with any necessary modifications) in relation to expenditure incurred by a person in respect of—
+>
+> (a) the use of an asset, or
+>
+> (b) the provision of services or other business facilities of whatever kind in connection with the use, otherwise than by that person, of an asset,
+>
+> as they have effect in relation to expenditure incurred in the acquisition of, or of an interest in, an asset.
+
+(7) Notwithstanding anything in section 3(6) above, any reference to section 4 of the principal Act in—
+
+(a) paragraph 4 of Schedule 4 to that Act (disposal of certain long-term assets), or
+
+(b) paragraph 2(5) or paragraph 4 of Schedule 5 to that Act (claims and appeals relating to allowance of expenditure),
+
+does not include a reference to sections 3 and 4 above or Schedule 1 to this Act.
+
+(8) Paragraph 5 of Schedule 4 to the principal Act (treatment of payments for hire of assets) shall not apply in any case where the payments are or were received after 30th June 1982 (whenever the expenditure was incurred).
+
+## Charge of receipts
+
+### 6 Chargeable tariff receipts.
+
+(1) In computing under section 2 of the principal Act the assessable profit or allowable loss accruing to a participator from an oil field in any chargeable period ending after 30th June 1982, the positive amounts for the purposes of that section (as specified in subsection (3)(a) thereof) shall be taken to include any tariff receipts of the participator attributable to that field for that period.
+
+(2) Subject to the provisions of this section [[^F4]and section 6A below], for the purposes of this Act the tariff receipts of a participator in an oil field which are attributable to that field for any chargeable period are the aggregate of the amount or value of any consideration (whether in the nature of income or capital) received or receivable by him in that period (and after 30th June 1982) in respect of—
+
+(a) the use of a qualifying asset; or
+
+(b) the provision of services or other business facilities of whatever kind in connection with the use, otherwise than by the participator himself, of a qualifying asset.
+
+(3) Any reference in this Act to the asset to which any tariff receipts are referable is a reference to the qualifying asset referred to in paragraph (a) or, as the case may be, paragraph (b) of subsection (2) above.
+
+(4) Notwithstanding anything in subsection (2) above, any amount which—
+
+(a) is, in relation to the person giving it, expenditure in respect of interest or any other pecuniary obligation incurred in obtaining a loan or any other form of credit, or
+
+(b) is referable to the use of an asset for, or the provision of services or facilities in connection with, deballasting,[[^F5]or]
+
+[[^F6](c) is referable to other use of an asset, except use wholly or partly for an oil purpose,]
+
+does not constitute a tariff receipt for the purposes of this Act; and, accordingly, any consideration which includes such an amount shall be apportioned in such manner as is just and reasonable.
+
+[[^F7](4A) In this section the reference to use of an asset for an oil purpose is a reference to—
+
+(a) use in connection with an oil field, and
+
+(b) use for any other purpose (apart from a purpose falling within section 3(1)(b) of the principal Act) of a separate trade consisting of activities falling within [[^F8]the definition of “oil-related activities” in section 274 of the Corporation Tax Act 2010].
+
+(4B) In subsection (4A) the reference to use in connection with an oil field includes use giving rise to receipts which, for the purposes of this Act, are tariff receipts.]
+
+(5) Schedule 2 to this Act shall have effect for supplementing the provisions of this section and of sections 7 and 8 below.
+
+### 6A [[^F9]Tax-exempt tariffing receipts
+
+(1) An amount which is a tax-exempt tariffing receipt (see subsection (2) below) does not constitute a tariff receipt for the purposes of the Oil Taxation Acts.
+
+(2) An amount is a “ tax-exempt tariffing receipt ” for the purposes of the Oil Taxation Acts if—
+
+(a) it would, apart from this section, be a tariff receipt of a participator in an oil field,
+
+(b) it is received or receivable by the participator in a chargeable period ending on or after 30th June 2004 under a contract entered into on or after 9th April 2003, and
+
+(c) it is in respect of tax-exempt business (see subsection (3) below).
+
+(3) For the purposes of this section an amount is in respect of tax-exempt business if it is an amount received or receivable by a participator in an oil field in respect of—
+
+(a) the use of a qualifying asset, or
+
+(b) the provision of services or other business facilities of whatever kind in connection with the use, otherwise than by the participator himself, of a qualifying asset,
+
+and that use of the qualifying asset falls within subsection (4) below.
+
+(4) Use of a qualifying asset falls within this subsection if it is—
+
+(a) use in relation to a new field (see subsection (5) below) or oil won from such a field, or
+
+(b) use in relation to a qualifying existing field (see subsection (5) below) or oil won from such a field, [[^F10]or
+
+(c) use in relation to a UK recommissioned field (see subsection (5) below) or oil won from such a field.]
+
+(5) In this section—
+
+- “ existing field ” means any oil field or foreign field which is not a new field;
+
+- “ foreign field ” means, subject to subsection (6) below (treatment of transmedian fields), any hydrocarbon accumulation which is not under the jurisdiction of the government of the United Kingdom;
+
+- “ licensee ”, in relation to a foreign field, means a person who has rights, interests or obligations in respect of the foreign field under a licence or other authority granted by the government of a country other than the United Kingdom;
+
+- “ new field ” means—
+
+  - (a) an oil field for no part of which had—
+  
+    - (i) consent for development been granted to a licensee by the Secretary of State before 9th April 2003; or
+    - (ii) a programme of development been served on a licensee or approved by the Secretary of State before that date; or
+  
+  - (b) a foreign field for no part of which had—
+  
+    - (i) any consent for development been granted to a licensee by the government of a country other than the United Kingdom before 9th April 2003; or
+    - (ii) a programme of development been served on a licensee or approved by such a government before that date;
+
+  and subsections (4) and (5) of section 36 of the Finance Act 1983 (which define “ development ” for the purposes of subsections (2) and (3) of that section) shall apply also for the purposes of this definition;
+
+- “ the Oil Taxation Acts ” means—
+
+  - (a) Parts 1 and 3 of the principal Act;
+  - (b) this Act; and
+  - (c) any other enactment relating to petroleum revenue tax;
+
+- “ qualifying existing field ” means an existing field as respects which the condition in section 6B(1) below is satisfied;
+
+- [[^F11]“UK recommissioned field” means any oil field which is not a new field or qualifying existing field but as respects which the conditions in section 185(1A) of the Finance Act 1993 are satisfied (fields recommissioned after earlier decommissioning).]
+
+(6) For the purposes of this section, in the case of an oil field which, by virtue of section 107 of the Finance Act 1980 (transmedian fields), is deemed to include the sector mentioned in subsection (1)(a)(ii) of that section—
+
+(a) that sector shall be treated as a foreign field, and
+
+(b) the remainder of that field shall be treated as a separate oil field.
+
+(7) In the application of provisions of the Oil Taxation Acts relating to tax-exempt tariffing receipts, references to oil, in relation to a foreign field, are references to any substance that would be oil within the meaning of the principal Act if the enactments mentioned in section 1(1) of that Act extended to the foreign field.
+
+(8) This section is subject to the transitional provisions in Part 2 of Schedule 37 to the Finance Act 2004 (expenditure incurred between 9th April and 31st December 2003: treatment of initial portion of tax-exempt tariffing receipts as tariff receipts).
+
+### 6B The condition for being a qualifying existing field
+
+(1) The condition for an existing field to be a qualifying existing field for the purposes of section 6A above is that at no time in the period of 6 years ending with 8th April 2003 (“the 6 year period”) was there—
+
+(a) any use of a disqualifying asset (see subsection (2) below) in a UK area (see subsection (11) below) in relation to the field or oil won from it, or
+
+(b) any provision of any services or other business facilities of whatever kind in connection with the use of a disqualifying asset in a UK area in relation to the field or oil won from it.
+
+(2) For the purposes of subsection (1) above “disqualifying asset”, in relation to an existing field and any time in the 6 year period, means an asset which at that time—
+
+(a) was a qualifying asset in relation to a participator in an oil field; and
+
+(b) was not an excepted asset (see subsection (3) below).
+
+(3) For the purposes of subsection (2) above “excepted asset”, in relation to an existing field and any time in the 6 year period, means any of the following—
+
+(a) any asset (other than a tanker) which at that time was wholly situated in the existing field;
+
+(b) any tanker which at that time was a non-dedicated tanker (see subsection (10) below) being used for transporting from the existing field oil which had been won from that field;
+
+(c) any asset which at that time was being used in relation to oil which had been won from the existing field and transported from that field by a non-dedicated tanker;
+
+(d) if the existing field is an oil field and is expected not to be a tanker loading field (see subsection (7) below)—
+
+(i) any tanker which at that time was a dedicated tanker (see subsection (9) below) being used for transporting from the existing field oil which had been won from that field;
+
+(ii) any asset which at that time was being used in relation to oil which had been won from the existing field and transported from that field by a dedicated tanker;
+
+(iii) any asset which at that time was being used to transport from the existing field oil consisting of gas won from that field to another oil field for the purpose of enabling that oil to be used for assisting the extraction of oil from that other field;
+
+(e) if at that time the existing field was not a taxable field, any asset by reference to which an election under section 231 of the Finance Act 1994 (election by reference to asset with excess capacity) was at that time in operation with respect to an oil field.
+
+(4) Where any use of an asset is, by virtue of subsection (3) above, use of an excepted asset, the provision of any services or other business facilities of whatever kind in connection with that use of that asset accordingly falls to be disregarded for the purposes of subsection (1)(b) above.
+
+(5) Where an asset in a UK area—
+
+(a) is a qualifying asset in relation to a participator in such an oil field as is mentioned in section 107 of the Finance Act 1980 (a “participator in the UK sector”), and
+
+(b) is also, by virtue of paragraph 3 of Schedule 4 to this Act, a chargeable asset in relation to a participator in a foreign field (a “participator in the foreign sector”),
+
+subsection (6) below applies in relation to use of the asset in relation to the existing field or oil won from it.
+
+(6) Where this subsection applies, then, in determining for the purposes of subsection (1) above whether there has been any use of a disqualifying asset in relation to the existing field or oil won from it, any use of the asset in relation to that field or oil won from it shall be treated—
+
+(a) as use of a qualifying asset in relation to a participator in an oil field, if or to the extent that the use is attributable, on a just and reasonable basis, to a participator in the UK sector, or
+
+(b) as use of an asset which was not a qualifying asset in relation to a participator in an oil field, if or to the extent that the use is attributable, on a just and reasonable basis, to a participator in the foreign sector.
+
+(7) For the purposes of subsection (3) above, the existing field is expected not to be a tanker loading field if, at the time when the relevant contract is entered into, it is expected that all (or virtually all) of the oil (other than oil consisting of gas) to be won from that field and transported from it after the beginning of the operational period will be so transported otherwise than by tanker.
+
+(8) For the purposes of subsection (7) above—
+
+(a) “the relevant contract” means the contract mentioned in section 6A(2)(b) above; and
+
+(b) “the beginning of the operational period” means the time at which the qualifying asset to which that contract relates begins to be used under that contract in relation to the existing field or oil won from that field.
+
+(9) For the purposes of subsection (3) above a tanker is a dedicated tanker at any time if—
+
+(a) the existing field mentioned in that subsection is an oil field, and
+
+(b) at that time the tanker is a mobile asset dedicated to that oil field (see section 2 above).
+
+(10) For the purposes of subsection (3) above a tanker is a non-dedicated tanker—
+
+(a) at any time, if the existing field mentioned in that subsection is not an oil field, or
+
+(b) where that field is an oil field, at any time when the tanker is not a mobile asset dedicated to that oil field.
+
+(11) In this section “UK area” means each of the following—
+
+(a) the United Kingdom;
+
+(b) the territorial sea of the United Kingdom;
+
+(c) a designated area, to the extent that it does not fall to be treated by virtue of section 6A(6) above as a foreign field.
+
+(12) This section shall be construed as one with section 6A above.]
+
+### 7 Chargeable receipts from disposals.
+
+(1) In computing under section 2 of the principal Act the assessable profit or allowable loss accruing to a participator from an oil field in any chargeable period ending after 30th June 1982, the positive amounts for the purposes of that section (as specified in subsection (3)(a) thereof) shall be taken to include any disposal receipts of the participator attributable to that field for that period.
+
+(2) Subject to the provisions of this section, for the purposes of this Act the disposal receipts of a participator in an oil field which are attributable to that field for any chargeable period are the aggregate of the amount or value of any consideration received or receivable by him in respect of the disposal in that period of a qualifying asset or of an interest in such an asset.
+
+(3) Where there is such a redetermination as is mentioned in subsection (4) of section 107 of the [^M2]Finance Act 1980 (transmedian fields) and in consequence thereof the participators in the field receive a repayment, credit or set-off in respect of expenditure which was incurred in acquiring, bringing into existence or enhancing the value of a qualifying asset or an interest in it, the repayment shall be regarded as consideration received as mentioned in subsection (2) above in respect of the disposal of an interest in the asset.
+
+(4) No account shall be taken under subsection (2) above of any disposal of, or of an interest in, a qualifying asset which takes place more than two years after the time at which the asset—
+
+(a) ceases to be used in connection with any oil field whatsoever, or
+
+(b) ceases to give rise to tariff receipts of the participator referred to in that subsection, [[^F12]or
+
+(c) ceases to give rise to tax-exempt tariffing receipts of that participator,]
+
+whichever is the [[^F13]latest].
+
+(5) Notwithstanding anything in subsection (2) or subsection (3) above, any amount which, in relation to the person paying it,—
+
+(a) is expenditure in respect of interest or any other pecuniary obligation incurred in obtaining a loan or any other form of credit, or
+
+(b) is a payment made for the purpose of obtaining a direct or indirect interest in oil won or to be won from an oil field,
+
+does not constitute a disposal receipt for the purposes of this Act; and accordingly, any consideration which includes such an amount shall be apportioned in such manner as is just and reasonable.
+
+(6) If in any claim period a qualifying asset gives rise to disposal receipts of a participator and any expenditure incurred by the participator is expenditure which in that period qualifies for supplement under paragraph (b)(ii) or paragraph (c)(ii) of subsection (9) of section 2 of the principal Act, then, except in so far as it is expenditure falling within section 111(7) of the [^M3]Finance Act 1981 (certain expenditure incurred before 1st January 1983),—
+
+(a) the amount which, apart from this subsection, would in his case be taken into account under either or both of those paragraphs shall be reduced by deducting therefrom a fraction thereof determined under subsection (7) below or, if that fraction exceeds unity, shall be taken to be nil; and
+
+(b) references in subsections (2) and (3) of section 9 of the principal Act (limit on amount of tax payable) to expenditure which was not allowed as qualifying for supplement under section 2(9)(b)(ii) or (c)(ii) shall be construed accordingly.
+
+(7) For the claim period referred to in subsection (6) above, the fraction referred to in paragraph (a) of that subsection is that of which—
+
+(a) the numerator, subject to subsection (8) below, is the disposal receipts of the participator in question for that period in respect of the qualifying asset referred to in subsection (6) above or, if it is less, the expenditure allowed or allowable to the participator in respect of that asset under section 3 above or section 4 of the principal Act; and
+
+(b) the denominator is so much of the total amount of expenditure allowable for the field on a claim for the claim period referred to in subsection (6) above as, in the case of the participator in question, falls to be taken into account under paragraphs (b)(i) and (c)(i) of subsection (9) of section 2 of the principal Act;
+
+and in paragraph (b) above “allowable” means allowable under section 3 or section 4 of the principal Act or under section 3 above.
+
+(8) If the disposal receipts in question relate to a disposal of an interest in the asset, rather than the asset itself, then the reference in subsection (7)(a) above to certain expenditure shall be construed as a reference to such proportion only of that expenditure as it is just and reasonable to apportion to the interest disposed of.
+
+[[^F14](9) In determining the amount or value of the disposal receipts of the participator in question in a case where the qualifying asset has been used in a way that gives rise to tax-exempt tariffing receipts, the amount or value (apart from this subsection) of any disposal receipts of his in respect of the disposal shall be reduced in accordance with section 7A below.]
+
+### 7A [[^F15]Reduction of disposal receipts: use giving rise to tax-exempt tariffing receipts
+
+(1) Where this section applies, the amount or value (apart from this section) of any disposal receipts of the participator (“the disponor”) in respect of the disposal shall be reduced in accordance with the following provisions of this section.
+
+(2) The reduction is to be made by multiplying that amount or value by the fraction that is equal to—
+
+1 - T/A
+
+1 - (T)/(A)
+
+(3) In that formula—
+
+T is the aggregate of the tax-exempt tariffing use of the asset in the reference period by—
+
+(a) the disponor, so far as referable to the interest disposed of, and
+
+(b) each of the previous owners, so far as referable to that previous owner’s represented interest, and
+
+A is the aggregate of all use of the asset in the reference period by—
+
+(a) the disponor, so far as referable to the interest disposed of, and
+
+(b) each of the previous owners, so far as referable to that previous owner’s represented interest,
+
+but only taking into account for this purpose use of the asset by a person at a time when he is or was a participator in a taxable field.
+
+(4) For the purposes of this section—
+
+- “the interest disposed of” means the asset, or the interest in an asset, the disposal of which gives rise to the disposal receipts mentioned in subsection (1) above;
+
+- “previous owner” means any person from whom the disponor directly or indirectly derives his title to the whole or any part of the interest disposed of;
+
+- “the reference period” means the shorter of the following periods ending with the date of the disposal—
+
+  - (a) the period of 6 years; or
+  - (b) the period beginning with the bringing into existence of the asset;
+
+- “represented interest”, in the case of a previous owner, means so much of the interest which that previous owner had in the asset as is represented in the interest disposed of;
+
+- “tax-exempt tariffing use”, in relation to an asset, means use of the asset in a way that gives rise to tax-exempt tariffing receipts.
+
+(5) Any apportionment that falls to be made for the purpose of determining a previous owner’s represented interest shall be made using a method which is just and reasonable, having regard to—
+
+(a) the proportion of any person’s interest that was acquired from any particular person, and
+
+(b) the proportion of any person’s interest that was transferred to any particular person.
+
+(6) Where—
+
+(a) the disponor or any previous owner acquired the asset or an interest in the asset from another person, and
+
+(b) on that other person’s corresponding disposal of the asset or interest a reduction was made by virtue of this section,
+
+use of the asset shall not be brought into account in determining T or A in the formula in subsection (2) above to the extent that it was so brought into account in relation to that corresponding disposal.
+
+(7) Where paragraph 9 of Schedule 2 to this Act (reduction of disposal receipts in respect of brought-in assets) applies in relation to an asset, no account shall be taken for the purposes of this section of any use of the asset during the initial period.
+
+In this subsection “the initial period”, in relation to an asset, has the same meaning as it has in relation to that asset in paragraph 7 of Schedule 1 to this Act (restriction on allowable expenditure on brought-in asset).
+
+(8) For the purposes of this section, the amount of use of an asset—
+
+(a) where the use is in relation to oil, is to be determined by reference to the volume of oil in relation to which the asset is used, and
+
+(b) where the use is otherwise than in relation to oil, is to be determined on a just and reasonable basis.
+
+(9) For the purposes of this section, the extent to which use of an asset is referable to—
+
+(a) the interest disposed of, or
+
+(b) the represented interest of a previous owner,
+
+shall be determined on a just and reasonable basis, having regard to the size of the interest in question and the size from time to time of the whole interest in the asset of the disponor or, as the case may be, that previous owner.]
+
+### 8 Qualifying assets.
+
+(1) Subject to paragraph 4 of Schedule 2 to this Act, for the purposes of this Act a “qualifying asset”, in relation to a participator in an oil field, means [[^F16]subject to subsection (1A) below] an asset—
+
+(a) which either is not a mobile asset or is a mobile asset dedicated to that oil field; and
+
+(b) in respect of which expenditure incurred by the participator is allowable, or has been allowed, for that field under section 3 above, section 4 of the principal Act or, subject to subsection (2) below, section 3 of that Act.
+
+[[^F17](1A) Notwithstanding anything in subsection (1) above, the following assets are not qualifying assets for the purposes of this Act, namely,—
+
+(a) land or an interest in land; and
+
+(b) a building or structure which is situated on land and which does not fall within any of sub-paragraphs (i) to (iv) of paragraph ( *c* ) of subsection (4) of section 3 of the principal Act. ]
+
+(2) If, in respect of any asset, the only expenditure which falls within subsection (1)(b) above is expenditure allowable or allowed under section 3 of the principal Act, the asset shall not be a qualifying asset unless, at the time the expenditure was incurred, it was expected that the useful life of the asset would continue after the end of the claim period in which the asset was to be first used in a way which would constitute use in connection with an oil field for the purposes of that section.
+
+(3) Subject to subsection (4) below, the oil field to which are attributable tariff receipts or disposal receipts referable to a qualifying asset is that field for which the expenditure referred to in subsection (1)(b) above is allowable; and, if there is more than one such field, then,—
+
+(a) in the case of a mobile asset, no account shall be taken of a field to which it is not dedicated; and
+
+(b) no account shall be taken of a field in relation to which the asset is a qualifying asset by virtue only of paragraph 1 of Schedule 1 to this Act; and
+
+(c) subject to paragraphs (a) and (b) above [[^F18]and subsection (3A) below], it is that one of those fields in relation to which a development decision was first made;
+
+and subsection (7) of section 5A of the principal Act (time when development decision is made) shall have effect for the purposes of paragraph (c) above [[^F18]and subsection (3A) below] as it has effect for the purposes of subsection (1)(c) of that section.
+
+[[^F19](3A) If development decisions were first made in relation to two or more oil fields on the same day, then, for the purposes of subsection (3)( *c* ) above, it shall be conclusively presumed that the first of those decisions was made in relation to that one of those fields in connection with which it appeared—
+
+(a) at the time of the decision, or
+
+(b) if it is later, at the time the asset was acquired or brought into existence by the participator in question for use in connection with an oil field,
+
+that the participator in question would make the most use of the asset.]
+
+(4) In the case of an asset which, in relation to the participator in question, is a qualifying asset by virtue only of paragraph 1 of Schedule 1 to this Act, the oil field to which are attributable tariff receipts or disposal receipts referable to the asset is that to which (in accordance with subsection (3) above) those receipts would be attributable if they were referable to the other asset referred to in sub-paragraph (1)(d) of that paragraph (that is to say, the asset in association with which the first asset is, or is expected to be, used).
+
+(5) In relation to a qualifying asset or the tariff receipts or disposal receipts referable to it, in this Act “chargeable field” means the field referred to in subsection (3) or, as the case may be, subsection (4) above.
+
+### 9 Tariff receipts allowance.
+
+(1) Subject to the provisions of this section and Schedule 3 to this Act if, in computing the assessable profit or allowable loss accruing to a participator from an oil field (in this section referred to as “the principal field”) in any chargeable period, account would be taken, apart from this section, of an amount of qualifying tariff receipts received or receivable by him for that period from a user field, then, for the purpose of determining his liability (if any) to tax for that period, the amount of those qualifying tariff receipts shall be treated as reduced as follows, that is to say,—
+
+(a) if that amount exceeds the cash equivalent of his share of the tariff receipts allowance in respect of that user field for that period, to an amount equal to the excess; or
+
+(b) if that amount equals the cash equivalent of his share of that allowance, to nil.
+
+(2) Subject to [[^F20]subsection (4)] below, for the participators in the principal field there shall be, for each chargeable period, a separate tariff receipts allowance of 250,000 metric tonnes in respect of each user field.
+
+[^F21]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) Schedule 3 to this Act shall have effect—
+
+(a) for determining for the purposes of this section the cash equivalent of a participator’s share of the tariff receipts allowance in respect of a user field for a chargeable period; and
+
+(b) generally for supplementing [[^F22]subsections (1) and (2)] above.
+
+(5) Any reference in this section or in Schedule 3 to this Act to a user field is a reference—
+
+(a) to an oil field [[^F23]other than—
+
+(i) the principal field, or
+
+(ii) an oil field that is a non-taxable field by virtue of section 185(1) or (1A) of the Finance Act 1993.]
+
+(b) to an area which is not under the jurisdiction of the government of the United Kingdom but which, by an order made by statutory instrument by the Secretary of State for the purposes of this Act, is specified as a foreign field.
+
+[[^F24](5A) No order may be made under subsection (5)(b) above on or after 1st July 1993.]
+
+(6) In this section—
+
+(a) “qualifying tariff receipts” means tariff receipts in relation to which the principal field is the chargeable field and which are attributable to, or to the provision of services or other business facilities in connection with, the use of any asset for extracting, transporting, initially treating or initially storing oil won otherwise than from the principal field; and
+
+(b) any reference to qualifying tariff receipts received from a user field is a reference to any of those receipts which are received from a participator in the user field in respect of the use of an asset for extracting, transporting, initially treating or initially storing oil won from that field or the provision of services or other business facilities in connection with that use;
+
+and for the purposes of this section and Schedule 3 to this Act, an oil field, which, by virtue of section 107 of the [^M4]Finance Act 1980 (transmedian fields), is deemed to include the sector mentioned in subsection (1)(a)(ii) of that section, shall be treated as two separate oil fields, one being that sector and the other being the rest of the field.
+
+(7) In relation to any user field which is not an oil field within the meaning of the principal Act,—
+
+(a) references to oil are references to any substance that would be oil within the meaning of that Act if the enactments mentioned in section 1(1) thereof extended to the user field; and
+
+(b) references to a participator are references to a person who is, or has rights, interests or obligations of, a licensee in respect of the user field under the law of a country outside the United Kingdom.
+
+(8) Section 111 of the [^M5]Finance Act 1981 (restriction of expenditure supplement) shall have effect with respect to chargeable periods ending after 1st July 1982 with the insertion, at the end of paragraph (c) of subsection (3), of the words
+
+> and
+>
+> (d) if any qualifying tariff receipts, within the meaning of section 9 of the Oil Taxation Act 1983, are received or receivable by the participator for that period, any amount by which those receipts are treated as reduced by virtue of that section shall be brought into account in that computation as an addition to the positive amounts referred to in section 2(3)(a) of the principal Act
+
+.
+
+(9) For the purposes of this section and Schedule 3 to this Act 1,100 cubic metres of oil consisting of gas at the temperature and pressure mentioned in section 1(4) of the principal Act shall be counted as equivalent to one metric tonne of oil other than gas.
+
+(10) In any case where there is in force a scheme which, for the purposes of section 108 of the [^M6]Finance Act 1980 (gas banking schemes) is either a gas banking scheme or an international gas banking scheme, then, whether or not an election is made under that section, in determining for the purposes of this section and Schedule 3 to this Act what oil is won from a particular user field, oil consisting of gas which is transferred to a user field pursuant to the scheme shall be treated as won from that field.
+
+### 10 Returns relating to tariff and disposal receipts.
+
+(1) A return made by a participator in an oil field under paragraph 2 of Schedule 2 to the principal Act shall contain the following particulars—
+
+(a) a statement of the amount or value and the source of any tariff receipts or disposal receipts of the participator which are attributable to that field for the chargeable period to which the return relates; and
+
+(b) a statement of the assets to which any such tariff receipts of disposal receipts are referrable; and
+
+(c) such other particulars as the Board may prescribe with respect to any such tariff receipts or disposal receipts.
+
+(2) In any case where,—
+
+(a) before the commencement of this Act, a participator in an oil field has made a return under paragraph 2 of Schedule 2 to the principal Act in respect of a chargeable period, and
+
+(b) if subsection (1) above had been in force at the time that the return was made, the return would have been required to contain the particulars referred to in paragraphs (a) to (c) of that subsection,
+
+the participator shall prepare and before 30th June 1984 deliver to the Board a supplementary return for that chargeable period identifying it and containing those particulars.
+
+(3) Paragraphs 2(4) and 3 of Schedule 2 to the principal Act shall apply in relation to a supplementary return under subsection (2) above with the substitution of a reference to that subsection for the reference in paragraph 3(1) to paragraph 2(1) of that Schedule.
+
+(4) With respect to chargeable periods ending after the passing of this Act, paragraph 5 of Schedule 2 to the principal Act (returns by the responsible person) shall be amended by inserting, after sub-paragraph (2), the following sub-paragraph:—
+
+> (2A) The reference in sub-paragraph (2)(d) above to particulars of or relating to the field includes a reference to particulars required for determining the amount by which any qualifying tariff receipts, within the meaning of section 9 of the Oil Taxation Act 1983, are to be treated as reduced by virtue of that section.
+
+(5) In the return under paragraph 5 of Schedule 2 to the principal Act for the chargeable period ending on 30th June 1984, the Board may require the responsible person to include particulars required for determining the amount by which any qualifying tariff receipts, within the meaning of section 9 above, are to be treated as reduced by virtue of that section for earlier chargeable periods.
+
+(6) The Schedule to the [^M7]Petroleum Revenue Tax Act 1980 shall be amended by inserting after sub-paragraph (2) of paragraph 2 the following sub-paragraph:—
+
+> (2A) The amount of any tariff or disposal receipts, within the meaning of the Oil Taxation Act 1983, shall be taken from the particulars included in the return referred to in sub-paragraph (2) above, and any amount by which any of those tariff receipts are to be treated as reduced under section 9 of that Act shall be determined accordingly.
+
+### 11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F25]
+
+### 12 Charge of receipts attributable to U.K. use of foreign field asset.
+
+(1) The provisions of Schedule 4 to this Act have effect for the purpose of bringing into charge to tax the amount or value of certain consideration (whether in the nature of income or capital) which is received or receivable after 30th June 1982 by a participator in a foreign field—
+
+(a) in respect of the United Kingdom use of a field asset; or
+
+(b) in respect of the provision, in connection with the United Kingdom use of a field asset, of services or other business facilities of whatever kind; or
+
+(c) in respect of the disposal of a field asset or an interest in such an asset where either the asset has already been in United Kingdom use or it is reasonable to expect that, after the disposal, the asset will be in United Kingdom use.
+
+(2) In this section and Schedule 4 to this Act—
+
+(a) “foreign field” means, subject to subsection (3) below, an area which is not under the jurisdiction of the government of the United Kingdom but which, by an order made by statutory instrument by the Secretary of State for the purposes of this Act, is specified as a foreign field; and
+
+(b) in relation to a foreign field, “participator” means a person who is, or has rights, interests or obligations of, a licensee in respect of the foreign field under the law of a country outside the United Kingdom.
+
+(3) For the purposes of this section and Schedule 4 to this Act, in the case of an oil field [[^F26]which is a taxable field and] which, by virtue of section 107 of the [^M8]Finance Act 1980 (transmedian fields) is deemed to include the sector mentioned in subsection (1)(a)(ii) of that section—
+
+(a) that sector shall be treated as a foreign field; and
+
+(b) the remainder of that field shall be treated as a separate oil field.
+
+[[^F27](3A) No order may be made under subsection (2)(a) above on or after 1st July 1993.]
+
+(4) In this section and Schedule 4 to this Act—
+
+(a) “field asset”, in relation to a foreign field, means an asset which—
+
+(i) is not a mobile asset, and
+
+(ii) is situated in the United Kingdom, the territorial sea thereof or a designated area, and
+
+(iii) subject to subsection (6) below, is, has been or is expected to be used in a way which, on the assumptions in subsection (5) below, would be use in connection with the foreign field; and
+
+(b) “United Kingdom use”, in relation to a field asset, means the use of the asset in connection with the exploration or exploitation of so much of the seabed and subsoil and their natural resources as is situated in the territorial sea of the United Kingdom or a designated area.
+
+(5) The assumptions referred to in subsection (4)(a) above are—
+
+(a) that every foreign field is situated in a designated area and is an oil field within the meaning of Part I of the principal Act; and
+
+(b) that references in Part I of the principal Act to oil are references to any substance that would be oil if the enactments mentioned in section 1(1) thereof extended to the foreign field.
+
+(6) For the purposes of this section and Schedule 4 to this Act an asset which falls within sub-paragraphs (i) and (ii) of paragraph (a) of subsection (4) above but does not fall within sub-paragraph (iii) of that paragraph is nevertheless a field asset if—
+
+(a) its use gives rise or is expected to give rise to consideration which, assuming the asset to be a field asset, would fall within subsection (1) above; and
+
+(b) its useful life continues, or is expected to continue, for more than six months after the time at which the consideration referred to in paragraph (a) above is first received or receivable; and
+
+(c) it is, or is expected to be, used in association with another asset which is a field asset.
+
+(7) For the purposes of subsection (6)(c) above, an asset shall not be regarded as used in association with a field asset unless it is so used in a way which constitutes use in connection with an oil field or would constitute such use but for section 10(2) of the principal Act (exempt gas).
+
+## Supplementary
+
+### [^F28]13 Transitional provisions.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F29]14 Re-opening of decisions for periods before the passing of this Act.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15 Short title, interpretation, construction and repeals.
+
+(1) This Act may be cited as the Oil Taxation Act 1983.
+
+(2) In this Act “the principal Act” means the [^M9]Oil Taxation Act 1975.
+
+(3) In this Act—
+
+- “chargeable field” shall be construed in accordance with section 8(5) above;
+- “disposal receipts” shall be construed in accordance with section 7(2) above;
+- “qualifying asset” shall be construed in accordance with [[^F30]section 8] above; and
+- “tariff receipts” shall be construed, subject to Schedule 5 to this Act, in accordance with section 6(2) above.
+
+(4) [[^F31]Section 1122 of the Corporation Tax Act 2010] (connected persons) applies for the purposes of this Act.
+
+(5) This Act shall be construed as one with Part I of the principal Act.
+
+(6) The enactments specified in Schedule 6 to this Act are hereby repealed to the extent specified in the third column of that Schedule.
+
+## SCHEDULE 1 — Allowable Expenditure
+
+*Section 3.*
+
+### Part I — Extensions of Allowable Expenditure for Assets Generating Receipts
+
+#### Associated assets
+
+**1** (1) This paragraph applies where, after 30th June 1982, a participator in an oil field (in this paragraph referred to as “the principal field”) incurs or incurred expenditure in acquiring, bringing into existence or enhancing the value of an asset—
+
+(a) which is not a mobile asset and which, apart from this paragraph, does not fall within subsection (1)(a) of section 3 of this Act; and
+
+(b) the use of which gives rise, or is expected to give rise, to receipts which, assuming the asset to be a qualifying asset, would be tariff receipts; and
+
+(c) the useful life of which continues, or is expected to continue, after the end of the first chargeable period in which the receipts referred to in paragraph (b) above arise; and
+
+(d) which is, or is expected to be, used in association with another asset which itself is, has been, or is expected to be, used in connection with the principal field;
+
+and, where this paragraph applies, the asset on which the expenditure is or was incurred is in the following provisions of this paragraph referred to as “the associated asset”.
+
+(2) Subject to section 4(2) of this Act, for the purposes of section 3 of this Act, Part II below and section 3 of the principal Act, the use of the associated asset to give rise to the receipts referred to in sub-paragraph (1)(b) above shall be assumed to be use in connection with the principal field.
+
+(3) For the purposes of this paragraph, an asset shall not be regarded as used in association with another asset which is, has been or is expected to be used in connection with the principal field unless it is used in a way—
+
+(a) which constitutes use in connection with another oil field; or
+
+(b) which would constitute such use but for section 10(2) of the principal Act (exempt gas); or
+
+(c) which, on the assumptions in sub-paragraph (4) below, would constitute use in connection with an external field;
+
+and for the purposes of paragraph (c) above, an external field is an area which is not under the jurisdiction of the government of the United Kingdom.
+
+(4) The assumptions referred to in sub-paragraph (3)(c) above are—
+
+(a) that every external field is situated in a designated area and is an oil field within the meaning of Part I of the principal Act; and
+
+(b) that references in Part I of the principal Act to oil are references to any substance that would be oil if the enactments mentioned in section 1(1) thereof extended to the external field; [^F32]. . .
+
+[^F32]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Restriction of relief for remote associated assets
+
+**2** (1) The provisions of this paragraph apply where some part of the associated asset is situated more than 100 metres from the nearest part of another asset—
+
+(a) in association with which the associated asset is or is expected to be used; and
+
+(b) which is, has been or is expected to be used in a way which, otherwise than by virtue of paragraph 1 above, constitutes use in connection with the principal field;
+
+and sub-paragraphs (3) and (4) of paragraph 1 above have effect for the purposes of this sub-paragraph as they have effect for the purposes of that paragraph.
+
+(2) In sub-paragraph (1) above,—
+
+(a) “the associated asset” has the meaning assigned to it by sub-paragraph (1) of paragraph 1 above;
+
+(b) “the principal field” has the same meaning as in that paragraph;
+
+and where the associated asset falls within sub-paragraph (1) above it is in the following provisions of this paragraph referred to as “the remote asset”.
+
+(3) For the purpose of determining, in accordance with subsection (8) of section 2 of the principal Act, the amount to be debited or credited to a participator for a chargeable period in respect of expenditure, where any expenditure which is or was incurred by the participator in respect of the remote asset—
+
+(a) is expenditure to which section 3 of this Act or section 3 of the principal Act applies by virtue only of paragraph 1 above, and
+
+(b) has been allowed on a claim under Schedule 5 or Schedule 6 to the principal Act before the Board have made an assessment to tax or a determination on or in relation to the participator for a chargeable period earlier than that referred to in sub-paragraph (5) below,
+
+the expenditure shall be treated for the purposes of paragraph (b) or paragraph (c) of subsection (9) of the said section 2 as having been allowed immediately before the Board made an assessment to tax or a determination on or in relation to the participator for the period specified in sub-paragraph (5) below and not at any earlier time.
+
+(4) In determining under subsection (4) of section 111 of the [^M10]Finance Act 1981 (restriction of expenditure supplement) whether, if account were to be taken of certain expenditure, a net profit would not have accrued to a participator in a chargeable period, expenditure which—
+
+(a) is or was incurred by the participator in respect of the remote asset, and
+
+(b) is expenditure to which section 3 of this Act or section 3 of the principal Act applies by virtue only of paragraph 1 above,
+
+shall be disregarded unless the chargeable period in question is, or is later than, the period specified in sub-paragraph (5) below.
+
+(5) The chargeable period referred to in sub-paragraphs (3) and (4) above is the first in which either—
+
+(a) by virtue of section 6(1) of this Act, the positive amounts for the purposes of section 2 of the principal Act include (after taking account of any reduction under section 9 of this Act) an amount of tariff receipts derived, in whole or in part, from the remote asset; or
+
+(b) by virtue of section 7(1) of this Act, the positive amounts for the purposes of section 2 of the principal Act include an amount of disposal receipts in respect of the disposal of, or of an interest in, that asset.
+
+(6) For any chargeable period in which expenditure incurred by a participator in respect of the remote asset falls to be brought into account under paragraph (b) or paragraph (c) of subsection (9) of section 2 of the principal Act the amount of that expenditure which is to be so brought into account shall not exceed the aggregate of—
+
+(a) the amount of the tariff receipts (if any) which are derived in whole or in part, from the remote asset, and
+
+(b) the amount of the disposal receipts (if any) in respect of the disposal of, or of an interest in, the remote asset,
+
+which (after taking account of any reduction under section 9 of this Act) are included in the positive amounts for that chargeable period for the purposes of that section.
+
+(7) In any case where—
+
+(a) for any chargeable period the positive amounts for the purposes of section 2 of this Act include an amount (in this sub-paragraph referred to as “the reduced amount”) which represents an amount of qualifying tariff receipts which were received from one user field and which have been reduced by virtue of section 9 of this Act, and
+
+(b) those qualifying tariff receipts include tariff receipts which are derived, in whole or in part, from the remote asset as well as other tariff receipts,
+
+the portion of the reduced amount which is to be regarded for the purpose of the preceding provisions of this paragraph as tariff receipts derived, in whole or in part, from the remote asset shall bear to the whole of the reduced amount the same proportion as, before the reduction, the tariff receipts so derived bore to the whole of the qualifying tariff receipts in question.
+
+(8) For the purpose of the preceding provisions of this paragraph a tariff receipt is derived, in whole or in part, from the remote asset if it consists of or includes consideration in respect of—
+
+(a) the use of the remote asset; or
+
+(b) the provision of services or other business facilities of whatever kind in connection with the use of that asset;
+
+and subsection (6) of section 9 of this Act shall have effect for the purposes of sub-paragraph (7) above as it has effect for the purposes of that section.
+
+#### Assets no longer in use for the principal field
+
+**3** (1) This paragraph applies where—
+
+(a) a participator in an oil field (in this paragraph referred to as “the principal field”) incurs expenditure in enhancing the value of [[^F33]or otherwise in connection with] an asset which is not a mobile asset; and
+
+(b) before the expenditure was incurred the asset had already been used or was expected to be used in connection with the principal field (and, accordingly, is a qualifying asset); and
+
+(c) at the end of the claim period in which the expenditure is incurred, the asset is no longer being, and is not expected to be, used in connection with the principal field; and
+
+(d) [[^F34]either the use of the asset] gives rise or is expected to give rise to tariff receipts or [[^F35]the expenditure] is incurred with a view to the subsequent disposal of the asset or of an interest in it.
+
+(2) For the purposes of section 3 of this Act, Part II below and section 3 of the principal Act,—
+
+(a) the use of the asset referred to in sub-paragraph (1) above to give rise to tariff receipts shall be assumed to be use in connection with the principal field; and
+
+(b) if the subsequent disposal of, or of an interest in, the asset gives or is expected to give rise to disposal receipts, the asset shall be assumed to be being used in connection with the principal field throughout the claim period in which the expenditure is incurred.
+
+[[^F36](2A) But where—
+
+(a) the expenditure would (apart from this sub-paragraph) be regarded as incurred with a view to the subsequent disposal of the asset or of an interest in it, and
+
+(b) the asset has, at any time in the period of 6 years ending with the date on which the expenditure was incurred, been used in a way that gives rise to tax-exempt tariffing receipts,
+
+the expenditure shall not be regarded for the purposes of this paragraph as expenditure incurred with a view to the subsequent disposal of the asset or of an interest in it, to the extent that the amount of the expenditure falls to be reduced in accordance with sub-paragraph (2B) below.
+
+(2B) The reduction is to be made by applying section 7A of this Act in relation to the expenditure as it applies in relation to disposal receipts in respect of a disposal, but with the substitution—
+
+(a) for references to the disponor, of references to the participator incurring the expenditure (“the relevant participator”),
+
+(b) for references to the amount or value (apart from that section) of any disposal receipts of the disponor in respect of the disposal, of references to the amount which would, apart from sub-paragraph (2A) above, be the amount of the expenditure incurred by the relevant participator with a view to the subsequent disposal of the asset or of an interest in it,
+
+(c) for references to the interest disposed of, of references to the asset or interest whose subsequent disposal gives or is expected to give rise to disposal receipts,
+
+(d) for references to the date of the disposal, of references to the date on which the expenditure was incurred,
+
+and taking the reference in subsection (6)(b) of that section to a reduction made by virtue of that section as a reference to a reduction made by virtue of that section for the purposes of section 7(9) of this Act.]
+
+(3) References in sub-paragraphs (1) and (2) above to use in connection with the principal field include references to use which would constitute use in connection with that field but for section 10(2) of the principal Act (exempt gas).
+
+### Part II — Special Rules as to Expenditure Allowable in Respect of Fixed Assets and Dedicated Mobile Assets
+
+#### Interpretation
+
+**4** In this Part of this Schedule—
+
+- “allowable expenditure” means expenditure which, subject to the provisions of this Part, is allowable as mentioned in subsection (4) of the principal section;
+- “the new asset” means the asset referred to in subsection (1) of the principal section which was acquired or brought into existence, or the value of which was enhanced, as a result of the incurring of the allowable expenditure;
+- “the principal section” means section 3 of this Act;
+- “the purchaser” means the person referred to in subsection (1) of the principal section as the person incurring the allowable expenditure; and
+- “the relevant claim period”, in relation to any allowable expenditure, has the same meaning as, by virtue of subsection (5) of the principal section, it has for the purposes of subsection (1) of that section.
+
+#### Assets acquired etc. for two or more fields
+
+**5** (1) Subject to sub-paragraphs (2) and (3) below, where the purchaser is a participator in two or more oil fields (in this paragraph referred to as “the purchaser’s fields”) and, at the end of the relevant claim period, it appears that the new asset is or is expected to be used in connection with two or more of those fields then, unless it seems just and reasonable to attribute all of the allowable expenditure relevant to the new asset to only one of those fields, that expenditure shall be apportioned, in such manner as may be just and reasonable, between those of the purchaser’s fields in connection with which the new asset is or is expected to be used.
+
+(2) If, in a case falling within sub-paragraph (1) above, the use of the new asset in connection with one of the purchaser’s fields (in this paragraph referred to as “the paying field”) gives, or is at the end of the relevant claim period expected to give, rise to receipts which, by virtue of section 8 of this Act, are to be attributed to another of those fields, as being the chargeable field, so much (if any) of the allowable expenditure as, apart from this sub-paragraph, would be apportioned to the paying field and as is reasonably attributable to the use of the new asset which gives rise to the receipts shall be apportioned to the chargeable field.
+
+(3) If, in a case falling within sub-paragraph (1) above, it appears, at the end of the relevant claim period, that the new asset also is or is expected to be used otherwise than in connection with a field in which the purchaser is a participator, then—
+
+(a) in the apportionment made by virtue of sub-paragraph (1) above, such a percentage of the allowable expenditure as is just and reasonable shall be apportioned to that use; and
+
+(b) for the purpose of any claim for an allowance in respect of any of the allowable expenditure, the percentage of that expenditure which under paragraph (a) above was apportioned to that use shall be added to the percentage of that expenditure which, under sub-paragraph (1) above, was apportioned to that one of the purchaser’s fields which, in relation to the new asset, is the chargeable field.
+
+(4) If, in relation to the allowable expenditure, the relevant claim periods of the purchaser’s fields are not the same, references in the preceding provisions of this paragraph to the end of the relevant claim period are references to the end of that relevant claim period which ends earlier or earliest.
+
+**6** (1) In any case where—
+
+(a) the new asset is or is expected to be used in connection with two or more oil fields, and
+
+(b) no apportionment of the allowable expenditure falls to be made by virtue of paragraph 5 above,
+
+the allowable expenditure shall be treated as wholly attributable to the use of the asset in connection with that field in which the purchaser is a participator or, if there is more than one such field, that one of them in relation to which a development decision is or was first made.
+
+(2) Subsection (7) of section 5A of the principal Act (time when development decision is made) shall have effect for the purposes of sub-paragraph (1) above as it has effect for the purposes of subsection (1)(c) of that section.
+
+[[^F37](3) Subsection (3A) of section 8 of this Act applies for the purposes of sub-paragraph (1) above as it applies for the purposes of subsection (3)(*c*) of that section.]
+
+#### Brought-in assets
+
+**7** (1) The provisions of this paragraph apply where—
+
+(a) the allowable expenditure is (in whole or in part) referable to the use of the new asset in connection with an oil field which is not an exempt field; and
+
+(b) the allowable expenditure was incurred at a time before the new asset was first used in connection with that oil field, discounting, in the case of a mobile asset, any use in a claim period when it was not dedicated to that oil field; and
+
+(c) during the period (in this paragraph referred to as “the initial period”) between the time when the new asset was acquired or brought into existence and that first use, the new asset was used
+
+[[^F38](i)] otherwise than in connection with [[^F39]a taxable field], [[^F40]or]
+
+[[^F41](ii) in connection with a taxable field in a way that gives rise to tax-exempt tariffing receipts,]
+
+by the purchaser or a person connected with him.
+
+(2) In any case where—
+
+(a) at some time during the initial period the new asset was used in a way which, disregarding section 10(2) of the principal Act (exempt gas), would be use in connection with an exempt field, and
+
+(b) at the beginning of the initial period it was not reasonable to expect that the asset would be used in connection with an oil field,
+
+the amount which, apart from this sub-paragraph, would be the amount of the allowable expenditure in respect of the expected use referred to in sub-paragraph (1)(a) above, shall be reduced to nil.
+
+(3) In determining whether the condition in sub-paragraph (2)(b) above is fulfilled, no account shall be taken of use which, by virtue only of subsection (3) or subsection (5) of section 4 of this Act, is treated as use in connection with an exempt field.
+
+(4) In a case where sub-paragraph (2) above does not apply, the amount which, apart from this sub-paragraph, would be the amount of the allowable expenditure shall be reduced by multiplying it by the fraction of which—
+
+(a) the numerator is a reasonable estimate of so much of the useful life of the asset as remains after the date on which it was first used as mentioned in sub-paragraph (1)(b) above; and
+
+(b) the denominator is the aggregate of that reasonable estimate and the initial period.
+
+(5) In this paragraph an “exempt field” means an oil field from which all the oil won is excluded oil, as defined in section 10(1) of the principal Act.
+
+#### Subsequent use of new asset otherwise than in connection with [[^F42]a taxable field]
+
+**8** (1) Subject to sub-paragraph (3) below,—
+
+(a) if at any time the new asset ceases to be used by the purchaser in a way which either constitutes use [[^F43]for a qualifying purpose] or would constitute such use but for section 10(2) of the principal Act (exempt gas), and
+
+(b) thereafter, the new asset is or is expected to be used otherwise than [[^F44]for a qualifying purpose] and is not disposed of in circumstances giving rise to disposal receipts,
+
+the amount which, apart from this paragraph, would be the amount of the allowable expenditure shall be taken to be reduced by multiplying it by the fraction specified in sub-paragraph (2) below.
+
+(2) The fraction referred to in sub-paragraph (1) above is that of which—
+
+(a) the numerator is a reasonable estimate of the period beginning when the purchaser first used the asset in connection with [[^F45]a taxable field] or, if it was earlier, when the asset first gave rise to tariff receipts of the purchaser and ending when the asset is or is expected to be first used as mentioned in paragraph (b) of sub-paragraph (1) above after the cessation referred to in paragraph (a) of that sub-paragraph; and
+
+(b) the denominator is a reasonable estimate of the useful life of the asset or, where sub-paragraph (4) of paragraph 7 above applies, of so much of that useful life as falls after the date on which the asset was first used as mentioned in sub-paragraph (1)(a) of that paragraph.
+
+[[^F46](2A) In sub-paragraph (1) a reference to use for a qualifying purpose is a reference to—
+
+(a) use in connection with a taxable field, and
+
+(b) other use in—
+
+(i) the United Kingdom,
+
+(ii) the territorial sea of the United Kingdom, or
+
+(iii) a designated area,
+
+except use wholly or partly for an ineligible oil purpose.
+
+(2B) In this Act a reference to use of an asset for an ineligible oil purpose is a reference to—
+
+(a) use in connection with an oil field that is not a taxable field, and
+
+(b) use for any other purpose (apart from a purpose falling within section 3(1)(b) of the principal Act) of a separate trade consisting of activities falling within [[^F47]the definition of “oil-related activities” in section 274 of the Corporation Tax Act 2010].
+
+(2C) In sub-paragraphs (2A) and (2B) a reference to use in connection with a taxable field or other oil field includes use giving rise to receipts which, for the purposes of this Act, are tariff receipts.]
+
+(3) If and so long as an asset gives rise to
+
+[[^F48](a)] tariff receipts of the purchaser attributable to [[^F45]a taxable field], [[^F49]or]
+
+[[^F50](b) tax-exempt tariffing receipts which, if they were tariff receipts (and expenditure were or had been allowable accordingly), would be tariff receipts of the purchaser attributable to a taxable field,]
+
+the asset shall be treated, for the purposes of sub-paragraph (1) above, as if it were used by him in connection with [[^F45]a taxable field],
+
+(4) If, in any case where the amount of any expenditure falls to be reduced under sub-paragraph (1) above, so much of the expenditure as has been previously allowed on a claim for any claim period exceeds the reduced allowable expenditure, an amount equal to the excess shall be treated (otherwise than for the purposes of paragraph (b) of that sub-paragraph) as disposal receipts of the purchaser arising from the asset in the chargeable period in which the asset ceased to be used as mentioned in paragraph (a) of that sub-paragraph.
+
+(5) In the case of an asset which has been used in connection with two or more oil fields for which any of the purchaser’s allowable expenditure is or has been allowed or allowable, the chargeable period referred to in sub-paragraph (4) above shall be determined in relation to that one of those fields—
+
+(a) in connection with which the asset was last used by the purchaser; or
+
+(b) if it is later, in respect of which the asset last gave rise to tariff receipts of the purchaser; [[^F51]or
+
+(c) if it is later than paragraph (a) and (where otherwise applicable) paragraph (b) above, in respect of which the asset would have last given rise to tariff receipts of the purchaser had tax-exempt tariffing receipts of the purchaser been tariff receipts of his (and if expenditure were or had been allowable accordingly);]
+
+and the reference in that sub-paragraph to disposal receipts shall accordingly be construed as a reference to disposal receipts attributable to that field.
+
+(6) In any case where—
+
+(a) at a time before the new asset is brought into use by the purchaser in such a way as is mentioned in sub-paragraph (1)(a) above, it ceases to be expected to be used in such a way, and
+
+(b) thereafter the new asset is or is expected to be used otherwise than in connection with [[^F45]a taxable field] and is not disposed of in circumstances giving rise to disposal receipts,
+
+the amount which, apart from this paragraph, would be the amount of the allowable expenditure shall be taken to be reduced to nil.
+
+(7) In any case where the amount of any expenditure falls to be reduced to nil under sub-paragraph (6) above, an amount equal to so much of the expenditure as has been previously allowed on a claim for any claim period shall be treated (otherwise than for the purposes of paragraph (b) of that sub-paragraph) as disposal receipts of the purchaser arising from the asset in the chargeable period in which the asset ceased to be expected to be used in such a way as is mentioned in sub-paragraph (1)(a) above.
+
+#### Mobile assets becoming dedicated assets
+
+**9** (1) Subject to sub-paragraph (2) below, where any expenditure in connection with a mobile asset has been allowed or is allowable under section 4 of the principal Act and the asset becomes dedicated to an oil field, the expenditure which would otherwise be allowable under the principal section shall be reduced by so much of that expenditure as has been allowed or is allowable under the said section 4.
+
+(2) Sub-paragraph (1) above does not apply in any case where—
+
+(a) paragraph 7 above applies; and
+
+(b) sub-paragraph (4) of that paragraph applies to reduce the amount of expenditure which is allowable expenditure.
+
+## SCHEDULE 2 — Supplemental Provisions as to Receipts from Qualifying Assets
+
+*Sections 6 to 8.*
+
+### Interpretation
+
+**1** (1) Any reference in this Schedule to the use of an asset includes a reference to the provision, in connection with that use, of services or other business facilities of whatever kind.
+
+(2) Any reference in this Schedule to the disposal of an asset includes a reference to the disposal of an interest in it.
+
+### Consideration received by connected persons under avoidance schemes
+
+**2** (1) This paragraph applies if consideration in respect of the use or disposal of an asset which, in relation to a participator or two or more participators in an oil field, is a qualifying asset is received or receivable—
+
+(a) by a person in relation to whom the asset is not a qualifying asset but who is connected with the participator or, as the case may be, with each of them; and
+
+(b) under or in consequence of a scheme or arrangements the main purpose or one of the main purposes of which is the avoidance of petroleum revenue tax or corporation tax.
+
+(2) In relation to the participator or, as the case may be, each of the participators referred to in sub-paragraph (1) above, any reference in section 6 or section 7 of this Act or in the following provisions of this Schedule to consideration received or receivable by him in respect of the use or disposal of the asset referred to in that sub-paragraph includes, subject to sub-paragraph (3) below, a reference to the consideration referred to in sub-paragraph (1) above or, if there is more than one participator, such portion of that consideration as it is just and reasonable to apportion to the participator in question.
+
+(3) In any case where—
+
+(a) the tariff receipts or disposal receipts of a participator in respect of the use or disposal of a qualifying asset include consideration which is received or receivable from a person who is connected with the participator, and
+
+(b) consideration is received or receivable from a person who is not connected with the participator by a person who is so connected (whether the person referred to in paragraph (a) above or not), and
+
+(c) apart from this sub-paragraph, the consideration referred to in paragraph (b) above or (where there is more than one connected participator) a portion of that consideration would, by virtue of sub-paragraph (2) above, be included in the tariff receipts or disposal receipts of the participator which are referable to the use or disposal of the qualifying asset concerned,
+
+only so much of the consideration or, as the case may be, of the portion of it referred to in paragraph (b) above as exceeds the consideration referred to in paragraph (a) above shall be included (by virtue of sub-paragraph (2) above) in the tariff receipts or, as the case may be, the disposal receipts of the participator.
+
+### Apportionment of consideration in respect of use or disposal
+
+**3** In any case where—
+
+(a) consideration received or receivable by a participator in an oil field in respect of the use or disposal of a qualifying asset includes an element that is unquantified but which does not constitute a tariff receipt or disposal receipt of his, and
+
+(b) the consideration does not fall to be apportioned by virtue of section 6(4) or section 7(5) of this Act,
+
+the portion of the consideration which constitutes a tariff receipt or disposal receipt of the participator shall be determined in such a manner as is just and reasonable.
+
+### Cases where all the oil is disregarded under section 10 of the principal Act
+
+**4** (1) This paragraph applies in any case where, in computing under section 2 of the principal Act the gross profit or loss accruing to a participator in any chargeable period from the chargeable field, all the oil which, apart from section 10 of that Act (exempt gas), would be taken into account falls to be disregarded under subsection (1) of that section.
+
+(2) In any case where this paragraph applies, subsection (1) of section 8 of this Act shall have effect in relation to the participator as if—
+
+(a) in paragraph (a) the word “either” and the words “or is a mobile asset dedicated to that oil field” were omitted; and
+
+(b) in paragraph (b) for the words “is allowable, or has” there were substituted the words “would, apart from section 10(2) of the principal Act, be allowed or have”;
+
+and, in relation to the participator, tariff receipts and disposal receipts shall be construed accordingly.
+
+[[^F52](2A) In any case where this paragraph applies, paragraph (b) of subsection (1A) of section 8 of this Act shall have effect in relation to the participator as if—
+
+(a) for the words “does not” there were substituted “would not”; and
+
+(b) at the end there were added the words “even if section 10(2) of the principal Act were disregarded”]
+
+(3) Subsections (6) to (8) of section 7 of this Act shall not apply where the asset is a qualifying asset by reason only of sub-paragraph (2) above.
+
+### Acquisition otherwise than at arm’s length: limit on tariff and disposal receipts
+
+**5** (1) In any case where—
+
+(a) in a transaction to which paragraph 2 of Schedule 4 to the principal Act applies (restriction on allowable expenditure where asset acquired in a transaction not at arm’s length) a participator in [[^F53]a taxable field] makes a disposal of a qualifying asset, and
+
+(b) the disposal gives rise to what would, apart from this paragraph, be tariff receipts or disposal receipts of the participator for a chargeable period, and
+
+(c) those receipts are received from a person who is also a participator in [[^F53]a taxable field] (whether the same field or not), [[^F54]and
+
+[^F54]d the use of the asset will be wholly by that person in connection with a taxable field in which he is a participator (and accordingly, and in particular, there will be no use giving rise to tariff receipts)]
+
+[[^F55]the receipts referred to in paragraphs (b) and (c) above]shall not be regarded as tariff receipts or disposal receipts if and to the extent that their aggregate in the period beginning with the transaction and ending with the end of that chargeable period exceeds relevant expenditure.
+
+(2) In this paragraph “relevant expenditure” means expenditure (other than expenditure in respect of interest or any other pecuniary obligation incurred in obtaining a loan or any other form of credit) incurred by the participator referred to in sub-paragraph (1)(a) above or by another person in acquiring, bringing into existence, or enhancing the value of the asset in a transaction to which paragraph 2 of Schedule 4 to the principal Act does not apply (or, if there has been more than one such transaction, the later or latest of them).
+
+(3) In any case where—
+
+(a) in a transaction to which paragraph 2 of Schedule 4 to the principal Act applies, a participator in [[^F56]a taxable field] makes a disposal of a qualifying asset, and
+
+[[^F57](b) the disposal does not fall within sub-paragraph (1) above, and]
+
+(c) the disposal either gives rise to tariff receipts or disposal receipts of the participator for a chargeable period or is made for no consideration,
+
+the disposal shall be treated as giving rise to disposal receipts or tariff receipts (according to the nature of the disposal) equal to the open market consideration for the disposal and any actual receipts falling within paragraph (c) above shall be disregarded.
+
+(4) Without prejudice to paragraph 1(2) above, in this paragraph “disposal”, in relation to a qualifying asset, includes the hiring of it or any similar transaction by which the use of the asset gives rise, or might reasonably be expected to give rise, to receipts (whether in the nature of income or capital).
+
+(5) The reference in sub-paragraph (3) above to the open market consideration for a disposal is a reference to the consideration which might reasonably have been obtained for the disposal in question (whatever its nature) had it been made in a transaction to which paragraph 2 of Schedule 4 to the principal Act does not apply.
+
+### Transfer of interests in fields
+
+**6** In paragraph 19 of Schedule 17 to the [^M11]Finance Act 1980 (transfers of interests in oil fields: disposal of long-term assets) at the beginning there shall be inserted the word “Neither” and for the words “shall not” there shall be substituted “nor section 7 of the Oil Taxation Act 1983 shall”.
+
+### Insurance and compensation payments
+
+**7** Any payment by way of insurance or compensation in respect of the loss or destruction of an asset which, in relation to a participator in an oil field, is a qualifying asset, shall be brought into account for the purposes of section 7 of this Act and this Schedule as consideration in respect of a disposal of the asset taking place at the time the payment is received or receivable.
+
+### Dedicated mobile assets ceasing to be used in connection with participator’s oil field
+
+**8** (1) This paragraph applies in any case where—
+
+(a) a mobile asset which, in relation to a participator in an oil field, is a qualifying asset gives rise to receipts which, apart from the provisions of this paragraph, would be tariff receipts of the participator; and
+
+(b) the asset has ceased to be used in connection with any oil field whatsoever in which the participator or a person connected with him is a participator.
+
+(2) In any case where this paragraph applies, so much of what would, apart from this paragraph, be tariff receipts of the participator arising from the asset and which are neither—
+
+(a) received or receivable before the end of the chargeable period in which falls the second anniversary of the date on which the asset ceased to be used as mentioned in sub-paragraph (1)(b) above, nor
+
+(b) received or receivable after the end of that chargeable period in respect of the use of the asset before the end of that period,
+
+shall not form part of the tariff receipts of the participator for any chargeable period in which the asset is not used as mentioned in sub-paragraph (1)(b) above.
+
+### Disposal receipts in respect of brought-in assets
+
+**9** If paragraph 7(4) of Schedule 1 to this Act applies to reduce the allowable expenditure, within the meaning of Part II of that Schedule, in respect of an asset and any disposal receipt is received or receivable in respect of the asset, the amount which, apart from this paragraph, would be the amount of that receipt shall be taken to be reduced by multiplying it by the same fraction as, by virtue of the said paragraph 7(4), was applied to that allowable expenditure.
+
+### Disposal receipts: assets used for deballasting
+
+**10** In any case where—
+
+(a) section 4(2) of this Act applies to reduce the expenditure allowable as mentioned in section 3(4) of this Act in respect of an asset, and
+
+(b) any disposal receipt is received or receivable in respect of the asset,
+
+the amount which, apart from this paragraph, would be the amount of that receipt shall be taken to be reduced in the proportion in which the expenditure so allowable was reduced by virtue of section 4(2) of this Act.
+
+### Use by connected or associated person: avoidance devices
+
+**11** (1) This paragraph applies in any case where—
+
+(a) any consideration in respect of the use of an asset is received or receivable by a person (in this paragraph referred to as “the recipient”) in relation to whom the asset is not a qualifying asset; and
+
+(b) the asset is at any time used in connection with an oil field by a person (in this paragraph referred to as “the user”) who is connected or associated with the recipient and who is a participator in that or any other oil field; and
+
+(c) the consideration is so received or receivable under or in consequence of a scheme or arrangements the main purpose or one of the main purposes of which is the avoidance of petroleum revenue tax or corporation tax.
+
+(2) Subject to sub-paragraphs (5) and (6) below, the user shall be treated for the purposes of this Act and Part I [[^F58]of the principal Act and [[^F59]sections 299 to 301 of the Corporation Tax Act 2010]] as if—
+
+(a) any consideration arising from the use of the asset and received or receivable at any time by the recipient or a person connected or associated with him, other than consideration received or receivable from the user himself, had been received or receivable at that time by the user; and
+
+(b) such proportion of any expenditure incurred by the recipient at any time in connection with the asset as it is just and reasonable to apportion to the use which gives rise to the consideration had been incurred at that time by the user for the purpose for which it was in fact incurred by the recipient.
+
+(3) For the purposes of this paragraph, a participator in an oil field is associated with another person if the participator, by acting together with a person who is, or two or more persons each of whom is, a participator in that oil field or in any other relevant field, would be able to secure or exercise control of that other person, and for this purpose—
+
+(a) “control” shall be construed in accordance with [[^F60]sections 450 and 451 of the Corporation Tax Act 2010]; and
+
+(b) “relevant field” means an oil field in connection with which the asset referred to in sub-paragraph (1)(a) above has been, is, or is expected to be, used.
+
+(4) For the purposes of sub-paragraph (3) above—
+
+(a) a foreign field, within the meaning of section 12 of this Act, shall be treated as an oil field, and
+
+(b) an asset is used in connection with a relevant field which is a foreign field if it is used in a way which, on the assumptions set out in subsection (5) of that section, would be use in connection with the foreign field,
+
+and, in relation to a relevant field which is a foreign field, the reference in sub-paragraph (3) above to a participator shall be construed in accordance with section 12(2)(b) of this Act.
+
+(5) If, in relation to the recipient, there is more than one person who is the user, any consideration or expenditure falling within paragraph (a) or paragraph (b) of sub-paragraph (2) above shall be apportioned between those persons in such manner as is just and reasonable.
+
+(6) Sub-paragraph (2)(b) above does not apply if the asset is a mobile asset which is not dedicated to an oil field.
+
+### Purchase at place of extraction
+
+**12** (1) [[^F61]Subject to sub-paragraphs (4) to (6)] below, in any case where—
+
+(a) a participator in an oil field or any person connected with him purchases any oil, otherwise than in pursuance of such an agreement as is mentioned in paragraph 6A of Schedule 3 to the principal Act (transactions between participators), and takes delivery of that oil at the place of extraction, and
+
+(b) any of that oil is transported, initially treated or initially stored (or subjected to any two or more of those operations) by means of any asset which is a qualifying asset in relation to that field, and
+
+(c) when the oil is disposed of or relevantly appropriated by the participator or the person connected with him, the selling price of the oil exceeds the price paid for it on the purchase referred to in paragraph (a) above,
+
+the participator shall be treated for the purposes of this Act and Part I [[^F62]of the principal Act and [[^F63]sections 299 to 301 of the Corporation Tax Act 2010]] as having received an amount equal to that excess as tariff receipts which arise in the chargeable period in which the selling price falls to be determined and are attributable to the use of the asset for carrying out the operation or operations referred to in paragraph (b) above.
+
+(2) In this paragraph “selling price”, in relation to any oil, means the aggregate of the amounts determined in relation to that oil in accordance with [[^F64]paragraphs (a) to (cb)] of subsection (5) of section 2 of the principal Act; and for the purpose of the application of those paragraphs and of determining whether any oil falling within sub-paragraph (1) above is relevantly appropriated,—
+
+(a) a person who is connected with the participator and who purchased oil as mentioned in sub-paragraph (1)(a) above shall be deemed to be a participator; and
+
+(b) oil falling within sub-paragraph (1) above shall be treated for the purposes of section 2(5) of the principal Act and the definition of “relevantly appropriated” in section 12 of that Act as if it were oil won from the field referred to in paragraph (a) of that sub-paragraph.
+
+(3) A person who takes delivery of oil [[^F65]before it has been transported—
+
+(a) to the place at which it is first landed in the United Kingdom; or
+
+(b) to the place referred to in section 3(1)(f)(ii) of the principal Act]
+
+shall be treated for the purposes of sub-paragraph (1)(a) above as having taken delivery of the oil at the place of extraction.
+
+(4) Sub-paragraph (1) above does not apply to oil if, at a time before the participator’s selling price for that oil falls to be determined as mentioned in sub-paragraph (2) above, the oil is either—
+
+(a) stored in the field referred to in paragraphs (a) and (b) of sub-paragraph (1) above; or
+
+(b) used for the purpose of assisting the extraction of oil from that field.
+
+(5) Sub-paragraph (1) above does not apply to oil if, by virtue of [[^F66]2(5)(b) or (ca) of the principle oil Act (oil disposed of otherwise than in sales at arm’s length),] the market value of the oil is taken into account in calculating the gross profit and loss (if any) accruing to a participator from an oil field in any chargeable period.
+
+[[^F67](6) In any chargeable period ending on or after 30th June 2004, sub-paragraph (1) above does not apply to oil in a case where—
+
+(a) had the operation or operations to which the oil was subjected as mentioned in paragraph (b) of that sub-paragraph been carried out under a contract entered into on or after 9th April 2003, and
+
+(b) had an amount been received or receivable under the contract in that chargeable period by the participator,
+
+that amount would have been a tax-exempt tariffing receipt.]
+
+## SCHEDULE 3 — Tariff Receipts Allowance
+
+*Section 9.*
+
+### The participator’s share
+
+**1** (1) In this Schedule—
+
+- “the principal section” means section 9 of this Act;
+- “receipts from existing contracts” means qualifying tariff receipts under a contract or contracts made as mentioned in subsection (3) of the principal section;
+
+and other expressions have the same meaning as in the principal section.
+
+(2) In relation to a user field, any reference in the following provisions of this Schedule to the oil to which any qualifying tariff receipts which are received or receivable in a chargeable period relate is a reference to the oil won from that user field which, in that chargeable period, is extracted, transported, initially treated or initially stored (or subject to two or more of those operations) by means of the asset to which the qualifying tariff receipts are referable.
+
+**2** (1) Subject to paragraphs 3 and 6 below, where an amount of qualifying tariff receipts received or receivable by a participator in a chargeable period from a user field falls to be treated, for the purpose mentioned in subsection (1) of the principal section, as reduced in accordance with paragraph (a) or paragraph (b) of that subsection, the cash equivalent of his share of the tariff receipts allowance in respect of that user field for that period is the amount given, subject to sub-paragraph (2) below, by the formula:—
+
+£(AyB/C)
+
+where—
+
+- “A” is the amount of those qualifying tariff receipts;
+- “B” is the tariff receipts allowance in respect of that user field, expressed in metric tonnes; and
+- “C” is the amount, in metric tonnes, of the oil to which those qualifying tariff receipts relate.
+
+(2) If, apart from this sub-paragraph, the fraction B/C in the formula in sub-paragraph (1) above would exceed unity, it shall be treated as unity for the purposes of this Schedule.
+
+**[^F68]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Qualifying tariff receipts referable to different periods
+
+**4** (1) This paragraph applies if any qualifying tariff receipts which are received or receivable by a participator for a chargeable period from a user field are referable to the use of a qualifying asset for a period (in this paragraph and paragraph 5 below referred to as “the period of use”) which is not wholly comprised in that chargeable period.
+
+(2) If, apart from this sub-paragraph, the period of use would exceed ten years, it shall be treated for the purposes of the following provisions of this paragraph as ending immediately before the tenth anniversary of the first day of the period.
+
+(3) In a case where this paragraph applies, the qualifying tariff receipts referred to in sub-paragraph (1) above shall be treated for the purpose mentioned in subsection (1) of the principal section as reduced in accordance with paragraph 5 below and not in accordance with paragraph (a) or paragraph (b) of that subsection.
+
+(4) For the purpose of determining the amount of the reduction under paragraph 5 below,—
+
+(a) the qualifying tariff receipts shall be regarded as wholly received in the period of use; and
+
+(b) if the period of use is not wholly comprised in a chargeable period, a portion of those receipts shall be regarded as received in each chargeable period which, in whole or in part, is comprised in the period of use;
+
+and any chargeable period which, in whole or in part, is comprised in the period of use is in the following provisions of this paragraph and paragraph 5 below referred to as a “relevant chargeable period”.
+
+(5) For the relevant chargeable period or, as the case may be, for each of them, there shall be determined the amount of oil won from the user field in question which is expected to be qualifying oil for that period; and in this paragraph and paragraph 5 below “qualifying oil”, in relation to a chargeable period, means oil which in that period is extracted, transported, initially treated or initially stored by means of any asset or assets giving rise to the qualifying tariff receipts referred to in sub-paragraph (1) above.
+
+(6) In a case falling within paragraph (b) of sub-paragraph (4) above, the portion of the qualifying tariff receipts which is to be regarded as received in each of the relevant chargeable periods shall bear to each of those receipts the same proportion as the amount of the qualifying oil for that period bears to the total of the qualifying oil for all the relevant chargeable periods.
+
+(7) In any case where, apart from this sub-paragraph, it is not practicable to determine for the purpose of sub-paragraph (5) above how much of the oil won from a user field is for any period expected to be qualifying oil, such a determination shall be made on the assumption that any asset which gives rise to qualifying tariff receipts falling within that sub-paragraph will at all times be used to the full extent which, by reference to the receipts, is available for the extraction, transport, initial treatment or initial storage of oil won from the user field in question.
+
+**5** (1) For the purpose of calculating the reduction referred to in paragraph 4(3) above, there shall be determined, in accordance with paragraphs 2 and 3 above and sub-paragraphs (2) and (3) below, the amount which would be the cash equivalent of the participator’s share of the tariff receipts allowance in respect of the user field in question for the relevant chargeable period or, if there is more than one such period, for each of them.
+
+(2) For a relevant chargeable period, the determination referred to in sub-paragraph (1) above shall be made on the basis—
+
+(a) that “A” in the formula in paragraph 2 above is the amount of the qualifying tariff receipts determined for the period under sub-paragraph (6) of paragraph 4 above or, if that sub-paragraph does not apply, the whole of the qualifying tariff receipts referred to in sub-paragraph (1) of that paragraph; and
+
+(b) that “C” in the formula in paragraph 2 above is the amount of the qualifying oil for that period.
+
+(3) If, on the determination under sub-paragraph (1) above, the cash equivalent of the participator’s share of the tariff receipts allowance in respect of the user field in question would, apart from this sub-paragraph, exceed the qualifying tariff receipts for that period (as calculated under sub-paragraph (2) above) then, for the purposes of this paragraph, the amount of that cash equivalent shall be taken to be reduced to an amount equal to those qualifying tariff receipts.
+
+(4) The amount of the reduction referred to in paragraph 4(3) above shall be an amount equal to the cash equivalent of the participator’s share of the tariff receipts allowance in respect of the user field in question for the relevant chargeable period, as determined under this paragraph, or, if there is more than one relevant chargeable period, the aggregate of the cash equivalents as so determined for each of the relevant chargeable periods.
+
+**6** (1) In any case where—
+
+(a) there are normal qualifying tariff receipts from a user field for a chargeable period which, for the purpose of determining the amount of a reduction under paragraph 5 above in an amount of straddling qualifying tariff receipts from that field, was a relevant chargeable period as defined in paragraph 4(4) above, and
+
+(b) those normal qualifying tariff receipts relate to oil to which the straddling qualifying tariff receipts do not relate,
+
+the amount which, apart from this paragraph, would be the cash equivalent of the participator’s share of the tariff receipts allowance in respect of that user field for that chargeable period shall be varied in accordance with the following provisions of this paragraph.
+
+(2) In the first instance, the cash equivalent of the participator’s share of the tariff receipts allowance for the chargeable period in question shall be determined, in accordance with paragraphs 2 and 3 above, on the basis that—
+
+(a) there is to be added to the normal qualifying tariff receipts for that period that portion of the straddling qualifying tariff receipts which, in accordance with sub-paragraph (6) of paragraph 4 above, is to be regarded as received in that period or, if that sub-paragraph does not apply, the whole of those receipts; and
+
+(b) there is to be added to the oil referred to in sub-paragraph (1)(b) above the oil which, by reference to the straddling qualifying tariff receipts, is qualifying oil for that chargeable period for the purposes of paragraphs 4 and 5 above.
+
+(3) The cash equivalent of the participator’s share referred to in sub-paragraph (1) above shall be the amount produced by deducting from the cash equivalent of that share, as determined under sub-paragraph (2) above, the amount of the cash equivalent of his share for the period in question as determined under paragraph 5 above.
+
+(4) For the purposes of this paragraph, qualifying tariff receipts are “normal” if they fall to be treated as reduced in accordance with paragraph (a) or paragraph (b) of subsection (1) of the principal section and “straddling” if they fall to be treated as reduced in accordance with paragraph 5 above.
+
+## SCHEDULE 4 — Receipts Attributable to United Kingdom Use of Foreign Field Assets
+
+*Section 12.*
+
+### Interpretation
+
+**1** In this Schedule—
+
+(a) “the principal section” means section 12 of this Act;
+
+(b) “the relevant assumptions” means—
+
+(i) those specified in subsection (5) of the principal section; and
+
+(ii) the assumption that a participator in a foreign field is a participator within the meaning of Part I of the principal Act;
+
+(c) “United Kingdom field” means an oil field within the meaning of Part I of the principal Act.
+
+### Chargeable receipts
+
+**2** A participator in a foreign field is chargeable to tax in accordance with this Schedule in respect of considerations falling within subsection (1) of the principal section if, and only if—
+
+(a) the field asset which gives rise to that consideration is, in accordance with paragraph 3 below, a chargeable asset in relation to him; and
+
+(b) the consideration constitutes, in accordance with paragraph 4 below, a receipt for which he is accountable;
+
+and, where the conditions in paragraphs (a) and (b) above are fulfilled, the consideration is in this Schedule referred to as a chargeable receipt of the participator.
+
+**3** (1) Subject to sub-paragraph (2) below, a field asset is a chargeable asset in relation to a participator in a foreign field if, on the relevant assumptions, expenditure incurred by the participator in respect of the asset would be or would have been allowable for that foreign field—
+
+(a) under section 3 of this Act or section 4 of the principal Act, or
+
+(b) in the case of an asset the useful life of which was, at the time the expenditure was incurred, expected to exceed six months, under section 3 of the principal Act.
+
+(2) An asset which is a field asset by virtue of subsection (6) of the principal section is a chargeable asset in relation to that participator in that foreign field in relation to whom and to which the asset referred to in paragraph (c) of that subsection is a chargeable asset.
+
+**4** (1) Consideration falling within subsection (1) of the principal section constitutes a receipt for which a participator in a foreign field is accountable if, and only if,—
+
+(a) on the relevant assumptions, and
+
+(b) on the further assumption that the field asset which gives rise to the consideration is a qualifying asset,
+
+the consideration would constitute, for the purposes of this Act, a tariff receipt or disposal receipt of the participator attributable to the foreign field.
+
+(2) In applying section 7 of this Act to determine whether any consideration falling within subsection (1)(c) of the principal section would, on the assumptions in sub-paragraph (1) above, constitute a disposal receipt, the reference in section 7(4)(b) of this Act to tariff receipts of the participator shall be construed as a reference to consideration falling within paragraph (a) or paragraph (b) of subsection (1) of the principal section which, on those assumptions, would constitute a tariff receipt of his.
+
+**5** (1) Schedule 2 to this Act, except paragraphs 4 and 6 to 8, applies in relation to chargeable receipts on the relevant assumptions and also on the further assumptions—
+
+(a) that any reference in that Schedule to tariff receipts or disposal receipts includes a reference to chargeable receipts;
+
+(b) that, except in paragraphs 5 and 11(3), any reference in that Schedule to an oil field or a participator applies only to a foreign field or, as the case may be, a participator in a foreign field; and
+
+(c) that any reference in that Schedule to a qualifying asset is a reference to a field asset which, in accordance with paragraph 3 above, is a chargeable asset.
+
+(2) In Schedule 2 to this Act, as applied by sub-paragraph (1) above, any reference to any of the provisions specified in sub-paragraph (2) of paragraph 8 below shall be construed as a reference to that provision as it has effect by virtue of that sub-paragraph.
+
+(3) In its application by virtue of sub-paragraph (1) above, paragraph 2 of Schedule 2 to this Act shall have effect as if the reference in sub-paragraph (2) of that paragraph to section 6 or section 7 of this Act included a reference to the principal section.
+
+(4) Notwithstanding anything in paragraph (a) of sub-paragraph (1) above, paragraph 9 of Schedule 2 to this Act, in its application by virtue of that sub-paragraph, shall have effect as if the reference in that paragraph to any disposal receipt were a reference to any chargeable receipt falling within paragraph (c) of subsection (1) of the principal section.
+
+(5) In its application by virtue of sub-paragraph (1) above, paragraph 10 of Schedule 2 to this Act shall have effect as if,—
+
+(a) notwithstanding anything in paragraph (a) of that sub-paragraph, the reference in that paragraph to any disposal receipt were a reference to any chargeable receipt falling within paragraph (c) of subsection (1) of the principal section; and
+
+(b) in the application of paragraph 4 above for the purposes of paragraph 10 below, section 6(4)(b) of this Act were disregarded.
+
+(6) In its application by virtue of sub-paragraph (1) above, paragraph 11 of Schedule 2 to this Act shall have effect as if sub-paragraph (4) of that paragraph were omitted.
+
+**6** (1) Subject to sub-paragraph (2) below, the chargeable receipts of a participator in a foreign field are attributable to that field for which expenditure incurred by him in respect of the field asset concerned would be or would have been allowable as mentioned in paragraph 3(1) above; and if there is more than one such foreign field, then the receipts are attributable to that one of those fields in connection with which, on the relevant assumptions, the field asset would have been first used.
+
+(2) The foreign field to which are attributable chargeable receipts referable to an asset which is a field asset by virtue of subsection (6) of the principal section is that field to which are attributable chargeable receipts referable to the field asset referred to in paragraph (c) of that subsection.
+
+### The charge to tax
+
+**7** (1) In relation to a foreign field, every half year beginning on or after 1st July 1982 shall be taken to be a chargeable period.
+
+(2) In this paragraph “half year” has the same meaning as in section 1 of the principal Act.
+
+(3) Any reference in this Schedule to the chargeable period to which any chargeable receipts of a participator in a foreign field are attributable is,—
+
+(a) in the case of chargeable receipts falling within paragraph (c) of subsection (1) of the principal section, a reference to the chargeable period in which the disposal referred to in that paragraph occurs; and
+
+(b) in any other case, a reference to the chargeable period in which the receipts are received or receivable by him.
+
+**8** (1) For each chargeable period of a foreign field beginning with that in which a participator in that field has chargeable receipts, there shall be determined, subject to the following provisions of this Schedule but otherwise in accordance with section 2 of the principal Act, what is the assessable profit or allowable loss accruing to the participator from the foreign field on the basis that—
+
+(a) the positive amounts for the purposes of section 2 of the principal Act consist of any chargeable receipts of his attributable to that field for that period; and
+
+(b) the negative amounts for those purposes are any amounts referred to in paragraphs (b), (c) and (f) of subsection (9) of that section.
+
+(2) For the purpose of the determination referred to in sub-paragraph (1) above, the provisions of Part I of the principal Act and sections 3 and 4 of and Part II of Schedule 1 to this Act shall have effect—
+
+(a) on the relevant assumptions; and
+
+(b) on the further assumption that any reference in those provisions to an oil field or a participator applies only to a foreign field or, as the case may be, a participator in a foreign field.
+
+(3) Without prejudice to sub-paragraph (2) above, in computing the assessable profit or allowable loss accruing to a participator in a foreign field, section 9 of and Schedule 3 to this Act shall apply—
+
+(a) on the relevant assumptions; and
+
+(b) on the further assumption that any chargeable receipts of his, other than those falling within subsection (1)(c) of the principal section, are tariff receipts,
+
+(4) In any case where, apart from this sub-paragraph, the whole or any part of any consideration which constitutes a chargeable receipt of a participator in a foreign field would also fall to be treated, by virtue of paragraph 2 or paragraph 11 of Schedule 2 to this Act, as a tariff or disposal receipt of a participator in a United Kingdom field, it shall not be so treated.
+
+(5) In any case, where, apart from this sub-paragraph, the whole or any part of any consideration which constitutes a tariff or disposal receipt of a participator in a United Kingdom field would also fall to be treated, by virtue of paragraph 2 or paragraph 11 of Schedule 2 to this Act, as applied by paragraph 5(1) above, as a chargeable receipt of a participator in a foreign field, it shall not be so treated.
+
+**9** (1) Subject to sub-paragraph (2) below,—
+
+(a) the principal Act, and
+
+(b) the provisions of the [^M12]Taxes Management Act 1970 which are applied by paragraph 1 of Schedule 2 to the principal Act,
+
+shall have effect in relation to any assessable profit or allowable loss of a participator in a foreign field determined for a chargeable period under paragraph 8(1) above as if it were such an assessable profit or allowable loss as is referred to in section 1(2) of the principal Act.
+
+(2) No reduction shall be made by virtue of section 8 of the principal Act (oil allowance) in the assessable profit accruing to a participator in a foreign field for any chargeable period.
+
+### Expenditure relief
+
+**10** (1) For the purpose of the determination referred to in sub-paragraph (1) of paragraph 8 above, no expenditure shall be allowable, by virtue of paragraph (b) of that sub-paragraph, under section 3 of the principal Act or section 3 of this Act unless—
+
+(a) the expenditure relates to a field asset which is a chargeable asset which gives rise, or is expected to give rise, to chargeable receipts; and
+
+(b) the expenditure is incurred either for the purpose of enabling the asset to be used in a way which gives rise, or is expected to give rise, to chargeable receipts falling within paragraph (a) or paragraph (b) of subsection (1) of the principal section, or for the purpose of enhancing the value of the asset with a view to the subsequent disposal of it or of an interest in it.
+
+(2) Where expenditure falling within paragraph (a) of sub-paragraph (1) above is incurred partly for one or both of the purposes referred to in paragraph (b) of that sub-paragraph and partly for other purposes, only so much of that expenditure as it is just and reasonable to apportion to a purpose referred to in that paragraph shall be regarded as falling within those paragraphs.
+
+(3) References in the preceding provisions of this paragraph to the use of an asset in a way which gives rise, or is expected to give rise, to chargeable receipts include references to the provision, in connection with the use of that asset, of services or other business facilities of any kind which give rise, or are expected to give rise, to chargeable receipts.
+
+(4) To the extent only that expenditure falls within paragraphs (a) and (b) of sub-paragraph (1) above, the field asset to which the expenditure relates shall be regarded for the purposes of section 3 of the principal Act and section 3 of this Act as used in connection with the foreign field.
+
+**11** (1) In the following provisions of this Schedule expenditure which falls within paragraphs (a) and (b) of sub-paragraph (1) of paragraph 10 above is referred to as “qualifying expenditure”.
+
+(2) In relation to qualifying expenditure, references in section 3 of the principal Act to tariff receipts shall be construed as references to chargeable receipts falling within paragraph (a) or paragraph (b) of subsection (1) of the principal section.
+
+(3) If, on the relevant assumptions [^F69]. . ., expenditure which was incurred in relation to a field asset but which is not qualifying expenditure would have qualified for supplement as mentioned in subsection (5) of section 3 of the principal Act, then, in relation to qualifying expenditure which relates to that field asset, subsection (5A) of that section shall have effect with the omission of paragraph (a).
+
+[^F70]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) In relation to qualifying expenditure which is allowable expenditure within the meaning of Part II of Schedule 1 to this Act, in paragraph 8 of that Schedule—
+
+(a) any reference to disposal receipts shall be construed as a reference to chargeable receipts falling within subsection (1)(c) of the principal section; and
+
+(b) any reference to tariff receipts shall be construed as a reference to other descriptions of chargeable receipts.
+
+### Claims for expenditure relief
+
+**12** In relation to a claim for the allowance of any qualifying expenditure, and in relation to the foreign field in connection with which, by virtue of paragraph 10(4) above, the field asset concerned is to be regarded as used, the first claim period shall be the period ending on 30th June 1982 and each subsequent claim period shall be the period of six months from the end of the preceding claim period.
+
+### The responsible person
+
+**13** In relation to a foreign field, paragraph 4 of Schedule 2 to the principal Act shall have effect as if—
+
+(a) for sub-paragraphs (1) to (5) there were substituted the following sub-paragraph—
+
+> (1) For each oil field the Board may, by notice in writing given to him, appoint one of the participators in the field as the responsible person for that field, to perform in relation to the field, any functions conferred on the responsible person as such by this Part of this Act; and the participator who for the time being holds that appointment is in this Part of this Act referred to as “the responsible person”
+
+;
+
+(b) in sub-paragraphs (6) and (7) for any reference to a body corporate or partnership there were substituted a reference to a participator; and
+
+(c) sub-paragraph (8) (which varies the definition of “participator” in relation to a United Kingdom field) were omitted.
+
+### Management and collection
+
+**14** (1) In its application to tax chargeable only by virtue of the provisions of the principal section and this Schedule, Schedule 2 to the principal Act (in this paragraph referred to as “Schedule 2”) shall have effect as if—
+
+(a) any reference in that Schedule to an oil field or a participator were a reference only to a foreign field or, as the case may be, a participator in a foreign field, and
+
+(b) any reference in that Schedule to a chargeable period (within the meaning of Part I of the principal Act) were a reference only to a chargeable period within the meaning of this Schedule to which there are attributable any chargeable receipts of a participator in a foreign field,
+
+and subject to the modifications made in the following provisions of this paragraph.
+
+(2) Notwithstanding anything in sub-paragraph (2) of paragraph 1 of Schedule 2, sub-paragraph (1) above shall have effect in relation to those provisions of the [^M13]Taxes Management Act 1970 which are applied by that paragraph as it has effect in relation to Schedule 2 itself.
+
+(3) Paragraph 2 of Schedule 2 shall have effect as if for sub-paragraphs (2) and (3) there were substituted the following sub-paragraph—
+
+> (2) A return under this paragraph for a chargeable period shall contain the following particulars—
+>
+> (a) a statement of the amount or value and the source of any receipts which are, within the meaning of Schedule 4 to the Oil Taxation Act 1983, chargeable receipts of the participator attributable to the chargeable period to which the return relates; and
+>
+> (b) a statement of the assets giving rise to any such receipts; and
+>
+> (c) such other particulars as the Board may prescribe with respect to any such receipts
+
+;
+
+and accordingly subsections (1) to (3) of section 10 of this Act shall not apply in relation to a return made under that paragraph by virtue of this Schedule.
+
+(4) Paragraph 5 of Schedule 2 shall have effect as if for sub-paragraphs (2) and (2A) there were substituted the following sub-paragraph—
+
+> (2) A return under this paragraph shall contain such particulars of or relating to the oil field as the Board may require for the purpose of determining the amount by which any chargeable receipts, within the meaning of Schedule 4 to the Oil Taxation Act 1983, are to be treated as reduced by virtue of section 9 of that Act, as applied by paragraph 8(3) of that Schedule.
+
+(5) Paragraph 7(1) of Schedule 2 shall have effect with the omission of the words “or to oil won therefrom”, in both places where they occur.
+
+(6) Paragraph 14 of Schedule 2 shall have effect as if for sub-paragraphs (i) and (ii) of paragraph (b) of sub-paragraph (3) there were substituted the following sub-paragraphs—
+
+> (i) the aggregate of the receipts as stated in the participator’s return in pursuance of sub-paragraph (2)(a) of that paragraph; and
+>
+> (ii) the aggregate of the corresponding receipts as included in the assessment
+
+;
+
+and with the omission of sub-paragraphs (4) to (7).
+
+### Payment on account
+
+**15** In its application to tax chargeable only as mentioned in paragraph 14(1) above, paragraph 2 of the Schedule to the [^M14]Petroleum Revenue Tax Act 1980 shall have effect as if, in place of the sub-paragraph (2A) set out in section 10(6) of this Act, there were substituted the following sub-paragraph—
+
+> (2A) The amount of any chargeable receipts, within the meaning of Schedule 4 to the Oil Taxation Act 1983, shall be taken from the particulars included in the return referred to in sub-paragraph (2) above, and any amount by which any of those receipts are to be treated as reduced under section 9 of that Act, as applied by paragraph 8(3) of that Schedule, shall be determined accordingly.
+
+### Income and corporation taxes
+
+**16** (1) Section 11 of this Act shall have effect as if—
+
+(a) any reference therein to an oil field included a reference to a foreign field; and
+
+(b) any reference therein to a participator were to be construed, in relation to a foreign field, in accordance with subsection (2)(b) of the principal section; and
+
+(c) any reference therein to a tariff receipt included a reference to a chargeable receipt consisting of consideration received or receivable as mentioned in paragraph (a) or paragraph (b) of subsection (1) of the principal section.
+
+(2) Paragraphs (a) and (b) of sub-paragraph (1) above apply in relation to paragraph 11(3) of Schedule 2 to this Act in so far as that paragraph has effect for the purposes of section 11 of this Act by virtue of subsection (4) thereof.
+
+## [^F71]SCHEDULE 5 — Transitional Provisions
+
+*Section 13.*
+
+### [^F71] Interpretation
+
+**[^F71]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F71] Review for transitional claim period
+
+**[^F71]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F71] No further reviews after the transitional claim period
+
+**[^F71]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F71] Assets giving rise to tariff receipts
+
+**[^F71]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F71] Re-opening past claim periods and chargeable periods
+
+**[^F71]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F71] Expenditure on associated assets
+
+**[^F71]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F71] Other claims for past expenditure
+
+**[^F71]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 6 — Repeals
+
+*Section 15(6).*
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1975 c. 22. | The Oil Taxation Act 1975. | In Schedule 4, in paragraph 2(1), the words from “by another person” to “that asset” and paragraph 5. |
+| 1980 c. 48. | The Finance Act 1980. | In section 107, subsection (5) and in subsection (6), the words “and (5)”. |
+
+---
+
+[^X1]: General amendments to Tax Acts, Income Tax Acts, and/or Corporation Tax Acts made by legislation after 1.2.1991 are noted against Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1) but not against each Act
+[^F1]: Words in s. 3(4) substituted (with effect in accordance with s. 285(6)(b) of the commencing Act) by Finance Act 2004 (c. 12), Sch. 37 para. 2(2) (with Sch. 37 Pt. 2)
+[^M1]: 1980 c. 48.
+[^F2]: S. 3A inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by Finance Act 2004 (c. 12), Sch. 37 para. 3 (with Sch. 37 Pt. 2)
+[^F3]: S. 4(6)(7) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by Finance Act 2004 (c. 12), Sch. 37 para. 4(2) (with Sch. 37 Pt. 2)
+[^F4]: Words in s. 6(2) inserted (22.7.2004) by Finance Act 2004 (c. 12), s. 285(2)
+[^F5]: Word in s. 6(4)(b) inserted (with effect in accordance with Sch. 41 para. 4 of the commencing Act) by Finance Act 2009 (c. 10), Sch. 41 para. 2(2)(a)
+[^F6]: S. 6(4)(c) inserted (with effect in accordance with Sch. 41 para. 4 of the commencing Act) by Finance Act 2009 (c. 10), Sch. 41 para. 2(2)(b)
+[^F7]: S. 6(4A)(4B) inserted (with effect in accordance with Sch. 41 para. 4 of the commencing Act) by Finance Act 2009 (c. 10), Sch. 41 para. 2(3)
+[^F8]: Words in s. 6(4A)(b) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 1 para. 181 (with Sch. 2)
+[^F9]: Ss. 6A, 6B inserted (22.7.2004) by Finance Act 2004 (c. 12), s. 285(3)
+[^F10]: S. 6A(4)(c) and preceding word inserted (1.7.2007 retrospective) by Finance Act 2007 (c. 11), s. 103(2)(4)
+[^F11]: Words in s. 6A(5) inserted (1.7.2007 retrospective) by Finance Act 2007 (c. 11), s. 103(3)(4)
+[^M2]: 1980 c. 48.
+[^F12]: S. 7(4)(c) and word inserted (with effect in accordance with s. 285(6)(a) of the commencing Act) by Finance Act 2004 (c. 12), Sch. 37 para. 5(2)(a) (with Sch. 37 Pt. 2)
+[^F13]: Word in s. 7(4) substituted (with effect in accordance with s. 285(6)(a) of the commencing Act) by Finance Act 2004 (c. 12), Sch. 37 para. 5(2)(b) (with Sch. 37 Pt. 2)
+[^M3]: 1981 c. 35.
+[^F14]: S. 7(9) inserted (with effect in accordance with s. 285(6)(a) of the commencing Act) by Finance Act 2004 (c. 12), Sch. 37 para. 5(3) (with Sch. 37 Pt. 2)
+[^F15]: S. 7A inserted (with effect in accordance with s. 285(6)(a) of the commencing Act) by Finance Act 2004 (c. 12), Sch. 37 para. 5(4) (with Sch. 37 Pt. 2)
+[^F16]: Words inserted by Finance Act 1985 (c. 54), s. 92(1)
+[^F17]: S. 8(1A) inserted by Finance Act 1985 (c. 54), s. 92(2)
+[^F18]: Words inserted by Finance Act 1986 (c. 41), s. 110(2)
+[^F19]: S. 8(3A) inserted by Finance Act 1986 (c. 41), s. 110(3)
+[^F20]: Words in s. 9(2) substituted (21.7.2009) by Finance Act 2009 (c. 10), Sch. 45 para. 2(3)(a)
+[^F21]: S. 9(3) omitted (21.7.2009) by virtue of Finance Act 2009 (c. 10), Sch. 45 para. 2(2)
+[^F22]: Words in s. 9(4)(b) substituted (21.7.2009) by Finance Act 2009 (c. 10), Sch. 45 para. 2(3)(b)
+[^F23]: Words in s. 9(5)(a) substituted (21.7.2008) by Finance Act 2008 (c. 9), Sch. 33 para. 4
+[^F24]: S. 9(5A) inserted (27.7.1993) by 1993 c. 34, s. 193(1)
+[^M4]: 1980 c. 48.
+[^M5]: 1981 c. 35.
+[^M6]: 1980 c. 48.
+[^M7]: 1980 c. 1.
+[^F25]: S. 11 repealed by Income and Corporation Taxes Act 1988 (c. 1), s. 844, Sch. 31
+[^F26]: Words in s. 12(3) inserted (27.7.1993) by 1993 c. 34, s. 193(4)
+[^M8]: 1980 c. 48.
+[^F27]: S. 12(3A) inserted (27.7.1993) by 1993 c. 34, s. 193(5)
+[^F28]: S. 13 omitted (21.7.2009) by virtue of Finance Act 2009 (c. 10), Sch. 45 para. 2(4)
+[^F29]: S. 14 omitted (21.7.2009) by virtue of Finance Act 2009 (c. 10), Sch. 45 para. 2(4)
+[^M9]: 1975 c. 22.
+[^F30]: Words substituted by Finance Act 1985 (c. 54), s. 92(3)
+[^F31]: Words in s. 15(4) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 1 para. 182 (with Sch. 2)
+[^F32]: Sch. 1 para. 1(4)(c) and the word “and” immediately preceding it repealed (16.7.1992 with effect in accordance with s. 74(5) of the repealing Act) by Finance (No. 2) Act 1992 (c. 48), ss. 74(5), 82, Sch. 15 para. 6, Sch. 18 Pt.VIII.
+[^M10]: 1981 c. 35.
+[^F33]: Words inserted by Finance Act 1988 (c. 39), s. 139(1)(*a*)
+[^F34]: Words substituted by Finance Act 1988 (c. 39), s. 139(1)(*b*)
+[^F35]: Words inserted by Finance Act 1988 (c. 39), s. 139(1)(*b*)
+[^F36]: Sch. 1 para. 3(2A)(2B) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by Finance Act 2004 (c. 12), Sch. 37 para. 6(2) (with Sch. 37 Pt. 2)
+[^F37]: Sch. 1 para. 6(3) added by Finance Act 1986 (c. 41), s. 110(4)
+[^F38]: Word in Sch. 1 para. 7(1)(c) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by Finance Act 2004 (c. 12), Sch. 37 para. 7(2)(a) (with Sch. 37 Pt. 2)
+[^F39]: Words in Sch. 1 para. 7(1)(c) substitiuted (27.7.1993) by 1993 c. 34, s. 190(3)
+[^F40]: Word in Sch. 1 para. 7(1)(c) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by Finance Act 2004 (c. 12), Sch. 37 para. 7(2)(b) (with Sch. 37 Pt. 2)
+[^F41]: Sch. 1 para. 7(1)(c)(ii) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by Finance Act 2004 (c. 12), Sch. 37 para. 7(2)(c) (with Sch. 37 Pt. 2)
+[^F42]: Words in Sch. 1 para. 8 heading substituted (27.7.1993) by 1993 c. 34, s. 190(4)
+[^F43]: Words in Sch. 1 para. 8(1)(a) substituted (with effect in accordance with Sch. 41 para. 4 of the commencing Act) by Finance Act 2009 (c. 10), Sch. 41 para. 3(2)
+[^F44]: Words in Sch. 1 para. 8(1)(b) substituted (with effect in accordance with Sch. 41 para. 4 of the commencing Act) by Finance Act 2009 (c. 10), Sch. 41 para. 3(2)
+[^F45]: Words in Sch. 1 para. 8(1)-(3)(6) substituted (27.7.1993) by 1993 c. 34, s. 190(4)
+[^F46]: Sch. 1 para. 8(2A)-(2C) inserted (with effect in accordance with Sch. 41 para. 4 of the commencing Act) by Finance Act 2009 (c. 10), Sch. 41 para. 3(3)
+[^F47]: Words in Sch. 1 para. 8(2B)(b) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 1 para. 183 (with Sch. 2)
+[^F48]: Word in Sch. 1 para. 8(3) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by Finance Act 2004 (c. 12), Sch. 37 para. 8(2)(a) (with Sch. 37 Pt. 2)
+[^F49]: Word in Sch. 1 para. 8(3) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by Finance Act 2004 (c. 12), Sch. 37 para. 8(2)(b) (with Sch. 37 Pt. 2)
+[^F50]: Sch. 1 para. 8(3)(b) inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by Finance Act 2004 (c. 12), Sch. 37 para. 8(2)(c) (with Sch. 37 Pt. 2)
+[^F51]: Sch. 1 para. 8(5)(c) and word inserted (with effect in accordance with s. 285(6)(b) of the commencing Act) by Finance Act 2004 (c. 12), Sch. 37 para. 8(3) (with Sch. 37 Pt. 2)
+[^F52]: Sch. 2 para. 4(2A) inserted by Finance Act 1985 (c. 54), s. 92(4)
+[^F53]: Words in Sch. 2 para. 5(1)(a)(c) substituted (27.7.1993) by 1993 c. 34, s. 190(5)(a)
+[^F54]: Sch. 2 para. 5(1)(d) and preceding “and” substituted (3.5.1994) by virtue of 1994 c. 9, s. 238(1)(2) (with s. 238(4))
+[^F55]: Words in Sch. 2 para. 5(1) substituted (3.5.1994) by 1994 c. 9, s. 238(2) (with s. 238(4))
+[^F56]: Words in Sch. 2 para. 5(3)(a) substituted (27.7.1993) by 1993 c. 34, s. 190(5)(c)
+[^F57]: Sch. 2 para. 5(3)(b) substituted (3.5.1994) by 1994 c. 9, s. 238(1)(3) (with s. 238(4))
+[^M11]: 1980 c. 48.
+[^F58]: Words substituted by Income and Corporation Taxes Act 1988 (c. 1), Sch. 29 para. 32
+[^F59]: Words in Sch. 2 para. 11(2) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 1 para. 184(2) (with Sch. 2)
+[^F60]: Words in Sch. 2 para. 11(3)(a) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 1 para. 184(3) (with Sch. 2)
+[^F61]: Words in Sch. 2 para. 12(1) substituted (22.7.2004) by Finance Act 2004 (c. 12), s. 285(4)(a)
+[^F62]: Words substituted by Income and Corporation Taxes Act 1988 (c. 1), Sch. 29 para. 32
+[^F63]: Words in Sch. 2 para. 12(1) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by Corporation Tax Act 2010 (c. 4), s. 1184(1), Sch. 1 para. 184(4) (with Sch. 2)
+[^F64]: Words in Sch. 2 para. 12(2) substituted (31.7.1998 with effect in accordance with s. 152 of the amending Act) by 1998 c. 36, s. 152(2)(a)
+[^F65]: Sch. 2 para. 12(3)(a)(b) substituted (16.7.1992 with effect in accordance with s. 74(5) of the substituting Act) by Finance (No. 2) Act 1992 (c. 48), s. 74(5), Sch. 15 para. 7.
+[^F66]: Words in Sch. 2 para. 12(5) substituted (31.7.1998 with effect in accordance with s. 152 of the amending Act) by 1998 c. 36, s. 152(2)(b)
+[^F67]: Sch. 2 para. 12(6) added (22.7.2004) by Finance Act 2004 (c. 12), s. 285(4)(b)
+[^F68]: Sch. 3 para. 3 omitted (21.7.2009) by virtue of Finance Act 2009 (c. 10), Sch. 45 para. 2(2)
+[^M12]: 1970 c. 9.
+[^F69]: Words in Sch. 4 para. 11(3) repealed (16.7.1992 with effect in accordance with s. 74(5) of the repealing Act) by Finance (No. 2) Act 1992 (c. 48), ss. 74(5), 82, Sch. 15 para. 8(a), Sch. 18 Pt.VIII.
+[^F70]: Sch. 4 para. 11(4) repealed (16.7.1992 with effect in accordance with s. 74(5) of the repealing Act) by Finance (No. 2) Act 1992 (c. 48), ss. 74(5), 82, Sch. 15 para. 8(b), Sch. 18 Pt.VIII.
+[^M13]: 1970 c. 9.
+[^M14]: 1980 c. 1.
+[^F71]: Sch. 5 omitted (21.7.2009) by virtue of Finance Act 2009 (c. 10), Sch. 45 para. 2(4)

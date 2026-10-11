@@ -1,0 +1,247 @@
+---
+title: "Riding Establishments Act 1964"
+identifier: "ukpga/1964/70"
+citation: "1964 c.70"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S"
+date: 1964-07-31
+last_amended: 2022-06-08
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1964/70"
+source_modified: 2024-05-17
+retrieved: 2026-10-11
+---
+
+# Riding Establishments Act 1964
+
+**1964 c.70**
+
+An Act to regulate the keeping of riding establishments; and for purposes connected therewith.
+
+[31st July 1964]
+
+## 1 Licensing of riding establishments.
+
+(1) [^F1]No person shall keep a riding establishment [^F1][[^F2]in Wales][^F1] except under the authority of a licence granted in accordance with the provisions of this Act.
+
+(2) Every local authority may, on application being made to them for that purpose by a person who is an individual over the age of eighteen years or a body corporate, being a person who is not for the time being disqualified,—
+
+(a) under this Act from keeping a riding establishment; or
+
+(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F3]
+
+(c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F3]
+
+(d) under the [^M1]Pet Animals Act 1951, from keeping a pet shop; or
+
+(e) under the [^M2]Protection of Animals (Amendment) Act 1954, from having the custody of animals; or
+
+(f) under the [^M3]Animal Boarding Establishments Act 1963, from keeping a boarding establishment for animals;[[^F4]or—
+
+(g) under section 34(2), (3) or (4) of the Animal Welfare Act 2006][[^F5]or
+
+(h) under subsection (1) of section 40 of the Animal Health and Welfare (Scotland) Act 2006 (asp 11) , from an activity mentioned in subsection (2)(a), (b) or (c) of that section, ]
+
+[[^F6]and on payment of such fee as may be set by the local authority grant][[^F7]grant, on payment of such fee as may be determined by the local authority] a licence to that person to keep a riding establishment at such premises in their area as may be specified in the application and subject to compliance with such conditions as may be specified in the licence.
+
+[[^F8](2A) Where a person is for the time being disqualified under section 28F(1) and (2) of the Animal Health Act 1981 (c. 22) , or section 40(1) and (2) of the Animal Health and Welfare (Scotland) Act 2006 (asp 11) , notwithstanding subsection (2), a local authority shall not grant a licence to keep a riding establishment to that person. ]
+
+(3) Where an application for the grant of a licence for the keeping of a riding establishment at any premises is made to a local authority, they shall not proceed to a decision in the matter unless they have received and considered a report by a veterinary surgeon or veterinary practitioner authorised by them to carry out inspections under the next following section of an inspection of the premises carried out by him within the period of twelve months immediately preceding the date on which the application is received by the local authority or on or after that date, being a report containing such particulars as in their view enable them to determine whether the premises are suitable for the keeping thereat of a riding establishment, and describing the condition of the premises and of any horses found thereon or anything thereat.
+
+[[^F9] 4 In determining whether to grant a licence for the keeping of a riding establishment by any person at any premises a local authority shall in particular (but without prejudice to their discretion to withhold a licence on any grounds) have regard to—
+
+(a) whether that person appears to them to be suitable and qualified, either by experience in the management of horses or by being the holder of an approved certificate or by employing in the management of the riding establishment a person so qualified, to be the holder of such a licence; and
+
+(b) the need for securing—
+
+(i) that paramount consideration will be given to the condition of horses and that they will be maintained in good health, and in all respects physically fit and that, in the case of a horse kept for the purpose of its being let out on hire for riding or a horse kept for the purpose of its being used in providing instruction in riding, the horse will be suitable for the purpose for which it is kept;
+
+(ii) that the feet of all animals are properly trimmed and that, if shod, their shoes are properly fitted and in good condition;
+
+(iii) that there will be available at all times, accommodation for horses suitable as respects construction, size, number of occupants, lighting, ventilation, drainage and cleanliness and that these requirements be complied with not only in the case of new buildings but also in the case of buildings converted for use as stabling;
+
+(iv) that in the case of horses maintained at grass there will be available for them at all times during which they are so maintained adequate pasture and shelter and water and that supplementary feeds will be provided as and when required;
+
+(v) that horses will be adequately supplied with suitable food, drink and (except in the case of horses maintained at grass, so long as they are so maintained) bedding material, and will be adequately exercised, groomed and rested and visited at suitable intervals;
+
+(vi) that all reasonable precautions will be taken to prevent and control the spread among horses of infectious or contagious diseases and that veterinary first aid equipment and medicines shall be provided and maintained in the premises;
+
+(vii) that appropriate steps will be taken for the protection and extrication of horses in case of fire and, in particular, that the name, address and telephone number of the licence holder or some other responsible person will be kept displayed in a prominent position on the outside of the premises and that instructions as to action to be taken in the event of fire, with particular regard to the extrication of horses, will be kept displayed in a prominent position on the outside of the premises;
+
+(viii) that adequate accommodation will be provided for forage, bedding, stable equipment and saddlery;
+
+and shall specify such conditions in the licence, if granted by them, as appear to the local authority necessary or expedient in the particular case for securing all the objects specified in sub-paragraphs (i) to (viii) of paragraph (b) of this subsection.
+
+(4A) Without prejudice to the provisions of subsection (2) or (4) of this section, every licence granted under this Act after 31st December 1970 shall be subject to the following conditions (whether they are specified in the licence or not), namely—
+
+(a) a horse found on inspection of the premises by an authorised officer to be in need of veterinary attention shall not be returned to work until the holder of the licence has obtained at his own expense and has lodged with the local authority a veterinary certificate that the horse is fit for work;
+
+(b) no horse will be let out on hire for riding or used for providing instruction in riding without supervision by a responsible person of the age of 16 years or over unless (in the case of a horse let out for hire for riding) the holder of the licence is satisfied that the hirer of the horse is competent to ride without supervision;
+
+(c) the carrying on of the business of a riding establishment shall at no time be left in the charge of any person under 16 years of age;
+
+(d) the licence holder shall hold a current insurance policy which insures him against liability for any injury sustained by those who hire a horse from him for riding and those who use a horse in the course of receiving from him, in return for payment, instruction in riding and arising out of the hire or use of a horse as aforesaid and which also insures such persons in respect of any liability which may be incurred by them in respect of injury to any person caused by, or arising out of, the hire or use of a horse as aforesaid;
+
+(e) a register shall be kept by the licence holder of all horses in his possession aged three years and under and usually kept on the premises which shall be available for inspection by an authorised officer at all reasonable times.]
+
+(5) Any person aggrieved by the refusal of a local authority to grant such a licence, or by any condition subject to which such a licence is proposed to be granted [[^F10](not being one of the conditions set out in subsection (4A) of this section)], may appeal to a magistrates’ court; and the court may on such an appeal give such directions with respect to the issue of a licence or, as the case may be, with respect to the conditions subject to which a licence is to be granted as it thinks proper.
+
+(6) Any such licence shall (according to the applicant’s requirements) relate to the year in which it is granted or to the next following year. In the former case, the licence shall come into force at the beginning of the day on which it is granted, and in the latter case it shall come into force at the beginning of the next following year.
+
+(7) Subject to the provisions hereinafter contained with respect to cancellation, any such licence shall remain in force for one year beginning with the day on which it comes into force and shall then expire.
+
+(8) In the event of the death of a person who is keeping a riding establishment at any premises under the authority of a licence granted under this Act, that licence shall be deemed to have been granted to his personal representatives in respect of those premises and shall, notwithstanding subsection (7) of this section (but subject to the provision hereinafter contained with respect to cancellation), remain in force until the end of the period of one year beginning with the death and shall then expire:
+
+Provided that the local authority by whom the licence was granted may from time to time on the application of those representatives, extend or further extend the said period of one year if the authority are satisfied that the extension is necessary for the purpose of winding up the deceased’s estate and that no other circumstances make it undesirable.
+
+(9) Any person who contravenes the provisions of subsection (1) of this section shall be guilty of an offence; and if any condition [[^F11]to which a licence under this Act is subject (whether by virtue of subsection (4A) of this section or otherwise)] is contravened or not complied with, the person to whom the licence was granted shall be guilty of an offence.
+
+(10) In the application of this section to Scotland, in subsection (5) for any reference to a magistrates’ court there shall be substituted a reference to the sheriff.
+
+## 2 Inspection of Riding Establishments.
+
+(1) A local authority may, subject to the provisions of this section, authorise in writing any such person as the following, namely, an officer of theirs, an officer of any other local authority, a veterinary surgeon and a veterinary practitioner, to inspect any such premises in their area as the following, that is to say,—
+
+(a) any premises where they have reason to believe a person is keeping a riding establishment;
+
+(b) any premises as respects which a licence granted in accordance with the provisions of this Act is for the time being in force; and
+
+(c) any premises as respects which a licence has been applied for under this Act.
+
+(2) Any person authorised under this section may, on producing his authority if so required, enter at all reasonable times any premises which he is authorised under this section to enter and inspect them and any horses found thereon or any thing therein for the purpose (except in the case of any such premises as are mentioned in paragraph (a) of the foregoing subsection) of making a report to the local authority for the purposes of section 1(3) of this Act or for the purpose of ascertaining whether an offence has been or is being committed against this Act.
+
+(3) A local authority shall not authorise a veterinary surgeon or veterinary practitioner to inspect any premises under this section except one chosen by them from a list of such persons drawn up jointly by the Royal College of Veterinary Surgeons and the British Veterinary Association.
+
+(4) Any person who wilfully obstructs or delays any person in the exercise of his powers of entry or inspection conferred by subsection (2) above shall be guilty of an offence.
+
+## 3 Offences.
+
+(1) If any person—
+
+(a) at a time when a horse is in such a condition that its riding would be likely to cause suffering to the horse, lets out the horse on hire or uses it for the purpose of providing, in return for payment, instruction in riding or for the purpose of demonstrating riding;
+
+[[^F12](aa) lets out on hire for riding or uses for the purpose of providing, in return for payment, instruction in riding or for the purpose of demonstrating riding any horse aged three years or under or any mare heavy with foal or any mare within three months after foaling;]
+
+(b) supplies for a horse which is let out on hire by him for riding equipment which is used in the course of the hiring and suffers, at the time when it is supplied, from a defect of such a nature as to be apparent on inspection and as to be likely to cause suffering to the horse or an accident to the rider;
+
+(c) fails to provide such curative care as may be suitable, if any, for a sick or injured horse which is kept by him with a view to its being let out on hire or used for a purpose mentioned in paragraph (a) of this subsection;
+
+(d) in keeping a riding establishment knowingly permits any person, who is for the time being disqualified under this Act from keeping a riding establishment, to have control or management of the keeping of the establishment; or
+
+(e) with intent to avoid inspection under section 2 of this Act, conceals, or causes to be concealed, any horse maintained by the riding establishment;
+
+he shall be guilty of an offence under this Act.
+
+(2) A person who for the purpose of obtaining the grant of a licence under this Act gives any information which he knows to be false in a material particular or makes a statement which he knows to be so false or recklessly gives any information which is so false or recklessly makes any statement which is so false shall be guilty of an offence under this Act.
+
+## 4 Penalties and disqualifications.
+
+(1) Any person guilty of an offence under any provision of this Act other than section 2(4) thereof shall be liable on summary conviction to a fine not exceeding £25 or to imprisonment for a term not exceeding three months or to both such fine and such imprisonment.
+
+(2) Any person guilty of an offence under section 2(4) of this Act shall be liable on summary conviction to a fine not exceeding [[^F13]level 2 on the standard scale].
+
+(3) Where a person is convicted of any offence under this Act or of any offence under the [^M4]Protection of Animals Act 1911 or the [^M5]Protection of Animals (Scotland) Act 1912 or the [^M6]Pet Animals Act 1951 or the [^M7]Animal Boarding Establishments Act 1963, [[^F14]or of any offence under any of sections 4, 5, 6(1) and (2), 7 to 9 and 11 of the Animal Welfare Act 2006, ] the court by which he is convicted may cancel any licence held by him under this Act and may, whether or not he is the holder of such a licence, disqualify him from keeping a riding establishment for such period as the court thinks fit.
+
+(4) A court which has ordered the cancellation of a person’s licence, or his disqualification in pursuance of the last foregoing subsection may, if it thinks fit, suspend the operation of the order pending an appeal.
+
+[[^F15](5) Where a person is convicted of any offence under sections 28C or 28F(16) of the Animal Health Act 1981 (c. 22) , [^F16]... sections 19 to 24, 25(7), 29 or 40(11) of the Animal Health and Welfare (Scotland) Act 2006 (asp 11) [[^F17]or regulation 23 of the Animal Welfare (Licensing of Activities Involving Animals) (Scotland) Regulations 2021], the court by which he is convicted has the same powers under subsections (3) and (4) in relation to such convictions as it has in relation to convictions for offences under this Act. ]
+
+## 5 Power of local authorities to prosecute.
+
+(1) A local authority [^F18]in England or Wales may subject to the provisions of this section prosecute proceedings for any offence under this Act committed in the area of the authority.
+
+(2) [^F19]In England and Wales No proceedings for an offence under section 1(9) of this Act in respect of a contravention of or failure to comply with a condition subject to which a licence is granted in accordance with the provisions of this Act shall be instituted except by a local authority, and a local authority shall not institute any such proceedings except after receiving and considering a report by a veterinary surgeon or veterinary practitioner authorised by them to carry out inspections under section 2 of this Act being a report which in their opinion indicates that such an offence has been committed.
+
+## 6 Interpretation.
+
+(1) References in this Act to the keeping of a riding establishment shall, subject to the provisions of this section, be construed as references to the carrying on of a business of keeping horses for either or both of the following purposes, that is to say, the purpose of their being let out on hire for riding or the purpose of their being used in providing, in return for payment, instruction in riding, but as not including a reference to the carrying on of such a business—
+
+(a) in a case where the premises where the horses employed for the purposes of the business are kept are occupied by or under the management of the Secretary of State for Defence; or
+
+(b) solely for police purposes; or
+
+[^F20]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(d) by the Royal Zoological Society of Scotland.
+
+(2) Where a university provides courses of study and examinations leading to a veterinary degree to which relates an order made under [[^F21]section 3 of the [^M8]Veterinary Surgeons Act 1966] (which section enables the Privy Council, where a university provides such courses, and it appears to the Privy Council that the courses are of the standard therein mentioned, to direct that a holder of the degree to which the courses lead shall be qualified to be a member of the Royal College of Veterinary Surgeons), horses kept by the university for use in the instruction of students undergoing such courses shall, during the continuance in force of the order, be deemed for the purposes of the foregoing subsection not to be kept as mentioned in that subsection.
+
+(3) For the purposes of this Act a person keeping a riding establishment shall be taken to keep it at the premises where the horses employed for the purposes of the business concerned are kept.
+
+(4) In this Act the following expressions have the meanings respectively assigned to them, that is to say—
+
+- [[^F22]“approved certificate” means—
+
+  - (a) any one of the following certificates issued by the British Horse Society, namely, Assistant Instructor’s Certificate, Instructor’s Certificate and Fellowship;
+  - (b) Fellowship of the Institute of the Horse; or
+  - (c) any other certificate for the time being prescribed by order by the Secretary of State;
+
+- “authorised officer” means a person authorised by a local authority in pursuance of section 2 of this Act;]
+
+- “horse” includes any mare, gelding, pony, foal, colt, filly or stallion and also any ass, mule or jennet;
+
+- “local authority” [[^F23]means a county council in Wales or a county borough council in Wales] . . . [^F24] and in Scotland means [[^F25]a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994];
+
+- “premises” includes land;
+
+- “veterinary practitioner” means a person who is for the time being registered in the Supplementary Veterinary Register in pursuance of [[^F21]the [^M9]Veterinary Surgeons Act 1966];
+
+- “veterinary surgeon” means a person who is for the time being registered in the Register of Veterinary Surgeons in pursuance of [[^F21]the [^M10]Veterinary Surgeons Act 1966].
+
+## [[^F26]6A
+
+Any order made under this Act shall be made by statutory instrument and may be varied or revoked by a subsequent order made in the like manner.]
+
+## 7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F27]
+
+## 9 Short title, commencement and extent.
+
+(1) This Act may be cited as the Riding Establishments Act 1964.
+
+(2) This Act shall not extend to Northern Ireland.
+
+(3) This Act shall come into operation on 1st April 1965.
+
+---
+
+[^F1]: S. 1(1) ceases to have effect (E.) (1.10.2018) by virtue of The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486), reg. 1(1)(b), Sch. 9 para. 4(2) (with reg. 27)
+[^F2]: Words in s. 1(1) inserted (E.W.) (1.10.2018) by The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486), reg. 1(1)(b), Sch. 9 para. 4(3) (with reg. 27)
+[^F3]: S. 1(2)(*b*)(*c*) repealed by Protection of Animals (Amendment) Act 1988 (c. 29, SIF 4:5), s. 3(2)(3), Sch.
+[^M1]: 1951 c. 35.
+[^M2]: 1954 c. 40.
+[^M3]: 1963 c. 43.
+[^F4]: S. 1(2)(g) and word inserted (E.W.) (27.3.2007 for W., 6.4.2007 for E.) by Animal Welfare Act 2006 (c. 45), s. 68(3), Sch. 3 para. 6(1) (with ss. 1(2), 58(1), 59, 60); S.I. 2007/499, art. 2(2)(l); S.I. 2007/1030, art. 2(1)(l)
+[^F5]: S. 1(2)(h) and word inserted (E.W.) (15.12.2006) by Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) (England and Wales) Order 2006 (S.I. 2006/3407), arts. 1(1), 8(2)
+[^F6]: Words substituted (S.) by Riding Establishments Act 1970 (c. 32), s. 2(1) and Local Government (Scotland) Act 1973 (c. 65), Sch. 25 para. 33
+[^F7]: Words substituted (E.W.) by Local Government Act 1974 (c. 7), Sch. 6 para. 18
+[^F8]: S. 1(2A) inserted (S.) (3.11.2006) by The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2006 (S.S.I. 2006/536), art. 1, Sch. 1 para. 5(2)
+[^F9]: S. 1(4)(4A) substituted for s. 1(4) by Riding Establishments Act 1970 (c. 32), s. 2(1)(ii)
+[^F10]: Words inserted by Riding Establishments Act 1970 (c. 32), s. 2(2)
+[^F11]: Words substituted by Riding Establishments Act 1970 (c. 32), s. 2(2)
+[^F12]: S. 3(1)(aa) inserted by Riding Establishments Act 1970 (c. 32), s. 3
+[^F13]: Words substituted (E.W.S.) by virtue of (E.W.) Criminal Justice Act 1982 (c. 48, SIF 39:1), ss. 38, 46 and (S.) Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1), ss. 289F, 289G
+[^M4]: 1911 c. 27.
+[^M5]: 1912 c. 14.
+[^M6]: 1951 c. 35.
+[^M7]: 1963 c. 43.
+[^F14]: Words in s. 4(3) inserted (E.W.) (27.3.2007 for W., 6.4.2007 for E.) by Animal Welfare Act 2006 (c. 45), s. 68(3), Sch. 3 para. 6(2) (with ss. 1(2), 58(1), 59, 60); S.I. 2007/499, art. 2(2)(l); S.I. 2007/1030, art. 2(1)(l)
+[^F15]: S. 4(5) inserted (S.) (3.11.2006) by The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2006 (S.S.I. 2006/536), art. 1, Sch. 1 para. 5(3)
+[^F16]: Word in s. 4(5) omitted (S.) (8.6.2022) by virtue of The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2022 (S.S.I. 2022/195), art. 1(2), sch. 1 para. 2(a)
+[^F17]: Words in s. 4(5) inserted (S.) (8.6.2022) by The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2022 (S.S.I. 2022/195), art. 1(2), sch. 1 para. 2(b)
+[^F18]: Words in s. 5(1) omitted (E.W.) (1.10.2018) by virtue of The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486), reg. 1(1)(b), Sch. 9 para. 4(4)(a) (with reg. 27)
+[^F19]: Words in s. 5(2) omitted (E.W.) (1.10.2018) by virtue of The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486), reg. 1(1)(b), Sch. 9 para. 4(4)(b) (with reg. 27)
+[^F20]: S. 6(1)(c) omitted (E.W.) (1.10.2018) by virtue of The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486), reg. 1(1)(b), Sch. 9 para. 4(5)(a) (with reg. 27)
+[^F21]: Words substituted by virtue of Veterinary Surgeons Act 1966 (c. 36), s. 28(8)
+[^M8]: 1966 c. 36.
+[^F22]: Definitions inserted by Riding Establishments Act 1970 (c. 32), s. 5
+[^F23]: Words in s. 6(4) substituted (E.W.) (1.10.2018) by The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486), reg. 1(1)(b), Sch. 9 para. 4(5)(b) (with reg. 27)
+[^F24]: Words repealed by Local Government Act 1972 (c. 70), Sch. 29 para. 42, Sch. 30
+[^F25]: Words in s. 6(4) substituted (S.) (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 64; S.I. 1996/323, art. 4(1)(c)
+[^M9]: 1966 c. 36.
+[^M10]: 1966 c. 36.
+[^F26]: S. 6A inserted by Riding Establishments Act 1970 (c. 32), s. 6
+[^F27]: Ss. 7, 8 repealed by Statute Law (Repeals) Act 1976 (c. 16), Sch. 1 Pt. III

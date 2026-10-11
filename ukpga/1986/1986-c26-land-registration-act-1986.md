@@ -1,0 +1,89 @@
+---
+title: "Land Registration Act 1986"
+identifier: "ukpga/1986/26"
+citation: "1986 c. 26"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W"
+date: 1986-06-26
+last_amended: 2003-10-13
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1986/26"
+source_modified: 2017-09-15
+retrieved: 2026-10-11
+---
+
+# Land Registration Act 1986
+
+**1986 c. 26**
+
+An Act to make amendments of the Land Registration Act 1925 relating to the conversion of title and to leases, to abolish the Minor Interests Index, and for connected purposes.
+
+[26th June 1986]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## [^F1]1 Conversion of title.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F1]2 Compulsory registration of certain leases.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F1]3 Inalienable leases: registration to be allowed.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## [^F1]4 Gratuitous leases and leases granted at a premium.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5 Abolition of Minor Interests Index.
+
+(1) In section 102 of the 1925 Act, subsection (2) (under which priorities between certain dealings with equitable interests are regulated by the order of lodging of priority cautions and inhibitions) is repealed, and accordingly—
+
+(a) the index maintained for the purposes of that subsection and known as the Minor Interests Index shall cease to be kept, and
+
+(b) any question of priority which would have fallen to be determined in accordance with that subsection shall be determined in accordance with thae rule of law referred to in section 137(1) of the [^M1]Law of Property Act 1925 (which applies to dealings with equitable interests in land the rule commonly known as the rule in *Dearle v. Hall*).
+
+(2) The following provisions have effect for the purposes of the application of the rule in *Dearle v. Hall*, and of sections 137 and 138 of the Law of Property Act 1925, to dealings in respect of which a priority caution or inhibition was entered in the Minor Interests Index—
+
+(a) the notice of the making of the entry which was given under the [^M2]Land Registration Rules 1925 before the commencement of this Act to the proprietor or, in the case of settled land, to the trustees of the settlement, shall be treated for those purposes as a notice of the dealing to which the entry relates given (at the time it was issued by the registrar) by the person on whose behalf the entry was made to the trustees or other persons appropriate to receive it for the purposes of establishing priority under the rule in *Dearle v. Hall*;
+
+(b) where a trust corporation has been nominated to receive notices of dealings in accordance with section 138, subsection (4) of that section (under which the noItice does not effect priority until received by the corporation) does not apply but the trustees shall, if the notice has not already been transmitted to the corporation, deliver it or send it by post to the corporation as soon as practicable after the commencement of this Act.
+
+(3) A person who suffers loss as a result of the operation of this section is entitled to be indemnified in the same way as a person suffering loss by reason of an error or omission in the register, except that in relation to a claim under this subsection the reference in [[^F2]section 83(8)(a)]of the 1925 Act (restriction on amount of indemnity in certain cases) to the value of the relevant estate, interest or charge at the time when the error or omission was made shall be construed as a reference to its value immediately before the commencement of this Act.
+
+(4) For the purposes of subsection (3) above, a loss resulting from trustees failing to comply with their duty under subsection (2)(b) above shall be treated as a loss resulting from the operation of this section; but this is without prejudice to the liability of the trustees for breach of that duty or to the registrar’s right of recourse against them under [[^F3]section 83(10)(b)(i)] of the 1925 Act (under which the registrar may enforce a right which a person indemnified would have been entitled to enforce in relation to a matter in respect of which an indemnity has been paid).
+
+(5) In consequence of the repeal of section 102(2) of the 1925 Act, the following provisions of that Act are also repealed—
+
+(a) in section 54(1), the words from “but this provision” to the end,
+
+(b) section 102(3), and
+
+(c) in section 144(1)(xxiii), the words “and of priority cautions and inhibitions”.
+
+## 6 Citation etc.
+
+(1) This Act may be cited as the Land Registration Act 1986.
+
+(2) The Land Registration Acts 1925 to 1971 and this Act may be cited together as the Land Registration Acts 1925 to 1986.
+
+(3) This Act shall be construed as one with the 1925 Act.
+
+(4) This Act shall come into force on such day as the Lord Chancellor may appoint by order made by statutory instrument.
+
+(5) This Act extends to England and Wales only.
+
+---
+
+[^F1]: Ss. 1-4 repealed (13.10.2003) by Land Registration Act 2002 (c. 9), s. 136(2), Sch. 13 (with s. 129, Sch. 12 para. 1); S.I. 2003/1725, art. 2(1)
+[^M1]: 1925 c. 20.
+[^M2]: S.R.& O. 1925/1093.
+[^F2]: Words in s. 5(3) substituted (27.4.1997) by 1997 c. 2, ss. 4(1), 5(3), Sch. 1 Pt. II para. 8(a)
+[^F3]: Words in s. 5(4) substituted (27.4.1997) by 1997 c. 2, ss. 4(1), 5(3), Sch. 1 Pt. II para. 8(b)

@@ -1,0 +1,329 @@
+---
+title: "Presumption of Death (Scotland) Act 1977"
+identifier: "ukpga/1977/27"
+citation: "1977 c. 27"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "S"
+date: 1977-07-22
+last_amended: 2014-12-16
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1977/27"
+source_modified: 2026-07-22
+retrieved: 2026-10-11
+---
+
+# Presumption of Death (Scotland) Act 1977
+
+**1977 c. 27**
+
+An Act to make fresh provision in the law of Scotland in relation to the presumed death of missing persons; and for connected purposes.
+
+[22nd July 1977]
+
+## 1 Action of declarator.
+
+(1) Where a person who is missing is thought to have died or has not been known to be alive for a period of at least seven years, any person having an interest may raise an action of declarator of the death of that person (hereafter in this Act referred to as the “missing person”) in the Court of Session or the sheriff court in accordance with the provisions of this section.
+
+(2) An action such as is mentioned in subsection (1) above is, in this Act referred to as an “action of declarator".
+
+(3) The Court of Session shall have jurisdiction to entertain an action of declarator if and only if—
+
+(a) the missing person was domiciled in Scotland on the date on which he was last known to be alive or had been habitually resident there throughout the period of one year ending with that date; or
+
+(b) the pursuer in the action—
+
+(i) is the spouse [[^F1]or civil partner] of the missing person, and
+
+(ii) is domiciled in Scotland at the date of raising the action or was habitually resident there throughout the period of one year ending with that date [[^F2]; or
+
+(c) in a case where the pursuer in the action is the civil partner of the missing person, the following conditions are met—
+
+(i) the two people concerned registered as civil partners of each other in Scotland; and
+
+(ii) it appears to the court to be in the interests of justice to assume jurisdiction in the case.]
+
+(4) The sheriff court shall have jurisdiction to entertain an action of declarator if and only if—
+
+(a) the provisions of subsection (3)(a) above are satisfied and the missing person’s last known place of residence in Scotland was in the sheriffdom; or
+
+(b) the provisions of subsection 3(b) above are satisfied and the pursuer was resident in the sheriffdom for a period of not less than forty days ending with the date of raising the action.
+
+[[^F3](4A) Despite subsection (4), the sheriff court of the sheriffdom of Lothian and Borders at Edinburgh also has jurisdiction to entertain an action of declarator if—
+
+(a) the pursuer in the action and the missing person are married to each other and are of the same sex,
+
+(b) they married each other in Scotland, and
+
+(c) it appears to the court to be in the interests of justice to assume jurisdiction in the case.]
+
+(5) Any person having an interest may, in an action of declarator, lodge a minute seeking the making by the court under section 2 of this Act of any determination or appointment not sought by the pursuer.
+
+(6) At any stage of the proceedings the sheriff may, of his own accord or on the application of any party to the action, and shall, if so directed by the Court of Session (which direction may be given on the application of any party to the action), remit to the Court of Session an action of declarator raised in the sheriff court where he or, as the case may be, the Court of Session considers such remit desirable because of the importance or complexity of the matters at issue.
+
+## 2 Decree in action of declarator and determination of incidental questions in other proceedings.
+
+(1) In an action of declarator, the court, having heard proof and being satisfied on a balance of probabilities that the missing person—
+
+(a) has died, shall grant decree accordingly and shall include in the decree a finding as to the date and time of death:
+
+Provided that where it is uncertain when, within any period of time, the missing person died, the court shall find that he died at the end of that period;
+
+(b) has not been known to be alive for a period of at least seven years, shall find that the missing person died at the end of the day occurring seven years after the date on which he was last known to be alive and shall grant decree accordingly.
+
+(2) The court, in granting decree under subsection (1) above, shall have power to—
+
+(a) determine the domicile of the missing person at the date of his death;
+
+(b) determine any question relating to any interest in property which arises as a consequence of the death of the missing person;
+
+(c) appoint a judicial factor on the estate of the missing person notwithstanding (in relation to such an appointment by the sheriff) what the value of the estate may be.
+
+(3) Where, for the purpose of deciding any issue before it, a court or statutory tribunal has to determine any incidental question as to the death of a person, the court or tribunal may, if it thinks fit, determine that question (but for the purpose only of deciding that issue); and in the determination of that question the court or tribunal shall apply the criteria set out in subsection (1) above.
+
+## 3 Effect of decree.
+
+(1) Subject to the provisions of this section and sections 4 and 5 of this Act, where no appeal is made against decree in an action of declarator within the time allowed for appeal, or where an appeal against such a decree has been made and refused or withdrawn, the decree shall be conclusive of the matters contained in the decree and shall, without any special form of words, be effective against any person and for all purposes including the dissolution of a marriage[[^F4]or of a civil partnership] to which the missing person is a party and the acquisition of rights to or in property belonging to any person.
+
+(2) A decree under section 2(1)(b) of this Act or a determination as mentioned in section 2(3) of this Act shall not determine a substantive question which is properly referable to a foreign law otherwise than in accordance with that law.
+
+(3) Where a marriage[[^F5]or civil partnership] to which the missing person is a party has been dissolved by virtue of decree in an action of declarator, [[^F6]its dissolution] shall not be invalidated by the circumstance that the missing person was in fact alive at the date specified in the decree as the date of death.
+
+(4) Where the missing person or any other person has committed any crime or offence, the responsibility of that person therefor shall not be affected by the circumstance that decree in an action of declarator has been granted if the missing person was in fact alive at the date specified in the decree as the date of death.
+
+## 4 Recall or variation of decree.
+
+(1) Decree in an action of declarator may, on application made at any time by any person having an interest, be varied or recalled by an order of the court which granted the decree or, in a case to which subsection (4) below applies, by an order of the Court of Session.
+
+An order of the court pronounced under this subsection is hereafter in this Act referred to as a “variation order".
+
+(2) By a variation order the court may make any determination or appointment referred to in section 2 of this Act.
+
+(3) Any person having an interest may, in an application for a variation order, [[^F7]make an application to the court] seeking the making by the court of any determination or appointment referred to in section 2 of this Act, which has not been sought by the person making the application for the variation order.
+
+(4) At any stage of the proceedings the sheriff may, of his own accord or on the application of any party to the proceedings, and shall, if so directed by the Court of Session (which direction may be given on the application of any party to the proceedings), remit to the Court of Session an application made in the sheriff court for a variation order where he or, as the case may be, the Court of Session considers such remit desirable because of the importance or complexity of the matters at issue.
+
+(5) Nothing in this section shall operate so as to revive a marriage of the missing person dissolved by virtue of decree in an action of declarator.
+
+## 5 Effect on property rights of recall or variation of decree.
+
+(1) Subject to the following provisions of this section, a variation order shall have no effect on rights to or in any property acquired as a result of a decree under section 2 of this Act.
+
+(2) Notwithstanding the generality of subsection (1) above, where a decree under section 2 of this Act has been varied or recalled by a variation order, the court shall make such further order, if any, in relation to any rights to or in any property acquired as a result of that decree as it considers fair and reasonable in all the circumstances of the case; but no such further order shall affect any income accruing between the date of that decree and the date of the variation order.
+
+(3) In considering what order shall be made under subsection (2) above, the court shall, so far as practicable in the circumstances, have regard to the following considerations, namely:—
+
+(a) that, in the case of any property which is being or has been administered under a trust, any person who on account of the variation order would, apart from subsection (1) above, have been entitled to rights to or in any such property, or any person deriving right from him, shall be entitled to have made over to him by the trustee in full satisfaction of these rights only—
+
+(i) the said rights to or in any such property or other property for the time being representing it which is still in the hands of the trustee at the date of the variation order, and
+
+(ii) the value, as at the date of distribution, of the said rights to or in any such property which has been distributed;
+
+(b) that any capital sum paid by an insurer as a result of the said decree (other than a capital sum which has been distributed by way of an annuity or other periodical payment) or any part of such sum should be repaid to the insurer if the facts in respect of which the variation order was pronounced justify such repayment.
+
+(4) The court shall not make an order under subsection (2) above unless application for the variation order has been made to the court within the period of five years beginning with the date of the decree under section 2 of this Act.
+
+(5) Where any person who has acquired rights to or in any property as a result of a decree under section 2 of this Act, or any person deriving right from him, enters into a transaction with another person whereby that other person acquires in good faith and for value any right to or in that property or any part of it, the transaction and any title acquired under it by that other person shall not be challengeable on the ground that an order under subsection (2) above has been made in relation to that property.
+
+(6) A trustee shall be liable to any person having entitlement by virtue of an order under subsection (2) above for any loss suffered by that person on account of any breach of trust by the trustee in the administration or distribution of the whole or any part of the property, except in so far as the liability of the trustee may be restricted under any enactment or by any provision in any deed regulating the administration of the trust.
+
+(7) Nothing in this section shall apply to estate duty or capital transfer tax which falls to be repaid as a result of a variation order having been pronounced.
+
+## 6 Insurance against claims.
+
+(1) Where decree has been granted under section 2 of this Act then, unless the court otherwise directs, the trustee, if any, shall as soon as may be effect a policy of insurance in respect of any claim which may arise by virtue of an order under section 5(2) of this Act.
+
+(2) Any premium payable by the trustee in respect of a policy of insurance effected under subsection (1) above shall be a proper charge on the estate being administered by the trustee.
+
+(3) Where decree has been granted under section 2 of this Act, an insurer may, before making payment of any capital sum (other than in respect of an annuity or other periodical payment) to any person as a result of that decree, require that person to effect in his own name for the benefit of that insurer a policy of insurance to satisfy any claim which that insurer may establish in the event of a variation order being pronounced.
+
+## 7 Value of certain rights may be declared irrecoverable.
+
+Where decree has been granted under section 2 of this Act, the court may—
+
+(a) on the application of—
+
+(i) any person whom the missing person would, at the time of the making of the said application (apart from the said decree), have had a duty (other than a contractual duty) to aliment, or
+
+(ii) the trustee, and
+
+(b) subject to such conditions, if any, as it thinks fit,
+
+then or at any time thereafter, make an order directing that the value of any rights to or in any property acquired as a result of the said decree shall not be recoverable by virtue of an order under section 5(2) of this Act.
+
+## 8 Repayment of estate duty.
+
+Where estate duty or capital transfer tax falls to be repaid as a result of a variation order having been pronounced—
+
+(a) the court which pronounced the variation order may order the duty or tax to be repaid to the person entitled to receive repayment;
+
+(b) nothing in this Act shall affect the obligation of any person to whom the duty or tax is repaid to account for the amount of the duty or tax to any other person.
+
+## 9 Disclosure of information.
+
+(1) Any person (including the Secretary of State for Social Services) who possesses information relating to the survival or death of the missing person, and who is aware that an action of declarator has been raised or an application for a variation order has been made, shall have a duty to disclose that information—
+
+(a) by means of written communication to the Principal Clerk of Session or, as the case may require, the appropriate sheriff clerk; or
+
+(b) in such other manner as may be prescribed by act of sederunt.
+
+(2) Nothing in this section shall impose any duty to disclose information where the person possessing the information would, if cited as a witness or haver, have been entitled to refuse to disclose such information under any rule of law or practice relating to the privilege of witnesses and havers, confidentiality of communications and withholding or non-disclosure of information on the grounds of public interest.
+
+(3) A statement purporting to be an instrument made or issued by or on behalf of any Minister of the Crown and disclosing to the court facts relating to an action of declarator which has been raised or an application for a variation order which has been made in that court shall be sufficient evidence of those facts.
+
+## 10 Decree of court furth of Scotland to be sufficient evidence.
+
+Where a court in any country furth of Scotland in which a person was domiciled or habitually resident on the date on which he was last known to be alive issues a decree or judgment declaring that that person has died or is presumed to have died, or has died or is presumed to have died on a specified date or within a specified period, that decree or judgment shall, in any proceedings in Scotland, be sufficient evidence of the facts so declared.
+
+## 11 Appointment or confirmation of executor.
+
+(1) Where, in proceedings for the appointment or confirmation of an executor of any person, a document to which subsection (2) below refers is produced, an oath or affirmation that to the best of the deponent’s knowledge and belief that person is dead shall, for the purposes of those proceedings, be equivalent to an oath or affirmation that that person has died or died at any place or on any date appearing in such document as the place or date at or on which he died or was presumed to have died or was lost or missing.
+
+(2) This subsection refers to the following documents, that is to say—
+
+(a) a duly certified copy of a decree or judgment such as is referred to in section 10 of this Act;
+
+(b) a certificate or intimation issued by or on behalf of a competent authority within the United Kingdom that the person—
+
+(i) has died,
+
+(ii) is presumed to have died, or
+
+(iii) is lost or missing in circumstances affording reasonable ground for the belief that he has died as a result of an incident in or in connection with a ship, aircraft, hovercraft or off-shore installation.
+
+(3) Notwithstanding any provision in or under any enactment, it shall not be necessary, in any petition for appointment as executor of any person in regard to whom a duly certified copy of such a decree or judgment as aforesaid or such a certificate or intimation as aforesaid is produced with the petition, to aver that the person died at any specified place or on any specified date, but it shall be sufficient to aver that the duly certified copy of the decree or judgment or (as the case may be) the certificate or intimation is produced and that to the best of the petitioner’s knowledge and belief the person is dead.
+
+## 12 Particulars of decree or variation order to be intimated to Registrar General.
+
+(1) Where a decree under section 2 of this Act or a variation order has been granted by any court, the clerk of court shall, where no appeal has been made against such decree or order, on the expiration of the time within which such an appeal may be made, or where an appeal has been made against such a decree or order, on the conclusion of any appellate proceedings, notify the prescribed particulars in connection with such decree or order to the Registrar General of Births, Deaths and Marriages for Scotland, who shall thereupon cause to be made such entry, if any, as appears to him to be appropriate, in a register kept for that purpose.
+
+(2) In this section, “prescribed” means prescribed by regulations made under section 54 of the [^M1]Registration of Births, Deaths and Marriages (Scotland) Act 1965.
+
+## 13 Defence to charge of bigamy.
+
+It shall be a defence against a charge of [[^F8]committing an offence under section 24(A1) of the Marriage (Scotland) Act 1977 or section 100(1) of the Civil Partnership Act 2004] for the accused to prove that at no time within the period of seven years immediately preceding the date of the purported marriage [[^F9]or civil partnership] forming the substance of the charge had he any reason to believe that his spouse[[^F10]or civil partner] was alive.
+
+## 14 Report of proceedings.
+
+For the avoidance of doubt, it is hereby declared that section 1(1)(b) of the [^M2]Judicial Proceedings (Regulation of Reports) Act 1926 does not apply to an action of declarator.
+
+## 15 Rules of procedure.
+
+(1) Without prejudice to the generality of the powers conferred on the Court of Session by section 16 of the [^M3]Administration of Justice (Scotland) Act 1933 and section 32 of the [^M4]Sheriff Courts (Scotland) Act 1971 to regulate procedure by act of sederunt, the said powers shall include power to make rules of procedure for the purpose of giving effect to the provisions of this Act.
+
+(2) Such rules of procedure shall include provisions—
+
+(a) specifying the persons (including the Lord Advocate) upon or to whom service or intimation of the summons or initial writ in an action of declarator or of an application for a variation order is to be made; and
+
+(b) relating to the advertisement of the raising of the said action or the making of the said application.
+
+## 16 Entailed estates.
+
+(1) The following provisions of this section shall apply where decree has been granted under section 2 of this Act declaring the death of the missing person who is the heir in possession of an entailed estate.
+
+(2) In the circumstances set out in subsection (1) above, the next heir may apply to the court for authority to disentail the estate and the court may make it a condition of granting such authority that the next heir gives security of such amount and in such manner as the court may direct to meet any contingent interest of the heir if he shall reappear and, within the period of five years beginning with the date of the said decree, application for the relative variation order shall be made.
+
+(3) Where, in the circumstances set out in subsection (1) above—
+
+(a) the estate has not been disentailed,
+
+(b) the absent heir reappears,
+
+(c) application for the relative variation order is made within the period of five years beginning with the date of the said decree, and
+
+(d) the relative variation order is pronounced,
+
+then, notwithstanding section 5 of this Act, the absent heir who reappears shall be entitled to resume possession of the estate but shall not be entitled to recover the fruits or income of the estate from any following heir in respect of the period of that heir’s possession.
+
+(4) In this section, “the court” means the Court of Session.
+
+## 17 Interpretation.
+
+In this Act, unless the context otherwise requires,
+
+- “action of declarator” has the meaning assigned to it by section 1 of this Act;
+
+- “any person having an interest” includes the Lord Advocate for the public interest;
+
+- “the court” means the Court of Session or the sheriff;
+
+- “insurer” includes a society registered under the Acts relating to friendly and industrial and provident societies and any person or body which provides for the payment of benefits on the death of another person;
+
+- “missing person” has the meaning assigned to it by section 1(1) of this Act;
+
+- “statutory tribunal” means a tribunal established by or under any enactment;
+
+- “trust” means—
+
+  - (a) any trust or executry for the administration of property which comes into operation as a result of a decree under section 2 of this Act, or
+  - (b) any trust under which property devolves upon or is transmitted to any person by reason of the death of the missing person;
+
+- and “trustee” means the trustee, executor, judicial factor or other person administering any such property;
+
+- “variation order” has the meaning assigned to it by section 4(1) of this Act.
+
+## 18 Amendments of other enactments.
+
+The enactments specified in Schedule 1 to this Act shall have effect subject to the amendments specified in that Schedule.
+
+## 19 Repeals.
+
+the enactments specified in Schedule 2 to this Act shall have effect subject to the amendments specified in that Schedule.
+
+## 20 Short title, commencement and extent.
+
+(1) This Act may be cited as the Presumption of Death (Scotland) Act 1977.
+
+(2) This Act, except this section, shall come into force on such date as the Lord Advocate may by order made by statutory instrument appoint.
+
+(3) This Act shall extend to Scotland only.
+
+## SCHEDULE 1 — Amendment of other enactments.
+
+*Section 18.*
+
+### The Entail (Scotland) Act 1882 (c. 53)
+
+In section 14 (procedure where heir in possession has disappeared), after the words “possession, and may" there shall be inserted the words “if it thinks fit".
+
+For section 16 there shall be substituted the following section:—
+
+> **Provision for disposal of fund deposited or invested.**
+>
+> **16** Where an heir whose consent to an application for disentail has been dispensed with under section 15 of this Act is by virtue of a decree under section 2 of the Presumption of Death (Scotland) Act 1977 declared to have died, then, if the date of death is declared to have been—
+>
+> (a) prior to the date of disentail, the sum deposited or invested under the said section 15 together with accrued interest shall be paid to the heir or to the heirs according to their respective interests (or to his or their representatives) whose consent to the application for disentail would have been required if that application had been made at date of disentail and if at that date the death of the heir whose consent has been dispensed with as aforesaid had been legally established ;
+>
+> (b) on or after the date of disentail, the said sum and interest shall form part of his estate.
+
+### The Sheriff Courts (Scotland) Act 1907 (c. 51)
+
+In section 5 (extension of sheriff’s juridiction), after subsection (1) there shall be inserted the following subsection—
+
+> (1A) Actions of declarator under section 1 of the Presumption of death (Scotland) Act 1977.
+
+## SCHEDULE 2 — Enactments Repealed.
+
+*Section 19.*
+
+![image](http://www.legislation.gov.uk/ukpga/1977/27/images/ukpga_19770027_en_sld_001)
+
+---
+
+[^F1]: Words in s. 1(3)(b)(i) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(10)(c), Sch. 28 para. 45(2); S.S.I. 2005/604, arts. 2(c), 4
+[^F2]: S. 1(3)(c) and word inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(10)(c), Sch. 28 para. 45(3); S.S.I. 2005/604, arts. 2(c), 4
+[^F3]: S. 1(4A) inserted (16.12.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), s. 36, Sch. 1 para. 2; S.S.I. 2014/287, art. 3, Sch.
+[^F4]: Words in s. 3(1) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(10)(c), Sch. 28 para. 46(2); S.S.I. 2005/604, arts. 2(c), 4
+[^F5]: Words in s. 3(3) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(10)(c), Sch. 28 para. 46(3)(a); S.S.I. 2005/604, arts. 2(c), 4
+[^F6]: Words in s. 3(3) substituted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(10)(c), Sch. 28 para. 46(3)(b); S.S.I. 2005/604, arts. 2(c), 4
+[^F7]: Words in s. 4(3) substituted (5.9.1994) by S.I. 1994/1443, para. 3(1), Sch. 3
+[^M1]: 1965 c. 49.
+[^F8]: Words in s. 13 substituted (1.9.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), ss. 28(4)(a), 36; S.S.I. 2014/212, art. 2, Sch. (as amended (1.9.2014) by S.S.I. 2014/218, art. 2(3), Sch.)
+[^F9]: Words in s. 13 inserted (1.9.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), ss. 28(4)(b), 36; S.S.I. 2014/212, art. 2, Sch. (as amended (1.9.2014) by S.S.I. 2014/218, art. 2(3), Sch.)
+[^F10]: Words in s. 13 inserted (1.9.2014) by Marriage and Civil Partnership (Scotland) Act 2014 (asp 5), ss. 28(4)(c), 36; S.S.I. 2014/212, art. 2, Sch. (as amended (1.9.2014) by S.S.I. 2014/218, art. 2(3), Sch.)
+[^M2]: 1926 c. 61.
+[^M3]: 1933 c. 41.
+[^M4]: 1971 c. 58.

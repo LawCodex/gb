@@ -1,0 +1,598 @@
+---
+title: "Offshore Petroleum Development (Scotland) Act 1975"
+identifier: "ukpga/1975/8"
+citation: "1975 c.8"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1975-03-13
+last_amended: 2004-11-28
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1975/8"
+source_modified: 2024-06-19
+retrieved: 2026-10-11
+---
+
+# Offshore Petroleum Development (Scotland) Act 1975
+
+**1975 c.8**
+
+An Act to provide for the acquisition by the Secretary of State of land in Scotland for purposes relating to exploration for and exploitation of offshore petroleum; to enable the Secretary of State to carry out works and facilitate operations for those purposes; to regulate such operations in certain sea areas; to provide for the reinstatement of land used for those purposes; and for purposes connected with those matters.
+
+[13th March 1975]
+
+## Acquisition of land for purposes of offshore petroleum development
+
+### 1 Acquisition of land for purposes connected with offshore petroleum.
+
+(1) The Secretary of State may acquire by agreement or compulsorily any land in Scotland for any purpose relating to exploration for or exploitation of offshore petroleum [[^F1]or the storage of gas in or under the sea bed or the recovery of gas so stored].
+
+(2) The purposes mentioned in subsection (1) above include in particular the provision or use of—
+
+(a) sites or facilities for the construction or assembly of platforms or other installations for use in or under the sea in connection with the exploration for or exploitation of such petroleum [[^F2]or the storage of gas in or under the sea bed or the recovery of gas so stored];
+
+(b) pipe-lines or associated apparatus or works for conveying such petroleum from places under the sea where it is extracted [[^F3]or conveying gas to or from the places in or under the sea bed where it is stored or to be stored];
+
+(c) shore terminals for the reception of such petroleum and for its storage or onward despatch [[^F4]or for the reception of gas and for its storage or onward despatch to or from the places in or under the sea bed where it is stored or to be stored and any treatment incidental thereto]; and
+
+(d) means of access, housing, sources of material or other services or facilities required for the development or use of land for any purpose referred to in this subsection, or for meeting the needs of persons employed or to be employed in connection with any such purpose.
+
+(3) The purposes for which land may be acquired under this Act shall not include the refining of crude petroleum, except so far as is necessary for its onward despatch.
+
+(4) Except in the case of a purchase of land under subsection (5) below, the [^M1]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 shall apply to a compulsory purchase of land by the Secretary of State under this section as it applies to a compulsory purchase of land by a Minister in a case falling within section 1(1) of that Act.
+
+(5) If it appears to the Secretary of State that any land should be acquired under this Act for a purpose mentioned in subsection (2) above as a matter of urgency, he may, instead of being authorised to purchase the land by a compulsory purchase order under the said Act of 1947, be authorised to purchase it by an order made by him under this subsection.
+
+An order made under this subsection is in this Act referred to as an “expedited acquisition order”.
+
+(6) A statutory instrument containing an expedited acquisition order shall not be made unless a draft of it has been laid before, and approved by resolution of, each House of Parliament.
+
+(7) Any such statutory instrument on the expiry of 28 days from the laying of the draft thereof in a House of Parliament shall, whether or not it has been referred to a Committee of that House as aftermentioned, proceed in that House as if its provisions would, apart from this Act, require to be enacted by a public Bill which cannot be referred to a Committee under Standing Orders of that House relating to private Bills.
+
+(8) Schedule 1 to this Act shall have effect as respects the making and revocation of expedited acquisition orders; and any such order shall have effect as provided in Schedule 2 to this Act.
+
+(9) An expedited acquisition order shall not be made in respect of any land unless the Secretary of State is satisfied that the land is required for a purpose—
+
+(a) which is in accordance with planning permission in force at the making of the order, granted on an application made under [[^F5]Part III of the Town and Country Planning (Scotland) Act 1997] or under any enactment replaced by that Part; or
+
+(b) which is in accordance with such permission in force as aforesaid, granted by a general development order under [[^F5]section 30] of that Act or under any enactment replaced by that section; or
+
+(c) which does not involve development for the purposes of that Act.
+
+### 2 Extinction of rights affecting land.
+
+(1) [[^F6]Section 194 of the Town and Country Planning (Scotland) Act 1997] (extinction of rights over land compulsorily acquired under [[^F6]Part VIII] of that Act) shall apply—
+
+(a) upon the completion by the Secretary of State of a compulsory acquisition of land under this Act by means of a compulsory purchase order;
+
+(b) upon his taking possession of land under this Act by means of an expedited acquisition order,
+
+as that section applies upon the completion by an acquiring authority of a compulsory acquisition of land under [[^F6]Part VIII] of that Act.
+
+(2) The provisions of [[^F6]the Town and Country Planning (Scotland) Act 1997] mentioned in subsection (3) below shall apply in relation to—
+
+(a) any land of which possession has been taken under this Act and any other land, being Crown land, which is used or is intended to be used for any purpose referred to in section 1(1) of this Act; and
+
+(b) any relevant operations on that land either by or on behalf of the Secretary of State or any other person,
+
+as they apply in relation to the land, operations and works referred to respectively in those provisions; and accordingly, for the purposes of such application, references in [[^F6]section 196 of the said Act of 1997] to a planning authority shall be construed as references to the Secretary of State.
+
+(3) The provisions referred to in subsection (2) above are—
+
+(a) [[^F6]section 196 of the said Act of 1997] (power to override servitudes and other rights);
+
+(b) [[^F6]section 197] of that Act (provisions as to churches and burial grounds); and
+
+(c) [[^F6]section 198] of that Act (use and development of land for open spaces).
+
+(4) The Secretary of State may by order direct that [[^F6] sections 224 and 227 of the said Act of 1997] (extinction of rights of way, and rights as to apparatus, of statutory undertakers) and [[^F6]sections 232(2) and 233] of that Act so far as applicable for the purposes [[^F6]of sections 224 and 227], shall apply, with such modifications as appear to him to be necessary, in relation to any such land as is mentioned in subsection (2)(*a*) above, as they apply in relation to land referred to in [[^F6]the said section 224] which has been acquired by a Minister.
+
+(5) The Secretary of State may by order extinguish any public rights of way or other public rights which in his opinion are hindering or would hinder any relevant operations carried on or proposed to be carried on, on any such land as is mentioned in subsection (2)(*a*) above, by or on behalf of the Secretary of State or any other person.
+
+(6) An order under subsection (5) above shall, if the Secretary of State is satisfied that it should do so, provide for the creation of an alternative right of way for use as a replacement for any right of way which is extinguished by the order.
+
+(7) In this section references to particular provisions of the said Act of 1972 shall be construed as including references to those provisions as applied in relation to the National Coal Board by regulations made under section 259 of that Act.
+
+## Designated sea areas
+
+### 3 Designated sea areas.
+
+(1) If it appears to the Secretary of State that it is desirable, for the purpose of facilitating or controlling the execution of relevant operations in any part of the sea surrounding Scotland which is within United Kingdom waters, that any of the provisions of sections 4 to 7 of this Act should apply in relation to that area, he may, after consulting such local authorities and such organisations representing the interests of fishermen as appear to him to be concerned, by an order made under this subsection, declare that part of the sea to be a designated sea area.
+
+An order made under this subsection is in this Act referred to as a “sea designation order”.
+
+(2) A statutory instrument containing an order made under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(3) Schedule 3 to this Act shall have effect as respects the making and revocation of sea designation orders.
+
+### 4 Licences in relation to operations in designated sea areas.
+
+(1) No relevant operations shall be executed in a designated sea area unless the person responsible for the operations is authorised to execute them by a licence granted by the Secretary of State under this section.
+
+(2) Subject to subsection (3) below, no other works shall be executed in a designated sea area unless the person responsible for the works is authorised to execute them by such a licence as aforesaid.
+
+(3) Where a designated sea area includes any part of the area of a harbour authority, that authority shall remain entitled to grant any licence or permission for the execution of works in the designated sea area which they could have granted but for the passing of this Act, except to the extent that the said works are, in the opinion of the Secretary of State, relevant operations, and (except as aforesaid) in such a case no licence under this section shall be required; and the authority shall (except as aforesaid) remain entitled without such a licence to execute any works which they could have executed but for the passing of this Act.
+
+(4) The Secretary of State, before granting a licence under this section for any relevant operations within the area of a harbour authority, shall consult with that authority.
+
+(5) A harbour authority, before executing works or granting any licence or permission for executing works in any part of their area which is within a designated sea area, shall, to such extent as the Secretary of State may direct, consult with him.
+
+(6) For the purposes of this section and sections 5 to 7 of this Act, the execution of operations or other works by the Secretary of State in terms of this Act shall be deemed to be licensed under this section, and any reference to a licence shall be construed accordingly; and the reference in subsection (4) above to granting a licence under this section for any relevant operations shall include a reference to executing such operations.
+
+### 5 Terms and effect, etc. of licences under s. 4.
+
+(1) A licence under section 4 of this Act may be granted subject to conditions relating to the conduct of the operations or works subject thereto; and the said conditions may include conditions in respect of any relevant operations (whether or not within the designated sea area to which the licence relates) which are related to the operations or works which are the subject of the licence.
+
+(2) A licence granted in respect of relevant operations in terms of section 4(1) of this Act shall supersede any inconsistent provision in any local enactment or in any byelaw or licence made or granted (whether before or after the granting of the licence first mentioned) by a local authority, harbour authority or other public authority; . . . [^F7]
+
+(3) Subject to subsection (4) below, a licence granted in respect of relevant operations in terms of section 4(1) of this Act shall have the effect that no action shall lie in respect of any interference with any public or private rights of navigation or fishery or other public or private rights in the sea or sea bed in the designated sea area to which the licence relates, arising from operations carried on in accordance with the licence.
+
+(4) Where a private right is interfered with under the authority of subsection (3) above, the person to whom the licence has been granted shall be liable to pay compensation for any resulting loss or damage suffered by the person entitled to the right; and any question of disputed compensation under this subsection shall be referred to and determined by the Lands Tribunal for Scotland.
+
+(5) Any person responsible for operations or works requiring a licence under section 4 of this Act who executes such operations or works without such a licence, and any holder of such a licence who contravenes a condition imposed under subsection (1) above, shall be guilty of an offence, and shall be liable—
+
+(a) on conviction on indictment, to a fine;
+
+(b) on summary conviction, to a fine not exceeding £5,000;
+
+and if the contravention consists in failing to execute any operations or works the Secretary of State may execute them and recover the cost of doing so from the person in default.
+
+(6) The Secretary of State may charge, for the issue of a licence under section 4 of this Act, such fee as he may with the approval of the Treasury determine.
+
+(7) A licence granted under section 4 of this Act may at any time be varied or revoked by the Secretary of State.
+
+### 6 Regulations for protection and control of operations in designated sea areas.
+
+(1) The Secretary of State may make regulations with respect to designated sea areas, and such regulations may include provisions with respect to—
+
+(a) the regulation and protection of relevant operations and other works executed in a designated sea area in accordance with a licence granted under section 4 of this Act;
+
+(b) the prohibition or restriction of entry into or into any part of any such area, and the control and protection of navigation there;
+
+(c) the organisation or control of pilotage in any such area;
+
+(d) the protection of fishing in any such area;
+
+(e) the safety of persons in any such area;
+
+(f) the prevention of pollution and nuisance in any such area;
+
+(g) the levying by the Secretary of State of charges on vessels, platforms and other installations located in or entering or leaving any such area;
+
+(h) enabling the Secretary of State to regulate, for the purposes of this subsection, the activities of any persons and the movement of any vehicles or vessels in any such area;
+
+and such regulations may apply to one or more designated sea areas and may make different provision in respect of different designated sea areas or parts thereof.
+
+(2) Before making, varying or revoking regulations under this section, the Secretary of State shall consult any harbour authority . . . [^F8] whose area includes any part of a designated sea area to which the regulations relate.
+
+(3) Regulations made under this section shall supersede any inconsistent provision in any local enactment or in any byelaw or licence made or granted (whether before or after the making of the regulations) by a local authority, harbour authority or other public authority.
+
+(4) Any person who contravenes any regulation made under this section shall be guilty of an offence, and shall be liable—
+
+(a) on conviction on indictment, to a fine;
+
+(b) on summary conviction, to a fine not exceeding £5,000.
+
+### 7 Execution and enforcement of regulations, etc. in designated sea areas.
+
+(1) The power of the Secretary of State to enforce the conditions of licences granted under section 4 of this Act and to execute and enforce regulations made under section 6 of this Act may be exercised by him or his officers or servants, or may by order be delegated by him, in relation to any designated sea area, to any harbour authority or local authority designated by him.
+
+(2) The power of the Secretary of State referred to in subsection (1) above shall include power, for the purposes of execution and enforcement as aforesaid, to operate any vehicle or vessel within designated sea areas, and to acquire the same for such purposes.
+
+(3) For the purpose of executing or enforcing regulations made under section 6 of this Act, any officer or servant of the Secretary of State or of a harbour authority or local authority to whom the powers of the Secretary of State have been delegated under subsection (1) above may, if authorised to execute or enforce the said regulations,
+
+(a) at any reasonable time board or enter any vessel, platform or other installation located in a designated sea area;
+
+(b) if the person in charge of the said vessel, platform or other installation cannot be found or if he neglects or refuses to do anything reasonably required for the purpose of execution or enforcement of the said regulations, himself (at the expense of the owner) do anything reasonably required for that purpose, including the removal of any vessel.
+
+(4) An order in terms of subsection (1) above may confer, upon the authority to whom the powers are delegated, jurisdiction to exercise those powers within any part of the designated sea area which is outside the area of the authority, but before making an order which confers jurisdiction as aforesaid to exercise powers in an area which includes any part of the area of a harbour authority, the Secretary of State shall consult with the said harbour authority.
+
+(5) The Secretary of State may defray or contribute towards any expenses incurred by any authority in the exercise of the powers delegated to them under subsection (1) above.
+
+(6) Proceedings against any person for an offence under section 5 or 6 of this Act may be taken, and the offence may for all incidental purposes be treated as having been committed, at any place in the United Kingdom where he is for the time being.
+
+## Reinstatement of land
+
+### 8 Reinstatement of land held under Act.
+
+(1) If it appears to the Secretary of State that any land of which possession has been taken under this Act is no longer needed for the purposes of this Act, he shall, subject to subsection (2) below, reinstate it, or secure its reinstatement, to the condition in which it was before such possession was taken so far as in his opinion, after consulting such local authorities and such other bodies as appear to him to be concerned, is reasonably practicable.
+
+(2) Subsection (1) above shall not apply where the Secretary of State is satisfied, after consulting as aforesaid, that the land—
+
+(a) should be used for a purpose other than that for which it was formerly used as aforesaid; or
+
+(b) should not for any other reason be reinstated as aforesaid;
+
+and in a case within paragraph (*a*) above the Secretary of State may, if he thinks fit, carry out, or contribute to the cost of, works for making the land suitable for use for the proposed purpose.
+
+### 9 Arrangements to ensure reinstatement of other land developed for purposes connected with offshore petroleum.
+
+(1) Where a planning authority grant planning permission for any development of land for the purpose of any relevant operation, not being land of which possession has been taken under this Act, and where the permission is granted subject to a condition requiring the carrying out of any works required for the reinstatement of land, the authority may require that, before the commencement of such development, arrangements satisfactory to them should be made for the purpose of ensuring that money is set aside or otherwise made available or guaranteed, under the control of the authority or otherwise, for payment of the cost of such reinstatement; and any such requirement shall have effect as if it were a further condition of the grant of planning permission, and shall be enforceable accordingly.
+
+(2) No requirement under subsection (1) above may be imposed except with the approval of the Secretary of State.
+
+(3) The Secretary of State may—
+
+(a) direct the planning authority to impose a requirement under subsection (1) above in the case of any development to which that subsection applies;
+
+(b) impose such a requirement in the case of any such development in respect of which the application for planning permission has been referred to him under [[^F9]section 46 of the Town and Country Planning (Scotland) Act 1997], and in such a case the said subsection (1) shall apply with the substitution for references to the planning authority of references to the Secretary of State.
+
+(4) The Secretary of State may give directions with regard to the exercise of the power conferred by this section and to the terms of arrangements thereunder, and such directions may either be given generally or may relate to a particular application or to applications of a class specified in the direction, and may make different provision in respect of different cases.
+
+## Miscellaneous and general
+
+### 10 Execution of works and disposal of land held under Act.
+
+(1) The Secretary of State may, with the approval of the Treasury, carry out—
+
+(a) on land of which possession has been taken under this Act; and
+
+(b) on other land, by agreement with the persons interested therein,
+
+works for any purpose for which land may be acquired under this Act and (in any designated sea area) works for facilitating the execution of relevant operations, and may, with the like approval, defray or contribute towards the cost of such works.
+
+(2) The Secretary of State may dispose of the whole of his interest in any land, of which possession has been taken under this Act, to any body or person in order to enable them to provide any such housing, services or facilities as are required in terms of paragraph (*d*) of section 1(2) of this Act; but, save as aforesaid, the Secretary of State shall not dispose of the whole of his interest in any such land unless it appears to him—
+
+(a) that the land is no longer needed for any purpose for which land may be acquired under this Act; and
+
+(b) either that such steps have been taken as appear to him to be required for the purpose of reinstating the land in terms of subsection (1) of section 8 of this Act, or that, in terms of subsection (2) of that section, the said subsection (1) does not apply in relation to the land.
+
+(3) [[^F10]Scottish Enterprise, Highlands and Islands Enterprise] or any local authority may act as agent for the Secretary of State in the carrying out of any works under this section or under section 8 of this Act, and may provide other services for the Secretary of State in relation to his functions under this Act.
+
+(4) The Secretary of State may defray or contribute towards any expenses incurred by [[^F11]Scottish Enterprise, Highlands and Islands Enterprise] or by a local authority in relation to any functions performed by [[^F12]it or]them under subsection (3) above.
+
+### 11 Loans and guarantees by Secretary of State for facilitating relevant operations.
+
+(1) The Secretary of State may, with the approval of the Treasury, make loans to any person for the purpose of enabling him or assisting him to make arrangements for the execution of relevant operations.
+
+(2) The Secretary of State may, with the approval of the Treasury, guarantee the payment by any person of any sum payable by that person in respect of principal or interest under arrangements (whether by way of loan or otherwise) entered into by that person for the purpose of the execution of relevant operations.
+
+(3) Any loan made under this section, and any sums issued in fulfilment of a guarantee given under this section, shall be paid out of money provided by Parliament, and shall be made or issued on such terms as to recovery by the Secretary of State of principal and interest and otherwise as the Secretary of State may with the approval of the Treasury determine.
+
+### 12 Supplementary provisions as to acquisition and appropriation of land.
+
+(1) The power of the Secretary of State to acquire land compulsorily under this Act shall include power to acquire a servitude or other right over land by the creation of a new right.
+
+(2) For the purpose of the acquisition of land by agreement by the Secretary of State under this Act, the Lands Clauses Acts (except the provisions relating to the acquisition of land otherwise than by agreement and the provisions relating to access to the special Act, and except sections 120 to 125 of the [^M2]Lands Clauses Consolidation (Scotland) Act 1845) and section 6 and sections 70 to 78 of the [^M3]Railways Clauses Consolidation (Scotland) Act 1845 as originally enacted and not as amended for certain purposes by section 15 of the [^M4]Mines (Working Facilities and Support) Act 1923, shall be incorporated with section 1 of this Act, and in construing those Acts for the purposes of that section, that section shall be deemed to be the special Act and the Secretary of State to be the promoter of the undertaking or company, as the case may require.
+
+(3) Where the Secretary of State holds land for a purpose other than a purpose for which land may be acquired under this Act, he may appropriate it for the latter purpose; and any reference in this Act to land of which possession has been taken under this Act includes a reference to land appropriated by him under this subsection.
+
+(4) For the avoidance of doubt it is hereby declared that the power to purchase land by an expedited acquisition order is exercisable notwithstanding any enactment providing that the land is or may be declared to be inalienable.
+
+### 13 Compensation for adjoining owners and exclusion of actions for nuisance.
+
+(1) Subject to subsection (2) below, the Secretary of State may by order direct that the provisions of Parts I and II of the [^M5]Land Compensation (Scotland) Act 1973 (compensation for depreciation caused by, and mitigation of injurious effect of public works) shall apply, with such modifications as appear to him to be necessary, in relation to any relevant operations carried on or proposed to be carried on by or on behalf of the Secretary of State or any other person, as those provisions apply in relation to the use of public works.
+
+(2) No action for nuisance shall lie in respect of operations in relation to which the provisions mentioned in subsection (1) above apply by virtue of an order under that subsection.
+
+### 14 Power to require information as to interests in land.
+
+(1) For the purpose of enabling the Secretary of State to make any order or serve any notice which he is authorised or required by this Act to make or serve, he may require the occupier of any land and any person who either directly or indirectly receives rent in respect of any land to state in writing the nature of his interest therein and the name and address of any other person known to him as having an interest therein, whether as [^F13]... owner, heritable creditor, lessee or otherwise.
+
+(2) Any person who, having been required in pursuance of this section to give any information, fails to give that information shall be guilty of an offence and liable on summary conviction to a fine not exceeding [[^F14]level 3 on the standard scale].
+
+(3) Any person who, having been so required to give any information, knowingly makes any mis-statement in respect thereof shall be guilty of an offence and liable on summary conviction to a fine not exceeding £400 or on conviction on indictment to imprisonment for a term not exceeding two years or to a fine or both.
+
+### 15 Rights of entry.
+
+(1) Any person duly authorised in writing by the Secretary of State may, at any reasonable time, enter any land for the purpose of surveying it in connection with the exercise of the Secretary of State’s powers under this Act to acquire land or for the purpose of affixing any notice which under this Act is required to be affixed thereon.
+
+(2) [[^F15]Sections 269(6) and 270 of the Town and Country Planning (Scotland) Act 1997], (ancillary provisions about rights of entry) shall apply in relation to this section as they apply in relation to [[^F15]section 269].
+
+### 16 Application to Crown land.
+
+(1) The power to acquire land under this Act may be exercised in relation to any private interest in Crown land.
+
+(2) If the Secretary of State considers it expedient for the purpose of enabling him to acquire any private interest that may subsequently be shown to exist in any land, he may make a compulsory purchase order or expedited acquisition order in terms of this Act in respect of that land notwithstanding that there is or may be no interest in the land other than a Crown interest.
+
+(3) An order made in respect of any land by virtue of subsection (2) above shall not affect any Crown interest in the land but—
+
+(a) any general vesting declaration executed by the Secretary of State under [[^F16]Schedule 15 to the Town and Country Planning (Scotland) Act 1997] in respect of the land shall have effect in relation to any private interest therein (whether or not ascertained when the declaration is executed);
+
+(b) the Secretary of State shall be liable to pay, in respect of any such private interest in relation to which the declaration has effect, the like compensation and the like interest on the compensation agreed or awarded as he would have been required to pay if he had, at the time mentioned in subsection (4) below, taken possession under paragraph 3 of Schedule 2 to the [^M6]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947.
+
+(4) The time referred to in subsection (3)(*b*) above is, in the case of a declaration executed by virtue of a compulsory purchase order, the time when the interest vested in the Secretary of State by virtue of the declaration or entry was taken, whichever is the earlier, and, in the case of a declaration executed by virtue of an expedited acquisition order, the time when the land vested in the Secretary of State or entry was taken, whichever is the earlier.
+
+(5) Without prejudice to subsection (3) above, none of the provisions of this Act relating to Crown land shall be construed as prejudicing any Crown interest therein.
+
+(6) In this section “private interest” means any interest other than a Crown interest.
+
+### 17 Financial provisions.
+
+(1) There shall be defrayed out of moneys provided by Parliament—
+
+(a) any expenses incurred by the Secretary of State under this Act;
+
+(b) any increase attributable to this Act in the sums payable out of money so provided under any other Act;
+
+and any sums received by the Secretary of State by virtue of this Act shall be paid into the Consolidated Fund.
+
+(2) The aggregate of—
+
+(a) expenditure of the Secretary of State under section 10 of this Act, plus
+
+(b) loans by the Secretary of State under section 11 of this Act, plus
+
+(c) liabilities of the Secretary of State under any guarantees given by him under the said section 11 (exclusive of any liability in respect of interest on a principal sum so guaranteed),
+
+less any sums received by the Secretary of State—
+
+(i) in respect of the recovery of expenditure incurred by him under the said section 10, and
+
+(ii) by way of repayment of loans under the said section 11, and
+
+(iii) by way of repayment of principal sums paid to meet guarantees under the said section 11,
+
+shall not at any time exceed £40 million.
+
+### 18 Savings.
+
+Nothing in this Act shall affect—
+
+(a) the powers of the Crown Estate Commissioners;
+
+(b) the powers of the Commissioners of Northern Lighthouses;
+
+[[^F17](c) the [^M7]Pilotage Act 1987;]
+
+(d) Part II of the [^M8]Coast Protection Act 1949 (safety of navigation);
+
+(e) the [^M9]Land Powers (Defence) Act 1958;
+
+(f) the [^M10]Pipe-lines Act 1962;
+
+(g) the [^M11]Mineral Workings (Offshore Installations) Act 1971;
+
+(h) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F18]
+
+(i) the [^M12]Health and Safety at Work etc. Act 1974;
+
+[[^F19](j) Part II of the Food and Environment Protection Act 1985,]
+
+but this section shall not enable any person to execute any relevant operations requiring a licence under section 4 of this Act without obtaining such a licence.
+
+### 19 Orders, etc.
+
+(1) The power to make any order or regulation under this Act shall be exercisable by statutory instrument.
+
+(2) The power to make any order or direction under this Act includes power to vary or revoke a previous order or direction.
+
+(3) Any order, regulation or direction made under this Act may contain such incidental, consequential and supplemental provisions as appear to the Secretary of State to be necessary or proper for giving full effect thereto.
+
+### 20 Short title, interpretation and extent.
+
+(1) This Act may be cited as the Offshore Petroleum Development (Scotland) Act 1975.
+
+(2) In this Act—
+
+- “Crown land” means land in which there is a Crown interest;
+
+- “Crown interest” means an [^F20]... interest belonging to Her Majesty in right of the Crown or belonging to a government department or held in trust for Her Majesty for the purposes of a government department, and includes any estate or interest held in right of the Prince and Steward of Scotland;
+
+- “designated sea area” has the meaning conferred by section 3(1) of this Act;
+
+- “expedited acquisition order” means an order made under section 1(5) of this Act;
+
+- “harbour authority” has the same meaning as in the [^M13]Harbours Act 1964;
+
+- [[^F21] “ installation ”includes any floating structure or device maintained on a station by whatever means; ]
+
+- [[^F22] “ land ” includes the foreshore and other land covered with water and, except where the context otherwise requires—
+
+  - ((a)) any interest in, or right over, land; and
+  - ((b)) any other heritable property]
+
+- “local authority” means (before 16th May 1975) a county council or town council and (thereafter) any local authority within the meaning of the [^M14]Local Government (Scotland) Act 1973;
+
+- “offshore petroleum” means petroleum situated under any part of the sea bed;
+
+- “petroleum” has the same meaning as in [[^F23] Part I of the Petroleum Act 1998];
+
+- “relevant operations” means operations for any purpose for which land may be acquired under this Act, and operations for or in connection with the offshore construction, assembly and testing of platforms and other installations for use in or under the sea in connection with exploration for or exploitation of offshore petroleum [[^F24]or the storage of gas in or under the sea bed or the recovery of gas so stored];
+
+- . . . [^F25]
+
+- “the sea” includes any area submerged at mean high water springs, and also includes, so far as the tide flows at mean high water springs, an estuary or an arm of the sea and the waters of any channel, creek, bay or river;
+
+- “the sea bed” includes its subsoil;
+
+- “sea designation order” means an order made under section 3(1) of this Act; and
+
+- “United Kingdom waters” means any part of the sea within the seaward limits of United Kingdom territorial waters.
+
+(3) Except where the context otherwise requires, this Act shall apply in relation to any [^F26]... interest in or right over the sea bed as it applies in relation to land, and the [^M15]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 and the compulsory purchase enactments specified in paragraph 1(2) of Schedule 2 to this Act shall apply accordingly.
+
+(4) Except where the context otherwise requires, references in this Act to any enactment are references to that enactment as amended or extended by any other enactment.
+
+(5) This Act (except section 7(6)) shall extend to Scotland only.
+
+## SCHEDULE 1 — Making and Revocation of Expedited Acquisition Orders
+
+*Section 1.*
+
+**1** (1) Before making an expedited acquisition order the Secretary of State shall—
+
+(a) serve on every owner, lessee and occupier of any of the land to be specified in the order; and
+
+(b) publish in two successive weeks in one or more newspapers circulating in the locality in which that land is situated, in the London and Edinburgh Gazettes and, if any of the land is situated below the level of mean high water springs, in Lloyd’s List,
+
+a notice complying with this paragraph.
+
+(2) Except where the order relates only to land below the level of mean high water springs, the Secretary of State shall also before making the order affix to a conspicuous object or objects on the land a notice or notices complying with this paragraph.
+
+(3) Every notice under this paragraph shall—
+
+(a) state that the Secretary of State is considering making the order;
+
+(b) describe the land to which it relates; and
+
+(c) state that representations in writing with respect to the proposed order may be made to the Secretary of State at a specified address and within a specified period, not ending earlier than 21 days from the date on which the notice is first published.
+
+**2** (1) If any representations with respect to the proposed order are duly made the Secretary of State shall consider those representations; but the Secretary of State shall not be obliged to cause any inquiry to be held or afford to any person an opportunity of being heard.
+
+(2) After considering any such representations, the Secretary of State may make the order either without modification or subject to such modifications as he thinks fit.
+
+(3) If the order is made, the Secretary of State shall—
+
+(a) serve a notice to that effect together with a copy of the order on every owner, lessee and occupier of any of the land which is the subject of the order; and
+
+(b) publish and affix notices to that effect in the manner required by paragraphs 1(1)(*b*) and (2) above;
+
+**4** If the Secretary of State decides not to make the order, he shall serve notices to that effect on the persons, and publish and affix such notices in the manner referred to respectively in paragraphs (*a*) and (*b*) of paragraph 3 above.
+
+**5** (1) Subject to the provisions of this paragraph, the Secretary of State may by statutory instrument revoke the order and, if he does so, he shall serve notices to that effect on the persons, and publish and affix such notices in the manner referred to respectively in paragraphs (*a*) and (*b*) of paragraph 3 above.
+
+(2) No order shall be revoked after possession is taken of the land under Schedule 2 to this Act.
+
+**6** Section 5(3) of the [^M16]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 and paragraph 19 of Schedule 1 to that Act shall apply to the service of notices under this Schedule.
+
+**7** A certificate by the Secretary of State that all or any of the requirements of paragraphs 1 and 3 above have been complied with in respect of the order, and have been complied with before a specified date, shall be conclusive evidence of those facts in any legal proceedings whether brought before or after the completion of the compulsory acquisition of the land specified in the order.
+
+## SCHEDULE 2 — EFFECT OF EXPEDITED ACQUISITION ORDERS
+
+*Section 1.*
+
+### Application of compulsory purchase enactments
+
+**1** (1) As from the date on which the order comes into operation the compulsory purchase enactments shall have effect—
+
+(a) as if the Secretary of State had been authorised to acquire the land specified in the order by a compulsory purchase order coming into operation on that date; and
+
+(b) as if the compulsory purchase of the land authorised by the order were a compulsory purchase to which the provisions of Schedule 1 to the [^M17]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 apply;
+
+and references in the compulsory purchase enactments to a compulsory purchase order shall be construed accordingly.
+
+(2) In sub-paragraph (1) above “the compulsory purchase enactments” means the Lands Clauses Acts and section 6 and sections 70 to 78 of the [^M18]Railways Clauses Consolidation (Scotland) Act 1845, the [^M19]Land Compensation (Scotland) Act 1963, [[^F27]section 195 of the Town and Country Planning (Scotland) Act 1997 and Schedule 15] to that Act, and Parts III and IV of the [^M20]Land Compensation (Scotland) Act 1973.
+
+(3) In their application by virtue of this paragraph, sections 34(3)(*a*) and 36(6)(*a*) of the said Act of 1973 (material date for entitlement to disturbance payment or rehousing in case of compulsory acquisition under compulsory purchase order) shall have effect as if the references to the time of first publication of the notices there mentioned were references to the time of first publication of the notice required by paragraph 1(1)(*b*) of Schedule 1 to this Act.
+
+(4) In their application to the purchase of land authorised by the order, sections 49 and 50 of the said Act of 1973 (notice to treat in respect of part of agricultural land) shall have effect as if the person mentioned in subsection (1) of section 49 included a person having an interest no greater than as tenant for a year or from year to year and as if subsection (3)(*a*) of that section were omitted.
+
+(5) Paragraph 6 of Schedule 2 to the said Act of 1947 (which provides for the incorporation of certain provisions relating to minerals) shall have effect in relation to the order as if it were a compulsory purchase order made in accordance with the provisions of Schedule 1 to that Act.
+
+### Power to take possession
+
+**2** (1) The Secretary of State shall be entitled to enter on and take possession of the land specified in the order at any time after the expiration of the period of 14 days beginning with the date on which the order comes into operation.
+
+(2) Sub-paragraph (1) above has effect notwithstanding sections 83 and 114 of the [^M21]Lands Clauses Consolidation (Scotland) Act 1845 (compensation to be paid before entry) and paragraph 3 of Schedule 2 to the said Act of 1947 (notice before entry), but where the Secretary of State takes possession of land by virtue of this paragraph he shall be liable to pay the like compensation and the like interest on the compensation agreed or awarded, as he would have been required to pay if he had taken possession of the land under the said paragraph 3.
+
+(3) Where the Secretary of State is authorised under this paragraph to enter on and take possession of land, and the owner or occupier of any of that land, or any other person, refuses to give up possession of it, then a copy of the order shall be sufficient warrant for the ejection of the person refusing to give up or hindering possession; and in such a case section 89 of the said Act of 1845 (proceedings in case of refusal to deliver possession of lands) shall not apply.
+
+### Duty to acquire the land if possession is taken
+
+**3** (1) As soon as may be after taking possession of any land under paragraph 2 above the Secretary of State shall either—
+
+(a) serve notices to treat in respect of that land in accordance with section 17 of the said Act of 1845, or
+
+(b) execute a general vesting declaration in respect of that land under [[^F28]Schedule 15 to the Town and Country Planning (Scotland) Act 1997].
+
+(2) Sub-paragraph (1)(*a*) above requires the service of a notice to treat on a person having an interest in the land no greater than as tenant for a year or from year to year as well as on persons having greater interests; and the power conferred by section 39 of the [^M22]Land Compensation (Scotland) Act 1963 to withdraw a notice to treat shall not be exercisable in respect of any notice to treat served by the Secretary of State in respect of land specified in the order.
+
+(3) The power to execute a general vesting declaration in respect of the land specified in the order shall not be exercisable by the Secretary of State until he has taken possession of the land; but the foregoing provision shall not apply where the land was included in the order by virtue of section 15(2) of this Act.
+
+**4** (1) In their application to a general vesting declaration executed by the Secretary of State in respect of land specified in the order, the provisions of [[^F29] Schedule 15 to the Town and Country Planning (Scotland) Act 1997] shall have effect with the following modifications.
+
+(2) The following provisions of that Schedule shall be omitted—
+
+(a) in paragraph 1(1) the words following “specified in the declaration”;
+
+(b) in paragraph 6 the words following “could have served such a notice”;
+
+(c) in paragraph 7 the words “together with the right to enter upon and take possession of it”;
+
+(d) in paragraph 18 the words following “paragraphs 6 to 8 above”;
+
+(e) paragraphs 2, 3, 5, 8, 14, 21, 22(*a*), 24, 26, 29, 30 and 38;
+
+but the omission of paragraph 26 is without prejudice to the making by the Tribunal of any such determination as is mentioned in that paragraph.
+
+(3) In paragraph 4 of that Schedule for the words following “shall serve” there shall be substituted the words “on every owner, lessee and occupier of any land specified in the declaration a notice specifying the land, stating the effect of the declaration, referring to the rights of objection to severance exercisable in respect of the declaration and inviting claims for compensation.”
+
+(4) For any reference in Part II of that Schedule to paragraphs 6 to 8, there shall be substituted a reference to paragraphs 6 and 7.
+
+(5) For paragraph 20(2) of that Schedule there shall be substituted—
+
+> (2) A notice of objection to severance served by any person shall not have effect if it is served more than twenty-eight days after the date on which he first had knowledge of the execution of the general vesting declaration.
+
+(6) In paragraph 23 of that Schedule for the words “sub-paragraph (*a*)” there shall be substituted the words “sub-paragraph (*b*)”.
+
+## SCHEDULE 3 — MAKING AND REVOCATION OF SEA DESIGNATION ORDERS
+
+*Section 3.*
+
+**1** Before making a sea designation order the Secretary of State shall publish in two successive weeks in one or more local newspapers circulating in the localities near to the designated area and in such other newspapers as he thinks appropriate, in the London and Edinburgh Gazettes and in Lloyd’s List a notice—
+
+(a) stating that the Secretary of State is considering making the order;
+
+(b) describing the parts of the sea to which it relates; and
+
+(c) stating that representations in writing with respect to the proposed order may be made to the Secretary of State at a specified address and within a specified period, not ending earlier than 21 days from the date on which the notice is first published.
+
+**2** (1) If any representations with respect to the proposed order are duly made the Secretary of State shall consider those representations; but the Secretary of State shall not be obliged to cause any inquiry to be held or afford to any person an opportunity of being heard.
+
+(2) After considering any such representations, the Secretary of State may make the order either without modification or subject to such modifications as he thinks fit.
+
+**3** If the Secretary of State decides to make the order he shall publish a notice to that effect in the manner required by paragraph 1 above.
+
+**4** If the Secretary of State decides not to make the order he shall publish a notice to that effect in the manner required by paragraph 1 above.
+
+**5** (1) The Secretary of State may by statutory instrument revoke the order and, if he does so, he shall publish a notice to that effect in the manner required by paragraph 1 above.
+
+(2) The revocation of the order shall not affect any licence or regulation previously granted or made under section 4 or 6 of this Act in relation to the area to which the order relates.
+
+---
+
+[^F1]: Words inserted by Oil and Gas (Enterprise) Act 1982 (c. 23, SIF 86), s. 26(1)(*a*)
+[^F2]: Words inserted by Oil and Gas (Enterprise) Act 1982 (c. 23, SIF 86), s. 26(1)(*b*)
+[^F3]: Words inserted by Oil and Gas (Enterprise) Act 1982 (c. 23, SIF 86), s. 26(1)(*c*)
+[^F4]: Words inserted by Oil and Gas (Enterprise) Act 1982 (c. 23, SIF 86), s. 26(1)(*d*)
+[^M1]: 1947 c. 42.
+[^F5]: Words in s. 1(9)(a)(b) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 24(1)
+[^F6]: Words in s. 2(1)(2)(3)(a)(b)(c)(4) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 24(2)(a)(b)(c)(d)
+[^F7]: Words repealed by Ports (Finance) Act 1985 (c. 30, SIF 58), s. 6(2), Sch.
+[^F8]: Words repealed by Pilotage Act 1987 (c. 21, SIF 111), s. 32(4)(5), Sch. 2 para. 3, Sch. 3
+[^F9]: Words in s. 9(3)(b) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 24(3)
+[^F10]: Words substituted by Enterprise and New Towns (Scotland) Act 1990 (c. 35, SIF 64), s. 38(1), Sch. 4 para. 5(a)
+[^F11]: Words substituted by Enterprise and New Towns (Scotland) Act 1990 (c. 35, SIF 64), s. 38(1), Sch. 4 para. 5(b)
+[^F12]: Words inserted by Enterprise and New Towns (Scotland) Act 1990 (c. 35, SIF 64), s. 38(1), Sch. 4 para. 5(b)
+[^M2]: 1845 c. 19.
+[^M3]: 1845 c. 33.
+[^M4]: 1923 c. 20.
+[^M5]: 1973 c. 56.
+[^F13]: Word in s. 14 repealed (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 12 para. 36(2), 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^F14]: Words substituted by virtue of Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1), ss. 289F, 289G
+[^F15]: Words in s. 15(2) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 24(4)
+[^F16]: Words in s. 16(3)(a) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 24(5)
+[^M6]: 1947 c. 42.
+[^F17]: S. 18 para.(*c*) substituted by Pilotage Act 1987 (c. 21, SIF 111), s. 32(4)(5), Sch. 2 para. 1(3)(b)
+[^M7]: 1987 c. 21.
+[^M8]: 1949 c. 74.
+[^M9]: 1958 c. 30.
+[^M10]: 1962 c. 58.
+[^M11]: 1971 c. 61.
+[^F18]: S. 18 para.(*h*) repealed by Food and Environment Protection Act 1985 (c. 48, SIF 111), s. 15(5)(*a*)
+[^M12]: 1974 c. 37.
+[^F19]: S. 18 para.(*j*) added by Food and Environment Protection Act 1985 (c. 48, SIF 111), s. 15(5)(*b*)
+[^F20]: Words in s. 20(2) repealed (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 12 para. 36(3)(a)(i), 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^M13]: 1964 c. 40.
+[^F21]: Definition inserted by Oil and Gas (Enterprise) Act 1982 (c. 23, SIF 86), s. 26(2)(*a*)
+[^F22]: Words in s. 20(2) substituted (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 12 para. 36(3)(a)(ii) (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^M14]: 1973 c. 65.
+[^F23]: S. 20(2): words in definition of “petroleum” substituted (15.2.1999) by 1998 c. 17, s. 50, Sch. 4 para. 6 (with Sch. 3 para. 5(1)); S.I. 1999/161, art. 2(1)
+[^F24]: Words inserted by Oil and Gas (Enterprise) Act 1982 (c.23, SIF 86), s. 26(2)(*b*)
+[^F25]: Definition repealed by Scottish Development Agency Act 1975 (c. 69), Sch. 5
+[^F26]: Words in s. 20(3) repealed (28.11.2004) by Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5), ss. 71, 77(2), Sch. 12 para. 36(3)(b), 13 Pt. 1 (with ss. 58, 62, 75); S.S.I. 2003/456, art. 2
+[^M15]: 1947 c. 42.
+[^M16]: 1947 c. 42.
+[^M17]: 1947 c. 42.
+[^M18]: 1845 c. 33.
+[^M19]: 1963 c. 51.
+[^F27]: Words in Sch. 2 para. 1(2) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 24(6)(a)
+[^M20]: 1973 c. 56.
+[^M21]: 1845 c. 19.
+[^F28]: Words in Sch. 2 para. 3(1)(b) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 24(6)(b)
+[^M22]: 1963 c. 51.
+[^F29]: Words in Sch. 2 para. 4(1) substituted (27.5.1997) by 1997 c. 11, ss. 4, 6(2), Sch. 2 para. 24(6)(c)

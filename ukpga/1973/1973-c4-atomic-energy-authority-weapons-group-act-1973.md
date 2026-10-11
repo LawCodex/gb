@@ -1,0 +1,198 @@
+---
+title: "Atomic Energy Authority (Weapons Group) Act 1973"
+identifier: "ukpga/1973/4"
+citation: "1973 c.4"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1973-03-06
+last_amended: 2004-07-22
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1973/4"
+source_modified: 2014-12-01
+retrieved: 2026-10-11
+---
+
+# Atomic Energy Authority (Weapons Group) Act 1973
+
+**1973 c.4**
+
+An Act to transfer to the Secretary of State the Weapons Group of the United Kingdom Atomic Energy Authority, and for connected purposes; and to modify section 2 of the Atomic Energy Authority Act 1954 in respect of the Authority’s power to do work on explosive nuclear devices.
+
+[6th March 1973]
+
+## 1 Transfer of Atomic Energy Authority Weapons Group to Secretary of State.
+
+(1) On a day appointed by the Secretary of State by order made by statutory instrument the undertaking of the United Kingdom Atomic Energy Authority (“the Authority”) shall cease to comprise so much of it as is known as the Weapons Group; and it shall on and after that date, be for the Secretary of State (and not the Authority, except under contract to the Secretary of State, or by his direction or with his approval) to carry on any activities which before that day were activities of the Group and involved the doing of work on explosive nuclear devices.
+
+(2) On the appointed day there shall be transferred to the Secretary of State for Defence by virtue of this Act and without further assurance—
+
+(a) all such lands and premises as immediately before the appointed day are the property of the Authority and were on 1st November 1972 the property of the Authority and recorded in the Authority’s books as held by the Weapons Group;
+
+(b) without prejudice to the foregoing but subject to the following subsection, all such property, rights, liabilities and obligations as immediately before the appointed day belonged to or were incumbent upon the Authority and appertained to the Weapons Group.
+
+(3) There are excepted from the transfer effected by subsection (2) above any rights, liabilities or obligations of the Authority under—
+
+(a) any contract of employment;
+
+(b) any agreement for the rendering by a person of services to the Authority in his capacity as a member of the Authority; or
+
+(c) any pension scheme or agreement relating to a pension scheme;
+
+and there are also excepted from that transfer the interests, property, rights, liabilities and obligations specified in the Schedule to this Act (patents and other industrial property).
+
+## 2 Weapons Group employees.
+
+(1) Every person who, immediately before the appointed day, is an employee of the Authority engaged in the Weapons Group shall on that day cease to be employed by the Authority but may, in pursuance of arrangements made by the Secretary of State in connection with the transfer to him of the Weapons Group, be taken into employment in the civil service of the State; and notwithstanding anything in section 22 of the [^M1]Redundancy Payments Act 1965 (implied or constructive termination of contract) the operation of this subsection in relation to any person shall not be treated for the purposes of that Act as termination by the Authority of that person’s contract of employment.
+
+(2) Nothing in subsection (1) above affects the office of special constable held by any person who, immediately before the appointed day, is a special constable by virtue of section 3 of the [^M2]Special Constables Act 1923 as applied by Schedule 3 to the [^M3]Atomic Energy Authority Act 1954, and who as from that day becomes employed in the civil service of the State in pursuance of the arrangements referred to in that subsection; nor shall the subsection affect any duty, power or privilege of such a person in his capacity as a special constable in relation to any premises transferred by virtue of section 1 of this Act; but in relation to such a special constable section 3(2) of the said Act of 1923 (control of constables and power to suspend or terminate their appointments) shall, as from the appointed day, have effect as if any reference to the department on whose nomination he was appointed was a reference to the Secretary of State.
+
+(3) A person who—
+
+(a) on or after the appointed day ceases to be employed by the Authority (whether under subsection (1) above or otherwise) and as from ceasing to be so employed becomes employed in the civil service of the State in pursuance of the arrangements referred to in subsection (1); and
+
+(b) was, immediately before ceasing to be so employed, included in a pension scheme maintained by the Authority or would (had he remained in that employment) have become eligible for inclusion in such a pension scheme on attaining an age or fulfilling a condition specified in the scheme,
+
+may continue to be included in the scheme or, as the case may be, retain his eligibility to be included in it, until such time as he becomes subject to a scheme made by the Minister for the Civil Service under section 1 of the [^M4]Superannuation Act 1972; and the Authority’s pension scheme may continue to apply to any such person notwithstanding that he is no longer an employee of the Authority.
+
+## 3 Powers of Secretary of State in relation to transfer under s. 1.
+
+[^F1]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F1]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F1]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) [^F2]...A certificate issued by the Secretary of State to the effect that any property of the Authority was, or was not, transferred by virtue of section 1, or that any rights, liabilities or obligations of the Authority specified in the certificate were, or were not, so transferred shall be conclusive evidence of the matters stated in the certificate; [^F2]...
+
+(5) Before [^F3]... issuing any certificate under this section in relation to any matter the Secretary of State shall consult the Authority; and on [^F3]...issuing any certificate thereunder the Secretary of State shall send a copy of it to the Authority.
+
+## 4 General transitional provisions.
+
+(1) Where immediately before the appointed day there is in force an agreement which—
+
+(a) confers or imposes on the Authority any rights, liabilities or obligations which are transferred to the Secretary of State by virtue of section 1 of this Act; and
+
+(b) refers (in whatever terms, and whether expressly or by implication) to the Authority or to a member or officer of the Authority,
+
+the agreement shall have effect, in relation to anything falling to be done on or after that day, as if for that reference there were substituted a reference either to the Secretary of State or to such person as he may appoint for the purposes of the agreement.
+
+(2) Where any right, liability or obligation is transferred to the Secretary of State by virtue of this Act, he and all other persons shall, on and after the appointed day, have the same rights, powers and remedies (and in particular, the same rights as to the taking or resisting of legal proceedings) for ascertaining, perfecting or enforcing that right, liability or obligation as they would have had if it had at all times been a right, liability or obligation of the Secretary of State;[^F4]...
+
+(3) In subsection (2) above, any reference to legal proceedings shall be construed as including a reference to any application to an authority, and any reference to the taking or resisting of legal proceedings shall be construed accordingly.
+
+(4) Any instrument shall, so far as may be necessary for or in consequence of any transfer effected by this Act, have effect as if references to, or which are to be construed as references to, the Authority, or any member or officer of the Authority, were or, as the case may require, included references to the Secretary of State.
+
+## 5 Additional provision as to technical information, etc.
+
+(1) Where the Secretary of State thinks it necessary or expedient for the purposes of any activities carried on or to be carried on by him, he may by directions given to the Authority, after consulation with them, require them to make available to him, on such terms as to payment or otherwise as he thinks appropriate—
+
+(a) facilities for, and information relating to, the use of any invention, design or trade mark excepted from transfer by section 1(3) of this Act; and
+
+(b) any technical information in the possession of, or available to, the Authority, other than information which the Authority are precluded by contract from disclosing.
+
+(2) Nothing in subsection (1) above is to be taken as prejudicing any provision of the [^M5]Defence Contracts Act 1958, nor any provision of the [^M6]Patents Act 1949 [[^F5], the [^M7]Patents Act 1977] or the [^M8]Registered Designs Act 1949 relating to the use for services of the Crown of patents and registered designs; but in relation to the use of any such invention or design as is referred to in subsection (1) (a) above, being property of the Authority, section 46(3) of the [^M9]Patents Act 1949 [[^F5]section 55(4) of the [^M10]Patents Act 1977] and paragraph 1(3) of Schedule 1 to the [^M11]Registered Designs Act 1949 (Crown use on terms to be agreed with the patentee, or registered proprietor, or in default of agreement to be settled by the court) shall each have effect with the substitution for the words “as may be agreed” onwards of the words “as the Secretary of State may determine to be appropriate”.
+
+(3) The Secretary of State shall at the request of the Authority enter into arrangements with them for securing that they have access—
+
+(a) to any property of theirs which in consequence of this Act is for the time being in the custody or control of the Secretary of State; and
+
+(b) to any technical information which was available to them before the appointed day and is required by them for the purposes of any part of their undertaking which is not transferred by this Act;
+
+including (but without prejudice to the generality of the foregoing) arrangements for enabling servants of the Authority to inspect and take copies of documents which before the appointed day were the property of the Authority and are for the time being in the custody or control of the Secretary of State.
+
+## 6 Powers of Authority in relation to atomic weapons development, etc.
+
+(1) The Authority shall not by virtue of anything in section 2 of the [^M12]Atomic Energy Authority Act 1954 (general powers in relation to production, use and disposal of atomic energy and to carrying out research, etc.) have power to engage in any work, whether by way of research, experiment, development, production or otherwise, on any explosive nuclear device, whether for war-like applications or otherwise, except in accordance with arrangements made with the Secretary of State.
+
+(2) In section 2(2) of the said Act of 1954, in paragraph (i) of the proviso (which precludes the Authority from developing or producing weapons otherwise than in accordance with such arrangements, but makes an exception for certain work on explosive nuclear assemblies) the words from “except that” to the end of the paragraph are hereby repealed.
+
+## 7 Stamp duty.
+
+Property vested in the Secretary of State for Defence by virtue of section 1 of this Act shall not be treated as so vested by way of sale for the purposes of section 12 of the [^M13]Finance Act 1895 (which requires Acts to be stamped as conveyances on sale in certain cases).
+
+## 8 Financial provisions.
+
+There shall be paid out of money provided by Parliament—
+
+(a) any expenses incurred by the Secretary of State in carrying on any such activities as are referred to in section 1(1) of this Act, or otherwise carrying this Act into effect;
+
+(b) any increase attributable to this Act in the sums payable out of such money under any other enactment.
+
+## 9 Interpretation and supplementary provisions.
+
+(1) In this Act “the appointed day” means the day appointed by the Secretary of State for the purposes of section 1(1).
+
+(2) For the purposes of this Act—
+
+(a) property, rights, liabilities and obligations of the Authority shall be taken at any time to be property, rights, liabilities and obligations appertaining to the Weapons Group; and
+
+(b) person shall be taken at any time to be employees of the Authority engaged in that Group,
+
+if at that time they are property held, rights acquired, liabilities or obligations incurred or persons employed by the Authority (as the case may be) wholly or mainly for the purposes of, or in the course of carrying on, that part of the Authority’s undertaking known as the Weapons Group (as distinct from the Authority’s undertaking in general or any other part of that undertaking in particular); and the question whether at a particular time property of the Authority was held for the purposes of the Weapons Group, or in the course of carrying on any activities of the Group, shall be determined (in case of doubt) by reference to the Authority’s books, and entries in those books with respect to any property shall be conclusive as to how it was held at the time in question, regardless of who at that time had custody of it.
+
+(3) For the avoidance of doubt it is hereby declared that—
+
+(a) any reference in this Act to property of the Authority is a reference to property whether situated in the United Kingdom or elsewhere, and
+
+(b) any reference in this Act to rights, liabilities or obligations of the Authority is a reference to rights to which the Authority is entitled or (as the case may be ) liabilities or obligations to which the Authority is subject, whether under the laws of the United Kingdom or of a part of the United Kingdom or under the laws of any country or territory outside the United Kingdom;
+
+and it shall be the duty of the Authority and of the Secretary of State, in the case of any property situated in any country or territory outside the United Kingdom which is transferred by virtue of this Act, or in the case of any rights, liabilities or obligations of the Authority under the laws of any such country or territory which are so transferred, to take all such steps as may be requisite for perfecting the transfer.
+
+(4) Except as provided by sections 1 and 6 of this Act, nothing in this Act is to be construed as taking away from the Authority any power, right, liability or obligation expressly conferred on them by name by any enactment.
+
+## 10 Citation.
+
+This Act may be cited as the Atomic Energy Authority (Weapons Group) Act 1973.
+
+## SCHEDULE — Patent and other Rights reserved to Atomic Energy Authority
+
+### Scope of reservation
+
+**1** Any interest of the Authority in a patent, registered design, registered trade mark or copyright.
+
+**2** Any rights, liabilities or obligations of the Authority so far as arising—
+
+(a) from an application for the grant of a patent or for the registration of a design or a trade mark, where the application was pending immediately before the appointed day;
+
+(b) from any invention (whether patented or not) made before that day;
+
+(c) from the use by the Authority before that day of an unregistered trade mark.
+
+**3** Any property of the Authority consisting of drawings, models, specifications or designs, or of documents relating thereto (including documents relating to the application or operation of any process or technique), other than those relating to any explosive nuclear device.
+
+**4** Any rights, liabilities or obligations of the Authority so far as arising—
+
+(a) from any licence or assignment (whether to or by the Authority) of an invention, design, copyright of trade mark, or from an agreement for such a licence of assignment; or
+
+(b) from any agreement with respect to the making of an application for a patent or for the registration of a design or trade mark; or
+
+(c) from any agreement requiring the Authority to provide, or enabling them to receive, technical information or assistance of any description.
+
+### Interpretation
+
+**5** In the above paragraphs any reference to a patent, or to a registered design, or to copyright, shall include a patent granted or design registered or copyright subsisting under the laws of a country or territory outside the United Kingdom. and any reference to trade mark shall include a trade mark subsisting or registered under the laws of any such country or territory.
+
+---
+
+[^M1]: 1965 c. 62.
+[^M2]: 1923 c. 11.
+[^M3]: 1954 c. 32.
+[^M4]: 1972 c. 11.
+[^F1]: S. 3(1)-(3) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 16 Group 1
+[^F2]: Words in s. 3(4) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 16 Group 1
+[^F3]: Words in s. 3(5) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 16 Group 1
+[^F4]: Words in s. 4(2) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 16 Group 1
+[^M5]: 1958 c. 38.
+[^M6]: 1949 c. 87.
+[^F5]: Words inserted by Patents Act 1977 (c. 37), s. 132(5), Sch. 5 para. 6
+[^M7]: 1977 c. 37.
+[^M8]: 1949 c. 88.
+[^M9]: 1949 c. 87.
+[^M10]: 1977 c. 37.
+[^M11]: 1949 c. 88.
+[^M12]: 1954 c. 32.
+[^M13]: 1895 c. 16.

@@ -1,0 +1,363 @@
+---
+title: "Sharing of Church Buildings Act 1969"
+identifier: "ukpga/1969/38"
+citation: "1969 c.38"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W"
+date: 1969-07-25
+last_amended: 2024-05-17
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1969/38"
+source_modified: 2024-07-28
+retrieved: 2026-10-11
+---
+
+# Sharing of Church Buildings Act 1969
+
+**1969 c.38**
+
+An Act to provide for the sharing and using of church buildings by different Churches and for matters connected therewith.
+
+[25th July 1969]
+
+## 1 Agreements for sharing church buildings.
+
+(1) It shall be lawful, notwithstanding any statutory or other legal provision, for any two or more Churches to which this Act applies to make agreements, through the parties mentioned in this section and in accordance with the provisions thereof, for the sharing by them of church buildings, and to carry such agreements into effect, and such agreements are in this Act referred to as “sharing agreements”.
+
+(2) A sharing agreement may be made in respect of a single church building or two or more church buildings in the same locality, and in respect of any existing or proposed church building, and, subject to the following provisions of this Act relating to consecrated churches of the Church of England and the sharing of residential buildings, may provide for the shared building or any of the shared buildings to be owned or continue to be owned by one only of the sharing Churches or to be jointly owned by all or some of the sharing Churches.
+
+(3) The parties to a sharing agreement shall—
+
+(a) as respects the Church of England, be the Diocesan Board of Finance of the diocese and the incumbent and parochial church council of the parish in which the building or buildings is or are or will be situated [[^F1]and, where a team ministry is established for the benefice comprising that parish,—
+
+(i) any vicar in the team ministry to whom a special cure of souls in respect of the parish has been assigned by a scheme under the [[^F2]Mission and Pastoral Measure 2011] or by his licence from the bishop; or
+
+(ii) any member of the team to whom a special responsibility for pastoral care in respect of the parish has been assigned under [[^F3]section 34(8)] of that Measure, the parish not being one in respect of which a special cure of souls has been assigned as mentioned in paragraph (i) above]
+
+(b) as respects any other Church, be such persons as may be determined by the appropriate authority of that Church;
+
+and shall also include, in the case of an existing building, the person (if not otherwise a party) in whom the building is vested and any managing trustees thereof, and may also include, in the case of a proposed building, any person in whom it is to be vested or who is to be a managing trustee thereof.
+
+(4) A sharing agreement shall not be made on behalf of the Church of England without the consent of the bishop and the Pastoral Committee of the diocese concerned, and the appropriate authority of any other Church to which this Act applies may require the consent of any body or person specified by the authority to be given to sharing agreements made on behalf of that Church.
+
+(5) Where a church building is held on trust for educational purposes which include instruction in religious knowledge according to the faith and practice of the Church of England, the consent of the Diocesan Education Committee of the diocese concerned to a sharing agreement in respect of that building shall be required in lieu of the consent of the Pastoral Committee thereof, and the agreement shall be subject to the approval of the Secretary of State.
+
+(6) Where a benefice is vacant and a suspension period is current under [[^F4]section 85 of the Mission and Pastoral Measure 2011], subsection (3)(*a*) of this section shall have effect with the substitution for the reference to the incumbent of a reference to the minister in charge of the parish [[^F5]or the bishop of the diocese concerned], but otherwise a sharing agreement shall not be made on behalf of the Church of England during a vacancy in the benefice concerned.
+
+(7) Where a see is vacant, or the bishop of the diocese is unable because of illness or absence to give his consent under subsection (4) of this section, the archbishop of the province may appoint by an instrument under his hand a suffragan or assistant bishop or an archdeacon of the diocese to act in place of the bishop under the said subsection for a period specified in the instrument; and in the event of a vacancy in the see of an archbishop or his illness or absence, an appointment under this subsection, either in respect of the see of the archbishop or another see in the province, may be made by the other archbishop.
+
+(8) A sharing agreement shall be under seal and shall be registered, in the case of the Church of England, in the registries of the province and diocese, and, in the case of other Churches, in the registry or office of the appropriate authority, and the consents required as aforesaid shall be signified in writing by the secretary or clerk of the body concerned or by the person concerned and shall be registered with the deed.
+
+(9) A sharing agreement shall be binding on the successors to the parties thereto, that is to say, on the persons who would at any subsequent time be required to be parties if the agreement were then being made, and any reference in this Act to the parties to a sharing agreement shall be construed, as respects anything done at a subsequent time, as referring to the said persons.
+
+(10) A sharing agreement may be amended by agreement of the parties thereto and with the consents that would then be required to a new sharing agreement.
+
+[[^F6](11) In subsection (6), the reference to the minister in charge of a parish is a reference to—
+
+(a) a curate licensed to the charge of the parish, or
+
+(b) a minister holding office as priest-in-charge of the benefice to which the parish belongs.]
+
+## 2 Trusts of shared church buildings.
+
+(1) Where a sharing agreement is made with respect to an existing or proposed church building which is to be owned or continue to be owned by one only of the sharing Churches, the trusts or purposes on or for which the building is held or to be held shall include the purposes and provisions of the agreement, as for the time being in force, and any instrument declaring those trusts and purposes shall be deemed to have effect, or (in the case of a proposed building) shall provide, accordingly.
+
+(2) Where a sharing agreement is made with respect to an existing or proposed church building which is to be owned jointly by all or some of the sharing Churches, that ownership shall be effected by vesting the building in trustees representing those Churches, or in a custodian trustee with managing trustees representing those Churches, to be held on trust to be used for the purposes of the sharing agreement and in accordance with its terms and, subject thereto, for such other charitable purposes of the sharing Churches as may be appropriate, and the trust instrument relating to the building shall provide accordingly.
+
+(3) The body or person in whom an existing church building is vested shall have power, notwithstanding any statutory or other legal provision, to convey the building to the managing trustees or custodian trustee aforesaid, for such consideration (if any) as may be provided in the sharing agreement or determined thereunder.
+
+(4) The references in this section to a custodian trustee shall, subject to the making of such an order as is required by [[^F7]the Charities Act 2011] for the vesting of property in the official custodian for charities, include references to the said custodian.
+
+(5) The purposes of a sharing agreement shall be limited to purposes which are exclusively charitable according to the law of England and Wales.
+
+## 3 Financial and management provisions.
+
+(1) A sharing agreement shall make provision with respect to the financial and other obligations of the parties thereto in respect of the provision, improvement and management of the church building or buildings shared or to be shared under the agreement, and the powers of any body or person under any statutory or other legal provision to apply money, whether by grant or loan, in respect of the provision, improvement or management of church buildings of a Church to which this Act applies shall be applicable in like manner in respect of any church building shared or to be shared by that Church under a sharing agreement.
+
+(2) The powers of any body or person under any statutory or other legal provision—
+
+(a) to acquire, hold, improve or manage church buildings of a Church to which this Act applies, or any property to be used for or in connection with the provision of such church buildings, or
+
+(b) to grant property for or in connection with the provision of such church buildings, whether for a full consideration or for less than a full consideration,
+
+shall be applicable in like manner in respect of any church building to which a sharing agreement relates and which, under the agreement, is or is to be owned by that Church or jointly owned by that Church and any other Church or Churches, and any such power to hold church buildings shall include a power to be a trustee (representing that Church) of such a jointly owned church building or, in the case of a corporation aggregate, to be the custodian trustee thereof.
+
+(3) The powers of the Church Commissioners under the [^M1]New Housing Areas (Church Buildings) Measure 1954, and the powers of [^F8]... certain other bodies and persons under [[^F9]sections 28 and 29 of the Church Property Measure 2018] (which relate to the provision and improvement of church buildings), shall not be applicable for the purposes mentioned in the foregoing provisions of this section except as may be provided by a Measure of the [[^F10]General Synod] extending the said Measures.
+
+(4) The responsibility for the management of a church building owned by one only of the sharing Churches under a sharing agreement and of its contents shall remain with the authorities of or trustees representing that Church, but that responsibility shall be discharged in accordance with the provisions of the agreement and any arrangements made thereunder, including provisions or arrangements for consultation with any other sharing Church and for the payment of contributions by any other sharing Church towards the expenses of management.
+
+(5) Where a sharing agreement provides for the joint ownership of the shared building by all or some of the sharing Churches, the responsibility of the trustees for the management of the building shall be in place of any responsibility of the authorities of the sharing Churches as respects that building, including responsibility under any statutory or other legal provision:
+
+Provided that—
+
+(a) the trustees shall discharge that responsibility in accordance with the provisions of the sharing agreement and any arrangements made thereunder, including provisions or arrangements for consultation with any sharing Church which is not a joint owner and for the payment of contributions by the sharing Churches towards the expenses of management;
+
+(b) the agreement may provide that any moveables required for the worship of any sharing Church shall be the responsibility of the authorities of that Church.
+
+(6) In this section “management”, in relation to a church building, includes the repair and furnishing of the building.
+
+## 4 Sharing of church buildings for purposes of worship.
+
+(1) A sharing agreement shall make provision, in the case of a building used as a place of worship, for determining the extent to which it is to be available for worship in accordance with the forms of service and practice of the sharing Churches respectively, and may provide for the holding of such joint services on such occasions as may be approved by those Churches, and may dispense, to such extent as may be necessary, with the requirement to hold certain services of the Church of England on Sundays and other days.
+
+(2) Notwithstanding any statutory or other legal provision, a minister, reader or lay preacher of one of the Churches sharing a church building under a sharing agreement may, by invitation of a minister, reader or lay preacher of another such Church, take part in conducting worship in that building in accordance with the forms of service and practice of that other Church; but the rights given by this subsection shall be exercised in accordance with any rules or directions given by either Church and to any limitation imposed by or under the sharing agreement.
+
+(3) Subject to the foregoing provisions of this section, the participation of the communities of the sharing Churches in each other’s worship shall be governed by the practices and disciplines of those Churches in like manner as if they worshipped in separate buildings.
+
+## 5 Consecrated churches and parish churches of Church of England.
+
+(1) A sharing agreement shall not be made with respect to an existing consecrated church of the Church of England unless—
+
+(a) the church will under the agreement remain in the sole ownership of the Church of England; or
+
+(b) authority to make the agreement on behalf of the Church of England is given by a pastoral scheme under the [^M2]Pastoral Measure 1968 as extended for the purpose by a subsequent Measure of the [[^F11]General Synod], and the church will under the agreement be in the joint ownership of the Church of England and another Church or Churches.
+
+(2) Where a sharing agreement is made on behalf of the Church of England with respect to a church building used or to be used as a place of worship, but not an existing consecrated church, the building shall not be consecrated unless it will under the agreement be in the sole ownership of the Church of England.
+
+(3) Where a sharing agreement relates to a consecrated church, the faculty jurisdiction shall not apply in respect of moveables required for the worship of any sharing Church other than the Church of England.
+
+(4) Where a church building being a place of worship is shared by the Church of England under a sharing agreement:—
+
+(a) if the agreement provides for the sole ownership of the building by the Church of England, but not otherwise, the building may become or remain a parish church;
+
+(b) in any case the agreement shall not prevent or affect the designation of the building as a parish centre of worship under section 29 of the Pastoral Measure 1968.
+
+## 6 Solemnization of marriages in shared or other inter-denominational buildings.
+
+(1) A church building to which a sharing agreement relates (including a building in the sole ownership of the Church of England) may be certified under the [^M3]Places of Worship Registration Act 1855 as a place of religious worship of any Church sharing the building other than the Church of England, and the provisions of the [^M4]Marriage Act 1949 relating to the registration of buildings shall apply for and in relation to the registration of any such church building certified as aforesaid, subject to the modifications specified in Schedule 1 to this Act.
+
+(2) The provisions of the Marriage Act 1949 relating to the publication of banns and the solemnization of marriages according to the rites of the Church of England shall apply to a church building shared by the Church of England under a sharing agreement, and shall so apply notwithstanding that the building is registered under Part III of the Act, and accordingly—
+
+(a) if the building is a parish church or parish centre of worship, the said provisions shall apply as they apply to other parish churches and parish centres of worship; and
+
+(b) in any other case, section 20 of the said Act (which provides for the licensing of chapels for such publication and solemnization) shall apply.
+
+(3) The proviso to section 26(2) of the said Act shall not apply to a church building to which a sharing agreement relates, except in respect of marriages to be solemnized according to the rites of the Church of England.
+
+(4) Where a chapel of any university, college, school, hospital or other public or charitable institution, or a building held on trust for purposes of public worship but not a church building to which a sharing agreement relates, is used for the purposes of public worship in accordance with the forms of service and practice of two or more Churches to which this Act applies, the foregoing provisions of this section shall apply thereto in like manner as they apply to church buildings to which a sharing agreement relates, except that—
+
+(a) the provisions of Schedule 1 . . . [^F12]shall not apply;
+
+(b) in subsection (2)(*b*) of this section the reference to section 20 of the [^M5]Marriage Act 1949 shall include a reference to section 21 of that Act.
+
+(5) This section (except where it refers to parish centres of worship) shall apply to the Church in Wales in like manner as it applies to the Church of England.
+
+## 7 Sharing of residential buildings.
+
+(1) Where a sharing agreement is made with respect to a church building or buildings proposed to be used under the agreement as a residence or residences for ministers or lay workers, the purpose of the agreement shall be to provide residential accommodation, whether in the form of separate residences or otherwise, available for occupation by the ministers or lay workers of the sharing Churches in accordance with arrangements made under the agreement.
+
+(2) Where under any such agreement a separate residence is let to an incumbent of the Church of England in his corporate capacity, it shall be the residence house of the benefice during the term of the lease.
+
+(3) A sharing agreement shall not be made with respect to an existing residence house of a benefice of the Church of England, unless authority to make the agreement on behalf of that Church is given by a pastoral scheme under the [^M6]Pastoral Measure 1968 as extended for the purpose by a subsequent Measure of the [[^F13]General Synod].
+
+(4) No right of pre-emption, or provision for the property to revert to previous ownership, shall be exercisable or operate on the conveyance, vesting or disposal of such an existing residence house under section 2 or section 9 of this Act (except section 9(4)).
+
+## 8 Application to shared buildings of certain provisions of Charities Act 1960.
+
+(1) A sharing agreement with respect to any church building shall not affect any exception or exemption for the building from any provisions of [[^F14]the Charities Act 2011].
+
+(2) A sharing agreement with respect to any church building which under the agreement is owned by the Church of England shall not affect the application to the building of [[^F15]section 10(2) to (4) of the Charities Act 2011 ] (which excludes from the definition of “charity” certain corporations of the Church of England in respect of their corporate property and certain trusts of consecrated property).
+
+(3) [[^F16]Sections 117 to 121 of the Charities Act 2011 (restrictions on dispositions of charity land)] shall not apply to the conveyance, vesting or disposal of church buildings under section 2 or section 9 of this Act.
+
+## 9 Termination of sharing.
+
+(1) A sharing agreement shall contain provisions for terminating the sharing of the church building or buildings, and such provisions may—
+
+(a) if the agreement relates to two or more buildings, provide for terminating the sharing of any building before the others; and
+
+(b) if there are two or more sharing Churches, provide for the withdrawal of any Church from the sharing of any church building, not being a Church which is the sole owner or previous owner of the building;
+
+and the sharing agreement may make provision for financial adjustments as between the Churches, on such termination or withdrawal, by payments out of moneys held for the purposes of the sharing agreement or of any shared building or by other payments by one Church to another.
+
+(2) On the termination of the sharing of a church building owned by one only of the sharing Churches, the building shall be held on the trusts or for the purposes on or for which it was held before the sharing agreement or would be held but for the sharing agreement.
+
+(3) On the termination of the sharing of a church building jointly owned by all or some of the sharing Churches, being a building which before the sharing agreement was owned by one only of those Churches, the building shall, without any conveyance or other assurance, vest as follows:—
+
+(a) if the building was previously a consecrated church of the Church of England or a building (other than a consecrated church) vested in the incumbent of a Church of England parish, it shall vest in the incumbent of the parish in which the building is then situated, for the same purposes as before, as nearly as may be;
+
+(b) in any other case, it shall vest in such of the trustees in whom the building is vested as represent the Church who previously owned the building or, if the building is vested in a custodian trustee, it shall remain so vested but be managed by such of the managing trustees as represent that Church, and it shall be held and managed on the trusts or for the same purposes as before, as nearly as may be.
+
+(4) Where the sharing of a church building jointly owned as aforesaid but not previously owned by one only of the sharing Churches is terminated, the sharing agreement and the trust instrument may provide for the disposal of the building (including disposal to one of the sharing Churches) and for the application of the proceeds to charitable purposes of the sharing Churches.
+
+## 10 Cathedrals, peculiars, extra-diocesan and extra-parochial churches of the Church of England.
+
+(1) No sharing agreement shall be made with respect to a cathedral church or peculiar of the Church of England or any church building of that Church situated in an extra-diocesan or extra-parochial place.
+
+(2) [[^F17]The Chapter of such a cathedral or, in the case of the cathedral church of Christ in Oxford, the dean and canons] church may, notwithstanding any statutory or other legal provision, authorise a chapel or other part of the cathedral church to be used for the purposes of public worship in accordance with the forms of service and practice of two or more Churches to which this Act applies, and section 6 of this Act shall apply to any such chapel or part of a cathedral church in like manner as it applies to a chapel of any such institution as is mentioned in subsection (4) of that section.
+
+(3) Nothing in this section shall be taken as preventing a church building in an extra-diocesan or extra-parochial place being used, otherwise than in pursuance of a sharing agreement, by two or more Churches to which this Act applies, or as preventing the application of section 6(4) of this Act to such a church building.
+
+## 11 Churches to which this Act applies, and appropriate authorities thereof.
+
+(1) The Churches to which this Act applies are the Churches specified in the first column of Schedule 2 to this Act, the Church of England and all other Churches who give notice under subsection (3) of this section.
+
+(2) The expression “appropriate authority”, in relation to each of the Churches specified in the first column of Schedule 2 to this Act, means the authority specified in the second column of the Schedule in respect of that Church, and if different authorities are specified in relation to different provisions of this Act, means in each provision the authority specified in relation thereto.
+
+[^F18]3 [^F18]Any Church for the time being represented on the General Council of the British Council of Churches or on the governing body of the Evangelical Alliance or the British Evangelical Council may give notice in writing to the General Secretary of the British Council of Churches or as the case may be of the governing body concerned, that it desires that this Act should apply to that Church, and the notice shall specify the appropriate authority or authorities of that Church for the purposes of this Act, and the General Secretary concerned shall publish in the London Gazette a notice signed by him—
+
+[^F18]a [^F18]stating that the Church concerned is represented on the said General Council or governing body and has expressed its desire that this Act should apply to that Church;
+
+[^F18]b [^F18]stating that this Act will apply to that Church as from the date of publication of the notice; and
+
+[^F18]c [^F18]specifying the appropriate authority or authorities of that Church for the purposes of this Act;
+
+[^F18]and thereupon this Act shall apply to that Church as from that date and shall have effect as if an entry in respect of that Church and the appropriate authority or authorities so specified were made in Schedule 2 thereto.
+
+[[^F18](3) Any Church which is a member of Churches Together in Britain and Ireland or is affiliated to the Evangelical Alliance or is a member of the governing body of Affinity may give notice in writing to the company secretary of Churches Together in Britain and Ireland or the company secretary of the Evangelical Alliance or the director of Affinity, as the case may be, that it desires that this Act shall apply to the Church and the notice shall specify the appropriate authority or authorities for the purposes of this Act.
+
+(4) The person to whom the notice referred to in subsection (3) of this section is given shall publish in the London Gazette a notice signed by him—
+
+(a) stating that the Church is a member of Churches Together in Britain and Ireland, or is affiliated to the Evangelical Alliance or is a member of the governing body of Affinity, as the case may be;
+
+(b) stating that this Act will apply to that Church as from the date of publication of the notice; and
+
+(c) specifying the appropriate authority or authorities for the purposes of this Act;
+
+and thereupon this Act applies to that Church as from that date and has effect as if an entry in respect of that Church and the appropriate authority or authorities so specified were made in Schedule 2.
+
+(5) Where a notice was published in the London Gazette purporting to state that this Act applied to a Church before the coming into force of paragraph 5 of Schedule 2 to the Church of England (Miscellaneous Provisions) Measure 2014 ( No. 1), this Act is deemed to have applied to that Church from the date of its coming into force or, if the Church was created after that date, from the date of its creation and the appropriate authority or authorities specified are deemed to have been specified from that date. ]
+
+## 12 Interpretation.
+
+(1) In this Act, unless the context otherwise requires,—
+
+- “building” includes a part of a building;
+
+- “church building” means a building used or proposed to be used by a Church or Churches to which this Act applies—
+
+  - (a) as a place of worship;
+  - (b) as a church hall or centre available wholly or mainly for activities other than worship;
+  - (c) as a youth club or centre or youth hostel;
+  - (d) as a residence or residences for ministers or lay workers:
+
+- Provided that—
+
+  - (i) a sharing agreement may provide for including any land (other than land used or appropriated for use for burials) or outbuildings held or to be held with a church building, and any easements or rights enjoyed or to be enjoyed with a church building, and references to a church building shall in relation to that agreement, be construed accordingly;
+  - (ii) the said expression shall not include any school;
+
+- “consecrated” means consecrated for the purpose of public worship according to the rites and ceremonies of the Church of England;
+
+- “Diocesan Board of Finance” means the Board of that name constituted under the [^M7]Diocesan Board of Finance Measure 1925 for that diocese:
+
+- Provided that, if the bishop certifies that a board of finance not so constituted or a body constituted for the holding on trust of diocesan property is to be treated for the purposes of this Measure as the Diocesan Board of Finance for that diocese, the board or body so certified shall be so treated;
+
+- “Diocesan Education Committee” means a committee constituted in accordance with the Schedule to the [^M8]Diocesan Education Committees Measure 1955 or in accordance with an order made by the Secretary of State under that Measure;
+
+- “statutory or other legal provision” means any Act or Measure, any instrument or document made or having effect under or by virtue of any Act or Measure, any other instrument or document affecting legal rights or obligations, any trust (whether arising under a trust instrument or otherwise), and any rule of law, being an Act, Measure, instrument, document, trust, or rule in force at the passing of this Act:
+
+- Provided that the said expression shall not include a lease or tenancy of a church building or any mortgage, charge, covenant or rights affecting a church building and operating for the benefit of persons other than a Church to which this Act applies, or any general Act of Parliament regulating or affecting the use of land.
+
+(2) For the purposes of this Act, a church building shall be deemed to be owned by a Church if the building is held by any body or person, whether for a freehold or leasehold estate, for purposes of that Church or on behalf of that Church, and, in the case of a leasehold building, any reference to the conveyance or vesting of the building shall be construed as a reference to the conveyance or vesting of the leasehold estate.
+
+(3) If it is certified by the Church Commissioners that the ownership of a consecrated church of the Church of England cannot be ascertained with certainty, and that the church ought to be treated as vested in the incumbent of the parish in which it is situated, the church shall be deemed for the purposes of this Act to be so vested.
+
+(4) Any reference in this Act to any Act or Measure shall be construed as a reference to that Act or Measure as amended by any subsequent Act or Measure.
+
+## 13 Saving for temporary loans of church buildings.
+
+Nothing in this Act shall be taken as affecting any practice of a Church to which this Act applies of lending church buildings temporarily for particular occasions to other religious bodies.
+
+## 14 Extent.
+
+(1) This Act shall extend to church buildings in England and Wales.
+
+(2) This Act may be extended to church buildings in the Isle of Man by an Act of Tynwald, and shall then have effect, in relation to such buildings, subject to such exemptions, adaptations or modifications as may be specified in that or a subsequent Act of Tynwald.
+
+## 15 Short title.
+
+This Act may be cited as the Sharing of Church Buildings Act 1969.
+
+## SCHEDULE 1 — Modifications of Provisions of the Marriage Act 1949 Relating to the Registration of Buildings, in their Application to Shared Church Buildings
+
+*Section 6.*
+
+**1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F19]
+
+**2** An application under [[^F20]section 41 of the Marriage Act 1949 (hereinafter referred to as “the Act”)] shall be made by a representative (as hereinafter defined) of a sharing Church other than the Church of England, and, if there are two or more such Churches, the registration shall be deemed to have been made on behalf of the congregations of all those Churches, whether or not their representatives joined in the application.
+
+**3** Where a sharing Church other than the Church of England withdraws from the sharing of a registered church building[[^F21]which is registered under section 41 of the Act, and], which continues to be used by another such Church, the registration shall not be cancelled.
+
+**[[^F22]3A** Subject to the provision made by sections 44A to 44C of the Act and any regulations made under those sections, where a sharing Church withdraws from the sharing of a registered church building which is registered under section 43A of the Act, and which continues to be used by another Church other than the Church of England, the registration shall not be cancelled.]
+
+**4** An authorisation and certification of a person under section 43(1)[[^F23]or section 43B(1)] of the Act to be present at the solemnization of marriages in a church building to which a sharing agreement relates shall be effected by a representative of a sharing Church other than the Church of England, and, if there are two or more such sharing Churches, different persons may be so authorised and certified on behalf of those Churches, but each such person shall be an authorised person for the purposes of the Act in respect of the solemnization of any marriage in that building; and references in the Act to authorised persons and their certification shall be construed accordingly.
+
+**5** [[^F24]Sections 43(1A) and 43B(3) of the Act, both of which prescribe] a period of twelve months before a person may be authorised as aforesaid, shall not apply to any authorisation under this Schedule, and, if a sharing Church withdraws, in the circumstances mentioned in paragraph 3[[^F25]or 3A] above, from the sharing of a registered church building, the registration shall, for the purpose of the application of the [[^F26]section 43(1A) or 43B(3)] to another building registered on behalf of the congregation of the withdrawing Church, be deemed to have been cancelled at the time of the withdrawal.
+
+**6** The consent required under the proviso to section 44(1) of the Act shall, if the marriage is to be solemnized according to the rites of a sharing Church, be given by the minister ordinarily responsible for the conduct of worship by the congregation of that Church or, if the sharing Church is not the Roman Catholic Church, by a representative of that sharing Church, and in the case of other marriages shall be given by one of the trustees, owners or managers of the building.
+
+**[^F27]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8** Nothing in this Schedule shall affect any registration or authorisation which is in force when a sharing agreement takes effect in respect of the building concerned, and any such registration or authorisation shall continue in force and have effect as if it had been made under this Schedule.
+
+**9** In this Schedule “representative”, in relation to a Church sharing a church building, means—
+
+(a) if the building is jointly owned, a trustee representing that Church;
+
+(b) in any other case, a party to the agreement on behalf of that Church.
+
+## SCHEDULE 2 — Churches and their Appropriate Authorities
+
+*Section 11.*
+
+|  |  |
+|---|---|
+| *Name of Church* | *Appropriate Authority or Authorities* |
+| Any Church of the Baptist Denomination. | As respects section 1(3) and (4), the Baptist Trust Corporation as hereinafter defined, acting with the concurrence of the Church meeting. As respects section 1(8), the Baptist Trust Corporation. |
+| Any Church of the congregational Denomination. | As respects section 1(3) and (4), the Congregational Trust Corporation as hereinafter defined, acting with the concurrence of the Church meeting. As respects section 1(8), the Congregational Trust Corporation. |
+| [^F28]Any Congregation of the Association of Churches of Christ in Great Britain and Ireland. | [^F28]As respects section 1(3) and (4), the Annual Conference of the Association of Churches of Christ acting with the concurrence of the duly constituted Church meeting. As respects section 1(8), the Annual Conference of the Association of Churches of Christ. |
+| The Methodist Church | The Annual Conference of the Methodist Church. |
+| [[^F29]The United Reformed Church] | [[^F29]The Synod of the province of the United Reformed Church in which the church building or buildings is or are or will be situated.] |
+| The Roman Catholic Church. | The Bishop of the diocese in which the church building or buildings is or are or will be situated. |
+| The Church in Wales | The Governing Body of the Church in Wales. |
+
+For the purposes of this Schedule, “the Baptist Trust Corporation” and “the Congregational Trust Corporation” have the following meanings:—
+
+(a) if the church building or buildings to which the sharing agreement concerned relates is or are or will be vested in a Baptist or Congregational Trust Corporation within the meaning of the [^M9]Baptist and Congregational Trusts Act 1951, it means that Corporation;
+
+(b) otherwise it means the Baptist or Congregational Trust Corporation (within the meaning of the said Act) in whose area of operations the church building or buildings is or are or will be situated, or if there is more than one such Corporation, the one determined by the Church meeting.
+
+---
+
+[^F1]: S. 1(3)(i)(ii) and preceding words inserted (1.5.1996) by 1995 No. 1; Instrument dated 12.1.1996 made by Archbishops of Canterbury and York
+[^F2]: Words in s. 1(3)(a)(i) substituted (17.5.2024) by Church of England (Miscellaneous Provisions) Measure 2024 (No. 1), ss. 14(4)(a), 22(4); S.I. 2024/631, art. 2
+[^F3]: Words in s. 1(3)(a)(ii) substituted (17.5.2024) by Church of England (Miscellaneous Provisions) Measure 2024 (No. 1), ss. 14(4)(b), 22(4); S.I. 2024/631, art. 2
+[^F4]: Words in s. 1(6) substituted (17.5.2024) by Church of England (Miscellaneous Provisions) Measure 2024 (No. 1), ss. 14(5)(a), 22(4); S.I. 2024/631, art. 2
+[^F5]: Words in s. 1(6) inserted (17.5.2024) by Church of England (Miscellaneous Provisions) Measure 2024 (No. 1), ss. 14(5)(b), 22(4); S.I. 2024/631, art. 2
+[^F6]: S. 1(11) inserted (17.5.2024) by Church of England (Miscellaneous Provisions) Measure 2024 (No. 1), ss. 14(6), 22(4); S.I. 2024/631, art. 2
+[^F7]: Words in s. 2(4) substituted (14.3.2012) by Charities Act 2011 (c. 25), s. 355, Sch. 7 para. 19 (with s. 20(2), Sch. 8)
+[^M1]: 1954 No. 1.
+[^F8]: Words in s. 3(3) omitted (E.) (1.3.2019) by virtue of Church Property Measure 2018 (No. 8), s. 53(2), Sch. 1 para. 10(a), Sch. 3 (with Sch. 2); S.I. 2019/97, art. 2
+[^F9]: Words in s. 3(3) substituted (E.) (1.3.2019) by Church Property Measure 2018 (No. 8), s. 53(2), Sch. 1 para. 10(b); S.I. 2019/97, art. 2
+[^F10]: Words substituted by virtue of Synodical Government Measure 1969 (No. 2), s. 2(1)
+[^M2]: 1968 No. 1.
+[^F11]: Words substituted by virtue of Synodical Government Measure 1969 (No. 2), s. 2(1)
+[^M3]: 1855 c. 81.
+[^M4]: 1949 c. 76.
+[^F12]: Words repealed by Marriage (Registration of Buildings) Act 1990 (c. 33, SIF 49:1), s. 1(2)(a)
+[^M5]: 1949 c. 76.
+[^M6]: 1968 No. 1.
+[^F13]: Words substituted by virtue of Synodical Government Measure 1969 (No. 2), s. 2(1)
+[^F14]: Words in s. 8(1) substituted (14.3.2012) by Charities Act 2011 (c. 25), s. 355, Sch. 7 para. 20(1) (with s. 20(2), Sch. 8)
+[^F15]: Words in s. 8(2) substituted (14.3.2012) by Charities Act 2011 (c. 25), s. 355, Sch. 7 para. 20(2) (with s. 20(2), Sch. 8)
+[^F16]: Words in s. 8(3) substituted (14.3.2012) by Charities Act 2011 (c. 25), s. 355, Sch. 7 para. 20(3) (with s. 20(2), Sch. 8)
+[^F17]: Words in s. 10(2) substituted (coming into force in accordance with s. 53(3) of the amending Measure) by Cathedrals Measure 2021 (No. 2), Sch. 4 para. 12 (with ss. 42(4), 48, 52(1))
+[^F18]: S. 11(3)-(5) substituted (E.) (19.5.2014) for s. 11(3) by Church of England (Miscellaneous Provisions) Measure 2014 (No. 1), s. 21(2), Sch. 2 para. 5(2); S.I. 2014/1369, art. 2
+[^M7]: 1925 No. 3.
+[^M8]: 1955 No. 1 (4 & 5 Eliz. 2).
+[^F19]: Sch. 1 para. 1 repealed by Marriage (Registration of Buildings) Act 1990 (c. 33, SIF 49:1), s. 1(2)(a)
+[^F20]: Words substituted by Marriage (Registration of Buildings) Act 1990 (c. 33, SIF 49:1), s. 1(2)(b)
+[^F21]: Words in Sch. 1 para. 3 inserted (13.3.2014) by The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560), art. 1(2), Sch. 1 para. 11(2)
+[^F22]: Sch. 1 para. 3A inserted (13.3.2014) by The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560), art. 1(2), Sch. 1 para. 11(3)
+[^F23]: Words in Sch. 1 para. 4 inserted (13.3.2014) by The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560), art. 1(2), Sch. 1 para. 11(4)
+[^F24]: Words in Sch. 1 para. 5 substituted (13.3.2014) by The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560), art. 1(2), Sch. 1 para. 11(5)(a)
+[^F25]: Words in Sch. 1 para. 5 inserted (13.3.2014) by The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560), art. 1(2), Sch. 1 para. 11(5)(b)
+[^F26]: Words in Sch. 1 para. 5 substituted (13.3.2014) by The Marriage (Same Sex Couples) Act 2013 (Consequential and Contrary Provisions and Scotland) Order 2014 (S.I. 2014/560), art. 1(2), Sch. 1 para. 11(5)(c)
+[^F27]: Sch. 1 para. 7 omitted (4.5.2021) by virtue of The Registration of Marriages Regulations 2021 (S.I. 2021/411), reg. 1(2), Sch. 1 para. 54 (with Sch. 2)
+[^F28]: Words in Sch. 2 repealed (E.) (19.5.2014) by Church of England (Miscellaneous Provisions) Measure 2014 (No. 1), s. 21(2), Sch. 2 para. 5(5); S.I. 2014/1369, art. 2
+[^F29]: Words substituted by United Reformed Church Act 1972 (c. xviii)
+[^M9]: 1951 c. xvii.

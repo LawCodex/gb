@@ -1,0 +1,58 @@
+---
+title: "Mineral Exploration and Investment Grants Act 1972"
+identifier: "ukpga/1972/9"
+citation: "1972 c.9"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S"
+date: 1972-02-24
+last_amended: 2018-04-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1972/9"
+source_modified: 2018-06-17
+retrieved: 2026-10-11
+---
+
+# Mineral Exploration and Investment Grants Act 1972
+
+**1972 c.9**
+
+An Act to authorise the giving of financial assistance in connection with mineral exploration, and to clarify or extend certain exceptions from the abolition of investment grants.
+
+[24th February 1972][^F1]
+
+## 1 Contributions in respect of mineral exploration.
+
+(1) Subject to the following subsections, there shall be defrayed out of money provided by Parliament any payments made by the Secretary of State by way of contribution towards expenditure incurred on searching for, or on discovering and testing, mineral deposits in Great Britain or in the sea bed and subsoil of the territorial waters of the United Kingdom adjacent to Great Britain or in that of any area for the time being designated under section 1(7) of the [^M1]Continental Shelf Act 1964.
+
+(2) The amount paid out of moneys provided by Parliament under this section shall not exceed £25 million or such larger sum, not exceeding £50 million, as the Secretary of State may specify by order made by statutory instrument; but an order shall not be made in pursuance of this subsection unless a draft of the order has been approved by a resolution of the House of Commons.
+
+(3) It shall be a condition for the making of a contribution in pursuance of this section in respect of any operations that the person applying for the contribution shall have agreed that geological information obtained in the carrying out of the operations will be communicated (in appropriate form and detail) to the Secretary of State and, for the purposes of the geological survey of Great Britain, to [[^F2]United Kingdom Research and Innovation] .
+
+(4) This section shall not authorise the making by the Secretary of State out of moneys provided by Parliament of contributions towards expenditure on any operations, unless he is satisfied that planning permission for those operations was obtained or that it was not necessary to obtain it.
+
+(5) This section shall not authorise the making by the Secretary of State out of moneys provided by Parliament of contributions towards any expenditure which exceed 35 per cent. of that expenditure; but any payment made by him in pursuance of this section may be made on such terms as he thinks fit, including terms providing for repayment in whole or in part of the amount paid by him, with or without interest or an addition in lieu of interest, or for the giving of security for the performance of any of the terms.
+
+(6) Any sums received by the Secretary of State in accordance with the terms on which a payment is made by him in pursuance of this section shall be paid into the Consolidated Fund.
+
+(7) In respect of the period ending 31st March 1973 and of each financial year ending after that date in which payments are made in pursuance of this section the Secretary of State shall as soon as may be after the end of that period or year prepare a report on the operation of this section, and shall lay the report before Parliament.
+
+(8) In this section “mineral deposits” includes any natural deposits capable of being lifted or extracted from the earth.
+
+## [^F3]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3 Short title and extent.
+
+(1) This Act may be cited as the Mineral Exploration and Investment Grants Act 1972.
+
+(2) This Act does not extend to Northern Ireland.
+
+---
+
+[^F1]: Act wholly in force at Royal Assent.
+[^M1]: 1964 c. 29.
+[^F2]: Words in s. 1(3) substituted (1.4.2018) by Higher Education and Research Act 2017 (c. 29), s. 124(5), Sch. 12 para. 9; S.I. 2018/241, reg. 2(t) (with transitional and savings provisions in S.I. 2018/245, regs. 2, 3, 29)
+[^F3]: S. 2 repealed (5.11.1993) by 1993 c. 50, s. 1(1), Sch. 1 Pt. IX Group2.

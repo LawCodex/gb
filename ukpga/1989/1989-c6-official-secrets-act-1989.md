@@ -1,0 +1,504 @@
+---
+title: "Official Secrets Act 1989"
+identifier: "ukpga/1989/6"
+citation: "1989 c. 6"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1989-05-11
+last_amended: 2023-12-20
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1989/6"
+source_modified: 2024-05-17
+retrieved: 2026-10-11
+---
+
+# Official Secrets Act 1989
+
+**1989 c. 6**
+
+An Act to replace section 2 of the Official Secrets Act 1911 by provisions protecting more limited classes of official information.
+
+[11th May 1989]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## 1 Security and intelligence.
+
+(1) A person who is or has been—
+
+(a) a member of the security and intelligence services; or
+
+(b) a person notified that he is subject to the provisions of this subsection,
+
+is guilty of an offence if without lawful authority he discloses any information, document or other article relating to security or intelligence which is or has been in his possession by virtue of his position as a member of any of those services or in the course of his work while the notification is or was in force.
+
+(2) The reference in subsection (1) above to disclosing information relating to security or intelligence includes a reference to making any statement which purports to be a disclosure of such information or is intended to be taken by those to whom it is addressed as being such a disclosure.
+
+(3) A person who is or has been a Crown servant or government contractor is guilty of an offence if without lawful authority he makes a damaging disclosure of any information, document or other article relating to security or intelligence which is or has been in his possession by virtue of his position as such but otherwise than as mentioned in subsection (1) above.
+
+(4) For the purposes of subsection (3) above a disclosure is damaging if—
+
+(a) it causes damage to the work of, or of any part of, the security and intelligence services; or
+
+(b) it is of information or a document or other article which is such that its unauthorised disclosure would be likely to cause such damage or which falls within a class or description of information, documents or articles the unauthorised disclosure of which would be likely to have that effect.
+
+(5) It is a defence for a person charged with an offence under this section to prove that at the time of the alleged offence he did not know, and had no reasonable cause to believe, that the information, document or article in question related to security or intelligence or, in the case of an offence under subsection (3), that the disclosure would be damaging within the meaning of that subsection.
+
+(6) Notification that a person is subject to subsection (1) above shall be effected by a notice in writing served on him by a Minister of the Crown; and such a notice may be served if, in the Minister’s opinion, the work undertaken by the person in question is or includes work connected with the security and intelligence services and its nature is such that the interests of national security require that he should be subject to the provisions of that subsection.
+
+(7) Subject to subsection (8) below, a notification for the purposes of subsection (1) above shall be in force for the period of five years beginning with the day on which it is served but may be renewed by further notices under subsection (6) above for periods of five years at a time.
+
+(8) A notification for the purposes of subsection (1) above may at any time be revoked by a further notice in writing served by the Minister on the person concerned; and the Minister shall serve such a further notice as soon as, in his opinion, the work undertaken by that person ceases to be such as is mentioned in subsection (6) above.
+
+(9) In this section “security or intelligence” means the work of, or in support of, the security and intelligence services or any part of them, and references to information relating to security or intelligence include references to information held or transmitted by those services or by persons in support of, or of any part of, them.
+
+## 2 Defence.
+
+(1) A person who is or has been a Crown servant or government contractor is guilty of an offence if without lawful authority he makes a damaging disclosure of any information, document or other article relating to defence which is or has been in his possession by virtue of his position as such.
+
+(2) For the purposes of subsection (1) above a disclosure is damaging if—
+
+(a) it damages the capability of, or of any part of, the armed forces of the Crown to carry out their tasks or leads to loss of life or injury to members of those forces or serious damage to the equipment or installations of those forces; or
+
+(b) otherwise than as mentioned in paragraph (a) above, it endangers the interests of the United Kingdom abroad, seriously obstructs the promotion or protection by the United Kingdom of those interests or endangers the safety of British citizens abroad; or
+
+(c) it is of information or of a document or article which is such that its unauthorised disclosure would be likely to have any of those effects.
+
+(3) It is a defence for a person charged with an offence under this section to prove that at the time of the alleged offence he did not know, and had no reasonable cause to believe, that the information, document or article in question related to defence or that its disclosure would be damaging within the meaning of subsection (1) above.
+
+(4) In this section “defence” means—
+
+(a) the size, shape, organisation, logistics, order of battle, deployment, operations, state of readiness and training of the armed forces of the Crown;
+
+(b) the weapons, stores or other equipment of those forces and the invention, development, production and operation of such equipment and research relating to it;
+
+(c) defence policy and strategy and military planning and intelligence;
+
+(d) plans and measures for the maintenance of essential supplies and services that are or would be needed in time of war.
+
+## 3 International relations.
+
+(1) A person who is or has been a Crown servant or government contractor is guilty of an offence if without lawful authority he makes a damaging disclosure of—
+
+(a) any information, document or other article relating to international relations; or
+
+(b) any confidential information, document or other article which was obtained from a State other than the United Kingdom or an international organisation,
+
+being information or a document or article which is or has been in his possession by virtue of his position as a Crown servant or government contractor.
+
+(2) For the purposes of subsection (1) above a disclosure is damaging if—
+
+(a) it endangers the interests of the United Kingdom abroad, seriously obstructs the promotion or protection by the United Kingdom of those interests or endangers the safety of British citizens abroad; or
+
+(b) it is of information or of a document or article which is such that its unauthorised disclosure would be likely to have any of those effects.
+
+(3) In the case of information or a document or article within subsection (1)(b) above—
+
+(a) the fact that it is confidential, or
+
+(b) its nature or contents,
+
+may be sufficient to establish for the purposes of subsection (2)(b) above that the information, document or article is such that its unauthorised disclosure would be likely to have any of the effects there mentioned.
+
+(4) It is a defence for a person charged with an offence under this section to prove that at the time of the alleged offence he did not know, and had no reasonable cause to believe, that the information, document or article in question was such as is mentioned in subsection (1) above or that its disclosure would be damaging within the meaning of that subsection.
+
+(5) In this section “international relations” means the relations between States, between international organisations or between one or more States and one or more such organisations and includes any matter relating to a State other than the United Kingdom or to an international organisation which is capable of affecting the relations of the United Kingdom with another State or with an international organisation.
+
+(6) For the purposes of this section any information, document or article obtained from a State or organisation is confidential at any time while the terms on which it was obtained require it to be held in confidence or while the circumstances in which it was obtained make it reasonable for the State or organisation to expect that it would be so held.
+
+## 4 Crime and special investigation powers.
+
+(1) A person who is or has been a Crown servant or government contractor is guilty of an offence if without lawful authority he discloses any information, document or other article to which this section applies and which is or has been in his possession by virtue of his position as such.
+
+(2) This section applies to any information, document or other article—
+
+(a) the disclosure of which—
+
+(i) results in the commission of an offence; or
+
+(ii) facilitates an escape from legal custody or the doing of any other act prejudicial to the safekeeping of persons in legal custody; or
+
+(iii) impedes the prevention or detection of offences or the apprehension or prosecution of suspected offenders; or
+
+(b) which is such that its unauthorised disclosure would be likely to have any of those effects.
+
+(3) This section also applies to—
+
+(a) any information obtained by reason of the interception of any communication in obedience to a warrant issued under section 2 of the [^M1]Interception of Communications Act 1985 [[^F1]or under the authority of an interception warrant under section 5 of the Regulation of Investigatory Powers Act 2000], any information relating to the obtaining of information by reason of any such interception and any document or other article which is or has been used or held for use in, or has been obtained by reason of, any such interception; [^F2]...
+
+(b) any information obtained by reason of action authorised by a warrant issued under section 3 of the [^M2]Security Service Act 1989 [[^F3]or under section 5 of the Intelligence Services Act 1994 or by an authorisation given under section 7 of that Act], any information relating to the obtaining of information by reason of any such action and any document or other article which is or has been used or held for use in, or has been obtained by reason of, any such action.[[^F4]and
+
+(c) any information obtained under a warrant under Chapter 1 of Part 2 or Chapter 1 of Part 6 of the Investigatory Powers Act 2016, any information relating to the obtaining of information under such a warrant and any document or other article which is or has been used or held for use in, or has been obtained by reason of, the obtaining of information under such a warrant.]
+
+(4) It is a defence for a person charged with an offence under this section in respect of a disclosure falling within subsection (2)(a) above to prove that at the time of the alleged offence he did not know, and had no reasonable cause to believe, that the disclosure would have any of the effects there mentioned.
+
+(5) It is a defence for a person charged with an offence under this section in respect of any other disclosure to prove that at the time of the alleged offence he did not know, and had no reasonable cause to believe, that the information, document or article in question was information or a document or article to which this section applies.
+
+(6) In this section “legal custody” includes detention in pursuance of any enactment or any instrument made under an enactment.
+
+## 5 Information resulting from unauthorised disclosures or entrusted in confidence.
+
+(1) Subsection (2) below applies where—
+
+(a) any information, document or other article protected against disclosure by the foregoing provisions of this Act has come into a person’s possession as a result of having been—
+
+(i) disclosed (whether to him or another) by a Crown servant or government contractor without lawful authority; or
+
+(ii) entrusted to him by a Crown servant or government contractor on terms requiring it to be held in confidence or in circumstances in which the Crown servant or government contractor could reasonably expect that it would be so held; or
+
+(iii) disclosed (whether to him or another) without lawful authority by a person to whom it was entrusted as mentioned in sub-paragraph (ii) above; and
+
+(b) the disclosure without lawful authority of the information, document or article by the person into whose possession it has come is not an offence under any of those provisions.
+
+(2) Subject to subsections (3) and (4) below, the person into whose possession the information, document or article has come is guilty of an offence if he discloses it without lawful authority knowing, or having reasonable cause to believe, that it is protected against disclosure by the foregoing provisions of this Act and that it has come into his possession as mentioned in subsection (1) above.
+
+(3) In the case of information or a document or article protected against disclosure by sections 1 to 3 above, a person does not commit an offence under subsection (2) above unless—
+
+(a) the disclosure by him is damaging; and
+
+(b) he makes it knowing, or having reasonable cause to believe, that it would be damaging;
+
+and the question whether a disclosure is damaging shall be determined for the purposes of this subsection as it would be in relation to a disclosure of that information, document or article by a Crown servant in contravention of section 1(3), 2(1) or 3(1) above.
+
+(4) A person does not commit an offence under subsection (2) above in respect of information or a document or other article which has come into his possession as a result of having been disclosed—
+
+(a) as mentioned in subsection (1)(a)(i) above by a government contractor; or
+
+(b) as mentioned in subsection (1)(a)(iii) above,
+
+unless that disclosure was by a British citizen or took place in the United Kingdom, in any of the Channel Islands or in the Isle of Man or a colony.
+
+(5) For the purposes of this section information or a document or article is protected against disclosure by the foregoing provisions of this Act if—
+
+(a) it relates to security or intelligence, defence or international relations within the meaning of section 1, 2 or 3 above or is such as is mentioned in section 3(1)(b) above; or
+
+(b) it is information or a document or article to which section 4 above applies;
+
+and information or a document or article is protected against disclosure by sections 1 to 3 above if it falls within paragraph (a) above.
+
+(6) A person is guilty of an offence if without lawful authority he discloses any information, document or other article which he knows, or has reasonable cause to believe, to have come into his possession as a result of a contravention of [[^F5]any of sections 1 to 4 of the National Security Act 2023].
+
+## 6 Information entrusted in confidence to other States or international organisations.
+
+(1) This section applies where—
+
+(a) any information, document or other article which—
+
+(i) relates to security or intelligence, defence or international relations; and
+
+(ii) has been communicated in confidence by or on behalf of the United Kingdom to another State or to an international organisation,
+
+has come into a person’s possession as a result of having been disclosed (whether to him or another) without the authority of that State or organisation or, in the case of an organisation, of a member of it; and
+
+(b) the disclosure without lawful authority of the information, document or article by the person into whose possession it has come is not an offence under any of the foregoing provisions of this Act.
+
+(2) Subject to subsection (3) below, the person into whose possession the information, document or article has come is guilty of an offence if he makes a damaging disclosure of it knowing, or having reasonable cause to believe, that it is such as is mentioned in subsection (1) above, that it has come into his possession as there mentioned and that its disclosure would be damaging.
+
+(3) A person does not commit an offence under subsection (2) above if the information, document or article is disclosed by him with lawful authority or has previously been made available to the public with the authority of the State or organisation concerned or, in the case of an organisation, of a member of it.
+
+(4) For the purposes of this section “security or intelligence”, “defence” and “international relations” have the same meaning as in sections 1, 2 and 3 above and the question whether a disclosure is damaging shall be determined as it would be in relation to a disclosure of the information, document or article in question by a Crown servant in contravention of section 1(3), 2(1) and 3(1) above.
+
+(5) For the purposes of this section information or a document or article is communicated in confidence if it is communicated on terms requiring it to be held in confidence or in circumstances in which the person communicating it could reasonably expect that it would be so held.
+
+## 7 Authorised disclosures.
+
+(1) For the purposes of this Act a disclosure by—
+
+(a) a Crown servant; or
+
+(b) a person, not being a Crown servant or government contractor, in whose case a notification for the purposes of section 1(1) above is in force,
+
+is made with lawful authority if, and only if, it is made in accordance with his official duty.
+
+(2) For the purposes of this Act a disclosure by a government contractor is made with lawful authority if, and only if, it is made—
+
+(a) in accordance with an official authorisation; or
+
+(b) for the purposes of the functions by virtue of which he is a government contractor and without contravening an official restriction.
+
+(3) For the purposes of this Act a disclosure made by any other person is made with lawful authority if, and only if, it is made—
+
+(a) to a Crown servant for the purposes of his functions as such; or
+
+(b) in accordance with an official authorisation.
+
+(4) It is a defence for a person charged with an offence under any of the foregoing provisions of this Act to prove that at the time of the alleged offence he believed that he had lawful authority to make the disclosure in question and had no reasonable cause to believe otherwise.
+
+(5) In this section “official authorisation” and “official restriction” mean, subject to subsection (6) below, an authorisation or restriction duly given or imposed by a Crown servant or government contractor or by or on behalf of a prescribed body or a body of a prescribed class.
+
+(6) In relation to section 6 above “official authorisation” includes an authorisation duly given by or on behalf of the State or organisation concerned or, in the case of an organisation, a member of it.
+
+## 8 Safeguarding of information.
+
+(1) Where a Crown servant or government contractor, by virtue of his position as such, has in his possession or under his control any document or other article which it would be an offence under any of the foregoing provisions of this Act for him to disclose without lawful authority he is guilty of an offence if—
+
+(a) being a Crown servant, he retains the document or article contrary to his official duty; or
+
+(b) being a government contractor, he fails to comply with an official direction for the return or disposal of the document or article,
+
+or if he fails to take such care to prevent the unauthorised disclosure of the document or article as a person in his position may reasonably be expected to take.
+
+(2) It is a defence for a Crown servant charged with an offence under subsection (1)(a) above to prove that at the time of the alleged offence he believed that he was acting in accordance with his official duty and had no reasonable cause to believe otherwise.
+
+(3) In subsections (1) and (2) above references to a Crown servant include any person, not being a Crown servant or government contractor, in whose case a notification for the purposes of section 1(1) above is in force.
+
+(4) Where a person has in his possession or under his control any document or other article which it would be an offence under section 5 above for him to disclose without lawful authority, he is guilty of an offence if—
+
+(a) he fails to comply with an official direction for its return or disposal; or
+
+(b) where he obtained it from a Crown servant or government contractor on terms requiring it to be held in confidence or in circumstances in which that servant or contractor could reasonably expect that it would be so held, he fails to take such care to prevent its unauthorised disclosure as a person in his position may reasonably be expected to take.
+
+(5) Where a person has in his possession or under his control any document or other article which it would be an offence under section 6 above for him to disclose without lawful authority, he is guilty of an offence if he fails to comply with an official direction for its return or disposal.
+
+(6) A person is guilty of an offence if he discloses any official information, document or other article which can be used for the purpose of obtaining access to any information, document or other article protected against disclosure by the foregoing provisions of this Act and the circumstances in which it is disclosed are such that it would be reasonable to expect that it might be used for that purpose without authority.
+
+(7) For the purposes of subsection (6) above a person discloses information or a document or article which is official if—
+
+(a) he has or has had it in his possession by virtue of his position as a Crown servant or government contractor; or
+
+(b) he knows or has reasonable cause to believe that a Crown servant or government contractor has or has had it in his possession by virtue of his position as such.
+
+(8) Subsection (5) of section 5 above applies for the purposes of subsection (6) above as it applies for the purposes of that section.
+
+(9) In this section “official direction” means a direction duly given by a Crown servant or government contractor or by or on behalf of a prescribed body or a body of a prescribed class.
+
+## 9 Prosecutions.
+
+(1) Subject to subsection (2) below, no prosecution for an offence under this Act shall be instituted in England and Wales or in Northern Ireland except by or with the consent of the Attorney General or, as the case may be, the [[^F6] Advocate General for Northern Ireland ].
+
+(2) Subsection (1) above does not apply to an offence in respect of any such information, document or article as is mentioned in section 4(2) above but no prosecution for such an offence shall be instituted in England and Wales or in Northern Ireland except by or with the consent of the Director of Public Prosecutions or, as the case may be, the Director of Public Prosecutions for Northern Ireland.
+
+## 10 Penalties.
+
+(1) A person guilty of an offence under any provision of this Act other than section 8(1), (4) or (5) shall be liable—
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine or both;
+
+(b) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or both.
+
+(2) A person guilty of an offence under section 8(1), (4) or (5) above shall be liable on summary conviction to imprisonment for a term not exceeding three months or a fine not exceeding level 5 on the standard scale or both.
+
+## 11 Arrest, search and trial.
+
+[^F7]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F8]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F9](3) Schedule 2 to the National Security Act 2023 (powers of entry, search and seizure) applies in relation to a relevant offence as it applies in relation to a relevant act (within the meaning given by paragraphs 1 and 18 of that Schedule).]
+
+[[^F10](4) If it is necessary in the interests of national security, a court may exclude the public from any part of proceedings for a relevant offence, except the passing of sentence.]
+
+[[^F11](4A) In this section a “relevant offence” means an offence under any provision of this Act other than section 8(1), (4) or (5).]
+
+(5) Proceedings for an offence under this Act may be taken in any place in the United Kingdom.
+
+## 12 “Crown servant” and “government contractor”.
+
+(1) In this Act “Crown servant” means—
+
+(a) a Minister of the Crown;
+
+[^F12] [ aa a member of the Scottish Executive or a junior Scottish Minister;]
+
+[[^F13](ab) the First Minister for Wales, a Welsh Minister appointed under section 48 of the Government of Wales Act 2006, the Counsel General to the Welsh Assembly Government or a Deputy Welsh Minister;]
+
+[^F14]b a person appointed under section 8 of the [^M3]Northern Ireland Constitution Act 1973 (the Northern Ireland Executive etc.);
+
+(c) any person employed in the civil service of the Crown, including Her Majesty’s Diplomatic Service, Her Majesty’s Overseas Civil Service, the civil service of Northern Ireland and the Northern Ireland Court Service;
+
+(d) any member of the naval, military or air forces of the Crown, including any person employed by an association established for the purposes of [[^F15]Part XI of the Reserve Forces Act 1996];
+
+(e) any constable and any other person employed or appointed in or for the purposes of any police force [[^F16](including the Police Service of Northern Ireland and the Police Service of Northern Ireland Reserve)][[^F17] or ][[^F18] an NCA special (within the meaning of Part 1 of the Crime and Courts Act 2013) ] ;
+
+(f) any person who is a member or employee of a prescribed body or a body of a prescribed class and either is prescribed for the purposes of this paragraph or belongs to a prescribed class of members or employees of any such body;
+
+(g) any person who is the holder of a prescribed office or who is an employee of such a holder and either is prescribed for the purposes of this paragraph or belongs to a prescribed class of such employees.
+
+(2) In this Act “government contractor” means, subject to subsection (3) below, any person who is not a Crown servant but who provides, or is employed in the provision of, goods or services—
+
+(a) for the purposes of any Minister or person mentioned in paragraph (a)[[^F19] , (ab) ] or (b) of subsection (1) above, [[^F20]of any office-holder in the Scottish Administration,]of any of the services, forces or bodies mentioned in that subsection or of the holder of any office prescribed under that subsection;
+
+[^F21] [ aa ] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) under an agreement or arrangement certified by the Secretary of State as being one to which the government of a State other than the United Kingdom or an international organisation is a party or which is subordinate to, or made for the purposes of implementing, any such agreement or arrangement.
+
+(3) Where an employee or class of employees of any body, or of any holder of an office, is prescribed by an order made for the purposes of subsection (1) above—
+
+(a) any employee of that body, or of the holder of that office, who is not prescribed or is not within the prescribed class; and
+
+(b) any person who does not provide, or is not employed in the provision of, goods or services for the purposes of the performance of those functions of the body or the holder of the office in connection with which the employee or prescribed class of employees is engaged,
+
+shall not be a government contractor for the purposes of this Act.
+
+[^F22] [ 4 In this section “ office-holder in the Scottish Administration ” has the same meaning as in section 126(7)(a) of the Scotland Act 1998. ]
+
+[[^F23](4A) In this section the reference to a police force includes a reference to the Civil Nuclear Constabulary.]
+
+[^F24] [ 5 This Act shall apply to the following as it applies to persons falling within the definition of Crown servant—
+
+(a) the First Minister and deputy First Minister in Northern Ireland; and
+
+(b) Northern Ireland Ministers and junior Ministers.]
+
+## 13 Other interpretation provisions.
+
+(1) In this Act—
+
+- “disclose” and “disclosure”, in relation to a document or other article, include parting with possession of it;
+- “international organisation” means, subject to subsections (2) and (3) below, an organisation of which only States are members and includes a reference to any organ of such an organisation;
+- “prescribed” means prescribed by an order made by the Secretary of State;
+- “State” includes the government of a State and any organ of its government and references to a State other than the United Kingdom include references to any territory outside the United Kingdom.
+
+(2) In section 12(2)(b) above the reference to an international organisation includes a reference to any such organisation whether or not one of which only States are members and includes a commercial organisation.
+
+(3) In determining for the purposes of subsection (1) above whether only States are members of an organisation, any member which is itself an organisation of which only States are members, or which is an organ of such an organisation, shall be treated as a State.
+
+## 14 Orders.
+
+(1) Any power of the Secretary of State under this Act to make orders shall be exercisable by statutory instrument.
+
+(2) No order shall be made by him for the purposes of section 7(5), 8(9) or 12 above unless a draft of it has been laid before, and approved by a resolution of, each House of Parliament.
+
+(3) If, apart from the provisions of this subsection, the draft of an order under any of the provisions mentioned in subsection (2) above would be treated for the purposes of the Standing Orders of either House of Parliament as a hybrid instrument it shall proceed in that House as if it were not such an instrument.
+
+## 15 Acts done abroad and extent.
+
+(1) Any act—
+
+(a) done by a British citizen or Crown servant; or
+
+(b) done by any person in any of the Channel Islands or the Isle of Man or any colony,
+
+shall, if it would be an offence by that person under any provision of this Act other than section 8(1), (4) or (5) when done by him in the United Kingdom, be an offence under that provision.
+
+(2) This Act extends to Northern Ireland.
+
+(3) Her Majesty may by Order in Council provide that any provision of this Act shall extend, with such exceptions, adaptations and modifications as may be specified in the Order, to any of the Channel Islands or the Isle of Man or any colony.
+
+## 16 Short title, citation, consequential amendments, repeals, revocation and commencement.
+
+(1) This Act may be cited as the Official Secrets Act 1989.
+
+(2) This Act and the Official Secrets Acts 1911 to 1939 may be cited together as the Official Secrets Acts 1911 to 1989.
+
+(3) Schedule 1 to this Act shall have effect for making amendments consequential on the provisions of this Act.
+
+(4) The enactments and Order mentioned in Schedule 2 to this Act are hereby repealed or revoked to the extent specified in the third column of that Schedule.
+
+(5) Subject to any Order under subsection (3) of section 15 above the repeals in the Official Secrets Act 1911 and the Official Secrets Act 1920 do not extend to any of the territories mentioned in that subsection.
+
+(6) This Act shall come into force on such day as the Secretary of State may by order appoint.
+
+## SCHEDULE 1 — Consequential Amendments
+
+*Section 16(3).*
+
+**1** In each of the following provisions—
+
+(a) section 11(2)(b) of the [^M4]Parliamentary Commissioner Act 1967;
+
+[^F25]b section 11(2)(b) of the Parliamentary Commissioner Act (Northern Ireland) 1969;
+
+[^F26]c section 12(2)(b) of the Commissioner for Complaints Act (Northern Ireland) 1969;
+
+[^F27]d . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(e) section 32(2)(b) of the [^M5]Local Government Act 1974;
+
+[[^F28](f) section 30(2)(b) of the [^M6]Local Government (Scotland) Act 1975;]
+
+[^F29]g paragraph 16(4)(b)(ii) of Schedule 3 to the [^M7]Social Security Pensions (Northern Ireland) Order 1975;
+
+[^F30]h . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(j) regulation 35(2)(a)(ii) of the [^M8]Occupational Pension Schemes (Contracting out) Regulations 1984;
+
+(k) regulation 32(2)(a)(ii) of the [^M9]Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1985,
+
+for the words “the Official Secrets Acts 1911 to 1939” there shall be substituted the words “ the Official Secrets Acts 1911 to 1989 ”.
+
+**[[^F31]2** In section 22(6) of the [^M10]Northern Ireland (Emergency Provisions) Act 1978 for the words “the Official Secrets Acts 1911 and 1920” there shall be substituted the words “the Official Secrets Acts 1911 to 1989”.]
+
+**[^F32]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4** Any provision in a public service pension scheme (within the meaning of the [[^F33]Pension Schemes Act 1993] or the [[^F34]Pension Schemes (Northern Ireland) Act 1993] which has effect in relation to conviction of an offence under the Official Secrets Acts 1911 to 1939 shall be construed as if the reference to such an offence included a reference to an offence under this Act.
+
+## SCHEDULE 2 — Repeals and Revocation
+
+*Section 16(4).*
+
+|  |  |  |
+|---|---|---|
+| 1911 c. 28. | The Official Secrets Act 1911. | Section 2. |
+|  |  | In section 12, in the paragraph beginning “Expressions referring”, the words “or receiving” (in both places where they occur) and “or received”. |
+| 1920 c. 75. | The Official Secrets Act 1920. | Section 9(1). |
+|  |  | In Schedule 1, the amend-ments of section 2 of the Official Secrets Act 1911. |
+| 1946 c. 27. | The Bank of England Act 1946. | Section 4(4) and (5). |
+| 1954 c. 32. | The Atomic Energy Authority Act 1954. | In Schedule 3, the words from “For the purposes of section 2 of the Official Secrets Act 1911” to “shall be deemed to bea contract with Her Majesty”. |
+| 1965 c. 57. | The Nuclear Installations Act 1965. | In Schedule 1, paragraph 2. |
+| 1967 c. 13. | The Parliamentary Commissioner Act 1967. | Section 11(1). |
+| 1969 c. 48. | The Post Office Act 1969. | In Schedule 4, in paragraph 21(1), the words from the beginning to “Her Majesty; and”. |
+| 1969 c. 10 (N.I.). | The Parliamentary Commissioner Act (Northern Ireland) 1969. | Section 11(1). |
+| 1969 c. 25 (N.I.). | The Commissioner for Complaints Act (Northern Ireland) 1969. | Section 12(1). |
+| 1970 c. 46. | The Radiological Protection Act 1970. | Sections 2(8) and 4(7). |
+| 1971 c. 11. | The Atomic Energy Authority Act 1971. | In section 19(1) the words “2 and”. |
+|  |  | In the Schedule, paragraph 2. |
+| 1977 c. 49. | The National Health Service Act 1977. | In Schedule 13, paragraph 15. |
+| 1982 c. 16. | The Civil Aviation Act 1982. | Section 18(1). |
+| 1983 c. 44. | The National Audit Act 1983. | In section 3(5) the words “Except for the purposes of section 2 of the Official Secrets Act 1911 (wrongful communication of information)”. |
+| 1984 c. 12. | The Telecommunications Act 1984. | In Schedule 4, paragraph 12(1). |
+| 1984 c. 35. | The Data Protection Act 1984. | Section 17(2) and (3). |
+|  |  | In Schedule 2, in paragraph 1(2) the words “Except as provided in section 17(2) of this Act”. |
+| 1985 c. 56. | The Interception of Communications Act 1985. | In section 9(4)(b) the words “or 2”. |
+| S.I. 1987/460 (N.I. 5). | The Audit (Northern Ireland) Order 1987. | In Schedule 1, in paragraph 3(3) the words “Except for the purposes of section 2 of the Official Secrets Act 1911 (wrongful communication of information)”. |
+
+---
+
+[^M1]: 1985 c. 56.
+[^F1]: Words in s. 4(3)(a) inserted (2.10.2000) by 2000 c. 23, s. 82(1), Sch. 4 para. 5 (with s. 82(3)); S.I. 2000/2543, art. 3
+[^F2]: Word in s. 4(3) omitted (27.6.2018) by virtue of Investigatory Powers Act 2016 (c. 25), s. 272(1), Sch. 10 para. 37 (with Sch. 9 paras. 7, 8, 10); S.I. 2018/652, reg. 12(g)(iii)
+[^M2]: 1989 c. 5.
+[^F3]: Words in s. 4(3)(b) inserted (15.12.1994) by 1994 c. 13, s. 11(2), Sch. 4 para. 4; S.I. 1994/2734, art. 2
+[^F4]: S. 4(3)(c) and word inserted (27.6.2018) by Investigatory Powers Act 2016 (c. 25), s. 272(1), Sch. 10 para. 37 (with Sch. 9 paras. 7, 8, 10); S.I. 2018/652, reg. 12(g)(iii)
+[^F5]: Words in s. 5(6) substituted (20.12.2023) by National Security Act 2023 (c. 32), s. 100(1), Sch. 18 para. 6(2) (with s. 97); S.I. 2023/1272, reg. 2(f)
+[^F6]: Words in s. 9(1) substituted (12.4.2010) by Justice (Northern Ireland) Act 2002 (c. 26), s. 87(1), Sch. 7 para. 32; S.R. 2010/113, art. 2, Sch. para. 19(e)
+[^F7]: S. 11(1) repealed (1.10.2002) by 2002 c. 30, s. 107, Sch. 8; S.I. 2002/2306, art. 2(g)(iii)(b)
+[^F8]: S. 11(2) repealed by S.I. 1989/1341 (N.I. 12), art. 90(1)(2), Schs. 6, 7
+[^F9]: S. 11(3) substituted for s. 11(3)(3A) (20.12.2023) by National Security Act 2023 (c. 32), s. 100(1), Sch. 18 para. 6(3)(a) (with s. 97); S.I. 2023/1272, reg. 2(f)
+[^F10]: S. 11(4) substituted (20.12.2023) by National Security Act 2023 (c. 32), s. 100(1), Sch. 18 para. 6(3)(b) (with s. 97); S.I. 2023/1272, reg. 2(f)
+[^F11]: S. 11(4A) inserted (20.12.2023) by National Security Act 2023 (c. 32), s. 100(1), Sch. 18 para. 6(3)(c) (with s. 97); S.I. 2023/1272, reg. 2(f)
+[^F12]: S. 12(1)(aa) inserted (6.5.1999) by 1998 c. 46, s. 125, Sch. 8 para. 26(2)
+[^F13]: S. 12(1)(ab) inserted by Government of Wales Act 2006 (c. 32), s. 160, Sch. 10 para. 34(a) (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
+[^F14]: S. 12(1)(b) repealed (2.12.1999) by 1998 c. 47, ss. 99, 100(2), Sch. 13 para. 9(2), Sch. 15 (with s. 95); S.I. 1999/3209, art. 2, Sch.
+[^M3]: 1973 c. 36.
+[^F15]: Words in s. 12(1)(d) substituted (1.4.1997) by 1996 c. 14, s. 131(1), Sch. 10 para. 22 (with s. 72(5)); S.I. 1997/305, art. 2
+[^F16]: Words in s. 12(1)(e) substituted (4.11.2001) by 2000 c. 32, s. 74, Sch. 6 para. 9; S.R. 2001/396, art. 2, Sch.
+[^F17]: Words in s. 12(1)(e) substituted (1.4.2006) by Serious Organised Crime and Police Act 2005 (c. 15), s. 178(8), Sch. 4 para. 58; S.I. 2006/378, art. 4(1), Sch. para. 10
+[^F18]: Words in s. 12(1)(e) substituted (7.10.2013) by Crime and Courts Act 2013 (c. 22), s. 61(2), Sch. 8 para. 36; S.I. 2013/1682, art. 3(v)
+[^F19]: Words in s. 12(2)(a) inserted by Government of Wales Act 2006 (c. 32), s. 160, Sch. 10 para. 34(b) (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
+[^F20]: Words in s. 12(2)(a) inserted (6.5.1999) by 1998 c. 46, s. 125, Sch. 8 para. 26(3)
+[^F21]: S. 12(2)(aa) repealed by Government of Wales Act 2006 (c. 32), s. 160, Sch. 10 para. 34(b) (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
+[^F22]: S. 12(4) inserted (6.5.1999) by 1998 c. 46, s. 125, Sch. 8 para. 26(4)
+[^F23]: S. 12(4A) inserted (1.3.2005) by Energy Act 2004 (c. 20), s. 198(2), Sch. 14 para. 6; S.I. 2005/442, art. 2(1), Sch. 1
+[^F24]: S. 12(5) inserted (2.12.1999) by 1998 c. 47, s. 99, Sch. 13 para. 9(3) (with s. 95); S.I. 1999/3209, art. 2, Sch.
+[^M4]: 1967 c. 13.
+[^F25]: Sch. 1 para. 1(b) repealed (N.I.) (16.7.1996) by S.I. 1996/1298 (N.I. 8), art. 21(2), Sch. 6
+[^F26]: Sch. 1 para. 1(c) repealed (N.I.) (16.7.1996) by S.I. 1996/1297 (N.I. 7), art. 23(2), Sch. 5
+[^F27]: Sch. 1 para. 1(d) repealed (7.2.1994) by 1993 c. 48, s. 188, Sch. 5 Pt. I (with s. 6(8)); S.I. 1994/86, art. 2
+[^M5]: 1974 c. 7.
+[^F28]: Sch. 1 para. 1(f) repealed (S.) (23.10.2002) by 2002 asp 11, s. 25, Sch. 6 para. 12; S.S.I. 2002/467, art. 2
+[^M6]: 1975 c. 30.
+[^F29]: Sch. 1 para. 1(g) repealed (N.I.) (7.2.1994) by 1993 c. 49, ss. 182, 186(2), Sch. 4 Pt. I; S.R. 1994/17, art. 2
+[^M7]: S.I. 1975/1503 (N.I. 15).
+[^F30]: Sch. 1 para. 1(h) repealed (5.2.1994) by 1993 c. 46, ss. 20(2), 22(4) Sch. 3 (with s. 3(4))..
+[^M8]: S.I. 1984/380
+[^M9]: S.R. 1985 No. 259.
+[^F31]: Sch. 1 para. 2 repealed (N.I.) by Northern Ireland (Emergency Provisions) Act 1991 (c. 24, SIF 39:1), s. 70(4), Sch. 8 Pt. I.
+[^M10]: 1978 c. 5.
+[^F32]: Sch. 1 para. 3 repealed (2.10.2000) by 2000 c. 23, s. 82(2), Sch. 5 (with s. 82(3)); S.I. 2000/2543, art. 3
+[^F33]: Words in Sch. 1 para. 4 substituted (7.2.1994) by 1993 c. 48, ss. 190, 193(2), Sch. 8 para.21 (with s. 6(8)); S.I. 1994/86, art. 2
+[^F34]: Words in Sch. 1 para. 4 substituted (N.I.) (7.2.1994) by 1993 c. 49, ss. 184, 186(2), Sch. 7 para.23; S.R. 1994/17, art. 2

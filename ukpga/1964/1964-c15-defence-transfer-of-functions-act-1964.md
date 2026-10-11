@@ -1,0 +1,118 @@
+---
+title: "Defence (Transfer of Functions) Act 1964"
+identifier: "ukpga/1964/15"
+citation: "1964 c.15"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1964-03-12
+last_amended: 2009-10-31
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1964/15"
+source_modified: 2015-08-14
+retrieved: 2026-10-11
+---
+
+# Defence (Transfer of Functions) Act 1964
+
+**1964 c.15**
+
+An Act to facilitate the making of new arrangements for the central organisation of defence, and to provide for matters consequential thereon.
+
+[12th March 1964]
+
+## 1 Transfer to, and discharge by, Secretary of State and Defence Council of certain statutory functions.
+
+(1) If Her Majesty is pleased to make arrangements—
+
+(a) for one of Her principal Secretaries of State to be charged with general responsibility for defence; and
+
+(b) for the establishment of a Defence Council having powers of command and administration over Her Majesty’s armed forces, and of an Admiralty Board, an Army Board and an Air Force Board to be charged (under the Defence Council) with the administration of matters relating to the naval, military and air forces respectively;
+
+then on such day as Her Majesty may by Order in Council appoint for those arrangements to take effect (in this Act referred to as “the appointed day”) the statutory functions below mentioned shall be transferred to a Secretary of State or to the Defence Council as provided by this section.
+
+(2) There shall be transferred to a Secretary of State the functions conferred by any enactment on the Minister of Defence, or on the Secretary of State for War or for Air (however styled), or on the Admiralty, except such functions of the Admiralty as are by subsection (3) below transferred to the Defence Council.
+
+(3) There shall be transferred to the Defence Council the functions conferred by any enactment on the Army Council or on the Air Council, and the functions conferred on the Admiralty—
+
+(a) by any enactment by which similar functions are conferred on the Army Council or on the Air Council; [^F1]...
+
+[^F1]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F2]
+
+[^F3]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) The functions of the Defence Council under any enactment (including any function [^F4]... of a judicial nature) may, subject to any directions of the Defence Council, be discharged by the Admiralty Board, the Army Board or the Air Force Board; and for the purposes of any enactment (including any other provision of this Act) anything done by or in relation to any of those Boards in or in connection with the discharge of any such functions of the Defence Council shall be of the same effect as if done by or in relation to the Defence Council.
+
+This subsection shall apply to functions conferred by enactments passed after this Act, except in so far as its application is expressly or impliedly excluded.
+
+(6) A certificate purporting to be given under the hand of the secretary (or person acting as secretary) to the Defence Council that any person was at a time specified in the certificate a member of the Defence Council, the Admiralty Board, the Army Board or the Air Force Board shall be evidence of the fact certified.
+
+(7) Subsections (2), (3) and (5) above shall have effect in relation to any order, regulation, rule or other instrument having effect under any enactment as they have effect in relation to an enactment, except that Her Majesty may by Order in Council direct that any functions which are conferred by such an instrument on the Admiralty and would apart from the order be transferred to the Secretary of State shall be tranferred to the Defence Council.
+
+(8) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F5]
+
+## 2 Incorporation of Secretary of State for Defence, and vesting etc. of property, rights and liabilities.
+
+(1) If Her Majesty is pleased to make the arrangements described in section 1(1) above, the person appointed Secretary of State with general responsibility for defence and his successors shall be, by the name of the Secretary of State for Defence, a corporation sole (with a corporate seal) for all purposes relating to the acquisition, holding, management or disposal of property, . . . [^F6].
+
+(2) On the appointed day the Secretary of State for Defence shall succeed to all property, rights and liabilities in the United Kingdom or elsewhere of the Minister of Defence, or of the Admiralty, or of the Secretary of State for War or for Air, or of the Army or Air Council, including property, rights and liabilities held or incurred by any of them jointly with any other person.
+
+(3) The purposes for which land, or rights in or over land, may be taken, purchased or used by the Secretary of State for Defence under the Defence Acts 1842 to 1935 or section 7 of the [^M1]Lands Clauses Consolidation Acts Amendment Act 1860 shall include any purpose of his department, or of any of Her Majesty’s naval, military or air forces; and Part II of the [^M2]Military Lands Act 1892 (which provides for the making of byelaws in connection with the use of land for military purposes) shall apply in relation to land under the management of the Secretary of State as if any such purpose were a military purpose within the meaning of the said Part II.
+
+In this and the next following subsection any reference to the Defence Acts 1842 to 1935, to section 7 of the [^M3]Lands Clauses Consolidation Acts Amendment Act 1860 or to Part II of the [^M4]Military Lands Act 1892 shall include any enactment amending or extending any provision thereof in its application to the Secretary of State for War.
+
+(4) The Defence Acts 1842 to 1935 shall apply for the management, use and disposal of all lands in the United Kingdom and rights in or over land in the United Kingdom which are by subsection (2) above vested in the Secretary of State for Defence as if they had been acquired by him under those Acts:
+
+Provided that this subsection shall not apply to any land so as to alter the purposes for which the land is held under any enactment relating especially to that land, or any restriction affecting the use of the land and arising under any such enactment or under any stipulation agreed to on the acquisition of the land for the public service, or any right of pre-emption in respect of the land to which any person may be entitled under any such enactment or stipulation or under the Lands Clauses Acts.
+
+(5) The corporate seal of the Secretary of State for Defence shall be authenticated by the signature of a Secretary of State or of an Under-Secretary of State in the Ministry of Defence or of any person authorised by a Secretary of State to act in that behalf; and—
+
+(a) the seal shall be officially and judicially noticed; and
+
+(b) every document purporting to be an instrument made or issued by the Secretary of State for Defence and to be sealed with the said seal authenticated in the manner provided by this subsection, or to be signed by an Under-Secretary of State in the Ministry of Defence or any person authorised as aforesaid, shall be received in evidence and be deemed to be so made or issued without further proof, unless the contrary is shown.
+
+## 3 Consequential and transitional.
+
+(1) Her Majesty may by Order in Council make further provision for incidental, consequential and transitional matters arising out of the making of the arrangements described in section 1(1) above or out of the transfers effected by this Act, including provision for adapting thereto or (in so far as they are no longer required) repealing the provisions of any enactment or legislative instrument, and including also provision for savings of a transitional nature in relation to the operation of this Act.
+
+Any provision made under the powers of this subsection may be varied or revoked by a further Order in Council, and any Order in Council containing any provision so made shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(2) Subject to any provision made under the powers of subsection (1) above or made otherwise than under this Act, any enactment or instrument shall have effect, so far as may be necessary for or in consequence of the transfers effected by this Act or any transfer of functions under the said arrangements, as if references to any of the existing service authorities (including any reference which is to be construed as such a reference) were references to the Secretary of State or, as regards functions of the Defence Council, to the Defence Council, and as if references to the Admiralty department, the War Office or the Air Ministry or to officers of those departments (including any reference which is to be construed as such a reference) were references to the Ministry of Defence or to officers of that department, as the case may be.
+
+(3) This Act shall not invalidate anything done before the appointed day; and, subject to any provision made under the powers of subsection (1) above, anything which at that day is in process of being done by or in relation to any of the existing service authorities (including in particular any legal proceeding to which any of them is a party) may be continued by or in relation to the Secretary of State or, if it relates to functions of the Defence Council, by or in relation to the Defence Council.
+
+(4) Subject to any provision made under the powers of subsection (1) above, any order, regulation, rule, direction, authority, appointment, authentication, approval or other instrument or act effective at the appointed day as that of any of the existing service authorities shall continue to have effect as that of the Secretary of State or the Defence Council, as the case may require.
+
+(5) Where at the appointed day any existing service authority is in process of acquiring land in the United Kingdom or rights in or over such land, and the acquisition is by virtue of this section completed by the Secretary of State for Defence, section 2(4) above shall apply as if the land or rights had been vested in the Secretary of State for Defence by subsection (2) of that section.
+
+(6) In this section, except in so far as the context otherwise requires,—
+
+(a) “existing service authority” means the Minister of Defence, the Admiralty, the Secretary of State for War or for Air or the Army or Air Council; and
+
+(b) “instrument” (without prejudice to the generality of that expression) includes in addition to legislative instruments and instruments of any description mentioned in subsection (4) above, judgements, decrees, awards, contracts and other documents.
+
+## 4 Supplementary.
+
+(1) This Act may be cited as the Defence (Transfer of Functions) Act 1964.
+
+(2) In this Act “enactment” includes an enactment of the Parliament of Northern Ireland.
+
+(3) Nothing in this Act shall prejudice any power exercisable by virtue of the prerogative of the Crown.
+
+---
+
+[^F1]: S. 1(3)(b) and preceding word repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F2]: S. 1(3)(c) and the preceding “or” repealed by Statute Law (Repeals) Act 1989 (c. 43), s. 1(1), Sch. 1 Pt. XI
+[^F3]: S. 1(4) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F4]: Words in s. 1(5) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^F5]: S. 1(8) repealed by Statute Law (Repeals) Act 1974 (c. 22), Sch. Pt. XI
+[^F6]: Words repealed by Ministers of the Crown Act 1974 (c. 21), Sch. 3
+[^M1]: 1860 c. 106.
+[^M2]: 1892 c. 43.
+[^M3]: 1860 c. 106.
+[^M4]: 1892 c. 43.

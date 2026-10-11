@@ -1,0 +1,3543 @@
+---
+title: "Rent (Scotland) Act 1984"
+identifier: "ukpga/1984/58"
+citation: "1984 c. 58"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "S"
+date: 1984-10-31
+last_amended: 2026-05-01
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1984/58"
+source_modified: 2026-05-12
+retrieved: 2026-10-11
+---
+
+# Rent (Scotland) Act 1984
+
+**1984 c. 58**
+
+An Act to consolidate in relation to Scotland certain enactments relating to rents and tenants’ rights and connected matters.
+
+[31st October 1984]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Part I — Preliminary
+
+### 1 Protected tenancies.
+
+(1) A tenancy under which a dwelling-house (which may be a house or part of a house) is let as a separate dwelling is a protected tenancy for the purposes of this Act unless—
+
+(a) the rateable value of the dwelling-house on the appropriate day exceeded or, as the case may be, exceeds £200, or in the case of a dwelling-house comprising or forming part of lands and heritages for which a rateable value is or was first shown on the valuation roll on or after 1st April 1978, £600; or
+
+(b) the tenancy is one with respect to which section 2 below otherwise provides; or
+
+(c) by virtue of section 4 or 5 below, the tenancy is for the time being precluded from being a protected tenancy by reason of the body or entity in whom the landlord’s interest is vested; or
+
+(d) by virtue of section 6 below, the tenancy has at all times since it was granted been precluded from being a protected tenancy;
+
+and any reference to a protected tenant shall be construed accordingly.
+
+(2) In relation to dwelling-houses comprisisng or forming part of lands and heritages for which a rateable value is or was first shown on the valuation roll on or after 1st April 1978, the Secretary of State may by order made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament increase the said sum of £600 in subsection (1) above, and he may make different provision for different classes of case.
+
+(3) For the purposes of this Act, any land or premises let together with a dwelling-house shall, unless it consists of agricultural land exceeding two acres in extent, be treated as part of the dwelling-house.
+
+(4) If any question arises in any proceedings whether a dwelling-house is within the limit of rateable value in subsection (1)(a) above, it shall be deemed to be within that limit unless the contrary is shown.
+
+### 2 Tenancies excepted from definition of “protected tenancy”.
+
+(1) A tenancy is not a protected tenancy if—
+
+(a) under the tenancy either no rent is payable or the rent payable is less than two-thirds of the rateable value which is or was the rateable value of the dwelling-house on the appropriate day; or
+
+(b) under the tenancy the dwelling-house is bona fide let at a rent which includes payments in respect of board or attendance; or
+
+(c) the tenancy is granted to a person who is pursuing or intends to pursue a course of study provided by a specified educational institution and is so granted either by that institution or by another specified institution or body of persons; or
+
+(d) the purpose of the tenancy is to confer on the tenant the right to occupy the dwelling-house for a holiday; or
+
+(e) subject to section 1(3) above, the dwelling-house which is subject to the tenancy is let together with land other than the site of the dwelling-house.
+
+(2) Paragraph (a) of subsection (1) above shall not apply to a converted tenancy after the conversion.
+
+(3) In the following provisions of this Act, a tenancy falling within paragraph (a) of subsection (1) above is referred to as a “tenancy at a low rent”.
+
+(4) For the purposes of paragraph (b) of subsection (1) above, a dwelling-house shall not be taken to be bona fide let at a rent which includes payments in respect of attendance unless the amount of rent which is fairly attributable to attendance, having regard to the value of the attendance to the tenant, forms a substantial part of the whole rent.
+
+(5) In paragraph (c) of subsection (1) above “specified” means specified, or of a class specified, for the purposes of that paragraph by regulations made by the Secretary of State by statutory instrument; and a statutory instrument containing any such regulations shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 3 Statutory tenants and tenancies.
+
+(1) Subject to sections [[^F1]3A,] 4 and 5 below—
+
+(a) after the termination of a protected tenancy of a dwelling-house the person who, immediately before that termination, was the protected tenant of the dwelling-house shall, so long as he retains possession of the dwelling-house without being entitled to do so under a contractual tenancy, be the statutory tenant of it; and
+
+(b) the provisions of Schedule 1 to this Act shall have effect for determining what person (if any) is the statutory tenant of a dwelling-house at any time after the death of a person who, immediately before his death, was either a protected tenant of the dwelling-house or the statutory tenant of it by virtue of paragraph (a) above;
+
+and a dwelling-house is referred to as subject to a statutory tenancy when there is a statutory tenant of it.
+
+(2) A person who becomes a statutory tenant of a dwelling-house as mentioned in paragraph (a) of subsection (1) above is, in this Act, referred to as a statutory tenant by virtue of his previous protected tenancy, and a person who becomes a statutory tenant as mentioned in paragraph (b) of that subsection is, in this Act, referred to as a statutory tenant by succession.
+
+### [[^F2]3A Statutory tenants and tenancies: further provision as to succession.
+
+(1) Where the person who is the original tenant, within the meaning of Schedule 1 to this Act, dies after the commencement of section 46 of the Housing (Scotland) Act 1988, the provisions of Schedule 1A to this Act shall have effect for determining what person (if any) is entitled to a statutory or statutory assured tenancy of the dwelling-house.
+
+(2) Where subsection (1) above does not apply but the person who is the first successor, within the meaning of the said Schedule 1, dies after the commencement of the said section 46, the provisions of Schedule 1B to this Act shall have effect for determining what person (if any) is entitled to a statutory assured tenancy of the dwelling-house by succession.
+
+(3) In any case where, by virtue of any provision of the said Schedules 1A or 1B to this Act, a person becomes entitled to an assured tenancy of a dwelling-house by succession, that tenancy shall be a statutory assured tenancy arising by virtue of the said section 46.]
+
+### 3B [[^F3]Succession after the Private Housing (Tenancies) (Scotland) Act 2016 comes into force
+
+(1) Subsection (2) applies where—
+
+(a) the sole tenant of a dwelling-house under a protected tenancy or a statutory tenancy dies on or after [[^F4]1 December 2017], and
+
+(b) as a result of that death, an individual becomes the tenant of the dwelling-house by virtue of section 3(1)(b) or 3A above.
+
+(2) As soon as the individual becomes the tenant, the individual's tenancy of the dwelling-house—
+
+(a) ceases to be a statutory tenancy or a statutory assured tenancy (as the case may be), and
+
+(b) becomes a private residential tenancy as defined in the Private Housing (Tenancies) (Scotland) Act 2016.]
+
+### 4 No protected or statutory tenancy where landlord’s interest belongs to Crown.
+
+(1) Subject to subsection (3) below, a tenancy shall not be a protected tenancy at any time when the interest of the landlord under that tenancy belongs to Her Majesty in right of the Crown or to a Government department, or is held in trust for Her Majesty for the purposes of a Government department.
+
+(2) A person shall not at any time be a statutory tenant of a dwelling-house if the interest of his immediate landlord, at that time, belongs or is held as mentioned in subsection (1) above.
+
+(3) An interest belonging to Her Majesty in right of the Crown shall not prevent a tenancy from being a protected tenancy or a person from being a statutory tenant if the interest is under the management of the Crown Estate Commissioners [[^F5]or is an interest to which section 90B(5) of the Scotland Act 1998 applies].
+
+### 5 No protected or statutory tenancy where landlord’s interest belongs to local authority, etc.
+
+(1) A tenancy shall not be a protected tenancy at any time when the interest of the landlord under that tenancy belongs to any of the bodies or entities specified in subsection (2) below, nor shall a person at any time be a statutory tenant of a dwelling-house if the interest of his immediate landlord belongs at that time to any of those bodies or entities.
+
+(2) The bodies and entities referred to in subsection (1) above are—
+
+(a) a [[^F6]local authority], or a joint board or joint committee as respectively defined by the [^M1]Local Government (Scotland) Act 1973, or the common good of [[^F6]local authority] or any trust under the control of a [[^F6]local authority];
+
+[[^F7](aa) Scottish Water;]
+
+(b) a development corporation established by an order made, or having effect as if made, under the [^M2]New Towns (Scotland) Act 1968;
+
+(c) the Housing Corporation;
+
+(d) the Scottish Special Housing Association, or any housing trust which was in existence on 13th November 1953 . . . [^F8]; and
+
+(e) an urban development corporation within the meaning of Part XVI of the [^M3]Local Government, Planning and Land Act 1980.
+
+(3) In subsection (2)(d) above, “housing trust” means a corporation or body of persons which is required by the terms of its constituent instrument to devote the whole of its funds, including any surplus which may arise from its operations, to the provision of houses and to other purposes incidental thereto.
+
+(4) A tenancy shall not be a protected tenancy at any time when the interest of the landlord under that tenancy [[^F9]belongs to a housing association which—
+
+(a) is registered under the Housing Associations Act [^M4]1985, or
+
+(b) is a co-operative housing association within the meaning of that Act;
+
+nor shall a person at any time be a statutory tenant of a dwelling-house if the interest of his immediate landlord belongs at that time to such a housing association.]
+
+(5) A tenancy shall not be a protected tenancy at any time when the interest of the landlord under the tenancy belongs to a housing co-operative, as defined in section [[^F10]22 of the Housing (Scotland) Act 1987] (agreements for exercise by housing co-operatives of local authority housing functions) and the dwelling-house is comprised in an agreement to which that section applies or in a similar agreement between the co-operative and the Scottish Special Housing Association.
+
+[[^F11](5A) A tenancy which is a lease under a shared ownership agreement within the meaning of [[^F12]section 83(3) of the Housing (Scotland) Act 2001 (asp 10)] shall not be a protected tenancy.]
+
+(6) Where—
+
+(a) a tenancy is not a protected tenancy or a statutory tenancy by virtue only of this section, and
+
+(b) a sub-tenancy of the dwelling-house or any part thereof is created,
+
+then in ascertaining, in relation to the sub-tenancy, what rent is recoverable from the sub-tenant, the provisions of this Act shall apply as if the tenancy were a protected tenancy or a statutory tenancy, as the case may be, and neither the dwelling-house nor any part thereof had ever been let before the beginning of the tenancy.
+
+### 6 No protected tenancy where landlord’s interest belongs to resident landlord.
+
+(1) Subject to subsection (6) below, a tenancy of a dwelling-house which is granted on or after 1st December 1980 shall not be a protected tenancy at any time if—
+
+(a) the dwelling-house (not being a whole flat in a purpose-built block of flats) forms part only of a building; and
+
+(b) subject to subsection (2) below, the tenancy was granted by a person who, at the time when he granted it, occupied as his residence another dwelling-house which also forms part of the building; and
+
+(c) subject to subsection (3) below, at all times since the tenancy was granted the interest of the landlord under the tenancy has belonged to a person who, at the time he owned that interest, occupied as his residence another dwelling-house which also formed part of the building.
+
+(2) The condition in paragraph (b) of subsection (1) above shall be deemed to be fulfilled if the tenancy was granted by trustees and, at the time when the tenancy was granted, the interest of the landlord under the tenancy thereby created was held on trust for a person who was entitled to the liferent or to the fee or a share of the fee of that interest and who occupied as his residence a dwelling-house which forms part of the building referred to in paragraph (a) of that subsection.
+
+(3) In determining whether the condition in paragraph (c) of subsection (1) above is at any time fulfilled with respect to a tenancy, there shall be disregarded—
+
+(a) any period of not more than 28 days beginning with the date of the conveyance of the interest of the landlord under the tenancy to an individual who, during that period, does not occupy as his residence another dwelling-house which forms part of the building concerned;
+
+(b) if, within a period falling within paragraph (a) above, the individual concerned notifies the tenant in writing of his intention to occupy as his residence another such dwelling-house as is referred to in that paragraph, the period beginning with the date of the conveyance mentioned in that paragraph and ending—
+
+(i) at the expiry of the period of 6 months beginning on that date, or
+
+(ii) on the date on which the interest of the landlord under the tenancy ceases to be held by that individual, or
+
+(iii) on the date on which the condition in subsection (1)(c) above again applies,
+
+whichever is the earlier; and
+
+(c) any period of not more than 24 months beginning with the date of death of the landlord under the tenancy during which the interest of the landlord under the tenancy is vested in his executor.
+
+(4) Throughout any period which, by virtue of subsection (3)(a) or (b) above, falls to be disregarded for the purpose of determining whether the condition in subsection (1)(c) above is fulfilled with respect to a tenancy, no order for possession of the dwelling-house subject to that tenancy shall be made, other than an order which might be made if that tenancy were or, as the case may be, had been a regulated tenancy.
+
+(5) During any period when—
+
+(a) the interest of the landlord under the tenancy referred to in subsection (1) above is vested in trustees, and
+
+(b) that interest is held on trust for a person who is entitled to the liferent or to the fee or a share of the fee of that interest and who occupies as his residence a dwelling-house which forms part of the building referred to in paragraph (a) of that subsection,
+
+the condition in paragraph (c) of that subsection shall be deemed to be fulfilled and, accordingly, no part of that period shall be disregarded by virtue of subsection (3) above.
+
+(6) This section does not apply to a tenancy of a dwelling-house which forms part of a building if the tenancy is granted to a person who, immediately before it was granted, was a protected or statutory tenant of that dwelling-house or of any other dwelling-house in that building.
+
+(7) For the purposes of this section, a person shall be treated as occupying a dwelling-house as his residence if, so far as the nature of the case allows, he would be regarded as retaining possession of the dwelling-house for the purposes of paragraph (a) of section 3(1) above if he were such a person as is referred to in that paragraph.
+
+(8) For the purposes of this section—
+
+(a) a building is a purpose-built block of flats if as constructed it contained, and it contains, two or more flats, and for this purpose “flat” has the same meaning as in section [[^F13]338 of the Housing (Scotland) Act 1987];
+
+(b) “conveyance” includes the grant of a tenancy and any other conveyance or transfer other than upon death;
+
+(c) “the date of the conveyance” means the date on which the conveyance was granted, delivered or otherwise made effective.
+
+(9) This section shall apply to a tenancy of a dwelling-house granted on or after 14th August 1974 but before 1st December 1980 as it applies to such a tenancy granted on or after 1st December 1980, but with the substitution for paragraph (a) of subsection (1) above of the following paragraph—
+
+“ (a) the dwelling-house forms part only of a building which is not a purpose-built block of flats; and”.
+
+### 7 Rateable value and the appropriate day.
+
+(1) Except where this Act otherwise provides, the rateable value on any day of a dwelling-house shall be ascertained for the purposes of this Act as follows:—
+
+(a) if the dwelling-house comprises lands and heritages for which a rateable value is then shown on the valuation roll, it shall be that rateable value;
+
+(b) if the dwelling-house forms part only of such lands and heritages, its rateable value shall be taken to be such value as is found by a proper apportionment of the rateable value so shown.
+
+(2) Any question arising under this section as to the proper apportionment of any value shall be determined by the [[^F14]First-tier Tribunal], and the decision of the [[^F14]Tribunal] shall be final.
+
+(3) In this Act “the appropriate day”,—
+
+(a) in relation to any dwelling-house which, on 23rd March 1965, comprised or formed part of land and heritages for which a rateable value was shown on the valuation roll then in force, means that date;
+
+(b) in relation to any dwelling-house of which a tenancy granted before 1st December 1980 becomes, or would but for its low rent become, a protected tenancy by virtue of section 4(3) above, means 1st December 1980; and
+
+(c) in relation to any other dwelling-house means the date on which a rateable value is or was first shown on the valuation roll.
+
+(4) Where, after the date which is the appropriate day in relation to any dwelling-house, the valuation roll is altered so as to vary the rateable value of the lands and heritages of which the dwelling-house consists or forms part and the alteration has effect from a date not later than the appropriate day, the ratable value of the dwelling-house on the appropriate day shall be ascertained as if the value shown on the valuation roll on the appropriate day had been the value shown on the roll as altered.
+
+(5) The preceding provisions of this section apply in relation to any other land as they apply in relation to a dwelling-house.
+
+### 8 Regulated tenancies.
+
+(1) For the purposes of this Act, a “regulated tenancy” is a protected or statutory tenancy.
+
+(2) Where a regulated tenancy is followed by a statutory tenancy of the same dwelling-house, the two shall be treated for the purposes of this Act as together constituting one regulated tenancy.
+
+### 9 Short tenancies.
+
+(1) A protected tenancy created on or after 1st December 1980 is a short tenancy for the purposes of this Act where—
+
+(a) immediately before the creation of the tenancy the tenant was not a protected or statutory tenant of the dwelling-house, except where he was then a tenant under a short tenancy or a statutory tenant following on the expiry of a short tenancy;
+
+(b) the tenancy is for a period specified in the tenancy agreement of not less than one year nor more than five years;
+
+(c) the tenancy agreement does not contain any provision whereby the landlord may terminate the tenancy before the expiry of the said specified period other than for non-payment of rent or for breach of any other obligation of the tenancy;
+
+(d) before the creation of the tenancy the landlord has served on the tenant notice in writing informing him that the tenancy will be a short tenancy for the purposes of this Act; and
+
+(e) either—
+
+(i) there is, at the commencement of the tenancy, a rent registered for the dwelling-house which is the subject of the tenancy in the register of rents kept for the purposes of Part V of this Act, or
+
+(ii) the landlord has applied for and been granted a certificate of fair rent under section 47 below, and has, within 14 days after the commencement of the tenancy, made an application for that fair rent to be registered under subsection (4) of that section.
+
+(2) Where a short tenancy has been created in a case to which sub-paragraph (e)(ii) of subsection (1) above applies, the application referred to in that sub-paragraph may not be withdrawn and, notwithstanding the provisions of section 50(1) and (4) below, the rent registered for the dwelling-house shall take effect from the commencement of the tenancy.
+
+(3) The Secretary of State may by order made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament dispense with the requirements of subsection (1)(e) above in relation to any registration area within the meaning of section 43 below.
+
+(4) The Secretary of State may by order made by statutory instrument prescribe the form of notice required under subsection (1)(d) above.
+
+### 10 Premises with business use.
+
+(1) A tenancy of a dwelling-house which consists of or comprises premises [[^F15]which, by virtue of a premises licence issued under the Licensing (Scotland) Act 2005, are licensed for the sale of alcohol (within the meaning of section 2 of that Act) for consumption on the premises] shall not be a protected tenancy, nor shall such a dwelling-house be the subject of a statutory tenancy.
+
+(2) A tenancy shall not be a regulated tenancy if it is a tenancy to which the [^M5]Tenancy of Shops (Scotland) Act 1949 applies (but this provision is without prejudice to the application of any other provision of this Act to a sub-tenancy of any part of the premises comprised in such a tenancy).
+
+## Part II — Security of Tenure
+
+### 11 Grounds for possession of certain dwelling-houses.
+
+(1) Subject to the following provisions of this Part of this Act, [[^F16]the First-tier Tribunal] shall not make an order for possession of a dwelling-house which is for the time being let on a protected tenancy or subject to a statutory tenancy unless [[^F17]the Tribunal] considers it reasonable to make such an order and either—
+
+(a) the [[^F17]the Tribunal] is satisfied that suitable alternative accommodation is available for the tenant or will be available for him when the order in question takes effect, or
+
+(b) the circumstances are as specified in any of the Cases in Part I [[^F18]or II] of Schedule 2 to this Act.
+
+(2) [^F19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) The provisions of Part III of Schedule 2 to this Act shall have effect in relation to Case 8 in that Schedule and for determining the relevant date for the purposes of the Cases in Part II of that Schedule.
+
+(4) The provisions of Part IV of Schedule 2 to this Act shall have effect for determining whether, for the purposes of subsection (1)(a) above, suitable alternative accommodation is or will be available for a tenant.
+
+### 12 Extended discretion of court in claims for possession of certain dwelling-houses.
+
+(1) [^F20]...[[^F21]the First-tier Tribunal] may adjourn, for such period or periods as it thinks fit, proceedings for possession of a dwelling-house which is let on a protected tenancy or subject to a statutory tenancy.
+
+(2) On the making of an order for possession of such a dwelling-house, or at any time before the execution of such an order (whether made before or after the commencement of this Act), the [[^F22]First-tier Tribunal][^F23]... may—
+
+(a) sist or suspend execution of the order, or
+
+(b) postpone the date of possession,
+
+for such period or periods as the [[^F22]Tribunal] thinks fit.
+
+(3) Any such adjournment as is referred to in subsection (1) above and any such sist, suspension or postponement as is referred to in subsection (2) above may be made subject to such conditions with regard to payment by the tenant of arrears of rent, rent or compensation to the owner for loss of possession and otherwise as the [[^F24]First-tier Tribunal] thinks fit.
+
+(4) If any such conditions as are referred to in subsection (3) above are complied with, the [[^F25]First-tier Tribunal] may, if it thinks fit, discharge or rescind any such order as is referred to in subsection (2) above.
+
+[^F26]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12A [[^F27]Requirement to notify local authority of proceedings for possession
+
+(1) Where a landlord raises proceedings for possession of a dwelling-house which is let on a protected tenancy or subject to a statutory tenancy, the landlord shall give notice of the raising of the proceedings to the local authority in whose area the dwelling-house is situated.
+
+(2) Notice under subsection (1) shall be given in the form and manner prescribed under section 11(3) of the Homelessness etc. (Scotland) Act 2003 (asp 10).]
+
+### 13 Effect of tenancy being short tenancy.
+
+(1) At the expiry of the period of a short tenancy as specified in the tenancy agreement, the landlord shall, subject to section 14 below, be entitled to recover possession of the dwelling-house.
+
+(2) The tenant under a short tenancy may terminate it by giving to the landlord—
+
+(a) where the period of the tenancy specified in the tenancy agreement is two years or less, one month’s notice;
+
+(b) in any other case, three months’ notice.
+
+(3) Notwithstanding, anything contained in any enactment or rule of law, but subject to subsection (5) below, a landlord under a short tenancy who becomes entitled to recover possession of the dwelling-house which is the subject of the short tenancy shall be entitled to enforce his right to recover possession against any assignee or sub-tenant or against any statutory tenant who has succeeded to the tenancy.
+
+(4) Notwithstanding anything contained in the tenancy agreement, a tenant under a short tenancy shall not be liable to pay to the landlord on termination of the tenancy any sum greater than the outstanding rent (if any) together with any sum due by the tenant to the landlord in respect of damage to the dwelling-house or its contents or in respect of any household accounts incurred by the tenant for which the landlord is or has become responsible.
+
+(5) (a) Where a short tenancy is terminated by the death of the tenant before the expiry of the period specified in the tenancy agreement any statutory tenant by succession within the meaning of Schedule 1 to this Act shall be entitled to retain possession of the premises until the expiry of that period only.
+
+(b) Where a short tenancy is terminated for any reason before the expiry of the period specified in the tenancy agreement, any subtenant of the dwelling-house shall be entitled to retain possession of the premises until the expiry of that period only.
+
+(6) For the purposes of subsection (5) above “subtenant” means any person deriving title from the original tenant or from a subtenant, provided that his title has not been granted in contravention of the tenancy agreement.
+
+### 14 Conditions applying to landlord’s right to recovery of possession.
+
+(1) A landlord under a short tenancy who seeks recovery of possession of the dwelling-house on or after termination of the tenancy, subject to subsection (2) below, may recover possession of the dwelling-house in accordance with Case 15 of Schedule 2 to this Act [[^F28]provided the First-tier Tribunal considers it reasonable to allow such recovery].
+
+(2) A landlord who at any time seeks an order under the said Case 15 shall, either before or not later than three months after the expiry of the period specified in the tenancy agreement, or, in a case to which subsection (3) below applies, not later than three months after the expiry of any period of 12 months for which the tenancy is continued under that subsection, serve on the tenant a notice in writing of his intention to apply for the order, and the relative application shall be made not less than three nor more than six months after service of the said notice.
+
+(3) Where
+
+[[^F29](a)] a landlord fails timeously to serve a notice in compliance with subsection (2) above, [[^F30]or
+
+(b) the First-tier Tribunal does not consider it reasonable to allow recovery in accordance with the said Case 15,]
+
+[[^F31]the tenancy shall be continued as a short tenancy for a period of 12 months beginning with the expiry of the period specified in the tenancy agreement or with the expiry of any period of 12 months for which the tenancy is continued under this subsection.]
+
+### 15 Terms and conditions of statutory tenancies.
+
+(1) So long as he retains possession, a statutory tenant of a dwelling-house shall observe and be entitled to the benefit of all the terms and conditions of the original contract of tenancy, so far as they are consistent with the provisions of this Act.
+
+(2) It shall be a condition of a statutory tenancy of a dwelling-house that the statutory tenant shall afford to the landlord access to the dwelling-house and all reasonable facilities for executing therein any repairs which the landlord is entitled to execute.
+
+(3) A statutory tenant of a dwelling-house shall be entitled to give up possession of the dwelling-house if, and only if, he gives such notice as would have been required under the provisions of the original contract of tenancy, or, if no notice would have been so required, on giving not less than three months’ notice.
+
+(4) Nothing in subsection (3) above shall be construed as affecting section 112 below (under which at least four weeks’ notice to quit is required in respect of premises used as a dwelling-house.
+
+(5) Notwithstanding anything in the contract of tenancy, a landlord who obtains an order for possession of a dwelling-house as against a statutory tenant shall not be required to give to the statutory tenant any notice to quit.
+
+### 16 Payments demanded by statutory tenants as a condition of giving up possession.
+
+(1) A statutory tenant of a dwelling-house who, as a condition of giving up possession of the dwelling-house, asks or receives the payment of any sum, or the giving of any other consideration, by any person other than the landlord, shall be guilty of an offence.
+
+(2) Where a statutory tenant of a dwelling-house requires that furniture or other articles shall be purchased as a condition of his giving up possession of the dwelling-house, the price demanded shall, at the request of the person on whom the demand is made, be stated in writing, and if the price exceeds the reasonable price of the articles the excess shall be treated, for the purposes of subsection (1) above, as a sum asked to be paid as a condition of giving up possession.
+
+(3) A person guilty of an offence under this section shall be liable to a fine not exceeding level 3 on the standard scale.
+
+(4) The court by which a person is convicted of an offence under this section may order the payment—
+
+(a) to the person who made any such payment, or gave any such consideration, as is referred to in subsection (1) above, of the amount of that payment or the value of that consideration, or
+
+(b) to the person who paid any such price as is referred to in subsection (2) above, of the amount by which the price paid exceeds the reasonable price.
+
+### 17 Change of statutory tenant by agreement.
+
+(1) Where it is so agreed in writing between a statutory tenant (in this section referred to as “the outgoing tenant”) and a person proposing to occupy the dwelling-house (in this section referred to as “the incoming tenant”), the incoming tenant shall, subject to the following provisions of this section, be deemed to be the statutory tenant of the dwelling-house as from such date as may be specified in the agreement (in this section referred to as “the transfer date”).
+
+(2) Such an agreement as is referred to in subsection (1) above shall not have effect unless the landlord is a party thereto, and, if the consent of any superior landlord would have been required to an assignation of the previous contractual tenancy, the agreement shall not have effect unless the superior landlord is a party thereto.
+
+(3) If the outgoing tenant is the statutory tenant by virtue of his previous protected tenancy, then, subject to subsection (6) below, the provisions of this Act shall have effect, on and after the transfer date, as if the incoming tenant had been a protected tenant and had become the statutory tenant by virtue of his previous protected tenancy.
+
+(4) Subjet to subsections (5) and (6) below, if the outgoing tenant is a statutory tenant by succession, then on and after the transfer date,—
+
+(a) the provisions of this Act shall have effect as if the incoming tenant were a statutory tenant by succession, and
+
+(b) the incoming tenant shall be deemed to have become a statutory tenant by virtue of that paragraph of Schedule 1 to this Act by virtue of which the outgoing tenant became (or is deemed to have become) a statutory tenant.
+
+(5) If the outgoing tenant is a statutory tenant by succession, the agreement referred to in subsection (1) above may provide that, notwithstanding anything in subsection (4) above, on and after the transfer date, the provisions of this Act shall have effect, subject to subsection (6) below, as if the incoming tenant had been a protected tenant and had become the statutory tenant by virtue of his previous protected tenancy.
+
+(6) Unless the incoming tenant is deemed, by virtue of subsection (4)(b) above, to have become a statutory tenant by virtue of paragraph 6 or 7 of Schedule 1 to this Act, paragraphs 5 to 7 of that Schedule shall not apply where a person has become a statutory tenant by virtue of this section.
+
+(7) In this section “the dwelling-house” means the aggregate of the premises comprised in the statutory tenancy of the outgoing tenant.
+
+### 18 No pecuniary consideration to be required on change of tenant under s. 17.
+
+(1) Any person who requires the payment of any pecuniary consideration for entering into such an agreement as is referred to in section 17(1) above shall be liable to a fine not exceeding level 3 on the standard scale.
+
+(2) The court by which a person is convicted of an offence under subsection (1) above may order the amount of the payment to be repaid by the person to whom it was paid.
+
+(3) Without prejudice to subsection (2) above, the amount of any such payment as is referred to in subsection (1) above shall be recoverable by the person by whom it was made either by proceedings for its recovery or, if it was made to the landlord by a person liable to pay rent to the landlord, by deduction from any rent so payable.
+
+(4) Notwithstanding anything in subsection (1) above, if apart from this section he would be entitled to do so, the outgoing tenant may require the payment by the incoming tenant—
+
+(a) of so much of any outgoings discharged by the outgoing tenant as is referable to any period after the transfer date;
+
+(b) of a sum not exceeding the amount of any expenditure reasonably incurred by the outgoing tenant in carrying out any structural alteration of the dwelling-house or in providing or improving fixtures therein, being fixtures which, as against the landlord, the outgoing tenant is not entitled to remove;
+
+(c) where the outgoing tenant became a tenant of the dwelling-house by virtue of an assignation of the previous protected tenancy, of a sum not exceeding any reasonable amount paid by him to his assignor in respect of expenditure incurred by the assignor, or by any previous assignor of the tenancy, in carrying out any such alteration or in providing or improving any such fixtures as are mentioned in paragraph (b) above; or
+
+(d) where part of the dwelling-house is used as a shop or office, or for business, trade or professional purposes, of a reasonable amount in respect of any goodwill of the business, trade or profession, being goodwill transferred to the incoming tenant in connection with his becoming a statutory tenant of the dwelling-house or accruing to him in consequence thereof.
+
+(5) In this section “outgoing tenant”, “incoming tenant”, “the transfer date” and “the dwelling-house” have the same meanings as in section 17 above.
+
+### 19 Effect on sub-tenancies of determination of tenancy.
+
+(1) If [[^F32]the First-tier Tribunal] makes an order for possession of a dwelling-house from a tenant and the order is made by virtue of paragraph (a) or paragraph (b) of section 11(1) above, nothing in the order shall affect the right of any sub-tenant to whom the dwelling-house or any part of it has been lawfully sublet before the commencement of the proceedings to retain possession by virtue of this Part of this Act, nor shall the order operate to give a right to possession as against any such sub-tenant.
+
+(2) Where a protected or statutory tenancy of a dwelling-house is determined, either as a result of an order for possession or for any other reason (apart from a determination by virtue of section 5 above) any sub-tenant to whom the dwelling-house or any part of it has been lawfully sublet shall, subject to the provisions of this Act, be deemed to become the tenant of the landlord on the same terms as he would have held from the tenant if the tenant’s protected or statutory tenancy had continued.
+
+(3) A tenancy at a low rent which, had it not been a tenancy at a low rent, would have been a protected tenancy of a dwelling-house shall be treated for the purposes of subsection (2) above as protected tenancy.
+
+### 20 Effect on furnished sub-tenancy of determination of superior unfurnished tenancy.
+
+(1) If, in a case where section 19(2) above applies, the relevant conditions are fulfilled, the terms on which the subtenant is, by virtue of that subsection, deemed to become the tenant of the landlord shall not include any terms as to the provision by the landlord of furniture or services.
+
+(2) The relevant conditions referred to in subsection (1) above are—
+
+(a) that the tenancy or statutory tenancy which is determined as mentioned in the said section 19(2) was neither a protected furnished tenancy nor a statutory furnished tenancy;
+
+(b) that, immediately before the determination of that tenancy or statutory tenancy, the sub-tenant referred to in that section was the tenant under a protected furnished tenancy or a statutory furnished tenancy; and
+
+(c) that the landlord, within the period of six weeks beginning with the day on which the tenancy or statutory tenancy referred to in that section is determined, serves notice on the sub-tenant that this section is to apply to his tenancy or statutory tenancy.
+
+(3) In this section, “services” has the same meaning as in section 81(1)
+
+below.
+
+### 21 Compensation for misrepresentation or concealment in Cases 7 and 8.
+
+Where, in such circumstances as are specified in Case 7 or Case 8 in Schedule 2 to this Act, a landlord obtains an order for possession of a dwellling-house let on a protected tenancy or subject to a statutory tenancy and it is subsequently made to appear to the [[^F33]First-tier Tribunal] that the order was obtained by misrepresentation or concealment of material facts, the [[^F33]Tribunal] may order the landlord to pay to the former tenant such sum as appears sufficient as compensation for damage or loss sustained by that tenant as a result of the order.
+
+## Part III — Protection against Harassment and Eviction without due process of Law
+
+### 22 Unlawful eviction and harassment of occupier.
+
+(1) If any person unlawfully deprives the residential occupier of any premises of his occupation of the premises or any part thereof or attempts to do so he shall be guilty of an offence unless he proves that he believed, and had reasonable cause to believe, that the residential occupier had ceased to reside in the premises.
+
+(2) If any person with intent to cause the residential occupier of any premises—
+
+(a) to give up the occupation of the premises or any part thereof; or
+
+(b) to refrain from exercising any right or pursuing any remedy in respect of the premises or part thereof;
+
+does acts calculated to interfere with the peace or comfort of the residential occupier or members of his household, or persistently withdraws or withholds services reasonably required for the occupation of the premises as a residence, he shall be guilty of an offence.
+
+[[^F34](2A) Subject to subsection (2B) below the landlord of any premises or an agent of the landlord shall be guilty of an offence if—
+
+(a) he does acts likely to interfere with the peace or comfort of the residential occupier or members of his household; or
+
+(b) he persistently withdraws or withholds services reasonably required for the occupation of the premises in question as a residence,
+
+and (in either case) he knows, or has reasonable cause to believe, that that conduct is likely to cause the residential occupier to give up the occupation of the whole or part of the premises or to refrain from exercising any right or pursuing any remedy in respect of the whole or part of the premises.
+
+(2B) A person shall not be guilty of an offence under subsection (2A) above if he proves that he had reasonable grounds for doing the acts or withdrawing or withholding the services in question.]
+
+(3) A person guilty of an offence under this section shall be liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding six months or to both; and
+
+(b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
+
+(4) Nothing in this section shall be taken to prejudice any liability or remedy to which a person guilty of an offence thereunder may be subject in civil proceedings.
+
+(5) In this section “residential occupier”, in relation to any premises, means a person occupying the premises as a residence, whether under a contract or by virtue of any enactment or rule of law giving him the right to remain in occupation or restricting the right of any other person to recover possession of the premises.
+
+### 23 Prohibition of eviction without due process of law.
+
+(1) Where any premises have been let as a dwelling under a tenancy which is not a statutorily protected tenancy within the meaning of this Part of this Act or a right of a kind to which Part VII of this Act applies to use a dwelling-house has been granted before or after the commencement of this Act and—
+
+(a) the tenancy or, as the case may be, the right to use (in this Part of this Act referred to as the former tenancy) has come to an end; but
+
+(b) the occupier continues to reside in the premises or part of them;
+
+[[^F35]subject to section 23A,] it shall not be lawful for the owner to enforce against the occupier, otherwise than by proceedings in the [^F36]court [[^F36]First-tier Tribunal], his right to recover possession of the premises.
+
+(2) For the purposes of this Part of this Act a person who, under the terms of his employment, had exclusive possession of any premises otherwise than as a tenant shall be deemed to have been a tenant and the expressions “let”; and “tenancy” shall be construed accordingly.
+
+[[^F37](2A) Subsections (1) and (2) above apply in relation to any premises occupied (whether exclusively or not) as a dwelling other than under a tenancy as they apply in relation to premises let as a dwelling under a tenancy, and in those subsections the expressions “let” and “tenancy” shall be construed accordingly.]
+
+(3) In this Part of this Act “the owner”, in relation to any premises, means the person who, as against the occupier, is entitled to possession thereof; and in this section “the occupier”, in relation to any premises, means any person lawfully residing in the premises or part of them at the termination of the former tenancy.
+
+(4) The preceding provisions of this section shall, with the necessary modifications, apply where the owner’s right to recover possession arises on the death of the tenant under a statutory tenancy.
+
+(5) Nothing in this section shall be taken to affect any rule of law prohibiting the securing of possession otherwise than by due process of law.
+
+### [[^F38]23A Excluded tenancies and occupancy rights.
+
+(1) Nothing in section 23 or 24 of this Act applies to a tenancy or right of occupancy if—
+
+(a) under its terms the occupier has the use of any accommodation in common with the owner or a member of his family (whether or not in common with other persons); and
+
+(b) immediately before the tenancy or right was granted and at all times since then the owner occupied as his only or principal home premises of which the whole or part or the accommodation referred to in paragraph (a) above formed part.
+
+(2) In subsection (1) above—
+
+(a) “accommodation” includes neither an area used for storage nor a staircase, passage, corridor or other means of access;
+
+(b) “owner” means, in relation to a tenancy, the landlord and, in relation to a right to occupy, the person granting it, and in any case where there are joint landlords or grantors any one of them shall be regarded as the “owner”; and
+
+(c) “occupier” means, in relation to a tenancy, the tenant and, in relation to a right to occupy, its grantee;
+
+and section 83 of the Housing (Scotland) Act [^M6]1987 shall apply to determine whether a person is for the purposes of subsection (1) above a member of another’s family as it applies for the purposes of that Act.
+
+(3) Nothing in section 23 or 24 of this Act applies to a tenancy or right of occupancy if it was granted as a temporary expedient to a person who entered the premises in question or any other premises without right or title (whether or not before the beginning of that tenancy or grant of that right another tenancy or right to occupy the premises or any other premises had been granted to him).
+
+(4) Nothing in section 23 or 24 of this Act applies to a tenancy or right of occupancy if it confers on the tenant or occupier the right to occupy the premises for a holiday only.
+
+[[^F39](4A) Nothing in section 23 or 24 of this Act applies to a tenancy or right of occupancy if it was granted, for a term of less than 6 months, to a person—
+
+(a) who is under supervision in pursuance of the functions of a local authority under paragraph (b)(i), (ii) or (vi) of subsection (1) of section 27 (supervision and care of persons on probation, released from prison etc.) of the Social Work (Scotland) Act 1968 (c.49), or
+
+(b) who has requested, in accordance with paragraph (c) of that subsection, the provision of advice, guidance or assistance by a local authority in pursuance of the authority’s functions under that paragraph.]]
+
+(5) Nothing in section 23 or 24 of this Act applies to a right of occupancy which confers rights of occupation in a hostel, within the meaning of the Housing (Scotland) Act 1987, which is provided by—
+
+(a) a local authority within the meaning of the Local Government (Scotland) Act [^M7]1973 or a joint board or joint committee within the meaning of that Act;
+
+(b) a development corporation within the meaning of the New Towns (Scotland) Act [^M8]1968;
+
+(c) an urban development corporation within the meaning of Part XVI of the Local Government, Planning and Land Act [^M9]1980;
+
+(d) the Scottish Special Housing Association;
+
+[^F40]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(f) a registered housing association, within the meaning of the Housing Associations Act [^M10]1985; or
+
+(g) any other person who is, or who belongs to a class of person which is, specified in an order made by the Secretary of State.
+
+[[^F41](5A) Nothing in section 23 of this Act applies to a tenancy or right of occupancy if it is granted in order to provide accommodation [[^F42]under section 4 or Part VI of the Immigration and Asylum Act 1999].]
+
+[^F43]5B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6) The power to make an order under subsection (5)(g) above shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 24 Special provisions with respect to agricultural employees.
+
+(1) The following provisions of this section shall apply where the tenant under the former tenancy occupied the premises under the terms of his employment as a person employed in agriculture (as defined in section 17 of the [^M11]Agricultural Wages (Scotland) Act 1949).
+
+(2) In this section “the occupier”, in relation to any premises, means—
+
+(a) the tenant under the former tenancy; or
+
+(b) the widow or widower of the tenant under the former tenancy residing with him at his death or, if the former tenant leaves no such widow or widower, any member of his family residing with him at his death.
+
+[[^F44](2A) In accordance with section 23(2A) above, any reference in subsections (1) and (2) above to the tenant under the former tenancy includes a reference to the person having a right to occupy premises as a dwelling otherwise than under a tenancy, being a right which has come to an end; and in the following provisions of this section the expressions “tenancy” and “rent” and any other expressions referable to a tenancy shall be construed accordingly.]
+
+(3) Without prejudice to any power of the [[^F45]First-tier Tribunal] apart from this section to postpone the operation or suspend the execution of a decree of removing or warrant of ejection or other like order (in this section referred to as an “order for possession”), if in proceedings by the owner against the occupier the [[^F45]Tribunal] makes an order for the possession of the premises the [[^F45]Tribunal] may suspend the execution of the order on such terms and conditions, including conditions as to the payment by the occupier of arrears of rent, compensation to the owner for loss of possession and otherwise as the [[^F45]Tribunal] thinks reasonable.
+
+(4) Where the order for possession is made within the period of six months beginning with the date when the former tenancy came to an end, then, without prejudice to any powers of the [[^F46]First-tier Tribunal] under the preceding provisions of this section or apart from this section to postpone the operation or suspend the execution of the order for a longer period, the [[^F46]Tribunal] shall suspend the execution of the order (on such terms and conditions, including conditions as to the payment by the occupier of arrears of rent, compensation to the owner for loss of possession and otherwise as the [[^F46]Tribunal] thinks reasonable) for the remainder of the period of six months aforesaid unless the [[^F46]Tribunal] —
+
+(a) is satisfied either—
+
+(i) that other suitable accommodation is, or will within that period be made, available to the occupier; or
+
+(ii) that the efficient management of any agricultural land or the efficient carrying on of any agricultural operations would be seriously prejudiced unless the premises are available for occupation by a person employed or to be employed by the owner; or
+
+(iii) that greater hardship (being hardship in respect of matters other than the carrying on of such a business as aforesaid) would be caused by the suspension of the order until the end of that period than by its execution within that period; or
+
+(iv) that the occupier, or any person residing or lodging with the occupier, has been causing damage to the premises or has been guilty of conduct which is a nuisance or annoyance to persons occupying other premises; and
+
+(b) considers that it would be reasonable not to suspend the execution of the order for the remainder of that period;
+
+but a decision of the [[^F46]Tribunal] not to suspend the execution of the order under this subsection shall not prejudice any other power of the [[^F46]Tribunal] to postpone the operation or suspend the execution of the order for the whole or part of the period of six months aforesaid.
+
+(5) Where the [[^F47]First-tier Tribunal] has under the preceding provisions of this section suspended the execution of an order for possession it may from time to time vary the period of suspension or terminate it and may vary any terms or conditions imposed by virtue of this section.
+
+(6) In considering whether or how to exercise its powers under subsection (3) of this section the [[^F48]First-tier Tribunal] shall have regard to all the circumstances and, in particular, to the following, that is to say—
+
+(a) whether other suitable accommodation is or can be made available to the occupier;
+
+(b) whether the efficient management of any agricultural land or the efficient carrying on of any agricultural operations would be seriously prejudiced unless the premises were available for occupation by a person employed or to be employed by the owner; and
+
+(c) whether greater hardship would be caused by the suspension of the execution of the order than by its execution without suspension or further suspension.
+
+(7) Where in proceedings for the recovery of possession of the premises the [[^F49]First-tier Tribunal] makes an order for possession but suspends the execution of the order by virtue of this section, it shall make no order for expenses, unless it appears to the [[^F49]Tribunal], having regard to the conduct of the owner or of the occupier, that there are special reasons for making such an order.
+
+(8) Where, in the case of an order for possession of the premises to which subsection (4) of this section applies, the execution of the order is not suspended under that subsection or, the execution of the order having been so suspended, the suspension is terminated, then, if it is subsequently made to appear to the [[^F50]First-tier Tribunal] that the failure to suspend the execution of the order or, as the case may be, the termination of the suspension was—
+
+(a) attributable to the provisions of paragraph (a)(ii) of that subsection, and
+
+(b) due to misrepresentation or concealment of material facts by the owner of the premises,
+
+the [[^F50]Tribunal] may order the owner to pay the occupier such sum as appears sufficient as compensation for damage or loss sustained by the occupier as a result of that failure or termination.
+
+### 25 Interpretation.
+
+(1) In this Part of this Act—
+
+- “the court”, subject to the provisions of this section, means the sheriff;
+
+- “statutorily protected tenancy” means a protected tenancy or a tenancy to which any of the following Act apply—
+
+  - (i) the Small Landholders (Scotland) Acts 1886 to 1931;
+  - (ii) the Tenancy of Shops (Scotland) [^M12]Act 1949;
+  - (iii) [^F51][the Agricultural Holdings (Scotland) Act 1991];
+  - (iv) the Crofters (Scotland) [^M13]Acts 1955 and [^M14]1961;
+  - (v) [[^F52]the Agricultural Holdings (Scotland) Act 2003 (that is a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy).]
+
+  [^F53]...
+
+(2) Nothing in this Part of this Act shall affect any jurisdiction of the Court of Session in relation to actions of removing.
+
+(3) Nothing in this Part of this Act shall affect the operation of—
+
+(a) section 19 of the [^M15]Defence Act 1842;
+
+(b) section 89 of the [^M16]Lands Clauses Consolidation (Scotland) Act 1845;
+
+[^F54]c . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 26 Application to Crown.
+
+In so far as this Part of this Act requires the taking of proceedings in the [[^F55]First-tier Tribunal] for the recovery of possession or confers any powers on the [[^F55]Tribunal], it shall be binding on the Crown.
+
+### [^F56]27 Application to sheriff
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part IV — Rents under Regulated Tenancies
+
+### 28 Limit of rent during contractual periods.
+
+(1) Where the rent payable for any contractual period of a regulated tenancy of a dwelling-house would exceed the limit specified in the following provisions of this section (in this Part of this Act referred to as “the contractual rent limit”), the amount of the excess shall, notwithstanding anything in any agreement, be irrecoverable from the tenant.
+
+(2) Where a rent for the dwelling-house is registered under Part V of this Act then, subject to sections 33 . . . [^F57] below, the contractual rent limit is the rent so registered.
+
+### 29 Limit of rent during statutory periods
+
+(1) Except as otherwise provided by the following provisions of this Part of this Act, where the rent payable for any statutory period of a regulated tenancy of a dwelling-house would exceed the rent recoverable for the last contractual period thereof, the amount of the excess shall, notwithstanding anything in any agreement, be irrecoverable from the tenant.
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F58] where a rent for the dwelling-house is registered under Part V of this Act the following provisions shall apply with respect to the rent for any statutory period of a regulated tenancy of the dwelling-house, that is to say—
+
+(a) if the rent payable for any statutory period would exceed the rent so registered, the amount of the excess shall, notwithstanding anything in any agreement, be irrecoverable from the tenant; and
+
+(b) if the rent payable for any statutory period would be less than the rent so registered, it may, subject to section 33 below, be increased up to the amount of that rent by a notice of increase served by the landlord on the tenant and specifying the date (which may be any date during a rental period) from which the increase is to take effect.
+
+(3) The date specified in a notice of increase under subsection (2)(b) above shall not be earlier than the date from which the registration of the rent took effect nor earlier than four weeks before the service of the notice.
+
+(4) Where no rent for the dwelling-house is registered under Part V of this Act the provisions of sections 30 and 31 below shall have effect with respect to the rent recoverable for any statutory period under a regulated tenancy of the dwelling-house.
+
+(5) In relation to any rental period beginning after a tenancy has become a converted tenancy, this and the two next following sections shall have effect as if references therein to the last contractual period were references to the last rental period beginning before the conversion.
+
+### 30 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F59]
+
+### 31 Adjustment, with respect to services and furniture, of recoverable rent for statutory periods before registration.
+
+(1) Where section 29(4) above applies and for any statutory period there is with respect to—
+
+(a) the provision of services for the tenant by the landlord or a superior landlord, or
+
+(b) the use of furniture by the tenant,
+
+or any circumstances relating thereto any difference, in comparison with the last contractual period, such as to affect the amount of the rent which it is reasonable to charge, the recoverable rent for the statutory period shall be increased or decreased by an appropriate amount.
+
+(2) Any question whether, or by what amount, the recoverable rent for any period is increased or decreased by virtue of this section shall be determined by agreement in writing between the landlord and the tenant or by the [[^F60]First-tier Tribunal]; and any such determination—
+
+(a) may be made so as to relate to past statutory periods; and
+
+(b) shall have effect with respect to statutory periods subsequent to the periods to which it relates until revoked or varied by any such agreement as is referred to in this subsection or by the [[^F61]First-tier Tribunal].
+
+### 32 Notices of increase.
+
+(1) Any reference in the following provisions of this section to a notice of increase is a reference to a notice of increase under section 29(2) . . . [^F62] above.
+
+(2) A notice of increase must be in the prescribed form.
+
+(3) Notwithstanding that a notice of increase relates to statutory periods, it may be served during a contractual period; and where such a notice is served during a contractual period and the protected tenancy could, by a notice to quit served by the landlord at the same time, be brought to an end before the date specified in the notice of increase, the notice of increase shall operate to convert the protected tenancy into a statutory tenancy as from that date.
+
+(4) If the [[^F63]First-tier Tribunal] is satisfied that any error or omission in a notice of increase is due to a bona fide mistake on the part of the landlord, the [[^F63]First-tier Tribunal] may order the amendment of the notice by correcting any error or supplying any omission therein which, if not corrected or supplied, would render the notice invalid and, if the [[^F63]First-tier Tribunal] so directs, the notice as so amended shall have effect and be deemed to have had effect as a valid notice.
+
+(5) Any amendment of a notice of increase under subsection (4) above may be made on such terms and conditions with respect to arrears of rent or otherwise as appear to the [[^F64]First-tier Tribunal] to be just and reasonable.
+
+(6) No increase of rent which becomes payable by reason of an amendment of a notice of increase under subsection (4) above shall be recoverable in respect of any statutory period which ended more than six months before the date of the order making the amendment.
+
+### 33 Limits on rent increases
+
+(1) The Secretary of State shall be order make the following provisions in relation to regulated tenancies in respect of which there are registered rents which are registered on or after 1st December 1980 under Part V of this Act, that is to say he shall—
+
+(a) specify the maximum amount by which the total of the rent payable under a tenancy to which this subsection applies in any period [[^F65]specified in the order] beginning with the relevant date for the purposes of sections 46 and 47 below or with any subsequent anniversary of that date may be increased;
+
+(b) restrict the total additional rental income which may be recovered by a landlord under such a tenancy in any period [[^F65]specified in the order] beginning with the relevant date for the purposes of sections 46 and 47 below or with any subsequent anniversary of that date to such amount as is specified in the order.
+
+(2) An order made under subsection (1) above shall be made by statutory instrument subject to annulment in pursuance of a resolution by either House of Parliament, and may contain such supplementary and incidental provisions as the Secretary of State thinks fit.
+
+(3) For the purposes of subsection (1) above “rent” and “rental income” do not include sums paid to the landlord in respect of the provision of any services.
+
+### 34 Rent agreements.
+
+(1) In this Part of this Act “a rent agreement with a tenant having security of tenure” means—
+
+(a) an agreement increasing the rent payable under a protected tenancy which is a regulated tenancy, or
+
+(b) the grant to the tenant under a regulated tenancy, or to any person who might succeed him as a statutory tenant, of another regulated tenancy of the dwelling-house at a rent exceeding the rent under the previous tenancy:
+
+. . . [^F66]
+
+(2) If a rent agreement with a tenant having security of tenure takes effect on or after 1st January 1973, and at a time when no rent is registered for the dwelling-house under Part V of this Act, the requirements of subsection (3) below shall be observed as respects the agreement.
+
+(3) The said requirements are that—
+
+(a) the agreement is in writing signed by the landlord and the tenant,
+
+(b) the agreement contains a statement, in characters not less conspicuous than those used in any other part of the agreement, that the tenant’s security of tenure under this Act will not be affected if he refuses to enter into the agreement, and that entry into the agreement will not deprive the tenant or the landlord of the right to apply at any time to the rent officer for the registration of a fair rent under Part V of this Act, or words to that effect,
+
+(c) the agreement contains a statement that, if a rent is registered under Part V of this Act in respect of the dwelling-house, any increase in the rent may be limited under section 33 above, and
+
+(d) the statements mentioned in paragraphs (b) and (c) above are set out at the head of the agreement.
+
+### 35 Rent agreements: special provisions following conversion.
+
+(1) Subject to subsections (2) and (3) below, this section applies where a rent agreement with a tenant having security of tenure of a dwelling-house is entered into, whether before or after a tenancy becomes a converted tenancy, which is expressed to take effect—
+
+(a) on or after 1st January 1973 and after the conversion, and
+
+(b) at a time when no rent is registered for the dwelling-house under Part V of this Act.
+
+(2) This section shall not apply to any agreement where the tenant is neither the person who, at the time of the conversion, was the tenant, nor a person who might succeed the tenant at that time as a statutory tenant, and where this section has applied to any agreement, it shall not apply to any subsequent agreement relating to the dwelling-house which takes effect more than three years after the first such agreement took effect.
+
+(3) Where a rent is registered for the dwelling-house and the registration is subsequently cancelled, this section shall not apply to the agreement submitted to the rent officer in connection with the cancellation nor to any agreement which takes effect after the cancellation.
+
+(4) The provisions of this section are without prejudice to the requirements imposed by section 34 above.
+
+(5) The following requirements shall be observed with respect to any such agreement as is mentioned in subsection (1) above—
+
+(a) the agreement shall contain the prescribed particulars,
+
+(b) the agreement, when duly completed, shall be lodged by the landlord with the rent officer, and
+
+(c) the landlord shall, not later than the date when the agreement is lodged with the rent officer, serve a copy of the agreement on the tenant.
+
+(6) No such agreement shall take effect earlier than 28 days after it is lodged with the rent officer under subsection (5)(b) above, and it may only take effect on or after that date if the rent officer has not before that date notified both the landlord and the tenant in writing that he proposes to treat the agreement as an application for the registration of a rent for the dwelling-house under Part V of this Act made jointly by the landlord and the tenant.
+
+(7) The rent officer may treat an agreement as such a joint application as is referred to in subsection (6) above before the conversion if an application for the registration of a rent could have been made by virtue of section 38 of the [^M17]Housing (Financial Provisions) (Scotland) Act 1972.
+
+(8) A rent officer may treat an agreement as such a joint application only if he is satisfied that the rent payable under the agreement exceeds a fair rent for the dwelling-house.
+
+(9) Where an agreement is treated by the rent officer as such a joint application then, subject to subsection (10) below, Schedule 5 to this Act shall apply as if the application had been made to him and as if any reference in that Schedule to the rent specified in the application included a reference to the rent expressed to be payable under the agreement.
+
+(10) For the purposes of subsection (9) above, paragraph 3(1)
+
+of the said Schedule 5 shall have effect as if for the words “he may register that rent without further proceedings” there were substituted the words “he shall notify both the landlord and the tenant in writing that he is no longer treating the agreement as a joint application for the registration of a rent and that the agreement may take effect on or after the date of such notification if that date is later than 28 days after the agreement was lodged with him.”
+
+(11) The rent officer shall make available for public inspection, without charge, any agreement which has been lodged with him under this section unless the agreement is treated by him as a joint application for the registration of a rent and a rent is subsequently registered in pursuance of such application; and any agreement which is made available for public inspection under this subsection shall be so available for a period of three years from the date which is 28 days after it has been lodged with the rent officer.
+
+(12) A copy of such an agreement certified by the rent officer or any person duly authorised by him shall be receivable in evidence, and shall be sufficient evidence of the agreement in any court [[^F67]or tribunal] and in any proceedings.
+
+(13) A person requiring such a certified copy shall be entitled to obtain it on payment of the prescribed fee.
+
+(14) No stamp duty shall be chargeable on any agreement to which this section applies which contains—
+
+(a) the statement required by section 34(3)(b) above as read with subsection (4) above, and
+
+(b) the particulars prescribed pursuant to this section.
+
+### 36 Failure to comply with provisions of rent agreements.
+
+(1) If, in the case of a variation of the terms of a regulated tenancy, there is a failure on the part of the landlord to observe any of the requirements of section 34 or 35 above, any excess of the rent payable under the terms as varied over the terms without the variation shall be irrecoverable from the tenant.
+
+(2) If, in the case of the grant of a tenancy, there is a failure on the part of the landlord to observe any of the requirements of section 34 or 35 above, any excess of the rent payable under the tenancy so granted (for any contractual or any statutory period of the tenancy) over the previous limit shall be irrecoverable from the tenant.
+
+(3) In subsection (2) above the “previous limit” shall be taken to be the amount which (taking account of any previous operation of this section) was recoverable by way of rent for the last rental period of the previous tenancy of the dwelling-house, or which would have been so recoverable if all notices of increase authorised by section 36(2) of the [^M18]Housing (Financial Provisions) (Scotland) Act 1972 or by this Act had been served.
+
+(4) A default in complying with subsection (5)(c) of section 35 above shall not apply to rent for any rental period after the default is made good, and, if a rent agreement with a tenant having security of tenure is put into effect earlier than the date when it is provided under section 35 above that it may take effect, such a default shall not affect the rent for any rental period beginning after that date.
+
+### 37 Recovery from landlord of sums paid in excess of recoverable rent, etc.
+
+(1) Where a tenant has paid on account of rent any amount which, by virtue of this Part of this Act, is irrecoverable by the landlord, then, subject to subsection (3) below, the tenant who paid it shall be entitled to recover that amount from the landlord who received it or his personal representatives.
+
+(2) Subject to subsection (3) below, any amount which a tenant is entitled to recover under subsection (1) above may, without prejudice to any other method of recovery, be deducted by the tenant from any rent payable by him to the landlord.
+
+(3) [^F68]... No amount which a tenant is entitled to recover under subsection (1) above shall be recoverable at any time after the expiry of two years from the date of payment.
+
+### [^F69]37A Extension of time limits for recovery from landlord: cross-border mediation
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 38 Onus on landlord.
+
+(1) Any person who, in any rent book or similar document, makes an entry showing or purporting to show any tenant as being in arrears in respect of any sum on account of rent which is irrecoverable by virtue of this Part of this act shall be liable to a fine not exceeding level 3 on the standard scale, unless he proves that, at the time of the making of the entry, the landlord had a bona fide claim that the sum was recoverable.
+
+(2) If, where any such entry has been made by or on behalf of any landlord, the landlord on being requested by or on behalf of the tenant to do so, refuses or neglects to cause the entry to be deleted within seven days, the landlord shall be liable to a fine not exceeding level 3 on the standard scale, unless he proves that, at the time of the neglect or refusal to cause the entry to be deleted, he had a bona fide claim that the sum was recoverable.
+
+### 39 Rectification of rent books in light of determina-tion of recoverable rent.
+
+Where, in any proceedings, the recoverable rent of a dwelling-house subject to a regulated tenancy is determined by [[^F70]the First-tier Tribunal], then, on the application of the tenant (whether in those or in any subsequent proceedings) [[^F71]the Tribunal] may call for the production of the rent book or any similar document relating to the dwelling-house and may [[^F72]order the correction of] any entries showing, or purporting to show, the tenant as being in arrears in respect of any sum which [[^F71]the Tribunal] has determined to be irrecoverable.
+
+### 40 Adjustment for differences in lengths of rental periods.
+
+In ascertaining for the purposes of this Part of this Act whether there is any difference with respect to rents . . . [^F73] between one rental period and another (whether of the same tenancy or not) or the amount of any such difference, any necessary adjustment shall be made to take account of periods of different lengths; and for the purposes of such an adjustment a period of one month shall be treated as equivalent to one-twelfth of a year and a period of a week as equivalent to one-fifty-second of a year.
+
+### 41 Regulations.
+
+(1) The Secretary of State may make regulations—
+
+(a) prescribing the form of any notice or other document to be given or used in pursuance of this Part of this Act;
+
+(b) prescribing anything required or authorised to be prescribed by this Part of this Act; and
+
+(c) prescribing matters as to which notice is to be given to a tenant of a dwelling-house let on or subject to a regulated tenancy by means of notices inserted in rent books and similar documents and the forms of such notices.
+
+(2) Any such regulations shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(3) If any rent book or similar document which does not conform to the prescribed requirements is used by or on behalf of any landlord, the landlord shall be liable to a fine not exceeding level 3 on the standard scale.
+
+### 42 Interpretation of Part IV.
+
+(1) In this Part of this Act—
+
+- “contractual period” means a rental priod of a regulated tenancy which is a period beginning before the expiry or termination of the protected tenancy;
+- “contractual rent limit” has the meaning assigned to it by section 28(1) above;
+- “notice of increase” means a notice of increase under section 29(2) or 30(2) above, as the case may require;
+- “prescribed” means prescribed by regulations under section 41 above, and references to a prescribed form include references to a form substantially to the same effect as the prescribed form;
+- “recoverable rent” means rent which, under a regulated tenancy, is or was for the time being recoverable, having regard to the provisions of this Part of this Act;
+- “a rent agreement with a tenant having security of tenure” has the meaning assigned to it by section 34 above;
+- “rental period” means a period in respect of which a payment of rent falls to be made;
+- “statutory period” means any rental period of a regulated tenancy which is not a contractual period.
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F74]
+
+## Part V — Registration of Rents under Regulated Tenancies
+
+### 43 Registration areas and rent officers.
+
+(1) The registration areas for the purposes of this Part of this Act shall be the [[^F75]areas of local authorities].
+
+(2) The Secretary of State may, after consultation with the local authority or local authorities concerned, make directions—
+
+(a) as to the groupings of registration areas or parts thereof, or
+
+(b) deeming any part of a registration area to be a separate registration area,
+
+and any reference in this Part of this Act to a registration area shall include a reference to a grouping of registration areas or parts thereof and any area deemed to be a separate registration area by virtue of this subsection.
+
+(3) [[^F76]Subject to section 43A below,]The Secretary of State shall for every registration area, after consultation with the local authority or local authorities for that area, appoint such number of rent officers for the area as he may think fit.
+
+(4) Where the Secretary of State made a direction under subsection (2) above, or an appointment under subsection (3) above, which came into force on 16th May 1975, he shall be deemed to have consulted the local authority or local authorities concerned for the purposes of the said subsection (2) or (3) if he consulted either the existing or the new local authority or local authorities before that date.
+
+[^F77]5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F77]6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(7) References in this Act to the rent officer are references to any rent officer appointed for any area under this section.
+
+### [[^F78]43A Rent registration service providers.
+
+(1) The Secretary of State may, if he thinks fit, make arrangements (“rent registration arrangements”) with another person (a “rent registration service provider”) for the performance by that person in accordance with the arrangements of the functions mentioned in subsection (2) below.
+
+(2) Those functions are the functions, under this Part of this Act and [[^F79]Chapter 2 of Part 4 of the Private Housing (Tenancies) (Scotland) Act 2016], of the rent officer for such registration area or areas as are specified in the rent registration arrangements.
+
+(3) While rent registration arrangements are in force in relation to a registration area, section 43(3) above shall not apply in respect of that area.
+
+(4) The appointment of any rent officer appointed for a registration area in relation to which rent registration arrangements have been made shall terminate on the date on which the arrangements come into force.
+
+(5) Rent registration arrangements shall not include any provision calculated to influence the exercise of the rent registration service provider’s judgment in the performance of his functions.
+
+(6) A rent registration service provider performing functions in pursuance of rent registration arrangements shall not be regarded as a servant or agent of the Crown and shall not have any status, immunity or privilege of the Crown.
+
+(7) References in this Part [^M19] of this Act (other than sections 43, 43B, 43C and this section), [[^F80]Chapter 2 of Part 4 of the Private Housing (Tenancies) (Scotland) Act 2016] and any other enactment (including an enactment contained in subordinate legislation) to a rent officer shall, as respects a registration area in relation to which rent registration arrangements are in force, be construed as references to the rent registration service provider responsible for the performance of the functions of the rent officer for that area.
+
+(8) A rent registration service provider may perform his functions through an employee or agent and, if he does so—
+
+(a) any decision of, and anything else done or omitted to be done by or in relation to, the employee or agent shall, for the purposes of any enactment (including an enactment contained in subordinate legislation), be deemed to be a decision of or, as the case may be, done or omitted to be done by or in relation to the rent registration service provider; and
+
+(b) where any enactment refers to the personal knowledge, experience or opinion of a rent officer the knowledge, experience or opinion of the employee or agent shall be deemed to be that of the rent registration service provider.
+
+(9) Subsection (8)(a) above is without prejudice to section 43C below.]
+
+### [[^F81]43B Supplementary provisions regarding rent registration service providers.
+
+(1) Where—
+
+(a) rent registration arrangements are in force in relation to a registration area (“existing arrangements”); and
+
+(b) the Secretary of State decides not to make further such arrangements in relation to that area in respect of the period following the expiry or termination of the existing arrangements,
+
+then, notwithstanding section 43A(3) above, he may under section 43(3) above appoint rent officers for the area, such appointments taking effect on the expiry or, as the case may be, the termination of the existing arrangements.
+
+(2) For the purposes of subsections (3) and (4) below, a change of responsibility takes place where—
+
+(a) under rent registration arrangements in relation to a registration area, a rent registration service provider assumes responsibility for the performance of functions which, immediately prior to the coming into force of the arrangements, were performed by a rent officer for the area or by another rent registration service provider; or
+
+(b) a rent officer is appointed for a registration area in relation to which, immediately prior to the coming into force of the appointment, rent registration arrangements were in force.
+
+(3) Where a change of responsibility takes place the Secretary of State shall publish, in such manner as he considers appropriate, a notice specifying—
+
+(a) the registration area concerned;
+
+(b) the date when the change takes effect; and
+
+(c) the name and official address of the person who is rent officer or, as the case may be, rent registration service provider after that date.
+
+(4) Where a change of responsibility takes place—
+
+(a) any decision taken, and anything else done or omitted to be done in the performance of the functions mentioned in section 43A(2) above by or in relation to the person previously responsible for the performance of those functions shall have effect as if taken or, as the case may be, done or omitted to be done by or in relation to the person currently so responsible; and
+
+(b) any court [[^F82]or tribunal] proceedings by or against the person previously so responsible and relating to the performance by him of those functions shall continue by or against the person currently so responsible.]
+
+### [[^F83]43C Rent registration service providers: restrictions on disclosure of information.
+
+(1) Schedule 15 to the Deregulation and Contracting Out Act 1994 (restrictions on disclosure of information) shall, where contractor A within the meaning of that Schedule is a rent registration service provider, apply with the following modifications.
+
+(2) Without prejudice to paragraph 10(1), references to an employee of contractor A and, where contractor B within the meaning of that Schedule is also a rent registration service provider, to an employee of contractor B shall be taken to include references to an agent, and the employee of an agent, of contractor A or, as the case may be, of contractor B.
+
+(3) Subject to subsections (4) to (6) below, references to authority A shall be taken to be references to the rent officer for any registration area specified in the rent registration arrangements.
+
+(4) In paragraph 2(a), the reference to authority A shall be taken to be a reference to such a rent officer or the Secretary of State.
+
+(5) In paragraphs 3(2)(b), 4(2)(b), 5(b) and 8 and, in paragraph 10(1), in the definition of “ancillary services”, the reference to authority A shall be taken to be a reference to the Secretary of State.
+
+(6) In the definition of “related function” in paragraph 10(1), the reference to a function of authority A which is certified by that authority shall be taken to be a reference to a function of a rent officer which is certified by the Secretary of State.]
+
+### [^F85]44 [[^F84]Private rented housing] committees.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 45 Register of rents.
+
+(1) The rent officer for any area shall prepare and keep up to date a register for the purposes of this Part of this Act and shall make the register available for inspection in such place or places and in such manner as the Secretary of State may direct.
+
+(2) The register shall contain, in addition to the rent payable under a regulated tenancy of a dwelling-house—
+
+(a) the prescribed particulars with regard to the tenancy; and
+
+(b) a specification of the dwelling-house.
+
+(3) A copy of an entry in the register certified under the hand of the rent officer or any person duly authorised by him shall be receivable in evidence, and shall be sufficient evidence of that entry, in any court [[^F86] or tribunal] and in any proceedings.
+
+(4) A person requiring such a certified copy shall be entitled to obtain it on payment of the prescribed fee.
+
+(5) Any entry—
+
+(a) in a register (hereinafter referred to as “the old register”)
+
+(i) which was kept under section 39 of the Rent (Scotland) Act 1971 before 16th May 1975, or
+
+(ii) which is kept for any area which ceases to be a registration area as a result of the establishment of a new registration area, or
+
+(b) in a separate part of an old register in which rents are registered for dwelling-houses in respect of tenancies to which sections 55 to 59 below apply.
+
+which relates to a dwelling-house which is situated in a new registration area shall be deemed for the purposes of this Part of this Act to be an entry in the register or, as the case may be, in such a separate part of the register kept under this section for that new registration area.
+
+(6) The old register shall be kept by such rent officer, and made available for inspection in such place or places and in such manner as the Secretary of State may direct; and subsections (3) and (4) above shall apply to any entry in the old register which is deemed to be an entry in the register kept for a new registration area.
+
+(7) In this section “new registration area” means a registration area established under section 37 of the Rent (Scotland) Act 1971 or section 43 above on or after 16th May 1975.
+
+### 46 Applications for registration of rents.
+
+(1) An application for the registration of a rent for a dwelling-house may be made to the rent officer by the landlord or the tenant, or jointly by the landlord and the tenant, under a regulated tenancy of the dwelling-house.
+
+(2) Any such application must be in the prescribed form and contain the prescribed particulars in addition to the rent which it is sought to register.
+
+(3) Subject to subsection (4) below [[^F87]and section 49A], where a rent for a dwelling-house has been registered under this Act no application by the tenant alone or by the landlord alone for the registration of a different rent for that dwelling-house shall be entertained before the expiry of three years from the relevant date (as defined in subsection (5) below) except on the ground that, since that date, there has been such a change in the condition of the dwelling-house (including the making of any improvement therein), the terms of the tenancy, the quantity, quality or condition of any furniture provided for use under the tenancy (excluding any deterioration in that furniture due to fair wear and tear) or any other circumstances taken into consideration when the rent was registered or confirmed as to make the registered rent no longer a fair rent.
+
+[[^F88](3A) An application such as is mentioned in subsection (3) above shall not be entertained on the ground only that, since the relevant date, there has been a change in the amount of council tax payable in respect of the dwelling-house.]
+
+(4) An application such as is mentioned in subsection (3) above which is made by the landlord alone and is so made within the last three months of the period of three years referred to in that subsection may be entertained before the expiry of that period, notwithstanding that the application is not made upon any of the grounds mentioned in that subsection.
+
+(5) In this section and section 47 below, “relevant date”, in relation to a rent which has been registered under this Part of this Act, means the date from which the registration took effect or, in the case of a registered rent which has been confirmed by the rent officer, the date from which the confirmation (or, where there have been two or more confirmations, the last of them) took effect [[^F87]but does not mean the date from which registration took effect under section 49A of this Act.]
+
+(6) For the purposes of subsection (5) above, where a rent is registered as a result of a decision of [[^F89]the First-tier Tribunal] the date from which that registration took effect shall be taken to be the date on which the rent determined by the rent officer was registered or, as the case may be, the confirmation of the registered rent by the rent officer was noted.
+
+(7) No application for the registration of a rent for a dwelling-house shall be entertained at a time when there is in operation, with respect to that dwelling-house, a condition relating to rent imposed under any of the following enactments, that is to say,—
+
+(a) section 3 of the [^M20]Housing (Rural Workers) Act 1926;
+
+(b) section 101 of the [^M21]Housing (Scotland) Act 1950 and
+
+(c) Schedule 4 to the [^M22]Housing (Financial Provisions) (Scotland) Act 1968.
+
+(8) Subject to section 47(4)
+
+below, the provisions of Part I of Schedule 5 to this Act shall have effect with respect to the procedure to be followed on applications for the registration of rents.
+
+### 47 Certificates of fair rent.
+
+(1) A person intending—
+
+(a) to provide a dwelling-house by the erection or conversion of any premises or to make any improvements in a dwelling-house, or
+
+(b) to let on a regulated tenancy a dwelling-house which is not for the time being subject to such a tenancy and which satisfies the condition either that no rent for it is registered under this Part of this Act or that a rent is so registered but not less than three years have elapsed since the relevant date (as defined in section 46(5) above),
+
+may apply to the rent officer for a certificate, to be known as a certificate of fair rent, specifying a rent which, in the opinion of the rent officer, would be a fair rent under a regulated tenancy of the dwelling-house or, as the case may be, of the dwelling-house after the erection or conversion or after the completion of the improvements.
+
+(2) The regulated tenancy to which the application for the certificate of fair rent relates shall be assumed to be a tenancy on such terms as may be specified in the application and, except in so far as other terms are so specified, on the terms that the tenant would be liable for internal decorative repairs, but no others, and that no services or furniture would be provided for him.
+
+(3) The provisions of Schedule 6 to this Act shall have effect with respect to applications for certificates of fair rent.
+
+(4) Subject to section 46(7)above, where a certificate of fair rent has been issued in respect of a dwelling-house, an application for the registration of a rent for the dwelling-house in accordance with the certificate may be made within three years of the date of the certificate either,—
+
+(a) by the landlord under such a regulated tenancy of the dwelling-house as is specified in the certificate; or
+
+(b) by a person intending to grant such a regulated tenancy of the dwelling-house;
+
+and, in lieu of the provisions of Part I of Schedule 5 to this Act, the provisions of Part II of that Schedule shall have effect with respect to an application so made.
+
+### 48 Determination of fair rent.
+
+(1) In determining for the purposes of this Part of this Act what rent is or would be a fair rent under a regulated tenancy of a dwelling-house, it shall be the duty of the rent officer or, as the case may be, of the [[^F90]First-tier Tribunal], subject to the provisions of this section, to have regard to all the circumstances (other than personal circumstances), and in particular to apply their knowledge and experience of current rents of comparable property in the area, as well as having regard to the age, character and locality of the dwelling-house in question and to its state of repair and, if any furniture is provided for use under the tenancy, the quantity, qualtiy and condition of the furniture.
+
+(2) For the purposes of determination it shall be assumed that the number of persons seeking to become tenants of similar dwelling-houses in the locality on the terms (other than those relating to rent) of the regulated tenancy is not substantially greater than the number of such dwelling-houses in the locality which are available for letting on such terms.
+
+(3) There shall be disregarded—
+
+(a) any disrepair or other defect attributable to a failure by the tenant under the regulated tenancy or any predecessor in title of his to comply with any terms thereof, and
+
+(b) any improvement (including any improvement to the furniture provided for use under the tenancy), or the replacement of any fixture or fitting carried out, otherwise than in pursuance of the terms of the tenancy, by the tenant under the regulated tenancy or any predecessor in title of his, and
+
+(c) if any furniture is provided for use under the regulated tenancy, any deterioration in the condition of the furniture due to any ill-treatment by the tenant, any person residing or lodging with him, or any subtenant of his.
+
+(4) In the application of this section to a converted tenancy, the references in subsection (3) above to the tenant under the regulated tenancy shall include references to the tenant under the tenancy before the conversion.
+
+### 49 Amount to be registered as rent.
+
+(1) The amount to be registered as the rent of any dwelling-house shall include any sums payable by the tenant to the landlord for the use of furniture or for services [[^F91]or in respect of council tax], whether or not those sums are separate from the sums payable for the occupation of the dwelling-house or are payable under separate agreements.
+
+(2) Subject to subsection (3) below, there shall be noted separately on the register the amount, if any, of the registered rent which, in the opinion of the rent officer or [[^F92]the First-tier Tribunal], is fairly attributable to each of the following—
+
+(a) the use of furniture;
+
+(b) the provision of services;
+
+(c) the use of part of the premises comprised in a dwelling-house as a shop or office or for business, trade or professional purposes.
+
+[[^F93](d) the council tax.]
+
+(3) There shall not be noted on the register under subsection (2) above any amount which in the opinion of the rent officer or rent assessment committee is less than 5 per cent. of the registered rent.
+
+(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F94]
+
+(6) Where, under a regulated tenancy, the sums payable by the tenant to the landlord include any sums varying according to the cost from time to time of any services provided by the landlord or a superior landlord or of any works of maintenance or repair carried out by the landlord or a superior landlord, the amount to be registered under this Part of this Act as rent may, if the rent officer is satisfied or, as the case may be, the rent assessment committee are satisfied, that the terms as to the variation are reasonable, be entered as an amount variable in accordance with those terms.
+
+### [[^F95]49A Transitional applications: regulated tenancies
+
+(1) This section applies in the case of a regulated tenancy or an agreement relating to the tenancy which provides for the payment by the tenant to the landlord of sums in respect of council tax and—
+
+(a) a rent was registered before 1st April 1993; or
+
+(b) an application is made before 1st April 1993 under section 46 above for the registration of a rent but a rent is not registered in respect of that application.
+
+(2) At any time before 1st April 1994 or the expiry of 3 years beginning with the relevant date (within the meaning of sections 46 and 47), whichever is the earlier, an application for the registration of a rent for a dwelling-house may be made to the rent officer by the landlord or the tenant, or jointly by the landlord and the tenant, under a regulated tenancy of the dwelling-house for the purpose of taking into account sums payable by the tenant to the landlord in respect of council tax.
+
+(3) Any such application shall be in the prescribed form and shall—
+
+(a) specify the rent (including sums payable by the tenant to the landlord in respect of council tax) which it is sought to register; and
+
+(b) contain such other particulars as may be prescribed.
+
+(4) Where an application is made under subsection (2) above, the rent officer shall determine the amount by which the registered rent might reasonably be increased to take account of sums payable by the tenant to the landlord in respect of council tax.
+
+(5) The amount of any rent registered under this section shall be the total of the sums payable in respect of the previously registered rent and the amount determined under subsection (4) above.
+
+(6) In any case where a rent officer has before him for determination applications under this section and section 46 above, he shall not make a determination in the application under this section until he has made a determination under the said section 46.
+
+(7) No more than one application in respect of any tenancy may be made under this section.]
+
+### 50 Effect of registration of rent.
+
+(1) Subject to subsection (2) below, the registration of a rent for a dwelling-house takes effect if the rent was determined by the rent officer, from the date when it was registered.
+
+(2) If (by virtue of section 46(4)
+
+above) an application for registration of rent is made before the expiry of the period of three years referred to in subsection (3) of that section, the registration of a rent for a dwelling-house does not take effect before the end of that period.
+
+(3) If, on application for the registration of a different rent, the rent officer confirms the rent for the time being registered, the confirmation of that rent takes effect from the date when it is noted in the register.
+
+(4) If the rent for a dwelling-house is determined by [[^F96]the First-tier Tribunal], the registration of that rent takes effect from the date when the [[^F97]First-tier Tribunal makes its] decision.
+
+(5) The date from which the registration or confirmation of a rent takes effect shall be entered in the register.
+
+(6) As from the date on which the registration of a rent takes effect any previous registration of a rent for a dwelling-house ceases to have effect.
+
+(7) Where a valid notice of increase under any provision of Part IV of this Act has been served on a tenant and, in consequence of the registration of a rent, part but not the whole of the increase specified in the notice becomes irrecoverable from the tenant, the registration shall not invalidate the note, but the notice shall, as from the date from which the registration takes effect, have effect as if it specified such part only of the increase as has not become irrecoverable.
+
+### 51 Cancellation of registration of rent.
+
+(1) Where a rent agreement is made in writing as respects a dwelling-house for which a rent is registered, an application may be made in accordance with this section for the cancellation of the registration.
+
+(2) The application shall be made jointly by the landlord and the tenant under the agreement to the rent officer, and the application shall not be entertained before the expiry of three years from the relevant date as defined in section 46(5) above.
+
+(3) An application under this section must be in the prescribed form and contain the prescribed particulars, and must be accompanied by a copy of the rent agreement.
+
+(4) The Secretary of State may make regulations under section 53 below prescribing the procedure on an application under this section.
+
+(5) If the rent officer is satisfied that the rent payable under the rent agreement does not exceed a fair rent for the dwelling-house, he shall, subject to subsection (6) below, cancel the registration, and he shall make an entry in the register of that fact and of the date from which the cancellation takes effect.
+
+(6) Where under the terms of the rent agreement the sums payable by the tenant to the landlord include any sums varying according to the cost from time to time of any services provided by the landlord, the rent officer shall not cancel the registration unless he is satisfied that those terms are reasonable.
+
+(7) The cancellation of the registration shall be without prejudice to a further registration of a rent at any time after concellation.
+
+(8) The rent officer shall notify the applicants of his decision to grant, or to refuse, any application under this section and, where he grants the application, of the date from which the cancellation takes effect.
+
+(9) In this section “rent agreement” means—
+
+(a) an agreement increasing the rent payable under a protected tenancy which is a regulated tenancy, or
+
+(b) where a regulated tenancy is terminated, and a new regulated tenancy is granted at a rent exceeding the rent under the previous tenancy, the grant of the new tenancy.
+
+### 52 Cancellation at instance of landlord.
+
+Where the rent for a dwelling-house has been registered but the dwelling-house has ceased to be let under a regulated tenancy, an application to the rent officer may be made by the landlord in accordance with this section for the cancellation of the registration, and the provisions of section 51(2) to (4), (7) and (8) above shall apply, with any necessary modifications, to an application made under this section as they apply to an application made under the said section 51.
+
+### 53 Regulations.
+
+(1) The Secretary of State may make regulations—
+
+(a) prescribing the form of any notice, application, register or other document to be given, made or used in pursuance of this Part of this Act;
+
+(b) regulating the procedure to be followed by rent officers [^F98]... [[^F99]whether under this Act [[^F100], the Housing (Scotland) Act 1988 or Chapter 2 of Part 4 of the Private Housing (Tenancies) (Scotland) Act 2016]]; and
+
+(c) prescribing anything required or authorised to be prescribed by this Part of this Act.
+
+(2) Regulations under subsection (1)(b) above may contain provisions modifying section 46, 47 or 50 above or Schedule 5 or 6 to this Act; but no regulations containing such provisions shall have effect unless approved by a resolution of each House of Parliament.
+
+(3) Regulations made under this section shall be made by statutory instrument which, except in a case falling within subsection (2) above, shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 54 Interpretation of Part V.
+
+(1) In this Part of this Act—
+
+- “improvement” includes structural alteration, extension or addition and the provision of additional fixtures or fittings, but does not include anything done by way of decoration or repair;
+- “prescribed” means prescribed by regulations under section 53 above, and references to a prescribed form include references to a form substantially to the same effect as the prescribed form;
+- “rental period” means a period in respect of which a payment of rent falls to be made.
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F101]
+
+## Part VI — Rent Limit for Dwelling-houses Let by Housing Associations and the Housing Corporation
+
+### 55 Tenancies to which sections 55 to 59 apply.
+
+This section and sections 56 to 59 below apply to a tenancy where—
+
+(a) the interest of the landlord under that tenancy belongs to a housing association or to the Housing Corporation, and
+
+(b) the tenancy would be a protected tenancy but for section 1(1)(a) or 5 above [[^F102]but do not apply, and shall be deemed never to have applied, to a tenancy which is a lease under a shared ownership agreement within the meaning of [[^F103]section 83(3) of the Housing (Scotland) Act 2001 (asp 10)].],
+
+and in this section and the said sections 56 to 59 “tenancy” means, unless the context otherwise requires, a tenancy to which those sections apply.
+
+### 56 Rents to be registrable under Part V.
+
+(1) There shall be a separate part of the register under Part V of this Act in which rents may be registered for dwelling-houses which are let, or are, or are to be, available for letting, under a tenancy to which sections 55 to 59 of this Act apply.
+
+(2) Sections [[^F104]22 to 27,] 45 to [[^F105]49A] . . . [^F106], section 50(2) and section 53 above and Schedules 5 and 6 to this Act (and no other provisions of this Act) shall apply to a tenancy to which the said sections 55 to 59 apply, and, in their application to such tenancies, shall, in relation to that part of the register, have effect as if for any reference in those provisions to a regulated tenancy there were substituted a reference to a tenancy to which the said sections 55 to 59 apply.
+
+(3) Registration in the said part of the register shall take effect on the date of registration:
+
+Provided that registration before 1st January 1973 shall be provisional only until that date, and the date of registration shall be 1st January 1973.
+
+(4) From the date of registration any previous registration of a rent for the dwelling-house shall cease to have effect.
+
+(5) A rent registered in any part of the register for a dwelling-house, which becomes or ceases to be a dwelling-house under a tenancy to which the said sections 55 to 59 apply, shall be as effective as if it were registered in any other part of the register.
+
+(6) Subject to subsection (5) above, references in the said sections 55 to 59 to registration are, unless the context otherwise requires, references to registration pursuant to this section.
+
+### 57 The rent limit.
+
+(1) Where the rent payable under a tenancy would exceed the rent limit determined in accordance with sections 55 to 59 of this Act, the amount of the excess shall be irrecoverable from the tenant.
+
+(2) Where a rent for the dwelling-house is registered, then, subject to section 58 below [[^F107]and Part IV of the Schedule to the Fire Precautions Act 1971], the rent limit is the rent so registered:
+
+. . . [^F108]
+
+(3) Where no rent for the dwelling-house is registered, then, subject to subsection (5) below [[^F109]and Part IV of the Schedule to the Fire Precautions Act 1971], the rent limit shall be determined as follows—
+
+(a) if the lease or agreement creating the tenancy was made before 1st January 1973, the rent limit is the rent recoverable under the tenancy, as varied by any agreement made before that date (but not as varied by any later agreement),
+
+(b) if paragraph (a) above does not apply, and, not more than three years before the tenancy began, the dwelling-house was subject to another tenancy (whether before 1973 or later) the rent limit is the rent recoverable under that other tenancy (or, if there was more than one, the last of them) for the last rental period thereof,
+
+(c) if paragraph (a) and paragraph (b) above do not apply, the rent limit shall be the rent payable under the terms of the lease or agreement creating the tenancy (and not by the rent so payable under those terms as varied by any subsequent agreement).
+
+(4) The reference in paragraph (b) of subsection (3) above to another tenancy includes, in addition to a tenancy to which sections 57 to 59 of this Act apply, a regulated tenancy within the meaning of this Act—
+
+(a) which subsisted at any time after the operative date, within the meaning of the [^M23]Housing Act 1974; and
+
+(b) under which, immediately before it came to an end, the interest of the landlord belonged to a housing association.
+
+(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F110]
+
+(6) Section 37 above shall apply as if any amount made irrecoverable by virtue of this section were irrecoverable by virtue of Part IV of this Act.
+
+(7) A tenancy commencing (whether before or after the commencement of this Act) while there is in operation a condition relating to rent imposed under any of the enactments mentioned in section 46(7) above shall be disregarded for the purposes of subsection (3)(b) above in determining the rent limit under any subsequent tenancy of the dwelling-house.
+
+(8) Where the rent is subject to the rent limit under subsection (3)(b) above, the landlord shall, on being so requested in writing by the tenant, supply him with a statement in writing of the rent which was recoverable for the last rental period of the other tenancy referred to in that paragraph.
+
+(9) If, without a reasonable excuse, a landlord who has received such a request as is referred to in subsection (8) above—
+
+(a) fails to supply the statement referred to in that subsection within 21 days of receiving the request, or
+
+(b) supplies a statement which is false in any material particular,
+
+he shall be liable to a fine not exceeding level 3 on the standard scale.
+
+(10) This section shall not apply to rent for any rental period beginning before 1st January 1973.
+
+### 58 Phasing of progression to registered rent.
+
+(1) This section applies where a rent is registered for a dwelling-house (whether it is the first or any subsequent registration) which exceeds the rent limit for the dwelling-house immediately before the date of registration, unless at the date of registration there is no tenant and no person to whom the tenancy has been granted.
+
+(2) Subject to subsection (9) below, the rent limit shall progress from the rent immediately before the date of registration to the registered rent in stages, and, . . . [^F111][[^F112]and paragraph 3 of Part IV of the Schedule to the Fire Precautions Act 1971]—
+
+[[^F113](a) for any rental period beginning in the first stage, the rent limit shall be the rent limit immediately before the date of registration plus the greatest of—
+
+(i) £104; or
+
+(ii) one-quarter of the previous rent limit; or
+
+(iii) one-half of the difference between the previous rent limit and the amount of the registered rent:
+
+provided that nothing in this paragraph shall enable the rent to be increased above the amount of the registered rent;
+
+(b) for any rental period beginning in the second stage the rent limit shall be the rent payable for the first stage plus any amount required to increase the rent payable to the registered rent.]
+
+(3) The first stage shall last for 52 weeks from the date of registration, or from the beginning of the first rental period for which the rent is first increased (by any amount) on or after that date, whichever is the later [[^F114]or for such other period as the Secretary of State may by order specify].
+
+(4) Any subsequent stage shall last for 52 weeks from the end of the last previous stage, or from the beginning of the first rental period for which the rent if first increased (by any amount) after the end of the last previous stge, whichever is the later [[^F114]or for such other period as the Secretary of State may by order specify].
+
+(5) If a tenancy of the dwelling-house is granted at any time when the rent limit is less than the registered rent, and the tenant is neither the person who, at the time when the previous tenancy (or the last previous tenancy) ended, was the tenant under that tenancy nor a member of that tenant’s family who resided with him, the registered rent shall become the rent limit from the beginning of the new tenancy, and the stages by which the rent limit was to progress up to the registered rent shall terminate.
+
+(6) The registration of a lower or higher rent during the progression from the rent limit in force before the prior registration shall not alter the stages by which the rent limit is to progress, and if a higher rent is registered in the 52 weeks beginning with the first rental period for which the rent increased up to the rent registered on the prior registration, the first stage in the progression from that rent up to the later registered rent shall not begin until the end of that period of 52 weeks.
+
+(7) The Secretary of State may by order amend subsection (2) above by varying [[^F115]or repealing any of the provisions of] paragraphs (a) and (b) thereof, and the order may contain such supplementary or incidental provisions as he thinks fit.
+
+[[^F116](7A) An order under subsections (3) or (4) above shall be made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament and may contain such supplementary or incidental material as the Secretary of State thinks fit.]
+
+(8) An order under subsection (7) above shall be made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament and may be varied or revoked by a subsequent order made under that subsection.
+
+(9) In subsection (2)(a) and (b) above, in relation to a rent registered before 1st December 1980, for the words from “the greater” to “limit” there shall be substituted the words “£78 per year”.
+
+(10) In this section—
+
+- “noted amount” means the amount of the registered rent noted as fairly attributable to the provision of services under section 49(2) above;
+- “previous rent limit” means—
+
+(a) where the increase is the first to be made since the date of registration of the rent, the amount payable by way of rent on that date, or
+
+(b) in all other cases, the amount payable by way of rent on the relevant anniversary of that date,
+
+### 59 Increase of rent without notice to quit.
+
+[[^F117]Sections 212 and 213 of the Housing (Scotland) Act 1987] (increase of rents of houses belonging to certain authorities without notice of removal) shall apply to a housing association such as is referred to in section 5(4) above or the Housing Corporation as they apply to any authority to which that section applies, . . . [^F118].
+
+### 60 Supplemental to sections 55 to 59.
+
+(1) Section 40 above shall apply for the purposes of sections 55 to 59 above as it applies for the purposes of Part IV of this Act.
+
+(2) Where a rent determined by [[^F119]the First-tier Tribunal] is registered in substitution for a rent determined by the rent officer, the date of registration shall be deemed for the purposes of sections 55 to 59 above to be the date on which the rent determined by the rent officer was registered:
+
+Provided that a landlord shall not, by virtue of this subsection, be entitled to recover any rent for a rental period beginning before the date when the rent determined by the [[^F120]First-tier Tribunal] was registered.
+
+(3) The [[^F121]First-tier Tribunal] shall have jurisdiction, either in the course of any proceedings relating to a dwelling-house or on an application made for the purpose by the landlord or the tenant, to determine any question as to the rent limit under the said sections 55 to 59, or as to any matter which is or may become material for determining any such question; [^F122]....
+
+(4) Nothing in sections 55 to 59 above shall prevent or limit an increase in any amounts payable to the landlord for the provision of services which are variable by virtue of section 49(6) above.
+
+### 61 Interpretation of Part VI.
+
+(1) In this Part of this Act, unless the context otherwise requires—
+
+- “housing association” has the [[^F123]same meaning as in the Housing Associations Act 1985][[^F124]except that it does not include—
+
+  - (a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F125]
+  - (b) a development corporation (within the meaning of the New Towns (Scotland) Act 1968); or
+  - (c) a co-operative housing association within the meaning of the Housing Associations Act 1985.];
+
+- “rental period” means a period in respect of which a payment of rent falls to be made.
+
+(2) Expressions used in this Part of this Act are also used in Part IV or V of this Act shall, unless the context otherwise requires, have the same meaning in this Part as in those Parts.
+
+## Part VII — Part VII Contracts
+
+### 62 Registration areas for purposes of Part VII.
+
+(1) The registration areas for the purposes of this Part of this Act shall be the [[^F126]areas of local authorities].
+
+(2) The Secretary of State may after consultation with the local authority or local authorities concerned, make directions—
+
+(a) as to the groupings of registration areas, or parts thereof, or
+
+(b) deeming any part of a registration area to be a separate registration area.
+
+(3) Where the Secretary of State made a direction under subsection (2) above which came into force on 16th May 1975, he shall be deemed to have consulted the local authority or local authorities concerned for the purposes of that subsection if he has consulted eigher the existing or the new local authority or local authorities before that date.
+
+(4) Any reference in this Part of this Act to a registration area shall include a reference to a grouping of registration areas or parts thereof and any area deemed to be a separate registration area by virtue of a direction under subsection (2)(b) above.
+
+### 63 Part VII contracts.
+
+(1) Subject to the following provisions of this section, this Part of this Act applies to a contract, whether entered into before or after the commencement of this Act, whereby one person grants to another person, in consideration of a rent which includes payment for the use of furniture or for services, the right to occupy as a residence a dwelling-house to which this Part of this Act applies.
+
+(2) Subject to subsection (3) below, a contract falling within subsection (1) above and relating to a dwelling-house which consists of only part of a house is a contract to which this Part of this Act applies whether or not the lessee is entitled, in addition to exclusive occupation of that part, to the use in common with any other person of other rooms or accommodation in the house.
+
+(3) Subject to subsection (5) below, this Part of this Act does not apply—
+
+(a) to a contract under which the interest of the lessor belongs to Her Majesty in right of the Crown, or to a government department, or is held in trust for Her Majesty for the purposes of a government department; nor
+
+(b) to a contract entered into on or after 3rd October 1980, where the interest of the lessor belongs to one of the bodies mentioned in subsection (4) below; nor
+
+(c) to a contract for the leting of any dwelling-house at a rent which includes payment in respect of board if the value of the board to the lessee forms a substantial proportion of the whole rent; nor
+
+(d) to a contract which creates a regulated tenancy; nor
+
+(e) to a contract which created a controlled tenancy if that tenancy subsequently becomes a converted tenancy within the meaning of section 115(1) below.
+
+(4) The bodies referred to in subsection (3)(b) above are—
+
+[[^F127](a) a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994, or a joint board or joint committee of two or more such councils, or the common good of such a council or any trust under the control of such a council;
+
+[[^F128](aa) Scottish Water;]
+
+(b) a development corporation established by an order made, or having effect as if made, under the [^M24]New Towns (Scotland) Act 1968;
+
+(c) the Scottish Special Housing Association;
+
+(d) the Housing Corporation;
+
+(e) a registered housing association within the meaning of the [[^F129]Housing Associations Act 1985];
+
+(f) a housing co-operative within the meaning of section [[^F130]22 of the Housing (Scotland) Act 1987]; and
+
+(g) any housing trust which was in existence on 13th November 1953 . . . [^F131].
+
+(5) An interest belonging to Her Majesty in right of the Crown shall not prevent this Part of this Act from applying to a contract if the interest is under the management of the Crown Estate Commissioners [[^F132]or is an interest to which section 90B(5) of the Scotland Act 1998 applies].
+
+(6) No right to occupy a dwelling-house for a holiday shall be treated for the purposes of this Part of this Act as a right to occupy it as a residence.
+
+(7) A contract to which this Part of this Act applies is, in the following provisions of this Part of this Act, referred to as a “Part VII contract”.]
+
+### 64 Dwelling-houses to which Part VII applies.
+
+(1) Subject to the following provisions of this section this Part of this Act applies to any dwelling-house the rateable value of which on the appropriate day did not or, as the case may be, does not exceed £200, or in the case of a dwelling-house comprising or forming part of lands and heritages for which a rateable value is or was first shown on the valuation roll on or after 1st April 1978, £600.
+
+(2) In relation to dwelling-houses comprising or forming part of lands and heritages for which a rateable value is or was first shown on the valuation roll on or after 1st April 1978, the Secretary of State may by order made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament increase the said sum of £600 in subsection (1) above, and he may make different provision for different classes of case.
+
+(3) The Secretary of State may by order under this section provide that, as from such date as may be specified in the order, this Part of this Act shall not apply to a dwelling-house the rateable value of which on such day as may be specified in the order exceeds such amount as may be so specified.
+
+(4) An order under subsection (3) above—
+
+(a) may be made so as to relate to the whole of Scotland or to such area in Scotland as may be specified in the order, and so as to apply generally or only to, or except to, such classes or descriptions of dwelling-houses as may be specified in the order; and
+
+(b) may contain such transitional provisions as appear to the Secretary of State to be desirable.
+
+(5) The power to make an order under subsection (3) above shall be exercisable by statutory instrument and no such order shall have effect unless it is approved by a resolution of each House of Parliament.
+
+(6) For the purposes of this section, in relation to a dwelling-house which is not separately rated, “rateable value” means such proportion of the rateable value of the premises of which the dwelling-house forms part as may be determined to reflect the relationship between the value of the dwelling-house and the value of the said premises—
+
+(a) by agreement in writing between the lessor and lessee; or
+
+(b) failing such agreement, by the [[^F133]First-tier Tribunal, on an application] by either party.
+
+### 65 [[^F134]References of contracts to the First-tier Tribunal and obtaining by it of information.]
+
+(1) Either the lessor or the lessee under a Part VII contract . . . [^F135] may refer the contract to the [[^F136]First-tier Tribunal].
+
+(2) Where a Part VII contract is referred to [[^F137]the First-tier Tribunal] under subsection (1) above [[^F138]it] may, by notice in writing served on the lessor, require him to give to [[^F139]it], within such period (which shall not be less than seven days from the date of the service of the notice) as may be specified in the notice, such information as [[^F138]it] may reasonably require regarding such of the prescribed particulars relating to the contract as are specified in the notice.
+
+(3) If, within the period specified in a notice under subsection (2) above, the lessor fails without reasonable cause to comply with the provisions of the notice he shall be liable to a fine not exceeding level 3 on the standard scale.
+
+### 66 [[^F140]Powers of the First-tier Tribunal on reference of contracts.]
+
+(1) Where a Part VII contract is referred to [[^F141]the First-tier Tribunal] and the reference is not, before the [[^F142]First-tier Tribunal has] entered upon consideration of it, withdrawn by the party . . . [^F143] who made it, the [[^F144]First-tier Tribunal] shall consider it and then, after making such inquiry as [[^F145]it thinks] fit and giving to each party to the contract and, if the dwelling-house is or forms part of a dwelling-house to which section [[^F146]203 of the Housing (Scotland) Act 1987] applies, to the local authority, an opportunity of being heard or, at his or [[^F147]its] option, of submitting representations in writing, the [[^F144]First-tier Tribunal], subject to subsection (2) below,—
+
+(a) may approve the rent payable under the contract, or
+
+(b) may reduce or increase the rent to such sum as [[^F148]it may], in all the circumstances, think reasonable, or
+
+(c) may, if [[^F145]it thinks] fit in all the circumstances, dismiss the reference,
+
+and shall notify the parties and the local authority of [[^F147]its] decision.
+
+(2) On the reference of a Part VII contract relating to a dwelling-house for which a rent is registered under Part V of this Act, the [[^F149]First-tier Tribunal] may not reduce the rent payable under the contract below the amount which would be recoverable from the tenant under a regulated tenancy of the dwelling-house.
+
+(3) An approval, reduction or increase under this section may be limited to rent payable in respect of a particular period.
+
+(4) Where the rent under a Part VII contract has been registered under section 67 below, [[^F150]the First-tier Tribunal] shall not be required to entertain a reference, made otherwise than by the lessor and the lessee jointly, for the registration of a different rent for the dwelling-house concerned before the expiry of the period of three years beginning on the date on which the rent was last considered by the [[^F151]First-tier Tribunal], except on the ground that, since that date, there has been such a change in the condition of the dwelling-house, the furniture or services provided, the terms of the contract or any other circumstaces taken into consideration when the rent was last considered as to make the registered rent no longer a reasonable rent.
+
+[[^F152](5) [[^F153]The First-tier Tribunal] shall not entertain a reference under subsection (4) above on the ground only that, since the relevant date, there has been a change in the amount of council tax payable in respect of the dwelling-house.]
+
+### [^F154]66A Transitional references of Part VII contracts
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 67 Register of rents under Part VII contracts.
+
+(1) The [[^F155]First-tier Tribunal] shall keep a register and shall make the register available for inspection in such place or places and in such manner as the Secretary of State may direct.
+
+(2) The [[^F156]First-tier Tribunal] shall cause to be entered in the register, with regard to any contract under which a rent is payable which has been approved, reduced or increased under section 66 above—
+
+(a) the prescribed particulars with regard to the contract;
+
+(b) a specification of the dwelling-house to which the contract relates; and
+
+(c) the rent as approved, reduced or increased by the [[^F156]First-tier Tribunal], and, in a case in which the approval, reduction or increase is limited to rent payable in respect of a particular period, a specification of that period.
+
+[[^F157](2A) For the purposes of subsection (2) above the rent shall include any sums payable by the lessee to the lessor in respect of council tax, whether those sums are payable by virtue of a contract under which a rent is payable or otherwise.]
+
+(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F158]
+
+(4) A document purporting to be a certificate signed [[^F159]on behalf of] the [[^F160]First-tier Tribunal] relating to any entry in the register under subsection (2) above shall, until the contrary is shown, be deemed to have been signed [[^F161]on behalf of the First-tier Tribunal], and shall be sufficient evidence of the matters contained in the entry in the register.
+
+(5) Any entry in a register (hereinafter referred to as “the old register”)
+
+(a) which was kept under section 89 of the [^M25]Rent (Scotland) Act 1971 before 16th May 1975, or
+
+(b) which is kept for any area which ceases to be a registration area as a result of the establishment of a new registration area,
+
+which relates to a dwelling-house which is situated in a new registration area shall be deemed for the purposes of this Part of this Act to be an entry in the register kept under this section for that new registration area.
+
+(6) The old register shall be kept by [[^F162]the First-tier Tribunal] and made available for inspection in such place or places and in such manner as the Secretary of State may direct; and subsection (4) above shall apply to any entry in the old register which is deemed to be an entry in the register kept for a new registration area.
+
+(7) In this section “new registrataion area” means a registration area established under Part VII of the Rent (Scotland) Act 1971 or this Part of this Act on or after 16th May 1975.
+
+### 68 Reconsideration of rent after registration.
+
+Where the rent payable for any dwelling-house has been entered in the register under section 67 above then, subject to section 66(4) above, the lessor or the lessee . . . [^F163] may refer the case to the [[^F164]First-tier Tribunal] for reconsideration of the rent so entered.
+
+### 69 Effect of registration of rent.
+
+(1) Where the rent payable for any dwelling-house is entered in the register under section 67 above, it shall not be lawful to require or receive on account of rent for that dwelling-house under a Part VII contract payment of any amount in excess of the rent so registered in respect of any period subsequent to the date of the entry or, where a particular period is specified in the register, in respect of that period.
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F165]
+
+(3) Where any payment has been made or received in contravention of this section, the amount of the excess shall be recoverable by the person by whom it was paid.
+
+(4) Any person who requires or receives any payment in contravention of this section shall be liable—
+
+(a) on summary conviction, to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding three months or to both; and
+
+(b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding six months or to both;
+
+and, without prejudice to any other method of recovery, the court by which a person is found guilty of an offence under this subsection may order the amount paid in excess to be repaid to the person by whom the payment was made.
+
+### 70 Cancellation of entries in register at instance of landlord.
+
+(1) Where a rent has been registered under section 67 above but the dwelling-house has ceased to be subject to a Part VII contract, an application to [[^F166]the First-tier Tribunal] may be made by the landlord in accordance with this section for the cancellation of the registration.
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F167]
+
+(3) On an application under subsection (1) above the [[^F168]First-tier Tribunal] shall, where [[^F169]subsection (1) is] complied with, cancel the registration, and shall make an entry in the register noting the cancellation and the date from which the cancellation takes effect.
+
+[^F170]4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) An application under this section shall be in the prescribed form and contain the prescribed particulars.
+
+(6) The [[^F171]First-tier Tribunal] shall notify the applicant of its decision to grant or to refuse any application under this section and, where it grants the application, of the date from which the cancellation takes effect.
+
+### 71 [[^F172]Notice to quit served after reference of contract to the First-tier Tribunal.]
+
+(1) If, after a Part VII contract has been referred to [[^F173]the First-tier Tribunal] by the lessee . . . [^F174] under section 65 or 68 above, a notice to quit the dwelling-house to which the contract relates is served by the lessor on the lessee at any time before the decision of the [[^F175]First-tier Tribunal] is given or within the period of six months thereafter, then, subject to subsection (2) and sections 73 and 74 below, the notice shall not take effect before the expiry of that period.
+
+(2) In a case falling within subsection (1) above,—
+
+(a) the [[^F176]First-tier Tribunal may, if it thinks] fit, direct that a shorter period shall be substituted for the period of six months specified in that subsection; and
+
+(b) if the reference to the [[^F177]First-tier Tribunal] is withdrawn, the period during which the notice to quit is not to take effect shall end on the expiry of seven days from the withdrawal of the reference.
+
+### 72 [[^F178]Application to the First-tier Tribunal for security of tenure where notice to quit is served.]
+
+(1) Subject to sections 73 and 74(3) below, where—
+
+(a) a notice to quit a dwelling-house which is the subject of a Part VII contract has been served has been served and
+
+(b) the Part VII contract has been referred to [[^F179]the First-tier Tribunal] under section 65 or 68 above (whether before or after the service of the notice to quit) and the reference has not been withdrawn, and
+
+(c) the period at the end of which the notice to quit takes effect (whether by virtue of the contract, of section 71 above or of this section) has not expired,
+
+the lessee may apply to the [[^F180]First-tier Tribunal] for the extension of the period referred to in paragraph (c) above.
+
+(2) Where an application is made under this section, the notice to quit to which the application relates shall not have effect before the determination of the application unless the application is withdrawn.
+
+(3) On an application under this section, the [[^F181]First-tier Tribunal], after making such inquiry as [[^F182]it thinks] fit and giving to each party an opportunity of being heard or at his option, of submitting representation in writing, may direct that the notice to quit shall not have effect until the end of such period, not exceeding six months from the date on which the notice to quit would have effect apart from the direction, as may be specified in the direction.
+
+(4) If the [[^F183]First-tier Tribunal refuses] to give a direction under this section,—
+
+(a) the notice to quit shall not have effect before the expiry of seven days from the determination of the application; and
+
+(b) no subsequent application under this section shall be made in relation to the same notice to quit.
+
+(5) On coming to a determination on an application under this section, the [[^F184]First-tier Tribunal] shall notify the parties of [[^F185]its] determination.
+
+### 73 Notices to quit served by owner-occupiers.
+
+Where a person who has occupied a dwelling-house as a residence (in this section referred to as “the owner-occupier”) has, by virtue of a Part VII contract, granted the right to occupy the dwelling-house to another person and—
+
+(a) at or before the time when the right was granted, or, if it was granted before 8th December 1965, not later than 7th June 1966) the owner-occupier has given notice in writing to that other person that he is the owner-occupier within the meaning of this section, and
+
+(b) if the dwelling-house is part of a house, the owner-occupier does not occupy any other part of the house as his residence,
+
+neither section 71 nor section 72 above shall apply where a notice to quit the dwelling-house is served if, at the time the notice is to take effect, the dwelling-house is required as a residence for the owner-occupier or any member of his family who resided with him when he last occupied the dwelling-house as a residence.
+
+### 74 Reduction of period of notice on account of lessee’s default.
+
+(1) The provisions of this section apply where a Part VII contract has been referred to [[^F186]the First-tier Tribunal] and the period at the end of which a notice to quit will take effect has been determined by section 71 above or extended under section 72 above.
+
+(2) If, in a case where this section applies, it appears to the [[^F187]First-tier Tribunal], on an application made by the lessor for a direction under this section,—
+
+(a) that the lessee has not complied with the terms of the contract, or
+
+(b) that the lessee or any person residing or lodging with him has been guilty of conduct which is a nuisance or annoyance to adjoining occupiers or as been convicted of using the dwelling-house, or allowing the dwelling-house to be used, for an immoral or illegal purpose, or
+
+(c) that the condition of the dwelling-house has deteriorated owing to any act or neglect of the lessee or any person residing or lodging with him, or
+
+(d) that the condition of any furniture provided for the use of the lessee under the contract had deteriorated owing to any ill-treatment by the lessee or any person residing or lodging with him,
+
+the [[^F187]First-tier Tribunal] may direct that the period referred to in subsection (1) above shall be reduced so as to end at a date specified in the direction.
+
+(3) No application may be made under section 72 above with respect to a notice to quit if a direction has been given under this section reducing the period at the end of which the notice is to take effect.
+
+### 75 [[^F188]Power of First-tier Tribunal, in action for possession, to reduce period of notice to quit]
+
+In any case where—
+
+(a) a notice to quit a dwelling-house which is the subject of a Part VII contract has been served, and
+
+(b) the period at the end of which the notice to quit takes effect is for the time being extended by virtue of section 71 or section 72 above, and
+
+(c) at some time during that period the lessor institutes proceedings before the [[^F189]First-tier Tribunal] for possesion of the dwelling-house, and
+
+(d) in those proceedings the [[^F189]Tribunal] is satisfied that any of paragraphs (a) to (d) of section 74(2) above applies,
+
+the [[^F189]Tribunal] may direct that the period referred to in paragraph (b) above shall be reduced so as to end at a date specified in the direction.
+
+### 76 Notice to quit relating to later Part VII contracts.
+
+(1) This section applies to Part VII contracts entered into on or after 1st December 1980.
+
+(2) Where this section applies, section 71 to 75 above shall not apply, but in any proceedings for possession the [[^F190]First-tier Tribunal may] postpone the date of possession for a period, which shall not exceed three months.
+
+(3) A postponement under subsection (2) above may be made subject to such conditions regarding payment of outstanding rent or other conditions as the [[^F191]Tribunal] thinks fit.
+
+### 77 [[^F192]Jurisdiction of the First-tier Tribunal.]
+
+Where a Part VII contract is referred to [[^F193]the First-tier Tribunal] under this Part of this Act and—
+
+(a) the contract relates to a dwelling-house consisting of or comprising part only of lands and heritages, and
+
+(b) no apportionment of the rateable value of the lands and heritages has been made under section 7 above,
+
+then, unless the lessor in the course of the proceedings requires that such an apportionment shall be made and, within two weeks of making the requirement, brings proceedings in the [[^F194]First-tier Tribunal] for the making of the apportionment, the [[^F195]First-tier Tribunal] shall have jurisdiction to deal with the reference if it appears to [[^F196]it] that, had the apportionment been made, [[^F196]it] would have had jurisdiction.
+
+### 78 Publication of information.
+
+The local authority shall have power to publish information regarding the provisions of this Part of this Act.
+
+### 79 Rent book to be provided.
+
+(1) Where rent is payable weekly under a Part VII contract, it shall be the duty of the lessor to provide a rent book or other similar document for use in respect of the dwelling-house, containing particulars of the rent and of the other terms and conditions of the contract.
+
+(2) If at any time the lessor fails to comply with the requirements of this section he, and any person who on his behalf demands or receives rent under the contract, shall be liable to a fine not exceeding level 4 on the standard scale.
+
+### 80 Regulations.
+
+(1) The Secretary of State may by statutory instrument make regulations—
+
+[^F197]a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^F197]b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(c) prescribing anything which is required by this Part of this Act to be prescribed;
+
+(d) prescribing the form of, and the information to be contained in, any rent book or other similar document required by section 79(1) above to be provided; and
+
+(e) generally for carrying into effect the provisions of this Part of this Act.
+
+(2) Any statutory instrument making regulations under subsection (1)(d) above shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 81 Interpretation of Part VII.
+
+(1) In this Part of this Act, unless the context otherwise requires,—
+
+[[^F198]“council tax” means the tax payable under the Local Government Finance Act 1992;]
+
+- “dwelling-house” means a house or part of a house;
+- “lessee” means the person to whom is granted, under a Part VII contract, the right to occupy the dwelling in question as a residence and includes any person directly or indirectly deriving title from the grantee;
+- “lessor” means the person who, under a Part VII contract, grants to another the right to occupy the dwelling in question as a residence and includes any person directly or indirectly deriving title from the grantor;
+- “register” means the register kept by [[^F199]the First-tier Tribunal] in pursuance of section 67 above;
+- “rental period” means a period in respect of which a payment of rent falls to be made;
+- “services” includes attendance, the provision of heating or lighting, the supply of hot water and any other privilege or facility connected with the occupancy of a dwelling-house.
+
+(2) References in this Part of this Act to a party to a contract include references to any person directly or indirectly deriving title from such a party.
+
+(3) Where separate sums are payable by the lessee of any dwelling-house to the lessor for any two or more of the following, namely—
+
+(a) occupation of the dwelling-house,
+
+(b) use of furniture, and
+
+(c) services,
+
+any reference in this Part of this Act to “rent” in relation to that dwelling-house is a reference to the aggregate of those sums and, where those sums are payable under separate contracts, those contracts shall be deemed to be one contract.
+
+## Part VIII — Premiums, etc.
+
+### 82 Prohibition of premiums and loans on grant of protected tenancies.
+
+(1) Any person who, as a condition of the grant, renewal or continuance of a protected tenancy, requires[^F200]... the payment of any premium or the making of any loan (whether secured or unsecured) shall be guilty of an offence under this section.
+
+(2) Any person who, in connection with the grant, renewal or continuance of a protected tenancy, receives any premium [^F201]... shall be guilty of an offence under this section.
+
+(3) A person guilty of an offence under this section shall be liable to a fine not exceeding level 3 on the standard scale.
+
+(4) The court by which a person is convicted of an offence under this section relating to requiring or receiving any premium may order the amount of the premium to be repaid to the person by whom it was paid.
+
+### 83 Prohibition of premiums and loans on assignation of protected tenancies.
+
+(1) Subject to the following provisions of this section and to section 84 below, any person who, as a condition of the assignation of a protected tenancy, requires the payment of any premium or the making of any loan (whether secured or unsecured) shall be guilty of an offence under this section.
+
+(2) Subject to the following provisions of this section and to section 84 below, any person who, in connection with the assignation of a protected tenancy, receives any premium shall be guilty of an offence under this section.
+
+(3) Notwithstanding anything in subsections (1) and (2) above, an assignor of a protected tenancy of a dwelling-house may, if apart from this section he would be entitled to do so, require the payment by the assignee or receive from the assignee a payment—
+
+(a) of so much of any outgoings discharged by the assignor as is referable to any period after the assignation takes effect;
+
+(b) of a sum not exceeding the amount of any expenditure reasonably incurred by the assignor in carrying out any structural alteration of the dwelling-house or in providing or improving fixtures therein, being fixtures which, as against the landlord, he is not entitled to remove;
+
+(c) where the assignor became a tenant of the dwelling-house by virtue of an assignation of the protected tenancy, of a sum not exceeding any reasonable amount paid by him to his assignor in respect of expenditure incurred by that assignor, or by any previous assignor of the tenancy, in carrying out any such alteration or in providing or improving any such fixtures as are mentioned in paragraph (b) above; or
+
+(d) where part of the dwelling-house is used as a shop or office, or for business, trade or professional purposes, of a reasonable amount in respect of any goodwill of the business, trade or profession, being goodwill transferred to the assignee in connection with the assignation or accruing to him in consequence thereof.
+
+(4) Without prejudice to subsection (3) above, the assignor shall not be guilty of an offence under this section by reason only that—
+
+(a) any payment of outgoings required or received by him on the assignation was a payment of outgoings referable to a period before the assignation took effect; or
+
+(b) any expenditure which he incurred in carrying out structural alterations of the dwelling-house or in providing or improving fixtures therein and in respect of which he required or received the payment of any sum on the assignation was not reasonably incurred; or
+
+(c) any amount paid by him as mentioned in subsection (3)(c) above was not a reasonable amount; or
+
+(d) any amount which he required to be paid, or which he received, on the assignation in respect of goodwill was not a reasonable amount;
+
+but nothing in this subsection shall prejudice any right of recovery under section 88(1) below.
+
+(5) Notwithstanding anything in subsections (1) and (2) above, the provisions of Schedule 7 to this Act shall have effect in relation to the assignation of protected tenancies which are regulated tenancies in cases where a premium was lawfully required or received at the commencement of the tenancy.
+
+(6) A person guilty of an offence under this section shall be liable to a fine not exceeding level 3 on the standard scale.
+
+(7) The court by which a person is convicted of an offence under this section relating to requiring or receiving any premium may order the amount of the premium, or so much of it as cannot lawfully be required or received under this section (including any amount which, by virtue of subsection (4) above, does not give rise to an offence) to be repaid to the person by whom it was paid.
+
+### 84 Power to charge premium on assignation of tenancy where premium lawfully charged on earlier assignation.
+
+(1) Where before 2nd June 1949 a premium has been paid on the assignation of a protected tenancy, then subject as hereinafter provided section 83 above shall not prevent the requiring or receiving on an assignation of that tenancy after 29th August 1954 of a premium not exceeding the amount hereinafter specified.
+
+(2) The said amount is an amount which bears to the premium paid on the earlier assignation the same proportion as the period of the tenancy still to run at the time of the later assignation bears to the period of the tenancy still to run at the time of the earlier assignation, it being assumed that no power to determine the tenancy not yet exercised will be exercised either by the landlord or the tenant.
+
+(3) Where before 2nd June 1949 a premium has been paid on more than one occasion on the assignation of the same tenancy any of those assignations except the last shall be disregarded for the purposes of this section.
+
+(4) In so far as any premium paid on the assignation of a protected tenancy before 2nd June 1949 has been recovered under the provisions of section 88(1) below, the premium shall be treated for the purposes of the foregoing provisions of this section as not having been paid.
+
+(5) Where apart from this subsection the requirement or receiving of a premium would be allowable both under the foregoing provisions of this section and under Schedule 7 to this Act, the foregoing provisions of this section shall have effect to the exclusion of the said Schedule 7.
+
+(6) Any reference in this section to a premium does not include a premium which consisted only of any such outgoings, sum or amount as fall within section 83(3) above and, in the case of a premium which included any such outgoings, sum or amount, so much only of the premium as does not consist of those outgoings, sum or amount shall be treated as the premium for the purposes of this section.
+
+### 85 Prohibition of premiums on grant, etc. of Part VII contracts.
+
+(1) The provisions of this section apply in relation to any dwelling-house if
+
+(a) under Part VII of this Act, a rent is registered for that dwelling-house in the register kept in pursuance of section 67 above; and
+
+(b) in a case where the approval, reduction or increase of the rent by the [[^F202]First-tier Tribunal] is limited to rent payable in respect of a particular period, that period has not expired.
+
+(2) Subject to subsection (3) below, any person who, as a condition of the grant, renewal, continuance or assignation of rights under a Part VII contract, requires the payment of any premium shall be guilty of an offence under this section.
+
+(3) Nothing in subsection (2) above shall prevent a person from requiring—
+
+(a) that there shall be paid so much of any outgoings discharged by a grantor or assignor as is referable to any period after the grant or assignation takes effect; or
+
+(b) that there shall be paid a reasonable amount in respect of goodwill of a business, trade, or profession, where the goodwill is transferred to a grantee or assignee in connection with the grant or assignation or accrues to him in consequence thereof.
+
+(4) A person guilty of an offence under this section shall be liable to a fine not exceeding level 3 on the standard scale.
+
+(5) The court by which a person is convicted of an offence under this section may order the amount of the premium, or so much of it as cannot lawfully be required under this section, to be repaid to the person by whom it was paid.
+
+### 86 Excessive price for furniture to be treated as premium.
+
+Where the purchase of any furniture has been required as a condition of the grant, renewal, continuance or assignation—
+
+(a) of a protected tenancy, or
+
+(b) of rights under a Part VII contract which relates to a dwelling-house falling within section 85(1) above,
+
+then, if the price exceeds the reasonable price of the furniture, the excess shall be treated, for the purposes of this Part of this Act, as if it were a premium required to be paid as a condition of the grant, renewal, continuance or assignation of the protected tenancy or, as the case may be, the rights under the Part VII contract.
+
+### 87 Punishment of attempts to obtain from prospective tenants excessive prices for furniture.
+
+(1) Any person who, in connection with the proposed grant, renewal, continuance or assignation of a protected tenancy on terms which require the purchase of furniture,—
+
+(a) offers the furniture at a price which he knows or ought to know is unreasonably high, or otherwise seeks to obtain such a price for the furniture, or
+
+(b) fails to furnish, to any person seeking to obtain or retain accommodation whom he provides with particulars of the tenancy, a written inventory of the furniture, specifying the price sought for each item,
+
+shall be liable to a fine not exceeding level 3 on the standard scale.
+
+(2) Where a local authority have reasonable grounds for suspecting that an offence under subsection (1)(a) above has been committed with respect to a protected tenancy or proposed protected tenancy of a dwelling-house, they may give notice to the person entitled to possession of the dwelling-house or his agent that, on such date as may be specified in the notice, which shall not to be earlier than 24 hours after the giving of the notice or, if the dwelling-house is unoccupied, than the expiry of such period after the giving of the notice as may be reasonable in the circumstances, facilities will be required for entry to the dwelling-house and inspection of the furniture therein.
+
+(3) A notice under this section may be given by post.
+
+(4) Where a notice is given under this section any person authorised by the local authority may avail himself of any facilities for such entry and inspection as are referred to in subsection (2) above which are provided on the specified date but shall, if so required, produce some duly authenticated document showing that he is authorised by the local authority.
+
+(5) If it is shown to the satisfaction of the sheriff or to a justice having jurisdiction in the place where the dwelling-house is situated, on a sworn statement in writing, that a person required to give facilities under this section has failed to give them, the sheriff or justice may, by warrant under his hand, empower the local authority, by any person authorised by them, to enter the dwelling-house in question, if need be by force, and inspect the furniture therein.
+
+(6) A person empowered by or under the foregoing provisions of this section to enter a dwelling-house may take with him such other persons as may be necessary and, if the dwelling-house is unoccupied, shall leave it as effectively secured against trespassers as he found it.
+
+(7) Any person who wilfully obstructs a person acting in pursuance of a warrant issued under subsection (5) above shall be liable to a fine not exceeding level 3 on the standard scale.
+
+### 88 Recovery of premiums and loans unlawfully required or received.
+
+(1) Where under any agreement (whether made before or after 12th August 1971) any premium is paid after 12th August 1971 and the whole or any part of that premium could not lawfully be required or received under the preceding provisions of this Part of this Act, the amount of the premium or, as the case may be, so much of it as could not lawfully be required or received, shall be recoverable by the person by whom it was paid.
+
+(2) Nothing in section 82 or 83 above shall invalidate any agreement for the making of a loan or any security issued in pursuance of such an agreement but, notwithstanding anything in the agreement for the loan, any sum lent in circumstances involving a contravention of either of those sections shall be repayable to the lender on demand.
+
+### 89 Avoidance of requirements for advance payment of rent in certain cases.
+
+(1) Where a protected tenancy which is a regulated tenancy is granted, continued or renewed, any requirement that rent shall be payable—
+
+(a) before the beginning of the rental period in respect of which it is payable, or
+
+(b) earlier than six months before the end of the rental period in respect of which it is payable (if that period is more than six months),
+
+shall be void, whether the requirement is imposed as a condition of the grant, renewal or continuance of the tenancy or under the terms thereof; and any requirement avoided by this section is, in the following provisions of this section, referred to as a “prohibited requirement”.
+
+(2) Rent for any rental period to which a prohibited requirement relates shall be irrecoverable from the tenant.
+
+(3) Any person who purports to impose any prohibited requirement shall be liable to a fine not exceeding level 3 on the standard scale, and the court by which he is convicted may order any amount of rent paid in compliance with the prohibited requirement to be repaid to the person by whom it was paid.
+
+(4) Where a tenant has paid on account of rent any amount which, by virtue of this section is irrecoverable by the landlord, then, subject to subsection (6) below, the tenant who paid it shall be entitled to recover that amount from the landlord who received it or his personal representatives.
+
+(5) Subject to subsection (6) below, any amount which a tenant is entitled to recover under subsection (4) above may, without prejudice to any other method of recovery, be deducted by the tenant from any rent payable by him to the landlord.
+
+(6) No amount which a tenant is entitled to recover under subsection (4) above shall be recoverable at any time after the expiry of two years from the date of payment.
+
+(7) Any person who, in any rent book or similar document, makes an entry showing or purporting to show any tenant as being in arrears in respect of any sum on account of rent which is irrecoverable by virtue of this section shall be liable to a fine not exceeding level 3 on the standard scale, unless he proves that, at the time of the making of the entry, the landlord had a bona fide claim that the sum was recoverable.
+
+(8) If, where any such entry has been made by or on behalf of any landlord, the landlord, on being requested by or on behalf of the tenant to do so, refuses or neglects to cause the entry to be deleted within seven days, the landlord shall be liable to a fine not exceeding level 3 on the standard scale, unless he proves that, at the time of the neglect or refusal to cause the entry to be deleted, he had a bona fide claim that the sum was recoverable.
+
+### 89A [[^F203]Premiums: regulations
+
+(1) The Scottish Ministers may by regulations make provision about sums which may be charged in connection with the grant, renewal or continuance of a protected tenancy.
+
+(2) Such regulations may, in particular, specify—
+
+(a) categories of sum which are not to be treated as a premium for the purposes of this Part;
+
+(b) the maximum amount which tenants may be asked to pay in respect of such a sum.
+
+(3) Before making regulations under subsection (1), the Scottish Ministers must consult—
+
+(a) such persons or bodies as they consider representative of the interests of—
+
+(i) tenants;
+
+(ii) private sector landlords;
+
+(iii) persons who act as agents for such landlords,
+
+as they consider appropriate; and
+
+(b) such other persons or bodies as the Scottish Ministers consider appropriate (which may include tenants, private sector landlords and persons who act as agents for such landlords).
+
+(4) The power conferred by subsection (1) on the Scottish Ministers to make regulations—
+
+(a) must be exercised by statutory instrument;
+
+(b) may be exercised so as to make different provision for different purposes.
+
+[[^F204](4A) Regulations under subsection (1) may—
+
+(a) include incidental, supplementary, consequential, transitional, transitory or saving provision,
+
+(b) modify any enactment (including this Act).]
+
+(5) No regulations are to be made under subsection (1) unless a draft of the statutory instrument containing the regulations has been laid before, and approved by resolution of, the Scottish Parliament.]
+
+### 90 Interpretation of Part VIII.
+
+(1) In this Part of this Act, unless the context otherwise requires—
+
+- “furniture” includes fittings and other articles;
+- [[^F205]“premium” means any fine, sum or pecuniary consideration, other than the rent, and includes any service or administration fee or charge;]
+- “registered rent” means the rent registered under Part V of this Act; and
+- “rental period” means a period in respect of which a payment of rent falls to be made.
+
+(2) For the avoidance of doubt it is hereby declared that nothing in this Part of this Act shall render any amount recoverable more than once.
+
+(3) For the avoidance of doubt, it is hereby declared that a deposit returnable at the termination of a tenancy or of a Part VII contract given as security for the tenant’s obligations [[^F206]for rent, ] for accounts for supplies of gas, electricity, telephone or other domestic supplies and for damage to the dwelling-house or contents is not a premium for the purposes of this Part of this Act provided that it does not exceed the amount of two months’ rent payable under the tenancy or under the Part VII contract, as the case may be.
+
+## Part IX — Heritable Securities
+
+### 91 Heritable securities to which Part IX applies.
+
+(1) The heritable securities with which this Part of this Act is concerned are heritable securities which—
+
+(a) were created before 8th December 1965; and
+
+(b) are regulated heritable securities as hereinafter defined.
+
+(2) Any reference in this Part of this Act to a regulated heritable security shall be construed in asccordance with section 92 below.
+
+### 92 Regulated heritable securities.
+
+(1) Subject to subsection (2) below, a heritable security which falls within section 91(1)(a) is a regulated heritable security if—
+
+(a) it is a heritable security over land consisting of or including a dwelling-house which is let on or subject to a regulated tenancy; and
+
+(b) the regulated tenancy is binding on the creditor in the heritable security.
+
+(2) Notwithstanding that a heritable security falls within subsection (1) above, it is not a regulated heritable security if—
+
+(a) the rateable value on the appropriate day of the dwelling-house which falls within subsection (1)(a) above, or if there is more than one such dwelling-house comprised in the heritable security, the aggregate of the rateable values of those dwelling-houses on the appropriate day, is less than one-tenth of the rateable value on the appropriate day of the whole of the land comprised in the heritable security; or
+
+(b) the debtor in the heritable security is in breach of agreement, but for this purpose a breach of the agreement for the repayment of the principal money shall be disregarded unless it provides for repayment by instalments.
+
+### 93 Powers of court to mitigate hardship.
+
+(1) The powers of the court under this section relate only to regulated heritable securities, and those powers become exercisable in relation to such a heritable security only on an application made by the debtor in the security within 21 days, or such longer time as the court may allow, after the occurrence of one of the following events, that is to say,—
+
+(a) the rate of interest payable in respect of the heritable security is increased; or
+
+(b) a rent for a dwelling-house comprised in the heritable security is registered under Part V of this Act and the rent so registered is lower than the rent which was payable immediately before the registration; or
+
+(c) the creditor in the security, not being a creditor who was in possession on 8th December 1965, demands payment of the principal money secured by the heritable security or takes any steps for exercising any right of foreclosure or sale or for otherwise enforcing his security.
+
+(2) If the court is satisfied on any such application as is referred to in subsection (1) above that, by reason of the event in question and of the operation of this Act the debtor in the security would suffer severe financial hardship unless relief were given under this section, the court may by order make such provision limiting the rate of interest, extending the time for the repayment of the principal money or otherwise varying the terms of the heritable security or imposing any limitation or condition on the exercise of any right or remedy in respect thereof, as the court thinks appropriate.
+
+(3) Where the court makes an order under subsection (2) above in relation to a heritable security which comprises other land as well as a dwelling-house or dwelling-houses let on or subject to a regulated tenancy the order may, if the creditor in the security so requests, make provision for apportioning the money secured by the heritable security between that other land and the dwelling-house or dwelling-houses.
+
+(4) Where such an apportionment is made as is referred to in subsection (3) above, the other provisions of the order made by the court shall not apply in relation to the other land referred to in that subsection and the money secured by the other land, and the heritable security shall have effect for all purposes as two separate heritable securities of the apportioned parts.
+
+(5) Where the court has made an order under this section it may very or revoke it by a subsequent order.
+
+(6) The court for the purposes of this section is the sheriff, except that where an application under subsection (1) above is made in pursuance of any step taken by the creditor in the heritable security in the Court of Session, it is that court.
+
+### 94 Miscellaneous.
+
+(1) In this Part of this Act the expressions “creditor in a heritable security” and “debtor in a heritable security”, however expressed, include any person from time to time deriving title under the original creditor or debtor.
+
+(2) In the application of this Part of this Act to a dwelling-house subject to a regulated furnished tenancy, for any reference to 8th December 1965 there shall be substituted a reference to 14th August 1974.
+
+## Part X — Miscellaneous and General
+
+### 95 Release from rent regulation.
+
+(1) Where the Secretary of State is satisfied with respect to every part of any area that the number of persons seeking to become tenants there—
+
+(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F207]
+
+(b) of any class or description of dwelling-house, . . . [^F208],
+
+is not substantially greater than the number of such dwelling-houses in that part, he may by order provide that no such dwelling-house in the area shall be the subject of a regulated tenancy.
+
+(2) An order under this section may contain such transitional provisions, including provisions to avoid or mitigate hardship, as appear to the Secretary of State to be desirable.
+
+(3) The power to make an order under this section shall be exercisable by statutory instrument and no such order shall have effect unless it is approved by a resolution of each House of Parliament.
+
+### 96 Provisions where tenant shares accommodation with landlord.
+
+Where under any contract—
+
+(a) a tenant has the exclusive occupation of any accommodation, and
+
+(b) the terms on which he holds the accommodation include the use of other accommodation in common with his landlord or in common with his landlord and other persons, and
+
+(c) by reason only of the circumstances mentioned in paragraph (b) above or by reason of those circumstances and the operation of section 6 above, the accommodation referred to in paragraph (a) above is not a dwelling-house let on a protected tenancy,
+
+Part VII of this Act shall apply to the contract notwithstanding that the rent does not include payment for the use of furniture or for services.
+
+### 97 Provisions where tenant shares accommodation with persons other than landlord.
+
+(1) Where a tenant has the exclusive occupation of any accommodation (in this section referred to as “the separate accommodation”) and
+
+(a) the terms as between the tenant and his landlord on which he holds the separate accommodation include the use of other accommodation (in this section referred to as “the shared accommodation”) in common with another person or other persons, not being or including the landlord, and
+
+(b) by reason only of the circumstances mentioned in paragraph (a) above, the separate accommodation would not, apart from this section, be a dwelling-house let on or subject to a protected or statutory tenancy,
+
+the separate accommodation shall be deemed to be a dwelling-house let on a protected tenancy or, as the case may be, subject to a statutory tenancy and the following provisions of this section shall have effect.
+
+(2) For the avoidance of doubt it is hereby declared that where, for the purpose of determining the rateable value of the separate accommodation, it is necessary to make an apportionment under this Act, regard is to be had to the circumstances mentioned in subsection (1)(a) above.
+
+(3) For the purposes of any provisions of this Act relating to increases of rent, or to the transfer to tenants of burdens or liabilities previously borne by landlords—
+
+(a) any such change of circumstances as is mentioned in subsection (4) below, being a change affecting so much of the shared accommodation as is living accommodation, shall be deemed to be an alteration of rent;
+
+(b) where, as the result of any such change as is mentioned in paragraph (a) above, the terms on which the separate accommodation is held are on the whole less favourable to the tenant than the previous terms, the rent shall be deemed to be increased, whether or not the sum periodically payable by way of rent is increased;
+
+(c) any increase of rent in respect of any such change as is mentioned in paragraph (a) above where, as a result of the change and of the increase of rent, the terms on which the separate accommodation is held are on the whole not less favourable to the tenant than the previous terms, shall be deemed not to be an increase of rent.
+
+(4) The change of circumstances referred to in subsection (3) above is any increase or diminution of the rights of the tenant to use accommodation in common with others, or any improvement or worsening of accommodation so used by the tenant.
+
+(5) Subject to subsection (6) below, while the tenant is in possession of the separate accommodation (whether as a protected or statutory tenant), any term or condition of the contract of tenancy terminating or modifying, or providing for the termination or modification of, his right to the use of any of the shared accommodation which is living accommodation shall be of no effect.
+
+(6) Where the terms and conditions of the contract of tenancy are such that at any time during the tenancy the persons in common with whom the tenant is entitled to the use of the shared accommodation could be varied, or their number could be increased, nothing in subsection (5) above shall prevent those terms and conditions from having effect so far as they relate to any such variation or increase.
+
+(7) Subject to subsection (8) below and without prejudice to the enforcement of any order made thereunder, while the tenant is in possession of the separate accommodation, no order shall be made for possession of any of the shared accommodation, whether on the application of the immediate landlord of the tenant or on the application of any person under whom that landlord derives title, unless a like order has been made, or is made at the same time, in respect of the separate accommodation; and the provisions of section 11(1) above shall apply accordingly.
+
+(8) Without prejudice to subsection (3) above, the [[^F209]First-tier Tribunal], on the application of the landlord, may make such order, either terminating the right of the tenant to use the whole or any part of the shared accommodation other than living accommodation, or modifying his right to use the whole or any part of the shared accommodation, whether by varying the persons or increasing the number of persons entitled to the use of that accommodation, or otherwise, as the [[^F209]First-tier Tribunal] thinks just:
+
+Provided that no order shall be made under this subsection so as to effect any termination or modification of the rights of the tenant which, apart from subsection (5) above, could not be effected by or under the terms of the contract of tenancy.
+
+(9) Any question arising under subsection (3) above shall be determined on the application either of the landlord or of the tenant by the [[^F210]First-tier Tribunal] whose decision shall be final and conclusive.
+
+(10) In this section, “living accommodation” means accommodation of such a nature that the fact that it constitutes or is included in the shared accommodation is sufficient to prevent the tenancy from constituting a protected or statutory tenancy of a dwelling-house.
+
+### 98 Application of Part VII to tenancies falling within section 6.
+
+(1) If and so long as a tenancy is, by virtue only of section 6 above, precluded from being a protected tenancy, it shall be treated for all purposes as a contract to which Part VII of this Act applies, notwithstanding the the rent may not include payment for the use of furniture or for services.
+
+(2) In any case where—
+
+(a) a tenancy which, by virtue only of section 6 above, was precluded from being a protected tenancy ceases to be so precluded and accordingly becomes a protected tenancy, and
+
+(b) before it became a protected tenancy a rent was registered for the dwelling-house concerned under Part VII of this Act,
+
+the amount which is so registered shall be deemed to be registered under Part V of this Act as the rent for the dwelling-house which is let on that tenancy, and that registration shall be deemed to take effect on the day the tenancy becomes a protected tenancy.
+
+(3) Section 46(3)
+
+above shall not apply to an application for the registration under Part V of this Act of a rent different from that which is deemed to be registered as mentioned in subsection (2) above.
+
+(4) The reference in section 47(1)(b) above to a rent being registered for a dwelling-house does not include a rent which is deemed to be registered as mentioned in subsection (2) above.
+
+(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F211]
+
+(6) If, in a case where a tenancy becomes a protected tenancy as mentioned in subsection (2)(a) above,—
+
+(a) a notice to quit had been served in respect of the dwelling-house concerned before the date on which the tenancy became a protected tenancy, and
+
+(b) the period at the end of which that notice to quit takes effect had, before that date, been extended under Part VII of this Act, and
+
+(c) that period has not expired before that date,
+
+the notice to quit shall take effect on the day following that date (whenever it would otherwise take effect) and, accordingly, on that day the protected tenancy shall become a statutory tenancy.
+
+### 99 Certain sublettings not to exclude any part of sublessor’s premises from protection under the Act.
+
+(1) Where the tenant of any premises, consisting of a house or part of a house, has sublet a part, but not the whole, of the premises, then, as against his landlord or any superior landlord, no part of the premises shall be treated as not being a dwelling-house let on or subject to a protected or statutory tenancy by reason only that—
+
+(a) the terms on which any person claiming under the tenant holds any part of the premises include the use of accommodation in common with other persons; or
+
+(b) part of the premises is let to any such person at a rent which includes payments in respect of board or attendance.
+
+(2) Nothing in this section affects the rights against, and liabilities to, each other of the tenant and any person claiming under him, or of any two such persons.
+
+### 100 Obligation to notify sublettings of dwelling-houses let on or subject to protected or statutory tenancies.
+
+(1) If the tenant of a dwelling-house let on or subject to a protected or statutory tenancy sublets any part of the dwelling-house on a protected tenancy, then, subject to subsection (2) below, he shall within 14 days after the subletting supply the landlord with a statement in writing of the subletting giving particulars of occupancy, including the rent charged.
+
+(2) Subsection (1) above shall not require the supply of a statement in relation to a subletting of any part of a dwelling-house if the particulars which would be required to be included in the statement as to the rent and other conditions of the subtenancy would be the same as in the last statement supplied in accordance with that subsection with respect to a previous subletting of that part.
+
+(3) A tenant who is required to supply a statement in accordance with subsection (1) above and who, without reasonable excuse,—
+
+(a) fails to supply a statement, or
+
+(b) supplies a statement which is false in any material particular,
+
+shall be liable to a fine not exceeding level 1 on the standard scale.
+
+### 101 Landlord’s consent to work.
+
+(1) It shall be a term of every protected or statutory tenancy (unless express provision is made to the contrary in the tenancy agreement) that the tenant shall not carry out work, other than interior decoration, in relation to the dwelling-house without the consent in writing of the landlord, which shall not be unreasonably withheld.
+
+(2) In this section, and in Schedule [[^F212]5 to the Housing (Scotland) Act 1987] as it applies to a protected or statutory tenancy, “work” means—
+
+(a) alteration, improvement or enlargement of the dwelling-house or of any fittings or fixtures;
+
+(b) addition of new fittings or fixtures (including wireless or television aerials);
+
+(c) erection of a garage, shed or other structure,
+
+but does not include repairs or maintenance of any of these.
+
+(3) The provisions of Schedule [[^F212]5 to the Housing (Scotland) Act 1987] shall have effect as terms of every protected or statutory tenancy as they have effect as terms of secure tenancies.
+
+### 101A [[^F213]Discriminatory terms relating to children or benefits status
+
+(1) A term of a protected or statutory tenancy is of no effect so far as the term makes provision (however expressed)—
+
+(a) prohibiting the tenant from having a child live with or visit the tenant at the dwelling or restricting the circumstances in which the tenant may have a child do so, or
+
+(b) prohibiting the tenant from being a benefits claimant.
+
+(2) But—
+
+(a) subsection (1)(a) does not apply if the provision is a proportionate means of achieving a legitimate aim, and
+
+(b) subsection (1)(a) and (b) does not apply to the extent that the landlord is insured under an excluded contract of insurance and the provision in the tenancy is a means of preventing the landlord from breaching the term which causes the contract to be an excluded contract of insurance.
+
+(3) For the purpose of subsection (2)(b), a contract of insurance is an excluded contract of insurance if—
+
+(a) section 52 of the Renters’ Rights Act 2025 (terms in insurance contracts relating to children or benefits status) does not apply to it, and
+
+(b) it contains a term which makes provision (however expressed) requiring the landlord—
+
+(i) to prohibit the tenant from having a child live with or visit the tenant at the dwelling or to restrict the circumstances in which the tenant may have a child live with or visit the tenant at the dwelling, or
+
+(ii) to prohibit the tenant from being a benefits claimant.
+
+(4) In this section—
+
+- “benefits claimant” means a person who—
+
+  - is entitled to payments (including payments made directly to a landlord) under or by virtue of benefits and welfare legislation, or
+  - is entitled, by virtue of section 80 of the Local Government Finance Act 1992, to a reduction in the amount of council tax payable in respect of the property on the basis of income or an entitlement to a payment mentioned in paragraph (a),
+
+- “benefits and welfare legislation” means—
+
+  - the Social Security Contributions and Benefits Act 1992,
+  - the Jobseekers Act 1995,
+  - the State Pension Credit Act 2002,
+  - the Tax Credits Act 2002,
+  - the Welfare Reform Act 2007,
+  - the Welfare Reform Act 2012,
+  - the Pensions Act 2014,
+  - the Social Security (Scotland) Act 2018,
+
+- “child” means a person under the age of 18.]
+
+### 102 Jurisdiction.
+
+[[^F214](A1) The First-tier Tribunal has jurisdiction, either in the course of any proceedings relating to a dwelling-house or on an application made for the purpose by the landlord or the tenant, to determine any question as to the application of this Act (other than Part IX) or as to any matter which is or may become material for determining any such question.]
+
+(1) The sheriff shall have jurisdiction, either in the course of any proceedings relating to a dwelling-house or on an application made for the purpose by the landlord or the tenant, to determine any question as to the application of [[^F215]Part IX of] this Act or as to any matter which is or may become material for determining any such question.
+
+[^F216]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) If under any provision of this Act a person takes proceedings in the Court of Session which he could have taken before the [[^F217]First-tier Tribunal], he shall not be entitled to recover any expenses.
+
+### [[^F218]103 Application to sheriff.
+
+An application to the sheriff under section 93(1) is to be made by way of summary application.]
+
+### 104 Rules as to procedure.
+
+The Court of Session may make such act of sederunt and give such directions as they think fit for the purpose of giving effect to the provisions of [[^F219]Part IX of] this Act and may, by such act of sederunt or directions, provide—
+
+(a) for the conduct so far as desirable in private of any proceedings for the purposes of those provisions and for the remission of any fees; and
+
+(b) for any question arising under or in connection with those provisions being referred by consent of the parties interested for final determination by the sheriff sitting as an arbiter or by an arbiter appointed by the sheriff.
+
+### 105 Powers of local authorities for the purposes of giving information.
+
+(1) Any local authority shall have power—
+
+(a) to publish information, for the assistance of landlords and tenants, as to their rights and duties under the provisions of this Act and as to the procedure for enforcing those rights or securing the performance of those duties; and
+
+(b) to furnish particulars as to the availability, extent and character of alternative accommodation.
+
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F220]
+
+### 106 Consent of tenant.
+
+(1) Where a dwelling-house which does not satisfy the qualifying conditions is subject to a statutory tenancy and the tenant is unwilling to give his consent to the carrying out of the works required for those conditions to be satisfied, then, if those works were specified in an application for a grant under Part II of the [^M26]Housing (Financial Provisions) (Scotland) Act 1968 or Part I of the [^M27]Housing (Scotland) Act 1974 [[^F221]or [[^F222]a grant or loan under Part 2 of the Housing (Scotland) Act 2006 (asp 1)]] and the application has been approved, the sheriff may, on the application of the landlord, make an order empowering him to enter to carry out the works.
+
+(2) An order under subsection (1) above may be made subject to such conditions as to the time at which the works are to be carried out and as to any provision to be made for the accommodation of the tenant and his household while they are carried out as the sheriff may think fit; and where such an order is made subject to any condition as to time, compliance with that condition shall be deemed to be also compliance with any condition imposed by the local authority under section 27(6A) or section 41(6) of the said Act of 1968 or section 4(2) of the said Act of 1974 [[^F223]or [[^F224]section 75(7) of the said Act of 2006]] .
+
+(3) In determining whether to make such an order and, if it is made, subject to what, if any, conditions, the sheriff shall have regard to all the circumstances (other than the means of the tenant) and, in particular, to any disadvantage to the tenant that might be expected to result from the works and the accommodation that might be available for him while the works are carried out.
+
+(4) For the purpose of this section, a dwelling-house satisfies the qualifying conditions if it is provided with all the standard amenities, it is in good repair having regard to its age, character and locality and disregarding internal decorative repair, and it meets the tolerable standard.
+
+[[^F225](5) In this section—
+
+- “standard amenities” has the meaning given by section 73(6) of the said Act of 2006; and
+- “tolerable standard” has the meaning given by section 86 of the Housing (Scotland) Act 1987 (c. 26).]
+
+### 107 Prosecution of offences.
+
+(1) Offences under this Act are punishable summarily unless the context otherwise requires.
+
+(2) For the avoidance of doubt it is declared that conduct in respect of which a person is made liable to a fine by this Act is an offence.
+
+(3) Where an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager or secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+### 108 Service of notices on landlord’s agents.
+
+(1) Subject to subsection (5) and section 114 below, any document required or authorised by this Act to be served by the tenant of a dwelling-house on the landlord thereof shall be deemed to be duly served on him if it is served—
+
+(a) on any agent of the landlord named as such in the rent book or other similar document; or
+
+(b) on the person who receives the rent of the dwelling-house.
+
+(2) Where a dwelling-house is subject to a regulated tenancy, subsection (1) above shall apply also in relation to any document required or authorised by this Act to be served on the landlord by a person other than the tenant.
+
+(3) Subject to subsection (5) below, if for the purpose of any proceedings (whether civil or criminal) brought or intended to be brought under this Act, any person serves upon any such agent or other person as is referred to in paragraph (a) or paragraph (b) of subsection (1) above a notice in writing requiring the agent or other person to disclose to him the full name and place of abode or place of business of the landlord, that agent or other person shall forthwith comply with the notice.
+
+(4) If any such agent or other person as is referred to in subsection (3) above fails or refuses forthwith to comply with a notice served on him under that subsection, he shall be liable to a fine not exceeding level 4 on the standard scale, unless he shows to the satisfaction of the court that he did not know, and could not with reasonable diligence have ascertained, such of the facts required by the notice to be disclosed as were not disclosed by him.
+
+(5) Subsections (1) to (4) above shall not apply to any document required or authorised to be served by, or to any proceedings brought or intended to be brought under, Part VII or Part VIII of this Act, other than proceedings under section 89 above.
+
+### 109 Rents of subsidised private houses.
+
+(1) Any condition which—
+
+(a) is mentioned in any of the enactments specified in subsection (2) below, or
+
+(b) has effect by virtue of any undertaking or agreement entered into in pursuance of any such enactment,
+
+shall, in so far as it relates to the rent to be charged in respect of any dwelling-house, limit that rent, and if such condition was imposed before 6th July 1957, shall have effect is if it limited that rent, to the amount specified in subsection (3) below.
+
+(2) The enactments referred to in subsection (1) above are—
+
+(a) section 2 of the [^M28]Housing (Financial Provisions) Act 1924;
+
+(b) section 3 of the [^M29]Housing (Rural Workers) Act 1926;
+
+(c) section 101 of the [^M30]Housing (Scotland) Act 1950;
+
+(d) Schedule 4 to the [^M31]Housing (Financial Provisions) (Scotland) Act 1968.
+
+(3) The amount of rent specified in this subsection shall be an amount equal to the rent which might be properly charged in respect of the dwelling-house by virtue of any such condition as is mentioned in subsection (1) above together with any sum recoverable in respect thereof by way of repairs increase or section 50 increase within the meanings assigned to those expressions in section 133(1) of the [^M32]Rent (Scotland) Act 1971.
+
+### [^F226]110 Restriction on sequestration for rent.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 111 Implied condition in all protected tenancies.
+
+It shall be a condition of a protected tenancy of a dwelling-house that the tenant shall afford to the landlord access to the dwelling-house and all reasonable facilities for executing therein any repairs which the landlord is entitled to execute.
+
+### 112 Minimum length of notice to quit.
+
+(1) No notice by a landlord or a tenant to quit any premises let (whether before or after the commencement of this Act) as a dwelling-house shall be valid unless it is in writing and contains such information as may be prescribed and is given not less than four weeks before the date on which it is to take effect.
+
+(2) In this section “prescribed” means prescribed by regulations made by the Secretary of State by statutory instrument, and a statutory instrument containing any such regulations shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(3) Regulations under this section may make different provision in relation to different descriptions of lettings and different circumstances.
+
+### 113 Rent book to be provided.
+
+(1) Where under a protected or statutory tenancy rent is payable weekly, it shall be the duty of the landlord to provide a rent book or other similar document for use in respect of the dwelling-house.
+
+(2) If at any time the landlord fails to comply with the requirements of this section he, and any person who on his behalf demands or receives rent in respect of the tenancy, shall be liable to a fine not exceeding level 4 on the standard scale.
+
+### 114 Service of notices.
+
+(1) A notice or other document which requires to be served on a person under any provision of this Act may be given to him—
+
+(a) by delivering it to him;
+
+(b) by leaving it at his proper address; or
+
+(c) by sending it by recorded delivery post to him at that address.
+
+(2) For the purposes of this section and of section 7 of the [^M33]Interpretation Act 1978 (references to service by post) in its application to this section, a person’s proper address shall be his last known address.
+
+### 115 Interpretation.
+
+(1) In this Act, except where the context otherwise requires,—
+
+- “agricultural land” means land used only for agricultural or pastoral purposes or used as woodlands, market gardens, orchards, allotments or allotment gardens and any lands exceeding one-quarter of an acre used for the purpose of poultry farming, but does not include any lands occupied together with a house as a park, garden or pleasure ground or any land kept or preserved mainly or exclusively for sporting purposes;
+- “the appropriate day” has the meaning assigned to it by section 7(3) above;
+- “converted tenancy” means a tenancy which became a regulated tenancy by virtue of Part VI of, or paragraph 5 of Schedule 2 to, the [^M34]Rent (Scotland) Act 1971, section 34 of the [^M35]Housing (Financial Provisions) (Scotland) Act 1972 or section 46(1) of the [^M36]Tenants’ Rights, Etc. (Scotland) Act 1980; and “the conversion” means the time when the tenancy became a regulated tenancy;
+- [[^F227]“First-tier Tribunal” means the First-tier Tribunal for Scotland;]
+- [[^F228]“First-tier Tribunal” means the First-tier Tribunal for Scotland Housing and Property Chamber]
+- “heritable security” has the same meaning as in the [^M37]Conveyancing (Scotland) Act 1924 except that it includes a security consituted by ex facie absolute disposition or assignation and a standard security within the meaning of Part II of the [^M38]Conveyancing and Feudal Reform (Scotland) Act 1970;
+- “landlord” includes any person from time to time deriving title under the original landlord and also includes, in relation to any dwelling-house, any person other than the tenant who is, or but for Part II of this Act would be, entitled to possession of the dwelling-house;
+- “let” includes “sub-let”;
+- “local authority” means [[^F229]a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994];
+- “order for possession” means decree of removing or warrant of ejection or other like order; and “action for possession” and “proceedings for possession” shall be construed accordingly;
+- “Part VII contract” has the meaning assigned to it in section 63(7) above;
+- [[^F230]“premium” has the meaning given in section 90;]
+- “prescribed” means prescribed by regulations made by the Scretary of State by statutory instrument;
+- “protected furnished tenancy”, “regulated furnished tenancy” and “statutory furnished tenancy” mean a protected or, as the case may be, regulated or statutory tenancy—
+
+(a) under which the dwelling-house concerned is bona fide let at a rent which includes payments in respect of the use of furniture, and
+
+(b) in respect of which the amount of rent which is fairly attributable to such use, having regard to the value of that use to the tenant, forms a substantial part of the whole rent;
+
+- “protected tenant” and “protected tenancy” shall be construed in accordance with section 1 above;
+- “rateable value” shall be construed in accordance with section 7 above;
+- “rates” means any charges payable in respect of a rate as defined in the [^M39]Local Government (Scotland) Act 1947;
+- “regulated tenancy” shall be construed in accordance with section 8 above;
+- [^F231]...
+- [^F232]...
+- “the standard scale” means the standard scale of fines set out in [[^F233]section 225(1) of the Criminal Procedure (Scotland) Act 1995];
+- “the statutory maximum” means the prescribed sum as defined in [[^F234]section 225(8) of the Criminal Procedure (Scotland) Act 1995];
+- “statutory tenant” and “statutory tenancy” shall be construed in accordance with section 3 above;
+- “tenancy” includes “sub-tenancy”;
+- “tenancy at a low rent” has the meaning assigned to it by section 2(3) above;
+- “tenant” includes statutory tenant and also includes a sub-tenant and any person deriving title under the original tenant or sub-tenant.
+- [^F232]...
+
+(2) Any reference in any enactment to a rent tribunal [[^F235]or a private rented housing committee] shall have effect as if it were a reference to [[^F236]the First-tier Tribunal].
+
+(3) Except in so far as the context otherwise requires, any reference in this Act to, or to anything done or omitted under, any provision of this Act shall be construed as including a reference to, or to anything done or omitted under, any enactment which (being repealed) is substantially re-enacted in the said provision.
+
+### 116 Application to Crown property.
+
+(1) Subject to sections 4 and 63(3)(a) above, this Act shall apply in relation to premises in which there subsists, or at any material time subsisted, a Crown interest as it applies in relation to premises in which no such interest subsists or ever subsisted.
+
+(2) In this section “Crown interest” means an interest which belongs to Her Majesty in right of the Crown or of the Duchy of Lancaster or to the Duchy of Cornwall, or to a government department, or which is held in trust for Her Majesty for the purposes of a government department.
+
+(3) Where an interest belongs to Her Majesty in right of the Duchy of Lancaster, for the purposes of this Act the Chancellor of the Duchy of Lancaster shall be deemed to be the owner of the interest.
+
+(4) Where an interest belongs to the Duchy of Cornwall, for the purposes of this Act the Secretary of the Duchy of Cornwall shall be deemed to be the owner of the interest.
+
+### 117 Amendments, trasitional provisions, repeals, etc.
+
+(1) Subject to subsection (2) below, the enactments specified in Schedule 8 to this Act shall have effect subject to the amendments specified in that Schedule.
+
+(2) The savings and transitional provisions in Schedule 9 to this Act shall have effect.
+
+(3) Subject to subsection (2) above, the enactments specified in Schedule 10 to this Act are hereby repealed to the extent specified in the third column of that Schedule.
+
+### 118 Short title, commencement and extent.
+
+(1) This Act may be cited as the Rent (Scotland) Act 1984.
+
+(2) This Act shall come into force at the end of the period of three months beginning with the date on which it is passed.
+
+(3) This Act shall extend to Scotland only.
+
+## SCHEDULE 1 — Statutory Tenants by Succession
+
+*Section 3.*
+
+**1** The provisions of paragraph 2 or, as the case may be, paragraph 3 of this Schedule shall have effect for the purpose of determining who is the statutory tenant of a dwelling-house by succession after the death of the person (in this Schedule referred to as “the original tenant”) who, immediately before his death, was a protected tenant of the dwelling-house or the statuatory tenant of it by virtue of his previous protected tenancy.
+
+**2** The original tenant’s spouse [[^F237]or civil partner] where the dwelling-house was [[^F238]that spouse’s] [[^F237]or civil partner's] only or principal home at the time of the tenant’s death shall be the statutory tenant so long as the said spouse [[^F237]or civil partner] retains possession of the dwelling-house without being entitled to do so under a contractual tenancy.
+
+**3** Where paragraph 2 above does not apply, but a person who was a member of the original tenant’s family was residing with him at the time of and for the period of six months immediately before his death then, after his death, that person or if there is more than one such person such one of them as may be decided by agreement, or in default of agreement by the [[^F239]First-tier Tribunal], shall be the statutory tenant so long as he retains possession of the dwelling-house without being entitled to do so under a contractual tenancy.
+
+**4** A person who becomes the statutory tenant of a dwelling-house by virtue of paragraph 2 or paragraph 3 above is in this Schedule referred to as “the first successor”.
+
+**5** If, immediately before his death, the first successor was still a statutory tenant, the provisions of paragraph 6 or, as the case may be, paragraph 7 below shall have effect for the purpose of determining who is the statutory tenant after the death of the first successor.
+
+**6** The first successor’s spouse [[^F240]or civil partner] , where the dwelling-house was his only or principal home at the time of the tenant’s death, shall be the statutory tenant so long as the said spouse [[^F240]or civil partner] retains possession of the dwelling-house without being entitled to do so under a contractual tenancy.
+
+**7** Where paragraph 6 above does not apply but a person who was a member of the first successor’s family was residing with him at the time of and for the period of six months immediately before his death then, after his death, that person or if there is more than one such person such one of them as may be decided by agreement, or in default of agreement by the [[^F241]First-tier Tribunal], shall be the statutory tenant so long as he retains possession of the dwelling-house without being entitled to do so under a contractual tenancy.
+
+**8** (1) ) Where after a succession the successor becomes the tenant of the dwelling-house by the grant to him of another tenancy, “the original tenant” and “the first successor” in this Schedule shall, in relation to that other tenancy, mean the persons who were respectively the original tenant and the first successor at the time of the succession, and accordingly—
+
+(a) if the successor was the first successor, and immediately before his death he was still the tenant (whether protected or statutory), paragraphs 6 and 7 above shall apply on his death.
+
+(b) if the successor was not the first successor, no person shall become a statutory tenant on his death by virtue of this Schedule.
+
+(2) Sub-paragraph (1) above applies even if—
+
+(a) a successor enters into more than one other tenancy of the dwelling-house, and
+
+(b) both the first successor, and the successor on his death, enter into other tenancies of the dwelling-house.
+
+(3) This paragraph shall apply—
+
+(a) as respects any succession which takes place on or after 27th August 1972; and
+
+(b) as respects a succession which took place before that date if the tenancy granted after the succession, or the first of those tenancies, was granted on or after that date.
+
+(4) In this paragraph—
+
+- “succession” means the occasion on which a person becomes the statutory tenant of a dwelling-house by virtue of this Schedule and “successor” shall be construed accordingly.
+- “tenancy” means “regulated tenancy” and “tenancies” shall be construed accordingly.
+
+**9** Paragraphs 5 to 7 above do not apply where the statutory tenancy of the original tenant arose by virtue of section 20 of the [^M40]Rent Act 1965.
+
+## [[^F242]Schedule 1A — Statutory or Statutory Assured Tenants by Succession in a case to which section 3A(1) applies]
+
+**[[^F243]1** The provisions of paragraph 2 of this Schedule shall have effect for the purpose of determining who is the statutory tenant of a dwelling-house by succession after the death of the person (in this Schedule referred to as “the original tenant”) who, immediately before his death, was a protected tenant of the dwelling-house or the statutory tenant of it by virtue of his previous protected tenancy.]
+
+**[[^F244]2** (1) The original tenant’s spouse [[^F245]or civil partner] where the dwelling-house was that spouse’s [[^F245]or civil partner's] only or principal home at the time of the tenant’s death shall be the statutory tenant so long as the said spouse [[^F245]or civil partner] retains possession of the dwelling-house without being entitled to do so under a contractual tenancy.
+
+(2) For the purposes of this paragraph, a person who was living with the original tenant as his or her wife or husband shall be treated as the spouse of the original tenant [[^F246]and a person who was living with the original tenant in a relationship which had the characteristics of the relationship between civil partners shall be treated as the civil partner of the original tenant] .
+
+(3) If, immediately after the death of the original tenant, there is, by virtue of sub-paragraph (2) above, more than one person who fulfils the conditions in sub-paragraph (1) above, such one of them as then has occupancy rights under section 18 of the Matrimonial Homes (Family Protection) (Scotland) Act 1981 (rights of cohabiting couples) [[^F247]or under section 101 of the Civil Partnership Act 2004] or, if neither or none of them has such rights, such one of them as may be decided by the sheriff, shall be treated as the surviving spouse [[^F247], or as the case may be as the surviving civil partner,] for the purposes of this paragraph.]
+
+**[[^F248]3** Where paragraph 2 above does not apply but a person who was a member of the original tenant’s family was residing with him in the dwelling-house—
+
+(a) continuously for the period commencing six months before the date of coming into force of section 46 of the Housing (Scotland) Act 1988 and ending on the tenant’s death (where the person was so residing on the said date); or
+
+(b) at the time of and for the period of two years immediately before the tenant’s death,
+
+then, after the tenant’s death, that person or if there is more than one such person such one of them as may be decided by agreement, or in default of agreement by the [[^F249]First-tier Tribunal], shall be entitled to a statutory assured tenancy of the dwelling-house by succession.]
+
+**[[^F250]4** A person who becomes the statutory tenant of a dwelling-house by virtue of paragraph 2 above is in this Schedule referred to as “the first successor”.]
+
+**[[^F251]5** If, immediately before his death, the first successor was still a statutory tenant, the provisions of paragraph 6 below shall have effect for the purpose of determining who is entitled to a statutory assured tenancy of the dwelling-house by succession after the death of the first successor.]
+
+**[[^F252]6** Where a person who—
+
+(a) was a member of the original tenant’s family immediately before that tenant’s death; and
+
+(b) was a member of the first successor’s family immediately before the first successor’s death,
+
+was residing with the first successor in the dwelling-house at the time of, and for the period of two years immediately before, the first successor’s death, that person, or if there is more than one such person, such one of them as may be decided by agreement or, in default of agreement, by the [[^F253]First-tier Tribunal], shall be entitled to a statutory assured tenancy of the dwelling-house by succession.]
+
+**[[^F254]7** (1) Where after a succession the successor becomes the tenant of the dwelling-house by the grant to him of another tenancy, “the original tenant” and “the first successor” in this Schedule shall, in relation to that other tenancy, mean the persons who were respectively the original tenant and the first successor at the time of the succession, and accordingly—
+
+(a) if the successor was the first successor, and immediately before his death he was still the tenant (whether protected or statutory), paragraph 6 above shall apply on his death;
+
+(b) if the successor was not the first successor, no person shall become a statutory tenant on his death by virtue of this Schedule.
+
+(2) Sub-paragraph (1) above applies even if—
+
+(a) a successor enters into more than one other tenancy of the dwelling-house; and
+
+(b) both the first successor, and the successor on his death, enter into other tenancies of the dwelling-house.
+
+(3) In this paragraph “succession” means the occasion on which a person becomes the statutory or statutory assured tenant of a dwelling-house by virtue of this Schedule and “successor” shall be construed accordingly.]
+
+**[[^F255]8** Paragraphs 5 and 6 above do not apply where the statutory tenancy of the original tenant arose by virtue of section 20 of the Rent Act [^M41]1965.]
+
+## [[^F256]Schedule 1B — Statutory Assured Tenants by Succession in a case to which section 3A(2) applies]
+
+**[[^F257]1** The provisions of this Schedule shall have effect for the purpose of determining who is the statutory assured tenant of a dwelling-house by succession after the death of the person (in this Schedule referred to as “the first successor”) who, immediately before his death, was the statutory tenant of the dwelling-house by virtue of paragraph 2 or paragraph 3 of Schedule 1 above.]
+
+**[[^F258]2** If, immediately before his death, the first successor was still a statutory tenant, the provisions of paragraph 3 below shall have effect for the purpose of determining who is entitled to a statutory assured tenancy of the dwelling-house by succession after the death of the first successor.]
+
+**[[^F259]3** Where a person who—
+
+(a) was a member of the original tenant’s family immediately before that tenant’s death; and
+
+(b) was a member of the first successor’s family immediately before the first successor’s death,
+
+was residing with the first successor in the dwelling-house—
+
+(i) continuously for the period commencing six months before the date of coming into force of section 46 of the Housing (Scotland) Act 1988 and ending on the tenant’s death (where the person was so residing on the said date); or
+
+(ii) at the time of and for the period of two years immediately before the tenant’s death,
+
+that person, or if there is more than one such person, such one of them as may be decided by agreement or, in default of agreement, by the [[^F260]First-tier Tribunal], shall be entitled to a statutory assured tenancy of the dwelling-house by succession.]
+
+**[[^F261]4** (1) Where after a succession the successor becomes the tenant of the dwelling-house by the grant to him of another tenancy, “the original tenant” and “the first successor” in this Schedule shall, in relation to that other tenancy, mean the persons who were respectively the original tenant and the first successor at the time of the succession, and accordingly—
+
+(a) if the successor was the first successor, and immediately before his death he was still the tenant (whether protected or statutory), paragraph 3 above shall apply on his death;
+
+(b) if the successor was not the first successor, no person shall become a statutory tenant on his death by virtue of this Schedule.
+
+(2) Sub-paragraph (1) above applies even if—
+
+(a) a successor enters into more than one other tenancy of the dwelling-house; and
+
+(b) both the first successor, and the successor on his death, enter into other tenancies of the dwelling-house.
+
+(3) In this paragraph “succession” means the occasion on which a person becomes the statutory assured tenant of a dwelling-house by virtue of this Schedule and “successor” shall be construed accordingly.]
+
+**[[^F262]5** Paragraphs 2 and 3 above do not apply where the statutory tenancy of the original tenant arose by virtue of section 20 of the Rent Act [^M42]1965.]
+
+## SCHEDULE 2 — Grounds for Possession of Dwelling-Houses Let on or Subject to Protected or Statutory Tenancies
+
+### Part I — [[^F263]Certain cases in which First-tier Tribunal may order possession]
+
+#### Case 1
+
+Where any rent lawfully due from the tenant has not been paid, or any obligation of the protected or statutory tenancy which arises under this Act, or—
+
+(a) in the case of a protected tenancy, any other obligation of the tenancy, in so far as it is consistent with the provisions of Part II of this Act, or
+
+(b) in the case of a statutory tenancy, any other obligation of the previous protected tenancy which is applicable to the statutory tenancy,
+
+has been broken or not performed.
+
+In determining whether any rent lawfully due from a tenant has been paid in any case where the rent is payable in advance, any sums paid by the tenant in satisfaction of a decree or decrees for rent and expenses shall, if the action in which any such decree was obtained was raised before the expiry of the period in respect of which the rent sued for was due, be imputed wholly to rent and not to expenses.
+
+#### Case 2
+
+Where the tenant or any person residing or lodging with him or any sub-tenant of his has been guilty of conduct which is a nuisance or annoyance to adjoining occupiers, or has been convicted of using the dwelling-house or allowing the dwelling-house to be used for immoral or illegal purposes.
+
+#### Case 3
+
+Where the condition of the dwelling-house has, in the opinion of the [[^F264]First-tier Tribunal], deteriorated owing to acts of waste by, or the neglect or default of, the tenant or any person residing or lodging with him or any sub-tenant of his and, in the case of any act of waste by, or the neglect or default of, a person lodging with the tenant or a sub-tenant of his, where the [[^F264]First-tier Tribunal] is satisfied that the tenant has not, before the making of the order in question, taken such steps as he ought reasonably to have taken for the removal of the lodger or sub-tenant, as the case may be.
+
+#### Case 4
+
+Where the condition of any furniture provided for use under the tenancy has, in the opinion of the [[^F265]First-tier Tribunal], deteriorated owing to ill-treatment by the tenant or any person residing or lodging with him or any sub-tenant of his and, in the case of any ill-treatment by a person lodging with the tenant or a sub-tenant of his, where the [[^F265]First-tier Tribunal] is satisfied that the tenant has not, before the making of the order in question, taken such steps as he ought reasonably to have taken for the removal of the lodger or sub-tenant, as the case may be.
+
+#### Case 5
+
+Where the tenant has given notice to quit and, in consequence of that notice, the landlord has contracted to sell or let the dwelling-house or has taken any other steps as the result of which he would, in the opinion of the [[^F266]First-tier Tribunal], be seriously prejudiced if he could not obtain possession.
+
+#### Case 6
+
+Where, without the consent of the landlord, the tenant has, at any time after 8th December 1965 or, in the case of a regulated furnished tenancy, after 14th August 1974 or, in the case of a tenancy which became a regulated tenancy by virtue of section 4(3) above, after 30th November 1980, assigned or sub-let the whole of the dwelling-house or sub-let part of the dwelling-house the remainder already being sub-let.
+
+#### Case 7
+
+Where the dwelling-house is reasonably required by the landlord for occupation as a residence for some person engaged in his whole-time employment, or in the whole-time employment of some tenant from him or with whom, conditional on housing accommodation being provided, a contract for such employment has been entered into, and [^F267]...
+
+(a) the tenant was in the employment of the landlord or a former landlord, and the dwelling-house was let to him in consequence of that employment and he has ceased to be in that employment; [^F268]...
+
+[^F268](b) ....
+
+#### Case 8
+
+Where the dwelling-house is reasonably required by the landlord for occupation as a residence for—
+
+(a) himself, or
+
+(b) any son or daughter of his over 18 years of age, or
+
+(c) his father or mother, or
+
+(d) if the dwelling-house is let on or subject to a regulated tenancy, the father or mother of his wife or husband,
+
+and the landlord did not become landlord by purchasing the dwelling-house or any interest therein after 23rd March 1965 or, in the case of a dwelling-house subject to a regulated furnished tenancy, after 24th May 1974 or, if the dwelling-house was on 7th November 1956 let on or subject to a controlled tenancy, after 7th November 1956.
+
+#### Case 9
+
+Where the [[^F269]First-tier Tribunal] is satisfied that the rent charged by the tenant—
+
+(a) for any sub-let part of the dwelling-house which is a dwelling-house let on a protected tenancy or subject to a statutory tenancy is or was in excess of the maximum rent for the time being recoverable for that part, having regard to the provisions of Part IV of this Act, or
+
+(b) for any sub-let part of the dwelling-house which is subject to a contract to which Part VII of this Act applies is or was in excess of the maximum (if any) which it is lawful for the lessor, within the meaning of that Part, to require or receive having regard to the provisions of that Part.
+
+#### Case 10
+
+Where the dwelling-house is so overcrowded as to be dangerous or injurious to the health of the inmates, and the [[^F270]First-tier Tribunal] is satisfied that the overcrowding could have been abated by the removal of any lodger or sub-tenant (not being a parent or child of the tenant) whom it would, having regard to all the circumstances of the case, including the question whether other accommodation is available for him, have been reasonable to remove, and that the tenant has not taken such steps as he ought reasonably to have taken for his removal.
+
+### Part II — [[^F271]Further cases in which First-tier Tribunal may order possession]
+
+#### Case 11
+
+[[^F272]Where a person (in this case referred to as “the owner-occupier”) who let the dwelling-house on a regulated tenancy had, at any time before the letting, occupied it as his residence] and—
+
+(a) not later than the relevant date the landlord gave notice in writing to the tenant that possession might be recovered under this Case (nothwithstanding, in the case of a notice given under this paragraph before 1st December 1980, that the notice may not have referred to any of sub-paragraphs (ii) to (vi) of paragraph (c)); and
+
+(b) the dwelling-house has not, since 8th December 1965 or, in the case of a dwelling-house subject to a regulated furnished tenancy, 14th August 1974, been let by the owner-occupier on a regulated tenancy with respect to which the condition mentioned in paragraph (a) above was not satisfied; and
+
+(c) the [[^F270]First-tier Tribunal] is satisfied that—
+
+(i) the dwelling-house is required as a residence for the owner-occupier or any member of his family who resided with the owner-occupier when he last occupied the dwelling-house as a residence; or
+
+(ii) the owner-occupier has died, and the dwelling-house is required as a residence for a member of his family who was residing with him at the time of his death; or
+
+(iii) the owner-occupier has died, and the dwelling-house is required as a residence by a person inheriting the dwelling-house under the will of the owner-occupier or on his intestacy; or
+
+(iv) the owner-occupier has died and his personal representatives wish to dispose of the dwelling-house with vacant possession; or
+
+(v) the dwelling-house is not reasonably suitable to the needs of the owner-occupier, having regard to his place of work, and he requires it for the purpose of disposing of it with vacant possession and of using the proceeds of that disposal in acquiring as his residence a dwelling-house which is more suitable to those needs; or
+
+(vi) the dwelling-house is subject to a heritable security, granted before the creation of the tenancy, and as the result of a default by the debtor the creditor is entitled to sell the dwelling-house and requires it for the purpose of disposing of it with vacant possession in exercise of that entitlement:
+
+Provided that if the [[^F270]First-tier Tribunal] is of the opinion that, notwithstanding that the condition in paragraph (a) or paragraph (b) above is not complied with, it is just and equitable to make an order for possession of the dwelling-house, the [[^F270]First-tier Tribunal] may dispense with the requirements of either or both of those paragraphs, as the case may require.
+
+For the purposes of this Case, the giving of a notice before 14th August 1974 under section 73 above shall be treated in the case of a regulated furnished tenancy as compliance with paragraph (a) above. [[^F273]Where the dwelling-house has been let by the owner-occupier on a protected tenancy (in this paragraph referred to as “the earlier tenancy”) granted on or after 16th November 1984 but not later than the end of the period of two months beginning with the commencement of the Rent (Amendment) Act 1985 and either—
+
+- (i) the earlier tenancy was a short tenancy (within the meaning of section 9 above), or
+- (ii) the conditions mentioned in paragraphs (a) to (c) of Case 21 were satisfied with respect to the dwelling-house and the earlier tenancy,
+
+then for the purposes of paragraph (b) above the condition in paragraph (a) above is to be treated as having been satisfied with respect to the earlier tenancy.]
+
+#### Case 12
+
+Where a person (in this Case referred to as “the owner”) who acquired the dwelling-house or any interest therein with a view to occupying it as his residence at such time as he might retire from regular employment let it on a regulated tenancy before he has so retired and—
+
+(a) not later than the relevant date the landlord gave notice in writing to the tenant that possession might be recovered under this Case (nothwithstanding, in the case of a notice given under this paragraph before 1st December 1980, that the notice may not have referred to any of sub-paragraphs (iii) to (v) of paragraph (c)); and
+
+(b) the dwelling-house has not since 14th August 1974 been let by the owner on a protected tenancy with respect to which the condition mentioned in paragraph (a) above was not satisfied; and
+
+(c) the [[^F270]First-tier Tribunal] is satisfied—
+
+(i) that the owner has retired from regular employment and requires the dwelling-house as a residence; or
+
+(ii) that the owner has died and the dwelling-house is required as a residence for a member of his family who was residing with him at the time of his death or for a person inheriting the dwelling-house under the will of the owner or on his intestacy; or
+
+(iii) that the owner has died and his personal representatives wish to dispose of the dwelling-house with vacant possession; or
+
+(iv) that the dwelling-house is subject to a heritable security, granted before the creation of the tenancy, and as the result of a default by the debtor the creditor is entitled to sell the dwelling-house and requires it for the purpose of disposing of it with vacant possession in exercise of that entitlement; or
+
+(v) that the dwelling-house is no longer reasonably suitable to the needs of the owner on his retirement, and he requires it for the purpose of disposing of it with vacant possession and of using the proceeds of that disposal in acquiring for his retirement a dwelling-house which is more suitable to those needs:
+
+Provided that if the [[^F270]First-tier Tribunal] is of the opinion that, notwithstanding that the condition in paragraph (a) or paragraph (b) above is not complied with, it is just and equitable to make an order for possession of the dwelling-house, the [[^F270]First-tier Tribunal] may dispense with the requirements of either or both of those paragraphs, as the case may require.
+
+#### Case 13
+
+Where the dwelling-house is let under a tenancy for a specified period not exceeding eight months and—
+
+(a) not later than the relevant date the landlord gave notice in writing to the tenant that possession might be recovered under this Case; and
+
+(b) the dwelling-house was, at some time within the period of 12 months ending on the relevant date, occupied under a right to occupy it for a holiday;
+
+and for the purposes of this Case a tenancy shall be treated as being for a specified period—
+
+(i) of less than eight months, if it is determinable at the option of the landlord (other than in the event of an irritancy being incurred) before the expiration of eight months from the commencement of the period of the tenancy, and
+
+(ii) of eight months or more, if it confers on the tenant an option for renewal of the tenancy for a period which, together with the original period, amounts to eight months or more, and it is not determinable as mentioned in paragraph (i) above.
+
+#### Case 14
+
+Where the dwelling-house is let under a tenancy for a specified period not exceeding 12 months and—
+
+(a) not later than the relevant date the landlord gave notice in writing to the tenant that possession might be recovered under this Case; and
+
+(b) at some time within the period of 12 months ending on the relevant date the dwelling-house was subject to such a tenancy as is referred to in section 2(1)(c) above;
+
+and for the purposes of this Case a tenancy shall be treated as being for a specified period—
+
+(i) of less than 12 months, if it is determinable at the option of the landlord (other than in the event of an irritancy being incurred) before the expiration of 12 months from the commencement of the period of the tenancy, and
+
+(ii) of 12 months or more, if it confers on the tenant an option for renewal of the tenancy for a period which, together with the original period, amounts to 12 months or more, and it is not determinable as mentioned in paragraph (i) above.
+
+#### Case 15
+
+Where—
+
+(a) the dwelling-house was let on a short tenancy within the meaning of section 9 above; or
+
+(b) in the opinion of the [[^F270]First-tier Tribunal] it is just and equitable that the tenancy should be treated as a short tenancy within the meaning of the said section 9, notwithstanding that a requirement of subsection (1)(d) or (e) of that section has not been complied with,
+
+and the short tenancy has terminated:
+
+Provided that, where a further tenancy has been created by agreement between the landlord and the tenant no application for an order for possession under this Case shall be made before the end of the period of that tenancy.
+
+#### Case 16
+
+Where the dwelling-house is held for the purpose of being available for occupation by a minister or a full-time lay missionary of any religious denomination as a residence from which to perform the duties of his office and the dwelling-house has been let on a regulated tenancy, and—
+
+(a) not later than the relevant date, the tenant was given notice in writing that possession might be recovered under this Case, and
+
+(b) the [[^F270]First-tier Tribunal] is satisfied that the dwelling-house is required for occupation by such a minister or missionary as such a residence.
+
+#### Case 17
+
+Where the dwelling-house was at any time occupied by a person under the terms of his employment as a person employed in agriculture and the dwelling-house has been let on a regulated tenancy, and—
+
+(a) the tenant neither is nor at any time was so employed by the landlord and is not the widow of a person who was so employed, and
+
+(b) not later than the relevant date, the tenant was given notice in writing that possession might be recovered under this Case, and
+
+(c) The [[^F270]First-tier Tribunal] is satisfied that the dwelling-house is required for occupation by a person employed or to be employed by the landlord in agriculture;
+
+and for the purposes of this Case “employed”, “employment” and “agriculture” have the same meanings as in the [^M43]Agricultural Wages (Scotland) Act 1949.
+
+#### Case 18
+
+Where proposals for amalgamation, approved for the purposes of a scheme under section 26 of the [^M44]Agriculture Act 1967, have been carried out and, at the time when the proposals were submitted, the dwelling-house was occupied by a person responsible (whether as owner, tenant, or servant, or agent of another) for the control of the farming of any part of the land comprised in the amalgamation, and
+
+(a) after the carrying out of the proposals, the dwelling-house was let on a regulated tenancy otherwise than to, or to the widow of, either a person ceasing to be so responsible as part of the amalgamation or a person who is, or at any time was, employed by the landlord in agriculture, and
+
+(b) not later than the relevant date, the tenant was given notice in writing that possession might be recovered under this Case, and
+
+(c) the [[^F270]First-tier Tribunal] is satisfied that the dwelling-house is required for occupation by a person employed or to be employed by the landlord in agriculture, and
+
+(d) the proceedings for possession are commenced by the landlord at any time during the period of five years beginning with the date on which the proposals for the amalgamation were approved or, if occupation of the dwelling-house after the amalgamation continued in, or was first taken by, a person ceasing to be responsible as mentioned in paragraph (a) above or his widow, during a period expiring three years after the date on which the dwelling-house next became unoccupied;
+
+and for purposes of this Case “employed” and “agriculture” have the same meanings as in the [^M45]Agricultural Wages (Scotland) Act 1949 and “amalgamation” has the same meaning as in Part II of the Agriculture Act 1967.
+
+#### Case 19
+
+Where a dwelling-house has been let on a regulated tenancy and—
+
+(a) the last occupier of the dwelling-house before the relevant date was a person, or the widow of a person, who was at some time during the occupation responsible (whether as owner, tenant, or servant or agent of another) for the control of the farming of land which formed, together with the dwelling-house, an agricultural unit within the meaning of the [^M46]Agriculture (Scotland) Act 1948, and
+
+(b) the tenant is neither—
+
+(i) a person, or the widow of a person, who is or has at any time been responsible for the control of the farming of any part of the said land, nor
+
+(ii) a person, or the widow of a person, who is or at any time was employed by the landlord in agriculture, and
+
+(c) the creation of the tenancy was not preceded by the carrying out in connection with any of the said land of an amalgamation approved for the purposes of a scheme under section 26 of the [^M47]Agriculture Act 1967, and
+
+(d) not later than the relevant date, the tenant was given notice in writing that possession might be recovered under this Case, and
+
+(e) the [[^F270]First-tier Tribunal] is satisfied that the dwelling-house is required for occupation either by a person responsible or to be responsible (whether as owner, tenant, or servant or agent of another) for the control of the farming of any part of the said land or by a person employed or to be employed by the landlord in agriculture;
+
+and for the purposes of this Case “employed” and “agriculture” have the same meanings as in the [^M48]Agricultural Wages (Scotland) Act 1949 and “amalgamation” has the same meaning as in Part II of the Agriculture Act 1967.
+
+#### Case 20
+
+Where a dwelling-house has been designed or adapted for occupation by a person whose special needs require accommodation of the kind provided by the dwelling-house and—
+
+(a) there is no longer a person with such special needs occupying the dwelling-house; and
+
+(b) the [[^F270]First-tier Tribunal] is satisfied that the landlord requires it for occupation (whether alone or with other members of his family) by a person who has such special needs.
+
+#### Case 21
+
+Where the dwelling-house is let by a person (in this Case referred to as “the owner”) at any time after 30th November 1980 and—
+
+(a) at the time when the owner acquired the dwelling-house he was a member of the regular armed forces of the Crown;
+
+(b) at the relevant date the owner was a member of the regular armed forces of the Crown;
+
+(c) not later than the relevant date the owner gave notice in writing to the tenant that possession might be recovered under this Case;
+
+(d) the dwelling-house has not, since 1st December 1980, been let by the owner on a protected tenancy with respect to which the condition mentioned in paragraph (c) above was not satisfied; and
+
+(e) the [[^F270]First-tier Tribunal] is of the opinion that—
+
+(i) the dwelling-house is required as a residence for the owner; or
+
+(ii) of the conditions set out in paragraph (c) of Case 11 of this Schedule one of those in subparagraphs (ii) to (vi) would be satisfied if the owner of the dwelling-house concerned was the owner occupier:
+
+Provided that if the [[^F270]First-tier Tribunal] is of the opinion that, notwithstanding that the condition in paragraph (c) or (d) above is not complied with, it is just and equitable to make an order for possession of the dwelling-house, the court may dispense with the requirements of either or both of these paragraphs, as the case may require.
+
+In this Case “regular armed forces of the Crown” has the same meaning as in section 1 of the [^M49]House of Commons Disqualification Act 1975.
+
+### Part III — Provisions Applicable to Case 8 and Part II above
+
+**1** [[^F274]the First-tier Tribunal] shall not make an order for possession of a dwelling-house by reason only that the circumstances of the case fall within Case 8 in Part I of this Schedule if [[^F275]the Tribunal] is satisfied that, having regard to all the circumstances of the case, including the question whether other accommodation is available for the landlord or the tenant, greater hardship would be caused by granting the order than by refusing to grant it.
+
+**2** Any reference in Part II of this Schedule to the relevant date shall be construed as follows:—
+
+(a) except in the case of a regulated furnished tenancy, if the protected tenancy, or in the case of a statutory tenancy the previous contractual tenancy, was created before 8th December 1965, the relevant date means 7th June 1966;
+
+(b) in the case of a regulated furnished tenancy, if the tenancy or, in the case of a statutory furnished tenancy, the previous contractual tenancy was created before 14th August 1974, the relevant date means 14th February 1975;
+
+(c) in the case of a tenancy which became a regulated tenancy by virtue of section 4(3) above, the relevant date means 8th February 1981; and
+
+(d) in any other case, the relevant date means the date of the commencement of the regulated tenancy in question.
+
+### Part IV — Suitable Alternative Accommodation
+
+**1** For the purposes of section 11(1)(a) above, a certificate of the housing authority for the district in which the dwelling-house in question is situated, certifying that the authority will provide suitable alternative accommodation for the tenant by a date specified in the certificate, shall be conclusive evidence that suitable alternative accommodation will be available for him by that date.
+
+**2** Where no certificate as is mentioned in paragraph 1 above is produced to the [[^F276]First-tier Tribunal], accommodation shall be deemed to be suitable for the purposes of section 11(1)(a) above if it consists of either—
+
+(a) premises which are to be let as a separate dwelling such that they will then be let on a protected tenancy, or
+
+(b) premises to be let as a separate dwelling on terms which will, in the opinion of the [[^F276]Tribunal], afford to the tenant security of tenure reasonably equivalent to the security afforded by Part II of this Act in the case of a protected tenancy,
+
+and in the opinion of the [[^F276]Tribunal], the accommodation fulfils the relevant conditions as defined in paragraph 3 below.
+
+**3** (1) For the purposes of paragraph 2 above, the relevant conditions are that the accommodation is reasonably suitable to the needs of the tenant and his family as regards proximity to place of work, and either—
+
+(a) similar as regards rental and extent to the accommodation afforded by dwelling-houses provided in the neighbourhood by any housing authority for persons whose needs as regards extent are, in the opinion of the [[^F277]First-tier Tribunal], similar to those of the tenant and his family; or
+
+(b) reasonably suitable to the means of the tenant and to the needs of the tenant and his family as regards extent and character;
+
+and that if any furniture was provided for use under the protected or statutory tenancy in question, furniture is provided for use in the accommodation which is either similar to that so provided or is reasonably suitable to the needs of the tenant and his family.
+
+(2) For the purposes of sub-paragraph (1)(a) above, a certificate of a housing authority stating—
+
+(a) the extent of the accommodation afforded by dwelling-houses provided by the authority to meet the needs of tenants with families of such number as may be specified in the certificate, and
+
+(b) the amount of the rent charged by the authority for dwelling-houses affording accommodation of that extent,
+
+shall be conclusive evidence of the facts so stated.
+
+**4** Accommodation shall not be deemed to be suitable to the needs of the tenant and his family if the result of their occupation of the accommodation would be that it would be an overcrowded dwelling-house for the purposes of section [[^F278]135] of the [^M50]Housing (Scotland) Act [[^F278]1987].
+
+**5** Any document purporting to be a certificate of a housing authority named therein issued for the purposes of this Schedule and to be signed by the clerk to that authority shall be received in evidence and, unless the contrary is shown, shall be deemed to be such a certificate without further proof.
+
+**6** In this Schedule “housing authority” means a local authority for the purposes of Part [[^F279]I] of the Housing (Scotland) Act [[^F279]1987], and “district”, in relation to such an authority, means the district for supplying the needs of which the authority has power under that Part of that Act.
+
+## SCHEDULE 3 — . . . [^F280]
+
+## [^F281]SCHEDULE 4 — private rented housing Committees
+
+**[^F281]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F281]1A** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F281]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F281]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F281]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F281]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F281]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F281]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F281]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F281]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F281]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F281]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F281]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 5 — Applicatons for Registration of Rents
+
+### Part I — Applications Unsupported by Certificate of Fair Rent
+
+#### Precedure on applications to rent officer
+
+**1** On receiving any application for the registration of a rent, the rent officer may, by notice in writing served on the landlord or the tenant (whether or not the applicant or one of the applicants), require him to give to the rent officer, within such period of not less than 14 days from the service of the notice as may be specified in the notice, such information as he may reasonably require regarding such of the particulars contained in the application as may be specified in the notice.
+
+**2** Where the application is made by the landlord alone the rent officer shall serve on the tenant, and where it is made by the tenant alone he shall serve on the landlord, a notice informing him of the application and specifying a period of not less than 14 days from the service of the notice during which representations in writing may be made to the rent officer against the registration of the rent specified in the application.
+
+**3** (1) Where—
+
+(a) the application is made jointly by the landlord and the tenant, or
+
+(b) no representations are made as mentioned in paragraph 2 above,
+
+and it appears to the rent officer, after making such inquiry, if any, as he thinks fit and considering any information supplied to him in pursuance of paragraph 1 above, that the rent specified in the application is a fair rent, he may register that rent without further proceedings.
+
+(2) Where the rent officer registers a rent under this paragraph he shall notify the landlord and tenant accordingly.
+
+**4** Where the rent officer, in carrying out his functions under this Part of this Schedule, inspects a dwelling-house, he shall explain to the tenant or to his spouse, if either is present at the inspection, the procedure upon an applcation for the registration of a rent under this Part of this Schedule.
+
+**5** (1) Where representations are made as mentioned in paragraph 2 above or the rent officer is not satisfied that the rent specified in the application is a fair rent or, as the case may be, that the rent for the time being registered is any longer a fair rent, he shall serve a notice under this paragraph.
+
+(2) A notice under this paragraph shall be served on the landlord and on the tenant informing them that the rent officer proposes, at a time (which shall not be earlier than seven days after the service of the notice) and place specified in the notice to consider in consultation with landlord and the tenant, or such of them as may appear at that time and place, what rent ought to be registered for the dwelling-house or, as the case may be, whether a different rent ought to be so registered.
+
+(3) At any such consultaion the landlord and the tenant may each be represented by a person authorised by him in that behalf, whether or not that person is an advocate or a solicitor.
+
+**6** After considering, in accordance with paragraph 5 above, what rent ought to be registered or, as the case may be, whether a different rent ought to be registered, the rent officer shall, as the case may require,—
+
+(a) determine a fair rent and register it as the rent for the dwelling-house; or
+
+(b) confirm the rent for the time being registered and note the confirmation in the register;
+
+and shall notify the landlord and the tenant accordingly by a notice stating that if, within 28 days of the service of the notice or such longer period as he or [[^F282]the First-tier Tribunal] may allow, an objection in writing is received by the rent officer from the landlord or the tenant the matter will be referred to [[^F282]the First-tier Tribunal].
+
+**7** (1) If such an objection as is mentioned in paragraph 6 above is received, then—
+
+(a) if it is received within the period of 28 days specified in that paragraph or [[^F283]the First-tier Tribunal] so [[^F284]directs] the rent officer shall refer the matter to [[^F283]the First-tier Tribunal];
+
+(b) if it is received after the expiry of that period the rent officer may either refer the matter to [[^F283]the First-tier Tribunal] or seek the directions of [[^F283]the First-tier Tribunal] whether so to refer it.
+
+(2) The rent officer shall indicate in the register whether the matter has been referred to [[^F285]the First-tier Tribunal] in pursuance of this paragraph.
+
+#### [[^F286]Determination of fair rent by the First-tier Tribunal]
+
+**8** (1) The [[^F287]First-tier Tribunal] to whom a matter is referred under paragraph 7 above—
+
+(a) may by notice in the prescribed form served on the landlord or the tenant require him to give to the [[^F288]First-tier Tribunal], within such period of not less than 14 days from the service of the notice as may be specified in the notice, such further information, in addition to any given to the rent officer in pursuance of paragraph 1 above, as [[^F289]it] may reasonably require; and
+
+(b) shall serve on the landlord and on the tenant a notice specifying a period of not less than 14 days from the service of the notice during which either representations in writing or a request to make oral representations may be made by him to the [[^F288]First-tier Tribunal].
+
+(2) If any person fails without reasonable cause to comply with any notice served on him under sub-paragraph (1)(a) above, he shall be liable to a fine not exceeding level 3 on the standard scale.
+
+(3) Where an offence under sub-paragraph (2) above committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager or secretary or other similar officer of the body corportate or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+**9** Where, within the period specified in paragraph 8(1)(b) above, or such further period as the [[^F290]First-tier Tribunal] may allow, the landlord or the tenant requests to make oral representations the [[^F290]First-tier Tribunal] shall give him an opportunity to be heard either in person or by a person authorised by him in that behalf, whether or not that person is an advocate or a solicitor.
+
+**10** (1) The [[^F291]First-tier Tribunal] shall make such inquiry, if any, as [[^F292]it thinks] fit and consider any information supplied or representation made to [[^F293]it] in pursuance of paragraph 8 or 9 above and—
+
+(a) if it appears to [[^F293]it] that the rent registered or confirmed by the rent officer is a fair rent, [[^F293]it] shall confirm that rent;
+
+(b) if it does not appear to [[^F293]it] that that rent is a fair rent, [[^F294]it] shall determine a fair rent for the dwelling-house.
+
+(2) Where the [[^F295]First-tier Tribunal] confirm or determine a rent under this paragraph [[^F296]it] shall notify the landlord, the tenant and the rent officer of [[^F294]its] decision and, in the case of the determination of a rent, of the date on which [[^F294]its] decision was made.
+
+(3) On receiving the notification, the rent officer shall, as the case may require, either indicate in the register that the rent has been confirmed or register the rent determined by the [[^F297]First-tier Tribunal] as the rent for the dwelling-house.
+
+### Part II — Applications Supported by Certificate of Fair Rent
+
+#### Procedure on applications to rent officer
+
+**11** (1) On receiving an application for the registration of a rent which is made as mentioned in section 47(4) above, the rent officer shall ascertain whether the works specified in the certificate of fair rent have been carried out in accordance with the plans and specifications which accompanied the application for the certificate or, as the case may be, whether—
+
+(a) the condition of the dwelling-house is the same as at the date of the certificate, and
+
+(b) if any furniture is or is to be provided for use under a regulated tenancy of the dwelling-house, the quantity, quality and condition of the furniture in the dwelling-house accord with the prescribed particulars contained in the application for the certificate.
+
+(2) If the rent officer is satisfied that the works have been so carried out or, as the case may be, that—
+
+(a) the dwelling-house is in the same condition as at the date of the certificate, and
+
+(b) if any furniture is or is to be provided for use under a regulated tenancy of the dwelling-house, the quantity, quality and condition of the furniture in the dwelling-house accord with the prescribed particulars contained in the application for the certificate,
+
+he shall register the rent in accordance with the certificate.
+
+(3) If the rent officer is not satisfied as mentioned in sub-paragraph (2) above, he shall serve on the applicant a notice stating the matters with respect to which he is not so satisfied and informing him that if, within 14 days from the service of the notice or such longer period as the rent officer or [[^F298]the First-tier Tribunal] may allow, the applicant makes a request in writing to that effect, the rent officer will refer the matter to [[^F298]the First-tier Tribunal].
+
+**12** If such a request as is mentioned in paragraph 11(3) above is made, then—
+
+(a) if it is made within the period of 14 days specified in that paragraph or [[^F299]the First-tier Tribunal] so [[^F300]directs], the rent officer shall refer the matter to [[^F299]the First-tier Tribunal];
+
+(b) if it is made after the expiry of that period, the rent officer may either refer the matter to [[^F299]the First-tier Tribunal] or seek the directions of [[^F299]the First-tier Tribunal] whether so to refer it
+
+#### Procedure on references to [[^F301]private rented housing] committee
+
+**13** (1) [[^F302]Where a matter is referred under paragraph 12 to the First-tier Tribunal] shall give the applicant an opportunity to make representations in writing or to be heard either in person or by a person authorised by him in that behalf, whether or not that person is an advocate or a solicitor.
+
+(2) After considering any representations made, under sub-paragraph (1) above, the [[^F303]First-tier Tribunal] shall notify the rent officer and the applicant whether [[^F304]it is] satisfied as mentioned in paragraph (2) above and—
+
+(a) if [[^F304]it is] so satisfied [[^F305]it shall] direct the rent officer to register the rent in accordance with the certificate;
+
+(b) if [[^F304]it is] not so satisfied [[^F305]it shall] direct the rent officer to refuse the application for registration.
+
+#### Provisional registration
+
+**14** Where a rent is registered in pursuance of such an application as is mentioned in paragraph 11(1) above by a person who intends to grant a regulated tenancy, the registration shall be provisional only until the regulated tenancy is granted and shall be of no effect unless the rent officer is notified in the prescribed manner, within one month from the date of the registration or such longer time as the rent officer may allow, that the regulated tenancy has been granted.
+
+**15** Where a registration is made as mentioned in paragraph 14 above, the rent officer shall indicate in the register that it is so made and—
+
+(a) if he is notified as mentioned in that paragraph that the regulated tenancy has been granted he shall indicate that fact in the register;
+
+(b) if he is not so notified he shall delete the registration.
+
+### Part III — Supplemental
+
+**16** There shall be included, among the matters with respect to which representations may be made or consultations are to be held or notices to be given under Parts I and II of this Schedule, any amount to be noted in the register in pursuance of section 49(2) above and any amount to be recorded in the register in pursuance of an order made under section 33 above.
+
+## SCHEDULE 6 — Certificates of Fair Rent
+
+**1** An application for a certificate of fair rent—
+
+(a) must be in the prescribed form;
+
+(b) must state the rent to be specified in the certificate;
+
+(c) in the case mentioned in paragraph (a) of section 47(1) above, must be accompanied by plans and specifications of the works to be carried out and, if the works to be carried out are works of improvement, must state whether the dwelling-house is for the time being subject to a regulated tenancy; and
+
+(d) if any furniture is to be provided for use under a regulated tenancy of the dwelling-house, must contain the prescribed particulars with regard to any such furniture.
+
+**2** (1) If it appears to the rent officer that the information supplied to him is insufficient to enable him to issue a certificate of fair rent he shall serve on the applicant a notice stating that he will not entertain the application and that, if a request in writing to that effect is made by the applicant within 14 days from the service of the notice or such longer period as a rent officer or [[^F306]the First-tier Tribunal] may allow, the rent officer will refer the application to [[^F306]the First-tier Tribunal].
+
+(2) If such a request is made, then—
+
+(a) if it is made within the period of 14 days referred to in sub-paragraph (1) above or [[^F307]the First-tier Tribunal so directs], the rent officer shall refer the application to [[^F308]the First-tier Tribunal];
+
+(b) if it is made after the expiry of that period, the rent officer may either refer the application to [[^F308]the First-tier Tribunal] or seek the directions of [[^F308]the First-tier Tribunal] whether so to refer it.
+
+**3** If it appears to the rent officer that the information supplied to him is sufficient and that the rent stated in the application would be a fair rent he may, unless the dwelling-house is subject to a regulated tenancy, issue a certificate specifying that rent and the other terms referred to in section 47(2) above.
+
+**4** (1) If it appears to the rent officer that the information is sufficient but either—
+
+(a) he is not satisfied that the rent stated in the application would be a fair rent, or
+
+(b) the dwelling-house is subject to a regulated tenancy,
+
+he shall serve on the applicant a notice stating that he proposes, at a time (which shall not be earlier than seven days after the service of the notice) and place specified in the notice, to consider in consultation with the applicant, if present at that time and place, what rent ought to be specified in the certificate.
+
+(2) At any such consultation the applicant may be represented by a person authorised by him in that behalf, whether or not that person is an advocate or a solicitor.
+
+**5** After considering in accordance with paragraph 4 above what rent ought to be specified in the certificate, the rent officer shall determine a fair rent and shall serve on the applicant a notice stating that he proposes to issue a certificate specifying that rent, unless within 14 days from the service of the notice, or such longer period as the rent officer or [[^F309]the First-tier Tribunal] may allow, the applicant requests in writing that the application should be referred to [[^F309]the First-tier Tribunal].
+
+**6** (1) If such a request as is referred to in paragraph 5 above is made, then—
+
+(a) if it is made within the period of 14 days referred to in that paragraph or [[^F310]the First-tier Tribunal so directs], the rent officer shall refer the application to [[^F311]the First-tier Tribunal];
+
+(b) if it is made after the expiry of that period, the rent officer may either refer the application to [[^F311]the First-tier Tribunal] or seek the directions of [[^F311]the First-tier Tribunal] whether so to refer it.
+
+(2) If no such request is made or if such a request is made but the application is not referred to [[^F312]the First-tier Tribunal], the rent officer shall issue the certificate.
+
+**7** (1) Where an application is referred to [[^F313]the First-tier Tribunal], then if the reference is under paragraph 2 above and it appears to the [[^F314]First-tier Tribunal] that the information supplied by the applicant to the rent officer is insufficient to enable a certificate of fair rent to be issued [[^F315]it] shall notify the applicant accordingly.
+
+(2) In any other case where an application is referred to [[^F316]the First-tier Tribunal, it] shall serve on the applicant a notice specifying a period of not less than 14 days from the service of the notice during which either representations in writing or a request to make oral representations may be made by him to the [[^F317]First-tier Tribunal].
+
+(3) Where, within the period specified under sub-paragraph (2) above or such further period as the [[^F318]First-tier Tribunal] may allow, the applicant requests to make oral representations, the [[^F318]First-tier Tribunal] shall give him an opportunity to be heard either in person or by a person authorised by him in that behalf, whether or not that person is an advocate or a solicitor.
+
+**8** (1) After considering any representation made to them in pursuance of paragraph 7 above, the [[^F319]First-tier Tribunal] shall determine a fair rent for the dwelling-house and shall notify the applicant and the rent officer accordingly.
+
+(2) On receiving the notification the rent officer shall issue to the applicant a certificate of fair rent specifying the rent determined by the [[^F319]First-tier Tribunal].
+
+**9** Where an application under this Schedule is made with respect to a dwelling-house which it is intended to improve and the dwelling-house is subject to a regulated tenancy—
+
+(a) a notice under paragraph 4, 5, 7(2) or 8 above shall be served on the tenant as well as on the applicant and any notice served under paragraph 4, 5 or 7(2) above shall refer to consultation with, or, as the case may be, a request or representations by, the tenant as well as the applicant;
+
+(b) the tenant may make representations, request reference to a rent assessment committee and be present or represented in like ma nner as the applicant, and references in this Schedule to the applicant shall be construed accordingly; and
+
+(c) a copy of any certificate of fair rent issued in pursuance of the application shall be sent to the tenant.
+
+**10** Where the rent specified in a certificate of fair rent includes any amount which, if the rent specified in the certificate had been registered, would require to be noted on the register in pursuance of section 49(2) above, that amount shall be noted on the certificate; and there shall be included among the matters with respect to which representations may be made or consultations are to be held or notices to be given under this Schedule, any amount to be noted on the certificate in pursuance of this paragraph.
+
+## SCHEDULE 7 — Premium allowed on assignation of Tenancy where Premium lawfully paid on Grant
+
+**1** (1) The provisions of this Schedule apply where—
+
+(a) a premium was lawfully required and paid, or lawfully received, in respect of the grant, continuance or renewal of a protected tenancy of a dwelling-house which is a regulated tenancy; and
+
+(b) since that grant, continuance or renewal, the landlord has not granted a tenancy of the dwelling-house under which, as against the landlord, a person became entitled to possession, other than the person who was so entitled to possession of the dwelling-house immediately before that tenancy began; and
+
+(c) a rent for the dwelling-house is registered under Part V of this Act and the rent so registered is higher than the rent payable under the tenancy.
+
+(2) Any reference in this Schedule to a premium does not include a premium which consisted only of any such outgoings, sum or amount as fall within section 83(3) above and, in the case of a premium which included any such outgoings, sum or amount, so much only of the premium as does not consist of those outgoings, sum or amount shall be treated as the premium for the purposes of this Schedule.
+
+**2** In a case where this Schedule applies, nothing in section 83 above shall prevent any person from requiring or receiving on an assignation of the protected tenancy referred to in paragraph 1(1)(a) above or any subsequent protected tenancy of the same dwelling-house, a premium which does not exceed an amount calculated (subject to paragraph 4 below) in accordance with the formula in paragraph 3 below.
+
+**3** The formula mentioned in paragraph 2 above is
+
+(P × A)/(G) where P is the premium referred to in paragraph 1(1)(a) above; A is the length of the period beginning on the date on which the assignation in question takes effect and ending on the relevant date; and G is the length of the period beginning on the date of the grant, continuance or renewal in respect of which the premium was paid and ending on the relevant date.
+
+**4** (1) If, although the registered rent is higher than the rent payable under the tenancy, the lump sum equivalent of the difference is less than the premium, paragraph 3 above shall have effect as if P were the lump sum equivalent.
+
+(2) For the purpoes of this Schedule, the lump sum equivalent of the difference between the two rents referred to in sub-paragraph (1) above shall be taken to be that difference multiplied by the number of complete rental periods falling within the period beginning with the grant, continuance or renewal in respect of which the premium was paid and ending on the relevant date.
+
+**5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F320]
+
+**6** (1) Any reference in this Schedule to the relevant date shall be construed in accordance with this paragraph.
+
+(2) Where at the date when the assignation takes effect the tenancy referred to in paragraph 1(1)(a) above was grated, continued or renewed for a specified period exceeding seven years and that peiod has not terminated, the relevant date is the termination of that period.
+
+(3) In any other case the relevant date is the date of the expiration of seven years from the commencement of the tenancy, or, as the case may be, from the continuance or renewal of the tenancy, in respect of which the premium was paid.
+
+(4) The provisions of this paragraph shall apply to a tenancy for a specified period exceeding seven years notwithstanding that it is liable to be terminated by re-entry or on the happening of any event other than the giving of notice by the landlord to terminate the tenancy; and where a tenancy may be terminated by the giving of such notice by the landlord it shall be deemed to be a tenancy for a specified period expiring on the earliest date on which such a notice given after the date of the assignation would be capable of taking effect.
+
+## SCHEDULE 8 — Enactments Amended
+
+### Part I
+
+#### General provisions
+
+**1** Any reference in any enactment (other than this Act) to any provision in any enactment repealed by this Act shall, unless the context otherwise requires, be construed as a reference to the corresponding provision in this Act, and the following amendments of other enactments shall have effect without prejudice to the generality of this provision.
+
+**2** Any reference, however expressed, in any enactment (other than this Act) to the Rent Acts or the Rent Restrictions Acts or the Rent (Scotland) Act 1971 shall, unless the context otherwise requires, be construed as a reference to the corresponding provisions of this Act.
+
+### Part II
+
+#### Specific amendments
+
+#### The Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951 (c. 65)
+
+In section 15, for “1971”, “85(1)” and “93” substitute respectively “1984”, “63(1)” and “72” and in subsection (1A), for from “after” to “1980” substitute “on or after 1st December 1980”.
+
+In section 16(3) and (4), for “1971” and “22 or 23” substitute respectively “1984” and “30 or 31”.
+
+In section 17, for “119” and “1971” substitute respectively “97” and “1984”.
+
+In section 20, for “1971” “Schedule 3” and “section 10(1)” substitute respectively “1984”, “Schedule 2” and “section 11(1)”.
+
+In section 22(3A), for “1971” substitute “1984”.
+
+In section 23, for “1971” and “133(1)” substitute respectively “1984” and “115(1)”.
+
+#### The Housing (Scotland) Act 1966 (c. 49)
+
+In section 123(3), for “tribunal”, “84” and “1971” substitute respectively “rent assessment committee”, “44” and “1984”.
+
+#### The New Towns (Scotland) Act 1968 (c. 16)
+
+In section 22(4), for “1971” and “131” substitute respectively “1984” and “112”.
+
+#### The Housing (Scotland) Act 1969 (c. 34)
+
+In section 62(1), after “terminated” insert “and subject to section 58 of the Rent (Scotland) Act 1984.”
+
+#### The Fire Precautions Act 1971 (c. 40)
+
+In section 28(5), in paragraph (b), for “12” and “1971” substitute “15” and “1984” and, in paragraph (c), for “133(1)” and “1971” substitute “115(1)” and “1984”.
+
+In section 34, for from “sections 60” to the end substitute “the Rent (Scotland) Act 1984”.
+
+In Part III of the Schedule, for “Act of 1971”, “III of the Act of 1971”, “IV”, “19”, “19(2)”, “21”, “21(2)”, “41”, “43(3)(a)”, “section 43(3) of this Act” and “Schedule 7” wherever they occur substitute respectively “Act of 1984”, “IV of the Act of 1984”, “V”, “28”, “28(2)”, “29”, “29(2)”, “47”, “49(5)(a)”, “49(5) below” and “Schedule 6”.
+
+In Part IV of the Schedule, (a) for “Act of 1972”, the “Housing (Financial Provisions) (Scotland) Act 1972” and “sections 60 to 66” wherever they occur substitute respectively “Act of 1984”, “the Rent (Scotland) Act 1984” and “sections 55 to 59”; (b) for “61”, “62(2)”, “62(3)”, “63(2)” and “sections 63 to 64” wherever they occur substitute respectively “56”, “57(2)”, “57(3)”, “58(2)” and “section 58”; and (c) at end insert following paragraphs—
+
+> **5** There shall be inserted the words “and Part IV of the Schedule to the Fire Precautions Act 1971” in section 57 of the Act of 1984—
+>
+> (a) in subsection (2), after the words “58 below”; and
+>
+> (b) in subsection (3), after the words “(5) below”.
+>
+> **6** There shall be inserted the words “and paragraph 3 of Part IV of the Schedule to the Fire Precautions Act 1971” in section 58(2) of the Act of 1984 after the words “57(5) above”.
+
+#### The Housing (Scotland) Act 1974 (c. 45)
+
+In section 40, for “123(1)”, “1971” and “(3)” substitute respectively “103(1)”, “1984” and “(2)”.
+
+In section 41, for “1971” substitute “1984”.
+
+#### The Tenant’s Rights, Etc. (Scotland) Act 1980 (c. 52)
+
+In section 17(2), after “terminated”, insert “and subject to section 58 of the Rent (Scotland) Act 1984.”
+
+In section 46, in subsection (1), for “1971 Act”, where these words second occur, substitute “Rent (Scotland) Act 1984” and, in subsection (2), for “section 9 of the 1971 Act shall not” substitute “neither section 9 of the 1971 Act nor section 10 of the Rent (Scotland) Act 1984 shall”.
+
+#### The Local Government, Planning and Land Act 1980 (c. 65)
+
+In Schedule 28, in paragraph 10, after “1975” insert “or the Rent (Scotland) Act 1984”.
+
+## SCHEDULE 9 — Savings and Transitional Provisions
+
+*Section 117(2).*
+
+**1** In so far as any regulation, order, scheme, agreement, dissent, election, reference, representation, appointment or apportionment made, notice served, certificate issued, statement supplied, undertaking or direction given, rent registered or other thing done, under or by virtue of an enactment repealed by this Act could have been made served, issued, supplied, given, registered or done under or by virtue of the corresponding provision of this Act, it shall have effect as if made, served, issued, supplied, given, registered or done under or by virtue of that corresponding provision.
+
+**2** Any document made, served or issued before the passing of this Act or at any time thereafter (whether before or after the commencement of this Act) and containing a reference to an enactment repealed by this Act shall, except is so far as a contrary intention appears, be construed as referring, or, as the context requires, as including a reference, to the corresponding provision of this Act.
+
+**3** Where a period of time specified in an enactment repealed by this Act is current at the commencement of this Act, this Act shall have effect as if the corresponding provision thereof had been in force when that period began to run.
+
+**4** Nothing in this Act shall prevent an offence against an enactment repealed by this Act from being prosecuted under the corresponding provision of this Act but, on conviction of such an offence, the fine or other penalty imposed shall be that laid down in such enactment as if it had not been repealed.
+
+**5** A conviction of an offence under an enactment repealed by this Act shall be treated for the purposes of this Act as a conviction of an offence under the corresponding provision of this Act.
+
+**6** Nothing in this Act shall affect the continued operation after the commencement of this Act of any saving or transitional provision contained in an enactment repealed by this Act insofar as it was operating immediately before the commencement of this Act.
+
+**[[^F321]7** The amendments to this Act made by Schedule 2 to the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 shall be deemed to have had effect from the commencement of this Act.]
+
+## SCHEDULE 10 — Enactments Repealed
+
+*Section 117(3).*
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1965 c. 75. | Rent Act 1965. | The whole Act. |
+| 1971 c. 28. | Rent (Scotland) Act 1971. | The whole Act, except, in Schedule 18, Part II. |
+| 1971 c. 40. | Fire Precautions Act 1971. | In section 34, the words “Part III of” and the words from “after the Rent” to “effect”. |
+|  |  | In the Schedule, in Part III, paragraphs 1, 3(1)(c), 3(2) and 3(3); and in Part IV, in paragraph 3, the words from “or is the amount” to “64 (4)”. |
+| 1971 c. 58. | Sheriff Courts (Scotland) Act 1971. | In Schedule 1, paragraph 4. |
+| 1972 c. 46. | Housing (Financial Provisions) (Scotland) Act 1972. | Section 36. |
+|  |  | Sections 39 to 43. |
+|  |  | Sections 45 to 50. |
+|  |  | Sections 60 to 63. |
+|  |  | Sections 66 and 67. |
+|  |  | Section 68(2). |
+|  |  | Section 77. |
+|  |  | In section 81(2), the words from “and the Rent” to the end. |
+|  |  | Schedule 7. |
+|  |  | In Schedule 9, paragraphs 22 to 30, 31(2) and (3) and 32. |
+|  |  | In Schedule 10, paragraph 4. |
+| 1972 c. 71. | Criminal Justice Act 1972. | Section 30. |
+| 1974 c. 44. | Housing Act 1974. | In Schedule 13, paragraph 23(5) to (7). |
+| 1974 c. 45. | Housing (Scotland) Act 1974. | In Schedule 3, paragraphs 34 to 40 and 43. |
+| 1974 c. 51. | Rent Act 1974. | The whole Act. |
+| 1975 c. 28. | Housing Rents and Subsidies (Scotland) Act 1975. | Section 17(3). |
+|  |  | In Schedule 3, paragraph 4. |
+| 1978 c. 14. | Housing (Financial Provisions) (Scotland) Act 1978. | Section 14. |
+| 1980 c. 52. | Tenants’ Rights, Etc. (Scotland) Act 1980. | Sections 34 to 36. |
+|  |  | Section 37, except subsections (1) and (5). |
+|  |  | Section 38. |
+|  |  | Section 40. |
+|  |  | Section 41, except subsection (4). |
+|  |  | Sections 42 to 45. |
+|  |  | Section 46(3) and (4). |
+|  |  | Sections 47 and 48. |
+|  |  | Section 49(3). |
+|  |  | Sections 50 to 63. |
+|  |  | Section 64(2). |
+| 1980 c. 61. | Tenants’ Rights, Etc. (Scotland) Amendment Act 1980. | Section 2(b), (c) and (d). |
+| 1980 c. 65. | Local Government, Planning and Land Act 1980. | Section 155(2). |
+| 1982 c. 48. | Criminal Justice Act 1982. | In Schedule 15, paragraph 14. |
+
+|  |  |
+|---|---|
+| 1965 = | The Rent Act 1965 (1965 c. 75). |
+| 1970 = | The Agriculture Act 1970 (1970 c. 40). |
+| 1971 = | The Rent (Scotland) Act 1971 (1971 c. 28) |
+| 1972 = | The Housing (Financial Provisions) (Scotland) Act 1972 (1972 c. 46) |
+| 1972 (c. 71) = | The Criminal Justice Act 1972 (1972 c. 71). |
+| 1973 = | The Local Government (Scotland) Act 1973 (1973 c. 65). |
+| 1974 (c. 44) = | The Housing Act 1974 (1974 c. 44). |
+| 1974 (c. 45) = | The Housing (Scotland) Act 1974 (1974 c. 45). |
+| 1974 = | The Rent Act 1974 (1974 c. 51). |
+| 1975 = | The Criminal Procedure (Scotland) Act 1975 (1975 c. 21). |
+| 1975 (c. 28) = | The Housing Rents and Subsidies (Scotland) Act 1975 (1975 c. 28). |
+| 1978 = | The Housing (Financial Provisions) (Scotland) Act 1978 (1978 c. 14). |
+| 1980 = | The Tenants’ Rights, Etc. (Scotland) Act 1980 (1980 c. 52). |
+| 1980 (c. 61) = | The Tenants’ Rights, Etc. (Scotland) Amendment Act 1980(1980 c. 61). |
+| 1980 (c. 65) = | The Local Government, Planning and Land Act 1980 (1980 c. 65). |
+| 1982 = | The Criminal Justice Act 1982 (1982 c. 48). |
+| S.I. 1980H = | The Increase of Rent Restriction (Housing Association) (Scotland) Order 1980 (S.I. 1980 No. 1668). |
+| S.I. 1980P = | The Protected Tenancies and Part VII Contracts (Rateable Value Limits) (Scotland) Order 1980 (S.I. 1980 No. 1669). |
+| S.I. 1981 = | The Transfer of Functions (Minister for the Civil Service and Treasury) Order 1981 (S.I. 1981 No. 1670). |
+
+|  |  |
+|---|---|
+| Provision | Derivation |
+| 1 | 1971 s. 1; 1972 s. 77(1); 1974 s. 2(3); 1980 s. 43(a); S.I. 1980P. |
+| 2 | 1971 s. 2; 1972 s. 36(4); 1974 ss. 1(4)(a), 2. |
+| 3 | 1971 s. 3. |
+| 4 | 1971 s. 4; 1980 ss. 40(b), 43(a). |
+| 5 | 1971 s. 5; 1973 Sch. 13 para. 1; 1974 (c. 44) s. 18(1), Sch. 13 para. 22; 1975 (c. 28) Sch. 3 para. 4; 1980 (c. 65) s. 155(2). |
+| 6 | 1971 s. 5A; 1974 Sch. 2 para. 2; 1980 ss. 44, 45. |
+| 7 | 1971 s. 6; 1980 s. 40(2). |
+| 8 | 1971 s. 7. |
+| 9 | 1980 s. 34. |
+| 10 | 1971 s. 9. |
+| 11 | 1971 s. 10. |
+| 12 | 1971 s. 11. |
+| 13 | 1980 s. 35. |
+| 14 | 1980 s. 36(1), (2), (4). |
+| 15 | 1971 s. 12. |
+| 16 | 1971 s. 13; 1975 ss. 289F(8), 289G(4). |
+| 17 | 1971 s. 14. |
+| 18 | 1971 s. 15; 1975 ss. 289F(8), 289G(4). |
+| 19 | 1971 s. 17. |
+| 20 | 1974 s. 13. |
+| 21 | 1971 s. 18. |
+| 22 | 1965 s. 30; 1972 (c. 71) s. 30; 1975 s. 289B(1)(6); 1982 s. 55(2). |
+| 23 | 1965 s. 32; 1971 Sch. 18 Pt. II; 1980 s. 42. |
+| 24 | 1965 s. 33; 1970 s. 99. |
+| 25 | 1965 ss. 34, 35; 1971 Sch. 18 Pt. II. |
+| 26 | 1965 s. 36. |
+| 27 | 1965 s. 45. |
+| 28 | 1971 s. 19; 1975 (c. 28) Sch. 2 para. 11; 1980 s. 37(6). |
+| 29 | 1971 s. 21; 1972 s. 36(3), Sch. 9 para. 23; 1975 (c. 28) Sch. 2para. 12; 1980 ss. 37(6), 48(2), 49(3), 61. |
+| 30 | 1971 s. 22. |
+| 31 | 1971 s. 23. |
+| 32 | 1971 s. 25. |
+| 33 | 1980 s. 37(2)–(4). |
+| 34 | 1972 s. 42; 1975 (c. 28) Sch. 2 para. 18; 1980 s. 38(1). |
+| 35 | 1972 s. 43. |
+| 36 | 1972 s. 45; 1975 (c. 28) Sch. 2 para. 19. |
+| 37 | 1971 s. 31(1)–(3); 1975 (c. 28) Sch. 2 para. 13; 1980 s. 37(6). |
+| 38 | 1971 s. 31(4), (5); 1975 (c. 28) Sch. 2 para. 13; 1980 s. 37(6); 1975 ss. 289F(8), 289G(4). |
+| 39 | 1971 s. 32. |
+| 40 | 1971 s. 34. |
+| 41 | 1971 s. 35; 1972 s. 47; 1975 ss. 289F(8), 289G(4). |
+| 42 | 1971 s. 36; 1972 s. 36(1). |
+| 43 | 1971 s. 37; 1973 Sch. 13 para. 2; S.I. 1981. |
+| 44 | 1971 s. 38. |
+| 45 | 1971 s. 39; 1973 Sch. 13 para. 3. |
+| 46 | 1971 s. 40; 1974 s. 4(3), Sch. 1 para. 17; 1980 s. 48(3). |
+| 47 | 1971 s. 41. |
+| 48 | 1971 s. 42; 1972 s. 36(5); 1974 Sch. 1 para. 18; 1980 s. 47. |
+| 49 | 1971 s. 43; 1972 s. 40; 1975 (c. 28) Sch. 2 paras. 14, 15; 1980s. 37(6). |
+| 50 | 1971 s. 44; 1974 s. 4(4); 1980 s. 48(1). |
+| 51 | 1971 s. 44A; 1972 s. 39. |
+| 52 | 1971 s. 44B; 1980 s. 50. |
+| 53 | 1971 s. 46; 1972 Sch. 9 para. 24. |
+| 54 | 1971 s. 47. |
+| 55 | 1972 s. 60; 1980 s. 38(2). |
+| 56 | 1972 s. 61; 1974 (c. 44) Sch. 13 para. 23(5); 1980 s. 38(3). |
+| 57 | 1972 s. 62; 1971 s. 33; 1974 (c. 44) Sch. 13 para. 23(6); 1975 ss. 289F(6), (8), 289G(4). |
+| 58 | 1972 s. 63; 1978 s. 14; S.I. 1980H, Arts. 2, 3; S.I. 1984 No. 501. |
+| 59 | 1972 s. 66; 1974 (c. 44) Sch. 13 para. 23(7); 1980 s. 41(3). |
+| 60 | 1972 s. 67; S.I. 1980H, Art, 3, proviso. |
+| 61 | 1972 ss. 68(2), 78(1). |
+| 62 | 1971 s. 83; 1973 Sch. 13 para. 6. |
+| 63 | 1971 s. 85; 1972 Sch. 9 para. 25; 1980 ss. 10(2), 40(3), 53(1). |
+| 64 | 1971 s. 86; 1972 s. 77(2); 1980 ss. 43, 54; S.I. 1980P. |
+| 65 | 1971 s. 87; 1975 ss. 289F(6), (8), 289G(4). |
+| 66 | 1971 s. 88; 1972 Sch. 9 para. 26; 1974 s. 9(1)(2). |
+| 67 | 1971 s. 89; 1973 Sch. 13 para. 9; 1974 s. 9(3). |
+| 68 | 1971 s. 90(1); 1974 s. 9(4). |
+| 69 | 1971 s. 91; 1974 s. 9(5); 1975 ss. 457A(3)(b), 289B(1), (6); 1982s. 55(1), (2). |
+| 70 | 1971 s. 91A; 1980 s. 51. |
+| 71 | 1971 s. 92. |
+| 72 | 1971 s. 93. |
+| 73 | 1971 s. 94. |
+| 74 | 1971 s. 95; 1974 s. 10(2). |
+| 75 | 1971 s. 95A; 1974 s. 14(3). |
+| 76 | 1971 s. 95B; 1980 s. 55. |
+| 77 | 1971 s. 96. |
+| 78 | 1971 s. 97(3). |
+| 79 | 1971 s. 98; 1975 s. 289H. |
+| 80 | 1971 s. 99. |
+| 81 | 1971 s. 100; 1974 s. 9(6). |
+| 82 | 1971 s. 101; 1975 ss. 289F(8), 289G(4). |
+| 83 | 1971 s. 102; 1975 ss. 289F(8), 289G(4). |
+| 84 | 1971 s. 103. |
+| 85 | 1971 s. 104; 1975 ss. 289F(8), 289G(4). |
+| 86 | 1971 s. 105. |
+| 87 | 1971 s. 106; 1975 ss. 289E(5), 289F(6), (8), 289G(4). |
+| 88 | 1971 s. 107. |
+| 89 | 1971 s. 108; 1975 ss. 289F(8), 289G(4). |
+| 90 | 1971 s. 109; 1980 s. 57. |
+| 91 | 1971 s. 110(1), (3). |
+| 92 | 1971 s. 111. |
+| 93 | 1971 s. 112. |
+| 94 | 1971 s. 116; 1974 sch. 1 para. 19. |
+| 95 | 1971 s. 117. |
+| 96 | 1971 s. 118. |
+| 97 | 1971 s. 119. |
+| 98 | 1971 s. 119A; 1974 Sch. 1 para. 20, Sch. 2 para. 6; 1980 s. 58. |
+| 99 | 1971 s. 120. |
+| 100 | 1971 s. 121; 1975 ss. 289F(8), 289G(4). |
+| 101 | 1971 s. 121A; 1980 s. 60. |
+| 102 | 1971 s. 122; 1974 Sch. 1 para. 21. |
+| 103 | 1971 s. 123(1), (3); 1972 Sch. 9 para. 32. |
+| 104 | 1971 s. 124; 1974 Sch. 1 para. 22. |
+| 105 | 1971 s. 125(1), (3); 1972 Sch. 9 para. 27; 1974 Sch. 1 para. 23;1980 s. 62. |
+| 106 | 1971 ss. 80, 82; 1972 Sch. 7 para. 8; 1974 (c. 45) Sch. 3 para. 39; 1980 s. 59. |
+| 107 | 1971 s. 126; 1982 Sch. 15 para. 14; 1965 s. 44. |
+| 108 | 1971 s. 127; 1975 s. 289H. |
+| 109 | 1971 s. 128. |
+| 110 | 1971 s. 129(1). |
+| 111 | 1971 s. 130. |
+| 112 | 1971 s. 131; 1974 (c. 44) s. 123. |
+| 113 | 1971 s. 132; 1975 s. 289H. |
+| 114 | 1980 s. 83. |
+| 115 | 1971 ss. 2, 133; 1972 ss. 36(1), 78(1); 1973 Sch. 13 para. 11; 1974 ss. 1(1), (2), 15(1); 1980 s. 52(2); 1982 ss. 54, 74, 75. |
+| 116 | 1971 s. 134; 1980 s. 40(5). |
+| 117 | 1971 s. 135(2), (3), (5). |
+| 118 | 1971 s. 136. |
+| Sch. 1 | 1971 Sch. 1; 1972 s. 46; 1980 s. 56(1). |
+| Sch. 2, |  |
+| Part I | 1971 Sch. 3; 1974 Sch. 1 paras. 1, 4(1); 1980 ss. 40(4), 46(4). |
+| Part II | 1971 Sch. 3; 1974 s. 3, Sch. 1 para. 5; 1980 ss. 36, 63; 1980 (c. 61) s. 2. |
+| Part III | 1971 Sch. 3; 1974 Sch. 1 para. 6; 1980 s. 40(4). |
+| Part IV | 1971 Sch. 3; 1974 Sch. 1 para. 7. |
+| Sch, 3 | 1971 Sch. 4. |
+| Sch. 4. | 1971 Sch. 5; 1980 s. 64(1), (2); S.I. 1981. |
+| Sch. 5 |  |
+| Part I | 1971 Sch. 6; 1972 s. 49(1); 1975 ss. 289E(5), 289F(6), (8), 289G(4); 1980 s. 48(4). |
+| Part II | 1971 Sch. 6; 1974 Sch. 1 para. 24. |
+| Part III | 1971 Sch. 6; 1972 Sch. 9 para. 29; 1975 (c. 28) Sch. 2 para. 16; 1980 .S 37(7). |
+| Sch. 6 | 1971 Sch. 7; 1972 Sch. 9 para. 28; 1974 Sch. 1 para. 25. |
+| Sch. 7 | 1971 Sch. 15. |
+| Sch. 8 | [Amendment of enactments]. |
+| Sch. 9 | [Savings and transitory provisions]. |
+| Sch. 10 | [Enactments repealed]. |
+
+---
+
+[^F1]: “3A,” inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 46(1), 52
+[^F2]: S. 3A inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 46(2), 52
+[^F3]: S. 3B inserted (1.12.2017) by Private Housing (Tenancies) (Scotland) Act 2016 (asp 19), s. 79(2), sch. 5 para. 4; S.S.I. 2017/346, reg. 2, sch.
+[^F4]: Words in s. 3B(1)(a) substituted (1.12.2017) by The Private Housing (Tenancies) (Scotland) Act 2016 (Commencement No. 3, Amendment, Saving Provision and Revocation) Regulations 2017 (S.S.I. 2017/346), regs. 1(1), 3(2)
+[^F5]: Words in s. 4(3) inserted (1.4.2017) by The Crown Estate Transfer Scheme 2017 (S.I. 2017/524), art. 1(2), Sch. 5 para. 18(2)
+[^F6]: Words in s. 5(2)(a) substituted (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 137(2)(a); S.I. 1996/323, art. 4(1)(b)(c)
+[^M1]: 1973 c. 65.
+[^F7]: S. 5(2)(aa) substituted (25.6.2003) by The Water Industry (Scotland) Act 2002 (Consequential Provisions) Order 2003 (S.S.I. 2003/331), art. 1, sch. para. 5(2)
+[^M2]: 1968 c. 16.
+[^F8]: Words repealed by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339, Sch. 24 (as amended*retrospectively* by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72, Sch. 7 para. 30)
+[^M3]: 1980 c. 65.
+[^F9]: Words substituted by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 4, Sch. 2 para. 59(2)
+[^M4]: 1985 c. 69**(61).**
+[^F10]: Words substituted by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339, Sch. 23 para. 29(1)
+[^F11]: S. 5(5A) inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 47(1), 52
+[^F12]: Words in s. 5(5A) substituted (1.11.2001) by 2001 asp 10, s. 112, Sch. 10 para. 9(2); S.S.I. 2001/336, art. 2(3), Sch. Pt. II (subject to transitional provisions in art. 3)
+[^F13]: Words substituted by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339, Sch. 23 para. 29(2)
+[^F14]: Words in s. 7(2) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 2; S.S.I. 2017/330, art. 3, sch.
+[^F15]: Words in s. 10(1) substituted (1.9.2009 at 5.00 a.m.) by The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248), art. 1(1), sch. 1 para. 4 (with art. 3)
+[^M5]: 1949 c. 25.
+[^F16]: Words in s. 11(1) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 3(a)(i); S.S.I. 2017/330, art. 3, sch.
+[^F17]: Words in s. 11(1) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 3(a)(ii); S.S.I. 2017/330, art. 3, sch.
+[^F18]: Words in s. 11(1)(b) inserted (1.10.2022) by Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8), ss. 45(2)(a), 59(1)
+[^F19]: S. 11(2) repealed (1.10.2022) by Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8), ss. 45(2)(b), 59(1)
+[^F20]: Words in s. 12(1) repealed (1.10.2022) by Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8), ss. 45(3)(a), 59(1)
+[^F21]: Words in s. 12(1) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 4(a); S.S.I. 2017/330, art. 3, sch.
+[^F22]: Words in s. 12(2) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 4(b); S.S.I. 2017/330, art. 3, sch.
+[^F23]: Words in s. 12(2) repealed (1.10.2022) by Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8), ss. 45(3)(b), 59(1)
+[^F24]: Words in s. 12(3) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 4(c); S.S.I. 2017/330, art. 3, sch.
+[^F25]: Words in s. 12(4) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 4(d); S.S.I. 2017/330, art. 3, sch.
+[^F26]: S. 12(5) repealed (1.10.2022) by Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8), ss. 45(3)(c), 59(1)
+[^F27]: S. 12A inserted (2.10.2008 for specified purposes, 1.4.2009 in so far as not already in force) by Homelessness etc. (Scotland) Act 2003 (asp 10), s. 14(1), sch. para. 2; S.S.I. 2008/313, art. 2(a)(b)
+[^F28]: Words in s. 14(1) inserted (1.10.2022) by Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8), ss. 45(4)(a), 59(1)
+[^F29]: Words in s. 14(3) renumbered as s. 14(3)(a) (1.10.2022) by Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8), ss. 45(4)(b)(i), 59(1)
+[^F30]: S. 14(3)(b) and word inserted (1.10.2022) by Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8), ss. 45(4)(b)(ii), 59(1)
+[^F31]: Words in s. 14(3) moved (1.10.2022) by Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8), ss. 45(4)(b)(iii), 59(1)
+[^F32]: Words in s. 19(1) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 5; S.S.I. 2017/330, art. 3, sch.
+[^F33]: Words in s. 21 substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 6; S.S.I. 2017/330, art. 3, sch.
+[^F34]: S. 22(2A)(2B) inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 38(2), 52 (as amended by Housing Act 1988 (c. 50, SIF 61, 75:1), s. 140(1), Sch. 17 para. 87)
+[^F35]: Words inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 39(1), 52
+[^F36]: Words in s. 23(1) substituted (1.12.2017 for specified purposes) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 7; S.S.I. 2017/330, art. 3, sch.
+[^F37]: S. 23(2A) inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 39(2), 52
+[^F38]: S. 23A inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 40, 52
+[^M6]: 1987 c. 26**(61).**
+[^F39]: S. 23A(4A) inserted (30.9.2002) by 2001 asp 10, s. 112, Sch. 10 para. 9(3)(a); S.S.I. 2002/321, art. 2, Sch. (subject to transitional provisions and savings in arts. 3-5)
+[^M7]: 1973 c. 65**(81:2).**
+[^M8]: 1968 c. 16**(123:4).**
+[^M9]: 1980 c. 65**(123:1, 2).**
+[^F40]: S. 23A(5)(e) repealed (30.9.2002) by 2001 asp 10, s. 112, Sch. 10 para. 9(3)(b); S.S.I. 2002/321, art. 2, Sch. (subject to transitional provisions and savings in arts. 3-5)
+[^M10]: 1985 c. 69**(61).**
+[^F41]: S. 5A inserted (11.11.1999) by 1999 c. 33, ss. 169(1), 170(3)(s), Sch. 14 para. 79
+[^F42]: Words in s. 23A(5A) substituted (16.6.2006) by Immigration, Asylum and Nationality Act 2006 (c. 13), ss. 43(4)(c), 62(1), (2); S.I. 2006/1497, art. 3, Sch.
+[^F43]: S. 23A(5B) repealed (31.12.2020) by The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745), reg. 1(2), Sch. 3; 2020 c. 1, Sch. 5 para. 1(1)
+[^M11]: 1949 c. 30.
+[^F44]: S. 24(2A) inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 39(3), 52
+[^F45]: Words in s. 24(3) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 8(a); S.S.I. 2017/330, art. 3, sch.
+[^F46]: Words in s. 24(4) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 8(b); S.S.I. 2017/330, art. 3, sch.
+[^F47]: Words in s. 24(5) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 8(c); S.S.I. 2017/330, art. 3, sch.
+[^F48]: Words in s. 24(6) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 8(d); S.S.I. 2017/330, art. 3, sch.
+[^F49]: Words in s. 24(7) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 8(e); S.S.I. 2017/330, art. 3, sch.
+[^F50]: Words in s. 24(8) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 8(f); S.S.I. 2017/330, art. 3, sch.
+[^M12]: 1949 c. 25.
+[^F51]: S. 25(1)(iii) substituted by Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3), s. 88(1), Sch. 11 para.41 (with s. 45(3)).
+[^M13]: 1955 c. 21.
+[^M14]: 1961 c. 58.
+[^F52]: Words in s. 25(1) inserted (30.11.2017) by The Land Reform (Scotland) Act 2016 (Supplementary, Consequential, Transitory and Saving Provisions) Regulations 2017 (S.S.I. 2017/416), reg. 1(1), sch. 1 para. 5(2)(b) (with sch. 2 para. 5)
+[^F53]: Words in s. 25(1) omitted (30.11.2017) by virtue of The Land Reform (Scotland) Act 2016 (Supplementary, Consequential, Transitory and Saving Provisions) Regulations 2017 (S.S.I. 2017/416), reg. 1(1), sch. 1 para. 5(2)(a)
+[^M15]: 1842 c. 94.
+[^M16]: 1845 c. 19
+[^F54]: S. 25(3)(c) repealed (5.11.1993) by 1993 c. 50, s.1(1), Sch. 1 Pt. X Gp. 2.
+[^F55]: Words in s. 26 substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 10; S.S.I. 2017/330, art. 3, sch.
+[^F56]: S. 27 repealed (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 11; S.S.I. 2017/330, art. 3, sch.
+[^F57]: Words repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72(3), Sch. 10
+[^F58]: Words repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72(3), Sch. 10
+[^F59]: S. 30 repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72(3), Sch. 10
+[^F60]: Words in s. 31(2) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 12(a); S.S.I. 2017/330, art. 3, sch.
+[^F61]: Words in s. 31(2)(b) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 12(b); S.S.I. 2017/330, art. 3, sch.
+[^F62]: Words repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72(3), Sch. 10
+[^F63]: Words in s. 32(4) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 13(a); S.S.I. 2017/330, art. 3, sch.
+[^F64]: Words in s. 32(5) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 13(b); S.S.I. 2017/330, art. 3, sch.
+[^F65]: Words substituted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 41(4), 52
+[^F66]: Proviso to section 34(1) repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72(3), Sch. 10
+[^M17]: 1972 c. 46.
+[^F67]: Words in s. 35(12) inserted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 14; S.S.I. 2017/330, art. 3, sch.
+[^M18]: 1972 c. 46.
+[^F68]: Words in s. 37(3) omitted (31.12.2020) by virtue of The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441), regs. 1(2)(b), 4(2) (with reg. 7)
+[^F69]: S. 37A omitted (31.12.2020) by virtue of The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441), regs. 1(2)(b), 4(3) (with reg. 7)
+[^F70]: Words in s. 39 substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 15(a); S.S.I. 2017/330, art. 3, sch.
+[^F71]: Words in s. 39 substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 15(b); S.S.I. 2017/330, art. 3, sch.
+[^F72]: Words in s. 39 substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 15(c); S.S.I. 2017/330, art. 3, sch.
+[^F73]: Words repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72(3), Sch. 10
+[^F74]: Ss. 42(2), 49(4)(5) repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72(3), Sch. 10
+[^F75]: Words in s. 43(1) substituted (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 137(3); S.I. 1996/323, art. 4(1)(b)(c)
+[^F76]: Words in s. 43(3) inserted (3.1.1995) by 1994 c. 40, ss. 76, 82(2), Sch. 16 para. 5
+[^F77]: S. 43(5)(6) repealed (1.7.1999) by S.I. 1999/1820, art. 4, Sch. 2 Pt. I para. 77 Pt. IV
+[^F78]: S. 43A inserted (3.1.1995) by 1994 c. 40, ss. 76, 82(2), Sch. 16 para. 6
+[^F79]: Words in s. 43A(2) substituted (1.12.2017) by Private Housing (Tenancies) (Scotland) Act 2016 (asp 19), s. 79(2), sch. 4 para. 2(2); S.S.I. 2017/346, reg. 2, sch.
+[^M19]: 1988 c.43.
+[^F80]: Words in s. 43A(7) substituted (1.12.2017) by Private Housing (Tenancies) (Scotland) Act 2016 (asp 19), s. 79(2), sch. 4 para. 2(2); S.S.I. 2017/346, reg. 2, sch.
+[^F81]: S. 43B inserted (3.1.1995) by 1994 c. 40, ss. 76, 82(2), Sch. 16 para. 7
+[^F82]: Words in s. 43B(4)(b) inserted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 16; S.S.I. 2017/330, art. 3, sch.
+[^F83]: S. 43C inserted (3.1.1995) by 1994 c. 40, ss. 76, 82(2), Sch. 16 para. 7
+[^F84]: Words in s. 44 title substituted (3.9.2007) by Housing (Scotland) Act 2006 (asp 1), s. 195(3), sch. 6 para. 5(e) (with s. 193); S.S.I. 2007/270, art. 3
+[^F85]: S. 44 repealed (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(2) (with sch. 1)
+[^F86]: Words in s. 45(3) inserted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 17; S.S.I. 2017/330, art. 3, sch.
+[^F87]: Words in s. 46(3)(5) inserted (1.4.1993) by S.I. 1993/658, art. 2, Sch. 2 para. 2
+[^F88]: S. 46(3A) inserted (1.4.1993) by S.I. 1993/658, art. 2, Sch. 1 para. 2.
+[^F89]: Words in s. 46(6) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(3) (with sch. 1)
+[^M20]: 1926 c. 56.
+[^M21]: 1950 c. 34.
+[^M22]: 1968 c. 31.
+[^F90]: Words in s. 48(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(4) (with sch. 1)
+[^F91]: Words in s. 49(1) inserted (1.4.1993) by S.I. 1993/658, art. 2 Sch. 1 para. 3(a).
+[^F92]: Words in s. 49(2) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(5)(a) (with sch. 1)
+[^F93]: S. 49(2)(d) inserted (1.4.1993) by S.I. 1993/658, art. 2 Sch. 1 para. 3(b).
+[^F94]: Ss. 42(2), 49(4)(5) repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72(3), Sch. 10
+[^F95]: S. 49A inserted (1.4.1993) by S.I. 1993/658, art. 2 Sch. 2 para. 3.
+[^F96]: Words in s. 50(4) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(6)(a) (with sch. 1)
+[^F97]: Words in s. 50(4) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(6)(b) (with sch. 1)
+[^F98]: Words in s. 53(1)(b) omitted (1.12.2016) by virtue of The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(7) (with sch. 1)
+[^F99]: Words added by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 48(1), 52
+[^F100]: Words in s. 53(1)(b) substituted (1.12.2017) by Private Housing (Tenancies) (Scotland) Act 2016 (asp 19), s. 79(2), sch. 4 para. 2(3); S.S.I. 2017/346, reg. 2, sch.
+[^F101]: S. 54(2) repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61, 75:2), s. 72(3), Sch. 10
+[^F102]: Words inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 47(2), 52
+[^F103]: Words in s. 55(b) substituted (1.11.2001) by 2001 asp 10, s. 112, Sch. 10 para. 9(4); S.S.I. 2001/336, art. 2(3), Sch. Pt. II (subject to transitional provisions in art. 3)
+[^F104]: Words inserted by Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 75:2), s. 59, Sch. 2 para. 28
+[^F105]: Word in s. 56(2) substituted (1.4.1993) by S.I. 1993/658, art. 2, Sch. 1 para. 4.
+[^F106]: Words repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72(3), Sch. 10
+[^F107]: Words inserted by Fire Precautions Act 1971 (c. 40, SIF 50), s. 34, Sch. 1 Pt. IV para. 5 for the purposes of the modification in connection with certain provisions of the said 1971 Act (modifications of ss. 55–59 in cases where the rent is increased by virtue of s. 28(3)(*b*) of the said 1971 Act)
+[^F108]: Proviso to s. 57(2) repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72(3), Sch. 10
+[^F109]: Words inserted by Fire Precautions Act 1971 (c. 40, SIF 50), s. 34, Sch. 1 Pt. IV para. 5 for the purposes of the modification in connection with certain provisions of the said 1971 Act (modifications of ss. 55–59 in cases where the rent is increased by virtue of s. 28(3)(*b*) of the said 1971 Act)
+[^M23]: 1974 c. 44.
+[^F110]: S. 57(5) repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72(3), Sch. 10
+[^F111]: Words repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72(3), Sch. 10
+[^F112]: Words inserted by Fire Precautions Act 1971 (c. 40, SIF 50), s. 34, Sch. 1 Pt. IV para. 6 for the purposes of the modification in connection with certain provisions of the said 1971 Act (modifications of ss. 55–59 in cases where the rent is increased by virtue of s. 28(3)(*b*) of the said 1971 Act)
+[^F113]: S. 58(2)(a)(b) substituted by S.I. 1989/2468, arts. 2, 3
+[^F114]: Words added by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 41(5)(a), 52
+[^F115]: Words substituted by Local Government and Housing Act 1989 (c. 42, SIF 75:1), s. 194, Sch. 11 para. 61
+[^F116]: S. 58(7A) inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 41(5)(b), 52
+[^F117]: Words substituted by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339, Sch. 23 para. 29(3)
+[^F118]: Words repealed by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339, Sch. 23 para. 29(3), Sch. 24
+[^F119]: Words in s. 60(2) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(8)(a) (with sch. 1)
+[^F120]: Words in s. 60(2) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(8)(b) (with sch. 1)
+[^F121]: Words in s. 60(3) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 18(a); S.S.I. 2017/330, art. 3, sch.
+[^F122]: Words in s. 60(3) repealed (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 18(b); S.S.I. 2017/330, art. 3, sch.
+[^F123]: Words substituted by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 4, Sch. 2 para. 59(3)
+[^F124]: Words added (*retrosp.*) by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 69
+[^F125]: Paragraph (a) repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 1, 3, 72(3), Sch. 2 para. 5, Sch. 10
+[^F126]: Words in s. 62(1) substituted (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 137(4); S.I. 1996/323, art. 4(1)(b)(c)
+[^F127]: S. 63(4)(a)(aa) substituted for s. 63(4)(a) (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 137(5); S.I. 1996/323, art. 4(1)(b)(c)
+[^F128]: S. 63(4)(aa) substituted (25.6.2003) by The Water Industry (Scotland) Act 2002 (Consequential Provisions) Order 2003 (S.S.I. 2003/331), art. 1, sch. para. 5(2)
+[^M24]: 1968 c. 16.
+[^F129]: Words substituted by Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61), s. 4, Sch. 2 para. 59(4)
+[^F130]: Words substituted by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339, Sch. 23 para. 29(4)(a)
+[^F131]: Words repealed by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339, Sch. 23 para. 29(4)(b), Sch. 24
+[^F132]: Words in s. 63(5) inserted (1.4.2017) by The Crown Estate Transfer Scheme 2017 (S.I. 2017/524), art. 1(2), Sch. 5 para. 18(3)
+[^F133]: Words in s. 64(6)(b) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 19; S.S.I. 2017/330, art. 3, sch.
+[^F134]: S. 65 title substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(10) (with sch. 1)
+[^F135]: Words repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 68, 72(3), Sch. 10
+[^F136]: Words in s. 65(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(9)(a) (with sch. 1)
+[^F137]: Words in s. 65(2) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(9)(b)(i) (with sch. 1)
+[^F138]: Word in s. 65(2) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(9)(b)(ii) (with sch. 1)
+[^F139]: Word in s. 65(2) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(9)(b)(iii) (with sch. 1)
+[^F140]: S. 66 title substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(12) (with sch. 1)
+[^F141]: Words in s. 66(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(11)(a)(i) (with sch. 1)
+[^F142]: Words in s. 66(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(11)(a)(ii) (with sch. 1)
+[^F143]: Words repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 68, 72(3), Sch. 10
+[^F144]: Words in s. 66(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(11)(a)(iii) (with sch. 1)
+[^F145]: Words in s. 66(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(11)(a)(iv) (with sch. 1)
+[^F146]: Words substituted by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339, Sch. 23 para. 29(5)
+[^F147]: Word in s. 66(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(11)(a)(v) (with sch. 1)
+[^F148]: Words in s. 66(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(11)(a)(vi) (with sch. 1)
+[^F149]: Words in s. 66(2) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(11)(b) (with sch. 1)
+[^F150]: Words in s. 66(4) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(11)(c)(i) (with sch. 1)
+[^F151]: Words in s. 66(4) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(11)(c)(ii) (with sch. 1)
+[^F152]: S. 66(5) inserted (1.4.1993) by S.I. 1993/658, art. 2, Sch. 1 para. 5
+[^F153]: Words in s. 66(5) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(11)(d) (with sch. 1)
+[^F154]: S. 66A omitted (1.12.2016) by virtue of The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(13) (with sch. 1)
+[^F155]: Words in s. 67(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(14)(a) (with sch. 1)
+[^F156]: Words in s. 67(2) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(14)(b) (with sch. 1)
+[^F157]: S. 67(2A) inserted (1.4.1993) by S.I. 1993/658, art. 2, Sch. 1 para. 6.
+[^F158]: S. 67(3) repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72(3), Sch. 10
+[^F159]: Words in s. 67(4) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(14)(c)(i) (with sch. 1)
+[^F160]: Words in s. 67(4) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(14)(c)(ii) (with sch. 1)
+[^F161]: Words in s. 67(4) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(14)(c)(iii) (with sch. 1)
+[^M25]: 1971 c. 28.
+[^F162]: Words in s. 67(6) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(14)(d) (with sch. 1)
+[^F163]: Words repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 68, 72(3), Sch. 10
+[^F164]: Words in s. 68 substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(15) (with sch. 1)
+[^F165]: S. 69(2) repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72(3), Sch. 10
+[^F166]: Words in s. 70(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(16)(a) (with sch. 1)
+[^F167]: S. 70(2) repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 44(4), 52, 72(3), Sch. 10
+[^F168]: Words in s. 70(3) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(16)(b)(i) (with sch. 1)
+[^F169]: Words in s. 70(3) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(16)(b)(ii) (with sch. 1)
+[^F170]: S. 70(4) omitted (1.12.2016) by virtue of The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(16)(c) (with sch. 1)
+[^F171]: Words in s. 70(6) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(16)(d) (with sch. 1)
+[^F172]: S. 71 title substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(18) (with sch. 1)
+[^F173]: Words in s. 71(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(17)(a)(i) (with sch. 1)
+[^F174]: Words repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 68, 72(3), Sch. 10
+[^F175]: Words in s. 71(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(17)(a)(ii) (with sch. 1)
+[^F176]: Words in s. 71(2)(a) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(17)(b)(i) (with sch. 1)
+[^F177]: Words in s. 71(2)(b) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(17)(b)(ii) (with sch. 1)
+[^F178]: S. 72 title substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(20) (with sch. 1)
+[^F179]: Words in s. 72(1)(b) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(19)(a)(i) (with sch. 1)
+[^F180]: Words in s. 72(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(19)(a)(ii) (with sch. 1)
+[^F181]: Words in s. 72(3) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(19)(b)(i) (with sch. 1)
+[^F182]: Words in s. 72(3) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(19)(b)(ii) (with sch. 1)
+[^F183]: Words in s. 72(4) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(19)(c) (with sch. 1)
+[^F184]: Words in s. 72(5) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(19)(d)(i) (with sch. 1)
+[^F185]: Word in s. 72(5) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(19)(d)(ii) (with sch. 1)
+[^F186]: Words in s. 74(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(21)(a) (with sch. 1)
+[^F187]: Words in s. 74(2) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(21)(b) (with sch. 1)
+[^F188]: S. 75 title substituted (1.12.2017) by virtue of Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 20(b); S.S.I. 2017/330, art. 3, sch.
+[^F189]: Words in s. 75 substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 20(a); S.S.I. 2017/330, art. 3, sch.
+[^F190]: Words in s. 76(2) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 21(a); S.S.I. 2017/330, art. 3, sch.
+[^F191]: Word in s. 76(3) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 21(b); S.S.I. 2017/330, art. 3, sch.
+[^F192]: S. 77 title substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(23) (with sch. 1)
+[^F193]: Words in s. 77 substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(22)(a) (with sch. 1)
+[^F194]: Words in s. 77 substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 22; S.S.I. 2017/330, art. 3, sch.
+[^F195]: Words in s. 77 substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(22)(b)(i) (with sch. 1)
+[^F196]: Word in s. 77 substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(22)(b)(ii) (with sch. 1)
+[^F197]: S. 80(1)(a)(b) omitted (1.12.2016) by virtue of The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(24) (with sch. 1)
+[^F198]: Definition in s. 81(1) inserted (1.4.1993) by S.I. 1993/658, art. 2, Sch. 1 para. 7
+[^F199]: Words in s. 81(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(25) (with sch. 1)
+[^F200]: Words in s. 82(1) repealed (30.11.2012) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 32(1)(a), 41(3); S.S.I. 2012/267, art. 2
+[^F201]: Words in s. 82(2) repealed (30.11.2012) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 32(1)(b), 41(3); S.S.I. 2012/267, art. 2
+[^F202]: Words in s. 85(1)(b) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(26) (with sch. 1)
+[^F203]: S. 89A inserted (31.1.2012 for specified purposes, 30.11.2012 in so far as not already in force) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 32(2), 41(3); S.S.I. 2012/2, art. 2, sch.; S.S.I. 2012/267, art. 2
+[^F204]: S. 89A(4A) inserted (1.4.2026) by Housing (Scotland) Act 2025 (asp 13), s. 86(2), sch. para. 1(2); S.S.I. 2026/115, reg. 2(1)(5), sch. Pt. 1
+[^F205]: Words in s. 90(1) substituted (30.11.2012) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 32(3), 41(3); S.S.I. 2012/267, art. 2
+[^F206]: Words in s. 90(3) inserted (21.12.2010) by Housing (Scotland) Act 2006 (asp 1), ss. 123, 195(3) (with s. 193); S.S.I. 2010/436, art. 2
+[^F207]: S. 95(1)(a) repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72(3), Sch. 10
+[^F208]: Words repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72(3), Sch. 10
+[^F209]: Words in s. 97(8) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 23(a); S.S.I. 2017/330, art. 3, sch.
+[^F210]: Words in s. 97(9) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 23(b); S.S.I. 2017/330, art. 3, sch.
+[^F211]: S. 98(5) repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72(3), Sch. 10
+[^F212]: Words substituted by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339, Sch. 23 para. 29(6)
+[^F213]: S. 101A inserted (1.5.2026) by Renters’ Rights Act 2025 (c. 26), ss. 50(8), 145(4) (with s. 138); S.S.I. 2026/125, reg. 2(a)
+[^F214]: S. 102(A1) inserted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 24(a); S.S.I. 2017/330, art. 3, sch.
+[^F215]: Words in s. 102(1) inserted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 24(b); S.S.I. 2017/330, art. 3, sch.
+[^F216]: S. 102(2) repealed (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 24(c); S.S.I. 2017/330, art. 3, sch.
+[^F217]: Words in s. 102(3) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 24(d); S.S.I. 2017/330, art. 3, sch.
+[^F218]: Words in s. 103 substituted for s. 103(1)(2) (1.12.2017) by virtue of Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 25; S.S.I. 2017/330, art. 3, sch.
+[^F219]: Words in s. 104 inserted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 26; S.S.I. 2017/330, art. 3, sch.
+[^F220]: S. 105(2) repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72(3), Sch. 10
+[^M26]: 1968 c. 31.
+[^M27]: 1974 c. 45
+[^F221]: Words inserted by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339, Sch. 23 para. 29(7)(a)
+[^F222]: Words in s. 106(1) substituted (1.4.2009) by Housing (Scotland) Act 2006 (asp 1), s. 195(3), sch. 6 para. 6(a) (with s. 193); S.S.I. 2009/122, art. 3 (with art. 7)
+[^F223]: Words inserted by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339, Sch. 23 para. 29(7)(b)
+[^F224]: Words in s. 106(2) substituted (1.4.2009) by Housing (Scotland) Act 2006 (asp 1), s. 195(3), sch. 6 para. 6(b) (with s. 193); S.S.I. 2009/122, art. 3 (with art. 7)
+[^F225]: S. 106(5) substituted (1.4.2009) by Housing (Scotland) Act 2006 (asp 1), s. 195(3), sch. 6 para. 6(c) (with s. 193); S.S.I. 2009/122, art. 3 (with art. 7)
+[^M28]: 1924 c. 35.
+[^M29]: 1926 c. 56.
+[^M30]: 1950 c. 34.
+[^M31]: 1968 c. 31.
+[^M32]: 1971 c. 28.
+[^F226]: S. 110 repealed (22.4.2009) by Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3), s. 227(3), sch. 6 Pt. 1 (with s. 223); S.S.I. 2009/67, art. 3(2)(3), sch. 2 (with arts. 4-6) (as amended (31.1.2011) by S.S.I. 2011/31, art. 5(b))
+[^M33]: 1978 c. 30.
+[^M34]: 1971 c. 28.
+[^M35]: 1972 c. 46.
+[^M36]: 1980 c. 52.
+[^F227]: Words in s. 115(1) inserted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 27; S.S.I. 2017/330, art. 3, sch.
+[^F228]: Words in s. 115 inserted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(27)(a)(ii) (with sch. 1)
+[^M37]: 1924 c. 27.
+[^M38]: 1970 c. 35.
+[^F229]: Words in s. 115(1) substituted (1.4.1996) by 1994 c. 39, s. 180(1), Sch. 13 para. 137(6)(a); S.I. 1996/323, art. 4(1)(b)(c)
+[^F230]: Words in s. 115(1) substituted (30.11.2012) by Private Rented Housing (Scotland) Act 2011 (asp 14), ss. 32(4), 41(3); S.S.I. 2012/267, art. 2
+[^M39]: 1947 c. 43.
+[^F231]: S. 115(1) entry omitted (1.12.2016) by virtue of The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(27)(a)(i) (with sch. 1)
+[^F232]: Words in s. 115(1) repealed (25.6.2003) by The Water Industry (Scotland) Act 2002 (Consequential Provisions) Order 2003 (S.S.I. 2003/331), art. 1, sch. para. 5(3)
+[^F233]: Words in the definition of “the standard scale” in s. 115(1) substituted (1.4.1996) by 1995 c. 40, ss. 5, 7(2), Sch. 4 para. 54(a)
+[^F234]: Words in the definition of “the statutory maximum” in s. 115(1) substituted (1.4.1996) by 1995 c. 40, ss. 5, 7(2), Sch. 4 para. 54(b)
+[^F235]: Words in s. 115(2) inserted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(27)(b) (with sch. 1)
+[^F236]: Words in s. 115(2) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(27)(b) (with sch. 1)
+[^F237]: Words in Sch. 1 para. 2 inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(10)(c), Sch. 28 para. 48(a); S.S.I. 2005/604, arts. 2(c), 4
+[^F238]: Words substituted by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72(2), Sch. 9 para. 5
+[^F239]: Words in Sch. 1 para. 3 substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 28(a); S.S.I. 2017/330, art. 3, sch.
+[^F240]: Words in Sch. 1 para. 6 inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(10)(c), Sch. 28 para. 48(b); S.S.I. 2005/604, arts. 2(c), 4
+[^F241]: Words in Sch. 1 para. 7 substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 28(b); S.S.I. 2017/330, art. 3, sch.
+[^M40]: 1965 c. 75.
+[^F242]: Schs. 1A, 1B inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 46(3), 52, Sch. 6 Pt. I para. 1
+[^F243]: Schs. 1A, 1B inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 46(3), 52, Sch. 6 Pt. I para. 1
+[^F244]: Schs. 1A, 1B inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 46(3), 52, Sch. 6 Pt. I para. 1
+[^F245]: Words in Sch. 1A para. 2(1) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(10)(c), Sch. 28 para. 49(a); S.S.I. 2005/604, arts. 2(c), 4
+[^F246]: Words in Sch. 1A para. 2(2) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(10)(c), Sch. 28 para. 49(b); S.S.I. 2005/604, arts. 2(c), 4
+[^F247]: Words in Sch. 1A para. 2(3) inserted (5.12.2005) by Civil Partnership Act 2004 (c. 33), s. 263(10)(c), Sch. 28 para. 49(c); S.S.I. 2005/604, arts. 2(c), 4
+[^F248]: Schs. 1A, 1B inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 46(3), 52, Sch. 6 Pt. I para. 1
+[^F249]: Words in Sch. 1A para. 3 substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 29(a); S.S.I. 2017/330, art. 3, sch.
+[^F250]: Schs. 1A, 1B inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 46(3), 52, Sch. 6 Pt. I para. 1
+[^F251]: Schs. 1A, 1B inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 46(3), 52, Sch. 6 Pt. I para. 1
+[^F252]: Schs. 1A, 1B inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 46(3), 52, Sch. 6 Pt. I para. 1
+[^F253]: Words in Sch. 1A para. 6 substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 29(b); S.S.I. 2017/330, art. 3, sch.
+[^F254]: Schs. 1A, 1B inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 46(3), 52, Sch. 6 Pt. I para. 1
+[^F255]: Schs. 1A, 1B inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 46(3), 52, Sch. 6 Pt. I para. 1
+[^M41]: 1965 c. 75.
+[^F256]: Schs. 1A, 1B inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 46(3), 52, Sch. 6 Pt. I para. 1
+[^F257]: Schs. 1A, 1B inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 46(3), 52, Sch. 6 Pt. I para. 1
+[^F258]: Schs. 1A, 1B inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 46(3), 52, Sch. 6 Pt. I para. 1
+[^F259]: Schs. 1A, 1B inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 46(3), 52, Sch. 6 Pt. I para. 1
+[^F260]: Words in Sch. 1B para. 3 substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 30; S.S.I. 2017/330, art. 3, sch.
+[^F261]: Schs. 1A, 1B inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 46(3), 52, Sch. 6 Pt. I para. 1
+[^F262]: Schs. 1A, 1B inserted by Housing (Scotland) Act 1988 (c. 43, SIF 61), ss. 46(3), 52, Sch. 6 Pt. I para. 1
+[^M42]: 1965 c. 75.
+[^F263]: Sch. 2 Pt. 1 heading substituted (1.10.2022) by Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8), ss. 45(5)(a), 59(1)
+[^F264]: Words in sch. 2 substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 31(a); S.S.I. 2017/330, art. 3, sch.
+[^F265]: Words in sch. 2 substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 31(a); S.S.I. 2017/330, art. 3, sch.
+[^F266]: Words in sch. 2 substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 31(a); S.S.I. 2017/330, art. 3, sch.
+[^F267]: Word in sch. 2 Pt. I Case 7 repealed (20.11.2014) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 2 para. 3(a); S.S.I. 2014/264, art. 2, sch. (with art. 6)
+[^F268]: Words in sch. 2 Pt. I Case 7 repealed (20.11.2014) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 2 para. 3(b); S.S.I. 2014/264, art. 2, sch. (with art. 6)
+[^F269]: Words in sch. 2 substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 31(a); S.S.I. 2017/330, art. 3, sch.
+[^F270]: Words in sch. 2 substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 31(a); S.S.I. 2017/330, art. 3, sch.
+[^F271]: Sch. 2 Pt. 2 heading substituted (1.10.2022) by Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8), ss. 45(5)(b), 59(1)
+[^F272]: Words substituted by Rent (Amendment) Act 1985 (c. 24, SIF 75:3, 4), s. 1(1)(4)
+[^F273]: Words added by Rent (Amendment) Act 1985 (c. 24, SIF 75:3, 4), s. 1(3)(4)
+[^M43]: 1949 c. 30.
+[^M44]: 1967 c. 22.
+[^M45]: 1949 c. 30.
+[^M46]: 1948 c. 45.
+[^M47]: 1967 c. 22.
+[^M48]: 1949 c. 30.
+[^M49]: 1975 c. 24.
+[^F274]: Words in sch. 2 Pt. III para. 1 substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 31(b)(i); S.S.I. 2017/330, art. 3, sch.
+[^F275]: Words in sch. 2 Pt. III para. 1 substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 31(b)(ii); S.S.I. 2017/330, art. 3, sch.
+[^F276]: Words in sch. 2 Pt. IV para. 2 substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 31(c)(i); S.S.I. 2017/330, art. 3, sch.
+[^F277]: Words in sch. 2 Pt. IV para. 3(1)(a) substituted (1.12.2017) by Housing (Scotland) Act 2014 (asp 14), s. 104(3), sch. 1 para. 31(c)(ii); S.S.I. 2017/330, art. 3, sch.
+[^F278]: Words substituted by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339, Sch. 23 para. 29(8)(a)
+[^M50]: 1966 c. 49.
+[^F279]: Words substituted by Housing (Scotland) Act 1987 (c. 26, SIF 61), ss. 335, 339, Sch. 23 para. 29(8)(b)
+[^F280]: Sch. 3 repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72(3), Sch. 10
+[^F281]: Sch. 4 repealed (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(2) (with sch. 1)
+[^F282]: Words in Sch. 5 para. 6 substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(28)(a) (with sch. 1)
+[^F283]: Words in Sch. 5 para. 7(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(28)(b)(i) (with sch. 1)
+[^F284]: Word in Sch. 5 para. 7(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(28)(b)(i) (with sch. 1)
+[^F285]: Words in Sch. 5 para. 7(2) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(28)(b)(ii) (with sch. 1)
+[^F286]: Sch. 5 para. 8 cross-heading substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(28)(d) (with sch. 1)
+[^F287]: Words in Sch. 5 para. 8(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(28)(c)(i) (with sch. 1)
+[^F288]: Words in Sch. 5 para. 8(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(28)(c)(ii) (with sch. 1)
+[^F289]: Word in Sch. 5 para. 8(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(28)(c)(iii) (with sch. 1)
+[^F290]: Words in Sch. 5 para. 9 substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(28)(e) (with sch. 1)
+[^F291]: Words in Sch. 5 para. 10(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(28)(f)(i) (with sch. 1)
+[^F292]: Words in Sch. 5 para. 10(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(28)(f)(ii) (with sch. 1)
+[^F293]: Word in Sch. 5 para. 10(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(28)(f)(iii) (with sch. 1)
+[^F294]: Word in Sch. 5 para. 10(2) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(28)(f)(iv) (with sch. 1)
+[^F295]: Words in Sch. 5 para. 10(2) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(28)(f)(i) (with sch. 1)
+[^F296]: Word in Sch. 5 para. 10(2) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(28)(f)(iii) (with sch. 1)
+[^F297]: Words in Sch. 5 para. 10(3) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(28)(f)(i) (with sch. 1)
+[^F298]: Words in Sch. 5 para. 11(3) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(28)(g) (with sch. 1)
+[^F299]: Words in Sch. 5 para. 12 substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(28)(h)(i) (with sch. 1)
+[^F300]: Word in Sch. 5 para. 12(a) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(28)(h)(ii) (with sch. 1)
+[^F301]: Words in Sch. 5 para. 13 cross-heading substituted (3.9.2007) by Housing (Scotland) Act 2006 (asp 1), s. 195(3), sch. 6 para. 5(f) (with s. 193); S.S.I. 2007/270, art. 3
+[^F302]: Words in Sch. 5 para. 13(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(28)(i)(i) (with sch. 1)
+[^F303]: Words in Sch. 5 para. 13(2) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(28)(i)(ii)(aa) (with sch. 1)
+[^F304]: Words in Sch. 5 para. 13(2) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(28)(i)(ii)(bb) (with sch. 1)
+[^F305]: Words in Sch. 5 para. 13(2) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(28)(i)(ii)(cc) (with sch. 1)
+[^F306]: Words in Sch. 6 para. 2(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(29)(a)(i) (with sch. 1)
+[^F307]: Words in Sch. 6 para. 2(2) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(29)(a)(ii)(aa) (with sch. 1)
+[^F308]: Words in Sch. 6 para. 2(2) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(29)(a)(ii)(bb) (with sch. 1)
+[^F309]: Words in Sch. 6 para. 5 substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(29)(b) (with sch. 1)
+[^F310]: Words in Sch. 6 para. 6(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(29)(c)(i)(aa) (with sch. 1)
+[^F311]: Words in Sch. 6 para. 6(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(29)(c)(i)(bb) (with sch. 1)
+[^F312]: Words in Sch. 6 para. 6(2) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(29)(c)(ii) (with sch. 1)
+[^F313]: Words in Sch. 6 para. 7(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(29)(d)(i)(aa) (with sch. 1)
+[^F314]: Words in Sch. 6 para. 7(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(29)(d)(i)(bb) (with sch. 1)
+[^F315]: Word in Sch. 6 para. 7(1) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(29)(d)(i)(cc) (with sch. 1)
+[^F316]: Words in Sch. 6 para. 7(2) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(29)(d)(ii)(aa) (with sch. 1)
+[^F317]: Words in Sch. 6 para. 7(2) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(29)(d)(ii)(bb) (with sch. 1)
+[^F318]: Words in Sch. 6 para. 7(3) substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(29)(d)(iii) (with sch. 1)
+[^F319]: Words in Sch. 6 para. 8 substituted (1.12.2016) by The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337), reg. 1(2), sch. 2 para. 1(29)(e) (with sch. 1)
+[^F320]: Sch. 7 para. 5 repealed by Housing (Scotland) Act 1988 (c. 43, SIF 61), s. 72(3), Sch. 10
+[^F321]: Sch. 9 para. 7 inserted by Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 75:2), s. 59, Sch. 2 para. 30

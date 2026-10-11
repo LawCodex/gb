@@ -1,0 +1,3002 @@
+---
+title: "Local Government (Miscellaneous Provisions) Act 1982"
+identifier: "ukpga/1982/30"
+citation: "1982 c. 30"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S"
+date: 1982-07-13
+last_amended: 2026-06-29
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1982/30"
+source_modified: 2026-07-15
+retrieved: 2026-10-11
+---
+
+# Local Government (Miscellaneous Provisions) Act 1982
+
+**1982 c. 30**
+
+An Act to make amendments for England and Wales of provisions of that part of the law relating to local authorities or highways which is commonly amended by local Acts; to make provision for the control of sex establishments; to make further provision for the control of refreshment premises and for consultation between local authorities in England and Wales and fire authorities with regard to fire precautions for buildings and caravan sites; to repeal the Theatrical Employers Registration Acts 1925 and 1928; to make further provision as to the enforcement of section 8 of the Public Utilities Street Works Act 1950 and sections 171 and 174 of the Highways Act 1980; to make provision in connection with the computerisation of local land charges registers; to make further provision in connection with the acquisition of land and rights over land by boards constituted in pursuance of section 1 of the Town and Country Planning Act 1971 or reconstituted in pursuance of Schedule 17 to the Local Government Act 1972; to exclude from the definition of “construction or maintenance work” in section 20 of the Local Government, Planning and Land Act 1980 work undertaken by local authorities and development bodies pursuant to certain agreements with the Manpower Services Commission which specify the work to be undertaken and under which the Commission agrees to pay the whole or part of the cost of the work so specified; to define “year” for the purposes of Part III of the said Act of 1980; to amend section 140 of the Local Government Act 1972 and to provide for the insurance by local authorities of persons voluntarily assisting probation committees; to make provision for controlling nuisance and disturbance on educational premises; to amend section 137 of the Local Government Act 1972; to make further provision as to arrangements made by local authorities under the Employment and Training Act 1973; to extend the duration of certain powers to assist industry or employment conferred by local Acts; to make corrections and minor improvements in certain enactments relating to the local administration of health and planning functions; and for connected purposes.
+
+[13th July 1982]
+
+## Part I — Licensing of Public Entertainments
+
+### [^F1]1 Licensing of public entertainments.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part II — Control of Sex Establishments
+
+### 2 Control of sex establishments.
+
+(1) A local authority may resolve that Schedule 3 to this Act is to apply to their area; and if a local authority do so resolve, that Schedule shall come into force in their area on the day specified in that behalf in the resolution (which must not be before the expiration of the period of one month beginning with the day on which the resolution is passed).
+
+(2) A local authority shall publish notice that they have passed a resolution under this section in two consecutive weeks in a local newspaper circulating in their area.
+
+(3) The first publication shall not be later than 28 days before the day specified in the resolution for the coming into force of Schedule 3 to this Act in the local authority’s area.
+
+(4) The notice shall state the general effect of that Schedule.
+
+(5) In this Part of this Act “local authority” means—
+
+(a) the council of a district;
+
+(b) the council of a London borough; and
+
+(c) the Common Council of the City of London.
+
+## Part III — Street Trading
+
+### 3 Power of district council to adopt Schedule 4.
+
+A district council may resolve that Schedule 4 to this Act shall apply to their district and, if a council so resolve, that Schedule shall come into force in their district on such day as may be specified in the resolution.
+
+## Part IV — Control of Refreshment Premises
+
+### Take-away food shops
+
+#### [^F2]4 Closing hours for take-away food shops.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F2]5 Closing orders etc.—procedure and appeals.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F2]6 Contraventions of closing orders.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Late night refreshment houses
+
+#### [^F3]7 Refreshments etc. on licensed premises.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part V — Fire Precautions
+
+### Provisions as to consultations.
+
+#### 8 Consultation between authorities.
+
+(1) In the [^M1]Public Health Act 1936—
+
+(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F4]
+
+(i) in subsections (1) and (2), the words “, after consultation with the fore authority, deem satisfactory, regard being had” shall be substituted for the words “ deem satisfactory, regard being had by them ” ; and
+
+(ii) in subsection (4), after the word “authority” there shall be inserted the words “ after consultation with the fire authority, ” ;
+
+(b) in subsection (1) of section 60 (means of escape from fire in the case of certain high buildings) after the word “authority”—
+
+(i) in the first place where it occurs, there shall be inserted the words “ , after consultation with the fire authority, ” ; and
+
+(ii) in the second place where it occurs, there shall be inserted the words “ , after such consultation ” ; and
+
+(c) in section 343 (interpretation) the following definition shall be inserted after the definition of “factory”— “ “fire authority” has the meaning assigned to it by section 43(1) of the Fire Precautions Act 1971. ”
+
+(2) In the [^M2]Caravan Sites and Control of Development Act 1960—
+
+(a) the following subsections shall be inserted after subsection (3) of section 5 (power of local authority attach conditions to site licences)—
+
+> (3A) The local authority shall consult the fire authority as to the extent to which any model standards relating to fire precautions which have been specified under subsection (6) of this section are appropriate to the land.
+>
+> (3B) If—
+>
+> (a) no such standards have been specified ; or
+>
+> (b) any standard that has been specified appears to the fire authority to be inappropriate to the land,
+>
+> the local authority shall consult the fire authority as to what conditions relating to fire precautions ought to be attached to the site licence instead.
+
+;
+
+(b) the following subsections shall be added after subsection (6) of that section—
+
+> (7) The duty imposed on a local authority by subsection (6) of this section to have regard to standards specified under that subsection is to be construed, as regards standards relating to fire precautions which are so specified, as a duty to have regards to them subject to any advice given by the fire authority under subsection (3A) or (3B) of this section.
+>
+> (8) In this section “fire precautions” means precautions to be taken for any of the purposes specified in paragraph (e) of subsection (1) of this section for which conditions may be imposed by virtue of that subsection.
+
+;
+
+(c) the following subsection shall be added at the end of section 8 (powers of local authority to alter conditions attached to site licences)—
+
+> (5) The local authority shall consult the fire authority before exercising the powers conferred upon them by subsection (1) of this section in relation to a condition attached to a site licence for the purposes set out in section 5(1)(e) of this Act.
+
+;
+
+(d) the following subsection shall be inserted after subsection (2) of section 24 (power of local authorities to provide sites for caravans)—
+
+> (2A) Before exercising the power to provide a site conferred on them by subsection (1) of this section the local authority shall consult the fire authority, if they are not themselves the fire authority,—
+>
+> (a) as to measures to be taken for preventing and detecting the outbreak of fire on the site ; and
+>
+> (b) as to the provision and maintenance of means of fighting fire on it.
+
+; and
+
+(e) the following definition shall be inserted in section 29 (interpretation of Part I) after the definition of “exiisting site”— “ “fire authority” , in relation to any land, means the authority discharging in the are in which the land is situated the functions of fire authority under the Fire Services Act 1947 ; ”.
+
+### Firemen’s switches
+
+#### [^F5]9 Application of section 10.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### [^F6]10 Firemen’s switches for luminous tube signs.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part VI — ABOLITION OF REGISTRATION OF THEATRICAL EMPLOYERS
+
+### [^F7]11 Repeal of Theatrical Employers Registration Acts 1925 and 1928.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part VII — Byelaws
+
+### 12 General provisions relating to byelaws.
+
+(1) Notwithstanding anything in section 298 of the [^M3]Public Health Act 1936 or section 253 of the [^M4]Public Health Act 1875 or any other enactment, a constable may take proceedings in respect of an offence against a byelaw made by a relevant local authority under any enactment without the consent of the Attorney General.
+
+(2) In subsection (1) above “relevant local authority” means—
+
+(a) a local authority, as defined in section 270 of the [^M5]Local Government Act 1972; and
+
+(b) any body that was the predecessor of a local authority as so defined.
+
+(3) It is immaterial for the purposes of this section that a byelaw was made after the passing of this Act.
+
+## Part VIII — Acupuncture, Tattooing, Ear-Piercing and Electrolysis
+
+### 13 Application of Part VIII.
+
+(1) The provisions of this Part of this Act, except this section, shall come into force in accordance with the following provisions of this section.
+
+(2) A local authority may resolve that the provisions of this Part of this Act which are mentioned in paragraph (a), (b) or (c) of subsection (3) below are to apply to their area; and if a local authority do so resolve, the provisions specified in the resolution shall come into force in their area on the day specified in that behalf in the resolution (which must not be before the expiration of the period of one month beginning with the day on which the resolution is passed).
+
+(3) The provisions that may be specified in a resolution under subsection (2) above are—
+
+(a) sections 14, 16 and 17 below; or
+
+(b) sections 15 to 17 below; or
+
+(c) sections 14 to 17 below.
+
+(4) A resolution which provides that section 15 below is to apply to the area of a local authority need not provide that it shall apply to all the descriptions of persons specified in subsection (1) of that section; and if such a resolution does not provide that section 15 below is to apply to persons of all of those descriptions, the reference in subsection (2) above to the coming into force of provisions specified in the resolution shall be construed, in its application to section 15 below, and to section 16 below so far as it has effect for the purposes of section 15 below, as a reference to the coming into force of those sections only in relation to persons of the description or descriptions specified in the resolution.
+
+(5) If a resolution provides for the coming into force of section 15 below in relation to persons of more than one of the descriptions specified in subsection (1) of that section, it may provide that that section, and section 16 below so far as it has effect for the purposes of that section, shall come into force on different days in relation to persons of each of the descriptions specified in the resolution.
+
+(6) A local authority shall publish notice that they have passed a resolution under this section in two consecutive weeks in a local newspaper circulating in their area.
+
+(7) The first publication shall not be later than 28 days before the day specified in the resolution for the coming into force of the provisions specified in it in the local authority’s area.
+
+(8) The notice shall state which provisions are to come into force in that area.
+
+(9) The notice shall also—
+
+(a) if the resolution provides for the coming into force of section 14 below, explain that that section applies to persons carrying on the practice of acupuncture; and
+
+(b) if it provides for the coming into force of section 15 below, specify the descriptions of persons in relation to whom that section is to come into force.
+
+(10) Any such notice shall state the general effect, in relation to persons to whom the provisions specified in the resolution will apply, of the coming into force of those provisions.
+
+(11) In this Part of this Act “local authority” means—
+
+(a) the council of a district [[^F8]in England];
+
+(b) the council of a London borough; and
+
+(c) the Common Council of the City of London.
+
+### 14 Acupuncture.
+
+(1) A person shall not in any area [[^F9]in England] in which this section is in force carry on the practice of acupuncture unless he is registered by the local authority for the area under this section.
+
+(2) A person shall only carry on the practice of acupuncture in any area [[^F10]in England] in which this section is in force in premises registered by the local authority for the area under this section; but a person who is registered under this section does not contravene this subsection merely because he sometimes visits people to give them treatment at their request.
+
+(3) Subject to section 16(8)(b) below, on application for registration under this section a local authority shall register the applicant and the premises where he desires to practise and shall issue to the applicant a certificate of registration.
+
+(4) An application for registration under this section shall be accompanied by such particulars as the local authority may reasonably require.
+
+(5) The particulars that the local authority may require include, without prejudice to the generality of subsection (4) above,—
+
+(a) particulars as to the premises where the applicant desires to practise; and
+
+(b) particulars of any conviction of the applicant under section 16 below,
+
+but do not include information about individual people to whom the applicant has given treatment.
+
+(6) A local authority may charge such reasonable fees as they may determine for registration under this section.
+
+(7) A local authority may make byelaws for the purpose of securing—
+
+(a) the cleanliness of premises registered under this section and fittings in such premises;
+
+(b) the cleanliness of persons so registered and persons assisting persons so registered in their practice;
+
+(c) the cleansing and, so far as is appropriate, the sterilisation of instruments, materials and equipment used in connection with the practice of acupuncture.
+
+(8) Nothing in this section shall extend to the practice of acupuncture by or under the supervision of a person who is registered as a medical practitioner or a dentist or to premises on which the practice of acupuncture is carried on by or under the supervision of such a person.
+
+### 15 Tattooing, [[^F11]semi-permanent skin-colouring, cosmetic piercing] and electrolysis.
+
+(1) A person shall not in any area [[^F12]in England] in which this section is in force carry on the business—
+
+(a) of tattooing;
+
+[[^F13](aa) of semi-permanent skin-colouring;
+
+(b) of cosmetic piercing; or]
+
+(c) of electrolysis,
+
+unless he is registered by the local authority for the area under this section.
+
+(2) A person shall only carry on a business mentioned in subsection (1) above in any area [[^F14]in England] in which this section is in force in premises registered under this section for the carrying on of that business; but a person who carries on the business of tattooing, [[^F15]semi-permanent skin-colouring, cosmetic piercing] or electrolysis and is registered under this section as carrying on that business does not contravene this subsection merely because he sometimes visits people at their request to tattoo them or, as the case may be, to [[^F16]carry out semi-permanent skin-colouring on them, pierce their bodies] or give them electrolysis.
+
+(3) Subject to section 16(8)(b) below, on application for registration under this section a local authority shall register the applicant and the premises where he desires to carry on his business and shall issue to the applicant a certificate of registration.
+
+(4) An application for registration under this section shall be accompanied by such particulars as the local authority may reasonably require.
+
+(5) The particulars that the local authority may require include, without prejudice to the generality of subsection (4) above,—
+
+(a) particulars as to the premises where the applicant desires to carry on his business; and
+
+(b) particulars of any conviction of the applicant under section 16 below,
+
+but do not include information about individual people whom the applicant has tattooed or given electrolysis or [[^F17], whose bodies he has pierced or on whom he has carried out semi-permanent skin-colouring] .
+
+(6) A local authority may charge such reasonable fees as they may determine for registration under this section.
+
+(7) A local authority may make byelaws for the purposes of securing—
+
+(a) the cleanliness of premises registered under this section and fittings in such premises;
+
+(b) the cleanliness of persons so registered and persons assisting persons so registered in the business in respect of which they are registered;
+
+(c) the cleansing and, so far as is appropriate, the sterilisation of instruments, materials and equipment used in connection with a business in respect of which a person is registered under this section.
+
+(8) Nothing in this section shall extend to the carrying on of a business such as is mentioned in subsection (1) above by or under the supervision of a person who is registered as a medical practitioner or to premises on which any such business is carried on by or under the supervision of such a person.
+
+[[^F18](9) In this section “semi-permanent skin-colouring” means the insertion of semi-permanent colouring into a person’s skin.]
+
+### 16 Provisions supplementary to ss. 14 and 15.
+
+(1) Any person who contravenes—
+
+(a) section 14(1) or (2) above; or
+
+(b) section 15(1) or (2) above,
+
+shall be guilty of an offence and liable on summary conviction to a fine not exceeding [[^F19]level 3 on the standard scale].
+
+(2) Any person who contravenes a byelaw made—
+
+(a) under section 14(7) above; or
+
+(b) under section 15(7) above,
+
+shall be guilty of an offence and liable on summary conviction to a fine not exceeding [[^F19]level 3 on the standard scale].
+
+(3) If a person registered under section 14 above is found guilty of an offence under subsection (2)(a) above, the court, instead of or in addition to imposing a fine under subsection (2) above, may order the suspension or cancellation of his registration.
+
+(4) If a person registered under section 15 above is found guilty of an offence under subsection (2)(b) above, the court, instead of or in addition to imposing a fine under subsection (2) above, may order the suspension or cancellation of his registration.
+
+(5) A court which orders the suspension or cancellation of a registration by virtue of subsection (3) or (4) above may also order the suspension or cancellation of any registration under section 14 or, as the case may be, 15 above of the premises in which the offence was committed, if they are occupied by the person found guilty of the offence.
+
+(6) Subject to subsection (7) below, a court ordering the suspension or cancellation of registration by virtue of subsection (3) or (4) above may suspend the operation of the order until the expiration of the period prescribed by [[^F20]Criminal Procedure Rules] for giving notice of appeal to the Crown Court.
+
+(7) If notice of appeal is given within the period so prescribed, an order under subsection (3) or (4) above shall be suspended until the appeal is finally determined or abandoned.
+
+(8) Where the registration of any person under section 14 or 15 above is cancelled by order of the court under this section—
+
+(a) he shall within 7 days deliver up to the local authority the cancelled certificate of registration, and, if he fails to do so, he shall be guilty of an offence and liable on summary conviction to a fine not exceeding £50 and thereafter to a daily fine not exceeding £5; and
+
+(b) he shall not again be registered by the local authority under section 14 or, as the case may be, 15 above except with the consent of the magistrates’ court which convicted him.
+
+(9) A person registered under this Part of this Act shall keep a copy—
+
+(a) of any certificate of registration issued to him under this Part of this Act; and
+
+(b) of any byelaws under this Part of this Act relating to the practice or business in respect of which he is so registered,
+
+prominently displayed at the place where he carries on that practice or business.
+
+(10) A person who contravenes subsection (9) above shall be guilty of an offence and liable on summary conviction to a fine not exceeding [[^F19]level 2 on the standard scale].
+
+(11) It shall be a defence for a person charged with an offence under subsection (1), (2), (8) or (10) above to prove that he took all reasonable precautions and exercised all due diligence to avoid commission of the offence.
+
+(12) Nothing in this Part of this Act applies to anything done to an animal.
+
+### 17 Power to enter premises (acupuncture etc.).
+
+(1) Subject to subsection (2) below, an authorised officer of a local authority may enter any premises in the authority’s area if he has reason to suspect that an offence under section 16 above is being committed there.
+
+(2) The power conferred by this section may be exercised by an authorised officer of a local authority only if he has been granted a warrant by a justice of the peace.
+
+(3) A justice may grant a warrant under this section only if he is satisfied—
+
+(a) that admission to any premises has been refused, or that refusal is apprehended, or that the case is one of urgency, or that an application for admission would defeat the object of the entry; and
+
+(b) that there is reasonable ground for entry under this section.
+
+(4) A warrant shall not be granted unless the justice is satisfied either that notice of the intention to apply for a warrant has been given to the occupier, or that the case is one of urgency, or that the giving of such notice would defeat the object of the entry.
+
+(5) A warrant shall continue in force—
+
+(a) for seven days; or
+
+(b) until the power conferred by this section has been exercised in accordance with the warrant,
+
+whichever period is the shorter.
+
+(6) Where an authorised officer of a local authority exercises the power conferred by this section, he shall produce his authority if required to do so by the occupier of the premises.
+
+(7) Any person who without reasonable excuse refuses to permit an authorised officer of a local authority to exercise the power conferred by this section shall be guilty of an offence and shall for every such refusal be liable on summary conviction to a fine not exceeding [[^F21]level 3 on the standard scale].
+
+## Part IX
+
+### 18 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F22]
+
+## Part X — HIGHWAYS
+
+### 20 Highway amenities.
+
+The enactments specified in Schedule 5 to this Act shall have effect subject to the amendments there specified, being amendments concerning amenities for certain highways.
+
+### 21 Prosecutions for offences relating to works in street.
+
+[^F23]1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+
+(2) In section 312 of the [^M6]Highways Act 1980 (restriction on institution of proceedings)—
+
+(a) in subsection (1), for the word “Proceedings” there shall be substituted the words “ Subject to subsection (3) below, proceedings ” ; and
+
+(b) the following subsection shall be inserted after subsection (2)—
+
+> (3) A constable may take proceedings—
+>
+> (a) for an offence under paragraph (b) of section 171(6) above ; or
+>
+> (b) for an offence under paragraph (c) of that subsection consisting of failure to perform a duty imposed by section 171(5)(a) above ; or
+>
+> (c) for an offence under section 174 above,
+>
+> without the consent of the Attorney General.
+
+.
+
+### 22 Control of construction under streets.
+
+(1) The following paragraph shall be substituted for the first paragraph of subsection (1) of section 179 of the Highways Act 1980 (by virtue of which no person may construct a vault, arch or cellar under any street in Greater London or the carriageway of any street outside Greater London without the consent of the appropriate authority)—
+
+> No person shall construct works to which this section applies under any part of a street without the consent of the appropriaet authority, and the authority may by notice served on a person who has constructed such works in contravention of this section require him to remove them, or to alter or deal with them in such a manner as may be specified in the notice.
+
+.
+
+(2) The words “wotks to which this section applies” shall be substituted for the words “ a vault, arch or cellar ” where occurring in subsections (3) and (4) of that section.
+
+(3) The following subsections shall be substituted for subsection (5) of that section—
+
+> (5) As soon as may be after an authority consent to the construction of works to which this section applies under a street they shall give notice of their consent to any public utility undertakers having any apparatus under the street.
+>
+> (6) Subject to subsection (7) below, the works to which this section applies are—
+>
+> (a) any part of a building ; and
+>
+> (b) without prejudice to the generality of paragraph (a) above, a vault, arch or cellar, whether forming part of a building or not.
+>
+> (7) This section does not apply to code-regulated works, as defined in section 1(5) of the Public Utilities Street Works Act 1950.
+
+.
+
+### 23 Control of road-side sales.
+
+The following section shall be inserted after section 147 of the [^M7]Highways Act 1980—
+
+> **147A Road-side sales.**
+>
+> (1) Subjectt o subsection (4) below, no person shall, for the purppose of selling anything, or offering or exposing anything gfor sale, use any stall or similar structure or any container or vehicle, kept or placed on—
+>
+> (a) the verge of a trunk road or a principal road ;
+>
+> (b) a lay-by on any such road ; or
+>
+> (c) unenclosed land within 15 metres of any part of any such road,
+>
+> where its presence or its use for that purpose causes or is likely to cause danger on the road or interupts or is likely to interupt any user of the road.
+>
+> (2) Any person who contravenes this section shall be guilty of an offence and liable on summary conviction to a fine not exceeding £200.
+>
+> (3) It shall be a defence for a person charged with an offence under this section to prove that he took all reasonable precautions and exercised all due diligence to avoid commission of the offence.
+>
+> (4) This section does not apply—
+>
+> (a) to the sale or offer or exposure for sale of things from or on a vehicle which is used for the purposes of itinerant trading with occupiers of premises, or is used only for that purpose and for purposes other than trading ;
+>
+> (b) to the sale or offer or exposure for sale of newspapers ;
+>
+> (c) to anything done at a market in respect of which tolls, stallages or rents are payable ; or
+>
+> (d) to the sale or offer or exposure for sale of anything by way of street trading which has been authorised under Schedule 4 to the Local Government (Miscellaneous Provisions) Act 1982 or under any local enactment which makes provision similar to that made by that Schedule, either by the person so authorised or by a person acting as assistant to the person so authorised.
+
+.
+
+## Part XI — Public Health, etc.
+
+### 24 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F24]
+
+### 26 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F25]
+
+### 27 Powers to repair drains etc. and to remedy stopped-up drains etc.
+
+(1) The following section shall be substituted for sections 17 and 18 of the [^M8]Public Health Act 1961—
+
+> **17 Powers to repair drains etc. and to remedy stopped-up drains etc.**
+>
+> (1) If it appears to a local authority that a drain, private sewer, water-closet, waste pipe or soil pipe—
+>
+> (a) is not sufficiently maintained and kept in good repair, and
+>
+> (b) can be sufficiently repaired at a cost not exceeding £250,
+>
+> the local authority may, after giving not less than seven days notice to the perrson concerned, cause the drain, private sewer, water-closet or pipe to be repaired and, subject to subsections (7) and (8) beloe, recover the expenses reasonably incurred in so doing, so far as they do not exceed £250, from the person or persons concerned, in such proportions, if there is more than one such person, as the local authority may determine.
+>
+> (2) In subsection (1) above “person concerned” means—
+>
+> (a) in relation to a water-closet, waste pipe or soil pipe, the owner or occupier of the premises on which it is situated, and
+>
+> (b) in relation to a drain or private sewer, any person owning any premises drained by means of it and also, in the case of a sewer, the owner of the sewer.
+>
+> (3) If it appears to a local authority that on any premises a drain, private sewer, water-closet, waste pipe or soil pipe is stopped-up, they may by notice in writing require the owner or occupier of the premises to remedy the defect within forty-eight hours fromt he service of the notice.
+>
+> (4) If a notice under subsection (3) of this section is not complied with, the local authority may themselves carry out the work necessary to remedy the defect and, subject to subsections (7) and (8) below, may recover the expenses reasonably incurred in so doing from the person on whom the notice was served.
+>
+> (5) Where the expenses recoverable by a local authority under subsection (1) or (4) of this section do not exceed £10, the lcocal authority may, if they think fit, remit the payment of the expenses.
+>
+> (6) In proceedings to recover expenses under this section—
+>
+> (a) where the expenses were incurred under subsection (1) of this section, the court—
+>
+> (i) shall inquire whether the local authority were justified in concluding that the drain, private sewer, water-closet, waste pipe or soil pipe was not sufficiently maintained and kept in good repair ; and
+>
+> (ii) may inquire whether any apportionment of expenses by the local authority under that subsection was fair ;
+>
+> (b) where the expenses were incurred under subsection (4) of this section, the court may inquire—
+>
+> (i) whether any requirement contained in a notice served under subsection (3) of this section was reasonable ; and
+>
+> (ii) whether the expenses ought to be borne wholly or in part by some person other than the defendant in the proceedings.
+>
+> (7) Subject to subsection (8) below, the court may make such order concerning the expenses or their apportionment as appears to the court to be just.
+>
+> (8) Where the court determines that the local authority were not justified in concluding that a drain, private sewer, water-closet, waste pipe or soil pipe was not sufficiently maintained and kept in good repair, the local authority shall not recover expenses incurred by them under subsection (1) of this section.
+>
+> (9) The court shall not revise an apportionment unless it is satisfied that all persons affected by the apportionment or by an order made by virtue of subsection (6)(b)(ii) above have had notice of the proceedings and an opportunity of being heard.
+>
+> (10) Subject to subsection (11) of this section, the provisions of subsection (1) of this section shall not authorise a local authority to carry out works on land which belongs to any statutory undertakers and is held or used by them for the purposes of their undertaking.
+>
+> (11) Subsection (10) of this section does not apply to houses, or to buildings used as offices or showrooms, other than buildings so used which form part of a railway station.
+>
+> (12) The Secretary of State may by order made by statutory instrument increase any amount specified in this section.
+>
+> (13) Nothing in an order made under subsection (12) of this section shall apply to a notice given under this section before the commencement of the order.
+>
+> (14) A statutory instrument containing an order under subsection (12) of this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+>
+> (15) The provisions of this section shall be without prejudice to section 39 of the Public Health Act 1936 (which empowers a local authority to serve notices as regards defective drains).
+
+.
+
+[^F26]2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 28 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F27]
+
+### 29 Protection of buildings.
+
+(1) The section applies where it appears to a local authority—
+
+(a) that any building in their area is unoccupied; or
+
+(b) that the occupier of a building in their area is temporarily absent from it.
+
+(2) Where this section applies and it appears to the local authority that the building—
+
+(a) is not effectively secured against unauthorised entry; or
+
+(b) is likely to become a danger to public health,
+
+the local authority may undertake works in connection with the building for the purpose of preventing unauthorised entry to it, or, as the case may be, for the purpose of preventing it becoming a danger to public health.
+
+(3) In this section and sections 30 and 32 “building” includes structure.
+
+(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F28] in this section, the sections mentioned in subsection (3) above and section 31 below “local authority” means a district council, a London borough council and the Common Council of the City of London.
+
+(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F29]
+
+(6) Subject to subsection (8) below, before undertaking any works under subsection (2) above, other than works on land to which section 30 below applies, a local authority shall serve a notice that they propose to undertake works under this section in connection with the building on each owner or occupier of the building.
+
+(7) A notice under subsection (6) above shall specify the works in connection with the building which the local authority propose to undertake.
+
+(8) A local authority need not give any such notice where they consider—
+
+(a) that it is necessary to undertake works immediately in order to secure the building against unauthorised entry or to prevent it from becoming a danger to public health; or
+
+(b) that it is not reasonably practicable to ascertain the name and address of an owner or to trace the whereabouts of an occupier who is absent from the building.
+
+(9) A local authority shall not undertake works specified in a notice under subsection (6) above before the expiry of the period of 48 hours from the service of the notice.
+
+(10) For the purpose of exercising the power conferred on a local authority by this section any person duly authorised in writing by the authority may enter—
+
+(a) the building in connection with which works are to be undertaken;
+
+(b) any land that appears to the local authority to be appurtenant to the building; and
+
+(c) any other land if—
+
+(i) it appears to the local authority to be unoccupied; and
+
+(ii) it would be impossible to undertake the works without entering it.
+
+(11) Where the local authority undertake any works under subsection (2) above, they may recover the expenses reasonably incurred in so doing from any person to whom notice was given under subsection (6) above or subsection (2) of section 30 below or to whom notice would have been required to be given but for subsection (8) of this section or subsection (4) of that section.
+
+(12) Section 293 of the [^M9]Public Health Act 1936 shall have effect in relation to the recovery of expenses under this section as it has effect in relation to the recovery of a sum which a council are entitled to recover under that Act and with respect to the recovery of which provision is not made by any other section of that Act.
+
+(13) In proceedings to recover expenses under this section the court may inquire whether the expenses ought to be borne wholly or in part by some person other than the defendant in the proceedings, and the court may make such order concerning the expenses of their apportionment as appears to the court to be just.
+
+### 30 Buildings on operational land of British Railways Board and certain statutory undertakers.
+
+(1) This section applies to operational land—
+
+(a) of the British Railways Board (in this section referred to as “the Board”); . . . [^F30]
+
+(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F30]
+
+(2) Subject to subsection (4) below, before undertaking any works under section 29(2) above on land to which this section applies a local authority shall serve notice that they propose to undertake works under that section in connection with the building—
+
+(a) on the Board, if the works which they propose to undertake will be undertaken on operational land of the Board; and
+
+(b) in any other case, on the statutory undertakers on whose operational land the works will be undertaken.
+
+(3) A notice under subsection (2) above shall specify the works which the local authority propose to undertake.
+
+(4) A local authority need not give any such notice where they consider that it is necessary to undertake works immediately in order to secure a building against unauthorised entry or to prevent it from becoming a danger to public health.
+
+(5) A local authority shall not undertake works specified in a notice under subsection (2) above before the expiry of the period of 48 hours from the service of the notice on the Board or the statutory undertakers.
+
+(6) In carrying out any works under section 29(2) above on land to which this section applies a local authority shall comply with any reasonable requirement which the Board or, as the case may be, the statutory undertakers may impose for the protection or safety of their undertaking.
+
+(7) In this section “operational land” means, in relation to the Board or the statutory undertakers—
+
+(a) land which is used for the purpose of carrying on their undertaking; and
+
+(b) land in which an interest is held for that purpose,
+
+not being land which, in respect of its nature and situation, is comparable rather with land in general than with land which is used, or in which interests are held, for the purpose of carrying on such undertakings.
+
+### 31 Appeals against notices.
+
+(1) A person on whom a notice is served under section 29 or 30 above may appeal against the notice to the county court.
+
+(2) No such appeal may be brought after the expiry of the period of 21 days from the date on which the notice was served.
+
+(3) The ground of any such appeal may be—
+
+(a) that the works specified in the notice were not authorised by section 29 above; or
+
+(b) that they were unnecessary; or
+
+(c) that it was otherwise unreasonable for the local authority to undertake them.
+
+(4) If such an appeal is brought, the local authority—
+
+(a) shall cease from any works specified in the notice which they have commenced; and
+
+(b) shall not commence any further works so specified except as provided by subsection (7) below.
+
+(5) The court may make an order confirming or quashing the notice or varying it in such manner as it thinks fit.
+
+(6) An order under subsection (5) above may make such provision as to the recovery of expenses arising in connection with the works specified in the notice as the court thinks fit.
+
+(7) Upon the confirmation or variation of a notice the local authority may commence or recommence the works authorised by the notice as originally served or, as the case may be, as varied by the order of the court.
+
+### 32 Applications to court in respect of expenses of works.
+
+(1) If a local authority seek to recover expenses incurred in undertaking works under section 29(2) above in connection with a building—
+
+(a) where the building is on land to which section 30 above applies, from the Board or the statutory undertakers; or
+
+(b) in any other case, from an occupier of the building; and
+
+(c) they did not serve notice of their proposal to undertake the works under section 29(6) or 30(2) above on the Board or, as the case may be, the statutory undertakers or that occupier,
+
+the person from whom they seek to recover the expenses may apply to the county court for a declaration—
+
+(i) that the works undertaken in connection with the building were unnecessary; or
+
+(ii) that it was otherwise unreasonable for the local authority to undertake them.
+
+(2) No such application may be made after the expiry of the period of 21 days from the date on which the local authority first requested payment of the expenses.
+
+(3) If the court makes a declaration under subsection (1) above, it may make such order as it thinks fit in respect of the payment of the expenses incurred in connection with the works.
+
+## Part XII — Miscellaneous
+
+### 33 Enforceability by local authorities of certain covenants relating to land.
+
+(1) The provisions of this section shall apply if a principal council (in the exercise of their powers under section 111 of the [^M10]Local Government Act 1972 or otherwise) and any other person are parties to an instrument under seal which—
+
+[[^F31](a) is executed for the purpose of securing the carrying out of works on land in the council’s area in which the other person has an interest, or
+
+(b) is executed for the purpose of regulating the use of or is otherwise connected with land in or outside the council’s area in which the other person has an interest,
+
+and which is neither executed for the purpose of facilitating nor connected with the development of the land in question.]
+
+(2) If, in a case where this section applies,—
+
+(a) the instrument contains a covenant on the part of any person having an interest in land, being a covenant to carry out any works or do any other thing on or in relation to that land, and
+
+(b) the instrument defines the land to which the covenant relates, being land in which that person has an interest at the time the instrument is executed, and
+
+(c) the covenant is expressed to be one to which this section or section 126 of the [^M11]Housing Act 1974 (which is superseded by this section) applies,
+
+the covenant shall be enforceable (without any limit of time) against any person deriving title from the original covenantor in respect of his interest in any of the land defined as mentioned in paragraph (b) above and any person deriving title under him in respect of any lesser interest in that land as if that person had also been an original covenanting party in respect of the interest for the time being held by him.
+
+(3) Without prejudice to any other method of enforcement of a covenant falling within subsection (2) above, if there is a breach of the covenant in relation to any of the land to which the covenant relates, then, subject to subsection (4) below, the principal council who are a party to the instrument in which the covenant is contained may—
+
+(a) enter on the land concerned and carry out the works or do anything which the covenant requires to be carried out or done or remedy anything which has been done and which the covenant required not to be done; and
+
+(b) recover from any person against whom the covenant is enforceable (whether by virtue of subsection (2) above or otherwise) any expenses incurred by the council in exercise of their powers under this subsection.
+
+(4) Before a principal council exercise their powers under subsection (3)(a) above they shall give not less than 21 days notice of their intention to do so to any person—
+
+(a) who has for the time being an interest in the land on or in relation to which the works are to be carried out or other thing is to be done; and
+
+(b) against whom the covenant is enforceable (whether by virtue of subsection (2) above or otherwise).
+
+(5) If a person against whom a covenant is enforceable by virtue of subsection (2) above requests the principal council to supply him with a copy of the covenant, it shall be their duty to do so free of charge.
+
+(6) The [^M12]Public Health Act 1936 shall have effect as if any reference to that Act in—
+
+(a) section 283 of that Act (notices to be in writing; forms of notices, etc.),
+
+(b) section 288 of that Act (penalty for obstructing execution of Act), and
+
+(c) section 291 of that Act (certain expenses recoverable from owners to be a charge on the premises; power to order payment by instalments),
+
+included a reference to subsections (1) to (4) above and as if any reference in those sections of that Act—
+
+(i) to a local authority were a reference to a principal council; and
+
+(ii) to the owner of the premises were a reference to the holder of an interest in land.
+
+(7) Section 16 of the [^M13]Local Government (Miscellaneous Provisions) Act 1976 shall have effect as if references to a local authority and to functions conferred on a local authority by any enactment included respectively references to such a board as is mentioned in subsection (9) below and to functions of such a board under this section.
+
+(8) In its application to a notice or other document authorised to be given or served under subsection (4) above or by virtue of any provision of the [^M14]Public Health Act 1936 specified in subsection (6) above, section 233 of the [^M15]Local Government Act 1972 (service of notices by local authorities) shall have effect as if any reference in that section to a local authority included a reference to the Common Council of the City of London and such a board as is mentioned in the following subsection.
+
+(9) In this section—
+
+(a) “principal council” means the council of a county, district or London borough [[^F32]the Broads Authority], a board constituted in pursuance of [[^F33] section 2 of the [^M16]Town and Country Planning Act 1990] [^F34]..., the Common Council of the City of London [[^F35], the London Residuary Body,] [[^F36]a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004,] [[^F37]the London Fire Commissioner,] a [[^F38]police and crime commissioner, the Mayor's Office for Policing and Crime,] [^F39]... [^F40]... [^F41]... [[^F42], a joint authority established by Part 4 of the Local Government Act 1985 [[^F43], an economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009] [[^F44], a combined authority established under section 103 of that Act or a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023]] [^F45]...; and
+
+(b) “area” in relation to such a board means the district for which the board is constituted [^F34]... [[^F46]in relation to the London Residuary Body means Greater London] [^F47]... [[^F48], [^F49]... and in relation to such a joint authority [[^F50], economic prosperity board] [[^F51], combined authority or combined county authority] means the area for which the authority was established].
+
+(10) Section 126 of the [^M17]Housing Act 1974 (which is superseded by this section) shall cease to have effect; but in relation to a covenant falling within subsection (2) of that section, section 1(1)(d) of the [^M18]Local Land Charges Act 1975 shall continue to have effect as if the reference to the commencement of that Act had been a reference to the coming into operation of the said section 126.
+
+### 34 Local land charges registers–computerisation etc.
+
+In the Local Land Charges Act 1975—
+
+(a) the following subsection shall be substituted for subsection (3) of section (3) (which provides for the keeping of local land charges registers and indexes of such registers)—
+
+> (3) Neither a local land charges register nor an index such as is mentioned in subsection (2)(b) above need be kept in documentary form.
+
+;
+
+(b) the following subsection shall be inserted after subsection (1) of section 8 (personal searches)—
+
+> (1A) If a local land charges register is kept otherwise than in documentary form, the entitlement of a person to search in it is satisfied if the registering authority makes the portion of it which he wishes to examine available for inspection in visible and legible form.
+
+;
+
+(c) in subsection (2) of that section, for the words “subsection (1)” there shall be substituted the words “ subsections (1) and (1A) ” ;
+
+(d) in section 10(1) (compensation)—
+
+(i) the following paragraph shall be inserted after paragraph (a)—
+
+> (aa) in a case where the appropriate local land charges register is kept otherwise than in documentary form and a material personal search of that register was made in respect of the land in question before the relevant time, if the entitlement to search in that register conferred by section 8 above was not satisfied as mentioned in subsection (1A) of that section ; or
+
+; and
+
+(ii) the words “ in consequence ” shall be substituted for the words from “by reason” onwards; and
+
+(e) the following subsection shall be inserted after subsection (1) of section 16 (interpretation)—
+
+> (1A) Any reference in this Act to an office copy of an entry includes a reference to the reproduction of an entry in a register kept otherwise than in documentary form.
+
+.
+
+### 35 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F52]
+
+### 37 Temporary markets.
+
+(1) The council of a district or a London borough may resolve that the following provisions of this section shall apply to their district or borough; and if a council so resolve and within 14 days of the passing of the resolution give notice of the resolution by advertising in a local newspaper circulating in their area, those provisions shall come into force in their district or borough on the day specified in the resolution.
+
+(2) Subject to subsection (3) below, any person intending to hold a temporary market in a district or London borough where the provisions of this section have come into force, and any occupier of land in such a district or borough who intends to permit the land to be used as the site of a temporary market or for purposes of that market, shall give the council of the district or the borough not less than one month before the date on which it is proposed to hold the market notice of his intention to hold it or to permit the land to be so used, as the case may be.
+
+(3) No notice is required under subsection (2) above if the proceeds of the temporary market are to be applied solely or principally for charitable, social, sporting or political purposes.
+
+(4) Any notice given under subsection (2) above shall state—
+
+(a) the full name and address of the person intending to hold the market;
+
+(b) the day or days on which it is proposed that the market shall be held and its proposed opening and closing times;
+
+(c) the site on which it is proposed that it shall be held;
+
+(d) the full name and address of the occupier of that site, if he is not the person intending to hold the market.
+
+(5) A person who without giving the notice required by subsection (2) above holds a temporary market or permits land occupied by him to be used as the site of a temporary market shall be guilty of an offence and liable on summary conviction to a fine not exceeding [[^F53]level 4 on the standard scale].
+
+(6) In this section “temporary market” means a concourse of buyers and sellers of articles held otherwise than in a building or on a highway, and comprising not less than five stalls, stands, vehicles (whether movable or not) or pitches from which articles are sold, but does not include—
+
+(a) a market or fair the right to hold which was acquired by virtue of a grant (including a presumed grant) or acquired or established by virtue of an enactment or order; or
+
+(b) a sale by auction of farm livestock or deadstock.
+
+(7) A person holds a temporary market for the purposes of this section if—
+
+(a) he is entitled to payment for any space or pitch hired or let on the site of the market to persons wishing to trade in the market; or
+
+(b) he is entitled, as a person promoting the market, or as the agent, licensee or assignee of a person promoting the market, to payment for goods sold or services rendered to persons attending the market.
+
+(8) This section does not apply to a market held on any land in accordance with planning permission granted on an application made under [[^F54]Part III [[^F55]or, in relation to England, Part 13] of the Town and Country Planning Act 1990].
+
+### 38 Work undertaken by local authorities and development bodies under certain agreements with Manpower Services Commission.
+
+(1) The following subsection shall be added at the edn of section 20 of the [^M19]Local Government, Planning and Land Act 1980—
+
+> (4) Notwithstanding anything in subsection (1) above, in this Act “construction or maintainance work” does not include work undertaken by a local authority or a development body pursuant to an agreement made with the Manpower Services Commission on or after 1st April 1982 which specifies the work to be undertaken by the authority or body and under which the Commission has agrees to pay the whole or part of the cost of the work so specified.
+
+.
+
+(2) The words “to (4)” shall accordingly be substituted for the words “ and (3) ” in the definition of “construction or maintainance work” in subsection (1) of that section.
+
+(3) This section extends to Scotland.
+
+### 39 Insurance etc. of local authority members and persons voluntarily assisting local authorities and probation committees.
+
+(1) In section 140 of the [^M20]Local Government Act 1972 (insurance by local authorities against accidents to members)—
+
+(a) the following subsection shall be substituted for subsection (1)—
+
+> (1) A local authority may enter into a contract of insurance of Class 1 in Part I of Schedule 2 to the Insurance Companies Act 1981 against any risks of any member of the authority meeting with a personal accident, whether fatal or not, while engaged on the business of the authority.
+
+(b) the words in subsection (3) from “but” to the end shall cease to have effect.
+
+(2) The following subsections shall be inserted after that section—
+
+> **140A Insurance of voluntary assistants of local authorities.**
+>
+> (1) A local authority may enter into a contract of insurance of a relevant class against risks of any voluntary assistant of the authority meeting with a personal accident, whether fatal or not, while engaged as such or suffering from any disease or sickness, whether fatal or not, as the result of being so engaged.
+>
+> (2) In this section—
+>
+> “local authority” includes—
+>
+> (a) a board constituted in pursuance of section 1 of the Town and Country Planning Act 1971 or reconstituted in pursuance of Schedule 17 of this Act ;
+>
+> (b) the Common Council of the City of London ; and
+>
+> (c) the Council of the Isles of Scilly ; and
+>
+> “voluntary assistant” means a person who, at the request of the local authority or an authorised officer of the local authority, performs any service or does anything otherwise than for payment by the local authority (except by way of reimbursement of expenses), for the purposes of, or inconnection with, the carrying out of any of the functions of the local authority.
+>
+> **140B Insurance of voluntary assistants of probation committees.**
+>
+> (1) A county council and the Greater London Council may enter into a contract of insurance of a relevant class against risks of any voluntary assistant of a relevant probation committee meeting with a personal accident, whether fatal or not, while enagaged as such, or suffering from any disease or sickness, whether fatal ot not, as the result of being so engaged.
+>
+> (2) In this section—
+>
+> “relevant probation committee” means—
+>
+> (a) in relation to a county council, a probation committee for a probation area wholly or partly within the county ; and
+>
+> (b) in relation to Greater London, a probation committee for a probation area wholly or partly within an outer London borough (within the eaning of section 1 of the 1963 Act) ; and
+>
+> “voluntary assistant” means a person who, at the request of an authorised officer of the probation committee, performs any service or does anything otherwise than for payment by the committee (except by way of reimbursement of expenses), for the purposes of, or in connection with, the carrying out of any of the functions of the committee.
+>
+> **140C Provisions supplementary to sections 140A and 140B.**
+>
+> (1) The relevant classes of contracts of insurance for the purposes of sections 140A and 140B above are—
+>
+> (a) class IV in Schedule 1 to the Insurance Companies Act 1981 (permanent health insurance) ; and
+>
+> (b) class 1 in Part I of Schedule 2 to that Act (accident insurance).
+>
+> (2) Any sum received under a contract of insurance made by virtue of section 140A or 140B above shall, after deduction of any expenses incurred in the recovery thereof, be paid by the authority receiving to it, or to the personal representatives of the voluntary assistant who suffered the accident, disease or sickness inrespect of which the sum is received or to such other person as the authority consider appropriate having regard to the circumstances of the case ; and a sum paid to any person other than the assistant or his personal representatives shall be applies by thsat person in accordance with any directions given by the authority for the benefit of any dependent of the voluntary assistant.
+>
+> (3) The provisions of the Life Assurance Act 1774 shall not apply to any suc contract.
+>
+> (4) Section 119 above shall apply to any sum which is due by virtue of subsection (2) above and does not exceed the amount for the time being specified in section 119(1) above.
+
+.
+
+[^F56]3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F57]40 Nuisance and disturbance on educational premises.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 41 Lost and uncollected property.
+
+(1) This section has effect where—
+
+(a) property comes into the possession of a local authority after being found on buildings or premises owned or managed by them; or
+
+(b) property which has been deposited with a local authority is not collected from them in accordance with the terms under which it was deposited.
+
+(2) Where—
+
+(a) property is found on any building or premises owned or managed by a local authority; and
+
+(b) it is subsequently handed over to the authority,
+
+any right of possession of the property which was vested in a person by virtue of its having been found is extinguished.
+
+(3) If—
+
+(a) the local authority gives the owner or, as the case may be, the depositor of the property notice in writing—
+
+(i) that they require him to collect the property by a date specified in the notice; and
+
+(ii) that if he does not do so the property will vest in the local authority on that date; and
+
+(b) he fails to comply with the notice,
+
+the property shall vest in the local authority on the specified date.
+
+(4) The date to be specified in a notice under subsection (3) above shall be not less than one month from the date of the notice.
+
+(5) Where it appears to the local authority, on the date when property comes into their possession as mentioned in paragraph (a) of subsection (1) above, that it is impossible to serve a notice under subsection (3) above, the property shall vest in the authority one month from that date.
+
+(6) Where the local authority are satisfied after reasonable inquiry that it is impossible to serve a notice under subsection (3) above in relation to any property, it shall vest in them six months from the relevant date.
+
+(7) Where—
+
+(a) any property is of a perishable nature; or
+
+(b) to look after it adequately would involve the local authority in unreasonable expense or inconvenience,
+
+the authority may sell or otherwise dispose of it at such time and in such manner as they think fit.
+
+(8) Where property is sold or otherwise disposed of under subsection (7) above—
+
+(a) any person to whom the property is transferred shall have a good title to it; and
+
+(b) any proceeds of sale shall vest in the local authority on the day when the property would have vested in them under this section if it had not been sold.
+
+(9) Where any property which came into the possession of a local authority as mentioned in paragraph (a) of subsection (1) above vests in the authority under this section, the authority may give the whole or any part of the property to the person through whom it came into their possession.
+
+(10) Where the proceeds of sale of property which came into the possession of a local authority as mentioned in the said paragraph (a) vest in the authority under this section, the authority may make a payment not exceeding the value of the property to the person through whom it came into their possession.
+
+(11) Where property is claimed by its owner or depositor before it vests in a local authority under this section, he may collect it on payment to the local authority of any sum which they require him to pay in respect of costs incurred by them—
+
+(a) in making inquiries for the purposes of this section or serving any notice under subsection (3) above; and
+
+(b) in looking after the property adequately.
+
+(12) This section shall not apply to any property which is found—
+
+(a) on an aerodrome or in an aircraft on an aerodrome;
+
+(b) in a public service vehicle; or
+
+[[^F58](c) on any premises belonging to or under the control of Transport for London or of any of its subsidiaries (within the meaning of the Greater London Authority Act 1999).]
+
+(13) In this section—
+
+- “aerodrome” has the meaning assigned to it by section 28(1) of the [^M21] Civil Aviation Act 1968;
+
+- “local authority” means—
+
+  - (a) a local authority as defined in section 270(1) of the [^M22]Local Government Act 1972; and
+  - (b) a board constituted in pursuance of [[^F59]section 2 of the Town and Country Planning Act [^M23]1990] [^F60]...; and
+  - (bb) [[^F61]the Broads Authority; and]
+  - (c) the Common Council of the City of London; [[^F62]and
+  - (ca) [[^F63]a police and crime commissioner; and]
+  - (caa) [[^F63]the Mayor's Office for Policing and Crime; and.]
+  - (cb) [^F64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (d) [^F65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (e) a joint authority established by Part IV of the Local Government Act 1985;]
+  - (eza) [[^F66]an economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009;
+  - (ezb) a combined authority established under section 103 of that Act;]
+  - (ezba) [[^F67]a combined county authority established under section 9(1) of the Levelling-up and Regeneration Act 2023;]
+  - (ezc) [[^F68]a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004;]
+  - (ea) [^F69]... [[^F70]and
+  - (f) [[^F71]the London Fire Commissioner;]]
+
+- “public service vehicle” has the meaning assigned to it by section 1 of the [^M24]Public Passenger Vehicles Act 1981;
+
+- “the relevant date” means—
+
+  - (a) in relation to property which came into the possession of a local authority as mentioned in paragraph (a) of subsection (1) above, the date when it came into their possession; and
+  
+  - (b) in relation to uncollected property,—
+  
+    - (i) the date when the local authority accepted custody of it; or
+    - (ii) the date when the period for which it was deposited with them expired,
+
+  whichever is the later.
+
+### 42 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F72]
+
+### 43 Advances for acquisition of land, erection of buildings or carrying out of works.
+
+In section 3 of the [^M25]Local Authorities (Land) Act 1963—
+
+(a) the following subsection shall be substituted for subsection (1)—
+
+> (1) Where a local authority are satisfied that it would be for the benefit or improvement of their area, they may, subject to the provisions of this section, advance money to any person for the purpsoe of enabling him—
+>
+> (a) to acquire land ; or
+>
+> (b) to erect any building or to carry out any work on land.
+
+; and
+
+(b) the following subsections shall be substituted for subsection (3)—
+
+> (3) The amount of the principal of an advance made under subsection (1)(a) of this section shall not exceed nine-tenths of the value of the land.
+>
+> (3A) The amount of the principal of an advance made under subsection (1)(b) of this section shall not exceed nine-tenths of the value which it is estimated the mortgaged security will bear upon the completion of the building or other works in respect of which the advance is made.
+
+.
+
+### 44 Definition of certain local authority expenditure.
+
+In section 137 of the [^M26]Local Government Act 1972 (which gives local authorities power to incur expenditure for certain purposes not otherwise authorised, but limits the expenditure which it authorises)—
+
+(a) the following subsections shall be inserted after subsection (2)—
+
+> (2A) Without prejudice to the generality of subsection (1) above, the power of a local authority to incur expenditure under that subsection includes power to incur expenditure ingiving financial assistance to persons carrying on commercial or industrial undertakings.
+>
+> (2B) Financial assitance under subsection (2A) above may be given by lending or guarantee, or by making grants.
+
+;
+
+(b) the following subsections shall be inserted after subsection (4)—
+
+> (4A) For the purpose of determining whether a local authority have exceeded the limit set out in subsection (4) above, their expenditure in any financial year under this section shall be taken to be the diferrence between their gross expenditure under this section for that year and the aggregate of the amounts specified in subsection (4B) below.
+>
+> (4B) The amounts mentioned in subsection (4A) above are—
+>
+> (a) any grant paid to the local authority for that year under the Local Government Grants (Social Needs) Act 1969, in so far as the grant is in respect of an activity in relation to which the authority have incurred expenditure in that year under this section ;
+>
+> (b) the amount of any repayment in that year of the principal of a loan for the purpose of financing expenditure under this section in any year ;
+>
+> (c) so mauch of any amount raised by public subscription as is spent in that year for a purpose for which the authority are authorised by this section to incur expenditure ;
+>
+> (d) any grant received by the authority for that year out of the European Regional Development Fund or the Social Fund of the European Economic Community, in so far as the grant is in respect of ana ctivity inrelation to which the authority incurred expenditure under this section ;
+>
+> (e) the amount of any repayment in that year of a loan under this section made by the authority in any year ; and
+>
+> (f) the amount of any expenditure—
+>
+> (i) which is incurred by the authority in that year in circimstances specified in an order made by the Secretary of State ; or
+>
+> (ii) which is incurred by the authority in that year and is of a description so specified ; or
+>
+> (iii) which is defrayed by any grant or other payment to the authority which is made in or in respect of that year and is of a description so specified.
+
+; and
+
+(c) in subsection (5), for the words “subsection (4) above” there shall be substituted the words “ this section ”.
+
+### 45 Arrangements under Employment and Training Act 1973.
+
+(1) A local authority to whom this section applies shall have power and shall be deemed always to have had power to enter into arrangements with [^F73]... the Secretary of State under any provision of the Employment and Training Act 1973.
+
+(2) The local authorities to whom this section applies are—
+
+(a) a local authority as defined in section 270(1) of the [^M27]Local Government Act 1972;
+
+[[^F74](aa) an authority established by Part [^F75]... IV of the Local Government Act 1985 or by an order under section 10 of that Act;
+
+(ab) a body corporate established by an order under section 67 of that Act.].
+
+(b) a board constituted in pursuance of [[^F76]section 2 of the Town and Country Planning Act 1990] [^F77]. . .; [^F78]...
+
+[[^F79](bb) the Broads Authority; [^F78]...]
+
+(c) the Common Council of the City of London.
+
+[[^F80](ca) a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004; and]
+
+[[^F81](d) the London Fire Commissioner.]
+
+### [^F82]46 Extension of duration of local Act powers to assist industry etc.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part XIII — Supplementary
+
+### 47 Minor amendments and repeals.
+
+(1) The enactments specified in Schedule 6 to this Act shall have effect subject to the amendments specified in that Schedule.
+
+(2) The enactments specified in Schedule 7 to this Act are repealed to the extent specified in the third column of that Schedule.
+
+(3) So far as subsection (2) above relates to Parts I and II of Schedule 7 to this Act, it shall come into force on 1st January 1983.
+
+(4) Subsection (2) above extends to Scotland in so far as it relates to any enactment contained in Part IV of Schedule 7 to this Act which so extends.
+
+### 48 Consequential repeal or amendment of local statutory provisions.
+
+(1) The Secretary of State may by order—
+
+(a) repeal any provision of a local Act passed before or in the same Session as this Act or of an order or other instrument made under or confirmed by any Act so passed if it appears to him that the provision is inconsistent with or has become unnecessary in consequence of any provision of this Act; and
+
+(b) amend any provision of such a local Act, order or instrument if it appears to him that the provision requires amendment in consequence of any provision contained in this Act or any repeal made by virtue of paragraph (a) above.
+
+(2) An order under subsection (1) above may contain such incidental or transitional provisions as the Secretary of State considers appropriate in connection with the order.
+
+(3) It shall be the duty of the Secretary of State, before he makes an order under subsection (1) above repealing or amending any provision of a local Act, to consult each local authority which he considers would be affected by the repeal or amendment of that provision.
+
+(4) A statutory instrument containing an order under subsection (1) above shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 49 Citation and extent.
+
+(1) This Act may be cited as the Local Government (Miscellaneous Provisions) Act 1982.
+
+(2) Subject to sections [^F83]... 38(3) and 47(4) above, and to paragraph 8(2) of Schedule 6 to this Act, this Act extends to England and Wales only.
+
+## [^F84]SCHEDULE 1 — Licensing of Public Entertainments
+
+### [^F84] Grant, renewal and transfer of entertainments licences
+
+**[^F84]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F84]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F84]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F84]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F84]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F84]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F84]6A** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F84]7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F84]8** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F84] Transmission and cancellation of entertainments licences
+
+**[^F84]9** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F84]10** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F84] Power to prescribe standard terms, conditions and restrictions
+
+**[^F84]11** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F84] Enforcement
+
+**[^F84]11A** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F84]12** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F84]13** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F84]13A** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F84]14** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F84] Provisional grant of licences
+
+**[^F84]15** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F84] Variation of licences
+
+**[^F84]16** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F84]16A** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F84] Appeals
+
+**[^F84]17** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F84] Miscellaneous
+
+**[^F84]18** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F84] Savings and transitional provisions
+
+**[^F84]19** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F84]20** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F84]21** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### [^F84] Supplemental
+
+**[^F84]22** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — AMENDMENTS CONSEQUENTIAL ON SECTION 1
+
+*Section 1.*
+
+### Hypnotism Act 1952 (c. 46)
+
+**[^F85]1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Private Places of Entertainment (Licensing) Act 1967 (c. 19)
+
+**[^F85]2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F85]3** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F85]4** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Licensing Act 1964 (c. 26)
+
+**[^F85]5** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**[^F85]6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — Control of Sex Establishments
+
+### Saving for existing law
+
+**1** Nothing in this Schedule—
+
+(a) shall afford a defence to a charge in respect of any offence at common law or under an enactment other than this Schedule; or
+
+(b) shall be taken into account in any way—
+
+(i) at a trial for such an offence; or
+
+(ii) in proceedings for forfeiture under section 3 of the [^M28]Obscene Publications Act 1959 or section 5 of the [^M29]Protection of Children Act 1978; or
+
+(iii) in proceedings for condemnation under Schedule 3 to the [^M30]Customs and Excise Management Act 1979 of goods which section 42 of the [^M31]Customs Consolidation Act 1876 prohibits to be imported or brought into the United Kingdom as being indecent or obscene; or
+
+(c) shall in any way limit the other powers exercisable under any of those Acts.
+
+### Meaning of “sex establishment”
+
+**2** In this Schedule “sex establishment” means a [[^F86]sexual entertainment venue,] sex cinema or a sex shop.
+
+### [[^F87]Meaning of “sexual entertainment venue”
+
+**2A** (1) In this Schedule “sexual entertainment venue” means any premises at which relevant entertainment is provided before a live audience for the financial gain of the organiser or the entertainer.
+
+(2) In this paragraph “relevant entertainment” means—
+
+(a) any live performance; or
+
+(b) any live display of nudity;
+
+which is of such a nature that, ignoring financial gain, it must reasonably be assumed to be provided solely or principally for the purpose of sexually stimulating any member of the audience (whether by verbal or other means).
+
+(3) The following are not sexual entertainment venues for the purposes of this Schedule—
+
+(a) sex cinemas and sex shops;
+
+(b) premises at which the provision of relevant entertainment as mentioned in sub-paragraph (1) is such that, at the time in question and including any relevant entertainment which is being so provided at that time—
+
+(i) there have not been more than eleven occasions on which relevant entertainment has been so provided which fall (wholly or partly) within the period of 12 months ending with that time;
+
+(ii) no such occasion has lasted for more than 24 hours; and
+
+(iii) no such occasion has begun within the period of one month beginning with the end of any previous occasion on which relevant entertainment has been so provided (whether or not that previous occasion falls within the 12 month period mentioned in sub-paragraph (i));
+
+(c) premises specified or described in an order made by the relevant national authority.
+
+(4) The relevant national authority may by order amend or repeal sub-paragraph (3)(b).
+
+(5) But no order under sub-paragraph (4) may—
+
+(a) increase the number or length of occasions in any period on which sub-paragraph (3)(b) as originally enacted would permit relevant entertainment to be provided; or
+
+(b) provide for shorter intervals between such occasions.
+
+(6) The relevant national authority may by order provide for descriptions of performances, or of displays of nudity, which are not to be treated as relevant entertainment for the purposes of this Schedule.
+
+(7) Any power of the relevant national authority to make an order under this paragraph—
+
+(a) is exercisable by statutory instrument;
+
+(b) may be exercised so as to make different provision for different cases or descriptions of case or for different purposes; and
+
+(c) includes power to make supplementary, incidental, consequential, transitional, transitory or saving provision.
+
+(8) A statutory instrument containing an order under sub-paragraph (4) may not be made by the Secretary of State unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+
+(9) A statutory instrument containing an order made under sub-paragraph (3)(c) or (6) by the Secretary of State is subject to annulment in pursuance of a resolution of either House of Parliament.
+
+(10) A statutory instrument containing an order under sub-paragraph (4) may not be made by the Welsh Ministers unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
+
+(11) A statutory instrument containing an order made under sub-paragraph (3)(c) or (6) by the Welsh Ministers is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+
+(12) For the purposes of this paragraph relevant entertainment is provided if, and only if, it is provided, or permitted to be provided, by or on behalf of the organiser.
+
+(13) For the purposes of this Schedule references to the use of any premises as a sexual entertainment venue are to be read as references to their use by the organiser.
+
+(14) In this paragraph—
+
+- “audience” includes an audience of one;
+
+- “display of nudity” means—
+
+  - (a) in the case of a woman, exposure of her nipples, pubic area, genitals or anus; and
+  - (b) in the case of a man, exposure of his pubic area, genitals or anus;
+
+- “the organiser”, in relation to the provision of relevant entertainment at premises, means any person who is responsible for the organisation or management of—
+
+  - (a) the relevant entertainment; or
+  - (b) the premises;
+
+- “premises” includes any vessel, vehicle or stall but does not include any private dwelling to which the public is not admitted;
+
+- “relevant national authority” means—
+
+  - (a) in relation to England, the Secretary of State; and
+  - (b) in relation to Wales, the Welsh Ministers;
+
+and for the purposes of sub-paragraphs (1) and (2) it does not matter whether the financial gain arises directly or indirectly from the performance or display of nudity.]
+
+### Meaning of “sex cinema”
+
+**3** (1) In this Schedule, “sex cinema” means any premises, vehicle, vessel or stall used to a significant degree for the exhibition of moving pictures, by whatever means produced, which—
+
+(a) are concerned primarily with the portrayal of, or primarily deal with or relate to, or are intended to stimulate or encourage—
+
+(i) sexual activity; or
+
+(ii) acts of force or restraint which are associated with sexual activity; or
+
+(b) are concerned primarily with the portrayal of, or primarily deal with or relate to, genital organs or urinary or excretory functions,
+
+but does not include a dwelling-house to which the public is not admitted.
+
+(2) No premises shall be treated as a sex cinema by reason only—
+
+[[^F88](a) if they may be used for an exhibition of a film (within the meaning of paragraph 15 of Schedule 1 to the Licensing Act 2003) by virtue of an authorisation (within the meaning of section 136 of that Act), of their use in accordance with that authorisation]
+
+[[^F89](b) of their use for an exhibition to which section 6 of that Act (certain non-commercial exhibitions) applies given by an exempted organisation within the meaning of section 6(6) of [[^F90]the Cinemas Act 1985].]
+
+### Meaning of “sex shop” and “sex article”
+
+**4** (1) In this Schedule “sex shop” means any premises, vehicle, vessel or stall used for a business which consists to a significant degree of selling, hiring, exchanging, lending, displaying or demonstrating—
+
+(a) sex articles; or
+
+(b) other things intended for use in connection with, or for the purpose of stimulating or encouraging—
+
+(i) sexual activity; or
+
+(ii) acts of force or restraint which are associated with sexual activity.
+
+(2) No premises shall be treated as a sex shop by reason only of their use for the exhibition of moving pictures by whatever means produced.
+
+(3) In this Schedule “sex article” means—
+
+(a) anything made for use in connection with, or for the purpose of stimulating or encouraging—
+
+(i) sexual activity; or
+
+(ii) acts of force or restraint which are associated with sexual activity; and
+
+(b) anything to which sub-paragraph (4) below applies.
+
+(4) This sub-paragraph applies—
+
+(a) to any article containing or embodying matter to be read or looked at or anything intended to be used, either alone or as one of a set, for the reproduction or manufacture of any such article; and
+
+(b) to any recording of vision or sound,
+
+which—
+
+(i) is concerned primarily with the portrayal of, or primarily deals with or relates to, or is intended to stimulate or encourage, sexual activity or acts of force or restraint which are associated with sexual activity; or
+
+(ii) is concerned primarily with the portrayal of, or primarily deals with or relates to, genital organs, or urinary or excretory functions.
+
+### Miscellaneous definitions
+
+**5** (1) In this Schedule—
+
+- “the appropriate authority” means, in relation to any area for which a resolution has been passed under section 2 above, the local authority who passed it;
+- “the chief officer of police”, in relation to any locality, means the chief officer of police for the police area in which the locality is situated; and
+- “vessel” includes any ship, boat, raft or other apparatus constructed or adapted for floating on water.
+
+(2) This Schedule applies to hovercraft as it applies to vessels.
+
+### Requirement for licences for sex establishments
+
+**6** (1) Subject to the provisions of this Schedule, no person shall in any area in which this Schedule is in force use any premises, vehicle, vessel or stall as a sex establishment except under and in accordance with the terms of a licence granted under this Schedule by the appropriate authority.
+
+(2) Sub-paragraph (1) above does not apply to the sale, supply or demonstration of articles which—
+
+(a) are manufactured for use primarily for the purposes of birth control; or
+
+(b) primarily relate to birth control.
+
+**7** (1) Any person who—
+
+(a) uses any premises, vehicle, vessel or stall as a sex establishment; or
+
+(b) proposes to do so,
+
+may apply to the appropriate authority for them to waive the requirement of a licence.
+
+(2) An application under this paragraph may be made either as part of an application for a licence under this Schedule or without any such application.
+
+(3) An application under this paragraph shall be made in writing and shall contain the particulars specified in paragraph 10(2) to (5) below and such particulars as the appropriate authority may reasonably require in addition.
+
+(4) The appropriate authority may waive the requirement of a licence in any case where they consider that to require a licence would be unreasonable or inappropriate.
+
+(5) A waiver may be for such period as the appropriate authority think fit.
+
+(6) Where the appropriate authority grant an application for a waiver, they shall give the applicant for the waiver notice that they have granted his application.
+
+(7) The appropriate authority may at any time give a person who would require a licence but for a waiver notice that the waiver is to terminate on such date not less than 28 days from the date on which they give the notice as may be specified in the notice.
+
+### Grant, renewal and transfer of licences for sex establishments
+
+**8** [[^F91](1)] Subject to [[^F92]sub-paragraph (2) and] paragraph 12(1) below, the appropriate authority may grant to any applicant, and from time to time renew, a licence under this Schedule for the use of any premises, vehicle, vessel or stall specified in it for a sex establishment on such terms and conditions and subject to such restrictions as may be so specified.
+
+[[^F93](2) No term, condition or restriction may be specified under sub-paragraph (1) above in so far as it relates to any matter in relation to which requirements or prohibitions are or could be imposed by or under the Regulatory Reform (Fire Safety) Order 2005 in respect of the premises, vehicle, vessel or stall.]
+
+**9** (1) Subject to paragraphs 11 and 27 below, any licence under this Schedule shall, unless previously cancelled under paragraph 16 [[^F94]or 27A below] or revoked under paragraph 17(1) below, remain in force for one year or for such shorter period specified in the licence as the appropriate authority may think fit.
+
+(2) Where a licence under this Schedule has been granted to any person, the appropriate authority may, if they think fit, transfer that licence to any other person on the application of that other person.
+
+**10** (1) An application for the grant, renewal or transfer of a licence under this Schedule shall be made in writing to the appropriate authority.
+
+(2) An application made otherwise than by or on behalf of a body corporate or an unincorporated body shall state—
+
+(a) the full name of the applicant;
+
+(b) his permanent address; and
+
+(c) his age.
+
+(3) An application made by a body corporate or an unincorporated body shall state—
+
+(a) the full name of the body;
+
+(b) the address of its registered or principal office; and
+
+(c) the full names and private addresses of the directors or other persons responsible for its management.
+
+(4) An application relating to premises shall state the full address of the premises.
+
+(5) An application relating to a vehicle, vessel or stall shall state where it is to be used as a sex establishment.
+
+(6) Every application shall contain such particulars as the appropriate authority may reasonably require in addition to any particulars required under sub-paragraphs (2) to (5) above.
+
+(7) An applicant for the grant, renewal or transfer of a licence under this Schedule shall give public notice of the application.
+
+(8) Notice shall in all cases be given by publishing an advertisement in a local newspaper circulating in the appropriate authority’s area.
+
+(9) The publication shall not be later than 7 days after the date of the application.
+
+(10) Where the application is in respect of premises, notice of it shall in addition be displayed for 21 days beginning with the date of the application on or near the premises and in a place where the notice can conveniently be read by the public.
+
+(11) Every notice under this paragraph which relates to premises shall identify the premises.
+
+(12) Every such notice which relates to a vehicle, vessel or stall shall specify where it is to be used as a sex establishment.
+
+(13) Subject to sub-paragraphs (11) and (12) above, a notice under this paragraph shall be in such form as the appropriate authority may prescribe.
+
+[[^F95](14) A copy of an application for the grant, renewal or transfer of a licence under this Schedule shall be sent to the chief officer of police—
+
+(a) in a case where the application is made by means of a relevant electronic facility, by the appropriate authority not later than 7 days after the date the application is received by the authority;
+
+(b) in any other case, by the applicant not later than 7 days after the date of the application.]
+
+[[^F95](14A) In sub-paragraph (14) above “relevant electronic facility” means—
+
+(a) the electronic assistance facility referred to in regulation 38 of the Provision of Services Regulations 2009, or
+
+(b) any facility established and maintained by the appropriate authority for the purpose of receiving applications under this Schedule electronically.]
+
+(15) Any person objecting to an application for the grant, renewal or transfer of a licence under this Schedule shall give notice in writing of his objection to the appropriate authority, stating in general terms the grounds of the objection, not later than 28 days after the date of the application.
+
+(16) Where the appropriate authority receive notice of any objection under sub-paragraph (15) above, the authority shall, before considering the application, give notice in writing of the general terms of the objection to the applicant.
+
+(17) The appropriate authority shall not without the consent of the person making the objection reveal his name or address to the applicant.
+
+(18) In considering any application for the grant, renewal or transfer of a licence the appropriate authority shall have regard to any observations submitted to them by the chief officer of police and any objections of which notice has been sent to them under sub-paragraph (15) above.
+
+(19) The appropriate authority shall give an opportunity of appearing before and of being heard by a committee or sub-committee of the authority—
+
+(a) before refusing to grant a licence, to the applicant;
+
+(b) before refusing to renew a licence, to the holder; and
+
+(c) before refusing to transfer a licence, to the holder and the person to whom he desires that it shall be transferred.
+
+(20) Where the appropriate authority refuse to grant, renew or transfer a licence, they shall [^F96]... give him a statement in writing of the reasons for their decision [^F97]....
+
+**11** (1) Where, before the date of expiry of a licence, an application has been made for its renewal, it shall be deemed to remain in force notwithstanding that the date has passed until the withdrawal of the application or its determination by the appropriate authority.
+
+(2) Where, before the date of expiry of a licence, an application has been made for its transfer, it shall be deemed to remain in force with any necessary modifications until the withdrawal of the application or its determination, notwithstanding that the date has passed or that the person to whom the licence is to be transferred if the application is granted is carrying on the business of the sex establishment.
+
+### Refusal of licences
+
+**12** (1) A licence under this Schedule shall not be granted—
+
+(a) to a person under the age of 18; or
+
+(b) to a person who is for the time being disqualified under paragraph 17(3) below; or
+
+(c) to a person, other than a body corporate, who is not resident in [[^F98]the United Kingdom or] [[^F99]an EEA state] or was not so resident throughout the period of six months immediately preceding the date when the application was made; or
+
+(d) to a body corporate which is not incorporated in [[^F100]the United Kingdom or] [[^F99]an EEA state]; or
+
+(e) to a person who has, within a period of 12 months immediately preceding the date when the application was made, been refused the grant or renewal of a licence for the premises, vehicle, vessel or stall in respect of which the application is made, unless the refusal has been reversed on appeal.
+
+(2) Subject to paragraph 27 below, the appropriate authority may refuse—
+
+(a) an application for the grant or renewal of a licence on one or more of the grounds specified in sub-paragraph (3) below;
+
+(b) an application for the transfer of a licence on either or both of the grounds specified in paragraphs (a) and (b) of that sub-paragraph.
+
+(3) The grounds mentioned in sub-paragraph (2) above are—
+
+(a) that the applicant is unsuitable to hold the licence by reason of having been convicted of an offence or for any other reason;
+
+(b) that if the licence were to be granted, renewed or transferred the business to which it relates would be managed by or carried on for the benefit of a person, other than the applicant, who would be refused the grant, renewal or transfer of such a licence if he made the application himself;
+
+[[^F101](c) that the number of sex establishments, or of sex establishments of a particular kind, in the relevant locality at the time the application is determined is equal to or exceeds the number which the authority consider is appropriate for that locality;]
+
+(d) that the grant or renewal of the licence would be inappropriate, having regard—
+
+(i) to the character of the relevant locality; or
+
+(ii) to the use to which any premises in the vicinity are put; or
+
+(iii) to the layout, character or condition of the premises, vehicle, vessel or stall in respect of which the application is made.
+
+(4) Nil may be an appropriate number for the purposes of sub-paragraph (3)(c) above.
+
+(5) In this paragraph “the relevant locality” means—
+
+(a) in relation to premises, the locality where they are situated; and
+
+(b) in relation to a vehicle, vessel or stall, any locality where it is desired to use it as a sex establishment.
+
+### Power to prescribe standard conditions
+
+**13** (1) Subject to the provisions of this Schedule, the appropriate authority may make regulations prescribing standard conditions applicable to licences for sex establishments, that is to say, terms, conditions and restrictions on or subject to which licences under this Schedule are in general to be granted, renewed or transferred by them.
+
+[[^F102](1A) No standard condition may be prescribed by regulation under sub-paragraph (1) above in so far as it relates to any matter in relation to which requirements or prohibitions are or could be imposed by or under the Regulatory Reform (Fire Safety) Order 2005.]
+
+(2) Regulations under sub-paragraph (1) above may make different provision—
+
+(a) for [[^F103]sexual entertainment venues,] sex cinemas and sex shops; and
+
+(b) for different kinds of [[^F104]sexual entertainment venues,] sex cinemas and sex shops.
+
+(3) Without prejudice to the generality of sub-paragraphs (1) and (2) above, regulations under this paragraph may prescribe conditions regulating—
+
+(a) the hours of opening and closing of sex establishments;
+
+(b) displays or advertisements on or in such establishments;
+
+(c) the visibility of the interior of sex establishments to passersby; and
+
+[[^F105](d) any change from one kind of sex establishment mentioned in sub-paragraph (2)(a) above to another kind of sex establishment so mentioned.]
+
+(4) Where the appropriate authority have made regulations under sub-paragraph (1) above, every such licence granted, renewed or transferred by them shall be presumed to have been so granted, renewed or transferred subject to any standard conditions applicable to it unless they have been expressly excluded or varied.
+
+(5) Where the appropriate authority have made regulations under sub-paragraph (1) above, they shall, if so requested by any person, supply him with a copy of the regulations on payment of such reasonable fee as the authority may determine.
+
+(6) In any legal proceedings the production of a copy of any regulations made by the appropriate authority under sub-paragraph (1) above purporting to be certified as a true copy by an officer of the authority authorised to give a certificate for the purposes of this paragraph shall be prima facie evidence of such regulations, and no proof shall be required of the handwriting or official position or authority of any person giving such certificate.
+
+### Copies of licences and standard conditions
+
+**14** (1) The holder of a licence under this Schedule shall keep exhibited in a suitable place to be specified in the licence a copy of the licence and any regulations made under paragraph 13(1) above which prescribe standard conditions subject to which the licence is held.
+
+(2) The appropriate authority shall send a copy of any licence granted under this Schedule to the chief officer of police for the area where the sex establishment is situated.
+
+### Transmission and cancellation of licences
+
+**15** —In the event of the death of the holder of a licence granted under this Schedule, that licence shall be deemed to have been granted to his personal representatives and shall, unless previously revoked, remain in force until the end of the period of 3 months beginning with the death and shall then expire; but the appropriate authority may from time to time, on the application of those representatives, extend or further extend the period of three months if the authority are satisfied that the extension is necessary for the purpose of winding up the deceased’s estate and that no other circumstances make it undesirable.
+
+**16** The appropriate authority may, at the written request of the holder of a licence, cancel the licence.
+
+### Revocation of licences
+
+**17** (1) The appropriate authority may, after giving the holder of a licence under this Schedule an opportunity of appearing before and being heard by them, at any time revoke the licence—
+
+(a) on any ground specified in sub-paragraph (1) of paragraph 12 above; or
+
+(b) on either of the grounds specified in sub-paragraph (3)(a) and (b) of that paragraph.
+
+(2) Where a licence is revoked, the appropriate authority shall, if required to do so by the person who held it, give him a statement in writing of the reasons for their decision within 7 days of his requiring them to do so.
+
+(3) Where a licence is revoked, its holder shall be disqualified from holding or obtaining a licence in the area of the appropriate authority for a period of 12 months beginning with the date of revocation.
+
+### Variation of licences
+
+**18** (1) The holder of a licence under this Schedule may at any time apply to the appropriate authority for any such variation of the terms, conditions or restrictions on or subject to which the licence is held as may be specified in the application.
+
+(2) [[^F106]Subject to sub-paragraph (4) below,] The appropriate authority—
+
+(a) may make the variation specified in the application; or
+
+(b) may make such variations as they think fit; or
+
+(c) may refuse the application.
+
+(3) The variations that an authority may make by virtue of sub-paragraph (2)(b) above include, without prejudice to the generality of that sub-paragraph, variations involving the imposition of terms, conditions or restrictions other than those specified in the application.
+
+[[^F107](4) No variation is to be made under this paragraph in so far as it relates to any matter in relation to which requirements or prohibitions are or could be imposed by or under the Regulatory Reform (Fire Safety) Order 2005.]
+
+### Fees
+
+**19** An applicant for the grant, [[^F108]variation,] renewal or transfer of a licence under this Schedule shall pay a reasonable fee determined by the appropriate authority.
+
+### Enforcement
+
+**20** (1) A person who—
+
+(a) knowingly uses, or knowingly causes or permits the use of, any premises, vehicle, vessel or stall contrary to paragraph 6 above; or
+
+(b) being the holder of a licence for a sex establishment, employs in the business of the establishment any person known to him to be disqualified from holding such a licence; or
+
+(c) being the holder of a licence under this Schedule, without reasonable excuse knowingly contravenes, or without reasonable excuse knowingly permits the contravention of, a term, condition or restriction specified in the licence; or
+
+(d) being the servant or agent of the holder of a licence under this Schedule, without reasonable excuse knowingly contravenes, or without reasonable excuse knowingly permits the contravention of, a term, condition or restriction specified in the licence,
+
+shall be guilty of an offence.
+
+**21** Any person who, in connection with an application for the grant, renewal or transfer of a licence under this Schedule, makes a false statement which he knows to be false in any material respect or which he does not believe to be true, shall be guilty of an offence.
+
+**22** (1) A person guilty of an offence under paragraph 20 or 21 above shall be liable on summary conviction to [[^F109]a fine].
+
+(2) A person who, being the holder of a licence under this Schedule, fails without reasonable excuse to comply with paragraph 14(1) above shall be guilty of an offence and liable on summary conviction to a fine not exceeding [[^F110]level 3 on the standard scale].
+
+### Offences relating to persons under 18
+
+**23** (1) A person who, being the holder of a licence for a sex establishment—
+
+(a) without reasonable excuse knowingly permits a person under 18 years of age to enter the establishment; or
+
+(b) employs a person known to him to be under 18 years of age in the business of the establishment,
+
+shall be guilty of an offence.
+
+(2) A person guilty of an offence under this paragraph shall be liable on summary conviction to [[^F111]a fine] .
+
+### Powers of constables and local authority officers
+
+**[^F112]24** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**25** (1) A constable may, at any reasonable time, enter and inspect any sex establishment in respect of which a licence under this Schedule is for the time being in force, with a view to seeing—
+
+(i) whether the terms, conditions or restrictions on or subject to which the licence is held are complied with;
+
+(ii) whether any person employed in the business of the establishment is disqualified from holding a licence under this Schedule;
+
+(iii) whether any person under 18 years of age is in the establishment; and
+
+(iv) whether any person under that age is employed in the business of the establishment.
+
+(2) Subject to sub-paragraph (4) below, a constable may enter and inspect a sex establishment if he has reason to suspect that an offence under paragraph 20, 21 or 23 above has been, is being, or is about to be committed in relation to it.
+
+(3) An authorised officer of a local authority may exercise the powers conferred by sub-paragraphs (1) and (2) above in relation to a sex establishment in the local authority’s area.
+
+(4) No power conferred by sub-paragraph (2) above may be exercised by a constable or an authorised officer of a local authority unless he has been authorised to exercise it by a warrant granted by a justice of the peace.
+
+(5) Where an authorised officer of a local authority exercises any such power, he shall produce his authority if required to do so by the occupier of the premises or the person in charge of the vehicle, vessel or stall in relation to which the power is exercised.
+
+(6) Any person who without reasonable excuse refuses to permit a constable or an authorised officer of a local authority to exercise any such power shall be guilty of an offence and shall for every such refusal be liable on summary conviction to a fine not exceeding [[^F113]level 5 on the standard scale].
+
+**[[^F114]25A** (1) A person acting under the authority of a warrant under paragraph 25(4) may seize and remove anything found on the premises concerned that the person reasonably believes could be forfeited under sub-paragraph (4).
+
+(2) The person who, immediately before the seizure, had custody or control of anything seized under sub-paragraph (1) may request any authorised officer of a local authority who seized it to provide a record of what was seized.
+
+(3) The authorised officer must provide the record within a reasonable time of the request being made.
+
+(4) The court by or before which a person is convicted of an offence under paragraph 20 or 23 of this Schedule may order anything—
+
+(a) produced to the court; and
+
+(b) shown to the satisfaction of the court to relate to the offence;
+
+to be forfeited and dealt with in such manner as the court may order.
+
+(5) But the court may not order the forfeiture of anything under sub-paragraph (4) if it (whether alone or taken together with other things being forfeited which appear to the court to have been in the custody or control of the same person) is worth more than the amount of the maximum fine specified in paragraph 22(1).
+
+(6) Sub-paragraph (7) applies if a person claiming to be the owner of, or otherwise interested in, anything that may be forfeited applies to be heard by the court.
+
+(7) The court may not order the forfeiture unless the person has had an opportunity to show why the order should not be made.]
+
+### Offences by bodies corporate
+
+**26** (1) Where an offence under this Schedule committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of the offence.
+
+(2) Where the affairs of a body corporate are managed by its members sub-paragraph (1) above shall apply to the acts and defaults of a member in connection with his function of management as if he were a director of the body corporate.
+
+### Appeals
+
+**27** (1) Subject to sub-paragraphs (2) and (3) below, any of the following persons, that is to say—
+
+(a) an applicant for the grant, renewal or transfer of a licence under this Schedule whose application is refused;
+
+(b) an applicant for the variation of the terms, conditions or restrictions on or subject to which any such licence is held whose application is refused;
+
+(c) a holder of any such licence who is aggrieved by any term, condition or restriction on or subject to which the licence is held; or
+
+(d) a holder of any such licence whose licence is revoked,
+
+may at any time before the expiration of the period of 21 days beginning with the relevant date appeal to [[^F115]a magistrates' court] .
+
+(2) An applicant whose application for the grant or renewal of a licence is refused, or whose licence is revoked, on any ground specified in paragraph 12(1) above shall not have a right to appeal under this paragraph unless the applicant seeks to show that the ground did not apply to him.
+
+(3) An applicant whose application for the grant or renewal of a licence is refused on either ground specified in paragraph 12(3)(c) or (d) above shall not have the right to appeal under this paragraph.
+
+(4) In this paragraph—
+
+- [^F116]...
+- “the relevant date” means the date on which the person in question is notified of the refusal of his application, the imposition of the term, condition or restriction by which he is aggrieved or the revocation of his licence, as the case may be.
+
+(5) An appeal against the decision of a magistrates’ court under this paragraph may be brought to the Crown Court.
+
+(6) Where an appeal is brought to the Crown Court under sub-paragraph (5) above, the decision of the Crown Court shall be final: and accordingly in section 28(2)(b) of the [^M32][[^F117]Senior Courts Act 1981] for the words “or the Gaming Act 1968” there shall be substituted the words “, the Gaming Act 1968 or the Local Government (Miscellaneous Provisions) Act 1982”.
+
+(7) On an appeal to the magistrates’ court or the Crown Court under this paragraph the court may make such order as it thinks fit.
+
+(8) Subject to sub-paragraphs (9) to (12) below, it shall be the duty of the appropriate authority to give effect to an order of the magistrates’ court or the Crown Court.
+
+(9) The appropriate authority need not give effect to the order of the magistrates’ court until the time for bringing an appeal under sub-paragraph (5) above has expired and, if such an appeal is duly brought, until the determination or abandonment of the appeal.
+
+(10) Where a licence is revoked or an application for the renewal of a licence is refused, the licence shall be deemed to remain in force—
+
+(a) until the time for bringing an appeal under this paragraph has expired and, if such an appeal is duly brought, until the determination or abandonment of the appeal; and
+
+(b) where an appeal relating to the refusal of an application for such a renewal is successful and no further appeal is available, until the licence is renewed by the appropriate authority.
+
+[[^F118](10A) Sub-paragraph (10) does not apply if the grounds for refusing an application for the renewal of a licence are those set out in paragraph 12(3)(c) or (d) of this Schedule.]
+
+(11) Where—
+
+(a) the holder of a licence makes an application under paragraph 18 above; and
+
+(b) the appropriate authority impose any term, condition or restriction other than one specified in the application,
+
+the licence shall be deemed to be free of it until the time for bringing an appeal under this paragraph has expired.
+
+(12) Where an appeal is brought under this paragraph against the imposition of any such term, condition or restriction, the licence shall be deemed to be free of it until the determination or abandonment of the appeal.
+
+### [[^F119]Premises which are deemed sexual entertainment venues
+
+**27A** (1) This paragraph applies if—
+
+(a) premises are subject to a licence for a sexual entertainment venue; and
+
+(b) their use would be use as such a venue but for the operation of paragraph 2A(3)(b).
+
+(2) This Schedule applies as if—
+
+(a) the premises were a sexual entertainment venue; and
+
+(b) the use or business of the premises was use as, or the business of, such a venue.
+
+(3) But the appropriate authority must cancel the licence if the holder of the licence asks them in writing to do so.
+
+(4) In this paragraph “premises” has the same meaning as in paragraph 2A.]
+
+### Provisions relating to existing premises
+
+**28** (1) Without prejudice to any other enactment it shall be lawful for any person who—
+
+(a) was using any premises, vehicle, vessel or stall as a sex establishment immediately before the date of the first publication under subsection (2) of section 2 above of a notice of the passing of a resolution under that section by the local authority for the area; and
+
+(b) had before the appointed day duly applied to the appropriate authority for a licence for the establishment,
+
+to continue to use the premises, vehicle, vessel or stall as a sex establishment until the determination of his application.
+
+(2) In this paragraph and paragraph 29 below “the appointed day”, in relation to any area, means the day specified in the resolution passed under section 2 above as the date upon which this Schedule is to come into force in that area.
+
+**29** (1) This paragraph applies to an application for the grant of a licence under this Schedule made before the appointed day.
+
+(2) A local authority shall not consider any application to which this paragraph applies before the appointed day.
+
+(3) A local authority shall not grant any application to which this paragraph applies until they have considered all such applications.
+
+(4) In considering which of several applications to which this paragraph applies should be granted a local authority shall give preference over other applicants to any applicant who satisfies them—
+
+(a) that he is using the premises, vehicle, vessel or stall to which the application relates as a sex establishment; and
+
+(b) that some person was using the premises, vehicle, vessel or stall as a sex establishment on 22nd December 1981; and
+
+(c) that—
+
+(i) he is that person; or
+
+(ii) he is a successor of that person in the business or activity which was being carried on there on that date.
+
+### Commencement of Schedule
+
+**30** (1) So far as it relates to sex cinemas, this Schedule shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint, and accordingly, until the day so appointed, this Schedule shall have effect—
+
+(a) with the omission—
+
+(i) of paragraph 3 above; and
+
+(ii) of paragraph 13(3)(d) above;
+
+(b) as if any reference to a sex establishment were a reference only to a sex shop; and
+
+(c) as if for paragraphs (a) and (b) of paragraph 13(2) above there were substituted the words “for different kinds of sex shops”.
+
+(2) Subject to sub-paragraph (1) above, this Schedule shall come into force on the day on which this Act is passed.
+
+(3) Where, in relation to any area, the day appointed under sub-paragraph (1) above falls after the day specified in a resolution passed under section 2 above as the day upon which this Schedule is to come into force in that area, the day so appointed shall, for the purposes of paragraphs 28 and 29 above, be the appointed day in relation to sex cinemas in the area.
+
+## SCHEDULE 4 — Street Trading
+
+### Interpretation
+
+**1** (1) In this Schedule—
+
+- “consent street” means a street in which street trading is prohibited without the consent of the district council;
+
+- “licence street” means a street in which street trading is prohibited without a licence granted by the district council;
+
+- “principal terms”, in relation to a street trading licence, has the meaning assigned to it by paragraph 4(3) below;
+
+- “prohibited street” means a street in which street trading is prohibited;
+
+- “street” includes—
+
+  - (a) any road, footway, beach or other area to which the public have access without payment; and
+  - (b) a service area as defined in section 329 of the [^M33]Highways Act 1980,
+
+and also includes any part of a street;
+
+- “street trading” means, subject to sub-paragraph (2) below, the selling or exposing or offering for sale of any article (including a living thing) in a street; and
+- “subsidiary terms”, in relation to a street trading licence, has the meaning assigned to it by paragraph 4(4) below.
+
+(2) The following are not street trading for the purposes of this Schedule—
+
+(a) trading by a person acting as a pedlar under the authority of a pedlar’s certificate granted under the [^M34]Pedlars Act 1871;
+
+(b) anything done in a market or fair the right to hold which was acquired by virtue of a grant (including a presumed grant) or acquired or established by virtue of an enactment or order.
+
+(c) trading in a trunk road picnic area provided by the Secretary of State under section 112 of the [^M35]Highways Act 1980;
+
+(d) trading as a news vendor;
+
+(e) trading which—
+
+(i) is carried on at premises used as a petrol filling station; or
+
+(ii) is carried on at premises used as a shop or in a street adjoining premises so used and as part of the business of the shop;
+
+(f) selling things, or offering or exposing them for sale, as a roundsman;
+
+(g) the use for trading under Part VIIA of the Highways Act 1980 of an object or structure placed on, in or over a highway;
+
+(h) the operation of facilities for recreation or refreshment under Part VIIA of the Highways Act 1980;
+
+(j) the doing of anything authorised by regulations made under section 5 of the [^M36]Police, Factories, etc. (Miscellaneous Provisions) Act 1916.
+
+(3) The reference to trading as a news vendor in sub-paragraph (2)(d) above is a reference to trading where—
+
+(a) the only articles sold or exposed or offered for sale are newspapers or periodicals; and
+
+(b) they are sold or exposed or offered for sale without a stall or receptacle for them or with a stall or receptacle for them which does not—
+
+(i) exceed one metre in length or width or two metres in height;
+
+(ii) occupy a ground area exceeding 0·25 square metres; or
+
+(iii) stand on the carriageway of a street.
+
+### Designation of streets
+
+**2** (1) A district council may by resolution designate any street in their district as—
+
+(a) a prohibited street;
+
+(b) a licence street; or
+
+(c) a consent street.
+
+(2) If a district council pass such a resolution as is mentioned in sub-paragraph (1) above, the designation of the street shall take effect on the day specified in that behalf in the resolution (which must not be before the expiration of the period of one month beginning with the day on which the resolution is passed).
+
+(3) A council shall not pass such a resolution unless—
+
+(a) they have published notice of their intention to pass such a resolution in a local newspaper circulating in their area;
+
+(b) they have served a copy of the notice—
+
+(i) on the chief officer of police for the area in which the street to be designated by the resolution is situated; and
+
+(ii) on any highway authority responsible for that street; and
+
+(c) where sub-paragraph (4) below applies, they have obtained the necessary consent.
+
+(4) This sub-paragraph applies—
+
+(a) where the resolution relates to a street which is owned or maintainable by a relevant corporation; and
+
+(b) where the resolution designates as a licence street any street maintained by a highway authority;
+
+and in sub-paragraph (3) above “necessary consent” means—
+
+(i) in the case mentioned in paragraph (a) above, the consent of the relevant corporation; and
+
+(ii) in the case mentioned in paragraph (b) above, the consent of the highway authority.
+
+(5) The following are relevant corporations for the purposes of this paragraph—
+
+(a) the British Railways Board;
+
+(b) the [[^F120]new towns residuary body];
+
+[[^F121](ba) a Mayoral development corporation;]
+
+(c) a development corporation for a new town; [[^F122]and]
+
+(d) an urban development corporation established under the [^M37]Local Government, Planning and Land Act 1980;. . .
+
+[^F123]e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[[^F124](5A) In sub-paragraph (5)(b) above “new towns residuary body” means—
+
+(a) in relation to England, the Homes and Communities Agency so far as exercising functions in relation to anything transferred (or to be transferred) to it as mentioned in section 52(1)(a) to (d) of the Housing and Regeneration Act 2008 [[^F125]or the Greater London Authority so far as exercising its new towns and urban development functions ]; and
+
+(b) in relation to Wales, the Welsh Ministers so far as exercising functions in relation to anything transferred (or to be transferred) to them as mentioned in section 36(1)(a)(i) to (iii) of the New Towns Act 1981.]
+
+(6) The notice referred to in sub-paragraph (3) above—
+
+(a) shall contain a draft of the resolution; and
+
+(b) shall state that representations relating to it may be made in writing to the council within such period, not less than 28 days after publication of the notice, as may be specified in the notice.
+
+(7) As soon as practicable after the expiry of the period specified under sub-paragraph (6) above, the council shall consider any representations relating to the proposed resolution which they have received before the expiry of that period.
+
+(8) After the council have considered those representations, they may, if they think fit, pass such a resolution relating to the street as is mentioned in sub-paragraph (1) above.
+
+(9) The council shall publish notice that they have passed such a resolution in two consecutive weeks in a local newspaper circulating in their area.
+
+(10) The first publication shall not be later than 28 days before the day specified in the resolution for the coming into force of the designation.
+
+(11) Where a street is designated as a licence street, the council may resolve—
+
+(a) in the resolution which so designates the street; or
+
+(b) subject to sub-paragraph (12) below, by a separate resolution at any time,
+
+that a street trading licence is not to be granted to any person who proposes to trade in the street for a number of days in every week less than a number specified in the resolution.
+
+(12) Sub-paragraphs (3)(a) and (6) to (10) above shall apply in relation to a resolution under sub-paragraph (11)(b) above as they apply in relation to a resolution under sub-paragraph (1) above.
+
+(13) Any resolution passed under this paragraph may be varied or rescinded by a subsequent resolution so passed.
+
+### Street trading licences
+
+**3** (1) An application for a street trading licence or the renewal of such a licence shall be made in writing to the district council.
+
+(2) The applicant shall state—
+
+(a) his full name and address;
+
+(b) the street in which, days on which and times between which he desires to trade;
+
+(c) the description of articles in which he desires to trade and the description of any stall or container which he desires to use in connection with his trade in those articles; and
+
+(d) such other particulars as the council may reasonably require.
+
+(3) If the council so require, the applicant shall submit two photographs of himself with his application.
+
+(4) A street trading licence shall not be granted—
+
+(a) to a person under the age of 17 years; or
+
+(b) for any trading in a highway in relation to which a control order under section 7 of the [^M38]Local Government (Miscellaneous Provisions) Act 1976 (road-side sales) is in force, other than trading to which the control order does not apply.
+
+(5) Subject to sub-paragraph (4) above, it shall be the duty of the council to grant an application for a street trading licence or the renewal of such a licence unless they consider that the application ought to be refused on one or more of the grounds specified in sub-paragraph (6) below.
+
+(6) Subject to sub-paragraph (8) below, the council may refuse an application on any of the following grounds—
+
+(a) that there is not enough space in the street for the applicant to engage in the trading in which he desires to engage without causing undue interference or inconvenience to persons using the street;
+
+(b) that there are already enough traders trading in the street from shops or otherwise in the goods in which the applicant desires to trade;
+
+(c) that the applicant desires to trade on fewer days than the minimum number specified in a resolution under paragraph 2(11) above;
+
+(d) that the applicant is unsuitable to hold the licence by reason of having been convicted of an offence or for any other reason;
+
+(e) that the applicant has at any time been granted a street trading licence by the council and has persistently refused or neglected to pay fees due to them for it or charges due to them under paragraph 9(6) below for services rendered by them to him in his capacity as licence-holder;
+
+(f) that the applicant has at any time been granted a street trading consent by the council and has persistently refused or neglected to pay fees due to them for it;
+
+(g) that the applicant has without reasonable excuse failed to avail himself to a reasonable extent of a previous street trading licence.
+
+(7) If the council consider that grounds for refusal exist under sub-paragraph (6)(a), (b) or (g) above, they may grant the applicant a licence which permits him—
+
+(a) to trade on fewer days or during a shorter period in each day than specified in the application; or
+
+(b) to trade only in one or more of the descriptions of goods specified in the application.
+
+(8) If—
+
+(a) a person is licensed or otherwise authorised to trade in a street under the provisions of any local Act; and
+
+(b) the street becomes a licence street; and
+
+(c) he was trading from a fixed position in the street immediately before it became a licence street; and
+
+(d) he applied for a street trading licence to trade in the street, his application shall not be refused on any of the grounds mentioned in sub-paragraph (6)(a) to (c) above.
+
+**4** (1) A street trading licence shall specify—
+
+(a) the street in which, days on which and times between which the licence-holder is permitted to trade; and
+
+(b) the description of articles in which he is permitted to trade.
+
+(2) If the district council determine that a licence-holder is to confine his trading to a particular place in the street, his street trading licence shall specify that place.
+
+(3) Matters that fall to be specified in a street trading licence by virtue of sub-paragraph (1) or (2) above are referred to in this Schedule as the “principal terms” of the licence.
+
+(4) When granting or renewing a street trading licence, the council may attach such further conditions (in this Schedule referred to as the “subsidiary terms” of the licence) as appear to them to be reasonable.
+
+(5) Without prejudice to the generality of sub-paragraph (4) above, the subsidiary terms of a licence may include conditions—
+
+(a) specifying the size and type of any stall or container which the licence-holder may use for trading;
+
+(b) requiring that any stall or container so used shall carry the name of the licence-holder or the number of his licence or both; and
+
+(c) prohibiting the leaving of refuse by the licence-holder or restricting the amount of refuse which he may leave or the places in which he may leave it.
+
+(6) A street trading licence shall, unless previously revoked or surrendered, remain valid for a period of 12 months from the date on which it is granted or, if a shorter period is specified in the licence, for that period.
+
+(7) If a district council resolve that the whole or part of a licence street shall be designated a prohibited street, then, on the designation taking effect, any street trading licence issued for trading in that street shall cease to be valid so far as it relates to the prohibited street.
+
+**5** (1) A district council may at any time revoke a street trading licence if they consider—
+
+(a) that, owing to circumstances which have arisen since the grant or renewal of the licence, there is not enough space in the street for the licence-holder to engage in the trading permitted by the licence without causing undue interference or inconvenience to persons using the street;
+
+(b) that the licence-holder is unsuitable to hold the licence by reason of having been convicted of an offence or for any other reason;
+
+(c) that, since the grant or renewal of the licence, the licence-holder has persistently refused or neglected to pay fees due to the council for it or charges due to them under paragraph 9(6) below for services rendered by them to him in his capacity as licence-holder; or
+
+(d) that, since the grant or renewal of the licence, the licence-holder has without reasonable excuse failed to avail himself of the licence to a reasonable extent.
+
+(2) If the council consider that they have ground for revoking a licence by virtue of sub-paragraph (1)(a) or (d) above, they may, instead of revoking it, vary its principal terms—
+
+(a) by reducing the number of days or the period in any one day during which the licence-holder is permitted to trade; or
+
+(b) by restricting the descriptions of goods in which he is permitted to trade.
+
+(3) A licence-holder may at any time surrender his licence to the council and it shall then cease to be valid.
+
+**6** (1) When a district council receive an application for the grant or renewal of a street trading licence, they shall within a reasonable time—
+
+(a) grant a licence in the terms applied for; or
+
+(b) serve notice on the applicant under sub-paragraph (2) below.
+
+(2) If the council propose—
+
+(a) to refuse an application for the grant or renewal of a licence; or
+
+(b) to grant a licence on principal terms different from those specified in the application; or
+
+(c) to grant a licence confining the applicant’s trading to a particular place in a street; or
+
+(d) to vary the principal terms of a licence; or
+
+(e) to revoke a licence,
+
+they shall first serve a notice on the applicant or, as the case may be, the licence-holder—
+
+(i) specifying the ground or grounds on which their decision would be based; and
+
+(ii) stating that within 7 days of receiving the notice he may in writing require them to give him an opportunity to make representations to them concerning it.
+
+(3) Where a notice has been served under sub-paragraph (2) above, the council shall not determine the matter until either—
+
+(a) the person on whom it was served has made representations to them concerning their decision; or
+
+(b) the period during which he could have required them to give him an opportunity to make representations has elapsed without his requiring them to give him such an opportunity; or
+
+(c) the conditions specified in sub-paragraph (4) below are satisfied.
+
+(4) The conditions mentioned in sub-paragraph (3)(c) above are—
+
+(a) that the person on whom the notice under sub-paragraph (2) above was served has required the council to give him an opportunity to make representations to them concerning it, as provided by sub-paragraph (2)(ii) above;
+
+(b) that the council have allowed him a reasonable period for making his representations; and
+
+(c) that he has failed to make them within that period.
+
+(5) A person aggrieved—
+
+(a) by the refusal of a council to grant or renew a licence, where—
+
+(i) they specified in their notice under sub-paragraph (2) above one of the grounds mentioned in paragraph 3(6)(d) to (g) above as the only ground on which their decision would be based; or
+
+(ii) they specified more than one ground in that notice but all the specified grounds were grounds mentioned in those paragraphs; or
+
+(b) by a decision of a council to grant him a licence with principal terms different from those of a licence which he previously held, where they specified in their notice under sub-paragraph (2) above the ground mentioned in paragraph 3(6)(g) above as the only ground on which their decision would be based; or
+
+(c) by a decision of a council—
+
+(i) to vary the principal terms of a licence; or
+
+(ii) to revoke a licence,
+
+in a case where they specified in their notice under sub-paragraph (2) above one of the grounds mentioned in paragraph 5(1)(b) to (d) above as the only ground on which their decision would be based or they specified more than one ground in that notice but all the specified grounds were grounds mentioned in those paragraphs,
+
+may, at any time before the expiration of the period of 21 days beginning with the date upon which he is notified of the refusal or decision, appeal to the magistrates’ court acting for the petty sessions area in which the street is situated.
+
+(6) An appeal against the decisions of a magistrates’ court under this paragraph may be brought to the Crown Court.
+
+(7) On an appeal to the magistrates’ court or the Crown Court under this paragraph the court may make such order as it thinks fit.
+
+(8) Subject to sub-paragraphs (9) to (11) below, it shall be the duty of the council to give effect to an order of the magistrates’ court or the Crown Court.
+
+(9) The council need not give effect to the order of the magistrates’ court until the time for bringing an appeal under sub-paragraph (6) above has expired and, if such an appeal is duly brought, until the determination or abandonment of the appeal.
+
+(10) If a licence-holder applies for renewal of his licence before the date of its expiry, it shall remain valid—
+
+(a) until the grant by the council of a new licence with the same principal terms; or
+
+(b) if—
+
+(i) the council refuse renewal of the licence or decide to grant a licence with principal terms different from those of the existing licence, and
+
+(ii) he has a right of appeal under this paragraph,
+
+until the time for bringing an appeal has expired or, where an appeal is duly brought, until the determination or abandonment of the appeal; or
+
+(c) if he has no right of appeal under this paragraph, until the council either grant him a new licence with principal terms different from those of the existing licence or notify him of their decision to refuse his application.
+
+(11) Where—
+
+(a) a council decide—
+
+(i) to vary the principal terms of a licence; or
+
+(ii) to revoke a licence; and
+
+(b) a right of appeal is available to the licence-holder under this paragraph,
+
+the variation or revocation shall not take effect until the time for bringing an appeal has expired or, where an appeal is duly brought, until the determination or abandonment of the appeal.
+
+### Street trading consents
+
+**7** (1) An application for a street trading consent or the renewal of such a consent shall be made in writing to the district council.
+
+(2) Subject to sub-paragraph (3) below, the council may grant a consent if they think fit.
+
+(3) A street trading consent shall not be granted—
+
+(a) to a person under the age of 17 years; or
+
+(b) for any trading in a highway to which a control order under section 7 of the [^M39]Local Government (Miscellaneous Provisions) Act 1976 is in force, other than trading to which the control order does not apply.
+
+(4) When granting or renewing a street trading consent the council may attach such conditions to it as they consider reasonably necessary.
+
+(5) Without prejudice to the generality of sub-paragraph (4) above, the conditions that may be attached to a street trading consent by virtue of that sub-paragraph include conditions to prevent—
+
+(a) obstruction of the street or danger to persons using it; or
+
+(b) nuisance or annoyance (whether to persons using the street or otherwise).
+
+(6) The council may at any time vary the conditions of a street trading consent.
+
+(7) Subject to sub-paragraph (8) below, the holder of a street trading consent shall not trade in a consent street from a van or other vehicle or from a stall, barrow or cart.
+
+(8) The council may include in a street trading consent permission for its holder to trade in a consent street—
+
+(a) from a stationary van, cart, barrow or other vehicle; or
+
+(b) from a portable stall.
+
+(9) If they include such a permission, they may make the consent subject to conditions—
+
+(a) as to where the holder of the street trading consent may trade by virtue of the permission; and
+
+(b) as to the times between which or periods for which he may so trade.
+
+(10) A street trading consent may be granted for any period not exceeding 12 months but may be revoked at any time.
+
+(11) The holder of a street trading consent may at any time surrender his consent to the council and it shall then cease to be valid.
+
+### General
+
+**8** The holder of a street trading licence or a street trading consent may employ any other person to assist him in his trading without a further licence or consent being required.
+
+**9** (1) A district council may charge such fees as they consider reasonable for the grant or renewal of a street trading licence or a street trading consent.
+
+(2) A council may determine different fees for different types of licence or consent and, in particular, but without prejudice to the generality of this sub-paragraph, may determine fees differing according—
+
+(a) to the duration of the licence or consent;
+
+(b) to the street in which it authorises trading; and
+
+(c) to the descriptions of articles in which the holder is authorised to trade.
+
+(3) A council may require that applications for the grant or renewal of licences or consents shall be accompanied by so much of the fee as the council may require, by way of a deposit to be repaid by the council to the applicant if the application is refused.
+
+(4) A council may determine that fees may be paid by instalments.
+
+(5) Where a consent is surrendered or revoked, the council shall remit or refund, as they consider appropriate, the whole or a part of any fee paid for the grant or renewal of the consent.
+
+(6) A council may recover from a licence-holder such reasonable charges as they may determine for the collection of refuse, the cleansing of streets and other services rendered by them to him in his capacity as licence-holder.
+
+(7) Where a licence—
+
+(a) is surrendered or revoked; or
+
+(b) ceases to be valid by virtue of paragraph 4(7) above,
+
+the council may remit or refund, as they consider appropriate, the whole or a part—
+
+(i) of any fee paid for the grant or renewal of the licence; or
+
+(ii) of any charges recoverable under sub-paragraph (6) above.
+
+(8) The council may determine—
+
+(a) that charges under sub-paragraph (6) above shall be included in a fee payable under sub-paragraph (1) above; or
+
+(b) that they shall be separately recoverable.
+
+(9) Before determining charges to be made under sub-paragraph (6) above or varying the amount of such charges the council—
+
+(a) shall give notice of the proposed charges to licence-holders; and
+
+(b) shall publish notice of the proposed charges in a local newspaper circulating in their area.
+
+(10) A notice under sub-paragraph (9) above shall specify a reasonable period within which representations concerning the proposed charges may be made to the council.
+
+(11) It shall be the duty of a council to consider any such representations which are made to them within the period specified in the notice.
+
+### Offences
+
+**10** (1) A person who—
+
+(a) engages in street trading in a prohibited street; or
+
+(b) engages in street trading in a licence street or a consent street without being authorised to do so under this Schedule; or
+
+(c) contravenes any of the principal terms of a street trading licence; or
+
+(d) being authorised by a street trading consent to trade in a consent street, trades in that street—
+
+(i) from a stationary van, cart, barrow or other vehicle; or
+
+(ii) from a portable stall,
+
+without first having been granted permission to do so under paragraph 7(8) above; or
+
+(e) contravenes a condition imposed under paragraph 7(9) above, shall be guilty of an offence.
+
+(2) It shall be a defence for a person charged with an offence under sub-paragraph (1) above to prove that he took all reasonable precautions and exercised all due diligence to avoid commission of the offence.
+
+(3) Any person who, in connection with an application for a street trading licence or for a street trading consent, makes a false statement which he knows to be false in any material respect, or which he does not believe to be true, shall be guilty of an offence.
+
+(4) A person guilty of an offence under this paragraph shall be liable on summary conviction to a fine not exceeding [[^F126]level 3 on the standard scale].
+
+### Savings
+
+**11** Nothing in this Schedule shall affect—
+
+(a) section 13 of the [^M40]Markets and Fairs Clauses Act 1847 (prohibition of sales elsewhere than in market or in shops etc.) as applied by any other Act;(4 & 5 Eliz. 2).
+
+(b) [[^F127]section 56 of the Food Act 1984](prohibition of certain sales during market hours).
+
+## SCHEDULE 5 — HIGHWAY AMENITIES
+
+*Section 20.*
+
+### Part I — Addition of Part VIIA to Highways Act 1980
+
+**1** The following shall be inserted after section 115 of the [^M41]Highways Act 1980—
+
+> **Part VIIA — Provision of Amenities on Certain Highways**
+>
+> **Scope of Part VIIA.**
+>
+> **115A** (1) This Part of this Act applies—
+>
+> (a) to a highway in relation to which a pedestrian planning order is in force ;
+>
+> (b) to a bridleway ;
+>
+> (c) to a footpath (including a walkway as defined in section 35(2) above) ;
+>
+> (d) to a footway ;
+>
+> (e) to a subway constructed under section 69 above ;
+>
+> (f) to a footbridge constructed under section 70 above ;
+>
+> (g) to a highway of a description not mentioned in any of the preceding paragraphs of this definition whose use by vehicular traffic is prohibited by a traffic order but whose use by other traffic is not prohibited or restricted or regulated by such an order ; and
+>
+> (h) to a local Act walkway.
+>
+> (2) In this Part of this Act—
+>
+> “local walkway Act” means a way or place which is declared in pursuance of a local enactment to be a walkway, city walkway or predestrian way ;
+>
+> “pedestrian planning order” means an order made under section 212(2) of the Town and Country Planning Act 1971 ; and
+>
+> “traffic order”means an order under section 1 or 6 of the Road Traffic Regulation Act 1967 (traffic regulation orders) or under section 9 of that Act (experimental traffic orders) ; and
+>
+> “walkway consent” means—
+>
+> (a) in relation to a walkway as defined in section 35(2) above, the consent—
+>
+> (i) of any person who is an occupier of the building in which the walkway subsists and to whom subsection (3) below applies ; and
+>
+> (ii) of the persons whose agreement would be needed for the creation of the walkway if it did not already subsist ; and
+>
+> (b) in relation to a local Act walkway, the consent—
+>
+> (i) of any person who is an owner or occupier of premises adjoining the walkway and to whom subsection (3) below applies ; and
+>
+> (ii) of the owner of the land on, under or above which the walkway subsists.
+>
+> (3) The persons to whom this subsection applies are persons who, in the opinion of a council, are likely to be materially affected—
+>
+> (a) by the exercise of a power which the council may not exercise until they have first obtained walkway consent ; or
+>
+> (b) by a grant of permission which the council may not grant unless they have first obtained walkway consent.
+>
+> (4) In the following provisions of this Part of this Act “walkway” includes both a walkway as defined in section 35(2) above and a local Act walkway.
+>
+> (5) Any reference in this Part of this Act to a highway to which this Part of this Act applies includes a reference to a local Act walkway which but for this subsection—
+>
+> (a) is not a highway; or
+>
+> (b) is a highway only for certain purposes.
+>
+> (6) The use of a highway by vehicular traffic is to be taken as prohibited for the purposes of this Part of this Act where its use by such traffic is prohibited over the whole width of the highway even if the prohibition is contained in a traffic order which does not prohibit certain vehicles or certain classes of vehicle using the highway or part of it or using the highway or part of it at certain times or on certain days or during certain periods.
+>
+> (7) In this Part of this Act “frontagers” means the owners and occupiers of any permises adjoining the part of a highway on, in or over which an object or structure would be placed or on which facilities for recreation or refreshment or both have been, or are being or would be provided ; but frontagers have an interest under this Part of this Act only in proposals to place objects or structures or provide or operate facilities wholly or partly between their premises and the centre of the highway.
+>
+> (8) References to a council in this Part of this Act include references to the Isles of Scilly.
+>
+> **Provision etc. of services and amenities by councils.**
+>
+> **115B** (1) Subject to subsections (4), (5) and (7) below, a council shall have power—
+>
+> (a) to carry out works on, in or over a highway to which this Part of this Act applies ; and
+>
+> (b) to place objects or structures on, in or over such a highway,
+>
+> for the purpose—
+>
+> (i) of giving effect to a pedestrian planning order ;
+>
+> (ii) of enhancing the amenity of the highway and its immediate surroundings ; or
+>
+> (iii) of providing a service for the benefit of the public or a section of the public.
+>
+> (2) A council shall have power to maintain—
+>
+> (a) any works carried out under paragraph (a) of subsection (1) above ; and
+>
+> (b) any objects or structures placed on, in or over a highway under paragraph (b) of that subsection.
+>
+> (3) Without prejudice to the generality of this section, the amenity of a highway may be enhanced by providing lawns, trees, shrubs or flowers.
+>
+> (4) A council may not exercise the powers conferred by this section on, in or over a walkway unless they have first obtained walkway consent.
+>
+> (5) Where subsection (6) below applies, a council may not, in the exercise of the power conferred by subsection (1)(b) above, place an object or structure on, in or over a highway—
+>
+> (a) for a purpose which will result in the production of income ; or
+>
+> (b) for the purpose of providing a centre for advice or information,
+>
+> unless they have first obtained the consent of the frontagers with an interest—
+>
+> (i) to the placing of the object or structure ; and
+>
+> (ii) to the purpose for which it is to be placed.
+>
+> (6) This subsection applies where the object or structure would be placed—
+>
+> (a) on, in or over a footpath ;
+>
+> (b) on, in or over a bridleway ; or
+>
+> (c) on, in or over a footway in relation to which no pedestrian planning order or traffic order is in force.
+>
+> (7) Where a council propose—
+>
+> (a) to place an object or structure on, in or over a highway to which this Part of this Act applies—
+>
+> (i) for a purpose which will result in the production of income ; or
+>
+> (ii) for the purpsoe of providing a centre for advice or information ; and
+>
+> (b) to grant a person permission under section 115E below to use the object ot structure,
+>
+> they may not exercise the power conferred by subsection (1)(b) above unless they have first obtained the consent of the frontagers with an interest—
+>
+> (i) to the placing of the object or structure ;
+>
+> (ii) to the purpose for which it would be placed ; and
+>
+> (iii) to the proposed grant of permission.
+>
+> **Provision of recreation and refreshment facilities by councils.**
+>
+> **115C** (1) Subject to subsections (2) and (3) below, a council shall have power to provide, maintain and operate facilities for recreation and refreshment or both on a highway to which this Part of this Act applies.
+>
+> (2) A council may not exercise the powers conferred by this section on a walkway unless they have first obtained walkway consent.
+>
+> (3) Where subsection (4) below applies, a council may not exercise the powers conferred by this section unless they have first obtained the consent of the frontagers with an interest.
+>
+> (4) This subsection applies where the facilities are to be provided—
+>
+> (a) on a footpath ; or
+>
+> (b) on a bridleway ; or
+>
+> (c) on a footway in relation to which no pedestrian planning order or traffic order is in force.
+>
+> **Limits of powers under ss. 115B and 115C.**
+>
+> **115D** A council may exercise their powers under section 115B or 115C above to restrict the access of the public to any part of a highway to which this Part of this Act applies, but shall not exercise them—
+>
+> (a) as to prevent traffic, other then vehicular traffic,—
+>
+> (i) entering the highway at any place where such traffic could enter it before, as teh case may be, the making of a pedestrian planning order or a traffic order in relation to it or the exercise in relation to it of a power conferred by this Part of this Act ; or
+>
+> (ii) passing along it ; or
+>
+> (iii) having normal access to premises adjoining it ; or
+>
+> (b) as to prevent any use of vehicles which is permitted by a pedestrian planning order or which is not prohibited by a traffic order ; or
+>
+> (c) as to prevent statutory undertakers or sewerage authorities having access to any apparatus of theirs under, in, on or over the highway.
+>
+> **Execution of works and use of objects etc. by persons other than councils.**
+>
+> **115E** (1) Subject to subsections (2) and (4) below, a council may grant a person permission—
+>
+> (a) to do on, in or over a highway to which this Part of this Act applies anything which the council could do on, in or over such a highway under section 115B(1) to (3) or115C above ; or
+>
+> (b) to use objects or structures on, in or over a highway to which this Part of this Act applies—
+>
+> (i) for a purpose which will result in the production of income ;
+>
+> (ii) for the purpose of providing a centre for advice or information ; or
+>
+> (iii) for the purpose of advertising.
+>
+> (2) A council may not grant a person permission under subsection (1)(a) above to place an object or structure on, in or over a highway to which this Part of this Act applies—
+>
+> (a) for a purpose which will result in result in the production of income ; or
+>
+> (b) for the purpose of providing a centre for advice or information,
+>
+> unless they have first obtained the consent of the frontagers with an interest—
+>
+> (i) to the placing of an object or structure ;
+>
+> (ii) to the purpose for which it would be placed ; and
+>
+> (iii) to the proposed grant of permission.
+>
+> (3) A council may not grant a person permission to do anything which the council could only do under section 115C above unless they have first obtained the consent of the frontagers with an interest.
+>
+> (4) A council may not grant a person permission—
+>
+> (a) to carry out works on, in or over a walkway ;
+>
+> (b) to place an object or structure on, in or over a walkway ; or
+>
+> (c) to provide, maintain or operate facilities for recreation or refreshment or both on a walkway,
+>
+> unless they have first obtained wa;kway consent.
+>
+> **Power to impose conditions on permissions under section 115E.**
+>
+> **115F** (1) Subject to subsections (2) and (4) below, a council may grant a permission under section 115E above upon such conditions as they think fit, including conditions requiring the payment to the council of such reasonable charges as they may determine.
+>
+> (2) Except where the council are the owners of the subsoil beneath the part of the highway in relation to which permission has been granted, the charges may not exceed the standard amount.
+>
+> (3) In subsection (2) above, “the standard amount” means—
+>
+> (a) in relation to permission to use an object or structure provided by a council, the aggregate—
+>
+> (i) the cost of providing them ; and
+>
+> (ii) of such charges as will reimburse the council their reasonable expenses in connection with granting the permission ;
+>
+> (b) in relation to permission to operate facilities provided by a council for recreation or refreshment or both, the aggregate—
+>
+> (i) of the cost providing them ; and
+>
+> (ii) of such charegs as will reimburse the counncil their reasonable expenses in connection with granting the permission ; and
+>
+> (c) in any other case, such charges as will reimburse the council their reasonable expenses in connection with granting the permission.
+>
+> (4) Nothing in this seection shall prejudice the right of a council to require an indemnity against any claim in respect of injury, damage or loss arising out of the grant of the permission ; but this subsection is not to be taken as requiring any person to indemnify a council against any claim in respect of injury, damage or loss which is attributable to the negligence of the council.
+>
+> **Notices to be given before the exercise ofpowers under Part VIIA.**
+>
+> **115G** (1) Subjectt o subsection (4) below, a council dshall not—
+>
+> (a) exercise any power conferred by section 115B or 115C above ; or
+>
+> (b) grant permission under section 115E above unless they have first published a notice under this subsection.
+>
+> (2) A council shall publish a notice under this section—
+>
+> (a) by affixing it in a conspicuous position at or near the place to which the proposal relates ; and
+>
+> (b) by serving a copy of the notice on the owner and occupier of any premises appearing to the coiuncil to be likely to be materially affected.
+>
+> (3) A notice under this section—
+>
+> (a) shall give details of the proposal ; and
+>
+> (b) shall specify a period (being not less than 28 dats after the publication of the notice) during which representations regarding the proposal may be made to the council.
+>
+> (4) No notice under this section is required where a council propose to exercise a power conferred by section 115B or 115C above in relation toa highway in relation to which a pedestrian planning order or a traffic order has been made.
+>
+> (5) Where a council have published a notice under this section, they shall not exercise the power or grant the permission to which the notice relates until they have taken into consideration all representations made to them in connection with the proposal within the period specified in the notice.
+>
+> **Duties to consult or obtain consent of other authorities.**
+>
+> **115H** (1) Subject to subsection (2) and (3) below, a council shall not—
+>
+> (a) exercise any power conferred by section 1115B or 115C above ; or
+>
+> (b) grant any permission under section 115E above,
+>
+> in relation to a highway unless they have consulted—
+>
+> (i) any authority other than themselves who are the highway authority for the highway ; and
+>
+> (ii) any authority other than themselves who are a local planning authority, as defined in the Town and Country Planning Act 1971, for the area in which, as the case may be, they propose to exercise the power or to which the proposed permission would relate.
+>
+> (2) Where a highway to which this Part of this Act applies is situated in Greater London, subsection (1) above shall have effect in relation to the highway authority and the local planning authority were a requirement to obtain their consent to the exercise of the power of the granting of permission.
+>
+> (3) Where—
+>
+> (a) a highway to which this Part of this Act applies is situated outside Greater London ; and
+>
+> (b) there is no pedestrian planning order in force in relation to it,
+>
+> subsection (1) above shall have effect in relation to the highway as if the requirement to consult the highway authority were a requirement to obtain their consent to the exercise of the power or the granting of permission.
+>
+> (4) Where a highway to which this Part of this Act applies is maintained by the British Railways Board or the London Transport Executive, a council shall not exercise any power conferred by section 115B or 115C above or grant a permission in relation to it under section 115E above except with the consent of the Board or, as the case may be, the Executive.
+>
+> **Consents not to be unreasonably withheld.**
+>
+> **115J** (1) Consent to which this section applies is not to be unreasonably withheld but may be given subject to any reasonable conditions.
+>
+> (2) Without prejudice to the generality of subsection (1) above, it may be reasonable for consent to which this section applies to be given for a specified period of time or subject to the payment of a reasonable sum.
+>
+> (3) Consent is to be treated as unreasonably withheld for the purposes of this section if—
+>
+> (a) the council have served a notice asking for consent on the person whose consent os required ; and
+>
+> (b) he fails within 28 days of the service of the notice to give the council notice of his consent or his refusal to give it.
+>
+> (4) Any question whether consent is unreasonably withheld or is given subject to reasonable conditions shall be referred to and determined by an arbitrator to be appointed, in default of agreement, by the President of the Chartered Institute of Arbitrators.
+>
+> (5) If—
+>
+> (a) the arbitrator determines that consent has been unreasonably withheld ; but
+>
+> (b) it appears to him yhat there are conditions subject to which it would be reasonable to give it,
+>
+> he may direct that it shall be treated as having been given subject to those conditions.
+>
+> (6) If—
+>
+> (a) the arbitrator determines that any condition subject to which consent has been given is unreasonable ; but
+>
+> (b) it appears to him that there are conditions subject to which it would have been reasonable to give it,
+>
+> he may direct that it shall be treated as having been given subject to those conditions.
+>
+> (7) Subject to subsection (8) below, the expenses and remuneration of the arbitrator shall be paid by the council seeking the consent.
+>
+> (8) Where the arbitraation concerns the consent of the British Railways Board of the London Transport Executive under section 115H(4) above, the arbitrator may give such directions as he thinks fit as to the payment of his expenses and remuneration.
+>
+> (9) This section applies to consent required under any provision of this Part of this Act except section 115H(1) above.
+>
+> **Failure to comply with terms of permission.**
+>
+> **115K** (1) If it appears to a council that a person to whom they have granted a permission under section 115E above has committed any breach of the terms of that permission, they may serve a notice on him requiring him to take such steps to remedy the breach as are specified in the notice within such time as is so specified.
+>
+> (2) If a person on whom a notice is served under subsection (1) above fails to comply with the notice, the council may take the steps themselves.
+>
+> (3) Where a council have incurred expenses in the exercise of the power conferred on them by subsection (2) above, those expenses, togehter with the interest at such reasonable rate as the council may determine from the date of the service of a notice of demand for the expenses, amy be recovered by the council from the person on whom the notice under subsection (1) above was served.
+
+.
+
+### PART II
+
+**2** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F128]
+
+## SCHEDULE 6 — MINOR AMENDMENTS
+
+*Section 47.*
+
+**1** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F129]
+
+**4** In section 267 of that Act (application to ships and boats of certain provisions of Act), in paragraph (a) of subsection (3), after the words “county, of the” there shall be inserted the words “ port health authority or ” ; and at the end of that section there shall be added the following subsection—
+
+> (6) In determining for the purposes of subsection (1) above what provisions of this Act specified in subsection (4) above are provisions for the execution of which local authorities are responsible, no account shall be taken of any enactment (whether contained in this Act or not) relating to port health authoroties or joint boards or to any particular port health authority or joint board or of any instrument made under any such enactment
+
+.
+
+**5** In section 346(1)(c) of that Act (by virtue of which, among other things, an order, rule or regulation which was made under any enactment repealed by that Act but which could have been made under a corresponding provision of that Act has effect as if it had been made under that corresponding provision) after the word “regulation” there shall be inserted the word “ byelaw, ”.
+
+**6** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F130]
+
+### Planning
+
+**7** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^F131]
+
+### Direct labour
+
+**8** (1) The following subsection shall be added at the edn of section 21 of the [^M42]Local Government, Planning and Land Act 1980 (which exempts small direct labour organisations from the requirements of Part III of that Act)—
+
+> (8) In this section “year” means a financial year.
+
+.
+
+(2) his paragraph extends to Scotland.
+
+## SCHEDULE 7 — REPEALS
+
+*Section 47.*
+
+### PART I — Repeals in Public General Acts in Consequence of Section 1
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 53 & 54 Vict. c. 59. | Public Health Acts Amendment Act 1890. | Section 51. |
+| 16 & 17 Geo. 5. c. 31. | Home Counties (Music and Dancing) Licensing Act 1926. | The whole Act. |
+| 12, 13 & 14 Geo. 6. c. 101. | Justices of the Peace Act 1949. | In section 41, in subsection (1), the words “or music and dancing licence” , in subsection (4) the words from “and the” to the end and subsection (5). |
+| 1964 c. 26. | Licensing Act 1964. | In section 77 the words from “in any area” to “dancing”. |
+|  |  | In section 78 the words from “and which are” to “dancing”. |
+|  |  | Section 79(7). |
+| 1966 c. 42. | Local Government Act 1966. | In Schedule 3, in Part II, paragraphs 10 and 27. |
+| 1967 c. 19. | Private Places of Entertainment (Licensing) Act 1967. | Section 6. |
+| 1967 c. 80. | Criminal Justice Act 1967. | In Schedule 3, in Part I, the entries relating to the Public Health Acts Amendment Act 1890 and the Home Counties (Music and Dancing) Licensing Act 1926. |
+| 1972 c. 70. | Local Government Act 1972. | Section 204(7). |
+|  |  | In Schedule 14, in Part II, paragraph 24(c), paragraph 25(2)(b) and paragraph 26(b). |
+|  |  | In Schedule 25, in Part II, paragraphs 10 to 12. |
+|  |  | In Schedule 29, paragraph 27. |
+| 1974 c. 7. | Local Government Act 1974. | In Schedule 6, paragraph 3. |
+| 1980 c. 43. | Magistrates’ Courts Act 1980. | In Schedule 6, in Part III, paragraph 2. |
+
+### PART II — REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SECTION 1
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1976 c. xxxi. | Royal County of Berkshire (Public Entertainment) Provisional Order Confirmation Act 1976. | The whole Act. |
+| 1976 c. xxxv. | County of South Glamorgan Act 1976. | Sections 15 to 23. |
+|  |  | In section 24, the words “this Part of this Act or”. |
+|  |  | In section 66(2)(b), the words “Part IV (Music and dancing licences in Cradiff);”. |
+|  |  | In Schedule 3, in Part I, the words “Section 19 (Fines under Part IV of Act);”. |
+| 1979 c. xxiii. | Greater London Council (General Powers) Act 1979. | Paragraph (b) of section 3. |
+| 1980 c. x. | County of Merseyside Act 1980. | Sections 73 to 80. |
+|  |  | In section 81(1) the words “of entertainment licence, or”. |
+|  |  | In section 137(2), the words “Section 76 (Offences under Part XI);”. |
+| 1980 c. xi. | West Midland County Council Act 1980. | Sections 59 to 66. |
+|  |  | In section 67(1), the words “of an entertainment licence or”. |
+|  |  | Section 93. |
+|  |  | In section 116(2), the words “Section 62 (Offences under Part VIII);”. |
+| 1980 c. xiii. | Cheshire County Council Act 1980. | Sections 32 to 39. |
+|  |  | In section 40(1), the words “of an entertainment licence or”. |
+|  |  | In section 108(2), the words “Section 35 (Offences under Part VII);”. |
+| 1980 c. xiv. | West Yorkshire Act 1980. | Sections 25 to 32. |
+|  |  | In section 33(1), the words “of an entertainment licence or”. |
+|  |  | In Schedule 3, the words “Section 28 (Offences under Part VII);”. |
+| 1980 c. xxxvii. | South Yorkshire Act 1980. | Section 48. |
+| 1981 c. ix. | Greater Manchester Act 1981. | Section 107 to 114. |
+|  |  | In section 115(1), the words “off an entertainment licence or”. |
+|  |  | In section 179(2), the words “Section 110 (Offences under Part XIII);”. |
+| 1981 c. xviii. | County of Kent Act 1981. | Sections 63 to 70. |
+|  |  | In section 71(1), the words “of an entertainment licence or”. |
+|  |  | In section 128(2) the words “Section 66 (Offences under Part X);”. |
+| 1981 c. xxv. | East Sussex Act 1981. | Section 30. |
+
+### PART III — REPEAL IN LOCAL ACT IN CONSEQUENCE OF SECTION 8
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1980 c. xi. | West Midlands County Council Act 1980. | Section 51. |
+
+### PART IV — REPEALS IN PUBLIC GENERAL ACTS IN CONSEQUENCE OF SECTION 11
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 15 & 16 Geo . 5. c. 50. | Theatrical Employers Registration Act 1925. | The whole Act. |
+| 18 & 19 Geo. 5. c. 46. | Theatrical Employers Registration (Amendment) Act 1928. | The whole Act. |
+| 1968 c. 54. | Theatres Act 1968. | In Schedule 2, the entry relating to the Theatrical Employers Registration Act 1925. |
+| 1971 c. 23. | Courts Act 1971. | In Schedule 9, the entry relating to the Theatrical Employers Registration Act 1925. |
+| 1972 c. 70. | Local Government Act 1972. | IN section 204(6), the words from “and in the definition” to the end. |
+| 1972 c. 71. | Criminal Jusitce Act 1972. | In Schedule 5, the entry relating to the Theatrical Employers Registration Act 1925. |
+| 1973 c. 65. | Local Government (Scotland) Act 1973. | In Schedule 24, in Part III, paragraph 35. |
+| 1980 c. 65. | Local Goverment, Planning and Land Act 1980. | In Schedule 6, paragraphs 2 amnd 3. |
+
+### PART V — REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SECTION 12
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1980 c. x. | County of Merseyside Act 1980. | Section 29. |
+| 1980 c. xiii. | Cheshire County Council Act 1980. | Section 31. |
+| 1980 c. xxxvii. | South Yorkshire Act 1980. | Section 44. |
+| 1981 c. ix. | Greater Manchester Act 1981. | Section 57. |
+| 1981 c. xviii. | County of Kent Act 1981. | Section 26. |
+| 1981 xxv. | East Sussex Act 1981. | Section 91. |
+| 1982 c. iii. | Humberside Act 1982. | Section 46. |
+
+### PART VI — REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SECTION 20.
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1976 c. xxxv. | County of South Glamorgan Act 1976. | Section 56. |
+| 1979 c. xxiii. | Greater London Council (General Powers) Act 1979. | Section 5. |
+|  |  | Section 9. |
+| 1980 c. x. | County of Merseyside Act 1980. | Sections 11 and 12. |
+| 1980 c. xi. | West Midlands County Council Act 1980. | Sections 7 and 8. |
+| 1980 c. xiii. | Cheshire County Council Act 1980. | Section 10. |
+| 1980 c. xiv. | West Yorkshire Act 1980. | Sections 13 and 14. |
+| 1980 c. xv. | Isle of Wight Act 1980. | Sections 11 and 12. |
+| 1980 c. xxxvii. | South Yorkshire Act 1980. | Sections 11 and 12. |
+| 1980 c. xliii; | Tyne and Wear Act 1980. | Sections 7 to 9. |
+| 1981 c. ix. | Greater Manchester Act 1981. | Sections 17 to 19. |
+| 1981 c. xviii. | County of Kent Act 1981. | Sections 8 and 9. |
+| 1981 c. xxv. | East Suusex Act 1981. | Sections 4 and 5. |
+| 1982 c. iii. | Humberside Act 1982. | Sections 31 to 33. |
+| 1982 c. iv. | County of Avon Act 1982. | Sections 4 and 35. |
+
+### PART VII — REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SECTION 22
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1980 c. x. | County of Merseyside Act 1980. | Section 14. |
+| 1980 c. xi. | West Midlands County Council Act 1980. | Section 10. |
+| 1980 c. xiii. | Cheshire County Council Act 1980. | Section 9. |
+| 1980 c. xv. | Isle of Wight Act 1980. | Section 51. |
+| 1980 c. xxxvii. | South Yorkshire Act 1980. | Section 13. |
+| 1981 c. ix. | Greater Manchester Act 1981. | Section 20. |
+| 1981 c. xviii. | County of Kent Act 1981. | Section 11. |
+| 1981 c. xix. | South Yorkshire Act 1981. | In the Table, the entries relating to section 13(1) and 92) of the South Yorkshire Act 1980. |
+| 1981 c. xxv. | East Sussex Act 1981. | Section 6. |
+
+### PART VIII — REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SECTION 24
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1980 c. xi. | West Midlands County Council Act 1980. | Section 17. |
+| 1980 c. xiii. | Cheshire County Council Act 1980. | Section 24. |
+| 1980 c. xxxvii. | South Yorkshire Act 1980. | Section 35. |
+| 1981 c. xxxiv. | Derbyshire Act 1981. | Section 18. |
+| 1982 c. iii. | Humberside Act 1982. | Section 38. |
+| 1982 c. iv. | County of Avon Act 1982. | Section 24. |
+
+### PART IX — REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SECTION 26
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1980 c. xiv. | West Yorkshire Act 1980. | Section 45. |
+| 1980 c. xxxvii. | South Yorkshire Act 1980. | Section 23. |
+| 1980 c. xliii. | Tyne and Wear Act 1980. | Section 14. |
+| 1981 c. ix. | Greater Manchester Act 1981. | Section 33. |
+| 1981 c. xxv. | East Sussex Act 1981. | Section 16. |
+
+### PART X — REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SEECTION 27
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1967 c. xx. | Greater London Council (General Powers) Act 1967. | Section 24. |
+| 1980 c. xiv. | West Yorkshire Act 1980. | Section 10. |
+| 1980 c. xxxvii. | South Yorkshire Act 1980. | Section 40. |
+| 1980 xliii. | Tyne and Wear Act 1980. | Section 15. |
+| 1981 c. ix. | Greater Manchester Act 1981. | Section 46. |
+| 1981 c. xviii. | County of Kent Act 1981. | Sections 24 and 25. |
+| 1981 c. xxxv. | East Sussex Act 1981. | Section 15. |
+| 1982 c. iv. | County of Avon Act 1982. | Section 26. |
+
+### PART XI — REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SECTION 28
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1976 c. xxxv. | County of South Glamorgan Act 1976. | Section 28. |
+| 1980 c. x. | County of Merseyside Act 1980. | Section 17. |
+| 1980 c. xiii. | Cheshire County Council Act 1980. | Section 26. |
+| 1980 c. xxxvii. | South Yorkshire Act 1980. | Section 30. |
+| 1980 c. xliii. | Tyne and Wear Act 1980. | Section 20. |
+| 1981 c. ix. | Greater Manchester Act 1981. | Section 39. |
+| 1981 c. xviii. | County of Kent Act 1981. | Section 27. |
+| 1981 c. xxxiv. | Derbyshire Act 1981. | Section 17. |
+| 1982 c. iii. | Humberside Act 1982. | Section 43. |
+
+### PART XII — REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SECTION 33
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1980 c. xiii. | Cheshire County Council Act 1980. | Section 94. |
+| 1980 c. xv. | Isle of Wight Act 1980. | Section 17. |
+| 1981 c. xviii. | County of Kent Act 1981. | Section 4. |
+| 1982 c. iii. | Humberside Act 1982. | Section 50. |
+| 1982 c. iv. | County of Avon Act 1982. | Section 46. |
+
+### PART XIII — REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SECTION 34
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1980 c. xiv. | West Yorkshire Act 1980. | Section 82. |
+| 1980 c. xxxvii. | South Yorkshire Act 1980. | Section 90. |
+| 1981 c. xxv. | East Sussex Act 1981. | Section 90. |
+
+### PART XIV — REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SECTION 36
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1980 c. xxxvii. | South Yorkshire Act 1980. | Section 94. |
+| 1980 c. xliii. | Tyne and Wear Act 1980. | Section 22. |
+| 1981 c. xviii. | County of Kent Act 1981. | Section 31. |
+
+### PART XV — REPEALS IN LOCAL ACTS IN CONSEQUENCE OF SECTION 39
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent or repeal |
+| 1980 c. xi. | West Midlands County Court Act 1980. | Section 68. |
+| 1980 c. xiv. | West Yorkshire Act 1980. | Section 52. |
+| 1980 c. xv. | Isle of Wight Act 1980. | Section 47. |
+| 1980 c. xxxvii. | South Yorkshire Act 1980. | Section 83. |
+| 1981 c. ix. | Greater Manchester Act 1981. | Section 95. |
+| 1982 c. iii. | Hummberside Act 1982. | Section 54. |
+
+### PART XVI — MISCELLANEOUS REPEALS IN PUBLIC GENERAL ACTS
+
+|  |  |  |
+|---|---|---|
+| Chapter | Short title | Extent of repeal |
+| 1936 c. 49. | Public Health Act 1936. | In section 2(2), paragraph (ii). |
+| 1971 c. 78. | Town and Country Planning Act 1971. | Section 213. |
+| 1972 c. 70. | Local Government Act 1972. | In section 140(3), the words from “but” to the end. |
+|  |  | In Schedule 16, paragraph 9(2). |
+| 1974 c. 37. | Health and Safety at Work etc. Act 1974. | Section 63(1) to (4). |
+| 1974 c. 44. | Housing Act 1974. | Section 126. |
+| 1975 c. 76. | Local Land Charges Act 1975. | In Schedule 1, in the entry relating to the Housing Act 1974, paragraph (e). |
+| 1976 c. 57. | Local Government (Miscellaneous Provisions) Act 1976. | Section 8. |
+|  |  | Section 43. |
+| 1980 c. 65. | Local Government, Planning and Land Act 1980. | In section 88(2)(b), the words from “in”, in the second place where it occurs, to “proposed)” and the words “in each subsection”. |
+|  |  | In Schedule 14, paragraph 11(a). |
+
+---
+
+[^F1]: S. 1 repealed (24.11.2005) by Licensing Act 2003 (c. 17), s. 201(2), Sch. 6 para. 83(a), Sch. 7 (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2) (with art. 4)
+[^F2]: Ss. 4-6 repealed (24.11.2005) by Licensing Act 2003 (c. 17), s. 201(2), Sch. 6 para. 83(b), Sch. 7 (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2) (with art. 4)
+[^F3]: S. 7 repealed (24.11.2005) by Licensing Act 2003 (c. 17), s. 201(2), Sch. 7 (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2) (with art. 4)
+[^M1]: 1936 c. 49.
+[^F4]: S. 8(1)(*a*) repealed by Building Act 1984 (c. 55, SIF 15), s. 133(2), Sch. 7
+[^M2]: 1960 c. 62.
+[^F5]: S. 9 repealed (1.10.2006) by The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541), art. 1(3), Sch. 2 para. 26(2), Sch. 4 (with art. 49) (as amended by The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484), arts. 1(1), 2)
+[^F6]: S. 10 repealed (1.10.2006) by The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541), art. 1(3), Sch. 2 para. 26(2), Sch. 4 (with art. 49) (as amended by The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484), arts. 1(1), 2)
+[^F7]: S. 11 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 10 Group 3
+[^M3]: 1936 c. 49.
+[^M4]: 1875 c. 55.
+[^M5]: 1972 c. 70.
+[^F8]: Words in s. 13(11)(a) inserted (13.9.2024 for specified purposes, 29.11.2024 in so far as not already in force) by Public Health (Wales) Act 2017 (anaw 2), s. 126(2), Sch. 3 para. 22(2); S.I. 2024/938, art. 2(1)(k); S.I. 2024/1248, art. 2(jj) (with arts. 4, 5)
+[^F9]: Words in s. 14(1) inserted (13.9.2024 for specified purposes, 29.11.2024 in so far as not already in force) by Public Health (Wales) Act 2017 (anaw 2), s. 126(2), Sch. 3 para. 22(3)(a); S.I. 2024/938, art. 2(1)(k); S.I. 2024/1248, art. 2(jj) (with arts. 4, 5)
+[^F10]: Words in s. 14(2) inserted (13.9.2024 for specified purposes, 29.11.2024 in so far as not already in force) by Public Health (Wales) Act 2017 (anaw 2), s. 126(2), Sch. 3 para. 22(3)(b); S.I. 2024/938, art. 2(1)(k); S.I. 2024/1248, art. 2(jj) (with arts. 4, 5)
+[^F11]: Words in s. 15 substituted (1.4.2004) by Local Government Act 2003 (c. 26), ss. 120(2), 128(6); S.I. 2003/2938, art. 7(a) (with art. 8, Sch.); S.I. 2003/3034, art. 2, Sch. 1 Pt. II
+[^F12]: Words in s. 15(1) inserted (13.9.2024 for specified purposes, 29.11.2024 in so far as not already in force) by Public Health (Wales) Act 2017 (anaw 2), s. 126(2), Sch. 3 para. 22(4)(a); S.I. 2024/938, art. 2(1)(k); S.I. 2024/1248, art. 2(jj) (with arts. 4, 5)
+[^F13]: S. 15(1)(aa)(b) substituted for s. 15(1)(b) (1.4.2004) by Local Government Act 2003 (c. 26), ss. 120(2), 128(6); S.I. 2003/2938, art. 7(a) (with art. 8, Sch.); S.I. 2003/3034, art. 2, Sch. 1 Pt. II
+[^F14]: Words in s. 15(2) inserted (13.9.2024 for specified purposes, 29.11.2024 in so far as not already in force) by Public Health (Wales) Act 2017 (anaw 2), s. 126(2), Sch. 3 para. 22(4)(b); S.I. 2024/938, art. 2(1)(k); S.I. 2024/1248, art. 2(jj) (with arts. 4, 5)
+[^F15]: Words in s. 15(2) substituted (1.4.2004) by Local Government Act 2003 (c. 26), ss. 120(3)(a), 128(6); S.I. 2003/2938, art. 7(a) (with art. 8, Sch.); S.I. 2003/3034, art. 2, Sch. 1 Pt. II
+[^F16]: Words in s. 15(2) substituted (1.4.2004) by Local Government Act 2003 (c. 26), ss. 120(3)(b), 128(6); S.I. 2003/2938, art. 7(a) (with art. 8, Sch.); S.I. 2003/3034, art. 2, Sch. 1 Pt. II
+[^F17]: Words in s. 15(5) substituted (1.4.2004) by Local Government Act 2003 (c. 26), ss. 120(4), 128(6); S.I. 2003/2938, art. 7(a) (with art. 8, Sch.); S.I. 2003/3034, art. 2, Sch. 1 Pt. II
+[^F18]: S. 15(9) inserted (1.4.2004) by Local Government Act 2003 (c. 26), ss. 120(5), 128(6); S.I. 2003/2938, art. 7(a) (with art. 8, Sch.); S.I. 2003/3034, art. 2, Sch. 1 Pt. II
+[^F19]: Words substituted by virtue of Criminal Justice Act 1982 (c. 48, SIF 39:1), s. 46
+[^F20]: Words in s. 16(6) substituted (1.9.2004) by The Courts Act 2003 (Consequential Amendments) Order 2004 (S.I. 2004/2035), art. 2(1), Sch. para. 19 (with art. 2(2))
+[^F21]: Words substituted by virtue of Criminal Justice Act 1982 (c. 48, SIF 39:1), s. 46
+[^F22]: Pt IX (ss. 18 and 19) repealed by Food Act 1984 (c. 30, SIF 53:1), s. 134, Sch. 11
+[^F23]: S. 21(1) repealed (1.1.1993) by New Roads and Street Works Act 1991 (c. 22, SIF 59, 108), s. 168(2), Sch 9 (with s. 102(2)); S.I. 1992/2984, art. 2(2), Sch.2
+[^M6]: 1980 c. 66.
+[^M7]: 1980 c. 66.
+[^F24]: Ss. 24, 25 repealed by Building Act 1984 (c. 55, SIF 15), s. 133(2), Sch. 7
+[^F25]: S. 26(1)(2) repealed by Environmental Protection Act 1990 (c. 43, SIF 46:4), s. 162(2), Sch. 16 Pt. III
+[^M8]: 1961 c. 64.
+[^F26]: S. 27(2) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 10 Group 3
+[^F27]: S. 28 repealed by Building Act 1984 (c. 55, SIF 15), s. 133(2), Sch. 7
+[^F28]: Words repealed by Local Government Act 1985 (c. 51, SIF 81:1), ss. 1, 102, Sch. 17
+[^F29]: S. 29(5) repealed by Local Government Act 1985 (c. 51, SIF 81:1), ss. 1, 102, Sch. 17
+[^M9]: 1936 c. 49.
+[^F30]: S. 30(1)(b) and the word “or” immediately preceding it repealed by Electricity Act 1989 (c. 29, SIF 44:1), s. 112(3)(4), Sch. 17 paras. 33, 35(1), Sch. 18
+[^M10]: 1972 c. 70.
+[^F31]: S. 33(1) substituted (25.10.1991) by Planning and Compensation Act 1991 (c. 34, SIF 123:1), s. 32, Sch. 7 para. 6; S.I. 1991/2272, art. 3.
+[^M11]: 1974 c. 44.
+[^M12]: 1936 c. 49.
+[^M13]: 1976 c. 57.
+[^M14]: 1936 c. 49.
+[^M15]: 1972 c. 70.
+[^F32]: Words inserted by Norfolk and Suffolk Broads Act 1988 (c. 4, SIF 81:1), ss. 21, 23(2), 27(2), Sch. 6 para. 23
+[^F33]: Words substituted by Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2), s. 4, Sch. 2 para. 56(1)
+[^M16]: 1990 c.11 (**123:1**).
+[^F34]: Words in s. 33(9)(a)(b) repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^F35]: Words inserted by S.I. 1990/1765, art. 4(6)(a)
+[^F36]: Words in s. 33(9)(a) inserted (31.1.2017 for specified purposes, 3.4.2017 in so ar as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 1 para. 45; S.I. 2017/399, reg. 2, Sch. para. 38
+[^F37]: Words in s. 33(9)(a) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 2 para. 66; S.I. 2018/227, reg. 4(c)
+[^F38]: Words in s. 33(9)(a) substituted (16.1.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 156; S.I. 2011/3019, art. 3, Sch. 1 (with Sch. 2 para. 44)
+[^F39]: Words in s. 33(9)(a) repealed (1.4.2002) by Criminal Justice and Police Act 2001 (c. 16), s. 138, Sch. 7 Pt. 5; S.I. 2002/344, art. 3 (with art. 4)
+[^F40]: Words in s. 33(9)(a) omitted (W.) (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 31(a)
+[^F41]: Words repealed by Education Reform Act 1988 (c. 40, SIF 41:1), ss. 231(7), 235(6), 237(2), Sch. 13 Pt. I
+[^F42]: Words in s. 33(9)(a) substituted (1.4.2008) by Local Government and Public Involvement in Health Act 2007 (c. 28), s. 245(5), Sch. 13 para. 38(2)(a); S.I. 2008/917, art. 2(1)(p)
+[^F43]: Words in s. 33(9)(a) inserted (17.12.2009) by Local Democracy, Economic Development and Construction Act 2009 (c. 20), s. 148(6), Sch. 6 para. 56(2)(a); S.I. 2009/3318, art. 2(c)
+[^F44]: Words in s. 33(9)(a) substituted (26.12.2023) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(2)(c), Sch. 4 para. 71(a) (with s. 247)
+[^F45]: Words repealed by Local Government Act 1985 (c. 51, SIF 81:1), ss. 1, 102, Sch. 17
+[^F46]: Words inserted by S.I. 1990/1765, art. 4(6)(b)
+[^F47]: Words in s. 33(9)(b) omitted (W.) (10.9.2025) by virtue of Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3), s. 9(2)(d), Sch. 1 para. 31(b)
+[^F48]: Words inserted by Local Government Act 1985 (c. 51, SIF 81:1), s. 84, Sch. 14 para. 61(a)(ii)
+[^F49]: Words repealed by Education Reform Act 1988 (c. 40, SIF 41:1), ss. 231(7), 235(6), 237(2), Sch. 13 Pt. I
+[^F50]: Words in s. 33(9)(b) inserted (17.12.2009) by Local Democracy, Economic Development and Construction Act 2009 (c. 20), s. 148(6), Sch. 6 para. 56(2)(b); S.I. 2009/3318, art. 2(c)
+[^F51]: Words in s. 33(9)(b) substituted (26.12.2023) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(2)(c), Sch. 4 para. 71(b) (with s. 247)
+[^M17]: 1974 c. 44.
+[^M18]: 1975 c. 76.
+[^F52]: Ss. 35, 36 repealed by Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2), s. 3, Sch. 1 Pt. I, Sch. 3 paras. 1, 2, 4, 6
+[^F53]: Words substituted by virtue of Criminal Justice Act 1982 (c. 48, SIF 39:1), s. 46
+[^F54]: Words substituted by Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2), s. 4, Sch. 2 para. 56(2)
+[^F55]: Words in s. 37(8) inserted (1.5.2025) by The Town and Country Planning (Fees and Consequential Amendments) Regulations 2025 (S.I. 2025/418), regs. 1(3), 9
+[^M19]: 1980 c. 65.
+[^M20]: 1972 c. 70.
+[^F56]: S. 39(3) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 10 Group 3
+[^F57]: S. 40 repealed (1.10.2002 for E., 1.9.2003 for W.) by Education Act 2002 (c. 32), s. 216(4), Sch. 22 Pt. 3 (with ss. 210(8), 214(4)); S.I. 2002/2439, art. 3; S.I. 2003/1718, art. 5, Sch. Pt. II
+[^F58]: S. 41(12)(c) substituted (15.7.2003) by The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615), art. 1(1), Sch. 1 para. 11
+[^M21]: 1968 c. 61
+[^M22]: 1972 c. 70 (**81:1**).
+[^F59]: Words substituted by Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2), s. 4, Sch. 2 para. 56(3)
+[^M23]: 1990 c.11 (**123:1**).
+[^F60]: Words in s. 41(13) repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^F61]: Words in s. 41(13) inserted by Norfolk and Suffolk Broads Act 1988 (c. 4, SIF 81:1), ss. 21, 23(2), 27(2), Sch. 6 para. 23(2)
+[^F62]: Words in s. 41(3) inserted by Local Government Act 1985 (c. 51, SIF 81:1), s. 84, Sch. 14 Pt. II para. 61(b)
+[^F63]: Words in s. 41(13) substituted (16.1.2012) by Police Reform and Social Responsibility Act 2011 (c. 13), s. 157(1), Sch. 16 para. 157; S.I. 2011/3019, art. 3, Sch. 1 (with Sch. 2 para. 45)
+[^F64]: Words in s. 41(13) repealed (1.4.2002) by 2001 c. 16, ss. 128, 137, Sch. 6 Pt. 2 para. 40, Sch. 7 Pt. 5(1); S.I. 2002/344, art. 3
+[^F65]: Words in s. 41(13) repealed by Education Reform Act 1988 (c. 40, SIF 41:1), ss. 231(7), 235(6), 237(2), Sch. 13 Pt. I
+[^F66]: Words in s. 41(13) inserted (17.12.2009) by Local Democracy, Economic Development and Construction Act 2009 (c. 20), s. 148(6), Sch. 6 para. 56(3); S.I. 2009/3318, art. 2(c)
+[^F67]: Words in s. 41(13) inserted (26.12.2023) by Levelling-up and Regeneration Act 2023 (c. 55), s. 255(2)(c), Sch. 4 para. 72 (with s. 247)
+[^F68]: Words in s. 41(13) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 1 para. 46; S.I. 2017/399, reg. 2, Sch. para. 38
+[^F69]: Words in s. 41(13) omitted (26.5.2015) by virtue of Deregulation Act 2015 (c. 20), s. 115(7), Sch. 13 para. 6(16)(c); S.I. 2015/994, art. 6(g)
+[^F70]: Words in s. 41(13) inserted (3.7.2000) by 1999 c. 29, s. 328(8), Sch. 29 Pt. I para. 36 (with Sch. 12 para. 9(1)); S.I. 2000/1094, art. 4(a)(h)
+[^F71]: Words in s. 41(13) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 2 para. 67; S.I. 2018/227, reg. 4(c)
+[^M24]: 1981 c. 14 (**107:1**).
+[^F72]: S. 42 repealed by Public Health (Control of Disease) Act 1984 (c. 22, SIF 100:1), s. 78, Sch. 3
+[^M25]: 1963 c. 29.
+[^M26]: 1972 c. 70.
+[^F73]: Words repealed by virtue of Employment Act 1989 (c. 38, SIF 43:1), s. 29(4), Sch. 7 Pt. I
+[^M27]: 1972 c. 70.
+[^F74]: S. 45(2)(aa)(ab) inserted by Local Government Act 1988 (c. 9, SIF 81:1, 2), s. 34(1)(2)
+[^F75]: Words “III or” omitted by virtue of repeal of words “or III” by Education Reform Act 1988 (c. 40, SIF 41:1), ss. 231(7), 235(6), 237(2), Sch. 13 Pt. I
+[^F76]: Words substituted by Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2), s. 4, Sch. 2 para. 56(3)
+[^F77]: Words in s. 45(2)(b) repealed (1.4.1997) by 1995 c. 25, s. 120(3), Sch. 24 (with ss. 7(6), 115, 117); S.I. 1996/2560, art. 2, Sch.
+[^F78]: S. 45(2)(b)(bb): word “and” repealed (3.7.2000) by 1999 c. 29, s. 423, Sch. 34 Pt. VIII (with Sch. 12 para. 9(1)); S.I. 2000/1094, art. 4(a)(i)
+[^F79]: S. 45(2)(bb) inserted by Norfolk and Suffolk Broads Act 1988 (c. 4, SIF 81:1), ss. 21, 23(2), 27(2), Sch. 6 para. 23(2)
+[^F80]: S. 45(2)(ca) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 1 para. 47; S.I. 2017/399, reg. 2, Sch. para. 38
+[^F81]: S. 45(2)(d) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by Policing and Crime Act 2017 (c. 3), s. 183(1)(5)(e), Sch. 2 para. 68; S.I. 2018/227, reg. 4(c)
+[^F82]: S. 46 repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 10 Group 3
+[^F83]: Words in s. 49(2) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 10 Group 3
+[^F84]: Sch. 1 repealed (24.11.2005) by Licensing Act 2003 (c. 17), s. 201(2), Sch. 6 para. 83(c), Sch. 7 (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2) (with art. 4)
+[^F85]: Sch. 2 paras. 1-6 repealed (24.11.2005) by Licensing Act 2003 (c. 17), s. 201(2), Sch. 7 (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2) (with art. 4)
+[^M28]: 1959 c. 66.
+[^M29]: 1978 c. 37.
+[^M30]: 1979 c. 2.
+[^M31]: 1876 c. 36.
+[^F86]: Words in Sch. 3 para. 2 inserted (E.W.) (6.4.2010 for E., 8.5.2010 for W.) by Policing and Crime Act 2009 (c. 26), ss. 27(2), 116(4) (with transitional provisions in Sch. 3); S.I. 2010/722, art. 3(a) (with arts. 4-12); S.I. 2010/1375, art. 3(a) (with transitional and saving provisions in S.I. 2010/1395, arts. 3-11)
+[^F87]: Sch. 3 para. 2A and cross-heading inserted (6.4.2010 for E., 8.5.2010 for W.) by Policing and Crime Act 2009 (c. 26), ss. 27(3), 116(4) (with transitional provisions in Sch. 3); S.I. 2010/722, art. 3(a) (with arts. 4-12); S.I. 2010/1375, art. 3(a) (with transitional and saving provisions in S.I. 2010/1395, arts. 3-11)
+[^F88]: Sch. 3 para. 3(2)(a) substituted (24.11.2005) by Licensing Act 2003 (c. 17), s. 201(2), Sch. 6 para. 85(2)(a) (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F89]: Sch. 3 para. 3(2)(b) substituted by Cinemas Act 1985 (c. 13, SIF 45A), s. 24(1), Sch. 2 para. 16(b)
+[^F90]: Words in Sch. 3 para. 3(2)(b) substituted (24.11.2005) by Licensing Act 2003 (c. 17), s. 201(2), Sch. 6 para. 85(2)(b) (with ss. 2(3), 15(2), 195); S.I. 2005/3056, art. 2(2)
+[^F91]: Sch. 3 para. 8(1): Sch. 3 para. 8 renumbered as Sch. 3 para. 8(1) (1.10.2006) by virtue of The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541), art. 1(3), Sch. 2 para. 26(3)(a)(i) (with art. 49) (as amended by The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484), arts. 1(1), 2)
+[^F92]: Words in Sch. 3 para. 8 inserted (1.10.2006) by The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541), art. 1(3), Sch. 2 para. 26(3)(a)(ii) (with art. 49) (as amended by The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484), arts. 1(1), 2)
+[^F93]: Sch. 3 para. 8(2) inserted (1.10.2006) by The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541), art. 1(3), Sch. 2 para. 26(3)(a)(iii) (with art. 49) (as amended by The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484), arts. 1(1), 2)
+[^F94]: Words in Sch. 3 para. 9(1) inserted (6.4.2010 for E., 8.5.2010 for W.) by Policing and Crime Act 2009 (c. 26), ss. 27(4), 116(4) (with transitional provisions in Sch. 3); S.I. 2010/722, art. 3(a) (with arts. 4-12); S.I. 2010/1375, art. 3(a) (with transitional and saving provisions in S.I. 2010/1395, arts. 3-11)
+[^F95]: Sch. 3 para. 10(14)(14A) substituted for Sch. 3 para. 10(14) (28.12.2009) by The Provision of Services Regulations 2009 (S.I. 2009/2999), regs. 1(2), 47(2) (with regs. 2, 5)
+[^F96]: Words in Sch. 3 para. 10(20) omitted (28.12.2009) by virtue of The Provision of Services Regulations 2009 (S.I. 2009/2999), regs. 1(2), 47(3)(a) (with regs. 2, 5)
+[^F97]: Words in Sch. 3 para. 10(20) omitted (28.12.2009) by virtue of The Provision of Services Regulations 2009 (S.I. 2009/2999), regs. 1(2), 47(3)(b) (with regs. 2, 5)
+[^F98]: Words in Sch. 3 para. 12(1)(c) inserted (31.12.2020) by The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742), regs. 1, 124; 2020 c. 1, Sch. 5 para. 1(1)
+[^F99]: Words in Sch. 3 para. 12(1)(c)(d) substituted (28.12.2009) by The Provision of Services Regulations 2009 (S.I. 2009/2999), regs. 1(2), 47(4) (with regs. 2, 5)
+[^F100]: Words in Sch. 3 para. 12(1)(d) inserted (31.12.2020) by The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742), regs. 1, 124; 2020 c. 1, Sch. 5 para. 1(1)
+[^F101]: Sch. 3 para. 12(3)(c) substituted (6.4.2010 for E., 8.5.2010 for W.) by Policing and Crime Act 2009 (c. 26), ss. 27(5), 116(4) (with transitional provisions in Sch. 3); S.I. 2010/722, art. 3(a) (with arts. 4-12); S.I. 2010/1375, art. 3(a) (with transitional and saving provisions in S.I. 2010/1395, arts. 3-11)
+[^F102]: Sch. 3 para. 13(1A) inserted (1.10.2006) by The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541), art. 1(3), Sch. 2 para. 26(3)(b) (with art. 49) (as amended by The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484), arts. 1(1), 2)
+[^F103]: Words in Sch. 3 para. 13(2)(a) inserted (6.4.2010 for E., 8.5.2010 for W.) by Policing and Crime Act 2009 (c. 26), ss. 27(6)(a), 116(4) (with transitional provisions in Sch. 3); S.I. 2010/722, art. 3(a) (with arts. 4-12); S.I. 2010/1375, art. 3(a) (with transitional and saving provisions in S.I. 2010/1395, arts. 3-11)
+[^F104]: Words in Sch. 3 para. 13(2)(b) inserted (6.4.2010 for E., 8.5.2010 for W.) by Policing and Crime Act 2009 (c. 26), ss. 27(6)(b), 116(4) (with transitional provisions in Sch. 3); S.I. 2010/722, art. 3(a) (with arts. 4-12); S.I. 2010/1375, art. 3(a) (with transitional and saving provisions in S.I. 2010/1395, arts. 3-11)
+[^F105]: Sch. 3 para. 13(3)(d) substituted (6.4.2010 for E., 8.5.2010 for W.) by Policing and Crime Act 2009 (c. 26), ss. 27(6)(c), 116(4) (with transitional provisions in Sch. 3); S.I. 2010/722, art. 3(a) (with arts. 4-12); S.I. 2010/1375, art. 3(a) (with transitional and saving provisions in S.I. 2010/1395, arts. 3-11)
+[^F106]: Words in Sch. 3 para. 18(2) inserted (1.10.2006) by The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541), art. 1(3), Sch. 2 para. 26(3)(c) (with art. 49) (as amended by The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484), arts. 1(1), 2)
+[^F107]: Sch. 3 para. 18(4) inserted (1.10.2006) by The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541), art. 1(3), Sch. 2 para. 26(3)(d) (with art. 49) (as amended by The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484), arts. 1(1), 2)
+[^F108]: Word in Sch. 3 para. 19 inserted (6.4.2010 for E., 8.5.2010 for W.) by Policing and Crime Act 2009 (c. 26), ss. 27(7), 116(4) (with transitional provisions in Sch. 3); S.I. 2010/722, art. 3(a) (with arts. 4-12); S.I. 2010/1375, art. 3(a) (with transitional and saving provisions in S.I. 2010/1395, arts. 3-11)
+[^F109]: Words in Sch. 3 para. 22(1) substituted (12.3.2015) by The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664), reg. 1(1), Sch. 4 para. 11(2) (with reg. 5(1))
+[^F110]: Words substituted by virtue of Criminal Justice Act 1982 (c. 48, SIF 39:1), s. 46
+[^F111]: Words in Sch. 3 para. 23(2) substituted (12.3.2015) by The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664), reg. 1(1), Sch. 4 para. 11(3) (with reg. 5(1))
+[^F112]: Sch. 3 para. 24 repealed (1.1.2006) by Serious Organised Crime and Police Act 2005 (c. 15), s. 178(8), Sch. 7 para. 22, Sch. 17 Pt. 2; S.I. 2005/3495, art. 2(1)(m)(u)
+[^F113]: Words substituted by virtue of Criminal Justice Act 1982 (c. 48, SIF 39:1), s. 46
+[^F114]: Sch. 3 para. 25A inserted (6.4.2010 for E., 8.5.2010 for W.) by Policing and Crime Act 2009 (c. 26), ss. 27(8), 116(4) (with transitional provisions in Sch. 3); S.I. 2010/722, art. 3(a) (with arts. 4-12); S.I. 2010/1375, art. 3(a) (with transitional and saving provisions in S.I. 2010/1395, arts. 3-11)
+[^F115]: Words in Sch. 3 para. 27(1) substituted (1.4.2005) by The Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886), art. 1, Sch. para. 41(a)
+[^F116]: Words in Sch. 3 para. 27(4) omitted (1.4.2005) by virtue of The Courts Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/886), art. 1, Sch. para. 41(b)
+[^M32]: 1981 c. 54
+[^F117]: Words in Act substituted (1.10.2009) by Constitutional Reform Act 2005 (c. 4), s. 148(1), Sch. 11 para. 1(2); S.I. 2009/1604, art. 2(d)
+[^F118]: Sch. 3 para. 27(10A) inserted (6.4.2010 for E., 8.5.2010 for W.) by Policing and Crime Act 2009 (c. 26), ss. 27(9), 116(4) (with transitional provisions in Sch. 3); S.I. 2010/722, art. 3(a) (with arts. 4-12); S.I. 2010/1375, art. 3(a) (with transitional and saving provisions in S.I. 2010/1395, arts. 3-11)
+[^F119]: Sch. 3 para. 27A and cross-heading inserted (6.4.2010 for E., 8.5.2010 for W.) by Policing and Crime Act 2009 (c. 26), ss. 27(10), 116(4) (with transitional provisions in Sch. 3); S.I. 2010/722, art. 3(a) (with arts. 4-12); S.I. 2010/1375, art. 3(a) (with transitional and saving provisions in S.I. 2010/1395, arts. 3-11)
+[^M33]: 1980 c. 66.
+[^M34]: 1871 c. 96.
+[^M35]: 1980 c. 66.
+[^M36]: 1916 c. 31.
+[^F120]: Words in Sch. 4 para. 2(5)(b) substituted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 8 para. 34(2); S.I. 2008/3068, art. 2(1)(w)(3) (with arts. 6-13)
+[^F121]: Sch. 4 para. 2(5)(ba) inserted (15.1.2012) by Localism Act 2011 (c. 20), s. 240(1)(l), Sch. 22 para. 8
+[^F122]: Word in Sch. 4 para. 2(5)(c) inserted (1.10.1998) by 1998 c. 38, s. 29, Sch. 15 para. 5 (with ss. 131(1), 137(1), 139(2), 143(2)); S.I. 1998/2244, art. 4
+[^M37]: 1980 c. 65.
+[^F123]: Sch. 4 para. 2(5)(e) and word “and” immediately preceding repealed (1.10.1998) by 1998 c. 38, s. 152, Sch. 18 Pt. IV (with ss. 137(1), 139(2), 143(2)); S.I. 1998/2244, art. 4
+[^F124]: Sch. 4 para. 2(5A) inserted (1.12.2008) by Housing and Regeneration Act 2008 (c. 17), s. 325(1), Sch. 8 para. 34(3); S.I. 2008/3068, art. 2(1)(w)(3) (with arts. 6-13)
+[^F125]: Words in Sch. 4 para. 2(5A)(a) inserted (1.4.2012) by Localism Act 2011 (c. 20), s. 240(2), Sch. 19 para. 9; S.I. 2012/628, art. 6(i) (with arts. 9, 11, 14, 15, 17)
+[^M38]: 1976 c. 57.
+[^M39]: 1976 c. 57.
+[^F126]: Words substituted by virtue of Criminal Justice Act 1982 (c. 48, SIF 39:1), s. 46
+[^M40]: 1847 c. 14.
+[^F127]: Words substituted by Food Act 1984 (c. 30, SIF 53:1), s. 134, Sch. 10 para. 34
+[^M41]: 1980 c. 66.
+[^F128]: Sch. 5 paras. 2, 3 repealed by Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2), s. 3, Sch. 1 Pt. I, Sch. 3 paras. 1, 2, 4, 6
+[^F129]: Sch. 6 paras. 1–3, 6 repealed by Public Health (Control of Disease) Act 1984 (c. 22, SIF 100:1), s. 78, Sch. 3
+[^F130]: Sch. 6 paras. 1–3, 6 repealed by Public Health (Control of Disease) Act 1984 (c. 22, SIF 100:1), s. 78, Sch. 3
+[^F131]: Sch. 6 para. 7 repealed by Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2), s. 3, Sch. 1 Pt. I, Sch. 3 paras. 1, 2, 4, 6
+[^M42]: 1980 c. 65.

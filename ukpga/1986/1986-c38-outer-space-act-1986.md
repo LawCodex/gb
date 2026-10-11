@@ -1,0 +1,371 @@
+---
+title: "Outer Space Act 1986"
+identifier: "ukpga/1986/38"
+citation: "1986 c. 38"
+type: act
+legislation_type: ukpga
+jurisdiction: gb
+language: en
+extent: "E+W+S+N.I."
+date: 1986-07-18
+last_amended: 2021-07-29
+version: revised
+status: in_force
+source: "https://www.legislation.gov.uk/ukpga/1986/38"
+source_modified: 2021-11-05
+retrieved: 2026-10-11
+---
+
+# Outer Space Act 1986
+
+**1986 c. 38**
+
+An Act to confer licensing and other powers on the Secretary of State to secure compliance with the international obligations of the United Kingdom with respect to the launching and operation of space objects and the carrying on of other activities in outer space by persons connected with this country.
+
+[18th July 1986]
+
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
+
+## Application of Act
+
+### 1 Activities to which this Act applies.
+
+[[^F1](1)] This Act applies to the following activities [^F2]whether carried on in the United Kingdom or elsewhere—
+
+(a) launching or procuring the launch of a space object;
+
+(b) operating a space object;
+
+(c) any activity in outer space.
+
+[[^F3](2) This Act does not apply to activities carried on in the United Kingdom (and accordingly does not apply to activities requiring authorisation under section 3(1) of the Space Industry Act 2018).]
+
+### 2 Persons to whom this Act applies.
+
+(1) This Act applies to United Kingdom nationals, Scottishfirms, and bodies incorporated under the law of any part of the United Kingdom.
+
+(2) For this purpose “United Kingdom national” means an individual who is—
+
+(a) a British citizen, a British Dependent Territories citizen, a British National (Overseas), or a British Overseas citizen,
+
+(b) a person who under the [^M1]British Nationality Act 1981 is a British subject, or
+
+(c) a British protected person within the meaning of that Act.
+
+(3) Her Majesty may by Order in Council extend the application of this Act to bodies incorporated under the law of any of the Channel Islands, the Isle of Man or any dependent territory.
+
+## Licensing of activities
+
+### 3 Prohibition of unlicensed activities.
+
+(1) A person to whom this Act applies shall not, subject to the following provisions, carry on an activity to which this Act applies except under the authority of a licence granted by the Secretary of State.
+
+(2) A licence is not required—
+
+(a) by a person acting as employee or agent of another; or
+
+(b) for activities in respect of which it is certified by Order in Council that arrangements have been made between the United Kingdom and another country to secure compliance with the international obligations of the United Kingdom.
+
+(3) The Secretary of State may by order [[^F4]make provision for other activities or persons to be exempted from the requirement of a licence, either by the order itself or by the Secretary of State,] if he is satisfied that the requirement is not necessary to secure compliance with the international obligations of the United Kingdom.
+
+[[^F5](3ZA) An exemption granted by virtue of subsection (3) may be granted for a limited period.]
+
+[[^F6](3A) An order under subsection (3) may—
+
+[[^F7](za) make provision about the procedure for granting an exemption (including provision for applications);
+
+(zb) make provision about the terms of an exemption or the conditions to which an exemption is subject;
+
+(zc) make provision about the revocation or renewal of an exemption;
+
+(zd) make provision for the enforcement of terms or conditions;]
+
+(a) provide that section 10(1) does not apply to a person to the extent that the person is carrying on activities that do not require a licence by virtue of the order;
+
+(b) specify the maximum amount of a person's liability under section 10(1) so far as the liability relates to the carrying on of activities that do not require a licence by virtue of the order.]
+
+(4) An order shall be made by statutory instrument which shall [[^F8]not be made unless a draft of the instrument has been laid before each House of Parliament and approved by a resolution of each House].
+
+### 4 Grant of licence.
+
+(1) The Secretary of State may grant a licence if he thinks fit.
+
+(2) He shall not grant a licence unless he is satisfied that the activities authorised by the licence—
+
+(a) will not jeopardise public health or the safety of persons or property,
+
+(b) will be consistent with the international obligations of the United Kingdom, and
+
+(c) will not impair the national security of the United Kingdom.
+
+(3) The Secretary of State may make regulations—
+
+(a) prescribing the form and contents of applications for licences and other documents to be filed in connection with applications;
+
+(b) regulating the procedure to be followed in connection with applications and authorising the rectification of procedural irregularities;
+
+(c) prescribing time limits for doing anything required to be done in connection with an application and providing for the extension of any period so prescribed;
+
+(d) requiring the payment to the Secretary of State of such fees as may be prescribed.
+
+### 4A [[^F9]Charges
+
+(1) The Secretary of State may by regulations make a scheme for determining the charges that are payable to the Secretary of State in respect of the performance of such of his functions under this Act as are specified in the scheme.
+
+(2) A scheme under this section may, as respects any of those functions—
+
+(a) specify the amount of the charge or a scale of charges by reference to which that amount is to be determined or provide that the charges are to be of such amount, not exceeding that specified in the scheme, as may be decided by the Secretary of State, having regard to the expense incurred by the Secretary of State and to such other factors (if any) as may be so specified;
+
+(b) specify different charges for different cases;
+
+(c) specify the description of person who is liable to pay the charge;
+
+(d) specify the time at which the charge is to be paid.
+
+(3) A scheme under this section may specify the manner in which any charge is to be paid.
+
+(4) Before making a scheme under this section, the Secretary of State must consult the persons who, in his opinion, are likely to be affected by the scheme or any of those persons that he thinks fit.
+
+(5) Where provision is made for a charge to be paid in connection with the performance of a function by the Secretary of State, it is the duty of the Secretary of State to charge accordingly.
+
+But the Secretary of State may waive the whole or part of the charge if the Secretary of State thinks fit to do so in a particular case.
+
+(6) Subsection (5) does not affect the Secretary of State's power to enter into an agreement for the payment to him of charges in respect of the performance of functions in respect of which a scheme under this section does not provide for the payment of a charge.
+
+(7) The inclusion in a licence of a condition as to the payment of charges determined under a scheme under this section does not prevent the Secretary of State from recovering such charges as a debt due to the Secretary of State.]
+
+### 5 Terms of licence.
+
+(1) A licence shall describe the activities authorised by it and shall be granted for such period, and may be granted subject to such conditions, as the Secretary of State thinks fit.
+
+(2) A licence may in particular contain conditions—
+
+(a) permitting inspection by the Secretary of State of the licensee’s facilities, and inspection and testing by him of the licensee’s equipment;
+
+(b) requiring the licensee to provide the Secretary of State as soon as possible with information as to—
+
+(i) the date and territory or location of launch, and
+
+(ii) the basic orbital parameters, including nodal period, inclination, apogee and perigee,
+
+and with such other information as the Secretary of State thinks fit concerning the nature, conduct, location and results of the licensee’s activities;
+
+(c) permitting the Secretary of State to inspect and take copies of documents relating to the information required to be given to him;
+
+[[^F10](ca) requiring the licensee to pay to the Secretary of State (whether on the grant of a licence, subsequently or both) any charges determined under a scheme under section 4A;]
+
+(d) requiring the licensee to obtain advance approval from the Secretary of State for any intended deviation from the orbital parameters, and to inform the Secretary of State immediately of any unintended deviation;
+
+[[^F11](da) designed to secure compliance with—
+
+(i) obligations of the United Kingdom under agreements entered into with other countries, and
+
+(ii) any other international obligations of the United Kingdom;]
+
+(e) requiring the licensee to conduct his operations in such a way as to—
+
+(i) prevent the contamination of outer space or adverse changes in the environment of the earth,
+
+(ii) avoid interference with the activities of others in the peaceful exploration and use of outer space, [[^F12]and]
+
+[^F13]iii . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(iv) preserve the national security of the United Kingdom;
+
+(f) requiring the licensee to insure himself against liability incurred in respect of damage or loss suffered by third parties, in the United Kingdom or elsewhere, as a result of the activities authorised by the licence;
+
+(g) governing the disposal of the payload in outer space on the termination of operations under the licence and requiring the licensee to notify the Secretary of State as soon as practicable of its final disposal; and
+
+(h) providing for the termination of the licence on a specified event.
+
+[[^F14](3) A licence must specify the maximum amount of the licensee's liability to indemnify Her Majesty's government in the United Kingdom under section 10 in respect of activities authorised by the licence.]
+
+### 6 Transfer, variation, suspension or termination of licence.
+
+(1) A licence may be transferred with the written consent of the Secretary of State [^F15]....
+
+(2) The Secretary of State may revoke, vary or suspend a licence with the consent of the licensee or where it appears to him—
+
+(a) that a condition of the licence or any regulation made under this Act has not been complied with, or
+
+(b) that revocation, variation or suspension of the licence is required in the interests of public health or national security, or to comply with any international obligation of the United Kingdom.
+
+(3) The suspension, revocation or expiry of a licence does not affect the obligations of the licensee under the conditions of the licence.
+
+### 6A [[^F16]Appeals
+
+Schedule 10 to the Space Industry Act 2018 makes provision for appeals against decisions of the Secretary of State under this Act.]
+
+## Other controls
+
+### 7 Register of space objects.
+
+(1) The Secretary of State shall maintain a register of space objects.
+
+(2) There shall be entered in the register such particulars of such space objects [[^F17](whether launched in the United Kingdom or elsewhere)] as the Secretary of State considers appropriate to comply with the international obligations of the United Kingdom.
+
+[[^F18](3) The Secretary of State shall ensure that the public can view the information in the register free of charge.]
+
+### 8 Power to give directions.
+
+(1) If it appears to the Secretary of State that an activity is being carried on by a person to whom this Act applies—
+
+(a) in contravention of section 3 (licensing requirement), or
+
+(b) in contravention of the conditions of a licence,
+
+he may give such directions to that person as appear to him necessary to secure compliance with the international obligations of the United Kingdom or with the conditions of the licence.
+
+(2) He may, in particular, give such directions as appear to him necessary to secure the cessation of the activity or the disposal of any space object.
+
+(3) Compliance with a direction may, without prejudice to other means of enforcement, be enforced on the application of the Secretary of State by injunction or, in Scotland, by interdict or by order under section 91 of the [^M2]Court of Session Act 1868.
+
+### 9 Warrant authorising direct action.
+
+(1) If a justice of the peace is satisfied by information on oath that there are reasonable grounds for believing—
+
+(a) that an activity is being carried on by a person to whom this Act applies in contravention of section 3 (licensing requirement) or in contravention of the conditions of a licence, and
+
+(b) that a direction under section 8 has not been complied with, or a refusal to comply with such a direction is apprehended, or the case is one of urgency,
+
+he may issue a warrant authorising a named person acting on behalf of the Secretary of State to do anything necessary to secure compliance with the international obligations of the United Kingdom or with the conditions of the licence.
+
+(2) The warrant shall specify the action so authorised.
+
+(3) The warrant may authorise entry onto specified premises at any reasonable hour and on production, if so required, of the warrant.
+
+(4) The powers conferred by the warrant include power to use reasonable force, if necessary, and may be exercised by the named person together with other persons.
+
+(5) A warrant remains in force for a period of one month from the date of its issue.
+
+(6) In Scotland the reference in subsection (1) to a justice of the peace shall be construed as a reference to a justice of the peace or a sheriff and the reference to information shall be construed as a reference to evidence.
+
+### 10 Obligation to indemnify government against claims.
+
+(1) A person to whom this Act applies shall indemnify Her Majesty’s government in the United Kingdom against any claims brought against the government in respect of damage or loss arising out of activities carried on by him to which this Act applies.
+
+[[^F19](1A) Subsection (1) is subject to—
+
+(a) any limit on the amount of a person's liability that is specified in a licence, and
+
+(b) any order made under section 3(3).]
+
+(2) This section does not apply—
+
+(a) to a person acting as employee or agent of another; or
+
+(b) to damage or loss resulting from anything done on the instructions of the Secretary of State.
+
+## General
+
+### 11 Regulations.
+
+(1) The Secretary of State may make regulations—
+
+(a) prescribing anything required or authorised to be prescribed under this Act, and
+
+(b) generally for carrying this Act into effect.
+
+(2) Regulations under this Act shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### 12 Offences.
+
+(1) A person commits an offence who—
+
+(a) carries on an activity in contravention of section 3 (licensing requirement);
+
+(b) for the purpose of obtaining a licence (for himself or for another) knowingly or recklessly makes a statement which is false in a material particular;
+
+(c) being the holder of a licence, fails to comply with the conditions of the licence;
+
+(d) fails to comply with a direction under section 8;
+
+(e) intentionally obstructs a person in the exercise of powers conferred by a warrant under section 9; or
+
+(f) fails to comply with such of the regulations under this Act as may be prescribed.
+
+(2) A person committing an offence is liable on conviction on indictment to a fine and on summary conviction to a fine not exceeding the statutory maximum.
+
+(3) Where an offence committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to neglect on the part of, a director, secretary or other similar officer of the body corporate, or a person purporting to act in any such capacity, he as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+In this subsection “director”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
+
+(4) Proceedings for an offence committed outside the United Kingdom may be taken, and the offence may for incidental purposes be treated as having been committed, in any place in the United Kingdom.
+
+(5) In proceedings for an offence under paragraph (a), (c), (d) or (f) of subsection (1) it is a defence for the accused to show that he used all due diligence and took all reasonable precautions to avoid the commission of the offence.
+
+(6) A person other than a person to whom this Act applies is not guilty of an offence under this Act in respect of things done by him outside the United Kingdom, except—
+
+(a) an offence of aiding, abetting, counselling or procuring, conspiracy or indictment in relation to the commission of an offence under this Act in the United Kingdom; or
+
+(b) an offence under subsection (3) (liability of directors, officers, &c.) in connection with an offence committed by a body corporate which is a person to whom this Act applies.
+
+(7) Section 2 (person to whom this Act applies) shall not be construed as restricting the persons against whom proceedings for an offence may be brought.
+
+### 13 Minor definitions.
+
+(1) In this Act—
+
+- “dependent territory” means—
+
+(a) a colony, or
+
+(b) a country outside Her Majesty’s dominions in which Her Majesty has jurisdiction in right of Her Government in the United Kingdom;
+
+- “outer space” includes the moon and other celestial bodies; and
+- “space object” includes the component parts of a space object, its launch vehicle and the component parts of that.
+
+(2) For the purposes of this Act a person carries on an activity if he causes it to occur or is responsible for its continuing.
+
+### 14 Index of defined expressions.
+
+The following Table shows provisions defining or otherwise explaining expressions used in this Act (other than provisions defining or explaining an expression used in the same section):—
+
+|  |  |
+|---|---|
+| activities to which this Act applies | section 1 |
+| carrying on an activity | section 13(2) |
+| dependent territory | section 13(1) |
+| outer space | section 13(1) |
+| person to whom this Act applies | section 2 |
+| prescribed | section 11(1)(a) |
+| space object | section 13(1) |
+
+### 15 Short title, commencement and extent.
+
+(1) This Act may be cited as the Outer Space Act 1986.
+
+(2) [^F20]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3) [^F20]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(4) [^F20]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5) This Act extends to England and Wales, Scotland and Northern Ireland.
+
+(6) Her Majesty may by Order in Council direct that this Act shall apply, subject to such exceptions and modifications as may be specified in the Order, to the Channel Islands, the Isle of Man or any dependent territory.
+
+---
+
+[^F1]: S. 1 renumbered as s. 1(1) (29.7.2021 for specified purposes) by Space Industry Act 2018 (c. 5), ss. 1(3)(b), 70(1); S.I. 2021/817, reg. 2, Sch. para. 3 (with reg. 3) (as amended by S.I. 2021/874, regs. 1(2), 2(2))
+[^F2]: Words in s. 1 omitted (29.7.2021 for specified purposes) by virtue of Space Industry Act 2018 (c. 5), ss. 1(3)(a), 70(1); S.I. 2021/817, reg. 2, Sch. para. 3 (with reg. 3) (as amended by S.I. 2021/874, regs. 1(2), 2(2))
+[^F3]: S. 1(2) inserted (29.7.2021 for specified purposes) by Space Industry Act 2018 (c. 5), ss. 1(3)(b), 70(1) ; S.I. 2021/817, reg. 2, Sch. para. 3 (with reg. 3) (as amended by S.I. 2021/874, regs. 1(2), 2(2))
+[^M1]: 1981 c. 61.
+[^F4]: Words in s. 3(3) substituted (26.11.2018) by Space Industry Act 2018 (c. 5), s. 70(1), Sch. 12 para. 8(2); S.I. 2018/1224, reg. 2(ggg)(i)
+[^F5]: S. 3(3ZA) inserted (26.11.2018) by Space Industry Act 2018 (c. 5), s. 70(1), Sch. 12 para. 8(3); S.I. 2018/1224, reg. 2(ggg)(i)
+[^F6]: S. 3(3A) inserted (1.10.2015) by Deregulation Act 2015 (c. 20), ss. 12(2), 115(7); S.I. 2015/994, art. 11(f)
+[^F7]: S. 3(3A)(za)-(zd) inserted (26.11.2018) by Space Industry Act 2018 (c. 5), s. 70(1), Sch. 12 para. 8(4); S.I. 2018/1224, reg. 2(ggg)(i)
+[^F8]: Words in s. 3(4) substituted (26.11.2018) by Space Industry Act 2018 (c. 5), s. 70(1), Sch. 12 para. 8(5); S.I. 2018/1224, reg. 2(ggg)(i)
+[^F9]: S. 4A inserted (26.11.2018) by Space Industry Act 2018 (c. 5), s. 70(1), Sch. 12 para. 10; S.I. 2018/1224, reg. 2(ggg)(ii)
+[^F10]: S. 5(2)(ca) inserted (29.7.2021) by Space Industry Act 2018 (c. 5), s. 70(1), Sch. 12 para. 11(2); S.I. 2021/817, reg. 2, Sch. para. 117 (with reg. 3)
+[^F11]: S. 5(2)(da) inserted (29.7.2021) by Space Industry Act 2018 (c. 5), s. 70(1), Sch. 12 para. 11(3); S.I. 2021/817, reg. 2, Sch. para. 117 (with reg. 3)
+[^F12]: Word in s. 5(2)(e)(ii) inserted (29.7.2021) by Space Industry Act 2018 (c. 5), s. 70(1), Sch. 12 para. 11(4)(a); S.I. 2021/817, reg. 2, Sch. para. 117 (with reg. 3)
+[^F13]: S. 5(2)(e)(iii) omitted (29.7.2021) by virtue of Space Industry Act 2018 (c. 5), s. 70(1), Sch. 12 para. 11(4)(b); S.I. 2021/817, reg. 2, Sch. para. 117 (with reg. 3)
+[^F14]: S. 5(3) inserted (1.10.2015) by Deregulation Act 2015 (c. 20), ss. 12(3), 115(7); S.I. 2015/994, art. 11(f)
+[^F15]: Words in s. 6(1) omitted (29.7.2021) by virtue of Space Industry Act 2018 (c. 5), s. 70(1), Sch. 12 para. 12; S.I. 2021/817, reg. 2, Sch. para. 117 (with reg. 3)
+[^F16]: S. 6A inserted (29.7.2021) by Space Industry Act 2018 (c. 5), s. 70(1), Sch. 12 para. 13; S.I. 2021/817, reg. 2, Sch. para. 117 (with reg. 3)
+[^F17]: Words in s. 7(2) inserted (29.7.2021) by Space Industry Act 2018 (c. 5), s. 70(1), Sch. 12 para. 14(2); S.I. 2021/817, reg. 2, Sch. para. 117 (with reg. 3)
+[^F18]: S. 7(3) substituted (29.7.2021) by Space Industry Act 2018 (c. 5), s. 70(1), Sch. 12 para. 14(3); S.I. 2021/817, reg. 2, Sch. para. 117 (with reg. 3)
+[^M2]: 1868 c. 100.
+[^F19]: S. 10(1A) inserted (1.10.2015) by Deregulation Act 2015 (c. 20), ss. 12(4), 115(7); S.I. 2015/994, art. 11(f)
+[^F20]: S. 15(2)-(4) repealed (22.7.2004) by Statute Law (Repeals) Act 2004 (c. 14), Sch. 1 Pt. 4
